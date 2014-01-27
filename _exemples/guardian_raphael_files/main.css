@@ -1,0 +1,418 @@
+#rights-map {
+	height: 700px;
+}
+
+#marriage-map {
+	height: 460px;
+}
+
+#adoption-map {
+	height: 460px;
+}
+
+#housing-map {
+	height: 460px;
+}
+
+#employment-map {
+	height: 460px;
+}
+
+#crime-map {
+	height: 460px;
+}
+
+.sub-chart {
+	margin-top: 20px;
+	padding-top: 10px;
+	border-top: 2px solid #eee;
+}
+
+h2 {
+	font-family: Georgia;
+	font-weight: normal;
+	font-size: 28px;
+}
+
+.region-pullout {
+	height: 160px;
+	width: 940px;
+	margin-right: 10px;
+	float: left;
+
+}
+
+#population-toggle {
+	margin-top: 10px;
+}
+
+.regionHeader {
+	margin-top: 20px;
+	width: 188px;
+	float: left;
+	font-family: Georgia;
+	font-size: 12px;
+	text-align: center;
+}
+
+#overviewPopup {
+	width: 100%;
+	display: none;
+	margin-top: 10px;
+	border-top: 2px solid #eee;
+	padding-top: 10px;
+	float: left;
+}
+
+#overview-state-name {
+	margin-bottom: 5px;
+	width: 100%;
+
+	font-family: Georgia;
+	font-size: 20px;
+	color: #333333;
+	float: left;
+}
+
+#overview-state-population {
+	width: 100%;
+	font-family: Arial;
+	font-size: 12px;
+	color: #333333;
+	float: left;
+}
+
+.overview-topic-row {
+	width: 100%;
+	float: left;
+	margin-top: 5px;
+}
+
+
+
+
+.overview-topic-block {
+	height: 28px;
+	width: 30px;
+	float: left;
+
+	margin-right: 0px;
+	
+}
+
+.overview-info {
+	float: left;
+	width: 165px;
+	font-size: 11px;
+	font-family: Arial;
+	line-height: 11px;
+	padding-top: 5px;
+}
+
+.overview-topic {
+
+	font-weight: bold;
+	color: #333333;
+	display: inline;
+}
+
+.overview-topic-desc {
+	display: inline;
+	
+}
+
+.key-marriage {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px 0px;
+}
+
+.key-marriage-some {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -30px;
+}
+
+.key-marriage-ban {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -60px;
+}
+
+.key-union {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -90px;
+}
+
+.key-partnership {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -120px;
+}
+
+.key-ban {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -150px;
+}
+
+.key-none {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -180px;
+}
+
+.key-workplace-gender {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -210px;
+}
+
+.key-workplace-sex {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -240px;
+}
+
+.key-adoption-joint {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -300px;
+}
+
+.key-adoption-single {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -330px;
+}
+
+.key-adoption-single-ban {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -270px;
+}
+
+
+
+.key-housing-gender {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -360px;
+}
+
+.key-housing-sex {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -390px;
+}
+
+.key-hate-gender {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -420px;
+}
+
+.key-hate-sex {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -450px;
+}
+
+.key-hospital-visit-relationship {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -480px;
+}
+
+.key-hospital-visit-designee {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -510px;
+}
+
+.key-bullying-gender {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -540px;
+}
+
+.key-bullying-sex {
+	background-image: url('../img/popup-circles.gif');
+	background-position: -5px -570px;
+}
+
+
+
+
+
+
+
+
+#regionalPopup {
+	z-index: 10;
+	padding: 3px 8px 8px 8px;
+	background-color: white;
+	border: 1px solid #ccc;
+	position: absolute;
+	display: none;
+	width: 150px;
+}
+
+#gay-rights-container {
+	position: relative;
+}
+
+
+
+
+
+
+
+
+.regional-info {
+	float: left;
+	width: 150px;
+	font-size: 11px;
+	font-family: Arial;	
+}
+
+
+
+.regional-topic-block {
+	height: 28px;
+	width: 30px;
+	float: left;
+	margin-right: 0px;
+	
+}
+
+.regional-topic-desc {
+	float: left;
+	width: 120px;
+	line-height: 12px;
+	padding-top: 5px;
+}
+
+
+.key-container {
+	margin-left: 10px;
+	border-left: 1px solid #ccc;
+	padding-left: 10px;
+}
+
+.key-header {
+	display: block;
+	font-size: 14px;
+	font-family: Georgia;
+	font-weight: normal;
+	color: #333;
+}
+
+
+#fbk-logout {
+	font-size: 11px;
+}
+
+
+ul.inline-tabs {
+	list-style: none;
+	margin: 20px 0px 0px 0px;
+	font-weight: normal;
+}
+
+.inline-tabs li {
+	border-top: 1px solid #eee;
+	border-left: 1px solid #eee;
+	border-right: 1px solid #eee;
+	padding: 10px 15px 10px 10px;
+	cursor: pointer;
+	background-color: #fff;
+	color: #000;
+	 width: 210px;
+	
+}
+
+.inline-tabs li.last {
+	border-bottom: 1px solid #eee;
+
+}
+
+.btn-label {
+	color: #165085;
+}
+
+.btn-label-fbk {
+	background: url('../img/f_logo.jpg') 0px 0px no-repeat;
+	padding-left: 20px;
+	
+}
+
+
+
+
+.inline-tabs li.active {
+	background:#165085 url('../img/arrow-bg.gif') no-repeat top right;
+	color: #fff;
+	width: 220px;
+	border-color: #fff;
+}
+
+.inline-tabs li.active .btn-label {
+	color: #fff;
+}
+
+
+.inline-tabs li.active #whats-this {
+	background-position: -15px 0px;
+
+}
+
+#share-facebook{
+	margin: 10px;
+	color: #165085;
+	cursor: pointer;
+}
+
+#facebook-status, #share-status {
+	font-size: 11px;
+	color: #666;
+	margin: 10px;
+
+}
+
+#whats-this {
+	width: 15px;
+	height: 15px;
+	background: url('../img/question-mark.png') 0px 0px no-repeat;
+	float: right;
+}
+
+#whats-this-box {
+	z-index: 4;
+	padding: 3px 8px 8px 8px;
+	background-color: white;
+	border: 1px solid #ccc;
+	position: absolute;
+	display: none;
+	width: 150px;
+	font-size: 11px;
+}
+
+#overview-key {
+	top: 230px;
+	left: 230px;
+	width: 250px;
+
+	position: absolute;
+}
+
+#regionalStateName {
+	font-family: Georgia;
+	font-size: 16px;
+	padding-bottom: 5px;
+}
+
+#browser-notice {
+	background-color: #eee;
+	font-family: Georgia;
+	font-size: 12px;
+	margin-bottom: 15px;
+	padding: 5px 0;
+	text-align: center;
+	display: none;
+}
+
+.notes {
+	font-size: 10px;
+	line-height: 10px;
+}
+
+#loader-text {
+	text-align: center;
+	font-weight: bold;
+}
+
+
+
