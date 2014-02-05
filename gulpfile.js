@@ -12,7 +12,6 @@ var server = require('tiny-lr')();
 var livereload = require('gulp-livereload');
 var watch = require('gulp-watch');
 
-
 gulp.task('lint', function() {
 	gulp.src('./app/app/app.js')
 		.pipe(jshint())
@@ -26,7 +25,7 @@ gulp.task('clean', function() {
 		.pipe(clean());
 });
 
-gulp.task('browserify', ['listen'], function() {
+gulp.task('browserify', function() {
 	gulp.src(['./app/app/*.js'])
 		.pipe(watch())
 		.pipe(browserify({
@@ -60,20 +59,11 @@ gulp.task('imagemin', function() {
 gulp.task('minify-js', function() {
 	gulp.src('./app/js/*.js')
 		.pipe(uglify({
-			// inSourceMap: 
+			// inSourceMap:
 			// outSourceMap: "app.js.map"
 		}))
 		.pipe(gulp.dest('./app/js'))
 		.pipe(livereload(server));
 });
 
-gulp.task('default', ['clean', 'listen', 'browserify']);
-
-gulp.task('listen', function(next) {
-	server.listen(35729, function(err) {
-		if (err) return console.error(err);
-		next();
-	});
-});
-
-gulp.task('dev', ['listen', 'browserify']);
+gulp.task('default', ['clean', 'browserify']);
