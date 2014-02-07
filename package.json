@@ -1,30 +1,21 @@
 {
-  "name": "sample-server",
-  "version": "0.0.1",
-  "dependencies": {
-    "handlebars": "1.3.x",
-    "browserify": "~3.24.11",
-    "gulp": "~3.5.1",
-    "bower": "1.2.x",
-    "gulp-util": "~2.2.9",
-    "gulp-jshint": "~1.3.4",
-    "gulp-uglify": "~0.1.0",
-    "gulp-minify-html": "~0.1.0",
-    "gulp-minify-css": "~0.1.0",
-    "gulp-browserify": "~0.2.7",
-    "gulp-concat": "~2.1.7",
-    "gulp-imagemin": "~0.1.4",
-    "gulp-clean": "~0.2.2",
-    "raphael-browserify": "~2.1.0",
-    "gulp-livereload": "~0.3.2",
-    "tiny-lr": "0.0.5",
-    "gulp-watch": "~0.5.0"
-  },
-  "devDependencies": {},
-  "engines": {
-    "node": "0.10.x"
-  },
-  "scripts": {
-    "start": "node app.js"
-  }
+    "name": "StarterSquad_AngularJS_RequireJS_Seed",
+    "description": "Neat combination of Angular & Require intended for bulding complex frontend applications",
+    "repository": "git@github.com:StarterSquad/angularjs-requirejs-seed.git",
+    "version": "0.0.3",
+    "devDependencies": {
+        "amdefine": "latest",
+        "event-stream": "latest",
+        "gulp": "latest",
+        "gulp-autoprefixer": "latest",
+        "gulp-csso": "latest",
+        "gulp-livereload": "latest",
+        "gulp-replace": "latest",
+        "gulp-requirejs": "latest",
+        "gulp-ruby-sass": "latest",
+        "gulp-uglify": "latest",
+        "gulp-util": "latest",
+        "tiny-lr": "latest",
+        "underscore": "latest"
+    }
 }

@@ -1,69 +1,134 @@
+var _ = require('underscore');
+var autoprefix = require('gulp-autoprefixer');
+var csso = require('gulp-csso');
+var es = require('event-stream');
 var gulp = require('gulp');
-var gutil = require('gulp-util');
-var jshint = require('gulp-jshint');
-var uglify = require('gulp-uglify');
-var minifyHTML = require('gulp-minify-html');
-var minifyCSS = require('gulp-minify-css');
-var imagemin = require('gulp-imagemin');
-var browserify = require('gulp-browserify');
-var concat = require('gulp-concat');
-var clean = require('gulp-clean');
-var server = require('tiny-lr')();
 var livereload = require('gulp-livereload');
-var watch = require('gulp-watch');
+var lr = require('tiny-lr');
+var replace = require('gulp-replace');
+var rjs = require('gulp-requirejs');
+var sass = require('gulp-ruby-sass');
+var spawn = require('child_process').spawn;
+var uglify = require('gulp-uglify');
 
-gulp.task('lint', function() {
-	gulp.src('./app/app/app.js')
-		.pipe(jshint())
-		.pipe(jshint.reporter('default'));
+var server = lr();
+
+// Bump version
+gulp.task('bump-version', function() {
+  spawn('git', ['rev-parse', '--abbrev-ref', 'HEAD']).stdout.on('data', function(data) {
+
+    // Get current branch name
+    var branch = data.toString();
+
+    // Verify we're on a release branch
+    if (/^release\/.*/.test(branch)) {
+      var newVersion = branch.split('/')[1].trim();
+
+      // Update client index.html
+      gulp.src('./source/index.html')
+        .pipe(replace(/(bust=v)(\d*\.?)*/g, '$1' + newVersion))
+        .pipe(gulp.dest('./source'));
+
+      var updateJson = function(file) {
+        gulp.src(file)
+          .pipe(replace(/("version" *: *")([^"]*)(",)/g, '$1' + newVersion + '$3'))
+          .pipe(gulp.dest('./'));
+      };
+
+      updateJson('./bower.json');
+      updateJson('./package.json');
+
+      console.log('Successfully bumped to ' + newVersion);
+    } else {
+      console.error('This task should be executed on a release branch!');
+    }
+  });
 });
 
-gulp.task('clean', function() {
-	gulp.src('./app/js/app.js', {
-		read: false
-	})
-		.pipe(clean());
+// Copy
+gulp.task('copy', ['sass'], function() {
+  return es.concat(
+    // update index.html to work when built
+    gulp.src(['source/index.html'])
+    .pipe(replace("require(['./js/main.js'])", "require(['./js/main.js'], function () { require(['main']); })"))
+    .pipe(gulp.dest('build')),
+    // copy config-require
+    gulp.src(['source/js/config-require.js'])
+    .pipe(uglify())
+    .pipe(gulp.dest('build/js')),
+    // copy vendor files
+    gulp.src(['source/vendor/**/*'])
+    .pipe(gulp.dest('build/vendor')),
+    // copy assets
+    gulp.src(['source/assets/**/*'])
+    .pipe(gulp.dest('build/assets')),
+    // minify requirejs
+    gulp.src(['build/vendor/requirejs/require.js'])
+    .pipe(uglify())
+    .pipe(gulp.dest('build/vendor/requirejs')),
+    // minify domReady
+    gulp.src(['build/vendor/requirejs-domready/domReady.js'])
+    .pipe(uglify())
+    .pipe(gulp.dest('build/vendor/requirejs-domready'))
+  );
 });
 
-gulp.task('browserify', function() {
-	gulp.src(['./app/app/*.js'])
-		.pipe(watch())
-		.pipe(browserify({
-			insertGlobals: true,
-			debug: true
-		}))
-		.pipe(concat('app.js'))
-		.pipe(gulp.dest('./app/js'))
-		.pipe(livereload(server));
+// JavaScript
+gulp.task('js', function() {
+  var configRequire = require('./source/js/config-require.js');
+  var configBuild = {
+    baseUrl: 'source/js',
+    name: 'main',
+    optimize: 'none',
+    out: 'main.js',
+    wrap: true
+  };
+  var config = _(configBuild).extend(configRequire);
+
+  return rjs(config)
+    .pipe(uglify())
+    .pipe(gulp.dest('./build/js/'))
+    .pipe(livereload(server));
 });
 
-gulp.task('minify-css', function() {
-	gulp.src('./static/css/*.css')
-		.pipe(minifyCSS(opts))
-		.pipe(gulp.dest('./dist/'))
+// Sass
+gulp.task('sass', function() {
+  return gulp.src(['source/sass/*.scss', '!source/sass/_*.scss'])
+    .pipe(sass({
+      bundleExec: true,
+      require: [
+        './source/sass/sass_extensions.rb',
+        'sass-globbing'
+      ]
+    }))
+    .pipe(autoprefix())
+    .pipe(csso())
+    .pipe(gulp.dest('source/assets/css'))
+    .pipe(livereload(server));
 });
 
-gulp.task('minify-html', function() {
-	gulp.src('./static/html/*.html')
-		.pipe(minifyHTML(opts))
-		.pipe(gulp.dest('./dist/'))
+// Watch
+gulp.task('watch', function() {
+  gulp.run('sass');
+  gulp.run('karma');
+
+  gulp.watch('source/sass/**/*.scss', function() {
+    gulp.run('sass');
+  });
+
+  // enable Livereload
+  server.listen(35729, function(err) {
+    if (err) {
+      return console.log(err);
+    }
+
+    gulp.watch([
+      'source/assets/*.css',
+      'source/index.html',
+      'source/js/**/*',
+      '!source/js/**/*.spec.js'
+    ]);
+  });
 });
 
-gulp.task('imagemin', function() {
-	gulp.src('src/image.png')
-		.pipe(imagemin())
-		.pipe(gulp.dest('dist'));
-});
-
-//TODO add support for source maps
-gulp.task('minify-js', function() {
-	gulp.src('./app/js/*.js')
-		.pipe(uglify({
-			// inSourceMap:
-			// outSourceMap: "app.js.map"
-		}))
-		.pipe(gulp.dest('./app/js'))
-		.pipe(livereload(server));
-});
-
-gulp.task('default', ['clean', 'browserify']);
+gulp.task('default', ['js', 'copy']);
