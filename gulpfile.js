@@ -2,14 +2,13 @@ var _ = require('underscore');
 var autoprefix = require('gulp-autoprefixer');
 var csso = require('gulp-csso');
 var es = require('event-stream');
+var bower = require('gulp-bower');
 var gulp = require('gulp');
 var replace = require('gulp-replace');
 var rjs = require('gulp-requirejs');
 var sass = require('gulp-ruby-sass');
 var spawn = require('child_process').spawn;
 var uglify = require('gulp-uglify');
-
-var server = lr();
 
 // Bump version
 gulp.task('bump-version', function() {
@@ -71,8 +70,13 @@ gulp.task('copy', ['sass'], function() {
   );
 });
 
+gulp.task('bower', function() {
+  bower()
+    .pipe(gulp.dest('source/vendor/'));
+});
+
 // JavaScript
-gulp.task('js', function() {
+gulp.task('js', ['bower'], function() {
   var configRequire = require('./source/js/config-require.js');
   var configBuild = {
     baseUrl: 'source/js',
@@ -85,8 +89,7 @@ gulp.task('js', function() {
 
   return rjs(config)
     .pipe(uglify())
-    .pipe(gulp.dest('./build/js/'))
-    .pipe(livereload(server));
+    .pipe(gulp.dest('./build/js/'));
 });
 
 // Sass
@@ -102,31 +105,16 @@ gulp.task('sass', function() {
     .pipe(autoprefix())
     .pipe(csso())
     .pipe(gulp.dest('source/assets/css'))
-    .pipe(livereload(server));
 });
 
 // Watch
 gulp.task('watch', function() {
   gulp.run('sass');
-  gulp.run('karma');
 
   gulp.watch('source/sass/**/*.scss', function() {
     gulp.run('sass');
   });
 
-  // enable Livereload
-  server.listen(35729, function(err) {
-    if (err) {
-      return console.log(err);
-    }
-
-    gulp.watch([
-      'source/assets/*.css',
-      'source/index.html',
-      'source/js/**/*',
-      '!source/js/**/*.spec.js'
-    ]);
-  });
 });
 
 gulp.task('default', ['js', 'copy']);

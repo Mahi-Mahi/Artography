@@ -8,6 +8,7 @@
         "event-stream": "latest",
         "gulp": "latest",
         "gulp-autoprefixer": "latest",
+        "gulp-bower": "latest",
         "gulp-csso": "latest",
         "gulp-replace": "latest",
         "gulp-requirejs": "latest",
