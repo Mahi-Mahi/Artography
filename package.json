@@ -1,21 +1,12 @@
 {
-    "name": "StarterSquad_AngularJS_RequireJS_Seed",
-    "description": "Neat combination of Angular & Require intended for bulding complex frontend applications",
-    "repository": "git@github.com:StarterSquad/angularjs-requirejs-seed.git",
-    "version": "0.0.3",
-    "devDependencies": {
-        "amdefine": "latest",
-        "event-stream": "latest",
-        "gulp": "latest",
-        "gulp-autoprefixer": "latest",
-        "gulp-csso": "latest",
-        "gulp-livereload": "latest",
-        "gulp-replace": "latest",
-        "gulp-requirejs": "latest",
-        "gulp-ruby-sass": "latest",
-        "gulp-uglify": "latest",
-        "gulp-util": "latest",
-        "tiny-lr": "latest",
-        "underscore": "latest"
-    }
+  "name": "angularjs-seed",
+  "description": "A starter project for AngularJS",
+  "repository": "https://github.com/angular/angular-seed",
+  "devDependencies": {
+    "phantomjs" : "~1.9",
+    "karma" : "~0.10",
+    "karma-junit-reporter" : "~0.1",
+    "karma-jasmine" : "~0.1",
+    "protractor" : "~0.17.0"
+  }
 }

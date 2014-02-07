@@ -1,98 +1,145 @@
-Angularjs Requirejs Seed
-========================
+# angular-seed — the seed for AngularJS apps
 
-Installation
-------------
+This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
+You can use it to quickly bootstrap your angular webapp projects and dev environment for these
+projects.
 
-    # Get NPM dependencies:
-    npm install
+The seed contains AngularJS libraries, test libraries and a bunch of scripts all preconfigured for
+instant web development gratification. Just clone the repo (or download the zip/tarball), start up
+our (or yours) webserver and you are ready to develop and test your application.
 
-    # Install global NPM dependencies:
-    npm -g install bower
-    npm -g install gulp
-    npm -g install karma
+The seed app doesn't do much, just shows how to wire two controllers and views together. You can
+check it out by opening app/index.html in your browser (might not work file `file://` scheme in
+certain browsers, see note below).
 
-    # Also to be able to run tests from CLI
-    # without browser window popping consider
-    # to install PhantomJS:
-    # http://phantomjs.org/download.html
+_Note: While angular is client-side-only technology and it's possible to create angular webapps that
+don't require a backend server at all, we recommend hosting the project files using a local
+webserver during development to avoid issues with security restrictions (sandbox) in browsers. The
+sandbox implementation varies between browsers, but quite often prevents things like cookies, xhr,
+etc to function properly when an html page is opened via `file://` scheme instead of `http://`._
 
-    # Get Ruby dependencies required to compile styles from Sass:
-    bundle install
 
-[Gulp](http://gulpjs.com/) flows
-----------
+## How to use angular-seed
 
-To make development faster and more automated there are several Gulp tasks available:
+Clone the angular-seed repository and start hacking...
 
-* `gulp`
 
-  Builds project into `build` directory. Under the hood compiles and compresses Sass/CSS, compiles scripts
-  with ([RequireJs](http://requirejs.org/)) and [uglifies](http://lisperator.net/uglifyjs/) it.
+### Running the app during development
 
-* `gulp bump-version`
+You can pick one of these options:
 
-  Works with gitglow releases.
-  E.g. when you’re on `release/0.4.4` branch it will update cache beaters to follow version.
+* serve this repository with your webserver
+* install node.js and run `scripts/web-server.js`
 
-* `gulp karma`
+Then navigate your browser to `http://localhost:<port>/app/index.html` to see the app running in
+your browser.
 
-  Starts Karma server watching scripts updates.
 
-* `gulp karma-ci`
+### Running the app in production
 
-  Runs tests against the build (which should be run first) and quits, is good to use in CI scenarios.
+This really depends on how complex is your app and the overall infrastructure of your system, but
+the general rule is that all you need in production are all the files under the `app/` directory.
+Everything else should be omitted.
 
-* `gulp protractor`
+Angular apps are really just a bunch of static html, css and js files that just need to be hosted
+somewhere, where they can be accessed by browsers.
 
-  Runs E2E tests against source files.
+If your Angular app is talking to the backend server via xhr or other means, you need to figure
+out what is the best way to host the static files to comply with the same origin policy if
+applicable. Usually this is done by hosting the files by the backend server or through
+reverse-proxying the backend server(s) and a webserver(s).
 
-* `gulp protractor-ci`
 
-  Runs E2E tests against the build.
+### Running unit tests
 
-* `gulp sass`
+We recommend using [jasmine](http://pivotal.github.com/jasmine/) and
+[Karma](http://karma-runner.github.io) for your unit tests/specs, but you are free
+to use whatever works for you.
 
-  Compiles Sass project, feeds output to [Autoprefixer](https://github.com/ai/autoprefixer) and minifies it via
-  [CSSO](https://github.com/css/csso).
+Requires [node.js](http://nodejs.org/), Karma (`sudo npm install -g karma`) and a local
+or remote browser.
 
-* `gulp watch`
+* start `scripts/test.sh` (on windows: `scripts\test.bat`)
+  * a browser will start and connect to the Karma server (Chrome is default browser, others can be captured by loading the same url as the one in Chrome or by changing the `config/karma.conf.js` file)
+* to run or re-run tests just change any of your source or test javascript files
 
-  Listens to changes to stylesheets and scripts and reloads browser page during development.
 
-Vendor update
--------------
+### End to end testing
 
-* `bower install`
+We recommend using [protractor](https://github.com/angular/protractor) for end-to-end tests. It
+uses native events and has special features for Angular applications.
 
-  To update all the dependencies to the latest compatible versions.
+Requires a webserver, node.js + `./scripts/web-server.js` or your backend server that hosts the angular static files.
 
-## Tests
+* create your end-to-end tests in `test/e2e/scenarios.js`
+* serve your project directory with your http/backend server or node.js + `scripts/web-server.js`
+* to run:
+  * run the tests from console with [Protractor](https://github.com/angular/protractor) via
+    `scripts/e2e-test.sh` (on windows: `scripts\e2e-test.bat`)
 
-Tests use Jasmin for assertions.
+### Continuous Integration
 
-### E2E Tests
+CloudBees have provided a CI/deployment setup:
 
-[Protractor](https://github.com/angular/protractor) is used to provide way to do E2E tests. To install go to `client`
-directory and run:
+<a href="https://grandcentral.cloudbees.com/?CB_clickstart=https://raw.github.com/CloudBees-community/angular-js-clickstart/master/clickstart.json"><img src="https://d3ko533tu1ozfq.cloudfront.net/clickstart/deployInstantly.png"/></a>
 
-    npm install -g protractor
+If you run this, you will get a cloned version of this repo to start working on in a private git repo, 
+along with a CI service (in Jenkins) hosted that will run unit and end to end tests in both Firefox and Chrome.
 
-    // This installs Selenium standalone
-    // server and Chrome driver:
-    webdriver-manager update
+### Receiving updates from upstream
 
-    // Start the server with:
-    gulp webdriver
+When we upgrade angular-seed's repo with newer angular or testing library code, you can just
+fetch the changes and merge them into your project with git.
 
-    // To test source:
-    gulp protractor
 
-Check `p.conf` and `p-compiled.conf` for Protractor settings.
+## Directory Layout
 
-Checkout [Protractor docs](https://github.com/angular/protractor/blob/master/docs/) for more information.
+    app/                --> all of the files to be used in production
+      css/              --> css files
+        app.css         --> default stylesheet
+      img/              --> image files
+      index.html        --> app layout file (the main html template file of the app)
+      index-async.html  --> just like index.html, but loads js files asynchronously
+      js/               --> javascript files
+        app.js          --> application
+        controllers.js  --> application controllers
+        directives.js   --> application directives
+        filters.js      --> custom angular filters
+        services.js     --> custom angular services
+      lib/              --> angular and 3rd party javascript libraries
+        angular/
+          angular.js        --> the latest angular js
+          angular.min.js    --> the latest minified angular js
+          angular-*.js      --> angular add-on modules
+          version.txt       --> version number
+      partials/             --> angular view partials (partial html templates)
+        partial1.html
+        partial2.html
 
-## Future Releases
+    config/karma.conf.js        --> config file for running unit tests with Karma
+    config/protractor-conf.js    --> config file for running e2e tests with Protractor
 
-You can checkout planned new features on the [Trello Board](https://trello.com/b/XXevXg3l/angular-require-seed).
-Also feel free to create feature requests on github issues.
+    scripts/            --> handy shell/js/ruby scripts
+      e2e-test.sh       --> runs end-to-end tests with Karma (*nix)
+      e2e-test.bat      --> runs end-to-end tests with Karma (windows)
+      test.bat          --> autotests unit tests with Karma (windows)
+      test.sh           --> autotests unit tests with Karma (*nix)
+      web-server.js     --> simple development webserver based on node.js
+
+    test/               --> test source files and libraries
+      e2e/              -->
+        scenarios.js    --> end-to-end specs
+      lib/
+        angular/                --> angular testing libraries
+          angular-mocks.js      --> mocks that replace certain angular services in tests
+          angular-scenario.js   --> angular's scenario (end-to-end) test runner library
+          version.txt           --> version file
+      unit/                     --> unit level specs/tests
+        controllersSpec.js      --> specs for controllers
+        directivessSpec.js      --> specs for directives
+        filtersSpec.js          --> specs for filters
+        servicesSpec.js         --> specs for services
+
+## Contact
+
+For more information on AngularJS please check out http://angularjs.org/
