@@ -11,6 +11,7 @@ define([
 	'use strict';
 
 	return ng.module('app', [
+		'ngRoute',
 		'app.constants',
 		'app.home',
 		'app.artists'
