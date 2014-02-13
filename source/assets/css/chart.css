@@ -1,0 +1,7 @@
+#canvas {
+	margin: 0 auto;
+	width: 600px;
+}
+svg {
+	border: 1px red solid;
+}

@@ -22,14 +22,18 @@ define(['./app', './config'], function(app) {
 
 			$routeProvider.when('/artistes', {
 				templateUrl: '/js/modules/artists/artists.html',
-				controller: 'ArtistsController'
+				controller: 'ArtistsController',
+				resolve: {
+					datasets: function(dataService) {
+						return dataService.init();
+					}
+				}
 			});
 
 			$routeProvider.otherwise({
 				redirectTo: '/'
 			});
 
-			//$locationProvider.html5Mode(true);
 		}
 	]);
 });

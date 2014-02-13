@@ -5,7 +5,7 @@
  * below, you can see we bring in our services and constants modules
  * which avails each controller of, for example, the `config` constants object.
  **/
-define(['angular', '../../config'], function(ng) {
+define(['angular', '../../config', 'raphael'], function(ng) {
 	'use strict';
-	return ng.module('app.artists', ['app.constants']);
+	return ng.module('app.artists', ['app.constants', 'app.dataService']);
 });

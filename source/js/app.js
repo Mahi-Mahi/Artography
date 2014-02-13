@@ -5,6 +5,7 @@
 define([
 	'angular',
 	'./config',
+	'./modules/data/index',
 	'./modules/home/index',
 	'./modules/artists/index'
 ], function(ng) {
@@ -13,6 +14,7 @@ define([
 	return ng.module('app', [
 		'ngRoute',
 		'app.constants',
+		'app.dataService',
 		'app.home',
 		'app.artists'
 	]);

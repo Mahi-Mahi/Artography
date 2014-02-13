@@ -1,0 +1,348 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="en">
+<head>
+	<link rel="stylesheet" type="text/css" href="./bootstrap.css" />
+	<link rel="stylesheet" type="text/css" href="./main.css" />
+	<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js' type="text/javascript"></script>
+	<script src='jquery.tmpl.min.js' type="text/javascript"></script>
+	<script src='tabletop.js' type="text/javascript"></script>
+	<script src='raphael-min.js' type="text/javascript"></script>
+	<script src='bootstrap-dropdown.js' type="text/javascript"></script>
+	<script src="jquery-postmessage.js"></script>
+	<script src='main.js' type="text/javascript"></script>
+
+	<script id="overviewTemplate" type="text/x-jquery-tmpl">
+		<div id="overview-state-name">${state}</div>
+		<div id="overview-state-population">${pop}</div>
+			<div class="overview-topic-row">
+				<div class="overview-topic-block ${marriage}"></div>
+				<div class="overview-info">
+					<div class="overview-topic">Marriage: </div>
+					<div class="overview-topic-desc">${marriagetext}</div>
+				</div>
+			</div>
+
+			<div class="overview-topic-row">
+				<div class="overview-topic-block ${hospital}"></div>
+				<div class="overview-info">
+					<div class="overview-topic">Hospital visitation: </div>
+					<div class="overview-topic-desc">${hospitaltext}</div>
+				</div>
+			</div>
+
+			<div class="overview-topic-row">
+				<div class="overview-topic-block ${adoption}"></div>
+				<div class="overview-info">
+					<div class="overview-topic">Adoption: </div>
+					<div class="overview-topic-desc">${adoptiontext}</div>
+				</div>
+			</div>
+
+			<div class="overview-topic-row">
+				<div class="overview-topic-block ${employment}"></div>
+				<div class="overview-info">
+					<div class="overview-topic">Employment: </div>
+					<div class="overview-topic-desc">${employmenttext}</div>
+				</div>
+			</div>
+			<div class="overview-topic-row">
+				<div class="overview-topic-block ${housing}"></div>
+				<div class="overview-info">
+					<div class="overview-topic">Housing: </div>
+					<div class="overview-topic-desc">${housingtext}</div>
+				</div>
+			</div>
+			<div class="overview-topic-row">
+				<div class="overview-topic-block ${crimes}"></div>
+				<div class="overview-info">
+					<div class="overview-topic">Hate crimes: </div>
+					<div class="overview-topic-desc">${crimestext}</div>
+				</div>
+			</div>
+			<div class="overview-topic-row">
+				<div class="overview-topic-block ${bullying}"></div>
+				<div class="overview-info">
+					<div class="overview-topic">Schools: </div>
+					<div class="overview-topic-desc">${bullyingtext}</div>
+				</div>
+			</div>
+
+	</script>
+
+	<script id="popupTemplate" type="text/x-jquery-tmpl">
+		<div class="regional-info">
+			<div class="regional-topic-block ${style}"></div>
+			<div class="regional-topic-desc">${text}</div>
+		</div>
+
+	</script>
+
+</head>
+<body style="margin: 0; padding: 0px;">
+<div id='whats-this-box'>
+	<img src='img/carrot.png' style='position: absolute; bottom: 5px; left: -10px;' />
+	This application accesses the location of you and your friends. This information is not stored by The Guardian. When you log out or leave this page, the data is forgotten.
+</div>
+<div class="container" id="gay-rights-container">
+	<div class="span12" id='browser-notice'>
+		This interactive is optimized for Firefox, Chrome and Safari. You may experience slowness if you are using Internet Explorer.
+	</div>
+
+	<div class="span12" id='overview-section'>
+
+
+		<div class="row">
+
+
+			<div class="span3">
+				<!-- <h2>Gay rights in the US, state by state</h2> -->
+
+
+
+
+
+				<ul class="inline-tabs">
+					<li class="active" id="regions"><span class='btn-label'>Scale states equally</span></li>
+					<li id="population"><span class='btn-label'>Scale states by population</span></li>
+					<li class="last" id="friends"><div class='btn-label btn-label-fbk'>Where your friends live</div><span style="font-size: 11px; line-height: 14px; margin-top: 10px; display: block;">Connect to Facebook to see the rights of states where your friends live. Your information will not be saved. <div id='whats-this'></div></span>	</li>
+				</ul>
+
+
+				 <div id='share-facebook' class = "btn-label-fbk">Share your state on Facebook</div>
+				<div id='share-status'></div>
+
+				<div id='facebook-status'></div>
+				<div id='overviewPopup'></div>
+
+
+				<!-- <div class="btn-group">
+							  <a class="btn btn-large dropdown-toggle"  data-toggle="dropdown" href="#">New Hampshire <span class="caret"></span></a>
+
+							  <ul class="dropdown-menu">
+							    <li><a href="#">Missippi</a></li>
+								<li><a href="#">Missippi</a></li>
+								<li><a href="#">Missippi</a></li>
+								<li><a href="#">Missippi</a></li>
+								<li><a href="#">Missippi</a></li>
+								<li><a href="#">Missippi</a></li>
+								<li><a href="#">Missippi</a></li>
+
+							  </ul>
+							</div> -->
+
+
+
+			</div>
+
+			<div class="span9" style="position: relative;">
+
+				<div id='overview-key'>
+
+					<img src='img/rights-key1.gif' />
+					<h3 style="font-size: 18px; line-height: 18px; font-family: georgia; font-weight: normal; margin-bottom: 10px; text-align: center; margin-top: 10px;">Gay rights by type</h3><div id='loader-text'>Loading interactive...</div>
+				</div>
+				<div id="rights-map"></div>
+
+			</div>
+		</div>
+	</div>
+
+
+	<div class="span12 sub-chart" id='marriage-section'>
+		<div class="row">
+			<div class="span8">
+				<h2>Marriage</h2>
+				<p>Same-sex marriage or limited alternative is legally recognized in only a few states. The majority of the states have legally defined marriage to be between a man and a woman or amended the state constitution to ban same-sex marriage. Below are the rights legally extended within the given state.</p>
+			</div>
+			<div class="span4">
+				<div class='key-container'>
+					<div class="key-header">Laws defining same-sex marriage</div>
+					<img style="margin-top: 5px;" src="img/marriage-key.gif">
+				</div>
+			</div>
+			<div class="span12">
+				<div class='regionHeader'>Southeast</div>
+				<div class='regionHeader'>Northeast</div>
+				<div class='regionHeader'>Midwest</div>
+				<div class='regionHeader'>Northwest</div>
+				<div class='regionHeader'>Southwest</div>
+			</div>
+		</div>
+
+		<div class="region-pullout" id="margiage"></div>
+		<div class="notes">Notes: In 2012, Maine, Maryland and Washington were the first states to approve same-sex marriage by popular vote. California currently <br>does not offer marriage to same-sex couples due to prop 8 litigation. Colorado affords same-sex couples to register as designated beneficiaries.</div>
+	</div>
+
+	<div class="span12 sub-chart" id='hospital-visitation-section'>
+		<div class="row">
+			<div class="span8">
+				<h2>Hospital visitation</h2>
+				<p>Federal regulations enacted in 2011 allow patients in hospitals receiving Medicare and Medicaid funding to decide who has visitation rights or can make decisions on their behalf regardless of sexual orientation or gender identity. Visitation regulations at the state-level, below, are typically afforded as the result of a state's recognition of same-sex partners.</p>
+			</div>
+			<div class="span4" >
+				<div class='key-container'>
+					<div class="key-header">Defined visitation rights</div>
+					<img style="margin-top: 5px;" src="img/hospital-key.gif">
+				</div>
+			</div>
+			<div class="span12">
+				<div class='regionHeader'>Southeast</div>
+				<div class='regionHeader'>Northeast</div>
+				<div class='regionHeader'>Midwest</div>
+				<div class='regionHeader'>Northwest</div>
+				<div class='regionHeader'>Southwest</div>
+			</div>
+		</div>
+		<div class="region-pullout" id="hospital"></div>
+	</div>
+
+
+	<div class="span12 sub-chart" id='adoption-section'>
+			<div class="row">
+				<div class="span8">
+				<h2>Adoption</h2>
+				<p>Laws regarding adoption vary widely by state and are often unclear. All US states allow a single individual the right to petition to adopt a child, though less than half allow a same-sex couple to petition for joint adoption.</p>
+			</div>
+			<div class="span4" >
+				<div class='key-container'>
+					<div class="key-header">Laws allowing adoption</div>
+					<img style="margin-top: 5px;" src="img/adoption-key.gif">
+				</div>
+			</div>
+			<div class="span12">
+				<div class='regionHeader'>Southeast</div>
+				<div class='regionHeader'>Northeast</div>
+				<div class='regionHeader'>Midwest</div>
+				<div class='regionHeader'>Northwest</div>
+				<div class='regionHeader'>Southwest</div>
+			</div>
+		</div>
+		<div class="region-pullout" id="adoption"></div>
+		<div class="notes">Note: Only shows statewide joint adoption and not states with some jurisdictions offering joint adoption.</div>
+
+	</div>
+
+	<div class="span12 sub-chart" id='employment-section'>
+		<div class="row">
+			<div class="span8">
+				<h2>Employment</h2>
+				<p>Anti-discrimination employment laws vary widely by state depending on the inclusion of sexual orientation or gender identity, and whether the law protects those working in the public or private sector. Below are the anti-discrimination laws that protect all workers.</p>
+			</div>
+			<div class="span4" >
+				<div class='key-container'>
+					<div class="key-header">Anti-discrimination employment laws</div>
+					<img style="margin-top: 5px;" src="img/employment-key.gif">
+				</div>
+			</div>
+			<div class="span12">
+				<div class='regionHeader'>Southeast</div>
+				<div class='regionHeader'>Northeast</div>
+				<div class='regionHeader'>Midwest</div>
+				<div class='regionHeader'>Northwest</div>
+				<div class='regionHeader'>Southwest</div>
+			</div>
+		</div>
+
+		<div class="region-pullout" id="employment"></div>
+	</div>
+
+	<div class="span12 sub-chart" id='housing-section'>
+		<div class="row">
+			<div class="span8">
+				<h2>Housing</h2>
+				<p>Federal regulations from the Department of Housing and Urban Development require housing programs receiving federal funding to prohibit discrimination based on sexual orientation and gender identity. Less than half of the states have defined anti-discrimination measures for either sexual orientation or gender.</p>
+			</div>
+			<div class="span4" >
+				<div class='key-container'>
+					<div class="key-header">Anti-discrimination housing laws</div>
+					<img style="margin-top: 5px;" src="img/housing-key.gif">
+				</div>
+			</div>
+			<div class="span12">
+				<div class='regionHeader'>Southeast</div>
+				<div class='regionHeader'>Northeast</div>
+				<div class='regionHeader'>Midwest</div>
+				<div class='regionHeader'>Northwest</div>
+				<div class='regionHeader'>Southwest</div>
+			</div>
+		</div>
+		<div class="region-pullout" id="housing"></div>
+	</div>
+
+	<div class="span12 sub-chart" id='hate-crimes-section'>
+		<div class="row">
+			<div class="span8">
+				<h2>Hate crimes</h2>
+				<p>Federal hate crime laws extend protection for crimes related to one's sexual orientation or gender identity. At the state level, more than ten states have hate crime laws that lack the inclusion of gender identity or sexual orientation. Of the others, over 30 states include sexual orientation in their hate crime laws with just under half also including gender identity.</p>
+			</div>
+			<div class="span4" >
+				<div class='key-container'>
+					<div class="key-header">Hate crime definition</div>
+					<img style="margin-top: 5px;" src="img/hate-key.gif">
+				</div>
+			</div>
+			<div class="span12">
+				<div class='regionHeader'>Southeast</div>
+				<div class='regionHeader'>Northeast</div>
+				<div class='regionHeader'>Midwest</div>
+				<div class='regionHeader'>Northwest</div>
+				<div class='regionHeader'>Southwest</div>
+			</div>
+		</div>
+		<div class="region-pullout" id="crime"></div>
+	</div>
+
+
+
+
+	<div class="span12 sub-chart" id='school-bullying-section'>
+		<div class="row">
+			<div class="span8">
+				<h2>Schools</h2>
+				<p>Nearly all states address discrimination or bullying as some form of law for elementary and high school students, though almost half do not define categories for protection. Below are the states that have addressed discrimination or bullying based on sexual orientation or gender identity.</p>
+			</div>
+			<div class="span4" >
+				<div class='key-container'>
+					<div class="key-header">School anti-discrimination definition</div>
+					<img style="margin-top: 5px;" src="img/bullying-key.gif">
+				</div>
+			</div>
+			<div class="span12">
+				<div class='regionHeader'>Southeast</div>
+				<div class='regionHeader'>Northeast</div>
+				<div class='regionHeader'>Midwest</div>
+				<div class='regionHeader'>Northwest</div>
+				<div class='regionHeader'>Southwest</div>
+			</div>
+		</div>
+		<div class="region-pullout" id="bullying"></div>
+	</div>
+
+	<div id="regionalPopup">
+			<div id="regionalStateName"></div>
+
+			<div id='regionalPopupContent'>
+
+			</div>
+
+	</div>
+
+	<!-- <div class="span12 sub-chart">
+		<div class="row">
+			<div class="span5">
+				<h2>Hate crimes</h2>
+				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+
+			</div>
+			<div class="span6" id="crime-map"></div>
+		</div>
+	</div> -->
+
+
+</div>
+<div id="fb-root"></div>
+</body>
+</html>
