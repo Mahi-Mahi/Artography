@@ -26,39 +26,47 @@ idx = 0
 
 CSV.foreach('csv/expos.csv') do |row|
 
-	break if row.nil?
-	break if row[0].nil?
-
-	if idx > 0
-
-		artist = {}
-		artist[:id] = row[0].to_i
-		artist[:name] = row[2]
-		artist[:country] = row[8]
-
-		artists[artist[:id]] = artist
-
-		expo = {}
-		expo[:artist_id] = artist[:id]
-		expo[:artist_age] = artist[:age]
-		expo[:artist_sex] = artist[:sex]
-		expo[:expo_year] = artist[:beginyear]...artist[:endyear]
-
-		countries[artist[:country]] = [] if countries[artist[:country]].nil?
-		countries[artist[:country]] << artist[:id] unless countries[artist[:country]].include?(artist[:id])
-
-		expos << expo
-
-	end
-
 	idx = idx + 1
 
-	break if idx > 3000
+	break if row.nil?
+	break if row[0].nil?
+	# break if idx > 3000
+
+	next unless idx > 1
+
+	artist = {}
+	artist[:id] = row[0].to_i
+	artist[:name] = row[2]
+	artist[:country] = row[8]
+
+	next if artist[:country] == 'France'
+
+	artists[artist[:id]] = artist
+
+	expo = {}
+	expo[:id] = artist[:id]
+	expo[:age] = artist[:age]
+	expo[:sex] = artist[:sex]
+	expo[:country] = artist[:country]
+	expo[:start] = row[4]
+	expo[:end] = row[5]
+
+	countries[artist[:country]] = [] if countries[artist[:country]].nil?
+	countries[artist[:country]] << artist[:id] unless countries[artist[:country]].include?(artist[:id])
+
+	expos << expo
+
+
+
 end
 
 puts "#{artists.length} artists"
+puts "#{countries.length} countries"
+
+# puts countries.keys.uniq.sort
 
 countries.delete('France')
+
 
 # Countries
 
