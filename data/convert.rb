@@ -14,13 +14,13 @@ require 'fileutils'
 production = false
 
 FileUtils.rm_rf("json/.", secure: true)
-FileUtils.rm Dir.glob('json/*.json')
-FileUtils.rm Dir.glob('json/*.gz')
+FileUtils.rm_rf("../source/data/artists/.", secure: true)
+FileUtils.rm_rf("../source/data/expos/.", secure: true)
 
 artists = {}
 countries = {}
 
-expos = []
+expos = {}
 
 idx = 0
 
@@ -37,7 +37,7 @@ CSV.foreach('csv/expos.csv') do |row|
 	artist = {}
 	artist[:id] = row[0].to_i
 	artist[:name] = row[2]
-	artist[:country] = row[8]
+	# artist[:country] = row[8]
 
 	next if artist[:country] == 'France'
 
@@ -48,42 +48,57 @@ CSV.foreach('csv/expos.csv') do |row|
 	expo[:age] = artist[:age]
 	expo[:sex] = artist[:sex]
 	expo[:country] = artist[:country]
-	expo[:start] = row[4]
-	expo[:end] = row[5]
-
-	countries[artist[:country]] = [] if countries[artist[:country]].nil?
-	countries[artist[:country]] << artist[:id] unless countries[artist[:country]].include?(artist[:id])
-
-	expos << expo
+	# expo[:start] = row[4]
+	# expo[:end] = row[5]
 
 
+	[row[4], row[5]].each do |expo_year|
+		begin
+			expo_year = Date.strptime(expo_year, '%Y-%m-%d').year
+			expos[expo_year] = [] if expos[expo_year].nil?
+			expos[expo_year] << expo
+		rescue
+			p "invalid date"
+			p row
+		end
+	end
+
+	begin
+		if Date.strptime(row[4], '%Y-%m-%d') < Date.today && Date.strptime(row[5], '%Y-%m-%d') > Date.today 
+			expos[:today] = [] if expos[:today].nil?
+			expos[:today] << expo
+		end
+	rescue
+	end
+	# expos << expo
 
 end
 
 puts "#{artists.length} artists"
-puts "#{countries.length} countries"
-
-# puts countries.keys.uniq.sort
-
-countries.delete('France')
 
 
-# Countries
-
-filename = "json/countries.json"
-content = production ? countries.to_json : JSON.pretty_generate(countries)
-File.open(filename, 'w') { |file| file.write content }
-Zlib::GzipWriter.open("#{filename}.gz") { |file| file.write content }
+# Artists
+FileUtils.mkdir_p "json/artists"
+artists.each do |artist_id, artist|
+	filename = "json/artists/#{artist_id}.json"
+	content = production ? artist.to_json : JSON.pretty_generate(artist)
+	File.open(filename, 'w') { |file| file.write content }
+	# Zlib::GzipWriter.open("#{filename}.gz") { |file| file.write content }
+end
 
 # Expos
+FileUtils.mkdir_p "json/expos"
+expos.each do |year,year_artists|
+	next if year_artists.nil?
+	filename = "json/expos/#{year}.json"
+	content = production ? year_artists.to_json : JSON.pretty_generate(year_artists)
+	File.open(filename, 'w') { |file| file.write content }
+	# Zlib::GzipWriter.open("#{filename}.gz") { |file| file.write content }
+end
 
-filename = "json/expos.json"
-content = production ? expos.to_json : JSON.pretty_generate(expos)
-File.open(filename, 'w') { |file| file.write content }
-Zlib::GzipWriter.open("#{filename}.gz") { |file| file.write content }
 
-
-FileUtils.copy("json/expos.json", "../source/data/expos.json")
+FileUtils.cp_r("json/expos", "../source/data/expos")
+FileUtils.cp_r("json/artists", "../source/data/artists")
 
 
 
