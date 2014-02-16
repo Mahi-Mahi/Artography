@@ -14,13 +14,13 @@ require 'fileutils'
 production = false
 
 FileUtils.rm_rf("json/.", secure: true)
-FileUtils.rm_rf("../source/data/artists/.", secure: true)
-FileUtils.rm_rf("../source/data/expos/.", secure: true)
+FileUtils.rm_rf("../source/data", secure: true)
 
 artists = {}
 countries = {}
 
 expos = {}
+years = []
 
 idx = 0
 
@@ -41,13 +41,16 @@ CSV.foreach('csv/expos.csv') do |row|
 
 	next if artist[:country] == 'France'
 
+	country = row[8].downcase.gsub(/[^\w]/, '-')
+	countries[country] = row[8]
+
 	artists[artist[:id]] = artist
 
 	expo = {}
 	expo[:id] = artist[:id]
 	expo[:age] = artist[:age]
 	expo[:sex] = artist[:sex]
-	expo[:country] = artist[:country]
+	expo[:country] = country
 	# expo[:start] = row[4]
 	# expo[:end] = row[5]
 
@@ -57,6 +60,7 @@ CSV.foreach('csv/expos.csv') do |row|
 			expo_year = Date.strptime(expo_year, '%Y-%m-%d').year
 			expos[expo_year] = [] if expos[expo_year].nil?
 			expos[expo_year] << expo
+			years << expo_year
 		rescue
 			p "invalid date"
 			p row
@@ -75,6 +79,22 @@ CSV.foreach('csv/expos.csv') do |row|
 end
 
 puts "#{artists.length} artists"
+
+years.uniq!
+
+# Years
+years.each do |year|
+	filename = "json/years.json"
+	content = production ? years.to_json : JSON.pretty_generate(years)
+	File.open(filename, 'w') { |file| file.write content }
+end
+
+# Countries
+countries.each do |country|
+	filename = "json/countries.json"
+	content = production ? countries.to_json : JSON.pretty_generate(countries)
+	File.open(filename, 'w') { |file| file.write content }
+end
 
 
 # Artists
@@ -97,6 +117,7 @@ expos.each do |year,year_artists|
 end
 
 
+FileUtils.mkdir_p "../source/data"
 FileUtils.cp_r("json/expos", "../source/data/expos")
 FileUtils.cp_r("json/artists", "../source/data/artists")
 
