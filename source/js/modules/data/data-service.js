@@ -9,7 +9,7 @@ define(['./module'], function(app) {
 
         // TODO autoupdate on gulp.bump-version ( == git.revision )
         // so from a config.json
-        dataService.version = 5;
+        dataService.version = 10;
 
         /*
 		http://gregpike.net/demos/angular-local-storage/demo/demo.html
@@ -97,6 +97,10 @@ define(['./module'], function(app) {
 
         dataService.getCountries = function() {
             return dataService.get('countries');
+        };
+
+        dataService.getYears = function() {
+            return dataService.get('years');
         };
 
         return dataService;

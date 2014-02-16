@@ -60,7 +60,7 @@ CSV.foreach('csv/expos.csv') do |row|
 			expo_year = Date.strptime(expo_year, '%Y-%m-%d').year
 			expos[expo_year] = [] if expos[expo_year].nil?
 			expos[expo_year] << expo
-			years << expo_year
+			years << expo_year unless expo_year > Date.today.year
 		rescue
 			p "invalid date"
 			p row
@@ -79,8 +79,10 @@ CSV.foreach('csv/expos.csv') do |row|
 end
 
 puts "#{artists.length} artists"
+puts "#{countries.length} countries"
+puts "#{years.length} years"
 
-years.uniq!
+years.uniq!.sort!.reverse!
 
 # Years
 years.each do |year|
@@ -118,6 +120,8 @@ end
 
 
 FileUtils.mkdir_p "../source/data"
+FileUtils.cp("json/years.json", "../source/data/years.json")
+FileUtils.cp("json/countries.json", "../source/data/countries.json")
 FileUtils.cp_r("json/expos", "../source/data/expos")
 FileUtils.cp_r("json/artists", "../source/data/artists")
 
