@@ -13,6 +13,7 @@ define([
 
 	return ng.module('app', [
 		'ngRoute',
+		'LocalStorageModule',
 		'app.constants',
 		'app.dataService',
 		'app.home',

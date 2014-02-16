@@ -6,6 +6,7 @@ define([
   'require',
   'angular',
   'angular-route',
+  'angular-local-storage',
   './app',
   './routes'
 ], function(require, angular) {

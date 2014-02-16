@@ -13,6 +13,7 @@
     "angular-mocks": "~1.2.12",
     "angular-route": "~1.2.12",
     "angular-scenario": "~1.2.12",
+    "angular-local-storage": "latest",
     "jasmine-matchers": "https://github.com/JamieMason/Jasmine-Matchers.git",
     "requirejs": "latest",
     "requirejs-domready": "latest",

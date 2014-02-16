@@ -1,5 +1,5 @@
 /**
- * @license AngularJS v1.2.13-build.2260+sha.2b73027
+ * @license AngularJS v1.2.14-build.2267+sha.cceb455
  * (c) 2010-2014 Google, Inc. http://angularjs.org
  * License: MIT
  */
@@ -789,7 +789,8 @@ angular.mock.animate = angular.module('ngAnimateMock', ['ng'])
         }
       };
 
-      angular.forEach(['enter','leave','move','addClass','removeClass'], function(method) {
+      angular.forEach(
+        ['enter','leave','move','addClass','removeClass','setClass'], function(method) {
         animate[method] = function() {
           animate.queue.push({
             event : method,
