@@ -11,6 +11,7 @@ define(['./module'], function(app) {
             console.log("ArtistsController");
 
             var years = dataService.getYears();
+            console.log(years);
             $scope.period = {
                 name: "aujourd'hui",
                 slug: 'today',
@@ -27,19 +28,48 @@ define(['./module'], function(app) {
                 });
             });
 
-
-
             $scope.$watch('period', function(value) {
                 $scope.period = value;
-            console.log(value);
-        });
+                drawChart();
+            });
 
+            // console.log("max_artists : " + max_artists);
 
-            drawChart();
+            var canvasW = 600,
+                canvasH = 600;
+
+            var divW = 600,
+                divH = 600;
+
+            var chart = Raphael(document.getElementById('canvas'), canvasW, canvasH);
+
+            var offsetX = 0,
+                offsetY = 0;
+
+            var originX = offsetX + divW / 2;
+            var originY = offsetY + divH / 2;
+
+            var central_radius = divW / 4 - 90;
+
+            chart.circle(originX, originY, central_radius - 5).attr({
+                'stroke': '#333',
+                'stroke-width': 1
+            });
+
+            function initChart() {
+
+            }
 
             function drawChart() {
-                console.log("drawChart");
-                var expos = dataService.getExpos();
+
+                console.log("drawChart(" + $scope.period);
+
+                console.log($scope);
+
+                var expos = dataService.getExpos($scope.period);
+
+                console.log("expos : " + expos.length);
+
                 var countries = dataService.getCountries();
 
                 var data = {};
@@ -57,30 +87,7 @@ define(['./module'], function(app) {
                     max_artists = Math.max(max_artists, artists.length);
                 });
 
-                // console.log("max_artists : " + max_artists);
-
-                var canvasW = 600,
-                    canvasH = 600;
-
-                var divW = 600,
-                    divH = 600;
-
-                var chart = Raphael(document.getElementById('canvas'), canvasW, canvasH);
-
-                var offsetX = 0,
-                    offsetY = 0;
-
                 var a = 2 * Math.PI / Object.keys(data).length;
-
-                var originX = offsetX + divW / 2;
-                var originY = offsetY + divH / 2;
-
-                var central_radius = divW / 4 - 90;
-
-                chart.circle(originX, originY, central_radius - 5).attr({
-                    'stroke': '#333',
-                    'stroke-width': 1
-                });
 
                 var startA = 0;
                 var endA = 0;
@@ -132,12 +139,11 @@ define(['./module'], function(app) {
                         slice = chart.path(path).attr({
 
                             fill: '#FF0000',
-                            "stroke-width": 1,
+                            "stroke-width": 0.5,
                             "stroke": "#fff"
                         });
 
                         slice.node.setAttribute('class', 'country-' + country + ' artist artist-' + artist);
-
 
                     });
 
@@ -145,8 +151,6 @@ define(['./module'], function(app) {
 
                 });
             }
-
-
 
         }
 

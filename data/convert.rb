@@ -30,7 +30,7 @@ CSV.foreach('csv/expos.csv') do |row|
 
 	break if row.nil?
 	break if row[0].nil?
-	# break if idx > 3000
+	break if idx > 50000
 
 	next unless idx > 1
 
@@ -54,12 +54,11 @@ CSV.foreach('csv/expos.csv') do |row|
 	# expo[:start] = row[4]
 	# expo[:end] = row[5]
 
-
-	[row[4], row[5]].each do |expo_year|
+	[row[4], row[5]].uniq.each do |expo_year|
 		begin
 			expo_year = Date.strptime(expo_year, '%Y-%m-%d').year
 			expos[expo_year] = [] if expos[expo_year].nil?
-			expos[expo_year] << expo
+			expos[expo_year] << expo unless expos[expo_year].include?(expo)
 			years << expo_year unless expo_year > Date.today.year
 		rescue
 			p "invalid date"
@@ -68,9 +67,9 @@ CSV.foreach('csv/expos.csv') do |row|
 	end
 
 	begin
-		if Date.strptime(row[4], '%Y-%m-%d') < Date.today && Date.strptime(row[5], '%Y-%m-%d') > Date.today 
+		if Date.strptime(row[4], '%Y-%m-%d') < Date.today && Date.strptime(row[5], '%Y-%m-%d') > Date.today
 			expos[:today] = [] if expos[:today].nil?
-			expos[:today] << expo
+			expos[:today] << expo unless expos[:today].include?(expo)
 		end
 	rescue
 	end
