@@ -1,5 +1,5 @@
 /**
- * @license AngularJS v1.2.14-build.2267+sha.cceb455
+ * @license AngularJS v1.2.13-build.2260+sha.2b73027
  * (c) 2010-2014 Google, Inc. http://angularjs.org
  * License: MIT
  */
@@ -68,7 +68,7 @@ function minErr(module) {
       return match;
     });
 
-    message = message + '\nhttp://errors.angularjs.org/1.2.14-build.2267+sha.cceb455/' +
+    message = message + '\nhttp://errors.angularjs.org/1.2.13-build.2260+sha.2b73027/' +
       (module ? module + '/' : '') + code;
     for (i = 2; i < arguments.length; i++) {
       message = message + (i == 2 ? '?' : '&') + 'p' + (i-2) + '=' +
@@ -1836,10 +1836,10 @@ function setupModuleLoader(window) {
  * - `codeName` – `{string}` – Code name of the release, such as "jiggling-armfat".
  */
 var version = {
-  full: '1.2.14-build.2267+sha.cceb455',    // all of these placeholder strings will be replaced by grunt's
+  full: '1.2.13-build.2260+sha.2b73027',    // all of these placeholder strings will be replaced by grunt's
   major: 1,    // package task
   minor: 2,
-  dot: 14,
+  dot: 13,
   codeName: 'snapshot'
 };
 
@@ -2068,14 +2068,6 @@ var jqCache = JQLite.cache = {},
     removeEventListenerFn = (window.document.removeEventListener
       ? function(element, type, fn) {element.removeEventListener(type, fn, false); }
       : function(element, type, fn) {element.detachEvent('on' + type, fn); });
-
-/*
- * !!! This is an undocumented "private" function !!!
- */
-var jqData = JQLite._data = function(node) {
-  //jQuery always returns an object on cache miss
-  return this.cache[node[this.expando]] || {};
-};
 
 function jqNextId() { return ++jqId; }
 
@@ -4067,29 +4059,6 @@ var $AnimateProvider = ['$provide', function($provide) {
         done && $timeout(done, 0, false);
       },
 
-      /**
-       *
-       * @ngdoc function
-       * @name ng.$animate#setClass
-       * @methodOf ng.$animate
-       * @function
-       * @description Adds and/or removes the given CSS classes to and from the element.
-       * Once complete, the done() callback will be fired (if provided).
-       * @param {jQuery/jqLite element} element the element which will it's CSS classes changed
-       *   removed from it
-       * @param {string} add the CSS classes which will be added to the element
-       * @param {string} remove the CSS class which will be removed from the element
-       * @param {function=} done the callback function (if provided) that will be fired after the
-       *   CSS classes have been set on the element
-       */
-      setClass : function(element, add, remove, done) {
-        forEach(element, function (element) {
-          jqLiteAddClass(element, add);
-          jqLiteRemoveClass(element, remove);
-        });
-        done && $timeout(done, 0, false);
-      },
-
       enabled : noop
     };
   }];
@@ -5232,8 +5201,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
   var hasDirectives = {},
       Suffix = 'Directive',
       COMMENT_DIRECTIVE_REGEXP = /^\s*directive\:\s*([\d\w\-_]+)\s+(.*)$/,
-      CLASS_DIRECTIVE_REGEXP = /(([\d\w\-_]+)(?:\:([^;]+))?;?)/,
-      TABLE_CONTENT_REGEXP = /^<\s*(tr|th|td|tbody)(\s+[^>]*)?>/i;
+      CLASS_DIRECTIVE_REGEXP = /(([\d\w\-_]+)(?:\:([^;]+))?;?)/;
 
   // Ref: http://developers.whatwg.org/webappapis.html#event-handler-idl-attributes
   // The assumption is that future DOM event attribute names will begin with
@@ -5420,16 +5388,8 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
        * @param {string} oldClasses The former CSS className value
        */
       $updateClass : function(newClasses, oldClasses) {
-        var toAdd = tokenDifference(newClasses, oldClasses);
-        var toRemove = tokenDifference(oldClasses, newClasses);
-
-        if(toAdd.length === 0) {
-          $animate.removeClass(this.$$element, toRemove);
-        } else if(toRemove.length === 0) {
-          $animate.addClass(this.$$element, toAdd);
-        } else {
-          $animate.setClass(this.$$element, toAdd, toRemove);
-        }
+        this.$removeClass(tokenDifference(oldClasses, newClasses));
+        this.$addClass(tokenDifference(newClasses, oldClasses));
       },
 
       /**
@@ -5982,7 +5942,9 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
 
           if (directive.replace) {
             replaceDirective = directive;
-            $template = directiveTemplateContents(directiveValue);
+            $template = jqLite('<div>' +
+                                 trim(directiveValue) +
+                               '</div>').contents();
             compileNode = $template[0];
 
             if ($template.length != 1 || compileNode.nodeType !== 1) {
@@ -6381,28 +6343,6 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
     }
 
 
-    function directiveTemplateContents(template) {
-      var type;
-      template = trim(template);
-      if ((type = TABLE_CONTENT_REGEXP.exec(template))) {
-        type = type[1].toLowerCase();
-        var table = jqLite('<table>' + template + '</table>'),
-            tbody = table.children('tbody'),
-            leaf = /(td|th)/.test(type) && table.find('tr');
-        if (tbody.length && type !== 'tbody') {
-          table = tbody;
-        }
-        if (leaf && leaf.length) {
-          table = leaf;
-        }
-        return table.contents();
-      }
-      return jqLite('<div>' +
-                      template +
-                    '</div>').contents();
-    }
-
-
     function compileTemplateUrl(directives, $compileNode, tAttrs,
         $rootElement, childTranscludeFn, preLinkFns, postLinkFns, previousCompileContext) {
       var linkQueue = [],
@@ -6427,7 +6367,7 @@ function $CompileProvider($provide, $$sanitizeUriProvider) {
           content = denormalizeTemplate(content);
 
           if (origAsyncDirective.replace) {
-            $template = directiveTemplateContents(content);
+            $template = jqLite('<div>' + trim(content) + '</div>').contents();
             compileNode = $template[0];
 
             if ($template.length != 1 || compileNode.nodeType !== 1) {
@@ -14335,7 +14275,7 @@ function numberFilter($locale) {
 
 var DECIMAL_SEP = '.';
 function formatNumber(number, pattern, groupSep, decimalSep, fractionSize) {
-  if (number == null || !isFinite(number) || isObject(number)) return '';
+  if (isNaN(number) || !isFinite(number)) return '';
 
   var isNegative = number < 0;
   number = Math.abs(number);
@@ -16169,8 +16109,7 @@ var inputType = {
   'hidden': noop,
   'button': noop,
   'submit': noop,
-  'reset': noop,
-  'file': noop
+  'reset': noop
 };
 
 // A helper function to call $setValidity and return the value / undefined,
@@ -20871,4 +20810,4 @@ var styleDirective = valueFn({
 
 })(window, document);
 
-!angular.$$csp() && angular.element(document).find('head').prepend('<style type="text/css">@charset "UTF-8";[ng\\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}</style>');
+!angular.$$csp() && angular.element(document).find('head').prepend('<style type="text/css">@charset "UTF-8";[ng\\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\\:form{display:block;}</style>');

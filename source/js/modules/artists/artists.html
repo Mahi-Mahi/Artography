@@ -1,47 +1,52 @@
-<h1><a href="/">Artograpy</a></h1>
+<div>
 
-<ul>
-	<li><a href="/artistes">Artistes</a></li>
-	<li><a href="/galeries">Galeries</a></li>
-</ul>
+	<h1><a href="/">Artograpy</a></h1>
 
-<h2>Artists</h2>
+	<ul id="nav">
+		<li><a href="/artistes">Artistes</a></li>
+		<li><a href="/galeries">Galeries</a></li>
+	</ul>
 
-<div class="left">
-	<form>
+	<h2>Artists</h2>
 
+	<div class="left">
+		<form>
+
+			<p>
+				<label for="genre">Genre</label>
+				<ul id="genre" class="filter"></ul>
+			</p>
+
+			<p>
+				<label for="age">Age</label>
+				<ul id="age" class="filter"></ul>
+			</p>
+
+			<p>
+				<label for="period">Période :</label>
+				<ul class="filter">
+					<li ng-repeat="period in periods">
+						<label for="period-{{period.slug}}">
+							<input type="radio" name="period" id="period-{{period.slug}}" value="{{period.slug}}" ng-model="$parent.period" {period.checked} />
+							{{period.name}}
+						</label>
+					</li>
+				</ul>
+			</p>
+		</form>
+
+	</div>
+
+	<div class="main">
+		<div id="canvas"></div>
+	</div>
+
+	<div class="right">
+		<p class="status"></p>
 		<p>
-			<label for="genre">Genre</label>
-			<ul id="genre" class="filter"></ul>
+			<input type="text" id="artist_search" placeholder="Rechercher un artiste...">
+			<ul id="artists"></ul>
 		</p>
+	</div>
 
-		<p>
-			<label for="age">Age</label>
-			<ul id="age" class="filter"></ul>
-		</p>
-
-		<p>
-			<label for="period">Période :</label>
-			<ul class="filter">
-				<li ng-repeat="period in periods">
-					<label for="period-{{period.slug}}">
-						<input type="radio" name="period" id="period-{{period.slug}}" value="{{period.slug}}" ng-model="$parent.period" {period.checked} />
-						{{period.name}}
-					</label>
-				</li>
-			</ul>
-		</p>
-	</form>
-
-</div>
-
-<div class="main">
-	<div id="canvas"></div>
-</div>
-
-<div class="right">
-	<p>
-		<input type="text" id="artist_search" placeholder="Rechercher un artiste...">
-		<ul id="artists"></ul>
-	</p>
 </div>

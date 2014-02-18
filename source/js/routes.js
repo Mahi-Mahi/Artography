@@ -28,6 +28,7 @@ define(['./app', './config'], function(app) {
 						return dataService.init();
 					}
 				}
+
 			});
 
 			$routeProvider.otherwise({

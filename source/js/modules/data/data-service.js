@@ -1,7 +1,7 @@
 define(['./module'], function(app) {
 	'use strict';
 
-	app.factory('dataService', function($rootScope, $http, localStorageService) {
+	app.factory('dataService', function($rootScope, $http, $q, localStorageService) {
 
 		var dataService = {};
 
@@ -9,13 +9,14 @@ define(['./module'], function(app) {
 
 		// TODO autoupdate on gulp.bump-version ( == git.revision )
 		// so from a config.json
-		dataService.version = 13;
+		dataService.version = Date.now();
 
 		/*
 		http://gregpike.net/demos/angular-local-storage/demo/demo.html
 		*/
 
 		dataService.clear = function() {
+			console.log("dataService.clear");
 			localStorageService.clearAll();
 		}
 
@@ -27,32 +28,19 @@ define(['./module'], function(app) {
 				dataService.clear();
 				localStorageService.add('version', dataService.version);
 			}
-			dataService.get('expos', 'today');
-			// return $http.get('/data/expos/today.json')
-			// 	.success(function(data) {
-			// 		// dataService.data.expos = data;
-			// 	});
-		}
 
-		dataService.fetch = function(type, idx) {
-			console.log("fetch(" + type + ',' + idx);
-			var url;
-			if (idx) {
-				url = '/data/' + type + '/' + idx + '.json';
-			} else {
-				url = '/data/' + type + '.json';
-			}
-
-			// $http returns a promise, which has a then function, which also returns a promise
-			var promise = $http.get(url).then(function(response) {
-				return response.data;
+			return dataService.getYears().then(function() {
+				return dataService.getCountries();
 			});
-			return promise;
+
 		}
 
 		dataService.get = function(type, idx) {
+
+			var deferred = $q.defer();
+
 			// get from app cache
-			var data = null;
+			var data;
 
 			if (!dataService.data[type])
 				dataService.data[type] = {};
@@ -67,18 +55,26 @@ define(['./module'], function(app) {
 
 				if (!data) {
 
+					var url = '/data/' + type + (idx ? '/' + idx : '') + '.json';
+
 					// get from http
-					dataService.fetch(type, idx).then(function(d) {
+					console.log("fetch " + url);
+					var res = $http.get(url).success(function(response) {
 
-						// store in localStorage
-						localStorageService.add(localStorageKey, d);
+						setTimeout(function() {
+							// store in localStorage
+							localStorageService.add(localStorageKey, response.data);
 
-						// store in app cache
-						dataService.data[type][idx] = d;
+							// store in app cache
+							dataService.data[type][idx] = response.data;
 
-						return d;
+							deferred.resolve(response.data);
+
+						}, 1000);
 
 					});
+
+					return res;
 
 				}
 
@@ -86,24 +82,30 @@ define(['./module'], function(app) {
 				dataService.data[type][idx] = data;
 
 			}
+			deferred.resolve(data);
 
-			return data;
-
+			return deferred.promise;
 		}
 
 		//Gets the list of nuclear weapons
 		dataService.getExpos = function(idx) {
 			if (!idx)
 				idx = 'today';
-			return dataService.get('expos', idx);
+			return dataService.get('expos', idx).then(function(response) {
+				dataService.data.expos[idx] = response.data;
+			});
 		};
 
 		dataService.getCountries = function() {
-			return dataService.get('countries');
+			return dataService.get('countries').then(function(response) {
+				dataService.data.countries = response.data;
+			});
 		};
 
 		dataService.getYears = function() {
-			return dataService.get('years');
+			return dataService.get('years').then(function(response) {
+				dataService.data.years = response.data;
+			});
 		};
 
 		return dataService;

@@ -19,6 +19,8 @@
     "requirejs-domready": "latest",
     "requirejs-text": "latest",
     "requirejs-plugins": "latest",
-    "raphael": "latest"
+    "raphael": "latest",
+    "jquery": "~2.1.0",
+    "jquery-migrate": "~1.2.1"
   }
 }

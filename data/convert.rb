@@ -30,7 +30,7 @@ CSV.foreach('csv/expos.csv') do |row|
 
 	break if row.nil?
 	break if row[0].nil?
-	break if idx > 50000
+	break if idx > 1000
 
 	next unless idx > 1
 
@@ -47,10 +47,10 @@ CSV.foreach('csv/expos.csv') do |row|
 	artists[artist[:id]] = artist
 
 	expo = {}
-	expo[:id] = artist[:id]
-	expo[:age] = artist[:age]
-	expo[:sex] = artist[:sex]
-	expo[:country] = country
+	expo[:i] = artist[:id]
+	expo[:a] = artist[:age]
+	expo[:s] = artist[:sex]
+	expo[:c] = country
 	# expo[:start] = row[4]
 	# expo[:end] = row[5]
 
