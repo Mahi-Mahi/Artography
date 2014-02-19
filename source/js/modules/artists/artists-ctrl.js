@@ -13,7 +13,7 @@ define(['./module'], function(app) {
 			var years = dataService.data.years;
 
 			// default period
-			$scope.period = 'today';
+			$scope.period = '2013';
 
 			$scope.periods = [{
 				name: "aujourd'hui",
@@ -52,10 +52,10 @@ define(['./module'], function(app) {
 				canvasH = 700,
 				divH = 700;
 
-			var chart = new Raphael(document.getElementById('canvas'), canvasW, canvasH);
+			var raphael = new Raphael(document.getElementById('canvas'), canvasW, canvasH);
 
 			// [ X Position, Y Position, Radius, Width, Angle, Rotation ]
-			chart.customAttributes.filledArc = function(xloc, yloc, R, width, angle, rotation) {
+			raphael.customAttributes.filledArc = function(xloc, yloc, R, width, angle, rotation) {
 				var total = 360;
 				if (total == angle) {
 					angle -= 0.001;
@@ -82,24 +82,47 @@ define(['./module'], function(app) {
 				};
 			};
 
+			raphael.customAttributes.simpleArc = function(xloc, yloc, R, angle, rotation) {
+				var total = 360;
+				if (total == angle) {
+					angle -= 0.001;
+				}
+				angle += rotation;
+				var r = (90 - rotation) * Math.PI / 180,
+					xr1 = xloc + R * Math.cos(r),
+					yr1 = yloc - R * Math.sin(r);
+				var a = (90 - angle) * Math.PI / 180,
+					x = xloc + R * Math.cos(a),
+					y = yloc - R * Math.sin(a);
+				return {
+					path: [
+						["M", x, y],
+						["A", R, R, 0, +(angle > 180 + rotation), 0, xr1, yr1],
+					]
+				};
+			};
+
 			var offsetX = 0,
 				offsetY = 0;
 
 			var originX = offsetX + divW / 2;
 			var originY = offsetY + divH / 2;
 
-			var central_radius = divW / 4 - 90;
+			var central_radius = 60;
+			var continent_title_margin = 30;
+			var country_title_margin = 30;
+			var margin = 20 + continent_title_margin + country_title_margin;
 
 			var animation_delay = 500;
 			var a_interval = 2;
 
-			chart.circle(originX, originY, central_radius - 5).attr({
+			raphael.circle(originX, originY, central_radius - 5).attr({
 				'stroke': '#333',
 				'stroke-width': 1
 			});
 
 			/*
-			chart.path().attr({
+			raphael.path().attr({
 				"stroke": "#00f",
 				"fill": "#f00",
 				"stroke-width": 1,
@@ -116,7 +139,7 @@ define(['./module'], function(app) {
 			angular.forEach(dataService.data.countries, function(countries, continent_name) {
 				data.continents[continent_name] = {
 					slice: null,
-					set: chart.set(),
+					set: raphael.set(),
 					'countries': {}
 				};
 				angular.forEach(countries, function(names, country_id) {
@@ -124,8 +147,9 @@ define(['./module'], function(app) {
 					data.continents[continent_name].countries[country_id] = {
 						country: names,
 						slice: null,
+						title: null,
 						artists: {},
-						set: chart.set()
+						set: raphael.set()
 					};
 				});
 			});
@@ -221,15 +245,18 @@ define(['./module'], function(app) {
 
 				var a = 360 / nb_countries;
 				var rotation = 0;
-				var layerW = divW / 3 / max_artists;
+				var layerW = ((divW / 2) - (central_radius + margin)) / max_artists;
 
 				console.log("layerW : " + layerW);
 
 				angular.forEach(data.continents, function(continent, continent_name) {
-					// console.log("->" + continent_name);
+					console.log("->" + continent_name);
+
+					nb_countries = 0;
+					var continent_rotation = rotation;
 
 					angular.forEach(continent.countries, function(country, country_code) {
-						console.log(country_code + ' (' + country.nb_artists + ')');
+						// console.log(country_code + ' (' + country.nb_artists + ')');
 
 						var country_width = -(layerW * country.nb_artists);
 
@@ -237,9 +264,8 @@ define(['./module'], function(app) {
 						var filledArc = [originX, originY, central_radius, country_width, a, rotation];
 
 						// console.log(filledArc);
-
 						if (country.slice === null) {
-							country.slice = chart.path().attr({
+							country.slice = raphael.path().attr({
 								fill: '#FF0000',
 								stroke: "#FFFFFF",
 								'stroke-width': 1,
@@ -249,6 +275,19 @@ define(['./module'], function(app) {
 							}, animation_delay);
 
 							country.slice.node.setAttribute('class', 'country-' + country_code);
+
+							if (country.nb_artists) {
+
+								// var simpleArc = [originX, originY, a, divW / 2 - continent_title_margin - country_title_margin, rotation - a / 2];
+								var simpleArc = [originX, originY, divW / 2 - continent_title_margin - country_title_margin, a, rotation - a / 2];
+								country.title_path = raphael.path().attr({
+									stroke: "#0000FF",
+									'stroke-width': 1,
+									simpleArc: simpleArc
+								});
+								textOnPath(country_code, country.title_path, 12, 1, true, true, 0, '00FF00', 'normal');
+							}
+
 						} else {
 							country.slice.animate({
 								filledArc: filledArc
@@ -259,12 +298,107 @@ define(['./module'], function(app) {
 
 						if (country.nb_artists) {
 							// rotation += country.nb_artists ? a : 0;
+							console.log(rotation);
 							rotation += a;
+							nb_countries++;
 						}
 					});
 
+					if (nb_countries) {
+						console.log("->" + continent_name);
+						console.log(nb_countries + "countries");
+
+						var continent_a = nb_countries * a;
+
+						var simpleArc = [originX, originY, divW / 2 - continent_title_margin - country_title_margin - 100, continent_a, continent_rotation - continent_a / 2];
+
+						var continent_title_path = raphael.path().attr({
+							stroke: "#00FF00",
+							'stroke-width': 1,
+							simpleArc: simpleArc
+						});
+						textOnPath(continent_name, continent_title_path, 12, 1, true, true, 0, '00FF00', 'normal');
+					}
+
 				});
 
+			}
+
+			function textOnPath(message, path, fontSize, letterSpacing, kerning, geckoKerning, point, fontColor, fontWeight) {
+
+				var fontFamily = "Open sans";
+
+				var gecko = /rv:([^\)]+)\) Gecko\/\d{8}/.test(navigator.userAgent || '') ? true : false;
+				var letters = [],
+					places = [],
+					messageLength = 0;
+
+				for (var c = 0; c < message.length; c++) {
+
+					var letter = raphael.text(0, 0, message[c]).attr({
+						"text-anchor": "middle",
+						"fill": fontColor,
+						"font-weight": fontWeight
+					});
+					var character = letter.attr('text'),
+						kern = 0;
+					letters.push(letter);
+
+					if (kerning) {
+
+						if (gecko && geckoKerning) {
+							kerning = geckoKerning;
+						}
+
+						var predecessor = letters[c - 1] ? letters[c - 1].attr('text') : '';
+
+						if (kerning[c]) {
+
+							kern = kerning[c];
+
+						} else if (kerning[character]) {
+
+							if (typeof kerning[character] === 'object') {
+								kern = kerning[character][predecessor] || kerning[character]['default'] || 0;
+							} else {
+								kern = kerning[character];
+							}
+						}
+
+						if (kerning['default']) {
+							kern = kern + (kerning['default'][predecessor] || 0);
+						}
+					}
+
+					messageLength += kern;
+					places.push(messageLength);
+					//spaces get a width of 0, so set min at 4px
+					messageLength += Math.max(4.5, letter.getBBox().width);
+				}
+
+				if (letterSpacing) {
+					if (gecko) {
+						letterSpacing = letterSpacing * 0.83;
+					}
+				} else {
+					letterSpacing = letterSpacing || path.getTotalLength() / messageLength;
+				}
+				fontSize = fontSize || 10 * letterSpacing;
+
+				for (c = 0; c < letters.length; c++) {
+					letters[c].attr({
+						"font-size": fontSize + "px",
+						"font-family": fontFamily
+					});
+					var p = path.getPointAtLength(places[c] * letterSpacing + point);
+					var rotate = 'R' + (p.alpha < 180 ? p.alpha + 180 : p.alpha > 360 ? p.alpha - 360 : p.alpha) + ',' + p.x + ',' + p.y;
+					letters[c].attr({
+						x: p.x,
+						y: p.y,
+						transform: rotate
+					}).toFront();
+
+				}
 			}
 
 		}
