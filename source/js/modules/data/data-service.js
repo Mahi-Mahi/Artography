@@ -9,7 +9,7 @@ define(['./module'], function(app) {
 
 		// TODO autoupdate on gulp.bump-version ( == git.revision )
 		// so from a config.json
-		dataService.version = Date.now();
+		dataService.version = 1; //Date.now();
 
 		/*
 		http://gregpike.net/demos/angular-local-storage/demo/demo.html
@@ -36,22 +36,27 @@ define(['./module'], function(app) {
 		}
 
 		dataService.get = function(type, idx) {
-
+			console.log("dataService.get(" + type + "," + idx);
 			var deferred = $q.defer();
 
 			// get from app cache
 			var data;
+			var data_key = type + '-' + idx;
 
-			if (!dataService.data[type])
-				dataService.data[type] = {};
-			data = dataService.data[type][idx];
+			if (idx) {
+				if (!dataService.data[type]) {
+					dataService.data[type] = {};
+				}
+				data = dataService.data[type][idx];
+			} else {
+				data = dataService.data[type];
+			}
 
-			if (!data) {
+			console.log(data);
+
+			if (data === undefined) {
 				// get from localStorage
-				var localStorageKey = type + '-' + idx;
-				var data = localStorageService.get(localStorageKey);
-
-				console.log("localStorageService.get(" + localStorageKey)
+				var data = localStorageService.get(data_key);
 
 				if (!data) {
 
@@ -59,19 +64,25 @@ define(['./module'], function(app) {
 
 					// get from http
 					console.log("fetch " + url);
-					var res = $http.get(url).success(function(response) {
+					// var res = $http.get(url).success(function(response) {
+					var res = $http({
+						method: 'GET',
+						url: url
+					}).success(function(data) {
 
-						setTimeout(function() {
-							// store in localStorage
-							localStorageService.add(localStorageKey, response.data);
+						// store in localStorage
+						localStorageService.add(data_key, data);
 
-							// store in app cache
-							dataService.data[type][idx] = response.data;
+						if (idx) {
+							dataService.data[type][idx] = data;
+						} else {
+							dataService.data[type] = data;
+						}
 
-							deferred.resolve(response.data);
+						deferred.resolve(data);
 
-						}, 1000);
-
+					}).error(function() {
+						console.log("http error");
 					});
 
 					return res;
@@ -79,9 +90,13 @@ define(['./module'], function(app) {
 				}
 
 				// store in app cache
-				dataService.data[type][idx] = data;
-
+				if (idx) {
+					dataService.data[type][idx] = data;
+				} else {
+					dataService.data[type] = data;
+				}
 			}
+
 			deferred.resolve(data);
 
 			return deferred.promise;
@@ -91,21 +106,15 @@ define(['./module'], function(app) {
 		dataService.getExpos = function(idx) {
 			if (!idx)
 				idx = 'today';
-			return dataService.get('expos', idx).then(function(response) {
-				dataService.data.expos[idx] = response.data;
-			});
+			return dataService.get('expos', idx);
 		};
 
 		dataService.getCountries = function() {
-			return dataService.get('countries').then(function(response) {
-				dataService.data.countries = response.data;
-			});
+			return dataService.get('countries');
 		};
 
 		dataService.getYears = function() {
-			return dataService.get('years').then(function(response) {
-				dataService.data.years = response.data;
-			});
+			return dataService.get('years');
 		};
 
 		return dataService;

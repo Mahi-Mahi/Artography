@@ -1,19 +1,238 @@
 {
-  "france": "France",
-  "germany": "Germany",
-  "switzerland": "Switzerland",
-  "belgium": "Belgium",
-  "greece": "Greece",
-  "mali": "Mali",
-  "usa": "USA",
-  "ireland-republic": "Ireland (Republic)",
-  "united-kingdom": "United Kingdom",
-  "netherlands": "Netherlands",
-  "spain": "Spain",
-  "austria": "Austria",
-  "lebanon": "Lebanon",
-  "luxembourg": "Luxembourg",
-  "portugal": "Portugal",
-  "italy": "Italy",
-  "japan": "Japan"
+  "Africa": {
+    "EG": {
+      "fr": "Égypte",
+      "en": "Egypt"
+    },
+    "ML": {
+      "fr": "Mali",
+      "en": "Mali"
+    },
+    "RE": {
+      "fr": "Réunion",
+      "en": "Réunion"
+    },
+    "TN": {
+      "fr": "Tunisie",
+      "en": "Tunisia"
+    }
+  },
+  "Asia": {
+    "AE": {
+      "fr": "Émirats Arabes Unis",
+      "en": "United Arab Emirates"
+    },
+    "CN": {
+      "fr": "Chine",
+      "en": "China"
+    },
+    "GE": {
+      "fr": "Géorgie",
+      "en": "Georgia"
+    },
+    "IL": {
+      "fr": "Israël",
+      "en": "Israel"
+    },
+    "IN": {
+      "fr": "Inde",
+      "en": "India"
+    },
+    "IR": {
+      "fr": "Iran",
+      "en": "Iran"
+    },
+    "JO": {
+      "fr": "Jordanie",
+      "en": "Jordan"
+    },
+    "JP": {
+      "fr": "Japon",
+      "en": "Japan"
+    },
+    "KR": {
+      "fr": "Corée du Sud",
+      "en": "Korea (South)"
+    },
+    "LB": {
+      "fr": "Liban",
+      "en": "Lebanon"
+    },
+    "SY": {
+      "fr": "Syrie",
+      "en": "Syria"
+    },
+    "TW": {
+      "fr": "Taïwan",
+      "en": "Taiwan"
+    }
+  },
+  "Australia": {
+    "AU": {
+      "fr": "Australie",
+      "en": "Australia"
+    }
+  },
+  "Europe": {
+    "AT": {
+      "fr": "Autriche",
+      "en": "Austria"
+    },
+    "BE": {
+      "fr": "Belgique",
+      "en": "Belgium"
+    },
+    "CH": {
+      "fr": "Suisse",
+      "en": "Switzerland"
+    },
+    "CZ": {
+      "fr": "République Tchèque",
+      "en": "Czech Republic"
+    },
+    "DE": {
+      "fr": "Allemagne",
+      "en": "Germany"
+    },
+    "DK": {
+      "fr": "Danemark",
+      "en": "Denmark"
+    },
+    "ES": {
+      "fr": "Espagne",
+      "en": "Spain"
+    },
+    "FI": {
+      "fr": "Finlande",
+      "en": "Finland"
+    },
+    "FR": {
+      "fr": "France",
+      "en": "France"
+    },
+    "GB": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom"
+    },
+    "GR": {
+      "fr": "Grèce",
+      "en": "Greece"
+    },
+    "HR": {
+      "fr": "Croatie",
+      "en": "Croatia"
+    },
+    "HU": {
+      "fr": "Hongrie",
+      "en": "Hungary"
+    },
+    "IE": {
+      "fr": "Irlande",
+      "en": "Ireland"
+    },
+    "IS": {
+      "fr": "Islande",
+      "en": "Iceland"
+    },
+    "IT": {
+      "fr": "Italie",
+      "en": "Italy"
+    },
+    "LT": {
+      "fr": "Lituanie",
+      "en": "Lithuania"
+    },
+    "LU": {
+      "fr": "Luxembourg",
+      "en": "Luxembourg"
+    },
+    "LV": {
+      "fr": "Lettonie",
+      "en": "Latvia"
+    },
+    "MK": {
+      "fr": "Macédoine",
+      "en": "Macedonia"
+    },
+    "NL": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands"
+    },
+    "NO": {
+      "fr": "Norvège",
+      "en": "Norway"
+    },
+    "PL": {
+      "fr": "Pologne",
+      "en": "Poland"
+    },
+    "PT": {
+      "fr": "Portugal",
+      "en": "Portugal"
+    },
+    "RU": {
+      "fr": "Russie",
+      "en": "Russia"
+    },
+    "SE": {
+      "fr": "Suède",
+      "en": "Sweden"
+    },
+    "SI": {
+      "fr": "Slovénie",
+      "en": "Slovenia"
+    },
+    "SK": {
+      "fr": "Slovaquie",
+      "en": "Slovakia"
+    },
+    "TR": {
+      "fr": "Turquie",
+      "en": "Turkey"
+    },
+    "UA": {
+      "fr": "Ukraine",
+      "en": "Ukraine"
+    }
+  },
+  "North America": {
+    "CA": {
+      "fr": "Canada",
+      "en": "Canada"
+    },
+    "MX": {
+      "fr": "Mexique",
+      "en": "Mexico"
+    },
+    "PR": {
+      "fr": "Porto Rico",
+      "en": "Puerto Rico"
+    },
+    "US": {
+      "fr": "États-Unis",
+      "en": "United States of America"
+    }
+  },
+  "South America": {
+    "AR": {
+      "fr": "Argentine",
+      "en": "Argentina"
+    },
+    "BR": {
+      "fr": "Brésil",
+      "en": "Brazil"
+    },
+    "CL": {
+      "fr": "Chili",
+      "en": "Chile"
+    },
+    "CO": {
+      "fr": "Colombie",
+      "en": "Colombia"
+    },
+    "UY": {
+      "fr": "Uruguay",
+      "en": "Uruguay"
+    }
+  }
 }
