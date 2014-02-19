@@ -229,8 +229,6 @@ define(['./module'], function(app) {
 							var previous_filledArc = artist.filledArc;
 							artist.filledArc = [originX, originY, radius, layerW, a, rotation];
 
-							console.log(artist.filledArc);
-
 							if (artist.slice === null) {
 								if (previous_artist) {
 									new_filledArc = previous_artist_filledArc;
