@@ -33,7 +33,7 @@ CSV.foreach('csv/expos.csv') do |row|
 
 	break if row.nil?
 	break if row[0].nil?
-	break if idx > 2500
+	# break if idx > 2500
 
 	next unless idx > 1
 
@@ -42,9 +42,9 @@ CSV.foreach('csv/expos.csv') do |row|
 	artist[:name] = row[2]
 	# artist[:country] = row[8]
 
-	next if artist[:country] == 'France'
+	next if row[8] == 'France'
 
-
+	c = nil
 	case row[8].downcase.gsub(/[^\w]+/, '-').gsub(/[^\w]$/, '')
 	when 'ivory-coast'
 		country = "Côte d'ivoire"
@@ -52,7 +52,7 @@ CSV.foreach('csv/expos.csv') do |row|
 		country = "Palestinian Territory, Occupied"
 	when 'kosovo'
 		country = "Kosovo"
-		k = {continent: 'Europe', alpha2: 'XK', translations: {fr: 'Kosovo', en: 'Kosovo'}}
+		c = {continent: 'Europe', alpha2: 'XK', translations: {fr: 'Kosovo', en: 'Kosovo'}}
 	when 'reunion'
 		country = 'Réunion'
 	when 'south-korea'
@@ -65,50 +65,55 @@ CSV.foreach('csv/expos.csv') do |row|
 		country = row[8]
 	end
 
-	c = Country.find_country_by_name(country)
-	if c.nil?
-		puts "not found : #{country}"
-		c = k
-	end
-	begin
-		continents[c.continent] = {} if continents[c.continent].nil?
-		continents[c.continent][c.alpha2] = {
-			:fr => c.translations['fr'],
-			:en => c.translations['en']
-		}
-	rescue
-	end
 
-	artists[artist[:id]] = artist
+	c = Country.find_country_by_name(country) if c.nil?
 
-	expo = {}
-	expo[:i] = artist[:id]
-	expo[:c] = c.alpha2
-	# TODO
-	# expo[:a] = artist[:age]
-	# expo[:s] = artist[:sex]
-	# expo[:start] = row[4]
-	# expo[:end] = row[5]
+	unless c.nil?
+		p c
 
-	[row[4], row[5]].uniq.each do |expo_year|
 		begin
-			expo_year = '2100-01-01' if expo_year == 'NA'
-			expo_year = Date.strptime(expo_year, '%Y-%m-%d').year
-			expos[expo_year] = [] if expos[expo_year].nil?
-			expos[expo_year] << expo unless expos[expo_year].include?(expo)
-			years << expo_year unless expo_year > Date.today.year
+			continents[c.continent] = {} if continents[c.continent].nil?
+			continents[c.continent][c.alpha2] = {
+				:fr => c.translations['fr'],
+				:en => c.translations['en']
+			}
 		rescue
-			puts "invalid date"
-			p row
 		end
-	end
 
-	begin
-		if Date.strptime(row[4], '%Y-%m-%d') < Date.today && Date.strptime(row[5], '%Y-%m-%d') > Date.today
-			expos[:today] = [] if expos[:today].nil?
-			expos[:today] << expo unless expos[:today].include?(expo)
+		artists[artist[:id]] = artist
+
+		expo = {}
+		expo[:i] = artist[:id]
+		begin
+			expo[:c] = c.alpha2
+		rescue
 		end
-	rescue
+		# TODO
+		# expo[:a] = artist[:age]
+		# expo[:s] = artist[:sex]
+		# expo[:start] = row[4]
+		# expo[:end] = row[5]
+
+		[row[4], row[5]].uniq.each do |expo_year|
+			begin
+				expo_year = '2100-01-01' if expo_year == 'NA'
+				expo_year = Date.strptime(expo_year, '%Y-%m-%d').year
+				expos[expo_year] = [] if expos[expo_year].nil?
+				expos[expo_year] << expo unless expos[expo_year].include?(expo)
+				years << expo_year unless expo_year > Date.today.year
+			rescue
+				puts "invalid date"
+				p row
+			end
+		end
+
+		begin
+			if Date.strptime(row[4], '%Y-%m-%d') < Date.today && Date.strptime(row[5], '%Y-%m-%d') > Date.today
+				expos[:today] = [] if expos[:today].nil?
+				expos[:today] << expo unless expos[:today].include?(expo)
+			end
+		rescue
+		end
 	end
 	# expos << expo
 

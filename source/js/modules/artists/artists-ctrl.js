@@ -13,7 +13,7 @@ define(['./module'], function(app) {
 			var years = dataService.data.years;
 
 			// default period
-			$scope.period = '2010';
+			$scope.period = 'today';
 
 			$scope.periods = [{
 				name: "aujourd'hui",
@@ -158,44 +158,58 @@ define(['./module'], function(app) {
 
 				angular.forEach(expos, function(expo) {
 					if (true /* TODO :  filter by age and sex */ ) {
-						var country = data.continents[data.cc[expo.c]].countries[expo.c];
-						var artists = country.artists;
-						if (!artists[expo.i]) {
-							artists[expo.i] = {
-								slice: null,
-								iteration: 0
-							};
-						}
-						if (artists[expo.i].iteration < iteration) {
-							if (!country.nb_artists) {
-								country.nb_artists = 1;
-							} else {
-								country.nb_artists++;
+						if (expo.c) {
+							var country = data.continents[data.cc[expo.c]].countries[expo.c];
+							var artists = country.artists;
+							if (!artists[expo.i]) {
+								artists[expo.i] = {
+									slice: null,
+									iteration: 0
+								};
 							}
-							max_artists = Math.max(max_artists, country.nb_artists);
+							if (artists[expo.i].iteration < iteration) {
+								if (!country.nb_artists) {
+									country.nb_artists = 1;
+								} else {
+									country.nb_artists++;
+								}
+								max_artists = Math.max(max_artists, country.nb_artists);
+							}
+							artists[expo.i].iteration = iteration;
+							if ($scope.countries.indexOf(expo.c) == -1) {
+								$scope.countries.push(expo.c);
+							}
+							if ($scope.artists.indexOf(expo.i) == -1) {
+								$scope.artists.push(expo.i);
+							}
+							country.has_artists = true;
+							country.artists = artists;
+							data.continents[data.cc[expo.c]].countries[expo.c] = country;
 						}
-						artists[expo.i].iteration = iteration;
-						if ($scope.countries.indexOf(expo.c) == -1) {
-							$scope.countries.push(expo.c);
-						}
-						if ($scope.artists.indexOf(expo.i) == -1) {
-							$scope.artists.push(expo.i);
-						}
-						country.has_artists = true;
-						country.artists = artists;
-						data.continents[data.cc[expo.c]].countries[expo.c] = country;
 					}
 				});
 
 				nb_countries = $scope.countries.length;
 
-				updateStatus($scope.artists.length, nb_countries);
+				updateStatus(max_artists, nb_countries);
 
 			}
 
 			function updateStatus(nb_artists, nb_countries, in_country) {
 				in_country = null;
-				angular.element('.status').html("Actuellement " + nb_artists + " artistes<br /> exposent dans " + nb_countries + " pays");
+				var txt, verb;
+				switch ($scope.period) {
+					case 'today':
+						txt = "Actuellement";
+						verb = "exposent";
+						break;
+					default:
+						txt = "En " + $scope.period;
+						verb = "exposaient";
+						break;
+				}
+				txt += " " + nb_artists + " artistes<br /> " + verb + " dans " + nb_countries + " pays"
+				angular.element('.status').html(txt);
 			}
 
 			function drawChart() {
@@ -205,61 +219,48 @@ define(['./module'], function(app) {
 				console.log("nb_countries : " + nb_countries);
 				console.log("max_artists : " + max_artists);
 
-				var a = (360 - (nb_countries * a_interval)) / nb_countries;
+				var a = 360 / nb_countries;
 				var rotation = 0;
+				var layerW = divW / 3 / max_artists;
 
-				var new_filledArc, previous_artist_filledArc;
+				console.log("layerW : " + layerW);
 
 				angular.forEach(data.continents, function(continent, continent_name) {
 					// console.log("->" + continent_name);
 
 					angular.forEach(continent.countries, function(country, country_code) {
-						// console.log(country_code);
+						console.log(country_code + ' (' + country.nb_artists + ')');
 
-						var radius = central_radius;
-						var previous_artist = null;
+						var country_width = -(layerW * country.nb_artists);
 
-						angular.forEach(country.artists, function(artist) {
+						// filledArc : [ X Position, Y Position, Radius, Width, Angle, Rotation ]
+						var filledArc = [originX, originY, central_radius, country_width, a, rotation];
 
-							var layerW = artist.iteration < iteration ? 0 : divW / 3 / max_artists;
+						// console.log(filledArc);
 
-							radius += layerW;
+						if (country.slice === null) {
+							country.slice = chart.path().attr({
+								fill: '#FF0000',
+								stroke: "#FFFFFF",
+								'stroke-width': 1,
+								filledArc: [originX, originY, central_radius, 0, a, rotation]
+							}).animate({
+								filledArc: filledArc
+							}, animation_delay);
 
-							// filledArc : [ X Position, Y Position, Radius, Width, Angle, Rotation ]
-							var previous_filledArc = artist.filledArc;
-							artist.filledArc = [originX, originY, radius, layerW, a, rotation];
+							country.slice.node.setAttribute('class', 'country-' + country_code);
+						} else {
+							country.slice.animate({
+								filledArc: filledArc
+							}, animation_delay, null, function() {
+								// console.log("animated");
+							});
+						}
 
-							if (artist.slice === null) {
-								if (previous_artist) {
-									new_filledArc = previous_artist_filledArc;
-								} else {
-									new_filledArc = [originX, originY, central_radius, layerW, a, country.rotation === undefined ? rotation : country.rotation];
-								}
-								artist.slice = chart.path().attr({
-									fill: '#FF0000',
-									// stroke: "#FF4444",
-									'stroke-width': 0,
-									filledArc: new_filledArc
-								}).animate({
-									filledArc: artist.filledArc
-								}, animation_delay);
-
-								artist.slice.node.setAttribute('class', 'country-' + country_code + ' artist artist-' + artist.i);
-							} else {
-								artist.slice.animate({
-									filledArc: artist.filledArc
-								}, animation_delay, null, function() {
-									// console.log("animated");
-								});
-							}
-
-							previous_artist_filledArc = previous_filledArc;
-
-						});
-
-						rotation += country.has_artists ? (a + a_interval) : 0;
-
-						data.continents[continent_name].countries[country_code].rotation = country.rotation = rotation;
+						if (country.nb_artists) {
+							// rotation += country.nb_artists ? a : 0;
+							rotation += a;
+						}
 					});
 
 				});

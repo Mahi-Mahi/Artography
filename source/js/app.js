@@ -7,7 +7,8 @@ define([
 	'./config',
 	'./modules/data/index',
 	'./modules/home/index',
-	'./modules/artists/index'
+	'./modules/artists/index',
+	'./modules/artist/index'
 ], function(ng) {
 	'use strict';
 
@@ -17,6 +18,7 @@ define([
 		'app.constants',
 		'app.dataService',
 		'app.home',
-		'app.artists'
+		'app.artists',
+		'app.artist'
 	]);
 });

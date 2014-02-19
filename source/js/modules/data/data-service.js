@@ -8,8 +8,8 @@ define(['./module'], function(app) {
 		dataService.data = {};
 
 		// TODO autoupdate on gulp.bump-version ( == git.revision )
-		// so from a config.json
-		dataService.version = 1; //Date.now();
+		// eq. from a config.json
+		dataService.version = Date.now();
 
 		/*
 		http://gregpike.net/demos/angular-local-storage/demo/demo.html
@@ -36,7 +36,6 @@ define(['./module'], function(app) {
 		}
 
 		dataService.get = function(type, idx) {
-			console.log("dataService.get(" + type + "," + idx);
 			var deferred = $q.defer();
 
 			// get from app cache
@@ -52,8 +51,6 @@ define(['./module'], function(app) {
 				data = dataService.data[type];
 			}
 
-			console.log(data);
-
 			if (data === undefined) {
 				// get from localStorage
 				var data = localStorageService.get(data_key);
@@ -63,8 +60,6 @@ define(['./module'], function(app) {
 					var url = '/data/' + type + (idx ? '/' + idx : '') + '.json';
 
 					// get from http
-					console.log("fetch " + url);
-					// var res = $http.get(url).success(function(response) {
 					var res = $http({
 						method: 'GET',
 						url: url
