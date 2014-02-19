@@ -30,7 +30,7 @@ CSV.foreach('csv/expos.csv') do |row|
 
 	break if row.nil?
 	break if row[0].nil?
-	break if idx > 1000
+	break if idx > 250
 
 	next unless idx > 1
 
@@ -41,7 +41,7 @@ CSV.foreach('csv/expos.csv') do |row|
 
 	next if artist[:country] == 'France'
 
-	country = row[8].downcase.gsub(/[^\w]/, '-')
+	country = row[8].downcase.gsub(/[^\w]+/, '-').gsub(/[^\w]$/, '')
 	countries[country] = row[8]
 
 	artists[artist[:id]] = artist
@@ -91,7 +91,7 @@ years.each do |year|
 end
 
 # Countries
-countries.each do |country|
+Hash[countries.sort].each do |country|
 	filename = "json/countries.json"
 	content = production ? countries.to_json : JSON.pretty_generate(countries)
 	File.open(filename, 'w') { |file| file.write content }

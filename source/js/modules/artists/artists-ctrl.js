@@ -79,6 +79,7 @@ define(['./module'], function(app) {
 
 				var data = {};
 				var artists = [];
+				var artists_countries = [];
 
 				angular.forEach(expos, function(expo) {
 					if (!data[expo.c])
@@ -107,6 +108,8 @@ define(['./module'], function(app) {
 				var slice;
 
 				var i = 0;
+
+				console.log(data);
 
 				angular.forEach(data, function(artists, country) {
 
@@ -148,15 +151,20 @@ define(['./module'], function(app) {
 
 						// console.log(path);
 						var key = country + '-' + artist;
-						console.log(key);
+
+						artists_countries.push(key);
+
 						if (artists_countries_elt[key]) {
 							slice = chart.getById(artists_countries_elt[key]);
 							var transformedPath = Raphael.transformPath(slice.attr('path').toString(), path);
-							console.log(transformedPath.toString());
 							slice.animate({
 								path: path
 							}, 500, null, function() {
-								console.log("animated");
+								// console.log("animated");
+							}).attr({
+								fill: '#0000FF',
+								"stroke-width": 0.5,
+								"stroke": "#fff"
 							});
 						} else {
 							slice = chart.path(path).attr({
@@ -177,11 +185,9 @@ define(['./module'], function(app) {
 
 				});
 
-				console.log(artists_countries_elt);
-
 				angular.forEach(artists_countries_elt, function(slice_id, artist_country_id) {
-					if (artists.indexOf(parseInt(artist_country_id, 10)) == -1) {
-						console.log('remove');
+
+					if (artists_countries.indexOf(artist_country_id) == -1) {
 						chart.getById(slice_id).remove();
 						delete artists_countries_elt[artist_country_id];
 					}
