@@ -13,7 +13,7 @@ define(['./module'], function(app) {
 			var years = dataService.data.years;
 
 			// default period
-			$scope.period = '2014';
+			$scope.period = 'today';
 
 			$scope.periods = [{
 				name: "aujourd'hui",
@@ -113,10 +113,15 @@ define(['./module'], function(app) {
 				country_title_margin = 30,
 				margin = 10 + continent_title_margin + country_title_margin;
 
-			var a_interval = 2;
+			var a_interval = 1;
 			var animation_delay = 500,
 				fadeOut_delay = 200,
 				fadeIn_delay = 200;
+
+			var timeouts = {};
+
+			var show_continent_label = true,
+				show_country_label = true;
 
 			raphael.circle(originX, originY, central_radius - 5).attr({
 				'stroke': '#333',
@@ -260,54 +265,20 @@ define(['./module'], function(app) {
 						var country_width = -(layerW * country.nb_artists);
 
 						// filledArc : [ X Position, Y Position, Radius, Width, Angle, Rotation ]
-						var filledArc = [originX, originY, central_radius, country_width, a, rotation];
+						var filledArc = [originX, originY, central_radius, country_width, a - a_interval, rotation];
 
 						// console.log(filledArc);
 						if (country.slice === null) {
 							country.slice = raphael.path().attr({
 								fill: '#FF0000',
 								stroke: "#FFFFFF",
-								'stroke-width': 1,
-								filledArc: [originX, originY, central_radius, 0, a, rotation]
+								'stroke-width': 0,
+								filledArc: [originX, originY, central_radius, 0, a - a_interval, rotation]
 							}).animate({
 								filledArc: filledArc
 							}, animation_delay);
 
 							country.slice.node.setAttribute('class', 'country-' + country_code);
-
-							if (country.nb_artists) {
-
-								if (country.title_set) {
-									country.title_set.forEach(function(el) {
-										el.animate({
-											opacity: 0
-										}, fadeOut_delay, function() {
-											this.remove();
-										});
-									});
-								}
-								if (country.title_path) {
-									country.title_path.animate({
-										opacity: 0
-									}, fadeOut_delay, function() {
-										this.remove();
-									});
-								}
-
-								// var simpleArc = [originX, originY, a, divW / 2 - continent_title_margin - country_title_margin, rotation - a / 2];
-								var simpleArc = [originX, originY, divW / 2 - continent_title_margin - country_title_margin, a - a_interval, rotation - a / 2];
-								country.title_path = raphael.path().attr({
-									stroke: "#0000FF",
-									'stroke-width': 1,
-									simpleArc: simpleArc,
-									opacity: 0
-								}).animate({
-									opacity: 1
-								}, fadeIn_delay);
-								var res = prepareText(country.country.fr, 12, 1, true, true, '00FF00', 'normal');
-								var message = (res.messageLength > country.title_path.getTotalLength() * 0.75) ? country_code : country.country.fr;
-								country.title_set = textOnPath(message, country.title_path, 12, 1, true, true, 0, '00FF00', 'normal', a, rotation - a / 2);
-							}
 
 						} else {
 							country.slice.animate({
@@ -317,6 +288,38 @@ define(['./module'], function(app) {
 							});
 						}
 
+						// Country Label
+						if (show_country_label) {
+							if (country.title_set) {
+								country.title_set.remove();
+							}
+							if (country.title_path) {
+								country.title_path.remove();
+							}
+							if (country.nb_artists) {
+								(function(country, country_code, a, rotation) {
+									clearTimeout(timeouts[country_code]);
+									timeouts[country_code] = setTimeout(function() {
+										// var simpleArc = [originX, originY, a, divW / 2 - continent_title_margin - country_title_margin, rotation - a / 2];
+										var simpleArc = [originX, originY, divW / 2 - continent_title_margin - country_title_margin, a - a_interval, rotation];
+										country.title_path = raphael.path().attr({
+											stroke: "#0000FF",
+											'stroke-width': 1,
+											simpleArc: simpleArc,
+											opacity: 0
+										}).animate({
+											opacity: 1
+										}, fadeIn_delay);
+
+										// var res = prepareText(country.country.fr, 12, 1, true, true, '00FF00', 'normal');
+										// var message = (res.messageLength > country.title_path.getTotalLength() * 0.75) ? country_code : country.country.fr;
+										var message = country_code;
+										country.title_set = textOnPath(message, country.title_path, 12, 1, true, true, 0, '00FF00', 'normal', a, rotation);
+									}, 300);
+								})(country, country_code, a, rotation);
+							}
+						}
+
 						if (country.nb_artists) {
 							// rotation += country.nb_artists ? a : 0;
 							rotation += a;
@@ -324,15 +327,13 @@ define(['./module'], function(app) {
 						}
 					});
 
-					if (nb_countries) {
-
+					// Continent label
+					if (show_continent_label) {
 						if (continent.title_set) {
-							continent.title_set.forEach(function(el) {
-								el.animate({
-									opacity: 0
-								}, fadeOut_delay, function() {
-									this.remove();
-								});
+							continent.title_set.animate({
+								opacity: 0
+							}, fadeOut_delay, function() {
+								this.remove();
 							});
 						}
 						if (continent.title_path) {
@@ -343,21 +344,28 @@ define(['./module'], function(app) {
 							});
 						}
 
-						var continent_a = nb_countries * a;
+						if (nb_countries) {
 
-						var simpleArc = [originX, originY, divW / 2 - continent_title_margin, continent_a - a_interval, continent_rotation];
+							var continent_a = nb_countries * a;
 
-						continent.title_path = raphael.path().attr({
-							stroke: "#00FF00",
-							'stroke-width': 2,
-							simpleArc: simpleArc,
-							opacity: 0
-						}).animate({
-							opacity: 1
-						}, fadeIn_delay);
-						var res = prepareText(continent_name, 12, 1, true, true, '00FF00', 'normal');
-						var message = (res.messageLength > continent.title_path.getTotalLength() * 0.75) ? continent_name.substr(0, 3) : continent_name;
-						continent.title_set = textOnPath(message, continent.title_path, 12, 1, true, true, 0, '00FF00', 'normal', continent_a, continent_rotation);
+							(function(continent, continent_name, continent_a, continent_rotation) {
+								clearTimeout(timeouts[continent_name]);
+								timeouts[continent_name] = setTimeout(function() {
+
+									var simpleArc = [originX, originY, divW / 2 - continent_title_margin, continent_a - a_interval, continent_rotation];
+
+									continent.title_path = raphael.path().attr({
+										stroke: "#00FF00",
+										'stroke-width': 2,
+										simpleArc: simpleArc
+									});
+									var res = prepareText(continent_name, 12, 1, true, true, '00FF00', 'normal');
+									var message = (res.messageLength > continent.title_path.getTotalLength() * 0.75) ? continent_name.substr(0, 3) : continent_name;
+									continent.title_set = textOnPath(message, continent.title_path, 12, 1, true, true, 0, '00FF00', 'normal', continent_a, continent_rotation);
+								}, 300);
+							})(continent, continent_name, continent_a, continent_rotation);
+
+						}
 					}
 
 				});
@@ -435,6 +443,7 @@ define(['./module'], function(app) {
 				// console.log(message + "(" + messageLength + ")");
 
 				point = (path.getTotalLength() - messageLength) / 2;
+				letterSpacing = 1;
 				letterSpacing += ((path.getTotalLength() - messageLength) / 2) / 200;
 
 				if (letterSpacing) {
@@ -447,7 +456,8 @@ define(['./module'], function(app) {
 				fontSize = fontSize || 10 * letterSpacing;
 
 				c = letters.length - 1;
-				var R = rotation - a / 2;
+				var R = rotation;
+
 				if ((R < 70 || R > 240) && a < 180) {
 					message = message.split("").reverse().join("");
 					res = prepareText(message, fontSize, letterSpacing, kerning, geckoKerning, fontColor, fontWeight);
