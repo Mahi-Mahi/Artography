@@ -13,7 +13,7 @@ define(['./module'], function(app) {
 			var years = dataService.data.years;
 
 			// default period
-			$scope.period = '2013';
+			$scope.period = '2014';
 
 			$scope.periods = [{
 				name: "aujourd'hui",
@@ -108,13 +108,15 @@ define(['./module'], function(app) {
 			var originX = offsetX + divW / 2;
 			var originY = offsetY + divH / 2;
 
-			var central_radius = 60;
-			var continent_title_margin = 30;
-			var country_title_margin = 30;
-			var margin = 20 + continent_title_margin + country_title_margin;
+			var central_radius = 60,
+				continent_title_margin = 10,
+				country_title_margin = 30,
+				margin = 10 + continent_title_margin + country_title_margin;
 
-			var animation_delay = 500;
 			var a_interval = 2;
+			var animation_delay = 500,
+				fadeOut_delay = 200,
+				fadeIn_delay = 200;
 
 			raphael.circle(originX, originY, central_radius - 5).attr({
 				'stroke': '#333',
@@ -166,7 +168,6 @@ define(['./module'], function(app) {
 				console.log($scope.period);
 
 				var expos = dataService.data.expos[$scope.period];
-				console.log(dataService.data);
 				console.log("expos : " + expos.length);
 
 				$scope.countries = [];
@@ -247,10 +248,8 @@ define(['./module'], function(app) {
 				var rotation = 0;
 				var layerW = ((divW / 2) - (central_radius + margin)) / max_artists;
 
-				console.log("layerW : " + layerW);
-
 				angular.forEach(data.continents, function(continent, continent_name) {
-					console.log("->" + continent_name);
+					// console.log("->" + continent_name);
 
 					nb_countries = 0;
 					var continent_rotation = rotation;
@@ -278,14 +277,36 @@ define(['./module'], function(app) {
 
 							if (country.nb_artists) {
 
+								if (country.title_set) {
+									country.title_set.forEach(function(el) {
+										el.animate({
+											opacity: 0
+										}, fadeOut_delay, function(el) {
+											el.remove();
+										});
+									});
+								}
+								if (country.title_path) {
+									country.title_path.animate({
+										opacity: 0
+									}, fadeOut_delay, function(el) {
+										el.remove();
+									});
+								}
+
 								// var simpleArc = [originX, originY, a, divW / 2 - continent_title_margin - country_title_margin, rotation - a / 2];
-								var simpleArc = [originX, originY, divW / 2 - continent_title_margin - country_title_margin, a, rotation - a / 2];
+								var simpleArc = [originX, originY, divW / 2 - continent_title_margin - country_title_margin, a - a_interval, rotation - a / 2];
 								country.title_path = raphael.path().attr({
 									stroke: "#0000FF",
 									'stroke-width': 1,
-									simpleArc: simpleArc
-								});
-								textOnPath(country_code, country.title_path, 12, 1, true, true, 0, '00FF00', 'normal');
+									simpleArc: simpleArc,
+									opacity: 0
+								}).animate({
+									opacity: 1
+								}, fadeIn_delay);
+								var res = prepareText(country.country.fr, 12, 1, true, true, '00FF00', 'normal');
+								var message = (res.messageLength > country.title_path.getTotalLength() * 0.75) ? country_code : country.country.fr;
+								country.title_set = textOnPath(message, country.title_path, 12, 1, true, true, 0, '00FF00', 'normal', a, rotation - a / 2);
 							}
 
 						} else {
@@ -298,34 +319,52 @@ define(['./module'], function(app) {
 
 						if (country.nb_artists) {
 							// rotation += country.nb_artists ? a : 0;
-							console.log(rotation);
 							rotation += a;
 							nb_countries++;
 						}
 					});
 
 					if (nb_countries) {
-						console.log("->" + continent_name);
-						console.log(nb_countries + "countries");
+
+						if (continent.title_set) {
+							continent.title_set.forEach(function(el) {
+								el.animate({
+									opacity: 0
+								}, fadeOut_delay, function(el) {
+									el.remove();
+								});
+							});
+						}
+						if (continent.title_path) {
+							continent.title_path.animate({
+								opacity: 0
+							}, fadeOut_delay, function(el) {
+								el.remove();
+							});
+						}
 
 						var continent_a = nb_countries * a;
 
-						var simpleArc = [originX, originY, divW / 2 - continent_title_margin - country_title_margin - 100, continent_a, continent_rotation - continent_a / 2];
+						var simpleArc = [originX, originY, divW / 2 - continent_title_margin, continent_a - a_interval, continent_rotation];
 
-						var continent_title_path = raphael.path().attr({
+						continent.title_path = raphael.path().attr({
 							stroke: "#00FF00",
-							'stroke-width': 1,
-							simpleArc: simpleArc
-						});
-						textOnPath(continent_name, continent_title_path, 12, 1, true, true, 0, '00FF00', 'normal');
+							'stroke-width': 2,
+							simpleArc: simpleArc,
+							opacity: 0
+						}).animate({
+							opacity: 1
+						}, fadeIn_delay);
+						var res = prepareText(continent_name, 12, 1, true, true, '00FF00', 'normal');
+						var message = (res.messageLength > continent.title_path.getTotalLength() * 0.75) ? continent_name.substr(0, 3) : continent_name;
+						continent.title_set = textOnPath(message, continent.title_path, 12, 1, true, true, 0, '00FF00', 'normal', continent_a, continent_rotation);
 					}
 
 				});
 
 			}
 
-			function textOnPath(message, path, fontSize, letterSpacing, kerning, geckoKerning, point, fontColor, fontWeight) {
-
+			function prepareText(message, fontSize, letterSpacing, kerning, geckoKerning, fontColor, fontWeight) {
 				var fontFamily = "Open sans";
 
 				var gecko = /rv:([^\)]+)\) Gecko\/\d{8}/.test(navigator.userAgent || '') ? true : false;
@@ -336,7 +375,7 @@ define(['./module'], function(app) {
 				for (var c = 0; c < message.length; c++) {
 
 					var letter = raphael.text(0, 0, message[c]).attr({
-						"text-anchor": "middle",
+						"text-anchor": "bottom",
 						"fill": fontColor,
 						"font-weight": fontWeight
 					});
@@ -376,6 +415,28 @@ define(['./module'], function(app) {
 					messageLength += Math.max(4.5, letter.getBBox().width);
 				}
 
+				return {
+					letters: letters,
+					places: places,
+					messageLength: messageLength
+				};
+			}
+
+			function textOnPath(message, path, fontSize, letterSpacing, kerning, geckoKerning, point, fontColor, fontWeight, a, rotation) {
+				var set = raphael.set();
+				var fontFamily = "Open sans";
+				var gecko = /rv:([^\)]+)\) Gecko\/\d{8}/.test(navigator.userAgent || '') ? true : false;
+				var c, reverse;
+				var res = prepareText(message, fontSize, letterSpacing, kerning, geckoKerning, fontColor, fontWeight);
+				var letters = res.letters,
+					places = res.places,
+					messageLength = res.messageLength;
+
+				// console.log(message + "(" + messageLength + ")");
+
+				point = (path.getTotalLength() - messageLength) / 2;
+				letterSpacing += ((path.getTotalLength() - messageLength) / 2) / 200;
+
 				if (letterSpacing) {
 					if (gecko) {
 						letterSpacing = letterSpacing * 0.83;
@@ -385,20 +446,37 @@ define(['./module'], function(app) {
 				}
 				fontSize = fontSize || 10 * letterSpacing;
 
+				c = letters.length - 1;
+				var R = rotation - a / 2;
+				if ((R < 70 || R > 240) && a < 180) {
+					message = message.split("").reverse().join("");
+					res = prepareText(message, fontSize, letterSpacing, kerning, geckoKerning, fontColor, fontWeight);
+					letters = res.letters;
+					places = res.places;
+					messageLength = res.messageLength;
+					reverse = true;
+				}
+
 				for (c = 0; c < letters.length; c++) {
 					letters[c].attr({
 						"font-size": fontSize + "px",
 						"font-family": fontFamily
 					});
 					var p = path.getPointAtLength(places[c] * letterSpacing + point);
-					var rotate = 'R' + (p.alpha < 180 ? p.alpha + 180 : p.alpha > 360 ? p.alpha - 360 : p.alpha) + ',' + p.x + ',' + p.y;
-					letters[c].attr({
-						x: p.x,
-						y: p.y,
-						transform: rotate
-					}).toFront();
+					// var rotate = 'R' + (p.alpha < 180 && reverse ? p.alpha + 180 : p.alpha > 360 ? p.alpha - 360 : p.alpha) + ',' + p.x + ',' + p.y;
+					var rotate = 'R' + (p.alpha < 180 || reverse ? p.alpha + 180 : p.alpha) + ',' + p.x + ',' + p.y;
+					set.push(letters[c].attr({
+							x: p.x,
+							y: p.y,
+							transform: rotate,
+							opacity: 0
+						}).animate({
+							opacity: 1
+						}, fadeIn_delay)
+						.toFront());
 
 				}
+				return set;
 			}
 
 		}
