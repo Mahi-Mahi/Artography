@@ -281,16 +281,16 @@ define(['./module'], function(app) {
 									country.title_set.forEach(function(el) {
 										el.animate({
 											opacity: 0
-										}, fadeOut_delay, function(el) {
-											el.remove();
+										}, fadeOut_delay, function() {
+											this.remove();
 										});
 									});
 								}
 								if (country.title_path) {
 									country.title_path.animate({
 										opacity: 0
-									}, fadeOut_delay, function(el) {
-										el.remove();
+									}, fadeOut_delay, function() {
+										this.remove();
 									});
 								}
 
@@ -330,16 +330,16 @@ define(['./module'], function(app) {
 							continent.title_set.forEach(function(el) {
 								el.animate({
 									opacity: 0
-								}, fadeOut_delay, function(el) {
-									el.remove();
+								}, fadeOut_delay, function() {
+									this.remove();
 								});
 							});
 						}
 						if (continent.title_path) {
 							continent.title_path.animate({
 								opacity: 0
-							}, fadeOut_delay, function(el) {
-								el.remove();
+							}, fadeOut_delay, function() {
+								this.remove();
 							});
 						}
 
