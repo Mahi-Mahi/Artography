@@ -47,10 +47,10 @@ define(['./module'], function(app) {
 			var nb_countries = 0;
 			var max_artists = 0;
 
-			var canvasW = 700,
-				divW = 700,
-				canvasH = 700,
-				divH = 700;
+			var canvasW = 800,
+				divW = 800,
+				canvasH = 800,
+				divH = 800;
 
 			var raphael = new Raphael(document.getElementById('canvas'), canvasW, canvasH);
 
@@ -118,6 +118,8 @@ define(['./module'], function(app) {
 				fadeOut_delay = 200,
 				fadeIn_delay = 200;
 
+			var delayed_display = [];
+
 			var timeouts = {};
 
 			var show_continent_label = true,
@@ -160,6 +162,15 @@ define(['./module'], function(app) {
 					};
 				});
 			});
+
+			setInterval(function() {
+				angular.forEach(delayed_display, function(item, idx) {
+					delete delayed_display[idx];
+					item.animate({
+						opacity: 1
+					}, fadeIn_delay);
+				});
+			}, 50);
 
 			function update() {
 				parseData();
@@ -253,6 +264,11 @@ define(['./module'], function(app) {
 				var rotation = 0;
 				var layerW = ((divW / 2) - (central_radius + margin)) / max_artists;
 
+				angular.forEach(delayed_display, function(item, idx) {
+					delete delayed_display[idx];
+					item.remove();
+				});
+
 				angular.forEach(data.continents, function(continent, continent_name) {
 					// console.log("->" + continent_name);
 
@@ -307,15 +323,16 @@ define(['./module'], function(app) {
 											'stroke-width': 1,
 											simpleArc: simpleArc,
 											opacity: 0
-										}).animate({
-											opacity: 1
-										}, fadeIn_delay);
+										});
 
 										// var res = prepareText(country.country.fr, 12, 1, true, true, '00FF00', 'normal');
 										// var message = (res.messageLength > country.title_path.getTotalLength() * 0.75) ? country_code : country.country.fr;
 										var message = country_code;
 										country.title_set = textOnPath(message, country.title_path, 12, 1, true, true, 0, '00FF00', 'normal', a, rotation);
-									}, 300);
+
+										delayed_display.push(country.title_path);
+
+									}, 150);
 								})(country, country_code, a, rotation);
 							}
 						}
@@ -362,7 +379,8 @@ define(['./module'], function(app) {
 									var res = prepareText(continent_name, 12, 1, true, true, '00FF00', 'normal');
 									var message = (res.messageLength > continent.title_path.getTotalLength() * 0.75) ? continent_name.substr(0, 3) : continent_name;
 									continent.title_set = textOnPath(message, continent.title_path, 12, 1, true, true, 0, '00FF00', 'normal', continent_a, continent_rotation);
-								}, 300);
+									delayed_display.push(continent.title_path);
+								}, 100);
 							})(continent, continent_name, continent_a, continent_rotation);
 
 						}
@@ -432,6 +450,8 @@ define(['./module'], function(app) {
 
 			function textOnPath(message, path, fontSize, letterSpacing, kerning, geckoKerning, point, fontColor, fontWeight, a, rotation) {
 				var set = raphael.set();
+				delayed_display.push(set);
+
 				var fontFamily = "Open sans";
 				var gecko = /rv:([^\)]+)\) Gecko\/\d{8}/.test(navigator.userAgent || '') ? true : false;
 				var c, reverse;
@@ -480,9 +500,7 @@ define(['./module'], function(app) {
 							y: p.y,
 							transform: rotate,
 							opacity: 0
-						}).animate({
-							opacity: 1
-						}, fadeIn_delay)
+						})
 						.toFront());
 
 				}
