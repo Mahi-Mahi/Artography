@@ -1,0 +1,66 @@
+// VARIABLES
+$base-font-size: 16px;
+$default-color:#000;
+$highlight-color:#f21c79;
+
+// OPACITY
+@mixin opacity($value) {
+  opacity: $value / 100;
+  -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=#{$value})";
+      filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=#{$value});
+}
+
+// BOX-SIZING
+@mixin border-box-sizing() {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+// IMAGE REPLACEMENT
+@mixin image-replacement($width, $height) {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  height: #{$height}px;
+  width: #{$width}px;
+}
+
+// TEXT WRAP
+@mixin text-wrap() {
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+          hyphens: auto;
+}
+
+// CSS TRANSITION
+@mixin transition($transition) {
+  -webkit-transition:$transition;
+  -moz-transition:$transition;
+  -o-transition:$transition;
+  -ms-transition:$transition;
+  transition:$transition;
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translate3d(0, 0, 0);      
+}
+
+// EM CONVERSION
+@function em($px, $base: $base-font-size) {
+    @return ($px / $base) * 1em;
+}
+
+// FONT-FACE
+@mixin font-face($font-family, $file-path, $weight: normal, $style: normal ) {
+  @font-face {
+    font-family: $font-family;
+    font-weight: $weight;
+    font-style: $style;
+      src: url('#{$file-path}.eot');
+      src: url('#{$file-path}.eot?#iefix')               format('embedded-opentype'),
+           url('#{$file-path}.woff')                     format('woff'),
+           url('#{$file-path}.ttf')                      format('truetype')
+  }
+}
