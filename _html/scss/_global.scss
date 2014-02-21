@@ -227,73 +227,71 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 
 // CUSTOM RADIO
 
-	[type="radio"]:not(:checked),
-	[type="radio"]:checked {
-		position: absolute;
-		left: -9999px;
-	}
-	[type="radio"]:not(:checked) + label,
-	[type="radio"]:checked + label {
-		position: relative;
-		padding: 5px 0 0 35px;
-		cursor: pointer;
-	}
+[type="radio"]:not(:checked), [type="radio"]:checked {
+	position: absolute;
+	left: -9999px;
+}
 
-	/* radio aspect */
-	[type="radio"]:not(:checked) + label:before,
-	[type="radio"]:checked + label:before {
-		content: '';
-		position: absolute;
-		left:0; top: 2px;
-		width: 25px; height: 25px;
-		border: 2px solid #6d6e71;
-		background: #fff;
-		border-radius: 4px;
-	}
-	/* checked mark aspect */
-	[type="radio"]:not(:checked) + label:after,
-	[type="radio"]:checked + label:after {
-		border-radius: 4px;
-		background:$highlight-color;
-		content: ' ';
-		position: absolute;
-		top: 9px;
-		left: 7px;
-		height:15px;
-		width:15px;
-		-webkit-transition: all .2s;
-		-moz-transition: all .2s;
-		-ms-transition: all .2s;
-		transition: all .2s;
-	}
-	/* checked mark aspect changes */
-	[type="radio"]:not(:checked) + label:after {
-		opacity: 0;
-		-webkit-transform: scale(0);
-		-moz-transform: scale(0);
-		-ms-transform: scale(0);
-		transform: scale(0);
-	}
-	[type="radio"]:checked + label:after {
-		opacity: 1;
-		-webkit-transform: scale(1);
-		-moz-transform: scale(1);
-		-ms-transform: scale(1);
-		transform: scale(1);
-	}
-	/* disabled radio */
-	[type="radio"]:disabled:not(:checked) + label:before,
-	[type="radio"]:disabled:checked + label:before {
-		box-shadow: none;
-		border-color: #bbb;
-		background-color: #ddd;
-	}
-	[type="radio"]:disabled:checked + label:after {
-		color: #999;
-	}
-	[type="radio"]:disabled + label {
-		color: #aaa;
-	}
+[type="radio"]:not(:checked) + label, [type="radio"]:checked + label {
+	position: relative;
+	padding: 5px 0 0 35px;
+	cursor: pointer;
+}
+
+[type="radio"]:not(:checked) + label:before, [type="radio"]:checked + label:before {
+	content: '';
+	position: absolute;
+	left:0; top: 2px;
+	width: 25px; height: 25px;
+	border: 2px solid #6d6e71;
+	background: #fff;
+	border-radius: 4px;
+}
+
+[type="radio"]:not(:checked) + label:after, [type="radio"]:checked + label:after {
+	border-radius: 4px;
+	background:$highlight-color;
+	content: ' ';
+	position: absolute;
+	top: 9px;
+	left: 7px;
+	height:15px;
+	width:15px;
+	-webkit-transition: all .2s;
+	-moz-transition: all .2s;
+	-ms-transition: all .2s;
+	transition: all .2s;
+}
+
+[type="radio"]:not(:checked) + label:after {
+	opacity: 0;
+	-webkit-transform: scale(0);
+	-moz-transform: scale(0);
+	-ms-transform: scale(0);
+	transform: scale(0);
+}
+
+[type="radio"]:checked + label:after {
+	opacity: 1;
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);
+}
+
+[type="radio"]:disabled:not(:checked) + label:before, [type="radio"]:disabled:checked + label:before {
+	box-shadow: none;
+	border-color: #bbb;
+	background-color: #ddd;
+}
+
+[type="radio"]:disabled:checked + label:after {
+	color: #999;
+}
+
+[type="radio"]:disabled + label {
+	color: #aaa;
+}
 
 // RIGHT SIDEBAR
 
@@ -301,7 +299,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	display: block;
 	font-size:em(24px);
 	margin: 0;
-	padding:0;
+	padding:0 0 4px 0;
 	a {
 		border-radius:4px;
 		display: block;
@@ -311,6 +309,11 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	&:nth-child(even) a {
 		background:rgb(239,239,239);
 		background:rgba(239,239,239,.5);		
+	}
+	.active {
+		background:rgb(78,78,78) !important;
+		background:rgba(78,78,78,.9) !important;
+		color:#fff !important;		
 	}
 }
 

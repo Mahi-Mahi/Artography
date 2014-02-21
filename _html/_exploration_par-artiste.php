@@ -102,10 +102,10 @@
 					<ul class="unstyled">
 						<li class="artist-item"><a href="#">Jet li</a></li>
 						<li class="artist-item"><a href="#">Arnold Schwarzenegger</a></li>
-						<li class="artist-item"><a href="#">Bruce Willis</a></li>
+						<li class="artist-item"><a href="#" class="active">Bruce Willis</a></li>
 						<li class="artist-item"><a href="#">Syvester Stallone</a></li>
 						<li class="artist-item"><a href="#">Jason Statham</a></li>
-						<li class="artist-item"><a href="#">Dolph Lundgren</a></li>
+						<li class="artist-item"><a href="#" class="active">Dolph Lundgren</a></li>
 						<li class="artist-item"><a href="#">Randy Couture</a></li>
 						<li class="artist-item"><a href="#">Mickey Rourke</a></li>
 						<li class="artist-item"><a href="#">Charisma Carpenter</a></li>
