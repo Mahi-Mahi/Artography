@@ -264,7 +264,6 @@ textarea {
   font: normal 3.875em/1.1 'Tungsten-Light', Arial, Verdana, sans-serif;
   margin: 0.24194em 0;
   padding: 0.24194em 0.64516em;
-  text-transform: uppercase;
   vertical-align: top; }
   .entry-title strong {
     font-family: 'Tungsten-Medium', Arial, Verdana, sans-serif;
@@ -313,7 +312,7 @@ textarea {
 
 [type="radio"]:not(:checked), [type="radio"]:checked {
   position: absolute;
-  left: -9999px; }
+  left: -999em; }
 
 [type="radio"]:not(:checked) + label, [type="radio"]:checked + label {
   position: relative;

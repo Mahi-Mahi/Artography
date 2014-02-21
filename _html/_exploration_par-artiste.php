@@ -17,7 +17,7 @@
 		</p>
 		<div class="entry-content">
 			<h1 class="entry-title">
-				Exploration <br />par <strong>artiste</strong>
+				EXPLORATION <br />PAR <strong>ARTISTE</strong>
 			</h1>
 			<div class="entry-description">
 				<div class="inner">

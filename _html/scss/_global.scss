@@ -166,7 +166,6 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	font:normal 3.875em/1.1 'Tungsten-Light', Arial, Verdana, sans-serif;
 	margin:em(15px,62px) 0;
 	padding:em(15px,62px) em(40px,62px);
-	text-transform: uppercase;
 	vertical-align: top;
 	strong {
 		font-family:'Tungsten-Medium', Arial, Verdana, sans-serif;
@@ -229,7 +228,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 
 [type="radio"]:not(:checked), [type="radio"]:checked {
 	position: absolute;
-	left: -9999px;
+	left: -999em;
 }
 
 [type="radio"]:not(:checked) + label, [type="radio"]:checked + label {
