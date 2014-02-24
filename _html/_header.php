@@ -23,4 +23,4 @@
 	<script src="<?php echo $themePath; ?>/js/vendor/jquery-migrate-1.2.1.js"></script>
 	<script src="<?php echo $themePath; ?>/js/main.js"></script>
 </head>
-<body>
+<body class="<?php print $bodyclass; ?>">

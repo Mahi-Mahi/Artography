@@ -18,13 +18,20 @@
 		<div class="entry-content">
 			<section>
 				<h1 class="entry-title">
-					EXPLORATION <br />PAR <strong>ARTISTE</strong>
+					Daniel Buren
 				</h1>
+				<div class="entry-meta clearfix">
+					Homme - 61 ans
+					<ul class="unstyled">
+						<li class="entry-meta-item"><a href="#" target="_blank">Infos galerie</a></li>
+						<li class="entry-meta-item"><a href="#" target="_blank">Site internet</a></li>
+					</ul>
+				</div>
 			</section>
 			<aside>
 				<div class="entry-description">
 					<div class="inner">
-						<p><strong>Aujourd'hui <br />111 artistes</strong> français <br />exposent dans <strong>22 pays</strong>.</p>
+						<p><strong>En 2013,</strong> cet artiste <br />a exposé dans <strong>13 pays</strong> <br />via <strong>26 expositions</strong>.</p>
 					</div><!-- .inner -->
 				</div><!-- .entry-description -->
 			</aside>
@@ -94,43 +101,61 @@
 						?>
 					</ul>
 				</fieldset>
+
 			</form>
+
+			<div class="legend">
+				<fieldset>
+					<legend>Légende</legend>
+					<dl>
+						<dt>Type d'exposition</dt>
+						<dd><strong>Solo</strong> 3</dd>
+						<dd><strong>Collective</strong> 23</dd>
+						<dt>Organisateur</dt>
+						<dd><strong>Institution publique</strong> 14</dd> 
+						<dd><strong>Structure privée</strong> 14</dd>
+						<dd><strong>Grande manifestation</strong> 14</dd>
+						<dd><strong>Autre</strong> 14</dd>
+					</dl>
+				</fieldset>
+			</div><!-- .legend -->
 
 		</div><!-- .left-sidebar -->
 
 		<div class="content">
-			&nbsp;
-			<div class="right-sidebar">
+
+			<div class="content-block">
+				<p>
+					<strong>87%</strong>
+					d'expositions à l'étranger
+				</p>
+			</div><!-- .content-block -->
+
+			<div class="right-sidebar artist-details-sidebar">
 				<form action="about:blank">
-					<input type="text" value="" class="input-sidebar" placeholder="Rechercher un artiste..." />
+					<input type="text" value="" class="input-sidebar" placeholder="Rechercher une exposition..." />
 					<ul class="unstyled">
-						<li class="artist-item"><a href="#">Jet li</a></li>
-						<li class="artist-item"><a href="#">Arnold Schwarzenegger</a></li>
-						<li class="artist-item"><a href="#" class="active">Bruce Willis</a></li>
-						<li class="artist-item"><a href="#">Syvester Stallone</a></li>
-						<li class="artist-item"><a href="#">Jason Statham</a></li>
-						<li class="artist-item"><a href="#" class="active">Dolph Lundgren</a></li>
-						<li class="artist-item"><a href="#">Randy Couture</a></li>
-						<li class="artist-item"><a href="#">Mickey Rourke</a></li>
-						<li class="artist-item"><a href="#">Charisma Carpenter</a></li>
-						<li class="artist-item"><a href="#">Jean-Claude Van Damme</a></li>
-						<li class="artist-item"><a href="#">Antonio Banderas</a></li>
-						<li class="artist-item"><a href="#">Wesley Snipes</a></li>
-						<li class="artist-item"><a href="#">Jet li</a></li>
-						<li class="artist-item"><a href="#">Arnold Schwarzenegger</a></li>
-						<li class="artist-item"><a href="#">Bruce Willis</a></li>
-						<li class="artist-item"><a href="#">Syvester Stallone</a></li>
-						<li class="artist-item"><a href="#">Jason Statham</a></li>
-						<li class="artist-item"><a href="#">Dolph Lundgren</a></li>
-						<li class="artist-item"><a href="#">Randy Couture</a></li>
-						<li class="artist-item"><a href="#">Mickey Rourke</a></li>
-						<li class="artist-item"><a href="#">Charisma Carpenter</a></li>
-						<li class="artist-item"><a href="#">Jean-Claude Van Damme</a></li>
-						<li class="artist-item"><a href="#">Antonio Banderas</a></li>
-						<li class="artist-item"><a href="#">Wesley Snipes</a></li>
+						<li class="exposition-item"><a href="#" class="colorA">Materializing "Six Years": Lucy R. Lippard and the Emergence of Conceptual Art</a></li>
+						<li class="exposition-item"><a href="#" class="colorB">A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond</a></li>
+						<li class="exposition-item"><a href="#" class="colorD">Una finestra sul mondo - Da Dürer a Mondrian e oltre</a></li>
+						<li class="exposition-item"><a href="#" class="colorC">Private Kunstsammlungen Münster - Director´s Choice</a></li>
+						<li class="exposition-item"><a href="#" class="colorD">Materializing "Six Years": Lucy R. Lippard and the Emergence of Conceptual Art</a></li>
+						<li class="exposition-item"><a href="#" class="colorC">A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond</a></li>
+						<li class="exposition-item"><a href="#" class="colorD">Una finestra sul mondo - Da Dürer a Mondrian e oltre</a></li>
+						<li class="exposition-item"><a href="#" class="colorB">Private Kunstsammlungen Münster - Director´s Choice</a></li>
 					</ul>
 				</form>
+
+				<div class="news-block">
+					<h2>Actualités</h2>
+					<ul class="unstyled">
+						<li class="news-block-item"><a href="#"><strong>Materializing Six Years: Lucy R. Lippard and the Emergence of Conceptual Art</strong> @New York -  USA / 2 février - 3 mars 2014 </a></li>
+						<li class="news-block-item"><a href="#"><strong>Una ﬁnestra sul mondo - Da Dürer a Mondrian e oltre</strong> @New York -  USA / 2 février - 3 mars 2014 </a></li>
+					</ul>
+				</div><!-- .news-block -->
+
 			</div><!-- .right-sidebar -->
+
 		</div><!-- .content -->
 	</div><!-- .main -->
 

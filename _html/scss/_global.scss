@@ -100,13 +100,35 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 
 .left-sidebar {
 	padding:0 0 0 40px;
-	width:180px;
+	width:220px;
 }
 
 .right-sidebar {
 	float:right;
 	padding:0 40px 0 0;
 	width:245px;
+}
+
+.artist-details-sidebar {
+	width:315px;
+}
+
+// COLORS
+
+.colorA {
+	color:#00a79d !important;
+}
+
+.colorB {
+	color:#ef4036 !important;
+}
+
+.colorC {
+	color:#9e1e62 !important;
+}
+
+.colorD {
+	color:#8cc63e !important;
 }
 
 // HEADER
@@ -136,6 +158,15 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 			background-position:4px 6px;		 	
 		}
 	}
+	.galerie & {
+		a {
+			color:$highlight-color;
+		}
+		.active {
+			background:$highlight-color;
+			color:#fff;
+		}
+	}
 }
 
 .go-back {
@@ -155,9 +186,28 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 			background-position:4px 6px;		 	
 		}
 	}
+	.galerie & {
+		a {
+			color:$highlight-color;
+		}
+	}
 }
 
 // CONTENT
+
+.entry-content {
+	section, aside {
+		float:left;
+		margin: 0;
+		padding:0; 
+	}
+	section {
+		max-width:50%;
+	}
+	aside {
+		float:right;
+	}
+}
 
 .entry-title {
 	background:$highlight-color;
@@ -171,13 +221,43 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		font-family:'Tungsten-Medium', Arial, Verdana, sans-serif;
 		font-weight: normal;
 	}
+	.galerie & {
+		background:#000;
+	}
+}
+
+.entry-meta {
+	display: block;
+	font:normal 1.5em 'Tungsten-Light', Arial, Verdana, sans-serif;
+	margin: 0;
+	padding: 0 0 0 40px;
+	text-transform: uppercase;
+}
+
+.entry-meta-item {
+	display: inline-block;
+	margin: 0;
+	padding:0 7px 0 0;
+	vertical-align: top;
+	a {
+		background:#000;
+		color:#fff;
+		display: block;
+		font:normal em(19px,24px) 'Tungsten-Light', Arial, Verdana, sans-serif;
+		margin: 0;
+		padding:7px 7px 5px 7px;
+	}
+	.galerie & {
+		a {
+			background:$highlight-color;
+		}
+	}
 }
 
 .entry-description {
 	background:image-url("bg-description.png") left top no-repeat;
 	color:#000;
 	display: block;
-	float: right;
 	font:normal 3em/1 'Tungsten-Light', Arial, Verdana, sans-serif;
 	height:137px;
 	margin:0;
@@ -222,6 +302,11 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	label {
 		text-transform: uppercase;
 	}
+	.galerie & {
+		label {
+			color:$highlight-color;
+		}
+	}
 }
 
 // CUSTOM RADIO
@@ -260,6 +345,9 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	-moz-transition: all .2s;
 	-ms-transition: all .2s;
 	transition: all .2s;
+	.galerie & {
+		background:#000;
+	}
 }
 
 [type="radio"]:not(:checked) + label:after {
@@ -292,9 +380,29 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	color: #aaa;
 }
 
+// LEGEND
+
+.legend {
+	dl, dt, dd {
+		clear:both;
+		color:#939597;
+		display: block;
+		margin: 0;
+		padding: 0 0 10px 0;
+	}
+	dd {
+		padding-left:20px;
+		text-transform: uppercase;
+	}
+	strong {
+		color:#000;
+		font-weight:normal;
+	}
+}
+
 // RIGHT SIDEBAR
 
-.artist-item {
+.artist-item, .exposition-item, .galerie-item {
 	display: block;
 	font-size:em(24px);
 	margin: 0;
@@ -307,7 +415,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	}
 	&:nth-child(even) a {
 		background:rgb(239,239,239);
-		background:rgba(239,239,239,.5);		
+		background:rgba(239,239,239,.5);
 	}
 	.active {
 		background:rgb(78,78,78) !important;
@@ -316,7 +424,23 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	}
 }
 
-.input-artist {
+.exposition-item {
+	a {
+		padding:6px 10px;	
+	}
+}
+
+.galerie-item {
+	a {
+		color:#000;
+	}
+	.active {
+		background:rgb(242,28,121) !important;
+		background:rgba(242,28,121,.9) !important;		
+	}
+}
+
+.input-sidebar {
 	@include border-box-sizing();
 	background:image-url("bg-search.svg") 100% 50% no-repeat #fff;
 	border:1px solid #8e9093;
@@ -329,5 +453,41 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	width:100%;
 	.no-svg & {
 		background:image-url("bg-search.png") 98% 50% no-repeat #fff;
+	}
+}
+
+// NEWS
+
+.news-block {
+	background:#58585b;
+	border-radius:8px;
+	color:#fff;
+	display: block;
+	font-size:em(24px);
+	margin: 0;
+	padding:16px;
+	h2 {
+		display: block;
+		font-size:1em;
+		margin: 0;
+		padding:0 0 .5em 0;
+		text-transform: uppercase;
+	}
+}
+
+.news-block-item {
+	background:#939597;
+	border-radius:8px;
+	display: block;
+	margin: 0 0 6px 0;
+	padding:8px;
+	a {
+		color:#fff;
+		font-family:'Tungsten-Light', Arial, Verdana, sans-serif;
+	}
+	strong {
+		display: block;
+		font-family:'Tungsten-Medium', Arial, Verdana, sans-serif;
+		font-weight: normal;
 	}
 }
