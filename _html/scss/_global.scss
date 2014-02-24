@@ -79,7 +79,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 
 .wrapper {
 	display:block;
-	margin:0 auto;
+	margin:0;
 	padding:0;
 	width:100%;
 }
@@ -489,5 +489,126 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		display: block;
 		font-family:'Tungsten-Medium', Arial, Verdana, sans-serif;
 		font-weight: normal;
+	}
+}
+
+// HOME
+.home {
+	background:image-url("bg-home.png") left top no-repeat #fff;
+	background-size:cover;
+	.wrapper:after {
+		background:image-url("bg-hp-corner-right.png") left top no-repeat;
+		content:'';
+		display:block;
+		height:113px;
+		padding: 0;
+		position:absolute;
+		top:0;
+		right:0;
+		width:281px;
+		z-index:12;
+	}
+	.news-block {
+		position:absolute;
+		right:40px;
+		top:40px;
+		width:315px;
+		z-index:10;
+	}
+}
+
+.home-block {
+	display: block;
+	height:525px;
+	margin: -262px 0 0 -350px;
+	padding: 0;
+	position:absolute;
+	left:50%;
+	top:50%;
+	width:700px;
+	z-index:2;
+}
+
+.home-galerie {
+	position:absolute;
+	right:40px;
+	bottom:40px;
+	width:370px;
+	z-index:10;
+	h2 {
+		color:#000;
+		display: block;
+		font:normal 3em/1 'Tungsten-Light', Arial, Verdana, sans-serif;
+		margin:0;
+		padding:0;
+		text-align: right;
+		text-transform: uppercase;		
+	}
+	strong {
+		color:$highlight-color;
+	}
+}
+
+.home-artist {
+	position:absolute;
+	left:40px;
+	top:40px;
+	width:370px;
+	z-index:10;
+	h2 {
+		color:#000;
+		display: block;
+		font:normal 3em/1 'Tungsten-Light', Arial, Verdana, sans-serif;
+		margin:0;
+		padding:0;
+		text-align: left;
+		text-transform: uppercase;
+		width:370px;		
+	}
+	strong {
+		color:#fff;
+	}
+}
+
+.nav-language {
+	position:absolute;
+	left:50%;
+	bottom:40px;
+	margin:0 0 0 -100px;
+	width:200px;
+	z-index:10;
+}
+
+.credits {
+	position:absolute;
+	left:40px;
+	bottom:40px;
+	width:300px;
+	z-index:10;
+}
+
+.credits-item {
+	display: inline-block;
+	margin: 0 .5em 0 0;
+	padding:0;
+	vertical-align: bottom;
+}
+
+.logo-diplomatie {
+	border:1px solid #000;
+}
+
+// NAV LANGUAGE
+
+.nav-language-item {
+	display: inline-block;
+	margin:0;
+	padding: 0;
+	vertical-align: top;
+	a {
+		padding:0 .25em;
+	}
+	.active {
+		color:#939597 !important;
 	}
 }

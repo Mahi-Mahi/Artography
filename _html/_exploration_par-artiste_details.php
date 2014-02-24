@@ -1,4 +1,5 @@
 <?php
+	$bodyclass = "";
 	include ("_header.php");
 ?>
 
