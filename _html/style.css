@@ -37,7 +37,7 @@ html, button, input, select, textarea {
   color: black; }
 
 body {
-  background: url('/_html/images/bg-page.png?1393242256') repeat white;
+  background: url('/_html/images/bg-page.png?1393246044') repeat white;
   margin: 0;
   padding: 0;
   font-size: 1em; }
@@ -253,7 +253,7 @@ textarea {
   .main-nav-item .home-item {
     background: url('/_html/images/bg-home-item.svg?1393006857') 0 4px no-repeat white; }
     .no-svg .main-nav-item .home-item {
-      background-image: url('/_html/images/bg-home-item.png?1393242282');
+      background-image: url('/_html/images/bg-home-item.png?1393246044');
       background-position: 4px 6px; }
   .galerie .main-nav-item a {
     color: #f21c79; }
@@ -274,7 +274,7 @@ textarea {
     padding: 0 0 0 28px;
     text-transform: uppercase; }
     .no-svg .go-back a {
-      background-image: url('/_html/images/bg-back.png?1393242282');
+      background-image: url('/_html/images/bg-back.png?1393246044');
       background-position: 4px 6px; }
   .galerie .go-back a {
     color: #f21c79; }
@@ -325,7 +325,7 @@ textarea {
     background: #f21c79; }
 
 .entry-description {
-  background: url('/_html/images/bg-description.png?1393242030') left top no-repeat;
+  background: url('/_html/images/bg-description.png?1393246044') left top no-repeat;
   color: #000;
   display: block;
   font: normal 3em/1 'Tungsten-Light', Arial, Verdana, sans-serif;
@@ -481,7 +481,7 @@ textarea {
   padding: 2px 30px 2px 10px;
   width: 100%; }
   .no-svg .input-sidebar {
-    background: url('/_html/images/bg-search.png?1393242283') 98% 50% no-repeat white; }
+    background: url('/_html/images/bg-search.png?1393246044') 98% 50% no-repeat white; }
 
 .news-block {
   background: #58585b;
@@ -494,6 +494,7 @@ textarea {
   .news-block h2 {
     display: block;
     font-size: 1em;
+    font-weight: normal;
     margin: 0;
     padding: 0 0 .5em 0;
     text-transform: uppercase; }
@@ -513,10 +514,10 @@ textarea {
     font-weight: normal; }
 
 .home {
-  background: url('/_html/images/bg-home.png?1393242078') left top no-repeat white;
+  background: url('/_html/images/bg-home.png?1393246045') left top no-repeat white;
   background-size: cover; }
   .home .wrapper:after {
-    background: url('/_html/images/bg-hp-corner-right.png?1393242186') left top no-repeat;
+    background: url('/_html/images/bg-hp-corner-right.png?1393246044') left top no-repeat;
     content: '';
     display: block;
     height: 113px;
@@ -559,7 +560,8 @@ textarea {
     text-align: right;
     text-transform: uppercase; }
   .home-galerie strong {
-    color: #f21c79; }
+    color: #f21c79;
+    font-weight: normal; }
 
 .home-artist {
   position: absolute;
@@ -577,7 +579,8 @@ textarea {
     text-transform: uppercase;
     width: 370px; }
   .home-artist strong {
-    color: #fff; }
+    color: #fff;
+    font-weight: normal; }
 
 .nav-language {
   position: absolute;

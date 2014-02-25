@@ -469,6 +469,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	h2 {
 		display: block;
 		font-size:1em;
+		font-weight: normal;
 		margin: 0;
 		padding:0 0 .5em 0;
 		text-transform: uppercase;
@@ -546,6 +547,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	}
 	strong {
 		color:$highlight-color;
+		font-weight: normal;
 	}
 }
 
@@ -567,6 +569,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	}
 	strong {
 		color:#fff;
+		font-weight: normal;
 	}
 }
 
