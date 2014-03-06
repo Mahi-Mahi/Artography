@@ -10,8 +10,10 @@ define({
     'angular-resource': '../vendor/angular-resource/angular-resource',
     'angular-route': '../vendor/angular-route/angular-route',
     'angular-local-storage': '../vendor/angular-local-storage/angular-local-storage',
+    'consolelog': '../vendor/consolelog/consolelog',
     'jquery': '../vendor/jquery/dist/jquery',
     'jquery-migrate': '../vendor/jquery-migrate/jquery-migrate',
+    'stratos': '../vendor/stratos/dist/stratos',
     'raphael': '../vendor/raphael/raphael',
     'async': '../vendor/requirejs-plugins/src/async',
     'domReady': '../vendor/requirejs-domready/domReady'

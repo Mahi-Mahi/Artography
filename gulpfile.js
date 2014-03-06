@@ -94,13 +94,9 @@ gulp.task('js', ['bower'], function() {
 
 // Sass
 gulp.task('sass', function() {
-  return gulp.src(['source/sass/*.scss', '!source/sass/_*.scss'])
+  return gulp.src(['source/scss/*.scss', '!source/scss/_*.scss'])
     .pipe(sass({
-      bundleExec: true,
-      require: [
-        './source/sass/sass_extensions.rb',
-        'sass-globbing'
-      ]
+      compass: true
     }))
     .pipe(autoprefix())
     .pipe(csso())
@@ -111,7 +107,7 @@ gulp.task('sass', function() {
 gulp.task('watch', function() {
   gulp.run('sass');
 
-  gulp.watch('source/sass/**/*.scss', function() {
+  gulp.watch('source/scss/**/*.scss', function() {
     gulp.run('sass');
   });
 

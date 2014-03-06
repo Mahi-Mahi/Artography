@@ -12,13 +12,27 @@ define(['./module'], function(app) {
 
 			var years = dataService.data.years;
 
+			// Artists list
+			$scope.artists = [];
+			angular.forEach(dataService.data.artists.names, function(artist_name, id) {
+				$scope.artists.push({
+					id: id,
+					name: artist_name,
+					enabled: ''
+				});
+			});
+
 			// default period
-			$scope.period = 'today';
+			$scope.filters = {
+				period: 'today',
+				genres: ['m', 'f', 'c'],
+				ages: ['0-25', '26-35', '36-45', '46-55']
+			};
 
 			$scope.periods = [{
 				name: "aujourd'hui",
 				slug: 'today',
-				checked: 'CHECKED'
+				checked: true
 			}];
 
 			angular.forEach(years, function(year) {
@@ -29,15 +43,61 @@ define(['./module'], function(app) {
 				});
 			});
 
-			$scope.$watch('period', function(value) {
-				$scope.period = value;
-				dataService.getExpos($scope.period).then(function() {
+			$scope.$watch('filters.period', function(value) {
+				$scope.filters.period = value;
+				dataService.getExpos($scope.filters.period).then(function() {
 					update();
 				});
 			});
 
-			// Artists list
-			$scope.artists = [];
+			$scope.genres = [{
+				name: "Masculin",
+				slug: 'm',
+				checked: true
+			}, {
+				name: "Féminin",
+				slug: 'f',
+				checked: true
+			}, {
+				name: "Collectif",
+				slug: 'c',
+				checked: true
+			}];
+
+			$scope.ages = [{
+				name: "0 à 25 ans",
+				slug: '0-25',
+				checked: true
+			}, {
+				name: "26 à 35 ans",
+				slug: '26-35',
+				checked: true
+			}, {
+				name: "36 à 45 ans",
+				slug: '36-45',
+				checked: true
+			}, {
+				name: "46 à 55 ans",
+				slug: '46-55',
+				checked: true
+			}];
+
+			$scope.updateFilters = function() {
+				$scope.filters.ages = [];
+				angular.forEach($scope.ages, function(age) {
+					if (age.checked) {
+						$scope.filters.ages.push(age.slug);
+					}
+				});
+				$scope.filters.genres = [];
+				angular.forEach($scope.genres, function(genre) {
+					if (genre.checked) {
+						$scope.filters.genres.push(genre.slug);
+					}
+				});
+				update();
+			};
+
 			// Countries list
 			$scope.countries = [];
 
@@ -47,10 +107,12 @@ define(['./module'], function(app) {
 			var nb_countries = 0;
 			var max_artists = 0;
 
-			var canvasW = 800,
-				divW = 800,
-				canvasH = 800,
-				divH = 800;
+			var mainWidth = 600;
+
+			var canvasW = mainWidth,
+				divW = mainWidth,
+				canvasH = mainWidth,
+				divH = mainWidth;
 
 			var raphael = new Raphael(document.getElementById('canvas'), canvasW, canvasH);
 
@@ -122,22 +184,13 @@ define(['./module'], function(app) {
 
 			var timeouts = {};
 
-			var show_continent_label = true,
-				show_country_label = true;
+			var show_continent_label = false,
+				show_country_label = false;
 
 			raphael.circle(originX, originY, central_radius - 5).attr({
 				'stroke': '#333',
 				'stroke-width': 1
 			});
-
-			/*
-			raphael.path().attr({
-				"stroke": "#00f",
-				"fill": "#f00",
-				"stroke-width": 1,
-				filledArc: [originX, originY, central_radius, 12, 90, 0]
-			});
-*/
 
 			// create continents/countries container
 			var data = {
@@ -181,9 +234,7 @@ define(['./module'], function(app) {
 
 				iteration++;
 
-				console.log($scope.period);
-
-				var expos = dataService.data.expos[$scope.period];
+				var expos = dataService.data.expos[$scope.filters.period];
 				console.log("expos : " + expos.length);
 
 				$scope.countries = [];
@@ -198,7 +249,16 @@ define(['./module'], function(app) {
 				});
 
 				angular.forEach(expos, function(expo) {
-					if (true /* TODO :  filter by age and sex */ ) {
+					console.log(expo);
+					if (
+						$scope.filters.genres.indexOf(expo.g) > -1 &&
+						$scope.filters.ages.indexOf(expo.a) > -1
+					) {
+						// dataService.getArtist(expo.i);
+						$scope.artists.push({
+							id: expo.i,
+							name: dataService.data.artists.names[expo.i].name
+						});
 						if (expo.c) {
 							var country = data.continents[data.cc[expo.c]].countries[expo.c];
 							var artists = country.artists;
@@ -249,7 +309,7 @@ define(['./module'], function(app) {
 						verb = "exposaient";
 						break;
 				}
-				txt += " " + nb_artists + " artistes<br /> " + verb + " dans " + nb_countries + " pays"
+				txt += " " + nb_artists + " artistes<br /> " + verb + " dans " + nb_countries + " pays";
 				angular.element('.status').html(txt);
 			}
 
@@ -260,9 +320,9 @@ define(['./module'], function(app) {
 				console.log("nb_countries : " + nb_countries);
 				console.log("max_artists : " + max_artists);
 
-				var a = 360 / nb_countries;
+				var a = nb_countries ? 360 / nb_countries : 0;
 				var rotation = 0;
-				var layerW = ((divW / 2) - (central_radius + margin)) / max_artists;
+				var layerW = max_artists ? ((divW / 2) - (central_radius + margin)) / max_artists : 0;
 
 				angular.forEach(delayed_display, function(item, idx) {
 					delete delayed_display[idx];
@@ -286,7 +346,7 @@ define(['./module'], function(app) {
 						// console.log(filledArc);
 						if (country.slice === null) {
 							country.slice = raphael.path().attr({
-								fill: '#FF0000',
+								fill: '#F21C79',
 								stroke: "#FFFFFF",
 								'stroke-width': 0,
 								filledArc: [originX, originY, central_radius, 0, a - a_interval, rotation]

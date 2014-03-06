@@ -1,53 +1,100 @@
-<div>
+<div class="wrapper">
 
-	<h1><a href="/">Artograpy</a></h1>
-
-	<ul id="nav">
-		<li><a href="/artistes">Artistes</a></li>
-		<li><a href="/artist">Artist</a></li>
-		<li><a href="/galeries">Galeries</a></li>
-	</ul>
-
-	<h2>Artists</h2>
-
-	<div class="left">
-		<form>
-
-			<p>
-				<label for="genre">Genre</label>
-				<ul id="genre" class="filter"></ul>
-			</p>
-
-			<p>
-				<label for="age">Age</label>
-				<ul id="age" class="filter"></ul>
-			</p>
-
-			<p>
-				<label for="period">Période :</label>
-				<ul class="filter">
-					<li ng-repeat="period in periods">
-						<label for="period-{{period.slug}}">
-							<input type="radio" name="period" id="period-{{period.slug}}" value="{{period.slug}}" ng-model="$parent.period" {period.checked} />
-							{{period.name}}
-						</label>
-					</li>
-				</ul>
-			</p>
-		</form>
-
-	</div>
-
-	<div class="main">
-		<div id="canvas"></div>
-	</div>
-
-	<div class="right">
-		<p class="status"></p>
-		<p>
-			<input type="text" id="artist_search" placeholder="Rechercher un artiste...">
-			<ul id="artists"></ul>
+	<div class="entry-header clearfix">
+		<nav id="main-nav">
+			<ul class="unstyled">
+				<li class="main-nav-item"><a href="/" class="home-item">Accueil</a></li>
+				<li class="main-nav-item"><a href="/artists" class="active">Artistes</a></li>
+				<li class="main-nav-item"><a href="/galeries">Galeries</a></li>
+			</ul>
+		</nav><!-- .main-nav -->
+		<p class="go-back">
+			<a href="#">Retour</a>
 		</p>
-	</div>
+		<div class="entry-content">
+			<section>
+				<h1 class="entry-title">
+					EXPLORATION <br />PAR <strong>ARTISTE</strong>
+				</h1>
+			</section>
+			<aside>
+				<div class="entry-description">
+					<div class="inner">
+						<p><strong>Aujourd'hui <br />111 artistes</strong> français <br />exposent dans <strong>22 pays</strong>.</p>
+					</div><!-- .inner -->
+				</div><!-- .entry-description -->
+			</aside>
+		</div><!-- .entry-content -->
+	</div><!-- .entry-header -->
 
-</div>
+	<div class="main clearfix">
+
+		<div class="sidebar left-sidebar">
+			<form action="about:blank">
+				<fieldset>
+					<legend>Genre</legend>
+					<ul class="unstyled filter">
+						<li ng-repeat="genre in genres">
+							<input type="checkbox" ng-model="genre.checked" id="genre-{{genre.slug}}" ng-change="updateFilters()" />
+							<label for="genre-{{genre.slug}}">
+								{{genre.name}}
+							</label>
+						</li>
+
+					</ul>
+				</fieldset>
+
+				<fieldset>
+					<legend>Âge</legend>
+					<ul class="unstyled filter">
+						<li ng-repeat="age in ages">
+							<input type="checkbox" ng-model="age.checked" id="age-{{age.slug}}" ng-change="updateFilters()" />
+							<label for="age-{{age.slug}}">
+								{{age.name}}
+							</label>
+						</li>
+
+					</ul>
+				</fieldset>
+
+				<fieldset>
+					<legend>Période</legend>
+					<ul class="unstyled filter">
+						<li ng-repeat="period in periods">
+							<input type="radio" name="period" id="period-{{period.slug}}" value="{{period.slug}}" ng-model="$parent.filters.period" {period.checked} />
+							<label for="period-{{period.slug}}">
+								{{period.name}}
+							</label>
+						</li>
+					</ul>
+				</fieldset>
+			</form>
+
+		</div><!-- .left-sidebar -->
+
+		<div class="content">
+
+			<div id="canvas"></div>
+
+			&nbsp;
+			<div class="right-sidebar">
+				<form action="about:blank">
+					<input type="text" value="" class="input-sidebar" placeholder="Rechercher un artiste..." />
+					<ul class="unstyled">
+						<li ng-repeat="artist in artists" class="artist-item {{artist.enabled}}">
+							<a href="#" id="artist-{{artist.id}}">
+								{{artist.name}}
+							</label>
+						</li>
+					</ul>
+				</form>
+			</div><!-- .right-sidebar -->
+		</div><!-- .content -->
+	</div><!-- .main -->
+
+</div><!-- .wrapper -->
+
+
+
+
+

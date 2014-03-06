@@ -40,7 +40,7 @@ CSV.foreach('csv/expos.csv') do |row|
 	artist = {}
 	artist[:id] = row[0].to_i
 	artist[:name] = row[2]
-	# artist[:country] = row[8]
+	# artist[:sex] = row[8]
 
 	next if row[8] == 'France'
 
@@ -90,7 +90,7 @@ CSV.foreach('csv/expos.csv') do |row|
 		end
 		# TODO
 		# expo[:a] = artist[:age]
-		# expo[:s] = artist[:sex]
+		expo[:s] = artist[:sex]
 		# expo[:start] = row[4]
 		# expo[:end] = row[5]
 

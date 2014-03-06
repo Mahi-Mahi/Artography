@@ -1,6 +1,17 @@
-.left{
+#nav li {
+	float: left;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+h2 {
+	clear: both;
+
+}
+
+.left {
 	float: left;
 }
-.right{
+.right {
 	float: right;
 }

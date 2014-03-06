@@ -1,13 +1,21 @@
 <!DOCTYPE html>
-<html>
+<!--[if lte IE 7]> <html class="no-js ie7 oldie" lang="fr"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="fr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="fr"> <!--<![endif]-->
 <head>
-  <meta charset="utf-8">
-  <title>AngularJS + RequireJS Seed (0.2.1)</title>
-  <link rel="stylesheet" href="/assets/css/reset.css?bust=v0.4.0">
-  <link rel="stylesheet" href="/assets/css/main.css?bust=v0.4.0">
-  <link rel="stylesheet" href="/assets/css/chart.css?bust=v0.4.0">
+  <meta charset="UTF-8">
+  <title>Artography</title>
+    <meta name="viewport" content="width=1024" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link rel="shortcut icon" href="/assets/favicon.ico" />
+  <script type="text/javascript" src="/vendor/modernizr/modernizr.js"></script>
+    <!--[if lte IE 8]>
+    <script type="text/javascript" src="<?php print $themePath; ?>/vendor/selectivizr/selectivizr.js"></script>
+  <![endif]-->
+
+  <link rel="stylesheet" href="/assets/css/style.css?bust=v0.4.0" media="all" />
+
 </head>
-<body>
 
 <!-- Content -->
 <div data-ng-view></div>

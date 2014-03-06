@@ -30,7 +30,9 @@ define(['./module'], function(app) {
 			}
 
 			return dataService.getYears().then(function() {
-				return dataService.getCountries();
+				return dataService.getCountries().then(function() {
+					return dataService.getArtist('names');
+				});
 			});
 
 		}
@@ -97,11 +99,14 @@ define(['./module'], function(app) {
 			return deferred.promise;
 		}
 
-		//Gets the list of nuclear weapons
 		dataService.getExpos = function(idx) {
 			if (!idx)
 				idx = 'today';
 			return dataService.get('expos', idx);
+		};
+
+		dataService.getArtist = function(id) {
+			return dataService.get('artists', id);
 		};
 
 		dataService.getCountries = function() {

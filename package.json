@@ -12,7 +12,7 @@
         "gulp-csso": "latest",
         "gulp-replace": "latest",
         "gulp-requirejs": "latest",
-        "gulp-ruby-sass": "latest",
+        "gulp-sass": "latest",
         "gulp-uglify": "latest",
         "gulp-util": "latest",
         "underscore": "latest"
