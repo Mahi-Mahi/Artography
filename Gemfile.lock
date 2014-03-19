@@ -8,10 +8,16 @@ GEM
       thread_safe (~> 0.1)
       tzinfo (~> 0.3.37)
     atomic (1.1.15)
+    chunky_png (1.3.0)
+    compass (0.12.3)
+      chunky_png (~> 1.2)
+      fssm (>= 0.2.7)
+      sass (= 3.2.14)
     countries (0.9.3)
       currencies (~> 0.4.2)
     currencies (0.4.2)
     dimensions (1.3.0)
+    fssm (0.2.10)
     httpi (2.1.0)
       rack
       rubyntlm (~> 0.3.2)
@@ -35,6 +41,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  compass
   countries
   dimensions
   httpi

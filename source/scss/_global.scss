@@ -111,7 +111,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 
 .artists-list {
 	height: 600px;
-	overflow: auto:
+	overflow: auto;
 }
 
 .artist-details-sidebar {
@@ -435,11 +435,12 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		margin: 0;
 		padding:2px 10px;
 	}
-	&:nth-child(even) a {
+	// &:nth-child(even) a {
+	&.even {
 		background:rgb(239,239,239);
 		background:rgba(239,239,239,.5);
 	}
-	.active {
+	:hover, .active {
 		background:rgb(78,78,78) !important;
 		background:rgba(78,78,78,.9) !important;
 		color:#fff !important;

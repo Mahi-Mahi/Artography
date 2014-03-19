@@ -79,7 +79,7 @@
 			&nbsp;
 			<div class="right-sidebar">
 				<form action="about:blank">
-					<input type="text" value="" class="input-sidebar" placeholder="Rechercher un artiste..." />
+					<input type="text" value="" class="input-sidebar" placeholder="Rechercher un artiste..." ng-model="searchText" ng-change="updateArtists()"  />
 					<ul class="artists-list unstyled">
 						<li ng-repeat="artist in artists" class="artist-item {{artist.enabled}}">
 							<a href="#" id="artist-{{artist.id}}">

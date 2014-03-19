@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'dimensions'
 gem 'mime-types'
+gem 'compass'
 gem 'sass'
 gem 'sass-globbing'
 gem 'countries'

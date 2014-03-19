@@ -1,20 +1,22 @@
 {
-    "name": "StarterSquad_AngularJS_RequireJS_Seed",
-    "description": "Neat combination of Angular & Require intended for bulding complex frontend applications",
-    "repository": "git@github.com:StarterSquad/angularjs-requirejs-seed.git",
-    "version": "0.0.3",
-    "devDependencies": {
-        "amdefine": "latest",
-        "event-stream": "latest",
-        "gulp": "latest",
-        "gulp-autoprefixer": "latest",
-        "gulp-bower": "latest",
-        "gulp-csso": "latest",
-        "gulp-replace": "latest",
-        "gulp-requirejs": "latest",
-        "gulp-sass": "latest",
-        "gulp-uglify": "latest",
-        "gulp-util": "latest",
-        "underscore": "latest"
-    }
+  "name": "StarterSquad_AngularJS_RequireJS_Seed",
+  "description": "Neat combination of Angular & Require intended for bulding complex frontend applications",
+  "repository": "git@github.com:StarterSquad/angularjs-requirejs-seed.git",
+  "version": "0.0.3",
+  "devDependencies": {
+    "amdefine": "latest",
+    "event-stream": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-bower": "latest",
+    "gulp-csso": "latest",
+    "gulp-replace": "latest",
+    "gulp-requirejs": "latest",
+    "gulp-ruby-sass": "latest",
+    "gulp-compass": "^1.1.6",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest",
+    "underscore": "latest"
+  }
 }

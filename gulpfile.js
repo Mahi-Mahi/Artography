@@ -7,6 +7,8 @@ var gulp = require('gulp');
 var replace = require('gulp-replace');
 var rjs = require('gulp-requirejs');
 var sass = require('gulp-ruby-sass');
+// var sass = require('gulp-sass');
+var compass = require('gulp-compass');
 var spawn = require('child_process').spawn;
 var uglify = require('gulp-uglify');
 

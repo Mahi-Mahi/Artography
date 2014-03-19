@@ -8,22 +8,28 @@ define(['./module'], function(app) {
 	app.controller('ArtistsController', ['$scope', 'dataService',
 		function($scope, dataService) {
 
-			console.log("ArtistsController");
-
 			var years = dataService.data.years;
 
 			// Artists list
 			$scope.artists = [];
 			angular.forEach(dataService.data.artists.names, function(artist_name, id) {
 				$scope.artists.push({
-					id: id,
+					id: parseInt(id, 10),
 					name: artist_name,
 					enabled: ''
 				});
 			});
 
+			$scope.artists.sort(
+				function(a, b) {
+					return (a.name < b.name ? -1 : 1);
+					// return (a.id < b.id ? -1 : 1);
+				}
+			);
+
 			// default period
 			$scope.filters = {
+				artist: '',
 				period: 'today',
 				genres: ['m', 'f', 'c'],
 				ages: ['0-25', '26-35', '36-45', '46-55']
@@ -106,6 +112,7 @@ define(['./module'], function(app) {
 
 			var nb_countries = 0;
 			var max_artists = 0;
+			var active_artists;
 
 			var mainWidth = 400;
 
@@ -227,7 +234,7 @@ define(['./module'], function(app) {
 
 			function update() {
 				parseData();
-				updateArtists();
+				$scope.updateArtists();
 				drawChart();
 			}
 
@@ -236,10 +243,10 @@ define(['./module'], function(app) {
 				iteration++;
 
 				var expos = dataService.data.expos[$scope.filters.period];
-				console.log("expos : " + expos.length);
 
 				$scope.countries = [];
 				max_artists = 0;
+				active_artists = [];
 
 				angular.forEach(data.continents, function(continent, continent_name) {
 					angular.forEach(continent.countries, function(country, country_code) {
@@ -250,16 +257,15 @@ define(['./module'], function(app) {
 				});
 
 				angular.forEach(expos, function(expo) {
-					console.log(expo);
 					if (
 						$scope.filters.genres.indexOf(expo.g) > -1 &&
 						$scope.filters.ages.indexOf(expo.a) > -1
 					) {
 						// dataService.getArtist(expo.i);
-						$scope.artists.push({
-							id: expo.i,
-							name: dataService.data.artists.names[expo.i].name
-						});
+						// $scope.artists.push({
+						// 	id: expo.i,
+						// 	name: dataService.data.artists.names[expo.i].name
+						// });
 						if (expo.c) {
 							var country = data.continents[data.cc[expo.c]].countries[expo.c];
 							var artists = country.artists;
@@ -281,8 +287,8 @@ define(['./module'], function(app) {
 							if ($scope.countries.indexOf(expo.c) == -1) {
 								$scope.countries.push(expo.c);
 							}
-							if ($scope.artists.indexOf(expo.i) == -1) {
-								$scope.artists.push(expo.i);
+							if (active_artists.indexOf(expo.i) == -1) {
+								active_artists.push(parseInt(expo.i, 10));
 							}
 							country.has_artists = true;
 							country.artists = artists;
@@ -293,15 +299,13 @@ define(['./module'], function(app) {
 
 				nb_countries = $scope.countries.length;
 
-				updateStatus(max_artists, nb_countries);
+				updateStatus(active_artists.length, nb_countries);
 
 			}
 
 			function updateStatus(nb_artists, nb_countries, in_country) {
-				console.log("updateStatus(" + nb_artists + " nb_artists, " + nb_countries + " nb_countries, " + in_country + " in_country)");
 				in_country = null;
-				var txt, verb, period, artists, countries;
-				console.log($scope.filters.period);
+				var verb, period, artists, countries;
 				switch ($scope.filters.period) {
 					case 'today':
 						period = "Actuellement";
@@ -337,14 +341,19 @@ define(['./module'], function(app) {
 				angular.element('.entry-description p').html('<strong>' + period + '</strong> <br /><strong>' + artists + '</strong> français <br />' + verb + (nb_artists ? ' dans <strong>' + countries + '</strong>' : '') + '.');
 			}
 
-			function updateArtists() {
-				// console.log($scope.artists);
-			}
+			$scope.updateArtists = function() {
+				var i = 0;
+				var re = new RegExp($scope.searchText, "i");
+				angular.forEach($scope.artists, function(artist, idx) {
+					if (active_artists.indexOf(artist.id) !== -1 && re.test(artist.name)) {
+						$scope.artists[idx].enabled = 'enabled' + (i++ % 2 === 0 ? ' even' : '');
+					} else {
+						$scope.artists[idx].enabled = '';
+					}
+				});
+			};
 
 			function drawChart() {
-
-				console.log("drawChart");
-
 				console.log("nb_countries : " + nb_countries);
 				console.log("max_artists : " + max_artists);
 
@@ -358,20 +367,17 @@ define(['./module'], function(app) {
 				});
 
 				angular.forEach(data.continents, function(continent, continent_name) {
-					// console.log("->" + continent_name);
 
 					nb_countries = 0;
 					var continent_rotation = rotation;
 
 					angular.forEach(continent.countries, function(country, country_code) {
-						// console.log(country_code + ' (' + country.nb_artists + ')');
 
 						var country_width = -(layerW * country.nb_artists);
 
 						// filledArc : [ X Position, Y Position, Radius, Width, Angle, Rotation ]
 						var filledArc = [originX, originY, central_radius, country_width, a - a_interval, rotation];
 
-						// console.log(filledArc);
 						if (country.slice === null) {
 							country.slice = raphael.path().attr({
 								fill: '#F21C79',
@@ -475,11 +481,10 @@ define(['./module'], function(app) {
 					}
 
 				});
-
 			}
 
 			function prepareText(message, fontSize, letterSpacing, kerning, geckoKerning, fontColor, fontWeight) {
-				var fontFamily = "Open sans";
+				// var fontFamily = "Open sans";
 
 				var gecko = /rv:([^\)]+)\) Gecko\/\d{8}/.test(navigator.userAgent || '') ? true : false;
 				var letters = [],
@@ -547,8 +552,6 @@ define(['./module'], function(app) {
 				var letters = res.letters,
 					places = res.places,
 					messageLength = res.messageLength;
-
-				// console.log(message + "(" + messageLength + ")");
 
 				point = (path.getTotalLength() - messageLength) / 2;
 				letterSpacing = 1;
