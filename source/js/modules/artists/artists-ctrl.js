@@ -107,7 +107,7 @@ define(['./module'], function(app) {
 			var nb_countries = 0;
 			var max_artists = 0;
 
-			var mainWidth = 600;
+			var mainWidth = 400;
 
 			var canvasW = mainWidth,
 				divW = mainWidth,
