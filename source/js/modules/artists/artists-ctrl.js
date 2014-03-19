@@ -227,6 +227,7 @@ define(['./module'], function(app) {
 
 			function update() {
 				parseData();
+				updateArtists();
 				drawChart();
 			}
 
@@ -297,20 +298,47 @@ define(['./module'], function(app) {
 			}
 
 			function updateStatus(nb_artists, nb_countries, in_country) {
+				console.log("updateStatus(" + nb_artists + " nb_artists, " + nb_countries + " nb_countries, " + in_country + " in_country)");
 				in_country = null;
-				var txt, verb;
-				switch ($scope.period) {
+				var txt, verb, period, artists, countries;
+				console.log($scope.filters.period);
+				switch ($scope.filters.period) {
 					case 'today':
-						txt = "Actuellement";
+						period = "Actuellement";
 						verb = "exposent";
 						break;
 					default:
-						txt = "En " + $scope.period;
+						period = "En " + $scope.filters.period;
 						verb = "exposaient";
 						break;
 				}
-				txt += " " + nb_artists + " artistes<br /> " + verb + " dans " + nb_countries + " pays";
-				angular.element('.status').html(txt);
+				switch (nb_artists) {
+					case 0:
+						artists = "aucun artiste";
+						verb = "n'" + verb;
+						break;
+					case 1:
+						artists = "1 artiste";
+						verb = "expose";
+						break;
+					default:
+						artists = nb_artists + " artistes";
+						break;
+				}
+				switch (nb_countries) {
+					case 1:
+						countries = "un pays";
+						break;
+					default:
+						countries = nb_countries + " pays";
+						break;
+				}
+
+				angular.element('.entry-description p').html('<strong>' + period + '</strong> <br /><strong>' + artists + '</strong> français <br />' + verb + (nb_artists ? ' dans <strong>' + countries + '</strong>' : '') + '.');
+			}
+
+			function updateArtists() {
+				// console.log($scope.artists);
 			}
 
 			function drawChart() {

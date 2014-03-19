@@ -20,7 +20,7 @@
 			<aside>
 				<div class="entry-description">
 					<div class="inner">
-						<p><strong>Aujourd'hui <br />111 artistes</strong> français <br />exposent dans <strong>22 pays</strong>.</p>
+						<p></p>
 					</div><!-- .inner -->
 				</div><!-- .entry-description -->
 			</aside>
@@ -80,11 +80,11 @@
 			<div class="right-sidebar">
 				<form action="about:blank">
 					<input type="text" value="" class="input-sidebar" placeholder="Rechercher un artiste..." />
-					<ul class="unstyled">
+					<ul class="artists-list unstyled">
 						<li ng-repeat="artist in artists" class="artist-item {{artist.enabled}}">
 							<a href="#" id="artist-{{artist.id}}">
 								{{artist.name}}
-							</label>
+							</a>
 						</li>
 					</ul>
 				</form>
