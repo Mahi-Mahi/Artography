@@ -28,19 +28,27 @@ define(['./app', './config'], function(app) {
 						return dataService.init();
 					}
 				}
-
 			});
 
-			$routeProvider.when('/artist', {
-				templateUrl: '/js/modules/artist/artist.html',
-				controller: 'ArtistController',
-				resolve: {
-					datasets: function(dataService) {
-						return dataService.init();
-					}
-				}
+            $routeProvider.when('/artiste/:artistId', {
+                templateUrl: '/js/modules/artist/artist.html',
+                controller: 'ArtistController',
+                resolve: {
+                    datasets: function(dataService) {
+                        return dataService.init();
+                    }
+                }
+            });
 
-			});
+            $routeProvider.when('/artiste', {
+                templateUrl: '/js/modules/artist/artist.html',
+                controller: 'ArtistController',
+                resolve: {
+                    datasets: function(dataService) {
+                        return dataService.init();
+                    }
+                }
+            });
 
 			$routeProvider.otherwise({
 				redirectTo: '/'
