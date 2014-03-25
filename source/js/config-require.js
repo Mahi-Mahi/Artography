@@ -1,3 +1,5 @@
+/*
+
 if (typeof define !== 'function') {
   // to be able to require file from node
   var define = require('amdefine')(module);
@@ -33,3 +35,4 @@ define({
     'angular-local-storage': ['angular']
   }
 });
+*/

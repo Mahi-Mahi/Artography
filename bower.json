@@ -25,6 +25,7 @@
     "consolelog": "~2.0.1",
     "modernizr": "~2.7.2",
     "selectivizr": "~1.0.2",
-    "stratos": "https://github.com/toddmotto/stratos.git#~1.4.0"
+    "stratos": "https://github.com/toddmotto/stratos.git#~1.4.0",
+    "angular-sanitize": "~1.2.15"
   }
 }

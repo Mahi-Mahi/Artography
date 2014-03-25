@@ -10,7 +10,7 @@
 // STRUCTURE
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 html, button, input, select, textarea { font-family:'Tungsten-Book', Arial, Verdana, sans-serif; color:$default-color; }
-body { background:image-url("bg-page.png") repeat #fff; margin:0; padding:0; font-size:1em; }
+body.truc { background:image-url("bg-page.png") repeat #fff; margin:0; padding:0; font-size:1em; }
 
 .visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
 

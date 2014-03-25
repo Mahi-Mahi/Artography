@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<!--[if lte IE 7]> <html class="no-js ie7 oldie" lang="fr"> <![endif]-->
-<!--[if IE 8]> <html class="no-js ie8 oldie" lang="fr"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="fr"> <!--<![endif]-->
+<!--[if lte IE 7]> <html xmlns:ng="http://angularjs.org" class="no-js ie7 oldie" lang="fr" id="ng-app" ng-app> <![endif]-->
+<!--[if IE 8]> <html xmlns:ng="http://angularjs.org" class="no-js ie8 oldie" lang="fr" id="ng-app" ng-app> <![endif]-->
+<!--[if gt IE 8]><!--> <html xmlns:ng="http://angularjs.org" class="no-js" lang="fr" id="ng-app" ng-app> <!--<![endif]-->
 <head>
   <meta charset="UTF-8">
   <title>Artography</title>
@@ -10,33 +10,17 @@
   <link rel="shortcut icon" href="/assets/favicon.ico" />
   <script type="text/javascript" src="/vendor/modernizr/modernizr.js"></script>
     <!--[if lte IE 8]>
-    <script type="text/javascript" src="<?php print $themePath; ?>/vendor/selectivizr/selectivizr.js"></script>
+    <script type="text/javascript" src="/vendor/selectivizr/selectivizr.js"></script>
   <![endif]-->
 
-  <link rel="stylesheet" href="/assets/css/style.css?bust=v0.4.0" media="all" />
+  <link rel="stylesheet" href="/assets/css/style.css" media="all" />
 
 </head>
+<body>
 
-<!-- Content -->
 <div data-ng-view></div>
 
-<!-- Scripts -->
-<script src="/vendor/requirejs/require.js"></script>
-<script>
-  // obtain requirejs config
-  require(['require', './js/config-require'], function (require, config) {
-
-    // set cache beater
-    config.urlArgs = 'bust=v0.4.0';
-    config.urlArgs = 'bust=v'+Math.random(99999999999);
-
-    // update global require config
-    window.require.config(config);
-
-    // load app
-    require(['./js/main.js']);
-  });
-</script>
+<script data-main="/js/main" src="/vendor/requirejs/require.js"></script>
 
 </body>
 </html>
