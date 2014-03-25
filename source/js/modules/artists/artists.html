@@ -40,7 +40,6 @@
 								{{genre.name}}
 							</label>
 						</li>
-
 					</ul>
 				</fieldset>
 
@@ -53,7 +52,6 @@
 								{{age.name}}
 							</label>
 						</li>
-
 					</ul>
 				</fieldset>
 
@@ -77,11 +75,12 @@
 			<div id="canvas"></div>
 
 			&nbsp;
+
 			<div class="right-sidebar">
 				<form action="about:blank">
 					<input type="text" value="" class="input-sidebar" placeholder="Rechercher un artiste..." ng-model="searchText" ng-change="updateArtists()"  />
 					<ul class="artists-list unstyled">
-						<li ng-repeat="artist in artists" class="artist-item {{artist.enabled}}">
+						<li ng-repeat="artist in artists" class="artist-item {{artist.enabled}}" ng-click="showArtist(artist.id)">
 							<a href="#" id="artist-{{artist.id}}">
 								{{artist.name}}
 							</a>
@@ -93,8 +92,3 @@
 	</div><!-- .main -->
 
 </div><!-- .wrapper -->
-
-
-
-
-
