@@ -5,13 +5,10 @@ bower_components
 *.scssc
 
 _html/js/main-ck.js
-
 _html/js/vendor/console-ck.js
-
 _html/js/vendor/jquery-1.11.0-ck.js
-
 _html/js/vendor/jquery-migrate-1.2.1-ck.js
-
 _html/js/vendor/modernizr-ck.js
-
 _html/js/vendor/selectivizr-ck.js
+
+/tags
