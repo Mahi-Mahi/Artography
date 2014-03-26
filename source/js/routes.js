@@ -40,6 +40,18 @@ define(['angular', 'app'], function(angular, app) {
                 }
             });
 
+            $routeProvider.when('/artiste/:id/:period', {
+                templateUrl: '/partials/artist.html',
+                controller: 'artistController',
+                resolve: {
+                    datasets: ['$route', 'dataService',
+                        function($route, dataService) {
+                            return dataService.getArtist($route.current.params.id);
+                        }
+                    ]
+                }
+            });
+
             $routeProvider.otherwise({
                 redirectTo: '/'
             });

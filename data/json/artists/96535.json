@@ -40,5 +40,86 @@
   "last_name": "Champy",
   "genre": "m",
   "birthDate": "1944-01-01",
-  "age": "46-55"
+  "age": 70,
+  "age_range": "46-55",
+  "expos": {
+    "2011": [
+      {
+        "c": "CH",
+        "n": "10 x 10. Bols sculptures",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Neuchâtel",
+        "o": "Musée des beaux-arts de La Chaux-de-Fonds",
+        "d": [
+          "2011-09-25",
+          "2011-11-13"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "10 x 10. Bols sculptures",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Neuchâtel",
+        "o": "Musée des beaux-arts de La Chaux-de-Fonds",
+        "d": [
+          "2011-09-25",
+          "2011-11-13"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "c": "CH",
+        "n": "Huit artistes et la terre",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Musée Ariana",
+        "d": [
+          "2013-03-28",
+          "2013-08-18"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Huit artistes et la terre",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Musée Ariana",
+        "d": [
+          "2013-03-28",
+          "2013-08-18"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "c": "DE",
+        "n": "Falaises",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie b15",
+        "d": [
+          "2009-04-04",
+          "2009-05-07"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Falaises",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie b15",
+        "d": [
+          "2009-04-04",
+          "2009-05-07"
+        ]
+      }
+    ]
+  }
 }

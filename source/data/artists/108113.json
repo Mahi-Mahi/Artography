@@ -40,5 +40,34 @@
   "last_name": "Watier",
   "genre": "m",
   "birthDate": "1963-01-01",
-  "age": "46-55"
+  "age": 51,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "c": "RE",
+        "n": "le dessin d\\'esprit",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Saint Denis",
+        "o": "Galerie Beatrice Binoche",
+        "d": [
+          "2007-08-31",
+          "2007-10-01"
+        ]
+      },
+      {
+        "c": "RE",
+        "n": "le dessin d\\'esprit",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Saint Denis",
+        "o": "Galerie Beatrice Binoche",
+        "d": [
+          "2007-08-31",
+          "2007-10-01"
+        ]
+      }
+    ]
+  }
 }

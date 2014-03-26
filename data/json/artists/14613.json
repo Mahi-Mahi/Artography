@@ -40,5 +40,136 @@
   "last_name": "Bertín",
   "genre": "m",
   "birthDate": "1965-01-01",
-  "age": "46-55"
+  "age": 49,
+  "age_range": "46-55",
+  "expos": {
+    "2008": [
+      {
+        "c": "BE",
+        "n": "DIFFRACTED SOLSTICE - Group Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2008-06-13",
+          "2008-09-05"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "DIFFRACTED SOLSTICE - Group Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2008-06-13",
+          "2008-09-05"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Summer Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Auvernier",
+        "o": "Lange+Pult",
+        "d": [
+          "2008-06-28",
+          "2008-07-27"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Summer Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Auvernier",
+        "o": "Lange+Pult",
+        "d": [
+          "2008-06-28",
+          "2008-07-27"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "BE",
+        "n": "Deep inside",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2011-06-23",
+          "2011-08-20"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Deep inside",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2011-06-23",
+          "2011-08-20"
+        ]
+      }
+    ],
+    "2005": [
+      {
+        "c": "ES",
+        "n": "Fotografias sin memoria - Gaston Bertin",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "H2O",
+        "d": [
+          "2005-10-07",
+          "2005-10-29"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Fotografias sin memoria - Gaston Bertin",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "H2O",
+        "d": [
+          "2005-10-07",
+          "2005-10-29"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "c": "US",
+        "n": "Project Room / Gaston Bertin",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Ferndale, MI",
+        "o": "Lemberg Gallery",
+        "d": [
+          "2010-06-26",
+          "2010-08-07"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Project Room / Gaston Bertin",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Ferndale, MI",
+        "o": "Lemberg Gallery",
+        "d": [
+          "2010-06-26",
+          "2010-08-07"
+        ]
+      }
+    ]
+  }
 }

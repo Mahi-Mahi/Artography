@@ -88,9 +88,7 @@ af_artists = fetch('/v0/artist/list')
 
 af_artists.shuffle.slice(0,500).each do |artist|
 
-	pp artist['name']
 	name = artist['name'].split(/ /)
-	p name
 	artist[:first_name] = name[0]
 	artist[:last_name] = name[1].nil? ? '' : name[1]
 	case artist['attributes']
@@ -105,23 +103,22 @@ af_artists.shuffle.slice(0,500).each do |artist|
 	begin
 		birthDate = Date.strptime("#{artist['birth year']}-#{artist['birth month']?artist['birth month']:1}-#{artist['birth day']?artist['birth day']:1}", '%Y-%m-%d')
 		artist[:birthDate] = birthDate.to_s
-		age = Time.diff(Time.now, birthDate)[:year]
-		if age < 26
-			artist[:age] = '0-25'
-		elsif age < 36
-			artist[:age] = '26-35'
-		elsif age < 46
-			artist[:age] = '36-45'
+		artist[:age] = Time.diff(Time.now, birthDate)[:year]
+		if artist[:age] < 26
+			artist[:age_range] = '0-25'
+		elsif artist[:age] < 36
+			artist[:age_range] = '26-35'
+		elsif artist[:age] < 46
+			artist[:age_range] = '36-45'
 		else
-			artist[:age] = '46-55'
+			artist[:age_range] = '46-55'
 		end
 	rescue
 		p "Invalid date"
 		# pp artist
 	end
-	pp artist[:birthDate]
-	pp artist[:age]
-	pp artist[:genre]
+
+	artist[:expos] = {}
 
 	fetch("/v0/artist/#{artist['id']}/exhibitions").each do |af_expo|
 
@@ -144,17 +141,24 @@ af_artists.shuffle.slice(0,500).each do |artist|
 				rescue
 				end
 
-				artists[artist['id']] = artist
-
 				expo = {}
+				expo_detail = {}
 				expo[:i] = artist['id']
 				begin
 					expo[:c] = c.alpha2
+					expo_detail[:c] = c.alpha2
 				rescue
 				end
-				# TODO
+
 				expo[:g] = artist[:genre]
-				expo[:a] = artist[:age]
+				expo[:a] = artist[:age_range]
+
+				expo_detail[:n] = af_expo['Title']
+				expo_detail[:st] = af_expo['show-type']
+				expo_detail[:t] = af_expo['type']
+				expo_detail[:ct] = af_expo['city']
+				expo_detail[:o] = af_expo['organizer']
+				expo_detail[:d] = [af_expo['BeginDate'], af_expo['EndDate']]
 
 				[af_expo['BeginDate'], af_expo['EndDate']].uniq.each do |expo_year|
 					begin
@@ -163,6 +167,10 @@ af_artists.shuffle.slice(0,500).each do |artist|
 						expos[expo_year] = [] if expos[expo_year].nil?
 						expos[expo_year] << expo unless expos[expo_year].include?(expo)
 						years << expo_year unless expo_year > Date.today.year
+
+						artist[:expos][expo_year] = [] if artist[:expos][expo_year].nil?
+						artist[:expos][expo_year] << expo_detail unless artist[:expos][expo_year].include?(expo)
+
 					rescue
 						puts "invalid date"
 						p af_expo
@@ -173,9 +181,12 @@ af_artists.shuffle.slice(0,500).each do |artist|
 					if Date.strptime(af_expo['BeginDate'], '%Y-%m-%d') < Date.today && Date.strptime(af_expo['EndDate'], '%Y-%m-%d') > Date.today
 						expos[:today] = [] if expos[:today].nil?
 						expos[:today] << expo unless expos[:today].include?(expo)
+						artist[:expos][:today] = [] if artist[:expos][:today].nil?
+						artist[:expos][:today] << expo_detail unless artist[:expos][:today].include?(expo)
 					end
 				rescue
 				end
+
 			end
 		rescue
 			p artist
@@ -183,6 +194,10 @@ af_artists.shuffle.slice(0,500).each do |artist|
 		end
 
 	end
+
+	artists[artist['id']] = artist
+
+	pp artist
 
 end
 
@@ -208,7 +223,6 @@ File.open(filename, 'w') { |file| file.write content }
 
 # Artists
 FileUtils.mkdir_p "json/artists"
-p artists
 artists_name = {}
 artists.sort_by{|k, v| v[:last_name]}.each do |artist_id, artist|
 	artists_name[artist_id.to_i] = artist['name']
@@ -217,7 +231,6 @@ artists.sort_by{|k, v| v[:last_name]}.each do |artist_id, artist|
 	File.open(filename, 'w') { |file| file.write content }
 	# Zlib::GzipWriter.open("#{filename}.gz") { |file| file.write content }
 end
-p artists_name
 filename = "json/artists/names.json"
 content = production ? artists_name.to_json : JSON.pretty_generate(artists_name)
 File.open(filename, 'w') { |file| file.write content }
@@ -233,8 +246,9 @@ expos.each do |year,year_artists|
 end
 
 
-puts "#{artists.length} artists"
 puts "#{years.length} years"
+puts "#{artists.length} artists"
+puts "#{expos.length} expos"
 
 
 FileUtils.rm_rf("../source/data", secure: true)

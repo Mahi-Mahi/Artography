@@ -40,5 +40,34 @@
   "last_name": "Nicaise",
   "genre": "m",
   "birthDate": "1982-01-01",
-  "age": "26-35"
+  "age": 32,
+  "age_range": "26-35",
+  "expos": {
+    "2010": [
+      {
+        "c": "DE",
+        "n": "Loading...",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "PMgalerie",
+        "d": [
+          "2010-06-10",
+          "2010-06-26"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Loading...",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "PMgalerie",
+        "d": [
+          "2010-06-10",
+          "2010-06-26"
+        ]
+      }
+    ]
+  }
 }

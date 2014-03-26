@@ -40,5 +40,162 @@
   "last_name": "Weiss",
   "genre": "f",
   "birthDate": "1924-01-01",
-  "age": "46-55"
+  "age": 90,
+  "age_range": "46-55",
+  "expos": {
+    "2008": [
+      {
+        "c": "PL",
+        "n": "Kolekcja Transphotographiques",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Poznan",
+        "o": "Stary Browar",
+        "d": [
+          "2008-02-02",
+          "2008-03-02"
+        ]
+      },
+      {
+        "c": "PL",
+        "n": "Kolekcja Transphotographiques",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Poznan",
+        "o": "Stary Browar",
+        "d": [
+          "2008-02-02",
+          "2008-03-02"
+        ]
+      },
+      {
+        "c": "PL",
+        "n": "Kolekcja Transphotographiques",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Poznan",
+        "o": "Art Stations Foundation",
+        "d": [
+          "2008-02-02",
+          "2008-03-02"
+        ]
+      },
+      {
+        "c": "PL",
+        "n": "Kolekcja Transphotographiques",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Poznan",
+        "o": "Art Stations Foundation",
+        "d": [
+          "2008-02-02",
+          "2008-03-02"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "c": "US",
+        "n": "Pedaling",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Portland, CO",
+        "o": "Charles A. Hartman Fine Art",
+        "d": [
+          "2010-06-16",
+          "2010-07-31"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Pedaling",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Portland, CO",
+        "o": "Charles A. Hartman Fine Art",
+        "d": [
+          "2010-06-16",
+          "2010-07-31"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "CH",
+        "n": "Incongru. Quand l\\'art fait rire",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lausanne",
+        "o": "Musée cantonal des Beaux-Arts",
+        "d": [
+          "2011-10-08",
+          "2012-01-15"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Sabine Weiss: Photographie aus fünf Jahrzehnten",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Aachen",
+        "o": "Suermondt Ludwig Museum",
+        "d": [
+          "2011-08-06",
+          "2011-10-30"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Sabine Weiss: Photographie aus fünf Jahrzehnten",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Aachen",
+        "o": "Suermondt Ludwig Museum",
+        "d": [
+          "2011-08-06",
+          "2011-10-30"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "c": "CH",
+        "n": "Incongru. Quand l\\'art fait rire",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lausanne",
+        "o": "Musée cantonal des Beaux-Arts",
+        "d": [
+          "2011-10-08",
+          "2012-01-15"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "c": "CH",
+        "n": "A Selection Of Vintage And Contemporary Photographs",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "ArteF Fine Art Photography Gallery",
+        "d": [
+          "2013-11-21",
+          "2013-03-01"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "A Selection Of Vintage And Contemporary Photographs",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "ArteF Fine Art Photography Gallery",
+        "d": [
+          "2013-11-21",
+          "2013-03-01"
+        ]
+      }
+    ]
+  }
 }

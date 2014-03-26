@@ -40,5 +40,58 @@
   "last_name": "Sapey-Triomphe",
   "genre": "m",
   "birthDate": "1963-01-01",
-  "age": "46-55"
+  "age": 51,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "c": "CL",
+        "n": "El Tren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Santiago",
+        "o": "Galería Animal",
+        "d": [
+          "2007-07-03",
+          "2007-08-04"
+        ]
+      },
+      {
+        "c": "CL",
+        "n": "El Tren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Santiago",
+        "o": "Galería Animal",
+        "d": [
+          "2007-07-03",
+          "2007-08-04"
+        ]
+      },
+      {
+        "c": "AR",
+        "n": "Fred Sapey Triomphe",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Buenos Aires",
+        "o": "Galería Braga Menéndez Arte Contemporáneo",
+        "d": [
+          "2007-08-07",
+          "2007-09-15"
+        ]
+      },
+      {
+        "c": "AR",
+        "n": "Fred Sapey Triomphe",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Buenos Aires",
+        "o": "Galería Braga Menéndez Arte Contemporáneo",
+        "d": [
+          "2007-08-07",
+          "2007-09-15"
+        ]
+      }
+    ]
+  }
 }

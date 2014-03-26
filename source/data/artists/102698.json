@@ -40,5 +40,34 @@
   "last_name": "Dutertre",
   "genre": "f",
   "birthDate": "1965-01-01",
-  "age": "46-55"
+  "age": 49,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "c": "MK",
+        "n": "Celebrities: New Illustration Images",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Skopje",
+        "o": "Museum of Contemporary Art Skopje",
+        "d": [
+          "2006-10-05",
+          "2006-10-15"
+        ]
+      },
+      {
+        "c": "MK",
+        "n": "Celebrities: New Illustration Images",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Skopje",
+        "o": "Museum of Contemporary Art Skopje",
+        "d": [
+          "2006-10-05",
+          "2006-10-15"
+        ]
+      }
+    ]
+  }
 }

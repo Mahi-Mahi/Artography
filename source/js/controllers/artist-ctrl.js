@@ -3,28 +3,40 @@
 
 define([], function() {
 
-	return ['$scope', '$location', 'dataService',
-		function($scope, $location, dataService) {
+	return ['$scope', '$location', '$route', 'dataService',
+		function($scope, $location, $route, dataService) {
 
-			console.log("ArtistController");
+			$scope.labels = {
+				genre: {
+					c: "Collectif",
+					m: "Homme",
+					f: "Femme"
+				}
+			};
 
-			var years = dataService.data.years;
+			$scope.artist = dataService.data.artists[$route.current.params.id];
+
+			console.log($scope.artist);
 
 			// default period
-			$scope.period = '2010';
-
+			if ($route.current.params.period) {
+				$scope.period = $route.current.params.period;
+			} else {
+				$scope.period = 'today';
+			}
 			$scope.periods = [{
 				name: "aujourd'hui",
 				slug: 'today',
 				checked: 'CHECKED'
 			}];
 
-			angular.forEach(years, function(year) {
-				$scope.periods.push({
-					name: year,
-					slug: year,
-					checked: null
-				});
+			angular.forEach($scope.artist.expos, function(expo) {
+				console.log(expo);
+				// $scope.periods.push({
+				// 	name: expo.year,
+				// 	slug: year,
+				// 	checked: null
+				// });
 			});
 
 			$scope.$watch('period', function(value) {
@@ -128,6 +140,8 @@ define([], function() {
 				});
 			});
 
+			$scope.$apply();
+
 			function update() {
 				parseData();
 				drawChart();
@@ -137,9 +151,10 @@ define([], function() {
 
 				iteration++;
 
-				console.log($scope.period);
+				if ($scope.artist.expos[$scope.period])
+					return;
 
-				var expos = dataService.data.expos[$scope.period];
+				var expos = $scope.artist.expos[$scope.period];
 				console.log(dataService.data);
 				console.log("expos : " + expos.length);
 

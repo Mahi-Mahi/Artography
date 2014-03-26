@@ -40,5 +40,60 @@
   "last_name": "Jenkell",
   "genre": "f",
   "birthDate": "1965-01-01",
-  "age": "46-55"
+  "age": 49,
+  "age_range": "46-55",
+  "expos": {
+    "2010": [
+      {
+        "c": "CN",
+        "n": "In the Mood for Art",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Opera Gallery",
+        "d": [
+          "2010-04-29",
+          "2010-05-29"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "In the Mood for Art",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Opera Gallery",
+        "d": [
+          "2010-04-29",
+          "2010-05-29"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "US",
+        "n": "Summer Selections",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "De Buck Gallery",
+        "d": [
+          "2011-07-21",
+          "2011-09-01"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Summer Selections",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "De Buck Gallery",
+        "d": [
+          "2011-07-21",
+          "2011-09-01"
+        ]
+      }
+    ]
+  }
 }

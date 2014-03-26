@@ -40,5 +40,86 @@
   "last_name": "Meriau",
   "genre": "c",
   "birthDate": "1968-02-27",
-  "age": "46-55"
+  "age": 46,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "c": "NL",
+        "n": "Bloedmooi",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rotterdam",
+        "o": "Historisch Museum Rotterdam",
+        "d": [
+          "2007-10-04",
+          "2008-03-30"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "c": "NL",
+        "n": "Bloedmooi",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rotterdam",
+        "o": "Historisch Museum Rotterdam",
+        "d": [
+          "2007-10-04",
+          "2008-03-30"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Curious Nature",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Newlyn (England)",
+        "o": "Newlyn Art Gallery",
+        "d": [
+          "2008-04-26",
+          "2008-06-18"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Curious Nature",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Newlyn (England)",
+        "o": "Newlyn Art Gallery",
+        "d": [
+          "2008-04-26",
+          "2008-06-18"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "c": "GB",
+        "n": "Photocinema",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Derby (England)",
+        "o": "QUAD Gallery",
+        "d": [
+          "2009-03-06",
+          "2009-04-26"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Photocinema",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Derby (England)",
+        "o": "QUAD Gallery",
+        "d": [
+          "2009-03-06",
+          "2009-04-26"
+        ]
+      }
+    ]
+  }
 }

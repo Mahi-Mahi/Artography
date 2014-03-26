@@ -40,5 +40,136 @@
   "last_name": "Olanier",
   "genre": "c",
   "birthDate": "1966-01-01",
-  "age": "46-55"
+  "age": 48,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "c": "GB",
+        "n": "Winter Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "jaggedart",
+        "d": [
+          "2007-12-13",
+          "2008-01-26"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "c": "GB",
+        "n": "Winter Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "jaggedart",
+        "d": [
+          "2007-12-13",
+          "2008-01-26"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Electric Muses, Quinacridone Flowers & Other Addictions",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "jaggedart",
+        "d": [
+          "2008-04-30",
+          "2008-05-31"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Electric Muses, Quinacridone Flowers & Other Addictions",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "jaggedart",
+        "d": [
+          "2008-04-30",
+          "2008-05-31"
+        ]
+      }
+    ],
+    "2005": [
+      {
+        "c": "GB",
+        "n": "Cyril Olanier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Osborne Samuel",
+        "d": [
+          "2005-01-20",
+          "2005-02-12"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Cyril Olanier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Osborne Samuel",
+        "d": [
+          "2005-01-20",
+          "2005-02-12"
+        ]
+      },
+      {
+        "c": "NO",
+        "n": "Erorama",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Oslo",
+        "o": "Galleri Christian Dam",
+        "d": [
+          "2005-08-25",
+          "2005-09-23"
+        ]
+      },
+      {
+        "c": "NO",
+        "n": "Erorama",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Oslo",
+        "o": "Galleri Christian Dam",
+        "d": [
+          "2005-08-25",
+          "2005-09-23"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "c": "AT",
+        "n": "Cyril Olanier - Lost Flowers",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Galerie Lang Wien",
+        "d": [
+          "2006-03-24",
+          "2006-04-21"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Cyril Olanier - Lost Flowers",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Galerie Lang Wien",
+        "d": [
+          "2006-03-24",
+          "2006-04-21"
+        ]
+      }
+    ]
+  }
 }

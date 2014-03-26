@@ -1,0 +1,98 @@
+{
+  "id": "113295",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:49:49",
+  "name": "Tom de Pékin",
+  "surname": "Pékin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "",
+  "birth day": "0",
+  "birth month": "0",
+  "birth year": "1963",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "45391",
+  "r01": "78571",
+  "r02": "73635",
+  "r03": "68432",
+  "r04": "62212",
+  "r05": "57244",
+  "r06": "61029",
+  "r07": "55401",
+  "r08": "71005",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (6), Netherlands (1)",
+  "2005-shows-with": "Tom de Pékin (7), Daniel Johnston (4), Charles Burns (3), Ludovic Debeurme (3), Moolinex (3), Bernard Granger (2), Pierre La Police (2), Julien Langendorff (2), Hervé di Rosa (2), Danny Steve (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Tom",
+  "last_name": "de",
+  "genre": "c",
+  "expos": {
+    "2007": [
+      {
+        "c": "CH",
+        "n": "transformer 2",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Biel/Bienne",
+        "o": "Art-Etage",
+        "d": [
+          "2007-03-18",
+          "2007-04-01"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "transformer 2",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Biel/Bienne",
+        "o": "Art-Etage",
+        "d": [
+          "2007-03-18",
+          "2007-04-01"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "c": "NL",
+        "n": "The Temptation of AA Bronson",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rotterdam",
+        "o": "Witte de With Center for Contemporary Art",
+        "d": [
+          "2013-09-05",
+          "2014-01-05"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "c": "NL",
+        "n": "The Temptation of AA Bronson",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rotterdam",
+        "o": "Witte de With Center for Contemporary Art",
+        "d": [
+          "2013-09-05",
+          "2014-01-05"
+        ]
+      }
+    ]
+  }
+}

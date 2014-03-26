@@ -40,5 +40,34 @@
   "last_name": "Dulom",
   "genre": "m",
   "birthDate": "1965-01-01",
-  "age": "46-55"
+  "age": 49,
+  "age_range": "46-55",
+  "expos": {
+    "2013": [
+      {
+        "c": "BE",
+        "n": "La rime et la raison",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "l'Escaut",
+        "d": [
+          "2013-04-18",
+          "2013-04-21"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "La rime et la raison",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "l'Escaut",
+        "d": [
+          "2013-04-18",
+          "2013-04-21"
+        ]
+      }
+    ]
+  }
 }

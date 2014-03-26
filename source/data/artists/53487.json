@@ -40,5 +40,34 @@
   "last_name": "Gagnère",
   "genre": "m",
   "birthDate": "1952-01-01",
-  "age": "46-55"
+  "age": 62,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "c": "CN",
+        "n": "Olivier Gagnère: French Designer",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Shanghai",
+        "o": "Contrasts Gallery - Sichuan Road",
+        "d": [
+          "2006-05-13",
+          "2006-06-08"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "Olivier Gagnère: French Designer",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Shanghai",
+        "o": "Contrasts Gallery - Sichuan Road",
+        "d": [
+          "2006-05-13",
+          "2006-06-08"
+        ]
+      }
+    ]
+  }
 }

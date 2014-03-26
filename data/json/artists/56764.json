@@ -40,5 +40,34 @@
   "last_name": "Leroi",
   "genre": "m",
   "birthDate": "1962-01-01",
-  "age": "46-55"
+  "age": 52,
+  "age_range": "46-55",
+  "expos": {
+    "2010": [
+      {
+        "c": "GR",
+        "n": "Action Field Kodra 2010",
+        "st": "Group",
+        "t": "Festival",
+        "ct": "Thessaloniki",
+        "o": "Action Field Kodra",
+        "d": [
+          "2010-09-03",
+          "2010-09-12"
+        ]
+      },
+      {
+        "c": "GR",
+        "n": "Action Field Kodra 2010",
+        "st": "Group",
+        "t": "Festival",
+        "ct": "Thessaloniki",
+        "o": "Action Field Kodra",
+        "d": [
+          "2010-09-03",
+          "2010-09-12"
+        ]
+      }
+    ]
+  }
 }

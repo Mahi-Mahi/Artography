@@ -40,5 +40,62 @@
   "last_name": "Cottencin",
   "genre": "c",
   "birthDate": "1967-01-01",
-  "age": "46-55"
+  "age": 47,
+  "age_range": "46-55",
+  "expos": {
+    "2009": [
+      {
+        "c": "BE",
+        "n": "V.O.S.T. OV/OT",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "iMAL (interactive Media Art Laboratory)",
+        "d": [
+          "2009-05-21",
+          "2010-05-31"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "c": "BE",
+        "n": "V.O.S.T. OV/OT",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "iMAL (interactive Media Art Laboratory)",
+        "d": [
+          "2009-05-21",
+          "2010-05-31"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "c": "HR",
+        "n": "L\\'amour du Risque",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zagreb",
+        "o": "MSU - Museum of Contemporary Art Zagreb",
+        "d": [
+          "2012-04-24",
+          "2012-06-17"
+        ]
+      },
+      {
+        "c": "HR",
+        "n": "L\\'amour du Risque",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zagreb",
+        "o": "MSU - Museum of Contemporary Art Zagreb",
+        "d": [
+          "2012-04-24",
+          "2012-06-17"
+        ]
+      }
+    ]
+  }
 }

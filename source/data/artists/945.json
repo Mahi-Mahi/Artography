@@ -40,5 +40,5478 @@
   "last_name": "Buren",
   "genre": "m",
   "birthDate": "1938-03-25",
-  "age": "46-55"
+  "age": 76,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "c": "DE",
+        "n": "EXIT- Ausstieg aus dem Bild",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2005-01-14",
+          "2005-08-14"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "EXIT- Ausstieg aus dem Bild",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2005-01-14",
+          "2005-08-14"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Today is just a copy of yesterday",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Jan Mot",
+        "d": [
+          "2005-02-09",
+          "2005-03-29"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Today is just a copy of yesterday",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Jan Mot",
+        "d": [
+          "2005-02-09",
+          "2005-03-29"
+        ]
+      },
+      {
+        "c": "HU",
+        "n": "The Enigma of Modernity",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Budapest",
+        "o": "Ludwig Museum - Museum of Contemporary Art - Budapest",
+        "d": [
+          "2005-03-15",
+          "2005-05-15"
+        ]
+      },
+      {
+        "c": "HU",
+        "n": "The Enigma of Modernity",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Budapest",
+        "o": "Ludwig Museum - Museum of Contemporary Art - Budapest",
+        "d": [
+          "2005-03-15",
+          "2005-05-15"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Natur – Raum – Kunst. Aus den Sammlungen des Museums und Ernst Ploil",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Salzburg",
+        "o": "Museum der Moderne",
+        "d": [
+          "2005-03-19",
+          "2005-06-05"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Natur – Raum – Kunst. Aus den Sammlungen des Museums und Ernst Ploil",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Salzburg",
+        "o": "Museum der Moderne",
+        "d": [
+          "2005-03-19",
+          "2005-06-05"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "multiplo_1 - daily endless multiple made recyclable",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "N.O.Gallery",
+        "d": [
+          "2005-04-07",
+          "2005-05-10"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "multiplo_1 - daily endless multiple made recyclable",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "N.O.Gallery",
+        "d": [
+          "2005-04-07",
+          "2005-05-10"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "Manmano",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Galleria Continua - Beijing",
+        "d": [
+          "2005-05-08",
+          "2005-07-31"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "Manmano",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Galleria Continua - Beijing",
+        "d": [
+          "2005-05-08",
+          "2005-07-31"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Edition Schellmann",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Portland, OR",
+        "o": "Elizabeth Leach Gallery",
+        "d": [
+          "2005-06-02",
+          "2005-07-02"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Edition Schellmann",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Portland, OR",
+        "o": "Elizabeth Leach Gallery",
+        "d": [
+          "2005-06-02",
+          "2005-07-02"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Off the Wall",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Santa Monica, CA",
+        "o": "Greenfield Sacks Gallery",
+        "d": [
+          "2005-06-04",
+          "2005-07-09"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Off the Wall",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Santa Monica, CA",
+        "o": "Greenfield Sacks Gallery",
+        "d": [
+          "2005-06-04",
+          "2005-07-09"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "collectie zomer 2005 - de Zomer van Middelburg",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
+        "d": [
+          "2005-06-04",
+          "2005-08-15"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "collectie zomer 2005 - de Zomer van Middelburg",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
+        "d": [
+          "2005-06-04",
+          "2005-08-15"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Group Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Boston, MA",
+        "o": "The Barbara Krakow Gallery",
+        "d": [
+          "2005-06-18",
+          "2005-07-28"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Group Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Boston, MA",
+        "o": "The Barbara Krakow Gallery",
+        "d": [
+          "2005-06-18",
+          "2005-07-28"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "No Comments",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Porto",
+        "o": "Museu Serralves - Museu de Arte Contemporânea",
+        "d": [
+          "2005-07-23",
+          "2005-11-06"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "No Comments",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Porto",
+        "o": "Museu Serralves - Museu de Arte Contemporânea",
+        "d": [
+          "2005-07-23",
+          "2005-11-06"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Le Tableau des Éléments",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hornu",
+        "o": "MAC's Grand Hornu - Musée des Arts Contemporains",
+        "d": [
+          "2005-08-28",
+          "2005-12-31"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Le Tableau des Éléments",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hornu",
+        "o": "MAC's Grand Hornu - Musée des Arts Contemporains",
+        "d": [
+          "2005-08-28",
+          "2005-12-31"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Geometry Sequence Repetition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Albion - London",
+        "d": [
+          "2005-09-13",
+          "2005-10-07"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Geometry Sequence Repetition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Albion - London",
+        "d": [
+          "2005-09-13",
+          "2005-10-07"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "Yokohama 2005 - International Triennale of Contemporary Art",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Yokohama",
+        "o": "Yokohama Triennale",
+        "d": [
+          "2005-09-28",
+          "2005-12-18"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "Yokohama 2005 - International Triennale of Contemporary Art",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Yokohama",
+        "o": "Yokohama Triennale",
+        "d": [
+          "2005-09-28",
+          "2005-12-18"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "SENZA CONFINE (15th year) - SAN GIMIGNANO",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "San Gimignano",
+        "o": "Galleria Continua - San Gimignano",
+        "d": [
+          "2005-09-30",
+          "2005-10-22"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "SENZA CONFINE (15th year) - SAN GIMIGNANO",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "San Gimignano",
+        "o": "Galleria Continua - San Gimignano",
+        "d": [
+          "2005-09-30",
+          "2005-10-22"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Des Deux Cotes Du Rhin  -Movement-",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Cologne",
+        "o": "Museum Ludwig",
+        "d": [
+          "2005-10-15",
+          "2006-02-12"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Il Bianco e Altro e Comunque Arte",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Turin",
+        "o": "Palazzo Cavour",
+        "d": [
+          "2005-10-21",
+          "2006-01-22"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Öffentlichkeit als Medium II - Videos und Dokumentationen",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Munich",
+        "o": "ZKMax",
+        "d": [
+          "2005-11-24",
+          "2006-01-15"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Mäzene der Kunst auf Papier",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Stuttgart",
+        "o": "Staatsgalerie Stuttgart",
+        "d": [
+          "2005-11-26",
+          "2006-03-12"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Painters Without Paintings & Paintings Without Painters",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "Orchard 47",
+        "d": [
+          "2005-12-10",
+          "2006-01-15"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "BUCHMANN GALERIE",
+        "d": [
+          "2005-01-01",
+          "2005-03-01"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "BUCHMANN GALERIE",
+        "d": [
+          "2005-01-01",
+          "2005-03-01"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "The Eye of the Storm - Works in SITU by Daniel Buren",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "Solomon R. Guggenheim Museum",
+        "d": [
+          "2005-03-25",
+          "2005-06-08"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "The Eye of the Storm - Works in SITU by Daniel Buren",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "Solomon R. Guggenheim Museum",
+        "d": [
+          "2005-03-25",
+          "2005-06-08"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Xavier  Hufkens",
+        "d": [
+          "2005-09-15",
+          "2005-11-05"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Xavier  Hufkens",
+        "d": [
+          "2005-09-15",
+          "2005-11-05"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Daniel Buren - Voile/Toile - Toile/Voile - 1975-2005",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2005-10-25",
+          "2006-01-15"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "c": "DE",
+        "n": "Des Deux Cotes Du Rhin  -Movement-",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Cologne",
+        "o": "Museum Ludwig",
+        "d": [
+          "2005-10-15",
+          "2006-02-12"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Il Bianco e Altro e Comunque Arte",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Turin",
+        "o": "Palazzo Cavour",
+        "d": [
+          "2005-10-21",
+          "2006-01-22"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Öffentlichkeit als Medium II - Videos und Dokumentationen",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Munich",
+        "o": "ZKMax",
+        "d": [
+          "2005-11-24",
+          "2006-01-15"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Mäzene der Kunst auf Papier",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Stuttgart",
+        "o": "Staatsgalerie Stuttgart",
+        "d": [
+          "2005-11-26",
+          "2006-03-12"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Painters Without Paintings & Paintings Without Painters",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "Orchard 47",
+        "d": [
+          "2005-12-10",
+          "2006-01-15"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "10th Anniversary Show: Vision II: 1995-2005 Collection Of The Museum",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Toyota Aichi",
+        "o": "Toyota Municipal Museum of Art",
+        "d": [
+          "2006-01-08",
+          "2006-04-02"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "10th Anniversary Show: Vision II: 1995-2005 Collection Of The Museum",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Toyota Aichi",
+        "o": "Toyota Municipal Museum of Art",
+        "d": [
+          "2006-01-08",
+          "2006-04-02"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "Conversation with Art, on Art. bauhaus to Contemporary Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Tokyo",
+        "o": "Tokyo Opera City Art Gallery",
+        "d": [
+          "2006-01-14",
+          "2006-03-20"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "Conversation with Art, on Art. bauhaus to Contemporary Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Tokyo",
+        "o": "Tokyo Opera City Art Gallery",
+        "d": [
+          "2006-01-14",
+          "2006-03-20"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Robert Barry, Daniel Buren, Sol LeWitt - Wall Drawings",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Albion - London",
+        "d": [
+          "2006-01-19",
+          "2006-03-24"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Robert Barry, Daniel Buren, Sol LeWitt - Wall Drawings",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Albion - London",
+        "d": [
+          "2006-01-19",
+          "2006-03-24"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Espai Públic / Dues Audiències. Obres i documents de la Col.lecció Herbert",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "Museu d´Art Contemporani de Barcelona - MACBA",
+        "d": [
+          "2006-02-07",
+          "2006-05-01"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Espai Públic / Dues Audiències. Obres i documents de la Col.lecció Herbert",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "Museu d´Art Contemporani de Barcelona - MACBA",
+        "d": [
+          "2006-02-07",
+          "2006-05-01"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "LOCATION SHOTS",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Erna Hécey",
+        "d": [
+          "2006-02-17",
+          "2006-04-01"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "LOCATION SHOTS",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Erna Hécey",
+        "d": [
+          "2006-02-17",
+          "2006-04-01"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Minimal Illusions -Arbeiten mit der Sammlung Rik Reinking",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Esslingen",
+        "o": "Villa Merkel - Galerien der Stadt Esslingen",
+        "d": [
+          "2006-02-19",
+          "2006-04-17"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Minimal Illusions -Arbeiten mit der Sammlung Rik Reinking",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Esslingen",
+        "o": "Villa Merkel - Galerien der Stadt Esslingen",
+        "d": [
+          "2006-02-19",
+          "2006-04-17"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "I still love the 20th century",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Georg Kargl Fine Arts & Georg Kargl Box",
+        "d": [
+          "2006-03-24",
+          "2006-05-06"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "I still love the 20th century",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Georg Kargl Fine Arts & Georg Kargl Box",
+        "d": [
+          "2006-03-24",
+          "2006-05-06"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Ordnung und Verführung",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zurich",
+        "o": "Haus Konstruktiv, Stiftung für konstruktive und konkrete Kunst",
+        "d": [
+          "2006-04-06",
+          "2006-08-01"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Ordnung und Verführung",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zurich",
+        "o": "Haus Konstruktiv, Stiftung für konstruktive und konkrete Kunst",
+        "d": [
+          "2006-04-06",
+          "2006-08-01"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Strange I’ve Seen That Face Before - Kunst, Design, Architektur im Kopf",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mönchengladbach",
+        "o": "Städtisches Museum Abteiberg",
+        "d": [
+          "2006-05-07",
+          "2006-09-17"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Strange I’ve Seen That Face Before - Kunst, Design, Architektur im Kopf",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mönchengladbach",
+        "o": "Städtisches Museum Abteiberg",
+        "d": [
+          "2006-05-07",
+          "2006-09-17"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Mapping the studio",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amsterdam",
+        "o": "Stedelijk Museum Amsterdam",
+        "d": [
+          "2006-05-12",
+          "2006-08-20"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Mapping the studio",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amsterdam",
+        "o": "Stedelijk Museum Amsterdam",
+        "d": [
+          "2006-05-12",
+          "2006-08-20"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Inventur",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Graz",
+        "o": "Kunsthaus Graz",
+        "d": [
+          "2006-06-10",
+          "2006-09-03"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Inventur",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Graz",
+        "o": "Kunsthaus Graz",
+        "d": [
+          "2006-06-10",
+          "2006-09-03"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Ergens / Somewhere",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
+        "d": [
+          "2006-06-16",
+          "2006-08-27"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Ergens / Somewhere",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
+        "d": [
+          "2006-06-16",
+          "2006-08-27"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "la espiral del artificio",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "San Sebastián",
+        "o": "Museo San Telmo",
+        "d": [
+          "2006-06-27",
+          "2006-09-03"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "la espiral del artificio",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "San Sebastián",
+        "o": "Museo San Telmo",
+        "d": [
+          "2006-06-27",
+          "2006-09-03"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Sin Título - El arte del siglo XX en la Colección Berardo",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "A Coruña",
+        "o": "Fundación Pedro Barrié de la Maza - A Coruña ",
+        "d": [
+          "2006-06-29",
+          "2006-11-26"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Sin Título - El arte del siglo XX en la Colección Berardo",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "A Coruña",
+        "o": "Fundación Pedro Barrié de la Maza - A Coruña ",
+        "d": [
+          "2006-06-29",
+          "2006-11-26"
+        ]
+      },
+      {
+        "c": "LU",
+        "n": "Eldorado",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2006-07-02",
+          "2006-11-20"
+        ]
+      },
+      {
+        "c": "LU",
+        "n": "Eldorado",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2006-07-02",
+          "2006-11-20"
+        ]
+      },
+      {
+        "c": "DK",
+        "n": "The Known and the Unknown",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Copenhagen",
+        "o": "Galleri Nicolai Wallner",
+        "d": [
+          "2006-07-07",
+          "2006-08-12"
+        ]
+      },
+      {
+        "c": "DK",
+        "n": "The Known and the Unknown",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Copenhagen",
+        "o": "Galleri Nicolai Wallner",
+        "d": [
+          "2006-07-07",
+          "2006-08-12"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Daniel Buren Jan De Cock",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brescia",
+        "o": "Galleria Massimo Minini",
+        "d": [
+          "2006-10-07",
+          "2006-12-22"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Daniel Buren Jan De Cock",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brescia",
+        "o": "Galleria Massimo Minini",
+        "d": [
+          "2006-10-07",
+          "2006-12-22"
+        ]
+      },
+      {
+        "c": "IE",
+        "n": "The Studio",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dublin",
+        "o": "Dublin City Gallery The Hugh Lane",
+        "d": [
+          "2006-12-01",
+          "2007-02-25"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Daniel Buren - Voile/Toile - Toile/Voile - 1975-2005",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2005-10-25",
+          "2006-01-15"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "Daniel Buren - couleurs et ombres portées",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Galleria Continua - Beijing",
+        "d": [
+          "2006-01-14",
+          "2006-04-16"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "Daniel Buren - couleurs et ombres portées",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Galleria Continua - Beijing",
+        "d": [
+          "2006-01-14",
+          "2006-04-16"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Daniel Buren: Crossing Through the Colors, a work in situ",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Chicago, IL",
+        "o": "Arts Club of Chicago",
+        "d": [
+          "2006-04-25",
+          "2006-07-21"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Daniel Buren: Crossing Through the Colors, a work in situ",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Chicago, IL",
+        "o": "Arts Club of Chicago",
+        "d": [
+          "2006-04-25",
+          "2006-07-21"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Les Cabanyes de ceràmica i espill, Treball in situ",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Castellon de la Plana",
+        "o": "Espai d´Art Contemporani de Castelló - EACC",
+        "d": [
+          "2006-04-28",
+          "2006-09-24"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Les Cabanyes de ceràmica i espill, Treball in situ",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Castellon de la Plana",
+        "o": "Espai d´Art Contemporani de Castelló - EACC",
+        "d": [
+          "2006-04-28",
+          "2006-09-24"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "DANIEL BUREN - Proprio lì negli angoli più inaccessibili “lavoro in situ”",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "San Gimignano",
+        "o": "Galleria Continua - San Gimignano",
+        "d": [
+          "2006-05-20",
+          "2008-02-02"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Oxford (England)",
+        "o": "Modern Art Oxford",
+        "d": [
+          "2006-11-04",
+          "2007-01-21"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "c": "IE",
+        "n": "The Studio",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dublin",
+        "o": "Dublin City Gallery The Hugh Lane",
+        "d": [
+          "2006-12-01",
+          "2007-02-25"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Die Geschichte wiederholt sich nicht!",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bielefeld",
+        "o": "Bielefelder Kunstverein",
+        "d": [
+          "2007-01-12",
+          "2007-03-12"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Die Geschichte wiederholt sich nicht!",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bielefeld",
+        "o": "Bielefelder Kunstverein",
+        "d": [
+          "2007-01-12",
+          "2007-03-12"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "GROUP-EXHIBITIONSY. 2007",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Turin",
+        "o": "Tucci Russo Contemporary Art Studio",
+        "d": [
+          "2007-01-30",
+          "2007-09-29"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "GROUP-EXHIBITIONSY. 2007",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Turin",
+        "o": "Tucci Russo Contemporary Art Studio",
+        "d": [
+          "2007-01-30",
+          "2007-09-29"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "One Colour",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Galleria Continua - Beijing",
+        "d": [
+          "2007-02-10",
+          "2007-04-05"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "One Colour",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Galleria Continua - Beijing",
+        "d": [
+          "2007-02-10",
+          "2007-04-05"
+        ]
+      },
+      {
+        "c": "RS",
+        "n": "Konceptualna umetnost",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Novi Sad",
+        "o": "Museum Of Contemporary Art Vojvodina",
+        "d": [
+          "2007-03-06",
+          "2007-03-20"
+        ]
+      },
+      {
+        "c": "RS",
+        "n": "Konceptualna umetnost",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Novi Sad",
+        "o": "Museum Of Contemporary Art Vojvodina",
+        "d": [
+          "2007-03-06",
+          "2007-03-20"
+        ]
+      },
+      {
+        "c": "DK",
+        "n": "Silly Adults",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Copenhagen",
+        "o": "Galleri Nicolai Wallner",
+        "d": [
+          "2007-03-16",
+          "2007-04-21"
+        ]
+      },
+      {
+        "c": "DK",
+        "n": "Silly Adults",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Copenhagen",
+        "o": "Galleri Nicolai Wallner",
+        "d": [
+          "2007-03-16",
+          "2007-04-21"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Die Kunst zu Sammeln",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dusseldorf",
+        "o": "Museum Kunstpalast",
+        "d": [
+          "2007-04-21",
+          "2007-07-22"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Die Kunst zu Sammeln",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dusseldorf",
+        "o": "Museum Kunstpalast",
+        "d": [
+          "2007-04-21",
+          "2007-07-22"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Esposizione Collettiva",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Turin",
+        "o": "Tucci Russo Contemporary Art Studio",
+        "d": [
+          "2007-05-05",
+          "2007-09-16"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Esposizione Collettiva",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Turin",
+        "o": "Tucci Russo Contemporary Art Studio",
+        "d": [
+          "2007-05-05",
+          "2007-09-16"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "A theatre without theatre",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "Museu d´Art Contemporani de Barcelona - MACBA",
+        "d": [
+          "2007-05-24",
+          "2007-09-24"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "A theatre without theatre",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "Museu d´Art Contemporani de Barcelona - MACBA",
+        "d": [
+          "2007-05-24",
+          "2007-09-24"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "52nd International Art Exhibition Venice Biennale / Biennale di Venezia",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Venice",
+        "o": "La Biennale di Venezia",
+        "d": [
+          "2007-06-10",
+          "2007-11-21"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "52nd International Art Exhibition Venice Biennale / Biennale di Venezia",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Venice",
+        "o": "La Biennale di Venezia",
+        "d": [
+          "2007-06-10",
+          "2007-11-21"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Klio - Eine kurze Geschichte der Kunst in Euramerika nach 1945",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2007-06-15",
+          "2008-04-20"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Door Cycle",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Friedrich Petzel Gallery",
+        "d": [
+          "2007-06-29",
+          "2007-08-11"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Door Cycle",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Friedrich Petzel Gallery",
+        "d": [
+          "2007-06-29",
+          "2007-08-11"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Who’s got the Big Picture?",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
+        "d": [
+          "2007-06-29",
+          "2007-11-18"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Who’s got the Big Picture?",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
+        "d": [
+          "2007-06-29",
+          "2007-11-18"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "13",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Birmingham (England)",
+        "o": "International Project Space",
+        "d": [
+          "2007-07-05",
+          "2007-08-04"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "13",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Birmingham (England)",
+        "o": "International Project Space",
+        "d": [
+          "2007-07-05",
+          "2007-08-04"
+        ]
+      },
+      {
+        "c": "BR",
+        "n": "Da Bauhaus (Agora!)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "São Paulo",
+        "o": "Museu de Arte de São Paulo Assis Chateaubriand - MASP",
+        "d": [
+          "2007-08-16",
+          "2007-10-28"
+        ]
+      },
+      {
+        "c": "BR",
+        "n": "Da Bauhaus (Agora!)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "São Paulo",
+        "o": "Museu de Arte de São Paulo Assis Chateaubriand - MASP",
+        "d": [
+          "2007-08-16",
+          "2007-10-28"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Size Matters - XXL-recent Large-scale paintings",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Peekskill, NY",
+        "o": "HVCCA - Hudson Valley Center for Contemporary Art",
+        "d": [
+          "2007-09-16",
+          "2007-11-10"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Size Matters - XXL-recent Large-scale paintings",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Peekskill, NY",
+        "o": "HVCCA - Hudson Valley Center for Contemporary Art",
+        "d": [
+          "2007-09-16",
+          "2007-11-10"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "For Sale by guest curator Jens Hoffman",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lisbon",
+        "o": "Cristina Guerra Contemporary Art",
+        "d": [
+          "2007-09-20",
+          "2007-10-20"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "For Sale by guest curator Jens Hoffman",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lisbon",
+        "o": "Cristina Guerra Contemporary Art",
+        "d": [
+          "2007-09-20",
+          "2007-10-20"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Nel formare 2",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Rome",
+        "o": "Galleria Maria Grazia Del Prete",
+        "d": [
+          "2007-10-11",
+          "2008-01-15"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "Só é possível se formos 2",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Sines",
+        "o": "Centro de Artes de Sines",
+        "d": [
+          "2007-11-03",
+          "2008-01-27"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Die aufregende Kunst des 20. Jahrhunderts",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Neue Nationalgalerie",
+        "d": [
+          "2007-11-08",
+          "2008-06-08"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "A Theater without Theater",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lisbon",
+        "o": "Berardo Museum - Collection of Modern and Contemporary Art",
+        "d": [
+          "2007-11-16",
+          "2008-02-17"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Multiplex: Directions in Art, 1970 to Now",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "MoMA - Museum of Modern Art",
+        "d": [
+          "2007-11-21",
+          "2008-07-28"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "The Complexity of the Simple",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "L&M Arts, New York",
+        "d": [
+          "2007-12-01",
+          "2008-01-31"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "The Complexity Of The Simple",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Mnuchin Gallery",
+        "d": [
+          "2007-12-01",
+          "2008-02-02"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Oxford (England)",
+        "o": "Modern Art Oxford",
+        "d": [
+          "2006-11-04",
+          "2007-01-21"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Daniel Buren - Variable/Invariable",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Bortolami",
+        "d": [
+          "2007-01-11",
+          "2007-02-15"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Daniel Buren - Variable/Invariable",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Bortolami",
+        "d": [
+          "2007-01-11",
+          "2007-02-15"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lisson Gallery",
+        "d": [
+          "2007-05-18",
+          "2007-06-23"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lisson Gallery",
+        "d": [
+          "2007-05-18",
+          "2007-06-23"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Armory Public View: Daniel Buren",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Pasadena, CA",
+        "o": "Armory Center for the Arts",
+        "d": [
+          "2007-08-11",
+          "2007-11-11"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Armory Public View: Daniel Buren",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Pasadena, CA",
+        "o": "Armory Center for the Arts",
+        "d": [
+          "2007-08-11",
+          "2007-11-11"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "c": "DE",
+        "n": "Klio - Eine kurze Geschichte der Kunst in Euramerika nach 1945",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2007-06-15",
+          "2008-04-20"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Nel formare 2",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Rome",
+        "o": "Galleria Maria Grazia Del Prete",
+        "d": [
+          "2007-10-11",
+          "2008-01-15"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "Só é possível se formos 2",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Sines",
+        "o": "Centro de Artes de Sines",
+        "d": [
+          "2007-11-03",
+          "2008-01-27"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Die aufregende Kunst des 20. Jahrhunderts",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Neue Nationalgalerie",
+        "d": [
+          "2007-11-08",
+          "2008-06-08"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "A Theater without Theater",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lisbon",
+        "o": "Berardo Museum - Collection of Modern and Contemporary Art",
+        "d": [
+          "2007-11-16",
+          "2008-02-17"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Multiplex: Directions in Art, 1970 to Now",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "MoMA - Museum of Modern Art",
+        "d": [
+          "2007-11-21",
+          "2008-07-28"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "The Complexity of the Simple",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "L&M Arts, New York",
+        "d": [
+          "2007-12-01",
+          "2008-01-31"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "The Complexity Of The Simple",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Mnuchin Gallery",
+        "d": [
+          "2007-12-01",
+          "2008-02-02"
+        ]
+      },
+      {
+        "c": "CA",
+        "n": "Art Metropole: The Top 100",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Halifax, NS",
+        "o": "MSVU Art Gallery",
+        "d": [
+          "2008-01-12",
+          "2008-03-22"
+        ]
+      },
+      {
+        "c": "CA",
+        "n": "Art Metropole: The Top 100",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Halifax, NS",
+        "o": "MSVU Art Gallery",
+        "d": [
+          "2008-01-12",
+          "2008-03-22"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "MAXImin",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "Fundación Juan March",
+        "d": [
+          "2008-02-09",
+          "2008-05-25"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "MAXImin",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "Fundación Juan March",
+        "d": [
+          "2008-02-09",
+          "2008-05-25"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Color Chart: Reinventing Color, 1950 to Today",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "MoMA - Museum of Modern Art",
+        "d": [
+          "2008-03-02",
+          "2008-05-12"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Color Chart: Reinventing Color, 1950 to Today",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "MoMA - Museum of Modern Art",
+        "d": [
+          "2008-03-02",
+          "2008-05-12"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Andrew Grassie & Daniel Buren",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Edinburgh (Scotland)",
+        "o": "Ingleby Gallery",
+        "d": [
+          "2008-04-05",
+          "2008-04-12"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Andrew Grassie & Daniel Buren",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Edinburgh (Scotland)",
+        "o": "Ingleby Gallery",
+        "d": [
+          "2008-04-05",
+          "2008-04-12"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Blood on Paper - the Art of the Book",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Victoria & Albert Museum - V&A",
+        "d": [
+          "2008-04-15",
+          "2008-06-29"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Blood on Paper - the Art of the Book",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Victoria & Albert Museum - V&A",
+        "d": [
+          "2008-04-15",
+          "2008-06-29"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "INTERIORS",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Rome",
+        "o": "Galleria Oredaria Arti Contemporanee",
+        "d": [
+          "2008-04-18",
+          "2008-06-28"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "INTERIORS",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Rome",
+        "o": "Galleria Oredaria Arti Contemporanee",
+        "d": [
+          "2008-04-18",
+          "2008-06-28"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Peripheral vision and collective body",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bolzano",
+        "o": "MUSEION - Museum für moderne und zeitgenössische Kunst ",
+        "d": [
+          "2008-05-24",
+          "2008-09-21"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Peripheral vision and collective body",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bolzano",
+        "o": "MUSEION - Museum für moderne und zeitgenössische Kunst ",
+        "d": [
+          "2008-05-24",
+          "2008-09-21"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Stadthimmel Citysky",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Basel",
+        "o": "Galerie Klaus Littmann",
+        "d": [
+          "2008-05-30",
+          "2008-09-14"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Stadthimmel Citysky",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Basel",
+        "o": "Galerie Klaus Littmann",
+        "d": [
+          "2008-05-30",
+          "2008-09-14"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Sonsbeek 2008 - Carried Away Procession in Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Arnhem",
+        "o": "Museum voor Moderne Kunst Arnhem - MMKA",
+        "d": [
+          "2008-06-14",
+          "2008-09-21"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Sonsbeek 2008 - Carried Away Procession in Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Arnhem",
+        "o": "Museum voor Moderne Kunst Arnhem - MMKA",
+        "d": [
+          "2008-06-14",
+          "2008-09-21"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Mondo e Terra, La collezione del FRAC Corsica",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuoro",
+        "o": "MAN - Museo d`Arte di Nuoro",
+        "d": [
+          "2008-06-19",
+          "2008-10-05"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Mondo e Terra, La collezione del FRAC Corsica",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuoro",
+        "o": "MAN - Museo d`Arte di Nuoro",
+        "d": [
+          "2008-06-19",
+          "2008-10-05"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "The Sum of Its Parts",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Boston, MA",
+        "o": "The Barbara Krakow Gallery",
+        "d": [
+          "2008-07-21",
+          "2008-10-07"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "The Sum of Its Parts",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Boston, MA",
+        "o": "The Barbara Krakow Gallery",
+        "d": [
+          "2008-07-21",
+          "2008-10-07"
+        ]
+      },
+      {
+        "c": "SG",
+        "n": "Tilted Balance",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Singapore",
+        "o": "Collectors Contemporary",
+        "d": [
+          "2008-07-24",
+          "2008-09-04"
+        ]
+      },
+      {
+        "c": "SG",
+        "n": "Tilted Balance",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Singapore",
+        "o": "Collectors Contemporary",
+        "d": [
+          "2008-07-24",
+          "2008-09-04"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "YESTERDAY - TODAY - TOMORROW",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dusseldorf",
+        "o": "Galerie Hans Mayer",
+        "d": [
+          "2008-08-19",
+          "2008-09-25"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "YESTERDAY - TODAY - TOMORROW",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dusseldorf",
+        "o": "Galerie Hans Mayer",
+        "d": [
+          "2008-08-19",
+          "2008-09-25"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "art/tapes/22",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Long Beach, CA",
+        "o": "UAM - University Art Museum",
+        "d": [
+          "2008-09-04",
+          "2008-10-19"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "art/tapes/22",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Long Beach, CA",
+        "o": "UAM - University Art Museum",
+        "d": [
+          "2008-09-04",
+          "2008-10-19"
+        ]
+      },
+      {
+        "c": "DK",
+        "n": "Anniversary Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Copenhagen",
+        "o": "Galleri Nicolai Wallner",
+        "d": [
+          "2008-09-05",
+          "2008-10-25"
+        ]
+      },
+      {
+        "c": "DK",
+        "n": "Anniversary Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Copenhagen",
+        "o": "Galleri Nicolai Wallner",
+        "d": [
+          "2008-09-05",
+          "2008-10-25"
+        ]
+      },
+      {
+        "c": "SG",
+        "n": "Singapore Biennale 2008",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Singapore",
+        "o": "Singapore Biennale",
+        "d": [
+          "2008-09-11",
+          "2008-11-16"
+        ]
+      },
+      {
+        "c": "SG",
+        "n": "Singapore Biennale 2008",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Singapore",
+        "o": "Singapore Biennale",
+        "d": [
+          "2008-09-11",
+          "2008-11-16"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "RUPTURES ET HERITAGES (les années 70)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "Royal Museums of Fine Arts of Belgium",
+        "d": [
+          "2008-10-03",
+          "2009-01-18"
+        ]
+      },
+      {
+        "c": "CA",
+        "n": "Ideas of Landscape/ Landscape of Ideas 2",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Montreal, QC",
+        "o": "Musée d´art contemporain de Montréal",
+        "d": [
+          "2008-11-06",
+          "2009-01-04"
+        ]
+      },
+      {
+        "c": "SG",
+        "n": "is it tomorrow yet?",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Singapore",
+        "o": "Singapore Art Museum",
+        "d": [
+          "2008-11-27",
+          "2009-03-01"
+        ]
+      },
+      {
+        "c": "CA",
+        "n": "C\\'est arrivé près de chez vous L\\'art actuel à Québe",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Quebec City",
+        "o": "Musée national des beaux-arts du Québec",
+        "d": [
+          "2008-12-04",
+          "2009-04-12"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "DANIEL BUREN - Proprio lì negli angoli più inaccessibili “lavoro in situ”",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "San Gimignano",
+        "o": "Galleria Continua - San Gimignano",
+        "d": [
+          "2006-05-20",
+          "2008-02-02"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "daniel buren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Dusseldorf",
+        "o": "Konrad Fischer Galerie - Düsseldorf",
+        "d": [
+          "2008-01-25",
+          "2008-03-01"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "daniel buren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Dusseldorf",
+        "o": "Konrad Fischer Galerie - Düsseldorf",
+        "d": [
+          "2008-01-25",
+          "2008-03-01"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "c": "BE",
+        "n": "RUPTURES ET HERITAGES (les années 70)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "Royal Museums of Fine Arts of Belgium",
+        "d": [
+          "2008-10-03",
+          "2009-01-18"
+        ]
+      },
+      {
+        "c": "CA",
+        "n": "Ideas of Landscape/ Landscape of Ideas 2",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Montreal, QC",
+        "o": "Musée d´art contemporain de Montréal",
+        "d": [
+          "2008-11-06",
+          "2009-01-04"
+        ]
+      },
+      {
+        "c": "SG",
+        "n": "is it tomorrow yet?",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Singapore",
+        "o": "Singapore Art Museum",
+        "d": [
+          "2008-11-27",
+          "2009-03-01"
+        ]
+      },
+      {
+        "c": "CA",
+        "n": "C\\'est arrivé près de chez vous L\\'art actuel à Québe",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Quebec City",
+        "o": "Musée national des beaux-arts du Québec",
+        "d": [
+          "2008-12-04",
+          "2009-04-12"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Drawings and Watercolors",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Senior & Shopmaker Gallery",
+        "d": [
+          "2009-02-12",
+          "2009-04-15"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Drawings and Watercolors",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Senior & Shopmaker Gallery",
+        "d": [
+          "2009-02-12",
+          "2009-04-15"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "COSTANTI del classico nell\\'arte del XX e XXI secolo",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Catania, CT",
+        "o": "Fondazione Puglisi Cosentino - Palazzo Valle",
+        "d": [
+          "2009-02-22",
+          "2009-06-29"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "COSTANTI del classico nell\\'arte del XX e XXI secolo",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Catania, CT",
+        "o": "Fondazione Puglisi Cosentino - Palazzo Valle",
+        "d": [
+          "2009-02-22",
+          "2009-06-29"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "A mancha humana / the human stein",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Santiago de Compostela",
+        "o": "CGAC - Centro Galego de Arte Contemporánea",
+        "d": [
+          "2009-03-12",
+          "2009-05-31"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "A mancha humana / the human stein",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Santiago de Compostela",
+        "o": "CGAC - Centro Galego de Arte Contemporánea",
+        "d": [
+          "2009-03-12",
+          "2009-05-31"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Imperium / Kapitel 1: Qué VivaMéxico!",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Leipzig",
+        "o": "Galeria Hilario Galguera",
+        "d": [
+          "2009-04-30",
+          "2009-05-30"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Imperium / Kapitel 1: Qué VivaMéxico!",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Leipzig",
+        "o": "Galeria Hilario Galguera",
+        "d": [
+          "2009-04-30",
+          "2009-05-30"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Take the Money and Run",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amsterdam",
+        "o": "de Appel arts centre",
+        "d": [
+          "2009-05-03",
+          "2009-05-12"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Take the Money and Run",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amsterdam",
+        "o": "de Appel arts centre",
+        "d": [
+          "2009-05-03",
+          "2009-05-12"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Dematerialised: Jack Wendler Gallery 1971 to 1974",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Chelsea space - Chelsea College of Art and Design",
+        "d": [
+          "2009-05-13",
+          "2009-06-13"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Dematerialised: Jack Wendler Gallery 1971 to 1974",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Chelsea space - Chelsea College of Art and Design",
+        "d": [
+          "2009-05-13",
+          "2009-06-13"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Geoplay (Part II)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Madrid",
+        "o": "Parra & Romero",
+        "d": [
+          "2009-05-28",
+          "2009-07-31"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Geoplay (Part II)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Madrid",
+        "o": "Parra & Romero",
+        "d": [
+          "2009-05-28",
+          "2009-07-31"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Visiones de Confin",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Valencia",
+        "o": "IVAM - Institut Valencià d'Art Modern",
+        "d": [
+          "2009-05-28",
+          "2009-11-15"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Visiones de Confin",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Valencia",
+        "o": "IVAM - Institut Valencià d'Art Modern",
+        "d": [
+          "2009-05-28",
+          "2009-11-15"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "When Ideas Become Form – 30 Years of Gallery",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Venice",
+        "o": "La Galleria Dorothea van der Koelen - Venedig",
+        "d": [
+          "2009-06-06",
+          "2009-11-23"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "When Ideas Become Form – 30 Years of Gallery",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Venice",
+        "o": "La Galleria Dorothea van der Koelen - Venedig",
+        "d": [
+          "2009-06-06",
+          "2009-11-23"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Glasstress 2009",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Venice",
+        "o": "Glasstress",
+        "d": [
+          "2009-06-06",
+          "2009-11-24"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Glasstress 2009",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Venice",
+        "o": "Glasstress",
+        "d": [
+          "2009-06-06",
+          "2009-11-24"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "arte povera bis minimal - Einblicke in die Sammlung Lafrenz",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Wiesbaden",
+        "o": "Museum Wiesbaden",
+        "d": [
+          "2009-06-07",
+          "2010-01-31"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Kunstfehler _ Fehlerkunst",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Weimar",
+        "o": "ACC Galerie Weimar",
+        "d": [
+          "2009-06-16",
+          "2009-08-09"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Kunstfehler _ Fehlerkunst",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Weimar",
+        "o": "ACC Galerie Weimar",
+        "d": [
+          "2009-06-16",
+          "2009-08-09"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Boule to Braid",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lisson Gallery",
+        "d": [
+          "2009-06-24",
+          "2009-08-15"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Boule to Braid",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lisson Gallery",
+        "d": [
+          "2009-06-24",
+          "2009-08-15"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Love Letters: ampliamento e allestimento della nuova collezione del MACRO",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rome",
+        "o": "MACRO Museo d´Arte Contemporanea Roma",
+        "d": [
+          "2009-07-15",
+          "2009-10-12"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Love Letters: ampliamento e allestimento della nuova collezione del MACRO",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rome",
+        "o": "MACRO Museo d´Arte Contemporanea Roma",
+        "d": [
+          "2009-07-15",
+          "2009-10-12"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Collector´s Choice II",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2009-08-01",
+          "2009-10-18"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Collector´s Choice II",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2009-08-01",
+          "2009-10-18"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "KUNSTFEHLER – FEHLERKUNST",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Leipzig",
+        "o": "Halle 14",
+        "d": [
+          "2009-09-13",
+          "2009-10-25"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "KUNSTFEHLER – FEHLERKUNST",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Leipzig",
+        "o": "Halle 14",
+        "d": [
+          "2009-09-13",
+          "2009-10-25"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Installations Inside/Out",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Pasadena, CA",
+        "o": "Armory Center for the Arts",
+        "d": [
+          "2009-09-20",
+          "2009-12-31"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Installations Inside/Out",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Pasadena, CA",
+        "o": "Armory Center for the Arts",
+        "d": [
+          "2009-09-20",
+          "2009-12-31"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "25 OBRAS, 17 ARTISTAS, 4 RELATOS",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lleida",
+        "o": "Centre d’Art la Panera",
+        "d": [
+          "2009-10-01",
+          "2010-01-06"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "When ideas become form - 30 Jahre Galerie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2009-10-24",
+          "2010-02-26"
+        ]
+      },
+      {
+        "c": "CA",
+        "n": "We interrupt this program",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Toronto, ON",
+        "o": "Mercer Union - A Centre For Contemporary Visual Art",
+        "d": [
+          "2009-11-06",
+          "2009-12-12"
+        ]
+      },
+      {
+        "c": "CA",
+        "n": "We interrupt this program",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Toronto, ON",
+        "o": "Mercer Union - A Centre For Contemporary Visual Art",
+        "d": [
+          "2009-11-06",
+          "2009-12-12"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "MOCA´s First Thirty Years",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Los Angeles, CA",
+        "o": "MOCA Grand Avenue",
+        "d": [
+          "2009-11-15",
+          "2010-05-03"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Lisson Presents 7 / Bell Street",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lisson Gallery",
+        "d": [
+          "2009-11-25",
+          "2010-01-16"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Twentysix Gasoline Stations ed altri libri d\\'Artista - Una collezione",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Messina",
+        "o": "Museo Regionale di Messina",
+        "d": [
+          "2009-11-28",
+          "2010-01-10"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Play Van Abbe - Part 1 - The Game and the Players",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2009-11-28",
+          "2010-03-21"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Just what is it...",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2009-12-04",
+          "2010-04-11"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Daniel Buren - Voir Double, travail in situ",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Xavier  Hufkens",
+        "d": [
+          "2009-01-15",
+          "2009-02-21"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Daniel Buren - Voir Double, travail in situ",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Xavier  Hufkens",
+        "d": [
+          "2009-01-15",
+          "2009-02-21"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Porto",
+        "o": "Museu Serralves - Museu de Arte Contemporânea",
+        "d": [
+          "2009-05-30",
+          "2009-08-30"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Porto",
+        "o": "Museu Serralves - Museu de Arte Contemporânea",
+        "d": [
+          "2009-05-30",
+          "2009-08-30"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "A Rainbow in the Sky",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Pasadena, CA",
+        "o": "Armory Center for the Arts",
+        "d": [
+          "2009-08-15",
+          "2009-11-15"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "A Rainbow in the Sky",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Pasadena, CA",
+        "o": "Armory Center for the Arts",
+        "d": [
+          "2009-08-15",
+          "2009-11-15"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Nuremberg",
+        "o": "Neues Museum - Staatliches Museum für Kunst und Design in Nürnberg",
+        "d": [
+          "2009-10-16",
+          "2010-02-01"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Daniel Buren - To Cut Out: Situated Works 1969 - 2009",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Bortolami",
+        "d": [
+          "2009-10-30",
+          "2009-12-22"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Daniel Buren - To Cut Out: Situated Works 1969 - 2009",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Bortolami",
+        "d": [
+          "2009-10-30",
+          "2009-12-22"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "c": "DE",
+        "n": "arte povera bis minimal - Einblicke in die Sammlung Lafrenz",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Wiesbaden",
+        "o": "Museum Wiesbaden",
+        "d": [
+          "2009-06-07",
+          "2010-01-31"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "25 OBRAS, 17 ARTISTAS, 4 RELATOS",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lleida",
+        "o": "Centre d’Art la Panera",
+        "d": [
+          "2009-10-01",
+          "2010-01-06"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "When ideas become form - 30 Jahre Galerie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2009-10-24",
+          "2010-02-26"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "MOCA´s First Thirty Years",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Los Angeles, CA",
+        "o": "MOCA Grand Avenue",
+        "d": [
+          "2009-11-15",
+          "2010-05-03"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Lisson Presents 7 / Bell Street",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lisson Gallery",
+        "d": [
+          "2009-11-25",
+          "2010-01-16"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Twentysix Gasoline Stations ed altri libri d\\'Artista - Una collezione",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Messina",
+        "o": "Museo Regionale di Messina",
+        "d": [
+          "2009-11-28",
+          "2010-01-10"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Play Van Abbe - Part 1 - The Game and the Players",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2009-11-28",
+          "2010-03-21"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Just what is it...",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2009-12-04",
+          "2010-04-11"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Venti Pazzi",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "Francesca Minini",
+        "d": [
+          "2010-01-21",
+          "2010-03-01"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Venti Pazzi",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "Francesca Minini",
+        "d": [
+          "2010-01-21",
+          "2010-03-01"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Portrait de l’artiste en motocycliste",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Neuchâtel",
+        "o": "Musée des beaux-arts de La Chaux-de-Fonds",
+        "d": [
+          "2010-03-21",
+          "2010-09-12"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Portrait de l’artiste en motocycliste",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Neuchâtel",
+        "o": "Musée des beaux-arts de La Chaux-de-Fonds",
+        "d": [
+          "2010-03-21",
+          "2010-09-12"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Bilder über Bilder",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Museum Moderner Kunst Stiftung Ludwig - MUMOK ",
+        "d": [
+          "2010-03-26",
+          "2010-06-27"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Bilder über Bilder",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Museum Moderner Kunst Stiftung Ludwig - MUMOK ",
+        "d": [
+          "2010-03-26",
+          "2010-06-27"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "THE LIFE OF THE OBJECT",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "San Francisco, CA",
+        "o": "Eli Ridgway Gallery",
+        "d": [
+          "2010-04-03",
+          "2010-05-01"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "THE LIFE OF THE OBJECT",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "San Francisco, CA",
+        "o": "Eli Ridgway Gallery",
+        "d": [
+          "2010-04-03",
+          "2010-05-01"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "In-between Minimalisms & Free Sol Lewitt",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2010-04-10",
+          "2010-09-05"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "In-between Minimalisms & Free Sol Lewitt",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2010-04-10",
+          "2010-09-05"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "Collection Exhibition First Term",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Toyota Aichi",
+        "o": "Toyota Municipal Museum of Art",
+        "d": [
+          "2010-04-10",
+          "2010-06-13"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "Collection Exhibition First Term",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Toyota Aichi",
+        "o": "Toyota Municipal Museum of Art",
+        "d": [
+          "2010-04-10",
+          "2010-06-13"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Free Sol Lewitt",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2010-04-10",
+          "2010-09-12"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Free Sol Lewitt",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2010-04-10",
+          "2010-09-12"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "In-between Minimalisms - Play Van Abbe, Part 2: Time Machines",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2010-04-10",
+          "2010-09-12"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "In-between Minimalisms - Play Van Abbe, Part 2: Time Machines",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2010-04-10",
+          "2010-09-12"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Process / Abstraction",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Paul Kasmin Gallery",
+        "d": [
+          "2010-06-10",
+          "2010-07-02"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Process / Abstraction",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Paul Kasmin Gallery",
+        "d": [
+          "2010-06-10",
+          "2010-07-02"
+        ]
+      },
+      {
+        "c": "SG",
+        "n": "Summer Group Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Singapore",
+        "o": "Collectors Contemporary",
+        "d": [
+          "2010-06-29",
+          "2010-07-30"
+        ]
+      },
+      {
+        "c": "SG",
+        "n": "Summer Group Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Singapore",
+        "o": "Collectors Contemporary",
+        "d": [
+          "2010-06-29",
+          "2010-07-30"
+        ]
+      },
+      {
+        "c": "PL",
+        "n": "Neoplastic Room. Open Composition",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lodz",
+        "o": "ms2 – Muzeum Sztuki Lodz",
+        "d": [
+          "2010-07-06",
+          "2010-07-03"
+        ]
+      },
+      {
+        "c": "PL",
+        "n": "Neoplastic Room. Open Composition",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lodz",
+        "o": "ms2 – Muzeum Sztuki Lodz",
+        "d": [
+          "2010-07-06",
+          "2010-07-03"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Painting, Process and Expansion",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Museum Moderner Kunst Stiftung Ludwig - MUMOK ",
+        "d": [
+          "2010-07-09",
+          "2010-10-03"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Painting, Process and Expansion",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Museum Moderner Kunst Stiftung Ludwig - MUMOK ",
+        "d": [
+          "2010-07-09",
+          "2010-10-03"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Taking Place",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amsterdam",
+        "o": "Stedelijk Museum Amsterdam",
+        "d": [
+          "2010-08-28",
+          "2011-01-09"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "The space between reference and regret",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Friedrich Petzel Gallery",
+        "d": [
+          "2010-09-09",
+          "2010-10-23"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "The space between reference and regret",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Friedrich Petzel Gallery",
+        "d": [
+          "2010-09-09",
+          "2010-10-23"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Group Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Xavier  Hufkens",
+        "d": [
+          "2010-09-09",
+          "2010-10-23"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Group Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Xavier  Hufkens",
+        "d": [
+          "2010-09-09",
+          "2010-10-23"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Coup de Ville",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Sint-Niklaas",
+        "o": "WARP",
+        "d": [
+          "2010-09-12",
+          "2010-10-24"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Coup de Ville",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Sint-Niklaas",
+        "o": "WARP",
+        "d": [
+          "2010-09-12",
+          "2010-10-24"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "The Good, The Bad & the Ugly",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mechelen",
+        "o": "Cultuurcentrum Mechelen",
+        "d": [
+          "2010-10-01",
+          "2010-11-28"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "The Good, The Bad & the Ugly",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mechelen",
+        "o": "Cultuurcentrum Mechelen",
+        "d": [
+          "2010-10-01",
+          "2010-11-28"
+        ]
+      },
+      {
+        "c": "RU",
+        "n": "Centre Pompidou in the State Hermitage Museum",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "St. Petersburg",
+        "o": "The State Hermitage Museum",
+        "d": [
+          "2010-10-05",
+          "2010-11-14"
+        ]
+      },
+      {
+        "c": "RU",
+        "n": "Centre Pompidou in the State Hermitage Museum",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "St. Petersburg",
+        "o": "The State Hermitage Museum",
+        "d": [
+          "2010-10-05",
+          "2010-11-14"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Cosa fa la mia anima mentre sto lavorando?",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gallarte (VA)",
+        "o": "Museo MAGA",
+        "d": [
+          "2010-11-14",
+          "2011-02-13"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "TEN FOR CHRISTMAS - group show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Black Cube Gallery - Sant Antoni Maria Claret",
+        "d": [
+          "2010-12-01",
+          "2010-12-30"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "TEN FOR CHRISTMAS - group show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Black Cube Gallery - Sant Antoni Maria Claret",
+        "d": [
+          "2010-12-01",
+          "2010-12-30"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Masterpieces : Kleinformate : Editionen : Bücher",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2010-12-05",
+          "2011-01-14"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Nuremberg",
+        "o": "Neues Museum - Staatliches Museum für Kunst und Design in Nürnberg",
+        "d": [
+          "2009-10-16",
+          "2010-02-01"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Danza tra triangoli e losanghe per tre colori",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Rome",
+        "o": "MACRO Museo d´Arte Contemporanea Roma",
+        "d": [
+          "2010-03-11",
+          "2010-04-05"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Danza tra triangoli e losanghe per tre colori",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Rome",
+        "o": "MACRO Museo d´Arte Contemporanea Roma",
+        "d": [
+          "2010-03-11",
+          "2010-04-05"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "DANIEL BUREN - WESTWIND, ARBEITEN SITUÉS",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "BUCHMANN GALERIE",
+        "d": [
+          "2010-03-19",
+          "2010-04-24"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "DANIEL BUREN - WESTWIND, ARBEITEN SITUÉS",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "BUCHMANN GALERIE",
+        "d": [
+          "2010-03-19",
+          "2010-04-24"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Circa il ritorno di una svolta - Iscrizioni lavoro situato, versione IV, giugno 2010",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "San Gimignano",
+        "o": "Galleria Continua - San Gimignano",
+        "d": [
+          "2010-06-06",
+          "2010-09-04"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Circa il ritorno di una svolta - Iscrizioni lavoro situato, versione IV, giugno 2010",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "San Gimignano",
+        "o": "Galleria Continua - San Gimignano",
+        "d": [
+          "2010-06-06",
+          "2010-09-04"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Daniel Buren - Multiplikationen, Arbeit in situ für eine Synagoge",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Pulheim-Stommeln",
+        "o": "Synagoge Stommeln",
+        "d": [
+          "2010-08-29",
+          "2010-12-19"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Daniel Buren - Multiplikationen, Arbeit in situ für eine Synagoge",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Pulheim-Stommeln",
+        "o": "Synagoge Stommeln",
+        "d": [
+          "2010-08-29",
+          "2010-12-19"
+        ]
+      },
+      {
+        "c": "LU",
+        "n": "Architecture, Contre-Architecture : Transposition",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2010-10-09",
+          "2011-05-22"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Photos - souvenirs au carré / En colaboración con Hermès",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Leipzig",
+        "o": "Galeria Hilario Galguera",
+        "d": [
+          "2010-12-09",
+          "2011-01-31"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Para analizar: trabajos situados y trabajo in situ",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Leipzig",
+        "o": "Galeria Hilario Galguera",
+        "d": [
+          "2010-12-10",
+          "2011-01-31"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "NL",
+        "n": "Taking Place",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amsterdam",
+        "o": "Stedelijk Museum Amsterdam",
+        "d": [
+          "2010-08-28",
+          "2011-01-09"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Cosa fa la mia anima mentre sto lavorando?",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gallarte (VA)",
+        "o": "Museo MAGA",
+        "d": [
+          "2010-11-14",
+          "2011-02-13"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Masterpieces : Kleinformate : Editionen : Bücher",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2010-12-05",
+          "2011-01-14"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Dwelling",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Marianne Boesky Gallery",
+        "d": [
+          "2011-02-03",
+          "2011-04-02"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Dwelling",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Marianne Boesky Gallery",
+        "d": [
+          "2011-02-03",
+          "2011-04-02"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "Observadores - Revelações, Trânsitos e Distâncias Um percurso pela Colecção Berardo",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lisbon",
+        "o": "Berardo Museum - Collection of Modern and Contemporary Art",
+        "d": [
+          "2011-02-14",
+          "2011-05-29"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "Observadores - Revelações, Trânsitos e Distâncias Um percurso pela Colecção Berardo",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lisbon",
+        "o": "Berardo Museum - Collection of Modern and Contemporary Art",
+        "d": [
+          "2011-02-14",
+          "2011-05-29"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Revealed: Turner Contemporary Opens",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Margate, Kent",
+        "o": "Turner Contemporary",
+        "d": [
+          "2011-04-16",
+          "2011-09-04"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Revealed: Turner Contemporary Opens",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Margate, Kent",
+        "o": "Turner Contemporary",
+        "d": [
+          "2011-04-16",
+          "2011-09-04"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Thirty are better than one",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Tanit",
+        "d": [
+          "2011-05-20",
+          "2011-06-04"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Thirty are better than one",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Tanit",
+        "d": [
+          "2011-05-20",
+          "2011-06-04"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Beziehungsarbeit – Kunst und Institution",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Künstlerhaus Wien",
+        "d": [
+          "2011-06-17",
+          "2011-10-16"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Beziehungsarbeit – Kunst und Institution",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Künstlerhaus Wien",
+        "d": [
+          "2011-06-17",
+          "2011-10-16"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "SUMMER SHOW",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dusseldorf",
+        "o": "Konrad Fischer Galerie - Düsseldorf",
+        "d": [
+          "2011-07-01",
+          "2011-08-06"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "SUMMER SHOW",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dusseldorf",
+        "o": "Konrad Fischer Galerie - Düsseldorf",
+        "d": [
+          "2011-07-01",
+          "2011-08-06"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "In Deed: Certificates of Authenticity in Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Middelburg",
+        "o": "De Vleeshal",
+        "d": [
+          "2011-09-10",
+          "2011-10-09"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "In Deed: Certificates of Authenticity in Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Middelburg",
+        "o": "De Vleeshal",
+        "d": [
+          "2011-09-10",
+          "2011-10-09"
+        ]
+      },
+      {
+        "c": "SG",
+        "n": "It\\'s a Wonderful Life",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Singapore",
+        "o": "Collectors Contemporary",
+        "d": [
+          "2011-09-15",
+          "2011-11-04"
+        ]
+      },
+      {
+        "c": "SG",
+        "n": "It\\'s a Wonderful Life",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Singapore",
+        "o": "Collectors Contemporary",
+        "d": [
+          "2011-09-15",
+          "2011-11-04"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Painting in Parts",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Baltimore, MD",
+        "o": "Maryland Art Place",
+        "d": [
+          "2011-09-15",
+          "2011-10-29"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Painting in Parts",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Baltimore, MD",
+        "o": "Maryland Art Place",
+        "d": [
+          "2011-09-15",
+          "2011-10-29"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "The Self-portrait, the House and the Seasons",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Oostende",
+        "o": "Mu.ZEE",
+        "d": [
+          "2011-09-17",
+          "2012-01-15"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Daniel Buren - Le Decor et Son Double",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "Argos",
+        "d": [
+          "2011-09-21",
+          "2011-10-04"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Daniel Buren - Le Decor et Son Double",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "Argos",
+        "d": [
+          "2011-09-21",
+          "2011-10-04"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Conceptual Tendencies 1960s to today - Werke der Daimler Kunst Sammlung",
+        "st": "Group",
+        "t": "Private Collection",
+        "ct": "Berlin",
+        "o": "Daimler Contemporary",
+        "d": [
+          "2011-10-07",
+          "2012-03-03"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "gesture, form, technique",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Tokyo",
+        "o": "Taro Nasu Gallery - Tokyo",
+        "d": [
+          "2011-10-07",
+          "2011-11-05"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "gesture, form, technique",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Tokyo",
+        "o": "Taro Nasu Gallery - Tokyo",
+        "d": [
+          "2011-10-07",
+          "2011-11-05"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "The Indiscipline of Painting: International abstraction from the 1960s to now",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "St. Ives, Cornwall (England)",
+        "o": "Tate St. Ives",
+        "d": [
+          "2011-10-08",
+          "2012-01-03"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Arte Povera International",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Turin",
+        "o": "Castello di Rivoli Museo d'Arte Contemporanea",
+        "d": [
+          "2011-10-09",
+          "2012-02-19"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "In DeedCerificates of Authenticity in Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Venice",
+        "o": "Fondazione Bevilacqua La Masa",
+        "d": [
+          "2011-10-13",
+          "2011-11-06"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "In DeedCerificates of Authenticity in Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Venice",
+        "o": "Fondazione Bevilacqua La Masa",
+        "d": [
+          "2011-10-13",
+          "2011-11-06"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Besides Reproduction",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lüneburg",
+        "o": "Kunstraum der Leuphana Universität Lüneburg",
+        "d": [
+          "2011-11-05",
+          "2011-12-22"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Besides Reproduction",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lüneburg",
+        "o": "Kunstraum der Leuphana Universität Lüneburg",
+        "d": [
+          "2011-11-05",
+          "2011-12-22"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "... von privat",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mönchengladbach",
+        "o": "kunstraumno.10",
+        "d": [
+          "2011-11-06",
+          "2011-11-27"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "... von privat",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mönchengladbach",
+        "o": "kunstraumno.10",
+        "d": [
+          "2011-11-06",
+          "2011-11-27"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "La persistencia de la geometría",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "CaixaForum Madrid",
+        "d": [
+          "2011-12-26",
+          "2012-03-25"
+        ]
+      },
+      {
+        "c": "LU",
+        "n": "Architecture, Contre-Architecture : Transposition",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2010-10-09",
+          "2011-05-22"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Photos - souvenirs au carré / En colaboración con Hermès",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Leipzig",
+        "o": "Galeria Hilario Galguera",
+        "d": [
+          "2010-12-09",
+          "2011-01-31"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Para analizar: trabajos situados y trabajo in situ",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Leipzig",
+        "o": "Galeria Hilario Galguera",
+        "d": [
+          "2010-12-10",
+          "2011-01-31"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Daniel Buren - Allegro Vivace",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Baden-Baden",
+        "o": "Staatliche Kunsthalle Baden-Baden",
+        "d": [
+          "2011-02-12",
+          "2011-05-22"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Daniel Buren - Allegro Vivace",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Baden-Baden",
+        "o": "Staatliche Kunsthalle Baden-Baden",
+        "d": [
+          "2011-02-12",
+          "2011-05-22"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Buren: Le décor et son double",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Ghent",
+        "o": "SMAK Stedelijk Museum voor Actuele Kunst",
+        "d": [
+          "2011-06-21",
+          "2011-09-16"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Buren: Le décor et son double",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Ghent",
+        "o": "SMAK Stedelijk Museum voor Actuele Kunst",
+        "d": [
+          "2011-06-21",
+          "2011-09-16"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "Photos-souvenirs Au Carre,",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Cais Gallery - Hong Kong",
+        "d": [
+          "2011-09-09",
+          "2011-09-21"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "Photos-souvenirs Au Carre,",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Cais Gallery - Hong Kong",
+        "d": [
+          "2011-09-09",
+          "2011-09-21"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Daniel Buren - One thing to another - Situated works / 29 Bell Street",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lisson Gallery",
+        "d": [
+          "2011-11-23",
+          "2012-01-14"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "c": "BE",
+        "n": "The Self-portrait, the House and the Seasons",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Oostende",
+        "o": "Mu.ZEE",
+        "d": [
+          "2011-09-17",
+          "2012-01-15"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Conceptual Tendencies 1960s to today - Werke der Daimler Kunst Sammlung",
+        "st": "Group",
+        "t": "Private Collection",
+        "ct": "Berlin",
+        "o": "Daimler Contemporary",
+        "d": [
+          "2011-10-07",
+          "2012-03-03"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "The Indiscipline of Painting: International abstraction from the 1960s to now",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "St. Ives, Cornwall (England)",
+        "o": "Tate St. Ives",
+        "d": [
+          "2011-10-08",
+          "2012-01-03"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Arte Povera International",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Turin",
+        "o": "Castello di Rivoli Museo d'Arte Contemporanea",
+        "d": [
+          "2011-10-09",
+          "2012-02-19"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "La persistencia de la geometría",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "CaixaForum Madrid",
+        "d": [
+          "2011-12-26",
+          "2012-03-25"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "The Indiscipline of Painting",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Coventry (England)",
+        "o": "Mead Gallery - Warwick Arts Centre",
+        "d": [
+          "2012-01-14",
+          "2012-03-10"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "The Indiscipline of Painting",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Coventry (England)",
+        "o": "Mead Gallery - Warwick Arts Centre",
+        "d": [
+          "2012-01-14",
+          "2012-03-10"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Utopie Gesamtkunstwerk",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "21er Haus",
+        "d": [
+          "2012-01-20",
+          "2012-05-20"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Utopie Gesamtkunstwerk",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "21er Haus",
+        "d": [
+          "2012-01-20",
+          "2012-05-20"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Zwischen Geometrie und Abstraktion",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bielefeld",
+        "o": "Samuelis Baumgarte Galerie",
+        "d": [
+          "2012-02-11",
+          "2012-03-24"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Zwischen Geometrie und Abstraktion",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bielefeld",
+        "o": "Samuelis Baumgarte Galerie",
+        "d": [
+          "2012-02-11",
+          "2012-03-24"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Bremerhaven - Berlin - Aichach",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Zweigstelle Berlin",
+        "d": [
+          "2012-02-18",
+          "2012-03-24"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Bremerhaven - Berlin - Aichach",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Zweigstelle Berlin",
+        "d": [
+          "2012-02-18",
+          "2012-03-24"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Martin Visser: collector, designer, free spirit",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Maastricht",
+        "o": "Bonnefantenmuseum",
+        "d": [
+          "2012-03-13",
+          "2012-06-17"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Martin Visser: collector, designer, free spirit",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Maastricht",
+        "o": "Bonnefantenmuseum",
+        "d": [
+          "2012-03-13",
+          "2012-06-17"
+        ]
+      },
+      {
+        "c": "LU",
+        "n": "Les Détours De L\\'abstraction",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2012-03-21",
+          "2012-11-04"
+        ]
+      },
+      {
+        "c": "LU",
+        "n": "Les Détours De L\\'abstraction",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2012-03-21",
+          "2012-11-04"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "Free Circulation: Works from Serralves Foundation´s Collection",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lisbon",
+        "o": "Instituto dos Museus e da Conservação - imc",
+        "d": [
+          "2012-04-03",
+          "2012-07-15"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "Free Circulation: Works from Serralves Foundation´s Collection",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lisbon",
+        "o": "Instituto dos Museus e da Conservação - imc",
+        "d": [
+          "2012-04-03",
+          "2012-07-15"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Architectural Dispositions",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "Thomas Solomon Gallery",
+        "d": [
+          "2012-04-28",
+          "2012-06-23"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Architectural Dispositions",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "Thomas Solomon Gallery",
+        "d": [
+          "2012-04-28",
+          "2012-06-23"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Braman, Buren, Falls, Heilmann, Louis, Thurman",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Eleven Rivington",
+        "d": [
+          "2012-06-21",
+          "2012-08-03"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Braman, Buren, Falls, Heilmann, Louis, Thurman",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Eleven Rivington",
+        "d": [
+          "2012-06-21",
+          "2012-08-03"
+        ]
+      },
+      {
+        "c": "UA",
+        "n": "Where is the Time?",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Donetsk",
+        "o": "Foundation Isolyatsia Platform for Cultural Initiatives",
+        "d": [
+          "2012-06-23",
+          "2012-10-23"
+        ]
+      },
+      {
+        "c": "UA",
+        "n": "Where is the Time?",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Donetsk",
+        "o": "Foundation Isolyatsia Platform for Cultural Initiatives",
+        "d": [
+          "2012-06-23",
+          "2012-10-23"
+        ]
+      },
+      {
+        "c": "CA",
+        "n": "GALERIE DIVISION & GALERIE RENÉ BLOUIN à L'ARSENAL TORONTO",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Westmount, PQ",
+        "o": "Galerie Division",
+        "d": [
+          "2012-06-27",
+          "2012-10-27"
+        ]
+      },
+      {
+        "c": "CA",
+        "n": "GALERIE DIVISION & GALERIE RENÉ BLOUIN à L'ARSENAL TORONTO",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Westmount, PQ",
+        "o": "Galerie Division",
+        "d": [
+          "2012-06-27",
+          "2012-10-27"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Daniel Buren / Tony Cragg / Tatsuo Miyajima",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "BUCHMANN GALERIE",
+        "d": [
+          "2012-06-27",
+          "2012-08-04"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Daniel Buren / Tony Cragg / Tatsuo Miyajima",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "BUCHMANN GALERIE",
+        "d": [
+          "2012-06-27",
+          "2012-08-04"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "ar(t)chitecture",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Knokke-Heist",
+        "o": "Mulier Mulier Gallery",
+        "d": [
+          "2012-06-30",
+          "2012-07-31"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "ar(t)chitecture",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Knokke-Heist",
+        "o": "Mulier Mulier Gallery",
+        "d": [
+          "2012-06-30",
+          "2012-07-31"
+        ]
+      },
+      {
+        "c": "MC",
+        "n": "Extra Large - Œuvres Monumentales De La Collection Du Centre Pompidou à Monaco",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Monaco",
+        "o": "Grimaldi Forum Monaco",
+        "d": [
+          "2012-07-13",
+          "2012-09-09"
+        ]
+      },
+      {
+        "c": "MC",
+        "n": "Extra Large - Œuvres Monumentales De La Collection Du Centre Pompidou à Monaco",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Monaco",
+        "o": "Grimaldi Forum Monaco",
+        "d": [
+          "2012-07-13",
+          "2012-09-09"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "Facing walls, Opening windows",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Galleria Continua - Beijing",
+        "d": [
+          "2012-09-01",
+          "2012-10-28"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "Facing walls, Opening windows",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Galleria Continua - Beijing",
+        "d": [
+          "2012-09-01",
+          "2012-10-28"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Materializing \\\"Six Years\\\": Lucy R. Lippard and the Emergence of Conceptual Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "Brooklyn Museum of Art",
+        "d": [
+          "2012-09-14",
+          "2013-02-17"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lugano",
+        "o": "Museo Cantonale d´Arte Lugano",
+        "d": [
+          "2012-09-16",
+          "2013-01-06"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Una finestra sul mondo - Da Dürer a Mondrian e oltre",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lugano",
+        "o": "Museo d'Arte di Lugano",
+        "d": [
+          "2012-09-16",
+          "2013-01-06"
+        ]
+      },
+      {
+        "c": "SK",
+        "n": "Butterfly & Crawl",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bratislava",
+        "o": "Gandy Gallery",
+        "d": [
+          "2012-09-20",
+          "2012-10-20"
+        ]
+      },
+      {
+        "c": "SK",
+        "n": "Butterfly & Crawl",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bratislava",
+        "o": "Gandy Gallery",
+        "d": [
+          "2012-09-20",
+          "2012-10-20"
+        ]
+      },
+      {
+        "c": "LT",
+        "n": "Prestige:phantasmagoria Now",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Klaip&#279;da",
+        "o": "Klaipeda Culture Communication Center (KCCC)",
+        "d": [
+          "2012-09-28",
+          "2012-11-25"
+        ]
+      },
+      {
+        "c": "LT",
+        "n": "Prestige:phantasmagoria Now",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Klaip&#279;da",
+        "o": "Klaipeda Culture Communication Center (KCCC)",
+        "d": [
+          "2012-09-28",
+          "2012-11-25"
+        ]
+      },
+      {
+        "c": "SI",
+        "n": "From Page to Space",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Murska Sobota",
+        "o": "Galerija Murska Sobota",
+        "d": [
+          "2012-10-11",
+          "2013-03-09"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Out Of The Blue",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Bortolami",
+        "d": [
+          "2012-11-17",
+          "2012-12-21"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Out Of The Blue",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Bortolami",
+        "d": [
+          "2012-11-17",
+          "2012-12-21"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Private Kunstsammlungen Münster - Director´s Choice",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Münster",
+        "o": "Kunsthalle Münster",
+        "d": [
+          "2012-11-17",
+          "2013-02-24"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Collection XXXII - Personality Test",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
+        "d": [
+          "2012-12-07",
+          "2013-04-21"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Daniel Buren - One thing to another - Situated works / 29 Bell Street",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lisson Gallery",
+        "d": [
+          "2011-11-23",
+          "2012-01-14"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Bortolami",
+        "d": [
+          "2012-11-08",
+          "2012-12-23"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Bortolami",
+        "d": [
+          "2012-11-08",
+          "2012-12-23"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "c": "US",
+        "n": "Materializing \\\"Six Years\\\": Lucy R. Lippard and the Emergence of Conceptual Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "Brooklyn Museum of Art",
+        "d": [
+          "2012-09-14",
+          "2013-02-17"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lugano",
+        "o": "Museo Cantonale d´Arte Lugano",
+        "d": [
+          "2012-09-16",
+          "2013-01-06"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Una finestra sul mondo - Da Dürer a Mondrian e oltre",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lugano",
+        "o": "Museo d'Arte di Lugano",
+        "d": [
+          "2012-09-16",
+          "2013-01-06"
+        ]
+      },
+      {
+        "c": "SI",
+        "n": "From Page to Space",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Murska Sobota",
+        "o": "Galerija Murska Sobota",
+        "d": [
+          "2012-10-11",
+          "2013-03-09"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Private Kunstsammlungen Münster - Director´s Choice",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Münster",
+        "o": "Kunsthalle Münster",
+        "d": [
+          "2012-11-17",
+          "2013-02-24"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Collection XXXII - Personality Test",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
+        "d": [
+          "2012-12-07",
+          "2013-04-21"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "In Deed: Certificates of Authenticity in Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Greensboro, NC",
+        "o": "Weatherspoon Art Museum",
+        "d": [
+          "2013-01-12",
+          "2013-04-14"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "In Deed: Certificates of Authenticity in Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Greensboro, NC",
+        "o": "Weatherspoon Art Museum",
+        "d": [
+          "2013-01-12",
+          "2013-04-14"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Primary Structures",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Stuttgart",
+        "o": "Brigitte March International Contemporary Art",
+        "d": [
+          "2013-02-08",
+          "2013-03-31"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Primary Structures",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Stuttgart",
+        "o": "Brigitte March International Contemporary Art",
+        "d": [
+          "2013-02-08",
+          "2013-03-31"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Novecento Mai Visto - Highlights from the Daimler Art Collection - From Albers to Warhol to (now)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brescia",
+        "o": "Museo di Santa Giulia",
+        "d": [
+          "2013-03-08",
+          "2013-06-30"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Novecento Mai Visto - Highlights from the Daimler Art Collection - From Albers to Warhol to (now)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brescia",
+        "o": "Museo di Santa Giulia",
+        "d": [
+          "2013-03-08",
+          "2013-06-30"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Via the Virtual",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Grimbergen",
+        "o": "Cultuurcentrum Strombeek",
+        "d": [
+          "2013-04-05",
+          "2013-05-07"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Via the Virtual",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Grimbergen",
+        "o": "Cultuurcentrum Strombeek",
+        "d": [
+          "2013-04-05",
+          "2013-05-07"
+        ]
+      },
+      {
+        "c": "BR",
+        "n": "Reforma e Reinvenção",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Salvador",
+        "o": "MAM - Museu de  Arte Moderna da Bahia",
+        "d": [
+          "2013-04-12",
+          "2013-05-24"
+        ]
+      },
+      {
+        "c": "BR",
+        "n": "Reforma e Reinvenção",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Salvador",
+        "o": "MAM - Museu de  Arte Moderna da Bahia",
+        "d": [
+          "2013-04-12",
+          "2013-05-24"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "A Brief History Of Spots, Stripes And Holes",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Carlson Gallery",
+        "d": [
+          "2013-04-18",
+          "2013-06-01"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "A Brief History Of Spots, Stripes And Holes",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Carlson Gallery",
+        "d": [
+          "2013-04-18",
+          "2013-06-01"
+        ]
+      },
+      {
+        "c": "LB",
+        "n": "Video Vintage 1963-1983",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Beirut",
+        "o": "Beirut Art Center",
+        "d": [
+          "2013-04-18",
+          "2013-06-27"
+        ]
+      },
+      {
+        "c": "LB",
+        "n": "Video Vintage 1963-1983",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Beirut",
+        "o": "Beirut Art Center",
+        "d": [
+          "2013-04-18",
+          "2013-06-27"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Paint Hotel",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Joe Sheftel Gallery",
+        "d": [
+          "2013-05-05",
+          "2013-06-09"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Paint Hotel",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Joe Sheftel Gallery",
+        "d": [
+          "2013-05-05",
+          "2013-06-09"
+        ]
+      },
+      {
+        "c": "HU",
+        "n": "Collection Grauwinkel",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Budapest",
+        "o": "Vasarely Museum",
+        "d": [
+          "2013-05-11",
+          "2013-09-01"
+        ]
+      },
+      {
+        "c": "HU",
+        "n": "Collection Grauwinkel",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Budapest",
+        "o": "Vasarely Museum",
+        "d": [
+          "2013-05-11",
+          "2013-09-01"
+        ]
+      },
+      {
+        "c": "IL",
+        "n": "The Second Mediterranean Biennale / Sakhnin",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Sakhnin",
+        "o": "Mediterranean Biennale",
+        "d": [
+          "2013-05-13",
+          "2013-07-13"
+        ]
+      },
+      {
+        "c": "IL",
+        "n": "The Second Mediterranean Biennale / Sakhnin",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Sakhnin",
+        "o": "Mediterranean Biennale",
+        "d": [
+          "2013-05-13",
+          "2013-07-13"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "In the Mirror of Reality",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2013-05-29",
+          "2013-11-24"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "In the Mirror of Reality",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2013-05-29",
+          "2013-11-24"
+        ]
+      },
+      {
+        "c": "SK",
+        "n": "le choix du coeur",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bratislava",
+        "o": "Gandy Gallery",
+        "d": [
+          "2013-06-08",
+          "2013-06-29"
+        ]
+      },
+      {
+        "c": "SK",
+        "n": "le choix du coeur",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bratislava",
+        "o": "Gandy Gallery",
+        "d": [
+          "2013-06-08",
+          "2013-06-29"
+        ]
+      },
+      {
+        "c": "LT",
+        "n": "In Deed",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vilnius",
+        "o": "Contemporary Art Centre (CAC)",
+        "d": [
+          "2013-06-19",
+          "2013-08-18"
+        ]
+      },
+      {
+        "c": "LT",
+        "n": "In Deed",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vilnius",
+        "o": "Contemporary Art Centre (CAC)",
+        "d": [
+          "2013-06-19",
+          "2013-08-18"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Emscher Kunst 20103",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Essen",
+        "o": "Emscher Kunst",
+        "d": [
+          "2013-06-22",
+          "2013-10-06"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Emscher Kunst 20103",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Essen",
+        "o": "Emscher Kunst",
+        "d": [
+          "2013-06-22",
+          "2013-10-06"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "When Now Is Minimal - Die Unbekannte Seite Der Sammlung Goetz",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuremberg",
+        "o": "Neues Museum - Staatliches Museum für Kunst und Design in Nürnberg",
+        "d": [
+          "2013-07-19",
+          "2013-10-20"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "When Now Is Minimal - Die Unbekannte Seite Der Sammlung Goetz",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuremberg",
+        "o": "Neues Museum - Staatliches Museum für Kunst und Design in Nürnberg",
+        "d": [
+          "2013-07-19",
+          "2013-10-20"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Lightness of Being",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "Public Art Fund",
+        "d": [
+          "2013-07-25",
+          "2013-12-13"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Lightness of Being",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "Public Art Fund",
+        "d": [
+          "2013-07-25",
+          "2013-12-13"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Well Grounded: Experiments in Contemporary Rug Art",
+        "st": "Group",
+        "t": "Edition",
+        "ct": "Hamburg",
+        "o": "Stilwerk limited edition design gallery",
+        "d": [
+          "2013-08-09",
+          "2013-09-14"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Well Grounded: Experiments in Contemporary Rug Art",
+        "st": "Group",
+        "t": "Edition",
+        "ct": "Hamburg",
+        "o": "Stilwerk limited edition design gallery",
+        "d": [
+          "2013-08-09",
+          "2013-09-14"
+        ]
+      },
+      {
+        "c": "GR",
+        "n": "The Mediterranean Experience: The Mediterranean as a spatial paradigm for the circulation of ideas and meaning.",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Thessaloniki",
+        "o": "MMCA Macedonian Museum of Contemporary Art",
+        "d": [
+          "2013-09-18",
+          "2013-12-31"
+        ]
+      },
+      {
+        "c": "GR",
+        "n": "The Mediterranean Experience: The Mediterranean as a spatial paradigm for the circulation of ideas and meaning.",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Thessaloniki",
+        "o": "MMCA Macedonian Museum of Contemporary Art",
+        "d": [
+          "2013-09-18",
+          "2013-12-31"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Re-View: Onnasch Collection",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Hauser & Wirth",
+        "d": [
+          "2013-09-20",
+          "2013-12-14"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Re-View: Onnasch Collection",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Hauser & Wirth",
+        "d": [
+          "2013-09-20",
+          "2013-12-14"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Re-View: Onnasch Collection",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Hauser & Wirth",
+        "d": [
+          "2013-09-20",
+          "2013-12-14"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Re-View: Onnasch Collection",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Hauser & Wirth",
+        "d": [
+          "2013-09-20",
+          "2013-12-14"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "When Now is Minimal. The Unknown Side of the Sammlung Goetz",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bolzano",
+        "o": "MUSEION - Museum für moderne und zeitgenössische Kunst ",
+        "d": [
+          "2013-11-23",
+          "2014-10-05"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Wall Works",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Hamburger Bahnhof - Museum für Gegenwart",
+        "d": [
+          "2013-11-29",
+          "2014-08-31"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Anni \\'70. Arte a Roma",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rome",
+        "o": "Palazzo delle Esposizioni",
+        "d": [
+          "2013-12-17",
+          "2014-03-02"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Daniel Buren - Electricity  Fabric  Paint  Paper  Vinyl …Works in Situ & Situated Works From 1968 to 2013 (Dedicated to ",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Bortolami",
+        "d": [
+          "2013-01-10",
+          "2013-02-16"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Daniel Buren - Electricity  Fabric  Paint  Paper  Vinyl …Works in Situ & Situated Works From 1968 to 2013 (Dedicated to ",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Bortolami",
+        "d": [
+          "2013-01-10",
+          "2013-02-16"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Electricity Paper Vinyl...",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Friedrich Petzel Gallery",
+        "d": [
+          "2013-01-10",
+          "2013-02-16"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Electricity Paper Vinyl...",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Friedrich Petzel Gallery",
+        "d": [
+          "2013-01-10",
+          "2013-02-16"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Waldenbuch",
+        "o": "Museum Ritter",
+        "d": [
+          "2013-05-12",
+          "2013-09-22"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Daniel Buren",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Waldenbuch",
+        "o": "Museum Ritter",
+        "d": [
+          "2013-05-12",
+          "2013-09-22"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "c": "IT",
+        "n": "When Now is Minimal. The Unknown Side of the Sammlung Goetz",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bolzano",
+        "o": "MUSEION - Museum für moderne und zeitgenössische Kunst ",
+        "d": [
+          "2013-11-23",
+          "2014-10-05"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Wall Works",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Hamburger Bahnhof - Museum für Gegenwart",
+        "d": [
+          "2013-11-29",
+          "2014-08-31"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Anni \\'70. Arte a Roma",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rome",
+        "o": "Palazzo delle Esposizioni",
+        "d": [
+          "2013-12-17",
+          "2014-03-02"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "c": "IT",
+        "n": "When Now is Minimal. The Unknown Side of the Sammlung Goetz",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bolzano",
+        "o": "MUSEION - Museum für moderne und zeitgenössische Kunst ",
+        "d": [
+          "2013-11-23",
+          "2014-10-05"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Wall Works",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Hamburger Bahnhof - Museum für Gegenwart",
+        "d": [
+          "2013-11-29",
+          "2014-08-31"
+        ]
+      }
+    ]
+  }
 }

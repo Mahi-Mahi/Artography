@@ -40,5 +40,110 @@
   "last_name": "Hoffner",
   "genre": "f",
   "birthDate": "1974-01-01",
-  "age": "36-45"
+  "age": 40,
+  "age_range": "36-45",
+  "expos": {
+    "2008": [
+      {
+        "c": "SE",
+        "n": "Mako Ishizuka & Marie Jeanne Hoffner",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Malmö",
+        "o": "Skånes Kunstförening",
+        "d": [
+          "2008-05-09",
+          "2008-05-31"
+        ]
+      },
+      {
+        "c": "SE",
+        "n": "Mako Ishizuka & Marie Jeanne Hoffner",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Malmö",
+        "o": "Skånes Kunstförening",
+        "d": [
+          "2008-05-09",
+          "2008-05-31"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "c": "AU",
+        "n": "After the Goldrush",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Melbourne, VIC",
+        "o": "Conical Inc",
+        "d": [
+          "2009-10-10",
+          "2009-11-07"
+        ]
+      },
+      {
+        "c": "AU",
+        "n": "After the Goldrush",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Melbourne, VIC",
+        "o": "Conical Inc",
+        "d": [
+          "2009-10-10",
+          "2009-11-07"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "DE",
+        "n": "Berlin - Paris / Galerie Dohyang Lee at PSM",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "PSM Gallery",
+        "d": [
+          "2011-01-15",
+          "2011-01-29"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Berlin - Paris / Galerie Dohyang Lee at PSM",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "PSM Gallery",
+        "d": [
+          "2011-01-15",
+          "2011-01-29"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Your Garden Is Looking A Mess Could You Please Tidy It Up",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "PayneShurvell",
+        "d": [
+          "2011-11-04",
+          "2011-12-17"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Your Garden Is Looking A Mess Could You Please Tidy It Up",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "PayneShurvell",
+        "d": [
+          "2011-11-04",
+          "2011-12-17"
+        ]
+      }
+    ]
+  }
 }

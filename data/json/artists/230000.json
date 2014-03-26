@@ -40,5 +40,230 @@
   "last_name": "Dusollier",
   "genre": "m",
   "birthDate": "1978-01-01",
-  "age": "36-45"
+  "age": 36,
+  "age_range": "36-45",
+  "expos": {
+    "2009": [
+      {
+        "c": "DE",
+        "n": "PODROSTOK",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Sox",
+        "d": [
+          "2009-02-07",
+          "2009-03-22"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "PODROSTOK",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Sox",
+        "d": [
+          "2009-02-07",
+          "2009-03-22"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Une valise à Berlin",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Institut Français de Berlin ",
+        "d": [
+          "2009-12-17",
+          "2010-01-25"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Hyperworld",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Stattbad Wedding",
+        "d": [
+          "2009-11-22",
+          "2009-12-18"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Hyperworld",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Stattbad Wedding",
+        "d": [
+          "2009-11-22",
+          "2009-12-18"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "c": "DE",
+        "n": "Une valise à Berlin",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Institut Français de Berlin ",
+        "d": [
+          "2009-12-17",
+          "2010-01-25"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "They Go Round and Round",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Projekt 0047",
+        "d": [
+          "2010-04-23",
+          "2010-05-23"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "They Go Round and Round",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Projekt 0047",
+        "d": [
+          "2010-04-23",
+          "2010-05-23"
+        ]
+      },
+      {
+        "c": "NO",
+        "n": "They go round and round",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Oslo",
+        "o": "0047",
+        "d": [
+          "2010-04-23",
+          "2010-05-23"
+        ]
+      },
+      {
+        "c": "NO",
+        "n": "They go round and round",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Oslo",
+        "o": "0047",
+        "d": [
+          "2010-04-23",
+          "2010-05-23"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "infernoesque at Lena Brüning",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Lena Brüning",
+        "d": [
+          "2010-07-24",
+          "2010-08-27"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "infernoesque at Lena Brüning",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Lena Brüning",
+        "d": [
+          "2010-07-24",
+          "2010-08-27"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Nicolas Dusollier + Gabriel Vormstein",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Gallery Nathan Koestlin",
+        "d": [
+          "2010-10-08",
+          "2010-11-06"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Nicolas Dusollier + Gabriel Vormstein",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Gallery Nathan Koestlin",
+        "d": [
+          "2010-10-08",
+          "2010-11-06"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Roadside Picnic",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "PMgalerie",
+        "d": [
+          "2010-11-25",
+          "2011-01-22"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "self-stranger",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "INFERNOESQUE",
+        "d": [
+          "2010-06-12",
+          "2010-06-27"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "self-stranger",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "INFERNOESQUE",
+        "d": [
+          "2010-06-12",
+          "2010-06-27"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "DE",
+        "n": "Roadside Picnic",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "PMgalerie",
+        "d": [
+          "2010-11-25",
+          "2011-01-22"
+        ]
+      }
+    ]
+  }
 }

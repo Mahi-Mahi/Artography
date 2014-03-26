@@ -40,5 +40,34 @@
   "last_name": "Collin",
   "genre": "m",
   "birthDate": "1956-01-01",
-  "age": "46-55"
+  "age": 58,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "c": "DE",
+        "n": "Group Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Stuttgart",
+        "o": "fine arts 2219 | Galerie für Kunst der Gegenwart",
+        "d": [
+          "2007-09-22",
+          "2007-10-20"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Group Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Stuttgart",
+        "o": "fine arts 2219 | Galerie für Kunst der Gegenwart",
+        "d": [
+          "2007-09-22",
+          "2007-10-20"
+        ]
+      }
+    ]
+  }
 }

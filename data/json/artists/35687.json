@@ -1,0 +1,545 @@
+{
+  "id": "35687",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:18:24",
+  "name": "Ode Bertrand",
+  "surname": "Bertrand",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1930",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "18988",
+  "r01": "19861",
+  "r02": "23818",
+  "r03": "22860",
+  "r04": "26546",
+  "r05": "30113",
+  "r06": "32124",
+  "r07": "32007",
+  "r08": "39853",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2004",
+  "all-shows-total": "26",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "Germany (6), France (4), Switzerland (4), Hungary (1), Poland (1)",
+  "2005-shows-with": "Ode Bertrand (14), Marie-Thérèse Vacossin (10), Jean-François Dubreuil (9), Carlos Cruz-Diez (8), Julian Gil (8), Josef Linschinger (8), Yves Popet (8), Charles Bézie (7), Sigurd Rompza (7), Albert Rubens (7), Gido Wiederkehr (7), Martin Wörn (7), John Carter (6), Mitsouko Mori (6), Henri Prosi (6), Torsten Ridell (6), Satoru Sato (6), Diet Sayler (6), Norbert Thomas (6), Jean Pierre Viot (6), Maria Arvelaiz-Gordon (5), Jan Berdyszak (5), Gerhard Jürgen Blum-Kwiatkowski (5), Pierre Boillot (5), Hellmut Bruch (5), Gilbert Decock (5), Gerhard Frömel (5), Ingo Glass (5), Hans-Jörg Glattfelder (5), Hanns Herpich (5), Gottfried Honegger (5), Gerhard Hotter (5), Willem Kloppers (5), Jo Kuhn (5), Manfred Mohr (5), Knut Navrot (5), Jo Niemeyer (5), Claude Pasquer (5), Miriam Prantl (5), Kurt Teuscher (5), Piet van Zon (5), Elise Delbrassine (4), Roger Demyttenaere (4), Alfons Kunen (4), André van Lier (4), Véra Molnar (4), László Ottó (4), Nelly Rudin (4), Klaus Staudt (4), Ian Tyson (4), Helen Vergouwen",
+  "representing-galleries": "Oniris Galerie d´art contemporain (38, rue d´Antrain B.P. 60205, 35702 Rennes, France); galerie konkret martin woern (Hauptstr. 29, 79295 Sulzburg, Germany); Galerie La Ligne (Heinrichstrasse 237, CH-8005 Zurich, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Ode",
+  "last_name": "Bertrand",
+  "genre": "c",
+  "birthDate": "1930-01-01",
+  "age": 84,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "c": "BE",
+        "n": "50 Quadrat - an actual view on the international concrete art",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Knokke-Heist",
+        "o": "Benoot Gallery",
+        "d": [
+          "2005-09-24",
+          "2005-10-24"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "50 Quadrat - an actual view on the international concrete art",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Knokke-Heist",
+        "o": "Benoot Gallery",
+        "d": [
+          "2005-09-24",
+          "2005-10-24"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Ode Bertrand - Bilder",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2005-04-01",
+          "2005-05-30"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Ode Bertrand - Bilder",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2005-04-01",
+          "2005-05-30"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "c": "DE",
+        "n": "50 quadrat - ein aktueller überblick über die internationale konkrete kunst",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sulzburg",
+        "o": "galerie konkret martin woern",
+        "d": [
+          "2006-04-01",
+          "2006-05-29"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "50 quadrat - ein aktueller überblick über die internationale konkrete kunst",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sulzburg",
+        "o": "galerie konkret martin woern",
+        "d": [
+          "2006-04-01",
+          "2006-05-29"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "What\\'s in store?",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie 5213",
+        "d": [
+          "2006-04-07",
+          "2006-05-31"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "What\\'s in store?",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie 5213",
+        "d": [
+          "2006-04-07",
+          "2006-05-31"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Aurélie Nemours & Ode Bertrand - Passer le Flambeau",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2006-05-05",
+          "2006-07-04"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Aurélie Nemours & Ode Bertrand - Passer le Flambeau",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2006-05-05",
+          "2006-07-04"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Ode Bertrand",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie 5213",
+        "d": [
+          "2006-01-14",
+          "2006-02-18"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Ode Bertrand",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie 5213",
+        "d": [
+          "2006-01-14",
+          "2006-02-18"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "c": "DE",
+        "n": "Turning pages",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie 5213",
+        "d": [
+          "2007-01-12",
+          "2007-02-09"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Turning pages",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie 5213",
+        "d": [
+          "2007-01-12",
+          "2007-02-09"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Ode Bertrand",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie 5213",
+        "d": [
+          "2007-03-30",
+          "2007-05-04"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Ode Bertrand",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie 5213",
+        "d": [
+          "2007-03-30",
+          "2007-05-04"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "c": "HU",
+        "n": "Atelier - Edition Fanal",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Paks",
+        "o": "Paksi Képtár",
+        "d": [
+          "2008-11-04",
+          "2008-12-02"
+        ]
+      },
+      {
+        "c": "HU",
+        "n": "Atelier - Edition Fanal",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Paks",
+        "o": "Paksi Képtár",
+        "d": [
+          "2008-11-04",
+          "2008-12-02"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Ode Bertrand & Elena Lux-Marx - Im Geiste verwandt",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2008-11-07",
+          "2008-12-24"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Ode Bertrand & Elena Lux-Marx - Im Geiste verwandt",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2008-11-07",
+          "2008-12-24"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "c": "DE",
+        "n": "paris konkret - 7 positionen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sulzburg",
+        "o": "galerie konkret martin woern",
+        "d": [
+          "2009-06-14",
+          "2009-07-12"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "paris konkret - 7 positionen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sulzburg",
+        "o": "galerie konkret martin woern",
+        "d": [
+          "2009-06-14",
+          "2009-07-12"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Works on Papers",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2009-12-10",
+          "2010-02-27"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Arbeiten auf Papier – konkret. 40 Jahre Galerie St. Johann",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2009-12-10",
+          "2010-02-27"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "c": "DE",
+        "n": "Works on Papers",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2009-12-10",
+          "2010-02-27"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Arbeiten auf Papier – konkret. 40 Jahre Galerie St. Johann",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2009-12-10",
+          "2010-02-27"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Couleur et Geometrie",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Halle (Saale)",
+        "o": "Kunstverein Talstrasse e.V.",
+        "d": [
+          "2010-09-03",
+          "2010-10-10"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Couleur et Geometrie",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Halle (Saale)",
+        "o": "Kunstverein Talstrasse e.V.",
+        "d": [
+          "2010-09-03",
+          "2010-10-10"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Farbe und Geometrie - Konkrete Kunst der Gegenwart in Europa",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuremberg",
+        "o": "Kunsthaus Nürnberg",
+        "d": [
+          "2010-11-18",
+          "2011-01-09"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "DE",
+        "n": "Farbe und Geometrie - Konkrete Kunst der Gegenwart in Europa",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuremberg",
+        "o": "Kunsthaus Nürnberg",
+        "d": [
+          "2010-11-18",
+          "2011-01-09"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Winter Group Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2011-02-05",
+          "2011-03-12"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Winter Group Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2011-02-05",
+          "2011-03-12"
+        ]
+      },
+      {
+        "c": "PL",
+        "n": "Kolor i Geometria",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Kielce",
+        "o": "Nationalmuseum in Kielce / Muzeum Narodowego w Kielcach",
+        "d": [
+          "2011-02-11",
+          "2011-04-03"
+        ]
+      },
+      {
+        "c": "PL",
+        "n": "Kolor i Geometria",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Kielce",
+        "o": "Nationalmuseum in Kielce / Muzeum Narodowego w Kielcach",
+        "d": [
+          "2011-02-11",
+          "2011-04-03"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "c": "DE",
+        "n": "Statics and dynamics in the geometric-constructive art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bonn",
+        "o": "Arithmeum",
+        "d": [
+          "2012-05-07",
+          "2012-09-01"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Statics and dynamics in the geometric-constructive art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bonn",
+        "o": "Arithmeum",
+        "d": [
+          "2012-05-07",
+          "2012-09-01"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "19. Triennale Grenchen: art limited – multiple art",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Grenchen",
+        "o": "Triennale Grenchen",
+        "d": [
+          "2012-09-05",
+          "2012-09-10"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "19. Triennale Grenchen: art limited – multiple art",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Grenchen",
+        "o": "Triennale Grenchen",
+        "d": [
+          "2012-09-05",
+          "2012-09-10"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "c": "CH",
+        "n": "Ombre et Lumière",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2013-06-01",
+          "2013-07-27"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Ombre et Lumière",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2013-06-01",
+          "2013-07-27"
+        ]
+      }
+    ]
+  }
+}

@@ -40,5 +40,480 @@
   "last_name": "Marcel",
   "genre": "m",
   "birthDate": "1961-01-01",
-  "age": "46-55"
+  "age": 53,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "c": "CH",
+        "n": "Modèles modèles",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2005-06-07",
+          "2005-08-29"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Modèles modèles",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2005-06-07",
+          "2005-08-29"
+        ]
+      },
+      {
+        "c": "SK",
+        "n": "In-Formation",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Trnava",
+        "o": "Jan Koniarek Gallery",
+        "d": [
+          "2005-09-08",
+          "2005-10-30"
+        ]
+      },
+      {
+        "c": "SK",
+        "n": "In-Formation",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Trnava",
+        "o": "Jan Koniarek Gallery",
+        "d": [
+          "2005-09-08",
+          "2005-10-30"
+        ]
+      },
+      {
+        "c": "CZ",
+        "n": "Naturalia",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Prague",
+        "o": "Futura",
+        "d": [
+          "2005-11-23",
+          "2006-02-13"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Didier Marcel",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Aliceday",
+        "d": [
+          "2005-06-03",
+          "2005-07-13"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Didier Marcel",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Aliceday",
+        "d": [
+          "2005-06-03",
+          "2005-07-13"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Didier Marcel - Couchers de soleil - 1999-2005",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2005-06-07",
+          "2005-09-18"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Didier Marcel - Couchers de soleil - 1999-2005",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2005-06-07",
+          "2005-09-18"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "c": "CZ",
+        "n": "Naturalia",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Prague",
+        "o": "Futura",
+        "d": [
+          "2005-11-23",
+          "2006-02-13"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Kit o' Parts",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Neuchâtel",
+        "o": "CAN - Centre d'Art Neuchâtel",
+        "d": [
+          "2006-02-25",
+          "2006-04-23"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Kit o' Parts",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Neuchâtel",
+        "o": "CAN - Centre d'Art Neuchâtel",
+        "d": [
+          "2006-02-25",
+          "2006-04-23"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "c": "RO",
+        "n": "SUBLIME OBJECTS. Collections sans frontières V",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2007-03-28",
+          "2007-06-30"
+        ]
+      },
+      {
+        "c": "RO",
+        "n": "SUBLIME OBJECTS. Collections sans frontières V",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2007-03-28",
+          "2007-06-30"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "c": "RU",
+        "n": "Ricard Foundation Prize",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Moscow",
+        "o": "Winzavod - Moscow Contemporary Art Center",
+        "d": [
+          "2008-10-31",
+          "2008-11-30"
+        ]
+      },
+      {
+        "c": "RU",
+        "n": "Ricard Foundation Prize",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Moscow",
+        "o": "Winzavod - Moscow Contemporary Art Center",
+        "d": [
+          "2008-10-31",
+          "2008-11-30"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "c": "US",
+        "n": "Spatial city: the architecture of idealism",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Milwaukee, WI",
+        "o": "INOVA - Institute of Visual Arts",
+        "d": [
+          "2010-02-05",
+          "2010-04-18"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Spatial city: the architecture of idealism",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Milwaukee, WI",
+        "o": "INOVA - Institute of Visual Arts",
+        "d": [
+          "2010-02-05",
+          "2010-04-18"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Spatial City: An Architecture of Idealism",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Chicago, IL",
+        "o": "Hyde Park Art Center",
+        "d": [
+          "2010-05-23",
+          "2010-08-08"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Spatial City: An Architecture of Idealism",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Chicago, IL",
+        "o": "Hyde Park Art Center",
+        "d": [
+          "2010-05-23",
+          "2010-08-08"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Modèles modèles 2",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2010-06-02",
+          "2010-09-19"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Modèles modèles 2",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2010-06-02",
+          "2010-09-19"
+        ]
+      },
+      {
+        "c": "IL",
+        "n": "STILL/moving",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Jerusalem",
+        "o": "The Israel Museum",
+        "d": [
+          "2010-07-26",
+          "2011-04-26"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Spatial City: An Architecture of Idealism",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Detroit, MI",
+        "o": "Museum of Contemporay Art Detroit",
+        "d": [
+          "2010-09-10",
+          "2010-12-30"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Spatial City: An Architecture of Idealism",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Detroit, MI",
+        "o": "Museum of Contemporay Art Detroit",
+        "d": [
+          "2010-09-10",
+          "2010-12-30"
+        ]
+      },
+      {
+        "c": "LU",
+        "n": "Didier Marcel",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2009-10-10",
+          "2010-01-03"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "IL",
+        "n": "STILL/moving",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Jerusalem",
+        "o": "The Israel Museum",
+        "d": [
+          "2010-07-26",
+          "2011-04-26"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Accrochage d\\'été",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Blancpain Art Contemporain",
+        "d": [
+          "2011-07-23",
+          "2011-08-15"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Accrochage d\\'été",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Blancpain Art Contemporain",
+        "d": [
+          "2011-07-23",
+          "2011-08-15"
+        ]
+      },
+      {
+        "c": "KR",
+        "n": "French Art Today: Marcel Duchamp Prize",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gwacheon",
+        "o": "National Museum of Contemporary Art Korea - Gwacheon",
+        "d": [
+          "2011-07-26",
+          "2011-10-16"
+        ]
+      },
+      {
+        "c": "KR",
+        "n": "French Art Today: Marcel Duchamp Prize",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gwacheon",
+        "o": "National Museum of Contemporary Art Korea - Gwacheon",
+        "d": [
+          "2011-07-26",
+          "2011-10-16"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Homework",
+        "st": "Group",
+        "t": null,
+        "ct": "Brussels",
+        "o": null,
+        "d": [
+          "2011-12-11",
+          "2011-12-18"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Homework",
+        "st": "Group",
+        "t": null,
+        "ct": "Brussels",
+        "o": null,
+        "d": [
+          "2011-12-11",
+          "2011-12-18"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Didier Marcel",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Dornbirn",
+        "o": "Kunstraum Dornbirn",
+        "d": [
+          "2011-09-01",
+          "2011-11-06"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Didier Marcel",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Dornbirn",
+        "o": "Kunstraum Dornbirn",
+        "d": [
+          "2011-09-01",
+          "2011-11-06"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "c": "CH",
+        "n": "Retour du monde",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2013-02-20",
+          "2013-05-05"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Retour du monde",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2013-02-20",
+          "2013-05-05"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "c": "LU",
+        "n": "Didier Marcel",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2009-10-10",
+          "2010-01-03"
+        ]
+      }
+    ]
+  }
 }

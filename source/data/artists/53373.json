@@ -40,5 +40,34 @@
   "last_name": "Garache",
   "genre": "m",
   "birthDate": "1930-01-01",
-  "age": "46-55"
+  "age": 84,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "c": "JP",
+        "n": "3. Echigo-Tsumari Art Triennial 2006",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Niigata-ken",
+        "o": "Echigo-Tsumari Art Triennial",
+        "d": [
+          "2006-07-23",
+          "2006-09-10"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "3. Echigo-Tsumari Art Triennial 2006",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Niigata-ken",
+        "o": "Echigo-Tsumari Art Triennial",
+        "d": [
+          "2006-07-23",
+          "2006-09-10"
+        ]
+      }
+    ]
+  }
 }

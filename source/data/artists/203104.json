@@ -1,0 +1,125 @@
+{
+  "id": "203104",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:24:59",
+  "name": "Oliver Laxe",
+  "surname": "Laxe",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1982",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "88045",
+  "r01": "85218",
+  "r02": "80131",
+  "r03": "74579",
+  "r04": "68046",
+  "r05": "61558",
+  "r06": "59439",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "2",
+  "2005-countries-total": "Argentina (2)",
+  "2005-shows-with": "Aggtelek (2), Enrique Aguilar (2), Cristobal Aparicio (2), Marlon de Azambuja (2), Bongore (2), Julio Galeote (2), Hisae Ikenaga (2), Oliver Laxe (2), Ubay Murillo (2), Paloma Polo (2), Jorge Satorre (2), Federico Vladimir Strate Pezdirc (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Oliver",
+  "last_name": "Laxe",
+  "genre": "m",
+  "birthDate": "1982-01-01",
+  "age": 32,
+  "age_range": "26-35",
+  "expos": {
+    "2007": [
+      {
+        "c": "ES",
+        "n": "Creación Injuve 2007",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "Círculo de Bellas Artes de Madrid (CBA)",
+        "d": [
+          "2007-11-29",
+          "2008-01-13"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "c": "ES",
+        "n": "Creación Injuve 2007",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "Círculo de Bellas Artes de Madrid (CBA)",
+        "d": [
+          "2007-11-29",
+          "2008-01-13"
+        ]
+      },
+      {
+        "c": "AR",
+        "n": "Injuve 07",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rosario",
+        "o": "CCPE - Centro Cultural Parque de España",
+        "d": [
+          "2008-02-02",
+          "2008-12-11"
+        ]
+      },
+      {
+        "c": "AR",
+        "n": "Injuve 07",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rosario",
+        "o": "CCPE - Centro Cultural Parque de España",
+        "d": [
+          "2008-02-02",
+          "2008-12-11"
+        ]
+      },
+      {
+        "c": "AR",
+        "n": "Muestra Injuve",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rosario",
+        "o": "CCPE - Centro Cultural Parque de España",
+        "d": [
+          "2008-12-11",
+          "2009-02-02"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "c": "AR",
+        "n": "Muestra Injuve",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rosario",
+        "o": "CCPE - Centro Cultural Parque de España",
+        "d": [
+          "2008-12-11",
+          "2009-02-02"
+        ]
+      }
+    ]
+  }
+}

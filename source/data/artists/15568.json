@@ -40,5 +40,110 @@
   "last_name": "Texier",
   "genre": "m",
   "birthDate": "1955-01-01",
-  "age": "46-55"
+  "age": 59,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "c": "ES",
+        "n": "Barcelona - Paris - Pekin",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Espace Cultural Ample",
+        "d": [
+          "2007-06-21",
+          "2007-08-04"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Barcelona - Paris - Pekin",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Espace Cultural Ample",
+        "d": [
+          "2007-06-21",
+          "2007-08-04"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "Paintings on Chinese Nautical Charts",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Alisan Fine Arts",
+        "d": [
+          "2007-05-23",
+          "2007-06-23"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "Paintings on Chinese Nautical Charts",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Alisan Fine Arts",
+        "d": [
+          "2007-05-23",
+          "2007-06-23"
+        ]
+      }
+    ],
+    "2005": [
+      {
+        "c": "BE",
+        "n": "Richard Texier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "J. Bastien-Art",
+        "d": [
+          "2005-04-28",
+          "2005-06-05"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Richard Texier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "J. Bastien-Art",
+        "d": [
+          "2005-04-28",
+          "2005-06-05"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "c": "BE",
+        "n": "Richard Texier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Knokke-Zoute",
+        "o": "Piretti Art Gallery",
+        "d": [
+          "2012-08-03",
+          "2012-09-30"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Richard Texier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Knokke-Zoute",
+        "o": "Piretti Art Gallery",
+        "d": [
+          "2012-08-03",
+          "2012-09-30"
+        ]
+      }
+    ]
+  }
 }

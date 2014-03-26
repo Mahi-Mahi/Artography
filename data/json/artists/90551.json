@@ -40,5 +40,110 @@
   "last_name": "Lamy",
   "genre": "m",
   "birthDate": "1939-01-01",
-  "age": "46-55"
+  "age": 75,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "c": "US",
+        "n": "Art Brut Drawings From Europe",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Andrew Edlin Gallery",
+        "d": [
+          "2005-02-24",
+          "2005-04-02"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Art Brut Drawings From Europe",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Andrew Edlin Gallery",
+        "d": [
+          "2005-02-24",
+          "2005-04-02"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Summer Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Andrew Edlin Gallery",
+        "d": [
+          "2005-06-17",
+          "2005-09-03"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Summer Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Andrew Edlin Gallery",
+        "d": [
+          "2005-06-17",
+          "2005-09-03"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "c": "US",
+        "n": "5 Year Anniversary Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Andrew Edlin Gallery",
+        "d": [
+          "2006-05-05",
+          "2006-06-17"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "5 Year Anniversary Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Andrew Edlin Gallery",
+        "d": [
+          "2006-05-05",
+          "2006-06-17"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "US",
+        "n": "All Folked Up!",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Andrew Edlin Gallery",
+        "d": [
+          "2011-10-29",
+          "2011-11-12"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "All Folked Up!",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Andrew Edlin Gallery",
+        "d": [
+          "2011-10-29",
+          "2011-11-12"
+        ]
+      }
+    ]
+  }
 }

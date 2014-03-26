@@ -342,7 +342,6 @@ define([], function() {
             }
 
             $scope.showArtist = function(artist_id) {
-                console.log($location);
                 $location.path('/artiste/' + artist_id);
             }
 

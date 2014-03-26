@@ -1,0 +1,101 @@
+{
+  "id": "135930",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:58:52",
+  "name": "Sabine Massenet",
+  "surname": "Massenet",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Neuilly sur Seine (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1958",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "61510",
+  "r01": "65819",
+  "r02": "61056",
+  "r03": "69831",
+  "r04": "64999",
+  "r05": "58463",
+  "r06": "51514",
+  "r07": "54567",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (2), USA (1)",
+  "2005-shows-with": "Sabine Massenet (3)",
+  "representing-galleries": "Vidéochroniques (1 place de Lorette, 13002 Marseille, France)",
+  "collecting-museums": null,
+  "first_name": "Sabine",
+  "last_name": "Massenet",
+  "genre": "f",
+  "birthDate": "1958-01-01",
+  "age": 56,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "c": "ES",
+        "n": "Cárcel de amor",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "A Coruña",
+        "o": "Fundación Luis Seoane",
+        "d": [
+          "2006-02-23",
+          "2006-03-18"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Cárcel de amor",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "A Coruña",
+        "o": "Fundación Luis Seoane",
+        "d": [
+          "2006-02-23",
+          "2006-03-18"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "c": "US",
+        "n": "I SEE YOU",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Detroit, MI",
+        "o": "Kunsthalle Detroit",
+        "d": [
+          "2013-10-17",
+          "2014-01-31"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "c": "US",
+        "n": "I SEE YOU",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Detroit, MI",
+        "o": "Kunsthalle Detroit",
+        "d": [
+          "2013-10-17",
+          "2014-01-31"
+        ]
+      }
+    ]
+  }
+}

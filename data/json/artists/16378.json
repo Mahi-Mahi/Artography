@@ -40,5 +40,138 @@
   "last_name": "Benzaken",
   "genre": "f",
   "birthDate": "1964-01-01",
-  "age": "46-55"
+  "age": 50,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "c": "DE",
+        "n": "Peintures / Painting",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Martin-Gropius-Bau",
+        "d": [
+          "2006-09-23",
+          "2006-11-12"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Peintures / Painting",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Martin-Gropius-Bau",
+        "d": [
+          "2006-09-23",
+          "2006-11-12"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "c": "US",
+        "n": "Contemporary, Cool and Collected",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Charlotte, NC",
+        "o": "Mint Museum of Art",
+        "d": [
+          "2007-10-20",
+          "2007-12-30"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Contemporary, Cool and Collected",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Charlotte, NC",
+        "o": "Mint Museum of Art",
+        "d": [
+          "2007-10-20",
+          "2007-12-30"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "c": "BE",
+        "n": "Group Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Nathalie Obadia - Bruxelles",
+        "d": [
+          "2008-09-20",
+          "2008-10-31"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Group Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Nathalie Obadia - Bruxelles",
+        "d": [
+          "2008-09-20",
+          "2008-10-31"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "c": "BE",
+        "n": "Carole Benzaken - Huma Bhabha",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Nathalie Obadia - Bruxelles",
+        "d": [
+          "2010-01-22",
+          "2010-04-17"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Carole Benzaken - Huma Bhabha",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Nathalie Obadia - Bruxelles",
+        "d": [
+          "2010-01-22",
+          "2010-04-17"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "c": "BE",
+        "n": "Hors les murs",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Nathalie Obadia - Bruxelles",
+        "d": [
+          "2012-01-20",
+          "2012-02-25"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Hors les murs",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Nathalie Obadia - Bruxelles",
+        "d": [
+          "2012-01-20",
+          "2012-02-25"
+        ]
+      }
+    ]
+  }
 }

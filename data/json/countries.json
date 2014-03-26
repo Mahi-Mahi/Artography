@@ -1,5 +1,17 @@
 {
   "Africa": {
+    "AO": {
+      "fr": "Angola",
+      "en": "Angola"
+    },
+    "BJ": {
+      "fr": "Bénin",
+      "en": "Benin"
+    },
+    "CI": {
+      "fr": "Côte D'Ivoire",
+      "en": "Côte D'Ivoire"
+    },
     "CM": {
       "fr": "Cameroun",
       "en": "Cameroon"
@@ -8,13 +20,13 @@
       "fr": "Égypte",
       "en": "Egypt"
     },
+    "GH": {
+      "fr": "Ghana",
+      "en": "Ghana"
+    },
     "MA": {
       "fr": "Maroc",
       "en": "Morocco"
-    },
-    "ML": {
-      "fr": "Mali",
-      "en": "Mali"
     },
     "RE": {
       "fr": "Réunion",
@@ -37,10 +49,6 @@
     "CN": {
       "fr": "Chine",
       "en": "China"
-    },
-    "CY": {
-      "fr": "Chypre",
-      "en": "Cyprus"
     },
     "ID": {
       "fr": "Indonésie",
@@ -78,10 +86,6 @@
       "fr": "Liban",
       "en": "Lebanon"
     },
-    "PH": {
-      "fr": "Philippines",
-      "en": "Philippines"
-    },
     "QA": {
       "fr": "Qatar",
       "en": "Qatar"
@@ -90,10 +94,6 @@
       "fr": "Singapour",
       "en": "Singapore"
     },
-    "SY": {
-      "fr": "Syrie",
-      "en": "Syria"
-    },
     "TH": {
       "fr": "Thaïlande",
       "en": "Thailand"
@@ -101,6 +101,10 @@
     "TW": {
       "fr": "Taïwan",
       "en": "Taiwan"
+    },
+    "VN": {
+      "fr": "Viêt Nam",
+      "en": "Vietnam"
     }
   },
   "Australia": {
@@ -210,10 +214,6 @@
       "fr": "Monaco",
       "en": "Monaco"
     },
-    "MD": {
-      "fr": "Moldavie",
-      "en": "Moldova"
-    },
     "ME": {
       "fr": "Monténégro",
       "en": "Crna Gora"
@@ -276,10 +276,6 @@
       "fr": "Canada",
       "en": "Canada"
     },
-    "CU": {
-      "fr": "Cuba",
-      "en": "Cuba"
-    },
     "MX": {
       "fr": "Mexique",
       "en": "Mexico"
@@ -306,17 +302,13 @@
       "fr": "Colombie",
       "en": "Colombia"
     },
-    "EC": {
-      "fr": "Équateur",
-      "en": "Ecuador"
+    "PE": {
+      "fr": "Pérou",
+      "en": "Peru"
     },
     "UY": {
       "fr": "Uruguay",
       "en": "Uruguay"
-    },
-    "VE": {
-      "fr": "Venezuela",
-      "en": "Venezuela"
     }
   }
 }

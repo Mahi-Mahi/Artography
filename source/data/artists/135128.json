@@ -1,0 +1,275 @@
+{
+  "id": "135128",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:58:33",
+  "name": "Clement Cogitore",
+  "surname": "Cogitore",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Colmar (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1983",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "12609",
+  "r01": "19247",
+  "r02": "27136",
+  "r03": "24580",
+  "r04": "33569",
+  "r05": "29288",
+  "r06": "58170",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "16",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (6), Switzerland (2), Austria (1), Belgium (1), Germany (1), Italy (1), Slovakia (1), Spain (1), Turkey (1)",
+  "2005-shows-with": "Clement Cogitore (14), Mia Bailey (2), Rosa Barba (2), François Bucher (2), Daya Cahen (2), Tony Cokes (2), Raphaël Cuomo (2), Peter Downsbrough (2), Redmond Entwistle (2), Gregory Forstner (2), Anton Ginzburg (2), Johan Grimonprez (2), Crispin Gurholt (2), Maria Iorio (2), Bjorn Melhus (2), John Menick (2), Christian Merlhiot (2), Nada Prlja (2), Tejal Shah (2), Gerda Steiner & Jörg Lenzlinger (2), Maria Tackmann (2), Muriel Toulemonde (2), Sarah Vanagt (2), Phillip Warnell (2), Apichatpong Weerasethakul (2), Paul Wong (2), Julius Ziz (2)",
+  "representing-galleries": "White Project (24 RUE SAINT CLAUDE, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Clement",
+  "last_name": "Cogitore",
+  "genre": "c",
+  "birthDate": "1983-01-01",
+  "age": 31,
+  "age_range": "26-35",
+  "expos": {
+    "2008": [
+      {
+        "c": "CH",
+        "n": "Regionale 9",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Basel",
+        "o": "Kunsthalle Basel",
+        "d": [
+          "2008-11-29",
+          "2009-01-04"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "c": "CH",
+        "n": "Regionale 9",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Basel",
+        "o": "Kunsthalle Basel",
+        "d": [
+          "2008-11-29",
+          "2009-01-04"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "c": "BE",
+        "n": "BIP 2010 - Biennale internationale de la Photographie et des Arts visuels",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Liège",
+        "o": "Biennale internationale de la Photographie et des Arts visuels",
+        "d": [
+          "2010-02-28",
+          "2010-04-25"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "BIP 2010 - Biennale internationale de la Photographie et des Arts visuels",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Liège",
+        "o": "Biennale internationale de la Photographie et des Arts visuels",
+        "d": [
+          "2010-02-28",
+          "2010-04-25"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Regionale 11",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Basel",
+        "o": "Kunsthaus Baselland",
+        "d": [
+          "2010-11-28",
+          "2011-01-09"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "CH",
+        "n": "Regionale 11",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Basel",
+        "o": "Kunsthaus Baselland",
+        "d": [
+          "2010-11-28",
+          "2011-01-09"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "c": "AT",
+        "n": "Passeur 2 - Plattform Für Junge Kunst",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Bäckerstrasse4",
+        "d": [
+          "2012-02-29",
+          "2012-03-31"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Passeur 2 - Plattform Für Junge Kunst",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Bäckerstrasse4",
+        "d": [
+          "2012-02-29",
+          "2012-03-31"
+        ]
+      },
+      {
+        "c": "TR",
+        "n": "Reality Terror",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Istanbul",
+        "o": "Asfalt Art Gallery",
+        "d": [
+          "2012-05-09",
+          "2012-05-31"
+        ]
+      },
+      {
+        "c": "TR",
+        "n": "Reality Terror",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Istanbul",
+        "o": "Asfalt Art Gallery",
+        "d": [
+          "2012-05-09",
+          "2012-05-31"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "c": "IT",
+        "n": "Buongiorno Blinky",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Rome",
+        "o": "Académie de France à Rome - Villa Médicis",
+        "d": [
+          "2013-02-02",
+          "2013-02-10"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Buongiorno Blinky",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Rome",
+        "o": "Académie de France à Rome - Villa Médicis",
+        "d": [
+          "2013-02-02",
+          "2013-02-10"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Universo vídeo_ Experimental Practices",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2013-03-15",
+          "2013-06-02"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Universo vídeo_ Experimental Practices",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2013-03-15",
+          "2013-06-02"
+        ]
+      },
+      {
+        "c": "SK",
+        "n": "La Belle Peinture II",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bratislava",
+        "o": "Institut Français de Slovaquie",
+        "d": [
+          "2013-06-13",
+          "2013-07-26"
+        ]
+      },
+      {
+        "c": "SK",
+        "n": "La Belle Peinture II",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bratislava",
+        "o": "Institut Français de Slovaquie",
+        "d": [
+          "2013-06-13",
+          "2013-07-26"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Rencontres Internationales",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Haus der Kulturen der Welt",
+        "d": [
+          "2013-06-25",
+          "2013-06-30"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Rencontres Internationales",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Haus der Kulturen der Welt",
+        "d": [
+          "2013-06-25",
+          "2013-06-30"
+        ]
+      }
+    ]
+  }
+}

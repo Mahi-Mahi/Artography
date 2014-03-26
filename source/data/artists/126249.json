@@ -40,5 +40,34 @@
   "last_name": "Beurel",
   "genre": "c",
   "birthDate": "1960-01-01",
-  "age": "46-55"
+  "age": 54,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "c": "DE",
+        "n": "Filaturen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dusseldorf",
+        "o": "Sies + Höke",
+        "d": [
+          "2007-09-07",
+          "2007-10-13"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Filaturen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dusseldorf",
+        "o": "Sies + Höke",
+        "d": [
+          "2007-09-07",
+          "2007-10-13"
+        ]
+      }
+    ]
+  }
 }

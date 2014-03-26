@@ -40,5 +40,212 @@
   "last_name": "Mimran",
   "genre": "m",
   "birthDate": "1956-01-01",
-  "age": "46-55"
+  "age": 58,
+  "age_range": "46-55",
+  "expos": {
+    "2009": [
+      {
+        "c": "IT",
+        "n": "When Ideas Become Form – 30 Years of Gallery",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Venice",
+        "o": "La Galleria Dorothea van der Koelen - Venedig",
+        "d": [
+          "2009-06-06",
+          "2009-11-23"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "When Ideas Become Form – 30 Years of Gallery",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Venice",
+        "o": "La Galleria Dorothea van der Koelen - Venedig",
+        "d": [
+          "2009-06-06",
+          "2009-11-23"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "When ideas become form - 30 Jahre Galerie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2009-10-24",
+          "2010-02-26"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "c": "DE",
+        "n": "When ideas become form - 30 Jahre Galerie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2009-10-24",
+          "2010-02-26"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Masterpieces : Kleinformate : Editionen : Bücher",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2010-12-05",
+          "2011-01-14"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Patrick Mimran  -  Billboard Projects",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2010-09-10",
+          "2010-12-19"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Patrick Mimran  -  Billboard Projects",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2010-09-10",
+          "2010-12-19"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "DE",
+        "n": "Masterpieces : Kleinformate : Editionen : Bücher",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2010-12-05",
+          "2011-01-14"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "iRonic. Die feinsinnige Ironie der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Erlangen",
+        "o": "Kunstpalais Erlangen",
+        "d": [
+          "2011-07-02",
+          "2011-09-04"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "iRonic. Die feinsinnige Ironie der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Erlangen",
+        "o": "Kunstpalais Erlangen",
+        "d": [
+          "2011-07-02",
+          "2011-09-04"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "c": "DE",
+        "n": "iRonic. Die feinsinnige Ironie der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bietigheim-Bissingen",
+        "o": "Städtische Galerie Bietigheim-Bissingen",
+        "d": [
+          "2012-01-21",
+          "2012-04-09"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "iRonic. Die feinsinnige Ironie der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bietigheim-Bissingen",
+        "o": "Städtische Galerie Bietigheim-Bissingen",
+        "d": [
+          "2012-01-21",
+          "2012-04-09"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "c": "DE",
+        "n": "In the Mirror of Reality",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2013-05-29",
+          "2013-11-24"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "In the Mirror of Reality",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2013-05-29",
+          "2013-11-24"
+        ]
+      }
+    ],
+    "2005": [
+      {
+        "c": "IT",
+        "n": "Patrick Mimran",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Rome",
+        "o": "Luxardo",
+        "d": [
+          "2005-04-08",
+          "2005-06-03"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Patrick Mimran",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Rome",
+        "o": "Luxardo",
+        "d": [
+          "2005-04-08",
+          "2005-06-03"
+        ]
+      }
+    ]
+  }
 }

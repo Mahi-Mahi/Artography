@@ -40,5 +40,36 @@
   "last_name": "Loste",
   "genre": "m",
   "birthDate": "1955-01-01",
-  "age": "46-55"
+  "age": 59,
+  "age_range": "46-55",
+  "expos": {
+    "2010": [
+      {
+        "c": "DK",
+        "n": "Mixed_media",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Copenhagen",
+        "o": "Gallery B15",
+        "d": [
+          "2010-12-17",
+          "2011-01-17"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "DK",
+        "n": "Mixed_media",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Copenhagen",
+        "o": "Gallery B15",
+        "d": [
+          "2010-12-17",
+          "2011-01-17"
+        ]
+      }
+    ]
+  }
 }

@@ -40,5 +40,288 @@
   "last_name": "Resnais",
   "genre": "m",
   "birthDate": "1922-06-03",
-  "age": "46-55"
+  "age": 91,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "c": "BE",
+        "n": "Inner & Outer Worlds, Audiovisual Essays from Belgium",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "Argos",
+        "d": [
+          "2005-10-14",
+          "2005-10-29"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Inner & Outer Worlds, Audiovisual Essays from Belgium",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "Argos",
+        "d": [
+          "2005-10-14",
+          "2005-10-29"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "War is over - 1945 - 2005 la libertá dell'arte da Picasso a Warhol a Cattelan",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bergamo",
+        "o": "GAMeC - Galleria d´Arte Moderna e Contemporanea di Bergamo",
+        "d": [
+          "2005-10-15",
+          "2006-02-26"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "c": "IT",
+        "n": "War is over - 1945 - 2005 la libertá dell'arte da Picasso a Warhol a Cattelan",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bergamo",
+        "o": "GAMeC - Galleria d´Arte Moderna e Contemporanea di Bergamo",
+        "d": [
+          "2005-10-15",
+          "2006-02-26"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "c": "US",
+        "n": "Apocalypse Now: The Theater of War",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "San Francisco, CA",
+        "o": "CCA Wattis Institute for Contemporary Arts",
+        "d": [
+          "2007-11-30",
+          "2008-01-26"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "c": "US",
+        "n": "Apocalypse Now: The Theater of War",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "San Francisco, CA",
+        "o": "CCA Wattis Institute for Contemporary Arts",
+        "d": [
+          "2007-11-30",
+          "2008-01-26"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Lost Paradise – Der Blick des Engels",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bern",
+        "o": "Zentrum Paul Klee",
+        "d": [
+          "2008-05-31",
+          "2008-10-26"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Lost Paradise – Der Blick des Engels",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bern",
+        "o": "Zentrum Paul Klee",
+        "d": [
+          "2008-05-31",
+          "2008-10-26"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Kosmotica II",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "CCCB - Centre de Cultura Contemporània de Barcelona",
+        "d": [
+          "2008-10-22",
+          "2008-11-09"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "Kosmotica II",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "CCCB - Centre de Cultura Contemporània de Barcelona",
+        "d": [
+          "2008-10-22",
+          "2008-11-09"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "c": "BR",
+        "n": "Primeira E Última, Notas Sobre O Monumento [first And Last, Notes On The Monument]",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "São Paulo",
+        "o": "Galeria Luisa Strina",
+        "d": [
+          "2010-09-20",
+          "2010-12-17"
+        ]
+      },
+      {
+        "c": "BR",
+        "n": "Primeira E Última, Notas Sobre O Monumento [first And Last, Notes On The Monument]",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "São Paulo",
+        "o": "Galeria Luisa Strina",
+        "d": [
+          "2010-09-20",
+          "2010-12-17"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "AT",
+        "n": "Animismus. Moderne hinter den Spiegeln",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Vienna",
+        "o": "Generali Foundation",
+        "d": [
+          "2011-09-16",
+          "2012-01-29"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "A Wake: Still Lives and Moving Images",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "MOMENTUM",
+        "d": [
+          "2011-10-30",
+          "2011-11-13"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "A Wake: Still Lives and Moving Images",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "MOMENTUM",
+        "d": [
+          "2011-10-30",
+          "2011-11-13"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "c": "AT",
+        "n": "Animismus. Moderne hinter den Spiegeln",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Vienna",
+        "o": "Generali Foundation",
+        "d": [
+          "2011-09-16",
+          "2012-01-29"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "PARA ALÉM DA HISTÓRIA / BEYOND HISTORY",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Guimarães",
+        "o": "Plataforma das Artes",
+        "d": [
+          "2012-06-24",
+          "2013-06-24"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "c": "PT",
+        "n": "PARA ALÉM DA HISTÓRIA / BEYOND HISTORY",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Guimarães",
+        "o": "Plataforma das Artes",
+        "d": [
+          "2012-06-24",
+          "2013-06-24"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "de Verzamelaar: Il faut que le masque ait dansé",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Maastricht",
+        "o": "Marres - Centre for Contemporary Culture",
+        "d": [
+          "2013-06-16",
+          "2013-08-18"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "de Verzamelaar: Il faut que le masque ait dansé",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Maastricht",
+        "o": "Marres - Centre for Contemporary Culture",
+        "d": [
+          "2013-06-16",
+          "2013-08-18"
+        ]
+      },
+      {
+        "c": "MX",
+        "n": "Blockbuster: cine para exhibiciones",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zapopan",
+        "o": "Museo de Arte de Zapopan",
+        "d": [
+          "2013-07-05",
+          "2013-10-10"
+        ]
+      },
+      {
+        "c": "MX",
+        "n": "Blockbuster: cine para exhibiciones",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zapopan",
+        "o": "Museo de Arte de Zapopan",
+        "d": [
+          "2013-07-05",
+          "2013-10-10"
+        ]
+      }
+    ]
+  }
 }

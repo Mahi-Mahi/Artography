@@ -40,5 +40,34 @@
   "last_name": "Viscogliosi",
   "genre": "m",
   "birthDate": "1965-01-01",
-  "age": "46-55"
+  "age": 49,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "c": "IT",
+        "n": "I love Tourism",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Venice",
+        "o": "Fondazione Bevilacqua La Masa",
+        "d": [
+          "2007-04-19",
+          "2007-05-21"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "I love Tourism",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Venice",
+        "o": "Fondazione Bevilacqua La Masa",
+        "d": [
+          "2007-04-19",
+          "2007-05-21"
+        ]
+      }
+    ]
+  }
 }

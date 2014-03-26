@@ -40,5 +40,986 @@
   "last_name": "Hybert",
   "genre": "m",
   "birthDate": "1961-01-01",
-  "age": "46-55"
+  "age": 53,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "c": "ES",
+        "n": "El estado de las cosas - El objeto en el arte desde 1960 hasta nuestros días",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vitoria-Gasteiz",
+        "o": "ARTIUM - Basque Museum Center of Contemporary Art",
+        "d": [
+          "2005-02-03",
+          "2005-05-22"
+        ]
+      },
+      {
+        "c": "ES",
+        "n": "El estado de las cosas - El objeto en el arte desde 1960 hasta nuestros días",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vitoria-Gasteiz",
+        "o": "ARTIUM - Basque Museum Center of Contemporary Art",
+        "d": [
+          "2005-02-03",
+          "2005-05-22"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Interessi Zero",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Trento",
+        "o": "Galleria Civica di Trento",
+        "d": [
+          "2005-03-11",
+          "2005-05-28"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Interessi Zero",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Trento",
+        "o": "Galleria Civica di Trento",
+        "d": [
+          "2005-03-11",
+          "2005-05-28"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Nach Rokytnik - Die Sammlung der EVN",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Museum Moderner Kunst Stiftung Ludwig - MUMOK ",
+        "d": [
+          "2005-07-03",
+          "2005-09-18"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Nach Rokytnik - Die Sammlung der EVN",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Museum Moderner Kunst Stiftung Ludwig - MUMOK ",
+        "d": [
+          "2005-07-03",
+          "2005-09-18"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "c": "IL",
+        "n": "Group Exhibition",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Herzliya",
+        "o": "Herzliya Museum of Contemporary Art",
+        "d": [
+          "2006-01-07",
+          "2006-03-18"
+        ]
+      },
+      {
+        "c": "IL",
+        "n": "Group Exhibition",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Herzliya",
+        "o": "Herzliya Museum of Contemporary Art",
+        "d": [
+          "2006-01-07",
+          "2006-03-18"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Da Monet a Boltanski",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Parma",
+        "o": "Fondazione Magnani Rocca",
+        "d": [
+          "2006-04-02",
+          "2006-07-16"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Da Monet a Boltanski",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Parma",
+        "o": "Fondazione Magnani Rocca",
+        "d": [
+          "2006-04-02",
+          "2006-07-16"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "We Humans are Free",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Kanazawa",
+        "o": "SMAK Stedelijk Museum voor Actuele Kunst",
+        "d": [
+          "2006-04-29",
+          "2006-08-31"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "We Humans are Free",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Kanazawa",
+        "o": "SMAK Stedelijk Museum voor Actuele Kunst",
+        "d": [
+          "2006-04-29",
+          "2006-08-31"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Tekenlust",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Loppem-Zedelgem",
+        "o": "Kunsthalle Lophem",
+        "d": [
+          "2006-05-07",
+          "2006-08-06"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Tekenlust",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Loppem-Zedelgem",
+        "o": "Kunsthalle Lophem",
+        "d": [
+          "2006-05-07",
+          "2006-08-06"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Ballkünstler",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Leipzig",
+        "o": "Museum der bildenden Künste Leipzig",
+        "d": [
+          "2006-06-11",
+          "2006-08-13"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Ballkünstler",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Leipzig",
+        "o": "Museum der bildenden Künste Leipzig",
+        "d": [
+          "2006-06-11",
+          "2006-08-13"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Peintures / Painting",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Martin-Gropius-Bau",
+        "d": [
+          "2006-09-23",
+          "2006-11-12"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Peintures / Painting",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Martin-Gropius-Bau",
+        "d": [
+          "2006-09-23",
+          "2006-11-12"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "c": "HU",
+        "n": "The Measure of Sensibility - Selection from the collection of the Frac d^es Pays de la Loire",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Budapest",
+        "o": "Ludwig Museum - Museum of Contemporary Art - Budapest",
+        "d": [
+          "2007-01-19",
+          "2007-03-11"
+        ]
+      },
+      {
+        "c": "HU",
+        "n": "The Measure of Sensibility - Selection from the collection of the Frac d^es Pays de la Loire",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Budapest",
+        "o": "Ludwig Museum - Museum of Contemporary Art - Budapest",
+        "d": [
+          "2007-01-19",
+          "2007-03-11"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Deutsche Geschichten",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Leipzig",
+        "o": "Galerie für Zeitgenössische Kunst - GfZK",
+        "d": [
+          "2007-02-03",
+          "2008-01-20"
+        ]
+      },
+      {
+        "c": "TH",
+        "n": "Métissages",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bangkok",
+        "o": "Jim Thompson Art Center",
+        "d": [
+          "2007-03-31",
+          "2007-06-17"
+        ]
+      },
+      {
+        "c": "TH",
+        "n": "Métissages",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bangkok",
+        "o": "Jim Thompson Art Center",
+        "d": [
+          "2007-03-31",
+          "2007-06-17"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Leibesübungen -Vom Tun und Lassen in der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Göppingen",
+        "o": "Kunsthalle Göppingen",
+        "d": [
+          "2007-09-16",
+          "2007-11-18"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Leibesübungen -Vom Tun und Lassen in der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Göppingen",
+        "o": "Kunsthalle Göppingen",
+        "d": [
+          "2007-09-16",
+          "2007-11-18"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Suite Française",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Krinzinger Projekte",
+        "d": [
+          "2007-11-14",
+          "2008-02-29"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "c": "DE",
+        "n": "Deutsche Geschichten",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Leipzig",
+        "o": "Galerie für Zeitgenössische Kunst - GfZK",
+        "d": [
+          "2007-02-03",
+          "2008-01-20"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "Suite Française",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Krinzinger Projekte",
+        "d": [
+          "2007-11-14",
+          "2008-02-29"
+        ]
+      },
+      {
+        "c": "HU",
+        "n": "Body Exercises",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dunaujvaros",
+        "o": "Institute of Contemporary Art - Dunaújvàros",
+        "d": [
+          "2008-03-11",
+          "2008-04-18"
+        ]
+      },
+      {
+        "c": "HU",
+        "n": "Body Exercises",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dunaujvaros",
+        "o": "Institute of Contemporary Art - Dunaújvàros",
+        "d": [
+          "2008-03-11",
+          "2008-04-18"
+        ]
+      },
+      {
+        "c": "HU",
+        "n": "Testgyakorlatok / Body Exercises",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dunaujvaros",
+        "o": "Institute of Contemporary Art - Dunaújvàros",
+        "d": [
+          "2008-03-12",
+          "2008-04-11"
+        ]
+      },
+      {
+        "c": "HU",
+        "n": "Testgyakorlatok / Body Exercises",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dunaujvaros",
+        "o": "Institute of Contemporary Art - Dunaújvàros",
+        "d": [
+          "2008-03-12",
+          "2008-04-11"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Leibesübungen Vom Tun und Lassen in der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Heidenheim",
+        "o": "Kunstmuseum Heidenheim",
+        "d": [
+          "2008-05-04",
+          "2008-06-29"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "Leibesübungen Vom Tun und Lassen in der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Heidenheim",
+        "o": "Kunstmuseum Heidenheim",
+        "d": [
+          "2008-05-04",
+          "2008-06-29"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Mondo e Terra, La collezione del FRAC Corsica",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuoro",
+        "o": "MAN - Museo d`Arte di Nuoro",
+        "d": [
+          "2008-06-19",
+          "2008-10-05"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Mondo e Terra, La collezione del FRAC Corsica",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuoro",
+        "o": "MAN - Museo d`Arte di Nuoro",
+        "d": [
+          "2008-06-19",
+          "2008-10-05"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "Fabrice Hyber - Seed and Grow",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Tokyo",
+        "o": "Watari-Um - Watari Museum of Contemporary Art",
+        "d": [
+          "2008-04-26",
+          "2008-08-31"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "Fabrice Hyber - Seed and Grow",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Tokyo",
+        "o": "Watari-Um - Watari Museum of Contemporary Art",
+        "d": [
+          "2008-04-26",
+          "2008-08-31"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "c": "IT",
+        "n": "Something else!!!!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuoro",
+        "o": "MAN - Museo d`Arte di Nuoro",
+        "d": [
+          "2009-02-06",
+          "2009-05-03"
+        ]
+      },
+      {
+        "c": "IT",
+        "n": "Something else!!!!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuoro",
+        "o": "MAN - Museo d`Arte di Nuoro",
+        "d": [
+          "2009-02-06",
+          "2009-05-03"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Return to Function",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madison, WI",
+        "o": "MMoCA - The Madison Museum of Contemporary Art",
+        "d": [
+          "2009-05-02",
+          "2009-08-23"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Return to Function",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madison, WI",
+        "o": "MMoCA - The Madison Museum of Contemporary Art",
+        "d": [
+          "2009-05-02",
+          "2009-08-23"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "T-Tris : Un « jeu » de construction entre les collections de la Province de Hainaut, du Muhka et du Mudam",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Charleroi",
+        "o": "B.P.S.22 - Espace de Création Contemporaine",
+        "d": [
+          "2009-09-12",
+          "2009-11-29"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "T-Tris : Un « jeu » de construction entre les collections de la Province de Hainaut, du Muhka et du Mudam",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Charleroi",
+        "o": "B.P.S.22 - Espace de Création Contemporaine",
+        "d": [
+          "2009-09-12",
+          "2009-11-29"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Return to Function",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Des Moines, IA",
+        "o": "Des Moines Art Center",
+        "d": [
+          "2009-10-02",
+          "2010-01-10"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "c": "US",
+        "n": "Return to Function",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Des Moines, IA",
+        "o": "Des Moines Art Center",
+        "d": [
+          "2009-10-02",
+          "2010-01-10"
+        ]
+      },
+      {
+        "c": "KR",
+        "n": "Between Dreams and Memories",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gyeongju Bomun",
+        "o": "Artsonje Museum",
+        "d": [
+          "2010-03-20",
+          "2010-08-29"
+        ]
+      },
+      {
+        "c": "KR",
+        "n": "Between Dreams and Memories",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gyeongju Bomun",
+        "o": "Artsonje Museum",
+        "d": [
+          "2010-03-20",
+          "2010-08-29"
+        ]
+      },
+      {
+        "c": "MX",
+        "n": "Todo A Nada  -  Lectura Colecciones Muac",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mexico City",
+        "o": "Museo Universitario de Arte Contemporáneo - MUAC",
+        "d": [
+          "2010-03-27",
+          "2010-07-25"
+        ]
+      },
+      {
+        "c": "MX",
+        "n": "Todo A Nada  -  Lectura Colecciones Muac",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mexico City",
+        "o": "Museo Universitario de Arte Contemporáneo - MUAC",
+        "d": [
+          "2010-03-27",
+          "2010-07-25"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "AKTUALITÄT EINES MEDIUMS. NADER AHRIMAN BIS CHEN ZHEN",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Galerie Krinzinger",
+        "d": [
+          "2010-04-15",
+          "2010-04-17"
+        ]
+      },
+      {
+        "c": "AT",
+        "n": "AKTUALITÄT EINES MEDIUMS. NADER AHRIMAN BIS CHEN ZHEN",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Galerie Krinzinger",
+        "d": [
+          "2010-04-15",
+          "2010-04-17"
+        ]
+      },
+      {
+        "c": "UY",
+        "n": "Le Mont Analogue",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Montevideo",
+        "o": "Museo Nacional de Artes Visuales - MNAV",
+        "d": [
+          "2010-07-15",
+          "2010-09-05"
+        ]
+      },
+      {
+        "c": "UY",
+        "n": "Le Mont Analogue",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Montevideo",
+        "o": "Museo Nacional de Artes Visuales - MNAV",
+        "d": [
+          "2010-07-15",
+          "2010-09-05"
+        ]
+      },
+      {
+        "c": "PL",
+        "n": "Fokus Lodz Biennale 2010 - From the Liberty Square to the Independence Square",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Lodz",
+        "o": "Lodz Biennale",
+        "d": [
+          "2010-09-11",
+          "2010-10-10"
+        ]
+      },
+      {
+        "c": "PL",
+        "n": "Fokus Lodz Biennale 2010 - From the Liberty Square to the Independence Square",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Lodz",
+        "o": "Lodz Biennale",
+        "d": [
+          "2010-09-11",
+          "2010-10-10"
+        ]
+      },
+      {
+        "c": "RU",
+        "n": "The Immortals",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Moscow",
+        "o": "Ekaterina Foundation",
+        "d": [
+          "2010-09-08",
+          "2010-10-03"
+        ]
+      },
+      {
+        "c": "RU",
+        "n": "The Immortals",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Moscow",
+        "o": "Ekaterina Foundation",
+        "d": [
+          "2010-09-08",
+          "2010-10-03"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "c": "JP",
+        "n": "I love art 11",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Tokyo",
+        "o": "Watari-Um - Watari Museum of Contemporary Art",
+        "d": [
+          "2011-01-22",
+          "2011-04-17"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "I love art 11",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Tokyo",
+        "o": "Watari-Um - Watari Museum of Contemporary Art",
+        "d": [
+          "2011-01-22",
+          "2011-04-17"
+        ]
+      },
+      {
+        "c": "NL",
+        "n": "Out of Storage: Provisoire & Définitif",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Maastricht",
+        "o": "Marres - Centre for Contemporary Culture",
+        "d": [
+          "2011-06-25",
+          "2012-03-25"
+        ]
+      },
+      {
+        "c": "NO",
+        "n": "VideoSpace",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Oslo",
+        "o": "Astrup Fearnley Museet for Moderne Kunst",
+        "d": [
+          "2011-11-03",
+          "2011-12-31"
+        ]
+      },
+      {
+        "c": "NO",
+        "n": "VideoSpace",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Oslo",
+        "o": "Astrup Fearnley Museet for Moderne Kunst",
+        "d": [
+          "2011-11-03",
+          "2011-12-31"
+        ]
+      },
+      {
+        "c": "AE",
+        "n": "Art Talks & Sensations. The Island / a Game of Life",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Abu Dhabi",
+        "o": "Gallery One - Manarat Al Saadiyat",
+        "d": [
+          "2011-11-07",
+          "2013-01-06"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "c": "NL",
+        "n": "Out of Storage: Provisoire & Définitif",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Maastricht",
+        "o": "Marres - Centre for Contemporary Culture",
+        "d": [
+          "2011-06-25",
+          "2012-03-25"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "Kadist: Pathways Into A Collection",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Shanghai",
+        "o": "Minsheng Art Museum",
+        "d": [
+          "2012-01-14",
+          "2012-03-04"
+        ]
+      },
+      {
+        "c": "CN",
+        "n": "Kadist: Pathways Into A Collection",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Shanghai",
+        "o": "Minsheng Art Museum",
+        "d": [
+          "2012-01-14",
+          "2012-03-04"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "I want to grasp things with the mind the way the penis is grasped by the vagina",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Cully",
+        "o": "davel 14",
+        "d": [
+          "2012-05-07",
+          "2012-06-13"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "I want to grasp things with the mind the way the penis is grasped by the vagina",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Cully",
+        "o": "davel 14",
+        "d": [
+          "2012-05-07",
+          "2012-06-13"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "Echigo-Tsumari Art Triennale 2012",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Niigata-ken",
+        "o": "Echigo-Tsumari Art Triennial",
+        "d": [
+          "2012-07-29",
+          "2012-09-17"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "Echigo-Tsumari Art Triennale 2012",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Niigata-ken",
+        "o": "Echigo-Tsumari Art Triennial",
+        "d": [
+          "2012-07-29",
+          "2012-09-17"
+        ]
+      },
+      {
+        "c": "RU",
+        "n": "Portrait/landscape: Genre Boundaries",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Moscow",
+        "o": "Moscow museum of modern art - MMOMA",
+        "d": [
+          "2012-08-24",
+          "2012-10-21"
+        ]
+      },
+      {
+        "c": "RU",
+        "n": "Portrait/landscape: Genre Boundaries",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Moscow",
+        "o": "Moscow museum of modern art - MMOMA",
+        "d": [
+          "2012-08-24",
+          "2012-10-21"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Lost (in La)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Los Angeles, CA",
+        "o": "Los Angeles Municipal Art Gallery (LAMAG)",
+        "d": [
+          "2012-12-01",
+          "2013-01-27"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "c": "AE",
+        "n": "Art Talks & Sensations. The Island / a Game of Life",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Abu Dhabi",
+        "o": "Gallery One - Manarat Al Saadiyat",
+        "d": [
+          "2011-11-07",
+          "2013-01-06"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "Lost (in La)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Los Angeles, CA",
+        "o": "Los Angeles Municipal Art Gallery (LAMAG)",
+        "d": [
+          "2012-12-01",
+          "2013-01-27"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Via the Virtual",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Grimbergen",
+        "o": "Cultuurcentrum Strombeek",
+        "d": [
+          "2013-04-05",
+          "2013-05-07"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Via the Virtual",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Grimbergen",
+        "o": "Cultuurcentrum Strombeek",
+        "d": [
+          "2013-04-05",
+          "2013-05-07"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Fabrice Hyber",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Gateshead (England)",
+        "o": "BALTIC Centre for Contemporary Art",
+        "d": [
+          "2013-03-22",
+          "2013-06-30"
+        ]
+      },
+      {
+        "c": "GB",
+        "n": "Fabrice Hyber",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Gateshead (England)",
+        "o": "BALTIC Centre for Contemporary Art",
+        "d": [
+          "2013-03-22",
+          "2013-06-30"
+        ]
+      }
+    ]
+  }
 }

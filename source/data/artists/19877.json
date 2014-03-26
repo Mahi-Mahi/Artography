@@ -40,5 +40,34 @@
   "last_name": "Weisbuch",
   "genre": "m",
   "birthDate": "1927-01-01",
-  "age": "46-55"
+  "age": 87,
+  "age_range": "46-55",
+  "expos": {
+    "2012": [
+      {
+        "c": "JP",
+        "n": "Permanent collection",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Osaka",
+        "o": "Galerie Tamenaga - Osaka",
+        "d": [
+          "2012-07-01",
+          "2012-07-31"
+        ]
+      },
+      {
+        "c": "JP",
+        "n": "Permanent collection",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Osaka",
+        "o": "Galerie Tamenaga - Osaka",
+        "d": [
+          "2012-07-01",
+          "2012-07-31"
+        ]
+      }
+    ]
+  }
 }

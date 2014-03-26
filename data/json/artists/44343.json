@@ -40,5 +40,60 @@
   "last_name": "Urbain",
   "genre": "c",
   "birthDate": "1999-01-01",
-  "age": "0-25"
+  "age": 15,
+  "age_range": "0-25",
+  "expos": {
+    "2006": [
+      {
+        "c": "RO",
+        "n": "NowHere Europe - Trans:it. Moving Culture Through Europe",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2006-03-10",
+          "2006-05-01"
+        ]
+      },
+      {
+        "c": "RO",
+        "n": "NowHere Europe - Trans:it. Moving Culture Through Europe",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2006-03-10",
+          "2006-05-01"
+        ]
+      },
+      {
+        "c": "DE",
+        "n": "BLACK PARIS. Kunst und Geschichte einer schwarzen Diaspora",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bayreuth",
+        "o": "Iwalewa-Haus",
+        "d": [
+          "2006-10-26",
+          "2007-02-11"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "c": "DE",
+        "n": "BLACK PARIS. Kunst und Geschichte einer schwarzen Diaspora",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bayreuth",
+        "o": "Iwalewa-Haus",
+        "d": [
+          "2006-10-26",
+          "2007-02-11"
+        ]
+      }
+    ]
+  }
 }

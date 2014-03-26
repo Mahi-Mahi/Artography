@@ -40,5 +40,86 @@
   "last_name": "Lugosi",
   "genre": "c",
   "birthDate": "1958-01-01",
-  "age": "46-55"
+  "age": 56,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "c": "US",
+        "n": "The Perfect Man Show",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "White Columns",
+        "d": [
+          "2007-01-09",
+          "2007-02-10"
+        ]
+      },
+      {
+        "c": "US",
+        "n": "The Perfect Man Show",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "White Columns",
+        "d": [
+          "2007-01-09",
+          "2007-02-10"
+        ]
+      },
+      {
+        "c": "MC",
+        "n": "Air de Paris",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Art & Rapy - Contemporary Art Gallery",
+        "d": [
+          "2007-12-19",
+          "2008-03-01"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "c": "MC",
+        "n": "Air de Paris",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Art & Rapy - Contemporary Art Gallery",
+        "d": [
+          "2007-12-19",
+          "2008-03-01"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "c": "PT",
+        "n": "Sofia Leitão / Mïrka Lugosi - Dear Time´s Waste",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lisbon",
+        "o": "Caroline Pagès Gallery",
+        "d": [
+          "2009-05-21",
+          "2009-07-31"
+        ]
+      },
+      {
+        "c": "PT",
+        "n": "Sofia Leitão / Mïrka Lugosi - Dear Time´s Waste",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lisbon",
+        "o": "Caroline Pagès Gallery",
+        "d": [
+          "2009-05-21",
+          "2009-07-31"
+        ]
+      }
+    ]
+  }
 }

@@ -38,5 +38,59 @@
   "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France)",
   "first_name": "Delphine",
   "last_name": "Gigoux-Martin",
-  "genre": "f"
+  "genre": "f",
+  "expos": {
+    "2013": [
+      {
+        "c": "BE",
+        "n": "The Brewers - XX Years",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Liège",
+        "o": "Les Brasseurs Art Contemporain",
+        "d": [
+          "2013-11-09",
+          "2013-12-07"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "The Brewers - XX Years",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Liège",
+        "o": "Les Brasseurs Art Contemporain",
+        "d": [
+          "2013-11-09",
+          "2013-12-07"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "c": "BE",
+        "n": "De telles choses sont-elles possibles ?",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Liège",
+        "o": "Les Brasseurs Art Contemporain",
+        "d": [
+          "2010-10-06",
+          "2010-11-20"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "De telles choses sont-elles possibles ?",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Liège",
+        "o": "Les Brasseurs Art Contemporain",
+        "d": [
+          "2010-10-06",
+          "2010-11-20"
+        ]
+      }
+    ]
+  }
 }

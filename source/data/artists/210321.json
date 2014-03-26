@@ -40,5 +40,58 @@
   "last_name": "Gouju",
   "genre": "m",
   "birthDate": "1978-01-01",
-  "age": "36-45"
+  "age": 36,
+  "age_range": "36-45",
+  "expos": {
+    "2010": [
+      {
+        "c": "CH",
+        "n": "Kompetenzverschiebungen",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Liestal",
+        "o": "Kunsthalle Palazzo",
+        "d": [
+          "2010-05-06",
+          "2010-06-20"
+        ]
+      },
+      {
+        "c": "CH",
+        "n": "Kompetenzverschiebungen",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Liestal",
+        "o": "Kunsthalle Palazzo",
+        "d": [
+          "2010-05-06",
+          "2010-06-20"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Papillonnages",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Florenville",
+        "o": "Centre d´art Contemporain du Luxembourg Belge",
+        "d": [
+          "2010-08-07",
+          "2010-09-26"
+        ]
+      },
+      {
+        "c": "BE",
+        "n": "Papillonnages",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Florenville",
+        "o": "Centre d´art Contemporain du Luxembourg Belge",
+        "d": [
+          "2010-08-07",
+          "2010-09-26"
+        ]
+      }
+    ]
+  }
 }
