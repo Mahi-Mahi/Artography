@@ -1,0 +1,715 @@
+{
+  "id": "23152",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:12:51",
+  "name": "François Curlet",
+  "surname": "Curlet",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1967",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Objects, Assemblage",
+  "r00": "1189",
+  "r01": "1200",
+  "r02": "1111",
+  "r03": "1038",
+  "r04": "963",
+  "r05": "858",
+  "r06": "801",
+  "r07": "959",
+  "r08": "1066",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1996",
+  "all-shows-total": "99",
+  "2005-shows-biennials": "14",
+  "2005-shows-galleries": "14",
+  "2005-shows-museums": "25",
+  "2005-countries-total": "France (16), Belgium (13), Switzerland (3), United Kingdom (2), Germany (1), Italy (1), Japan (1), Monaco (1), Netherlands (1), USA (1)",
+  "2005-shows-with": "François Curlet (34), Michel François (8), Ann Veronica Janssens (6), Mathieu Mercier (6), Carsten Höller (5), Art & Language (4), Vaast Colson (4), Denicolai & Provoost (4), Pierre Huyghe (4), Bertrand Lavier (4), Christian Marclay (4), Allen Ruppersberg (4), Joe Scanlan (4), Bas Jan Ader (3), Saâdane Afif (3), John M Armleder (3), Robert Barry (3), Thomas Bayrle (3), Pierre Bismuth (3), Claude Closky (3), Jordi Colomer (3), Michael Dans (3), Koenraad Dedobbeleer (3), Jeremy Deller (3), Cerith Wyn Evans (3), Hans-Peter Feldmann (3), Robert Filliou (3), Fischli & Weiss (3), Claire Fontaine (3), Patrice Gaillard & Claude (3), Ryan Gander (3), Dan Graham (3), Jos de Gruyter & Harald Thys (3), Raymond Hains (3), Claude Lévêque (3), Emilio Lopez-Menchero (3), Véra Molnar (3), Olivier Mosset (3), Dennis Oppenheim (3), Bruno Peinado (3), Mick Peter (3), Julien Prévieux (3), Alain Séchas (3), Christophe Terlinden (3), Franz West (3), Adel Abdessemed (2), Michael van den Abeele (2), Wilfrid Almendra (2), Ric",
+  "representing-galleries": "Galerie Micheline Szwajcer (Verlatstraat 14, 2000 Antwerp, Belgium); Air de Paris (32, rue Louise Weiss, 75013 Paris, France)",
+  "collecting-museums": "MuHKA Museum voor Hedendaagse Kunst Antwerpen (Leuvenstraat 32, 2000 Antwerp, Belgium); MAC's Grand Hornu - Musée des Arts Contemporains (Rue Sainte-Louise 82, 7301 Hornu, Belgium); Centre d'Art le LAIT (41 rue porta, 81000 Albi, France); FRAC Aquitaine (Hangar G2, Bassin à flot n°1, Quai Armand Lalande, 33300 Bordeaux, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg); Museum of Contemporary Art - North Miami (MOCA) (770 NE 125 Street, 33161 Miami, FL, USA)",
+  "first_name": "François",
+  "last_name": "Curlet",
+  "genre": "m",
+  "birthDate": "1967-01-01",
+  "age": 47,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "23152-6190-2005-04-07",
+        "c": "IT",
+        "n": "multiplo_1 - daily endless multiple made recyclable",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "N.O.Gallery",
+        "d": [
+          "2005-04-07",
+          "2005-05-10"
+        ]
+      },
+      {
+        "i": "23152-3444-2005-04-23",
+        "c": "CH",
+        "n": "DOUBLE CONSCIOUSNESS",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Fribourg",
+        "o": "Fri Art - Centre d'Art Contemporain",
+        "d": [
+          "2005-04-23",
+          "2005-06-19"
+        ]
+      },
+      {
+        "i": "23152-362-2005-06-23",
+        "c": "ES",
+        "n": "Exposiciones Colectivas - Premio Altadis, Madrid",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Madrid",
+        "o": "Galeria Oliva Arauna",
+        "d": [
+          "2005-06-23",
+          "2005-07-22"
+        ]
+      },
+      {
+        "i": "23152-1594-2005-08-27",
+        "c": "BE",
+        "n": "The Collection XII",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
+        "d": [
+          "2005-08-27",
+          "2005-11-13"
+        ]
+      },
+      {
+        "i": "23152-2706-2005-08-28",
+        "c": "BE",
+        "n": "Le Tableau des Éléments",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hornu",
+        "o": "MAC's Grand Hornu - Musée des Arts Contemporains",
+        "d": [
+          "2005-08-28",
+          "2005-12-31"
+        ]
+      },
+      {
+        "i": "23152-3737-2005-10-01",
+        "c": "LU",
+        "n": "L'humanité mise à nu et l'art en frac, même",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2005-10-01",
+          "2005-12-04"
+        ]
+      },
+      {
+        "i": "23152-7071-2005-10-02",
+        "c": "CH",
+        "n": "Helden heute",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Biel/Bienne",
+        "o": "Kunsthaus CentrePasquArt - Centre d'Art",
+        "d": [
+          "2005-10-02",
+          "2005-11-27"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "23152-5631-2006-05-26",
+        "c": "CH",
+        "n": "The Missing Evidence",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "CECCH - Centre d'édition contemporaine - Genève",
+        "d": [
+          "2006-05-26",
+          "2006-09-17"
+        ]
+      },
+      {
+        "i": "23152-2331-2006-07-02",
+        "c": "LU",
+        "n": "Eldorado",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2006-07-02",
+          "2006-11-20"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "23152-2389-2007-02-17",
+        "c": "IS",
+        "n": "Presque Rien",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Reykjavik",
+        "o": "Nýlistasafnið - The Living Art Museum",
+        "d": [
+          "2007-02-17",
+          "2007-03-18"
+        ]
+      },
+      {
+        "i": "23152-1594-2007-06-29",
+        "c": "BE",
+        "n": "Who’s got the Big Picture?",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
+        "d": [
+          "2007-06-29",
+          "2007-11-18"
+        ]
+      },
+      {
+        "i": "23152-6152-2007-09-29",
+        "c": "BE",
+        "n": "Out of Place - Performing the Everyday",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "Argos",
+        "d": [
+          "2007-09-29",
+          "2007-11-10"
+        ]
+      },
+      {
+        "i": "23152-11485-2007-09-29",
+        "c": "GB",
+        "n": "No, future",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "London (England)",
+        "o": "Bloomberg Space",
+        "d": [
+          "2007-09-29",
+          "2007-11-10"
+        ]
+      },
+      {
+        "i": "23152-7809-2007-10-28",
+        "c": "BE",
+        "n": "La Ricarda",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Eupen",
+        "o": "IKOB – Museum für Zeitgenössische Kunst Eupen",
+        "d": [
+          "2007-10-28",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "23152-1594-2007-12-01",
+        "c": "BE",
+        "n": "Collectiepresentatie XXI",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
+        "d": [
+          "2007-12-01",
+          "2008-02-10"
+        ]
+      },
+      {
+        "i": "23152-20119-2007-12-19",
+        "c": "MC",
+        "n": "Air de Paris",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Art & Rapy - Contemporary Art Gallery",
+        "d": [
+          "2007-12-19",
+          "2008-03-01"
+        ]
+      },
+      {
+        "i": "23152-948-2007-05-31",
+        "c": "BE",
+        "n": "François Curlet",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Antwerp",
+        "o": "Galerie Micheline Szwajcer",
+        "d": [
+          "2007-05-31",
+          "2007-07-07"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "23152-7809-2007-10-28",
+        "c": "BE",
+        "n": "La Ricarda",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Eupen",
+        "o": "IKOB – Museum für Zeitgenössische Kunst Eupen",
+        "d": [
+          "2007-10-28",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "23152-1594-2007-12-01",
+        "c": "BE",
+        "n": "Collectiepresentatie XXI",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
+        "d": [
+          "2007-12-01",
+          "2008-02-10"
+        ]
+      },
+      {
+        "i": "23152-20119-2007-12-19",
+        "c": "MC",
+        "n": "Air de Paris",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Art & Rapy - Contemporary Art Gallery",
+        "d": [
+          "2007-12-19",
+          "2008-03-01"
+        ]
+      },
+      {
+        "i": "23152-5631-2008-01-08",
+        "c": "CH",
+        "n": "Editions récentes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "CECCH - Centre d'édition contemporaine - Genève",
+        "d": [
+          "2008-01-08",
+          "2008-03-15"
+        ]
+      },
+      {
+        "i": "23152-13055-2008-01-20",
+        "c": "NL",
+        "n": "the Collector: Sound of Music",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Maastricht",
+        "o": "Marres - Centre for Contemporary Culture",
+        "d": [
+          "2008-01-20",
+          "2008-03-30"
+        ]
+      },
+      {
+        "i": "23152-10965-2008-06-19",
+        "c": "IT",
+        "n": "Mondo e Terra, La collezione del FRAC Corsica",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuoro",
+        "o": "MAN - Museo d`Arte di Nuoro",
+        "d": [
+          "2008-06-19",
+          "2008-10-05"
+        ]
+      },
+      {
+        "i": "23152-3780-2008-07-26",
+        "c": "JP",
+        "n": "Hugues Reip - Parallel worlds",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Tokyo",
+        "o": "Museum of Contemporary Art Tokyo (MOT)",
+        "d": [
+          "2008-07-26",
+          "2008-09-28"
+        ]
+      },
+      {
+        "i": "23152-16342-2008-09-11",
+        "c": "BE",
+        "n": "Business is Business",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Liège",
+        "o": "Centre Culturel Les Chiroux",
+        "d": [
+          "2008-09-11",
+          "2008-10-11"
+        ]
+      },
+      {
+        "i": "23152-12727-2008-09-27",
+        "c": "BE",
+        "n": "Honorons Honore",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mechelen",
+        "o": "Cultuurcentrum Mechelen",
+        "d": [
+          "2008-09-27",
+          "2008-11-23"
+        ]
+      },
+      {
+        "i": "23152-11482-2008-11-29",
+        "c": "BE",
+        "n": "Un-Scene",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "WIELS - Centrum voor Hedendaagse kunst",
+        "d": [
+          "2008-11-29",
+          "2009-02-22"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "23152-11482-2008-11-29",
+        "c": "BE",
+        "n": "Un-Scene",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "WIELS - Centrum voor Hedendaagse kunst",
+        "d": [
+          "2008-11-29",
+          "2009-02-22"
+        ]
+      },
+      {
+        "i": "23152-15589-2009-03-07",
+        "c": "BE",
+        "n": "Isomopolis",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Etablissement d´en face projects",
+        "d": [
+          "2009-03-07",
+          "2009-04-04"
+        ]
+      },
+      {
+        "i": "23152-13850-2009-04-04",
+        "c": "GB",
+        "n": "Sound of Music",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Margate, Kent",
+        "o": "Turner Contemporary",
+        "d": [
+          "2009-04-04",
+          "2009-06-14"
+        ]
+      },
+      {
+        "i": "23152-5451-2009-05-02",
+        "c": "US",
+        "n": "Return to Function",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madison, WI",
+        "o": "MMoCA - The Madison Museum of Contemporary Art",
+        "d": [
+          "2009-05-02",
+          "2009-08-23"
+        ]
+      },
+      {
+        "i": "23152-18324-2009-07-02",
+        "c": "BE",
+        "n": "Let’s pick the cherries first",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Elisa Platteau Galerie & Cie",
+        "d": [
+          "2009-07-02",
+          "2009-09-19"
+        ]
+      },
+      {
+        "i": "23152-2706-2009-07-19",
+        "c": "BE",
+        "n": "Mise à l’échelle - Regard sur la collection du MAC’s",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hornu",
+        "o": "MAC's Grand Hornu - Musée des Arts Contemporains",
+        "d": [
+          "2009-07-19",
+          "2009-10-11"
+        ]
+      },
+      {
+        "i": "23152-5631-2009-11-03",
+        "c": "CH",
+        "n": "Editions vs objets",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "CECCH - Centre d'édition contemporaine - Genève",
+        "d": [
+          "2009-11-03",
+          "2010-01-22"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "23152-5631-2009-11-03",
+        "c": "CH",
+        "n": "Editions vs objets",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "CECCH - Centre d'édition contemporaine - Genève",
+        "d": [
+          "2009-11-03",
+          "2010-01-22"
+        ]
+      },
+      {
+        "i": "23152-948-2010-06-02",
+        "c": "BE",
+        "n": "Group Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Antwerp",
+        "o": "Galerie Micheline Szwajcer",
+        "d": [
+          "2010-06-02",
+          "2010-06-30"
+        ]
+      },
+      {
+        "i": "23152-10681-2010-11-03",
+        "c": "CH",
+        "n": "Covering the wall. Contemporary wallpapers",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lausanne",
+        "o": "MUDAC - Musée de design es d`arts appliques contemporains",
+        "d": [
+          "2010-11-03",
+          "2011-02-13"
+        ]
+      },
+      {
+        "i": "23152-15589-2010-01-20",
+        "c": "BE",
+        "n": "Chanter L\\'enfer",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Etablissement d´en face projects",
+        "d": [
+          "2010-01-20",
+          "2010-03-06"
+        ]
+      },
+      {
+        "i": "23152-948-2010-04-29",
+        "c": "BE",
+        "n": "Intuitive Gallery Legitime",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Antwerp",
+        "o": "Galerie Micheline Szwajcer",
+        "d": [
+          "2010-04-29",
+          "2010-05-29"
+        ]
+      },
+      {
+        "i": "23152-948-2010-12-09",
+        "c": "BE",
+        "n": "Project Room / François Curlet",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Antwerp",
+        "o": "Galerie Micheline Szwajcer",
+        "d": [
+          "2010-12-09",
+          "2011-01-18"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "23152-10681-2010-11-03",
+        "c": "CH",
+        "n": "Covering the wall. Contemporary wallpapers",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lausanne",
+        "o": "MUDAC - Musée de design es d`arts appliques contemporains",
+        "d": [
+          "2010-11-03",
+          "2011-02-13"
+        ]
+      },
+      {
+        "i": "23152-8566-2011-09-24",
+        "c": "GB",
+        "n": "Museum Show Part 1",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bristol (England)",
+        "o": "Arnolfini",
+        "d": [
+          "2011-09-24",
+          "2011-11-19"
+        ]
+      },
+      {
+        "i": "23152-948-2010-12-09",
+        "c": "BE",
+        "n": "Project Room / François Curlet",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Antwerp",
+        "o": "Galerie Micheline Szwajcer",
+        "d": [
+          "2010-12-09",
+          "2011-01-18"
+        ]
+      },
+      {
+        "i": "23152-27660-2011-12-09",
+        "c": "BE",
+        "n": "Morepublishers",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie van der Mieden",
+        "d": [
+          "2011-12-09",
+          "2012-03-10"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "23152-28575-2012-06-09",
+        "c": "DE",
+        "n": "#the Flesh",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Lage Berlin",
+        "d": [
+          "2012-06-09",
+          "2012-07-28"
+        ]
+      },
+      {
+        "i": "23152-20119-2012-07-13",
+        "c": "MC",
+        "n": "Paris Air Show Summer",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Art & Rapy - Contemporary Art Gallery",
+        "d": [
+          "2012-07-13",
+          "2012-09-30"
+        ]
+      },
+      {
+        "i": "23152-21901-2012-10-06",
+        "c": "BE",
+        "n": "Glissement de terrain",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "La Louvière",
+        "o": "Musée Ianchelevici",
+        "d": [
+          "2012-10-06",
+          "2012-12-23"
+        ]
+      },
+      {
+        "i": "23152-27660-2011-12-09",
+        "c": "BE",
+        "n": "Morepublishers",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie van der Mieden",
+        "d": [
+          "2011-12-09",
+          "2012-03-10"
+        ]
+      },
+      {
+        "i": "23152-948-2012-12-06",
+        "c": "BE",
+        "n": "FranÇois Curlet",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Antwerp",
+        "o": "Galerie Micheline Szwajcer",
+        "d": [
+          "2012-12-06",
+          "2013-01-26"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "23152-948-2012-12-06",
+        "c": "BE",
+        "n": "FranÇois Curlet",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Antwerp",
+        "o": "Galerie Micheline Szwajcer",
+        "d": [
+          "2012-12-06",
+          "2013-01-26"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "id": "2370",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:03:14",
+  "name": "Pierre et Gilles",
+  "surname": "Pierre et Gilles",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "(FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1976",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male, Artist couple",
+  "media": "Photography, Painting",
+  "r00": "1379",
+  "r01": "1299",
+  "r02": "1407",
+  "r03": "1369",
+  "r04": "1298",
+  "r05": "1303",
+  "r06": "1116",
+  "r07": "1068",
+  "r08": "1085",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1986",
+  "all-shows-total": "91",
+  "2005-shows-biennials": "9",
+  "2005-shows-galleries": "9",
+  "2005-shows-museums": "20",
+  "2005-countries-total": "France (17), USA (4), Austria (2), Germany (2), Spain (2), Bulgaria (1), Canada (1), Czech Republic (1), Denmark (1), Hungary (1), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Pierre et Gilles (31), Andy Warhol (9), McDermott & McGough (8), Felix Gonzalez-Torres (7), Nan Goldin (6), Robert Mapplethorpe (6), Shirin Neshat (5), Cindy Sherman (5), Dieter Appelt (4), Louise Bourgeois (4), Sophie Calle (4), Jake & Dinos Chapman (4), Marlene Dumas (4), Gilbert & George (4), Douglas Gordon (4), Mona Hatoum (4), Damien Hirst (4), David Hockney (4), Jürgen Klauke (4), Jeff Koons (4), David LaChapelle (4), Marina Abramovic (3), Richard Avedon (3), Matthew Barney (3), Georg Baselitz (3), Valérie Belin (3), Maurizio Cattelan (3), Francesco Clemente (3), Jean Cocteau (3), George Condo (3), Tracey Emin (3), Wilhelm von Gloeden (3), Anthony Goicolea (3), Ion Grigorescu (3), Keith Haring (3), Anna Jermolaewa (3), Isaac Julien (3), Jesper Just (3), Anselm Kiefer (3), Katarzyna Kozyra (3), Elke Krystufek (3), Urs Lüthi (3), Yasumasa Morimura (3), Vik Muniz (3), Bruce Nauman (3), Catherine Opie (3), Pablo Picasso (3), Arnulf Rainer (3), Egon Schiele (3), Andrés Serrano (3), Sam Taylor-Wood (3), S",
+  "representing-galleries": "Galerie Jérôme de Noirmont (38, avenue Matignon, 75008 Paris, France); Galeri Artist - Berlin (Fasanenstr. 68, 10719 Berlin, Germany); Weisspollack Galleries (521-531 West 25th Street Ground Floor #9, 10011 New York City, NY, USA)",
+  "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); Musée du sourire (34, rue des Dames, 75017 Paris, France)",
+  "first_name": "Pierre",
+  "last_name": "et",
+  "genre": "c",
+  "birthDate": "1976-01-01",
+  "age": 38,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "2370-13764-2005-04-23",
+        "c": "DE",
+        "n": "COOLHUNTERS - Jugendkulturen zwischen Medien und Markt",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Karlsruhe",
+        "o": "Städtische Galerie Karlsruhe",
+        "d": [
+          "2005-04-23",
+          "2005-11-13"
+        ]
+      },
+      {
+        "i": "2370-6417-2005-05-07",
+        "c": "DE",
+        "n": "(my private) Heroes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Herford",
+        "o": "MARTa Herford",
+        "d": [
+          "2005-05-07",
+          "2005-08-21"
+        ]
+      },
+      {
+        "i": "2370-7852-2005-12-03",
+        "c": "DE",
+        "n": "Gott sehen",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Wilhelmshaven",
+        "o": "Kunsthalle Wilhelmshaven",
+        "d": [
+          "2005-12-03",
+          "2006-02-12"
+        ]
+      },
+      {
+        "i": "2370-1515-2005-12-13",
+        "c": "DE",
+        "n": "Schöner Leben",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Darmstadt",
+        "o": "Kunsthalle Darmstadt",
+        "d": [
+          "2005-12-13",
+          "2006-03-12"
+        ]
+      },
+      {
+        "i": "2370-5726-2005-09-25",
+        "c": "CN",
+        "n": "Pierre et Gilles",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Shanghai",
+        "o": "MOCA Shanghai",
+        "d": [
+          "2005-09-25",
+          "2005-11-15"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "2370-7852-2005-12-03",
+        "c": "DE",
+        "n": "Gott sehen",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Wilhelmshaven",
+        "o": "Kunsthalle Wilhelmshaven",
+        "d": [
+          "2005-12-03",
+          "2006-02-12"
+        ]
+      },
+      {
+        "i": "2370-1515-2005-12-13",
+        "c": "DE",
+        "n": "Schöner Leben",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Darmstadt",
+        "o": "Kunsthalle Darmstadt",
+        "d": [
+          "2005-12-13",
+          "2006-03-12"
+        ]
+      },
+      {
+        "i": "2370-4976-2006-05-26",
+        "c": "IT",
+        "n": "Good Vibrations - Le arti visive e il Rock",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Siena",
+        "o": "SMS Contemporanea, ex Palazzo Delle Papesse",
+        "d": [
+          "2006-05-26",
+          "2006-09-24"
+        ]
+      },
+      {
+        "i": "2370-7427-2006-06-29",
+        "c": "AT",
+        "n": "Corpus Christi. Christusdarstellungen in der Fotografie",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Krems",
+        "o": "Kunsthalle Krems",
+        "d": [
+          "2006-06-29",
+          "2006-09-24"
+        ]
+      },
+      {
+        "i": "2370-8530-2006-10-08",
+        "c": "SE",
+        "n": "Revelation (Uppenbar(a)t)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Stockholm",
+        "o": "Kulturhuset Stockholm",
+        "d": [
+          "2006-10-08",
+          "2007-01-07"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "2370-8530-2006-10-08",
+        "c": "SE",
+        "n": "Revelation (Uppenbar(a)t)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Stockholm",
+        "o": "Kulturhuset Stockholm",
+        "d": [
+          "2006-10-08",
+          "2007-01-07"
+        ]
+      },
+      {
+        "i": "2370-23034-2007-01-09",
+        "c": "US",
+        "n": "Expressive Bodies: Contemporary Art Photography from The Kinsey Institute",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bloomington, IN",
+        "o": "The Kinsey Institute Gallery",
+        "d": [
+          "2007-01-09",
+          "2007-01-27"
+        ]
+      },
+      {
+        "i": "2370-6327-2007-05-30",
+        "c": "ES",
+        "n": "PHotoEspaña 07",
+        "st": "Group",
+        "t": "Festival",
+        "ct": "Madrid",
+        "o": "PHotoEspaña",
+        "d": [
+          "2007-05-30",
+          "2007-07-22"
+        ]
+      },
+      {
+        "i": "2370-8888-2007-01-19",
+        "c": "CH",
+        "n": "Pierre et Gilles",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie Andrea Caratsch",
+        "d": [
+          "2007-01-19",
+          "2007-03-30"
+        ]
+      },
+      {
+        "i": "2370-2606-2007-02-22",
+        "c": "RU",
+        "n": "Pierre and Gilles",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Moscow",
+        "o": "Moscow House of Photography",
+        "d": [
+          "2007-02-22",
+          "2007-04-06"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "2370-16680-2008-11-01",
+        "c": "US",
+        "n": "Prospect.1 New Orleans",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "New Orleans, LA",
+        "o": "Prospect New Orleans",
+        "d": [
+          "2008-11-01",
+          "2009-01-18"
+        ]
+      },
+      {
+        "i": "2370-2633-2008-05-09",
+        "c": "BG",
+        "n": "Pierre et Gilles",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Sofia",
+        "o": "Sofia Art Gallery",
+        "d": [
+          "2008-05-09",
+          "2008-06-06"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "2370-16680-2008-11-01",
+        "c": "US",
+        "n": "Prospect.1 New Orleans",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "New Orleans, LA",
+        "o": "Prospect New Orleans",
+        "d": [
+          "2008-11-01",
+          "2009-01-18"
+        ]
+      },
+      {
+        "i": "2370-2721-2009-04-09",
+        "c": "GB",
+        "n": "sh[OUT]: Contemporary art and human rights",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Glasgow (Scotland)",
+        "o": "GoMA - Gallery of Modern Art",
+        "d": [
+          "2009-04-09",
+          "2009-11-01"
+        ]
+      },
+      {
+        "i": "2370-1586-2009-05-14",
+        "c": "ES",
+        "n": "en todas as partes. políticas da diversidade sexual na arte",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Santiago de Compostela",
+        "o": "CGAC - Centro Galego de Arte Contemporánea",
+        "d": [
+          "2009-05-14",
+          "2009-09-20"
+        ]
+      },
+      {
+        "i": "2370-20263-2009-05-25",
+        "c": "CH",
+        "n": "portraits faces and people",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Katz Contemporary",
+        "d": [
+          "2009-05-25",
+          "2009-07-25"
+        ]
+      },
+      {
+        "i": "2370-8097-2009-09-24",
+        "c": "CA",
+        "n": "Emporte-moi/Sweep me off my feet",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Quebec City",
+        "o": "Musée national des beaux-arts du Québec",
+        "d": [
+          "2009-09-24",
+          "2010-01-11"
+        ]
+      },
+      {
+        "i": "2370-2552-2009-07-25",
+        "c": "DE",
+        "n": "Pierre et Gilles . Retrospektive",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "C/O Berlin",
+        "d": [
+          "2009-07-25",
+          "2009-10-04"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "2370-8097-2009-09-24",
+        "c": "CA",
+        "n": "Emporte-moi/Sweep me off my feet",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Quebec City",
+        "o": "Musée national des beaux-arts du Québec",
+        "d": [
+          "2009-09-24",
+          "2010-01-11"
+        ]
+      },
+      {
+        "i": "2370-1599-2010-03-27",
+        "c": "DK",
+        "n": "I love you",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Aarhus",
+        "o": "ARoS Aarhus Kunstmuseum",
+        "d": [
+          "2010-03-27",
+          "2010-09-12"
+        ]
+      },
+      {
+        "i": "2370-22253-2010-05-01",
+        "c": "DE",
+        "n": "Passion fruits picked from the Olbricht Collection",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "me Collectors Room Berlin",
+        "d": [
+          "2010-05-01",
+          "2010-09-12"
+        ]
+      },
+      {
+        "i": "2370-2578-2010-09-30",
+        "c": "CZ",
+        "n": "Decadence Now! Visions of Excess",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Prague",
+        "o": "Galerie Rudolfinum",
+        "d": [
+          "2010-09-30",
+          "2011-01-02"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "2370-2578-2010-09-30",
+        "c": "CZ",
+        "n": "Decadence Now! Visions of Excess",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Prague",
+        "o": "Galerie Rudolfinum",
+        "d": [
+          "2010-09-30",
+          "2011-01-02"
+        ]
+      },
+      {
+        "i": "2370-29635-2011-01-19",
+        "c": "ES",
+        "n": "De lo sagrado y lo profano.Un imaginario contemporáneo.",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "San Sebastián",
+        "o": "Sala kubo-kutxa",
+        "d": [
+          "2011-01-19",
+          "2011-03-27"
+        ]
+      },
+      {
+        "i": "2370-14528-2011-12-15",
+        "c": "US",
+        "n": "Captured (A Portrait Show)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Heskin Contemporary",
+        "d": [
+          "2011-12-15",
+          "2012-01-21"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "2370-14528-2011-12-15",
+        "c": "US",
+        "n": "Captured (A Portrait Show)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Heskin Contemporary",
+        "d": [
+          "2011-12-15",
+          "2012-01-21"
+        ]
+      },
+      {
+        "i": "2370-3101-2012-02-04",
+        "c": "US",
+        "n": "Performing for the Camera",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Tempe, AZ",
+        "o": "ASU Art Museum - Arizona State University Art Museum",
+        "d": [
+          "2012-02-04",
+          "2012-05-19"
+        ]
+      },
+      {
+        "i": "2370-2495-2012-10-07",
+        "c": "US",
+        "n": "OC Collects",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Newport Beach",
+        "o": "Orange County Museum of Art",
+        "d": [
+          "2012-10-07",
+          "2012-12-30"
+        ]
+      },
+      {
+        "i": "2370-5847-2012-10-19",
+        "c": "AT",
+        "n": "nackte männer von 1800 bis heute",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Leopold Museum",
+        "d": [
+          "2012-10-19",
+          "2013-01-28"
+        ]
+      },
+      {
+        "i": "2370-979-2012-10-26",
+        "c": "AT",
+        "n": "Der Nackte Mann",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Linz",
+        "o": "Lentos Kunstmuseum Linz",
+        "d": [
+          "2012-10-26",
+          "2013-02-17"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "2370-5847-2012-10-19",
+        "c": "AT",
+        "n": "nackte männer von 1800 bis heute",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Leopold Museum",
+        "d": [
+          "2012-10-19",
+          "2013-01-28"
+        ]
+      },
+      {
+        "i": "2370-979-2012-10-26",
+        "c": "AT",
+        "n": "Der Nackte Mann",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Linz",
+        "o": "Lentos Kunstmuseum Linz",
+        "d": [
+          "2012-10-26",
+          "2013-02-17"
+        ]
+      },
+      {
+        "i": "2370-2625-2013-03-23",
+        "c": "HU",
+        "n": "The Naked Man",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Budapest",
+        "o": "Ludwig Museum - Museum of Contemporary Art - Budapest",
+        "d": [
+          "2013-03-23",
+          "2013-06-30"
+        ]
+      }
+    ]
+  }
+}

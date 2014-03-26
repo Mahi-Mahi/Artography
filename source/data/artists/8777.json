@@ -1,0 +1,105 @@
+{
+  "id": "8777",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:06:26",
+  "name": "Sylvain Rousseau",
+  "surname": "Rousseau",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting, Sculpture, Mixed Media",
+  "r00": "8823",
+  "r01": "8064",
+  "r02": "8923",
+  "r03": "8311",
+  "r04": "10605",
+  "r05": "13418",
+  "r06": "13608",
+  "r07": "27761",
+  "r08": "36884",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "35",
+  "2005-shows-biennials": "10",
+  "2005-shows-galleries": "10",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (18), Belgium (1), Germany (1), Portugal (1), Switzerland (1)",
+  "2005-shows-with": "Sylvain Rousseau (15), Mathieu Mercier (4), Bruno Peinado (3), Stephane Vigny (3), Saâdane Afif (2), Olivier Babin (2), Fayçal Baghriche (2), John Baldessari (2), Dora García (2), Emmanuelle Lainé (2), Bertrand Lavier (2), Tony Matelli (2), Paul McCarthy (2), Matthew McCaslin (2), Nicolas Milhé (2), Jonathan Monk (2), Nicolas Moulin (2), Mick Peter (2), Clément Rodzielski (2), Haim Steinbach (2), John Tremblay (2), Pierre Vadi (2)",
+  "representing-galleries": "Galerie LH (6, rue Saint-Claude, 75003 Paris, France); Galerie LHK (6 rue Saint Claude, 75003 Paris, France); Triple V (24 & 34 rue Louise Weiss, 75013 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Sylvain",
+  "last_name": "Rousseau",
+  "genre": "m",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-35",
+  "expos": {
+    "2010": [
+      {
+        "i": "8777-22137-2010-03-04",
+        "c": "DE",
+        "n": "Ins Blickfeld gerückt",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Institut Français de Berlin ",
+        "d": [
+          "2010-03-04",
+          "2010-05-25"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "8777-18685-2011-09-10",
+        "c": "BE",
+        "n": "La Vie Mode d’Emploi (Life A User’s Manual)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Meessen De Clercq",
+        "d": [
+          "2011-09-10",
+          "2011-10-15"
+        ]
+      },
+      {
+        "i": "8777-10739-2011-09-29",
+        "c": "PT",
+        "n": "Infiltration // Le Privilège Des Chemins",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Lisbon",
+        "o": "Plataforma Revólver",
+        "d": [
+          "2011-09-29",
+          "2011-11-11"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "8777-3730-2012-03-03",
+        "c": "CH",
+        "n": "The Bellevue Bridge - Collages and Works on Paper",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie Roemerapotheke",
+        "d": [
+          "2012-03-03",
+          "2012-03-31"
+        ]
+      }
+    ]
+  }
+}

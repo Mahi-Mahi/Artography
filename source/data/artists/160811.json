@@ -1,0 +1,77 @@
+{
+  "id": "160811",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:08:57",
+  "name": "Choi",
+  "surname": "Choi",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Hong Kong (HK)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1949",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "20113",
+  "r01": "18691",
+  "r02": "32327",
+  "r03": "29233",
+  "r04": "25744",
+  "r05": "27197",
+  "r06": "23208",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (3)",
+  "2005-shows-with": "Choi (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Choi",
+  "last_name": "",
+  "genre": "c",
+  "birthDate": "1949-01-01",
+  "age": 65,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "160811-16345-2007-12-14",
+        "c": "KR",
+        "n": "Three Boxes",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Seoul",
+        "o": "Unc Gallery",
+        "d": [
+          "2007-12-14",
+          "2008-01-15"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "160811-16345-2007-12-14",
+        "c": "KR",
+        "n": "Three Boxes",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Seoul",
+        "o": "Unc Gallery",
+        "d": [
+          "2007-12-14",
+          "2008-01-15"
+        ]
+      }
+    ]
+  }
+}

@@ -45,6 +45,7 @@
   "expos": {
     "2007": [
       {
+        "i": "192518-14480-2007-03-09",
         "c": "US",
         "n": "Grizzly Proof",
         "st": "Group",
@@ -57,18 +58,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Grizzly Proof",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "New York City, NY",
-        "o": "Flux Factory",
-        "d": [
-          "2007-03-09",
-          "2007-04-12"
-        ]
-      },
-      {
+        "i": "192518-14480-2007-12-13",
         "c": "US",
         "n": "NY NY NY",
         "st": "Group",
@@ -83,6 +73,7 @@
     ],
     "2008": [
       {
+        "i": "192518-14480-2007-12-13",
         "c": "US",
         "n": "NY NY NY",
         "st": "Group",
@@ -95,18 +86,7 @@
         ]
       },
       {
-        "c": "CA",
-        "n": "Transposition (Variations)",
-        "st": "Solo",
-        "t": "Public Institution",
-        "ct": "Montreal, QC",
-        "o": "Darling Foundry",
-        "d": [
-          "2008-10-16",
-          "2008-12-07"
-        ]
-      },
-      {
+        "i": "192518-12811-2008-10-16",
         "c": "CA",
         "n": "Transposition (Variations)",
         "st": "Solo",
@@ -121,18 +101,7 @@
     ],
     "2009": [
       {
-        "c": "PL",
-        "n": "Invasion of Sound. Music and the Visual Arts",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Warsaw",
-        "o": "Zacheta - National Gallery of Art",
-        "d": [
-          "2009-04-06",
-          "2009-08-02"
-        ]
-      },
-      {
+        "i": "192518-2419-2009-04-06",
         "c": "PL",
         "n": "Invasion of Sound. Music and the Visual Arts",
         "st": "Group",
@@ -147,6 +116,7 @@
     ],
     "2010": [
       {
+        "i": "192518-2328-2010-03-11",
         "c": "BE",
         "n": "Dominique Blais, Mira Sanders, Lisa Tan",
         "st": "Group",
@@ -159,30 +129,7 @@
         ]
       },
       {
-        "c": "BE",
-        "n": "Dominique Blais, Mira Sanders, Lisa Tan",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Brussels",
-        "o": "Galerie Les filles du calvaire - Bruxelles",
-        "d": [
-          "2010-03-11",
-          "2010-05-15"
-        ]
-      },
-      {
-        "c": "BE",
-        "n": "Radical Postures",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Brussels",
-        "o": "Galerie Les filles du calvaire - Bruxelles",
-        "d": [
-          "2010-05-20",
-          "2010-07-10"
-        ]
-      },
-      {
+        "i": "192518-2328-2010-05-20",
         "c": "BE",
         "n": "Radical Postures",
         "st": "Group",
@@ -197,18 +144,7 @@
     ],
     "2011": [
       {
-        "c": "BE",
-        "n": "Homework",
-        "st": "Group",
-        "t": null,
-        "ct": "Brussels",
-        "o": null,
-        "d": [
-          "2011-12-11",
-          "2011-12-18"
-        ]
-      },
-      {
+        "i": "192518--2011-12-11",
         "c": "BE",
         "n": "Homework",
         "st": "Group",

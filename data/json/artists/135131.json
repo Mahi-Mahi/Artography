@@ -1,0 +1,105 @@
+{
+  "id": "135131",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:58:33",
+  "name": "Bertrand Dezoteux",
+  "surname": "Dezoteux",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Bayonne (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1982",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "7072",
+  "r01": "7138",
+  "r02": "12831",
+  "r03": "11389",
+  "r04": "37291",
+  "r05": "35317",
+  "r06": "40226",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "14",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "10",
+  "2005-countries-total": "France (9), Chile (1), Spain (1), USA (1)",
+  "2005-shows-with": "Bertrand Dezoteux (9), Gabriel  Abrantes (3), Benjamin Crotty (3), Florian Pugnaire (3), Bertille Bak (2), Dewar & Gicquel (2), Clorinde Durand (2), Vincent Ganivet (2), Camille Henrot (2), Laurent Le Deunff (2), Jeanne Moynot (2), Enrique Ramírez (2), Jean-Xavier Renaud (2), Alexandre Singh (2), Oscar Tuazon (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Bertrand",
+  "last_name": "Dezoteux",
+  "genre": "m",
+  "birthDate": "1982-01-01",
+  "age": 32,
+  "age_range": "26-35",
+  "expos": {
+    "2009": [
+      {
+        "i": "135131-6147-2009-08-20",
+        "c": "CL",
+        "n": "9a Bienal de Video y Artes Mediales",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Santiago",
+        "o": "Bienal de Video y Artes Mediales",
+        "d": [
+          "2009-08-20",
+          "2009-09-13"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "135131-10777-2012-12-01",
+        "c": "US",
+        "n": "Lost (in La)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Los Angeles, CA",
+        "o": "Los Angeles Municipal Art Gallery (LAMAG)",
+        "d": [
+          "2012-12-01",
+          "2013-01-27"
+        ]
+      },
+      {
+        "i": "135131-6778-2012-08-28",
+        "c": "ES",
+        "n": "Bertrand Dezoteux - Txerri",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Bilbao",
+        "o": "Sala Rekalde",
+        "d": [
+          "2012-08-28",
+          "2012-09-30"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "135131-10777-2012-12-01",
+        "c": "US",
+        "n": "Lost (in La)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Los Angeles, CA",
+        "o": "Los Angeles Municipal Art Gallery (LAMAG)",
+        "d": [
+          "2012-12-01",
+          "2013-01-27"
+        ]
+      }
+    ]
+  }
+}

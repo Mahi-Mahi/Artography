@@ -1,0 +1,105 @@
+{
+  "id": "100983",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:44:51",
+  "name": "François Calvat",
+  "surname": "Calvat",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Nice (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1926",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "84988",
+  "r01": "82252",
+  "r02": "77217",
+  "r03": "92743",
+  "r04": "86097",
+  "r05": "79046",
+  "r06": "71116",
+  "r07": "69126",
+  "r08": "60119",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2004",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (2)",
+  "2005-shows-with": "François Calvat (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "François",
+  "last_name": "Calvat",
+  "genre": "m",
+  "birthDate": "1926-01-01",
+  "age": 88,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "100983-22700-2005-04-22",
+        "c": "BE",
+        "n": "Made in France",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Liège",
+        "o": "Monos Gallery",
+        "d": [
+          "2005-04-22",
+          "2005-05-29"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "100983-22700-2007-02-15",
+        "c": "BE",
+        "n": "François Calvat & Jan Martens",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Liège",
+        "o": "Monos Gallery",
+        "d": [
+          "2007-02-15",
+          "2007-04-08"
+        ]
+      },
+      {
+        "i": "100983-28587-2007-12-01",
+        "c": "CH",
+        "n": "Série Noire",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lancy",
+        "o": "Villa Bernasconi",
+        "d": [
+          "2007-12-01",
+          "2008-01-20"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "100983-28587-2007-12-01",
+        "c": "CH",
+        "n": "Série Noire",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lancy",
+        "o": "Villa Bernasconi",
+        "d": [
+          "2007-12-01",
+          "2008-01-20"
+        ]
+      }
+    ]
+  }
+}

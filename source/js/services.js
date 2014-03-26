@@ -33,11 +33,11 @@ define(['angular'], function(angular) {
                 localStorageService.add('version', dataService.version);
             }
 
-            return dataService.getYears().then(function() {
-                return dataService.getCountries().then(function() {
-                    return dataService.getArtist('names');
-                });
-            });
+            // return dataService.getYears().then(function() {
+            // return dataService.getCountries().then(function() {
+            return dataService.getArtist('names');
+            // });
+            // });
 
         };
 
@@ -111,7 +111,11 @@ define(['angular'], function(angular) {
 
         dataService.getArtist = function(id) {
             console.log("getArtist(" + id);
-            return dataService.get('artists', id);
+            return dataService.getYears().then(function() {
+                return dataService.getCountries().then(function() {
+                    return dataService.get('artists', id);
+                });
+            });
         };
 
         dataService.getCountries = function() {

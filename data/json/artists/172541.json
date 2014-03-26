@@ -1,0 +1,172 @@
+{
+  "id": "172541",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:13:30",
+  "name": "Renaud Jerez",
+  "surname": "Jerez",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Narbonne (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1982",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "48963",
+  "r01": "47616",
+  "r02": "53783",
+  "r03": "53027",
+  "r04": "62697",
+  "r05": "56424",
+  "r06": "65037",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "14",
+  "2005-shows-biennials": "10",
+  "2005-shows-galleries": "10",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (5), Germany (4), Belgium (2), United Kingdom (1)",
+  "2005-shows-with": "Renaud Jerez (11), Joachim Blank (2), Natalie Czech (2), David Douard (2), Wolfgang Ellenrieder (2), Arnd Kaestner (2), Clément Rodzielski (2), Thomas Steinert (2), Niels Trannois (2)",
+  "representing-galleries": "Galerie Crèvecoeur (4, rue Jouye-Rouve, 75020 Paris, France); Filipp Rosbach Galerie (Spinnereistraße 7, Halle 20. D, PF 508, 04179 Leipzig, Germany)",
+  "collecting-museums": null,
+  "first_name": "Renaud",
+  "last_name": "Jerez",
+  "genre": "m",
+  "birthDate": "1982-01-01",
+  "age": 32,
+  "age_range": "26-35",
+  "expos": {
+    "2008": [
+      {
+        "i": "172541-13061-2008-06-21",
+        "c": "DE",
+        "n": "Seaside",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Leipzig",
+        "o": "Filipp Rosbach Galerie",
+        "d": [
+          "2008-06-21",
+          "2008-07-26"
+        ]
+      },
+      {
+        "i": "172541-13061-2008-08-02",
+        "c": "DE",
+        "n": "Rock´n Roll Hoover /Dust Exterminator",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Leipzig",
+        "o": "Filipp Rosbach Galerie",
+        "d": [
+          "2008-08-02",
+          "2008-08-30"
+        ]
+      },
+      {
+        "i": "172541-13061-2007-11-30",
+        "c": "DE",
+        "n": "Renaud Jerez",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Leipzig",
+        "o": "Filipp Rosbach Galerie",
+        "d": [
+          "2007-11-30",
+          "2008-01-12"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "172541-22137-2010-03-04",
+        "c": "DE",
+        "n": "Ins Blickfeld gerückt",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Institut Français de Berlin ",
+        "d": [
+          "2010-03-04",
+          "2010-05-25"
+        ]
+      },
+      {
+        "i": "172541-13061-2010-04-15",
+        "c": "DE",
+        "n": "French Wall 2010",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Leipzig",
+        "o": "Filipp Rosbach Galerie",
+        "d": [
+          "2010-04-15",
+          "2010-04-25"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "172541-10625-2012-06-08",
+        "c": "GB",
+        "n": "The Weight Of Living",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "MOT International",
+        "d": [
+          "2012-06-08",
+          "2012-07-07"
+        ]
+      },
+      {
+        "i": "172541-3487-2012-09-07",
+        "c": "BE",
+        "n": "Domino Effect",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Catherine Bastide",
+        "d": [
+          "2012-09-07",
+          "2012-10-27"
+        ]
+      },
+      {
+        "i": "172541-24388-2012-01-28",
+        "c": "BE",
+        "n": "A Hand On Your Heart",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie VidalCuglietta",
+        "d": [
+          "2012-01-28",
+          "2012-03-17"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "172541-13061-2007-11-30",
+        "c": "DE",
+        "n": "Renaud Jerez",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Leipzig",
+        "o": "Filipp Rosbach Galerie",
+        "d": [
+          "2007-11-30",
+          "2008-01-12"
+        ]
+      }
+    ]
+  }
+}

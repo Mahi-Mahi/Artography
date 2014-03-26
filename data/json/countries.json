@@ -1,9 +1,5 @@
 {
   "Africa": {
-    "AO": {
-      "fr": "Angola",
-      "en": "Angola"
-    },
     "BJ": {
       "fr": "Bénin",
       "en": "Benin"
@@ -12,17 +8,9 @@
       "fr": "Côte D'Ivoire",
       "en": "Côte D'Ivoire"
     },
-    "CM": {
-      "fr": "Cameroun",
-      "en": "Cameroon"
-    },
     "EG": {
       "fr": "Égypte",
       "en": "Egypt"
-    },
-    "GH": {
-      "fr": "Ghana",
-      "en": "Ghana"
     },
     "MA": {
       "fr": "Maroc",
@@ -50,6 +38,10 @@
       "fr": "Chine",
       "en": "China"
     },
+    "GE": {
+      "fr": "Géorgie",
+      "en": "Georgia"
+    },
     "ID": {
       "fr": "Indonésie",
       "en": "Indonesia"
@@ -66,17 +58,9 @@
       "fr": "Iran",
       "en": "Iran"
     },
-    "JO": {
-      "fr": "Jordanie",
-      "en": "Jordan"
-    },
     "JP": {
       "fr": "Japon",
       "en": "Japan"
-    },
-    "KH": {
-      "fr": "Cambodge",
-      "en": "Cambodia"
     },
     "KR": {
       "fr": "Corée du Sud",
@@ -85,10 +69,6 @@
     "LB": {
       "fr": "Liban",
       "en": "Lebanon"
-    },
-    "QA": {
-      "fr": "Qatar",
-      "en": "Qatar"
     },
     "SG": {
       "fr": "Singapour",
@@ -101,10 +81,6 @@
     "TW": {
       "fr": "Taïwan",
       "en": "Taiwan"
-    },
-    "VN": {
-      "fr": "Viêt Nam",
-      "en": "Vietnam"
     }
   },
   "Australia": {
@@ -214,13 +190,17 @@
       "fr": "Monaco",
       "en": "Monaco"
     },
-    "ME": {
-      "fr": "Monténégro",
-      "en": "Crna Gora"
+    "MD": {
+      "fr": "Moldavie",
+      "en": "Moldova"
     },
     "MK": {
       "fr": "Macédoine",
       "en": "Macedonia"
+    },
+    "MT": {
+      "fr": "Malte",
+      "en": "Malta"
     },
     "NL": {
       "fr": "Pays-Bas",
@@ -276,9 +256,21 @@
       "fr": "Canada",
       "en": "Canada"
     },
+    "GT": {
+      "fr": "Guatemala",
+      "en": "Guatemala"
+    },
     "MX": {
       "fr": "Mexique",
       "en": "Mexico"
+    },
+    "PA": {
+      "fr": "Panama",
+      "en": "Panama"
+    },
+    "PR": {
+      "fr": "Porto Rico",
+      "en": "Puerto Rico"
     },
     "US": {
       "fr": "États-Unis",
@@ -302,9 +294,9 @@
       "fr": "Colombie",
       "en": "Colombia"
     },
-    "PE": {
-      "fr": "Pérou",
-      "en": "Peru"
+    "EC": {
+      "fr": "Équateur",
+      "en": "Ecuador"
     },
     "UY": {
       "fr": "Uruguay",

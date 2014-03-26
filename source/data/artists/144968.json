@@ -1,0 +1,77 @@
+{
+  "id": "144968",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:02:23",
+  "name": "Andrea Crews",
+  "surname": "Crews",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "2001",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "51480",
+  "r01": "48693",
+  "r02": "44568",
+  "r03": "40628",
+  "r04": "36211",
+  "r05": "81220",
+  "r06": "78949",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "2",
+  "2005-countries-total": "Belgium (1), Spain (1)",
+  "2005-shows-with": "Andrea Crews (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Andrea",
+  "last_name": "Crews",
+  "genre": "m",
+  "birthDate": "2001-01-01",
+  "age": 13,
+  "age_range": "0-25",
+  "expos": {
+    "2008": [
+      {
+        "i": "144968-15972-2008-03-05",
+        "c": "BE",
+        "n": "The Game is Up: Art For Sale",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Ghent",
+        "o": "Vooruit Arts Centre",
+        "d": [
+          "2008-03-05",
+          "2008-03-15"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "144968-2392-2009-05-28",
+        "c": "ES",
+        "n": "Visiones de Confin",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Valencia",
+        "o": "IVAM - Institut Valencià d'Art Modern",
+        "d": [
+          "2009-05-28",
+          "2009-11-15"
+        ]
+      }
+    ]
+  }
+}

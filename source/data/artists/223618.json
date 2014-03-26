@@ -1,0 +1,90 @@
+{
+  "id": "223618",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:33:01",
+  "name": "Jean-Baptiste Decavèle",
+  "surname": "Decavèle",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Grenoble (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1961",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Video",
+  "r00": "49582",
+  "r01": "47406",
+  "r02": "74076",
+  "r03": "76938",
+  "r04": "70527",
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2009",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (3), Germany (1), Netherlands (1), USA (1)",
+  "2005-shows-with": "Jean-Baptiste Decavèle (6), Yona Friedman (6), Nico Dockx (2), Helena Sidiropoulos (2), Krist Torfs (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Jean-Baptiste",
+  "last_name": "Decavèle",
+  "genre": "m",
+  "birthDate": "1961-01-01",
+  "age": 53,
+  "age_range": "46-55",
+  "expos": {
+    "2012": [
+      {
+        "i": "223618-3123-2012-09-14",
+        "c": "NL",
+        "n": "Architecture without building",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Middelburg",
+        "o": "De Vleeshal",
+        "d": [
+          "2012-09-14",
+          "2012-10-28"
+        ]
+      },
+      {
+        "i": "223618-22236-2012-09-21",
+        "c": "US",
+        "n": "Let\\'s talk peace! A Dog Republic",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "Ludlow 38",
+        "d": [
+          "2012-09-21",
+          "2012-10-28"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "223618-28121-2013-01-19",
+        "c": "DE",
+        "n": "A Dog Republic",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Esther Donatz",
+        "d": [
+          "2013-01-19",
+          "2013-02-23"
+        ]
+      }
+    ]
+  }
+}

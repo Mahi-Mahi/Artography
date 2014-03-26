@@ -18,44 +18,43 @@ define([], function() {
 
 			console.log($scope.artist);
 
-			// default period
-			if ($route.current.params.period) {
-				$scope.period = $route.current.params.period;
-			} else {
-				$scope.period = 'today';
-			}
-			$scope.periods = [{
-				name: "aujourd'hui",
-				slug: 'today',
-				checked: 'CHECKED'
-			}];
-
-			angular.forEach($scope.artist.expos, function(expo) {
-				console.log(expo);
-				// $scope.periods.push({
-				// 	name: expo.year,
-				// 	slug: year,
-				// 	checked: null
-				// });
+			$scope.periods = [];
+			angular.forEach($scope.artist.expos, function(expo, year) {
+				$scope.periods.push({
+					name: parseInt(year, 10) ? year : "Aujourd'hui",
+					slug: year,
+					checked: null
+				});
 			});
+			$scope.periods.reverse();
 
-			$scope.$watch('period', function(value) {
-				$scope.period = value;
-				dataService.getExpos($scope.period).then(function() {
+			// default period
+			$scope.filters = {
+				period: $route.current.params.period ? $route.current.params.period : 'today'
+			};
+
+			$scope.$watch('filters.period', function(value) {
+				$scope.filters.period = value;
+				dataService.getExpos($scope.filters.period).then(function() {
 					update();
 				});
 			});
 
-			// Artists list
-			$scope.artists = [];
+			// expos list
+			$scope.expos = [];
 			// Countries list
 			$scope.countries = [];
+			$scope.organizers = {};
+			$scope.organizers_list = [{
+				name: 'TOTO',
+				counter: 123
+			}];
 
 			// incremented at each filters change
 			var iteration = 0;
 
 			var nb_countries = 0;
-			var max_artists = 0;
+			var max_expos = 0;
 
 			var canvasW = 700,
 				divW = 700,
@@ -134,81 +133,98 @@ define([], function() {
 					data.continents[continent_name].countries[country_id] = {
 						country: names,
 						slice: null,
-						artists: {},
+						expos: {},
 						set: chart.set()
 					};
 				});
 			});
 
-			$scope.$apply();
-
 			function update() {
 				parseData();
 				drawChart();
 			}
+			$scope.$apply();
 
 			function parseData() {
 
+				console.log("parseData");
+
 				iteration++;
 
-				if ($scope.artist.expos[$scope.period])
+				if (!$scope.artist.expos[$scope.filters.period])
 					return;
 
-				var expos = $scope.artist.expos[$scope.period];
-				console.log(dataService.data);
+				var expos = $scope.artist.expos[$scope.filters.period];
 				console.log("expos : " + expos.length);
 
 				$scope.countries = [];
-				max_artists = 0;
+				$scope.organizers = {};
+				max_expos = 0;
 
 				angular.forEach(data.continents, function(continent, continent_name) {
 					angular.forEach(continent.countries, function(country, country_code) {
-						data.continents[continent_name].countries[country_code].has_artists = 0;
-						data.continents[continent_name].countries[country_code].nb_artists = 0;
+						data.continents[continent_name].countries[country_code].has_expos = 0;
+						data.continents[continent_name].countries[country_code].nb_expos = 0;
 						// data.continents[continent_name].countries[country_code].rotation = 0;
 					});
 				});
 
 				angular.forEach(expos, function(expo) {
-					if (true /* TODO :  filter by age and sex */ ) {
+					console.log(expo.st);
+					if (data.cc[expo.c]) {
 						var country = data.continents[data.cc[expo.c]].countries[expo.c];
-						var artists = country.artists;
-						if (!artists[expo.i]) {
-							artists[expo.i] = {
+						var expos = country.expos;
+						if (!expos[expo.i]) {
+							expos[expo.i] = {
 								slice: null,
 								iteration: 0
 							};
 						}
-						if (artists[expo.i].iteration < iteration) {
-							if (!country.nb_artists) {
-								country.nb_artists = 1;
+						if (expos[expo.i].iteration < iteration) {
+							if (!country.nb_expos) {
+								country.nb_expos = 1;
 							} else {
-								country.nb_artists++;
+								country.nb_expos++;
 							}
-							max_artists = Math.max(max_artists, country.nb_artists);
+							max_expos = Math.max(max_expos, country.nb_expos);
 						}
-						artists[expo.i].iteration = iteration;
+						expos[expo.i].iteration = iteration;
 						if ($scope.countries.indexOf(expo.c) == -1) {
 							$scope.countries.push(expo.c);
 						}
-						if ($scope.artists.indexOf(expo.i) == -1) {
-							$scope.artists.push(expo.i);
+						if (!$scope.organizers[expo.o]) {
+							$scope.organizers[expo.o] = {
+								name: expo.o,
+								counter: 1
+							};
+						} else {
+							$scope.organizers[expo.o].counter++;
 						}
-						country.has_artists = true;
-						country.artists = artists;
+						if ($scope.expos.indexOf(expo.i) == -1) {
+							$scope.expos.push(expo.i);
+						}
+						country.has_expos = true;
+						country.expos = expos;
 						data.continents[data.cc[expo.c]].countries[expo.c] = country;
+					} else {
+						console.log("country continent not found : " + expo.c);
 					}
 				});
 
 				nb_countries = $scope.countries.length;
 
-				updateStatus($scope.artists.length, nb_countries);
+				// $scope.organizers_list = [];
+				// angular.forEach($scope.organizers, function(organizer) {
+				// 	$scope.organizers_list.push(organizer);
+				// });
+				// console.log($scope.organizers_list);
+				updateStatus($scope.expos.length, nb_countries);
 
 			}
 
-			function updateStatus(nb_artists, nb_countries, in_country) {
+			function updateStatus(nb_expos, nb_countries, in_country) {
 				in_country = null;
-				angular.element('.status').html("Actuellement " + nb_artists + " artistes<br /> exposent dans " + nb_countries + " pays");
+				jQuery('.status').html("Actuellement " + nb_expos + " artistes<br /> exposent dans " + nb_countries + " pays");
 			}
 
 			function drawChart() {
@@ -216,12 +232,14 @@ define([], function() {
 				console.log("drawChart");
 
 				console.log("nb_countries : " + nb_countries);
-				console.log("max_artists : " + max_artists);
+				console.log("max_expos : " + max_expos);
+
+				var layer_interval = Math.min(2, 10 / max_expos);
 
 				var a = (360 - (nb_countries * a_interval)) / nb_countries;
 				var rotation = 0;
 
-				var new_filledArc, previous_artist_filledArc;
+				var new_filledArc, previous_expo_filledArc;
 
 				angular.forEach(data.continents, function(continent, continent_name) {
 					// console.log("->" + continent_name);
@@ -230,47 +248,49 @@ define([], function() {
 						// console.log(country_code);
 
 						var radius = central_radius;
-						var previous_artist = null;
+						var previous_expo = null;
 
-						angular.forEach(country.artists, function(artist) {
+						angular.forEach(country.expos, function(expo, expo_id) {
 
-							var layerW = artist.iteration < iteration ? 0 : divW / 3 / max_artists;
+							// console.log(expo);
 
-							radius += layerW;
+							var layerW = expo.iteration < iteration ? 0 : divW / 3 / max_expos;
+
+							radius += layerW + layer_interval;
 
 							// filledArc : [ X Position, Y Position, Radius, Width, Angle, Rotation ]
-							var previous_filledArc = artist.filledArc;
-							artist.filledArc = [originX, originY, radius, layerW, a, rotation];
+							var previous_filledArc = expo.filledArc;
+							expo.filledArc = [originX, originY, radius, layerW, a, rotation];
 
-							if (artist.slice === null) {
-								if (previous_artist) {
-									new_filledArc = previous_artist_filledArc;
+							if (expo.slice === null) {
+								if (previous_expo) {
+									new_filledArc = previous_expo_filledArc;
 								} else {
 									new_filledArc = [originX, originY, central_radius, layerW, a, country.rotation === undefined ? rotation : country.rotation];
 								}
-								artist.slice = chart.path().attr({
+								expo.slice = chart.path().attr({
 									fill: '#FF0000',
 									// stroke: "#FF4444",
 									'stroke-width': 0,
 									filledArc: new_filledArc
 								}).animate({
-									filledArc: artist.filledArc
+									filledArc: expo.filledArc
 								}, animation_delay);
 
-								artist.slice.node.setAttribute('class', 'country-' + country_code + ' artist artist-' + artist.i);
+								expo.slice.node.setAttribute('class', 'country-' + country_code + ' expo expo-' + expo_id);
 							} else {
-								artist.slice.animate({
-									filledArc: artist.filledArc
+								expo.slice.animate({
+									filledArc: expo.filledArc
 								}, animation_delay, null, function() {
 									// console.log("animated");
 								});
 							}
 
-							previous_artist_filledArc = previous_filledArc;
+							previous_expo_filledArc = previous_filledArc;
 
 						});
 
-						rotation += country.has_artists ? (a + a_interval) : 0;
+						rotation += country.has_expos ? (a + a_interval) : 0;
 
 						data.continents[continent_name].countries[country_code].rotation = country.rotation = rotation;
 					});

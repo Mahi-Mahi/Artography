@@ -1,0 +1,122 @@
+{
+  "id": "85406",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:38:54",
+  "name": "David Dubois",
+  "surname": "Dubois",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Dinan (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1971",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "23077",
+  "r01": "21300",
+  "r02": "19413",
+  "r03": "19225",
+  "r04": "40585",
+  "r05": "35662",
+  "r06": "37766",
+  "r07": "35270",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (5), Belgium (1), Luxembourg (1), Taiwan (1)",
+  "2005-shows-with": "David Dubois (7), Ronan & Erwan Bouroullec (2), Franck Chauvet (2), Stéphane Couturier (2), Matali Crasset (2), Florence Doléac (2), Christelle Familiari (2), Joachim Jirou-Najou (2), Dominique Mathieu (2), Philippe Million (2), Karim Ould (2), Martin Szekely (2), Jean-Luc Vilmouth (2)",
+  "representing-galleries": null,
+  "collecting-museums": "MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg)",
+  "first_name": "David",
+  "last_name": "Dubois",
+  "genre": "m",
+  "birthDate": "1971-01-01",
+  "age": 43,
+  "age_range": "36-45",
+  "expos": {
+    "2006": [
+      {
+        "i": "85406-2331-2006-07-02",
+        "c": "LU",
+        "n": "Eldorado",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2006-07-02",
+          "2006-11-20"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "85406-3721-2008-04-26",
+        "c": "TW",
+        "n": "Exploring Christian Lacroix",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Taipei",
+        "o": "Museum of Contemporary Art Taipei (MOCA)",
+        "d": [
+          "2008-04-26",
+          "2008-06-16"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "85406-2331-2010-01-30",
+        "c": "LU",
+        "n": "Le Meilleur des Mondes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2010-01-30",
+          "2010-05-23"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "85406-7425-2011-12-15",
+        "c": "BE",
+        "n": "David Dubois",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Elaine Levy Project",
+        "d": [
+          "2011-12-15",
+          "2012-01-14"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "85406-7425-2011-12-15",
+        "c": "BE",
+        "n": "David Dubois",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Elaine Levy Project",
+        "d": [
+          "2011-12-15",
+          "2012-01-14"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "33947",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:17:43",
+  "name": "Anne Brégeaut",
+  "surname": "Brégeaut",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Clermont-Ferrand, Puy-de-Dôme (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1971",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "6312",
+  "r01": "6210",
+  "r02": "5607",
+  "r03": "5994",
+  "r04": "5451",
+  "r05": "5939",
+  "r06": "5122",
+  "r07": "4579",
+  "r08": "4890",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1995",
+  "all-shows-total": "40",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "France (18), Canada (1), Reunion (1), United Kingdom (1)",
+  "2005-shows-with": "Anne Brégeaut (14), Pierre Ardouvin (5), Sophie Calle (4), Rebecca Bournigault (3), Claude Closky (3), François-Xavier Courrèges (3), Christelle Familiari (3), Douglas Gordon (3), Claude Lévêque (3), Melanie Manchot (3), Christodoulos Panayiotou (3), Cécile Paris (3), Jana Sterbak (3), Marina Abramovic (2), Bas Jan Ader (2), David Altmejd (2), Fiona Banner (2), Gilles Barbier (2), Glen Baxter (2), Julien Berthier (2), Christian Boltanski (2), Diane Borsato (2), Etienne Bossut (2), Simon Boudvin (2), Michel de Broin (2), KR Buxey (2), Lygia Clark (2), Philippe Cognée (2), Tracey Emin (2), Erró (2), Cerith Wyn Evans (2), Hans-Peter Feldmann (2), Daniel Firman (2), Felix Gonzalez-Torres (2), Kevin Francis Gray (2), Thomas Grünfeld (2), Marie-Ange Guilleminot (2), Carsten Höller (2), Jesper Just (2), Janice Kerbel (2), Thierry Kuntzel (2), Ange Leccia (2), Natacha Lesueur (2), Isabelle Levenez (2), Ryan McGinley (2), Monique Moumblow (2), Hayley Newman (2), Laurent Pernot (2), Pierre et Gilles (2), Paul",
+  "representing-galleries": "Galerie Sémiose (3 rue de Montiboeufs, 75020 Paris, France)",
+  "collecting-museums": "FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France)",
+  "first_name": "Anne",
+  "last_name": "Brégeaut",
+  "genre": "f",
+  "birthDate": "1971-01-01",
+  "age": 43,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "33947-2318-2005-03-09",
+        "c": "AR",
+        "n": "Fondos Regionales de Arte Contemporáneo Île-de-France y Poitou-Charentes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Buenos Aires",
+        "o": "MAMBA - Museo de Arte Moderno de Buenos Aires",
+        "d": [
+          "2005-03-09",
+          "2005-04-30"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "33947-18022-2007-08-31",
+        "c": "RE",
+        "n": "le dessin d\\'esprit",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Saint Denis",
+        "o": "Galerie Beatrice Binoche",
+        "d": [
+          "2007-08-31",
+          "2007-10-01"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "33947-12818-2009-01-09",
+        "c": "GB",
+        "n": "Happy End ii",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Nettie Horn",
+        "d": [
+          "2009-01-09",
+          "2009-02-08"
+        ]
+      },
+      {
+        "i": "33947-8097-2009-09-24",
+        "c": "CA",
+        "n": "Emporte-moi/Sweep me off my feet",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Quebec City",
+        "o": "Musée national des beaux-arts du Québec",
+        "d": [
+          "2009-09-24",
+          "2010-01-11"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "33947-8097-2009-09-24",
+        "c": "CA",
+        "n": "Emporte-moi/Sweep me off my feet",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Quebec City",
+        "o": "Musée national des beaux-arts du Québec",
+        "d": [
+          "2009-09-24",
+          "2010-01-11"
+        ]
+      },
+      {
+        "i": "33947-18022-2010-09-10",
+        "c": "RE",
+        "n": "Snap Points In Incidence",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Saint Denis",
+        "o": "Galerie Beatrice Binoche",
+        "d": [
+          "2010-09-10",
+          "2010-09-18"
+        ]
+      }
+    ]
+  }
+}

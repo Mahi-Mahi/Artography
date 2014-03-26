@@ -1,0 +1,118 @@
+{
+  "id": "274014",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:52:25",
+  "name": "Sarah Garzoni",
+  "surname": "Garzoni",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Agen (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1981",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "49204",
+  "r01": "57182",
+  "r02": "56667",
+  "r03": "66701",
+  "r04": "81017",
+  "r05": "74079",
+  "r06": "66412",
+  "r07": "79848",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Canada (4), France (3), Belgium (1)",
+  "2005-shows-with": "Sarah Garzoni (5), Pedro Marzorati (2)",
+  "representing-galleries": "Galerie D.X (10, place des Quinconces, 33000 Bordeaux, France)",
+  "collecting-museums": null,
+  "first_name": "Sarah",
+  "last_name": "Garzoni",
+  "genre": "c",
+  "birthDate": "1981-01-01",
+  "age": 33,
+  "age_range": "26-35",
+  "expos": {
+    "2010": [
+      {
+        "i": "274014-14106-2010-08-07",
+        "c": "BE",
+        "n": "Papillonnages",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Florenville",
+        "o": "Centre d´art Contemporain du Luxembourg Belge",
+        "d": [
+          "2010-08-07",
+          "2010-09-26"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "274014-5581-2011-03-12",
+        "c": "CA",
+        "n": "Memento Mori / Bone Again",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Montreal, QC",
+        "o": "Art Mûr",
+        "d": [
+          "2011-03-12",
+          "2011-04-23"
+        ]
+      },
+      {
+        "i": "274014-5581-2011-01-08",
+        "c": "CA",
+        "n": "Corps étranger",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Montreal, QC",
+        "o": "Art Mûr",
+        "d": [
+          "2011-01-08",
+          "2011-02-26"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "274014-5581-2013-11-02",
+        "c": "CA",
+        "n": "De la porcelaine à l&#8217;oeuvre",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Montreal, QC",
+        "o": "Art Mûr",
+        "d": [
+          "2013-11-02",
+          "2013-12-21"
+        ]
+      },
+      {
+        "i": "274014-5581-2013-05-04",
+        "c": "CA",
+        "n": "Sarah Garzoni",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Montreal, QC",
+        "o": "Art Mûr",
+        "d": [
+          "2013-05-04",
+          "2013-06-22"
+        ]
+      }
+    ]
+  }
+}

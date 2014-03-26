@@ -45,6 +45,7 @@
   "expos": {
     "2012": [
       {
+        "i": "110442-7176-2012-01-12",
         "c": "US",
         "n": "Voices of Home",
         "st": "Group",
@@ -57,18 +58,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Voices of Home",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "Jenkins Johnson Gallery - New York",
-        "d": [
-          "2012-01-12",
-          "2012-02-28"
-        ]
-      },
-      {
+        "i": "110442-13927-2012-02-09",
         "c": "US",
         "n": "Winter Salon",
         "st": "Group",
@@ -81,30 +71,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Winter Salon",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "San Francisco, CA",
-        "o": "Jenkins Johnson Gallery - San Francisco",
-        "d": [
-          "2012-02-09",
-          "2012-03-31"
-        ]
-      },
-      {
-        "c": "US",
-        "n": "Voices Of Home",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "San Francisco, CA",
-        "o": "Jenkins Johnson Gallery - San Francisco",
-        "d": [
-          "2012-03-23",
-          "2012-04-05"
-        ]
-      },
-      {
+        "i": "110442-13927-2012-03-23",
         "c": "US",
         "n": "Voices Of Home",
         "st": "Group",
@@ -119,18 +86,7 @@
     ],
     "2006": [
       {
-        "c": "US",
-        "n": "Elizabeth Colomba",
-        "st": "Solo",
-        "t": "Private Gallery",
-        "ct": "Santa Monica, CA",
-        "o": "See Line Gallery",
-        "d": [
-          "2006-04-29",
-          "2006-06-10"
-        ]
-      },
-      {
+        "i": "110442-8364-2006-04-29",
         "c": "US",
         "n": "Elizabeth Colomba",
         "st": "Solo",

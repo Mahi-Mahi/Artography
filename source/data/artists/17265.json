@@ -45,6 +45,7 @@
   "expos": {
     "2005": [
       {
+        "i": "17265-6144-2005-10-29",
         "c": "CN",
         "n": "Fresh ! - An Exhibition of French Video Art",
         "st": "Group",
@@ -59,6 +60,7 @@
     ],
     "2006": [
       {
+        "i": "17265-6144-2005-10-29",
         "c": "CN",
         "n": "Fresh ! - An Exhibition of French Video Art",
         "st": "Group",
@@ -71,18 +73,7 @@
         ]
       },
       {
-        "c": "KR",
-        "n": "Busan Biennale 2006",
-        "st": "Group",
-        "t": "Biennial, Triennial etc.",
-        "ct": "Busan",
-        "o": "The Busan Biennale",
-        "d": [
-          "2006-09-16",
-          "2006-11-25"
-        ]
-      },
-      {
+        "i": "17265-3456-2006-09-16",
         "c": "KR",
         "n": "Busan Biennale 2006",
         "st": "Group",
@@ -97,6 +88,7 @@
     ],
     "2007": [
       {
+        "i": "17265-2347-2007-06-28",
         "c": "CL",
         "n": "SIGNES D’ EXISTENCE",
         "st": "Group",
@@ -109,30 +101,7 @@
         ]
       },
       {
-        "c": "CL",
-        "n": "SIGNES D’ EXISTENCE",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Santiago",
-        "o": "MAC Museo de Arte Contemporáneo. Universidad de Chile",
-        "d": [
-          "2007-06-28",
-          "2007-09-02"
-        ]
-      },
-      {
-        "c": "DE",
-        "n": "morgen wirds noch kälter",
-        "st": "Solo",
-        "t": "Private Gallery",
-        "ct": "Berlin",
-        "o": "Sox",
-        "d": [
-          "2007-11-18",
-          "2007-12-16"
-        ]
-      },
-      {
+        "i": "17265-17121-2007-11-18",
         "c": "DE",
         "n": "morgen wirds noch kälter",
         "st": "Solo",
@@ -147,6 +116,7 @@
     ],
     "2009": [
       {
+        "i": "17265-18876-2009-04-24",
         "c": "BR",
         "n": "Entre-Temps",
         "st": "Group",
@@ -159,18 +129,7 @@
         ]
       },
       {
-        "c": "BR",
-        "n": "Entre-Temps",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "São Paulo",
-        "o": "MIS - Museu da Imagem e do Som",
-        "d": [
-          "2009-04-24",
-          "2009-06-28"
-        ]
-      },
-      {
+        "i": "17265-17564-2009-09-21",
         "c": "BR",
         "n": "Entre Temps",
         "st": "Group",
@@ -183,18 +142,7 @@
         ]
       },
       {
-        "c": "BR",
-        "n": "Entre Temps",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Rio de Janeiro, RJ",
-        "o": "Oi Futuro",
-        "d": [
-          "2009-09-21",
-          "2009-11-01"
-        ]
-      },
-      {
+        "i": "17265-7502-2009-10-17",
         "c": "DE",
         "n": "Volumes",
         "st": "Group",
@@ -207,30 +155,7 @@
         ]
       },
       {
-        "c": "DE",
-        "n": "Volumes",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Berlin",
-        "o": "Stedefreund",
-        "d": [
-          "2009-10-17",
-          "2009-11-14"
-        ]
-      },
-      {
-        "c": "GB",
-        "n": "Nicholas Moulin",
-        "st": "Solo",
-        "t": "Public Institution",
-        "ct": "Sheffield",
-        "o": "Site Gallery",
-        "d": [
-          "2009-06-13",
-          "2009-08-01"
-        ]
-      },
-      {
+        "i": "17265-7411-2009-06-13",
         "c": "GB",
         "n": "Nicholas Moulin",
         "st": "Solo",
@@ -245,18 +170,7 @@
     ],
     "2010": [
       {
-        "c": "DE",
-        "n": "Ins Blickfeld gerückt",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "Berlin",
-        "o": "Institut Français de Berlin ",
-        "d": [
-          "2010-03-04",
-          "2010-05-25"
-        ]
-      },
-      {
+        "i": "17265-22137-2010-03-04",
         "c": "DE",
         "n": "Ins Blickfeld gerückt",
         "st": "Group",
@@ -271,6 +185,7 @@
     ],
     "2011": [
       {
+        "i": "17265-22923-2011-05-15",
         "c": "CN",
         "n": "Entre-Temps&#65293; The Artist as a Narrator",
         "st": "Group",
@@ -283,18 +198,7 @@
         ]
       },
       {
-        "c": "CN",
-        "n": "Entre-Temps&#65293; The Artist as a Narrator",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Shanghai",
-        "o": "Minsheng Art Museum",
-        "d": [
-          "2011-05-15",
-          "2011-06-26"
-        ]
-      },
-      {
+        "i": "17265-2743-2011-07-26",
         "c": "KR",
         "n": "French Art Today: Marcel Duchamp Prize",
         "st": "Group",
@@ -307,18 +211,7 @@
         ]
       },
       {
-        "c": "KR",
-        "n": "French Art Today: Marcel Duchamp Prize",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Gwacheon",
-        "o": "National Museum of Contemporary Art Korea - Gwacheon",
-        "d": [
-          "2011-07-26",
-          "2011-10-16"
-        ]
-      },
-      {
+        "i": "17265-2537-2011-09-16",
         "c": "DE",
         "n": "Eyes On Paris - Paris Im Fotobuch 1890 Bis Heute",
         "st": "Group",
@@ -333,6 +226,7 @@
     ],
     "2012": [
       {
+        "i": "17265-2537-2011-09-16",
         "c": "DE",
         "n": "Eyes On Paris - Paris Im Fotobuch 1890 Bis Heute",
         "st": "Group",
@@ -347,6 +241,7 @@
     ],
     "2013": [
       {
+        "i": "17265-29833-2013-01-18",
         "c": "CH",
         "n": "Digital Art Works: The Challenges of Conservation",
         "st": "Group",
@@ -359,18 +254,7 @@
         ]
       },
       {
-        "c": "CH",
-        "n": "Digital Art Works: The Challenges of Conservation",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "Basel",
-        "o": "Haus für elektronische Künste Basel",
-        "d": [
-          "2013-01-18",
-          "2013-03-31"
-        ]
-      },
-      {
+        "i": "17265-22613-2013-02-28",
         "c": "BE",
         "n": "Turbulences II",
         "st": "Group",
@@ -383,30 +267,7 @@
         ]
       },
       {
-        "c": "BE",
-        "n": "Turbulences II",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "Brussels",
-        "o": "Villa Empain - Boghossian Foundation",
-        "d": [
-          "2013-02-28",
-          "2013-09-01"
-        ]
-      },
-      {
-        "c": "DE",
-        "n": "between appropriation and interventions",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Berlin",
-        "o": "Kunstraum Kreuzberg / Bethanien",
-        "d": [
-          "2013-03-09",
-          "2013-04-21"
-        ]
-      },
-      {
+        "i": "17265-4014-2013-03-09",
         "c": "DE",
         "n": "between appropriation and interventions",
         "st": "Group",

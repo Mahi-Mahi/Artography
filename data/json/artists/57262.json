@@ -45,6 +45,7 @@
   "expos": {
     "2005": [
       {
+        "i": "57262-6700-2005-12-17",
         "c": "NL",
         "n": "Global Tour",
         "st": "Group",
@@ -59,6 +60,7 @@
     ],
     "2006": [
       {
+        "i": "57262-6700-2005-12-17",
         "c": "NL",
         "n": "Global Tour",
         "st": "Group",
@@ -71,6 +73,7 @@
         ]
       },
       {
+        "i": "57262-6062-2006-11-23",
         "c": "AT",
         "n": "This Is Not For You. Diskurse der Skulptur",
         "st": "Group",
@@ -85,6 +88,7 @@
     ],
     "2007": [
       {
+        "i": "57262-6062-2006-11-23",
         "c": "AT",
         "n": "This Is Not For You. Diskurse der Skulptur",
         "st": "Group",
@@ -97,6 +101,7 @@
         ]
       },
       {
+        "i": "57262-15043-2007-09-07",
         "c": "KR",
         "n": "SFX Seoul 2007",
         "st": "Group",
@@ -109,30 +114,7 @@
         ]
       },
       {
-        "c": "KR",
-        "n": "SFX Seoul 2007",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Seoul",
-        "o": "Total Museum of Contemporary Art",
-        "d": [
-          "2007-09-07",
-          "2007-10-04"
-        ]
-      },
-      {
-        "c": "IT",
-        "n": "New entry",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "Milan",
-        "o": "Careof – Fabbrica del Vapore",
-        "d": [
-          "2007-09-25",
-          "2007-10-12"
-        ]
-      },
-      {
+        "i": "57262-5239-2007-09-25",
         "c": "IT",
         "n": "New entry",
         "st": "Group",
@@ -147,6 +129,7 @@
     ],
     "2008": [
       {
+        "i": "57262-3737-2008-01-26",
         "c": "LU",
         "n": "Volume(s)",
         "st": "Group",
@@ -159,18 +142,7 @@
         ]
       },
       {
-        "c": "LU",
-        "n": "Volume(s)",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Luxembourg",
-        "o": "Casino Luxembourg - Forum d'art contemporain",
-        "d": [
-          "2008-01-26",
-          "2008-04-06"
-        ]
-      },
-      {
+        "i": "57262-12798-2008-12-04",
         "c": "US",
         "n": "The Possibility of an Island",
         "st": "Group",
@@ -185,6 +157,7 @@
     ],
     "2009": [
       {
+        "i": "57262-12798-2008-12-04",
         "c": "US",
         "n": "The Possibility of an Island",
         "st": "Group",
@@ -197,6 +170,7 @@
         ]
       },
       {
+        "i": "57262-19974-2009-03-07",
         "c": "US",
         "n": "Builder Vor Boatin",
         "st": "Group",
@@ -209,18 +183,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Builder Vor Boatin",
-        "st": "Group",
-        "t": "Project Space",
-        "ct": "New York City, NY",
-        "o": "Silver Shed Project Space",
-        "d": [
-          "2009-03-07",
-          "2009-04-18"
-        ]
-      },
-      {
+        "i": "57262-5451-2009-05-02",
         "c": "US",
         "n": "Return to Function",
         "st": "Group",
@@ -233,18 +196,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Return to Function",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Madison, WI",
-        "o": "MMoCA - The Madison Museum of Contemporary Art",
-        "d": [
-          "2009-05-02",
-          "2009-08-23"
-        ]
-      },
-      {
+        "i": "57262-21120-2009-06-18",
         "c": "US",
         "n": "As Small As It Gets",
         "st": "Group",
@@ -257,18 +209,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "As Small As It Gets",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "Art Since the Summer of '69",
-        "d": [
-          "2009-06-18",
-          "2009-08-01"
-        ]
-      },
-      {
+        "i": "57262-20863-2009-09-12",
         "c": "US",
         "n": "Seven in One! Seven in One-Third!!",
         "st": "Group",
@@ -281,18 +222,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Seven in One! Seven in One-Third!!",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "Kate Werble Gallery",
-        "d": [
-          "2009-09-12",
-          "2009-10-17"
-        ]
-      },
-      {
+        "i": "57262-2447-2009-10-02",
         "c": "US",
         "n": "Return to Function",
         "st": "Group",
@@ -307,6 +237,7 @@
     ],
     "2010": [
       {
+        "i": "57262-2447-2009-10-02",
         "c": "US",
         "n": "Return to Function",
         "st": "Group",
@@ -319,6 +250,7 @@
         ]
       },
       {
+        "i": "57262-19666-2010-06-25",
         "c": "DE",
         "n": "Zero Budget Biennial",
         "st": "Group",
@@ -331,18 +263,7 @@
         ]
       },
       {
-        "c": "DE",
-        "n": "Zero Budget Biennial",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Berlin",
-        "o": "Klemm's Berlin",
-        "d": [
-          "2010-06-25",
-          "2010-08-07"
-        ]
-      },
-      {
+        "i": "57262-14441-2010-07-14",
         "c": "US",
         "n": "Guatavita",
         "st": "Group",
@@ -355,18 +276,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Guatavita",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "Eleven Rivington",
-        "d": [
-          "2010-07-14",
-          "2010-08-13"
-        ]
-      },
-      {
+        "i": "57262-21790-2010-10-01",
         "c": "IT",
         "n": "Painting Extravaganza",
         "st": "Group",
@@ -379,18 +289,7 @@
         ]
       },
       {
-        "c": "IT",
-        "n": "Painting Extravaganza",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Milan",
-        "o": "Cardi Black Box",
-        "d": [
-          "2010-10-01",
-          "2010-11-07"
-        ]
-      },
-      {
+        "i": "57262-9946-2010-11-13",
         "c": "DE",
         "n": "Von A nach B, von B nach P",
         "st": "Group",
@@ -403,6 +302,7 @@
         ]
       },
       {
+        "i": "57262-29280-2010-01-08",
         "c": "PT",
         "n": "Davide Balula  - Là / 360, Translucent",
         "st": "Solo",
@@ -415,30 +315,7 @@
         ]
       },
       {
-        "c": "PT",
-        "n": "Davide Balula  - Là / 360, Translucent",
-        "st": "Solo",
-        "t": "Non-profit organization",
-        "ct": "Porto",
-        "o": "Uma Certa Falta de Coerência",
-        "d": [
-          "2010-01-08",
-          "2010-01-31"
-        ]
-      },
-      {
-        "c": "US",
-        "n": "Wall To Wall",
-        "st": "Solo",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "Blackston Gallery",
-        "d": [
-          "2010-10-27",
-          "2010-12-05"
-        ]
-      },
-      {
+        "i": "57262-23337-2010-10-27",
         "c": "US",
         "n": "Wall To Wall",
         "st": "Solo",
@@ -453,6 +330,7 @@
     ],
     "2011": [
       {
+        "i": "57262-9946-2010-11-13",
         "c": "DE",
         "n": "Von A nach B, von B nach P",
         "st": "Group",
@@ -465,6 +343,7 @@
         ]
       },
       {
+        "i": "57262-22954-2011-05-12",
         "c": "NL",
         "n": "May in A’dam",
         "st": "Group",
@@ -477,18 +356,7 @@
         ]
       },
       {
-        "c": "NL",
-        "n": "May in A’dam",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Amsterdam",
-        "o": "Nieuw Dakota",
-        "d": [
-          "2011-05-12",
-          "2011-05-29"
-        ]
-      },
-      {
+        "i": "57262-23337-2011-06-30",
         "c": "US",
         "n": "You Have Left Your Lotus Pods on the Bus",
         "st": "Group",
@@ -501,30 +369,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "You Have Left Your Lotus Pods on the Bus",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "Blackston Gallery",
-        "d": [
-          "2011-06-30",
-          "2011-07-30"
-        ]
-      },
-      {
-        "c": "DE",
-        "n": "European - American - Friendship, Part I of a II-Part Project",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Berlin",
-        "o": "Galerie DUVE Berlin",
-        "d": [
-          "2011-09-10",
-          "2011-10-22"
-        ]
-      },
-      {
+        "i": "57262-16074-2011-09-10",
         "c": "DE",
         "n": "European - American - Friendship, Part I of a II-Part Project",
         "st": "Group",
@@ -539,6 +384,7 @@
     ],
     "2013": [
       {
+        "i": "57262-26518-2013-07-27",
         "c": "CH",
         "n": "Earth - Wind - Fire - Ether",
         "st": "Group",
@@ -551,30 +397,7 @@
         ]
       },
       {
-        "c": "CH",
-        "n": "Earth - Wind - Fire - Ether",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "St. Moritz",
-        "o": "PATRICIA LOW CONTEMPORARY",
-        "d": [
-          "2013-07-27",
-          "2013-09-14"
-        ]
-      },
-      {
-        "c": "US",
-        "n": "Davide Balula - 1. Turn West / 2. Form a Circle with your Mouth / 3. Let the Sun Set In",
-        "st": "Solo",
-        "t": "Private Gallery",
-        "ct": "Los Angeles, CA",
-        "o": "François Ghebaly Gallery",
-        "d": [
-          "2013-01-25",
-          "2013-03-23"
-        ]
-      },
-      {
+        "i": "57262-7940-2013-01-25",
         "c": "US",
         "n": "Davide Balula - 1. Turn West / 2. Form a Circle with your Mouth / 3. Let the Sun Set In",
         "st": "Solo",
@@ -589,18 +412,7 @@
     ],
     "2012": [
       {
-        "c": "RU",
-        "n": "The Endless Pace (Mechanical Clock For 60 Dancers)",
-        "st": "Solo",
-        "t": "Non-profit organization",
-        "ct": "Moscow",
-        "o": "Garage Center for Contemporary Culture - GCCC",
-        "d": [
-          "2012-07-21",
-          "2012-07-22"
-        ]
-      },
-      {
+        "i": "57262-18752-2012-07-21",
         "c": "RU",
         "n": "The Endless Pace (Mechanical Clock For 60 Dancers)",
         "st": "Solo",

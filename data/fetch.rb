@@ -144,6 +144,7 @@ af_artists.shuffle.slice(0,500).each do |artist|
 				expo = {}
 				expo_detail = {}
 				expo[:i] = artist['id']
+				expo_detail[:i] = "#{artist['id']}-#{af_expo['galleryID']}-#{af_expo['BeginDate']}"
 				begin
 					expo[:c] = c.alpha2
 					expo_detail[:c] = c.alpha2
@@ -169,7 +170,7 @@ af_artists.shuffle.slice(0,500).each do |artist|
 						years << expo_year unless expo_year > Date.today.year
 
 						artist[:expos][expo_year] = [] if artist[:expos][expo_year].nil?
-						artist[:expos][expo_year] << expo_detail unless artist[:expos][expo_year].include?(expo)
+						artist[:expos][expo_year] << expo_detail unless artist[:expos][expo_year].include?(expo_detail)
 
 					rescue
 						puts "invalid date"
@@ -182,7 +183,7 @@ af_artists.shuffle.slice(0,500).each do |artist|
 						expos[:today] = [] if expos[:today].nil?
 						expos[:today] << expo unless expos[:today].include?(expo)
 						artist[:expos][:today] = [] if artist[:expos][:today].nil?
-						artist[:expos][:today] << expo_detail unless artist[:expos][:today].include?(expo)
+						artist[:expos][:today] << expo_detail unless artist[:expos][:today].include?(expo_detail)
 					end
 				rescue
 				end

@@ -45,6 +45,7 @@
   "expos": {
     "2005": [
       {
+        "i": "63787-3080-2005-01-15",
         "c": "US",
         "n": "Paper Deviations",
         "st": "Group",
@@ -57,30 +58,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Paper Deviations",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "The Proposition",
-        "d": [
-          "2005-01-15",
-          "2005-02-26"
-        ]
-      },
-      {
-        "c": "US",
-        "n": "Open Walls",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "New York City, NY",
-        "o": "White Columns",
-        "d": [
-          "2005-10-28",
-          "2005-12-03"
-        ]
-      },
-      {
+        "i": "63787-2394-2005-10-28",
         "c": "US",
         "n": "Open Walls",
         "st": "Group",
@@ -95,18 +73,7 @@
     ],
     "2006": [
       {
-        "c": "CH",
-        "n": "Slow Burn",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Geneva",
-        "o": "mitterrand+cramer / art advisory",
-        "d": [
-          "2006-01-26",
-          "2006-03-11"
-        ]
-      },
-      {
+        "i": "63787-2233-2006-01-26",
         "c": "CH",
         "n": "Slow Burn",
         "st": "Group",
@@ -121,6 +88,7 @@
     ],
     "2007": [
       {
+        "i": "63787-2909-2007-03-15",
         "c": "IE",
         "n": "The first Antechamber",
         "st": "Group",
@@ -133,18 +101,7 @@
         ]
       },
       {
-        "c": "IE",
-        "n": "The first Antechamber",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Dublin",
-        "o": "Project Arts Centre",
-        "d": [
-          "2007-03-15",
-          "2007-05-05"
-        ]
-      },
-      {
+        "i": "63787-4916-2007-05-21",
         "c": "IT",
         "n": "9 or 10 works I used to like in no order",
         "st": "Group",
@@ -157,18 +114,7 @@
         ]
       },
       {
-        "c": "IT",
-        "n": "9 or 10 works I used to like in no order",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Rome",
-        "o": "Monitor",
-        "d": [
-          "2007-05-21",
-          "2007-09-18"
-        ]
-      },
-      {
+        "i": "63787-8155-2007-07-14",
         "c": "GB",
         "n": "EASTInternational 2007",
         "st": "Group",
@@ -181,18 +127,7 @@
         ]
       },
       {
-        "c": "GB",
-        "n": "EASTInternational 2007",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Norwich (England)",
-        "o": "The Gallery at Norwich University ",
-        "d": [
-          "2007-07-14",
-          "2007-08-18"
-        ]
-      },
-      {
+        "i": "63787-7905-2007-07-26",
         "c": "US",
         "n": "The Singer Sucks, but the Band...",
         "st": "Group",
@@ -205,18 +140,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "The Singer Sucks, but the Band...",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "Horton Gallery - Lower East Side",
-        "d": [
-          "2007-07-26",
-          "2007-08-26"
-        ]
-      },
-      {
+        "i": "63787-10736-2007-09-29",
         "c": "DE",
         "n": "A New High In Getting Low",
         "st": "Group",
@@ -229,18 +153,7 @@
         ]
       },
       {
-        "c": "DE",
-        "n": "A New High In Getting Low",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "Berlin",
-        "o": "Artnews Projects",
-        "d": [
-          "2007-09-29",
-          "2007-11-03"
-        ]
-      },
-      {
+        "i": "63787-16667-2007-12-01",
         "c": "US",
         "n": "Group Show",
         "st": "Group",
@@ -253,18 +166,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Alexandre Singh",
-        "st": "Solo",
-        "t": "Non-profit organization",
-        "ct": "New York City, NY",
-        "o": "White Columns",
-        "d": [
-          "2007-06-02",
-          "2007-07-14"
-        ]
-      },
-      {
+        "i": "63787-2394-2007-06-02",
         "c": "US",
         "n": "Alexandre Singh",
         "st": "Solo",
@@ -279,6 +181,7 @@
     ],
     "2008": [
       {
+        "i": "63787-16667-2007-12-01",
         "c": "US",
         "n": "Group Show",
         "st": "Group",
@@ -291,6 +194,7 @@
         ]
       },
       {
+        "i": "63787-3553-2008-02-23",
         "c": "US",
         "n": "a new high in getting low",
         "st": "Group",
@@ -303,18 +207,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "a new high in getting low",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "John Connelly Presents (JCP)",
-        "d": [
-          "2008-02-23",
-          "2008-03-29"
-        ]
-      },
-      {
+        "i": "63787-14440-2008-04-05",
         "c": "US",
         "n": "Hello meth lab in the sun",
         "st": "Group",
@@ -327,18 +220,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Hello meth lab in the sun",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "Marfa, TX",
-        "o": "Ballroom Marfa",
-        "d": [
-          "2008-04-05",
-          "2008-08-03"
-        ]
-      },
-      {
+        "i": "63787-12778-2008-04-23",
         "c": "CH",
         "n": "Art Cannot Be Untaught",
         "st": "Group",
@@ -351,18 +233,7 @@
         ]
       },
       {
-        "c": "CH",
-        "n": "Art Cannot Be Untaught",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Locarno",
-        "o": "La Rada",
-        "d": [
-          "2008-04-23",
-          "2008-05-31"
-        ]
-      },
-      {
+        "i": "63787-4916-2008-05-12",
         "c": "IT",
         "n": "Alexandre Singh",
         "st": "Solo",
@@ -375,30 +246,7 @@
         ]
       },
       {
-        "c": "IT",
-        "n": "Alexandre Singh",
-        "st": "Solo",
-        "t": "Private Gallery",
-        "ct": "Rome",
-        "o": "Monitor",
-        "d": [
-          "2008-05-12",
-          "2008-06-14"
-        ]
-      },
-      {
-        "c": "US",
-        "n": "Alexandre Singh",
-        "st": "Solo",
-        "t": "Private Gallery",
-        "ct": "San Francisco, CA",
-        "o": "Jack Hanley Gallery - San Francisco",
-        "d": [
-          "2008-11-01",
-          "2008-11-29"
-        ]
-      },
-      {
+        "i": "63787-4414-2008-11-01",
         "c": "US",
         "n": "Alexandre Singh",
         "st": "Solo",
@@ -413,6 +261,7 @@
     ],
     "2009": [
       {
+        "i": "63787-11558-2009-03-25",
         "c": "US",
         "n": "PERFORMANCE @ Renwick",
         "st": "Group",
@@ -425,18 +274,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "PERFORMANCE @ Renwick",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "Leslie Fritz Gallery",
-        "d": [
-          "2009-03-25",
-          "2009-04-03"
-        ]
-      },
-      {
+        "i": "63787-24117-2009-04-12",
         "c": "AU",
         "n": "these gifts must always move",
         "st": "Group",
@@ -449,6 +287,7 @@
         ]
       },
       {
+        "i": "63787-6884-2009-07-08",
         "c": "US",
         "n": "The columns held us up",
         "st": "Group",
@@ -461,18 +300,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "The columns held us up",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "New York City, NY",
-        "o": "Artists Space",
-        "d": [
-          "2009-07-08",
-          "2009-08-01"
-        ]
-      },
-      {
+        "i": "63787-20301-2009-10-02",
         "c": "GB",
         "n": "The Object of The Attack",
         "st": "Group",
@@ -485,18 +313,7 @@
         ]
       },
       {
-        "c": "GB",
-        "n": "The Object of The Attack",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "London (England)",
-        "o": "The David Roberts Art Foundation",
-        "d": [
-          "2009-10-02",
-          "2009-11-14"
-        ]
-      },
-      {
+        "i": "63787-7264-2009-11-01",
         "c": "US",
         "n": "Performa 09",
         "st": "Group",
@@ -509,18 +326,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Performa 09",
-        "st": "Group",
-        "t": "Biennial, Triennial etc.",
-        "ct": "New York City, NY",
-        "o": "Performa",
-        "d": [
-          "2009-11-01",
-          "2009-11-22"
-        ]
-      },
-      {
+        "i": "63787-12883-2009-12-12",
         "c": "CA",
         "n": "FAX",
         "st": "Group",
@@ -533,18 +339,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Alexandre Singh: Assembly Instructions (Tangential Logick)",
-        "st": "Solo",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "Harris Lieberman Gallery",
-        "d": [
-          "2009-10-17",
-          "2009-11-14"
-        ]
-      },
-      {
+        "i": "63787-4420-2009-10-17",
         "c": "US",
         "n": "Alexandre Singh: Assembly Instructions (Tangential Logick)",
         "st": "Solo",
@@ -559,6 +354,7 @@
     ],
     "2010": [
       {
+        "i": "63787-24117-2009-04-12",
         "c": "AU",
         "n": "these gifts must always move",
         "st": "Group",
@@ -571,6 +367,7 @@
         ]
       },
       {
+        "i": "63787-12883-2009-12-12",
         "c": "CA",
         "n": "FAX",
         "st": "Group",
@@ -583,6 +380,7 @@
         ]
       },
       {
+        "i": "63787-9399-2010-01-16",
         "c": "US",
         "n": "FAX",
         "st": "Group",
@@ -595,18 +393,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "FAX",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Torrance, CA",
-        "o": "Torrance Art Museum",
-        "d": [
-          "2010-01-16",
-          "2010-02-20"
-        ]
-      },
-      {
+        "i": "63787-12966-2010-02-06",
         "c": "CN",
         "n": "FAX",
         "st": "Group",
@@ -619,18 +406,7 @@
         ]
       },
       {
-        "c": "CN",
-        "n": "FAX",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Hong Kong, SAR",
-        "o": "Para/Site Art Space",
-        "d": [
-          "2010-02-06",
-          "2010-04-01"
-        ]
-      },
-      {
+        "i": "63787-11728-2010-02-19",
         "c": "IT",
         "n": "Arrivals and Departures",
         "st": "Group",
@@ -643,18 +419,7 @@
         ]
       },
       {
-        "c": "IT",
-        "n": "Arrivals and Departures",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "Ancona",
-        "o": "Fondo Mole Vanvitelliana",
-        "d": [
-          "2010-02-19",
-          "2010-05-09"
-        ]
-      },
-      {
+        "i": "63787-3751-2010-04-09",
         "c": "IT",
         "n": "sette piccoli errori / seven little mistakes",
         "st": "Group",
@@ -667,18 +432,7 @@
         ]
       },
       {
-        "c": "IT",
-        "n": "sette piccoli errori / seven little mistakes",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Florence",
-        "o": "Museo Marino Marini",
-        "d": [
-          "2010-04-09",
-          "2010-06-19"
-        ]
-      },
-      {
+        "i": "63787-7372-2010-05-03",
         "c": "US",
         "n": "Knight\\'s Move",
         "st": "Group",
@@ -691,18 +445,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Knight\\'s Move",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "New York City, NY",
-        "o": "SculptureCenter",
-        "d": [
-          "2010-05-03",
-          "2010-07-26"
-        ]
-      },
-      {
+        "i": "63787-2112-2010-06-11",
         "c": "US",
         "n": "Acts Are For Actors",
         "st": "Group",
@@ -715,18 +458,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Acts Are For Actors",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "Southfirst",
-        "d": [
-          "2010-06-11",
-          "2010-07-18"
-        ]
-      },
-      {
+        "i": "63787-24117-2010-08-12",
         "c": "AU",
         "n": "these gifts must always move",
         "st": "Group",
@@ -739,18 +471,7 @@
         ]
       },
       {
-        "c": "AU",
-        "n": "these gifts must always move",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Melbourne, VIC",
-        "o": "Sutton Gallery Project Space",
-        "d": [
-          "2010-08-12",
-          "2010-09-04"
-        ]
-      },
-      {
+        "i": "63787-6058-2010-10-09",
         "c": "ES",
         "n": "Manifesta 8",
         "st": "Group",
@@ -763,6 +484,7 @@
         ]
       },
       {
+        "i": "63787-1203-2010-10-20",
         "c": "US",
         "n": "Free",
         "st": "Group",
@@ -775,6 +497,7 @@
         ]
       },
       {
+        "i": "63787-1234-2010-12-12",
         "c": "US",
         "n": "The Logic of Association",
         "st": "Group",
@@ -787,6 +510,7 @@
         ]
       },
       {
+        "i": "63787-2500-2010-10-30",
         "c": "DE",
         "n": "Performance",
         "st": "Solo",
@@ -801,6 +525,7 @@
     ],
     "2011": [
       {
+        "i": "63787-6058-2010-10-09",
         "c": "ES",
         "n": "Manifesta 8",
         "st": "Group",
@@ -813,6 +538,7 @@
         ]
       },
       {
+        "i": "63787-1203-2010-10-20",
         "c": "US",
         "n": "Free",
         "st": "Group",
@@ -825,6 +551,7 @@
         ]
       },
       {
+        "i": "63787-1234-2010-12-12",
         "c": "US",
         "n": "The Logic of Association",
         "st": "Group",
@@ -837,6 +564,7 @@
         ]
       },
       {
+        "i": "63787-22660-2011-05-15",
         "c": "GB",
         "n": "Session_16",
         "st": "Group",
@@ -849,18 +577,7 @@
         ]
       },
       {
-        "c": "GB",
-        "n": "Session_16",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "London (England)",
-        "o": "Am Nuden Da",
-        "d": [
-          "2011-05-15",
-          "2011-07-23"
-        ]
-      },
-      {
+        "i": "63787-5641-2011-10-07",
         "c": "EE",
         "n": "Beyond - International Curator Exhibition of Tallinn Month of Photography",
         "st": "Group",
@@ -873,6 +590,7 @@
         ]
       },
       {
+        "i": "63787-8198-2011-12-10",
         "c": "NL",
         "n": "The Greater Cloud",
         "st": "Group",
@@ -885,6 +603,7 @@
         ]
       },
       {
+        "i": "63787-19320-2011-01-15",
         "c": "DE",
         "n": "Alexandre Singh",
         "st": "Solo",
@@ -897,18 +616,7 @@
         ]
       },
       {
-        "c": "DE",
-        "n": "Alexandre Singh",
-        "st": "Solo",
-        "t": "Private Gallery",
-        "ct": "Berlin",
-        "o": "Sprüth Magers Berlin",
-        "d": [
-          "2011-01-15",
-          "2011-03-23"
-        ]
-      },
-      {
+        "i": "63787-4916-2011-11-17",
         "c": "IT",
         "n": "Alexandre Singh",
         "st": "Solo",
@@ -923,6 +631,7 @@
     ],
     "2012": [
       {
+        "i": "63787-5641-2011-10-07",
         "c": "EE",
         "n": "Beyond - International Curator Exhibition of Tallinn Month of Photography",
         "st": "Group",
@@ -935,6 +644,7 @@
         ]
       },
       {
+        "i": "63787-8198-2011-12-10",
         "c": "NL",
         "n": "The Greater Cloud",
         "st": "Group",
@@ -947,6 +657,7 @@
         ]
       },
       {
+        "i": "63787-21979-2012-02-03",
         "c": "PL",
         "n": "Crime Is On Both Sides",
         "st": "Group",
@@ -959,18 +670,7 @@
         ]
       },
       {
-        "c": "PL",
-        "n": "Crime Is On Both Sides",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Poznan",
-        "o": "Galeria Stereo",
-        "d": [
-          "2012-02-03",
-          "2012-03-10"
-        ]
-      },
-      {
+        "i": "63787-1800-2012-02-11",
         "c": "US",
         "n": "Cultural Production",
         "st": "Group",
@@ -983,18 +683,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Cultural Production",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "Andrea Rosen Gallery",
-        "d": [
-          "2012-02-11",
-          "2012-03-24"
-        ]
-      },
-      {
+        "i": "63787-11728-2012-02-19",
         "c": "IT",
         "n": "Arrivi e Partenze Europa",
         "st": "Group",
@@ -1007,18 +696,7 @@
         ]
       },
       {
-        "c": "IT",
-        "n": "Arrivi e Partenze Europa",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "Ancona",
-        "o": "Fondo Mole Vanvitelliana",
-        "d": [
-          "2012-02-19",
-          "2012-05-09"
-        ]
-      },
-      {
+        "i": "63787-17250-2012-03-01",
         "c": "GB",
         "n": "Weighted Words",
         "st": "Group",
@@ -1031,18 +709,7 @@
         ]
       },
       {
-        "c": "GB",
-        "n": "Weighted Words",
-        "st": "Group",
-        "t": "Private Collection",
-        "ct": "London (England)",
-        "o": "Zabludowicz Collection London",
-        "d": [
-          "2012-03-01",
-          "2012-06-10"
-        ]
-      },
-      {
+        "i": "63787-6427-2012-05-25",
         "c": "RO",
         "n": "Bucharest Biennale 5",
         "st": "Group",
@@ -1055,18 +722,7 @@
         ]
       },
       {
-        "c": "RO",
-        "n": "Bucharest Biennale 5",
-        "st": "Group",
-        "t": "Biennial, Triennial etc.",
-        "ct": "Bucharest",
-        "o": "Bucharest Biennale for Contemporary Art",
-        "d": [
-          "2012-05-25",
-          "2012-07-22"
-        ]
-      },
-      {
+        "i": "63787-2226-2012-09-12",
         "c": "US",
         "n": "Unrest",
         "st": "Group",
@@ -1079,18 +735,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Unrest",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "New York City, NY",
-        "o": "Apexart",
-        "d": [
-          "2012-09-12",
-          "2012-10-27"
-        ]
-      },
-      {
+        "i": "63787-114-2012-09-19",
         "c": "BE",
         "n": "Re-opening / Chapter III: Happy People Have No Stories”",
         "st": "Group",
@@ -1103,18 +748,7 @@
         ]
       },
       {
-        "c": "BE",
-        "n": "Re-opening / Chapter III: Happy People Have No Stories”",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Otegem",
-        "o": "Deweer Art Gallery",
-        "d": [
-          "2012-09-19",
-          "2012-12-09"
-        ]
-      },
-      {
+        "i": "63787-9946-2012-11-10",
         "c": "DE",
         "n": "Schaubilder",
         "st": "Group",
@@ -1127,6 +761,7 @@
         ]
       },
       {
+        "i": "63787-10777-2012-12-01",
         "c": "US",
         "n": "Lost (in La)",
         "st": "Group",
@@ -1139,6 +774,7 @@
         ]
       },
       {
+        "i": "63787-4916-2011-11-17",
         "c": "IT",
         "n": "Alexandre Singh",
         "st": "Solo",
@@ -1151,6 +787,7 @@
         ]
       },
       {
+        "i": "63787-3076-2012-01-17",
         "c": "US",
         "n": "The Pledge",
         "st": "Solo",
@@ -1163,18 +800,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "The Pledge",
-        "st": "Solo",
-        "t": "Public Institution",
-        "ct": "New York City, NY",
-        "o": "The Drawing Center",
-        "d": [
-          "2012-01-17",
-          "2012-03-13"
-        ]
-      },
-      {
+        "i": "63787-2427-2012-04-26",
         "c": "NL",
         "n": "Alexandre Singh: The Humans",
         "st": "Solo",
@@ -1187,18 +813,7 @@
         ]
       },
       {
-        "c": "DE",
-        "n": "Alexandre Singh / Assembly Instructions",
-        "st": "Solo",
-        "t": "Non-profit organization",
-        "ct": "Wiesbaden",
-        "o": "Nassauischer Kunstverein",
-        "d": [
-          "2012-11-04",
-          "2012-12-16"
-        ]
-      },
-      {
+        "i": "63787-7151-2012-11-04",
         "c": "DE",
         "n": "Alexandre Singh / Assembly Instructions",
         "st": "Solo",
@@ -1213,6 +828,7 @@
     ],
     "2013": [
       {
+        "i": "63787-9946-2012-11-10",
         "c": "DE",
         "n": "Schaubilder",
         "st": "Group",
@@ -1225,6 +841,7 @@
         ]
       },
       {
+        "i": "63787-10777-2012-12-01",
         "c": "US",
         "n": "Lost (in La)",
         "st": "Group",
@@ -1237,6 +854,7 @@
         ]
       },
       {
+        "i": "63787-8158-2013-01-25",
         "c": "US",
         "n": "The Book Lovers",
         "st": "Group",
@@ -1249,18 +867,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "The Book Lovers",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "New York City, NY",
-        "o": "EFA Project Space - The Elizabeth Foundation for the Art",
-        "d": [
-          "2013-01-25",
-          "2013-03-09"
-        ]
-      },
-      {
+        "i": "63787-27771-2013-03-07",
         "c": "BE",
         "n": "Collection Centre national des arts plastiques",
         "st": "Group",
@@ -1273,18 +880,7 @@
         ]
       },
       {
-        "c": "BE",
-        "n": "Collection Centre national des arts plastiques",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Brussels",
-        "o": "CENTRALE for contemporary art",
-        "d": [
-          "2013-03-07",
-          "2013-06-09"
-        ]
-      },
-      {
+        "i": "63787-11290-2013-05-18",
         "c": "ES",
         "n": "Jetztzeit (el tiempo del ahora) + La Espalda del ángel",
         "st": "Group",
@@ -1297,18 +893,7 @@
         ]
       },
       {
-        "c": "ES",
-        "n": "Jetztzeit (el tiempo del ahora) + La Espalda del ángel",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Lleida",
-        "o": "Centre d’Art la Panera",
-        "d": [
-          "2013-05-18",
-          "2013-10-08"
-        ]
-      },
-      {
+        "i": "63787-7264-2013-11-01",
         "c": "US",
         "n": "Performa 13",
         "st": "Group",
@@ -1321,18 +906,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Performa 13",
-        "st": "Group",
-        "t": "Biennial, Triennial etc.",
-        "ct": "New York City, NY",
-        "o": "Performa",
-        "d": [
-          "2013-11-01",
-          "2013-11-24"
-        ]
-      },
-      {
+        "i": "63787-2427-2012-04-26",
         "c": "NL",
         "n": "Alexandre Singh: The Humans",
         "st": "Solo",
@@ -1345,18 +919,7 @@
         ]
       },
       {
-        "c": "US",
-        "n": "Alexandre Singh",
-        "st": "Solo",
-        "t": "Private Gallery",
-        "ct": "New York City, NY",
-        "o": "Metro Pictures Gallery",
-        "d": [
-          "2013-11-12",
-          "2013-12-21"
-        ]
-      },
-      {
+        "i": "63787-1616-2013-11-12",
         "c": "US",
         "n": "Alexandre Singh",
         "st": "Solo",

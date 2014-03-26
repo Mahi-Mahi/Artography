@@ -1,0 +1,90 @@
+{
+  "id": "225649",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:33:47",
+  "name": "David Raffini",
+  "surname": "Raffini",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": " (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1982",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "17074",
+  "r01": "16530",
+  "r02": "15009",
+  "r03": "19601",
+  "r04": "52368",
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2009",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (9), Belgium (1), Germany (1), Switzerland (1)",
+  "2005-shows-with": "Florian Pugnaire (11), David Raffini (11), Denis Castellas (2), Cédric Teisseire (2)",
+  "representing-galleries": "TORRI (7, rue Saint-Claude, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "David",
+  "last_name": "Raffini",
+  "genre": "m",
+  "birthDate": "1982-01-01",
+  "age": 32,
+  "age_range": "26-35",
+  "expos": {
+    "2011": [
+      {
+        "i": "225649-8157-2011-04-30",
+        "c": "CH",
+        "n": "Que sera, sera…",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Neuchâtel",
+        "o": "CAN - Centre d'Art Neuchâtel",
+        "d": [
+          "2011-04-30",
+          "2011-05-29"
+        ]
+      },
+      {
+        "i": "225649-27637-2011-10-13",
+        "c": "BE",
+        "n": "Bouton Poussoir",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Lot 10",
+        "d": [
+          "2011-10-13",
+          "2011-11-19"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "225649-19666-2012-06-29",
+        "c": "DE",
+        "n": "Berlin-paris - Torri Chez/at Klemm’s",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Klemm's Berlin",
+        "d": [
+          "2012-06-29",
+          "2012-07-28"
+        ]
+      }
+    ]
+  }
+}

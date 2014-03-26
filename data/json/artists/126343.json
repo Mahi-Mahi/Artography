@@ -45,18 +45,7 @@
   "expos": {
     "2005": [
       {
-        "c": "LT",
-        "n": "Scape",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Vilnius",
-        "o": "Contemporary Art Centre (CAC)",
-        "d": [
-          "2005-01-28",
-          "2005-03-13"
-        ]
-      },
-      {
+        "i": "126343-2589-2005-01-28",
         "c": "LT",
         "n": "Scape",
         "st": "Group",
@@ -71,18 +60,7 @@
     ],
     "2007": [
       {
-        "c": "PT",
-        "n": "utopomorfias / utopomorphies",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Viseu",
-        "o": "Galeria Antonio Henriques",
-        "d": [
-          "2007-10-27",
-          "2007-11-30"
-        ]
-      },
-      {
+        "i": "126343-14037-2007-10-27",
         "c": "PT",
         "n": "utopomorfias / utopomorphies",
         "st": "Group",
@@ -97,6 +75,7 @@
     ],
     "2008": [
       {
+        "i": "126343-2500-2008-08-02",
         "c": "DE",
         "n": "When a clock is seen from the side it no longer tells the time",
         "st": "Group",
@@ -109,18 +88,7 @@
         ]
       },
       {
-        "c": "DE",
-        "n": "When a clock is seen from the side it no longer tells the time",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Berlin",
-        "o": "Johann König",
-        "d": [
-          "2008-08-02",
-          "2008-08-31"
-        ]
-      },
-      {
+        "i": "126343-6756-2008-08-22",
         "c": "SE",
         "n": "Unknown Land",
         "st": "Group",
@@ -133,18 +101,7 @@
         ]
       },
       {
-        "c": "SE",
-        "n": "Unknown Land",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Malmö",
-        "o": "Elastic gallery",
-        "d": [
-          "2008-08-22",
-          "2008-09-20"
-        ]
-      },
-      {
+        "i": "126343-285-2008-10-04",
         "c": "AT",
         "n": "Landscope",
         "st": "Group",
@@ -157,18 +114,7 @@
         ]
       },
       {
-        "c": "AT",
-        "n": "Landscope",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Salzburg",
-        "o": "Galerie Thaddaeus Ropac - Salzburg",
-        "d": [
-          "2008-10-04",
-          "2008-11-15"
-        ]
-      },
-      {
+        "i": "126343-10863-2008-10-11",
         "c": "SE",
         "n": "Disarming Matter",
         "st": "Group",
@@ -181,6 +127,7 @@
         ]
       },
       {
+        "i": "126343-11661-2008-11-26",
         "c": "GB",
         "n": "Neutre intense",
         "st": "Group",
@@ -195,6 +142,7 @@
     ],
     "2009": [
       {
+        "i": "126343-10863-2008-10-11",
         "c": "SE",
         "n": "Disarming Matter",
         "st": "Group",
@@ -207,6 +155,7 @@
         ]
       },
       {
+        "i": "126343-11661-2008-11-26",
         "c": "GB",
         "n": "Neutre intense",
         "st": "Group",
@@ -219,18 +168,7 @@
         ]
       },
       {
-        "c": "AT",
-        "n": "Le Troisième Lieu – Der Dritte Ort/The Third Place",
-        "st": "Group",
-        "t": "Non-profit organization",
-        "ct": "Graz",
-        "o": "Grazer Kunstverein",
-        "d": [
-          "2009-04-08",
-          "2009-06-06"
-        ]
-      },
-      {
+        "i": "126343-7506-2009-04-08",
         "c": "AT",
         "n": "Le Troisième Lieu – Der Dritte Ort/The Third Place",
         "st": "Group",
@@ -245,6 +183,7 @@
     ],
     "2010": [
       {
+        "i": "126343-16575-2010-01-15",
         "c": "DE",
         "n": "Ellipse / Eclipse",
         "st": "Group",
@@ -257,18 +196,7 @@
         ]
       },
       {
-        "c": "DE",
-        "n": "Ellipse / Eclipse",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Berlin",
-        "o": "Galerie Gregor Podnar - Berlin",
-        "d": [
-          "2010-01-15",
-          "2010-03-13"
-        ]
-      },
-      {
+        "i": "126343-21685-2010-06-30",
         "c": "IT",
         "n": "Antiantianti",
         "st": "Group",
@@ -281,18 +209,7 @@
         ]
       },
       {
-        "c": "IT",
-        "n": "Antiantianti",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Bergamo",
-        "o": "LOG",
-        "d": [
-          "2010-06-30",
-          "2010-07-31"
-        ]
-      },
-      {
+        "i": "126343-18685-2010-09-10",
         "c": "BE",
         "n": "Objects are like they appear",
         "st": "Group",
@@ -305,18 +222,7 @@
         ]
       },
       {
-        "c": "BE",
-        "n": "Objects are like they appear",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Brussels",
-        "o": "Meessen De Clercq",
-        "d": [
-          "2010-09-10",
-          "2010-10-23"
-        ]
-      },
-      {
+        "i": "126343-1134-2010-06-05",
         "c": "DE",
         "n": "Evariste Richer",
         "st": "Solo",
@@ -329,18 +235,7 @@
         ]
       },
       {
-        "c": "DE",
-        "n": "Evariste Richer",
-        "st": "Solo",
-        "t": "Non-profit organization",
-        "ct": "Braunschweig",
-        "o": "Kunstverein Braunschweig",
-        "d": [
-          "2010-06-05",
-          "2010-08-15"
-        ]
-      },
-      {
+        "i": "126343-18685-2010-12-17",
         "c": "BE",
         "n": "Evariste Richer - The Catalyst",
         "st": "Solo",
@@ -355,6 +250,7 @@
     ],
     "2011": [
       {
+        "i": "126343-3104-2011-01-24",
         "c": "RO",
         "n": "Architecture Dessins Utopies",
         "st": "Group",
@@ -367,18 +263,7 @@
         ]
       },
       {
-        "c": "RO",
-        "n": "Architecture Dessins Utopies",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Bucharest",
-        "o": "National Museum of Contemporary Art (MNAC)",
-        "d": [
-          "2011-01-24",
-          "2011-04-20"
-        ]
-      },
-      {
+        "i": "126343-6505-2011-07-02",
         "c": "DE",
         "n": "Arbeiten aus dem Bleistiftgebiet",
         "st": "Group",
@@ -391,18 +276,7 @@
         ]
       },
       {
-        "c": "DE",
-        "n": "Arbeiten aus dem Bleistiftgebiet",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Dusseldorf",
-        "o": "VAN HORN",
-        "d": [
-          "2011-07-02",
-          "2011-07-30"
-        ]
-      },
-      {
+        "i": "126343-18685-2011-09-10",
         "c": "BE",
         "n": "La Vie Mode d’Emploi (Life A User’s Manual)",
         "st": "Group",
@@ -415,18 +289,7 @@
         ]
       },
       {
-        "c": "BE",
-        "n": "La Vie Mode d’Emploi (Life A User’s Manual)",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Brussels",
-        "o": "Meessen De Clercq",
-        "d": [
-          "2011-09-10",
-          "2011-10-15"
-        ]
-      },
-      {
+        "i": "126343-18685-2010-12-17",
         "c": "BE",
         "n": "Evariste Richer - The Catalyst",
         "st": "Solo",
@@ -441,18 +304,7 @@
     ],
     "2013": [
       {
-        "c": "BE",
-        "n": "Continuum",
-        "st": "Solo",
-        "t": "Private Gallery",
-        "ct": "Brussels",
-        "o": "Meessen De Clercq",
-        "d": [
-          "2013-02-22",
-          "2013-03-23"
-        ]
-      },
-      {
+        "i": "126343-18685-2013-02-22",
         "c": "BE",
         "n": "Continuum",
         "st": "Solo",

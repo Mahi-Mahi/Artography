@@ -1,0 +1,77 @@
+{
+  "id": "56823",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:26:59",
+  "name": "Titouan Lamazou",
+  "surname": "Lamazou",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Casablanca (MA)",
+  "birth day": "10",
+  "birth month": "6",
+  "birth year": "1955",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "38007",
+  "r01": "57828",
+  "r02": "51944",
+  "r03": "46394",
+  "r04": "40674",
+  "r05": "35550",
+  "r06": "30310",
+  "r07": "25197",
+  "r08": "34718",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Brazil (1), France (1), Monaco (1)",
+  "2005-shows-with": "Titouan Lamazou (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Titouan",
+  "last_name": "Lamazou",
+  "genre": "m",
+  "birthDate": "1955-06-10",
+  "age": 58,
+  "age_range": "46-55",
+  "expos": {
+    "2009": [
+      {
+        "i": "56823-3944-2009-07-08",
+        "c": "BR",
+        "n": "Video in Foco/Photo in Foco",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "São Paulo",
+        "o": "Galeria Baró Cruz",
+        "d": [
+          "2009-07-08",
+          "2009-08-31"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "56823-6361-2013-09-10",
+        "c": "MC",
+        "n": "Titouan Lamazou",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Marlborough Monaco",
+        "d": [
+          "2013-09-10",
+          "2013-09-28"
+        ]
+      }
+    ]
+  }
+}

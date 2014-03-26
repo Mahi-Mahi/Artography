@@ -57,14 +57,13 @@
 					<legend>Légende</legend>
 					<dl>
 						<dt>Type d'exposition</dt>
-						<dd><strong>Solo</strong> 3</dd>
-						<dd><strong>Collective</strong> 23</dd>
+						<dd><strong>Solo</strong>{{counters.Solo}}</dd>
+						<dd><strong>Collective</strong>{{counters.Group}}</dd>
 						<dt>Organisateur</dt>
-						<dd><strong>Institution publique</strong> 14</dd>
-						<dd><strong>Structure privée</strong> 14</dd>
-						<dd><strong>Grande manifestation</strong> 14</dd>
-						<dd><strong>Autre</strong> 14</dd>
 					</dl>
+						<ul>
+						<li ng-repeat="organizer in organizers_list"><strong>{{organizers.name}}</strong>{{organizers.counter}}</li>
+						</ul>
 				</fieldset>
 			</div><!-- .legend -->
 

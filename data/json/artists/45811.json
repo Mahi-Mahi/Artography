@@ -1,0 +1,232 @@
+{
+  "id": "45811",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:22:32",
+  "name": "Fabienne Audeoud",
+  "surname": "Audeoud",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Besancon (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1968",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "10850",
+  "r01": "10276",
+  "r02": "9328",
+  "r03": "8366",
+  "r04": "7203",
+  "r05": "6646",
+  "r06": "6071",
+  "r07": "5662",
+  "r08": "4429",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1997",
+  "all-shows-total": "32",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (5), USA (2), Belgium (1), Portugal (1), Spain (1), Sweden (1), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Fabienne Audeoud (13), John Russell (3), Rita Ackermann (2), Sarah Braman (2), David Evrard (2), Theodore Fivel (2), Dora García (2), Sofie Haesaerts (2), Colombe Marcasiano (2), Lisa Stansbie (2), France Valliccioni (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Fabienne",
+  "last_name": "Audeoud",
+  "genre": "c",
+  "birthDate": "1968-01-01",
+  "age": 46,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "45811-2394-2005-06-17",
+        "c": "US",
+        "n": "Post no Bills",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "White Columns",
+        "d": [
+          "2005-06-17",
+          "2005-07-23"
+        ]
+      },
+      {
+        "i": "45811-2276-2005-11-11",
+        "c": "AT",
+        "n": "Hotspots - Im Rahmen der Ausstellungsreihe emerging artists",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Klosterneuburg",
+        "o": "Essl Museum - Kunst der Gegenwart",
+        "d": [
+          "2005-11-11",
+          "2006-01-29"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "45811-2276-2005-11-11",
+        "c": "AT",
+        "n": "Hotspots - Im Rahmen der Ausstellungsreihe emerging artists",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Klosterneuburg",
+        "o": "Essl Museum - Kunst der Gegenwart",
+        "d": [
+          "2005-11-11",
+          "2006-01-29"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "45811-7019-2007-07-14",
+        "c": "AT",
+        "n": "4\\'33\\\", Magazin 4",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bregenz",
+        "o": "Magazin4 - Bregenzer Kunstverein",
+        "d": [
+          "2007-07-14",
+          "2007-07-22"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "45811-17719-2009-09-03",
+        "c": "US",
+        "n": "Pan-demonium",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "AC Institute",
+        "d": [
+          "2009-09-03",
+          "2009-10-10"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "45811-9296-2010-02-06",
+        "c": "SE",
+        "n": "Y- The Black Issue",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Ystad",
+        "o": "Ystads Konstmuseum",
+        "d": [
+          "2010-02-06",
+          "2010-03-14"
+        ]
+      },
+      {
+        "i": "45811-14454-2010-09-24",
+        "c": "GB",
+        "n": "Seconds Issue 12: Archetype: Going Underground / The Cruel Scene Of The Image",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "E:vent",
+        "d": [
+          "2010-09-24",
+          "2010-09-24"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "45811-17202-2011-09-09",
+        "c": "BE",
+        "n": "Influence I",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "Komplot",
+        "d": [
+          "2011-09-09",
+          "2011-10-15"
+        ]
+      },
+      {
+        "i": "45811-2516-2011-09-17",
+        "c": "US",
+        "n": "After Shelley Duvall \\'72 (Frogs on the High Line)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Maccarone Gallery",
+        "d": [
+          "2011-09-17",
+          "2011-10-22"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "45811-29929-2012-09-28",
+        "c": "ES",
+        "n": "This is not an art exhibition, either",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "Fabra i Coats - Barcelona Contemporary Art Center",
+        "d": [
+          "2012-09-28",
+          "2013-01-27"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "45811-29929-2012-09-28",
+        "c": "ES",
+        "n": "This is not an art exhibition, either",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "Fabra i Coats - Barcelona Contemporary Art Center",
+        "d": [
+          "2012-09-28",
+          "2013-01-27"
+        ]
+      },
+      {
+        "i": "45811-3444-2013-05-25",
+        "c": "CH",
+        "n": "Pro-choice",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Fribourg",
+        "o": "Fri Art - Centre d'Art Contemporain",
+        "d": [
+          "2013-05-25",
+          "2013-08-18"
+        ]
+      },
+      {
+        "i": "45811-29336-2013-07-11",
+        "c": "PT",
+        "n": "Portas abertas / Open Doors",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Évora",
+        "o": "Fórum Eugénio de Almeida",
+        "d": [
+          "2013-07-11",
+          "2013-10-06"
+        ]
+      }
+    ]
+  }
+}

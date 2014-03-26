@@ -45,6 +45,7 @@
   "expos": {
     "2007": [
       {
+        "i": "191863-20119-2007-12-19",
         "c": "MC",
         "n": "Air de Paris",
         "st": "Group",
@@ -59,6 +60,7 @@
     ],
     "2008": [
       {
+        "i": "191863-20119-2007-12-19",
         "c": "MC",
         "n": "Air de Paris",
         "st": "Group",
@@ -71,6 +73,7 @@
         ]
       },
       {
+        "i": "191863-3076-2008-11-21",
         "c": "US",
         "n": "M/M: Just Like an Ant Walking on the Edge of the Visible",
         "st": "Solo",
@@ -85,6 +88,7 @@
     ],
     "2009": [
       {
+        "i": "191863-7132-2009-10-15",
         "c": "BR",
         "n": "O spectaculo Esta na rua - Cartez de Chaumont",
         "st": "Group",
@@ -97,18 +101,7 @@
         ]
       },
       {
-        "c": "BR",
-        "n": "O spectaculo Esta na rua - Cartez de Chaumont",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "São Paulo",
-        "o": "Instituto Tomie Ohtake",
-        "d": [
-          "2009-10-15",
-          "2009-11-22"
-        ]
-      },
-      {
+        "i": "191863-3076-2008-11-21",
         "c": "US",
         "n": "M/M: Just Like an Ant Walking on the Edge of the Visible",
         "st": "Solo",
@@ -121,18 +114,7 @@
         ]
       },
       {
-        "c": "TR",
-        "n": "A Word Of Love In An Echo Chamber",
-        "st": "Solo",
-        "t": "Public Institution",
-        "ct": "Istanbul",
-        "o": "Akbank Art Center",
-        "d": [
-          "2009-02-28",
-          "2009-04-11"
-        ]
-      },
-      {
+        "i": "191863-12877-2009-02-28",
         "c": "TR",
         "n": "A Word Of Love In An Echo Chamber",
         "st": "Solo",
@@ -147,6 +129,7 @@
     ],
     "2010": [
       {
+        "i": "191863-2296-2010-09-25",
         "c": "DE",
         "n": "Not in Fashion",
         "st": "Group",
@@ -159,6 +142,7 @@
         ]
       },
       {
+        "i": "191863-10681-2010-11-03",
         "c": "CH",
         "n": "Covering the wall. Contemporary wallpapers",
         "st": "Group",
@@ -173,6 +157,7 @@
     ],
     "2011": [
       {
+        "i": "191863-2296-2010-09-25",
         "c": "DE",
         "n": "Not in Fashion",
         "st": "Group",
@@ -185,6 +170,7 @@
         ]
       },
       {
+        "i": "191863-10681-2010-11-03",
         "c": "CH",
         "n": "Covering the wall. Contemporary wallpapers",
         "st": "Group",
@@ -197,18 +183,7 @@
         ]
       },
       {
-        "c": "DE",
-        "n": "GESCHMACK – der gute, der schlechte und der wirklich teure",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Baden-Baden",
-        "o": "Staatliche Kunsthalle Baden-Baden",
-        "d": [
-          "2011-07-09",
-          "2011-10-09"
-        ]
-      },
-      {
+        "i": "191863-3608-2011-07-09",
         "c": "DE",
         "n": "GESCHMACK – der gute, der schlechte und der wirklich teure",
         "st": "Group",
@@ -223,18 +198,7 @@
     ],
     "2006": [
       {
-        "c": "GB",
-        "n": "M/M",
-        "st": "Solo",
-        "t": "Private Gallery",
-        "ct": "London (England)",
-        "o": "Haunch of Venison - London",
-        "d": [
-          "2006-02-17",
-          "2006-03-25"
-        ]
-      },
-      {
+        "i": "191863-2232-2006-02-17",
         "c": "GB",
         "n": "M/M",
         "st": "Solo",

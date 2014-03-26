@@ -1,0 +1,92 @@
+{
+  "id": "70952",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:32:44",
+  "name": "Maxime Matray",
+  "surname": "Matray",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1973",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "33527",
+  "r01": "30384",
+  "r02": "27033",
+  "r03": "24912",
+  "r04": "39046",
+  "r05": "33618",
+  "r06": "28133",
+  "r07": "23328",
+  "r08": "22207",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1998",
+  "all-shows-total": "10",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (1), Germany (1)",
+  "2005-shows-with": "Maxime Matray (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Maxime",
+  "last_name": "Matray",
+  "genre": "m",
+  "birthDate": "1973-01-01",
+  "age": 41,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "70952-8865-2005-05-05",
+        "c": "IT",
+        "n": "post'apostrof'",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rome",
+        "o": "MLAC - Museo Laboratorio d'Arte Contemporaneo",
+        "d": [
+          "2005-05-05",
+          "2005-05-27"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "70952-3918-2006-04-28",
+        "c": "DE",
+        "n": "Trauermina",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Nuremberg",
+        "o": "Galerie Sima",
+        "d": [
+          "2006-04-28",
+          "2006-06-03"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "70952-754-2010-10-17",
+        "c": "DE",
+        "n": "Höhepunkte der Kölner KunstFilmBiennale",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Kunst-Werke Berlin - KW Institute for Contemporary Art ",
+        "d": [
+          "2010-10-17",
+          "2010-10-31"
+        ]
+      }
+    ]
+  }
+}

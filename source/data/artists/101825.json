@@ -45,6 +45,7 @@
   "expos": {
     "2011": [
       {
+        "i": "101825-2240-2011-03-19",
         "c": "DE",
         "n": "Big Picture (Orte / Projektionen)",
         "st": "Group",
@@ -57,18 +58,7 @@
         ]
       },
       {
-        "c": "DE",
-        "n": "Big Picture (Orte / Projektionen)",
-        "st": "Group",
-        "t": "Public Institution",
-        "ct": "Dusseldorf",
-        "o": "K21 Ständehaus",
-        "d": [
-          "2011-03-19",
-          "2011-08-14"
-        ]
-      },
-      {
+        "i": "101825-23117-2011-11-20",
         "c": "DE",
         "n": "Artist Of The Gallery",
         "st": "Group",
@@ -81,18 +71,7 @@
         ]
       },
       {
-        "c": "DE",
-        "n": "Princess Snow Flower",
-        "st": "Solo",
-        "t": "Private Gallery",
-        "ct": "Berlin",
-        "o": "Galerie Florent Tosin",
-        "d": [
-          "2011-09-09",
-          "2011-11-30"
-        ]
-      },
-      {
+        "i": "101825-23117-2011-09-09",
         "c": "DE",
         "n": "Princess Snow Flower",
         "st": "Solo",
@@ -107,6 +86,7 @@
     ],
     "2012": [
       {
+        "i": "101825-23117-2011-11-20",
         "c": "DE",
         "n": "Artist Of The Gallery",
         "st": "Group",
@@ -119,18 +99,7 @@
         ]
       },
       {
-        "c": "DE",
-        "n": "Group Show",
-        "st": "Group",
-        "t": "Private Gallery",
-        "ct": "Berlin",
-        "o": "Galerie Florent Tosin",
-        "d": [
-          "2012-09-12",
-          "2012-12-01"
-        ]
-      },
-      {
+        "i": "101825-23117-2012-09-12",
         "c": "DE",
         "n": "Group Show",
         "st": "Group",

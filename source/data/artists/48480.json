@@ -1,0 +1,131 @@
+{
+  "id": "48480",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:23:35",
+  "name": "Ivan Fayard",
+  "surname": "Fayard",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Crest (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1969",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "12745",
+  "r01": "11381",
+  "r02": "10214",
+  "r03": "8869",
+  "r04": "8087",
+  "r05": "7101",
+  "r06": "7189",
+  "r07": "7731",
+  "r08": "6126",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "23",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (7), Germany (2), Canada (1)",
+  "2005-shows-with": "Ivan Fayard (6), Philippe Decrauzat (4), Steven Parrino (4), John Tremblay (4), Sylvie Fanchon (3), Véronique Joumard (3), Blair Thurman (3), Alex Brown (2), Claude Closky (2), Delphine Coindet (2), Stephen Felton (2), Fischli & Weiss (2), Mona Hatoum (2), Vincent Lamouroux (2), Didier Marcel (2), Mathieu Mercier (2), Mrzyk & Moriceau (2), Bruno Peinado (2), Benoit Platéus (2), Éric Poitevin (2), Hugues Reip (2), Peter Saul (2), Michael Scott (2), Jim Shaw (2), Dan Walsh (2), Raphaël Zarka (2)",
+  "representing-galleries": "Galerie Domi Nostrae (39, Cours de la Liberté, 69003 Lyon, France); Galerie Houg (43 Rue Auguste Comte, 69002 Lyon, France); BFA Gallery (Barrierweg 60, 5298 LT Liempde, Netherlands)",
+  "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France)",
+  "first_name": "Ivan",
+  "last_name": "Fayard",
+  "genre": "m",
+  "birthDate": "1969-01-01",
+  "age": 45,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "48480-2328-2005-05-26",
+        "c": "BE",
+        "n": "Tableau - Ecrans",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Les filles du calvaire - Bruxelles",
+        "d": [
+          "2005-05-26",
+          "2005-07-09"
+        ]
+      },
+      {
+        "i": "48480-13907-2005-12-06",
+        "c": "US",
+        "n": "Participate ?",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Philadelphia, PA",
+        "o": "Basekamp space",
+        "d": [
+          "2005-12-06",
+          "2005-12-08"
+        ]
+      },
+      {
+        "i": "48480-14427-2005-04-16",
+        "c": "NL",
+        "n": "Ivan Fayard",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Liempde",
+        "o": "BFA Gallery",
+        "d": [
+          "2005-04-16",
+          "2005-05-29"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "48480-8691-2008-03-13",
+        "c": "CA",
+        "n": "WA - Temporary Autonomy Surface",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Ottawa, ON",
+        "o": "Galerie SAW Gallery",
+        "d": [
+          "2008-03-13",
+          "2008-03-29"
+        ]
+      },
+      {
+        "i": "48480-14700-2008-05-24",
+        "c": "DE",
+        "n": "Deformalismes",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Praz-Delavallade - Berlin",
+        "d": [
+          "2008-05-24",
+          "2008-07-19"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "48480-21416-2009-11-27",
+        "c": "DE",
+        "n": "surfacing",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Freiburg",
+        "o": "T66 Kulturwerk BBK Südbaden",
+        "d": [
+          "2009-11-27",
+          "2009-12-20"
+        ]
+      }
+    ]
+  }
+}

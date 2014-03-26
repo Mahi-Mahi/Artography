@@ -1,0 +1,559 @@
+{
+  "id": "15285",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:09:21",
+  "name": "Michel Blazy",
+  "surname": "Blazy",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Monaco (MC)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1966",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Installation",
+  "r00": "1310",
+  "r01": "1224",
+  "r02": "1271",
+  "r03": "1154",
+  "r04": "1099",
+  "r05": "1205",
+  "r06": "1188",
+  "r07": "1296",
+  "r08": "1218",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1992",
+  "all-shows-total": "118",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
+  "2005-shows-museums": "45",
+  "2005-countries-total": "France (37), Switzerland (4), Germany (3), Australia (1), Austria (1), Belgium (1), Greece (1), Israel (1), Italy (1), Japan (1), Mexico (1), Monaco (1), Poland (1), Russia (1), South Korea (1), Spain (1), United Kingdom (1), USA (1)",
+  "2005-shows-with": "Michel Blazy (53), Mathieu Mercier (8), Joseph Beuys (7), Pierre Bismuth (7), Thomas Hirschhorn (6), Christian Marclay (6), Philippe Ramette (6), Roman Signer (6), Jean-Luc Verna (6), Saâdane Afif (5), Francis Alys (5), Jean Luc Blanc (5), Stéphane Calais (5), Claude Closky (5), Wim Delvoye (5), Cyprien Gaillard (5), Carsten Höller (5), Elke Krystufek (5), Claude Lévêque (5), Gordon Matta-Clark (5), Paul McCarthy (5), Antoni Miralda (5), Dieter Roth (5), Daniel Spoerri (5), Pierre Ardouvin (4), Arman (4), John M Armleder (4), John Bock (4), Louise Bourgeois (4), Céleste Boursier-Mougenot (4), Richard Fauguet (4), Fischli & Weiss (4), Aurélien Froment (4), Anya Gallaccio (4), Rodney Graham (4), Camille Henrot (4), Fabrice Hybert (4), Raphaël Julliard (4), San Keller (4), Mike Kelley (4), Urs Lüthi (4), Philippe Mayaux (4), Jean-Luc Moulène (4), Nicolas Moulin (4), Gabriel Orozco (4), Man Ray (4), Ugo Rondinone (4), Mika Rottenberg (4), Claude Rutault (4), Anri Sala (4), Sarkís (4), André Thomkins (",
+  "representing-galleries": "Art:Concept (13 rue des Arquebusiers, 75003 Paris, France); Unlimited Contemporary Art (Kriezi 1 & Sarri, 10553 Athens, Greece)",
+  "collecting-museums": "Centre d'Art le LAIT (41 rue porta, 81000 Albi, France); FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); Domaine de Chaumont-sur-Loire - Centre d’Arts et de Nature (, 41150 Chaumont-sur-Loire, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France)",
+  "first_name": "Michel",
+  "last_name": "Blazy",
+  "genre": "m",
+  "birthDate": "1966-01-01",
+  "age": 48,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "15285-2318-2005-03-09",
+        "c": "AR",
+        "n": "Fondos Regionales de Arte Contemporáneo Île-de-France y Poitou-Charentes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Buenos Aires",
+        "o": "MAMBA - Museo de Arte Moderno de Buenos Aires",
+        "d": [
+          "2005-03-09",
+          "2005-04-30"
+        ]
+      },
+      {
+        "i": "15285-2921-2005-04-07",
+        "c": "US",
+        "n": "Monuments to the USA",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "San Francisco, CA",
+        "o": "CCA Wattis Institute for Contemporary Arts",
+        "d": [
+          "2005-04-07",
+          "2005-05-14"
+        ]
+      },
+      {
+        "i": "15285-5308-2005-05-26",
+        "c": "UY",
+        "n": "Proyecto Cono Sur - FRAC",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Montevideo",
+        "o": "Museo Nacional de Artes Visuales - MNAV",
+        "d": [
+          "2005-05-26",
+          "2005-07-03"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "15285-2730-2006-01-24",
+        "c": "US",
+        "n": "Space Boomerang",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "SI Swiss Institute",
+        "d": [
+          "2006-01-24",
+          "2006-03-09"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "15285-2226-2007-01-10",
+        "c": "US",
+        "n": "Let Everything Be Temporary, or When Is The Exhibition?",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "Apexart",
+        "d": [
+          "2007-01-10",
+          "2007-02-17"
+        ]
+      },
+      {
+        "i": "15285-2389-2007-02-17",
+        "c": "IS",
+        "n": "Presque Rien",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Reykjavik",
+        "o": "Nýlistasafnið - The Living Art Museum",
+        "d": [
+          "2007-02-17",
+          "2007-03-18"
+        ]
+      },
+      {
+        "i": "15285-22636-2007-11-07",
+        "c": "IT",
+        "n": "Living Material",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Turin",
+        "o": "PAV / Parco Arte Vivente",
+        "d": [
+          "2007-11-07",
+          "2007-12-16"
+        ]
+      },
+      {
+        "i": "15285-9121-2007-04-20",
+        "c": "AT",
+        "n": "Michel Blazy",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Dornbirn",
+        "o": "Kunstraum Dornbirn",
+        "d": [
+          "2007-04-20",
+          "2007-06-03"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "15285-16381-2008-02-02",
+        "c": "CH",
+        "n": "Atman-Atmen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Montreux",
+        "o": "Out of this world",
+        "d": [
+          "2008-02-02",
+          "2008-04-02"
+        ]
+      },
+      {
+        "i": "15285-3780-2008-07-26",
+        "c": "JP",
+        "n": "Hugues Reip - Parallel worlds",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Tokyo",
+        "o": "Museum of Contemporary Art Tokyo (MOT)",
+        "d": [
+          "2008-07-26",
+          "2008-09-28"
+        ]
+      },
+      {
+        "i": "15285-18189-2008-09-24",
+        "c": "IL",
+        "n": "Art Focus Jerusalem 2008",
+        "st": "Group",
+        "t": "Festival",
+        "ct": "Jerusalem",
+        "o": "Art Focus Jerusalem",
+        "d": [
+          "2008-09-24",
+          "2008-10-23"
+        ]
+      },
+      {
+        "i": "15285-22636-2008-11-01",
+        "c": "IT",
+        "n": "Ecosoft Art",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Turin",
+        "o": "PAV / Parco Arte Vivente",
+        "d": [
+          "2008-11-01",
+          "2009-01-04"
+        ]
+      },
+      {
+        "i": "15285-16467-2008-11-27",
+        "c": "MX",
+        "n": "La invención de lo cotidiano",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mexico City",
+        "o": "Museo Nacional de Arte - MUNAL",
+        "d": [
+          "2008-11-27",
+          "2009-03-15"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "15285-22636-2008-11-01",
+        "c": "IT",
+        "n": "Ecosoft Art",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Turin",
+        "o": "PAV / Parco Arte Vivente",
+        "d": [
+          "2008-11-01",
+          "2009-01-04"
+        ]
+      },
+      {
+        "i": "15285-16467-2008-11-27",
+        "c": "MX",
+        "n": "La invención de lo cotidiano",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mexico City",
+        "o": "Museo Nacional de Arte - MUNAL",
+        "d": [
+          "2008-11-27",
+          "2009-03-15"
+        ]
+      },
+      {
+        "i": "15285-15160-2009-06-18",
+        "c": "GB",
+        "n": "I Am By Birth A Genevese - Group Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Vegas Gallery",
+        "d": [
+          "2009-06-18",
+          "2009-07-12"
+        ]
+      },
+      {
+        "i": "15285-9756-2009-09-08",
+        "c": "CH",
+        "n": "I am by birth a genevese ; and my family is one of the most distinguished of that republic",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Geneva",
+        "o": "Forde - Espace d'art contemporain",
+        "d": [
+          "2009-09-08",
+          "2009-10-03"
+        ]
+      },
+      {
+        "i": "15285-2918-2009-09-24",
+        "c": "RU",
+        "n": "3rd Moscow Biennale of Contemporary Art",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Moscow",
+        "o": "Moscow Biennale of contemporary art",
+        "d": [
+          "2009-09-24",
+          "2009-10-22"
+        ]
+      },
+      {
+        "i": "15285-2231-2009-11-28",
+        "c": "DE",
+        "n": "Eating the Universe. Vom Essen in der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dusseldorf",
+        "o": "Kunsthalle Düsseldorf",
+        "d": [
+          "2009-11-28",
+          "2010-02-28"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "15285-2231-2009-11-28",
+        "c": "DE",
+        "n": "Eating the Universe. Vom Essen in der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dusseldorf",
+        "o": "Kunsthalle Düsseldorf",
+        "d": [
+          "2009-11-28",
+          "2010-02-28"
+        ]
+      },
+      {
+        "i": "15285-963-2010-04-24",
+        "c": "AT",
+        "n": "Eating the Universe - Vom Essen in der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Innsbruck",
+        "o": "Galerie im Taxispalais",
+        "d": [
+          "2010-04-24",
+          "2010-07-04"
+        ]
+      },
+      {
+        "i": "15285-4989-2010-09-18",
+        "c": "DE",
+        "n": "EAT ART. Vom Essen in der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Stuttgart",
+        "o": "Kunstmuseum Stuttgart",
+        "d": [
+          "2010-09-18",
+          "2011-01-09"
+        ]
+      },
+      {
+        "i": "15285-8444-2010-11-19",
+        "c": "ES",
+        "n": "on&on",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "La Casa Encendida",
+        "d": [
+          "2010-11-19",
+          "2011-01-16"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "15285-4989-2010-09-18",
+        "c": "DE",
+        "n": "EAT ART. Vom Essen in der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Stuttgart",
+        "o": "Kunstmuseum Stuttgart",
+        "d": [
+          "2010-09-18",
+          "2011-01-09"
+        ]
+      },
+      {
+        "i": "15285-8444-2010-11-19",
+        "c": "ES",
+        "n": "on&on",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "La Casa Encendida",
+        "d": [
+          "2010-11-19",
+          "2011-01-16"
+        ]
+      },
+      {
+        "i": "15285-1139-2011-04-16",
+        "c": "DE",
+        "n": "Über die Metapher des Wachstums",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Hannover",
+        "o": "Kunstverein Hannover",
+        "d": [
+          "2011-04-16",
+          "2011-06-26"
+        ]
+      },
+      {
+        "i": "15285-3158-2011-05-21",
+        "c": "CH",
+        "n": "Über die Metapher des Wachstums",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Basel",
+        "o": "Kunsthaus Baselland",
+        "d": [
+          "2011-05-21",
+          "2011-07-10"
+        ]
+      },
+      {
+        "i": "15285-2743-2011-07-26",
+        "c": "KR",
+        "n": "French Art Today: Marcel Duchamp Prize",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gwacheon",
+        "o": "National Museum of Contemporary Art Korea - Gwacheon",
+        "d": [
+          "2011-07-26",
+          "2011-10-16"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "15285-24720-2012-01-23",
+        "c": "AU",
+        "n": "Theatre Of The World",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hobart, TAS",
+        "o": "Mona - Museum of Old and New Art",
+        "d": [
+          "2012-01-23",
+          "2013-04-08"
+        ]
+      },
+      {
+        "i": "15285-20654-2012-02-02",
+        "c": "MC",
+        "n": "Le Silence Une Fiction",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Monaco",
+        "o": "Nouveau Musée National de Monaco",
+        "d": [
+          "2012-02-02",
+          "2012-04-03"
+        ]
+      },
+      {
+        "i": "15285-5638-2012-05-13",
+        "c": "CH",
+        "n": "Trait Papier, Un Essai Sur Le Dessin Contemporain",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Neuchâtel",
+        "o": "Musée des beaux-arts de La Chaux-de-Fonds",
+        "d": [
+          "2012-05-13",
+          "2012-08-12"
+        ]
+      },
+      {
+        "i": "15285-15313-2012-11-23",
+        "c": "PL",
+        "n": "The Castle in the Air. Séance of Imagination",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Poznan",
+        "o": "Centrum Kultury Zamek",
+        "d": [
+          "2012-11-23",
+          "2013-01-27"
+        ]
+      },
+      {
+        "i": "15285-10777-2012-12-01",
+        "c": "US",
+        "n": "Lost (in La)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Los Angeles, CA",
+        "o": "Los Angeles Municipal Art Gallery (LAMAG)",
+        "d": [
+          "2012-12-01",
+          "2013-01-27"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "15285-24720-2012-01-23",
+        "c": "AU",
+        "n": "Theatre Of The World",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hobart, TAS",
+        "o": "Mona - Museum of Old and New Art",
+        "d": [
+          "2012-01-23",
+          "2013-04-08"
+        ]
+      },
+      {
+        "i": "15285-15313-2012-11-23",
+        "c": "PL",
+        "n": "The Castle in the Air. Séance of Imagination",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Poznan",
+        "o": "Centrum Kultury Zamek",
+        "d": [
+          "2012-11-23",
+          "2013-01-27"
+        ]
+      },
+      {
+        "i": "15285-10777-2012-12-01",
+        "c": "US",
+        "n": "Lost (in La)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Los Angeles, CA",
+        "o": "Los Angeles Municipal Art Gallery (LAMAG)",
+        "d": [
+          "2012-12-01",
+          "2013-01-27"
+        ]
+      },
+      {
+        "i": "15285-27771-2013-03-07",
+        "c": "BE",
+        "n": "Collection Centre national des arts plastiques",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "CENTRALE for contemporary art",
+        "d": [
+          "2013-03-07",
+          "2013-06-09"
+        ]
+      },
+      {
+        "i": "15285-29424-2013-09-08",
+        "c": "GR",
+        "n": "ReMap 4",
+        "st": "Group",
+        "t": "Festival",
+        "ct": "Athens",
+        "o": "ReMap",
+        "d": [
+          "2013-09-08",
+          "2013-09-30"
+        ]
+      }
+    ]
+  }
+}

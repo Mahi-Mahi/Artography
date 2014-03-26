@@ -1,0 +1,77 @@
+{
+  "id": "89103",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:40:24",
+  "name": "Audrey Martin",
+  "surname": "Martin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Montpellier (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1983",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "46971",
+  "r01": "45206",
+  "r02": "60737",
+  "r03": "55794",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2010",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (6), Switzerland (1)",
+  "2005-shows-with": "Audrey Martin (5)",
+  "representing-galleries": "Gallery Gondwana (43 Todd Mall, 0870 Alice Springs, NT, Australia); Galerie Leonardo Agosti (3, Quai de l\\'Aspirant Herber, 34200 Sète, France)",
+  "collecting-museums": null,
+  "first_name": "Audrey",
+  "last_name": "Martin",
+  "genre": "c",
+  "birthDate": "1983-01-01",
+  "age": 31,
+  "age_range": "26-35",
+  "expos": {
+    "2010": [
+      {
+        "i": "89103-16150-2010-11-27",
+        "c": "CH",
+        "n": "Regionale 11",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Basel",
+        "o": "[plug.in]",
+        "d": [
+          "2010-11-27",
+          "2011-01-02"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "89103-16150-2010-11-27",
+        "c": "CH",
+        "n": "Regionale 11",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Basel",
+        "o": "[plug.in]",
+        "d": [
+          "2010-11-27",
+          "2011-01-02"
+        ]
+      }
+    ]
+  }
+}

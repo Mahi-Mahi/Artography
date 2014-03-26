@@ -1,0 +1,388 @@
+{
+  "id": "12887",
+  "mergedIDs": "339044",
+  "timestamp": "2014-02-22 06:08:20",
+  "name": "Nathalie Du Pasquier",
+  "surname": "Du Pasquier",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Bordeaux, Gironde (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1957",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "9839",
+  "r01": "11192",
+  "r02": "11016",
+  "r03": "9736",
+  "r04": "11645",
+  "r05": "10976",
+  "r06": "9896",
+  "r07": "8360",
+  "r08": "8651",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1993",
+  "all-shows-total": "34",
+  "2005-shows-biennials": "9",
+  "2005-shows-galleries": "9",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "Italy (5), France (4), Ireland (Republic) (4), Switzerland (2), Germany (1), Luxembourg (1), United Kingdom (1)",
+  "2005-shows-with": "Nathalie Du Pasquier (14), Luca Pancrazzi (3), Marco Cingolani (2), Aldo Damioli (2), Francesco De Grandi (2), Blaise Drummond (2), Richard Fauguet (2), Daniele Galliano (2), Mike  Giant (2), Fausto Gilberti (2), Giuliano Guatta (2), Daniel Johnston (2), Laurie Karp (2), Francesco Lauretta (2), Nick Miller (2), Cristina Pancini (2), Andrea Petrucci (2), Steve Piccolo (2), Andrea Salvino (2), Franck Scurti (2), Olivier Sévère (2)",
+  "representing-galleries": "Rubicon Gallery (10 St Stephens Green,  Dublin 2 Dublin, Ireland (Republic)); Galleria Corraini (Via I. Nievo 7/A, 46100 Mantova, Italy); Clio Calvi Rudy Volpi (Via Pontaccio 17, 20121 Milan, Italy)",
+  "collecting-museums": "IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
+  "first_name": "Nathalie",
+  "last_name": "Du",
+  "genre": "f",
+  "birthDate": "1957-01-01",
+  "age": 57,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "12887-8903-2005-05-15",
+        "c": "IT",
+        "n": "Rigorosamente bianco e nero",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bologna",
+        "o": "Galleria Studio G7",
+        "d": [
+          "2005-05-15",
+          "2005-06-30"
+        ]
+      },
+      {
+        "i": "12887-3140-2005-11-26",
+        "c": "IT",
+        "n": "Napoli presente. Posizioni e prospettive dell’arte contemporanea",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Naples",
+        "o": "PAN - Palazzo delle Arti di Napoli",
+        "d": [
+          "2005-11-26",
+          "2006-02-26"
+        ]
+      },
+      {
+        "i": "12887-7991-2005-12-03",
+        "c": "IE",
+        "n": "A Moment in Time",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dublin",
+        "o": "Temple Bar Gallery & Studios",
+        "d": [
+          "2005-12-03",
+          "2006-01-07"
+        ]
+      },
+      {
+        "i": "12887-4894-2005-12-10",
+        "c": "IT",
+        "n": "Luce",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mantova",
+        "o": "Galleria Corraini",
+        "d": [
+          "2005-12-10",
+          "2006-01-12"
+        ]
+      },
+      {
+        "i": "12887-4211-2005-12-17",
+        "c": "IE",
+        "n": "Happy Holiday",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dublin",
+        "o": "Rubicon Gallery",
+        "d": [
+          "2005-12-17",
+          "2005-12-23"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "12887-3140-2005-11-26",
+        "c": "IT",
+        "n": "Napoli presente. Posizioni e prospettive dell’arte contemporanea",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Naples",
+        "o": "PAN - Palazzo delle Arti di Napoli",
+        "d": [
+          "2005-11-26",
+          "2006-02-26"
+        ]
+      },
+      {
+        "i": "12887-7991-2005-12-03",
+        "c": "IE",
+        "n": "A Moment in Time",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dublin",
+        "o": "Temple Bar Gallery & Studios",
+        "d": [
+          "2005-12-03",
+          "2006-01-07"
+        ]
+      },
+      {
+        "i": "12887-4894-2005-12-10",
+        "c": "IT",
+        "n": "Luce",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mantova",
+        "o": "Galleria Corraini",
+        "d": [
+          "2005-12-10",
+          "2006-01-12"
+        ]
+      },
+      {
+        "i": "12887-5941-2006-04-11",
+        "c": "IT",
+        "n": "Nathalie Du Pasquier - Quadri a motore",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Milan",
+        "o": "Assab One",
+        "d": [
+          "2006-04-11",
+          "2006-05-04"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "12887-5941-2009-09-19",
+        "c": "IT",
+        "n": "La Grande Spolveratrice e altre storie",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Milan",
+        "o": "Assab One",
+        "d": [
+          "2009-09-19",
+          "2009-10-09"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "12887-1502-2010-06-08",
+        "c": "IT",
+        "n": "Orde di segnatori",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "Antonio Colombo Arte Contemporanea",
+        "d": [
+          "2010-06-08",
+          "2010-07-30"
+        ]
+      },
+      {
+        "i": "12887-3710-2010-07-23",
+        "c": "IE",
+        "n": "Close to Hand",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Cork",
+        "o": "Crawford Art Gallery",
+        "d": [
+          "2010-07-23",
+          "2010-10-09"
+        ]
+      },
+      {
+        "i": "12887-18517-2010-10-13",
+        "c": "CH",
+        "n": "Club 21",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Barbarian-Art Gallery",
+        "d": [
+          "2010-10-13",
+          "2010-10-23"
+        ]
+      },
+      {
+        "i": "12887-1502-2010-11-25",
+        "c": "IT",
+        "n": "Christmas Rodeo",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "Antonio Colombo Arte Contemporanea",
+        "d": [
+          "2010-11-25",
+          "2011-01-31"
+        ]
+      },
+      {
+        "i": "12887-5941-2010-11-11",
+        "c": "IT",
+        "n": "Ensemble",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Milan",
+        "o": "Assab One",
+        "d": [
+          "2010-11-11",
+          "2010-12-03"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "12887-1502-2010-11-25",
+        "c": "IT",
+        "n": "Christmas Rodeo",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "Antonio Colombo Arte Contemporanea",
+        "d": [
+          "2010-11-25",
+          "2011-01-31"
+        ]
+      },
+      {
+        "i": "12887-5128-2011-09-23",
+        "c": "LU",
+        "n": "Des Ensembles Faits Des Fragments D\\'un MÊme Monde",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Galerie Lucien Schweitzer",
+        "d": [
+          "2011-09-23",
+          "2011-11-17"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "12887-9493-2012-01-21",
+        "c": "CH",
+        "n": "hejma doxa/anthropocenus park",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Lausanne",
+        "o": "Circuit",
+        "d": [
+          "2012-01-21",
+          "2012-02-25"
+        ]
+      },
+      {
+        "i": "12887-4211-2012-02-25",
+        "c": "IE",
+        "n": "The God of Small Things (Part 1)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dublin",
+        "o": "Rubicon Gallery",
+        "d": [
+          "2012-02-25",
+          "2012-03-24"
+        ]
+      },
+      {
+        "i": "12887-4211-2012-07-07",
+        "c": "IE",
+        "n": "Undertones",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dublin",
+        "o": "Rubicon Gallery",
+        "d": [
+          "2012-07-07",
+          "2012-08-25"
+        ]
+      },
+      {
+        "i": "12887-24090-2012-11-03",
+        "c": "DE",
+        "n": "Elements (paintings And Constructions)",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Cologne",
+        "o": "Galerie Desaga",
+        "d": [
+          "2012-11-03",
+          "2013-01-26"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "12887-5941-2013-05-17",
+        "c": "IT",
+        "n": "  Il Viaggio di Roland Ultra - La Mostra",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Milan",
+        "o": "Assab One",
+        "d": [
+          "2013-05-17",
+          "2013-09-27"
+        ]
+      },
+      {
+        "i": "12887-24290-2013-11-21",
+        "c": "GB",
+        "n": "Les Fleurs Du Mal",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Belfast (Northern Ireland)",
+        "o": "Fenderesky Gallery",
+        "d": [
+          "2013-11-21",
+          "2013-12-21"
+        ]
+      },
+      {
+        "i": "12887-24090-2012-11-03",
+        "c": "DE",
+        "n": "Elements (paintings And Constructions)",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Cologne",
+        "o": "Galerie Desaga",
+        "d": [
+          "2012-11-03",
+          "2013-01-26"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "12887-4211-2008-02-28",
+        "c": "IE",
+        "n": "Nathalie Du Pasquier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Dublin",
+        "o": "Rubicon Gallery",
+        "d": [
+          "2008-02-28",
+          "2008-03-29"
+        ]
+      }
+    ]
+  }
+}

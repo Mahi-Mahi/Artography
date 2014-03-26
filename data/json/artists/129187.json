@@ -1,0 +1,103 @@
+{
+  "id": "129187",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:55:59",
+  "name": "Thomas Fougeirol",
+  "surname": "Fougeirol",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "(FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1965",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "14013",
+  "r01": "21107",
+  "r02": "18950",
+  "r03": "23600",
+  "r04": "22117",
+  "r05": "26249",
+  "r06": "37563",
+  "r07": "32900",
+  "r08": "27269",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2004",
+  "all-shows-total": "16",
+  "2005-shows-biennials": "11",
+  "2005-shows-galleries": "11",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (8), Germany (2), Belgium (1), USA (1)",
+  "2005-shows-with": "Thomas Fougeirol (6), Philippe Decrauzat (2), Julian Hoeber (2), Esther Kläs (2)",
+  "representing-galleries": "Galerie Guigon (39, rue de Charenton, 75012 Paris, France); Galerie Praz-Delavallade - Paris (5, Rue Des Haudriettes, 75003  Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Thomas",
+  "last_name": "Fougeirol",
+  "genre": "m",
+  "birthDate": "1965-01-01",
+  "age": 49,
+  "age_range": "46-55",
+  "expos": {
+    "2011": [
+      {
+        "i": "129187-27287-2011-04-09",
+        "c": "US",
+        "n": "Stone Soup",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "CLEARING - New York",
+        "d": [
+          "2011-04-09",
+          "2011-05-16"
+        ]
+      },
+      {
+        "i": "129187-27214-2011-04-09",
+        "c": "BE",
+        "n": "Stone Soup",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "CLEARING - Brussels",
+        "d": [
+          "2011-04-09",
+          "2011-05-16"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "129187-14700-2009-02-21",
+        "c": "DE",
+        "n": "Thomas Fougeirol",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Praz-Delavallade - Berlin",
+        "d": [
+          "2009-02-21",
+          "2009-04-04"
+        ]
+      },
+      {
+        "i": "129187-14230-2009-04-04",
+        "c": "DE",
+        "n": "Thomas Fougeirol",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Susanne Vielmetter Berlin Projects",
+        "d": [
+          "2009-04-04",
+          "2009-04-21"
+        ]
+      }
+    ]
+  }
+}
