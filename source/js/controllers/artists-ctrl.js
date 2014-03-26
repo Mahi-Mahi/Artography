@@ -1,11 +1,9 @@
-/**
- * Home controller definition
- * @scope Controllers
- */
-define(['./module.js'], function(app) {
-    "use strict";
+/* global define */
+"use strict";
 
-    app.controller('ArtistsController', ['$scope', '$location', 'dataService',
+define([], function() {
+
+    return ['$scope', '$location', 'dataService',
         function($scope, $location, dataService) {
 
             var years = dataService.data.years;
@@ -223,6 +221,8 @@ define(['./module.js'], function(app) {
                 });
             });
 
+            $scope.$apply();
+
             setInterval(function() {
                 angular.forEach(delayed_display, function(item, idx) {
                     delete delayed_display[idx];
@@ -338,12 +338,12 @@ define(['./module.js'], function(app) {
                         break;
                 }
 
-                angular.element('.entry-description p').html('<strong>' + period + '</strong> <br /><strong>' + artists + '</strong> français <br />' + verb + (nb_artists ? ' dans <strong>' + countries + '</strong>' : '') + '.');
+                jQuery('.entry-description p').html('<strong>' + period + '</strong> <br /><strong>' + artists + '</strong> français <br />' + verb + (nb_artists ? ' dans <strong>' + countries + '</strong>' : '') + '.');
             }
 
             $scope.showArtist = function(artist_id) {
                 console.log($location);
-                $location.path('/artiste/'+artist_id);
+                $location.path('/artiste/' + artist_id);
             }
 
             $scope.updateArtists = function() {
@@ -605,5 +605,5 @@ define(['./module.js'], function(app) {
 
         }
 
-    ]);
+    ];
 });

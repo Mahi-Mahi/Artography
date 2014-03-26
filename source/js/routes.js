@@ -19,8 +19,8 @@ define(['angular', 'app'], function(angular, app) {
             });
 
             $routeProvider.when('/artistes', {
-                templateUrl: '/js/modules/artists/artists.html',
-                controller: 'ArtistsController',
+                templateUrl: '/partials/artists.html',
+                controller: 'artistsController',
                 resolve: {
                     datasets: function(dataService) {
                         return dataService.init();
@@ -28,23 +28,15 @@ define(['angular', 'app'], function(angular, app) {
                 }
             });
 
-            $routeProvider.when('/artiste/:artistId', {
-                templateUrl: '/js/modules/artist/artist.html',
-                controller: 'ArtistController',
+            $routeProvider.when('/artiste/:id', {
+                templateUrl: '/partials/artist.html',
+                controller: 'artistController',
                 resolve: {
-                    datasets: function(dataService) {
-                        return dataService.init();
-                    }
-                }
-            });
-
-            $routeProvider.when('/artiste', {
-                templateUrl: '/js/modules/artist/artist.html',
-                controller: 'ArtistController',
-                resolve: {
-                    datasets: function(dataService) {
-                        return dataService.init();
-                    }
+                    datasets: ['$route', 'dataService',
+                        function($route, dataService) {
+                            return dataService.getArtist($route.current.params.id);
+                        }
+                    ]
                 }
             });
 

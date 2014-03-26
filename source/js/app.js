@@ -6,15 +6,17 @@ define([
 	'controllers',
 	'angularRoute',
 	'angularResource',
-    'angularLocalStorage',
-	'angularSanitize'
+	'angularLocalStorage',
+	'angularSanitize',
+	'raphael',
+	'jquery'
 	// 'angularAnimate',
 ], function(angular, filters, services, directives, controllers) {
 	'use strict';
 
 	// Declare app level module which depends on filters, and services
 
-    console.log("app.js");
+	console.log("app.js");
 
 	return angular.module('myApp', [
 		'ngRoute',
@@ -24,18 +26,15 @@ define([
 		'myApp.controllers',
 		'myApp.filters',
 		'myApp.services',
-		'myApp.directives',
-		'dataService'
+		'myApp.directives'
 	]);
 });
-
-
 
 /**
  * loads sub modules and wraps them up into the main module
  * this should be used for top-level module definitions only
  */
- /*
+/*
 define([
 	'angular',
 	'./config',

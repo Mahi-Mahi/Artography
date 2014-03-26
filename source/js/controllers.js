@@ -23,7 +23,16 @@ define(['angular', 'services'], function(angular) {
 				});
 			});
 		}
-	]);
+	])
 
+	.controller('artistController', ['$scope', '$injector',
+		function($scope, $injector) {
+			require(['controllers/artist-ctrl'], function(artistController) {
+				$injector.invoke(artistController, this, {
+					'$scope': $scope
+				});
+			});
+		}
+	]);
 
 });

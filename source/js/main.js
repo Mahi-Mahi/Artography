@@ -7,8 +7,10 @@ require.config({
 		angular: '/vendor/angular/angular',
 		angularRoute: '/vendor/angular-route/angular-route',
 		angularSanitize: '/vendor/angular-sanitize/angular-sanitize',
-        angularResource: '/vendor/angular-resource/angular-resource',
-        angularLocalStorage: '/vendor/angular-local-storage/angular-local-storage',
+		angularResource: '/vendor/angular-resource/angular-resource',
+		angularLocalStorage: '/vendor/angular-local-storage/angular-local-storage',
+		raphael: '/vendor/raphael/raphael',
+		jquery: '/vendor/jquery/dist/jquery',
 		// angularAnimate: '/vendor/angular-animate/angular-animate',
 		// angularMocks: '/vendor/angular-mocks/angular-mocks',
 		text: '/vendor/requirejs-text/text'
@@ -19,8 +21,8 @@ require.config({
 		},
 		'angularRoute': ['angular'],
 		'angularSanitize': ['angular'],
-        'angularResource': ['angular'],
-        'angularLocalStorage': ['angular'],
+		'angularResource': ['angular'],
+		'angularLocalStorage': ['angular'],
 		// 'angularAnimate': ['angular'],
 		'angularMocks': {
 			deps: ['angular'],

@@ -1,14 +1,12 @@
-/**
- * Home controller definition
- * @scope Controllers
- */
-define(['./module'], function(app) {
-	"use strict";
+/* global define */
+"use strict";
 
-	app.controller('ArtistController', ['$scope', 'dataService',
-		function($scope, dataService) {
+define([], function() {
 
-			console.log("ArtistsController");
+	return ['$scope', '$location', 'dataService',
+		function($scope, $location, dataService) {
+
+			console.log("ArtistController");
 
 			var years = dataService.data.years;
 
@@ -268,5 +266,5 @@ define(['./module'], function(app) {
 
 		}
 
-	]);
+	];
 });
