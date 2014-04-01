@@ -16,8 +16,6 @@ define([], function() {
 
 			$scope.artist = dataService.data.artists[$route.current.params.id];
 
-			console.log($scope.artist);
-
 			$scope.periods = [];
 			angular.forEach($scope.artist.expos, function(expo, year) {
 				$scope.periods.push({
@@ -40,8 +38,11 @@ define([], function() {
 				});
 			});
 
+			var all_expos = {};
+
 			// expos list
 			$scope.expos = [];
+			$scope.expos_list = [];
 			// Countries list
 			$scope.countries = [];
 			$scope.organizers = {};
@@ -49,6 +50,14 @@ define([], function() {
 				name: 'TOTO',
 				counter: 123
 			}];
+
+			var expo_colors = {
+				'Temporary-Exhibition-Space': '#cccccc',
+				'Public-Institution': '#00a79d',
+				'Private-Gallery': '#ef4036',
+				'Non-profit-organization': '#9e1e62',
+				'Festival': '#8cc63e'
+			}
 
 			// incremented at each filters change
 			var iteration = 0;
@@ -142,12 +151,31 @@ define([], function() {
 			function update() {
 				parseData();
 				drawChart();
+				updateExpos();
 			}
+
+			var updateExpos = function() {
+				$scope.expos_list = [];
+				angular.forEach($scope.expos, function(expo_id) {
+					$scope.expos_list.push(all_expos[expo_id]);
+				});
+			};
+
+			$scope.searchExpos = function() {
+				var i = 0;
+				var re = new RegExp($scope.searchText, "i");
+				angular.forEach($scope.expos_list, function(expo, idx) {
+					if (re.test(expo.name)) {
+						$scope.expos_list[idx].enabled = 'enabled' + (i++ % 2 === 0 ? ' even' : '');
+					} else {
+						$scope.expos_list[idx].enabled = '';
+					}
+				});
+			};
+
 			$scope.$apply();
 
 			function parseData() {
-
-				console.log("parseData");
 
 				iteration++;
 
@@ -155,8 +183,9 @@ define([], function() {
 					return;
 
 				var expos = $scope.artist.expos[$scope.filters.period];
-				console.log("expos : " + expos.length);
+				// console.log("expos : " + expos.length);
 
+				$scope.expos = [];
 				$scope.countries = [];
 				$scope.organizers = {};
 				max_expos = 0;
@@ -170,14 +199,26 @@ define([], function() {
 				});
 
 				angular.forEach(expos, function(expo) {
-					console.log(expo.st);
 					if (data.cc[expo.c]) {
 						var country = data.continents[data.cc[expo.c]].countries[expo.c];
 						var expos = country.expos;
 						if (!expos[expo.i]) {
 							expos[expo.i] = {
 								slice: null,
-								iteration: 0
+								iteration: 0,
+								showtype: expo.st.replace(/\s/g, '-'),
+								type: expo.t.replace(/\s/g, '-'),
+							};
+							all_expos[expo.i] = {
+								id: expo.i,
+								showtype: expo.st.replace(/\s/g, '-'),
+								type: expo.t.replace(/\s/g, '-'),
+								period: [expo.d],
+								organizer: expo.o,
+								name: expo.n,
+								city: expo.ct,
+								country: country,
+								enabled: 'enabled'
 							};
 						}
 						if (expos[expo.i].iteration < iteration) {
@@ -192,13 +233,13 @@ define([], function() {
 						if ($scope.countries.indexOf(expo.c) == -1) {
 							$scope.countries.push(expo.c);
 						}
-						if (!$scope.organizers[expo.o]) {
-							$scope.organizers[expo.o] = {
-								name: expo.o,
+						if (!$scope.organizers[expo.t]) {
+							$scope.organizers[expo.t] = {
+								name: expo.t,
 								counter: 1
 							};
 						} else {
-							$scope.organizers[expo.o].counter++;
+							$scope.organizers[expo.t].counter++;
 						}
 						if ($scope.expos.indexOf(expo.i) == -1) {
 							$scope.expos.push(expo.i);
@@ -213,11 +254,8 @@ define([], function() {
 
 				nb_countries = $scope.countries.length;
 
-				// $scope.organizers_list = [];
-				// angular.forEach($scope.organizers, function(organizer) {
-				// 	$scope.organizers_list.push(organizer);
-				// });
-				// console.log($scope.organizers_list);
+				console.log($scope.organizers);
+
 				updateStatus($scope.expos.length, nb_countries);
 
 			}
@@ -229,14 +267,11 @@ define([], function() {
 
 			function drawChart() {
 
-				console.log("drawChart");
-
-				console.log("nb_countries : " + nb_countries);
-				console.log("max_expos : " + max_expos);
-
+				// console.log("nb_countries : " + nb_countries);
+				// console.log("max_expos : " + max_expos);
 				var layer_interval = Math.min(2, 10 / max_expos);
 
-				var a = (360 - (nb_countries * a_interval)) / nb_countries;
+				var a = nb_countries == 1 ? 360 : (360 - (nb_countries * a_interval)) / nb_countries;
 				var rotation = 0;
 
 				var new_filledArc, previous_expo_filledArc;
@@ -252,11 +287,10 @@ define([], function() {
 
 						angular.forEach(country.expos, function(expo, expo_id) {
 
-							// console.log(expo);
+							var layerW = expo.iteration < iteration ? 0 : divW / 9 / max_expos;
 
-							var layerW = expo.iteration < iteration ? 0 : divW / 3 / max_expos;
-
-							radius += layerW + layer_interval;
+							if (layerW)
+								radius += layerW + layer_interval;
 
 							// filledArc : [ X Position, Y Position, Radius, Width, Angle, Rotation ]
 							var previous_filledArc = expo.filledArc;
@@ -268,16 +302,35 @@ define([], function() {
 								} else {
 									new_filledArc = [originX, originY, central_radius, layerW, a, country.rotation === undefined ? rotation : country.rotation];
 								}
+
+								var fill = expo_colors[expo.type];
+								if (expo.showtype == 'Solo') {
+									fill = "url(/assets/images/radio-checked.png)";
+								}
 								expo.slice = chart.path().attr({
-									fill: '#FF0000',
-									// stroke: "#FF4444",
+									fill: fill,
 									'stroke-width': 0,
 									filledArc: new_filledArc
 								}).animate({
 									filledArc: expo.filledArc
-								}, animation_delay);
+								}, animation_delay)
+									.hover(function() {
+										var expo_id = this.node.classList[2].replace(/expo-/, '');
+										var the_expo = all_expos[expo_id];
+										if (the_expo) {
+											jQuery('#popup').attr('class', 'expo-' + the_expo.type).html(
+												'<p class="name">' + the_expo.name +
+												'</p>' +
+												'<p class="period">Du ' + the_expo.period[0] + ' Au ' + the_expo.period[1] + '</p>' +
+												'<p class="period">Organisé par ' + the_expo.organizer + '</p>' +
+												'<p class="place">@' + the_expo.city + ',' + the_expo.country + '</p>').stop().fadeIn();
+										}
+									}, function() {
+										jQuery('#popup').stop().fadeOut();
+									});
 
 								expo.slice.node.setAttribute('class', 'country-' + country_code + ' expo expo-' + expo_id);
+
 							} else {
 								expo.slice.animate({
 									filledArc: expo.filledArc

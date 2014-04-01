@@ -482,10 +482,12 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 // NEWS
 
 .news-block {
+	//
+	display: none;
+	//
 	background:#58585b;
 	border-radius:8px;
 	color:#fff;
-	display: block;
 	font-size:em(24px);
 	margin: 0;
 	padding:16px;

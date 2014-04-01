@@ -3,9 +3,9 @@
 	<div class="entry-header clearfix">
 		<nav id="main-nav">
 			<ul class="unstyled">
-				<li class="main-nav-item"><a href="#" class="home-item">Accueil</a></li>
-				<li class="main-nav-item"><a href="#" class="active">Artistes</a></li>
-				<li class="main-nav-item"><a href="#">Galeries</a></li>
+				<li class="main-nav-item"><a href="/" class="home-item">Accueil</a></li>
+				<li class="main-nav-item"><a href="/artistes/" class="active">Artistes</a></li>
+				<li class="main-nav-item"><a href="/galeries/">Galeries</a></li>
 			</ul>
 		</nav><!-- .main-nav -->
 		<p class="go-back">
@@ -17,7 +17,7 @@
 					{{artist.name}}
 				</h1>
 				<div class="entry-meta clearfix">
-					{{labels.genre[artist.genre]}} - {{artist/age}} ans
+					{{labels.genre[artist.genre]}} - {{artist.age}} ans
 					<ul class="unstyled">
 						<li ng-repeat="link in artist_links" class="entry-meta-item"><a href="{{link.url}}" target="_blank">{{title}}</a></li>
 					</ul>
@@ -62,7 +62,7 @@
 						<dt>Organisateur</dt>
 					</dl>
 						<ul>
-						<li ng-repeat="organizer in organizers_list"><strong>{{organizers.name}}</strong>{{organizers.counter}}</li>
+						<li ng-repeat="organizer in organizers"><strong>{{organizers.name}}</strong>{{organizers.counter}}</li>
 						</ul>
 				</fieldset>
 			</div><!-- .legend -->
@@ -72,6 +72,8 @@
 		<div class="content">
 
 			<div id="canvas"></div>
+
+			<div id="popup"></div>
 
 			&nbsp;
 
@@ -85,11 +87,12 @@
 
 			<div class="right-sidebar artist-details-sidebar">
 				<form action="about:blank">
-					<input type="text" value="" class="input-sidebar" placeholder="Rechercher une exposition..." />
+					<input type="text" value="" class="input-sidebar" placeholder="Rechercher une exposition..." ng-model="searchText" ng-change="searchExpos();" />
 					<ul class="unstyled">
-						<li ng-repeat="news in artist_news"  class="exposition-item"><a href="{{news.url}}" target="_blank" class="{{news.color}}">{{title}}</a></li>
+						<li ng-repeat="expo in expos_list"  class="exposition-item {{expo.enabled}}"><a href="{{expo.url}}" target="_blank" class="{{expo.type}}">{{expo.name}}</a></li>
 					</ul>
 				</form>
+
 
 				<div class="news-block">
 					<h2>Actualités</h2>
