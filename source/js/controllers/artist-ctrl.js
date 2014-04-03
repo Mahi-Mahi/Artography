@@ -161,6 +161,7 @@ define([], function() {
 				angular.forEach($scope.expos, function(expo_id) {
 					$scope.expos_list.push(all_expos[expo_id]);
 				});
+				$scope.searchExpos();
 			};
 
 			$scope.searchExpos = function() {

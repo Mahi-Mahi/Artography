@@ -86,7 +86,7 @@ years = []
 af_artists = fetch('/v0/artist/list')
 
 
-af_artists.shuffle.slice(0,5000).each do |artist|
+af_artists.shuffle.slice(0,50000).each do |artist|
 
 	name = artist['name'].split(/ /)
 	artist[:first_name] = name[0]
