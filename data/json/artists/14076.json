@@ -1,0 +1,258 @@
+{
+  "id": "14076",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:08:50",
+  "name": "Didier Courbot",
+  "surname": "Courbot",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Hazebrouck, Nord (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1967",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": "Sculpture",
+  "r00": "6736",
+  "r01": "6154",
+  "r02": "5635",
+  "r03": "6192",
+  "r04": "5672",
+  "r05": "4864",
+  "r06": "4062",
+  "r07": "4154",
+  "r08": "3615",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1998",
+  "all-shows-total": "46",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (10), Canada (3), Czech Republic (2), Japan (1), Russia (1)",
+  "2005-shows-with": "Didier Courbot (14), Philippe Cazal (2), Marcel Dinahet (2), Pierre Filliquet (2), Francesco Finizio (2), Dora García (2), Thomas Hirschhorn (2), Patrick Howlett (2), Jan Kopp (2), Axel Lieber (2), Fernande Petitdemange (2), Didier Rittener (2), Peter Rösel (2), Jean-Michel Sanejouand (2), Kristina Solomoukha (2), Lawrence Weiner (2)",
+  "representing-galleries": "Susan Hobbs Gallery (137 Tecumseth Street, M6J 2H2 Toronto, ON, Canada); SCAI the Bathhouse (Kashiwayu-Ato, 6-1-23 Yanaka, Taito-ku, 110-0001 Tokyo, Japan)",
+  "collecting-museums": "Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France)",
+  "first_name": "Didier",
+  "last_name": "Courbot",
+  "genre": "f",
+  "birthDate": "1967-01-01",
+  "age": 47,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "14076-4920-2005-09-28",
+        "c": "JP",
+        "n": "Yokohama 2005 - International Triennale of Contemporary Art",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Yokohama",
+        "o": "Yokohama Triennale",
+        "d": [
+          "2005-09-28",
+          "2005-12-18"
+        ]
+      },
+      {
+        "i": "14076-141-2005-09-30",
+        "c": "IT",
+        "n": "SENZA CONFINE (15th year) - SAN GIMIGNANO",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "San Gimignano",
+        "o": "Galleria Continua - San Gimignano",
+        "d": [
+          "2005-09-30",
+          "2005-10-22"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "14076-494-2006-06-14",
+        "c": "DE",
+        "n": "Unsichtbae Welten",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Freiburg",
+        "o": "Kunstverein Freiburg",
+        "d": [
+          "2006-06-14",
+          "2006-08-06"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "14076-6900-2007-03-23",
+        "c": "CY",
+        "n": "Crossings - a Contemporary View",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nicosia",
+        "o": "The Nicosia Municipal Arts Centre",
+        "d": [
+          "2007-03-23",
+          "2007-05-20"
+        ]
+      },
+      {
+        "i": "14076-851-2007-05-10",
+        "c": "DE",
+        "n": "Romantischer Konzeptualismus",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuremberg",
+        "o": "Kunsthalle Nürnberg",
+        "d": [
+          "2007-05-10",
+          "2007-07-15"
+        ]
+      },
+      {
+        "i": "14076-1983-2007-07-20",
+        "c": "JP",
+        "n": "Casino Royale",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Tokyo",
+        "o": "SCAI the Bathhouse",
+        "d": [
+          "2007-07-20",
+          "2007-08-31"
+        ]
+      },
+      {
+        "i": "14076-2279-2007-09-14",
+        "c": "AT",
+        "n": "Romantischer Konzeptualismus",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Vienna",
+        "o": "Bawag Contemporary - Bawag Foundation",
+        "d": [
+          "2007-09-14",
+          "2007-12-01"
+        ]
+      },
+      {
+        "i": "14076-7884-2007-05-05",
+        "c": "CA",
+        "n": "Didier Courbot",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Toronto, ON",
+        "o": "Susan Hobbs Gallery",
+        "d": [
+          "2007-05-05",
+          "2007-06-16"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "14076-7884-2008-06-26",
+        "c": "CA",
+        "n": "Düsseldorf Contemporary Redux",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Toronto, ON",
+        "o": "Susan Hobbs Gallery",
+        "d": [
+          "2008-06-26",
+          "2008-08-09"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "14076-7884-2010-07-08",
+        "c": "CA",
+        "n": "Site Exercises",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Toronto, ON",
+        "o": "Susan Hobbs Gallery",
+        "d": [
+          "2010-07-08",
+          "2010-08-21"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "14076-9037-2011-08-10",
+        "c": "CZ",
+        "n": "Bread and Salt",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Prague",
+        "o": "Karlin Studios",
+        "d": [
+          "2011-08-10",
+          "2011-09-11"
+        ]
+      },
+      {
+        "i": "14076-8587-2011-09-08",
+        "c": "RU",
+        "n": "Impossible Community",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Moscow",
+        "o": "Moscow museum of modern art - MMOMA",
+        "d": [
+          "2011-09-08",
+          "2011-11-06"
+        ]
+      },
+      {
+        "i": "14076-7884-2011-10-27",
+        "c": "CA",
+        "n": "Didier Courbot",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Toronto, ON",
+        "o": "Susan Hobbs Gallery",
+        "d": [
+          "2011-10-27",
+          "2011-12-03"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "14076-13316-2012-01-24",
+        "c": "CZ",
+        "n": "Monochrom",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Prague",
+        "o": "Skolska 28 - Communication Space",
+        "d": [
+          "2012-01-24",
+          "2012-02-29"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "14076-1983-2013-07-02",
+        "c": "JP",
+        "n": "Double Message",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Tokyo",
+        "o": "SCAI the Bathhouse",
+        "d": [
+          "2013-07-02",
+          "2013-08-02"
+        ]
+      }
+    ]
+  }
+}

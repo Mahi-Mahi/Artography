@@ -1,0 +1,77 @@
+{
+  "id": "10400",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:07:08",
+  "name": "Roger Neyrat",
+  "surname": "Neyrat",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Nerais-les-Bains (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1932",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "59429",
+  "r01": "53253",
+  "r02": "46209",
+  "r03": "39509",
+  "r04": "33804",
+  "r05": "28278",
+  "r06": "23505",
+  "r07": "18981",
+  "r08": "22415",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1997",
+  "all-shows-total": "6",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Hungary (1)",
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": "MACLA Museo de Arte Contemporaneo Latinoamericano (Calle 50 entre 6 y 7, C.P. 1900 La Plata, Argentina); Museum of Geometric and MADI Art (3109 Carlisle Street, 75204-1194 Dallas, TX, USA)",
+  "first_name": "Roger",
+  "last_name": "Neyrat",
+  "genre": "m",
+  "birthDate": "1932-01-01",
+  "age": 82,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "10400-8587-2006-05-10",
+        "c": "RU",
+        "n": "supreMADIsm - Homage To The Masters Of Russian Constructivism",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Moscow",
+        "o": "Moscow museum of modern art - MMOMA",
+        "d": [
+          "2006-05-10",
+          "2006-06-05"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "10400-28728-2013-03-22",
+        "c": "HU",
+        "n": "Madi Univerzum - 20 éves A Mobil Madi Múzeum",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Budapest",
+        "o": "Kassak Museum",
+        "d": [
+          "2013-03-22",
+          "2013-06-09"
+        ]
+      }
+    ]
+  }
+}

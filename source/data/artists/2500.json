@@ -1,0 +1,403 @@
+{
+  "id": "2500",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:03:21",
+  "name": "Jean-François Dubreuil",
+  "surname": "Dubreuil",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Tours (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1946",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "8938",
+  "r01": "9480",
+  "r02": "11094",
+  "r03": "12974",
+  "r04": "18467",
+  "r05": "32852",
+  "r06": "27511",
+  "r07": "24003",
+  "r08": "19969",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1998",
+  "all-shows-total": "37",
+  "2005-shows-biennials": "14",
+  "2005-shows-galleries": "14",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "Germany (13), France (12), Austria (1), Poland (1)",
+  "2005-shows-with": "Jean-François Dubreuil (24), Yves Popet (11), Sigurd Rompza (10), Martin Wörn (10), Ode Bertrand (9), Josef Linschinger (9), Jean Pierre Viot (9), Charles Bézie (8), John Carter (8), Julian Gil (8), Henri Prosi (8), Jo Kuhn (7), Knut Navrot (7), Jo Niemeyer (7), Albert Rubens (7), Marie-Thérèse Vacossin (7), Gido Wiederkehr (7), Hellmut Bruch (6), Gilbert Decock (6), Gerhard Frömel (6), Hans-Jörg Glattfelder (6), Gerhard Hotter (6), Claude Pasquer (6), Miriam Prantl (6), Torsten Ridell (6), Satoru Sato (6), Norbert Thomas (6), Piet van Zon (6), Maria Arvelaiz-Gordon (5), Jan Berdyszak (5), Gerhard Jürgen Blum-Kwiatkowski (5), Pierre Boillot (5), Carlos Cruz-Diez (5), Jo Enzweiler (5), Ingo Glass (5), Hanns Herpich (5), Willem Kloppers (5), Mitsouko Mori (5), Ben Muthofer (5), Diet Sayler (5), Kurt Teuscher (5), Elise Delbrassine (4), Roger Demyttenaere (4), István Haász (4), Gottfried Honegger (4), Alfons Kunen (4), André van Lier (4), Jan Meyer-Rogge (4), László Ottó (4), Karin Radoy (4), Danie",
+  "representing-galleries": "Galerie Lahumière (17 Rue du Parc Royal, 75003 Paris, France); März Galerie (Beethovenstr. 18, 68165 Mannheim, Germany); galerie konkret martin woern (Hauptstr. 29, 79295 Sulzburg, Germany); La Vitrine (rue des Alpes 32, 1700 Fribourg, Switzerland)",
+  "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); Espace de l’art concret (Château de Mouans - Mouans-Sartoux, 06370 Mouans Sartoux, France); LaM - Lille Métropole musée d'art moderne, d'art contemporain et d'art brut (1 allée du musée, 59650 Villeneuve d'Ascq, France); Forum Konkrete Kunst (Peterskirche auf dem Petersberg, 99084 Erfurt, Germany); Modern Gallery, László Vass Collection (Vár u. 3-5-7., 8200 Veszprém, Hungary)",
+  "first_name": "Jean-François",
+  "last_name": "Dubreuil",
+  "genre": "m",
+  "birthDate": "1946-01-01",
+  "age": 68,
+  "age_range": "46-55",
+  "expos": {
+    "2013": [
+      {
+        "i": "2500-30580-2013-04-19",
+        "c": "CH",
+        "n": "Jean-François Dubreuil, Les nouvelles sont bonnes",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Fribourg",
+        "o": "La Vitrine",
+        "d": [
+          "2013-04-19",
+          "2013-06-22"
+        ]
+      },
+      {
+        "i": "2500-27666-2012-12-01",
+        "c": "DE",
+        "n": "Concrete: The Small Format",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2012-12-01",
+          "2013-01-26"
+        ]
+      }
+    ],
+    "2005": [
+      {
+        "i": "2500-525-2005-11-19",
+        "c": "DE",
+        "n": "Kleinformate von 52 europäischen Künstlern",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Ettlingen",
+        "o": "Galerie Emilia Suciu - konstruktiv-konkrete Kunst",
+        "d": [
+          "2005-11-19",
+          "2006-01-29"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "2500-525-2005-11-19",
+        "c": "DE",
+        "n": "Kleinformate von 52 europäischen Künstlern",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Ettlingen",
+        "o": "Galerie Emilia Suciu - konstruktiv-konkrete Kunst",
+        "d": [
+          "2005-11-19",
+          "2006-01-29"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "2500-19507-2007-12-08",
+        "c": "DE",
+        "n": "Frisch gestrichen – peinture fraîche",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2007-12-08",
+          "2008-01-20"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "2500-19507-2007-12-08",
+        "c": "DE",
+        "n": "Frisch gestrichen – peinture fraîche",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2007-12-08",
+          "2008-01-20"
+        ]
+      },
+      {
+        "i": "2500-5024-2008-04-11",
+        "c": "DE",
+        "n": "8. Galerientage im Kunstverein Mannheim",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mannheim",
+        "o": "März Galerie",
+        "d": [
+          "2008-04-11",
+          "2008-04-13"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "2500-11236-2009-06-04",
+        "c": "AT",
+        "n": "Victor Vasarely und die konstruktive Kunst aus Frankreich gestern und heute",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Klagenfurt",
+        "o": "Stadtgalerie Klagenfurt",
+        "d": [
+          "2009-06-04",
+          "2009-10-04"
+        ]
+      },
+      {
+        "i": "2500-6776-2009-06-14",
+        "c": "DE",
+        "n": "paris konkret - 7 positionen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sulzburg",
+        "o": "galerie konkret martin woern",
+        "d": [
+          "2009-06-14",
+          "2009-07-12"
+        ]
+      },
+      {
+        "i": "2500-525-2009-12-05",
+        "c": "DE",
+        "n": "geometrisch-abstrakt-kinetisch",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Ettlingen",
+        "o": "Galerie Emilia Suciu - konstruktiv-konkrete Kunst",
+        "d": [
+          "2009-12-05",
+          "2010-01-31"
+        ]
+      },
+      {
+        "i": "2500-27666-2009-12-10",
+        "c": "DE",
+        "n": "Works on Papers",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2009-12-10",
+          "2010-02-27"
+        ]
+      },
+      {
+        "i": "2500-19507-2009-12-10",
+        "c": "DE",
+        "n": "Arbeiten auf Papier – konkret. 40 Jahre Galerie St. Johann",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2009-12-10",
+          "2010-02-27"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "2500-525-2009-12-05",
+        "c": "DE",
+        "n": "geometrisch-abstrakt-kinetisch",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Ettlingen",
+        "o": "Galerie Emilia Suciu - konstruktiv-konkrete Kunst",
+        "d": [
+          "2009-12-05",
+          "2010-01-31"
+        ]
+      },
+      {
+        "i": "2500-27666-2009-12-10",
+        "c": "DE",
+        "n": "Works on Papers",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2009-12-10",
+          "2010-02-27"
+        ]
+      },
+      {
+        "i": "2500-19507-2009-12-10",
+        "c": "DE",
+        "n": "Arbeiten auf Papier – konkret. 40 Jahre Galerie St. Johann",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2009-12-10",
+          "2010-02-27"
+        ]
+      },
+      {
+        "i": "2500-11914-2010-09-03",
+        "c": "DE",
+        "n": "Couleur et Geometrie",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Halle (Saale)",
+        "o": "Kunstverein Talstrasse e.V.",
+        "d": [
+          "2010-09-03",
+          "2010-10-10"
+        ]
+      },
+      {
+        "i": "2500-751-2010-11-18",
+        "c": "DE",
+        "n": "Farbe und Geometrie - Konkrete Kunst der Gegenwart in Europa",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuremberg",
+        "o": "Kunsthaus Nürnberg",
+        "d": [
+          "2010-11-18",
+          "2011-01-09"
+        ]
+      },
+      {
+        "i": "2500-19507-2010-12-10",
+        "c": "DE",
+        "n": "Konkrete Konzepte",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2010-12-10",
+          "2011-01-29"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "2500-751-2010-11-18",
+        "c": "DE",
+        "n": "Farbe und Geometrie - Konkrete Kunst der Gegenwart in Europa",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuremberg",
+        "o": "Kunsthaus Nürnberg",
+        "d": [
+          "2010-11-18",
+          "2011-01-09"
+        ]
+      },
+      {
+        "i": "2500-19507-2010-12-10",
+        "c": "DE",
+        "n": "Konkrete Konzepte",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2010-12-10",
+          "2011-01-29"
+        ]
+      },
+      {
+        "i": "2500-24000-2011-02-11",
+        "c": "PL",
+        "n": "Kolor i Geometria",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Kielce",
+        "o": "Nationalmuseum in Kielce / Muzeum Narodowego w Kielcach",
+        "d": [
+          "2011-02-11",
+          "2011-04-03"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "2500-8986-2012-05-07",
+        "c": "DE",
+        "n": "Statics and dynamics in the geometric-constructive art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bonn",
+        "o": "Arithmeum",
+        "d": [
+          "2012-05-07",
+          "2012-09-01"
+        ]
+      },
+      {
+        "i": "2500-10220-2012-06-06",
+        "c": "DE",
+        "n": "Où donc, et quand ?",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Tanlay",
+        "o": "Centre d'art de l'Yonne",
+        "d": [
+          "2012-06-06",
+          "2012-09-16"
+        ]
+      },
+      {
+        "i": "2500-5024-2012-09-14",
+        "c": "DE",
+        "n": "Diagonal",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mannheim",
+        "o": "März Galerie",
+        "d": [
+          "2012-09-14",
+          "2012-10-20"
+        ]
+      },
+      {
+        "i": "2500-6776-2012-10-21",
+        "c": "DE",
+        "n": "Accrochage",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sulzburg",
+        "o": "galerie konkret martin woern",
+        "d": [
+          "2012-10-21",
+          "2012-11-17"
+        ]
+      },
+      {
+        "i": "2500-27666-2012-12-01",
+        "c": "DE",
+        "n": "Concrete: The Small Format",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2012-12-01",
+          "2013-01-26"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "56967",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:27:02",
+  "name": "Anne Slacik",
+  "surname": "Slacik",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Narbonne (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1959",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "49584",
+  "r01": "45728",
+  "r02": "41434",
+  "r03": "36976",
+  "r04": "39411",
+  "r05": "39603",
+  "r06": "39713",
+  "r07": "38867",
+  "r08": "48501",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1989",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (5)",
+  "2005-shows-with": "Anne Slacik (2)",
+  "representing-galleries": "Galerie d´art Ka&Nao (6 rue Aubert Dubayet, 38000 Grenoble, France); A Contrario (6 avenue de la Libération, 87000 Limoges, France); Galerie Hélène Trintignan (21, rue Saint Guilhem, 34000 Montpellier, France); Galerie Lucien Schweitzer (24 avenue Monterey, 2163 Luxembourg, Luxembourg); Galerie Le Violon Bleu - Sidi Bou Said (12 Place Sidi Hassine, 2026 Sidi Bou Said, Tunisia); Galerie Le Violon Bleu - London (23 Maddox street, Mayfair, W1S 2QJ London (England), United Kingdom)",
+  "collecting-museums": null,
+  "first_name": "Anne",
+  "last_name": "Slacik",
+  "genre": "f",
+  "birthDate": "1959-01-01",
+  "age": 55,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "56967-22700-2005-04-22",
+        "c": "BE",
+        "n": "Made in France",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Liège",
+        "o": "Monos Gallery",
+        "d": [
+          "2005-04-22",
+          "2005-05-29"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "56967-22700-2007-06-07",
+        "c": "BE",
+        "n": "Anne Slacik",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Liège",
+        "o": "Monos Gallery",
+        "d": [
+          "2007-06-07",
+          "2007-07-01"
+        ]
+      }
+    ]
+  }
+}

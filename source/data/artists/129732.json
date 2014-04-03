@@ -1,0 +1,159 @@
+{
+  "id": "129732",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:56:10",
+  "name": "Mode 2",
+  "surname": "Mode 2",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1967",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "36958",
+  "r01": "34739",
+  "r02": "32213",
+  "r03": "38364",
+  "r04": "34143",
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2009",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "Germany (3), United Kingdom (3), Italy (1)",
+  "2005-shows-with": "Mode 2 (6), Invader (3), Lucy McLauchlan (3), ZEVS (3), Akim (2), Herbert Baglione (2), Blu (2), BOXI (2), Bronco (2), Dave the Chimp (2), David Choe (2), Brad Downey (2), DTagno (2), Ben Eine (2), Shepard Fairey (2), Conor Harrington (2), Charlie Isoe (2), Mark Jenkins (2), JR (2), Daniel Man (2), Antony Micallef (2), Os Gemeos (2), Mirko Reisser (2), Swoon (2), Tilt (2), Jonathan Yeo (2), Zezão (2)",
+  "representing-galleries": "Lucas Carrieri Art Gallery (Torstrasse 96, 10119 Berlin, Germany); Carhartt Gallery (Schusterinsel 9, 79576 Weil am Rhein, Germany); Lazarides Gallery (11 Rathbone Place, W1T 1HR London (England), United Kingdom)",
+  "collecting-museums": null,
+  "first_name": "Mode",
+  "last_name": "2",
+  "genre": "c",
+  "birthDate": "1967-01-01",
+  "age": 47,
+  "age_range": "46-55",
+  "expos": {
+    "2009": [
+      {
+        "i": "129732-10665-2009-05-15",
+        "c": "GB",
+        "n": "Grow Up",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lazarides Gallery",
+        "d": [
+          "2009-05-15",
+          "2009-06-25"
+        ]
+      },
+      {
+        "i": "129732-2188-2009-05-16",
+        "c": "DE",
+        "n": "Urban Art - Werke aus der Sammlung Reinking",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bremen",
+        "o": "Weserburg | Museum für moderne Kunst",
+        "d": [
+          "2009-05-16",
+          "2009-08-30"
+        ]
+      },
+      {
+        "i": "129732-8687-2009-10-15",
+        "c": "DE",
+        "n": "Artotale - Leuphana Urban Art Project",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lüneburg",
+        "o": "Kunstraum der Leuphana Universität Lüneburg",
+        "d": [
+          "2009-10-15",
+          "2009-10-09"
+        ]
+      },
+      {
+        "i": "129732-10665-2009-12-03",
+        "c": "GB",
+        "n": "Grifters show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lazarides Gallery",
+        "d": [
+          "2009-12-03",
+          "2010-01-16"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "129732-10665-2009-12-03",
+        "c": "GB",
+        "n": "Grifters show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lazarides Gallery",
+        "d": [
+          "2009-12-03",
+          "2010-01-16"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "129732-3754-2011-06-30",
+        "c": "IT",
+        "n": "Kindergarten",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Modena",
+        "o": "Galleria Civica di Modena",
+        "d": [
+          "2011-06-30",
+          "2011-09-18"
+        ]
+      },
+      {
+        "i": "129732-19331-2011-09-23",
+        "c": "DE",
+        "n": "Offerings || Mode2",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Lucas Carrieri Art Gallery",
+        "d": [
+          "2011-09-23",
+          "2011-12-17"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "129732-10665-2012-08-24",
+        "c": "GB",
+        "n": "Klimt Illustrated",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lazarides Gallery",
+        "d": [
+          "2012-08-24",
+          "2012-09-01"
+        ]
+      }
+    ]
+  }
+}

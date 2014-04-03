@@ -1,0 +1,92 @@
+{
+  "id": "170459",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:12:39",
+  "name": "Nicolas Boillot",
+  "surname": "Boillot",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Pontarlier (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "59833",
+  "r01": "56661",
+  "r02": "83198",
+  "r03": "77427",
+  "r04": "70879",
+  "r05": "63981",
+  "r06": "56695",
+  "r07": "56815",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "4",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "United Kingdom (1)",
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Nicolas",
+  "last_name": "Boillot",
+  "genre": "m",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-35",
+  "expos": {
+    "2006": [
+      {
+        "i": "170459-16122-2006-03-16",
+        "c": "CH",
+        "n": "25th VIPER",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Basel",
+        "o": "Viper International",
+        "d": [
+          "2006-03-16",
+          "2006-03-20"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "170459-6147-2007-10-02",
+        "c": "CL",
+        "n": "La 8ª Bienal de Video y Nuevos Medios de Santiago",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Santiago",
+        "o": "Bienal de Video y Artes Mediales",
+        "d": [
+          "2007-10-02",
+          "2007-10-28"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "170459-1803-2012-05-19",
+        "c": "GB",
+        "n": "Born In 1987: The Animated Gif",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "The Photographers' Gallery",
+        "d": [
+          "2012-05-19",
+          "2012-07-01"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "110122",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:48:27",
+  "name": "Nicolas Boulard",
+  "surname": "Boulard",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "(FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1976",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "32633",
+  "r01": "30193",
+  "r02": "31044",
+  "r03": "29178",
+  "r04": "27979",
+  "r05": "29274",
+  "r06": "31224",
+  "r07": "38479",
+  "r08": "44305",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "15",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (8), Portugal (1)",
+  "2005-shows-with": "Nicolas Boulard (8), Fayçal Baghriche (2), Jean-Marc Chapoulie (2), Paul-Armand Gette (2), Pierre Leguillon (2), Philippe Ramette (2)",
+  "representing-galleries": null,
+  "collecting-museums": "FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France)",
+  "first_name": "Nicolas",
+  "last_name": "Boulard",
+  "genre": "m",
+  "birthDate": "1976-01-01",
+  "age": 38,
+  "age_range": "36-45",
+  "expos": {
+    "2006": [
+      {
+        "i": "110122-16122-2006-03-16",
+        "c": "CH",
+        "n": "25th VIPER",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Basel",
+        "o": "Viper International",
+        "d": [
+          "2006-03-16",
+          "2006-03-20"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "110122-22867-2010-09-18",
+        "c": "PT",
+        "n": "Trienal do Vale do Tejo 2010",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Vale do Tejo",
+        "o": "Trienal do Vale do Tejo",
+        "d": [
+          "2010-09-18",
+          "2010-10-10"
+        ]
+      }
+    ]
+  }
+}

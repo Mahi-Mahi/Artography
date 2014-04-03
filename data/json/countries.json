@@ -1,5 +1,9 @@
 {
   "Africa": {
+    "AO": {
+      "fr": "Angola",
+      "en": "Angola"
+    },
     "BJ": {
       "fr": "Bénin",
       "en": "Benin"
@@ -8,17 +12,41 @@
       "fr": "Côte D'Ivoire",
       "en": "Côte D'Ivoire"
     },
+    "CM": {
+      "fr": "Cameroun",
+      "en": "Cameroon"
+    },
+    "DZ": {
+      "fr": "Algérie",
+      "en": "Algeria"
+    },
     "EG": {
       "fr": "Égypte",
       "en": "Egypt"
+    },
+    "GH": {
+      "fr": "Ghana",
+      "en": "Ghana"
     },
     "MA": {
       "fr": "Maroc",
       "en": "Morocco"
     },
+    "ML": {
+      "fr": "Mali",
+      "en": "Mali"
+    },
     "RE": {
       "fr": "Réunion",
       "en": "Réunion"
+    },
+    "SN": {
+      "fr": "Sénégal",
+      "en": "Senegal"
+    },
+    "TN": {
+      "fr": "Tunisie",
+      "en": "Tunisia"
     },
     "ZA": {
       "fr": "Afrique du Sud",
@@ -34,9 +62,17 @@
       "fr": "Arménie",
       "en": "Armenia"
     },
+    "AZ": {
+      "fr": "Azerbaïdjan",
+      "en": "Azerbaijan"
+    },
     "CN": {
       "fr": "Chine",
       "en": "China"
+    },
+    "CY": {
+      "fr": "Chypre",
+      "en": "Cyprus"
     },
     "GE": {
       "fr": "Géorgie",
@@ -58,21 +94,49 @@
       "fr": "Iran",
       "en": "Iran"
     },
+    "JO": {
+      "fr": "Jordanie",
+      "en": "Jordan"
+    },
     "JP": {
       "fr": "Japon",
       "en": "Japan"
+    },
+    "KH": {
+      "fr": "Cambodge",
+      "en": "Cambodia"
     },
     "KR": {
       "fr": "Corée du Sud",
       "en": "Korea (South)"
     },
+    "KW": {
+      "fr": "Koweït",
+      "en": "Kuwait"
+    },
     "LB": {
       "fr": "Liban",
       "en": "Lebanon"
     },
+    "PH": {
+      "fr": "Philippines",
+      "en": "Philippines"
+    },
+    "PS": {
+      "fr": "Palestina",
+      "en": "Palestine"
+    },
+    "QA": {
+      "fr": "Qatar",
+      "en": "Qatar"
+    },
     "SG": {
       "fr": "Singapour",
       "en": "Singapore"
+    },
+    "SY": {
+      "fr": "Syrie",
+      "en": "Syria"
     },
     "TH": {
       "fr": "Thaïlande",
@@ -81,6 +145,10 @@
     "TW": {
       "fr": "Taïwan",
       "en": "Taiwan"
+    },
+    "VN": {
+      "fr": "Viêt Nam",
+      "en": "Vietnam"
     }
   },
   "Australia": {
@@ -194,6 +262,10 @@
       "fr": "Moldavie",
       "en": "Moldova"
     },
+    "ME": {
+      "fr": "Monténégro",
+      "en": "Crna Gora"
+    },
     "MK": {
       "fr": "Macédoine",
       "en": "Macedonia"
@@ -256,6 +328,18 @@
       "fr": "Canada",
       "en": "Canada"
     },
+    "CR": {
+      "fr": "Costa Rica",
+      "en": "Costa Rica"
+    },
+    "CU": {
+      "fr": "Cuba",
+      "en": "Cuba"
+    },
+    "DO": {
+      "fr": "République Dominicaine",
+      "en": "Dominican Republic"
+    },
     "GT": {
       "fr": "Guatemala",
       "en": "Guatemala"
@@ -298,9 +382,21 @@
       "fr": "Équateur",
       "en": "Ecuador"
     },
+    "PE": {
+      "fr": "Pérou",
+      "en": "Peru"
+    },
+    "PY": {
+      "fr": "Paraguay",
+      "en": "Paraguay"
+    },
     "UY": {
       "fr": "Uruguay",
       "en": "Uruguay"
+    },
+    "VE": {
+      "fr": "Venezuela",
+      "en": "Venezuela"
     }
   }
 }

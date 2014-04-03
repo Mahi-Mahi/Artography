@@ -1,0 +1,77 @@
+{
+  "id": "27076",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:14:38",
+  "name": "Marc Boucherot",
+  "surname": "Boucherot",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Annecy (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1968",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "50903",
+  "r01": "46510",
+  "r02": "41541",
+  "r03": "36774",
+  "r04": "32134",
+  "r05": "27505",
+  "r06": "23344",
+  "r07": "19284",
+  "r08": "18108",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "4",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": null,
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": "FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
+  "first_name": "Marc",
+  "last_name": "Boucherot",
+  "genre": "m",
+  "birthDate": "1968-01-01",
+  "age": 46,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "27076-18972-2005-10-07",
+        "c": "IT",
+        "n": "Emergency Biennal 2005",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Bolzano",
+        "o": "Emergency Biennal",
+        "d": [
+          "2005-10-07",
+          "2005-10-28"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "27076-13190-2006-07-08",
+        "c": "CA",
+        "n": "Emergency Biennale in Chechnya",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vancouver, BC",
+        "o": "Centre A - Vancouver International Centre for Contemporary Asian Art",
+        "d": [
+          "2006-07-08",
+          "2006-08-19"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "383334",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 08:34:14",
+  "name": "Thomas Jorion",
+  "surname": "Jorion",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1976",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "72220",
+  "r01": "104997",
+  "r02": "103457",
+  "r03": null,
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2011",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (4), Italy (1), USA (1)",
+  "2005-shows-with": "Thomas Jorion (2)",
+  "representing-galleries": "Galerie Valérie Lefebvre (68 rue Léonard Danel, 59000 Lille, France); Podbielski Contemporary (Koppenplatz 5, 10115 Berlin, Germany)",
+  "collecting-museums": null,
+  "first_name": "Thomas",
+  "last_name": "Jorion",
+  "genre": "m",
+  "birthDate": "1976-01-01",
+  "age": 38,
+  "age_range": "36-45",
+  "expos": {
+    "2011": [
+      {
+        "i": "383334-26466-2011-11-14",
+        "c": "US",
+        "n": "Timeless Islands I",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "PX Photography Gallery",
+        "d": [
+          "2011-11-14",
+          "2011-11-23"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "383334-12779-2013-10-08",
+        "c": "IT",
+        "n": "Thomas Jorion - Timeless Islands",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Rome",
+        "o": "Sala 1",
+        "d": [
+          "2013-10-08",
+          "2013-11-15"
+        ]
+      }
+    ]
+  }
+}

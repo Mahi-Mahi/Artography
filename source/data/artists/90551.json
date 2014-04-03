@@ -1,0 +1,105 @@
+{
+  "id": "90551",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:40:59",
+  "name": "Marc Lamy",
+  "surname": "Lamy",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Lyon (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1939",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "92512",
+  "r01": "88866",
+  "r02": "83135",
+  "r03": "78653",
+  "r04": "71476",
+  "r05": "64416",
+  "r06": "56655",
+  "r07": "49407",
+  "r08": "42622",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": null,
+  "2005-countries-total": "USA (1)",
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Marc",
+  "last_name": "Lamy",
+  "genre": "m",
+  "birthDate": "1939-01-01",
+  "age": 75,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "90551-2959-2005-02-24",
+        "c": "US",
+        "n": "Art Brut Drawings From Europe",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Andrew Edlin Gallery",
+        "d": [
+          "2005-02-24",
+          "2005-04-02"
+        ]
+      },
+      {
+        "i": "90551-2959-2005-06-17",
+        "c": "US",
+        "n": "Summer Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Andrew Edlin Gallery",
+        "d": [
+          "2005-06-17",
+          "2005-09-03"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "90551-2959-2006-05-05",
+        "c": "US",
+        "n": "5 Year Anniversary Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Andrew Edlin Gallery",
+        "d": [
+          "2006-05-05",
+          "2006-06-17"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "90551-2959-2011-10-29",
+        "c": "US",
+        "n": "All Folked Up!",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Andrew Edlin Gallery",
+        "d": [
+          "2011-10-29",
+          "2011-11-12"
+        ]
+      }
+    ]
+  }
+}

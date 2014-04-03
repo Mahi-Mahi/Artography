@@ -1,0 +1,77 @@
+{
+  "id": "303534",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 08:04:00",
+  "name": "Steven Guermeur",
+  "surname": "Guermeur",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Compiègne (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1980",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "47667",
+  "r01": "88465",
+  "r02": "83830",
+  "r03": "78185",
+  "r04": "71815",
+  "r05": "66523",
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2008",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (2), Austria (1), Germany (1)",
+  "2005-shows-with": "Steven Guermeur (2)",
+  "representing-galleries": "0gms (12 Lyuben Karavelov Street, app.11, 1142 Sofia, Bulgaria)",
+  "collecting-museums": null,
+  "first_name": "Steven",
+  "last_name": "Guermeur",
+  "genre": "m",
+  "birthDate": "1980-01-01",
+  "age": 34,
+  "age_range": "26-35",
+  "expos": {
+    "2013": [
+      {
+        "i": "303534-1132-2013-06-08",
+        "c": "DE",
+        "n": "Group Exhibition - …gestiftet, geschenkt, geliehen",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bodenburg",
+        "o": "Kunstverein Bad Salzdetfurth e.V.",
+        "d": [
+          "2013-06-08",
+          "2013-07-07"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "303534-3518-2008-11-01",
+        "c": "AT",
+        "n": "Steven Guermeur - Before the facts #2",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Galerie Kunstbuero",
+        "d": [
+          "2008-11-01",
+          "2008-11-18"
+        ]
+      }
+    ]
+  }
+}

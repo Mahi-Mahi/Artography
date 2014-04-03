@@ -1,0 +1,118 @@
+{
+  "id": "277488",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:53:47",
+  "name": "Nicolas Sassoon",
+  "surname": "Sassoon",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1981",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "31925",
+  "r01": "43863",
+  "r02": "100643",
+  "r03": "97850",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2010",
+  "all-shows-total": "8",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (4), Canada (3), Mexico (1)",
+  "2005-shows-with": "Nicolas Sassoon (5)",
+  "representing-galleries": "The Sunday Painter (1st Floor, 12-16 Blenheim Grove, SE15 4QL London (England), United Kingdom)",
+  "collecting-museums": null,
+  "first_name": "Nicolas",
+  "last_name": "Sassoon",
+  "genre": "m",
+  "birthDate": "1981-01-01",
+  "age": 33,
+  "age_range": "26-35",
+  "expos": {
+    "2010": [
+      {
+        "i": "277488-22910-2010-05-29",
+        "c": "CA",
+        "n": "No Sex No Life",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Vancouver, BC",
+        "o": "304 days",
+        "d": [
+          "2010-05-29",
+          "2010-05-30"
+        ]
+      },
+      {
+        "i": "277488-22910-2010-12-11",
+        "c": "CA",
+        "n": "Hot spring",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Vancouver, BC",
+        "o": "304 days",
+        "d": [
+          "2010-12-11",
+          "2010-12-18"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "277488-20912-2012-03-17",
+        "c": "MX",
+        "n": "Plastic Ono Kuchi Kaiai",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mexico City",
+        "o": "PRETEEN GALLERY",
+        "d": [
+          "2012-03-17",
+          "2012-04-16"
+        ]
+      },
+      {
+        "i": "277488-12004-2012-07-13",
+        "c": "CA",
+        "n": "Nicolas Sassoon - Waves",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Vancouver, BC",
+        "o": "CAG - Vancouver Contemporary Art Gallery",
+        "d": [
+          "2012-07-13",
+          "2013-01-30"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "277488-12004-2012-07-13",
+        "c": "CA",
+        "n": "Nicolas Sassoon - Waves",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Vancouver, BC",
+        "o": "CAG - Vancouver Contemporary Art Gallery",
+        "d": [
+          "2012-07-13",
+          "2013-01-30"
+        ]
+      }
+    ]
+  }
+}

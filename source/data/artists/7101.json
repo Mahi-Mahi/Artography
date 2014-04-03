@@ -1,0 +1,90 @@
+{
+  "id": "7101",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:05:38",
+  "name": "Kamel Berkouk",
+  "surname": "Berkouk",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Mulhouse, Haut-Rhin (FR)",
+  "birth day": "9",
+  "birth month": "12",
+  "birth year": "1967",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "82659",
+  "r01": "78580",
+  "r02": "72510",
+  "r03": "66383",
+  "r04": "59587",
+  "r05": "52932",
+  "r06": "46150",
+  "r07": "39496",
+  "r08": "39854",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "5",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": null,
+  "2005-shows-with": null,
+  "representing-galleries": "Galerie Lisette Alibert (26, Place des Vosges, 75003 Paris, France); Daniel Blaise Thorens Fine Art Gallery AG (Aeschenvorstad 15, CH-4051 Basel, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Kamel",
+  "last_name": "Berkouk",
+  "genre": "c",
+  "birthDate": "1967-12-09",
+  "age": 46,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "7101-367-2005-12-02",
+        "c": "CH",
+        "n": "Kleinformate - 200 Werke",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Basel",
+        "o": "Daniel Blaise Thorens Fine Art Gallery AG",
+        "d": [
+          "2005-12-02",
+          "2005-12-24"
+        ]
+      },
+      {
+        "i": "7101-367-2005-01-14",
+        "c": "CH",
+        "n": "KAMEL BERKOUK - Ölgemälde / Pastelle",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Basel",
+        "o": "Daniel Blaise Thorens Fine Art Gallery AG",
+        "d": [
+          "2005-01-14",
+          "2005-02-12"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "7101-367-2006-09-01",
+        "c": "CH",
+        "n": "Kamel Berkouk - Ölgemalde - Pastelle",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Basel",
+        "o": "Daniel Blaise Thorens Fine Art Gallery AG",
+        "d": [
+          "2006-09-01",
+          "2006-09-23"
+        ]
+      }
+    ]
+  }
+}

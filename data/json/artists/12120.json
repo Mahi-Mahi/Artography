@@ -1,0 +1,161 @@
+{
+  "id": "12120",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:07:57",
+  "name": "Catherine Poncin",
+  "surname": "Poncin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Dijon (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1953",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "40616",
+  "r01": "37548",
+  "r02": "40489",
+  "r03": "37673",
+  "r04": "35572",
+  "r05": "38764",
+  "r06": "35633",
+  "r07": "30213",
+  "r08": "48679",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "14",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (3), Morocco (2), Italy (1), Jordan (1), Netherlands (1)",
+  "2005-shows-with": "Catherine Poncin (7), Sofia Aguiar (3), Ninar Esber (3), Seamus Farrell (3), Otobong Nkanga (3), Younès Rahmoun (3), Batoul S\\'himi (3), James Webb (3), Mustapha Akrim (2), Yto Barrada (2), Gabriella Ciancimino (2), Tomás Colaço (2), Mohssin Harraki (2), Bouchra Khalili (2), Faouzi Laâtiris (2), Bernard Marcadé (2), Karim Rafi (2), Naoko Takahashi (2), John Zarobell (2)",
+  "representing-galleries": "Galerie Les filles du calvaire - Bruxelles (Boulevard Barthélémy, Kanal 20, 1000 Brussels, Belgium); Galerie les filles du calvaire - Paris (17, rue des Filles-du-calvaire, 75003 Paris, France); L’appartement 22 (279, avenue Mohamed V,  Rabat, Morocco)",
+  "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France)",
+  "first_name": "Catherine",
+  "last_name": "Poncin",
+  "genre": "f",
+  "birthDate": "1953-01-01",
+  "age": 61,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "12120-19682-2006-04-19",
+        "c": "CA",
+        "n": "Built In The Subject Photography",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Gatineau, QC",
+        "o": "Axeneo07",
+        "d": [
+          "2006-04-19",
+          "2006-04-17"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "12120-22481-2009-11-19",
+        "c": "MA",
+        "n": "3rd AiM International Biennale",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Marrakech",
+        "o": "Marrakech Biennale",
+        "d": [
+          "2009-11-19",
+          "2010-01-20"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "12120-22481-2009-11-19",
+        "c": "MA",
+        "n": "3rd AiM International Biennale",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Marrakech",
+        "o": "Marrakech Biennale",
+        "d": [
+          "2009-11-19",
+          "2010-01-20"
+        ]
+      },
+      {
+        "i": "12120-8274-2010-11-13",
+        "c": "JO",
+        "n": "Sentences on the banks and other activities",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amman",
+        "o": "Darat al Funum",
+        "d": [
+          "2010-11-13",
+          "2011-02-28"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "12120-8274-2010-11-13",
+        "c": "JO",
+        "n": "Sentences on the banks and other activities",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amman",
+        "o": "Darat al Funum",
+        "d": [
+          "2010-11-13",
+          "2011-02-28"
+        ]
+      },
+      {
+        "i": "12120-1300-2011-03-04",
+        "c": "IT",
+        "n": "Memoria Variabile",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "Galleria Milano",
+        "d": [
+          "2011-03-04",
+          "2011-04-09"
+        ]
+      },
+      {
+        "i": "12120-8641-2011-10-10",
+        "c": "MA",
+        "n": "Travaux pour le changement (Working For Change)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Rabat",
+        "o": "L’appartement 22",
+        "d": [
+          "2011-10-10",
+          "2011-11-27"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "12120-3096-2012-03-17",
+        "c": "NL",
+        "n": "The French Connection",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nijmegen",
+        "o": "Museum Het Valkhof",
+        "d": [
+          "2012-03-17",
+          "2012-07-22"
+        ]
+      }
+    ]
+  }
+}

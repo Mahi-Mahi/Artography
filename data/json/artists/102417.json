@@ -1,0 +1,92 @@
+{
+  "id": "102417",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:45:22",
+  "name": "Eric La Casa",
+  "surname": "La Casa",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Tours (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1968",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "30721",
+  "r01": "28782",
+  "r02": "62161",
+  "r03": "86646",
+  "r04": "80008",
+  "r05": "86859",
+  "r06": "78807",
+  "r07": null,
+  "r08": null,
+  "awards": "Sound art first prize, Bourges, France.,Pierre Schaeffer's Center, Paris, France.,Pierre Schaeffer's Center, Paris, France.,Soundscape before 2000 Festival, Amsterdam, Netherlands.",
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "4",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "3",
+  "2005-countries-total": "Australia (1), France (1), United Kingdom (1)",
+  "2005-shows-with": "Eric La Casa (3)",
+  "representing-galleries": "Galerie Isabelle Gounod (13, rue Chapon, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Eric",
+  "last_name": "La",
+  "genre": "m",
+  "birthDate": "1968-01-01",
+  "age": 46,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "102417-7976-2007-02-01",
+        "c": "US",
+        "n": "Reflected Waves - Eric La Casa and Jean-Luc Guionnet",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Portland, OR",
+        "o": "Portland Art Center",
+        "d": [
+          "2007-02-01",
+          "2007-02-24"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "102417-22864-2009-07-31",
+        "c": "AU",
+        "n": "Magnetic Traces",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Carlton, VIC",
+        "o": "RMIT Project Space / Spare Room",
+        "d": [
+          "2009-07-31",
+          "2009-08-21"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "102417-2247-2012-06-19",
+        "c": "GB",
+        "n": "Soundworks",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "ICA - Institute of Contemporary Arts London",
+        "d": [
+          "2012-06-19",
+          "2012-09-16"
+        ]
+      }
+    ]
+  }
+}

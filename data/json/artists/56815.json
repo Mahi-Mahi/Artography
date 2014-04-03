@@ -1,0 +1,107 @@
+{
+  "id": "56815",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:26:59",
+  "name": "Rémy Hysbergue",
+  "surname": "Hysbergue",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Valenciennes (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1967",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "9449",
+  "r01": "8697",
+  "r02": "9241",
+  "r03": "9366",
+  "r04": "8642",
+  "r05": "15034",
+  "r06": "12812",
+  "r07": "10391",
+  "r08": "12102",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2001",
+  "all-shows-total": "27",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (14), Germany (3)",
+  "2005-shows-with": "Rémy Hysbergue (11), Daniel Schlier (3), Emily Bates (2), Anna Baumgart (2), David Brognon & Stéphanie Rollin (2), Roe Ethridge (2), Olivier Filippi (2), Bernard Frize (2), Vincent Ganivet (2), Gérard Gasiorowski (2)",
+  "representing-galleries": "Galerie Jean Brolly (16, rue de Montmorency, 75003 Paris, France); Bourouina Gallery (Charlottenstr. 1-2, 10969 Berlin, Germany)",
+  "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France)",
+  "first_name": "Rémy",
+  "last_name": "Hysbergue",
+  "genre": "m",
+  "birthDate": "1967-01-01",
+  "age": 47,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "56815-2160-2005-07-01",
+        "c": "US",
+        "n": "Elusive Surface",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Nancy Hoffman Gallery",
+        "d": [
+          "2005-07-01",
+          "2005-09-10"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "56815-16952-2008-06-14",
+        "c": "DE",
+        "n": "What's up 2009",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Bourouina Gallery",
+        "d": [
+          "2008-06-14",
+          "2008-08-02"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "56815-16952-2012-01-28",
+        "c": "DE",
+        "n": "Remy Hysbergue & Kiko Perez",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Bourouina Gallery",
+        "d": [
+          "2012-01-28",
+          "2012-03-10"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "56815-16952-2009-06-27",
+        "c": "DE",
+        "n": "Surfaces",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Bourouina Gallery",
+        "d": [
+          "2009-06-27",
+          "2009-09-19"
+        ]
+      }
+    ]
+  }
+}

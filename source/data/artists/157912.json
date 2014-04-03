@@ -1,0 +1,131 @@
+{
+  "id": "157912",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:07:45",
+  "name": "Cecile Desvignes",
+  "surname": "Desvignes",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Villecresnes (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1973",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "16372",
+  "r01": "15156",
+  "r02": "14801",
+  "r03": "22684",
+  "r04": "37922",
+  "r05": "39094",
+  "r06": "33627",
+  "r07": "57507",
+  "r08": "55558",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "13",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "10",
+  "2005-countries-total": "France (7), Germany (3)",
+  "2005-shows-with": "Cecile Desvignes (10), Dominique Ghesquiere (7), Régis Perray (7), Freya Hattenberger (6), Christian Jendreiko (6), Antoine Petitprez (6), Ivan Bazak (5), Julien Bismuth (5), Karolin Meunier (5), Thomas Mohren (5), Roseline Rannoch (5), Mathilde Rosier (5), Jürgen Stollhans (5), Elsa Tomkowiak (5), Etienne Bossut (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Cecile",
+  "last_name": "Desvignes",
+  "genre": "f",
+  "birthDate": "1973-01-01",
+  "age": 41,
+  "age_range": "36-45",
+  "expos": {
+    "2010": [
+      {
+        "i": "157912-2298-2010-11-27",
+        "c": "DE",
+        "n": "Transfer France-nrw",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mönchengladbach",
+        "o": "Städtisches Museum Abteiberg",
+        "d": [
+          "2010-11-27",
+          "2011-01-23"
+        ]
+      },
+      {
+        "i": "157912-2293-2010-11-27",
+        "c": "DE",
+        "n": "Passage",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2010-11-27",
+          "2011-01-23"
+        ]
+      },
+      {
+        "i": "157912-2293-2010-11-27",
+        "c": "DE",
+        "n": "Transfer France-nrw",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2010-11-27",
+          "2012-01-23"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "157912-2298-2010-11-27",
+        "c": "DE",
+        "n": "Transfer France-nrw",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mönchengladbach",
+        "o": "Städtisches Museum Abteiberg",
+        "d": [
+          "2010-11-27",
+          "2011-01-23"
+        ]
+      },
+      {
+        "i": "157912-2293-2010-11-27",
+        "c": "DE",
+        "n": "Passage",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2010-11-27",
+          "2011-01-23"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "157912-2293-2010-11-27",
+        "c": "DE",
+        "n": "Transfer France-nrw",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2010-11-27",
+          "2012-01-23"
+        ]
+      }
+    ]
+  }
+}

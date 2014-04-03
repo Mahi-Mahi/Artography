@@ -1,0 +1,77 @@
+{
+  "id": "81339",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:37:04",
+  "name": "Christophe Bourguedieu",
+  "surname": "Bourguedieu",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1961",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography",
+  "r00": "30252",
+  "r01": "35009",
+  "r02": "32084",
+  "r03": "28514",
+  "r04": "25073",
+  "r05": "24350",
+  "r06": "21280",
+  "r07": "17816",
+  "r08": "21149",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (4), Italy (1)",
+  "2005-shows-with": "Christophe Bourguedieu (4), Gabriele Basilico (2), Rut Blees Luxemburg (2), Antoine D\\'Agata (2), Mathieu Pernot (2), Gilles Saussier (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Christophe",
+  "last_name": "Bourguedieu",
+  "genre": "m",
+  "birthDate": "1961-01-01",
+  "age": 53,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "81339-8708-2007-06-14",
+        "c": "GB",
+        "n": "Clinic",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Edinburgh (Scotland)",
+        "o": "Open Eye Gallery",
+        "d": [
+          "2007-06-14",
+          "2007-08-01"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "81339-27776-2013-02-15",
+        "c": "IT",
+        "n": "La Scelta di Bourguedieu",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Rome",
+        "o": "Bloo Gallery",
+        "d": [
+          "2013-02-15",
+          "2013-04-13"
+        ]
+      }
+    ]
+  }
+}

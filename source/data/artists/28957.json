@@ -1,0 +1,146 @@
+{
+  "id": "28957",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:15:28",
+  "name": "Frédéric Sanchez",
+  "surname": "Sanchez",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1966",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "26345",
+  "r01": "24390",
+  "r02": "22651",
+  "r03": "20285",
+  "r04": "24583",
+  "r05": "30033",
+  "r06": "29049",
+  "r07": "35270",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "10",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (4), Germany (2), Czech Republic (1), USA (1)",
+  "2005-shows-with": "Frédéric Sanchez (8), Dan Graham (3), John M Armleder (2), Fia Backström (2), Francis Baudevin (2), Alexandre Bianchini (2), Mike Bidlo (2), Laura Bruce (2), Robert Colescott (2), Jáchym Fleig (2), Sylvie Fleury (2), Amy Granat (2), Nicole Hassler (2), Drew Heitzler (2), Yves Klein (2), Louise Lawler (2), Renée Lévi (2), Sherrie Levine (2), Jackie McAllister (2), Haley Mellin (2), Mathieu Mercier (2), Jonathan Monk (2), Chuck Nanney (2), John Nixon (2), Dimitry Orlac (2), Virginia Overton (2), Steven Parrino (2), Emma Perrochon (2), Christian Robert-Tissot (2), Howard Smith (2), Vincent Szarek (2), Dan Walsh (2), Joan Waltemath (2), Andy Warhol (2), Peter Young (2), Michael Zahn (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Frédéric",
+  "last_name": "Sanchez",
+  "genre": "m",
+  "birthDate": "1966-01-01",
+  "age": 48,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "28957-2331-2006-07-02",
+        "c": "LU",
+        "n": "Eldorado",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2006-07-02",
+          "2006-11-20"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "28957-10095-2008-08-02",
+        "c": "CZ",
+        "n": "Start Point 2008",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Klenová",
+        "o": "Galerie Klatovy / Klenová GKK",
+        "d": [
+          "2008-08-02",
+          "2008-09-21"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "28957-8557-2010-08-06",
+        "c": "DE",
+        "n": "Balmoral Blend. 15 Jahre Künstlerhaus Schloß Balmoral",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Remagen",
+        "o": "Arp Museum Bahnhof Rolandseck",
+        "d": [
+          "2010-08-06",
+          "2010-11-21"
+        ]
+      },
+      {
+        "i": "28957-25720-2010-10-23",
+        "c": "US",
+        "n": "The Artist as Collector: Olivier Mosset",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Tucson, AZ",
+        "o": "Museum of Contemporary Art Tucson - MOCA",
+        "d": [
+          "2010-10-23",
+          "2011-05-29"
+        ]
+      },
+      {
+        "i": "28957-17378-2010-11-20",
+        "c": "DE",
+        "n": "km 500 3",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mainz",
+        "o": "Kunsthalle Mainz",
+        "d": [
+          "2010-11-20",
+          "2011-01-16"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "28957-25720-2010-10-23",
+        "c": "US",
+        "n": "The Artist as Collector: Olivier Mosset",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Tucson, AZ",
+        "o": "Museum of Contemporary Art Tucson - MOCA",
+        "d": [
+          "2010-10-23",
+          "2011-05-29"
+        ]
+      },
+      {
+        "i": "28957-17378-2010-11-20",
+        "c": "DE",
+        "n": "km 500 3",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mainz",
+        "o": "Kunsthalle Mainz",
+        "d": [
+          "2010-11-20",
+          "2011-01-16"
+        ]
+      }
+    ]
+  }
+}

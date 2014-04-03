@@ -1,0 +1,77 @@
+{
+  "id": "123043",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:53:40",
+  "name": "Virginie Litzler",
+  "surname": "Litzler",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Mulhouse (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1980",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "51997",
+  "r01": "48429",
+  "r02": "43906",
+  "r03": "39502",
+  "r04": "34974",
+  "r05": "30445",
+  "r06": "26039",
+  "r07": "41032",
+  "r08": "35219",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2004",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": null,
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Virginie",
+  "last_name": "Litzler",
+  "genre": "c",
+  "birthDate": "1980-01-01",
+  "age": 34,
+  "age_range": "26-35",
+  "expos": {
+    "2006": [
+      {
+        "i": "123043-5087-2006-08-08",
+        "c": "GB",
+        "n": "PLUG",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "County Hall Gallery",
+        "d": [
+          "2006-08-08",
+          "2006-08-27"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "123043-11485-2007-03-08",
+        "c": "GB",
+        "n": "ART Futures",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "London (England)",
+        "o": "Bloomberg Space",
+        "d": [
+          "2007-03-08",
+          "2007-03-14"
+        ]
+      }
+    ]
+  }
+}

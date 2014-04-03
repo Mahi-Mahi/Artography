@@ -1,0 +1,77 @@
+{
+  "id": "58340",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:27:41",
+  "name": "Anne Garde",
+  "surname": "Garde",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Libourne (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1946",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": "Photography",
+  "r00": "71530",
+  "r01": "67304",
+  "r02": "61681",
+  "r03": "55898",
+  "r04": "49523",
+  "r05": "43901",
+  "r06": "37682",
+  "r07": "51329",
+  "r08": "43335",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2001",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": null,
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Anne",
+  "last_name": "Garde",
+  "genre": "f",
+  "birthDate": "1946-01-01",
+  "age": 68,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "58340-12517-2007-08-13",
+        "c": "FI",
+        "n": "Grey Matters - Aftercop",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Helsinki",
+        "o": "The Finnish Museum of Photography",
+        "d": [
+          "2007-08-13",
+          "2008-01-13"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "58340-12517-2007-08-13",
+        "c": "FI",
+        "n": "Grey Matters - Aftercop",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Helsinki",
+        "o": "The Finnish Museum of Photography",
+        "d": [
+          "2007-08-13",
+          "2008-01-13"
+        ]
+      }
+    ]
+  }
+}

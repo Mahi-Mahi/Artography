@@ -1,0 +1,256 @@
+{
+  "id": "10152",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:07:01",
+  "name": "Djamel Tatah",
+  "surname": "Tatah",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Saint-Chamond (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1959",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "4906",
+  "r01": "5414",
+  "r02": "5739",
+  "r03": "5654",
+  "r04": "5304",
+  "r05": "4421",
+  "r06": "4425",
+  "r07": "3823",
+  "r08": "4497",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1997",
+  "all-shows-total": "42",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": "12",
+  "2005-countries-total": "France (12), Italy (2), Spain (2), Algeria (1), Belgium (1), Germany (1), Luxembourg (1)",
+  "2005-shows-with": "Djamel Tatah (15), Mona Hatoum (5), Sigalit Landau (4), Adel Abdessemed (3), Kader Attia (3), Denis Castellas (3), Camille Henrot (3), Bouchra Khalili (3), Shirin Neshat (3), Zineb Sedira (3), Shen Yuan (3), Irene Andessner (2), Janine Antoni (2), Gilles Barbier (2), Yto Barrada (2), Taysir Batniji (2), Mohamed Bourouissa (2), Marie Bovo (2), Mircea Cantor (2), David Claerbout (2), Vincent Corpet (2), Chris Cunningham (2), Marc Desgrandchamps (2), Janieta Eyre (2), Claire Fontaine (2), Risk Hazekamp (2), Tom Hunter (2), Rachel Labastie (2), Rosemary Laing (2), Claude Lévêque (2), Laura Mosquera (2), Moataz Nasr (2), Jean-Michel Othoniel (2), Adrian Paci (2), Simon Periton (2), Elizabeth Peyton (2), Huang Yong Ping (2), Martial Raysse (2), Ulrike Rosenbach (2), Sarkís (2), Wael Shawky (2), Lorna Simpson (2), Assan Smati (2), Kerry Stewart (2), Barthélémy Toguo (2), Charlie White (2)",
+  "representing-galleries": "Galerie Liliane & Michel Durand-Dessert (28, rue de Lappe, 75011 Paris, France); JGM. Galerie (8 bis, rue Jacques Callot, 75006 Paris, France); Gallery LM (565-18 Jasmi Building (BI) Shinsa-dong, Gangnam-gu, 135-120 Seoul, South Korea); Gallery LVS (565-18 Jasmi Building (BI) Shinsa-dong, Gangnam-gu, 135-120 Seoul, South Korea); Galerie Charlotte Moser (rue de l'Hôtel-de-Ville 16, 1204 Geneva, Switzerland)",
+  "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); DA2 - Domus Artium 2002 (Avenida de la Aldehuela, s/n, 37003 Salamanca, Spain)",
+  "first_name": "Djamel",
+  "last_name": "Tatah",
+  "genre": "m",
+  "birthDate": "1959-01-01",
+  "age": 55,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "10152-2929-2005-06-10",
+        "c": "CN",
+        "n": "Unique but not the only: Contemporary French Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Guangzhou, Guangdong",
+        "o": "The Guangdong Museum of Art",
+        "d": [
+          "2005-06-10",
+          "2005-07-24"
+        ]
+      },
+      {
+        "i": "10152-2582-2005-12-22",
+        "c": "GR",
+        "n": "Anthropography III",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2005-12-22",
+          "2006-07-30"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "10152-2582-2005-12-22",
+        "c": "GR",
+        "n": "Anthropography III",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2005-12-22",
+          "2006-07-30"
+        ]
+      },
+      {
+        "i": "10152-18193-2006-05-22",
+        "c": "GB",
+        "n": "Channel",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sheffield",
+        "o": "Cupola Gallery",
+        "d": [
+          "2006-05-22",
+          "2006-06-10"
+        ]
+      },
+      {
+        "i": "10152-11229-2006-09-09",
+        "c": "KR",
+        "n": "Seven Perspectives on Desire",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Seoul",
+        "o": "Gallery LM",
+        "d": [
+          "2006-09-09",
+          "2006-10-22"
+        ]
+      },
+      {
+        "i": "10152-2546-2006-09-23",
+        "c": "DE",
+        "n": "Peintures / Painting",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Martin-Gropius-Bau",
+        "d": [
+          "2006-09-23",
+          "2006-11-12"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "10152-2488-2008-01-08",
+        "c": "ES",
+        "n": "Mixed Emotions. Apuntes para una colección del siglo XXI",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Salamanca",
+        "o": "DA2 - Domus Artium 2002",
+        "d": [
+          "2008-01-08",
+          "2008-03-16"
+        ]
+      },
+      {
+        "i": "10152-17359-2008-06-12",
+        "c": "LU",
+        "n": "Supports/Surfaces",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Galerie Bernard Ceysson - Luxembourg",
+        "d": [
+          "2008-06-12",
+          "2008-07-27"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "10152-7527-2010-03-30",
+        "c": "IT",
+        "n": "I mutanti",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Rome",
+        "o": "Académie de France à Rome - Villa Médicis",
+        "d": [
+          "2010-03-30",
+          "2010-06-06"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "10152-19462-2011-01-29",
+        "c": "BE",
+        "n": "Works on Paper",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Nomad Gallery",
+        "d": [
+          "2011-01-29",
+          "2011-03-05"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "10152-13879-2012-11-11",
+        "c": "DE",
+        "n": "Liebe Tod und Teufel - Sammlung J+C Mairet",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Wuppertal",
+        "o": "Von der Heydt Kunsthalle",
+        "d": [
+          "2012-11-11",
+          "2013-02-03"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "10152-13879-2012-11-11",
+        "c": "DE",
+        "n": "Liebe Tod und Teufel - Sammlung J+C Mairet",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Wuppertal",
+        "o": "Von der Heydt Kunsthalle",
+        "d": [
+          "2012-11-11",
+          "2013-02-03"
+        ]
+      },
+      {
+        "i": "10152-2488-2013-02-28",
+        "c": "ES",
+        "n": "De madonna a Madonna. (De)construcciones de lo femenino en la sociedad contemporánea",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Salamanca",
+        "o": "DA2 - Domus Artium 2002",
+        "d": [
+          "2013-02-28",
+          "2013-05-05"
+        ]
+      },
+      {
+        "i": "10152-15658-2013-09-21",
+        "c": "DZ",
+        "n": "Djamel Tatah",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Algier",
+        "o": "Musée national d’art moderne et contemporain d’Alger",
+        "d": [
+          "2013-09-21",
+          "2013-11-01"
+        ]
+      },
+      {
+        "i": "10152-7527-2013-09-21",
+        "c": "IT",
+        "n": "Djamel Tatah",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Rome",
+        "o": "Académie de France à Rome - Villa Médicis",
+        "d": [
+          "2013-09-21",
+          "2013-11-21"
+        ]
+      }
+    ]
+  }
+}

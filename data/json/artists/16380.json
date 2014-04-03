@@ -1,0 +1,135 @@
+{
+  "id": "16380",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:09:52",
+  "name": "Anne Ferrer",
+  "surname": "Ferrer",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Toulouse (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1962",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "20818",
+  "r01": "19726",
+  "r02": "17083",
+  "r03": "14866",
+  "r04": "12713",
+  "r05": "11974",
+  "r06": "10717",
+  "r07": "8624",
+  "r08": "6865",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1992",
+  "all-shows-total": "19",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (4), USA (3), Canada (1)",
+  "2005-shows-with": "Anne Ferrer (6), Rina Banerjee (2), Yayoi Kusama (2), Chiharu Shiota (2)",
+  "representing-galleries": "VOX contemporary image (1211, St-Laurent Boulevard, H2X 2S6 Montreal, QC, Canada)",
+  "collecting-museums": null,
+  "first_name": "Anne",
+  "last_name": "Ferrer",
+  "genre": "f",
+  "birthDate": "1962-01-01",
+  "age": 52,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "16380-7285-2005-11-23",
+        "c": "CZ",
+        "n": "Naturalia",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Prague",
+        "o": "Futura",
+        "d": [
+          "2005-11-23",
+          "2006-02-13"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "16380-7285-2005-11-23",
+        "c": "CZ",
+        "n": "Naturalia",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Prague",
+        "o": "Futura",
+        "d": [
+          "2005-11-23",
+          "2006-02-13"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "16380-1643-2008-07-14",
+        "c": "CA",
+        "n": "Sculpture Supernova",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Toronto, ON",
+        "o": "Artcore Gallery",
+        "d": [
+          "2008-07-14",
+          "2008-08-31"
+        ]
+      },
+      {
+        "i": "16380-13638-2008-11-07",
+        "c": "US",
+        "n": "Anne Ferrer:  Country Living",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "San Antonio, TX",
+        "o": "Cactus Bra Space",
+        "d": [
+          "2008-11-07",
+          "2008-11-23"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "16380-13840-2013-10-18",
+        "c": "US",
+        "n": "The Language of Painting - curated by Carol Salmanson",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Lesley Heller Workspace",
+        "d": [
+          "2013-10-18",
+          "2013-12-01"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "16380-17930-2009-04-02",
+        "c": "US",
+        "n": "Country Wave",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "San Antonio, TX",
+        "o": "Blue Star Contemporary Art Center",
+        "d": [
+          "2009-04-02",
+          "2009-05-23"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "id": "11693",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:07:46",
+  "name": "Noël Dolla",
+  "surname": "Dolla",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Nice, Alpes-Maritimes (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1945",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "2487",
+  "r01": "2401",
+  "r02": "2360",
+  "r03": "2596",
+  "r04": "3037",
+  "r05": "3746",
+  "r06": "3259",
+  "r07": "2730",
+  "r08": "2512",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1975",
+  "all-shows-total": "65",
+  "2005-shows-biennials": "12",
+  "2005-shows-galleries": "12",
+  "2005-shows-museums": "19",
+  "2005-countries-total": "France (28), Switzerland (3), Austria (1), Luxembourg (1), Monaco (1)",
+  "2005-shows-with": "Noël Dolla (29), John M Armleder (9), Erik Dietman (7), Raymond Hains (6), Pascal Pinaud (6), Philippe Mayaux (5), Niki de Saint Phalle (5), Jean-Luc Verna (5), Joël Ducorroy (4), Eric Duyckaerts (4), Paul-Armand Gette (4), Bertrand Lavier (4), Jacques Lizène (4), Orlan (4), Gina Pane (4), Bernard Piffaretti (4), Ben Vautier (4), Bernar Venet (4), Claude Viallat (4), Marcel Alocco (3), Dominique Angel (3), Arman (3), Eleonore Bak (3), Jean-Pierre Bertrand (3), Julien Blaine (3), Etienne Bossut (3), Pierre Buraglio (3), Daniel Buren (3), Anna Byskov (3), Damien Cabanes (3), Patrice Carré (3), Gilbert Caty (3), Robert Combas (3), Daniel Dezeuze (3), Kristof Everart (3), Daniel Farioli (3), Sandrine Flury (3), Fred Forest (3), Jean-Baptiste Ganne (3), Gérard Garouste (3), Claude Gilli (3), Philippe Gronon (3), Yoko Gunji (3), Raoul Hébréard (3), Pierre Joseph (3), Michel Journiac (3), Arnaud Labelle-Rojoux (3), Virginie Le Touze (3), Jean-Jacques Lebel (3), George Maciunas (3), Didier Marcel (3), Jean Mas",
+  "representing-galleries": "Galerie Sapone (25, boulevard Victor Hugo, 6000 Nice, France); Galerie Joël Scholtès (45, boulevard Victor Hugo, 06000 Nice, France); Galerie Dominique Fiat (16, rue des Coutures St Gervais, 75003 Paris, France); Galerie Piltzer (6, avenue Foch, 75116 Paris, France); The Box Associati (Via San Francesco da Paola 36, 10136 Turin, Italy)",
+  "collecting-museums": "CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); CIAC - Centre International d'Art Contemporain de Carros (Place du château, 06510 Carros, France); FRAC - Bretagne (3 rue de Noyal, 35410 Châteaugiron, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); LAAC - Lieu d'Art et Action Contemporaine de Dunkerque (Pont Lucien Lefol, 59140 Dunkerque, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); 49 NORD 6 EST – Frac Lorraine (Rue des Trinitaires 1 bis, 57000 Metz, France); MAMAC - Musee d´Art Moderne et d`Art Contemporain Nice (Promenade des Arts, 06300 Nice, France); Carré d´art - Musée d´art contemporain de Nîmes (Place de la Maison Carrée, 30031 Nîmes, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); Musée d'Art moderne de Saint-Etienne (La T",
+  "first_name": "Noël",
+  "last_name": "Dolla",
+  "genre": "m",
+  "birthDate": "1945-01-01",
+  "age": 69,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "11693-3025-2005-07-07",
+        "c": "US",
+        "n": "Structure",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Lucas Schoormans Gallery",
+        "d": [
+          "2005-07-07",
+          "2005-08-05"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "11693-2546-2006-09-23",
+        "c": "DE",
+        "n": "Peintures / Painting",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Martin-Gropius-Bau",
+        "d": [
+          "2006-09-23",
+          "2006-11-12"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "11693-17359-2008-06-12",
+        "c": "LU",
+        "n": "Supports/Surfaces",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Galerie Bernard Ceysson - Luxembourg",
+        "d": [
+          "2008-06-12",
+          "2008-07-27"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "11693-2277-2010-07-09",
+        "c": "AT",
+        "n": "Painting, Process and Expansion",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Museum Moderner Kunst Stiftung Ludwig - MUMOK ",
+        "d": [
+          "2010-07-09",
+          "2010-10-03"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "11693-4185-2011-10-15",
+        "c": "CH",
+        "n": "Ben - Noel Dolla - Pascal Pinaud",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Auvernier",
+        "o": "Lange+Pult",
+        "d": [
+          "2011-10-15",
+          "2011-11-19"
+        ]
+      },
+      {
+        "i": "11693-1778-2011-10-19",
+        "c": "CH",
+        "n": "Biens communs I",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2011-10-19",
+          "2012-01-15"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "11693-1778-2011-10-19",
+        "c": "CH",
+        "n": "Biens communs I",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2011-10-19",
+          "2012-01-15"
+        ]
+      },
+      {
+        "i": "11693-6361-2012-03-08",
+        "c": "MC",
+        "n": "À l’origine, Nice…",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Marlborough Monaco",
+        "d": [
+          "2012-03-08",
+          "2012-04-26"
+        ]
+      },
+      {
+        "i": "11693-28275-2012-11-09",
+        "c": "CH",
+        "n": "John Armleder - Noel Dolla",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Galerie Bernard Ceysson - Geneve",
+        "d": [
+          "2012-11-09",
+          "2013-01-12"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "11693-28275-2012-11-09",
+        "c": "CH",
+        "n": "John Armleder - Noel Dolla",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Galerie Bernard Ceysson - Geneve",
+        "d": [
+          "2012-11-09",
+          "2013-01-12"
+        ]
+      }
+    ]
+  }
+}

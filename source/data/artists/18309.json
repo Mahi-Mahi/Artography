@@ -1,0 +1,161 @@
+{
+  "id": "18309",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:10:50",
+  "name": "Pierre Giner",
+  "surname": "Giner",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Orleans (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1965",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "12833",
+  "r01": "11478",
+  "r02": "13194",
+  "r03": "11470",
+  "r04": "9815",
+  "r05": "9060",
+  "r06": "9627",
+  "r07": "7797",
+  "r08": "6136",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2001",
+  "all-shows-total": "14",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "3",
+  "2005-countries-total": "Spain (2), China (1), Czech Republic (1), USA (1)",
+  "2005-shows-with": "Pierre Giner (5), Olivo Barbieri (2), Aram Bartholl (2), Tobias Bernstrup (2), Brody Condon (2), David Cotterrell (2), Yan Duyvendak (2), Feng Mengbo (2), Iñaki Gracenea (2), Felix Stephan Huber (2), John Klima (2), Joan Leandre (2), Eva & Franco Mattes (2), Joe McKay (2), Anne-Marie Schleiner (2), Song Tao (2), Palle Torsson (2), Magnus Wallin (2), Xu Zhen (2), Yang Fudong (2), Yang Zhenzhong (2), Zhang Ding (2)",
+  "representing-galleries": "Galerie Anton Weller (57, rue de Bretagne, 75003 Paris, France)",
+  "collecting-museums": "FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France)",
+  "first_name": "Pierre",
+  "last_name": "Giner",
+  "genre": "m",
+  "birthDate": "1965-01-01",
+  "age": 49,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "18309-3104-2005-02-24",
+        "c": "RO",
+        "n": "Art Digital Vidéo",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2005-02-24",
+          "2005-03-20"
+        ]
+      },
+      {
+        "i": "18309-10868-2005-09-08",
+        "c": "MX",
+        "n": "I-Dance",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Mexico City",
+        "o": "Centro de la Imagen",
+        "d": [
+          "2005-09-08",
+          "2005-10-23"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "18309-7285-2008-02-27",
+        "c": "CZ",
+        "n": "Shanghype",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Prague",
+        "o": "Futura",
+        "d": [
+          "2008-02-27",
+          "2008-05-04"
+        ]
+      },
+      {
+        "i": "18309-8444-2008-04-10",
+        "c": "ES",
+        "n": "Try Again",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "La Casa Encendida",
+        "d": [
+          "2008-04-10",
+          "2008-06-08"
+        ]
+      },
+      {
+        "i": "18309-20518-2008-06-26",
+        "c": "ES",
+        "n": "Try Again",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "San Sebastián",
+        "o": "Koldo Mitxelena Kulturunea",
+        "d": [
+          "2008-06-26",
+          "2008-09-27"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "18309-9333-2009-09-20",
+        "c": "US",
+        "n": "Shanghype!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Chicago, IL",
+        "o": "Hyde Park Art Center",
+        "d": [
+          "2009-09-20",
+          "2009-12-13"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "18309-3460-2012-10-02",
+        "c": "CN",
+        "n": "9th Shanghai Biennale",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Shanghai",
+        "o": "Shanghai Biennale",
+        "d": [
+          "2012-10-02",
+          "2013-03-31"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "18309-3460-2012-10-02",
+        "c": "CN",
+        "n": "9th Shanghai Biennale",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Shanghai",
+        "o": "Shanghai Biennale",
+        "d": [
+          "2012-10-02",
+          "2013-03-31"
+        ]
+      }
+    ]
+  }
+}

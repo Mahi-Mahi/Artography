@@ -1,0 +1,144 @@
+{
+  "id": "57999",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:27:32",
+  "name": "Eric Manigaud",
+  "surname": "Manigaud",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": " (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1971",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "21590",
+  "r01": "38894",
+  "r02": "38312",
+  "r03": "34825",
+  "r04": "33135",
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2009",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "Belgium (3), France (3), Germany (1), South Korea (1), United Kingdom (1)",
+  "2005-shows-with": "Eric Manigaud (8), Françoise Petrovitch (3), Barthélémy Toguo (3), Ruth Barabash (2), Massimo Bartolini (2), Frauke Boggasch (2), Rebecca Bournigault (2), Yves Bresson (2), Davide Cantoni (2), Alice Cattaneo (2), Loris Cecchini (2), Bart De Zutter (2), Roland Flexner (2), Andrea Fogli (2), Carlos Garaicoa (2), Francesco Gennari (2), Ugo Giletta (2), Paolo Grassino (2), Kevin Francis Gray (2), Siobhán Hapaska (2), Adam Jeppesen (2), Kimsooja (2), Bernd Koller (2), Jan Kopp (2), Rosemary Laing (2), Denisa Lehocká (2), Dacia Manto (2), Carla Mattii (2), Sabrina Mezzaqui (2), Helen Mirra (2), Liliana Moro (2), Vik Muniz (2), Sirous Namazi (2), Isabel Nolan (2), Marina Paris (2), Pavel Pepperstein (2), Marina Perez (2), László László Révész (2), Anila Rubiku (2), Hiraki Sawa (2), Fabian Seiz (2), Francesco Sena (2), Kati Szil (2), Kei Takemura (2), Mariusz Tarkawian (2), Tessa M. den Uyl (2), Paul Wallach (2), Lois Weinberger (2), Yeesookyung (2)",
+  "representing-galleries": "Galerie Houg (43 Rue Auguste Comte, 69002 Lyon, France)",
+  "collecting-museums": "The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London (England), United Kingdom)",
+  "first_name": "Eric",
+  "last_name": "Manigaud",
+  "genre": "m",
+  "birthDate": "1971-01-01",
+  "age": 43,
+  "age_range": "36-45",
+  "expos": {
+    "2009": [
+      {
+        "i": "57999-7551-2009-05-07",
+        "c": "BE",
+        "n": "Eden",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Antwerp",
+        "o": "Galerie van der Mieden",
+        "d": [
+          "2009-05-07",
+          "2009-06-29"
+        ]
+      },
+      {
+        "i": "57999-27660-2009-05-07",
+        "c": "BE",
+        "n": "Eden",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie van der Mieden",
+        "d": [
+          "2009-05-07",
+          "2009-06-29"
+        ]
+      },
+      {
+        "i": "57999-21348-2009-12-22",
+        "c": "KR",
+        "n": "Fragile",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Daejeon",
+        "o": "Daejeon Museum of Art",
+        "d": [
+          "2009-12-22",
+          "2010-03-21"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "57999-21348-2009-12-22",
+        "c": "KR",
+        "n": "Fragile",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Daejeon",
+        "o": "Daejeon Museum of Art",
+        "d": [
+          "2009-12-22",
+          "2010-03-21"
+        ]
+      },
+      {
+        "i": "57999-13031-2010-06-27",
+        "c": "BE",
+        "n": "Fake !",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Aalst",
+        "o": "Stedelijk Museum Aalst",
+        "d": [
+          "2010-06-27",
+          "2010-08-22"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "57999-2553-2013-06-18",
+        "c": "GB",
+        "n": "Paper",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "The Saatchi Gallery",
+        "d": [
+          "2013-06-18",
+          "2013-09-29"
+        ]
+      },
+      {
+        "i": "57999-2564-2013-10-13",
+        "c": "DE",
+        "n": "Mémoire. Erinnern",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Göppingen",
+        "o": "Kunsthalle Göppingen",
+        "d": [
+          "2013-10-13",
+          "2013-12-08"
+        ]
+      }
+    ]
+  }
+}

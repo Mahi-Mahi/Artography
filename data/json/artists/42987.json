@@ -1,0 +1,546 @@
+{
+  "id": "42987",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:21:23",
+  "name": "Bureau d’études",
+  "surname": "Bureau d’études",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1992",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Artist group",
+  "media": "Installation",
+  "r00": "3255",
+  "r01": "2954",
+  "r02": "3195",
+  "r03": "2905",
+  "r04": "3132",
+  "r05": "3113",
+  "r06": "3236",
+  "r07": "2691",
+  "r08": "2207",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "42",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "17",
+  "2005-countries-total": "Germany (5), France (3), Switzerland (3), Canada (2), Netherlands (2), Spain (2), Sweden (2), Austria (1), Colombia (1), Italy (1), Portugal (1), Romania (1), Turkey (1), United Kingdom (1)",
+  "2005-shows-with": "Bureau d’études (26), Adriana Varejão (6), Kristoffer Ardeña (4), Ursula Biemann (4), Milena Bonilla (4), Lukas Einsele (4), Brian Holmes (4), Ashley Hunt (4), Karlo Ibarra (4), Emma Kay (4), Maria Lantz (4), Mark Lombardi (4), Mikael Lundberg (4), Oliver Musovik (4), Josh On (4), Trevor Paglen (4), Lia Perjovschi (4), Arno Peters (4), Sabine Réthoré (4), Jan Svenungsson (4), Renaud Auguste-Dormeuil (3), Rosa Barba (3), Chto delat? (3), Stefan Constantinescu (3), Öyvind Fahlström (3), Eduard Freudmann (3), Buckminster Fuller (3), Goldin + Senneby (3), Frances Goodman (3), Can Gülcü (3), Hackitectura (3), Mona Hatoum (3), Thomas Hirschhorn (3), Armin Linke (3), Adrian Matei (3), Christoph Mayer (3), Christina McPhee (3), Yoko Ono (3), Marko Peljhan (3), Katarina  Pirak (3), Philippe Rekacewicz (3), Anri Sala (3), Sean Snyder (3), Société Réaliste (3), Hiroshi Sugimoto (3), Ignasi Aballí (2), Bas Jan Ader (2), Lorenz Aggermann (2), Nevin Aladag (2), Efren Alvarez (2), Francis Alys (2), Ulf Aminde",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Bureau",
+  "last_name": "d’études",
+  "genre": "c",
+  "birthDate": "1992-01-01",
+  "age": 22,
+  "age_range": "0-25",
+  "expos": {
+    "2005": [
+      {
+        "i": "42987-2259-2005-03-20",
+        "c": "DE",
+        "n": "Making Things Public - Atmosphären der Demokratie",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2005-03-20",
+          "2005-10-03"
+        ]
+      },
+      {
+        "i": "42987-852-2005-09-16",
+        "c": "AT",
+        "n": "Wie Gesellschaft und Politik ins Bild kommen",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Vienna",
+        "o": "Generali Foundation",
+        "d": [
+          "2005-09-16",
+          "2005-12-18"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "42987-8146-2006-05-05",
+        "c": "DE",
+        "n": "Glanz und Globalisierung",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Dortmund",
+        "o": "HMKV - Hartware MedienKunstVerein",
+        "d": [
+          "2006-05-05",
+          "2006-07-16"
+        ]
+      },
+      {
+        "i": "42987-2383-2006-05-27",
+        "c": "IL",
+        "n": "People Land State",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Holon",
+        "o": "The Israeli Center for Digital Art",
+        "d": [
+          "2006-05-27",
+          "2006-08-05"
+        ]
+      },
+      {
+        "i": "42987-2581-2006-08-24",
+        "c": "LV",
+        "n": "WAVES",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Riga",
+        "o": "Arsenals Exhibition Hall of the Latvian National Museum of Art (LNMA)",
+        "d": [
+          "2006-08-24",
+          "2006-09-17"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "42987-9556-2007-02-25",
+        "c": "NL",
+        "n": "After Neurath - Like sailors on the open sea",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "The Hague",
+        "o": "Stroom Den Haag",
+        "d": [
+          "2007-02-25",
+          "2007-04-08"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "42987-12005-2008-01-17",
+        "c": "CA",
+        "n": "Signals in the Dark: Art in the Shadow of War",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mississauga, ON",
+        "o": "Blackwood Gallery at the University of Toronto ",
+        "d": [
+          "2008-01-17",
+          "2008-03-02"
+        ]
+      },
+      {
+        "i": "42987-19801-2008-01-29",
+        "c": "DE",
+        "n": "Transmediale 08: Conspire",
+        "st": "Group",
+        "t": "Festival",
+        "ct": "Berlin",
+        "o": "Transmediale",
+        "d": [
+          "2008-01-29",
+          "2008-02-24"
+        ]
+      },
+      {
+        "i": "42987-8146-2008-05-10",
+        "c": "DE",
+        "n": "Waves",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Dortmund",
+        "o": "HMKV - Hartware MedienKunstVerein",
+        "d": [
+          "2008-05-10",
+          "2008-06-29"
+        ]
+      },
+      {
+        "i": "42987-6427-2008-05-23",
+        "c": "RO",
+        "n": "Bucharest Biennale 3",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Bucharest",
+        "o": "Bucharest Biennale for Contemporary Art",
+        "d": [
+          "2008-05-23",
+          "2008-06-21"
+        ]
+      },
+      {
+        "i": "42987-16992-2008-06-07",
+        "c": "CH",
+        "n": "Glanz und Globalisierung: Fussball, Medien und Kunst",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bern",
+        "o": "PROGR Zentrum für Kulturproduktionen",
+        "d": [
+          "2008-06-07",
+          "2008-07-05"
+        ]
+      },
+      {
+        "i": "42987-19998-2008-08-29",
+        "c": "CA",
+        "n": "SIGNALS IN THE DARK: Art in the Shadow of War",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Montreal, QC",
+        "o": "Leonard & Bina Ellen Art Gallery",
+        "d": [
+          "2008-08-29",
+          "2008-10-11"
+        ]
+      },
+      {
+        "i": "42987-11843-2008-09-04",
+        "c": "DE",
+        "n": "Networks of War",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Leipzig",
+        "o": "D21 Kunstraum",
+        "d": [
+          "2008-09-04",
+          "2008-10-05"
+        ]
+      },
+      {
+        "i": "42987-3173-2008-10-12",
+        "c": "SE",
+        "n": "The Map:  Navigating the Present",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Umeå",
+        "o": "Bildmuseet",
+        "d": [
+          "2008-10-12",
+          "2009-02-08"
+        ]
+      },
+      {
+        "i": "42987-5639-2008-10-31",
+        "c": "CH",
+        "n": "VERSION bêta",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Centre pour l'image contemporaine Saint-Gervais Genève",
+        "d": [
+          "2008-10-31",
+          "2008-12-14"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "42987-3173-2008-10-12",
+        "c": "SE",
+        "n": "The Map:  Navigating the Present",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Umeå",
+        "o": "Bildmuseet",
+        "d": [
+          "2008-10-12",
+          "2009-02-08"
+        ]
+      },
+      {
+        "i": "42987-17900-2009-04-24",
+        "c": "SE",
+        "n": "The Map: Navigating the Present",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hökarängen",
+        "o": "Konsthall C",
+        "d": [
+          "2009-04-24",
+          "2009-06-14"
+        ]
+      },
+      {
+        "i": "42987-3933-2009-09-12",
+        "c": "TR",
+        "n": "11th International &#304;stanbul Biennial",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Istanbul",
+        "o": "International Istanbul Biennial",
+        "d": [
+          "2009-09-12",
+          "2009-11-08"
+        ]
+      },
+      {
+        "i": "42987-7261-2009-11-07",
+        "c": "CH",
+        "n": "Un/Mögliche Gemeinschaft",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zurich",
+        "o": "Shedhalle",
+        "d": [
+          "2009-11-07",
+          "2010-01-31"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "42987-7261-2009-11-07",
+        "c": "CH",
+        "n": "Un/Mögliche Gemeinschaft",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zurich",
+        "o": "Shedhalle",
+        "d": [
+          "2009-11-07",
+          "2010-01-31"
+        ]
+      },
+      {
+        "i": "42987-21862-2010-05-09",
+        "c": "GB",
+        "n": "Uneven Geographies - Uneven Geographies",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nottingham (England)",
+        "o": "Nottingham Contemporary",
+        "d": [
+          "2010-05-09",
+          "2010-07-05"
+        ]
+      },
+      {
+        "i": "42987-18101-2010-10-01",
+        "c": "IT",
+        "n": "Ritratti del Potere",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Florence",
+        "o": "Centro di Cultura Contemporanea Strozzina (CCCS)",
+        "d": [
+          "2010-10-01",
+          "2011-01-23"
+        ]
+      },
+      {
+        "i": "42987-2423-2010-10-16",
+        "c": "NL",
+        "n": "Tricksters Tricked (un)covering Identity",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2010-10-16",
+          "2011-02-06"
+        ]
+      },
+      {
+        "i": "42987-2340-2010-11-21",
+        "c": "PT",
+        "n": "To the Arts, Citizens!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Porto",
+        "o": "Museu Serralves - Museu de Arte Contemporânea",
+        "d": [
+          "2010-11-21",
+          "2011-03-13"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "42987-18101-2010-10-01",
+        "c": "IT",
+        "n": "Ritratti del Potere",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Florence",
+        "o": "Centro di Cultura Contemporanea Strozzina (CCCS)",
+        "d": [
+          "2010-10-01",
+          "2011-01-23"
+        ]
+      },
+      {
+        "i": "42987-2423-2010-10-16",
+        "c": "NL",
+        "n": "Tricksters Tricked (un)covering Identity",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2010-10-16",
+          "2011-02-06"
+        ]
+      },
+      {
+        "i": "42987-2340-2010-11-21",
+        "c": "PT",
+        "n": "To the Arts, Citizens!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Porto",
+        "o": "Museu Serralves - Museu de Arte Contemporânea",
+        "d": [
+          "2010-11-21",
+          "2011-03-13"
+        ]
+      },
+      {
+        "i": "42987-19432-2011-03-09",
+        "c": "CO",
+        "n": "El Mapa: Cartografías críticas",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Medellín",
+        "o": "MAMM - Museo de Arte Moderno Medellin",
+        "d": [
+          "2011-03-09",
+          "2011-05-08"
+        ]
+      },
+      {
+        "i": "42987-8146-2011-11-12",
+        "c": "DE",
+        "n": "The Oil Show",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Dortmund",
+        "o": "HMKV - Hartware MedienKunstVerein",
+        "d": [
+          "2011-11-12",
+          "2012-03-18"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "42987-8146-2011-11-12",
+        "c": "DE",
+        "n": "The Oil Show",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Dortmund",
+        "o": "HMKV - Hartware MedienKunstVerein",
+        "d": [
+          "2011-11-12",
+          "2012-03-18"
+        ]
+      },
+      {
+        "i": "42987-1598-2012-06-10",
+        "c": "DE",
+        "n": "Bild-Gegen-Bild",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Munich",
+        "o": "Haus der Kunst München",
+        "d": [
+          "2012-06-10",
+          "2012-09-16"
+        ]
+      },
+      {
+        "i": "42987-5426-2012-09-27",
+        "c": "AT",
+        "n": "Erhöhte Temperatur. Kunst und Klima",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Salzburg",
+        "o": "Salzburger Kunstverein",
+        "d": [
+          "2012-09-27",
+          "2012-11-25"
+        ]
+      },
+      {
+        "i": "42987-2687-2012-11-21",
+        "c": "ES",
+        "n": "Cartografías contemporáneas. Dibujando el pensamiento",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "CaixaForum Madrid",
+        "d": [
+          "2012-11-21",
+          "2013-02-24"
+        ]
+      },
+      {
+        "i": "42987-2660-2012-11-21",
+        "c": "ES",
+        "n": "Cartografías contemporáneas",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "CaixaForum Barcelona",
+        "d": [
+          "2012-11-21",
+          "2013-02-24"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "42987-2687-2012-11-21",
+        "c": "ES",
+        "n": "Cartografías contemporáneas. Dibujando el pensamiento",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "CaixaForum Madrid",
+        "d": [
+          "2012-11-21",
+          "2013-02-24"
+        ]
+      },
+      {
+        "i": "42987-2660-2012-11-21",
+        "c": "ES",
+        "n": "Cartografías contemporáneas",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "CaixaForum Barcelona",
+        "d": [
+          "2012-11-21",
+          "2013-02-24"
+        ]
+      },
+      {
+        "i": "42987-7977-2013-10-19",
+        "c": "NL",
+        "n": "To The Reader",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Utrecht",
+        "o": "Basis voor Actuele Kunst - BAK",
+        "d": [
+          "2013-10-19",
+          "2013-11-03"
+        ]
+      }
+    ]
+  }
+}

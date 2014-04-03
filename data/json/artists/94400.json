@@ -1,0 +1,159 @@
+{
+  "id": "94400",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:42:28",
+  "name": "Jean-Pierre Nadau",
+  "surname": "Nadau",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Melun (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1963",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "56339",
+  "r01": "52878",
+  "r02": "47936",
+  "r03": "47015",
+  "r04": "41562",
+  "r05": "36575",
+  "r06": "33044",
+  "r07": "27978",
+  "r08": "23491",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2001",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (1), Germany (1), Japan (1)",
+  "2005-shows-with": "Chris Hipkiss (3), Jean-Pierre Nadau (3), Willem van Genk (2), Madge Gill (2), Michel Nedjar (2), Nikifor (2)",
+  "representing-galleries": "Galerie Susanne  Zander (Antwerpener Str. 1, 50672 Cologne, Germany); Galerie Hamer (Leliegracht 38, 1015 DH Amsterdam, Netherlands)",
+  "collecting-museums": null,
+  "first_name": "Jean-Pierre",
+  "last_name": "Nadau",
+  "genre": "m",
+  "birthDate": "1963-01-01",
+  "age": 51,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "94400-20748-2005-04-02",
+        "c": "NL",
+        "n": "outsider kunst: werken op papier van 8 kunstenaars",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Galerie Hamer",
+        "d": [
+          "2005-04-02",
+          "2005-05-08"
+        ]
+      },
+      {
+        "i": "94400-20748-2005-11-05",
+        "c": "NL",
+        "n": "Herman Bossert & Jean-Pierre Nadau: Twee tekenaars",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Galerie Hamer",
+        "d": [
+          "2005-11-05",
+          "2005-12-31"
+        ]
+      },
+      {
+        "i": "94400-10421-2005-01-04",
+        "c": "US",
+        "n": "Jean-Pierre Nadau",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Luise Ross Gallery",
+        "d": [
+          "2005-01-04",
+          "2005-01-29"
+        ]
+      },
+      {
+        "i": "94400-233-2005-04-29",
+        "c": "DE",
+        "n": "Jean-Pierre Nadau",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Cologne",
+        "o": "Galerie Susanne  Zander",
+        "d": [
+          "2005-04-29",
+          "2005-05-28"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "94400-20748-2006-02-07",
+        "c": "NL",
+        "n": "Winterexpositie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Galerie Hamer",
+        "d": [
+          "2006-02-07",
+          "2006-04-01"
+        ]
+      },
+      {
+        "i": "94400-10421-2006-06-29",
+        "c": "US",
+        "n": "FUN!",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Luise Ross Gallery",
+        "d": [
+          "2006-06-29",
+          "2006-07-28"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "94400-16913-2008-03-02",
+        "c": "DE",
+        "n": "magische Architektur",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Münster",
+        "o": "Kunsthaus Kannen",
+        "d": [
+          "2008-03-02",
+          "2008-05-12"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "94400-29951-2013-10-26",
+        "c": "JP",
+        "n": "The 40th Anniversary Exhibition - Playful Surrealism",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Kyoto",
+        "o": "Galerie Miyawaki",
+        "d": [
+          "2013-10-26",
+          "2013-11-17"
+        ]
+      }
+    ]
+  }
+}

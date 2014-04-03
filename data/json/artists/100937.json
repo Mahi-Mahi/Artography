@@ -1,0 +1,161 @@
+{
+  "id": "100937",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:44:50",
+  "name": "Eric Corne",
+  "surname": "Corne",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Flixecourt (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1957",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "21011",
+  "r01": "21060",
+  "r02": "18688",
+  "r03": "18243",
+  "r04": "18375",
+  "r05": "18248",
+  "r06": "17343",
+  "r07": "15505",
+  "r08": "12316",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1998",
+  "all-shows-total": "20",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (7), Germany (3), Luxembourg (2), Portugal (1), Slovakia (1)",
+  "2005-shows-with": "Eric Corne (12), Damien Deroubaix (5), Barbara Breitenfellner (3), Martin Dammann (3), Maël Nozahic (3), Bruno Perramant (3), Assan Smati (3), Yannick Vey (3), Nicole Bianchet (2), Chris Bors (2), Damien Cadio (2), Gaston Damag (2), Baptiste Debombourg (2), Noël Dolla (2), Fredox (2), Jean-François Gavoty (2), Joep van Liefland (2), Stu Mead (2), Myriam Mechita (2), Frank Möllersten (2), Audrey Nervi (2), Manuel Ocampo (2), Ragnar Persson (2), Ehren Tool (2)",
+  "representing-galleries": "Galerie Patricia Dorfmann (61, rue de la Verrerie, 75004 Paris, France); Nosbaum&Reding (4, rue Wiltheim, 2733 Luxembourg, Luxembourg)",
+  "collecting-museums": "FRAC - Picardie (45 rue Pointin, 80041 Amiens, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France)",
+  "first_name": "Eric",
+  "last_name": "Corne",
+  "genre": "m",
+  "birthDate": "1957-01-01",
+  "age": 57,
+  "age_range": "46-55",
+  "expos": {
+    "2008": [
+      {
+        "i": "100937-17359-2008-06-12",
+        "c": "LU",
+        "n": "Supports/Surfaces",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Galerie Bernard Ceysson - Luxembourg",
+        "d": [
+          "2008-06-12",
+          "2008-07-27"
+        ]
+      },
+      {
+        "i": "100937-16201-2008-11-28",
+        "c": "DE",
+        "n": "Family Jewels",
+        "st": "Group",
+        "t": "Edition",
+        "ct": "Berlin",
+        "o": "Bongoût Gallery",
+        "d": [
+          "2008-11-28",
+          "2008-12-06"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "100937-7146-2009-12-13",
+        "c": "DE",
+        "n": "Family Jewels",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Esslingen",
+        "o": "Villa Merkel - Galerien der Stadt Esslingen",
+        "d": [
+          "2009-12-13",
+          "2010-01-31"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "100937-7146-2009-12-13",
+        "c": "DE",
+        "n": "Family Jewels",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Esslingen",
+        "o": "Villa Merkel - Galerien der Stadt Esslingen",
+        "d": [
+          "2009-12-13",
+          "2010-01-31"
+        ]
+      },
+      {
+        "i": "100937-3540-2010-03-04",
+        "c": "LU",
+        "n": "Eric Corne - Lost Lights",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Nosbaum&Reding",
+        "d": [
+          "2010-03-04",
+          "2010-04-30"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "100937-20950-2011-05-13",
+        "c": "DE",
+        "n": "State of the union",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Freies Museum Berlin",
+        "d": [
+          "2011-05-13",
+          "2011-06-09"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "100937-10739-2013-03-07",
+        "c": "PT",
+        "n": "The Age of Divinty",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Lisbon",
+        "o": "Plataforma Revólver",
+        "d": [
+          "2013-03-07",
+          "2013-04-24"
+        ]
+      },
+      {
+        "i": "100937-29109-2013-06-13",
+        "c": "SK",
+        "n": "La Belle Peinture II",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bratislava",
+        "o": "Institut Français de Slovaquie",
+        "d": [
+          "2013-06-13",
+          "2013-07-26"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "112233",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:49:21",
+  "name": "Jean-Jacques Dumont",
+  "surname": "Dumont",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Vire (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1956",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "17334",
+  "r01": "15935",
+  "r02": "16181",
+  "r03": "19439",
+  "r04": "22924",
+  "r05": "22121",
+  "r06": "20596",
+  "r07": "17055",
+  "r08": "31129",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "16",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (10), Germany (1), Switzerland (1)",
+  "2005-shows-with": "Jean-Jacques Dumont (12), Francois Genot (3), Etienne Pressager (3), Sebastien Gouju (2), Esther Hiepler (2), Guillaume le Moine (2), Françoise Petrovitch (2), Dorothée von Rechenberg (2), David Renaud (2), Evariste Richer (2), Jeanne Susplugas (2), Eric Watier (2)",
+  "representing-galleries": null,
+  "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France)",
+  "first_name": "Jean-Jacques",
+  "last_name": "Dumont",
+  "genre": "m",
+  "birthDate": "1956-01-01",
+  "age": 58,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "112233-3737-2006-12-08",
+        "c": "LU",
+        "n": "On/Off",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2006-12-08",
+          "2007-02-25"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "112233-3737-2006-12-08",
+        "c": "LU",
+        "n": "On/Off",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2006-12-08",
+          "2007-02-25"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "112233-6124-2010-05-06",
+        "c": "CH",
+        "n": "Kompetenzverschiebungen",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Liestal",
+        "o": "Kunsthalle Palazzo",
+        "d": [
+          "2010-05-06",
+          "2010-06-20"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "112233-494-2011-11-25",
+        "c": "DE",
+        "n": "Regionale 12 - Information und Erfahrung",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Freiburg",
+        "o": "Kunstverein Freiburg",
+        "d": [
+          "2011-11-25",
+          "2012-01-08"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "112233-494-2011-11-25",
+        "c": "DE",
+        "n": "Regionale 12 - Information und Erfahrung",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Freiburg",
+        "o": "Kunstverein Freiburg",
+        "d": [
+          "2011-11-25",
+          "2012-01-08"
+        ]
+      }
+    ]
+  }
+}

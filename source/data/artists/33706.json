@@ -1,0 +1,845 @@
+{
+  "id": "33706",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:17:34",
+  "name": "Jules de Balincourt",
+  "surname": "Balincourt",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1972",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "2709",
+  "r01": "2729",
+  "r02": "2429",
+  "r03": "2328",
+  "r04": "2529",
+  "r05": "2693",
+  "r06": "2604",
+  "r07": "3956",
+  "r08": "9271",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "67",
+  "2005-shows-biennials": "17",
+  "2005-shows-galleries": "17",
+  "2005-shows-museums": "13",
+  "2005-countries-total": "USA (18), Italy (4), France (3), Germany (2), Switzerland (2), United Kingdom (2), Japan (1), Russia (1), Slovakia (1)",
+  "2005-shows-with": "Jules de Balincourt (30), Eddie Martinez (5), Joe Bradley (4), Rosson Crow (4), Wayne Gonzales (4), Taylor McKimens (4), Dana Schutz (4), Richard Aldrich (3), Ali Banisadr (3), Huma Bhabha (3), Mat Brinkman (3), Dan Colen (3), Tomory Dodge (3), Barnaby Furnas (3), Ry Fyan (3), Tomoo Gokita (3), Evan Gruzis (3), Daniel Hesidence (3), Ben Jones (3), Robert Longo (3), Nate Lowman (3), David Malek (3), Ryan McGinley (3), Keegan McHargue (3), Takeshi Murata (3), Sterling Ruby (3), Aurel Schmidt (3), Dash Snow (3), Francine Spiegel (3), Banks Violette (3), Kelley Walker (3), Cory Arcangel (2), John M Armleder (2), Barry X. Ball (2), Davide Balula (2), Tim Barber (2), Lisa Beck (2), Katherine Bernhardt (2), Aaron Bondaroff (2), Ralph Borland (2), Lizzi Bougatsos (2), Cecily Brown (2), Graham Caldwell (2), Michael Cline (2), Verne Dawson (2), Dearraindrop (2), Benjamin Degen (2), Francesca DiMattio (2), Jim Drain (2), Gardar Eide Einarsson (2), Claire Fontaine (2), Martha Friedman (2), Patrick Griffin (2), Joe Grillo",
+  "representing-galleries": "Galerie Thaddaeus Ropac - Salzburg (Mirabellplatz 2, 5020 Salzburg, Austria); Galerie Thaddaeus Ropac - Paris (7, rue Debelleyme, 75003 Paris, France); Victoria Miro Gallery (16 Wharf Road, N1 7RW London (England), United Kingdom); Salon 94 (12 East 94th Street, 10128 New York City, NY, USA)",
+  "collecting-museums": "Collezione Maramotti (via fratelli cervi 66, 42100 Reggio Emilia, Italy); The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London (England), United Kingdom); MOCA Grand Avenue (250 South Grand Avenue, 90012 Los Angeles, CA, USA)",
+  "first_name": "Jules",
+  "last_name": "de",
+  "genre": "m",
+  "birthDate": "1972-01-01",
+  "age": 42,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "33706-1234-2005-03-13",
+        "c": "US",
+        "n": "Greater New York 2005",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "MoMA PS1",
+        "d": [
+          "2005-03-13",
+          "2005-09-26"
+        ]
+      },
+      {
+        "i": "33706-1729-2005-03-03",
+        "c": "US",
+        "n": "Jules de Balincourt - This Is Our Town",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Zach Feuer Gallery (LFL)",
+        "d": [
+          "2005-03-03",
+          "2005-04-02"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "33706-2722-2006-01-25",
+        "c": "GB",
+        "n": "‘The Triumph of Painting’ from the Saatchi collection",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Leeds (England)",
+        "o": "Leeds Art Gallery",
+        "d": [
+          "2006-01-25",
+          "2006-03-12"
+        ]
+      },
+      {
+        "i": "33706-11480-2006-01-28",
+        "c": "US",
+        "n": "Humor Me",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Kansas City, MO",
+        "o": "H&R Block Artspace at Kansas City Art Institute",
+        "d": [
+          "2006-01-28",
+          "2006-03-18"
+        ]
+      },
+      {
+        "i": "33706-4620-2006-02-03",
+        "c": "US",
+        "n": "Don't Abandon The Ship",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Boston, MA",
+        "o": "Allston Skirt Gallery",
+        "d": [
+          "2006-02-03",
+          "2006-02-25"
+        ]
+      },
+      {
+        "i": "33706-2553-2006-02-10",
+        "c": "GB",
+        "n": "The Triumph of Painting - Part 4",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "The Saatchi Gallery",
+        "d": [
+          "2006-02-10",
+          "2006-05-07"
+        ]
+      },
+      {
+        "i": "33706-7066-2006-04-08",
+        "c": "US",
+        "n": "Metro Pictures",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Miami, FL",
+        "o": "The Moore Space",
+        "d": [
+          "2006-04-08",
+          "2006-07-31"
+        ]
+      },
+      {
+        "i": "33706-174-2006-04-21",
+        "c": "BE",
+        "n": "Collection 2005/06",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Rodolphe Janssen",
+        "d": [
+          "2006-04-21",
+          "2006-05-27"
+        ]
+      },
+      {
+        "i": "33706-11599-2006-07-08",
+        "c": "AT",
+        "n": "HangART-7 Edition 4: New York",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Salzburg",
+        "o": "Hangart-7",
+        "d": [
+          "2006-07-08",
+          "2006-08-25"
+        ]
+      },
+      {
+        "i": "33706-2715-2006-10-07",
+        "c": "GB",
+        "n": "USA Today",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Royal Academy of Arts",
+        "d": [
+          "2006-10-07",
+          "2006-11-04"
+        ]
+      },
+      {
+        "i": "33706-143-2006-01-21",
+        "c": "DE",
+        "n": "Jules de Balincourt - Accidental Toursim and The Art of Forgetting",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "ARNDT",
+        "d": [
+          "2006-01-21",
+          "2006-03-18"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "33706-10381-2007-01-19",
+        "c": "SE",
+        "n": "FIVE PAINTERS",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Malmö",
+        "o": "Loyal",
+        "d": [
+          "2007-01-19",
+          "2007-03-03"
+        ]
+      },
+      {
+        "i": "33706-23008-2007-03-15",
+        "c": "US",
+        "n": "CCA at 100: Alumni Looking Forward",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "San Francisco, CA",
+        "o": "Braunstein/Quay Gallery",
+        "d": [
+          "2007-03-15",
+          "2007-04-14"
+        ]
+      },
+      {
+        "i": "33706-5726-2007-05-01",
+        "c": "CN",
+        "n": "Art in America , Now",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Shanghai",
+        "o": "MOCA Shanghai",
+        "d": [
+          "2007-05-01",
+          "2007-06-30"
+        ]
+      },
+      {
+        "i": "33706-7993-2007-05-20",
+        "c": "US",
+        "n": "reverence",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Peekskill, NY",
+        "o": "HVCCA - Hudson Valley Center for Contemporary Art",
+        "d": [
+          "2007-05-20",
+          "2007-07-29"
+        ]
+      },
+      {
+        "i": "33706-6061-2007-05-26",
+        "c": "CZ",
+        "n": "Prague Biennale 3",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Prague",
+        "o": "Prague Biennale",
+        "d": [
+          "2007-05-26",
+          "2007-09-16"
+        ]
+      },
+      {
+        "i": "33706-4972-2007-06-01",
+        "c": "US",
+        "n": "Phantasmania",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Kansas City, MO",
+        "o": "Kemper Museum of Contemporary Art",
+        "d": [
+          "2007-06-01",
+          "2007-08-19"
+        ]
+      },
+      {
+        "i": "33706-2410-2007-09-21",
+        "c": "GB",
+        "n": "When We Build, Let Us Think That We Build Forever",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gateshead (England)",
+        "o": "BALTIC Centre for Contemporary Art",
+        "d": [
+          "2007-09-21",
+          "2008-01-20"
+        ]
+      },
+      {
+        "i": "33706-11480-2007-10-19",
+        "c": "US",
+        "n": "Past, Present, Future Perfect",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Kansas City, MO",
+        "o": "H&R Block Artspace at Kansas City Art Institute",
+        "d": [
+          "2007-10-19",
+          "2008-02-02"
+        ]
+      },
+      {
+        "i": "33706-2553-2007-10-24",
+        "c": "GB",
+        "n": "USA Today",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "The Saatchi Gallery",
+        "d": [
+          "2007-10-24",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "33706-10790-2007-10-24",
+        "c": "RU",
+        "n": "USA Today: New American Art from The Saatchi Gallery",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "St. Petersburg",
+        "o": "The State Hermitage Museum",
+        "d": [
+          "2007-10-24",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "33706-6790-2007-11-06",
+        "c": "US",
+        "n": "Poets on Painters",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Normal, Il",
+        "o": "University Galleries at Illinois State University",
+        "d": [
+          "2007-11-06",
+          "2007-12-16"
+        ]
+      },
+      {
+        "i": "33706-1729-2007-09-06",
+        "c": "US",
+        "n": "Jules de Balincourt - Unknowing Man's Nature",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Zach Feuer Gallery (LFL)",
+        "d": [
+          "2007-09-06",
+          "2007-10-13"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "33706-2410-2007-09-21",
+        "c": "GB",
+        "n": "When We Build, Let Us Think That We Build Forever",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gateshead (England)",
+        "o": "BALTIC Centre for Contemporary Art",
+        "d": [
+          "2007-09-21",
+          "2008-01-20"
+        ]
+      },
+      {
+        "i": "33706-11480-2007-10-19",
+        "c": "US",
+        "n": "Past, Present, Future Perfect",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Kansas City, MO",
+        "o": "H&R Block Artspace at Kansas City Art Institute",
+        "d": [
+          "2007-10-19",
+          "2008-02-02"
+        ]
+      },
+      {
+        "i": "33706-2553-2007-10-24",
+        "c": "GB",
+        "n": "USA Today",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "The Saatchi Gallery",
+        "d": [
+          "2007-10-24",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "33706-10790-2007-10-24",
+        "c": "RU",
+        "n": "USA Today: New American Art from The Saatchi Gallery",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "St. Petersburg",
+        "o": "The State Hermitage Museum",
+        "d": [
+          "2007-10-24",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "33706-2674-2008-02-02",
+        "c": "US",
+        "n": "Eastern Standard: Western Artists in China",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "North Adams, MA",
+        "o": "Massachusetts Museum of Contemporary Art - MASSMoCA",
+        "d": [
+          "2008-02-02",
+          "2009-02-16"
+        ]
+      },
+      {
+        "i": "33706-2394-2008-02-22",
+        "c": "US",
+        "n": "Recent Acquisitions, Gifts, and Works from Various Exhibitions 1985-2007",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "White Columns",
+        "d": [
+          "2008-02-22",
+          "2008-03-30"
+        ]
+      },
+      {
+        "i": "33706-6169-2008-05-11",
+        "c": "US",
+        "n": "Future Tense: Reshaping the Landscape",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Purchase, NY",
+        "o": "Neuberger Museum of Art",
+        "d": [
+          "2008-05-11",
+          "2008-07-20"
+        ]
+      },
+      {
+        "i": "33706-3055-2008-07-09",
+        "c": "US",
+        "n": "A Sorry Kind of Wisdom",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Perry Rubenstein Gallery - 527 West 23 Street",
+        "d": [
+          "2008-07-09",
+          "2008-08-10"
+        ]
+      },
+      {
+        "i": "33706-6172-2008-09-20",
+        "c": "GB",
+        "n": "Mail Order Monsters",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Max Wigram Gallery, New Bond Street",
+        "d": [
+          "2008-09-20",
+          "2008-10-19"
+        ]
+      },
+      {
+        "i": "33706-24131-2008-10-23",
+        "c": "US",
+        "n": "Jules De Balincourt",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Nashville, TN",
+        "o": "Vanderbilt University Fine Arts Gallery",
+        "d": [
+          "2008-10-23",
+          "2008-12-05"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "33706-2674-2008-02-02",
+        "c": "US",
+        "n": "Eastern Standard: Western Artists in China",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "North Adams, MA",
+        "o": "Massachusetts Museum of Contemporary Art - MASSMoCA",
+        "d": [
+          "2008-02-02",
+          "2009-02-16"
+        ]
+      },
+      {
+        "i": "33706-2748-2009-03-12",
+        "c": "DE",
+        "n": "Lubok. Originalgrafische Bilderbücher",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Leipzig",
+        "o": "Museum der bildenden Künste Leipzig",
+        "d": [
+          "2009-03-12",
+          "2009-06-01"
+        ]
+      },
+      {
+        "i": "33706-12124-2009-04-02",
+        "c": "US",
+        "n": "Mixing It Up: Recent Hunter Mfas Working In Combined Media",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "Leubsdorf Art Gallery - Hunter College",
+        "d": [
+          "2009-04-02",
+          "2009-05-09"
+        ]
+      },
+      {
+        "i": "33706-5451-2009-05-02",
+        "c": "US",
+        "n": "Return to Function",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madison, WI",
+        "o": "MMoCA - The Madison Museum of Contemporary Art",
+        "d": [
+          "2009-05-02",
+          "2009-08-23"
+        ]
+      },
+      {
+        "i": "33706-17503-2009-05-24",
+        "c": "IT",
+        "n": "Transitions - Painting at the (other) end of art - La pittura alla fine dell\\'arte",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Reggio Emilia",
+        "o": "Collezione Maramotti",
+        "d": [
+          "2009-05-24",
+          "2009-10-31"
+        ]
+      },
+      {
+        "i": "33706-18953-2009-06-03",
+        "c": "DE",
+        "n": "Cave Painting",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "PSM Gallery",
+        "d": [
+          "2009-06-03",
+          "2009-07-18"
+        ]
+      },
+      {
+        "i": "33706-10446-2009-09-09",
+        "c": "IT",
+        "n": "Contemporary and Modern Works",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "AR Contemporary Gallery",
+        "d": [
+          "2009-09-09",
+          "2009-10-30"
+        ]
+      },
+      {
+        "i": "33706-12181-2009-09-21",
+        "c": "IT",
+        "n": "New York Minute: 60 Artisti della scena newyorchese",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rome",
+        "o": "MACRO Testaccio (MACRO Future)",
+        "d": [
+          "2009-09-21",
+          "2009-11-01"
+        ]
+      },
+      {
+        "i": "33706-2447-2009-10-02",
+        "c": "US",
+        "n": "Return to Function",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Des Moines, IA",
+        "o": "Des Moines Art Center",
+        "d": [
+          "2009-10-02",
+          "2010-01-10"
+        ]
+      },
+      {
+        "i": "33706-21196-2009-10-26",
+        "c": "US",
+        "n": "Futurescape",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Storrs, CT\t",
+        "o": "Contemporary Art Galleies - UConn School of Fine Arts",
+        "d": [
+          "2009-10-26",
+          "2009-12-04"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "33706-2447-2009-10-02",
+        "c": "US",
+        "n": "Return to Function",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Des Moines, IA",
+        "o": "Des Moines Art Center",
+        "d": [
+          "2009-10-02",
+          "2010-01-10"
+        ]
+      },
+      {
+        "i": "33706-8242-2010-04-24",
+        "c": "US",
+        "n": "Art of Our Time:  Selections from the Ulrich Museum of Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Wichita, KS",
+        "o": "Ulrich Museum of Art",
+        "d": [
+          "2010-04-24",
+          "2010-08-08"
+        ]
+      },
+      {
+        "i": "33706-5565-2010-06-30",
+        "c": "CH",
+        "n": "The Cannibal´s Muse",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Gstaad",
+        "o": "PATRICIA LOW CONTEMPORARY",
+        "d": [
+          "2010-06-30",
+          "2010-07-28"
+        ]
+      },
+      {
+        "i": "33706-11839-2010-07-24",
+        "c": "CH",
+        "n": "The Secret Lives of Trees",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zuoz",
+        "o": "Monica De Cardenas - Zuoz",
+        "d": [
+          "2010-07-24",
+          "2010-09-05"
+        ]
+      },
+      {
+        "i": "33706-3607-2010-03-20",
+        "c": "JP",
+        "n": "MAM project 11:Jules de Balincourt",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Tokyo",
+        "o": "Mori Art Museum",
+        "d": [
+          "2010-03-20",
+          "2010-07-04"
+        ]
+      },
+      {
+        "i": "33706-1875-2010-04-01",
+        "c": "US",
+        "n": "Premonitions",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Deitch Projects - 76 Grand Street",
+        "d": [
+          "2010-04-01",
+          "2010-04-24"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "33706-18752-2011-04-23",
+        "c": "RU",
+        "n": "New York Minute",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Moscow",
+        "o": "Garage Center for Contemporary Culture - GCCC",
+        "d": [
+          "2011-04-23",
+          "2011-06-05"
+        ]
+      },
+      {
+        "i": "33706-14658-2011-05-19",
+        "c": "US",
+        "n": "We Regret To Inform You There is Currently No Space Or Place For Abstract Painting",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Martos Gallery",
+        "d": [
+          "2011-05-19",
+          "2011-06-18"
+        ]
+      },
+      {
+        "i": "33706-14658-2011-07-09",
+        "c": "US",
+        "n": "The 2011 Bridgehampton Biennial",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Martos Gallery",
+        "d": [
+          "2011-07-09",
+          "2011-09-05"
+        ]
+      },
+      {
+        "i": "33706-1448-2011-09-29",
+        "c": "IT",
+        "n": "VISIONS ",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "Monica De Cardenas - Milano",
+        "d": [
+          "2011-09-29",
+          "2011-12-10"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "33706-23328-2012-06-06",
+        "c": "US",
+        "n": "Pothole",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Salon 94 Bowery",
+        "d": [
+          "2012-06-06",
+          "2012-07-04"
+        ]
+      },
+      {
+        "i": "33706-4182-2012-08-16",
+        "c": "US",
+        "n": "The Double Dirty Dozen (& Friends)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Freight + Volume",
+        "d": [
+          "2012-08-16",
+          "2012-09-22"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "33706-2473-2013-01-27",
+        "c": "US",
+        "n": "Limuw: An Ode to the Sea",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Santa Barbara, CA",
+        "o": "Museum of  Contemporary Art Santa Barbara (MCASB)",
+        "d": [
+          "2013-01-27",
+          "2013-11-17"
+        ]
+      },
+      {
+        "i": "33706-23610-2013-03-06",
+        "c": "US",
+        "n": "Chicken Or Beef? A Transcontinental Survey Of Figurative Painting",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "The Hole NYC",
+        "d": [
+          "2013-03-06",
+          "2013-04-20"
+        ]
+      },
+      {
+        "i": "33706-1333-2013-06-01",
+        "c": "GB",
+        "n": "Painting at the Edge of Reality",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Victoria Miro Gallery",
+        "d": [
+          "2013-06-01",
+          "2013-01-01"
+        ]
+      },
+      {
+        "i": "33706-29109-2013-06-13",
+        "c": "SK",
+        "n": "La Belle Peinture II",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bratislava",
+        "o": "Institut Français de Slovaquie",
+        "d": [
+          "2013-06-13",
+          "2013-07-26"
+        ]
+      },
+      {
+        "i": "33706-19305-2013-07-10",
+        "c": "US",
+        "n": "Something about a Tree",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "FLAG Art Foundation",
+        "d": [
+          "2013-07-10",
+          "2013-09-07"
+        ]
+      }
+    ]
+  }
+}

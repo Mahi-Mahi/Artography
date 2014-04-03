@@ -1,0 +1,92 @@
+{
+  "id": "21744",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:12:12",
+  "name": "Jean Baptiste Mondino",
+  "surname": "Mondino",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Auberville (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1949",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Graphic Design",
+  "r00": "38047",
+  "r01": "34465",
+  "r02": "30356",
+  "r03": "26676",
+  "r04": "23111",
+  "r05": "24886",
+  "r06": "20889",
+  "r07": "17189",
+  "r08": "17247",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1989",
+  "all-shows-total": "6",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "China (1)",
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": "Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France)",
+  "first_name": "Jean",
+  "last_name": "Baptiste",
+  "genre": "m",
+  "birthDate": "1949-01-01",
+  "age": 65,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "21744-1519-2005-09-10",
+        "c": "CA",
+        "n": "From the Source, Fashion Photographs",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Toronto, ON",
+        "o": "Corkin Gallery",
+        "d": [
+          "2005-09-10",
+          "2005-10-22"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "21744-14394-2009-06-19",
+        "c": "CN",
+        "n": "Isabelle Huppert: Woman of Many Faces",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Beijing",
+        "o": "UCCA - Ullens Center for Contemporary Art",
+        "d": [
+          "2009-06-19",
+          "2009-07-19"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "21744-7794-2006-06-02",
+        "c": "US",
+        "n": "Jean-Baptiste Mondino",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "M+B",
+        "d": [
+          "2006-06-02",
+          "2006-07-05"
+        ]
+      }
+    ]
+  }
+}

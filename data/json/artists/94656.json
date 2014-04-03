@@ -1,0 +1,77 @@
+{
+  "id": "94656",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:42:32",
+  "name": "Francis Giacobetti",
+  "surname": "Giacobetti",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Marseille, Bouches-du-Rhône (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1939",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography",
+  "r00": "60803",
+  "r01": "54486",
+  "r02": "47208",
+  "r03": "41321",
+  "r04": "35258",
+  "r05": "31959",
+  "r06": "26457",
+  "r07": "21817",
+  "r08": "17370",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1971",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": null,
+  "2005-countries-total": "United Kingdom (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "Marlborough London (6, Albemarle Street, W1S 4BY London (England), United Kingdom)",
+  "collecting-museums": null,
+  "first_name": "Francis",
+  "last_name": "Giacobetti",
+  "genre": "m",
+  "birthDate": "1939-01-01",
+  "age": 75,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "94656-23176-2005-10-21",
+        "c": "GB",
+        "n": "Francis Bacon by Francis Giacobetti",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Newcastle upon Tyne\t",
+        "o": "University Gallery and Baring Wing - Northumbria University",
+        "d": [
+          "2005-10-21",
+          "2005-12-02"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "94656-22666-2009-03-27",
+        "c": "GB",
+        "n": "Francis Bacon by Francis Giacobetti",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Kings Place Gallery",
+        "d": [
+          "2009-03-27",
+          "2009-05-15"
+        ]
+      }
+    ]
+  }
+}

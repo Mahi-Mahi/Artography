@@ -1,0 +1,135 @@
+{
+  "id": "17112",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:10:15",
+  "name": "Pierre Faure",
+  "surname": "Faure",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Rouen (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1965",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "15383",
+  "r01": "13560",
+  "r02": "13223",
+  "r03": "11379",
+  "r04": "9668",
+  "r05": "8096",
+  "r06": "6684",
+  "r07": "7182",
+  "r08": "8251",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1998",
+  "all-shows-total": "18",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Germany (2), Spain (1)",
+  "2005-shows-with": "Pierre Faure (3)",
+  "representing-galleries": "Van der Grinten Galerie (St.-Apern-Straße 17-21, 50667 Cologne, Germany)",
+  "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Fotostiftung Schweiz (Schweizerische Stiftung für die Photographie) (Grüzenstrasse 45, 8400 Winterthur, Switzerland)",
+  "first_name": "Pierre",
+  "last_name": "Faure",
+  "genre": "m",
+  "birthDate": "1965-01-01",
+  "age": 49,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "17112-3593-2006-03-04",
+        "c": "NL",
+        "n": "Whisper Not!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amsterdam",
+        "o": "Huis Marseille stichting voor fotografie",
+        "d": [
+          "2006-03-04",
+          "2006-05-28"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "17112-2347-2007-06-28",
+        "c": "CL",
+        "n": "SIGNES D’ EXISTENCE",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Santiago",
+        "o": "MAC Museo de Arte Contemporáneo. Universidad de Chile",
+        "d": [
+          "2007-06-28",
+          "2007-09-02"
+        ]
+      },
+      {
+        "i": "17112-2031-2007-05-18",
+        "c": "DE",
+        "n": "Pierre Faure",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Cologne",
+        "o": "Kudlek van der Grinten Galerie",
+        "d": [
+          "2007-05-18",
+          "2007-06-30"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "17112-2031-2008-08-31",
+        "c": "DE",
+        "n": "Wir für euch",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Cologne",
+        "o": "Kudlek van der Grinten Galerie",
+        "d": [
+          "2008-08-31",
+          "2008-10-25"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "17112-6536-2012-05-31",
+        "c": "ES",
+        "n": "Number Three. From home to the factory. Works from the Centre national des arts plastiques, France",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "La Virreina - Centre de la Imatge",
+        "d": [
+          "2012-05-31",
+          "2012-09-30"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "17112-28765-2013-09-06",
+        "c": "DE",
+        "n": "Light Structures",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Cologne",
+        "o": "Van der Grinten Galerie",
+        "d": [
+          "2013-09-06",
+          "2013-10-26"
+        ]
+      }
+    ]
+  }
+}

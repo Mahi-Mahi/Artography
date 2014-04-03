@@ -1,0 +1,103 @@
+{
+  "id": "186035",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:18:30",
+  "name": "Ivan Messac",
+  "surname": "Messac",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Caen (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1948",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "18329",
+  "r01": "16719",
+  "r02": "14803",
+  "r03": "13661",
+  "r04": "12567",
+  "r05": "11437",
+  "r06": "15327",
+  "r07": "15816",
+  "r08": "19876",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1980",
+  "all-shows-total": "16",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (3), Luxembourg (2), Portugal (2)",
+  "2005-shows-with": "Ivan Messac (4), Bernard Rancillac (4), Erró (3), Robert Combas (2), Pavlos Dionysopoulos (2), Keith Haring (2), Peter Klasen (2), Eric Liot (2), Jacques Monory (2), Jean-Pierre Raynaud (2), Gerard Schlosser (2), Antonio Seguí (2), FC Sofia (2), Ben Vautier (2), Andy Warhol (2)",
+  "representing-galleries": "Galerie LC (25, rue Jean Mermoz, 75008 Paris, France); Galerie Orel Art - Paris (40, rue Quincampoix, 75004 Paris, France); Galerie Laurent Strouk (8 bis/16 rue Jacques Callot, 75006 Paris, France)",
+  "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France)",
+  "first_name": "Ivan",
+  "last_name": "Messac",
+  "genre": "m",
+  "birthDate": "1948-01-01",
+  "age": 66,
+  "age_range": "46-55",
+  "expos": {
+    "2008": [
+      {
+        "i": "186035-17359-2008-06-12",
+        "c": "LU",
+        "n": "Supports/Surfaces",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Galerie Bernard Ceysson - Luxembourg",
+        "d": [
+          "2008-06-12",
+          "2008-07-27"
+        ]
+      },
+      {
+        "i": "186035-4270-2008-05-09",
+        "c": "PT",
+        "n": "Ivan Messac - PESSOA É UM OUTRO",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Lisbon",
+        "o": "Galeria António Prates",
+        "d": [
+          "2008-05-09",
+          "2008-06-09"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "186035-4270-2009-07-15",
+        "c": "PT",
+        "n": "Acervo da galeria",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lisbon",
+        "o": "Galeria António Prates",
+        "d": [
+          "2009-07-15",
+          "2009-09-14"
+        ]
+      },
+      {
+        "i": "186035-17359-2009-06-06",
+        "c": "LU",
+        "n": "Ivan Messac",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Galerie Bernard Ceysson - Luxembourg",
+        "d": [
+          "2009-06-06",
+          "2009-08-01"
+        ]
+      }
+    ]
+  }
+}

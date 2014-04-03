@@ -1,0 +1,90 @@
+{
+  "id": "75036",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:34:19",
+  "name": "Christian Gaillard",
+  "surname": "Gaillard",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Avignon (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1951",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "92613",
+  "r01": "90265",
+  "r02": "93922",
+  "r03": "88471",
+  "r04": "81571",
+  "r05": "74471",
+  "r06": "66680",
+  "r07": "58972",
+  "r08": "53274",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (2)",
+  "2005-shows-with": null,
+  "representing-galleries": "Connoisseur Art Gallery (1 Hollywood Road,  Hong Kong, SAR, China); Galerie Ariel Sibony (Place des Vosges 24, 75003 Paris, France); Kunsthaus Bühler (Wagenburgstraße 4, 70184 Stuttgart, Germany); S.I. Fine Arts - Barcelona (Calle Olot 16 A, 08024 Barcelona, Spain); S.I. Fine Arts - New York (43 East 19th Street, 2nd Floor, 10003 New York City, NY, USA)",
+  "collecting-museums": null,
+  "first_name": "Christian",
+  "last_name": "Gaillard",
+  "genre": "m",
+  "birthDate": "1951-01-01",
+  "age": 63,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "75036-12483-2005-07-16",
+        "c": "CN",
+        "n": "16/16",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Connoisseur Art Gallery",
+        "d": [
+          "2005-07-16",
+          "2005-08-20"
+        ]
+      },
+      {
+        "i": "75036-12483-2005-05-09",
+        "c": "CN",
+        "n": "Christian GAILLARD - The Spirit of Matadors ",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Connoisseur Art Gallery",
+        "d": [
+          "2005-05-09",
+          "2005-06-04"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "75036-12483-2006-03-02",
+        "c": "CN",
+        "n": "Creme de la Creme",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Connoisseur Art Gallery",
+        "d": [
+          "2006-03-02",
+          "2006-03-31"
+        ]
+      }
+    ]
+  }
+}

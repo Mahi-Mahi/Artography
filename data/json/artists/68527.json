@@ -1,0 +1,103 @@
+{
+  "id": "68527",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:31:42",
+  "name": "Mathieu Rouget",
+  "surname": "Rouget",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Meudon (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1974",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "39429",
+  "r01": "36044",
+  "r02": "32113",
+  "r03": "28740",
+  "r04": "25045",
+  "r05": "21593",
+  "r06": "18123",
+  "r07": "24641",
+  "r08": "23415",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "6",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": null,
+  "2005-shows-with": null,
+  "representing-galleries": "Galerie Isabelle Gounod (13, rue Chapon, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Mathieu",
+  "last_name": "Rouget",
+  "genre": "m",
+  "birthDate": "1974-01-01",
+  "age": 40,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "68527-6144-2005-10-29",
+        "c": "CN",
+        "n": "Fresh ! - An Exhibition of French Video Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Macao",
+        "o": "Macau Museum of Art",
+        "d": [
+          "2005-10-29",
+          "2006-01-15"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "68527-6144-2005-10-29",
+        "c": "CN",
+        "n": "Fresh ! - An Exhibition of French Video Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Macao",
+        "o": "Macau Museum of Art",
+        "d": [
+          "2005-10-29",
+          "2006-01-15"
+        ]
+      },
+      {
+        "i": "68527-15008-2006-05-12",
+        "c": "KR",
+        "n": "Moving Windows",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Busan",
+        "o": "Busan Museum of Art",
+        "d": [
+          "2006-05-12",
+          "2006-06-21"
+        ]
+      },
+      {
+        "i": "68527-15280-2006-10-26",
+        "c": "IL",
+        "n": "Normality",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Tel Aviv",
+        "o": "The Heder contemporary art",
+        "d": [
+          "2006-10-26",
+          "2006-12-02"
+        ]
+      }
+    ]
+  }
+}

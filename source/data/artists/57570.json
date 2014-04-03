@@ -1,0 +1,77 @@
+{
+  "id": "57570",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:27:19",
+  "name": "François Fontaine",
+  "surname": "Fontaine",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1968",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "32884",
+  "r01": "30694",
+  "r02": "29550",
+  "r03": "26825",
+  "r04": "23608",
+  "r05": "61531",
+  "r06": "70250",
+  "r07": "62432",
+  "r08": "53969",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (3), China (1)",
+  "2005-shows-with": "François Fontaine (2)",
+  "representing-galleries": null,
+  "collecting-museums": "Musée du sourire (34, rue des Dames, 75017 Paris, France)",
+  "first_name": "François",
+  "last_name": "Fontaine",
+  "genre": "m",
+  "birthDate": "1968-01-01",
+  "age": 46,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "57570-2929-2005-01-18",
+        "c": "CN",
+        "n": "Re(-)viewing the City - the 1st Guangzhou International Photo Biennial",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Guangzhou, Guangdong",
+        "o": "The Guangdong Museum of Art",
+        "d": [
+          "2005-01-18",
+          "2005-02-27"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "57570-2929-2008-04-11",
+        "c": "CN",
+        "n": "Guangzhou in the eyes of photographers",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Guangzhou, Guangdong",
+        "o": "The Guangdong Museum of Art",
+        "d": [
+          "2008-04-11",
+          "2008-05-04"
+        ]
+      }
+    ]
+  }
+}

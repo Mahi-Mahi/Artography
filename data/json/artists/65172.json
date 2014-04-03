@@ -1,0 +1,107 @@
+{
+  "id": "65172",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:30:27",
+  "name": "Dolorès Marat",
+  "surname": "Marat",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1944",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": "Photography",
+  "r00": "31486",
+  "r01": "29088",
+  "r02": "26220",
+  "r03": "31512",
+  "r04": "40594",
+  "r05": "38506",
+  "r06": "47689",
+  "r07": "40916",
+  "r08": "51051",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1996",
+  "all-shows-total": "17",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (8), Germany (2), Belgium (1)",
+  "2005-shows-with": "Dolorès Marat (5), Beat Streuli (2)",
+  "representing-galleries": "Aliceday (1b, rue des Fabriques, 1000 Brussels, Belgium); Galerie Françoise Besson (10, rue de Crimée, 69001 Lyon, France); in camera galerie (21 rue Las cases, 75007 Paris, France); MKGalerie - Berlin (Rudi-Dutschke-strasse 26 (former Kochstrasse 60), 10969 Berlin, Germany); MKGalerie - Rotterdam (Witte de Withstraat 53, 3012 BM Rotterdam, Netherlands)",
+  "collecting-museums": null,
+  "first_name": "Dolorès",
+  "last_name": "Marat",
+  "genre": "f",
+  "birthDate": "1944-01-01",
+  "age": 70,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "65172-3968-2006-01-13",
+        "c": "BE",
+        "n": "Passeur d´Images",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Aliceday",
+        "d": [
+          "2006-01-13",
+          "2006-06-11"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "65172-11344-2008-11-01",
+        "c": "DE",
+        "n": "Le Petit Salon",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "MKGalerie - Berlin",
+        "d": [
+          "2008-11-01",
+          "2008-11-30"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "65172-11344-2009-06-30",
+        "c": "DE",
+        "n": "Identity in Motion",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "MKGalerie - Berlin",
+        "d": [
+          "2009-06-30",
+          "2009-08-08"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "65172-3968-2011-01-18",
+        "c": "BE",
+        "n": "Dolorès Marat - Sirocco",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Aliceday",
+        "d": [
+          "2011-01-18",
+          "2011-03-12"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "126294",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:54:50",
+  "name": "Denis Brun",
+  "surname": "Brun",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Désertines (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1966",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "59857",
+  "r01": "55410",
+  "r02": "51979",
+  "r03": "46264",
+  "r04": "40517",
+  "r05": "38110",
+  "r06": "32187",
+  "r07": "34333",
+  "r08": "32140",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1998",
+  "all-shows-total": "15",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (3), Netherlands (1)",
+  "2005-shows-with": "Denis Brun (2)",
+  "representing-galleries": "Galeri Baudelaire (Sint-Paulusstraat 41, 2000 Antwerp, Belgium); Vidéochroniques (1 place de Lorette, 13002 Marseille, France); Galerie Duboys (6, rue des Coutures Saint-Gervais, 75003 Paris, France); Gallery Cultural Speech (Postjesweg 6-8, 1057 EA Amsterdam, Netherlands)",
+  "collecting-museums": "FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
+  "first_name": "Denis",
+  "last_name": "Brun",
+  "genre": "m",
+  "birthDate": "1966-01-01",
+  "age": 48,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "126294-21660-2005-10-15",
+        "c": "BE",
+        "n": "Foto Antwerpen 2005",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Antwerp",
+        "o": "Galeri Baudelaire",
+        "d": [
+          "2005-10-15",
+          "2005-12-24"
+        ]
+      },
+      {
+        "i": "126294-21660-2005-04-23",
+        "c": "BE",
+        "n": "Beautiful Too Much!",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Antwerp",
+        "o": "Galeri Baudelaire",
+        "d": [
+          "2005-04-23",
+          "2005-06-25"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "126294-14676-2006-02-04",
+        "c": "US",
+        "n": "Hacking the Timeline",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Santa Monica, CA",
+        "o": "18th Street Arts Center",
+        "d": [
+          "2006-02-04",
+          "2006-04-07"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "126294-26783-2012-01-06",
+        "c": "NL",
+        "n": "Denis Brun - Sick of it all",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Gallery Cultural Speech",
+        "d": [
+          "2012-01-06",
+          "2012-04-08"
+        ]
+      }
+    ]
+  }
+}

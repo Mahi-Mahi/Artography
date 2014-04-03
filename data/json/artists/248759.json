@@ -1,0 +1,163 @@
+{
+  "id": "248759",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:42:31",
+  "name": "Marie-Catherine Adde",
+  "surname": "Adde",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": " (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1949",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "69990",
+  "r01": "66691",
+  "r02": "61991",
+  "r03": "56774",
+  "r04": "60447",
+  "r05": "56980",
+  "r06": "65356",
+  "r07": "61144",
+  "r08": "61795",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Germany (2), Switzerland (2)",
+  "2005-shows-with": "Marie-Catherine Adde (4), Bernard Adde (3), Charles Bézie (2), Hellmut Bruch (2), John Carter (2), Carlos Cruz-Diez (2), Gerhard Frömel (2), Dagmar Hagemann (2), Anneke Klein Kranenbarg (2), Jo Kuhn (2), Josef Linschinger (2), müller-emil (2), Jo Niemeyer (2), Claude Pasquer (2), Chris Popovic (2), Henri Prosi (2), Sigurd Rompza (2), Norbert Thomas (2), Marie-Thérèse Vacossin (2), Jean Pierre Viot (2), Ludwig Wilding (2), Piet van Zon (2)",
+  "representing-galleries": "galerie konkret martin woern (Hauptstr. 29, 79295 Sulzburg, Germany); Galerie La Ligne (Heinrichstrasse 237, CH-8005 Zurich, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Marie-Catherine",
+  "last_name": "Adde",
+  "genre": "f",
+  "birthDate": "1949-01-01",
+  "age": 65,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "248759-3175-2005-08-26",
+        "c": "CH",
+        "n": "MCBA (Marie-Catherine und Bernard Adde)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2005-08-26",
+          "2005-11-01"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "248759-3175-2006-11-10",
+        "c": "CH",
+        "n": "Vera Molnar & MCBA - Paralellen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2006-11-10",
+          "2007-01-09"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "248759-3175-2006-11-10",
+        "c": "CH",
+        "n": "Vera Molnar & MCBA - Paralellen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2006-11-10",
+          "2007-01-09"
+        ]
+      },
+      {
+        "i": "248759-6776-2007-11-25",
+        "c": "DE",
+        "n": "das kleine format  - petit format - small format",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sulzburg",
+        "o": "galerie konkret martin woern",
+        "d": [
+          "2007-11-25",
+          "2007-12-23"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "248759-3175-2008-07-11",
+        "c": "CH",
+        "n": "MCBA & Giovanni Di Stefano - Punkt, Linie, Fläche",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2008-07-11",
+          "2008-09-13"
+        ]
+      },
+      {
+        "i": "248759-17646-2008-08-01",
+        "c": "DE",
+        "n": "das kleine format - petit format - small format",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rehau",
+        "o": "kunsthaus rehau - institut für konstruktive kunst und konkrete poesie",
+        "d": [
+          "2008-08-01",
+          "2008-09-13"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "248759-6776-2009-11-22",
+        "c": "DE",
+        "n": "mehrfach. kunst in kleinen auflagen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sulzburg",
+        "o": "galerie konkret martin woern",
+        "d": [
+          "2009-11-22",
+          "2009-12-20"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "248759-3175-2010-08-28",
+        "c": "CH",
+        "n": "Vera Molnar & MCB Adde - Entre les Lignes",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie La Ligne",
+        "d": [
+          "2010-08-28",
+          "2010-10-09"
+        ]
+      }
+    ]
+  }
+}

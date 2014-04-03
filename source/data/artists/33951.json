@@ -1,0 +1,546 @@
+{
+  "id": "33951",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:17:43",
+  "name": "Charles Fréger",
+  "surname": "Fréger",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Bourges (FR)",
+  "birth day": "21",
+  "birth month": "1",
+  "birth year": "1975",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography",
+  "r00": "3372",
+  "r01": "3696",
+  "r02": "3620",
+  "r03": "3676",
+  "r04": "3705",
+  "r05": "3705",
+  "r06": "4457",
+  "r07": "4135",
+  "r08": "4356",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2001",
+  "all-shows-total": "60",
+  "2005-shows-biennials": "14",
+  "2005-shows-galleries": "14",
+  "2005-shows-museums": "16",
+  "2005-countries-total": "France (18), Netherlands (9), Austria (4), Belgium (2), Germany (2), South Korea (2), China (1), United Kingdom (1), USA (1)",
+  "2005-shows-with": "Charles Fréger (23), Armando (3), Gijs Assmann (3), Valérie Belin (3), Ronald de Bloeme (3), Jasper De Beijer (3), Helen Frik (3), Joris Geurts (3), Hugues Reip (3), Gilles Barbier (2), Yves Bélorgey (2), Thorsten Brinkmann (2), Kyungwoo Chun (2), Claude Closky (2), Philippe Cognée (2), Lynne Cohen (2), John Coplans (2), Olivier Debré (2), Cor van Dijk (2), Noël Dolla (2), Claire Fontaine (2), Gregory Forstner (2), Pierre Gonnord (2), Philippe Gronon (2), Camille Henrot (2), Jean Baptiste Huynh (2), Karen Knorr (2), Iris Levasseur (2), Lucebert (2), Martin McMurray (2), Laurent Pernot (2), Mathieu Pernot (2), Françoise Petrovitch (2), Bernard Piffaretti (2), Éric Poitevin (2), Uwe Poth (2), Paul Pouvreau (2), Philippe Ramette (2), Hans Schabus (2), Bruno Serralongue (2), Jean-Marc Spaans (2), Raphaël Zarka (2)",
+  "representing-galleries": "Galerie Les filles du calvaire - Bruxelles (Boulevard Barthélémy, Kanal 20, 1000 Brussels, Belgium); Kicken Berlin (Linienstr. 155, 10115 Berlin, Germany); MEM (1-18-4, Ebisu, Shibuya-ku, 150-0013 Tokyo, Japan); Galerie Nouvelles Images (Westeinde 22, 2512 HD The Hague, Netherlands); Stephen Daiter Gallery (230 W. Superior, Fourth Floor, 60654 Chicago, IL, USA)",
+  "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg)",
+  "first_name": "Charles",
+  "last_name": "Fréger",
+  "genre": "m",
+  "birthDate": "1975-01-21",
+  "age": 39,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "33951-2318-2005-03-09",
+        "c": "AR",
+        "n": "Fondos Regionales de Arte Contemporáneo Île-de-France y Poitou-Charentes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Buenos Aires",
+        "o": "MAMBA - Museo de Arte Moderno de Buenos Aires",
+        "d": [
+          "2005-03-09",
+          "2005-04-30"
+        ]
+      },
+      {
+        "i": "33951-426-2005-09-23",
+        "c": "DE",
+        "n": "Charles Fréger & August Sander",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Kicken Berlin",
+        "d": [
+          "2005-09-23",
+          "2005-12-10"
+        ]
+      },
+      {
+        "i": "33951-3345-2005-11-05",
+        "c": "NL",
+        "n": "45 Years / Part I",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2005-11-05",
+          "2005-12-14"
+        ]
+      },
+      {
+        "i": "33951-3345-2005-01-20",
+        "c": "NL",
+        "n": "Charles Fréger",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2005-01-20",
+          "2005-02-23"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "33951-3345-2006-06-17",
+        "c": "NL",
+        "n": "Alone Together",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2006-06-17",
+          "2006-08-23"
+        ]
+      },
+      {
+        "i": "33951-2331-2006-07-02",
+        "c": "LU",
+        "n": "Eldorado",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2006-07-02",
+          "2006-11-20"
+        ]
+      },
+      {
+        "i": "33951-2134-2006-06-02",
+        "c": "US",
+        "n": "Charles Fréger - Portraits Photographiques et Uniformes",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Chicago, IL",
+        "o": "Stephen Daiter Gallery",
+        "d": [
+          "2006-06-02",
+          "2006-07-29"
+        ]
+      },
+      {
+        "i": "33951-3345-2006-11-11",
+        "c": "NL",
+        "n": "Charles Fréger",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2006-11-11",
+          "2006-12-13"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "33951-3345-2007-01-20",
+        "c": "NL",
+        "n": "Showcase",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2007-01-20",
+          "2007-02-21"
+        ]
+      },
+      {
+        "i": "33951-18342-2007-06-20",
+        "c": "DE",
+        "n": "F/Stop 1. Internationales Fotografiefestival Leipzig",
+        "st": "Group",
+        "t": "Festival",
+        "ct": "Leipzig",
+        "o": "F/Stop Internationales Fotografiefestival Leipzig",
+        "d": [
+          "2007-06-20",
+          "2007-06-24"
+        ]
+      },
+      {
+        "i": "33951-6124-2007-08-25",
+        "c": "CH",
+        "n": "Alone Together",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Liestal",
+        "o": "Kunsthalle Palazzo",
+        "d": [
+          "2007-08-25",
+          "2007-10-05"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "33951-5726-2008-01-27",
+        "c": "CN",
+        "n": "Unseen : An exhibition of International Photography",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Shanghai",
+        "o": "MOCA Shanghai",
+        "d": [
+          "2008-01-27",
+          "2008-03-18"
+        ]
+      },
+      {
+        "i": "33951-6781-2008-03-09",
+        "c": "DE",
+        "n": "Prêt-à-porter",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Kassel",
+        "o": "Kasseler Kunstverein",
+        "d": [
+          "2008-03-09",
+          "2008-06-29"
+        ]
+      },
+      {
+        "i": "33951-3345-2008-07-05",
+        "c": "NL",
+        "n": "People, Spirits & Ghosts: Portrait",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2008-07-05",
+          "2008-08-23"
+        ]
+      },
+      {
+        "i": "33951-7708-2008-10-30",
+        "c": "KR",
+        "n": "Power of photography",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Seoul",
+        "o": "Sungkok Art Museum",
+        "d": [
+          "2008-10-30",
+          "2009-01-11"
+        ]
+      },
+      {
+        "i": "33951-3345-2008-04-12",
+        "c": "NL",
+        "n": "Charles Fréger",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2008-04-12",
+          "2008-05-21"
+        ]
+      },
+      {
+        "i": "33951-2328-2008-09-24",
+        "c": "BE",
+        "n": "Charles Fréger -  Portraits photographiques et uniformes",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Les filles du calvaire - Bruxelles",
+        "d": [
+          "2008-09-24",
+          "2008-11-15"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "33951-7708-2008-10-30",
+        "c": "KR",
+        "n": "Power of photography",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Seoul",
+        "o": "Sungkok Art Museum",
+        "d": [
+          "2008-10-30",
+          "2009-01-11"
+        ]
+      },
+      {
+        "i": "33951-3345-2009-01-24",
+        "c": "NL",
+        "n": "Acquired & Admired: Collectables 3",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2009-01-24",
+          "2009-02-25"
+        ]
+      },
+      {
+        "i": "33951-10212-2009-04-09",
+        "c": "AT",
+        "n": "Charles Fréger - Empire",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "MOMENTUM",
+        "d": [
+          "2009-04-09",
+          "2009-06-13"
+        ]
+      },
+      {
+        "i": "33951-3162-2009-07-03",
+        "c": "AT",
+        "n": "Charles Fréger: SHORT SCHOOL HAKA",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Kunsthalle wien project space karlsplatz",
+        "d": [
+          "2009-07-03",
+          "2010-02-28"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "33951-21428-2010-01-29",
+        "c": "NL",
+        "n": "(On)Zichtbaar",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Utrecht",
+        "o": "Fotodok",
+        "d": [
+          "2010-01-29",
+          "2010-02-28"
+        ]
+      },
+      {
+        "i": "33951-13044-2010-06-16",
+        "c": "KR",
+        "n": "Man Ray’s Photography & His Heritage",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Seoul",
+        "o": "Seoul Museum of Art (SeMA)",
+        "d": [
+          "2010-06-16",
+          "2010-08-15"
+        ]
+      },
+      {
+        "i": "33951-3345-2010-10-09",
+        "c": "NL",
+        "n": "Ni 50 Jaar, Part 1",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2010-10-09",
+          "2010-12-08"
+        ]
+      },
+      {
+        "i": "33951-3162-2009-07-03",
+        "c": "AT",
+        "n": "Charles Fréger: SHORT SCHOOL HAKA",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Kunsthalle wien project space karlsplatz",
+        "d": [
+          "2009-07-03",
+          "2010-02-28"
+        ]
+      },
+      {
+        "i": "33951-3345-2010-05-15",
+        "c": "NL",
+        "n": "Charles Freger",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2010-05-15",
+          "2010-06-23"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "33951-27211-2012-06-23",
+        "c": "DE",
+        "n": "überall und nirgends - Werke aus der Sammlung Reydan Weiss",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Oberstdorf",
+        "o": "Kunsthaus Villa Jauss",
+        "d": [
+          "2012-06-23",
+          "2012-09-30"
+        ]
+      },
+      {
+        "i": "33951-3345-2012-06-30",
+        "c": "NL",
+        "n": "Painterly Loves, Sculptural Likes, Photographical Needs And Kissable Drawings",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2012-06-30",
+          "2012-08-25"
+        ]
+      },
+      {
+        "i": "33951-3345-2012-09-01",
+        "c": "NL",
+        "n": "Collectables 5: Delicasies",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2012-09-01",
+          "2012-10-03"
+        ]
+      },
+      {
+        "i": "33951-10212-2011-11-17",
+        "c": "AT",
+        "n": "Wilder Mann",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "MOMENTUM",
+        "d": [
+          "2011-11-17",
+          "2012-03-01"
+        ]
+      },
+      {
+        "i": "33951-8105-2011-12-01",
+        "c": "AT",
+        "n": "Wilder Mann",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Salzburg",
+        "o": "Galerie Fotohof",
+        "d": [
+          "2011-12-01",
+          "2012-01-21"
+        ]
+      },
+      {
+        "i": "33951-3345-2012-03-10",
+        "c": "NL",
+        "n": "Wilder Mann",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2012-03-10",
+          "2012-04-11"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "33951-10212-2011-11-17",
+        "c": "AT",
+        "n": "Wilder Mann",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "MOMENTUM",
+        "d": [
+          "2011-11-17",
+          "2012-03-01"
+        ]
+      },
+      {
+        "i": "33951-8105-2011-12-01",
+        "c": "AT",
+        "n": "Wilder Mann",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Salzburg",
+        "o": "Galerie Fotohof",
+        "d": [
+          "2011-12-01",
+          "2012-01-21"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "33951-15720-2013-02-15",
+        "c": "BE",
+        "n": "Wilder Mann",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "Fotomuseum Antwerpen",
+        "d": [
+          "2013-02-15",
+          "2013-06-19"
+        ]
+      },
+      {
+        "i": "33951-3091-2013-04-11",
+        "c": "US",
+        "n": "Wilder Mann",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Yossi Milo Gallery",
+        "d": [
+          "2013-04-11",
+          "2013-05-18"
+        ]
+      },
+      {
+        "i": "33951-27162-2013-05-17",
+        "c": "GB",
+        "n": "Charles Freger - The Wild and The Wise",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Liverpool (England)",
+        "o": "Open Eye Gallery",
+        "d": [
+          "2013-05-17",
+          "2013-08-26"
+        ]
+      }
+    ]
+  }
+}

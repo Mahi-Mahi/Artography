@@ -1,0 +1,116 @@
+{
+  "id": "67542",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:31:19",
+  "name": "Agnes Daellenbach",
+  "surname": "Daellenbach",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "(FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1962",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "91750",
+  "r01": "89083",
+  "r02": "95181",
+  "r03": "89813",
+  "r04": "83344",
+  "r05": "76277",
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2008",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Spain (3), Switzerland (2)",
+  "2005-shows-with": null,
+  "representing-galleries": "Galerie Lilian Andrée (Gartengasse 12, 4125 Riehen, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Agnes",
+  "last_name": "Daellenbach",
+  "genre": "c",
+  "birthDate": "1962-01-01",
+  "age": 52,
+  "age_range": "46-55",
+  "expos": {
+    "2012": [
+      {
+        "i": "67542-27184-2012-11-15",
+        "c": "CH",
+        "n": "PERCEPTIONS",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Erlenbach",
+        "o": "Python Gallery",
+        "d": [
+          "2012-11-15",
+          "2012-12-29"
+        ]
+      },
+      {
+        "i": "67542-6038-2012-07-15",
+        "c": "CH",
+        "n": "Agnès Dällenbach",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Riehen",
+        "o": "Galerie Lilian Andrée",
+        "d": [
+          "2012-07-15",
+          "2012-08-19"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "67542-4715-2008-04-05",
+        "c": "ES",
+        "n": "Reliefs",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Palma de Mallorca",
+        "o": "ABA Art",
+        "d": [
+          "2008-04-05",
+          "2008-06-14"
+        ]
+      },
+      {
+        "i": "67542-4715-2008-06-19",
+        "c": "ES",
+        "n": "Prisa Mata Amigo",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Palma de Mallorca",
+        "o": "ABA Art",
+        "d": [
+          "2008-06-19",
+          "2008-09-15"
+        ]
+      },
+      {
+        "i": "67542-4715-2008-09-23",
+        "c": "ES",
+        "n": "Bios",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Palma de Mallorca",
+        "o": "ABA Art",
+        "d": [
+          "2008-09-23",
+          "2008-06-14"
+        ]
+      }
+    ]
+  }
+}

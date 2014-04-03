@@ -1,0 +1,92 @@
+{
+  "id": "2070",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:02:59",
+  "name": "Jacques Julien",
+  "surname": "Julien",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Lons-le-Saunier (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1967",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Sculpture",
+  "r00": "8146",
+  "r01": "7951",
+  "r02": "7012",
+  "r03": "6347",
+  "r04": "5584",
+  "r05": "4745",
+  "r06": "5253",
+  "r07": "4888",
+  "r08": "4210",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1995",
+  "all-shows-total": "31",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (9), Luxembourg (1)",
+  "2005-shows-with": "Jacques Julien (9), Raphaël Zarka (4), Didier Rittener (3), Scoli Acosta (2), Saâdane Afif (2), Wilfrid Almendra (2), Conny Blom (2), Katinka Bock (2), Olivier Dollinger (2), Elmgreen & Dragset (2), Geert Goiris (2), Raphaël Julliard (2), Jan Kopp (2), Renée Lévi (2), Jonathan Monk (2), Gyan Panchal (2), Bruno Peinado (2), Présence Panchounette (2), Tony Regazzoni (2), Hugues Reip (2), Bojan Sarcevic (2), Ernesto Sartori (2), Izet Sheshivari (2), Simon Starling (2), Jean-Luc Verna (2), Mathieu Walker (2)",
+  "representing-galleries": null,
+  "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France)",
+  "first_name": "Jacques",
+  "last_name": "Julien",
+  "genre": "m",
+  "birthDate": "1967-01-01",
+  "age": 47,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "2070-2546-2005-10-20",
+        "c": "DE",
+        "n": "Rundlederwelten",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Martin-Gropius-Bau",
+        "d": [
+          "2005-10-20",
+          "2006-01-08"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "2070-2546-2005-10-20",
+        "c": "DE",
+        "n": "Rundlederwelten",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Martin-Gropius-Bau",
+        "d": [
+          "2005-10-20",
+          "2006-01-08"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "2070-3737-2008-01-26",
+        "c": "LU",
+        "n": "P2P",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2008-01-26",
+          "2008-04-06"
+        ]
+      }
+    ]
+  }
+}

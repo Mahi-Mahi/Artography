@@ -1,0 +1,90 @@
+{
+  "id": "272152",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:51:43",
+  "name": "Emmanuel Berry",
+  "surname": "Berry",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Sens (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1971",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "34078",
+  "r01": "40034",
+  "r02": "36672",
+  "r03": "40325",
+  "r04": "56827",
+  "r05": "57872",
+  "r06": "76535",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "10",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (6), Germany (2), Belgium (1)",
+  "2005-shows-with": "Emmanuel Berry (2), Camille Bonnefoi (2)",
+  "representing-galleries": "Läkemäker (Schwedter Straße 17, 10119 Berlin, Germany); Wilson Stephens & Jones (71 Westbourne Park Road, W2 5QH London (England), United Kingdom)",
+  "collecting-museums": null,
+  "first_name": "Emmanuel",
+  "last_name": "Berry",
+  "genre": "m",
+  "birthDate": "1971-01-01",
+  "age": 43,
+  "age_range": "36-45",
+  "expos": {
+    "2008": [
+      {
+        "i": "272152-22694-2008-04-05",
+        "c": "DE",
+        "n": "Die Vögel von Sens",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Läkemäker",
+        "d": [
+          "2008-04-05",
+          "2008-05-31"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "272152-22694-2010-03-19",
+        "c": "DE",
+        "n": "DAUTZENBERG and SHELLS",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Läkemäker",
+        "d": [
+          "2010-03-19",
+          "2010-04-30"
+        ]
+      },
+      {
+        "i": "272152-10161-2010-08-03",
+        "c": "BE",
+        "n": "Coques, Coquilles, Coquillages",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Young Gallery",
+        "d": [
+          "2010-08-03",
+          "2010-09-11"
+        ]
+      }
+    ]
+  }
+}

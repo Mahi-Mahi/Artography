@@ -1,0 +1,146 @@
+{
+  "id": "16516",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:09:56",
+  "name": "Bruno Rousselot",
+  "surname": "Rousselot",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1957",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "19140",
+  "r01": "18972",
+  "r02": "18146",
+  "r03": "18173",
+  "r04": "22594",
+  "r05": "22768",
+  "r06": "26800",
+  "r07": "25766",
+  "r08": "23773",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1992",
+  "all-shows-total": "37",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (14), Luxembourg (3), Germany (1), Switzerland (1)",
+  "2005-shows-with": "Bruno Rousselot (16), Franck Chalendard (3), Christophe Cuzin (3), Miquel Mont (3), Bernard Piffaretti (3), Claude Tétot (3), Claude Viallat (3), Vincent Barré (2), Janos Ber (2), Christian Bonnefoi (2), Didier Demozay (2), Noël Dolla (2), Sylvie Fanchon (2), Bernard Frize (2), Olivier Gourvil (2), Peter Halley (2), Jane Harris (2), Imi Knoebel (2), Claudie Laks (2), Rainier Lericolais (2), Pierre Moignard (2), Olivier Mosset (2), Françoise Petrovitch (2), Pascal Pinaud (2), Baptiste Roux (2), Hugo Schüwer-Boss (2)",
+  "representing-galleries": "Galerie Sémiose (3 rue de Montiboeufs, 75020 Paris, France); Galerie Jordan Seydoux (Auguststrasse 22, 10117 Berlin, Germany)",
+  "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France)",
+  "first_name": "Bruno",
+  "last_name": "Rousselot",
+  "genre": "m",
+  "birthDate": "1957-01-01",
+  "age": 57,
+  "age_range": "46-55",
+  "expos": {
+    "2008": [
+      {
+        "i": "16516-17611-2008-10-31",
+        "c": "DE",
+        "n": "Out of the grey - Druckgraphik & Multiples",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Jordan Seydoux",
+        "d": [
+          "2008-10-31",
+          "2009-01-21"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "16516-17611-2008-10-31",
+        "c": "DE",
+        "n": "Out of the grey - Druckgraphik & Multiples",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Jordan Seydoux",
+        "d": [
+          "2008-10-31",
+          "2009-01-21"
+        ]
+      },
+      {
+        "i": "16516-17359-2009-12-06",
+        "c": "LU",
+        "n": "Thema 4 : Abstraction(s)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Galerie Bernard Ceysson - Luxembourg",
+        "d": [
+          "2009-12-06",
+          "2010-01-11"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "16516-17359-2009-12-06",
+        "c": "LU",
+        "n": "Thema 4 : Abstraction(s)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Galerie Bernard Ceysson - Luxembourg",
+        "d": [
+          "2009-12-06",
+          "2010-01-11"
+        ]
+      },
+      {
+        "i": "16516-17359-2010-01-14",
+        "c": "LU",
+        "n": "Bruno Rousselot",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Galerie Bernard Ceysson - Luxembourg",
+        "d": [
+          "2010-01-14",
+          "2010-02-26"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "16516-28275-2012-02-04",
+        "c": "CH",
+        "n": "Accrochage de Groupe",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Galerie Bernard Ceysson - Geneve",
+        "d": [
+          "2012-02-04",
+          "2012-03-10"
+        ]
+      },
+      {
+        "i": "16516-17359-2012-06-30",
+        "c": "LU",
+        "n": "La ligne passée",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Galerie Bernard Ceysson - Luxembourg",
+        "d": [
+          "2012-06-30",
+          "2012-09-16"
+        ]
+      }
+    ]
+  }
+}

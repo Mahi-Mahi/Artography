@@ -1,0 +1,494 @@
+{
+  "id": "13380",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:08:34",
+  "name": "Jean-Luc Mylayne",
+  "surname": "Mylayne",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Amiens, Somme (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1946",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography",
+  "r00": "2163",
+  "r01": "2155",
+  "r02": "2009",
+  "r03": "2495",
+  "r04": "2759",
+  "r05": "3593",
+  "r06": "5651",
+  "r07": "7276",
+  "r08": "5709",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1991",
+  "all-shows-total": "44",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": "20",
+  "2005-countries-total": "USA (10), France (7), Spain (5), Belgium (2), Germany (2), Italy (2), Austria (1), United Kingdom (1)",
+  "2005-shows-with": "Jean-Luc Mylayne (17), Eric Baudelaire (4), Sophie Calle (4), Uwe Henneken (4), Gabriel Kuri (4), Paul McDevitt (4), Thomas Ruff (4), Phillip Allen (3), Andreas Eriksson (3), Hans-Peter Feldmann (3), Gregor Hildebrandt (3), Markus Karstiess (3), Alicja Kwade (3), Roman Lipski (3), Hew Locke (3), Paul Morrison (3), Gerwald Rockenschaub (3), Emmanuelle Antille (2), John Baldessari (2), Lewis Baltz (2), Yto Barrada (2), Philippe Bazin (2), Jordi Bernadó (2), Beni Bischof (2), Cosima von Bonin (2), Varda Caivano (2), Matt Calderwood (2), Alice Channer (2), Florence Chevallier (2), Georganne Deen (2), Cor Dera (2), Kaye Donachie (2), Cerith Wyn Evans (2), Graham Fagen (2), Patrick Faigenbaum (2), Carsten Fock (2), Lee Friedlander (2), Regina José Galindo (2), David Goldblatt (2), Andreas  Golinski (2), Paul Graham (2), Tue Greenfort (2), Sabine Groß (2), Jeppe Hein (2), Haïdée Henry (2), Alexander Hoda (2), Rachel Howard (2), Mike Kelley (2), William Klein (2), Peter Land (2), Stefan Löffelhardt (2), Bernhar",
+  "representing-galleries": "Gladstone Gallery - Brussels (12 rue du Grand Cerf, 1000 Brussels, Belgium); Sprüth Magers Berlin (Oranienburger Straße 18, 10178 Berlin, Germany); Sprüth Magers London (7A Grafton Street, W1S 4EJ London (England), United Kingdom); Gladstone Gallery - New York - 21st Street (530 West  21st Street New York, NY 10011 USA, 10011 New York City, NY, USA); Gladstone Gallery - New York - 24th Street (515 West 24th Street, 10011 New York City, NY, USA)",
+  "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France)",
+  "first_name": "Jean-Luc",
+  "last_name": "Mylayne",
+  "genre": "m",
+  "birthDate": "1946-01-01",
+  "age": 68,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "13380-2188-2007-12-01",
+        "c": "DE",
+        "n": "OUT OF TIME - Werke aus den Sammlungen",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bremen",
+        "o": "Weserburg | Museum für moderne Kunst",
+        "d": [
+          "2007-12-01",
+          "2008-03-02"
+        ]
+      },
+      {
+        "i": "13380-15902-2007-09-08",
+        "c": "US",
+        "n": "Jean Luc Mylayne",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Houston, TX",
+        "o": "Texas Gallery",
+        "d": [
+          "2007-09-08",
+          "2007-10-13"
+        ]
+      },
+      {
+        "i": "13380-7534-2007-09-08",
+        "c": "US",
+        "n": "Jean Luc Mylayne",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Houston, TX",
+        "o": "Blaffer Art Museum - at the University of Houston",
+        "d": [
+          "2007-09-08",
+          "2007-11-10"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "13380-2188-2007-12-01",
+        "c": "DE",
+        "n": "OUT OF TIME - Werke aus den Sammlungen",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bremen",
+        "o": "Weserburg | Museum für moderne Kunst",
+        "d": [
+          "2007-12-01",
+          "2008-03-02"
+        ]
+      },
+      {
+        "i": "13380-9335-2008-05-10",
+        "c": "ES",
+        "n": "Supernatural",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Andratx",
+        "o": "CCA Andratx",
+        "d": [
+          "2008-05-10",
+          "2008-08-10"
+        ]
+      },
+      {
+        "i": "13380-21418-2008-05-15",
+        "c": "DE",
+        "n": "Supernatural",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Nymphius Projekte Berlin",
+        "d": [
+          "2008-05-15",
+          "2008-08-15"
+        ]
+      },
+      {
+        "i": "13380-9335-2008-12-14",
+        "c": "ES",
+        "n": "Collection Art Foundation Mallorca",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Andratx",
+        "o": "CCA Andratx",
+        "d": [
+          "2008-12-14",
+          "2009-03-01"
+        ]
+      },
+      {
+        "i": "13380-5433-2008-01-26",
+        "c": "US",
+        "n": "Jean-Luc Mylayne",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Seattle, WA",
+        "o": "Henry Art Gallery",
+        "d": [
+          "2008-01-26",
+          "2008-04-27"
+        ]
+      },
+      {
+        "i": "13380-5746-2008-05-30",
+        "c": "US",
+        "n": "Jean Luc Mylayne",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Cleveland, OH",
+        "o": "MOCA - Museum of Contemporary Art Cleveland",
+        "d": [
+          "2008-05-30",
+          "2008-08-17"
+        ]
+      },
+      {
+        "i": "13380-1558-2008-09-11",
+        "c": "US",
+        "n": "Jean Luc Mylayne",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Gladstone Gallery - New York - 24th Street",
+        "d": [
+          "2008-09-11",
+          "2008-10-18"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "13380-9335-2008-12-14",
+        "c": "ES",
+        "n": "Collection Art Foundation Mallorca",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Andratx",
+        "o": "CCA Andratx",
+        "d": [
+          "2008-12-14",
+          "2009-03-01"
+        ]
+      },
+      {
+        "i": "13380-8601-2009-04-24",
+        "c": "AT",
+        "n": "Then the work takes place",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Graz",
+        "o": "Camera Austria",
+        "d": [
+          "2009-04-24",
+          "2009-06-28"
+        ]
+      },
+      {
+        "i": "13380-6071-2009-01-30",
+        "c": "US",
+        "n": "Jean-Luc Mylayne",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Champaign, IL\t",
+        "o": "Krannert Art Museum",
+        "d": [
+          "2009-01-30",
+          "2009-04-05"
+        ]
+      },
+      {
+        "i": "13380-10037-2009-06-28",
+        "c": "US",
+        "n": "Jean-Luc Mylayne",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Southampton, NY\t",
+        "o": "Parrish Art Museum",
+        "d": [
+          "2009-06-28",
+          "2009-09-20"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "13380-1906-2010-08-14",
+        "c": "US",
+        "n": "Medium: Photography",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Santa Monica, CA",
+        "o": "Patrick Painter Inc.",
+        "d": [
+          "2010-08-14",
+          "2010-10-09"
+        ]
+      },
+      {
+        "i": "13380-2507-2010-04-16",
+        "c": "GB",
+        "n": "Jean-Luc Mylayne",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Sprüth Magers London",
+        "d": [
+          "2010-04-16",
+          "2010-05-29"
+        ]
+      },
+      {
+        "i": "13380-13323-2010-06-19",
+        "c": "US",
+        "n": "To Go Very Softly",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Santa Fe, NM",
+        "o": "Lannan Foundation",
+        "d": [
+          "2010-06-19",
+          "2010-08-22"
+        ]
+      },
+      {
+        "i": "13380-1807-2010-11-19",
+        "c": "ES",
+        "n": "Jean-Luc Mylayne. Trazos del cielo en manos del tiempo",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "Museo Nacional Centro de Arte Reina Sofía",
+        "d": [
+          "2010-11-19",
+          "2011-04-04"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "13380-2367-2011-06-04",
+        "c": "IT",
+        "n": "Biennale di Venezia - 54th International Art Exhibition",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Venice",
+        "o": "La Biennale di Venezia",
+        "d": [
+          "2011-06-04",
+          "2011-11-27"
+        ]
+      },
+      {
+        "i": "13380-1906-2011-08-20",
+        "c": "US",
+        "n": "Rear Window Brought To You In High-def",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Santa Monica, CA",
+        "o": "Patrick Painter Inc.",
+        "d": [
+          "2011-08-20",
+          "2011-09-29"
+        ]
+      },
+      {
+        "i": "13380-9335-2011-09-10",
+        "c": "ES",
+        "n": "COLECCIÓN ART FOUNDATION MALLORCA 2011 - Obras Destacadas y Últimas Adquisiciones / KUNSTHALLE",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Andratx",
+        "o": "CCA Andratx",
+        "d": [
+          "2011-09-10",
+          "2012-03-04"
+        ]
+      },
+      {
+        "i": "13380-1807-2010-11-19",
+        "c": "ES",
+        "n": "Jean-Luc Mylayne. Trazos del cielo en manos del tiempo",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "Museo Nacional Centro de Arte Reina Sofía",
+        "d": [
+          "2010-11-19",
+          "2011-04-04"
+        ]
+      },
+      {
+        "i": "13380-3679-2011-08-13",
+        "c": "US",
+        "n": "Jean-Luc Mylayne:  The Heavens are Blue",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Reno, NV",
+        "o": "Nevada Museum of Art NMA",
+        "d": [
+          "2011-08-13",
+          "2012-03-11"
+        ]
+      },
+      {
+        "i": "13380-19077-2011-09-10",
+        "c": "BE",
+        "n": "Jean-Luc Mylayne",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Gladstone Gallery - Brussels",
+        "d": [
+          "2011-09-10",
+          "2011-11-05"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "13380-9335-2011-09-10",
+        "c": "ES",
+        "n": "COLECCIÓN ART FOUNDATION MALLORCA 2011 - Obras Destacadas y Últimas Adquisiciones / KUNSTHALLE",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Andratx",
+        "o": "CCA Andratx",
+        "d": [
+          "2011-09-10",
+          "2012-03-04"
+        ]
+      },
+      {
+        "i": "13380-9335-2012-05-04",
+        "c": "ES",
+        "n": "Art Foundation Mallorca Collection - Special Edition",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Andratx",
+        "o": "CCA Andratx",
+        "d": [
+          "2012-05-04",
+          "2014-04-13"
+        ]
+      },
+      {
+        "i": "13380-3679-2011-08-13",
+        "c": "US",
+        "n": "Jean-Luc Mylayne:  The Heavens are Blue",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Reno, NV",
+        "o": "Nevada Museum of Art NMA",
+        "d": [
+          "2011-08-13",
+          "2012-03-11"
+        ]
+      },
+      {
+        "i": "13380-19320-2012-06-28",
+        "c": "DE",
+        "n": "Jean-luc Mylayne",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Sprüth Magers Berlin",
+        "d": [
+          "2012-06-28",
+          "2012-08-25"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "13380-9335-2012-05-04",
+        "c": "ES",
+        "n": "Art Foundation Mallorca Collection - Special Edition",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Andratx",
+        "o": "CCA Andratx",
+        "d": [
+          "2012-05-04",
+          "2014-04-13"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "13380-9335-2012-05-04",
+        "c": "ES",
+        "n": "Art Foundation Mallorca Collection - Special Edition",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Andratx",
+        "o": "CCA Andratx",
+        "d": [
+          "2012-05-04",
+          "2014-04-13"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "13380-18101-2013-03-29",
+        "c": "IT",
+        "n": "An Idea of Beauty",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Florence",
+        "o": "Centro di Cultura Contemporanea Strozzina (CCCS)",
+        "d": [
+          "2013-03-29",
+          "2013-07-28"
+        ]
+      },
+      {
+        "i": "13380-26843-2013-04-18",
+        "c": "BE",
+        "n": "Inner Journeys",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "Maison Particulière Art Center",
+        "d": [
+          "2013-04-18",
+          "2013-06-30"
+        ]
+      },
+      {
+        "i": "13380-13323-2013-04-20",
+        "c": "US",
+        "n": "Again",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Santa Fe, NM",
+        "o": "Lannan Foundation",
+        "d": [
+          "2013-04-20",
+          "2013-06-16"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "80400",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:36:44",
+  "name": "Adrien Porcu",
+  "surname": "Porcu",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1982",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "37476",
+  "r01": "34793",
+  "r02": "37443",
+  "r03": "33560",
+  "r04": "29964",
+  "r05": "28537",
+  "r06": "43272",
+  "r07": "37104",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "6",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (4), Croatia (1)",
+  "2005-shows-with": "Adrien Porcu (5), Agnes Accorsi (2), Marjolaine Gony (2), Natacha Lesueur (2), Gaël Peltier (2), Emmanuel Van der Auwera (2), Jean-Luc Verna (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Adrien",
+  "last_name": "Porcu",
+  "genre": "c",
+  "birthDate": "1982-01-01",
+  "age": 32,
+  "age_range": "26-35",
+  "expos": {
+    "2006": [
+      {
+        "i": "80400-6768-2006-07-29",
+        "c": "IT",
+        "n": "Internazionale XII Biennale di Scultura di Carrara",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Carrara",
+        "o": "Biennale di Sculture di Carrara",
+        "d": [
+          "2006-07-29",
+          "2006-09-24"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "80400-2631-2012-04-24",
+        "c": "HR",
+        "n": "L\\'amour du Risque",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zagreb",
+        "o": "MSU - Museum of Contemporary Art Zagreb",
+        "d": [
+          "2012-04-24",
+          "2012-06-17"
+        ]
+      }
+    ]
+  }
+}

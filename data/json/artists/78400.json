@@ -1,0 +1,107 @@
+{
+  "id": "78400",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:35:53",
+  "name": "Véronique Verdet",
+  "surname": "Verdet",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Cannes (FR)",
+  "birth day": "29",
+  "birth month": "1",
+  "birth year": "1967",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "72658",
+  "r01": "69162",
+  "r02": "64251",
+  "r03": "58878",
+  "r04": "59494",
+  "r05": "53254",
+  "r06": "55271",
+  "r07": "48081",
+  "r08": "61298",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Germany (2)",
+  "2005-shows-with": "Véronique Verdet (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Véronique",
+  "last_name": "Verdet",
+  "genre": "f",
+  "birthDate": "1967-01-29",
+  "age": 47,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "78400-15548-2005-07-14",
+        "c": "DE",
+        "n": "Terz",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Saarbrücken",
+        "o": "Saarländisches Künstlerhaus",
+        "d": [
+          "2005-07-14",
+          "2005-08-14"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "78400-14168-2008-09-05",
+        "c": "DE",
+        "n": "Transformation",
+        "st": "Group",
+        "t": "Festival",
+        "ct": "Dresden",
+        "o": "Ostrale",
+        "d": [
+          "2008-09-05",
+          "2008-09-14"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "78400-15548-2010-04-29",
+        "c": "DE",
+        "n": "angezettelt! 25 Jahre Saarländisches Künstlerhaus",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Saarbrücken",
+        "o": "Saarländisches Künstlerhaus",
+        "d": [
+          "2010-04-29",
+          "2010-06-06"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "78400-5029-2006-01-21",
+        "c": "DE",
+        "n": "Filmkanal: \"Die Brücke\"- audiovisuelle Klanginstallation",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Asperger Gallery",
+        "d": [
+          "2006-01-21",
+          "2006-04-08"
+        ]
+      }
+    ]
+  }
+}

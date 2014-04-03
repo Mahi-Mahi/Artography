@@ -1,0 +1,77 @@
+{
+  "id": "79303",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:36:15",
+  "name": "Georges Rey",
+  "surname": "Rey",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Lyon (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1942",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "39951",
+  "r01": "36828",
+  "r02": "33840",
+  "r03": "30286",
+  "r04": "29362",
+  "r05": "25380",
+  "r06": "32616",
+  "r07": "27423",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (2), Switzerland (1)",
+  "2005-shows-with": "Georges Rey (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Georges",
+  "last_name": "Rey",
+  "genre": "m",
+  "birthDate": "1942-01-01",
+  "age": 72,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "79303-2288-2006-06-16",
+        "c": "CH",
+        "n": "The Expanded Eye. Sehen - entgrenzt und verflüssigt",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zurich",
+        "o": "Kunsthaus Zürich",
+        "d": [
+          "2006-06-16",
+          "2006-09-03"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "79303-8291-2008-03-28",
+        "c": "CH",
+        "n": "Comme des bêtes. Ours, chat, cochon & Cie",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lausanne",
+        "o": "Musée cantonal des Beaux-Arts",
+        "d": [
+          "2008-03-28",
+          "2008-06-22"
+        ]
+      }
+    ]
+  }
+}

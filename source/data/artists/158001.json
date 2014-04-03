@@ -1,0 +1,92 @@
+{
+  "id": "158001",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:07:47",
+  "name": "Benjamin Hugard",
+  "surname": "Hugard",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Dijon (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1980",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "24630",
+  "r01": "26683",
+  "r02": "24917",
+  "r03": "22473",
+  "r04": "30948",
+  "r05": "35820",
+  "r06": "43764",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "8",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (4), Switzerland (2), Belgium (1)",
+  "2005-shows-with": "Benjamin Hugard (6), Vlado Alonso (2), Fayçal Baghriche (2), Emmanuelle Bayart (2), Paul Chazal (2), Philippe Durand (2), Michel François (2), Regis Golay (2), Alexandra Guillot (2), Angèle Laissue (2), Ludovic Lignon (2), Damien Sorrentino (2), Cédric Teisseire (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Benjamin",
+  "last_name": "Hugard",
+  "genre": "m",
+  "birthDate": "1980-01-01",
+  "age": 34,
+  "age_range": "26-35",
+  "expos": {
+    "2008": [
+      {
+        "i": "158001-12812-2008-09-19",
+        "c": "CH",
+        "n": "Jeunevois",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Centre de la photographie",
+        "d": [
+          "2008-09-19",
+          "2008-11-02"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "158001-12130-2009-09-03",
+        "c": "BE",
+        "n": "1+2+3+4 - La station, Nice (FR) @ ccnoa",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "CCNOA - Center for Contemporary Non-Objective Art",
+        "d": [
+          "2009-09-03",
+          "2009-10-04"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "158001-12812-2013-06-05",
+        "c": "CH",
+        "n": "fALSEfAKES",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Centre de la photographie",
+        "d": [
+          "2013-06-05",
+          "2013-07-28"
+        ]
+      }
+    ]
+  }
+}

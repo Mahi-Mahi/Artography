@@ -1,0 +1,77 @@
+{
+  "id": "64298",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:30:05",
+  "name": "Elvire Bonduelle",
+  "surname": "Bonduelle",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1981",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": "Sculpture",
+  "r00": "21815",
+  "r01": "23343",
+  "r02": "27629",
+  "r03": "25810",
+  "r04": "24837",
+  "r05": "23175",
+  "r06": "19517",
+  "r07": "29050",
+  "r08": "23817",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "15",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (10), Netherlands (1), Spain (1)",
+  "2005-shows-with": "Elvire Bonduelle (9), Jérémy Laffon (3), Saâdane Afif (2), Julien Prévieux (2), Michaële-Andréa Schatt (2)",
+  "representing-galleries": "galerie ColletPark (203bis rue saint martin, 75003 Paris, France); Galeria Sabrina Amrani (Madera 23, 28004 Madrid, Spain)",
+  "collecting-museums": null,
+  "first_name": "Elvire",
+  "last_name": "Bonduelle",
+  "genre": "f",
+  "birthDate": "1981-01-01",
+  "age": 33,
+  "age_range": "26-35",
+  "expos": {
+    "2012": [
+      {
+        "i": "64298-2937-2012-09-01",
+        "c": "NL",
+        "n": "To make a show it takes a thought and more than one word / Part II",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Galerie van Gelder",
+        "d": [
+          "2012-09-01",
+          "2012-10-13"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "64298-27571-2011-09-21",
+        "c": "ES",
+        "n": "Pour faire joli",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Madrid",
+        "o": "Galeria Sabrina Amrani",
+        "d": [
+          "2011-09-21",
+          "2011-11-05"
+        ]
+      }
+    ]
+  }
+}

@@ -6,6 +6,8 @@ define([], function() {
 	return ['$scope', '$location', '$route', 'dataService',
 		function($scope, $location, $route, dataService) {
 
+			jQuery('body').removeClass('home');
+
 			$scope.labels = {
 				genre: {
 					c: "Collectif",

@@ -1,0 +1,120 @@
+{
+  "id": "106810",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:47:09",
+  "name": "Emmanuel Régent",
+  "surname": "Régent",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Nice, Alpes-Maritimes (FR)",
+  "birth day": "13",
+  "birth month": "6",
+  "birth year": "1973",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "10028",
+  "r01": "12448",
+  "r02": "17449",
+  "r03": "34344",
+  "r04": "35265",
+  "r05": "31314",
+  "r06": "35521",
+  "r07": "41625",
+  "r08": "37420",
+  "awards": null,
+  "website": "www.emmanuelregent.fr",
+  "all-shows-first": "2003",
+  "all-shows-total": "40",
+  "2005-shows-biennials": "21",
+  "2005-shows-galleries": "21",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (28), Austria (1), Monaco (1), Switzerland (1), United Arab Emirates (1), USA (1)",
+  "2005-shows-with": "Emmanuel Régent (21), Han Hoogerbrugge (6), Thierry Lagalla (6), Arnaud Labelle-Rojoux (5), Karine Rougier (5), Florent Mattei (4), Gérald Panighi (4), Stéphane Protic (4), Naji Kamouche (3), Olivier Masmonteil (3), Stephane Steiner (3), Jeanne Susplugas (3), Ben Vautier (3), Jean-Luc Verna (3), Manuel Acevedo (2), Caroline Bach (2), Abdelkader Benchamma (2), Julien Beneyton (2), Katia Bourdarel (2), Michel de Broin (2), Anne-James Chaton (2), Nina Childress (2), Frédéric Clavère (2), Claude Closky (2), Philippe Cognée (2), Gino de Dominicis (2), Jean Dupuy (2), Richard Fauguet (2), Vincent Ganivet (2), Jean Pierre Giovanelli (2), Robert Gligorov (2), Igor Josifov (2), noha kader (2), Olivier Leroi (2), Iris Levasseur (2), Christian Lhopital (2), Robert Longo (2), Pascal Navarro (2), Adam Parker Smith (2), Giuseppe Penone (2), Laurent Pernot (2), Jerôme Robbe (2), Benjamin Sabatier (2), Anne-Laure Sacriste (2), navid azimi sadjadi (2), Lionel Scoccimaro (2), Veit Stratmann (2), Sabry Tchalgadjieff (2)",
+  "representing-galleries": "Espace A Vendre (17 rue Smolett, 06300 Nice, France); Le CABINET (62, Rue Saint Sabin, 75011 Paris, France); Analix Forever (rue de l’Arquebuse 25, CH-1204 Geneva, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Emmanuel",
+  "last_name": "Régent",
+  "genre": "m",
+  "birthDate": "1973-06-13",
+  "age": 40,
+  "age_range": "36-45",
+  "expos": {
+    "2008": [
+      {
+        "i": "106810-11599-2008-07-05",
+        "c": "AT",
+        "n": "HangART-7 Edition 10: Frankreich",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Salzburg",
+        "o": "Hangart-7",
+        "d": [
+          "2008-07-05",
+          "2008-08-31"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "106810-22052-2011-03-15",
+        "c": "AE",
+        "n": "Aesthetics of the disappearance",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Sharjah",
+        "o": "Maraya Art Centre - Barjeel Art Foundation",
+        "d": [
+          "2011-03-15",
+          "2011-06-01"
+        ]
+      },
+      {
+        "i": "106810-5767-2011-07-10",
+        "c": "US",
+        "n": "Al-Ghaib , The Aesthetic of Disappearance",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Stux Gallery",
+        "d": [
+          "2011-07-10",
+          "2011-09-15"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "106810-6361-2012-03-08",
+        "c": "MC",
+        "n": "À l’origine, Nice…",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Marlborough Monaco",
+        "d": [
+          "2012-03-08",
+          "2012-04-26"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "106810-895-2013-03-14",
+        "c": "CH",
+        "n": "Emmanuel Regent - Regarder fondre le sable",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Analix Forever",
+        "d": [
+          "2013-03-14",
+          "2013-04-27"
+        ]
+      }
+    ]
+  }
+}

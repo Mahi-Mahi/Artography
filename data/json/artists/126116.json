@@ -1,0 +1,120 @@
+{
+  "id": "126116",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:54:46",
+  "name": "Francis Morandini",
+  "surname": "Morandini",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Gleize, Rhône-Alpes (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1982",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "23198",
+  "r01": "24901",
+  "r02": "31358",
+  "r03": "28234",
+  "r04": "27879",
+  "r05": "24235",
+  "r06": "34316",
+  "r07": "71821",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (4), Czech Republic (1), Japan (1), Spain (1), Switzerland (1)",
+  "2005-shows-with": "Francis Morandini (6), Philippe Durand (3), María Thereza Alves (2), Ziad Antar (2), Jimmie Durham (2), Cécile Hartmann (2), Rodolphe Huguet (2), Guillaume Janot (2), Karim Kal (2), Benoît Laffiché (2), Angèle Laissue (2), Sebastien Leseigneur (2), Aurélie Pétrel (2), Allan Sekula (2), Bruno Serralongue (2), Jean-Luc Vilmouth (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Francis",
+  "last_name": "Morandini",
+  "genre": "m",
+  "birthDate": "1982-01-01",
+  "age": 32,
+  "age_range": "26-35",
+  "expos": {
+    "2006": [
+      {
+        "i": "126116-14373-2006-04-28",
+        "c": "DE",
+        "n": "Multipolaire",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Leipzig",
+        "o": "Universal Cube",
+        "d": [
+          "2006-04-28",
+          "2006-05-21"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "126116-17135-2008-06-03",
+        "c": "CZ",
+        "n": "International Triennale of Contemporary Art - Re-Reading the Future",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Prague",
+        "o": "International Triennale of Contemporary Art (ITCA)",
+        "d": [
+          "2008-06-03",
+          "2008-09-14"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "126116-6536-2012-05-31",
+        "c": "ES",
+        "n": "Number Three. From home to the factory. Works from the Centre national des arts plastiques, France",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "La Virreina - Centre de la Imatge",
+        "d": [
+          "2012-05-31",
+          "2012-09-30"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "126116-12812-2013-06-05",
+        "c": "CH",
+        "n": "fALSEfAKES",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Centre de la photographie",
+        "d": [
+          "2013-06-05",
+          "2013-07-28"
+        ]
+      },
+      {
+        "i": "126116-30037-2013-07-27",
+        "c": "JP",
+        "n": "L mer secrète / The Secret Sea",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Onomichi",
+        "o": "Onomichi City Museum of Art",
+        "d": [
+          "2013-07-27",
+          "2013-09-23"
+        ]
+      }
+    ]
+  }
+}

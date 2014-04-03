@@ -1,0 +1,241 @@
+{
+  "id": "40684",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:20:26",
+  "name": "Fabienne Verdier",
+  "surname": "Verdier",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1962",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "13031",
+  "r01": "18322",
+  "r02": "20377",
+  "r03": "31837",
+  "r04": "28078",
+  "r05": "28167",
+  "r06": "27929",
+  "r07": "23507",
+  "r08": "24126",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "18",
+  "2005-shows-biennials": "11",
+  "2005-shows-galleries": "11",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (5), Switzerland (4), Singapore (2), Belgium (1), USA (1)",
+  "2005-shows-with": "Fabienne Verdier (10), Yang Jiechang (5), Roger Bissière (3), Vieira da Silva (3), Jean Dubuffet (3), Mimmo Paladino (3), Philippe Cognée (2), Loïc le Groumellec (2), Yayoi Kusama (2), Louis Nallard (2), Nunzio (2), Giuseppe Penone (2), Paul Rebeyrolle (2), Antonio Seguí (2), Susumu Shingu (2), Pierre Soulages (2), Arpad Szenes (2), Mark Tobey (2)",
+  "representing-galleries": "Galerie Jaeger Bucher (5 & 7 rue de Saintonge, 75003  Paris, France); Art Plural Gallery Pte Ltd (38 Armenian Street, 179 942 Singapore, Singapore); Galerie Alice Pauli (9, rue du Port-Franc, CH 1003 Lausanne, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Fabienne",
+  "last_name": "Verdier",
+  "genre": "c",
+  "birthDate": "1962-01-01",
+  "age": 52,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "40684-1938-2005-05-10",
+        "c": "CH",
+        "n": "Accrochage",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lausanne",
+        "o": "Galerie Alice Pauli",
+        "d": [
+          "2005-05-10",
+          "2005-07-30"
+        ]
+      },
+      {
+        "i": "40684-1938-2005-12-01",
+        "c": "CH",
+        "n": "Peintures et Sculptures",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lausanne",
+        "o": "Galerie Alice Pauli",
+        "d": [
+          "2005-12-01",
+          "2005-12-23"
+        ]
+      },
+      {
+        "i": "40684-1938-2005-03-17",
+        "c": "CH",
+        "n": "Fabienne Verdier - Abstraction spontanée",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Lausanne",
+        "o": "Galerie Alice Pauli",
+        "d": [
+          "2005-03-17",
+          "2005-04-30"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "40684-1938-2006-06-15",
+        "c": "CH",
+        "n": "Accrochage d'été",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lausanne",
+        "o": "Galerie Alice Pauli",
+        "d": [
+          "2006-06-15",
+          "2006-07-31"
+        ]
+      },
+      {
+        "i": "40684-1938-2006-10-15",
+        "c": "CH",
+        "n": "Accrochage",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lausanne",
+        "o": "Galerie Alice Pauli",
+        "d": [
+          "2006-10-15",
+          "2006-11-15"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "40684-1938-2008-01-10",
+        "c": "CH",
+        "n": "Accrochage des artistes de la galerie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lausanne",
+        "o": "Galerie Alice Pauli",
+        "d": [
+          "2008-01-10",
+          "2008-04-19"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "40684-26445-2011-10-07",
+        "c": "SG",
+        "n": "Regards Croisés: a Selection of Asian Contemporary Art",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Singapore",
+        "o": "Art Plural Gallery Pte Ltd",
+        "d": [
+          "2011-10-07",
+          "2011-12-10"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "40684-1938-2012-01-10",
+        "c": "CH",
+        "n": "Accrochage des artistes de la galerie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lausanne",
+        "o": "Galerie Alice Pauli",
+        "d": [
+          "2012-01-10",
+          "2012-02-18"
+        ]
+      },
+      {
+        "i": "40684-1938-2012-08-21",
+        "c": "CH",
+        "n": "Accrochage d\\'été des artistes de la galerie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lausanne",
+        "o": "Galerie Alice Pauli",
+        "d": [
+          "2012-08-21",
+          "2012-09-22"
+        ]
+      },
+      {
+        "i": "40684-3068-2012-11-29",
+        "c": "US",
+        "n": "Winter Selection",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Shepherd & Derom Galleries",
+        "d": [
+          "2012-11-29",
+          "2013-01-26"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "40684-3068-2012-11-29",
+        "c": "US",
+        "n": "Winter Selection",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Shepherd & Derom Galleries",
+        "d": [
+          "2012-11-29",
+          "2013-01-26"
+        ]
+      },
+      {
+        "i": "40684-2288-2013-06-07",
+        "c": "CH",
+        "n": "Die Sammlung Hubert Looser",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zurich",
+        "o": "Kunsthaus Zürich",
+        "d": [
+          "2013-06-07",
+          "2013-09-08"
+        ]
+      },
+      {
+        "i": "40684-26445-2013-01-25",
+        "c": "SG",
+        "n": "Fabienne Verdier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Singapore",
+        "o": "Art Plural Gallery Pte Ltd",
+        "d": [
+          "2013-01-25",
+          "2013-03-09"
+        ]
+      },
+      {
+        "i": "40684-12163-2013-05-15",
+        "c": "BE",
+        "n": "Fabienne Verdier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Patrick Derom Gallery",
+        "d": [
+          "2013-05-15",
+          "2013-07-06"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "60061",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:28:25",
+  "name": "Emile Morel",
+  "surname": "Morel",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Lyon (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1975",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography, Digital Painting",
+  "r00": "72630",
+  "r01": "69754",
+  "r02": "74531",
+  "r03": "83493",
+  "r04": "76925",
+  "r05": "78258",
+  "r06": "77611",
+  "r07": "69277",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "10",
+  "2005-shows-galleries": "10",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (8), China (1), South Korea (1)",
+  "2005-shows-with": "Emile Morel (7), Germain Caminade (4), Thomas Agrinier (3), AES+F (2), Jean Faucheur (2), Tali GAI (2), Gao Brothers (2), Catherine Ikam (2), Oleg Kulik (2), Stephen Peirce (2), Richard Stipl (2), Wang Qingsong (2), Kimiko Yoshida (2)",
+  "representing-galleries": "France LeJeune Fine Art (Raghenoplein 35 b 8, 2800 Mechelen, Belgium); Fu Xin Gallery (Yang Shu Pu Road 2361 No.9 4th Floor, 200060 Shanghai, China); Galerie Albert Benamou (24, rue de Penthièvre, 75008 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Emile",
+  "last_name": "Morel",
+  "genre": "m",
+  "birthDate": "1975-01-01",
+  "age": 39,
+  "age_range": "36-45",
+  "expos": {
+    "2006": [
+      {
+        "i": "60061-3110-2006-08-04",
+        "c": "BE",
+        "n": "Emile Morel - Le décollage du griffon Danois",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Mechelen",
+        "o": "France LeJeune Fine Art",
+        "d": [
+          "2006-08-04",
+          "2006-09-03"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "60061-20284-2009-11-09",
+        "c": "CN",
+        "n": "In the wonderland",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Shanghai",
+        "o": "Fu Xin Gallery",
+        "d": [
+          "2009-11-09",
+          "2009-11-17"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "60061-11232-2011-07-13",
+        "c": "KR",
+        "n": "Emile Morel",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Seoul",
+        "o": "Gallery Now",
+        "d": [
+          "2011-07-13",
+          "2011-07-23"
+        ]
+      }
+    ]
+  }
+}

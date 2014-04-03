@@ -1,0 +1,159 @@
+{
+  "id": "65201",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:30:27",
+  "name": "Laurette Atrux-Tallau",
+  "surname": "Atrux-Tallau",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Thônes (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1968",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "27705",
+  "r01": "26990",
+  "r02": "26264",
+  "r03": "23425",
+  "r04": "25928",
+  "r05": "22323",
+  "r06": "31296",
+  "r07": "26266",
+  "r08": "52930",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (3), Belgium (2), Poland (1)",
+  "2005-shows-with": "Laurette Atrux-Tallau (6), Lionel Estève (3), Emmanuelle Villard (3), Isabelle Arthuis (2), Lucile Bertrand (2), Franck Christen (2), Erwan Mahéo (2), Xavier Noiret-Thomé (2), Sébastien Reuzé (2), Léopoldine Roux (2), Vladimir Skoda (2)",
+  "representing-galleries": "Galerie Olivari-Veys (9 rue de Hennin, 1050 Brussels, Belgium); Galerie Porte 11 (11 Place du 4 Août, B-1040 Brussels, Belgium)",
+  "collecting-museums": "FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France)",
+  "first_name": "Laurette",
+  "last_name": "Atrux-Tallau",
+  "genre": "c",
+  "birthDate": "1968-01-01",
+  "age": 46,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "65201-10177-2006-01-20",
+        "c": "BE",
+        "n": "X_Mass Editions & Multiples",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "GALERIE FREDERIC DESIMPEL",
+        "d": [
+          "2006-01-20",
+          "2006-02-18"
+        ]
+      },
+      {
+        "i": "65201-10177-2006-06-30",
+        "c": "BE",
+        "n": "[POZ] artiste de la galerie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "GALERIE FREDERIC DESIMPEL",
+        "d": [
+          "2006-06-30",
+          "2006-07-29"
+        ]
+      },
+      {
+        "i": "65201-10177-2006-03-09",
+        "c": "BE",
+        "n": "Laurette Atrux-Tallau",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "GALERIE FREDERIC DESIMPEL",
+        "d": [
+          "2006-03-09",
+          "2006-04-08"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "65201-2707-2008-11-26",
+        "c": "BE",
+        "n": "Bruxelles, Territoire de Convergences",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "Musée d'Ixelles",
+        "d": [
+          "2008-11-26",
+          "2009-01-29"
+        ]
+      },
+      {
+        "i": "65201-2328-2008-11-28",
+        "c": "BE",
+        "n": "Bruxelles convergences de territoires",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Les filles du calvaire - Bruxelles",
+        "d": [
+          "2008-11-28",
+          "2009-01-24"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "65201-2707-2008-11-26",
+        "c": "BE",
+        "n": "Bruxelles, Territoire de Convergences",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "Musée d'Ixelles",
+        "d": [
+          "2008-11-26",
+          "2009-01-29"
+        ]
+      },
+      {
+        "i": "65201-2328-2008-11-28",
+        "c": "BE",
+        "n": "Bruxelles convergences de territoires",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Les filles du calvaire - Bruxelles",
+        "d": [
+          "2008-11-28",
+          "2009-01-24"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "65201-13075-2012-07-27",
+        "c": "PL",
+        "n": "The Vicinity of Constellations",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Katowice",
+        "o": "BWA Contemporary Art Gallery in Katowice",
+        "d": [
+          "2012-07-27",
+          "2012-09-09"
+        ]
+      }
+    ]
+  }
+}

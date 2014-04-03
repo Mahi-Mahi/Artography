@@ -1,0 +1,90 @@
+{
+  "id": "284533",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:56:37",
+  "name": "Guy Petermann",
+  "surname": "Petermann",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1951",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography",
+  "r00": "47541",
+  "r01": "44650",
+  "r02": "42769",
+  "r03": "38799",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2010",
+  "all-shows-total": "3",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Japan (2), Chile (1)",
+  "2005-shows-with": "Abel Barroso (2), Horacio Carrena (2), Nelson Domínguez (2), Rafael Gil (2), Gustavo von Há (2), Ana Mercedes Hoyos (2), James Kudo (2), Erika Nakasone (2), Yendris Patterson (2), Guy Petermann (2), Sandra Ramos (2), Eduardo Roca Salazar (Choco) (2), Manuel Velázquez (2), Gustavo Velez (2), Mario Velez (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Guy",
+  "last_name": "Petermann",
+  "genre": "m",
+  "birthDate": "1951-01-01",
+  "age": 63,
+  "age_range": "46-55",
+  "expos": {
+    "2012": [
+      {
+        "i": "284533-20877-2012-08-16",
+        "c": "JP",
+        "n": "The 12th Latin American & Caribbean Contemporary Art Exhibition - TODAY",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Tokyo",
+        "o": "Promo-arte Latin American Art gallery",
+        "d": [
+          "2012-08-16",
+          "2012-09-11"
+        ]
+      },
+      {
+        "i": "284533-20877-2012-12-13",
+        "c": "JP",
+        "n": "Latin American Art exhibition Vol.1",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Tokyo",
+        "o": "Promo-arte Latin American Art gallery",
+        "d": [
+          "2012-12-13",
+          "2012-12-25"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "284533-2347-2010-10-15",
+        "c": "CL",
+        "n": "Agua Pintada",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Santiago",
+        "o": "MAC Museo de Arte Contemporáneo. Universidad de Chile",
+        "d": [
+          "2010-10-15",
+          "2010-10-31"
+        ]
+      }
+    ]
+  }
+}

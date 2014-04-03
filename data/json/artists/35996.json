@@ -1,0 +1,559 @@
+{
+  "id": "35996",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:18:31",
+  "name": "Serge Onnen",
+  "surname": "Onnen",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1965",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "11080",
+  "r01": "10056",
+  "r02": "8931",
+  "r03": "8006",
+  "r04": "8388",
+  "r05": "10537",
+  "r06": "12290",
+  "r07": "11190",
+  "r08": "14109",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "40",
+  "2005-shows-biennials": "12",
+  "2005-shows-galleries": "12",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "USA (11), Germany (3), Netherlands (3), France (2), Belgium (1), Bulgaria (1), Canada (1), China (1), United Kingdom (1)",
+  "2005-shows-with": "Serge Onnen (22), Luca Bertolo (4), Chiara Camoni (4), Celeste Fichter (4), Chuck Jones (4), Germaine Kruip (4), James Leonard (4), Ross Racine (4), Julieta Aranda (3), Roy Ascott (3), Tauba Auerbach (3), Fia Backström (3), Darren Bader (3), Cecil Balmond (3), Bank (3), Colby Bird (3), Pierre Bismuth (3), Barbara Bloom (3), Mel Bochner (3), Tobias Buche (3), Ian Burns (3), Davide Cantoni (3), Etienne Chambaud (3), Gregory Curry (3), Jan De Cock (3), Liz Deschenes (3), Dexter Sinister (3), Motoko Dobashi (3), Iris van Dongen (3), Katja Eckert (3), Cerith Wyn Evans (3), Morgan Fisher (3), Claire Fontaine (3), Yona Friedman (3), Aurélien Froment (3), Ryan Gander (3), Wineke Gartz (3), Murray Gaylard (3), Liam Gillick (3), Marisa González (3), Dan Graham (3), Joseph Grigely (3), João Maria Gusmão & Pedro Paiva (3), Claude Heath (3), HEHE (3), Charline von Heyl (3), Matthew Higgs (3), Eduardo Kac (3), Matt Keegan (3), Zoe Keramea (3), Tom Klinkowstein (3), David Kramer (3), Glenn Ligon (3), Lotte Lindner (3),",
+  "representing-galleries": null,
+  "collecting-museums": "Museum het Domein (Kapittelstraat 6, 6130 AA Sittard, Netherlands)",
+  "first_name": "Serge",
+  "last_name": "Onnen",
+  "genre": "m",
+  "birthDate": "1965-01-01",
+  "age": 49,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "35996-4962-2005-02-12",
+        "c": "US",
+        "n": "Capoeira",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Culver City, CA",
+        "o": "Roberts & Tilton",
+        "d": [
+          "2005-02-12",
+          "2005-04-16"
+        ]
+      },
+      {
+        "i": "35996-2429-2005-03-05",
+        "c": "NL",
+        "n": "Black & White and a little bit of colour",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Arnhem",
+        "o": "Museum voor Moderne Kunst Arnhem - MMKA",
+        "d": [
+          "2005-03-05",
+          "2005-05-16"
+        ]
+      },
+      {
+        "i": "35996-8335-2005-03-18",
+        "c": "US",
+        "n": "By Artificial Resemblance",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Front Room Gallery",
+        "d": [
+          "2005-03-18",
+          "2005-04-10"
+        ]
+      },
+      {
+        "i": "35996-2480-2005-05-13",
+        "c": "DE",
+        "n": "\"Linie. Zeichnung bewegt.\"",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Dina4 Projekte",
+        "d": [
+          "2005-05-13",
+          "2005-06-18"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "35996-3076-2006-02-25",
+        "c": "US",
+        "n": "Analog Animation - Selections Spring 2006",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "The Drawing Center",
+        "d": [
+          "2006-02-25",
+          "2006-04-15"
+        ]
+      },
+      {
+        "i": "35996-87-2006-10-26",
+        "c": "DE",
+        "n": "strip - Bilder in Folge / strip - images in line",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Frankfurt/Main",
+        "o": "Galerie Anita Beckers",
+        "d": [
+          "2006-10-26",
+          "2006-11-26"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "35996-8335-2007-01-19",
+        "c": "US",
+        "n": "Multiples and Editions",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Front Room Gallery",
+        "d": [
+          "2007-01-19",
+          "2007-02-11"
+        ]
+      },
+      {
+        "i": "35996-2683-2007-10-13",
+        "c": "US",
+        "n": "Animated Painting",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "San Diego, CA",
+        "o": "San Diego Museum of Art",
+        "d": [
+          "2007-10-13",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "35996-10985-2007-11-30",
+        "c": "US",
+        "n": "Ornament: Ho Hum All Ye Faithful",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "BravinLee programs",
+        "d": [
+          "2007-11-30",
+          "2008-01-12"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "35996-2683-2007-10-13",
+        "c": "US",
+        "n": "Animated Painting",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "San Diego, CA",
+        "o": "San Diego Museum of Art",
+        "d": [
+          "2007-10-13",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "35996-10985-2007-11-30",
+        "c": "US",
+        "n": "Ornament: Ho Hum All Ye Faithful",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "BravinLee programs",
+        "d": [
+          "2007-11-30",
+          "2008-01-12"
+        ]
+      },
+      {
+        "i": "35996-8335-2008-01-11",
+        "c": "US",
+        "n": "Multiples and Editions, vol. 2",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Front Room Gallery",
+        "d": [
+          "2008-01-11",
+          "2008-01-27"
+        ]
+      },
+      {
+        "i": "35996-8947-2008-05-31",
+        "c": "BE",
+        "n": "Found/gevonden/trouvé",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Lier",
+        "o": "Voorkamer",
+        "d": [
+          "2008-05-31",
+          "2008-07-06"
+        ]
+      },
+      {
+        "i": "35996-17539-2008-06-13",
+        "c": "NL",
+        "n": "sonsbeek 2008: grandeur",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Arnhem",
+        "o": "Sonsbeek International Sculpture Exhibition",
+        "d": [
+          "2008-06-13",
+          "2008-09-21"
+        ]
+      },
+      {
+        "i": "35996-3604-2008-08-30",
+        "c": "NL",
+        "n": "Serge Onnen - Champagne scissors holes",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Sittard",
+        "o": "Museum het Domein",
+        "d": [
+          "2008-08-30",
+          "2008-10-19"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "35996-4178-2009-01-10",
+        "c": "US",
+        "n": "I Love The BeNeLux",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Virgil De Voldère (A.K.A. SlingShot Project)",
+        "d": [
+          "2009-01-10",
+          "2009-02-14"
+        ]
+      },
+      {
+        "i": "35996-10724-2009-02-06",
+        "c": "US",
+        "n": "Animated Painting",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Grinnell, IA",
+        "o": "Faulconer Gallery",
+        "d": [
+          "2009-02-06",
+          "2009-04-19"
+        ]
+      },
+      {
+        "i": "35996-17141-2009-04-26",
+        "c": "DE",
+        "n": "Facebook - Empathie Und Abstraktion",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Dina4 Projekte Atelier Berlin",
+        "d": [
+          "2009-04-26",
+          "2009-05-03"
+        ]
+      },
+      {
+        "i": "35996-3194-2009-06-03",
+        "c": "DE",
+        "n": "\\\"FACEBOOK – Between Empathy and Abstraction\\\"",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dresden",
+        "o": "Galerie Baer / raum für aktuelle kunst",
+        "d": [
+          "2009-06-03",
+          "2009-07-03"
+        ]
+      },
+      {
+        "i": "35996-7993-2009-09-13",
+        "c": "US",
+        "n": "Double Dutch",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Peekskill, NY",
+        "o": "HVCCA - Hudson Valley Center for Contemporary Art",
+        "d": [
+          "2009-09-13",
+          "2010-07-26"
+        ]
+      },
+      {
+        "i": "35996-1990-2009-09-19",
+        "c": "US",
+        "n": "Towing the Line, Drawing in Space: 40 Contemporary Dutch Artists, Defining the Moment in Holland",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "White Box",
+        "d": [
+          "2009-09-19",
+          "2009-10-29"
+        ]
+      },
+      {
+        "i": "35996-2166-2009-10-02",
+        "c": "US",
+        "n": "Formulation: Xylor Jane, Serge Onnen, Lynne Woods Turner, Will Yackulic",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Philadelphia, PA",
+        "o": "Gallery Joe",
+        "d": [
+          "2009-10-02",
+          "2009-11-21"
+        ]
+      },
+      {
+        "i": "35996-8335-2009-12-04",
+        "c": "US",
+        "n": "FUSE WORKS presents  Multiples and Editions",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Front Room Gallery",
+        "d": [
+          "2009-12-04",
+          "2010-01-03"
+        ]
+      },
+      {
+        "i": "35996-12883-2009-12-12",
+        "c": "CA",
+        "n": "FAX",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Winnipeg, Manitoba",
+        "o": "Plug In Institute of Contemporary Art",
+        "d": [
+          "2009-12-12",
+          "2010-02-21"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "35996-7993-2009-09-13",
+        "c": "US",
+        "n": "Double Dutch",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Peekskill, NY",
+        "o": "HVCCA - Hudson Valley Center for Contemporary Art",
+        "d": [
+          "2009-09-13",
+          "2010-07-26"
+        ]
+      },
+      {
+        "i": "35996-8335-2009-12-04",
+        "c": "US",
+        "n": "FUSE WORKS presents  Multiples and Editions",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Front Room Gallery",
+        "d": [
+          "2009-12-04",
+          "2010-01-03"
+        ]
+      },
+      {
+        "i": "35996-12883-2009-12-12",
+        "c": "CA",
+        "n": "FAX",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Winnipeg, Manitoba",
+        "o": "Plug In Institute of Contemporary Art",
+        "d": [
+          "2009-12-12",
+          "2010-02-21"
+        ]
+      },
+      {
+        "i": "35996-3226-2010-01-16",
+        "c": "GB",
+        "n": "Facebook",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Patrick Heide Contemporary Art",
+        "d": [
+          "2010-01-16",
+          "2010-02-06"
+        ]
+      },
+      {
+        "i": "35996-9399-2010-01-16",
+        "c": "US",
+        "n": "FAX",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Torrance, CA",
+        "o": "Torrance Art Museum",
+        "d": [
+          "2010-01-16",
+          "2010-02-20"
+        ]
+      },
+      {
+        "i": "35996-12966-2010-02-06",
+        "c": "CN",
+        "n": "FAX",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hong Kong, SAR",
+        "o": "Para/Site Art Space",
+        "d": [
+          "2010-02-06",
+          "2010-04-01"
+        ]
+      },
+      {
+        "i": "35996-21268-2010-09-18",
+        "c": "NL",
+        "n": "ShadowDance",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amersfoort",
+        "o": "Kunsthal KAdE",
+        "d": [
+          "2010-09-18",
+          "2011-01-09"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "35996-21268-2010-09-18",
+        "c": "NL",
+        "n": "ShadowDance",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amersfoort",
+        "o": "Kunsthal KAdE",
+        "d": [
+          "2010-09-18",
+          "2011-01-09"
+        ]
+      },
+      {
+        "i": "35996-2639-2011-01-29",
+        "c": "DE",
+        "n": "Lines Fiction - Zeichnung und Animation",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "fruehsorge contemporary drawings",
+        "d": [
+          "2011-01-29",
+          "2011-02-26"
+        ]
+      },
+      {
+        "i": "35996-8335-2011-06-03",
+        "c": "US",
+        "n": "Fuse Works",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Front Room Gallery",
+        "d": [
+          "2011-06-03",
+          "2011-06-26"
+        ]
+      },
+      {
+        "i": "35996-27124-2011-12-02",
+        "c": "BG",
+        "n": "Me, Myself and I",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sofia",
+        "o": "0gms",
+        "d": [
+          "2011-12-02",
+          "2012-01-26"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "35996-27124-2011-12-02",
+        "c": "BG",
+        "n": "Me, Myself and I",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sofia",
+        "o": "0gms",
+        "d": [
+          "2011-12-02",
+          "2012-01-26"
+        ]
+      },
+      {
+        "i": "35996-12781-2012-05-12",
+        "c": "US",
+        "n": "Open Studio Exhibition",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "International Studio & Curatorial Program (ISCP)",
+        "d": [
+          "2012-05-12",
+          "2012-05-15"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "35996-8335-2013-06-14",
+        "c": "US",
+        "n": "There Are Many Like It, But This One Is Yours",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Front Room Gallery",
+        "d": [
+          "2013-06-14",
+          "2013-07-07"
+        ]
+      }
+    ]
+  }
+}

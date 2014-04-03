@@ -1,0 +1,176 @@
+{
+  "id": "17064",
+  "mergedIDs": "384590",
+  "timestamp": "2014-02-22 06:10:14",
+  "name": "Olivier O. Olivier",
+  "surname": "Olivier",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1931",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "20885",
+  "r01": "19360",
+  "r02": "17719",
+  "r03": "20988",
+  "r04": "24123",
+  "r05": "41417",
+  "r06": "36383",
+  "r07": "31094",
+  "r08": "41009",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1982",
+  "all-shows-total": "14",
+  "2005-shows-biennials": "10",
+  "2005-shows-galleries": "10",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (5), Switzerland (4), China (1), USA (1)",
+  "2005-shows-with": "Olivier O. Olivier (5), Erró (2), Man Ray (2), Roland Topor (2)",
+  "representing-galleries": "Xin Dong Cheng - Beijing (Dashanzi Jiu Xian Qiao Lu N 4 - Chaoyang District, 100015 Beijing, China); Galerie Stella & Vega (6 rue Monseigneur Graveran, 29 200 Brest, France); Editions Atelier Clot, Bramsen & Georges (19, rue Vieille du Temple, 75004 Paris, France); Xin Dong Cheng - Paris (38, boulevard Beaumarchais, 75011 Paris, France); Galerie Sonia Zannettacci (16, rue des Granges, 1204 Geneva, Switzerland)",
+  "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France)",
+  "first_name": "Olivier",
+  "last_name": "O.",
+  "genre": "c",
+  "birthDate": "1931-01-01",
+  "age": 83,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "17064-3728-2005-01-22",
+        "c": "BE",
+        "n": "Résonnances",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "La Louvière",
+        "o": "Centre de la Gravure et de l'Image imprimée",
+        "d": [
+          "2005-01-22",
+          "2005-04-17"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "17064-2027-2010-10-14",
+        "c": "CH",
+        "n": "Feu à volonté",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Galerie Sonia Zannettacci",
+        "d": [
+          "2010-10-14",
+          "2010-12-18"
+        ]
+      },
+      {
+        "i": "17064-1526-2009-11-08",
+        "c": "CH",
+        "n": "Dessins 1989-2009",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Neuchâtel",
+        "o": "Galerie Ditesheim & Maffei",
+        "d": [
+          "2009-11-08",
+          "2010-01-23"
+        ]
+      },
+      {
+        "i": "17064-2027-2010-04-29",
+        "c": "CH",
+        "n": "Olivier O. Olivier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Galerie Sonia Zannettacci",
+        "d": [
+          "2010-04-29",
+          "2010-06-26"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "17064-1526-2012-01-22",
+        "c": "CH",
+        "n": "Le dessin",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Neuchâtel",
+        "o": "Galerie Ditesheim & Maffei",
+        "d": [
+          "2012-01-22",
+          "2012-02-26"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "17064-2027-2006-02-16",
+        "c": "CH",
+        "n": "Olivier O. Olivier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Galerie Sonia Zannettacci",
+        "d": [
+          "2006-02-16",
+          "2006-04-13"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "17064-4169-2009-05-30",
+        "c": "CN",
+        "n": "Olivier O. Olivier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Xin Dong Cheng - Beijing",
+        "d": [
+          "2009-05-30",
+          "2009-07-30"
+        ]
+      },
+      {
+        "i": "17064-1526-2009-11-08",
+        "c": "CH",
+        "n": "Dessins 1989-2009",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Neuchâtel",
+        "o": "Galerie Ditesheim & Maffei",
+        "d": [
+          "2009-11-08",
+          "2010-01-23"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "17064-1774-2011-03-03",
+        "c": "US",
+        "n": "Olivier O. Olivier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "San Francisco, CA",
+        "o": "MODERNISM",
+        "d": [
+          "2011-03-03",
+          "2011-04-23"
+        ]
+      }
+    ]
+  }
+}

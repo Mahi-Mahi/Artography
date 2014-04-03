@@ -1,0 +1,77 @@
+{
+  "id": "6389",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:05:18",
+  "name": "Antoine Poncet",
+  "surname": "Poncet",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1928",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "27395",
+  "r01": "28044",
+  "r02": "25388",
+  "r03": "22812",
+  "r04": "27488",
+  "r05": "36320",
+  "r06": "66267",
+  "r07": "58320",
+  "r08": "57053",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1958",
+  "all-shows-total": "15",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (5)",
+  "2005-shows-with": "Antoine Poncet (5), Dora García (3), Art & Language (2), Gilles Barbier (2), Jean Dupuy (2), Eric Duyckaerts (2), Jean-Baptiste Ganne (2), Raymond Hains (2)",
+  "representing-galleries": "Frank Pages Art Galerie (Stolzenbergstrasse 13, 76530 Baden-Baden, Germany); Galerie Frank Pages (Grand Rue 2, CH-1204 Geneva, Switzerland)",
+  "collecting-museums": "FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Cantor Arts Center at Stanford University (Lomita Drive and Museum Way 328, CA 94305-5060 Stanford, CA, USA)",
+  "first_name": "Antoine",
+  "last_name": "Poncet",
+  "genre": "c",
+  "birthDate": "1928-01-01",
+  "age": 86,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "6389-1000-2005-10-07",
+        "c": "DE",
+        "n": "Angers - Tryptique",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Baden-Baden",
+        "o": "Frank Pages Art Galerie",
+        "d": [
+          "2005-10-07",
+          "2005-11-28"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "6389-1000-2006-05-02",
+        "c": "DE",
+        "n": "Chu Teh Chun & Antoine Poncet",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Baden-Baden",
+        "o": "Frank Pages Art Galerie",
+        "d": [
+          "2006-05-02",
+          "2006-06-24"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "id": "3278",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:03:50",
+  "name": "Pierre Ardouvin",
+  "surname": "Ardouvin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Crest (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1955",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Installation, Sculpture",
+  "r00": "2400",
+  "r01": "2664",
+  "r02": "2493",
+  "r03": "2719",
+  "r04": "3204",
+  "r05": "4081",
+  "r06": "4745",
+  "r07": "5974",
+  "r08": "6557",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1998",
+  "all-shows-total": "73",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
+  "2005-shows-museums": "31",
+  "2005-countries-total": "France (34), Switzerland (3), United Kingdom (3), Germany (1), Luxembourg (1), Mexico (1), Slovenia (1), South Korea (1), USA (1)",
+  "2005-shows-with": "Pierre Ardouvin (36), Claude Lévêque (8), Laurent Grasso (6), Mathieu Mercier (6), Anne Brégeaut (5), Philippe Cognée (5), Stéphane Thidet (5), Adam Adach (4), Francis Alys (4), Julien Audebert (4), Gilles Barbier (4), Michel Blazy (4), Etienne Bossut (4), Camille Henrot (4), Valérie Jouve (4), Didier Marcel (4), Philippe Ramette (4), John M Armleder (3), Valérie Belin (3), Marc Bijl (3), Christian Boltanski (3), Claude Closky (3), Julien Crépieux (3), Damien Deroubaix (3), Peter Martensen (3), Vincent Mauger (3), Philippe Mayaux (3), Annette Messager (3), Anita Molinero (3), Nicolas Moulin (3), Laurent Perbos (3), Anri Sala (3), Laurent Sfar (3), Tatiana Trouvé (3), Saâdane Afif (2), Doug Aitken (2), Wilfrid Almendra (2), Ziad Antar (2), Art Keller (2), Kader Attia (2), Virginie Barré (2), Cécile Bart (2), Robert Barta (2), Eric Baudart (2), Yves Bélorgey (2), Johan Berard (2), Julien Berthier (2), Patrick Bérubé (2), Katinka Bock (2), Véronique Boudier (2), Simon Boudvin (2), Hermine Bourgad",
+  "representing-galleries": "Galerie Chez Valentin (9, rue St Gilles, 75003 Paris, France)",
+  "collecting-museums": "FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); Musée d´Art Moderne de la Ville de Paris - MAM/ARC (11 avenue du Président Wilson, 75 016 Paris, France)",
+  "first_name": "Pierre",
+  "last_name": "Ardouvin",
+  "genre": "m",
+  "birthDate": "1955-01-01",
+  "age": 59,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "3278-10031-2006-04-01",
+        "c": "US",
+        "n": "Hybridity  - The Evolution of Species and Spaces in 21st-Century Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Louisville, KY",
+        "o": "21c Museum",
+        "d": [
+          "2006-04-01",
+          "2006-09-01"
+        ]
+      },
+      {
+        "i": "3278-4917-2006-11-10",
+        "c": "GB",
+        "n": "Pierre Ardouvin - Back in Black",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Museum 52 - London",
+        "d": [
+          "2006-11-10",
+          "2007-01-14"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "3278-28587-2007-12-01",
+        "c": "CH",
+        "n": "Série Noire",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lancy",
+        "o": "Villa Bernasconi",
+        "d": [
+          "2007-12-01",
+          "2008-01-20"
+        ]
+      },
+      {
+        "i": "3278-4917-2006-11-10",
+        "c": "GB",
+        "n": "Pierre Ardouvin - Back in Black",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Museum 52 - London",
+        "d": [
+          "2006-11-10",
+          "2007-01-14"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "3278-28587-2007-12-01",
+        "c": "CH",
+        "n": "Série Noire",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lancy",
+        "o": "Villa Bernasconi",
+        "d": [
+          "2007-12-01",
+          "2008-01-20"
+        ]
+      },
+      {
+        "i": "3278-16467-2008-11-27",
+        "c": "MX",
+        "n": "La invención de lo cotidiano",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mexico City",
+        "o": "Museo Nacional de Arte - MUNAL",
+        "d": [
+          "2008-11-27",
+          "2009-03-15"
+        ]
+      },
+      {
+        "i": "3278-4917-2008-12-17",
+        "c": "GB",
+        "n": "Grotto",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Museum 52 - London",
+        "d": [
+          "2008-12-17",
+          "2008-12-20"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "3278-16467-2008-11-27",
+        "c": "MX",
+        "n": "La invención de lo cotidiano",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mexico City",
+        "o": "Museo Nacional de Arte - MUNAL",
+        "d": [
+          "2008-11-27",
+          "2009-03-15"
+        ]
+      },
+      {
+        "i": "3278-4917-2009-01-23",
+        "c": "GB",
+        "n": "Works on Paper",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Museum 52 - London",
+        "d": [
+          "2009-01-23",
+          "2009-02-28"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "3278-2102-2010-03-04",
+        "c": "US",
+        "n": "Unidentified Living Objects...",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Parker´s Box",
+        "d": [
+          "2010-03-04",
+          "2010-04-11"
+        ]
+      },
+      {
+        "i": "3278-3737-2010-05-01",
+        "c": "LU",
+        "n": "CECI N´EST PAS UN CASINO",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2010-05-01",
+          "2010-09-05"
+        ]
+      },
+      {
+        "i": "3278-10479-2010-06-12",
+        "c": "CH",
+        "n": "Edition 5 Erstfeld",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Altdorf",
+        "o": "Haus für Kunst Uri",
+        "d": [
+          "2010-06-12",
+          "2010-08-22"
+        ]
+      },
+      {
+        "i": "3278-7146-2010-11-14",
+        "c": "DE",
+        "n": "Ceci n’est pas un Casino",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Esslingen",
+        "o": "Villa Merkel - Galerien der Stadt Esslingen",
+        "d": [
+          "2010-11-14",
+          "2011-02-13"
+        ]
+      },
+      {
+        "i": "3278-13051-2010-12-10",
+        "c": "SI",
+        "n": "European Triennial of Small-Scale Sculpture 2010. Split Identities: Objects at the Interstice of Art and Design",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Murska Sobota",
+        "o": "Triennial of small sculptures",
+        "d": [
+          "2010-12-10",
+          "2011-03-24"
+        ]
+      },
+      {
+        "i": "3278-4917-2010-02-26",
+        "c": "GB",
+        "n": "The Unnamable",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Museum 52 - London",
+        "d": [
+          "2010-02-26",
+          "2010-04-10"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "3278-7146-2010-11-14",
+        "c": "DE",
+        "n": "Ceci n’est pas un Casino",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Esslingen",
+        "o": "Villa Merkel - Galerien der Stadt Esslingen",
+        "d": [
+          "2010-11-14",
+          "2011-02-13"
+        ]
+      },
+      {
+        "i": "3278-13051-2010-12-10",
+        "c": "SI",
+        "n": "European Triennial of Small-Scale Sculpture 2010. Split Identities: Objects at the Interstice of Art and Design",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Murska Sobota",
+        "o": "Triennial of small sculptures",
+        "d": [
+          "2010-12-10",
+          "2011-03-24"
+        ]
+      },
+      {
+        "i": "3278-2743-2011-07-26",
+        "c": "KR",
+        "n": "French Art Today: Marcel Duchamp Prize",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gwacheon",
+        "o": "National Museum of Contemporary Art Korea - Gwacheon",
+        "d": [
+          "2011-07-26",
+          "2011-10-16"
+        ]
+      },
+      {
+        "i": "3278-3444-2011-11-12",
+        "c": "CH",
+        "n": "Pierre Ardouvin",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Fribourg",
+        "o": "Fri Art - Centre d'Art Contemporain",
+        "d": [
+          "2011-11-12",
+          "2012-01-15"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "3278-1778-2013-02-20",
+        "c": "CH",
+        "n": "Retour du monde",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2013-02-20",
+          "2013-05-05"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "3278-3444-2011-11-12",
+        "c": "CH",
+        "n": "Pierre Ardouvin",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Fribourg",
+        "o": "Fri Art - Centre d'Art Contemporain",
+        "d": [
+          "2011-11-12",
+          "2012-01-15"
+        ]
+      }
+    ]
+  }
+}

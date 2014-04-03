@@ -1,0 +1,544 @@
+{
+  "id": "7960",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:06:02",
+  "name": "Jean Miotte",
+  "surname": "Miotte",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1926",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "2465",
+  "r01": "2220",
+  "r02": "1989",
+  "r03": "2682",
+  "r04": "4404",
+  "r05": "6210",
+  "r06": "5139",
+  "r07": "4175",
+  "r08": "7055",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1962",
+  "all-shows-total": "49",
+  "2005-shows-biennials": "10",
+  "2005-shows-galleries": "10",
+  "2005-shows-museums": "13",
+  "2005-countries-total": "USA (11), Germany (7), Czech Republic (2), South Korea (1), Spain (1), Switzerland (1)",
+  "2005-shows-with": "Jean Miotte (11), Günther Uecker (6), Otto Piene (4), K. R. H. Sonderborg (4), Walter Stöhrer (4), Antoni Tàpies (4), Andy Warhol (4), Sam Francis (3), Rupprecht Geiger (3), Heinz Mack (3), Emil Schumacher (3), Fred Thieler (3), David &#268;erný (2), Max Ackermann (2), Milan Adamciak (2), Hynek Alt (2), Valentin Altofer (2), Horst Antes (2), Arman (2), Karel Balcar (2), Jiri Balcar (2), Pavel Banka (2), Tomáš Bárta (2), Markéta Bendová (2), Jirí Beránek (2), Václav Bláha (2), Josef Bolf (2), Václav Bostík (2), Vladimír Boudník (2), Pavel Brázda (2), Veronika Bromová (2), Peter Brüning (2), Carl Buchheister (2), Milan Cais (2), David Cajthaml (2), Alexander Calder (2), Rolf Cavael (2), Dino Ceco (2), Karel Chaba (2), Vendula Chalankova (2), Dalibor Chatrny (2), Oliver Christmann (2), Christo & Jeanne-Claude (2), Tomás Cisarovsky (2), Sonia Delaunay (2), Bedrich Dlouhy (2), Piero Dorazio (2), Veronika Drahotová (2), Frantisek Drtikol (2), Dennis Ekstrom (2), Max Ernst (2), Milan Fano Blatn",
+  "representing-galleries": "Galerie Image Rainer & Co. OHG (Ruprechtsplatz 4-5, 1010 Vienna, Austria); Theo Wijnhoven Interior Art gallery (Oostmeers 7, 8000 Bruges, Belgium); Galerie Hélène Trintignan (21, rue Saint Guilhem, 34000 Montpellier, France); Galerie Helene Lamarque - Paris (37, rue Vaneau, 75007 Paris, France); Galerie Olivier NOUVELLET (19 rue de Seine, 75006 Paris, France); Galerie Wild - Frankfurt/Main (Kirchnerstr. 2, 60311 Frankfurt/Main, Germany); Galerie Casteel - Mönchengladbach (Regentenstraße 90-92, 41061 Mönchengladbach, Germany); Galerie La Cité (1, rue Louvigny (1er étage), 1946 Luxembourg, Luxembourg); Galería Dolores de Sierra (San Agustín, 15 (Barrio de las Letras), E-28014 Madrid, Spain); Galleri Victoria (Viktoriagatan 2a, 30246 Halmstad, Sweden); Galerie GoldTurm (Seeblickstrasse 26, 9327 Tübach, Switzerland); Galerie Münchow (Stockerstr. 11, 8002 Zurich, Switzerland); Hanina Gallery (180 Westbourne Grove, W11 2RH London (England), United Kingdom)",
+  "collecting-museums": "CAM - Chelsea Art Museum (556 West 22nd Street, 10011 New York City, NY, USA)",
+  "first_name": "Jean",
+  "last_name": "Miotte",
+  "genre": "m",
+  "birthDate": "1926-01-01",
+  "age": 88,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "7960-10215-2005-03-15",
+        "c": "AT",
+        "n": "Memoire de la liberte",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Weiz",
+        "o": "Galerie tazl.",
+        "d": [
+          "2005-03-15",
+          "2005-04-17"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "7960-3124-2006-03-28",
+        "c": "ES",
+        "n": "Miotte/Arman/Duerte/Villarino/Moro - paper & sculpture",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Madrid",
+        "o": "Galería Dolores de Sierra",
+        "d": [
+          "2006-03-28",
+          "2006-05-18"
+        ]
+      },
+      {
+        "i": "7960-3124-2006-11-08",
+        "c": "ES",
+        "n": "Exposición Colectiva - Pintura & Escultura",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Madrid",
+        "o": "Galería Dolores de Sierra",
+        "d": [
+          "2006-11-08",
+          "2006-12-12"
+        ]
+      },
+      {
+        "i": "7960-3733-2006-01-21",
+        "c": "BE",
+        "n": "Jean Miotte",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Oostende",
+        "o": "Mu.ZEE",
+        "d": [
+          "2006-01-21",
+          "2006-02-26"
+        ]
+      },
+      {
+        "i": "7960-6085-2006-03-12",
+        "c": "CH",
+        "n": "Jean Miotte - Miotte Money",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Grenchen",
+        "o": "Kunsthaus Grenchen",
+        "d": [
+          "2006-03-12",
+          "2006-04-30"
+        ]
+      },
+      {
+        "i": "7960-21163-2006-05-03",
+        "c": "ES",
+        "n": "Jean Miotte, una retrospectiva",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Murcia",
+        "o": "Espacio AV",
+        "d": [
+          "2006-05-03",
+          "2006-06-03"
+        ]
+      },
+      {
+        "i": "7960-4580-2006-09-07",
+        "c": "US",
+        "n": "Jean Miotte - Spirit of Defiance",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "CAM - Chelsea Art Museum",
+        "d": [
+          "2006-09-07",
+          "2006-11-18"
+        ]
+      },
+      {
+        "i": "7960-3124-2006-12-14",
+        "c": "ES",
+        "n": "Jean Miotte",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Madrid",
+        "o": "Galería Dolores de Sierra",
+        "d": [
+          "2006-12-14",
+          "2007-01-20"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "7960-3570-2007-02-05",
+        "c": "DE",
+        "n": "Sammlung Politeo",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Art Center Berlin Friedrichstrasse",
+        "d": [
+          "2007-02-05",
+          "2007-03-05"
+        ]
+      },
+      {
+        "i": "7960-3124-2006-12-14",
+        "c": "ES",
+        "n": "Jean Miotte",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Madrid",
+        "o": "Galería Dolores de Sierra",
+        "d": [
+          "2006-12-14",
+          "2007-01-20"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "7960-11358-2008-01-06",
+        "c": "CZ",
+        "n": "Moderní a povále&#269;né um&#283;ní, sou&#269;asné um&#283;ní, fotografie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Prague",
+        "o": "Leica Gallery LGP",
+        "d": [
+          "2008-01-06",
+          "2008-12-06"
+        ]
+      },
+      {
+        "i": "7960-17006-2008-05-27",
+        "c": "CZ",
+        "n": "Moderní a povále&#269;né um&#283;ní, sou&#269;asné um&#283;ní, fotografie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Prague",
+        "o": "galerie 5. patro",
+        "d": [
+          "2008-05-27",
+          "2008-05-31"
+        ]
+      },
+      {
+        "i": "7960-7024-2008-12-05",
+        "c": "DE",
+        "n": "Informelle Kunst",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Wiesbaden",
+        "o": "Galerie Nero",
+        "d": [
+          "2008-12-05",
+          "2009-01-10"
+        ]
+      },
+      {
+        "i": "7960-557-2008-12-10",
+        "c": "DE",
+        "n": "Arbeiten auf Papier – von Arakawa bis Zimmer – Smlg. Kulak",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Otto-Galerie",
+        "d": [
+          "2008-12-10",
+          "2010-01-02"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "7960-7024-2008-12-05",
+        "c": "DE",
+        "n": "Informelle Kunst",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Wiesbaden",
+        "o": "Galerie Nero",
+        "d": [
+          "2008-12-05",
+          "2009-01-10"
+        ]
+      },
+      {
+        "i": "7960-6139-2009-07-16",
+        "c": "DE",
+        "n": "Sommersalon 2009: Plastik - Malerei - Grafik",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie am Gendarmenmarkt",
+        "d": [
+          "2009-07-16",
+          "2009-09-13"
+        ]
+      },
+      {
+        "i": "7960-23930-2009-07-24",
+        "c": "DE",
+        "n": "Sommerfrische",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dusseldorf",
+        "o": "Galerie Maulberger & Becker",
+        "d": [
+          "2009-07-24",
+          "2009-08-28"
+        ]
+      },
+      {
+        "i": "7960-451-2009-07-24",
+        "c": "DE",
+        "n": "Sommerfrische",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Maulberger",
+        "d": [
+          "2009-07-24",
+          "2009-08-28"
+        ]
+      },
+      {
+        "i": "7960-4580-2009-04-07",
+        "c": "US",
+        "n": "Visual Crescendo",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "CAM - Chelsea Art Museum",
+        "d": [
+          "2009-04-07",
+          "2009-05-09"
+        ]
+      },
+      {
+        "i": "7960-22834-2009-07-17",
+        "c": "KR",
+        "n": "Jean Miotte - Gesture from within",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Seoul",
+        "o": "Savina Museum of Contemporary Art",
+        "d": [
+          "2009-07-17",
+          "2009-08-30"
+        ]
+      },
+      {
+        "i": "7960-4580-2009-10-03",
+        "c": "US",
+        "n": "Jean Miotte: What A Beautiful World",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "CAM - Chelsea Art Museum",
+        "d": [
+          "2009-10-03",
+          "2010-01-02"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "7960-557-2008-12-10",
+        "c": "DE",
+        "n": "Arbeiten auf Papier – von Arakawa bis Zimmer – Smlg. Kulak",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Otto-Galerie",
+        "d": [
+          "2008-12-10",
+          "2010-01-02"
+        ]
+      },
+      {
+        "i": "7960-813-2010-09-03",
+        "c": "DE",
+        "n": "50 Internationale Künstler",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zell a.H.",
+        "o": "Museum Villa Haiss",
+        "d": [
+          "2010-09-03",
+          "2010-12-31"
+        ]
+      },
+      {
+        "i": "7960-4580-2010-10-07",
+        "c": "US",
+        "n": "Abstraction Revisited",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "CAM - Chelsea Art Museum",
+        "d": [
+          "2010-10-07",
+          "2010-12-16"
+        ]
+      },
+      {
+        "i": "7960-4580-2009-10-03",
+        "c": "US",
+        "n": "Jean Miotte: What A Beautiful World",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "CAM - Chelsea Art Museum",
+        "d": [
+          "2009-10-03",
+          "2010-01-02"
+        ]
+      },
+      {
+        "i": "7960-3124-2010-01-20",
+        "c": "ES",
+        "n": "Jean Miotte",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Madrid",
+        "o": "Galería Dolores de Sierra",
+        "d": [
+          "2010-01-20",
+          "2010-03-26"
+        ]
+      },
+      {
+        "i": "7960-813-2010-02-28",
+        "c": "DE",
+        "n": "Jean Miotte - Neue Bilder",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Zell a.H.",
+        "o": "Museum Villa Haiss",
+        "d": [
+          "2010-02-28",
+          "2010-06-02"
+        ]
+      },
+      {
+        "i": "7960-4580-2010-03-05",
+        "c": "US",
+        "n": "Jean Miotte: The Gesture Within",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "CAM - Chelsea Art Museum",
+        "d": [
+          "2010-03-05",
+          "2010-06-19"
+        ]
+      },
+      {
+        "i": "7960-4580-2010-03-05",
+        "c": "US",
+        "n": "Jean Miotte - The Conductor’s Body",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "CAM - Chelsea Art Museum",
+        "d": [
+          "2010-03-05",
+          "2010-06-19"
+        ]
+      },
+      {
+        "i": "7960-4580-2010-06-25",
+        "c": "US",
+        "n": "Jean Miotte: The Nineties",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "CAM - Chelsea Art Museum",
+        "d": [
+          "2010-06-25",
+          "2010-09-02"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "7960-16134-2011-05-17",
+        "c": "US",
+        "n": "Gallery Selections",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Hollis Taggart Galleries",
+        "d": [
+          "2011-05-17",
+          "2011-08-31"
+        ]
+      },
+      {
+        "i": "7960-20873-2011-10-27",
+        "c": "CH",
+        "n": "30 Jahre Galerie Wild",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie Wild - Zürich",
+        "d": [
+          "2011-10-27",
+          "2012-01-30"
+        ]
+      },
+      {
+        "i": "7960-4580-2011-03-03",
+        "c": "US",
+        "n": "Jean Miotte: A Retrospective Part One",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "CAM - Chelsea Art Museum",
+        "d": [
+          "2011-03-03",
+          "2011-05-14"
+        ]
+      },
+      {
+        "i": "7960-4580-2011-05-14",
+        "c": "US",
+        "n": "Jean Miotte: A Retrospective  Part Two",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "CAM - Chelsea Art Museum",
+        "d": [
+          "2011-05-14",
+          "2011-08-06"
+        ]
+      },
+      {
+        "i": "7960-4580-2011-08-23",
+        "c": "US",
+        "n": "Jean Miotte",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "CAM - Chelsea Art Museum",
+        "d": [
+          "2011-08-23",
+          "2011-09-03"
+        ]
+      },
+      {
+        "i": "7960-4580-2011-10-04",
+        "c": "US",
+        "n": "Jean Miotte: A Retrospective",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "CAM - Chelsea Art Museum",
+        "d": [
+          "2011-10-04",
+          "2011-12-16"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "7960-20873-2011-10-27",
+        "c": "CH",
+        "n": "30 Jahre Galerie Wild",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie Wild - Zürich",
+        "d": [
+          "2011-10-27",
+          "2012-01-30"
+        ]
+      }
+    ]
+  }
+}

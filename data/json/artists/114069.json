@@ -1,0 +1,336 @@
+{
+  "id": "114069",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:50:06",
+  "name": "Colin Guillemet",
+  "surname": "Guillemet",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "21585",
+  "r01": "26798",
+  "r02": "25460",
+  "r03": "31521",
+  "r04": "46822",
+  "r05": "50775",
+  "r06": "44459",
+  "r07": "48126",
+  "r08": "69811",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2004",
+  "all-shows-total": "20",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "Switzerland (8), United Kingdom (7), USA (1)",
+  "2005-shows-with": "Colin Guillemet (15), Jonathan Allen (4), ARCHIVE (4), Zoe Beloff (4), Ansuman Biswas (4), Joan Brossa (4), Rick Buckley (4), Brian Catling (4), Center for Tactical Magic (4), Jackie & Denise Chapwoman (4), Jem Finer (4), Tom Friedman (4), Brian Griffiths (4), João Maria Gusmão & Pedro Paiva (4), Susan Hiller (4), Alexandra Hopf (4), Christian Jankowski (4), Janice Kerbel (4), Annika Lundgren (4), Juan Muñoz (4), Bruce Nauman (4), Ian Saville (4), Ariel Schlesinger (4), Suzanne Treister (4), Sinta Werner (4), eggerschlatter (3), Pascal Häusermann (3), Andreas Marti (3), Navid Tschopp (3), Tatiana Arce (2), Muriel Baumgartner (2), Nino Baumgartner (2), Sandra Boeschenstein (2), Sarah Burger (2), Mischa Camenzind (2), Françoise Caraco (2), David Chieppo (2), Pascal Danz (2), Gabi Deutsch (2), Marcel van Eeden (2), Steven Emmanuel (2), Marianne Engel (2), Ruth Erdt (2), Jonas Etter (2), René Fahrni (2), Jöelle Flumet (2), Ingo Giezendanner (2), Bob Gramsma (2), huber.huber (2), Florence Jung (2), Esther K",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Colin",
+  "last_name": "Guillemet",
+  "genre": "m",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-35",
+  "expos": {
+    "2006": [
+      {
+        "i": "114069-8589-2006-07-26",
+        "c": "GB",
+        "n": "Small Mischiefs",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Pump House Gallery",
+        "d": [
+          "2006-07-26",
+          "2006-09-17"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "114069-7018-2007-07-06",
+        "c": "GB",
+        "n": "Dark Glasses",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "London (England)",
+        "o": "Standpoint Gallery",
+        "d": [
+          "2007-07-06",
+          "2007-08-04"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "114069-20956-2009-11-28",
+        "c": "GB",
+        "n": "Magic Show",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Derby (England)",
+        "o": "QUAD Gallery",
+        "d": [
+          "2009-11-28",
+          "2010-01-31"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "114069-20956-2009-11-28",
+        "c": "GB",
+        "n": "Magic Show",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Derby (England)",
+        "o": "QUAD Gallery",
+        "d": [
+          "2009-11-28",
+          "2010-01-31"
+        ]
+      },
+      {
+        "i": "114069-20122-2010-02-13",
+        "c": "GB",
+        "n": "Magic Show",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Blackpool, Lancashire (England)",
+        "o": "Grundy Art Gallery",
+        "d": [
+          "2010-02-13",
+          "2010-04-10"
+        ]
+      },
+      {
+        "i": "114069-8720-2010-05-15",
+        "c": "GB",
+        "n": "Magic Show",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Carlisle, Cumbria (England)",
+        "o": "Tullie House Museum",
+        "d": [
+          "2010-05-15",
+          "2010-07-04"
+        ]
+      },
+      {
+        "i": "114069-7414-2010-06-12",
+        "c": "CH",
+        "n": "Back Yard",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lausanne",
+        "o": "Galerie Lucy Mackintosh",
+        "d": [
+          "2010-06-12",
+          "2010-07-09"
+        ]
+      },
+      {
+        "i": "114069-8589-2010-10-06",
+        "c": "GB",
+        "n": "Magic Show",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Pump House Gallery",
+        "d": [
+          "2010-10-06",
+          "2010-12-19"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "114069-2674-2011-01-23",
+        "c": "US",
+        "n": "An Exchange with Sol LeWitt",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "North Adams, MA",
+        "o": "Massachusetts Museum of Contemporary Art - MASSMoCA",
+        "d": [
+          "2011-01-23",
+          "2011-03-31"
+        ]
+      },
+      {
+        "i": "114069-21581-2011-04-13",
+        "c": "GB",
+        "n": "Stuff on the wall, on the floor, floating in the air…",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "London (England)",
+        "o": "Guest Projects",
+        "d": [
+          "2011-04-13",
+          "2011-04-28"
+        ]
+      },
+      {
+        "i": "114069-17983-2011-04-17",
+        "c": "CH",
+        "n": "Überleben",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rapperswil",
+        "o": "Kunst(Zeug)Haus",
+        "d": [
+          "2011-04-17",
+          "2011-06-19"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "114069-16501-2012-02-25",
+        "c": "CH",
+        "n": "Minimal Structures &#8722; New Existentialism Part 5",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Rapperswil",
+        "o": "Alte Fabrik - Gebert Stiftung für Kultur",
+        "d": [
+          "2012-02-25",
+          "2012-04-22"
+        ]
+      },
+      {
+        "i": "114069-23015-2012-04-01",
+        "c": "GB",
+        "n": "The Ha-Ha Crystal",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Maria Stenfors",
+        "d": [
+          "2012-04-01",
+          "2012-05-07"
+        ]
+      },
+      {
+        "i": "114069-26173-2012-05-24",
+        "c": "GB",
+        "n": "Things That Have Interested Me",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "waterside contemporary",
+        "d": [
+          "2012-05-24",
+          "2012-07-14"
+        ]
+      },
+      {
+        "i": "114069-21363-2012-12-07",
+        "c": "CH",
+        "n": "Catch of the Year 2012 100 Künstler / 100 Werke",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Dienstgebäude",
+        "d": [
+          "2012-12-07",
+          "2013-01-12"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "114069-21363-2012-12-07",
+        "c": "CH",
+        "n": "Catch of the Year 2012 100 Künstler / 100 Werke",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Dienstgebäude",
+        "d": [
+          "2012-12-07",
+          "2013-01-12"
+        ]
+      },
+      {
+        "i": "114069-17651-2013-04-20",
+        "c": "CH",
+        "n": "Laute Häuser und Äpfel, die fallen. Bisher unbekannte Mythen für Luzern",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lucerne",
+        "o": "sic! Raum für Kunst",
+        "d": [
+          "2013-04-20",
+          "2013-05-25"
+        ]
+      },
+      {
+        "i": "114069-7511-2013-07-20",
+        "c": "CH",
+        "n": "Werk- und Atelierstipendien der Stadt Zürich 2013",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zurich",
+        "o": "Helmhaus Zürich",
+        "d": [
+          "2013-07-20",
+          "2013-09-08"
+        ]
+      },
+      {
+        "i": "114069-21363-2013-11-30",
+        "c": "CH",
+        "n": "Catch of the Year 2013",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Dienstgebäude",
+        "d": [
+          "2013-11-30",
+          "2014-01-18"
+        ]
+      },
+      {
+        "i": "114069-5844-2013-03-01",
+        "c": "CH",
+        "n": "Un signe à l’horizon",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Bern",
+        "o": "annex14 - Raum für aktuelle Kunst",
+        "d": [
+          "2013-03-01",
+          "2013-04-13"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "114069-21363-2013-11-30",
+        "c": "CH",
+        "n": "Catch of the Year 2013",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Dienstgebäude",
+        "d": [
+          "2013-11-30",
+          "2014-01-18"
+        ]
+      }
+    ]
+  }
+}

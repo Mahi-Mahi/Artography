@@ -1,0 +1,77 @@
+{
+  "id": "170246",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:12:34",
+  "name": "Eric Herbin",
+  "surname": "Herbin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "44940",
+  "r01": "41963",
+  "r02": "63762",
+  "r03": "58289",
+  "r04": "54663",
+  "r05": "48707",
+  "r06": "43517",
+  "r07": "54587",
+  "r08": "46694",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2004",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (3), Denmark (1), Poland (1)",
+  "2005-shows-with": "Cléa Coudsi (5), Eric Herbin (5)",
+  "representing-galleries": "Galerie Schirman & de Beaucé (rue du Perche 7 bis, 9, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Eric",
+  "last_name": "Herbin",
+  "genre": "m",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-35",
+  "expos": {
+    "2008": [
+      {
+        "i": "170246-17203-2008-05-14",
+        "c": "PL",
+        "n": "C.O.A.L.",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Katowice",
+        "o": "Galeria Rondo Sztuki",
+        "d": [
+          "2008-05-14",
+          "2008-06-03"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "170246-3114-2012-06-09",
+        "c": "DK",
+        "n": "Fri lyd",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Copenhagen",
+        "o": "Den Frie Centre of Contemporary Art",
+        "d": [
+          "2012-06-09",
+          "2012-06-17"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "22733",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:12:38",
+  "name": "Élisabeth Garouste & Mattia Bonetti",
+  "surname": "Garouste & Mattia Bonetti",
+  "nationality": "CH, FR",
+  "nationality fr": "France, Suisse",
+  "birth location": "Elizabeth Garouste *1952 Paris (FR), Mattia Bonnetti *1946 Lugano (IT)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1946",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Artist group",
+  "media": "Installation, Sculpture",
+  "r00": "13760",
+  "r01": "11930",
+  "r02": "10132",
+  "r03": "10097",
+  "r04": "8458",
+  "r05": "8652",
+  "r06": "6957",
+  "r07": "6101",
+  "r08": "4688",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1985",
+  "all-shows-total": "12",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (2), Romania (1), Switzerland (1)",
+  "2005-shows-with": "Élisabeth Garouste & Mattia Bonetti (4), Gaetano Pesce (2)",
+  "representing-galleries": "La Galerie Italienne (71, boulevard Raspail, 75006 Paris, France); Nilufar (Via della Spiga 30, 20121 Milan, Italy)",
+  "collecting-museums": "FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); Musée Départemental d'Art Contemporain de Rochechouart (place du Château, 87600  Rochechouart, France); Centro Cultural de Belém - CCB (Praça do Império, 1499 - 003 Lisbon, Portugal)",
+  "first_name": "Élisabeth",
+  "last_name": "Garouste",
+  "genre": "c",
+  "birthDate": "1946-01-01",
+  "age": 68,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "22733-6417-2005-05-07",
+        "c": "DE",
+        "n": "(my private) Heroes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Herford",
+        "o": "MARTa Herford",
+        "d": [
+          "2005-05-07",
+          "2005-08-21"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "22733-3104-2011-01-24",
+        "c": "RO",
+        "n": "Architecture Dessins Utopies",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2011-01-24",
+          "2011-04-20"
+        ]
+      },
+      {
+        "i": "22733-16569-2011-08-05",
+        "c": "CH",
+        "n": "Make Up",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zurich",
+        "o": "Museum für Gestaltung Zürich",
+        "d": [
+          "2011-08-05",
+          "2011-01-02"
+        ]
+      }
+    ]
+  }
+}

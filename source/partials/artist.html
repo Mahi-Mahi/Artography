@@ -36,36 +36,41 @@
 	<div class="main clearfix">
 
 		<div class="sidebar left-sidebar">
-			<form action="about:blank">
 
-				<fieldset>
-					<legend>Période</legend>
-					<ul class="unstyled filter">
-						<li ng-repeat="period in periods">
-							<input type="radio" name="period" id="period-{{period.slug}}" value="{{period.slug}}" ng-model="$parent.filters.period" {period.checked} />
-							<label for="period-{{period.slug}}">
-								{{period.name}}
-							</label>
-						</li>
-					</ul>
-				</fieldset>
+			<div class="sidebar-inner">
 
-			</form>
+				<form action="about:blank">
 
-			<div class="legend">
-				<fieldset>
-					<legend>Légende</legend>
-					<dl>
-						<dt>Type d'exposition</dt>
-						<dd><strong>Solo</strong>{{counters.Solo}}</dd>
-						<dd><strong>Collective</strong>{{counters.Group}}</dd>
-						<dt>Organisateur</dt>
-					</dl>
-						<ul>
-						<li ng-repeat="organizer in organizers"><strong>{{organizers.name}}</strong>{{organizers.counter}}</li>
+					<fieldset>
+						<legend>Période</legend>
+						<ul class="unstyled filter">
+							<li ng-repeat="period in periods">
+								<input type="radio" name="period" id="period-{{period.slug}}" value="{{period.slug}}" ng-model="$parent.filters.period" {period.checked} />
+								<label for="period-{{period.slug}}">
+									{{period.name}}
+								</label>
+							</li>
 						</ul>
-				</fieldset>
-			</div><!-- .legend -->
+					</fieldset>
+
+				</form>
+
+				<div class="legend">
+					<fieldset>
+						<legend>Légende</legend>
+						<dl>
+							<dt>Type d'exposition</dt>
+							<dd><strong>Solo</strong>{{counters.Solo}}</dd>
+							<dd><strong>Collective</strong>{{counters.Group}}</dd>
+							<dt>Organisateur</dt>
+						</dl>
+							<ul>
+							<li ng-repeat="organizer in organizers"><strong>{{organizers.name}}</strong>{{organizers.counter}}</li>
+							</ul>
+					</fieldset>
+				</div><!-- .legend -->
+
+			</div>
 
 		</div><!-- .left-sidebar -->
 
@@ -89,7 +94,7 @@
 				<form action="about:blank">
 					<input type="text" value="" class="input-sidebar" placeholder="Rechercher une exposition..." ng-model="searchText" ng-change="searchExpos();" />
 					<ul class="unstyled">
-						<li ng-repeat="expo in expos_list"  class="exposition-item {{expo.enabled}}"><a href="{{expo.url}}" target="_blank" class="{{expo.type}}">{{expo.name}}</a></li>
+						<li ng-repeat="expo in expos_list"  class="exposition-item {{expo.enabled}} {{expo.type}}"><a href="{{expo.url}}" target="_blank">{{expo.name}}</a></li>
 					</ul>
 				</form>
 

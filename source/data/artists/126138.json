@@ -1,0 +1,150 @@
+{
+  "id": "126138",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:54:47",
+  "name": "Sarah Tritz",
+  "surname": "Tritz",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Fontenay-aux-Roses (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1980",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "13138",
+  "r01": "17233",
+  "r02": "16667",
+  "r03": "25493",
+  "r04": "30330",
+  "r05": "29657",
+  "r06": "43263",
+  "r07": "43096",
+  "r08": "53622",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "21",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (11), Germany (2), Russia (1), Switzerland (1), USA (1)",
+  "2005-shows-with": "Sarah Tritz (12), Patrick van Caeckenbergh (2), Alex Cecchetti (2)",
+  "representing-galleries": "Galerie Anne Barrault (22, rue Saint-Claude, 75003 Paris, France); Galerie Florent Tosin (Potsdamer Strasse 81 C, 10785 Berlin, Germany)",
+  "collecting-museums": null,
+  "first_name": "Sarah",
+  "last_name": "Tritz",
+  "genre": "f",
+  "birthDate": "1980-01-01",
+  "age": 34,
+  "age_range": "26-35",
+  "expos": {
+    "2005": [
+      {
+        "i": "126138-2038-2005-03-17",
+        "c": "IT",
+        "n": "Vorticanti",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Turin",
+        "o": "Galleria Maze",
+        "d": [
+          "2005-03-17",
+          "2005-04-30"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "126138-14373-2006-04-28",
+        "c": "DE",
+        "n": "Multipolaire",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Leipzig",
+        "o": "Universal Cube",
+        "d": [
+          "2006-04-28",
+          "2006-05-21"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "126138-15472-2008-02-23",
+        "c": "DE",
+        "n": "Man kan nicht alles Holz zü Pfeifen schneiden",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Visite ma tente",
+        "d": [
+          "2008-02-23",
+          "2008-02-23"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "126138-8561-2010-07-02",
+        "c": "RU",
+        "n": "Vis-A-Vis",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Moscow",
+        "o": "National Center For Contemporary Art (NCCA) - Moscow Branch",
+        "d": [
+          "2010-07-02",
+          "2010-07-25"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "126138-17130-2012-03-05",
+        "c": "US",
+        "n": "Salon Zürcher",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Galerie Zürcher - New York",
+        "d": [
+          "2012-03-05",
+          "2012-03-12"
+        ]
+      },
+      {
+        "i": "126138-7866-2012-04-06",
+        "c": "CH",
+        "n": "Fill this white up to the roof!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Basel",
+        "o": "Kaskadenkondensator - KASKO- Projektraum für aktuelle Kunst und Performance",
+        "d": [
+          "2012-04-06",
+          "2012-04-28"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "126138-23117-2013-01-18",
+        "c": "DE",
+        "n": "A Woman of Thirty",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Florent Tosin",
+        "d": [
+          "2013-01-18",
+          "2013-03-30"
+        ]
+      }
+    ]
+  }
+}

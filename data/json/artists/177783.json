@@ -1,0 +1,230 @@
+{
+  "id": "177783",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:15:28",
+  "name": "Samuel François",
+  "surname": "François",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Pompey (FR)",
+  "birth day": "28",
+  "birth month": "10",
+  "birth year": "1977",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "20329",
+  "r01": "27777",
+  "r02": "34286",
+  "r03": "33166",
+  "r04": "36483",
+  "r05": "40582",
+  "r06": "59284",
+  "r07": "74383",
+  "r08": "67544",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "24",
+  "2005-shows-biennials": "14",
+  "2005-shows-galleries": "14",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (9), Belgium (2), Luxembourg (2), Switzerland (2), Germany (1), Poland (1), United Kingdom (1)",
+  "2005-shows-with": "Samuel François (9), Justin Morin (4), Claire Decet (3), Olivier Kosta-Théfaine (3), Corentin Grossmann (2), Renato Leotta (2), Keegan McHargue (2)",
+  "representing-galleries": "Alice Gallery (182, rue Antoine Dansaert - Antoine Dansaertstraat, 1000 Brussels, Belgium); Galerie Jeanroch Dard (13 Rue des Arquebusiers, 75003 Paris, France); Milieu (Münstergasse 6, 3000 Bern, Switzerland)",
+  "collecting-museums": "Centre d'Art Ville de Dudelange (Rue Dominique Lang, L-3505 Dudelange, Luxembourg)",
+  "first_name": "Samuel",
+  "last_name": "François",
+  "genre": "m",
+  "birthDate": "1977-10-28",
+  "age": 36,
+  "age_range": "36-45",
+  "expos": {
+    "2007": [
+      {
+        "i": "177783-11971-2007-12-09",
+        "c": "DE",
+        "n": "Kunstpreis Robert Schuman/Prix d'Art Robert Schuman",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Trier",
+        "o": "Museum Simeonstift",
+        "d": [
+          "2007-12-09",
+          "2008-01-20"
+        ]
+      },
+      {
+        "i": "177783-15548-2007-11-29",
+        "c": "DE",
+        "n": "It’s ok?",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Saarbrücken",
+        "o": "Saarländisches Künstlerhaus",
+        "d": [
+          "2007-11-29",
+          "2008-01-06"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "177783-11971-2007-12-09",
+        "c": "DE",
+        "n": "Kunstpreis Robert Schuman/Prix d'Art Robert Schuman",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Trier",
+        "o": "Museum Simeonstift",
+        "d": [
+          "2007-12-09",
+          "2008-01-20"
+        ]
+      },
+      {
+        "i": "177783-19035-2008-06-18",
+        "c": "PL",
+        "n": "OUT OF STH.",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Wroclaw",
+        "o": "BWA Wroclaw - Gallery of Contemporary Art ",
+        "d": [
+          "2008-06-18",
+          "2008-08-17"
+        ]
+      },
+      {
+        "i": "177783-15548-2007-11-29",
+        "c": "DE",
+        "n": "It’s ok?",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Saarbrücken",
+        "o": "Saarländisches Künstlerhaus",
+        "d": [
+          "2007-11-29",
+          "2008-01-06"
+        ]
+      },
+      {
+        "i": "177783-5851-2008-10-30",
+        "c": "BE",
+        "n": "Il était une fois une fois",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Alice Gallery",
+        "d": [
+          "2008-10-30",
+          "2008-11-30"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "177783-29168-2010-11-13",
+        "c": "CH",
+        "n": "Zeichnen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bern",
+        "o": "Milieu",
+        "d": [
+          "2010-11-13",
+          "2010-11-27"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "177783-14578-2011-09-17",
+        "c": "LU",
+        "n": "Sleep Disorders",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dudelange",
+        "o": "Centre d'Art Ville de Dudelange",
+        "d": [
+          "2011-09-17",
+          "2011-11-17"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "177783-3540-2012-11-15",
+        "c": "LU",
+        "n": "Exposition Bouh!",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Nosbaum&Reding",
+        "d": [
+          "2012-11-15",
+          "2012-12-22"
+        ]
+      },
+      {
+        "i": "177783-5851-2012-03-08",
+        "c": "BE",
+        "n": "Open 4 Business",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Alice Gallery",
+        "d": [
+          "2012-03-08",
+          "2012-04-06"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "177783-8707-2013-09-14",
+        "c": "DE",
+        "n": "One from None",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Autocenter",
+        "d": [
+          "2013-09-14",
+          "2013-09-28"
+        ]
+      },
+      {
+        "i": "177783-21280-2013-03-01",
+        "c": "GB",
+        "n": "The Joy of Man",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Rod Barton",
+        "d": [
+          "2013-03-01",
+          "2013-04-06"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "177783-29168-2009-07-01",
+        "c": "CH",
+        "n": "Samuel Francois - Zuper!",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Bern",
+        "o": "Milieu",
+        "d": [
+          "2009-07-01",
+          "2009-07-30"
+        ]
+      }
+    ]
+  }
+}

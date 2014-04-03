@@ -1,0 +1,107 @@
+{
+  "id": "81363",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:37:05",
+  "name": "Patrice Carré",
+  "surname": "Carré",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Angers (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1957",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "14232",
+  "r01": "14443",
+  "r02": "14397",
+  "r03": "14919",
+  "r04": "13268",
+  "r05": "14257",
+  "r06": "11634",
+  "r07": "14300",
+  "r08": "11214",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1988",
+  "all-shows-total": "28",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (9), Italy (2)",
+  "2005-shows-with": "Patrice Carré (10), Noël Dolla (3), Philippe Mayaux (3), Virginie Barré (2), Pierre Buraglio (2), Daniel Buren (2), Louis Cane (2), Philippe Cazal (2), Claude Closky (2), Robert Combas (2), Vincent Corpet (2), Peter Downsbrough (2), Erró (2), Philippe Favier (2), Peter Halley (2), Valérie Jouve (2), Jürgen Klauke (2), Jiri Kolár (2), Micha Laury (2), Didier Marcel (2), Myriam Mechita (2), Claude Viallat (2), Lawrence Weiner (2), Tom Wesselmann (2)",
+  "representing-galleries": "Galerie Georges Verney-Carron (45 quai Rambaud, 69002 Lyon, France); e/static (Via Parma 31, 10152 Turin, Italy)",
+  "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France)",
+  "first_name": "Patrice",
+  "last_name": "Carré",
+  "genre": "m",
+  "birthDate": "1957-01-01",
+  "age": 57,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "81363-8563-2005-09-08",
+        "c": "SK",
+        "n": "In-Formation",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Trnava",
+        "o": "Jan Koniarek Gallery",
+        "d": [
+          "2005-09-08",
+          "2005-10-30"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "81363-7612-2007-02-01",
+        "c": "IT",
+        "n": "découpage (f d)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Turin",
+        "o": "e/static",
+        "d": [
+          "2007-02-01",
+          "2007-03-03"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "81363-7612-2009-04-16",
+        "c": "IT",
+        "n": "Music for a long time (e/static 1999-2009)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Turin",
+        "o": "e/static",
+        "d": [
+          "2009-04-16",
+          "2009-07-04"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "81363-7612-2012-05-31",
+        "c": "IT",
+        "n": "Suoni in formazione",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Turin",
+        "o": "e/static",
+        "d": [
+          "2012-05-31",
+          "2012-07-14"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "159945",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:08:35",
+  "name": "Ingrid Donat",
+  "surname": "Donat",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1957",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "77258",
+  "r01": "74028",
+  "r02": "69130",
+  "r03": "63737",
+  "r04": "57759",
+  "r05": "51854",
+  "r06": "71066",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "3",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": null,
+  "2005-countries-total": "United Kingdom (1), USA (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "Carpenters Workshop Gallery (54 Rue De La Verrerie 54, 75004 Paris, France); Carpenters Workshop Gallery (2 Michael Road, SW6 2AD London (England), United Kingdom)",
+  "collecting-museums": null,
+  "first_name": "Ingrid",
+  "last_name": "Donat",
+  "genre": "f",
+  "birthDate": "1957-01-01",
+  "age": 57,
+  "age_range": "46-55",
+  "expos": {
+    "2008": [
+      {
+        "i": "159945-13876-2008-09-12",
+        "c": "GB",
+        "n": "Conversations In Bronze",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Carpenters Workshop Gallery",
+        "d": [
+          "2008-09-12",
+          "2008-10-04"
+        ]
+      },
+      {
+        "i": "159945-5834-2008-02-21",
+        "c": "US",
+        "n": "Ingrid Donat: New Works in Bronze",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Barry Friedman Ltd.",
+        "d": [
+          "2008-02-21",
+          "2008-03-15"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "159945-13876-2007-06-22",
+        "c": "GB",
+        "n": "Ingrid Donat",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Carpenters Workshop Gallery",
+        "d": [
+          "2007-06-22",
+          "2007-07-28"
+        ]
+      }
+    ]
+  }
+}

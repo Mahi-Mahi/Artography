@@ -1,0 +1,77 @@
+{
+  "id": "35554",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:18:21",
+  "name": "Edouard Boyer",
+  "surname": "Boyer",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Le Havre (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1966",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "13796",
+  "r01": "12515",
+  "r02": "10990",
+  "r03": "10287",
+  "r04": "10008",
+  "r05": "9746",
+  "r06": "8562",
+  "r07": "6946",
+  "r08": "7027",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1998",
+  "all-shows-total": "15",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (5), Czech Republic (1), Switzerland (1)",
+  "2005-shows-with": "Edouard Boyer (6), David Brognon & Stéphanie Rollin (2), Sammy Engramer (2), Pierre Huyghe (2)",
+  "representing-galleries": "MARS (Köpenicker Str. 147, 10997 Berlin, Germany)",
+  "collecting-museums": "CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France)",
+  "first_name": "Edouard",
+  "last_name": "Boyer",
+  "genre": "m",
+  "birthDate": "1966-01-01",
+  "age": 48,
+  "age_range": "46-55",
+  "expos": {
+    "2010": [
+      {
+        "i": "35554-6124-2010-05-06",
+        "c": "CH",
+        "n": "Kompetenzverschiebungen",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Liestal",
+        "o": "Kunsthalle Palazzo",
+        "d": [
+          "2010-05-06",
+          "2010-06-20"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "35554-9037-2011-08-10",
+        "c": "CZ",
+        "n": "Bread and Salt",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Prague",
+        "o": "Karlin Studios",
+        "d": [
+          "2011-08-10",
+          "2011-09-11"
+        ]
+      }
+    ]
+  }
+}

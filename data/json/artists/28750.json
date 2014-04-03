@@ -1,0 +1,377 @@
+{
+  "id": "28750",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:15:20",
+  "name": "Françoise Gilot",
+  "surname": "Gilot",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Neuilly-sur-Seine, Hauts-de-Seine (FR)",
+  "birth day": "26",
+  "birth month": "11",
+  "birth year": "1921",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": "Painting",
+  "r00": "12226",
+  "r01": "11228",
+  "r02": "11886",
+  "r03": "16408",
+  "r04": "15049",
+  "r05": "14777",
+  "r06": "12390",
+  "r07": "13524",
+  "r08": "14212",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "24",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "Hungary (7), USA (6), Germany (1)",
+  "2005-shows-with": "Françoise Gilot (8), István Nádler (5), János Szirtes (5), Franyo Aatoth (4), Zsuzsi Csiszer (4), Laszlo Györffy (4), El Kazovszkij (4), Herman Levente (4), László Mulasics (4), Sándor Rácmolnár (4), Martin C. Herbst (3), László fe Lugossy (3), Endre Rozsda (3), László Szotyory (3), Péter Újházi (3), Róbert Várady (3), Ray Monde (2), Sebastian Weissenbacher (2)",
+  "representing-galleries": "Galerie Piltzer (6, avenue Foch, 75116 Paris, France); Várfok Gallery (Várfok u. 14, 1012 Budapest, Hungary)",
+  "collecting-museums": "ms - Muzeum Sztuki Lodz (ul. Wi&#281;ckowskiego 36, 90-743 Lodz, Poland); Moscow museum of modern art - MMOMA (25 Petrovka street, 107031 Moscow, Russia); The Cleveland Museum of Art (11150 East Boulevard, 44106 Cleveland, OH, USA); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA); Reading Public Museum (500 Museum Road, 19611-1425 Reading, PA, USA)",
+  "first_name": "Françoise",
+  "last_name": "Gilot",
+  "genre": "f",
+  "birthDate": "1921-11-26",
+  "age": 92,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "28750-7155-2006-03-04",
+        "c": "DE",
+        "n": "Françoise Gilot & Ulrich Mack - Zusammentreffen",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Münster",
+        "o": "Graphikmuseum Pablo Picasso Münster",
+        "d": [
+          "2006-03-04",
+          "2006-06-11"
+        ]
+      },
+      {
+        "i": "28750-7526-2006-07-30",
+        "c": "DE",
+        "n": "Francoise Gilot - Metamorphosen eines Gesichts",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Ludwigsburg",
+        "o": "Kunstverein Ludwigsburg",
+        "d": [
+          "2006-07-30",
+          "2006-09-03"
+        ]
+      },
+      {
+        "i": "28750-2984-2006-10-12",
+        "c": "US",
+        "n": "Françoise Gilot: Portraits From a Life",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Elkon Gallery",
+        "d": [
+          "2006-10-12",
+          "2006-12-15"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "28750-7320-2008-03-20",
+        "c": "HU",
+        "n": "Mise-en Abyme - The anniversary exhibition of Várfok Gallery",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Budapest",
+        "o": "Várfok Gallery",
+        "d": [
+          "2008-03-20",
+          "2008-04-19"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "28750-7320-2010-02-18",
+        "c": "HU",
+        "n": "On Paper",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Budapest",
+        "o": "Várfok Gallery",
+        "d": [
+          "2010-02-18",
+          "2010-03-20"
+        ]
+      },
+      {
+        "i": "28750-7320-2010-03-25",
+        "c": "HU",
+        "n": "Crescendo",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Budapest",
+        "o": "Várfok Gallery",
+        "d": [
+          "2010-03-25",
+          "2010-04-29"
+        ]
+      },
+      {
+        "i": "28750-21601-2010-09-04",
+        "c": "US",
+        "n": "Women Artists",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Reading, PA",
+        "o": "Reading Public Museum",
+        "d": [
+          "2010-09-04",
+          "2011-01-29"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "28750-21601-2010-09-04",
+        "c": "US",
+        "n": "Women Artists",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Reading, PA",
+        "o": "Reading Public Museum",
+        "d": [
+          "2010-09-04",
+          "2011-01-29"
+        ]
+      },
+      {
+        "i": "28750-7320-2011-09-14",
+        "c": "HU",
+        "n": "Lucid Dream - Hommage á Endre Rozsda",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Budapest",
+        "o": "Várfok Gallery",
+        "d": [
+          "2011-09-14",
+          "2011-10-08"
+        ]
+      },
+      {
+        "i": "28750-17717-2011-09-24",
+        "c": "US",
+        "n": "Face Time",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Albany, TX",
+        "o": "The Old Jail Art Center",
+        "d": [
+          "2011-09-24",
+          "2012-01-22"
+        ]
+      },
+      {
+        "i": "28750-12570-2011-06-12",
+        "c": "US",
+        "n": "Françoise Gilot",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Oceanside, CA",
+        "o": "Oceanside Museum of Art (OMA)",
+        "d": [
+          "2011-06-12",
+          "2011-11-13"
+        ]
+      },
+      {
+        "i": "28750-607-2011-11-27",
+        "c": "DE",
+        "n": "Françoise Gilot - Zeichnungen 1941 - 2010",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Chemnitz",
+        "o": "Kunstsammlungen Chemnitz",
+        "d": [
+          "2011-11-27",
+          "2012-02-19"
+        ]
+      },
+      {
+        "i": "28750-7320-2011-11-29",
+        "c": "HU",
+        "n": "Françoise Gilot: Confessions In Colour",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Budapest",
+        "o": "Várfok Gallery",
+        "d": [
+          "2011-11-29",
+          "2012-01-14"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "28750-17717-2011-09-24",
+        "c": "US",
+        "n": "Face Time",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Albany, TX",
+        "o": "The Old Jail Art Center",
+        "d": [
+          "2011-09-24",
+          "2012-01-22"
+        ]
+      },
+      {
+        "i": "28750-2267-2012-05-02",
+        "c": "US",
+        "n": "Picasso and Françoise Gilot: Paris-Vallauris 1943-1953",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Gagosian Gallery ",
+        "d": [
+          "2012-05-02",
+          "2012-06-30"
+        ]
+      },
+      {
+        "i": "28750-607-2011-11-27",
+        "c": "DE",
+        "n": "Françoise Gilot - Zeichnungen 1941 - 2010",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Chemnitz",
+        "o": "Kunstsammlungen Chemnitz",
+        "d": [
+          "2011-11-27",
+          "2012-02-19"
+        ]
+      },
+      {
+        "i": "28750-7320-2011-11-29",
+        "c": "HU",
+        "n": "Françoise Gilot: Confessions In Colour",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Budapest",
+        "o": "Várfok Gallery",
+        "d": [
+          "2011-11-29",
+          "2012-01-14"
+        ]
+      },
+      {
+        "i": "28750-12937-2012-05-05",
+        "c": "US",
+        "n": "Françoise Gilot: A Print Retrospective From the Patrick and Jackie Terrail Collection",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Tarpon Springs, FL",
+        "o": "Leepa-Rattner Museum of Art",
+        "d": [
+          "2012-05-05",
+          "2012-07-07"
+        ]
+      },
+      {
+        "i": "28750-13612-2012-05-10",
+        "c": "US",
+        "n": "European Prints From The Lasm Collection",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Baton Rouge, LA",
+        "o": "Louisiana Art & Science Museum",
+        "d": [
+          "2012-05-10",
+          "2012-08-19"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "28750-7320-2013-03-22",
+        "c": "HU",
+        "n": "Diving Lines",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Budapest",
+        "o": "Várfok Gallery",
+        "d": [
+          "2013-03-22",
+          "2013-05-11"
+        ]
+      }
+    ],
+    "2005": [
+      {
+        "i": "28750-7320-2005-05-25",
+        "c": "HU",
+        "n": "Françoise Gilot",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Budapest",
+        "o": "Várfok Gallery",
+        "d": [
+          "2005-05-25",
+          "2005-07-27"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "28750-7320-2007-05-31",
+        "c": "HU",
+        "n": "Françoise Gilot: New paintings",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Budapest",
+        "o": "Várfok Gallery",
+        "d": [
+          "2007-05-31",
+          "2007-07-27"
+        ]
+      },
+      {
+        "i": "28750-21510-2007-10-18",
+        "c": "US",
+        "n": "Françoise Gilot: Compositions, 2002-2005",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "New York Studio School",
+        "d": [
+          "2007-10-18",
+          "2007-12-01"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "28750-7320-2009-10-15",
+        "c": "HU",
+        "n": "Françoise Gilot",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Budapest",
+        "o": "Várfok Gallery",
+        "d": [
+          "2009-10-15",
+          "2009-11-21"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "77500",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:35:31",
+  "name": "Olga Boldyreff",
+  "surname": "Boldyreff",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Nantes (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1957",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "16163",
+  "r01": "14411",
+  "r02": "16770",
+  "r03": "14620",
+  "r04": "12374",
+  "r05": "10752",
+  "r06": "9208",
+  "r07": "10514",
+  "r08": "8319",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1998",
+  "all-shows-total": "18",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (4)",
+  "2005-shows-with": "Olga Boldyreff (2)",
+  "representing-galleries": null,
+  "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France)",
+  "first_name": "Olga",
+  "last_name": "Boldyreff",
+  "genre": "f",
+  "birthDate": "1957-01-01",
+  "age": 57,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "77500-2625-2007-01-19",
+        "c": "HU",
+        "n": "The Measure of Sensibility - Selection from the collection of the Frac d^es Pays de la Loire",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Budapest",
+        "o": "Ludwig Museum - Museum of Contemporary Art - Budapest",
+        "d": [
+          "2007-01-19",
+          "2007-03-11"
+        ]
+      },
+      {
+        "i": "77500-17449-2007-03-31",
+        "c": "TH",
+        "n": "Métissages",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bangkok",
+        "o": "Jim Thompson Art Center",
+        "d": [
+          "2007-03-31",
+          "2007-06-17"
+        ]
+      },
+      {
+        "i": "77500-12895-2007-08-22",
+        "c": "FI",
+        "n": "Conversations - peinture.fr//maalaus.fi",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Kerava",
+        "o": "Kerava Art Museum",
+        "d": [
+          "2007-08-22",
+          "2007-10-21"
+        ]
+      },
+      {
+        "i": "77500-9295-2007-10-12",
+        "c": "SE",
+        "n": "Art, kind of!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Västerås",
+        "o": "Västeras Konstmuseum",
+        "d": [
+          "2007-10-12",
+          "2008-01-31"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "77500-9295-2007-10-12",
+        "c": "SE",
+        "n": "Art, kind of!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Västerås",
+        "o": "Västeras Konstmuseum",
+        "d": [
+          "2007-10-12",
+          "2008-01-31"
+        ]
+      }
+    ],
+    "2005": [
+      {
+        "i": "77500-24752-2005-09-09",
+        "c": "BE",
+        "n": "Les Clandestines",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Hasselt",
+        "o": "CIAP",
+        "d": [
+          "2005-09-09",
+          "2005-11-13"
+        ]
+      }
+    ]
+  }
+}

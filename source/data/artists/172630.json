@@ -1,0 +1,118 @@
+{
+  "id": "172630",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:13:32",
+  "name": "Yves Bresson",
+  "surname": "Bresson",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Saint-Etienne (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1950",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography",
+  "r00": "23843",
+  "r01": "22143",
+  "r02": "19980",
+  "r03": "19112",
+  "r04": "33352",
+  "r05": "54405",
+  "r06": "47472",
+  "r07": "41147",
+  "r08": "34341",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1984",
+  "all-shows-total": "8",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (2), Greece (1), Hungary (1), Italy (1), South Korea (1)",
+  "2005-shows-with": "Yves Bresson (6), Barthélémy Toguo (6), Carlos Garaicoa (5), Siobhán Hapaska (5), Kimsooja (5), Lois Weinberger (5), Marina Bolla (4), Danica Dakic (4), Marina Abramovic (3), Alice Aycock (3), Ruth Barabash (3), Frauke Boggasch (3), Louise Bourgeois (3), Tony Cragg (3), Latifa Echakhch (3), Jan Fabre (3), Hans-Peter Feldmann (3), Gloria Friedmann (3), Gilbert & George (3), Ugo Giletta (3), Rebecca Horn (3), Ilya Kabakov (3), Anselm Kiefer (3), Jannis Kounellis (3), Denisa Lehocká (3), Maria Loizidou (3), Richard Long (3), Liliana Moro (3), Natsuyuki Nakanishi (3), Maurizio Nannucci (3), Luigi Ontani (3), Dennis Oppenheim (3), Orlan (3), Michelangelo Pistoletto (3), Lucas Samaras (3), Stefanos Tsivopoulos (3), Costas Tsoclis (3), Mamoru Tsukada (3), Günther Uecker (3), Massimo Bartolini (2), Rebecca Bournigault (2), Davide Cantoni (2), Alice Cattaneo (2), Loris Cecchini (2), Roland Flexner (2), Andrea Fogli (2), Francesco Gennari (2), Paolo Grassino (2), Kevin Francis Gray (2), Bernd Koller (2), Jan Kopp ",
+  "representing-galleries": null,
+  "collecting-museums": "Musée d'Art moderne de Saint-Etienne (La Terrasse, 42000 Saint-Etienne, France)",
+  "first_name": "Yves",
+  "last_name": "Bresson",
+  "genre": "m",
+  "birthDate": "1950-01-01",
+  "age": 64,
+  "age_range": "46-55",
+  "expos": {
+    "2009": [
+      {
+        "i": "172630-21348-2009-12-22",
+        "c": "KR",
+        "n": "Fragile",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Daejeon",
+        "o": "Daejeon Museum of Art",
+        "d": [
+          "2009-12-22",
+          "2010-03-21"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "172630-21348-2009-12-22",
+        "c": "KR",
+        "n": "Fragile",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Daejeon",
+        "o": "Daejeon Museum of Art",
+        "d": [
+          "2009-12-22",
+          "2010-03-21"
+        ]
+      },
+      {
+        "i": "172630-3752-2010-03-13",
+        "c": "IT",
+        "n": "Isola mai trovate / Islands never found",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Genoa",
+        "o": "Palazzo Ducale",
+        "d": [
+          "2010-03-13",
+          "2010-06-13"
+        ]
+      },
+      {
+        "i": "172630-8538-2010-06-28",
+        "c": "GR",
+        "n": "Isole mai Trovate – Islands never found",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Thessaloniki",
+        "o": "Greek State Museum of Contemporary Art",
+        "d": [
+          "2010-06-28",
+          "2010-11-28"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "172630-13715-2011-01-21",
+        "c": "HU",
+        "n": "Promenade Project Budapest – Place Value in Contemporary Art",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Budapest",
+        "o": "Kogart House",
+        "d": [
+          "2011-01-21",
+          "2011-02-27"
+        ]
+      }
+    ]
+  }
+}

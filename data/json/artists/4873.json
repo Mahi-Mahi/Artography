@@ -1,0 +1,468 @@
+{
+  "id": "4873",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:04:39",
+  "name": "Jean Mauboulès",
+  "surname": "Mauboulès",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Poey de Lescar, Pyrénées-Atlantiqu. (FR)",
+  "birth day": "16",
+  "birth month": "8",
+  "birth year": "1943",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Sculpture, Watercolor",
+  "r00": "10616",
+  "r01": "10900",
+  "r02": "9870",
+  "r03": "10037",
+  "r04": "10385",
+  "r05": "12966",
+  "r06": "12293",
+  "r07": "10212",
+  "r08": "9409",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1979",
+  "all-shows-total": "46",
+  "2005-shows-biennials": "15",
+  "2005-shows-galleries": "15",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "Switzerland (11), Germany (10)",
+  "2005-shows-with": "Jean Mauboulès (12), Gisela Hoffmann (3), Hans-Jörg Glattfelder (2), Stefan Kauffungen (2), müller-emil (2), Gert Riel (2), Sigurd Rompza (2), Mette Stausland (2), Marie-Thérèse Vacossin (2), Roland Werro (2), Oscar Wiggli (2)",
+  "representing-galleries": "Galerie Renate Kammer (Münzplatz 11, 20097 Hamburg, Germany); März Galerie (Beethovenstr. 18, 68165 Mannheim, Germany); Gudrun Spielvogel Galerie & Edition (Maximilianstrasse 45, 80538 Munich, Germany); Contemporanea Galerie für moderne Kunst (Lerchenweg 26, 54331 Oberbillig, Germany); galerie konkret martin woern (Hauptstr. 29, 79295 Sulzburg, Germany); Galerie Margit Haldemann (Brunngasse 14 / Brunngasshalde 31, 3000 Bern, Switzerland); Haus der Kunst St. Josef (Baselstr. 27, 4500 Solothurn, Switzerland); Galerie Carmen Weber (Seestr. 15, 6300 Zug, Switzerland); Galerie Werner Bommer (Kirchgasse 25, 8001 Zurich, Switzerland); Galerie Rosenberg (Staffelstrasse 12, 8045 Zurich, Switzerland)",
+  "collecting-museums": "Museum Bellerive (Höschgasse 3, 8008 Zurich, Switzerland)",
+  "first_name": "Jean",
+  "last_name": "Mauboulès",
+  "genre": "m",
+  "birthDate": "1943-08-16",
+  "age": 70,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "4873-7061-2005-05-08",
+        "c": "CH",
+        "n": "Fil Rouge in Progress",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Erlach",
+        "o": "Galerie René Steiner",
+        "d": [
+          "2005-05-08",
+          "2005-07-03"
+        ]
+      },
+      {
+        "i": "4873-26855-2005-06-18",
+        "c": "CH",
+        "n": "En plein air - Kunst im Aussenraum.",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Feldbrunnen-St. Niklaus",
+        "o": "Museum Schloss Waldegg",
+        "d": [
+          "2005-06-18",
+          "2005-10-01"
+        ]
+      },
+      {
+        "i": "4873-4315-2005-10-19",
+        "c": "CH",
+        "n": "Jean Mauboulès - Skulpturen/Reliefs",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Bern",
+        "o": "Galerie Margit Haldemann",
+        "d": [
+          "2005-10-19",
+          "2005-11-13"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "4873-26856-2006-04-29",
+        "c": "CH",
+        "n": "141 Künstlerinnen und Künstler zur Liebe",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Biberist",
+        "o": "Schlösschen Vorder-Bleichenberg",
+        "d": [
+          "2006-04-29",
+          "2006-05-21"
+        ]
+      },
+      {
+        "i": "4873-16145-2006-08-12",
+        "c": "DE",
+        "n": "20 Jahre Galerie Friege",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Remscheid",
+        "o": "Galerie der Stadt Remscheid",
+        "d": [
+          "2006-08-12",
+          "2006-09-17"
+        ]
+      },
+      {
+        "i": "4873-2109-2006-09-02",
+        "c": "CH",
+        "n": "Plastiken und Skulpturen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Solothurn",
+        "o": "Haus der Kunst St. Josef",
+        "d": [
+          "2006-09-02",
+          "2006-10-01"
+        ]
+      },
+      {
+        "i": "4873-4254-2006-03-23",
+        "c": "CH",
+        "n": "Jean Mauboulès",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Basel",
+        "o": "Galerie Ueker & Ueker",
+        "d": [
+          "2006-03-23",
+          "2006-04-22"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "4873-4315-2007-05-03",
+        "c": "CH",
+        "n": "Jubiläumsausstellung 5/5: Peter Stein / Jean Mauboulès",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bern",
+        "o": "Galerie Margit Haldemann",
+        "d": [
+          "2007-05-03",
+          "2007-06-03"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "4873-4315-2008-10-23",
+        "c": "CH",
+        "n": "Linie und Raum",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bern",
+        "o": "Galerie Margit Haldemann",
+        "d": [
+          "2008-10-23",
+          "2008-12-06"
+        ]
+      },
+      {
+        "i": "4873-5024-2008-11-24",
+        "c": "DE",
+        "n": "Jean Mauboulès - Glas. Installation",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Mannheim",
+        "o": "März Galerie",
+        "d": [
+          "2008-11-24",
+          "2009-01-17"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "4873-4387-2009-02-17",
+        "c": "CH",
+        "n": "Bewegter Stillstand",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Solothurn",
+        "o": "Kunstmuseum Solothurn",
+        "d": [
+          "2009-02-17",
+          "2009-04-17"
+        ]
+      },
+      {
+        "i": "4873-5024-2009-09-18",
+        "c": "DE",
+        "n": "XIII. Galerientage im Kunstverein Mannheim",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mannheim",
+        "o": "März Galerie",
+        "d": [
+          "2009-09-18",
+          "2009-09-20"
+        ]
+      },
+      {
+        "i": "4873-5024-2009-11-06",
+        "c": "DE",
+        "n": "Papierarbeiten",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mannheim",
+        "o": "März Galerie",
+        "d": [
+          "2009-11-06",
+          "2009-12-19"
+        ]
+      },
+      {
+        "i": "4873-17195-2009-12-05",
+        "c": "DE",
+        "n": "1/1 ...... 1/100 - Editionen aus Deutschland, den Niederlanden und der Schweiz",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bonn",
+        "o": "Gesellschaft für Kunst und Gestaltung",
+        "d": [
+          "2009-12-05",
+          "2010-01-24"
+        ]
+      },
+      {
+        "i": "4873-5024-2008-11-24",
+        "c": "DE",
+        "n": "Jean Mauboulès - Glas. Installation",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Mannheim",
+        "o": "März Galerie",
+        "d": [
+          "2008-11-24",
+          "2009-01-17"
+        ]
+      },
+      {
+        "i": "4873-23507-2009-01-24",
+        "c": "CH",
+        "n": "Jean Mauboulès",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie Rosenberg",
+        "d": [
+          "2009-01-24",
+          "2009-03-07"
+        ]
+      },
+      {
+        "i": "4873-5024-2009-03-27",
+        "c": "DE",
+        "n": "Jean Mauboulès - Installation",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Mannheim",
+        "o": "März Galerie",
+        "d": [
+          "2009-03-27",
+          "2009-05-16"
+        ]
+      },
+      {
+        "i": "4873-23541-2009-10-15",
+        "c": "DE",
+        "n": "Jean Mauboulès - Bewegter Stillstand / Mouvement arrêté",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Hamburg",
+        "o": "Galerie Renate Kammer",
+        "d": [
+          "2009-10-15",
+          "2009-11-14"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "4873-17195-2009-12-05",
+        "c": "DE",
+        "n": "1/1 ...... 1/100 - Editionen aus Deutschland, den Niederlanden und der Schweiz",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bonn",
+        "o": "Gesellschaft für Kunst und Gestaltung",
+        "d": [
+          "2009-12-05",
+          "2010-01-24"
+        ]
+      },
+      {
+        "i": "4873-21184-2010-03-06",
+        "c": "DE",
+        "n": "2. Internationaler André-Evard-Kunstpreis der Messmer Foundation",
+        "st": "Group",
+        "t": "Private Collection",
+        "ct": "Riegel",
+        "o": "Kunsthalle Messmer",
+        "d": [
+          "2010-03-06",
+          "2010-05-23"
+        ]
+      },
+      {
+        "i": "4873-4387-2010-05-22",
+        "c": "CH",
+        "n": "Hommage an die Solothurner Sammlerin Liliane Benziger-Schild (1913–2009)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Solothurn",
+        "o": "Kunstmuseum Solothurn",
+        "d": [
+          "2010-05-22",
+          "2010-09-05"
+        ]
+      },
+      {
+        "i": "4873-113-2010-09-10",
+        "c": "DE",
+        "n": "Jean Mauboulès",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Gudrun Spielvogel Galerie & Edition",
+        "d": [
+          "2010-09-10",
+          "2010-11-27"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "4873-4387-2011-01-15",
+        "c": "CH",
+        "n": "In erster Linie - Zeitgenössische Zeichnungen aus der Sammlung des Kunstmuseums Solothurn",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Solothurn",
+        "o": "Kunstmuseum Solothurn",
+        "d": [
+          "2011-01-15",
+          "2011-04-25"
+        ]
+      },
+      {
+        "i": "4873-4315-2011-03-22",
+        "c": "CH",
+        "n": "30 Jahre Galerie Margit Haldemann 30 Künstlerinnen und Künstler Part 2",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bern",
+        "o": "Galerie Margit Haldemann",
+        "d": [
+          "2011-03-22",
+          "2011-04-09"
+        ]
+      },
+      {
+        "i": "4873-6776-2011-10-09",
+        "c": "DE",
+        "n": "schweiz konkret",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sulzburg",
+        "o": "galerie konkret martin woern",
+        "d": [
+          "2011-10-09",
+          "2011-11-13"
+        ]
+      },
+      {
+        "i": "4873-4315-2011-01-15",
+        "c": "CH",
+        "n": "Jean Mauboulès: Skulpturen, Glascollagen, Reliefs, Zeichnungen",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Bern",
+        "o": "Galerie Margit Haldemann",
+        "d": [
+          "2011-01-15",
+          "2011-02-12"
+        ]
+      },
+      {
+        "i": "4873-7520-2011-11-12",
+        "c": "CH",
+        "n": "Jean Mauboulès",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Biel/Bienne",
+        "o": "Art-Etage",
+        "d": [
+          "2011-11-12",
+          "2011-12-10"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "4873-7520-2012-02-04",
+        "c": "CH",
+        "n": "Gruppenausstellung mit Ku&#776;nstlern der Galerie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Biel/Bienne",
+        "o": "Art-Etage",
+        "d": [
+          "2012-02-04",
+          "2012-02-18"
+        ]
+      },
+      {
+        "i": "4873-23507-2012-04-13",
+        "c": "CH",
+        "n": "Jean Mauboulès",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie Rosenberg",
+        "d": [
+          "2012-04-13",
+          "2012-05-26"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "4873-5024-2013-09-13",
+        "c": "DE",
+        "n": "raumgreifend",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mannheim",
+        "o": "März Galerie",
+        "d": [
+          "2013-09-13",
+          "2013-10-19"
+        ]
+      },
+      {
+        "i": "4873-6085-2013-06-09",
+        "c": "CH",
+        "n": "Jean Mauboulès",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Grenchen",
+        "o": "Kunsthaus Grenchen",
+        "d": [
+          "2013-06-09",
+          "2013-09-29"
+        ]
+      }
+    ]
+  }
+}

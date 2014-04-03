@@ -1,0 +1,77 @@
+{
+  "id": "98146",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:43:49",
+  "name": "Gilles Suffren",
+  "surname": "Suffren",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Aix-en-Provence (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1953",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Sculpture, Ceramic Art",
+  "r00": "42456",
+  "r01": "38872",
+  "r02": "34898",
+  "r03": "30987",
+  "r04": "32233",
+  "r05": "27692",
+  "r06": "24147",
+  "r07": "21693",
+  "r08": "32887",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (2), Netherlands (1)",
+  "2005-shows-with": "Daphné Corregan (2), Gilles Suffren (2)",
+  "representing-galleries": "Galerie Sandrine Mons (8, rue Dalpozzo, 06000 Nice, France)",
+  "collecting-museums": null,
+  "first_name": "Gilles",
+  "last_name": "Suffren",
+  "genre": "m",
+  "birthDate": "1953-01-01",
+  "age": 61,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "98146-1608-2006-09-08",
+        "c": "DE",
+        "n": "Gilles Suffren - Skulpturen",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Bochum",
+        "o": "Galerie m Bochum",
+        "d": [
+          "2006-09-08",
+          "2006-11-01"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "98146-3269-2010-01-09",
+        "c": "NL",
+        "n": "Gilles Suffren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Delft",
+        "o": "Galerie Terra Delft",
+        "d": [
+          "2010-01-09",
+          "2010-02-06"
+        ]
+      }
+    ]
+  }
+}

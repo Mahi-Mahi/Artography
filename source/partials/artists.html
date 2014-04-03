@@ -30,44 +30,49 @@
 	<div class="main clearfix">
 
 		<div class="sidebar left-sidebar">
-			<form action="about:blank">
 
-				<fieldset>
-					<legend>Genre</legend>
-					<ul class="unstyled filter">
-						<li ng-repeat="genre in genres">
-							<input type="checkbox" ng-model="genre.checked" id="genre-{{genre.slug}}" ng-change="updateFilters()" />
-							<label for="genre-{{genre.slug}}">
-								{{genre.name}}
-							</label>
-						</li>
-					</ul>
-				</fieldset>
+			<div class="sidebar-inner">
 
-				<fieldset>
-					<legend>Âge</legend>
-					<ul class="unstyled filter">
-						<li ng-repeat="age in ages">
-							<input type="checkbox" ng-model="age.checked" id="age-{{age.slug}}" ng-change="updateFilters()" />
-							<label for="age-{{age.slug}}">
-								{{age.name}}
-							</label>
-						</li>
-					</ul>
-				</fieldset>
+				<form action="about:blank">
 
-				<fieldset>
-					<legend>Période</legend>
-					<ul class="unstyled filter">
-						<li ng-repeat="period in periods">
-							<input type="radio" name="period" id="period-{{period.slug}}" value="{{period.slug}}" ng-model="$parent.filters.period" {period.checked} />
-							<label for="period-{{period.slug}}">
-								{{period.name}}
-							</label>
-						</li>
-					</ul>
-				</fieldset>
-			</form>
+					<fieldset>
+						<legend>Genre</legend>
+						<ul class="unstyled filter">
+							<li ng-repeat="genre in genres">
+								<input type="checkbox" ng-model="genre.checked" id="genre-{{genre.slug}}" ng-change="updateFilters()" />
+								<label for="genre-{{genre.slug}}">
+									{{genre.name}}
+								</label>
+							</li>
+						</ul>
+					</fieldset>
+
+					<fieldset>
+						<legend>Âge</legend>
+						<ul class="unstyled filter">
+							<li ng-repeat="age in ages">
+								<input type="checkbox" ng-model="age.checked" id="age-{{age.slug}}" ng-change="updateFilters()" />
+								<label for="age-{{age.slug}}">
+									{{age.name}}
+								</label>
+							</li>
+						</ul>
+					</fieldset>
+
+					<fieldset>
+						<legend>Période</legend>
+						<ul class="unstyled filter">
+							<li ng-repeat="period in periods">
+								<input type="radio" name="period" id="period-{{period.slug}}" value="{{period.slug}}" ng-model="$parent.filters.period" {period.checked} />
+								<label for="period-{{period.slug}}">
+									{{period.name}}
+								</label>
+							</li>
+						</ul>
+					</fieldset>
+				</form>
+
+			</div>
 
 		</div><!-- .left-sidebar -->
 
@@ -91,5 +96,7 @@
 			</div><!-- .right-sidebar -->
 		</div><!-- .content -->
 	</div><!-- .main -->
+
+	<div class="credits" ng-include="'/partials/credits.html'"></div><!-- .credits -->
 
 </div><!-- .wrapper -->

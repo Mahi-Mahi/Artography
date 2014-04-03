@@ -86,7 +86,7 @@ years = []
 af_artists = fetch('/v0/artist/list')
 
 
-af_artists.shuffle.slice(0,500).each do |artist|
+af_artists.shuffle.slice(0,5000).each do |artist|
 
 	name = artist['name'].split(/ /)
 	artist[:first_name] = name[0]
@@ -206,12 +206,11 @@ end
 
 FileUtils.rm_rf("json/.", secure: true)
 
-
 years.uniq!.sort!.reverse!
 # Years
-	filename = "json/years.json"
-	content = production ? years.to_json : JSON.pretty_generate(years)
-	File.open(filename, 'w') { |file| file.write content }
+filename = "json/years.json"
+content = production ? years.to_json : JSON.pretty_generate(years)
+File.open(filename, 'w') { |file| file.write content }
 
 # Countries
 continents.each do |continent, countries|

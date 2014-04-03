@@ -1,0 +1,107 @@
+{
+  "id": "38262",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:19:26",
+  "name": "Jean Gaumy",
+  "surname": "Gaumy",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "(FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1948",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography",
+  "r00": "39247",
+  "r01": "35199",
+  "r02": "30871",
+  "r03": "28378",
+  "r04": "24428",
+  "r05": "21536",
+  "r06": "35522",
+  "r07": "29486",
+  "r08": "24571",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1976",
+  "all-shows-total": "13",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "Germany (1), Netherlands (1), Portugal (1)",
+  "2005-shows-with": "Henri Cartier-Bresson (2), Jean Gaumy (2), Guy le Querrec (2)",
+  "representing-galleries": "Magnum Photos Paris (19 rue Hegesippe Moreau, 75018 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Jean",
+  "last_name": "Gaumy",
+  "genre": "m",
+  "birthDate": "1948-01-01",
+  "age": 66,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "38262-3571-2005-04-09",
+        "c": "DE",
+        "n": "Magnum sees Piemonte",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Frankfurt/Main",
+        "o": "FFI - Fotografie Forum international",
+        "d": [
+          "2005-04-09",
+          "2005-05-29"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "38262-2332-2008-02-08",
+        "c": "NL",
+        "n": "MAGNUM - 60 Years of Photoqraphy",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amsterdam",
+        "o": "Stedelijk Museum Amsterdam",
+        "d": [
+          "2008-02-08",
+          "2008-05-12"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "38262-14381-2009-04-01",
+        "c": "PT",
+        "n": "Invisões",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Porto",
+        "o": "Centro Português de Fotografia / Portuguese Center of Photography",
+        "d": [
+          "2009-04-01",
+          "2009-10-01"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "38262-22091-2011-03-22",
+        "c": "DE",
+        "n": "Jean Gaumy - photography",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "CLAIR",
+        "d": [
+          "2011-03-22",
+          "2011-04-30"
+        ]
+      }
+    ]
+  }
+}

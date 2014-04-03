@@ -1,0 +1,118 @@
+{
+  "id": "161947",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:09:23",
+  "name": "Luna Paiva",
+  "surname": "Paiva",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1980",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "37765",
+  "r01": "35426",
+  "r02": "45954",
+  "r03": "54999",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2010",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "Argentina (3), Switzerland (2)",
+  "2005-shows-with": "Luna Paiva (4), Madeleine Berkhemer (2), Martín Di Girolamo (2), Alexa Meade (2)",
+  "representing-galleries": "Galería Braga Menéndez Arte Contemporáneo (Humboldt 1574, C1414CTN Buenos Aires, Argentina); connect contemporary art (Kirchgasse 25, CH-9500 Wil, Switzerland); Ivo Kamm (Bellerivestrasse 10, CH-8008 Zurich, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Luna",
+  "last_name": "Paiva",
+  "genre": "f",
+  "birthDate": "1980-01-01",
+  "age": 34,
+  "age_range": "26-35",
+  "expos": {
+    "2011": [
+      {
+        "i": "161947-2934-2011-05-17",
+        "c": "AR",
+        "n": "Paraguay Rapé",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Buenos Aires",
+        "o": "Centro Cultural Recoleta",
+        "d": [
+          "2011-05-17",
+          "2011-06-12"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "161947-2318-2012-06-14",
+        "c": "AR",
+        "n": "Ultimas tendencias II",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Buenos Aires",
+        "o": "MAMBA - Museo de Arte Moderno de Buenos Aires",
+        "d": [
+          "2012-06-14",
+          "2012-09-14"
+        ]
+      },
+      {
+        "i": "161947-26744-2012-08-31",
+        "c": "CH",
+        "n": "Performing the Body",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Ivo Kamm",
+        "d": [
+          "2012-08-31",
+          "2012-11-10"
+        ]
+      },
+      {
+        "i": "161947-26196-2012-08-31",
+        "c": "CH",
+        "n": "Performing The Body",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Wil",
+        "o": "connect contemporary art",
+        "d": [
+          "2012-08-31",
+          "2012-11-10"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "161947-2934-2010-05-07",
+        "c": "AR",
+        "n": "Vida de Diva",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Buenos Aires",
+        "o": "Centro Cultural Recoleta",
+        "d": [
+          "2010-05-07",
+          "2010-05-30"
+        ]
+      }
+    ]
+  }
+}

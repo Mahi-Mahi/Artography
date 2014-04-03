@@ -1,0 +1,77 @@
+{
+  "id": "100853",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:44:49",
+  "name": "Fabien Claude",
+  "surname": "Claude",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "(FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1960",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "71722",
+  "r01": "68613",
+  "r02": "63439",
+  "r03": "58322",
+  "r04": "52372",
+  "r05": "46874",
+  "r06": "40724",
+  "r07": "77184",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": null,
+  "2005-shows-with": null,
+  "representing-galleries": "Galerie M Beck / Edition Monika Beck (Schwedenhof Am Römermuseum, 66424 Homburg/Saar, Germany)",
+  "collecting-museums": null,
+  "first_name": "Fabien",
+  "last_name": "Claude",
+  "genre": "c",
+  "birthDate": "1960-01-01",
+  "age": 54,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "100853-1152-2006-05-21",
+        "c": "DE",
+        "n": "Le combat des mots",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Homburg/Saar",
+        "o": "Galerie M Beck / Edition Monika Beck",
+        "d": [
+          "2006-05-21",
+          "2006-06-28"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "100853-2281-2007-06-01",
+        "c": "BE",
+        "n": "Cardiogramme",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Liège",
+        "o": "MAMAC Musée d´Art Moderne et Contemporain",
+        "d": [
+          "2007-06-01",
+          "2007-07-08"
+        ]
+      }
+    ]
+  }
+}

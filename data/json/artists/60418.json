@@ -1,0 +1,161 @@
+{
+  "id": "60418",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:28:32",
+  "name": "France Cadet",
+  "surname": "Cadet",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1971",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "34322",
+  "r01": "34547",
+  "r02": "31270",
+  "r03": "28860",
+  "r04": "26169",
+  "r05": "22786",
+  "r06": "29331",
+  "r07": "42939",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (3), China (2), USA (2), Germany (1), Spain (1)",
+  "2005-shows-with": "France Cadet (9), Pierre-Laurent Cassière (3), Félicie d'Estienne d'Orves (3), Scenocosme (3), Aaajiao (2), Grégory Chatonsky (2), Du Zhenjun (2), Hu Jieming (2), Lin Junting (2), Laurent Pernot (2), Olivier Ratsi (2), Antoine Schmitt (2), Pierrick Sorin (2), Wang Chung-Kun (2), Wu Juehui (2), Yao Chung-Han (2), Zhang Liaoyuan (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "France",
+  "last_name": "Cadet",
+  "genre": "m",
+  "birthDate": "1971-01-01",
+  "age": 43,
+  "age_range": "36-45",
+  "expos": {
+    "2006": [
+      {
+        "i": "60418-2664-2006-01-27",
+        "c": "ES",
+        "n": "META.morfosis - El museo y el arte en la era digital",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Badajoz",
+        "o": "Museo Extremeño e Iberoamericano de Arte Contemporáneo MEIAC",
+        "d": [
+          "2006-01-27",
+          "2006-06-01"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "60418-2666-2007-05-03",
+        "c": "ES",
+        "n": "BIOS 4. Arte biotecnológico y ambiental",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Sevilla",
+        "o": "Centro Andaluz de Arte Contemporáneo (CAAC)",
+        "d": [
+          "2007-05-03",
+          "2007-09-02"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "60418-12658-2008-01-25",
+        "c": "US",
+        "n": "Urban Living",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Pittsburg, PA",
+        "o": "Wood Street Galleries",
+        "d": [
+          "2008-01-25",
+          "2008-04-05"
+        ]
+      },
+      {
+        "i": "60418-12042-2008-04-18",
+        "c": "ES",
+        "n": "Homo Ludens Ludens",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2008-04-18",
+          "2008-09-22"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "60418-2655-2010-02-02",
+        "c": "DE",
+        "n": "GaMe!",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "DAM GALLERY Berlin",
+        "d": [
+          "2010-02-02",
+          "2010-03-24"
+        ]
+      },
+      {
+        "i": "60418-2102-2010-05-27",
+        "c": "US",
+        "n": "Ten Years Hunting - [Part Three]: The Trophy Room",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Parker´s Box",
+        "d": [
+          "2010-05-27",
+          "2010-05-30"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "60418-28956-2011-06-28",
+        "c": "CN",
+        "n": "Augmented Senses",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Shanghai",
+        "o": "OCT Contemporary Art Terminal (OCAT)",
+        "d": [
+          "2011-06-28",
+          "2011-07-31"
+        ]
+      },
+      {
+        "i": "60418-28957-2011-08-12",
+        "c": "CN",
+        "n": "Augmented Senses",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Shenzhen",
+        "o": "OCT Art & Design Gallery",
+        "d": [
+          "2011-08-12",
+          "2011-09-11"
+        ]
+      }
+    ]
+  }
+}

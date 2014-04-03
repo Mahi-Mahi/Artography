@@ -1,0 +1,90 @@
+{
+  "id": "56627",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:26:54",
+  "name": "Olivier Passieux",
+  "surname": "Passieux",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Lyon (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1973",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "47275",
+  "r01": "46170",
+  "r02": "43983",
+  "r03": "39865",
+  "r04": "43119",
+  "r05": "45236",
+  "r06": "48100",
+  "r07": "67683",
+  "r08": "58621",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "10",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (3), Russia (2)",
+  "2005-shows-with": "Iris Levasseur (2), Olivier Passieux (2), Florence Reymond (2)",
+  "representing-galleries": "Galerie Catherine et André Hug (9, rue d l\\'Echaudé, 75006 Paris, France); Galerie Iragui  Moscou-Paris (7 -7-5  Malaya Polyanka, 119180  Moscow, Russia)",
+  "collecting-museums": null,
+  "first_name": "Olivier",
+  "last_name": "Passieux",
+  "genre": "m",
+  "birthDate": "1973-01-01",
+  "age": 41,
+  "age_range": "36-45",
+  "expos": {
+    "2012": [
+      {
+        "i": "56627-5148-2012-11-23",
+        "c": "RU",
+        "n": "Intermonde - Olivier Passieux",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Moscow",
+        "o": "Galerie Iragui  Moscou-Paris",
+        "d": [
+          "2012-11-23",
+          "2013-01-26"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "56627-5148-2012-11-23",
+        "c": "RU",
+        "n": "Intermonde - Olivier Passieux",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Moscow",
+        "o": "Galerie Iragui  Moscou-Paris",
+        "d": [
+          "2012-11-23",
+          "2013-01-26"
+        ]
+      },
+      {
+        "i": "56627-5148-2013-11-23",
+        "c": "RU",
+        "n": "Olivier Passieux",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Moscow",
+        "o": "Galerie Iragui  Moscou-Paris",
+        "d": [
+          "2013-11-23",
+          "2013-01-26"
+        ]
+      }
+    ]
+  }
+}

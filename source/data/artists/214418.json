@@ -1,0 +1,198 @@
+{
+  "id": "214418",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:29:23",
+  "name": "Louise Hervé & Chloé Maillet",
+  "surname": "Hervé & Chloé Maillet",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1981",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Artist group",
+  "media": null,
+  "r00": "4797",
+  "r01": "6461",
+  "r02": "12384",
+  "r03": "21094",
+  "r04": "64834",
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2009",
+  "all-shows-total": "30",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "13",
+  "2005-countries-total": "France (21), Switzerland (2), Austria (1), Belgium (1), Canada (1), Germany (1), Portugal (1), United Kingdom (1), USA (1)",
+  "2005-shows-with": "Louise Hervé & Chloé Maillet (20), Jorge Pedro Núñez (4), Neil Beloufa (3), Camille Henrot (3), Benoît Maire (3), Benoit-Marie Moriceau (3), Jean-Luc Moulène (3), Alexandre Singh (3), Mathieu Kleyebe Abonnenc (2), Wilfrid Almendra (2), Meris Angioletti (2), Bertille Bak (2), Gerry Bibby (2), Pierre Bismuth (2), Gaëlle Boucand (2), Pauline Boudry & Renate Lorenz (2), Daniel Buren (2), Antoine Catala (2), Etienne Chambaud (2), Mathis Collins (2), Isabelle Cornaro (2), Edith Dekyndt (2), Marcelline Delbecq (2), Jason Dodge (2), Peter Friedl (2), André Guedes (2), Raymond Hains (2), Emmanuelle Lainé (2), Louise Lawler (2), Laurent Le Deunff (2), Seulgi Lee (2), Jochen Lempert (2), Ariane Michel (2), Nicolas Milhé (2), Roman Ondák (2), Gerald Petit (2), Lili Reynaud Dewar (2), Jorge Satorre (2), Denis Savary (2), Julien Tiberi (2), Marie Voignier (2), Virginie Yassef (2)",
+  "representing-galleries": "Marcelle Alix (4 rue Jouye-Rouve, 75020 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Louise",
+  "last_name": "Hervé",
+  "genre": "c",
+  "birthDate": "1981-01-01",
+  "age": 33,
+  "age_range": "26-35",
+  "expos": {
+    "2009": [
+      {
+        "i": "214418-7506-2009-04-08",
+        "c": "AT",
+        "n": "Le Troisième Lieu – Der Dritte Ort/The Third Place",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Graz",
+        "o": "Grazer Kunstverein",
+        "d": [
+          "2009-04-08",
+          "2009-06-06"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "214418-20522-2011-11-04",
+        "c": "US",
+        "n": "Riding The Frothing Thread: Notes From Paris",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "JAUS",
+        "d": [
+          "2011-11-04",
+          "2012-01-08"
+        ]
+      },
+      {
+        "i": "214418-2290-2011-11-25",
+        "c": "CH",
+        "n": "Les Marques Aveugles",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Centre d´Art Contemporain Geneve",
+        "d": [
+          "2011-11-25",
+          "2012-01-22"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "214418-20522-2011-11-04",
+        "c": "US",
+        "n": "Riding The Frothing Thread: Notes From Paris",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "JAUS",
+        "d": [
+          "2011-11-04",
+          "2012-01-08"
+        ]
+      },
+      {
+        "i": "214418-2290-2011-11-25",
+        "c": "CH",
+        "n": "Les Marques Aveugles",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Centre d´Art Contemporain Geneve",
+        "d": [
+          "2011-11-25",
+          "2012-01-22"
+        ]
+      },
+      {
+        "i": "214418-10739-2012-09-28",
+        "c": "PT",
+        "n": "Dig Dig: Digging For Culture In A Crashing Economy",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Lisbon",
+        "o": "Plataforma Revólver",
+        "d": [
+          "2012-09-28",
+          "2012-11-03"
+        ]
+      },
+      {
+        "i": "214418-1134-2012-03-10",
+        "c": "DE",
+        "n": "Louise Herve & Chloe Maillet - Pythagoras And The Monsters",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Braunschweig",
+        "o": "Kunstverein Braunschweig",
+        "d": [
+          "2012-03-10",
+          "2012-05-20"
+        ]
+      },
+      {
+        "i": "214418-6160-2012-09-09",
+        "c": "CH",
+        "n": "The Exoretic Wall",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Glarus",
+        "o": "Kunsthaus Glarus",
+        "d": [
+          "2012-09-09",
+          "2012-11-18"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "214418-8566-2013-02-02",
+        "c": "GB",
+        "n": "Version Control",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bristol (England)",
+        "o": "Arnolfini",
+        "d": [
+          "2013-02-02",
+          "2013-04-14"
+        ]
+      },
+      {
+        "i": "214418-27771-2013-03-07",
+        "c": "BE",
+        "n": "Collection Centre national des arts plastiques",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "CENTRALE for contemporary art",
+        "d": [
+          "2013-03-07",
+          "2013-06-09"
+        ]
+      },
+      {
+        "i": "214418-12004-2013-01-26",
+        "c": "CA",
+        "n": "Scholar’s Rock",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Vancouver, BC",
+        "o": "CAG - Vancouver Contemporary Art Gallery",
+        "d": [
+          "2013-01-26",
+          "2013-02-03"
+        ]
+      }
+    ]
+  }
+}

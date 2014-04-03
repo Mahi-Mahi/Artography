@@ -1,0 +1,161 @@
+{
+  "id": "214134",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:29:17",
+  "name": "Samuel Coisne",
+  "surname": "Coisne",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1980",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "42772",
+  "r01": "40437",
+  "r02": "41569",
+  "r03": "64346",
+  "r04": "68257",
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2009",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "Belgium (7)",
+  "2005-shows-with": "Samuel Coisne (6), Marie-Laure Delaby (2), Céline Depré (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Samuel",
+  "last_name": "Coisne",
+  "genre": "m",
+  "birthDate": "1980-01-01",
+  "age": 34,
+  "age_range": "26-35",
+  "expos": {
+    "2009": [
+      {
+        "i": "214134-10177-2009-04-18",
+        "c": "BE",
+        "n": "A sick world",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "GALERIE FREDERIC DESIMPEL",
+        "d": [
+          "2009-04-18",
+          "2009-05-16"
+        ]
+      },
+      {
+        "i": "214134-27772-2009-04-25",
+        "c": "BE",
+        "n": "Samuel Coisne",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "B-Gallery",
+        "d": [
+          "2009-04-25",
+          "2009-05-16"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "214134-17028-2010-05-08",
+        "c": "BE",
+        "n": "Cité. Tussen de gedroomde en de beleefde stad.",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bruges",
+        "o": "Cultuurcentrum Brugge",
+        "d": [
+          "2010-05-08",
+          "2010-07-04"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "214134-6152-2011-09-22",
+        "c": "BE",
+        "n": "Exposition Celebration(s)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "Argos",
+        "d": [
+          "2011-09-22",
+          "2011-12-17"
+        ]
+      },
+      {
+        "i": "214134-17028-2011-12-18",
+        "c": "BE",
+        "n": "Brugge/mons: Parcours",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bruges",
+        "o": "Cultuurcentrum Brugge",
+        "d": [
+          "2011-12-18",
+          "2012-01-30"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "214134-17028-2011-12-18",
+        "c": "BE",
+        "n": "Brugge/mons: Parcours",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bruges",
+        "o": "Cultuurcentrum Brugge",
+        "d": [
+          "2011-12-18",
+          "2012-01-30"
+        ]
+      },
+      {
+        "i": "214134-8136-2012-06-09",
+        "c": "BE",
+        "n": "LandscapesCitiesPeople",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Aalst",
+        "o": "Netwerk - center for contemporary art",
+        "d": [
+          "2012-06-09",
+          "2012-08-26"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "214134-29609-2013-05-02",
+        "c": "BE",
+        "n": "Pour les siècles des siècles",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Namur",
+        "o": "Lieux-Communs Platform for contemporary art Namur",
+        "d": [
+          "2013-05-02",
+          "2013-05-19"
+        ]
+      }
+    ]
+  }
+}

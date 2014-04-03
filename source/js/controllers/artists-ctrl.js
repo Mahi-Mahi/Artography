@@ -6,6 +6,8 @@ define([], function() {
     return ['$scope', '$location', 'dataService',
         function($scope, $location, dataService) {
 
+            jQuery('body').removeClass('home');
+
             var years = dataService.data.years;
 
             // Artists list

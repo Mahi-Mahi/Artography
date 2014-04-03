@@ -1,0 +1,230 @@
+{
+  "id": "218952",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:31:12",
+  "name": "Jacques Louis Vidal",
+  "surname": "Vidal",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1982",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "19821",
+  "r01": "18519",
+  "r02": "26441",
+  "r03": "35608",
+  "r04": "32243",
+  "r05": "47102",
+  "r06": "64922",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "10",
+  "2005-shows-galleries": "10",
+  "2005-shows-museums": null,
+  "2005-countries-total": "USA (10), China (1)",
+  "2005-shows-with": "Jacques Louis Vidal (8), Ion Birch (2), Carolina Caycedo (2), Brian Faucette (2), Daniel Heidkamp (2), Nick Lowe (2), Annie Pearlman (2)",
+  "representing-galleries": "MARC JANCOU CONTEMPORARY (63, rue des Bains, 1205 Geneva, Switzerland); Marc Jancou Contemporary (524 West 24th Street, 10011 New York City, NY, USA)",
+  "collecting-museums": null,
+  "first_name": "Jacques",
+  "last_name": "Louis",
+  "genre": "m",
+  "birthDate": "1982-01-01",
+  "age": 32,
+  "age_range": "26-35",
+  "expos": {
+    "2008": [
+      {
+        "i": "218952-20937-2008-10-30",
+        "c": "US",
+        "n": "Heroes and Villains",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Marc Jancou Contemporary",
+        "d": [
+          "2008-10-30",
+          "2008-12-13"
+        ]
+      },
+      {
+        "i": "218952-13091-2008-09-12",
+        "c": "US",
+        "n": "I make my own luck",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Boston, MA",
+        "o": "LaMontagne Gallery",
+        "d": [
+          "2008-09-12",
+          "2008-10-22"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "218952-2966-2009-05-21",
+        "c": "US",
+        "n": "Commune",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Black & White Gallery",
+        "d": [
+          "2009-05-21",
+          "2009-06-27"
+        ]
+      },
+      {
+        "i": "218952-20937-2009-08-07",
+        "c": "US",
+        "n": "Careerists and Visionaries",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Marc Jancou Contemporary",
+        "d": [
+          "2009-08-07",
+          "2009-09-03"
+        ]
+      },
+      {
+        "i": "218952-20937-2009-11-04",
+        "c": "US",
+        "n": "Jacques Louis Vidal",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Marc Jancou Contemporary",
+        "d": [
+          "2009-11-04",
+          "2009-12-19"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "218952-13091-2010-07-24",
+        "c": "US",
+        "n": "Last Thursday",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Boston, MA",
+        "o": "LaMontagne Gallery",
+        "d": [
+          "2010-07-24",
+          "2010-08-13"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "218952-21546-2011-05-19",
+        "c": "US",
+        "n": "Romantic Agony",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Horton Gallery - Chelsea",
+        "d": [
+          "2011-05-19",
+          "2011-06-18"
+        ]
+      },
+      {
+        "i": "218952-20937-2011-08-04",
+        "c": "US",
+        "n": "SUMMER GROUP SHOW",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Marc Jancou Contemporary",
+        "d": [
+          "2011-08-04",
+          "2011-09-02"
+        ]
+      },
+      {
+        "i": "218952-20937-2011-02-09",
+        "c": "US",
+        "n": "Games People play",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Marc Jancou Contemporary",
+        "d": [
+          "2011-02-09",
+          "2011-03-12"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "218952-3460-2012-10-02",
+        "c": "CN",
+        "n": "9th Shanghai Biennale",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Shanghai",
+        "o": "Shanghai Biennale",
+        "d": [
+          "2012-10-02",
+          "2013-03-31"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "218952-3460-2012-10-02",
+        "c": "CN",
+        "n": "9th Shanghai Biennale",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Shanghai",
+        "o": "Shanghai Biennale",
+        "d": [
+          "2012-10-02",
+          "2013-03-31"
+        ]
+      },
+      {
+        "i": "218952-30147-2013-09-13",
+        "c": "US",
+        "n": "Draw Gym",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "247365",
+        "d": [
+          "2013-09-13",
+          "2013-10-09"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "218952-7905-2007-06-22",
+        "c": "US",
+        "n": "Jacques Louis Vidal - Wood Folks is Good Folks...",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Horton Gallery - Lower East Side",
+        "d": [
+          "2007-06-22",
+          "2007-07-22"
+        ]
+      }
+    ]
+  }
+}

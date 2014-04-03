@@ -1,0 +1,88 @@
+{
+  "id": "112864",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:49:39",
+  "name": "Beatrice Valentine Amrhein",
+  "surname": "Amrhein",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Wassy (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1968",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": "Video, Installation",
+  "r00": "59962",
+  "r01": "56769",
+  "r02": "51953",
+  "r03": "47498",
+  "r04": "42296",
+  "r05": "37543",
+  "r06": "32271",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": null,
+  "2005-shows-with": null,
+  "representing-galleries": "NextLevel (8, rue Charlot, 75003 Paris, France); Studio La Città (Lungadige Galtarossa 21, 37133 Verona, Italy); Marc de Puechredon (St. Johanns-Vorstadt 78, 4056 Basel, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Beatrice",
+  "last_name": "Valentine",
+  "genre": "f",
+  "birthDate": "1968-01-01",
+  "age": 46,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "112864-2672-2007-01-21",
+        "c": "US",
+        "n": "Cell Phone: Art and the Mobile Phone",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Baltimore, MD",
+        "o": "Contemporary Museum, Baltimore",
+        "d": [
+          "2007-01-21",
+          "2007-04-22"
+        ]
+      },
+      {
+        "i": "112864-6595-2007-06-03",
+        "c": "CH",
+        "n": "10 plus 10",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Basel",
+        "o": "Marc de Puechredon",
+        "d": [
+          "2007-06-03",
+          "2007-07-07"
+        ]
+      },
+      {
+        "i": "112864-8198-2007-10-20",
+        "c": "NL",
+        "n": "Video Vortex",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amsterdam",
+        "o": "NIMk - Netherlands Media Art Institute",
+        "d": [
+          "2007-10-20",
+          "2007-12-02"
+        ]
+      }
+    ]
+  }
+}

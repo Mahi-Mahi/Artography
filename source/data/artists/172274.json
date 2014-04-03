@@ -1,0 +1,107 @@
+{
+  "id": "172274",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:13:25",
+  "name": "Emilie Satre",
+  "surname": "Satre",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "St Germain-en-Laye (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "49587",
+  "r01": "54565",
+  "r02": "49859",
+  "r03": "45188",
+  "r04": "49078",
+  "r05": "62768",
+  "r06": "59314",
+  "r07": "56221",
+  "r08": "48105",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (5), Switzerland (2)",
+  "2005-shows-with": "Emilie Satre (5), Damien Guggenheim (2), Paula Mueller (2), Christian Vetter (2), Eric Winarto (2)",
+  "representing-galleries": "Galerie Jerome Ladiray (96 rue Jeanne d\\'Arc, 76000 Rouen, France)",
+  "collecting-museums": null,
+  "first_name": "Emilie",
+  "last_name": "Satre",
+  "genre": "c",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-35",
+  "expos": {
+    "2007": [
+      {
+        "i": "172274-15197-2007-12-15",
+        "c": "IT",
+        "n": "Premio Lissone 2007",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lissone",
+        "o": "Museo d`Arte Contemporanea Lissone",
+        "d": [
+          "2007-12-15",
+          "2008-01-27"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "172274-15197-2007-12-15",
+        "c": "IT",
+        "n": "Premio Lissone 2007",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lissone",
+        "o": "Museo d`Arte Contemporanea Lissone",
+        "d": [
+          "2007-12-15",
+          "2008-01-27"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "172274-20784-2010-12-10",
+        "c": "CH",
+        "n": "Dessin Aujourd’Hui et Demain 5",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "espace kugler - Art contemporain",
+        "d": [
+          "2010-12-10",
+          "2010-12-30"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "172274-12803-2013-01-17",
+        "c": "CH",
+        "n": "Utopie Picturale",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Petit-Saconnex",
+        "o": "La Villa Dutoit",
+        "d": [
+          "2013-01-17",
+          "2013-01-03"
+        ]
+      }
+    ]
+  }
+}

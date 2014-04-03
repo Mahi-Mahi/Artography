@@ -1,0 +1,77 @@
+{
+  "id": "321325",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 08:10:45",
+  "name": "Xavier Antin",
+  "surname": "Antin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1981",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "74110",
+  "r01": "71411",
+  "r02": "111252",
+  "r03": "110741",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2010",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (4), USA (1)",
+  "2005-shows-with": "Xavier Antin (4), Aurélien Mole (2), Julien Tiberi (2)",
+  "representing-galleries": "Galerie Crèvecoeur (4, rue Jouye-Rouve, 75020 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Xavier",
+  "last_name": "Antin",
+  "genre": "m",
+  "birthDate": "1981-01-01",
+  "age": 33,
+  "age_range": "26-35",
+  "expos": {
+    "2011": [
+      {
+        "i": "321325-20522-2011-11-04",
+        "c": "US",
+        "n": "Riding The Frothing Thread: Notes From Paris",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "JAUS",
+        "d": [
+          "2011-11-04",
+          "2012-01-08"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "321325-20522-2011-11-04",
+        "c": "US",
+        "n": "Riding The Frothing Thread: Notes From Paris",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "JAUS",
+        "d": [
+          "2011-11-04",
+          "2012-01-08"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "293139",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:59:57",
+  "name": "Antoine Aguilar",
+  "surname": "Aguilar",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "",
+  "birth day": "0",
+  "birth month": "0",
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "40647",
+  "r01": "47091",
+  "r02": "54899",
+  "r03": "95993",
+  "r04": "91416",
+  "r05": "84328",
+  "r06": "76351",
+  "r07": "68081",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Australia (3), Belgium (2), France (2)",
+  "2005-shows-with": "Antoine Aguilar (5), Nick Oberthaler (2)",
+  "representing-galleries": "general store for contemporary art (2/11 hughes st Potts Point,  Sydney, NSW, Australia); Galerie Hussenot (5 bis, rue des Haudriettes, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Antoine",
+  "last_name": "Aguilar",
+  "genre": "c",
+  "expos": {
+    "2010": [
+      {
+        "i": "293139-23646-2010-02-10",
+        "c": "AU",
+        "n": "Nympheas",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sydney, NSW",
+        "o": "general store for contemporary art",
+        "d": [
+          "2010-02-10",
+          "2010-02-21"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "293139-23646-2011-01-12",
+        "c": "AU",
+        "n": "During Business Hours",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sydney, NSW",
+        "o": "general store for contemporary art",
+        "d": [
+          "2011-01-12",
+          "2011-01-29"
+        ]
+      },
+      {
+        "i": "293139-1912-2011-01-15",
+        "c": "BE",
+        "n": "Antoine Aguilar - Sweet Pikadon",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Albert Baronian",
+        "d": [
+          "2011-01-15",
+          "2011-03-05"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "293139-23646-2012-03-01",
+        "c": "AU",
+        "n": "The Manner of Today",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Sydney, NSW",
+        "o": "general store for contemporary art",
+        "d": [
+          "2012-03-01",
+          "2012-03-25"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "293139-26843-2013-09-19",
+        "c": "BE",
+        "n": "Young Collectors",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "Maison Particulière Art Center",
+        "d": [
+          "2013-09-19",
+          "2013-12-15"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "293139-6958-2006-03-23",
+        "c": "CH",
+        "n": "snow",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Bern",
+        "o": "Marks Blond Project",
+        "d": [
+          "2006-03-23",
+          "2006-03-28"
+        ]
+      }
+    ]
+  }
+}

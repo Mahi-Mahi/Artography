@@ -1,0 +1,570 @@
+{
+  "id": "192864",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:21:03",
+  "name": "Antoine Catala",
+  "surname": "Catala",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Toulouse (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1975",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "5686",
+  "r01": "13293",
+  "r02": "20675",
+  "r03": "43043",
+  "r04": "41785",
+  "r05": "64560",
+  "r06": "86923",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": "aaaaaaa.org",
+  "all-shows-first": "2007",
+  "all-shows-total": "35",
+  "2005-shows-biennials": "19",
+  "2005-shows-galleries": "19",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "USA (16), Germany (7), United Kingdom (4), France (1), Italy (1), Netherlands (1), Russia (1), Spain (1), Sweden (1), Turkey (1)",
+  "2005-shows-with": "Antoine Catala (29), Trevor Shimizu (8), Josh Kline (7), Michele Abeles (5), André Butzer (5), Devon Costello (5), Dan Graham (5), Franka Kaßner (5), Anne Rößner (5), Frank Stürmer (5), Hans-Jörg Mayer (4), Berthold Reiß (4), Emanuel Seitz (4), Lorenz Straßl (4), Alexi Tsioris (4), Thomas Winkler (4), Andy Hope 1930 (3), Ed Atkins (3), Klaus Auderer (3), Robert Crotla (3), Simon Denny (3), Michael Hackel (3), Thilo Heinzmann (3), Margaret Lee (3), Tobias Madison (3), Takeshi Murata (3), Ken Okiishi (3), Markus Selg (3), Emanuel Wadé (3), Anicka Yi (3), Heimo Zobernig (3), Justin Almquist (2), Uri Aran (2), Darren Bader (2), Trisha Baga (2), Bara (2), Alisa Baremboym (2), Matthew Barney (2), David Baskin (2), Will Benedict (2), Bernadette Corporation (2), Gerry Bibby (2), Michael Biber (2), Shirin Botas (2), Quirin Bäumler (2), Sebastian Dacey (2), Katharina Daxenberger (2), Hansjörg Dobliar (2), Aleksandra Domanovic (2), Matthias Dornfeld (2), Sibylla Dumke (2), Hedwig Eberle (2), Shannon Ebner (2)",
+  "representing-galleries": "Galerie Christine Mayer (Liebigstrasse 39, 80538 Munich, Germany); 47 Canal (47 Canal Street, 2nd Floor, 10002 New York City, NY, USA)",
+  "collecting-museums": null,
+  "first_name": "Antoine",
+  "last_name": "Catala",
+  "genre": "m",
+  "birthDate": "1975-01-01",
+  "age": 39,
+  "age_range": "36-45",
+  "expos": {
+    "2007": [
+      {
+        "i": "192864-9128-2007-06-22",
+        "c": "US",
+        "n": "A.K.A.",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Culver City, CA",
+        "o": "Fette's Gallery",
+        "d": [
+          "2007-06-22",
+          "2007-07-28"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "192864-7380-2008-05-31",
+        "c": "US",
+        "n": "Mystery of the Invisible Clock",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "Karyn Lovegrove Gallery",
+        "d": [
+          "2008-05-31",
+          "2008-07-12"
+        ]
+      },
+      {
+        "i": "192864-2253-2008-09-26",
+        "c": "DE",
+        "n": "Trevor Shimizu, Josh Kline, Dean Kenning, Devon Costello, Antoine Catala: WORKSPACE",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Christine Mayer",
+        "d": [
+          "2008-09-26",
+          "2008-11-01"
+        ]
+      },
+      {
+        "i": "192864-4526-2008-11-14",
+        "c": "US",
+        "n": "PREDRIVE: After Technology",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Pittsburg, PA",
+        "o": "The Mattress Factory",
+        "d": [
+          "2008-11-14",
+          "2009-04-05"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "192864-4526-2008-11-14",
+        "c": "US",
+        "n": "PREDRIVE: After Technology",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Pittsburg, PA",
+        "o": "The Mattress Factory",
+        "d": [
+          "2008-11-14",
+          "2009-04-05"
+        ]
+      },
+      {
+        "i": "192864-19527-2009-02-27",
+        "c": "DE",
+        "n": "Das Winkelhuber Stipendium München",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Munich",
+        "o": "Weltraum",
+        "d": [
+          "2009-02-27",
+          "2009-03-02"
+        ]
+      },
+      {
+        "i": "192864-4423-2009-06-26",
+        "c": "US",
+        "n": "Time-life: part II",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Taxter & Spengemann",
+        "d": [
+          "2009-06-26",
+          "2009-07-31"
+        ]
+      },
+      {
+        "i": "192864-2253-2009-07-04",
+        "c": "DE",
+        "n": "MAGIC JACKPOT",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Christine Mayer",
+        "d": [
+          "2009-07-04",
+          "2009-08-08"
+        ]
+      },
+      {
+        "i": "192864-8760-2009-10-03",
+        "c": "TR",
+        "n": "The Lord Wink Award Istanbul",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Istanbul",
+        "o": "artSümer",
+        "d": [
+          "2009-10-03",
+          "2009-11-08"
+        ]
+      },
+      {
+        "i": "192864-22476-2009-11-05",
+        "c": "US",
+        "n": "Antler Necklace",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Portland, OR",
+        "o": "Half/Dozen Gallery",
+        "d": [
+          "2009-11-05",
+          "2009-11-28"
+        ]
+      },
+      {
+        "i": "192864-2073-2009-07-11",
+        "c": "US",
+        "n": "Antoine Catala - Couple in a Garden",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Chicago, IL",
+        "o": "Tony Wight Gallery (former Bodybuilder & Sportsman Gallery)",
+        "d": [
+          "2009-07-11",
+          "2009-07-31"
+        ]
+      },
+      {
+        "i": "192864-23373-2009-09-25",
+        "c": "US",
+        "n": "TV Show: Antoine Catala",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "179 Canal",
+        "d": [
+          "2009-09-25",
+          "2009-11-01"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "192864-16717-2011-04-08",
+        "c": "NL",
+        "n": "The New Psychedelica",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Eindhoven",
+        "o": "MU",
+        "d": [
+          "2011-04-08",
+          "2011-06-05"
+        ]
+      },
+      {
+        "i": "192864-2394-2011-09-08",
+        "c": "US",
+        "n": "Perfect Man II",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "White Columns",
+        "d": [
+          "2011-09-08",
+          "2011-10-15"
+        ]
+      },
+      {
+        "i": "192864-2394-2011-12-10",
+        "c": "US",
+        "n": "Looking Back / The 6th White Columns Annual",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "White Columns",
+        "d": [
+          "2011-12-10",
+          "2012-02-18"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "192864-2394-2011-12-10",
+        "c": "US",
+        "n": "Looking Back / The 6th White Columns Annual",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "White Columns",
+        "d": [
+          "2011-12-10",
+          "2012-02-18"
+        ]
+      },
+      {
+        "i": "192864-11350-2012-05-03",
+        "c": "US",
+        "n": "Surface Affect",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Miguel Abreu Gallery",
+        "d": [
+          "2012-05-03",
+          "2012-06-24"
+        ]
+      },
+      {
+        "i": "192864-22498-2012-05-30",
+        "c": "GB",
+        "n": "Minstrel & Chronicle",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Hannah Barry Gallery",
+        "d": [
+          "2012-05-30",
+          "2012-07-28"
+        ]
+      },
+      {
+        "i": "192864-2253-2012-07-07",
+        "c": "DE",
+        "n": "Summer Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Christine Mayer",
+        "d": [
+          "2012-07-07",
+          "2012-08-04"
+        ]
+      },
+      {
+        "i": "192864-8587-2012-09-15",
+        "c": "RU",
+        "n": "Things, Words and Consequences",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Moscow",
+        "o": "Moscow museum of modern art - MMOMA",
+        "d": [
+          "2012-09-15",
+          "2012-10-14"
+        ]
+      },
+      {
+        "i": "192864-23373-2012-10-09",
+        "c": "US",
+        "n": "Anyways at White Columns",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "179 Canal",
+        "d": [
+          "2012-10-09",
+          "2012-12-04"
+        ]
+      },
+      {
+        "i": "192864-10381-2012-11-16",
+        "c": "SE",
+        "n": "The Room",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Malmö",
+        "o": "Loyal",
+        "d": [
+          "2012-11-16",
+          "2012-12-14"
+        ]
+      },
+      {
+        "i": "192864-27358-2012-12-18",
+        "c": "US",
+        "n": "carriage trade benefit",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Carriage Trade",
+        "d": [
+          "2012-12-18",
+          "2013-01-15"
+        ]
+      },
+      {
+        "i": "192864-26692-2012-02-22",
+        "c": "US",
+        "n": "I See Catastrophes Ahead",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "47 Canal",
+        "d": [
+          "2012-02-22",
+          "2012-03-25"
+        ]
+      },
+      {
+        "i": "192864-2253-2012-05-26",
+        "c": "DE",
+        "n": "Antoine Catala - TV",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Christine Mayer",
+        "d": [
+          "2012-05-26",
+          "2012-06-30"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "192864-27358-2012-12-18",
+        "c": "US",
+        "n": "carriage trade benefit",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Carriage Trade",
+        "d": [
+          "2012-12-18",
+          "2013-01-15"
+        ]
+      },
+      {
+        "i": "192864-8566-2013-02-02",
+        "c": "GB",
+        "n": "Version Control",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bristol (England)",
+        "o": "Arnolfini",
+        "d": [
+          "2013-02-02",
+          "2013-04-14"
+        ]
+      },
+      {
+        "i": "192864-2250-2013-02-16",
+        "c": "GB",
+        "n": "The universal addressability of dumb things",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Hayward Gallery",
+        "d": [
+          "2013-02-16",
+          "2013-04-14"
+        ]
+      },
+      {
+        "i": "192864-27358-2013-03-09",
+        "c": "US",
+        "n": "The Pathos of Things",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Carriage Trade",
+        "d": [
+          "2013-03-09",
+          "2013-03-19"
+        ]
+      },
+      {
+        "i": "192864-2530-2013-04-23",
+        "c": "IT",
+        "n": "Empire State",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rome",
+        "o": "Palazzo delle Esposizioni",
+        "d": [
+          "2013-04-23",
+          "2013-07-11"
+        ]
+      },
+      {
+        "i": "192864-2394-2013-06-14",
+        "c": "US",
+        "n": "The Cat Show",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "White Columns",
+        "d": [
+          "2013-06-14",
+          "2013-07-27"
+        ]
+      },
+      {
+        "i": "192864-16445-2013-06-28",
+        "c": "US",
+        "n": "Antibody",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Lisa Cooley Fine Art",
+        "d": [
+          "2013-06-28",
+          "2013-07-26"
+        ]
+      },
+      {
+        "i": "192864-2253-2013-07-12",
+        "c": "DE",
+        "n": "If I had asked people what they wanted, they would have said faster horses",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Christine Mayer",
+        "d": [
+          "2013-07-12",
+          "2013-08-03"
+        ]
+      },
+      {
+        "i": "192864-3529-2013-09-07",
+        "c": "GB",
+        "n": "I\\'ll Be Your Mirror",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Herald St",
+        "d": [
+          "2013-09-07",
+          "2013-10-06"
+        ]
+      },
+      {
+        "i": "192864-356-2013-09-29",
+        "c": "DE",
+        "n": "Speculations on Anonymous Materials",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Kassel",
+        "o": "Kunsthalle Fridericianum",
+        "d": [
+          "2013-09-29",
+          "2014-02-23"
+        ]
+      },
+      {
+        "i": "192864-17368-2013-10-25",
+        "c": "ES",
+        "n": "5X5Castelló2013 - Premi Internacional D&#8217;Art Contemporani Diputació De Castelló",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Castellon de la Plana",
+        "o": "Espai d´Art Contemporani de Castelló - EACC",
+        "d": [
+          "2013-10-25",
+          "2014-01-12"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "192864-356-2013-09-29",
+        "c": "DE",
+        "n": "Speculations on Anonymous Materials",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Kassel",
+        "o": "Kunsthalle Fridericianum",
+        "d": [
+          "2013-09-29",
+          "2014-02-23"
+        ]
+      },
+      {
+        "i": "192864-17368-2013-10-25",
+        "c": "ES",
+        "n": "5X5Castelló2013 - Premi Internacional D&#8217;Art Contemporani Diputació De Castelló",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Castellon de la Plana",
+        "o": "Espai d´Art Contemporani de Castelló - EACC",
+        "d": [
+          "2013-10-25",
+          "2014-01-12"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "192864-23604-2010-10-08",
+        "c": "US",
+        "n": "Topologies",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Audio Visual Art (AVA)",
+        "d": [
+          "2010-10-08",
+          "2010-11-04"
+        ]
+      }
+    ]
+  }
+}

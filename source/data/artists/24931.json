@@ -1,0 +1,77 @@
+{
+  "id": "24931",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:13:39",
+  "name": "Alix le Méléder",
+  "surname": "Méléder",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "(FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1955",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "25818",
+  "r01": "23403",
+  "r02": "20758",
+  "r03": "18515",
+  "r04": "19647",
+  "r05": "16781",
+  "r06": "16503",
+  "r07": "13857",
+  "r08": "13149",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1997",
+  "all-shows-total": "13",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (3), USA (2)",
+  "2005-shows-with": "Alix le Méléder (3), Shirley Jaffe (2)",
+  "representing-galleries": "Galerie Zürcher - Paris (56, rue Chapon, 75003 Paris, France); Galerie Zürcher - New York (33 Bleecker Street, 10012 New York City, NY, USA)",
+  "collecting-museums": "Maison d’art contemporain Chaillioux - MACC (5 rue Julien Chaillioux, 94260 Fresnes, France); Musée d´Orsay (1, rue de Bellechasse, 62, rue de Lille, 75343 Paris, France)",
+  "first_name": "Alix",
+  "last_name": "le",
+  "genre": "c",
+  "birthDate": "1955-01-01",
+  "age": 59,
+  "age_range": "46-55",
+  "expos": {
+    "2010": [
+      {
+        "i": "24931-17130-2010-04-07",
+        "c": "US",
+        "n": "Devotion",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Galerie Zürcher - New York",
+        "d": [
+          "2010-04-07",
+          "2010-05-16"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "24931-17130-2011-05-23",
+        "c": "US",
+        "n": "Reverie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Galerie Zürcher - New York",
+        "d": [
+          "2011-05-23",
+          "2011-07-03"
+        ]
+      }
+    ]
+  }
+}

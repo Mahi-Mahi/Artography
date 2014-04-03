@@ -1,0 +1,860 @@
+{
+  "id": "21705",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:12:11",
+  "name": "Yona Friedman",
+  "surname": "Friedman",
+  "nationality": "FR, HU",
+  "nationality fr": "France, Hongrie",
+  "birth location": "Budapest (HU)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1923",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting, Video, Architecture, Animation, Film",
+  "r00": "768",
+  "r01": "816",
+  "r02": "774",
+  "r03": "822",
+  "r04": "1058",
+  "r05": "1532",
+  "r06": "1587",
+  "r07": "1622",
+  "r08": "1680",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1999",
+  "all-shows-total": "91",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
+  "2005-shows-museums": "40",
+  "2005-countries-total": "France (25), Germany (8), USA (7), Italy (6), Austria (3), Canada (2), Hungary (2), Netherlands (2), Poland (2), Russia (2), Slovenia (2), Spain (2), China (1), Iceland (1), Israel (1), Liechtenstein (1), Mexico (1), Romania (1), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Yona Friedman (52), Dan Graham (9), Jimmie Durham (8), Berdaguer & Péjus (6), Jean-Baptiste Decavèle (6), Robert Filliou (6), Aurélien Froment (6), Vito Acconci (5), Pierre Bismuth (5), Monica Bonvicini (5), Cyprien Gaillard (5), Liam Gillick (5), Joseph Grigely (5), Gordon Matta-Clark (5), Gustav Metzger (5), François Morellet (5), Tomas Saraceno (5), Wolfgang Tillmans (5), Francis Alys (4), Fia Backström (4), Élisabeth Ballet (4), Yves Bélorgey (4), Geta Bratescu (4), Daniel Buren (4), Maurizio Cattelan (4), Jordi Colomer (4), Cerith Wyn Evans (4), Claire Fontaine (4), Carlos Garaicoa (4), Dora García (4), Isa Genzken (4), João Maria Gusmão & Pedro Paiva (4), Vincent Lamouroux (4), Moshekwa Langa (4), Claude Lévêque (4), Corey McCorkle (4), Cildo Meireles (4), Roman Ondák (4), Huang Yong Ping (4), Seth Price (4), Tobias Rehberger (4), Robert Smithson (4), Kristina Solomoukha (4), Tatiana Trouvé (4), Raphaël Zarka (4), Lida Abdul (3), Carl Andre (3), Julieta Aranda (3), Roy Ascott (3), Tauba A",
+  "representing-galleries": "Galerie Kamel Mennour (60 rue Mazarine, 75006 Paris, France); Rosascape (99 rue du Faubourg du Temple, 75010 Paris, France)",
+  "collecting-museums": "Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); Muzeum Sztuki Nowoczesnej w Warszawie / Museum of Modern Art (ul. Pa&#324;ska  3, 00-124 Warsaw, Poland); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
+  "first_name": "Yona",
+  "last_name": "Friedman",
+  "genre": "m",
+  "birthDate": "1923-01-01",
+  "age": 91,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "21705-8214-2005-02-10",
+        "c": "IE",
+        "n": "Felons",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dublin",
+        "o": "RHA Gallery - Royal Hibernian Academy",
+        "d": [
+          "2005-02-10",
+          "2005-03-20"
+        ]
+      },
+      {
+        "i": "21705-7899-2005-06-09",
+        "c": "IT",
+        "n": "Yona Friedman",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Venice",
+        "o": "Fondazione Bevilacqua La Masa",
+        "d": [
+          "2005-06-09",
+          "2005-09-12"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "21705-7130-2006-09-07",
+        "c": "AT",
+        "n": "What is positive? Why?",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "WUK - Kunsthalle Exnergasse",
+        "d": [
+          "2006-09-07",
+          "2006-10-07"
+        ]
+      },
+      {
+        "i": "21705-1289-2006-09-17",
+        "c": "NL",
+        "n": "The Shadow Cabinet",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amsterdam",
+        "o": "de Appel arts centre",
+        "d": [
+          "2006-09-17",
+          "2006-10-15"
+        ]
+      },
+      {
+        "i": "21705-2666-2006-06-01",
+        "c": "ES",
+        "n": "Yona Friedman - Utopías Realizables",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Sevilla",
+        "o": "Centro Andaluz de Arte Contemporáneo (CAAC)",
+        "d": [
+          "2006-06-01",
+          "2006-09-01"
+        ]
+      },
+      {
+        "i": "21705-2382-2006-10-14",
+        "c": "IT",
+        "n": "Yona Friedman - A project for Mart",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Rovereto",
+        "o": "MART- Museo d'Arte Moderna e Contemporanea di Trento e Rovereto",
+        "d": [
+          "2006-10-14",
+          "2006-11-26"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "21705-13056-2007-06-23",
+        "c": "CH",
+        "n": "Habitat / Variations",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Bac - Bâtiment d’art contemporain",
+        "d": [
+          "2007-06-23",
+          "2007-09-02"
+        ]
+      },
+      {
+        "i": "21705-5631-2007-06-23",
+        "c": "CH",
+        "n": "Habitat / variations",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "CECCH - Centre d'édition contemporaine - Genève",
+        "d": [
+          "2007-06-23",
+          "2007-09-02"
+        ]
+      },
+      {
+        "i": "21705-3076-2007-02-24",
+        "c": "US",
+        "n": "Yona Friedman - About Cities",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "The Drawing Center",
+        "d": [
+          "2007-02-24",
+          "2007-04-07"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "21705-6190-2008-02-13",
+        "c": "IT",
+        "n": "M.A.P.",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "N.O.Gallery",
+        "d": [
+          "2008-02-13",
+          "2008-03-14"
+        ]
+      },
+      {
+        "i": "21705-1184-2008-04-03",
+        "c": "DE",
+        "n": "Architecture of Survival",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Sparwasser H Q - Forum for contemporary art",
+        "d": [
+          "2008-04-03",
+          "2008-04-27"
+        ]
+      },
+      {
+        "i": "21705-11912-2008-04-21",
+        "c": "MX",
+        "n": "Sueños de casa propia",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mexico City",
+        "o": "Casa del Lago",
+        "d": [
+          "2008-04-21",
+          "2008-06-22"
+        ]
+      },
+      {
+        "i": "21705-1284-2008-05-15",
+        "c": "IS",
+        "n": "Experiment Marathon Reykjavik",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Reykjavik",
+        "o": "Listasafn Reykjavikur - Reykjavík Art Museum",
+        "d": [
+          "2008-05-15",
+          "2008-08-24"
+        ]
+      },
+      {
+        "i": "21705-2309-2008-05-24",
+        "c": "IT",
+        "n": "Peripheral vision and collective body",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bolzano",
+        "o": "MUSEION - Museum für moderne und zeitgenössische Kunst ",
+        "d": [
+          "2008-05-24",
+          "2008-09-21"
+        ]
+      },
+      {
+        "i": "21705--2008-09-01",
+        "c": "IL",
+        "n": "One Land and Platform Paradise",
+        "st": "Group",
+        "t": null,
+        "ct": "Ein Hod",
+        "o": null,
+        "d": [
+          "2008-09-01",
+          "2008-09-07"
+        ]
+      },
+      {
+        "i": "21705-11561-2008-10-09",
+        "c": "SI",
+        "n": "Old Masters",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Ljubljana",
+        "o": "P74 Gallery",
+        "d": [
+          "2008-10-09",
+          "2008-10-31"
+        ]
+      },
+      {
+        "i": "21705-2411-2008-10-18",
+        "c": "GB",
+        "n": "Manifesto Marathon",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Serpentine Gallery",
+        "d": [
+          "2008-10-18",
+          "2008-10-19"
+        ]
+      },
+      {
+        "i": "21705-3208-2008-03-21",
+        "c": "DE",
+        "n": "Yona Friedman",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Frankfurt/Main",
+        "o": "Portikus",
+        "d": [
+          "2008-03-21",
+          "2008-05-04"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "21705-2367-2009-06-07",
+        "c": "IT",
+        "n": "53nd International Art Exhibition Venice Biennale / Biennale di Venezia",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Venice",
+        "o": "La Biennale di Venezia",
+        "d": [
+          "2009-06-07",
+          "2009-11-22"
+        ]
+      },
+      {
+        "i": "21705-852-2009-06-19",
+        "c": "AT",
+        "n": "Die Moderna als Ruine - Eine Archäologie der Gegenwart",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Vienna",
+        "o": "Generali Foundation",
+        "d": [
+          "2009-06-19",
+          "2009-09-20"
+        ]
+      },
+      {
+        "i": "21705-2417-2009-08-10",
+        "c": "PL",
+        "n": "Unusually rare events / Distribution of Noovantgarde",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Warsaw",
+        "o": " Centre for Contemporary Art Ujazdowski Castle",
+        "d": [
+          "2009-08-10",
+          "2009-09-20"
+        ]
+      },
+      {
+        "i": "21705-2390-2009-10-02",
+        "c": "LI",
+        "n": "DIE MODERNE ALS RUINE. Eine Archäologie der Gegenwart",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vaduz",
+        "o": "Kunstmuseum Liechtenstein",
+        "d": [
+          "2009-10-02",
+          "2010-01-17"
+        ]
+      },
+      {
+        "i": "21705-12883-2009-12-12",
+        "c": "CA",
+        "n": "FAX",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Winnipeg, Manitoba",
+        "o": "Plug In Institute of Contemporary Art",
+        "d": [
+          "2009-12-12",
+          "2010-02-21"
+        ]
+      },
+      {
+        "i": "21705-199-2009-10-31",
+        "c": "IT",
+        "n": "Yona Friedman",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brescia",
+        "o": "Galleria Massimo Minini",
+        "d": [
+          "2009-10-31",
+          "2010-01-09"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "21705-2390-2009-10-02",
+        "c": "LI",
+        "n": "DIE MODERNE ALS RUINE. Eine Archäologie der Gegenwart",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vaduz",
+        "o": "Kunstmuseum Liechtenstein",
+        "d": [
+          "2009-10-02",
+          "2010-01-17"
+        ]
+      },
+      {
+        "i": "21705-12883-2009-12-12",
+        "c": "CA",
+        "n": "FAX",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Winnipeg, Manitoba",
+        "o": "Plug In Institute of Contemporary Art",
+        "d": [
+          "2009-12-12",
+          "2010-02-21"
+        ]
+      },
+      {
+        "i": "21705-9399-2010-01-16",
+        "c": "US",
+        "n": "FAX",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Torrance, CA",
+        "o": "Torrance Art Museum",
+        "d": [
+          "2010-01-16",
+          "2010-02-20"
+        ]
+      },
+      {
+        "i": "21705-9556-2010-01-31",
+        "c": "NL",
+        "n": "Upcycling: Up to You",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "The Hague",
+        "o": "Stroom Den Haag",
+        "d": [
+          "2010-01-31",
+          "2010-03-28"
+        ]
+      },
+      {
+        "i": "21705-9046-2010-02-05",
+        "c": "US",
+        "n": "Spatial city: the architecture of idealism",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Milwaukee, WI",
+        "o": "INOVA - Institute of Visual Arts",
+        "d": [
+          "2010-02-05",
+          "2010-04-18"
+        ]
+      },
+      {
+        "i": "21705-12966-2010-02-06",
+        "c": "CN",
+        "n": "FAX",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hong Kong, SAR",
+        "o": "Para/Site Art Space",
+        "d": [
+          "2010-02-06",
+          "2010-04-01"
+        ]
+      },
+      {
+        "i": "21705-2392-2010-02-10",
+        "c": "ES",
+        "n": "Malas Calles",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Valencia",
+        "o": "IVAM - Institut Valencià d'Art Modern",
+        "d": [
+          "2010-02-10",
+          "2010-05-09"
+        ]
+      },
+      {
+        "i": "21705-996-2010-04-16",
+        "c": "AT",
+        "n": "Eckhard Schulze-Fielitz und Yona Friedman",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bregenz",
+        "o": "Kunsthaus Bregenz",
+        "d": [
+          "2010-04-16",
+          "2010-07-03"
+        ]
+      },
+      {
+        "i": "21705-9333-2010-05-23",
+        "c": "US",
+        "n": "Spatial City: An Architecture of Idealism",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Chicago, IL",
+        "o": "Hyde Park Art Center",
+        "d": [
+          "2010-05-23",
+          "2010-08-08"
+        ]
+      },
+      {
+        "i": "21705-6768-2010-06-26",
+        "c": "IT",
+        "n": "XIV Biennale Internazionale di Scultura di Carrara",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Carrara",
+        "o": "Biennale di Sculture di Carrara",
+        "d": [
+          "2010-06-26",
+          "2010-10-31"
+        ]
+      },
+      {
+        "i": "21705-8587-2010-09-07",
+        "c": "RU",
+        "n": "Res Publica",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Moscow",
+        "o": "Moscow museum of modern art - MMOMA",
+        "d": [
+          "2010-09-07",
+          "2010-10-17"
+        ]
+      },
+      {
+        "i": "21705-9487-2010-09-10",
+        "c": "US",
+        "n": "Spatial City: An Architecture of Idealism",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Detroit, MI",
+        "o": "Museum of Contemporay Art Detroit",
+        "d": [
+          "2010-09-10",
+          "2010-12-30"
+        ]
+      },
+      {
+        "i": "21705-10928-2010-10-22",
+        "c": "IT",
+        "n": "Terre Vulnerabili – a growing exhibition",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Milan",
+        "o": "Hangar Bicocca | spazio d’arte contemporanea",
+        "d": [
+          "2010-10-22",
+          "2011-05-29"
+        ]
+      },
+      {
+        "i": "21705-9302-2010-10-29",
+        "c": "DE",
+        "n": "Channel TV",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Hamburg",
+        "o": "Kunstverein Harburger Bahnhof",
+        "d": [
+          "2010-10-29",
+          "2010-12-19"
+        ]
+      },
+      {
+        "i": "21705-199-2009-10-31",
+        "c": "IT",
+        "n": "Yona Friedman",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brescia",
+        "o": "Galleria Massimo Minini",
+        "d": [
+          "2009-10-31",
+          "2010-01-09"
+        ]
+      },
+      {
+        "i": "21705-662-2010-01-15",
+        "c": "DE",
+        "n": "Yona Friedman&#8232;",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Neugerriemschneider",
+        "d": [
+          "2010-01-15",
+          "2010-01-23"
+        ]
+      },
+      {
+        "i": "21705-13751-2010-04-10",
+        "c": "DE",
+        "n": "Euro-city",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "A trans Pavillon",
+        "d": [
+          "2010-04-10",
+          "2010-05-30"
+        ]
+      },
+      {
+        "i": "21705-15219-2010-09-16",
+        "c": "HU",
+        "n": "Yona Friedman",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Budapest",
+        "o": "Trafo House of Contemporary Art",
+        "d": [
+          "2010-09-16",
+          "2010-10-31"
+        ]
+      },
+      {
+        "i": "21705-1189-2010-10-25",
+        "c": "SI",
+        "n": "Yona Friedman: Around the Ville Spatiale",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Ljubljana",
+        "o": "Moderna galerija Ljubljana",
+        "d": [
+          "2010-10-25",
+          "2010-11-28"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "21705-10928-2010-10-22",
+        "c": "IT",
+        "n": "Terre Vulnerabili – a growing exhibition",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Milan",
+        "o": "Hangar Bicocca | spazio d’arte contemporanea",
+        "d": [
+          "2010-10-22",
+          "2011-05-29"
+        ]
+      },
+      {
+        "i": "21705-3104-2011-01-24",
+        "c": "RO",
+        "n": "Architecture Dessins Utopies",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2011-01-24",
+          "2011-04-20"
+        ]
+      },
+      {
+        "i": "21705-10855-2011-04-14",
+        "c": "CH",
+        "n": "Merz World: Yona Friedman & Tomas Saraceno",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Zurich",
+        "o": "Cabaret Voltaire",
+        "d": [
+          "2011-04-14",
+          "2011-08-21"
+        ]
+      },
+      {
+        "i": "21705-996-2011-04-16",
+        "c": "AT",
+        "n": "KUB Arena",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bregenz",
+        "o": "Kunsthaus Bregenz",
+        "d": [
+          "2011-04-16",
+          "2011-07-03"
+        ]
+      },
+      {
+        "i": "21705-2625-2011-10-29",
+        "c": "HU",
+        "n": "Yona Friedman. Architecture without building",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Budapest",
+        "o": "Ludwig Museum - Museum of Contemporary Art - Budapest",
+        "d": [
+          "2011-10-29",
+          "2012-02-05"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "21705-3123-2012-09-14",
+        "c": "NL",
+        "n": "Architecture without building",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Middelburg",
+        "o": "De Vleeshal",
+        "d": [
+          "2012-09-14",
+          "2012-10-28"
+        ]
+      },
+      {
+        "i": "21705-22236-2012-09-21",
+        "c": "US",
+        "n": "Let\\'s talk peace! A Dog Republic",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "Ludlow 38",
+        "d": [
+          "2012-09-21",
+          "2012-10-28"
+        ]
+      },
+      {
+        "i": "21705-2625-2011-10-29",
+        "c": "HU",
+        "n": "Yona Friedman. Architecture without building",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Budapest",
+        "o": "Ludwig Museum - Museum of Contemporary Art - Budapest",
+        "d": [
+          "2011-10-29",
+          "2012-02-05"
+        ]
+      },
+      {
+        "i": "21705-18325-2012-06-28",
+        "c": "DE",
+        "n": "handbuch",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Chert",
+        "d": [
+          "2012-06-28",
+          "2012-07-14"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "21705-28121-2013-01-19",
+        "c": "DE",
+        "n": "A Dog Republic",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Esther Donatz",
+        "d": [
+          "2013-01-19",
+          "2013-02-23"
+        ]
+      },
+      {
+        "i": "21705-6026-2013-01-30",
+        "c": "US",
+        "n": "Dialogues",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "West Hollywood, CA",
+        "o": "MAK Center for Art and Architecture",
+        "d": [
+          "2013-01-30",
+          "2013-04-16"
+        ]
+      },
+      {
+        "i": "21705-1203-2013-05-04",
+        "c": "US",
+        "n": "Adhocracy",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "New Museum of Contemporary Art",
+        "d": [
+          "2013-05-04",
+          "2013-07-07"
+        ]
+      },
+      {
+        "i": "21705-15834-2013-05-14",
+        "c": "PL",
+        "n": "In The Heart Of The Country - The Collection Of The Museum Of Modern Art In Warsaw",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Warsaw",
+        "o": "Muzeum Sztuki Nowoczesnej w Warszawie / Museum of Modern Art",
+        "d": [
+          "2013-05-14",
+          "2013-01-06"
+        ]
+      },
+      {
+        "i": "21705-11590-2013-06-22",
+        "c": "DE",
+        "n": "12. Triennale Kleinplastik - v",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Fellbach",
+        "o": "Triennale Kleinplastik Fellbach",
+        "d": [
+          "2013-06-22",
+          "2013-09-26"
+        ]
+      },
+      {
+        "i": "21705-7848-2013-09-07",
+        "c": "CA",
+        "n": "Numbers in the Dark",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lethbridge, Alberta",
+        "o": "The Southern Alberta Art Gallery - SAAG",
+        "d": [
+          "2013-09-07",
+          "2014-02-02"
+        ]
+      },
+      {
+        "i": "21705-2918-2013-09-20",
+        "c": "RU",
+        "n": "5th Moscow Biennale of Contemporary Art - Bolshe Sveta / More Light",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Moscow",
+        "o": "Moscow Biennale of contemporary art",
+        "d": [
+          "2013-09-20",
+          "2013-10-20"
+        ]
+      },
+      {
+        "i": "21705-2034-2013-04-24",
+        "c": "ES",
+        "n": "Yona Friedman",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Madrid",
+        "o": "Galería Elba Benítez",
+        "d": [
+          "2013-04-24",
+          "2013-06-15"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "21705-7848-2013-09-07",
+        "c": "CA",
+        "n": "Numbers in the Dark",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lethbridge, Alberta",
+        "o": "The Southern Alberta Art Gallery - SAAG",
+        "d": [
+          "2013-09-07",
+          "2014-02-02"
+        ]
+      }
+    ]
+  }
+}

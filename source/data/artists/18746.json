@@ -1,0 +1,92 @@
+{
+  "id": "18746",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:11:00",
+  "name": "Gilles Marrey",
+  "surname": "Marrey",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Vendôme (FR)",
+  "birth day": null,
+  "birth month": null,
+  "birth year": "1963",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "49081",
+  "r01": "47049",
+  "r02": "42649",
+  "r03": "38625",
+  "r04": "34120",
+  "r05": "33592",
+  "r06": "28646",
+  "r07": "46345",
+  "r08": "39163",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1992",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (1), USA (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "Caldwell Snyder Gallery - New York (451 West Broadway, 10012 New York City, NY, USA); Caldwell Snyder Gallery - San Francisco (341 Sutter Street, 94108 San Francisco, CA, USA)",
+  "collecting-museums": "FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Frissiras Museum (3  Monis Asteriou,  Plaka Athens, Greece); Daelim Contemporary Art Museum (35-1 Tongy-Dong Chongro-Go, 110-040 Seoul, South Korea)",
+  "first_name": "Gilles",
+  "last_name": "Marrey",
+  "genre": "m",
+  "birthDate": "1963-01-01",
+  "age": 51,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "18746-2582-2005-12-22",
+        "c": "GR",
+        "n": "Anthropography III",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2005-12-22",
+          "2006-07-30"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "18746-2582-2005-12-22",
+        "c": "GR",
+        "n": "Anthropography III",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2005-12-22",
+          "2006-07-30"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "18746-2123-2009-10-01",
+        "c": "US",
+        "n": "Gilles Marrey",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "San Francisco, CA",
+        "o": "Caldwell Snyder Gallery - San Francisco",
+        "d": [
+          "2009-10-01",
+          "2009-10-31"
+        ]
+      }
+    ]
+  }
+}
