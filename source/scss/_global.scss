@@ -693,9 +693,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 #canvas {
-	float:left;
-	// width: 600px;
-}
-svg {
-	// border: 1px red solid;
+	tspan, text {
+		font-family:'Tungsten-Book', Arial, Verdana, sans-serif !important; color:$default-color !important;
+	}
 }
