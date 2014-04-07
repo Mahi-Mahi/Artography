@@ -67,10 +67,12 @@ define([], function() {
 			var nb_countries = 0;
 			var max_expos = 0;
 
-			var canvasW = 700,
-				divW = 700,
-				canvasH = 700,
-				divH = 700;
+			var mainWidth = 500;
+
+			var canvasW = mainWidth,
+				divW = mainWidth,
+				canvasH = mainWidth,
+				divH = mainWidth;
 
 			var chart = new Raphael(document.getElementById('canvas'), canvasW, canvasH);
 
