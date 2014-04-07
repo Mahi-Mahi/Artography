@@ -67,8 +67,7 @@ define([], function() {
 			var nb_countries = 0;
 			var max_expos = 0;
 
-			var mainWidth = 500;
-
+			var mainWidth = jQuery('.content').width();
 			var canvasW = mainWidth,
 				divW = mainWidth,
 				canvasH = mainWidth,
