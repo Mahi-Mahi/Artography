@@ -39,9 +39,9 @@
 		</div><!-- .entry-content -->
 	</div><!-- .entry-header -->
 
-	<div class="main clearfix">
+	<div class="row main">
 
-		<div class="sidebar left-sidebar">
+		<div class="col sidebar left-sidebar">
 			<form action="about:blank">
 				<fieldset>
 					<legend>Genre</legend>
@@ -123,7 +123,7 @@
 
 		</div><!-- .left-sidebar -->
 
-		<div class="content">
+		<div class="col content">
 
 			<div class="content-block">
 				<p>
@@ -131,34 +131,34 @@
 					d'expositions à l'étranger
 				</p>
 			</div><!-- .content-block -->
-
-			<div class="right-sidebar artist-details-sidebar">
-				<form action="about:blank">
-					<input type="text" value="" class="input-sidebar" placeholder="Rechercher une exposition..." />
-					<ul class="unstyled">
-						<li class="exposition-item"><a href="#" class="colorA">Materializing "Six Years": Lucy R. Lippard and the Emergence of Conceptual Art</a></li>
-						<li class="exposition-item"><a href="#" class="colorB">A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond</a></li>
-						<li class="exposition-item"><a href="#" class="colorD">Una finestra sul mondo - Da Dürer a Mondrian e oltre</a></li>
-						<li class="exposition-item"><a href="#" class="colorC">Private Kunstsammlungen Münster - Director´s Choice</a></li>
-						<li class="exposition-item"><a href="#" class="colorD">Materializing "Six Years": Lucy R. Lippard and the Emergence of Conceptual Art</a></li>
-						<li class="exposition-item"><a href="#" class="colorC">A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond</a></li>
-						<li class="exposition-item"><a href="#" class="colorD">Una finestra sul mondo - Da Dürer a Mondrian e oltre</a></li>
-						<li class="exposition-item"><a href="#" class="colorB">Private Kunstsammlungen Münster - Director´s Choice</a></li>
-					</ul>
-				</form>
-
-				<div class="news-block">
-					<h2>Actualités</h2>
-					<ul class="unstyled">
-						<li class="news-block-item"><a href="#"><strong>Materializing Six Years: Lucy R. Lippard and the Emergence of Conceptual Art</strong> @New York -  USA / 2 février - 3 mars 2014 </a></li>
-						<li class="news-block-item"><a href="#"><strong>Una ﬁnestra sul mondo - Da Dürer a Mondrian e oltre</strong> @New York -  USA / 2 février - 3 mars 2014 </a></li>
-					</ul>
-				</div><!-- .news-block -->
-
-			</div><!-- .right-sidebar -->
-
 		</div><!-- .content -->
-	</div><!-- .main -->
+
+		<div class="col right-sidebar artist-details-sidebar">
+			<form action="about:blank">
+				<input type="text" value="" class="input-sidebar" placeholder="Rechercher une exposition..." />
+				<ul class="unstyled">
+					<li class="exposition-item"><a href="#" class="colorA">Materializing "Six Years": Lucy R. Lippard and the Emergence of Conceptual Art</a></li>
+					<li class="exposition-item"><a href="#" class="colorB">A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond</a></li>
+					<li class="exposition-item"><a href="#" class="colorD">Una finestra sul mondo - Da Dürer a Mondrian e oltre</a></li>
+					<li class="exposition-item"><a href="#" class="colorC">Private Kunstsammlungen Münster - Director´s Choice</a></li>
+					<li class="exposition-item"><a href="#" class="colorD">Materializing "Six Years": Lucy R. Lippard and the Emergence of Conceptual Art</a></li>
+					<li class="exposition-item"><a href="#" class="colorC">A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond</a></li>
+					<li class="exposition-item"><a href="#" class="colorD">Una finestra sul mondo - Da Dürer a Mondrian e oltre</a></li>
+					<li class="exposition-item"><a href="#" class="colorB">Private Kunstsammlungen Münster - Director´s Choice</a></li>
+				</ul>
+			</form>
+
+			<div class="news-block">
+				<h2>Actualités</h2>
+				<ul class="unstyled">
+					<li class="news-block-item"><a href="#"><strong>Materializing Six Years: Lucy R. Lippard and the Emergence of Conceptual Art</strong> @New York -  USA / 2 février - 3 mars 2014 </a></li>
+					<li class="news-block-item"><a href="#"><strong>Una ﬁnestra sul mondo - Da Dürer a Mondrian e oltre</strong> @New York -  USA / 2 février - 3 mars 2014 </a></li>
+				</ul>
+			</div><!-- .news-block -->
+
+		</div><!-- .right-sidebar -->
+		
+	</div><!-- .row -->
 
 </div><!-- .wrapper -->
 

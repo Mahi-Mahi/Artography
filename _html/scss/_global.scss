@@ -84,33 +84,36 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	width:100%;
 }
 
-.main {
-	display: table;
-	margin: 0;
-	padding:0;
-	width: 100%;
-}
-
-.content, .sidebar {
-	display: table-cell;
-	margin: 0;
-	padding: 0;
-	vertical-align: top;
-}
-
 .left-sidebar {
 	padding:0 0 0 40px;
 	width:220px;
 }
 
 .right-sidebar {
-	float:right;
 	padding:0 40px 0 0;
 	width:245px;
 }
 
 .artist-details-sidebar {
 	width:315px;
+}
+
+.clear,
+.line,
+.row {
+  clear: both;
+}
+
+.row {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.row > *,
+.col {
+  display: table-cell;
+  vertical-align: top;
 }
 
 // COLORS
@@ -573,14 +576,67 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	}
 }
 
-.nav-language {
-	position:absolute;
-	left:50%;
-	bottom:40px;
-	margin:0 0 0 -100px;
-	width:200px;
-	z-index:10;
+.home-block img {
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 1;	
 }
+
+.home-block__inner {
+	position: relative;
+	left: 0;
+	top: 0;
+	z-index: 2;
+}
+
+.home-block__artist {
+	display: block;
+	height: 17px;
+	left: 156px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 84px;
+	width: 59px;
+	a {
+		display: block;
+		text-indent: 100%;
+  		white-space: nowrap;
+  		overflow: hidden;
+  		width:100%;
+	}
+}
+
+.home-block__galerie {
+	display: block;
+	height: 20px;
+	left: 496px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 425px;
+	width: 60px;
+	a {
+		display: block;
+		text-indent: 100%;
+  		white-space: nowrap;
+  		overflow: hidden;
+  		width:100%;
+	}
+}
+
+// CONTENT
+
+.content-block {
+	display: block;
+	margin: 0 auto;
+	padding:0;
+	width:450px;
+}
+
+// CREDITS 
 
 .credits {
 	position:absolute;
@@ -602,6 +658,15 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 // NAV LANGUAGE
+
+.nav-language {
+	position:absolute;
+	left:50%;
+	bottom:40px;
+	margin:0 0 0 -100px;
+	width:200px;
+	z-index:10;
+}
 
 .nav-language-item {
 	display: inline-block;

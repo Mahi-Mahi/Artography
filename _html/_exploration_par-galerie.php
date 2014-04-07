@@ -32,9 +32,9 @@
 		</div><!-- .entry-content -->
 	</div><!-- .entry-header -->
 
-	<div class="main clearfix">
+	<div class="row main">
 
-		<div class="sidebar left-sidebar">
+		<div class="col sidebar left-sidebar">
 			<form action="about:blank">
 
 				<fieldset>
@@ -60,41 +60,42 @@
 
 		</div><!-- .left-sidebar -->
 
-		<div class="content">
+		<div class="col content">
 			&nbsp;
-			<div class="right-sidebar">
-				<form action="about:blank">
-					<input type="text" value="" class="input-sidebar" placeholder="Rechercher une galerie..." />
-					<ul class="unstyled">
-						<li class="galerie-item"><a href="#">Jet li</a></li>
-						<li class="galerie-item"><a href="#">Arnold Schwarzenegger</a></li>
-						<li class="galerie-item"><a href="#" class="active">Bruce Willis</a></li>
-						<li class="galerie-item"><a href="#">Syvester Stallone</a></li>
-						<li class="galerie-item"><a href="#">Jason Statham</a></li>
-						<li class="galerie-item"><a href="#" class="active">Dolph Lundgren</a></li>
-						<li class="galerie-item"><a href="#">Randy Couture</a></li>
-						<li class="galerie-item"><a href="#">Mickey Rourke</a></li>
-						<li class="galerie-item"><a href="#">Charisma Carpenter</a></li>
-						<li class="galerie-item"><a href="#">Jean-Claude Van Damme</a></li>
-						<li class="galerie-item"><a href="#">Antonio Banderas</a></li>
-						<li class="galerie-item"><a href="#">Wesley Snipes</a></li>
-						<li class="galerie-item"><a href="#">Jet li</a></li>
-						<li class="galerie-item"><a href="#">Arnold Schwarzenegger</a></li>
-						<li class="galerie-item"><a href="#">Bruce Willis</a></li>
-						<li class="galerie-item"><a href="#">Syvester Stallone</a></li>
-						<li class="galerie-item"><a href="#">Jason Statham</a></li>
-						<li class="galerie-item"><a href="#">Dolph Lundgren</a></li>
-						<li class="galerie-item"><a href="#">Randy Couture</a></li>
-						<li class="galerie-item"><a href="#">Mickey Rourke</a></li>
-						<li class="galerie-item"><a href="#">Charisma Carpenter</a></li>
-						<li class="galerie-item"><a href="#">Jean-Claude Van Damme</a></li>
-						<li class="galerie-item"><a href="#">Antonio Banderas</a></li>
-						<li class="galerie-item"><a href="#">Wesley Snipes</a></li>
-					</ul>
-				</form>
-			</div><!-- .right-sidebar -->
 		</div><!-- .content -->
-	</div><!-- .main -->
+
+		<div class="col right-sidebar">
+			<form action="about:blank">
+				<input type="text" value="" class="input-sidebar" placeholder="Rechercher une galerie..." />
+				<ul class="unstyled">
+					<li class="galerie-item"><a href="#">Jet li</a></li>
+					<li class="galerie-item"><a href="#">Arnold Schwarzenegger</a></li>
+					<li class="galerie-item"><a href="#" class="active">Bruce Willis</a></li>
+					<li class="galerie-item"><a href="#">Syvester Stallone</a></li>
+					<li class="galerie-item"><a href="#">Jason Statham</a></li>
+					<li class="galerie-item"><a href="#" class="active">Dolph Lundgren</a></li>
+					<li class="galerie-item"><a href="#">Randy Couture</a></li>
+					<li class="galerie-item"><a href="#">Mickey Rourke</a></li>
+					<li class="galerie-item"><a href="#">Charisma Carpenter</a></li>
+					<li class="galerie-item"><a href="#">Jean-Claude Van Damme</a></li>
+					<li class="galerie-item"><a href="#">Antonio Banderas</a></li>
+					<li class="galerie-item"><a href="#">Wesley Snipes</a></li>
+					<li class="galerie-item"><a href="#">Jet li</a></li>
+					<li class="galerie-item"><a href="#">Arnold Schwarzenegger</a></li>
+					<li class="galerie-item"><a href="#">Bruce Willis</a></li>
+					<li class="galerie-item"><a href="#">Syvester Stallone</a></li>
+					<li class="galerie-item"><a href="#">Jason Statham</a></li>
+					<li class="galerie-item"><a href="#">Dolph Lundgren</a></li>
+					<li class="galerie-item"><a href="#">Randy Couture</a></li>
+					<li class="galerie-item"><a href="#">Mickey Rourke</a></li>
+					<li class="galerie-item"><a href="#">Charisma Carpenter</a></li>
+					<li class="galerie-item"><a href="#">Jean-Claude Van Damme</a></li>
+					<li class="galerie-item"><a href="#">Antonio Banderas</a></li>
+					<li class="galerie-item"><a href="#">Wesley Snipes</a></li>
+				</ul>
+			</form>
+		</div><!-- .right-sidebar -->
+	</div><!-- .row -->
 
 </div><!-- .wrapper -->
 

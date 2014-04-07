@@ -6,6 +6,14 @@
 
 	<div class="home-block">
 		<img src="images/visuel-hp-medium.png" alt="" />
+		<div class="home-block__inner">
+			<div class="home-block__artist">
+				<a href="_exploration_par-artiste.php">Artistes</a>
+			</div><!-- .home-block__artist -->
+			<div class="home-block__galerie">
+				<a href="_exploration_par-galerie.php">Galeries</a>
+			</div><!-- .home-block__galerie -->
+		</div><!-- .home-block__inner -->
 	</div><!-- .home-block -->
 
 	<div class="home-artist">

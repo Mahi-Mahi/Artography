@@ -33,9 +33,9 @@
 		</div><!-- .entry-content -->
 	</div><!-- .entry-header -->
 
-	<div class="main clearfix">
+	<div class="row main">
 
-		<div class="sidebar left-sidebar">
+		<div class="col sidebar left-sidebar">
 
 			<div class="sidebar-inner">
 
@@ -74,7 +74,7 @@
 
 		</div><!-- .left-sidebar -->
 
-		<div class="content">
+		<div class="col content">
 
 			<div id="canvas"></div>
 
@@ -89,26 +89,24 @@
 					d'expositions à l'étranger
 				</p>
 			</div><!-- .content-block -->
-
-			<div class="right-sidebar artist-details-sidebar">
-				<form action="about:blank">
-					<input type="text" value="" class="input-sidebar" placeholder="Rechercher une exposition..." ng-model="searchText" ng-change="searchExpos();" />
-					<ul class="unstyled">
-						<li ng-repeat="expo in expos_list"  class="exposition-item {{expo.enabled}} {{expo.type}}"><a href="{{expo.url}}" target="_blank">{{expo.name}}</a></li>
-					</ul>
-				</form>
-
-
-				<div class="news-block">
-					<h2>Actualités</h2>
-					<ul class="unstyled">
-						<li ng-repeat="news in artist_news"  class="exposition-item"><a href="{{news.url}}" target="_blank" class="{{news.color}}">{{title}}</a></li>
-					</ul>
-				</div><!-- .news-block -->
-
-			</div><!-- .right-sidebar -->
-
 		</div><!-- .content -->
-	</div><!-- .main -->
+		<div class="col right-sidebar artist-details-sidebar">
+			<form action="about:blank">
+				<input type="text" value="" class="input-sidebar" placeholder="Rechercher une exposition..." ng-model="searchText" ng-change="searchExpos();" />
+				<ul class="unstyled">
+					<li ng-repeat="expo in expos_list"  class="exposition-item {{expo.enabled}} {{expo.type}}"><a href="{{expo.url}}" target="_blank">{{expo.name}}</a></li>
+				</ul>
+			</form>
+
+
+			<div class="news-block">
+				<h2>Actualités</h2>
+				<ul class="unstyled">
+					<li ng-repeat="news in artist_news"  class="exposition-item"><a href="{{news.url}}" target="_blank" class="{{news.color}}">{{title}}</a></li>
+				</ul>
+			</div><!-- .news-block -->
+
+		</div><!-- .right-sidebar -->
+	</div><!-- .row -->
 
 </div><!-- .wrapper -->

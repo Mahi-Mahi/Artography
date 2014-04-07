@@ -86,6 +86,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 
 .main {
 	display: table;
+	table-layout: fixed;
 	margin: 0;
 	padding:0;
 	width: 100%;
@@ -108,7 +109,6 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 .right-sidebar {
-	float:right;
 	padding:0 40px 0 0;
 	width:245px;
 }

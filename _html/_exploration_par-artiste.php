@@ -2,9 +2,7 @@
 	$bodyclass = "";
 	include ("_header.php");
 ?>
-
 <div class="wrapper">
-
 	<div class="entry-header clearfix">
 		<nav id="main-nav">
 			<ul class="unstyled">
@@ -32,9 +30,9 @@
 		</div><!-- .entry-content -->
 	</div><!-- .entry-header -->
 
-	<div class="main clearfix">
+	<div class="row main">
 
-		<div class="sidebar left-sidebar">
+		<div class="col left-sidebar">
 			<form action="about:blank">
 				<fieldset>
 					<legend>Genre</legend>
@@ -99,40 +97,43 @@
 
 		</div><!-- .left-sidebar -->
 
-		<div class="content">
-			&nbsp;
-			<div class="right-sidebar">
-				<form action="about:blank">
-					<input type="text" value="" class="input-sidebar" placeholder="Rechercher un artiste..." />
-					<ul class="unstyled">
-						<li class="artist-item"><a href="#">Jet li</a></li>
-						<li class="artist-item"><a href="#">Arnold Schwarzenegger</a></li>
-						<li class="artist-item"><a href="#" class="active">Bruce Willis</a></li>
-						<li class="artist-item"><a href="#">Syvester Stallone</a></li>
-						<li class="artist-item"><a href="#">Jason Statham</a></li>
-						<li class="artist-item"><a href="#" class="active">Dolph Lundgren</a></li>
-						<li class="artist-item"><a href="#">Randy Couture</a></li>
-						<li class="artist-item"><a href="#">Mickey Rourke</a></li>
-						<li class="artist-item"><a href="#">Charisma Carpenter</a></li>
-						<li class="artist-item"><a href="#">Jean-Claude Van Damme</a></li>
-						<li class="artist-item"><a href="#">Antonio Banderas</a></li>
-						<li class="artist-item"><a href="#">Wesley Snipes</a></li>
-						<li class="artist-item"><a href="#">Jet li</a></li>
-						<li class="artist-item"><a href="#">Arnold Schwarzenegger</a></li>
-						<li class="artist-item"><a href="#">Bruce Willis</a></li>
-						<li class="artist-item"><a href="#">Syvester Stallone</a></li>
-						<li class="artist-item"><a href="#">Jason Statham</a></li>
-						<li class="artist-item"><a href="#">Dolph Lundgren</a></li>
-						<li class="artist-item"><a href="#">Randy Couture</a></li>
-						<li class="artist-item"><a href="#">Mickey Rourke</a></li>
-						<li class="artist-item"><a href="#">Charisma Carpenter</a></li>
-						<li class="artist-item"><a href="#">Jean-Claude Van Damme</a></li>
-						<li class="artist-item"><a href="#">Antonio Banderas</a></li>
-						<li class="artist-item"><a href="#">Wesley Snipes</a></li>
-					</ul>
-				</form>
-			</div><!-- .right-sidebar -->
+		<div class="col content">
+			<div class="content-block">
+			Hopla vous savez que la mamsell Huguette, la miss Miss Dahlias du messti de Bischheim était au Christkindelsmärik en compagnie de Richard Schirmeck (celui qui a un blottkopf), le mari de Chulia Roberstau, qui lui trempait sa Nüdle dans sa Schneck ! Yo dû, Pfourtz ! Ch'espère qu'ils avaient du Kabinetpapier, Gal !
+			</div><!-- .content-block -->
 		</div><!-- .content -->
+
+		<div class="col right-sidebar">
+			<form action="about:blank">
+				<input type="text" value="" class="input-sidebar" placeholder="Rechercher un artiste..." />
+				<ul class="unstyled">
+					<li class="artist-item"><a href="#">Jet li</a></li>
+					<li class="artist-item"><a href="#">Arnold Schwarzenegger</a></li>
+					<li class="artist-item"><a href="#" class="active">Bruce Willis</a></li>
+					<li class="artist-item"><a href="#">Syvester Stallone</a></li>
+					<li class="artist-item"><a href="#">Jason Statham</a></li>
+					<li class="artist-item"><a href="#" class="active">Dolph Lundgren</a></li>
+					<li class="artist-item"><a href="#">Randy Couture</a></li>
+					<li class="artist-item"><a href="#">Mickey Rourke</a></li>
+					<li class="artist-item"><a href="#">Charisma Carpenter</a></li>
+					<li class="artist-item"><a href="#">Jean-Claude Van Damme</a></li>
+					<li class="artist-item"><a href="#">Antonio Banderas</a></li>
+					<li class="artist-item"><a href="#">Wesley Snipes</a></li>
+					<li class="artist-item"><a href="#">Jet li</a></li>
+					<li class="artist-item"><a href="#">Arnold Schwarzenegger</a></li>
+					<li class="artist-item"><a href="#">Bruce Willis</a></li>
+					<li class="artist-item"><a href="#">Syvester Stallone</a></li>
+					<li class="artist-item"><a href="#">Jason Statham</a></li>
+					<li class="artist-item"><a href="#">Dolph Lundgren</a></li>
+					<li class="artist-item"><a href="#">Randy Couture</a></li>
+					<li class="artist-item"><a href="#">Mickey Rourke</a></li>
+					<li class="artist-item"><a href="#">Charisma Carpenter</a></li>
+					<li class="artist-item"><a href="#">Jean-Claude Van Damme</a></li>
+					<li class="artist-item"><a href="#">Antonio Banderas</a></li>
+					<li class="artist-item"><a href="#">Wesley Snipes</a></li>
+				</ul>
+			</form>
+		</div><!-- .right-sidebar -->
 	</div><!-- .main -->
 
 </div><!-- .wrapper -->

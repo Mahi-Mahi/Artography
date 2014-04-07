@@ -27,9 +27,9 @@
 		</div><!-- .entry-content -->
 	</div><!-- .entry-header -->
 
-	<div class="main clearfix">
+	<div class="row main">
 
-		<div class="sidebar left-sidebar">
+		<div class="col sidebar left-sidebar">
 
 			<div class="sidebar-inner">
 
@@ -78,26 +78,25 @@
 
 		</div><!-- .left-sidebar -->
 
-		<div class="content">
-
-			<div id="canvas"></div>
-
-			&nbsp;
-
-			<div class="right-sidebar">
-				<form action="about:blank">
-					<input type="text" value="" class="input-sidebar" placeholder="Rechercher un artiste..." ng-model="searchText" ng-change="updateArtists()"  />
-					<ul class="artists-list unstyled">
-						<li ng-repeat="artist in artists" class="artist-item {{artist.enabled}}" ng-click="showArtist(artist.id)">
-							<a href="#" id="artist-{{artist.id}}">
-								{{artist.name}}
-							</a>
-						</li>
-					</ul>
-				</form>
-			</div><!-- .right-sidebar -->
+		<div class="col content">
+			<div class="content-block">
+				<div id="canvas"></div>
+			</div><!-- .content-block -->
 		</div><!-- .content -->
-	</div><!-- .main -->
+		
+		<div class="col right-sidebar">
+			<form action="about:blank">
+				<input type="text" value="" class="input-sidebar" placeholder="Rechercher un artiste..." ng-model="searchText" ng-change="updateArtists()"  />
+				<ul class="artists-list unstyled">
+					<li ng-repeat="artist in artists" class="artist-item {{artist.enabled}}" ng-click="showArtist(artist.id)">
+						<a href="#" id="artist-{{artist.id}}">
+							{{artist.name}}
+						</a>
+					</li>
+				</ul>
+			</form>
+		</div><!-- .right-sidebar -->
+	</div><!-- .row -->
 
 
 </div><!-- .wrapper -->
