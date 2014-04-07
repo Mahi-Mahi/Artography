@@ -84,19 +84,22 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	width:100%;
 }
 
-.main {
-	display: table;
-	table-layout: fixed;
-	margin: 0;
-	padding:0;
-	width: 100%;
+.clear,
+.line,
+.row {
+  clear: both;
 }
 
-.content, .sidebar {
-	display: table-cell;
-	margin: 0;
-	padding: 0;
-	vertical-align: top;
+.row {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.row > *,
+.col {
+  display: table-cell;
+  vertical-align: top;
 }
 
 .left-sidebar {
@@ -124,7 +127,6 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		height: 550px;
 		overflow: auto;
 	}
-
 }
 
 // COLORS
@@ -208,6 +210,13 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 // CONTENT
+
+.content-block {
+	display: block;
+	margin: 0 auto;
+	padding:0;
+	width:450px;
+}
 
 .entry-content {
 	section, aside {
