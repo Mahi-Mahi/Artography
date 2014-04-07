@@ -117,8 +117,7 @@ define([], function() {
 			var max_artists = 0;
 			var active_artists;
 
-			var mainWidth = 500;
-
+			var mainWidth =  jQuery('.content').width();
 			var canvasW = mainWidth,
 				divW = mainWidth,
 				canvasH = mainWidth,
