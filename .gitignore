@@ -3,6 +3,7 @@ components
 bower_components
 
 *.scssc
+.DS_Store
 
 _html/js/main-ck.js
 _html/js/vendor/console-ck.js
