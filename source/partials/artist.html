@@ -60,13 +60,13 @@
 						<legend>Légende</legend>
 						<dl>
 							<dt>Type d'exposition</dt>
-							<dd><strong>Solo</strong>{{counters.Solo}}</dd>
-							<dd><strong>Collective</strong>{{counters.Group}}</dd>
+							<dd class="solo"><strong>Solo</strong>{{counters.Solo}}</dd>
+							<dd class="collective"><strong>Collective</strong>{{counters.Group}}</dd>
 							<dt>Organisateur</dt>
 						</dl>
-							<ul>
-							<li ng-repeat="organizer in organizers"><strong>{{organizers.name}}</strong>{{organizers.counter}}</li>
-							</ul>
+						<ul class="unstyled organizer-list">
+						<li ng-repeat="organizer in organizers" class="{{organizer.slug}}"><strong>{{organizer.name}}</strong> <em>{{organizer.counter}}</em></li>
+						</ul>
 					</fieldset>
 				</div><!-- .legend -->
 

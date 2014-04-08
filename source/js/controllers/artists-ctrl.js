@@ -8,6 +8,11 @@ define([], function() {
 
 			jQuery('body').removeClass('home');
 
+			jQuery(window).off("debouncedresize")
+				.on("debouncedresize", function(event) {
+					$route.reload();
+				});
+
 			$scope.goBack = function() {
 				window.history.back();
 			};
