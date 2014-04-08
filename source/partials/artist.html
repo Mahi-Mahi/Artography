@@ -65,7 +65,7 @@
 							<dt>Organisateur</dt>
 						</dl>
 							<ul>
-							<li ng-repeat="organizer in organizers"><strong>{{organizers.name}}</strong>{{organizers.counter}}</li>
+							<li ng-repeat="organizer in organizers" class="{{organizer.slug}}"><strong>{{organizer.name}}</strong> <em>{{organizer.counter}}</em></li>
 							</ul>
 					</fieldset>
 				</div><!-- .legend -->

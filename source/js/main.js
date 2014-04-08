@@ -13,7 +13,8 @@ require.config({
 		jquery: '/vendor/jquery/dist/jquery',
 		// angularAnimate: '/vendor/angular-animate/angular-animate',
 		// angularMocks: '/vendor/angular-mocks/angular-mocks',
-		text: '/vendor/requirejs-text/text'
+		text: '/vendor/requirejs-text/text',
+		'jquery-smartresize': '/vendor/jquery-smartresize/jquery.debouncedresize'
 	},
 	shim: {
 		'angular': {
@@ -27,6 +28,9 @@ require.config({
 		'angularMocks': {
 			deps: ['angular'],
 			'exports': 'angular.mock'
+		},
+		'jquery-smartresize': {
+			deps: ['jquery']
 		}
 	},
 	priority: [

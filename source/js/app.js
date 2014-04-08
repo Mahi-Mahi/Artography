@@ -9,7 +9,8 @@ define([
 	'angularLocalStorage',
 	'angularSanitize',
 	'raphael',
-	'jquery'
+	'jquery',
+	'jquery-smartresize'
 	// 'angularAnimate',
 ], function(angular, filters, services, directives, controllers) {
 	'use strict';

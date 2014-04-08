@@ -436,6 +436,10 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		color:#000;
 		font-weight:normal;
 	}
+	em {
+		font-style: normal;
+		color: #939597;
+	}
 }
 
 // RIGHT SIDEBAR
@@ -711,7 +715,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	padding:10px;
 	position:absolute;
 	left:50%;
-	bottom:3em;
+	// bottom:3em;
 	width:340px;
 	z-index:90;
 	p {
