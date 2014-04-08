@@ -334,7 +334,7 @@ define([], function() {
 				var layer_interval = Math.min(2, 10 / max_expos);
 
 				var a = nb_countries == 1 ? 360 : (360 - (nb_countries * a_interval)) / nb_countries;
-				var rotation = 0;
+				var rotation = 90;
 				textOnPathDone = 0;
 
 				var new_filledArc, previous_expo_filledArc;
@@ -355,7 +355,7 @@ define([], function() {
 
 						angular.forEach(country.expos, function(expo, expo_id) {
 
-							var layerW = expo.iteration < iteration ? 0 : ((divW / 2) - (central_radius + margin)) / max_expos;
+							var layerW = expo.iteration < iteration ? 0 : ((divW / 2) - (central_radius + margin)) / (max_expos + 1);
 							// var layerW = max_artists ? ((divW / 2) - (central_radius + margin)) / max_artists : 0;
 
 							if (layerW)
@@ -369,8 +369,9 @@ define([], function() {
 								if (previous_expo) {
 									new_filledArc = previous_expo_filledArc;
 								} else {
-									new_filledArc = [originX, originY, central_radius, layerW, a, country.rotation === undefined ? rotation : country.rotation];
+									new_filledArc = [originX, originY, central_radius, 0 /* layerW */ , a, country.rotation === undefined ? rotation : country.rotation];
 								}
+								console.log(new_filledArc);
 
 								var fill = expo_colors[expo.type];
 								if (expo.showtype == 'Solo') {
