@@ -8,6 +8,10 @@ define([], function() {
 
 			jQuery('body').removeClass('home');
 
+			$scope.goBack = function() {
+				window.history.back();
+			};
+
 			$scope.labels = {
 				genre: {
 					c: "Collectif",
@@ -109,7 +113,7 @@ define([], function() {
 			var originX = offsetX + divW / 2;
 			var originY = offsetY + divH / 2;
 
-			var central_radius = divW / 4 - 90;
+			var central_radius = divW / 4 - 100;
 
 			var animation_delay = 500;
 			var a_interval = 2;
@@ -291,7 +295,7 @@ define([], function() {
 
 						angular.forEach(country.expos, function(expo, expo_id) {
 
-							var layerW = expo.iteration < iteration ? 0 : divW / 9 / max_expos;
+							var layerW = expo.iteration < iteration ? 0 : divW / 3 / max_expos;
 
 							if (layerW)
 								radius += layerW + layer_interval;

@@ -9,7 +9,7 @@
 			</ul>
 		</nav><!-- .main-nav -->
 		<p class="go-back">
-			<a href="#">Retour</a>
+			<a href="#" ng-click="goBack();">Retour</a>
 		</p>
 		<div class="entry-content">
 			<section>
@@ -83,7 +83,7 @@
 				<div id="canvas"></div>
 			</div><!-- .content-block -->
 		</div><!-- .content -->
-		
+
 		<div class="col right-sidebar">
 			<form action="about:blank">
 				<input type="text" value="" class="input-sidebar" placeholder="Rechercher un artiste..." ng-model="searchText" ng-change="updateArtists()"  />

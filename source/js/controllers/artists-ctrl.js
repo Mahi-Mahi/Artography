@@ -8,6 +8,10 @@ define([], function() {
 
 			jQuery('body').removeClass('home');
 
+			$scope.goBack = function() {
+				window.history.back();
+			};
+
 			var years = dataService.data.years;
 
 			// Artists list
@@ -117,7 +121,7 @@ define([], function() {
 			var max_artists = 0;
 			var active_artists;
 
-			var mainWidth =  jQuery('.content').width();
+			var mainWidth = jQuery('.content').width();
 			var canvasW = mainWidth,
 				divW = mainWidth,
 				canvasH = mainWidth,
