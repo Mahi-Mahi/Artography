@@ -728,3 +728,38 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		color:#939597;
 	}
 }
+
+#popup.expo-Public-Institution {
+	border-color:#00a79d;
+	.name {
+		color:#00a79d;
+	}
+}
+
+#popup.expo-Non-profit-organization {
+	border-color:#9e1e62;
+	.name {
+		color:#9e1e62;
+	}
+}
+
+#popup.expo-Private-Gallery {
+	border-color:#ef4036;
+	.name {
+		color:#ef4036;
+	}
+}
+
+#popup.expo-Temporary-Exhibition-Space {
+	border-color:#ccc;
+	.name {
+		color:#ccc;
+	}
+}
+
+#popup.expo-Festival {
+	border-color:#8cc63e;
+	.name {
+		color:#8cc63e;
+	}
+}
