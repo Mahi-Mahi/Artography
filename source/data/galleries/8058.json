@@ -1,0 +1,56 @@
+{
+  "id": "8058",
+  "name": "Galerie Richard Nicolet",
+  "street": "Le Tourail / Coustellet",
+  "zip": "84580",
+  "city": "Oppede en Luberon",
+  "country": "France",
+  "foundation": "1998",
+  "directeurs": "Richard Nicolet",
+  "profile": null,
+  "tel": "+ 33 (0) 4 90 04 06 65",
+  "email": null,
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Oppede en Luberon%2C%2084580 %2C%20 %2C%20Le Tourail / Coustellet %2C%20France",
+  "fairs-total": "24",
+  "fairs-abroad": "5",
+  "fairs-in-FR": "19",
+  "fairs": {
+    "2006": [
+      {
+        "i": "8058-L'art contemporain dans tous ses états",
+        "c": "CH",
+        "n": null,
+        "ct": "Montreux"
+      }
+    ],
+    "2007": [
+      {
+        "i": "8058-PURO ARTE VIGO 2007",
+        "c": "ES",
+        "n": null,
+        "ct": "Vigo"
+      },
+      {
+        "i": "8058-Lineart 2007",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ],
+    "2009": [
+      {
+        "i": "8058-Affordable Art Fair Bruxelles 09",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      },
+      {
+        "i": "8058-Lineart 2009",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ]
+  }
+}

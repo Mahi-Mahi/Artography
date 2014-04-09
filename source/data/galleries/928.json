@@ -1,0 +1,98 @@
+{
+  "id": "928",
+  "name": "Galerie Vidal-Saint Phalle",
+  "street": "10, rue du Trésor",
+  "zip": "F-75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1989",
+  "directeurs": "Bernard Vidal",
+  "profile": null,
+  "tel": "+33-(1)-42 76 06 05",
+  "email": "contact@vidal-stphalle.com",
+  "www": "www.vidal-stphalle.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%20F-75004 %2C%20 %2C%2010, rue du Trésor %2C%20France",
+  "fairs-total": "22",
+  "fairs-abroad": "10",
+  "fairs-in-FR": "12",
+  "fairs": {
+    "2005": [
+      {
+        "i": "928-Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      },
+      {
+        "i": "928-Art Cologne 2005",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      }
+    ],
+    "2006": [
+      {
+        "i": "928-Art Brussels 2006- 24th Contemporary Art Fair",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ],
+    "2007": [
+      {
+        "i": "928-Art Cologne 2007",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      }
+    ],
+    "2008": [
+      {
+        "i": "928-Art Cologne 2008",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      }
+    ],
+    "2009": [
+      {
+        "i": "928-Arte Fiera 2009",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      }
+    ],
+    "2010": [
+      {
+        "i": "928-Arte Fiera 2010",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      }
+    ],
+    "2011": [
+      {
+        "i": "928-art KARLSRUHE 2011",
+        "c": "DE",
+        "n": null,
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2012": [
+      {
+        "i": "928-The Solo Project 2012",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2013": [
+      {
+        "i": "928-Slick Brussels 2013",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

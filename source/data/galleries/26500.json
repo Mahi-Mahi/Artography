@@ -1,0 +1,28 @@
+{
+  "id": "26500",
+  "name": "Galerie Raon-Burgain",
+  "street": "",
+  "zip": "",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "09.79.18.48.31",
+  "email": "galerie@raon-burgain.com",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%20 %2C%20 %2C%20 %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2012": [
+      {
+        "i": "26500-Affordable Art Fair Bruxelles 2012",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

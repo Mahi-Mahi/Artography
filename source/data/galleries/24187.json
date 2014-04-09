@@ -1,0 +1,50 @@
+{
+  "id": "24187",
+  "name": "Ze Art Galerie",
+  "street": "13 rue du dragon",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 22 73 31",
+  "email": "laetitia.crahay-tyl@zeartgalerie.com",
+  "www": "www.zeartgalerie.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2013 rue du dragon %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "6",
+  "fairs": {
+    "2010": [
+      {
+        "i": "24187-Affordable Art Fair Bruxelles 2010",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ],
+    "2011": [
+      {
+        "i": "24187-Lineart 2011",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ],
+    "2012": [
+      {
+        "i": "24187-Affordable Art Fair Bruxelles 2012",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      },
+      {
+        "i": "24187-Art Gent 2012",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "26190",
+  "name": "Galerie Michel Giraud",
+  "street": "35-37 rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": " 01.43.25.11.01",
+  "email": "gmg1930@wanadoo.fr",
+  "www": "www.galeriegiraud.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2035-37 rue de Seine %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2011": [
+      {
+        "i": "26190-Fine Art Asia 2011",
+        "c": "CN",
+        "n": null,
+        "ct": "Hong Kong, SAR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "26190-Artgenève - Salon international ",
+        "c": "CH",
+        "n": null,
+        "ct": "Geneva"
+      }
+    ]
+  }
+}

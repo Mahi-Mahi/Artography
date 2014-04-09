@@ -1,0 +1,50 @@
+{
+  "id": "275",
+  "name": "Galerie Alain Le Gaillard",
+  "street": "19, rue Mazarine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Alain Le Gaillard - Olivier Robert",
+  "profile": null,
+  "tel": "+33-(0)1-43262535",
+  "email": "legaillard@wanadoo.fr",
+  "www": "www.alainlegaillard.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2019, rue Mazarine %2C%20France",
+  "fairs-total": "12",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "8",
+  "fairs": {
+    "2005": [
+      {
+        "i": "275-Arte Fiera 2005",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      }
+    ],
+    "2006": [
+      {
+        "i": "275-ArteFiera 2006",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      }
+    ],
+    "2007": [
+      {
+        "i": "275-Arte Fiera 2007",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      },
+      {
+        "i": "275-Photo London 2007",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      }
+    ]
+  }
+}

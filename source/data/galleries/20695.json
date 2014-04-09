@@ -1,0 +1,34 @@
+{
+  "id": "20695",
+  "name": "Galerie Spree",
+  "street": "16, rue la Vieuville",
+  "zip": "75018",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 23 41 40",
+  "email": null,
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075018 %2C%20 %2C%2016, rue la Vieuville %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2013": [
+      {
+        "i": "20695-cutlog NY 2013",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "20695-Loop - The Video Art Fair 2013",
+        "c": "ES",
+        "n": null,
+        "ct": "Barcelona"
+      }
+    ]
+  }
+}

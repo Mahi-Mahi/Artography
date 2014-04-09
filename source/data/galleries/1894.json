@@ -1,0 +1,52 @@
+{
+  "id": "1894",
+  "name": "Galerie Jean Fournier",
+  "street": "22, rue du Bac",
+  "zip": "75007",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Elodie Rahard",
+  "profile": null,
+  "tel": "+33-(0)1-42 97 44 00",
+  "email": "galerie.jeanfournier@free.fr, info@galerie-jeanfournier.com",
+  "www": "www.galerie-jeanfournier.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%2022, rue du Bac %2C%20France",
+  "fairs-total": "20",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "16",
+  "fairs": {
+    "2008": [
+      {
+        "i": "1894-Art Brussels 2008- 26th Contemporary Art Fair",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1894-Art Brussels 2009 - 27th Contemporary Art Fair",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1894-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1894-Marrakech Art Fair",
+        "c": "MA",
+        "n": null,
+        "ct": "Casablanca"
+      }
+    ]
+  }
+}

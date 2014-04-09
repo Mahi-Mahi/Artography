@@ -1,0 +1,28 @@
+{
+  "id": "6215",
+  "name": "Galerie Beckel Odille Boïcos",
+  "street": "1 rue Jacques Coeur",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 1 40 278717",
+  "email": "galbob@boite.org",
+  "www": "www.galbob.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%201 rue Jacques Coeur %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2006": [
+      {
+        "i": "6215-Art Chicago 2006",
+        "c": "US",
+        "n": null,
+        "ct": "Chicago, IL"
+      }
+    ]
+  }
+}

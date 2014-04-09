@@ -1,0 +1,28 @@
+{
+  "id": "13895",
+  "name": "Galerie Béatrice Soulié",
+  "street": "21, rue Guénégaud",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 43 54 57 01",
+  "email": null,
+  "www": "www.galeriebeatricesoulie.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2021, rue Guénégaud %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2010": [
+      {
+        "i": "13895-ART on PAPER",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

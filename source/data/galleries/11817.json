@@ -1,0 +1,50 @@
+{
+  "id": "11817",
+  "name": "Galerie L.J.",
+  "street": "12 rue Commines",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 44 59 27 27",
+  "email": "info@galerieljbeaubourg.net",
+  "www": "www.galerieljbeaubourg.net",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2012 rue Commines %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "5",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2008": [
+      {
+        "i": "11817-Preview Berlin - the emerging art fair - 2008",
+        "c": "DE",
+        "n": null,
+        "ct": "Berlin"
+      }
+    ],
+    "2009": [
+      {
+        "i": "11817-Bridge Art Fair New York 2009",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "11817-Scope Basel 2009",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2011": [
+      {
+        "i": "11817-Art Dubai 2011",
+        "c": "AE",
+        "n": null,
+        "ct": "Dubai"
+      }
+    ]
+  }
+}

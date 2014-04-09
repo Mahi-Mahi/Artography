@@ -1,0 +1,28 @@
+{
+  "id": "10156",
+  "name": "Galerie Chrämai",
+  "street": "",
+  "zip": "",
+  "city": "Anduze",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)46 6770646",
+  "email": "info@galeriechraemai.com",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Anduze%2C%20 %2C%20 %2C%20 %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2007": [
+      {
+        "i": "10156-Liste Köln 2007",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      }
+    ]
+  }
+}

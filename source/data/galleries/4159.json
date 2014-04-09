@@ -1,0 +1,72 @@
+{
+  "id": "4159",
+  "name": "Galerie Martine Aboucaya",
+  "street": "5, rue Sainte-Anastase",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2005",
+  "directeurs": "Martine Aboucaya",
+  "profile": null,
+  "tel": "+33 (0)1 42 76 92 75",
+  "email": "info@martineaboucaya.com",
+  "www": "www.martineaboucaya.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%205, rue Sainte-Anastase %2C%20France",
+  "fairs-total": "16",
+  "fairs-abroad": "7",
+  "fairs-in-FR": "9",
+  "fairs": {
+    "2007": [
+      {
+        "i": "4159-DiVA - Digital & Video Art Fair - New York 2007",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ],
+    "2009": [
+      {
+        "i": "4159-Art Brussels 2009 - 27th Contemporary Art Fair",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      },
+      {
+        "i": "4159-VOLTAshow05",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "4159-Loop Barcelona 2010",
+        "c": "ES",
+        "n": null,
+        "ct": "Barcelona"
+      }
+    ],
+    "2011": [
+      {
+        "i": "4159-Moving Image 2011",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "4159-Loop - The Video Art Fair 2011",
+        "c": "ES",
+        "n": null,
+        "ct": "Barcelona"
+      }
+    ],
+    "2013": [
+      {
+        "i": "4159-ArtInternational Istanbul 2013",
+        "c": "TR",
+        "n": null,
+        "ct": "Istanbul"
+      }
+    ]
+  }
+}

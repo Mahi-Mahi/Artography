@@ -1,0 +1,114 @@
+{
+  "id": "1524",
+  "name": "Galerie Di Meo",
+  "street": "9 rue des Beaux Arts",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1958",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33-(0)1-43 54 10 98",
+  "email": "contact@dimeo.fr",
+  "www": "www.dimeo.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%209 rue des Beaux Arts %2C%20France",
+  "fairs-total": "23",
+  "fairs-abroad": "13",
+  "fairs-in-FR": "10",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1524-Arte Fiera 2005",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      },
+      {
+        "i": "1524-Art 36 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1524-ArteFiera 2006",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      },
+      {
+        "i": "1524-Art 37 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1524-Arte Fiera 2007",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      },
+      {
+        "i": "1524-Art 38 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1524-Arte Fiera 2008",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1524-Arte Fiera 2009",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1524-Arte Fiera 2010",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      },
+      {
+        "i": "1524-Marrakech Art Fair",
+        "c": "MA",
+        "n": null,
+        "ct": "Marrakech"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1524-Arte Fiera 2011",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      },
+      {
+        "i": "1524-Marrakech Art Fair",
+        "c": "MA",
+        "n": null,
+        "ct": "Casablanca"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1524-Arte Fiera - BolognaFiere 2012",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      }
+    ]
+  }
+}

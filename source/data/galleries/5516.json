@@ -1,0 +1,28 @@
+{
+  "id": "5516",
+  "name": "Galerie Aittouarès",
+  "street": "2, rue des Beaux-Arts",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 40 51 87 46",
+  "email": "aittouares@noos.fr",
+  "www": "www.aittouares.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%202, rue des Beaux-Arts %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2007": [
+      {
+        "i": "5516-Works on Paper - 2007",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ]
+  }
+}

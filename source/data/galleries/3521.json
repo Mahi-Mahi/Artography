@@ -1,0 +1,28 @@
+{
+  "id": "3521",
+  "name": "Galerie Corentin Hamel",
+  "street": "151 rue du Chevaleret",
+  "zip": "75 013",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Corentin Hamel",
+  "profile": null,
+  "tel": "+33 (0)1 45 85 45 11",
+  "email": "corha@club-internet.fr",
+  "www": "www.artmag.com/galeries/est/hamel",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075 013 %2C%20 %2C%20151 rue du Chevaleret %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2005": [
+      {
+        "i": "3521-Liste 2005",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1385",
+  "name": "Galerie du Centre",
+  "street": "5, rue Pierre-au-Lard",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Alain Matarasso",
+  "profile": null,
+  "tel": "+33-(0)1-42 77 37 92",
+  "email": "contact-galerie@galerie-du-centre.net",
+  "www": "www.galerie-du-centre.net",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%205, rue Pierre-au-Lard %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "10",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1385-art.fair 2005",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      }
+    ]
+  }
+}

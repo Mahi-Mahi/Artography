@@ -1,0 +1,100 @@
+{
+  "id": "5357",
+  "name": "Galerie Boulakia",
+  "street": "10, avenue Matignon",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1969",
+  "directeurs": "Daniel Boulakia",
+  "profile": "La galerie BOULAKIA, située depuis 30 ans à Saint-Germain-des-­Prés est établie depuis 6 ans sur la rive droite, au n°10 de l'avenue Matignon. Elle expose en permanence les grandes signatures de l'impressionnisme, les peintres modernes et quelques artistes contemporains.\r\nLa galerie Boulakia présente des oeuvres d'artistes tels que Appel, Basquiat, Bonnard, Chagall, Dubuffet, Dufy, Ernst, Lam, Laurencin, Marquet, Miro, Picasso, Rauschenberg, Renoir, Riopelle, Rouault, Utrillo, Van Dongen, de Vlaminck, Warhol.\r\nLa Galerie Boulakia a une clientèle composée de collectionneurs privés et de musées et participe à plusieurs manifestations internationales telles que le Pavillon des Antiquaires à Paris, la Biennale des Antiquaires à Monaco, l'Armory show à New York.",
+  "tel": "+33(0)156596655",
+  "email": "boulakia@boulakia.net",
+  "www": "www.boulakia.net",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2010, avenue Matignon %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "11",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5357-ART20 - 2006",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5357-Art Chicago 2007",
+        "c": "US",
+        "n": null,
+        "ct": "Chicago, IL"
+      },
+      {
+        "i": "5357-ART20 - 2007",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5357-TEFAF Maastricht 2008",
+        "c": "NL",
+        "n": null,
+        "ct": "Maastricht"
+      },
+      {
+        "i": "5357-Art Chicago 2008",
+        "c": "US",
+        "n": null,
+        "ct": "Chicago, IL"
+      },
+      {
+        "i": "5357-International Fine Art Fair 2008",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5357-The Armory Show 2009",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "5357-TEFAF Maastricht 2009",
+        "c": "NL",
+        "n": null,
+        "ct": "Maastricht"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5357-TEFAF Maastricht 2010",
+        "c": "NL",
+        "n": null,
+        "ct": "Maastricht"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5357-TEFAF Maastricht 2011",
+        "c": "NL",
+        "n": null,
+        "ct": "Helvoirt"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5357-TEFAF Maastricht 2013",
+        "c": "NL",
+        "n": null,
+        "ct": "Maastricht"
+      }
+    ]
+  }
+}

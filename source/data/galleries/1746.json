@@ -1,0 +1,72 @@
+{
+  "id": "1746",
+  "name": "Galerie Martine et Thibault de La Châtre",
+  "street": "4 rue Saintonge",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33- (0)1 42718950",
+  "email": "contact@lachatregalerie.com",
+  "www": "www.lachatregalerie.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%204 rue Saintonge %2C%20France",
+  "fairs-total": "24",
+  "fairs-abroad": "7",
+  "fairs-in-FR": "17",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1746-art/salamanca/05",
+        "c": "ES",
+        "n": null,
+        "ct": "Salamanca"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1746-Contemporary Istanbul Art Fair 2007",
+        "c": "TR",
+        "n": null,
+        "ct": "Istanbul"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1746-Hot Art Fair",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1746-Loop - The Video Art Fair 2012",
+        "c": "ES",
+        "n": null,
+        "ct": "Barcelona"
+      },
+      {
+        "i": "1746-Art On Paper 2012",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1746-Artgenève - Salon international ",
+        "c": "CH",
+        "n": null,
+        "ct": "Geneva"
+      },
+      {
+        "i": "1746-Slick Brussels 2013",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

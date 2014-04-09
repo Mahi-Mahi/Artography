@@ -1,0 +1,28 @@
+{
+  "id": "20663",
+  "name": "Adel Gallery",
+  "street": "33 rue Auguste Comte",
+  "zip": "69002",
+  "city": "Lyon",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)6 37 53 95 56",
+  "email": "contact@adelgallery.com",
+  "www": "adelgallery.com",
+  "map": "http://maps.google.com/maps?q=Lyon%2C%2069002 %2C%20 %2C%2033 rue Auguste Comte %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2006": [
+      {
+        "i": "20663-L'art contemporain dans tous ses états",
+        "c": "CH",
+        "n": null,
+        "ct": "Montreux"
+      }
+    ]
+  }
+}

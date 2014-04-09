@@ -1,0 +1,28 @@
+{
+  "id": "14293",
+  "name": "Galerie Vallois",
+  "street": "41 rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)143 295 084",
+  "email": "vallois@club-internet.fr",
+  "www": "www.vallois.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2041 rue de Seine %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2007": [
+      {
+        "i": "14293-Budapest Art Fair 2007",
+        "c": "HU",
+        "n": null,
+        "ct": "Budapest"
+      }
+    ]
+  }
+}

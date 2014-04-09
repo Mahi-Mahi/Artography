@@ -1,0 +1,44 @@
+{
+  "id": "26207",
+  "name": "galerie artfontainebleau",
+  "street": "9, rue des Trois Maillets",
+  "zip": "",
+  "city": "Fontainebleau",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)6 - 07 06 10 28",
+  "email": "contact@artfontainebleau.net",
+  "www": "www.artfontainebleau.net",
+  "map": "http://maps.google.com/maps?q=Fontainebleau%2C%20 %2C%20 %2C%209, rue des Trois Maillets %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2011": [
+      {
+        "i": "26207-ART.FAIR 2011",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      }
+    ],
+    "2012": [
+      {
+        "i": "26207-ART.FAIR 2012",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      }
+    ],
+    "2013": [
+      {
+        "i": "26207-Art.fair 2013",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      }
+    ]
+  }
+}

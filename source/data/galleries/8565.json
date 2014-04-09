@@ -1,0 +1,48 @@
+{
+  "id": "8565",
+  "name": "Clara Scremini Gallery",
+  "street": "99 rue Quincampoix",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 480 432 42",
+  "email": null,
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%2099 %2C%20rue Quincampoix %2C%20France",
+  "fairs-total": "6",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2007": [
+      {
+        "i": "8565-Design Miami / Basel 2007",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "8565-Design London 2007",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      }
+    ],
+    "2010": [
+      {
+        "i": "8565-Pavilion of Art & Design 2010",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "8565-Cologne Fine Art 2010",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      }
+    ]
+  }
+}

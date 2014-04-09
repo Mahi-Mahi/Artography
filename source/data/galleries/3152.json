@@ -1,0 +1,112 @@
+{
+  "id": "3152",
+  "name": "Galerie Richard",
+  "street": "74 rue de Turenne",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1989",
+  "directeurs": "Jean Luc Richard & Takako Hayakawa Richard",
+  "profile": "GALERIE RICHARD specializes in the most contemporary painting. It presents painters from all countries, who, challenging new technologies and new mediums, renew 21st century's painting.\r\n\r\nThe gallery participates in international art fairs and publishes a collection of monographs dedicated to 21st century's painters.\r\n\r\n<b>Gallery's resume</b>\r\n\r\nJean-Luc and Takako Richard opened the gallery in September 1989 under the name of Galerie OZ in Bastille. They first exhibited artists using new computer technology : Robert Groborne's computer animation, Vera Molnar, Artus Pixel. Following to Groninger Museum exhibition in 1989 Less is a Bore, Exuberance Now, Galerie OZ established its reputation by bringing together for the first time Baroque artists from New York : Arch Connelly, Christopher Tanner, Rhonda Zwillinger, Thomas Lanigan-Schmidt and Pepon Osorio. Galerie OZ also represented Milan Kunc, Joost Van den Toorn and Choi Jeong Hwa (Kitsch Art), Robert Kushner (Pattern & Decoration). They exhibited various photographers such as Erwin Olaf, Bae Bien-U, Jacqueline Hassink. They also represented the following artists : Christophe Avella-Bagur, Laszlo Féher, Rainer Gross, Attila Richard Lukacs…\r\n\r\nIn October 2002 the gallery moved to its current location, Saint-Louis island, centrally located in Paris, got the new name of Galerie Jean-Luc & Takako Richard and a brand new exhibition program focused on new painting.",
+  "tel": "+33 (0)1 43 25 27 22",
+  "email": "info@galerierichard.com",
+  "www": "www.galerierichard.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2074 rue de Turenne %2C%20France",
+  "fairs-total": "17",
+  "fairs-abroad": "13",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2005": [
+      {
+        "i": "3152-Art Miami 2005",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2006": [
+      {
+        "i": "3152-Art Cologne 2006",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      }
+    ],
+    "2007": [
+      {
+        "i": "3152-Arte Fiera 2007",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      },
+      {
+        "i": "3152-Art Cologne 2007",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      },
+      {
+        "i": "3152-Art Amsterdam 2007",
+        "c": "NL",
+        "n": null,
+        "ct": "Amsterdam"
+      }
+    ],
+    "2008": [
+      {
+        "i": "3152-Art Amsterdam 2008",
+        "c": "NL",
+        "n": null,
+        "ct": "Amsterdam"
+      },
+      {
+        "i": "3152-So Feucking French (SoFF) 08",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      }
+    ],
+    "2009": [
+      {
+        "i": "3152-Art Amsterdam 2009",
+        "c": "NL",
+        "n": null,
+        "ct": "Amsterdam"
+      },
+      {
+        "i": "3152-Pulse Miami 09",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ],
+    "2010": [
+      {
+        "i": "3152-Pulse New York 2010",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "3152-Art Amsterdam 2010",
+        "c": "NL",
+        "n": null,
+        "ct": "Amsterdam"
+      }
+    ],
+    "2011": [
+      {
+        "i": "3152-Art Chicago 2011",
+        "c": "US",
+        "n": null,
+        "ct": "Chicago, IL"
+      },
+      {
+        "i": "3152-Pulse Miami 2011",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

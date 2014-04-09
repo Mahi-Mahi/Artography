@@ -1,0 +1,60 @@
+{
+  "id": "14600",
+  "name": "Triple V",
+  "street": "24 rue Louise Weiss",
+  "zip": "75013",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2007",
+  "directeurs": "Virginie Guillerot, Vincent Pécoil, Olivier Vadrot",
+  "profile": null,
+  "tel": "+33 (0)1 45 84 08 36",
+  "email": "info@triple-v.fr",
+  "www": "www.triple-v.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075013 %2C%20 %2C%2024 rue Louise Weiss %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "5",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2008": [
+      {
+        "i": "14600-Artissima 15",
+        "c": "IT",
+        "n": null,
+        "ct": "Turin"
+      }
+    ],
+    "2009": [
+      {
+        "i": "14600-Art Brussels 2009 - 27th Contemporary Art Fair",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ],
+    "2010": [
+      {
+        "i": "14600-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ],
+    "2012": [
+      {
+        "i": "14600-Artgenève - Salon international d\\'art  2012",
+        "c": "CH",
+        "n": null,
+        "ct": "Geneva"
+      }
+    ],
+    "2013": [
+      {
+        "i": "14600-Art Brussels 2013",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

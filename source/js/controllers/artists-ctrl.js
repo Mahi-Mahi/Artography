@@ -284,7 +284,7 @@ define([], function() {
 						// 	id: expo.i,
 						// 	name: dataService.data.artists.names[expo.i].name
 						// });
-						if (expo.c) {
+						if (expo.c && expo.c != 'FR') {
 							var country = data.continents[data.cc[expo.c]].countries[expo.c];
 							var artists = country.artists;
 							if (!artists[expo.i]) {
@@ -601,7 +601,7 @@ define([], function() {
 				c = letters.length - 1;
 				var R = rotation;
 
-				if ((R < 70 || R > 240) && a < 180) {
+				if (rotation + a <= 90 || rotation >= 270) {
 					message = message.split("").reverse().join("");
 					res = prepareText(message, fontSize, letterSpacing, kerning, geckoKerning, fontColor, fontWeight);
 					letters = res.letters;
@@ -618,6 +618,7 @@ define([], function() {
 					var p = path.getPointAtLength(places[c] * letterSpacing + point);
 					// var rotate = 'R' + (p.alpha < 180 && reverse ? p.alpha + 180 : p.alpha > 360 ? p.alpha - 360 : p.alpha) + ',' + p.x + ',' + p.y;
 					var rotate = 'R' + (p.alpha < 180 || reverse ? p.alpha + 180 : p.alpha) + ',' + p.x + ',' + p.y;
+					// var rotate = 'R' + p.alpha + ',' + p.x + ',' + p.y;
 					set.push(letters[c].attr({
 							x: p.x,
 							y: p.y,
@@ -639,7 +640,6 @@ define([], function() {
 				}
 				return set;
 			}
-
 		}
 
 	];

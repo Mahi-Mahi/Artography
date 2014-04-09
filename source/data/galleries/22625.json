@@ -1,0 +1,28 @@
+{
+  "id": "22625",
+  "name": "Galerie RDV",
+  "street": "16, avenue du Commandant Charcot",
+  "zip": "44000",
+  "city": "Nantes",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)2 40 69 62 35",
+  "email": "contact@galerierdv.com",
+  "www": "www.galerierdv.com",
+  "map": "http://maps.google.com/maps?q=Nantes%2C%2044000 %2C%20 %2C%2016, avenue du Commandant Charcot %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2013": [
+      {
+        "i": "22625-Just Mad 4 2013",
+        "c": "ES",
+        "n": null,
+        "ct": "Madrid"
+      }
+    ]
+  }
+}

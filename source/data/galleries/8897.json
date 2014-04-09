@@ -1,0 +1,112 @@
+{
+  "id": "8897",
+  "name": "Galerie Dukan",
+  "street": "24, rue Pastourelle",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2006",
+  "directeurs": "Sam Dukan",
+  "profile": null,
+  "tel": "+33 (0)9 81 34 61 83",
+  "email": "info@galeriedukan.com",
+  "www": "www.galeriedukan.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2024, rue Pastourelle %2C%20France",
+  "fairs-total": "24",
+  "fairs-abroad": "13",
+  "fairs-in-FR": "11",
+  "fairs": {
+    "2007": [
+      {
+        "i": "8897-Arte Fiera 2007",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      },
+      {
+        "i": "8897-Toronto Art Fair 2007",
+        "c": "CA",
+        "n": null,
+        "ct": "Vancouver, BC"
+      }
+    ],
+    "2008": [
+      {
+        "i": "8897-Arte Fiera 2008",
+        "c": "IT",
+        "n": null,
+        "ct": "Bologna"
+      },
+      {
+        "i": "8897-bâlelatina 2008",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2009": [
+      {
+        "i": "8897-Scope Basel 2009",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "8897-Scope Basel 2010",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ],
+    "2011": [
+      {
+        "i": "8897-Scope New York 2011",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "8897-Art Amsterdam 2011",
+        "c": "NL",
+        "n": null,
+        "ct": "Amsterdam"
+      }
+    ],
+    "2012": [
+      {
+        "i": "8897-Artissima 19",
+        "c": "IT",
+        "n": null,
+        "ct": "Turin"
+      },
+      {
+        "i": "8897-Contemporary Istanbul Art Fair 2012",
+        "c": "TR",
+        "n": null,
+        "ct": "Istanbul"
+      }
+    ],
+    "2013": [
+      {
+        "i": "8897-Art13 London",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "8897-Zona Maco Mexico 2013",
+        "c": "MX",
+        "n": null,
+        "ct": "Mexico City"
+      },
+      {
+        "i": "8897-Volta 9 Basel 2013",
+        "c": "CH",
+        "n": null,
+        "ct": "Münchenstein / Basel"
+      }
+    ]
+  }
+}

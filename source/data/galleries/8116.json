@@ -1,0 +1,34 @@
+{
+  "id": "8116",
+  "name": "Galerie d'art Saltiel",
+  "street": "1, Place du Champ de Bataille",
+  "zip": "83330",
+  "city": "La Castellet",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 94 32 72 01",
+  "email": null,
+  "www": "www.galerie-saltiel.com",
+  "map": "http://maps.google.com/maps?q=La Castellet%2C%2083330 %2C%20 %2C%201, Place du Champ de Bataille %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "9",
+  "fairs": {
+    "2010": [
+      {
+        "i": "8116-Shanghai Art Fair - 2010",
+        "c": "CN",
+        "n": null,
+        "ct": "Shanghai"
+      },
+      {
+        "i": "8116-ShContemporary 2010",
+        "c": "CN",
+        "n": null,
+        "ct": "Shanghai"
+      }
+    ]
+  }
+}

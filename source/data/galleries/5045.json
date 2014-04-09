@@ -1,0 +1,116 @@
+{
+  "id": "5045",
+  "name": "GNG galerie d'art",
+  "street": "3, rue Visconti",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1994",
+  "directeurs": "Gilles Naudin",
+  "profile": null,
+  "tel": "+33 (0) 1 43266471",
+  "email": "info@galeriegng.com",
+  "www": "www.galeriegng.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%203, rue Visconti %2C%20France",
+  "fairs-total": "32",
+  "fairs-abroad": "13",
+  "fairs-in-FR": "19",
+  "fairs": {
+    "2005": [
+      {
+        "i": "5045-art KARLSRUHE 2005",
+        "c": "DE",
+        "n": null,
+        "ct": "Rheinstetten"
+      }
+    ],
+    "2006": [
+      {
+        "i": "5045-art KARLSRUHE 2006",
+        "c": "DE",
+        "n": null,
+        "ct": "Rheinstetten"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5045-art KARLSRUHE 2007",
+        "c": "DE",
+        "n": null,
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "5045-Lineart 2007",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5045-art KARLSRUHE 2008",
+        "c": "DE",
+        "n": null,
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5045-art KARLSRUHE 2009",
+        "c": "DE",
+        "n": null,
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "5045-Lineart 2009",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5045-art KARLSRUHE 2010",
+        "c": "DE",
+        "n": null,
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5045-art KARLSRUHE 2011",
+        "c": "DE",
+        "n": null,
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5045-Art Karlsruhe 2012",
+        "c": "DE",
+        "n": null,
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "5045-Art Gent 2012",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5045-Art Karlsruhe 2013",
+        "c": "DE",
+        "n": null,
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "5045-Art Gent 2013",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ]
+  }
+}

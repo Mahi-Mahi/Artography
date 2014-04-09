@@ -1,0 +1,104 @@
+{
+  "id": "23669",
+  "name": "Galerie Mor-Charpentier",
+  "street": "8, rue Saint-Claude Paris 3ème",
+  "zip": "",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+(33) 01 44 54 01 58 ",
+  "email": "contact@mor-charpentier.com ",
+  "www": "www.mor-charpentier.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%20 %2C%20 %2C%208, rue Saint-Claude Paris 3ème %2C%20France",
+  "fairs-total": "14",
+  "fairs-abroad": "13",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2011": [
+      {
+        "i": "23669-ARCOmadrid  2011",
+        "c": "ES",
+        "n": null,
+        "ct": "Madrid"
+      },
+      {
+        "i": "23669-Artbo 2011",
+        "c": "CO",
+        "n": null,
+        "ct": "Bogota"
+      }
+    ],
+    "2012": [
+      {
+        "i": "23669-ARCOmadrid 2012",
+        "c": "ES",
+        "n": null,
+        "ct": "Madrid"
+      },
+      {
+        "i": "23669-Zona Maco Mexico 2012",
+        "c": "MX",
+        "n": null,
+        "ct": "Mexico City"
+      },
+      {
+        "i": "23669-Loop - The Video Art Fair 2012",
+        "c": "ES",
+        "n": null,
+        "ct": "Barcelona"
+      },
+      {
+        "i": "23669-Frieze London 2012",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "23669-Artbo 2012",
+        "c": "CO",
+        "n": null,
+        "ct": "Bogota"
+      },
+      {
+        "i": "23669-Art Basel Miami Beach 2012",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "23669-ARCOmadrid 2013",
+        "c": "ES",
+        "n": null,
+        "ct": "Madrid"
+      },
+      {
+        "i": "23669-Zona Maco Mexico 2013",
+        "c": "MX",
+        "n": null,
+        "ct": "Mexico City"
+      },
+      {
+        "i": "23669-LISTE Art Fair Basel 2013",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "23669-Artbo 2013",
+        "c": "CO",
+        "n": null,
+        "ct": "Bogota"
+      },
+      {
+        "i": "23669-Art Basel Miami Beach 2013",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ]
+  }
+}

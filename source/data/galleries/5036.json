@@ -1,0 +1,82 @@
+{
+  "id": "5036",
+  "name": "La Capitale Galerie",
+  "street": "18. Rue du Roule",
+  "zip": "75001",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 4211931",
+  "email": "info@lacapitalegalerie.com",
+  "www": "www.lacapitalegalerie.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075001 %2C%20 %2C%2018. Rue du Roule %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "8",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5036-art KARLSRUHE 2006",
+        "c": "DE",
+        "n": null,
+        "ct": "Rheinstetten"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5036-art KARLSRUHE 2007",
+        "c": "DE",
+        "n": null,
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "5036-Lineart 2007",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5036-Lineart 2008",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5036-Lineart 2009",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5036-Lineart 2010",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5036-Lineart 2011",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5036-Art Gent 2012",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ]
+  }
+}

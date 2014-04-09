@@ -1,0 +1,126 @@
+{
+  "id": "17012",
+  "name": "Gaudel de Stampa",
+  "street": "3, rue de Vaucouleurs",
+  "zip": "75011",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Denis Gaudel",
+  "profile": null,
+  "tel": "+33 (0)1 40 21 37 38",
+  "email": "denis@gaudeldestampa.com, rany@gaudeldestampa.com",
+  "www": "www.gaudeldestampa.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075011 %2C%20 %2C%203, rue de Vaucouleurs %2C%20France",
+  "fairs-total": "20",
+  "fairs-abroad": "16",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2009": [
+      {
+        "i": "17012-ROMA – The Road to Contemporary Art 2009",
+        "c": "IT",
+        "n": null,
+        "ct": "Rome"
+      }
+    ],
+    "2010": [
+      {
+        "i": "17012-Liste 2010",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "17012-Artissima 17",
+        "c": "IT",
+        "n": null,
+        "ct": "Turin"
+      }
+    ],
+    "2011": [
+      {
+        "i": "17012-Fruits, Flowers, and Clouds 2011",
+        "c": "AT",
+        "n": null,
+        "ct": "Vienna"
+      },
+      {
+        "i": "17012-Liste 2011",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "17012-Sunday London 2011",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "17012-Artissima 18",
+        "c": "IT",
+        "n": null,
+        "ct": "Turin"
+      },
+      {
+        "i": "17012-Art Basel Miami Beach 2011",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2012": [
+      {
+        "i": "17012-Art Brussels 2012",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      },
+      {
+        "i": "17012-Liste  2012",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "17012-Sunday London art 2012",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "17012-Art Basel Miami Beach 2012",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "17012-Independent",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "17012-Art Basel 2013",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "17012-Frieze London 2013",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "17012-Art Basel Miami Beach 2013",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ]
+  }
+}

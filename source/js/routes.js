@@ -18,12 +18,14 @@ define(['angular', 'app'], function(angular, app) {
 				controller: 'homeController'
 			});
 
+			// ARTISTES
+
 			$routeProvider.when('/artistes', {
 				templateUrl: '/partials/artists.html',
 				controller: 'artistsController',
 				resolve: {
 					datasets: function(dataService) {
-						return dataService.init();
+						return dataService.init('artist');
 					}
 				}
 			});
@@ -33,7 +35,7 @@ define(['angular', 'app'], function(angular, app) {
 				controller: 'artistsController',
 				resolve: {
 					datasets: function(dataService) {
-						return dataService.init();
+						return dataService.init('artist');
 					}
 				}
 			});
@@ -43,7 +45,7 @@ define(['angular', 'app'], function(angular, app) {
 				controller: 'artistsController',
 				resolve: {
 					datasets: function(dataService) {
-						return dataService.init();
+						return dataService.init('artist');
 					}
 				}
 			});
@@ -53,10 +55,12 @@ define(['angular', 'app'], function(angular, app) {
 				controller: 'artistsController',
 				resolve: {
 					datasets: function(dataService) {
-						return dataService.init();
+						return dataService.init('artist');
 					}
 				}
 			});
+
+			// ARTIST
 
 			$routeProvider.when('/artiste/:id', {
 				templateUrl: '/partials/artist.html',
@@ -77,6 +81,54 @@ define(['angular', 'app'], function(angular, app) {
 					datasets: ['$route', 'dataService',
 						function($route, dataService) {
 							return dataService.getArtist($route.current.params.id);
+						}
+					]
+				}
+			});
+
+			// GALLERIES
+
+			$routeProvider.when('/galeries', {
+				templateUrl: '/partials/galleries.html',
+				controller: 'galleriesController',
+				resolve: {
+					datasets: function(dataService) {
+						return dataService.init('gallery');
+					}
+				}
+			});
+
+			$routeProvider.when('/galeries/:period', {
+				templateUrl: '/partials/galleries.html',
+				controller: 'galleriesController',
+				resolve: {
+					datasets: function(dataService) {
+						return dataService.init('gallery');
+					}
+				}
+			});
+
+			// GALLERY
+
+			$routeProvider.when('/galerie/:id', {
+				templateUrl: '/partials/gallery.html',
+				controller: 'galleryController',
+				resolve: {
+					datasets: ['$route', 'dataService',
+						function($route, dataService) {
+							return dataService.getGallery($route.current.params.id);
+						}
+					]
+				}
+			});
+
+			$routeProvider.when('/galerie/:id/:period', {
+				templateUrl: '/partials/gallery.html',
+				controller: 'galleryController',
+				resolve: {
+					datasets: ['$route', 'dataService',
+						function($route, dataService) {
+							return dataService.getGallery($route.current.params.id);
 						}
 					]
 				}

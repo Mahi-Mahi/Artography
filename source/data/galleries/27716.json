@@ -1,0 +1,28 @@
+{
+  "id": "27716",
+  "name": "Galerie Maria Wettergren",
+  "street": "18 rue Guénégaud",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 1 43 29 19 60",
+  "email": "info@mariawettergren.com",
+  "www": "www.mariawettergren.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2018 rue Guénégaud %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2012": [
+      {
+        "i": "27716-Design Miami",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

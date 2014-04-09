@@ -1,0 +1,28 @@
+{
+  "id": "5004",
+  "name": "Galerie Michèle Guérin",
+  "street": "12, rue de la Mairie",
+  "zip": "78270",
+  "city": "Limetz-Villez",
+  "country": "France",
+  "foundation": "1993",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 30931165",
+  "email": "micheleguerin@infonie.fr",
+  "www": "www.galerie-micheleguerin.com",
+  "map": "http://maps.google.com/maps?q=Limetz-Villez%2C%2078270 %2C%20 %2C%2012, rue de la Mairie %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "10",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5004-art KARLSRUHE 2006",
+        "c": "DE",
+        "n": null,
+        "ct": "Rheinstetten"
+      }
+    ]
+  }
+}

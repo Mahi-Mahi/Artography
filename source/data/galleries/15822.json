@@ -1,0 +1,28 @@
+{
+  "id": "15822",
+  "name": "Galerie de Bayser",
+  "street": "69 rue Sainte Anne",
+  "zip": "75002",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 47 03 49 87",
+  "email": "info@debayser.com",
+  "www": "www.debayser.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075002 %2C%20 %2C%2069 rue Sainte Anne %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2008": [
+      {
+        "i": "15822-Works on Paper - 2008",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "16210",
+  "name": "Galerie Paris-Beijing",
+  "street": "54 rue du Vertbois",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2006",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 1 42 74 32 36",
+  "email": "galerieparisbeijing@gmail.com",
+  "www": "www.parisbeijingphotogallery.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2054 rue du Vertbois %2C%20France",
+  "fairs-total": "25",
+  "fairs-abroad": "10",
+  "fairs-in-FR": "15",
+  "fairs": {
+    "2008": [
+      {
+        "i": "16210-Art Beijing 2008",
+        "c": "CN",
+        "n": null,
+        "ct": "Beijing"
+      },
+      {
+        "i": "16210-ACAF NY 2008",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ],
+    "2009": [
+      {
+        "i": "16210-Art Beijing 2009",
+        "c": "CN",
+        "n": null,
+        "ct": "Beijing"
+      },
+      {
+        "i": "16210-Scope Basel 2009",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "16210-Scope Miami 2010",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ],
+    "2011": [
+      {
+        "i": "16210-ArtHK11",
+        "c": "CN",
+        "n": null,
+        "ct": "Hong Kong, SAR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "16210-Art Stage Singapore 2012",
+        "c": "SG",
+        "n": null,
+        "ct": "Singapore"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16210-Art Stage Singapore 2013",
+        "c": "SG",
+        "n": null,
+        "ct": "Singapore"
+      },
+      {
+        "i": "16210-Art13 London",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      }
+    ]
+  }
+}

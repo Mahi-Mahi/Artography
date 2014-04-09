@@ -1,0 +1,86 @@
+{
+  "id": "3983",
+  "name": "Galerie Vanessa Quang",
+  "street": "5bis, rue Beauce",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Vanessa Quang",
+  "profile": null,
+  "tel": "+33 (0)1 49270334",
+  "email": "info@galerie-quang.com",
+  "www": "www.galerie-quang.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%205bis, rue Beauce %2C%20France",
+  "fairs-total": "19",
+  "fairs-abroad": "9",
+  "fairs-in-FR": "10",
+  "fairs": {
+    "2005": [
+      {
+        "i": "3983-Preview Berlin -  the emerging art fair - 2005",
+        "c": "DE",
+        "n": null,
+        "ct": "Berlin"
+      }
+    ],
+    "2007": [
+      {
+        "i": "3983-V|07 - Venice VideoArt Fair",
+        "c": "IT",
+        "n": null,
+        "ct": "Venice"
+      },
+      {
+        "i": "3983-Photo Miami 2007",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ],
+    "2009": [
+      {
+        "i": "3983-Volta NY 09",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "3983-VOLTAshow05",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "3983-Volta NY 10",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ],
+    "2011": [
+      {
+        "i": "3983-Zona Maco Mexico 11",
+        "c": "MX",
+        "n": null,
+        "ct": "Mexico City"
+      }
+    ],
+    "2012": [
+      {
+        "i": "3983-The Solo Project 2012",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "3983-Unseen Photo Fair 2012",
+        "c": "NL",
+        "n": null,
+        "ct": "Amsterdam"
+      }
+    ]
+  }
+}

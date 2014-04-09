@@ -1,0 +1,28 @@
+{
+  "id": "28808",
+  "name": "Galerie Taglialatella",
+  "street": "13 rue de Picardie",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 1 44 78 23 68",
+  "email": "info@djtfa-paris.com",
+  "www": "www.djtfa-paris.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2013 rue de Picardie %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2013": [
+      {
+        "i": "28808-Art Monaco 2013",
+        "c": "MC",
+        "n": null,
+        "ct": "Monaco"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "7881",
+  "name": "heartgalerie",
+  "street": "30 rue de Charonne",
+  "zip": "75011",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1995",
+  "directeurs": "Cyril Setbon + Jean Philippe Aka",
+  "profile": null,
+  "tel": "+33 (0)1 48 07 22 92",
+  "email": "heart@heartgalerie.fr",
+  "www": "www.heartgalerie.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075011 %2C%2030 %2C%20rue de Charonne %2C%20France",
+  "fairs-total": "13",
+  "fairs-abroad": "8",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2005": [
+      {
+        "i": "7881-Diva - Digital & Video Art Fair - Cologne 2005",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      }
+    ],
+    "2008": [
+      {
+        "i": "7881-bâlelatina 2008",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2009": [
+      {
+        "i": "7881-Scope Basel 2009",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "7881-Scope Basel 2010",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ],
+    "2013": [
+      {
+        "i": "7881-Joburg Art Fair 2013",
+        "c": "ZA",
+        "n": null,
+        "ct": "Johannesburg"
+      }
+    ]
+  }
+}

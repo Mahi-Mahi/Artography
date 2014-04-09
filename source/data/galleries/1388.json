@@ -1,0 +1,60 @@
+{
+  "id": "1388",
+  "name": "Galerie Maria Lund - La Galerie Danoise",
+  "street": "48, rue de Turenne",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Maria Lund",
+  "profile": null,
+  "tel": "+33-(0)1-42 76 00 33",
+  "email": "galerie@marialund.com",
+  "www": "www.marialund.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2048, rue de Turenne %2C%20France",
+  "fairs-total": "12",
+  "fairs-abroad": "5",
+  "fairs-in-FR": "7",
+  "fairs": {
+    "2008": [
+      {
+        "i": "1388-KIAF 2008",
+        "c": "KR",
+        "n": null,
+        "ct": "Seoul"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1388-KIAF 09",
+        "c": "KR",
+        "n": null,
+        "ct": "Seoul"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1388-KIAF 2010",
+        "c": "KR",
+        "n": null,
+        "ct": "Seoul"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1388-KIAF 2011",
+        "c": "KR",
+        "n": null,
+        "ct": "Seoul"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1388-Art On Paper 2012",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

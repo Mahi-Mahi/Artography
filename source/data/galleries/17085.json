@@ -1,0 +1,36 @@
+{
+  "id": "17085",
+  "name": "Galerie Stanislas Bourgain",
+  "street": "48, rue Chapon",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2008",
+  "directeurs": "Stanislas Bourgain",
+  "profile": "Contemporary art gallery in Paris, representing ",
+  "tel": "+33 (0)6 61 46 79 53 ",
+  "email": "info@galeriesb.com",
+  "www": "www.galeriesb.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2048, rue Chapon %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2009": [
+      {
+        "i": "17085-Loop - The Video Art Fair 09",
+        "c": "ES",
+        "n": null,
+        "ct": "Barcelona"
+      }
+    ],
+    "2010": [
+      {
+        "i": "17085-Volta NY 10",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "27891",
+  "name": "Galerie Pierre-Alain Challier",
+  "street": "8, rue Debelleyme",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 1 49 96 63 00",
+  "email": "galerie@pacea.fr",
+  "www": "www.pacea.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%208, rue Debelleyme %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2012": [
+      {
+        "i": "27891-Art Show Busan 2012",
+        "c": "KR",
+        "n": null,
+        "ct": "Busan"
+      }
+    ]
+  }
+}

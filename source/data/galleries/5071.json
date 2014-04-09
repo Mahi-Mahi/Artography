@@ -1,0 +1,34 @@
+{
+  "id": "5071",
+  "name": "Galerie Slotine",
+  "street": "15 rue Pétrarque",
+  "zip": "75116",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 45534284",
+  "email": "galerieslotine@wanadoo.fr",
+  "www": "www.galerieslotine.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075116 %2C%20 %2C%2015 rue Pétrarque %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5071-art KARLSRUHE 2006",
+        "c": "DE",
+        "n": null,
+        "ct": "Rheinstetten"
+      },
+      {
+        "i": "5071-art.fair 2006",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "19826",
+  "name": "Laurence Esnol Gallery",
+  "street": "40-42, rue des Saint-Pères",
+  "zip": "75007",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 45 44 32 38",
+  "email": "laurence@laurenceesnolgallery.com",
+  "www": "www.laurenceesnolgallery.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%2040-42, rue des Saint-Pères %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "8",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19826-Scope Basel 2009",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2011": [
+      {
+        "i": "19826-ART Innsbruck 2011",
+        "c": "AT",
+        "n": null,
+        "ct": "Innsbruck"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "29700",
+  "name": "Galerie Sophie Lanoë",
+  "street": "13 rue de Babylone",
+  "zip": "75007",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)6 61 99 75 63",
+  "email": null,
+  "www": "www.galeriesophielanoe.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%2013 rue de Babylone %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2013": [
+      {
+        "i": "29700-Beirut Art Fair 2013",
+        "c": "LB",
+        "n": null,
+        "ct": "Beirut"
+      }
+    ]
+  }
+}

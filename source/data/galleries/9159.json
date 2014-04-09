@@ -1,0 +1,68 @@
+{
+  "id": "9159",
+  "name": "Haboldt & Co.",
+  "street": "70, rue du Faubourg Saint-Honoré",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1983",
+  "directeurs": "Bob P. Haboldt",
+  "profile": null,
+  "tel": "+33 (0)1 42 66 44 54",
+  "email": "oldmasters@haboldt.com",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2070, rue du Faubourg Saint-Honoré %2C%20France",
+  "fairs-total": "6",
+  "fairs-abroad": "6",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2008": [
+      {
+        "i": "9159-TEFAF Maastricht 2008",
+        "c": "NL",
+        "n": null,
+        "ct": "Maastricht"
+      }
+    ],
+    "2009": [
+      {
+        "i": "9159-TEFAF Maastricht 2009",
+        "c": "NL",
+        "n": null,
+        "ct": "Maastricht"
+      }
+    ],
+    "2010": [
+      {
+        "i": "9159-TEFAF Maastricht 2010",
+        "c": "NL",
+        "n": null,
+        "ct": "Maastricht"
+      }
+    ],
+    "2011": [
+      {
+        "i": "9159-TEFAF Maastricht 2011",
+        "c": "NL",
+        "n": null,
+        "ct": "Helvoirt"
+      }
+    ],
+    "2012": [
+      {
+        "i": "9159-TEFAF Maastricht 2012",
+        "c": "NL",
+        "n": null,
+        "ct": "Helvoirt"
+      }
+    ],
+    "2013": [
+      {
+        "i": "9159-TEFAF Maastricht 2013",
+        "c": "NL",
+        "n": null,
+        "ct": "Maastricht"
+      }
+    ]
+  }
+}

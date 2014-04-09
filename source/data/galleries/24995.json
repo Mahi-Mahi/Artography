@@ -1,0 +1,62 @@
+{
+  "id": "24995",
+  "name": "Galerie Charlot",
+  "street": "47 rue Charlot",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 76 02 67",
+  "email": "info@galeriecharlot.com",
+  "www": "www.galeriecharlot.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2047 rue Charlot %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "6",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2011": [
+      {
+        "i": "24995-SWAB 2011",
+        "c": "ES",
+        "n": null,
+        "ct": "Barcelona"
+      }
+    ],
+    "2012": [
+      {
+        "i": "24995-Art Karlsruhe 2012",
+        "c": "DE",
+        "n": null,
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2013": [
+      {
+        "i": "24995-Art Karlsruhe 2013",
+        "c": "DE",
+        "n": null,
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "24995-Slick Brussels 2013",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      },
+      {
+        "i": "24995-cutlog NY 2013",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "24995-Scope Basel 2013",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ]
+  }
+}

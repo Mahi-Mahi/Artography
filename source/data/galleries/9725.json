@@ -1,0 +1,36 @@
+{
+  "id": "9725",
+  "name": "La Galerie Africaine Visibilite Noire",
+  "street": "52, avenue Mozart",
+  "zip": "75016",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Aude Minart",
+  "profile": null,
+  "tel": "+33 (0)6 602 40 626",
+  "email": "audeminart@hotmail.com",
+  "www": "www.lagalerieafricaine.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075016 %2C%20 %2C%2052, avenue Mozart %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2007": [
+      {
+        "i": "9725-Art Madrid 2007",
+        "c": "ES",
+        "n": null,
+        "ct": "Madrid"
+      }
+    ],
+    "2010": [
+      {
+        "i": "9725-ART on PAPER",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

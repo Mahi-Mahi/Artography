@@ -1,0 +1,58 @@
+{
+  "id": "14026",
+  "name": "Marc Laurenti Art Gallery",
+  "street": "15, avenue André Malraux",
+  "zip": "92300",
+  "city": "Levallois",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 47 57 01 96",
+  "email": "contact@marclaurenti-artgallery.com",
+  "www": "www.marclaurenti-artgallery.com",
+  "map": "http://maps.google.com/maps?q=Levallois%2C%2092300 %2C%20 %2C%2015, avenue André Malraux %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2007": [
+      {
+        "i": "14026-ArtParis - AbuDhabi 2007",
+        "c": "AE",
+        "n": null,
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2009": [
+      {
+        "i": "14026-Affordable Art Fair Bruxelles 09",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      },
+      {
+        "i": "14026-Lineart 2009",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ],
+    "2010": [
+      {
+        "i": "14026-Artmonaco 2010",
+        "c": "MC",
+        "n": null,
+        "ct": "Monaco"
+      }
+    ],
+    "2011": [
+      {
+        "i": "14026-Artmonaco 2011",
+        "c": "MC",
+        "n": null,
+        "ct": "Monaco"
+      }
+    ]
+  }
+}

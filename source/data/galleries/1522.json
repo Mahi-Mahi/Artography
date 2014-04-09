@@ -1,0 +1,314 @@
+{
+  "id": "1522",
+  "name": "Galerie Chantal Crousel",
+  "street": "10, rue Charlot",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1980",
+  "directeurs": "Chantal Crousel, Nikolas Svennung",
+  "profile": null,
+  "tel": "+33-(0)1-42 77 38 87",
+  "email": "galerie@crousel.com",
+  "www": "www.crousel.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2010, rue Charlot %2C%20France",
+  "fairs-total": "56",
+  "fairs-abroad": "46",
+  "fairs-in-FR": "10",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1522-ARCO 05",
+        "c": "ES",
+        "n": null,
+        "ct": "Madrid"
+      },
+      {
+        "i": "1522-Art 36 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1522-Frieze Art Fair 2005",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "1522-Loop - The Video Art Fair '05",
+        "c": "ES",
+        "n": null,
+        "ct": "Barcelona"
+      },
+      {
+        "i": "1522-Art Basel Miami Beach 2005",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1522-The Armory Show 2006",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1522-Art 37 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1522-Frieze Art Fair 2006",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "1522-Art Basel Miami Beach 2006",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1522-The Armory Show 2007",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1522-Art 38 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1522-ShContemporary 07",
+        "c": "CN",
+        "n": null,
+        "ct": "Shanghai"
+      },
+      {
+        "i": "1522-Frieze Art Fair 2007",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "1522-Art Basel Miami Beach 2007",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1522-Art Dubai 08",
+        "c": "AE",
+        "n": null,
+        "ct": "Dubai"
+      },
+      {
+        "i": "1522-Art 39 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1522-Frieze Art Fair 2008",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "1522-Artissima 15",
+        "c": "IT",
+        "n": null,
+        "ct": "Turin"
+      },
+      {
+        "i": "1522-Art Basel Miami Beach 2008",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1522-Art Cologne 2009",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      },
+      {
+        "i": "1522-Art 40 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1522-abc art berlin contemporary 09",
+        "c": "DE",
+        "n": null,
+        "ct": "Berlin"
+      },
+      {
+        "i": "1522-Art Basel Miami Beach 2009",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1522-Art Dubai 2010",
+        "c": "AE",
+        "n": null,
+        "ct": "Dubai"
+      },
+      {
+        "i": "1522-Art 41 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1522-Frieze Art Fair 2010",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "1522-Art Basel Miami Beach 2010",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1522-Art Dubai 2011",
+        "c": "AE",
+        "n": null,
+        "ct": "Dubai"
+      },
+      {
+        "i": "1522-ArtHK11",
+        "c": "CN",
+        "n": null,
+        "ct": "Hong Kong, SAR"
+      },
+      {
+        "i": "1522-Art 42 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1522-Frieze Art Fair 2011",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "1522-Art Basel Miami Beach 2011",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1522-ARCOmadrid 2012",
+        "c": "ES",
+        "n": null,
+        "ct": "Madrid"
+      },
+      {
+        "i": "1522-Art Dubai 2012",
+        "c": "AE",
+        "n": null,
+        "ct": "Dubai"
+      },
+      {
+        "i": "1522-Frieze New York 2012",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1522-Hong Kong International Art Fair 2012",
+        "c": "CN",
+        "n": null,
+        "ct": "Hong Kong, SAR"
+      },
+      {
+        "i": "1522-Art 43 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1522-Frieze London 2012",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "1522-Art Basel Miami Beach 2012",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1522-ARCOmadrid 2013",
+        "c": "ES",
+        "n": null,
+        "ct": "Madrid"
+      },
+      {
+        "i": "1522-Art Dubai 2013",
+        "c": "AE",
+        "n": null,
+        "ct": "Dubai"
+      },
+      {
+        "i": "1522-Frieze New York 2013",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1522-Art Basel Hong Kong",
+        "c": "CN",
+        "n": null,
+        "ct": "Hong Kong, SAR"
+      },
+      {
+        "i": "1522-Art Basel 2013",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1522-Frieze London 2013",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "1522-Art Basel Miami Beach 2013",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ]
+  }
+}

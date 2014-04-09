@@ -1,0 +1,64 @@
+{
+  "id": "4183",
+  "name": "g-module",
+  "street": "15, rue Debelleyme",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Jeff Gleich",
+  "profile": null,
+  "tel": "+33 (0)1 42711475",
+  "email": "inform@g-module.com",
+  "www": "www.g-module.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%20 15, rue Debelleyme %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "6",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2005": [
+      {
+        "i": "4183-Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ],
+    "2006": [
+      {
+        "i": "4183-Year_06 Art Project",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "4183-Diva - Digital & Video Art Fair - Miami 2006",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ],
+    "2007": [
+      {
+        "i": "4183-Year_07 Art Project",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "4183-Aqua Art Miami Wynwood 2007",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "4183-Art Amsterdam 2008",
+        "c": "NL",
+        "n": null,
+        "ct": "Amsterdam"
+      }
+    ]
+  }
+}

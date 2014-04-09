@@ -1,0 +1,28 @@
+{
+  "id": "26348",
+  "name": "Galerie Binôme",
+  "street": "19, rue Charlemagne",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Philippe Gelot",
+  "profile": null,
+  "tel": "+33 (0)1 42 74 27 25",
+  "email": "info@galeriebinome.com",
+  "www": "www.galeriebinome.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%2019, rue Charlemagne %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2013": [
+      {
+        "i": "26348-Slick Brussels 2013",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

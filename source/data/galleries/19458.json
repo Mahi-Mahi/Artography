@@ -1,0 +1,66 @@
+{
+  "id": "19458",
+  "name": "SAGE Paris",
+  "street": "1 bis, avenue de Lowendal",
+  "zip": "75007",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2004",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+ 33 (0) 1 47 05 05 20",
+  "email": "info@sageparis.com",
+  "www": "www.sageparis.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%201 bis, avenue de Lowendal %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "6",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19458-Art Cologne 2009",
+        "c": "DE",
+        "n": null,
+        "ct": "Cologne"
+      }
+    ],
+    "2010": [
+      {
+        "i": "19458-Art 41 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2011": [
+      {
+        "i": "19458-Art 42 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2012": [
+      {
+        "i": "19458-Art 43 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2013": [
+      {
+        "i": "19458-The Aipad Photography Show 2013",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "19458-Art Basel 2013",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ]
+  }
+}

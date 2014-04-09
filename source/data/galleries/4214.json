@@ -1,0 +1,36 @@
+{
+  "id": "4214",
+  "name": "Galerie Salvador",
+  "street": "16, rue Dauphine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Thierry Salvador",
+  "profile": null,
+  "tel": "+33 (0)1 43541490",
+  "email": "galeriesalvador@hotmail.com",
+  "www": "www.galeriesalvador.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%20 16, rue Dauphine %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "7",
+  "fairs": {
+    "2005": [
+      {
+        "i": "4214-Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ],
+    "2008": [
+      {
+        "i": "4214-MiArt 2008 - 12th international modern and contemporary art fair",
+        "c": "IT",
+        "n": null,
+        "ct": "Milan"
+      }
+    ]
+  }
+}

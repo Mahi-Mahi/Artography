@@ -33,6 +33,26 @@ define(['angular', 'services'], function(angular) {
 				});
 			});
 		}
+	])
+
+	.controller('galleriesController', ['$scope', '$injector',
+		function($scope, $injector) {
+			require(['controllers/galleries-ctrl'], function(galleriesController) {
+				$injector.invoke(galleriesController, this, {
+					'$scope': $scope
+				});
+			});
+		}
+	])
+
+	.controller('galleryController', ['$scope', '$injector',
+		function($scope, $injector) {
+			require(['controllers/gallery-ctrl'], function(galleryController) {
+				$injector.invoke(galleryController, this, {
+					'$scope': $scope
+				});
+			});
+		}
 	]);
 
 });

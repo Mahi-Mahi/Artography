@@ -1,0 +1,34 @@
+{
+  "id": "19699",
+  "name": "Galerie VivoEquidem",
+  "street": "113, rue du Cherche-Midi",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)9 61 26 92 13",
+  "email": "galerie@vivoequidem.net",
+  "www": "www.vivoequidem.net",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%20113, rue du Cherche-Midi %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19699-Glasgow Art Fair 2009",
+        "c": "GB",
+        "n": null,
+        "ct": "Glasgow (Scotland)"
+      },
+      {
+        "i": "19699-Berliner Liste 09",
+        "c": "DE",
+        "n": null,
+        "ct": "Berlin"
+      }
+    ]
+  }
+}

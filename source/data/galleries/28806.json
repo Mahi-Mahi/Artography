@@ -1,0 +1,28 @@
+{
+  "id": "28806",
+  "name": "LDBgallery",
+  "street": "50, Chemin des Trious",
+  "zip": "06570",
+  "city": "Saint-Paul de Vence",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": null,
+  "email": null,
+  "www": "www.ldbgallery.com",
+  "map": "http://maps.google.com/maps?q=Saint-Paul de Vence%2C%2006570 %2C%20 %2C%2050, Chemin des Trious %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2013": [
+      {
+        "i": "28806-Art Monaco 2013",
+        "c": "MC",
+        "n": null,
+        "ct": "Monaco"
+      }
+    ]
+  }
+}

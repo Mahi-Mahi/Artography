@@ -1,0 +1,80 @@
+<div class="wrapper">
+
+	<div class="entry-header clearfix">
+		<nav id="main-nav">
+			<ul class="unstyled">
+				<li class="main-nav-item"><a href="/" class="home-item">Accueil</a></li>
+				<li class="main-nav-item"><a href="/artists/">Artistes</a></li>
+				<li class="main-nav-item"><a href="/galeries/" class="active">Galeries</a></li>
+			</ul>
+		</nav><!-- .main-nav -->
+		<p class="go-back">
+			<a href="#" ng-click="goBack();">Retour</a>
+		</p>
+		<div class="entry-content">
+			<section>
+				<h1 class="entry-title">
+					EXPLORATION <br />PAR <strong>GALERIE</strong>
+				</h1>
+			</section>
+			<aside>
+				<div class="entry-description">
+					<div class="inner">
+						<p></p>
+					</div><!-- .inner -->
+				</div><!-- .entry-description -->
+			</aside>
+		</div><!-- .entry-content -->
+	</div><!-- .entry-header -->
+
+	<div class="row main">
+
+		<div class="col sidebar left-sidebar">
+
+			<div class="sidebar-inner">
+
+				<span>{{textOnPathDone}}</span>
+
+				<form action="about:blank">
+
+					<fieldset>
+						<legend>Période</legend>
+						<ul class="unstyled filter">
+							<li ng-repeat="period in periods">
+								<input type="radio" name="period" id="period-{{period.slug}}" value="{{period.slug}}" ng-model="$parent.filters.period" {period.checked} />
+								<label for="period-{{period.slug}}">
+									{{period.name}}
+								</label>
+							</li>
+						</ul>
+					</fieldset>
+				</form>
+
+			</div>
+
+		</div><!-- .left-sidebar -->
+
+		<div class="col content">
+			<div class="content-block">
+				<div id="canvas"></div>
+			</div><!-- .content-block -->
+		</div><!-- .content -->
+
+		<div class="col right-sidebar">
+			<form action="about:blank">
+				<input type="text" value="" class="input-sidebar" placeholder="Rechercher une galerie..." ng-model="searchText" ng-change="updateGalleries()"  />
+				<ul class="galleries-list unstyled">
+					<li ng-repeat="gallery in galleries" class="gallery-item {{gallery.enabled}}" ng-click="showGallery(gallery.id)">
+						<a href="#" id="gallery-{{gallery.id}}">
+							{{gallery.name}}
+						</a>
+					</li>
+				</ul>
+			</form>
+		</div><!-- .right-sidebar -->
+	</div><!-- .row -->
+
+
+</div><!-- .wrapper -->
+
+	<div class="credits" ng-include="'/partials/credits.html'"></div><!-- .credits -->

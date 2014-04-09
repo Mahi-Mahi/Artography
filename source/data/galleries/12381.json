@@ -1,0 +1,44 @@
+{
+  "id": "12381",
+  "name": "Galerie Les Chantiers boîte noire",
+  "street": "1 rue Carbonnerie",
+  "zip": "3400",
+  "city": "Montpellier",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": null,
+  "email": null,
+  "www": "www.leschantiersboitenoire.com",
+  "map": "http://maps.google.com/maps?q=Montpellier%2C%203400 %2C%20 %2C%201 rue Carbonnerie  %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2007": [
+      {
+        "i": "12381-Preview Berlin - the emerging art fair - 2007",
+        "c": "DE",
+        "n": null,
+        "ct": "Berlin"
+      }
+    ],
+    "2008": [
+      {
+        "i": "12381-Preview Berlin - the emerging art fair - 2008",
+        "c": "DE",
+        "n": null,
+        "ct": "Berlin"
+      }
+    ],
+    "2013": [
+      {
+        "i": "12381-Slick Brussels 2013",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

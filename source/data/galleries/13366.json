@@ -1,0 +1,28 @@
+{
+  "id": "13366",
+  "name": "Lacen Galerie",
+  "street": "20 rue de picardie",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 77 34 44",
+  "email": "info@lacengalerie.com",
+  "www": "www.lacengalerie.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2020 rue de picardie %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2008": [
+      {
+        "i": "13366-Scope London 2008",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      }
+    ]
+  }
+}

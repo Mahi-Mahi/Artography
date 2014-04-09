@@ -1,0 +1,28 @@
+{
+  "id": "5509",
+  "name": "Galerie de Messine",
+  "street": "1 avenue Messine",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Thomas Le Guillou",
+  "profile": null,
+  "tel": "+33 1 45 63 53 72",
+  "email": "info@galeriemessine.com",
+  "www": "galeriemessine.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%201 avenue Messine %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2013": [
+      {
+        "i": "5509-MiArt 2013",
+        "c": "IT",
+        "n": null,
+        "ct": "Milan"
+      }
+    ]
+  }
+}

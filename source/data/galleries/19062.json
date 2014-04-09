@@ -1,0 +1,36 @@
+{
+  "id": "19062",
+  "name": "Galerie Cecile Charron",
+  "street": "9 rue Alasseur",
+  "zip": "75015",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 56 58 16 44",
+  "email": null,
+  "www": "www.galeriececilecharron.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075015 %2C%20 %2C%209 rue Alasseur %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19062-ART Innsbruck 2009",
+        "c": "AT",
+        "n": null,
+        "ct": "Innsbruck"
+      }
+    ],
+    "2010": [
+      {
+        "i": "19062-ART Innsbruck 2010",
+        "c": "AT",
+        "n": null,
+        "ct": "Innsbruck"
+      }
+    ]
+  }
+}

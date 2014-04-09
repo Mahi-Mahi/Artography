@@ -1,0 +1,248 @@
+{
+  "id": "1797",
+  "name": "Art:Concept",
+  "street": "13 rue des Arquebusiers",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Olivier Antoine",
+  "profile": null,
+  "tel": "+33-(0)153 60 90 30",
+  "email": "info@galerieartconcept.com",
+  "www": "www.galerieartconcept.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2013 rue des Arquebusiers %2C%20France",
+  "fairs-total": "43",
+  "fairs-abroad": "35",
+  "fairs-in-FR": "8",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1797-The Armory Show 2005",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1797-Art Athina 2005",
+        "c": "GR",
+        "n": null,
+        "ct": "Athens"
+      },
+      {
+        "i": "1797-Frieze Art Fair 2005",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "1797-NADA Art Fair 2005 Miami",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1797-The Armory Show 2006",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1797-Art 37 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1797-11. ART FORUM BERLIN",
+        "c": "DE",
+        "n": null,
+        "ct": "Berlin"
+      },
+      {
+        "i": "1797-Frieze Art Fair 2006",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "1797-Artissima 13",
+        "c": "IT",
+        "n": null,
+        "ct": "Turin"
+      },
+      {
+        "i": "1797-NADA Art Fair 2006 Miami",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1797-The Armory Show 2007",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1797-Art Athina 2007",
+        "c": "GR",
+        "n": null,
+        "ct": "Athens"
+      },
+      {
+        "i": "1797-Liste 2007",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1797-Frieze Art Fair 2007",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "1797-Artissima 14",
+        "c": "IT",
+        "n": null,
+        "ct": "Turin"
+      },
+      {
+        "i": "1797-Art Basel Miami Beach 2007",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1797-The Armory Show 2008",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1797-Art 39 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1797-Frieze Art Fair 2008",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      },
+      {
+        "i": "1797-Artissima 15",
+        "c": "IT",
+        "n": null,
+        "ct": "Turin"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1797-The Armory Show 2009",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1797-Art 40 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1797-Artissima 16",
+        "c": "IT",
+        "n": null,
+        "ct": "Turin"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1797-The Armory Show 2010",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1797-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1797-The Armory Show 2011",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1797-Art 42 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1797-abc art berlin contemporary 2011",
+        "c": "DE",
+        "n": null,
+        "ct": "Berlin"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1797-Frieze New York 2012",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1797-Art 43 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1797-Art Basel Miami Beach 2012",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1797-SP Arte 2013",
+        "c": "BR",
+        "n": null,
+        "ct": "São Paulo"
+      },
+      {
+        "i": "1797-Frieze New York 2013",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1797-Art Basel 2013",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "1797-Art Basel Miami Beach 2013",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ]
+  }
+}

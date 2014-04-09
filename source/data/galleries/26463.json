@@ -1,0 +1,28 @@
+{
+  "id": "26463",
+  "name": "ARGENTIC",
+  "street": "7 rue Taylor",
+  "zip": "75010",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 608 905 133. ",
+  "email": "argentic@argentic.fr. ",
+  "www": "www.argentic-photo.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075010 %2C%20 %2C%207 rue Taylor %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2012": [
+      {
+        "i": "26463-photo l.a. 2012",
+        "c": "US",
+        "n": null,
+        "ct": "Los Angeles, CA"
+      }
+    ]
+  }
+}

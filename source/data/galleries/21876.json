@@ -1,0 +1,28 @@
+{
+  "id": "21876",
+  "name": "Visionairs Gallery",
+  "street": "14 Rue des Carmes",
+  "zip": "75005",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2009",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 61 15 15",
+  "email": "contact@visionairsgallery.com",
+  "www": "www.visionairsgallery.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075005 %2C%2014 %2C%20Rue des Carmes %2C%20France",
+  "fairs-total": "6",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2013": [
+      {
+        "i": "21876-Art Stage Singapore 2013",
+        "c": "SG",
+        "n": null,
+        "ct": "Singapore"
+      }
+    ]
+  }
+}

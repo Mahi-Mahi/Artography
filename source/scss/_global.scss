@@ -444,7 +444,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 
 // RIGHT SIDEBAR
 
-.artist-item, .exposition-item, .galerie-item {
+.artist-item, .exposition-item, .fair-item, .gallery-item {
 	display: none;
 	font-size:em(24px);
 	margin: 0;
@@ -491,7 +491,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	}
 }
 
-.galerie-item {
+.gallery-item {
 	a {
 		color:#000;
 	}

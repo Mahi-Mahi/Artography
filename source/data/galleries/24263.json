@@ -1,0 +1,28 @@
+{
+  "id": "24263",
+  "name": "Galerie Marie Cini ",
+  "street": "16, rue Saint-Claude",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 6 60 76 20 15",
+  "email": "contact@galeriemariecini.com",
+  "www": "www.galeriemariecini.com/fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2016, rue Saint-Claude %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2012": [
+      {
+        "i": "24263-Loop - The Video Art Fair 2012",
+        "c": "ES",
+        "n": null,
+        "ct": "Barcelona"
+      }
+    ]
+  }
+}

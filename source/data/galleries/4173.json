@@ -1,0 +1,36 @@
+{
+  "id": "4173",
+  "name": "Galerie Pascal Lansberg",
+  "street": "36, rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Pascal Lansberg",
+  "profile": null,
+  "tel": "+33 (0)1 40518434",
+  "email": "info@galerie-lansberg.com",
+  "www": "www.galerie-lansberg.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%20 36, rue de Seine %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2007": [
+      {
+        "i": "4173-Budapest Art Fair 2007",
+        "c": "HU",
+        "n": null,
+        "ct": "Budapest"
+      }
+    ],
+    "2013": [
+      {
+        "i": "4173-Art Miami 2013",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

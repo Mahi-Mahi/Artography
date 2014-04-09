@@ -1,0 +1,28 @@
+{
+  "id": "5352",
+  "name": "Yves Rivière",
+  "street": "24, rue Saint-Sulpice",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 1 40517891",
+  "email": "yvesrivi@club-internet.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2024, rue Saint-Sulpice %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5352-Art Madrid 2006",
+        "c": "ES",
+        "n": null,
+        "ct": "Madrid"
+      }
+    ]
+  }
+}

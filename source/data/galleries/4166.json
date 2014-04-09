@@ -1,0 +1,90 @@
+{
+  "id": "4166",
+  "name": "Galerie Carlos Cardenas",
+  "street": "43, rue Quincampoix",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2005",
+  "directeurs": "Carlos Cardenas",
+  "profile": null,
+  "tel": "+33 (0)1 4887 4765",
+  "email": "info@galeriecarloscardenas.com",
+  "www": "www.galeriecarloscardenas.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%2043, rue Quincampoix %2C%20France",
+  "fairs-total": "15",
+  "fairs-abroad": "10",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2006": [
+      {
+        "i": "4166-Art Brussels 2006- 24th Contemporary Art Fair",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      },
+      {
+        "i": "4166-ART(212) - 2006",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "4166-NADA Art Fair 2006 Miami",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ],
+    "2007": [
+      {
+        "i": "4166-Art Brussels 2007- 25th Contemporary Art Fair",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      },
+      {
+        "i": "4166-NADA Art Fair 2007 Miami",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "4166-VOLTAshow04",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      },
+      {
+        "i": "4166-Artissima 15",
+        "c": "IT",
+        "n": null,
+        "ct": "Turin"
+      },
+      {
+        "i": "4166-NADA Art Fair 2008 Miami",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ],
+    "2009": [
+      {
+        "i": "4166-NADA Art Fair Miami Beach 2009",
+        "c": "US",
+        "n": null,
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2010": [
+      {
+        "i": "4166-Liste 2010",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ]
+  }
+}

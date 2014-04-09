@@ -1,0 +1,28 @@
+{
+  "id": "28658",
+  "name": "Gallery Annual 26",
+  "street": "26 rue de Poitou",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": null,
+  "email": null,
+  "www": "www.annualartmagazine.com/gallery",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2026 rue de Poitou %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2013": [
+      {
+        "i": "28658-Slick Brussels 2013",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

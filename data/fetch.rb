@@ -82,11 +82,85 @@ expos = {
 }
 years = []
 
+fairs = {2014 => []}
+galleries = {}
+
+af_galleries = fetch('/v0/gallery/list')
+
+pp "#{af_galleries.length} galleries"
+
+af_galleries.shuffle.slice(0,5000).each do |gallery|
+
+	print '.'
+
+	gallery[:fairs] = {}
+
+	fetch("/v0/gallery/#{gallery['id']}/fairs").each do |af_fair|
+
+		next if af_fair.class == Array
+
+		# begin
+
+			country = normalize_country(af_fair['country'])
+
+			c = Country.find_country_by_name(country)
+
+			unless c.nil?
+
+				begin
+					continents[c.continent] = {} if continents[c.continent].nil?
+					continents[c.continent][c.alpha2] = {
+						:fr => c.translations['fr'],
+						:en => c.translations['en']
+					}
+				rescue
+				end
+
+				fair = {}
+				fair_detail = {}
+				fair[:i] = gallery['id']
+				fair_detail[:i] = "#{gallery['id']}-#{af_fair['title']}"
+				begin
+					fair[:c] = c.alpha2
+					fair_detail[:c] = c.alpha2
+				rescue
+				end
+
+				fair_detail[:n] = af_fair['Title']
+				fair_detail[:ct] = af_fair['city']
+
+				af_fair['year'] = af_fair['year'].to_i
+
+				fairs[af_fair['year']] = [] if fairs[af_fair['year']].nil?
+				fairs[af_fair['year']] << fair unless fairs[af_fair['year']].include?(fair)
+
+				years << af_fair['year'] unless af_fair['year'] > Date.today.year
+
+				unless af_fair['country'] == 'France'
+					gallery[:fairs][af_fair['year']] = [] if gallery[:fairs][af_fair['year']].nil?
+					gallery[:fairs][af_fair['year']] << fair_detail unless gallery[:fairs][af_fair['year']].include?(fair_detail)
+				end
+
+			end
+		# rescue
+			# p gallery
+			# p af_fair
+		# end
+
+	end
+
+	galleries[gallery['id']] = gallery
+
+
+end
 
 af_artists = fetch('/v0/artist/list')
 
+pp "#{af_artists.length} artists"
 
 af_artists.shuffle.slice(0,50000).each do |artist|
+
+	print '.'
 
 	name = artist['name'].split(/ /)
 	artist[:first_name] = name[0]
@@ -101,6 +175,8 @@ af_artists.shuffle.slice(0,50000).each do |artist|
 	end
 
 	begin
+		artist['birth month'] = 1 if artist['birth month'] == 0
+		artist['birth day'] = 1 if artist['birth day'] == 0
 		birthDate = Date.strptime("#{artist['birth year']}-#{artist['birth month']?artist['birth month']:1}-#{artist['birth day']?artist['birth day']:1}", '%Y-%m-%d')
 		artist[:birthDate] = birthDate.to_s
 		artist[:age] = Time.diff(Time.now, birthDate)[:year]
@@ -115,16 +191,16 @@ af_artists.shuffle.slice(0,50000).each do |artist|
 		end
 	rescue
 		p "Invalid date"
-		# pp artist
+		pp "#{artist['birth year']} #{artist['birth month']} #{artist['birth day']}"
 	end
 
 	artist[:expos] = {}
 
 	fetch("/v0/artist/#{artist['id']}/exhibitions").each do |af_expo|
 
-		begin
+		next if af_expo.class == Array
 
-			next if af_expo['country'] == 'France'
+		begin
 
 			country = normalize_country(af_expo['country'])
 
@@ -163,14 +239,16 @@ af_artists.shuffle.slice(0,50000).each do |artist|
 
 				[af_expo['BeginDate'], af_expo['EndDate']].uniq.each do |expo_year|
 					begin
-						expo_year = '2100-01-01' if expo_year == 'NA'
+						expo_year = '2100-01-01' if expo_year == 'NA' or expo_year == '0000-00-00'
 						expo_year = Date.strptime(expo_year, '%Y-%m-%d').year
 						expos[expo_year] = [] if expos[expo_year].nil?
 						expos[expo_year] << expo unless expos[expo_year].include?(expo)
 						years << expo_year unless expo_year > Date.today.year
 
-						artist[:expos][expo_year] = [] if artist[:expos][expo_year].nil?
-						artist[:expos][expo_year] << expo_detail unless artist[:expos][expo_year].include?(expo_detail)
+						unless af_expo['country'] == 'France'
+							artist[:expos][expo_year] = [] if artist[:expos][expo_year].nil?
+							artist[:expos][expo_year] << expo_detail unless artist[:expos][expo_year].include?(expo_detail)
+						end
 
 					rescue
 						puts "invalid date"
@@ -182,8 +260,11 @@ af_artists.shuffle.slice(0,50000).each do |artist|
 					if Date.strptime(af_expo['BeginDate'], '%Y-%m-%d') < Date.today && Date.strptime(af_expo['EndDate'], '%Y-%m-%d') > Date.today
 						expos[:today] = [] if expos[:today].nil?
 						expos[:today] << expo unless expos[:today].include?(expo)
-						artist[:expos][:today] = [] if artist[:expos][:today].nil?
-						artist[:expos][:today] << expo_detail unless artist[:expos][:today].include?(expo_detail)
+
+						unless af_expo['country'] == 'France'
+							artist[:expos][:today] = [] if artist[:expos][:today].nil?
+							artist[:expos][:today] << expo_detail unless artist[:expos][:today].include?(expo_detail)
+						end
 					end
 				rescue
 				end
@@ -197,8 +278,6 @@ af_artists.shuffle.slice(0,50000).each do |artist|
 	end
 
 	artists[artist['id']] = artist
-
-	pp artist
 
 end
 
@@ -225,11 +304,13 @@ File.open(filename, 'w') { |file| file.write content }
 FileUtils.mkdir_p "json/artists"
 artists_name = {}
 artists.sort_by{|k, v| v[:last_name]}.each do |artist_id, artist|
-	artists_name[artist_id.to_i] = artist['name']
-	filename = "json/artists/#{artist_id}.json"
-	content = production ? artist.to_json : JSON.pretty_generate(artist)
-	File.open(filename, 'w') { |file| file.write content }
-	# Zlib::GzipWriter.open("#{filename}.gz") { |file| file.write content }
+	unless gallery['country'] == 'FR'
+		artists_name[artist_id.to_i] = artist['name']
+		filename = "json/artists/#{artist_id}.json"
+		content = production ? artist.to_json : JSON.pretty_generate(artist)
+		File.open(filename, 'w') { |file| file.write content }
+		# Zlib::GzipWriter.open("#{filename}.gz") { |file| file.write content }
+	end
 end
 filename = "json/artists/names.json"
 content = production ? artists_name.to_json : JSON.pretty_generate(artists_name)
@@ -246,9 +327,38 @@ expos.each do |year,year_artists|
 end
 
 
+# Galleries
+FileUtils.mkdir_p "json/galleries"
+galleries_name = {}
+galleries.sort_by{|k, v| v[:name]}.each do |gallery_id, gallery|
+	unless gallery['country'] == 'FR'
+		galleries_name[gallery_id.to_i] = gallery['name']
+		filename = "json/galleries/#{gallery_id}.json"
+		content = production ? gallery.to_json : JSON.pretty_generate(gallery)
+		File.open(filename, 'w') { |file| file.write content }
+		# Zlib::GzipWriter.open("#{filename}.gz") { |file| file.write content }
+	end
+end
+filename = "json/galleries/names.json"
+content = production ? galleries_name.to_json : JSON.pretty_generate(galleries_name)
+File.open(filename, 'w') { |file| file.write content }
+
+# Fairs
+FileUtils.mkdir_p "json/fairs"
+fairs.each do |year,year_galleries|
+	next if year_galleries.nil?
+	filename = "json/fairs/#{year}.json"
+	content = production ? year_galleries.to_json : JSON.pretty_generate(year_galleries)
+	File.open(filename, 'w') { |file| file.write content }
+	# Zlib::GzipWriter.open("#{filename}.gz") { |file| file.write content }
+end
+
+
 puts "#{years.length} years"
 puts "#{artists.length} artists"
-puts "#{expos.length} expos"
+puts "#{expos.flatten.length} expos"
+puts "#{galleries.length} galleries"
+puts "#{fairs.flatten.length} fairs"
 
 
 FileUtils.rm_rf("../source/data", secure: true)
@@ -257,6 +367,8 @@ FileUtils.cp("json/years.json", "../source/data/years.json")
 FileUtils.cp("json/countries.json", "../source/data/countries.json")
 FileUtils.cp_r("json/expos", "../source/data/expos")
 FileUtils.cp_r("json/artists", "../source/data/artists")
+FileUtils.cp_r("json/fairs", "../source/data/fairs")
+FileUtils.cp_r("json/galleries", "../source/data/galleries")
 
 
 

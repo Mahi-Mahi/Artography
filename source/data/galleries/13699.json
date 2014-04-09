@@ -1,0 +1,28 @@
+{
+  "id": "13699",
+  "name": "Galerie Bonneau-Samames",
+  "street": "44 Rue Bernard",
+  "zip": "13003",
+  "city": "Marseille",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 671157697",
+  "email": "galerie@bonneau-samames.com",
+  "www": "www.bonneau-samames.com",
+  "map": "http://maps.google.com/maps?q=Marseille%2C%2013003 %2C%2044 %2C%20Rue Bernard %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2009": [
+      {
+        "i": "13699-Art Athina 2009",
+        "c": "GR",
+        "n": null,
+        "ct": "Athens"
+      }
+    ]
+  }
+}

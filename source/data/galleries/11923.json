@@ -1,0 +1,28 @@
+{
+  "id": "11923",
+  "name": "Galerie Sara Guedj",
+  "street": "11, rue Louise Weiss",
+  "zip": "75013",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2007",
+  "directeurs": "Sara Guedj",
+  "profile": "The gallery is very young but very dynamic. It is creating solid partnerships all around the world and is more and more present in art fairs.\r\n\r\nThe idea is to satisfy a generation who suffers from a « shortage of images » and who needs a direct link to the piece of art. The concept of the gallery is therefore to show visually very efficient art.",
+  "tel": "+33 954 - 86 32 24",
+  "email": "sara@galeriesaraguedj.com, info@galeriesaraguedj.com",
+  "www": "www.galeriesaraguedj.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075013 %2C%20 %2C%2011, rue Louise Weiss %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2007": [
+      {
+        "i": "11923-Bridge Art Fair Miami 07",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

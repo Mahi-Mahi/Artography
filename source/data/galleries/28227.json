@@ -1,0 +1,44 @@
+{
+  "id": "28227",
+  "name": "Gallery 138",
+  "street": "4 place Sainte Catherine",
+  "zip": "14600",
+  "city": "Honfleur",
+  "country": "France",
+  "foundation": "2007",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)2 31 89 31 34",
+  "email": "eric.lavieille@wanadoo.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Honfleur%2C%2014600 %2C%20 %2C%204 place Sainte Catherine %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2007": [
+      {
+        "i": "28227-Bridge Art Fair Miami 07",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ],
+    "2009": [
+      {
+        "i": "28227-Lineart 2009",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ],
+    "2010": [
+      {
+        "i": "28227-Lineart 2010",
+        "c": "BE",
+        "n": null,
+        "ct": "Ghent"
+      }
+    ]
+  }
+}

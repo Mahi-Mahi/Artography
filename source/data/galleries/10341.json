@@ -1,0 +1,28 @@
+{
+  "id": "10341",
+  "name": "Galerie Sabine Vazieux",
+  "street": "16 rue de Provence",
+  "zip": "75009",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 48009100",
+  "email": "svazie@club-internet.fr",
+  "www": "vazieux.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075009 %2C%20 %2C%2016 rue de Provence %2C%20France",
+  "fairs-total": "6",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2007": [
+      {
+        "i": "10341-Works on Paper - 2007",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ]
+  }
+}

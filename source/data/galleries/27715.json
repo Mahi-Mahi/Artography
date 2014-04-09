@@ -1,0 +1,36 @@
+{
+  "id": "27715",
+  "name": "Galerie BSL",
+  "street": "23 rue Charlot",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 1 44 78 94 14",
+  "email": "info@galeriebsl.com",
+  "www": "www.galeriebsl.com/",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2023 rue Charlot %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2012": [
+      {
+        "i": "27715-Design Miami",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "27715-MiArt 2013",
+        "c": "IT",
+        "n": null,
+        "ct": "Milan"
+      }
+    ]
+  }
+}

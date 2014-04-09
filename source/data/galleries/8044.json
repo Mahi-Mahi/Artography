@@ -1,0 +1,28 @@
+{
+  "id": "8044",
+  "name": "Galerie Eclats d’art",
+  "street": "64, Boulevard Gambetta",
+  "zip": "30000",
+  "city": "Nîmes",
+  "country": "France",
+  "foundation": "2002",
+  "directeurs": "Bruno Robert",
+  "profile": null,
+  "tel": "+ 41 (0)4 66 81 26 53",
+  "email": "eclatsdart@aol.com",
+  "www": "www.galeriearts.com",
+  "map": "http://maps.google.com/maps?q=Nîmes%2C%2030000 %2C%20 %2C%2064, Boulevard Gambetta %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2006": [
+      {
+        "i": "8044-L'art contemporain dans tous ses états",
+        "c": "CH",
+        "n": null,
+        "ct": "Montreux"
+      }
+    ]
+  }
+}

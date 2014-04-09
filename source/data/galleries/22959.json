@@ -1,0 +1,42 @@
+{
+  "id": "22959",
+  "name": "Galerie Perrin",
+  "street": "98, Rue du Faubourg Saint Honore",
+  "zip": "75008/",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 65 01 38",
+  "email": null,
+  "www": "galerieperrin.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008/ %2C%20 %2C%2098, Rue du Faubourg Saint Honore %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2010": [
+      {
+        "i": "22959-Design Miami/Basel 2010",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2012": [
+      {
+        "i": "22959-TEFAF Maastricht 2012",
+        "c": "NL",
+        "n": null,
+        "ct": "Helvoirt"
+      },
+      {
+        "i": "22959-Design Miami / Basel",
+        "c": "US",
+        "n": null,
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

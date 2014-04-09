@@ -1,0 +1,50 @@
+{
+  "id": "24157",
+  "name": "Magnin.A",
+  "street": "32, boulevard Voltaire",
+  "zip": "75011",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 1 43 38 18 18",
+  "email": "amagnin@magnin-a.com",
+  "www": "www.magnin-a.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075011 %2C%20 %2C%2032, boulevard Voltaire %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "8",
+  "fairs": {
+    "2011": [
+      {
+        "i": "24157-Marrakech Art Fair",
+        "c": "MA",
+        "n": null,
+        "ct": "Casablanca"
+      }
+    ],
+    "2012": [
+      {
+        "i": "24157-Art Brussels 2012",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ],
+    "2013": [
+      {
+        "i": "24157-Paris Photo Los Angeles 2013",
+        "c": "US",
+        "n": null,
+        "ct": "Los Angeles, CA"
+      },
+      {
+        "i": "24157-1:54 - Contemporary African Art Fair 2013",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      }
+    ]
+  }
+}

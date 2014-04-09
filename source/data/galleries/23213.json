@@ -1,0 +1,28 @@
+{
+  "id": "23213",
+  "name": "Lebenson Gallery",
+  "street": "56 rue Chapon",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)9 81 88 75 61",
+  "email": "director@lebensongallery.com",
+  "www": "www.lebensongallery.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2056 rue Chapon %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2013": [
+      {
+        "i": "23213-cutlog NY 2013",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "21444",
+  "name": "for art (gallery)",
+  "street": "22, rue de Tenremonde",
+  "zip": "59000",
+  "city": "Lille",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)3 28 36 27 99",
+  "email": null,
+  "www": "www.for-art-gallery.fr",
+  "map": "http://maps.google.com/maps?q=Lille%2C%2059000 %2C%20 %2C%2022, rue de Tenremonde %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2010": [
+      {
+        "i": "21444-Affordable Art Fair Bruxelles 2010",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

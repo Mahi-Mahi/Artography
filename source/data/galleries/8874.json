@@ -1,0 +1,28 @@
+{
+  "id": "8874",
+  "name": "Galerie Adler",
+  "street": "75, rue Faubourg St Honoré",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 40 06 03 82",
+  "email": "contact@galerieadler.fr",
+  "www": "www.galerieadler.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2075, rue Faubourg St Honoré %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2007": [
+      {
+        "i": "8874-palmbeach3 - 2007",
+        "c": "US",
+        "n": null,
+        "ct": "West Palm Beach, FL"
+      }
+    ]
+  }
+}

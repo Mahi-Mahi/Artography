@@ -1,0 +1,88 @@
+{
+  "id": "5466",
+  "name": "Opera Gallery",
+  "street": "356, rue Saint-Honoré",
+  "zip": "75001",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1994",
+  "directeurs": "",
+  "profile": "Located in the heart of the historical and prestigious centre of Paris, between \" Place Vendome \", the gardens of the \" Tuileries \", and the museum \" Le Louvre \", Opera Gallery Paris is an open space on two levels, welcoming for the visitors who encounter there the pleasure of a unique discovery.\r\n\r\nThematic exhibitions alternate with a permanent exhibition of around thirty artists from various origins and of international renown, under contract with the gallery. Contemporary paintings, sculptures, art furniture, lithographs, artbooks … in a space favourable to the discovery, where a team of experts lead you all along your visit.",
+  "tel": "+33 (0)1 42963900",
+  "email": "paris@operagallery.com",
+  "www": "www.operagallery.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075001 %2C%20 %2C%20356, rue Saint-Honoré %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "10",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5466-Art Miami 2006",
+        "c": "US",
+        "n": null,
+        "ct": "Tucson, AZ"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5466-Artmonaco 2010",
+        "c": "MC",
+        "n": null,
+        "ct": "Monaco"
+      },
+      {
+        "i": "5466-Art Abu Dhabi 2010",
+        "c": "AE",
+        "n": null,
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5466-ShContemporary 2012",
+        "c": "CN",
+        "n": null,
+        "ct": "Shanghai"
+      },
+      {
+        "i": "5466-Daegu Art Fair 2012",
+        "c": "KR",
+        "n": null,
+        "ct": "Daegu"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5466-Art Stage Singapore 2013",
+        "c": "SG",
+        "n": null,
+        "ct": "Singapore"
+      },
+      {
+        "i": "5466-Art Beijing 2013",
+        "c": "CN",
+        "n": null,
+        "ct": "Beijing"
+      },
+      {
+        "i": "5466-Kiaf 2013",
+        "c": "KR",
+        "n": null,
+        "ct": "Seoul"
+      },
+      {
+        "i": "5466-Contemporary Istanbul Art Fair 2013",
+        "c": "TR",
+        "n": null,
+        "ct": "Istanbul"
+      },
+      {
+        "i": "5466-Art Taipei 2013",
+        "c": "TW",
+        "n": null,
+        "ct": "Taipei"
+      }
+    ]
+  }
+}

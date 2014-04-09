@@ -1,0 +1,36 @@
+{
+  "id": "3496",
+  "name": "Item Editions",
+  "street": "51 rue du Montparnasse",
+  "zip": "75014",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Patrice Forest",
+  "profile": null,
+  "tel": "+33 (0)1 43 35 35 35",
+  "email": "itemeditions@free.fr",
+  "www": "www.itemeditions.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075014 %2C%2051 %2C%20rue du Montparnasse %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2005": [
+      {
+        "i": "3496-Art 36 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "3496-Art 41 Basel",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ]
+  }
+}

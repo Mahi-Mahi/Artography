@@ -1,0 +1,28 @@
+{
+  "id": "13704",
+  "name": "Sit Down",
+  "street": "4 rue Sainte-Anastase",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 142780807",
+  "email": "info@sitdown.fr",
+  "www": "www.sitdown.fr/",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%204 %2C%20rue Sainte-Anastase %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2013": [
+      {
+        "i": "13704-Slick Brussels 2013",
+        "c": "BE",
+        "n": null,
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

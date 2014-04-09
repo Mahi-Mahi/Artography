@@ -1,0 +1,28 @@
+{
+  "id": "20132",
+  "name": "L MD Art Gallery",
+  "street": "44, rue Barbet de Jouy",
+  "zip": "75007",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2009",
+  "directeurs": "Laetitia Meyer-Delorme",
+  "profile": null,
+  "tel": "+33 (0) 1 40 62 97 46 ",
+  "email": "info@LMD-art.com",
+  "www": "www.lmd-art.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%2044, rue Barbet de Jouy  %2C%20France",
+  "fairs-total": "6",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2012": [
+      {
+        "i": "20132-ShContemporary 2012",
+        "c": "CN",
+        "n": null,
+        "ct": "Shanghai"
+      }
+    ]
+  }
+}

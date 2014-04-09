@@ -1,0 +1,34 @@
+{
+  "id": "26253",
+  "name": "Inception Gallery",
+  "street": "37 rue de Poitou",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 177 16 68 07",
+  "email": "contact@inceptiongallery.com",
+  "www": "www.inceptiongallery.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2037 rue de Poitou %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2013": [
+      {
+        "i": "26253-Zona Maco Mexico 2013",
+        "c": "MX",
+        "n": null,
+        "ct": "Mexico City"
+      },
+      {
+        "i": "26253-Scope Basel 2013",
+        "c": "CH",
+        "n": null,
+        "ct": "Basel"
+      }
+    ]
+  }
+}

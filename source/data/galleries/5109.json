@@ -1,0 +1,64 @@
+{
+  "id": "5109",
+  "name": "Gallery Lasés",
+  "street": "14 avenue Matignon",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Gérard Lasés",
+  "profile": null,
+  "tel": "+33 (0)1 53760760",
+  "email": "gallery.lases@wanadoo.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2014 avenue Matignon %2C%20France",
+  "fairs-total": "12",
+  "fairs-abroad": "5",
+  "fairs-in-FR": "7",
+  "fairs": {
+    "2007": [
+      {
+        "i": "5109-MiArt 2007 - 12th international modern and contemporary art fair",
+        "c": "IT",
+        "n": null,
+        "ct": "Milan"
+      },
+      {
+        "i": "5109-ArtParis - AbuDhabi 2007",
+        "c": "AE",
+        "n": null,
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5109-ACAF NY 2008",
+        "c": "US",
+        "n": null,
+        "ct": "New York City, NY"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5109-MiArt 2009 - 12th international modern and contemporary art fair",
+        "c": "IT",
+        "n": null,
+        "ct": "Milan"
+      },
+      {
+        "i": "5109-Hong Kong International Art Fair, ART HK 09",
+        "c": "CN",
+        "n": null,
+        "ct": "Hong Kong, SAR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5109-Art Stage Singapore 2013",
+        "c": "SG",
+        "n": null,
+        "ct": "Singapore"
+      }
+    ]
+  }
+}

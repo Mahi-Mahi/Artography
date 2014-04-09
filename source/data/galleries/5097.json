@@ -1,0 +1,36 @@
+{
+  "id": "5097",
+  "name": "Galerie Nathalie Gaillard",
+  "street": "112 avenue Kléber",
+  "zip": "75016",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Nathalie Gaillard",
+  "profile": null,
+  "tel": "+33 (0)1 45053243",
+  "email": "galerienathaliegaillard@yahoo.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075016 %2C%20 %2C%20112 avenue Kléber %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "7",
+  "fairs": {
+    "2007": [
+      {
+        "i": "5097-ArtParis - AbuDhabi 2007",
+        "c": "AE",
+        "n": null,
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5097-ArtParis - AbuDhabi 2008",
+        "c": "AE",
+        "n": null,
+        "ct": "Abu Dhabi"
+      }
+    ]
+  }
+}

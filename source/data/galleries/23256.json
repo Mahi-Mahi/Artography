@@ -1,0 +1,28 @@
+{
+  "id": "23256",
+  "name": "Jean-David Botella",
+  "street": "42, rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1991",
+  "directeurs": "",
+  "profile": null,
+  "tel": null,
+  "email": "botella.jean-david@wanadoo.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2042, rue de Seine %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2010": [
+      {
+        "i": "23256-Pavilion of Art & Design 2010",
+        "c": "GB",
+        "n": null,
+        "ct": "London (England)"
+      }
+    ]
+  }
+}
