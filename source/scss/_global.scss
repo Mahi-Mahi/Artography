@@ -747,6 +747,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 #popup {
 	background:#fff;
 	border-radius:4px;
+	box-shadow:1px 1px 16px rgba(0,0,0,0.5);
 	border:4px solid #00a79d;
 	display: none;
 	font:normal 1.5em/1.3 'Tungsten-Light', Arial, Verdana, sans-serif;
