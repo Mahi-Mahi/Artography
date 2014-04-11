@@ -1,0 +1,120 @@
+{
+  "id": "20575",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:11:47",
+  "name": "Remy Jacquier",
+  "surname": "Jacquier",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1972",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "9771",
+  "r01": "11045",
+  "r02": "10686",
+  "r03": "13031",
+  "r04": "17831",
+  "r05": "17666",
+  "r06": "14802",
+  "r07": "13584",
+  "r08": "11569",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "22",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (11), Switzerland (2), Luxembourg (1)",
+  "2005-shows-with": "Remy Jacquier (11), Lara Almárcegui (2), Etienne Bossut (2), Alain Bublex (2), Gabriele Chiari (2), Patrick Condouret (2), Gilgian Gelzer (2), Bertrand Lamarche (2), Didier Marcel (2), Vincent Mauger (2), Pierre-Alexandre Remy (2)",
+  "representing-galleries": null,
+  "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France)",
+  "first_name": "Remy",
+  "last_name": "Jacquier",
+  "genre": "c",
+  "birthDate": "1972-01-01",
+  "age": 42,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "20575-1778-2005-06-07",
+        "c": "CH",
+        "n": "Modèles modèles",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2005-06-07",
+          "2005-08-29"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "20575-5857-2006-11-17",
+        "c": "KR",
+        "n": "Khaos",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Seoul",
+        "o": "Gana Art Gallery",
+        "d": [
+          "2006-11-17",
+          "2006-12-10"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "20575-1778-2010-06-02",
+        "c": "CH",
+        "n": "Modèles modèles 2",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2010-06-02",
+          "2010-09-19"
+        ]
+      },
+      {
+        "i": "20575-17359-2010-01-14",
+        "c": "LU",
+        "n": "Rémy Jacquier",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Galerie Bernard Ceysson - Luxembourg",
+        "d": [
+          "2010-01-14",
+          "2010-02-26"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "20575-28275-2012-09-13",
+        "c": "CH",
+        "n": "Christian Robert-tissot / Remy Jacquier",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Galerie Bernard Ceysson - Geneve",
+        "d": [
+          "2012-09-13",
+          "2012-11-04"
+        ]
+      }
+    ]
+  }
+}

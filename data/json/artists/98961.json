@@ -1,0 +1,133 @@
+{
+  "id": "98961",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:44:05",
+  "name": "Samon Takahashi",
+  "surname": "Takahashi",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1970",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "9432",
+  "r01": "8551",
+  "r02": "9637",
+  "r03": "8967",
+  "r04": "9107",
+  "r05": "9034",
+  "r06": "7512",
+  "r07": "7258",
+  "r08": "12240",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "24",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (9), Romania (1), United Kingdom (1)",
+  "2005-shows-with": "Samon Takahashi (10), Jean Bedez (3), Davide Bertocchi (3), Luke Fowler (2), Arnaud Maguet (2), Jerôme Robbe (2), Philippe Terrier-Hermann (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Samon",
+  "last_name": "Takahashi",
+  "genre": "c",
+  "birthDate": "1970-01-01",
+  "age": 44,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "98961-1289-2005-04-01",
+        "c": "NL",
+        "n": "Radiodays, Bandes Originales",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amsterdam",
+        "o": "de Appel arts centre",
+        "d": [
+          "2005-04-01",
+          "2005-04-30"
+        ]
+      },
+      {
+        "i": "98961-11788-2005-05-20",
+        "c": "US",
+        "n": "ID Troubles - US Visit",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "NURTUREart Gallery",
+        "d": [
+          "2005-05-20",
+          "2005-06-26"
+        ]
+      },
+      {
+        "i": "98961-6764-2005-11-05",
+        "c": "GB",
+        "n": "The Pattern of the Plans and The Lack of Plan Plan",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "t1+2 artspace",
+        "d": [
+          "2005-11-05",
+          "2005-12-05"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "98961-3104-2010-12-03",
+        "c": "RO",
+        "n": "Davide Bertocchi & Samon Takahashi - Interstellar Static",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2010-12-03",
+          "2011-02-03"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "98961-3104-2010-12-03",
+        "c": "RO",
+        "n": "Davide Bertocchi & Samon Takahashi - Interstellar Static",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2010-12-03",
+          "2011-02-03"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "98961-2247-2012-06-19",
+        "c": "GB",
+        "n": "Soundworks",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "ICA - Institute of Contemporary Arts London",
+        "d": [
+          "2012-06-19",
+          "2012-09-16"
+        ]
+      }
+    ]
+  }
+}

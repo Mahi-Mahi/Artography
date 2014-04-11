@@ -1,0 +1,118 @@
+{
+  "id": "29757",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:15:49",
+  "name": "David B.",
+  "surname": "B.",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Orléans (FR)",
+  "birth day": "9",
+  "birth month": "2",
+  "birth year": "1959",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "23476",
+  "r01": "21463",
+  "r02": "22174",
+  "r03": "19653",
+  "r04": "17047",
+  "r05": "14691",
+  "r06": "18827",
+  "r07": "18859",
+  "r08": "15598",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (2), Germany (1), USA (1)",
+  "2005-shows-with": "David B. (3)",
+  "representing-galleries": "Galerie Anne Barrault (22, rue Saint-Claude, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "David",
+  "last_name": "B.",
+  "genre": "m",
+  "birthDate": "1959-02-09",
+  "age": 55,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "29757-2231-2005-02-19",
+        "c": "DE",
+        "n": "Tauchfahrten. Zeichnung als Reportage",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dusseldorf",
+        "o": "Kunsthalle Düsseldorf",
+        "d": [
+          "2005-02-19",
+          "2005-04-24"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "29757-3113-2007-09-22",
+        "c": "DK",
+        "n": "COMIX",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Odense",
+        "o": "Kunsthallen Brandts",
+        "d": [
+          "2007-09-22",
+          "2008-01-06"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "29757-3113-2007-09-22",
+        "c": "DK",
+        "n": "COMIX",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Odense",
+        "o": "Kunsthallen Brandts",
+        "d": [
+          "2007-09-22",
+          "2008-01-06"
+        ]
+      },
+      {
+        "i": "29757-6328-2008-02-02",
+        "c": "DE",
+        "n": "Kopfkino",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dresden",
+        "o": "Kunsthaus Dresden",
+        "d": [
+          "2008-02-02",
+          "2008-04-02"
+        ]
+      },
+      {
+        "i": "29757-8139-2008-09-06",
+        "c": "US",
+        "n": "Aspects of Mel\\'s Hole",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Santa Ana, CA",
+        "o": "Grand Central Art Center - California State University Fullerton",
+        "d": [
+          "2008-09-06",
+          "2008-10-19"
+        ]
+      }
+    ]
+  }
+}

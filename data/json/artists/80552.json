@@ -1,0 +1,585 @@
+{
+  "id": "80552",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:36:48",
+  "name": "Adrien Missika",
+  "surname": "Missika",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1981",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "4998",
+  "r01": "5626",
+  "r02": "6873",
+  "r03": "8669",
+  "r04": "8828",
+  "r05": "19521",
+  "r06": "22506",
+  "r07": "25938",
+  "r08": "27685",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "46",
+  "2005-shows-biennials": "15",
+  "2005-shows-galleries": "15",
+  "2005-shows-museums": "17",
+  "2005-countries-total": "Switzerland (19), France (7), Italy (4), Germany (3), Benin (1), Denmark (1), India (1), Lebanon (1), Monaco (1), United Arab Emirates (1), United Kingdom (1), USA (1)",
+  "2005-shows-with": "Adrien Missika (32), Latifa Echakhch (5), Lara Almárcegui (4), Marc Bauer (4), Tony Chakar (4), Marcelline Delbecq (4), Emilie Ding (4), Eric Hattan (4), Estefania Peñafiel Loaiza (4), Dan Perjovschi (4), Claudia Comte (3), Stéphane Dafflon (3), Gilles Furtwängler (3), Raphael Hefti (3), Thomas Julier (3), Stéphane Kropf (3), Beat Lippert (3), Fabian Marti (3), Genêt Mayor (3), Taiyo Onorato & Nico Krebs (3), Guillaume Pilet (3), Vanessa Safavi (3), Benjamin Valenza (3), Massimiliano Baldassarri (2), Francis Baudevin (2), Beni Bischof (2), Kim Seob Boninsegni (2), Bianca Brunner (2), Stefan Burger (2), Michael Bühler-Rose (2), Talia Chetrit (2), Delphine Coindet (2), collectif_fact (2), Daniel Gustav Cramer (2), Charles Cuccu (2), Philippe Decrauzat (2), Henry Deletra Hanna (2), Antoine Espinasseau (2), Claire Fontaine (2), David Gagnebin-de Bons (2), Matthew Gamber (2), Aurélien Gamboni (2), Vidya Gastaldon (2), Olivier Genoud (2), Florian Germann (2), Stephen Gill (2), Alois Godinat (2), Fabrice Gyg",
+  "representing-galleries": "Bugada & Cargnel (7-9 rue de l'Equerre, 75019 Paris, France); Galerie Crone (Rudi-Dutschke-Str. 26, 10969 Berlin, Germany); Blancpain Art Contemporain (63 rue des Maraîchers, 1205 Geneva, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Adrien",
+  "last_name": "Missika",
+  "genre": "m",
+  "birthDate": "1981-01-01",
+  "age": 33,
+  "age_range": "26-35",
+  "expos": {
+    "2005": [
+      {
+        "i": "80552-6770-2005-10-06",
+        "c": "CH",
+        "n": "11ème Biennale de l’Image en Mouvement",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Geneva",
+        "o": "Biennale de l'Image en Mouvement",
+        "d": [
+          "2005-10-06",
+          "2006-01-15"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "80552-6770-2005-10-06",
+        "c": "CH",
+        "n": "11ème Biennale de l’Image en Mouvement",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Geneva",
+        "o": "Biennale de l'Image en Mouvement",
+        "d": [
+          "2005-10-06",
+          "2006-01-15"
+        ]
+      },
+      {
+        "i": "80552-1015-2006-06-08",
+        "c": "CH",
+        "n": "Cartes Postales",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Blancpain Art Contemporain",
+        "d": [
+          "2006-06-08",
+          "2006-07-01"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "80552-9128-2007-09-07",
+        "c": "US",
+        "n": "Le Flàneur",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Culver City, CA",
+        "o": "Fette's Gallery",
+        "d": [
+          "2007-09-07",
+          "2007-10-13"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "80552-9493-2008-05-15",
+        "c": "CH",
+        "n": "la chute d\\'eau",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Lausanne",
+        "o": "Circuit",
+        "d": [
+          "2008-05-15",
+          "2008-06-21"
+        ]
+      },
+      {
+        "i": "80552-13458-2008-06-21",
+        "c": "CH",
+        "n": "X",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lausanne",
+        "o": "Galerie 1m3",
+        "d": [
+          "2008-06-21",
+          "2008-07-12"
+        ]
+      },
+      {
+        "i": "80552-13458-2008-06-21",
+        "c": "CH",
+        "n": "exposition de multiples",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lausanne",
+        "o": "Galerie 1m3",
+        "d": [
+          "2008-06-21",
+          "2008-07-12"
+        ]
+      },
+      {
+        "i": "80552-12812-2008-09-19",
+        "c": "CH",
+        "n": "Jeunevois",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Centre de la photographie",
+        "d": [
+          "2008-09-19",
+          "2008-11-02"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "80552-6418-2009-02-24",
+        "c": "CH",
+        "n": "Platform 09",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Winterthur",
+        "o": "Fotomuseum Winterthur",
+        "d": [
+          "2009-02-24",
+          "2009-02-25"
+        ]
+      },
+      {
+        "i": "80552-13721-2009-04-17",
+        "c": "DE",
+        "n": "Don´t follow me I´m lost too",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "SUBSTITUT - Raum für aktuelle Kunst aus der Schweiz",
+        "d": [
+          "2009-04-17",
+          "2009-05-30"
+        ]
+      },
+      {
+        "i": "80552-22652-2009-06-21",
+        "c": "CH",
+        "n": "DEFINITIONS",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Biel/Bienne",
+        "o": "PhotoforumPasquArt",
+        "d": [
+          "2009-06-21",
+          "2009-08-23"
+        ]
+      },
+      {
+        "i": "80552-1828-2009-07-08",
+        "c": "US",
+        "n": "After Color",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Bose Pacia Gallery",
+        "d": [
+          "2009-07-08",
+          "2009-08-21"
+        ]
+      },
+      {
+        "i": "80552-17323-2009-07-08",
+        "c": "IN",
+        "n": "After Color",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Calcutta",
+        "o": "Bose Pacia - Kolkata",
+        "d": [
+          "2009-07-08",
+          "2009-08-21"
+        ]
+      },
+      {
+        "i": "80552-2290-2009-03-06",
+        "c": "CH",
+        "n": "Adrien Missika",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Centre d´Art Contemporain Geneve",
+        "d": [
+          "2009-03-06",
+          "2009-05-03"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "80552-20367-2010-05-20",
+        "c": "IT",
+        "n": "Carnotzet",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bologna",
+        "o": "CAR Projects",
+        "d": [
+          "2010-05-20",
+          "2010-07-23"
+        ]
+      },
+      {
+        "i": "80552-17386-2010-07-03",
+        "c": "DK",
+        "n": "We Redefine When We Come Of Age 1976-1987",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Helsingor",
+        "o": "Kulturhuset Toldkammeret",
+        "d": [
+          "2010-07-03",
+          "2010-09-11"
+        ]
+      },
+      {
+        "i": "80552-8157-2010-07-05",
+        "c": "CH",
+        "n": "Actual Fears / Mixed Gaps & Vertigo",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Neuchâtel",
+        "o": "CAN - Centre d'Art Neuchâtel",
+        "d": [
+          "2010-07-05",
+          "2010-07-11"
+        ]
+      },
+      {
+        "i": "80552-10932-2010-10-02",
+        "c": "IT",
+        "n": "A as Stone",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Pistoia",
+        "o": "Galleria SpazioA",
+        "d": [
+          "2010-10-02",
+          "2010-11-30"
+        ]
+      },
+      {
+        "i": "80552-12778-2010-03-28",
+        "c": "CH",
+        "n": "Veduta",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Locarno",
+        "o": "La Rada",
+        "d": [
+          "2010-03-28",
+          "2010-05-02"
+        ]
+      },
+      {
+        "i": "80552-1015-2010-09-17",
+        "c": "CH",
+        "n": "Adrien Missika",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Blancpain Art Contemporain",
+        "d": [
+          "2010-09-17",
+          "2010-11-06"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "80552-2490-2011-02-05",
+        "c": "CH",
+        "n": "Le federal a Semen-Contra- Neue Kunst aus der Westschweiz",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Rotwand",
+        "d": [
+          "2011-02-05",
+          "2011-03-19"
+        ]
+      },
+      {
+        "i": "80552-16501-2011-07-03",
+        "c": "CH",
+        "n": "Magical & Poetical Structures – New Existentialism Part 4",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Rapperswil",
+        "o": "Alte Fabrik - Gebert Stiftung für Kultur",
+        "d": [
+          "2011-07-03",
+          "2011-09-25"
+        ]
+      },
+      {
+        "i": "80552-2290-2011-09-03",
+        "c": "CH",
+        "n": "Bourses",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Centre d´Art Contemporain Geneve",
+        "d": [
+          "2011-09-03",
+          "2011-10-03"
+        ]
+      },
+      {
+        "i": "80552-1014-2011-10-12",
+        "c": "CH",
+        "n": "The Beirut Experience I et II",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Geneva",
+        "o": "attitudes - espace d'arts contemporains",
+        "d": [
+          "2011-10-12",
+          "2011-11-19"
+        ]
+      },
+      {
+        "i": "80552-19516-2011-10-13",
+        "c": "LB",
+        "n": "The Beirut Experience",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Beirut",
+        "o": "Beirut Art Center",
+        "d": [
+          "2011-10-13",
+          "2011-11-19"
+        ]
+      },
+      {
+        "i": "80552-27978-2011-11-07",
+        "c": "AE",
+        "n": "Art Talks & Sensations. The Island / a Game of Life",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Abu Dhabi",
+        "o": "Gallery One - Manarat Al Saadiyat",
+        "d": [
+          "2011-11-07",
+          "2013-01-06"
+        ]
+      },
+      {
+        "i": "80552-10932-2011-04-30",
+        "c": "IT",
+        "n": "Adrien Missika:  Tropical Prospects",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Pistoia",
+        "o": "Galleria SpazioA",
+        "d": [
+          "2011-04-30",
+          "2011-06-30"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "80552-27978-2011-11-07",
+        "c": "AE",
+        "n": "Art Talks & Sensations. The Island / a Game of Life",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Abu Dhabi",
+        "o": "Gallery One - Manarat Al Saadiyat",
+        "d": [
+          "2011-11-07",
+          "2013-01-06"
+        ]
+      },
+      {
+        "i": "80552-27199-2012-11-08",
+        "c": "BJ",
+        "n": "Biennale Bénin 2012",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Cotonou",
+        "o": "Biennale Bénin",
+        "d": [
+          "2012-11-08",
+          "2013-01-12"
+        ]
+      },
+      {
+        "i": "80552-6464-2013-05-11",
+        "c": "CH",
+        "n": "La realtà non è un luogo comune Fotografie e video dalla Collezione d’arte della Julius Baer",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lugano",
+        "o": "Museo Cantonale d´Arte Lugano",
+        "d": [
+          "2013-05-11",
+          "2013-08-18"
+        ]
+      },
+      {
+        "i": "80552-22370-2013-06-18",
+        "c": "IT",
+        "n": "AB, a project by Gabriele De Santis",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Rome",
+        "o": "Nomas Foundation",
+        "d": [
+          "2013-06-18",
+          "2013-09-20"
+        ]
+      },
+      {
+        "i": "80552-19465-2013-07-05",
+        "c": "GB",
+        "n": "Topodendrophilia",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Pilar Corrias Gallery",
+        "d": [
+          "2013-07-05",
+          "2013-08-02"
+        ]
+      },
+      {
+        "i": "80552-759-2013-07-26",
+        "c": "DE",
+        "n": "Public Abstraction Private Construction Teil VI",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Arnsberg",
+        "o": "Kunstverein Arnsberg",
+        "d": [
+          "2013-07-26",
+          "2013-09-15"
+        ]
+      },
+      {
+        "i": "80552-6160-2013-02-10",
+        "c": "CH",
+        "n": "Adrien Missika - A Walk In The Park",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Glarus",
+        "o": "Kunsthaus Glarus",
+        "d": [
+          "2013-02-10",
+          "2013-05-05"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "80552-20654-2012-02-02",
+        "c": "MC",
+        "n": "Le Silence Une Fiction",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Monaco",
+        "o": "Nouveau Musée National de Monaco",
+        "d": [
+          "2012-02-02",
+          "2012-04-03"
+        ]
+      },
+      {
+        "i": "80552-1014-2012-04-20",
+        "c": "CH",
+        "n": "The Beirut Experience II",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Geneva",
+        "o": "attitudes - espace d'arts contemporains",
+        "d": [
+          "2012-04-20",
+          "2012-06-12"
+        ]
+      },
+      {
+        "i": "80552-28587-2012-04-21",
+        "c": "CH",
+        "n": "The Beirut Experience II",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lancy",
+        "o": "Villa Bernasconi",
+        "d": [
+          "2012-04-21",
+          "2012-06-10"
+        ]
+      },
+      {
+        "i": "80552-6767-2012-09-01",
+        "c": "CH",
+        "n": "La jeunesse est un art - Jubiläum Manor Kunstpreis 2012",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Aarau",
+        "o": "Aargauer Kunsthaus",
+        "d": [
+          "2012-09-01",
+          "2012-11-18"
+        ]
+      },
+      {
+        "i": "80552-27199-2012-11-08",
+        "c": "BJ",
+        "n": "Biennale Bénin 2012",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Cotonou",
+        "o": "Biennale Bénin",
+        "d": [
+          "2012-11-08",
+          "2013-01-12"
+        ]
+      },
+      {
+        "i": "80552-913-2012-04-28",
+        "c": "DE",
+        "n": "The Sun is Late",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Crone",
+        "d": [
+          "2012-04-28",
+          "2012-06-16"
+        ]
+      }
+    ]
+  }
+}

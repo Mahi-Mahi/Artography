@@ -1,0 +1,75 @@
+{
+  "id": "16444",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:09:54",
+  "name": "Jean-Claude Palisse",
+  "surname": "Palisse",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1951",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography",
+  "r00": "64064",
+  "r01": "63480",
+  "r02": "60173",
+  "r03": "54618",
+  "r04": "49047",
+  "r05": "44408",
+  "r06": "58808",
+  "r07": "51123",
+  "r08": "52651",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (3), Poland (2)",
+  "2005-shows-with": "Jean-Claude Palisse (5), William Klein (3), Vasco Ascolini (2), François Marie Banier (2), Serge Clément (2), Thibaut Cuisset (2), Jacques Damez (2), Cédric Delsaux (2), Lionel Fourneaux (2), Rip Hopkins (2), Peter Knapp (2), Eric Lebrun (2), Peter Lindbergh (2), Leszek Pekalski (2), Bettina Rheims (2), Denis Roche (2), Willy Ronis (2), Georges Rousse (2), Denis Rouvre (2), Yan Tomaszewski (2), Sabine Weiss (2)",
+  "representing-galleries": "Galerie Le Réverbère (38, rue Burdeau, 69001 Lyon, France)",
+  "collecting-museums": null,
+  "first_name": "Jean-Claude",
+  "last_name": "Palisse",
+  "genre": "m",
+  "birthDate": "1951-01-01",
+  "age": 63,
+  "age_range": "46-55",
+  "expos": {
+    "2008": [
+      {
+        "i": "16444-19393-2008-02-02",
+        "c": "PL",
+        "n": "Kolekcja Transphotographiques",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Poznan",
+        "o": "Stary Browar",
+        "d": [
+          "2008-02-02",
+          "2008-03-02"
+        ]
+      },
+      {
+        "i": "16444-16993-2008-02-02",
+        "c": "PL",
+        "n": "Kolekcja Transphotographiques",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Poznan",
+        "o": "Art Stations Foundation",
+        "d": [
+          "2008-02-02",
+          "2008-03-02"
+        ]
+      }
+    ]
+  }
+}

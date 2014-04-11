@@ -1,0 +1,44 @@
+{
+  "id": "1907",
+  "name": "Galerie Gilles Peyroulet & Cie",
+  "street": "75 & 80 rue Quincampoix",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1987",
+  "directeurs": "Dominique Chenivesse, Gilles Peyroulet",
+  "profile": null,
+  "tel": "+33-(0)1-42 78 85 11",
+  "email": "contact@galeriepeyroulet.com",
+  "www": "www.galeriepeyroulet.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2075 & 80 rue Quincampoix %2C%20France",
+  "fairs-total": "16",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "12",
+  "fairs": {
+    "2006": [
+      {
+        "i": "1907-DFOTO 2006",
+        "c": "ES",
+        "n": "Galerie Gilles Peyroulet & Cie",
+        "ct": "San Sebastián"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1907-DFOTO 2007",
+        "c": "ES",
+        "n": "Galerie Gilles Peyroulet & Cie",
+        "ct": "San Sebastián"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1907-The Solo Project 2009",
+        "c": "CH",
+        "n": "Galerie Gilles Peyroulet & Cie",
+        "ct": "Basel"
+      }
+    ]
+  }
+}

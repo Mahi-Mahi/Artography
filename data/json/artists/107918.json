@@ -1,0 +1,189 @@
+{
+  "id": "107918",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:47:34",
+  "name": "Fred Forest",
+  "surname": "Forest",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1933",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Video installation, Video installation",
+  "r00": "8944",
+  "r01": "8902",
+  "r02": "10077",
+  "r03": "10664",
+  "r04": "9229",
+  "r05": "8846",
+  "r06": "9453",
+  "r07": "12499",
+  "r08": "16920",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1975",
+  "all-shows-total": "23",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (8), Argentina (1), Brazil (1), Germany (1), USA (1)",
+  "2005-shows-with": "Fred Forest (9), Jean-Jacques Lebel (4), Gina Pane (4), Mimmo Rotella (4), Niki de Saint Phalle (4), Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), Julien Blaine (3), Anna Byskov (3), Gilbert Caty (3), Erik Dietman (3), Noël Dolla (3), Joël Ducorroy (3), Eric Duyckaerts (3), Kristof Everart (3), Daniel Farioli (3), Jean-Baptiste Ganne (3), Paul-Armand Gette (3), Yoko Gunji (3), Raymond Hains (3), Raoul Hébréard (3), Michel Journiac (3), Virginie Le Touze (3), Jacques Lizène (3), George Maciunas (3), Jean Mas (3), Florent Mattei (3), Bruno Mendonça (3), Roland Miller (3), Patrick Moya (3), Serge Oldenbourg (3), Orlan (3), Gilbert Pedinielli (3), Philippe Perrin (3), Pierre Pinoncelli (3), Charly van Rest (3), Jean Paul Thenot (3), Bernar Venet (3), Jean-Luc Verna (3), Roberto Bozzi (2), George Brecht (2), Cai Guo-Qiang (2), Braco Dimitrijevic (2), Charles Dreyfus (2), Hervé Fischer (2), Nicolás García Uriburu (2), Claude Gilli (2), Jean Pierre Giovanelli (2), Joël Hubaut (2), Carsten Höll",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Fred",
+  "last_name": "Forest",
+  "genre": "m",
+  "birthDate": "1933-01-01",
+  "age": 81,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "107918-2266-2007-02-16",
+        "c": "DE",
+        "n": "Slought in Berlin: The New Epistemology",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Heike Curtze - Berlin",
+        "d": [
+          "2007-02-16",
+          "2007-03-02"
+        ]
+      },
+      {
+        "i": "107918-12454-2007-03-30",
+        "c": "AR",
+        "n": "1° Bienal del Fin del Mundo – Ushuaia 2007",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Ushuaia",
+        "o": "Bienal al Fin del Mundo",
+        "d": [
+          "2007-03-30",
+          "2007-04-29"
+        ]
+      },
+      {
+        "i": "107918-7882-2007-11-29",
+        "c": "US",
+        "n": "Slought in New York",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "ZONE: Contemporary Art",
+        "d": [
+          "2007-11-29",
+          "2007-12-15"
+        ]
+      },
+      {
+        "i": "107918-8011-2007-02-03",
+        "c": "US",
+        "n": "Fred Forest - Art and Society",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Philadelphia, PA",
+        "o": "Slought Foundation",
+        "d": [
+          "2007-02-03",
+          "2007-03-23"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "107918-2318-2008-05-24",
+        "c": "AR",
+        "n": "Slought in Buenos Aires",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Buenos Aires",
+        "o": "MAMBA - Museo de Arte Moderno de Buenos Aires",
+        "d": [
+          "2008-05-24",
+          "2008-05-31"
+        ]
+      },
+      {
+        "i": "107918-576-2008-10-15",
+        "c": "DE",
+        "n": "PERFORMING THE CITY - Kunst Aktionismus im Stadt Raum 60er und 70er Jahre",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Munich",
+        "o": "Lothringer13 - Städtische Kunsthalle München",
+        "d": [
+          "2008-10-15",
+          "2008-11-30"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "107918-2335-2009-09-01",
+        "c": "BR",
+        "n": "A França no MAC",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "São Paulo",
+        "o": "Museu de Arte Contemporânea da Universidade de São Paulo",
+        "d": [
+          "2009-09-01",
+          "2010-01-31"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "107918-2335-2009-09-01",
+        "c": "BR",
+        "n": "A França no MAC",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "São Paulo",
+        "o": "Museu de Arte Contemporânea da Universidade de São Paulo",
+        "d": [
+          "2009-09-01",
+          "2010-01-31"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "107918-2335-2006-10-07",
+        "c": "BR",
+        "n": "Fred Forest expõe um buraco no MAC",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "São Paulo",
+        "o": "Museu de Arte Contemporânea da Universidade de São Paulo",
+        "d": [
+          "2006-10-07",
+          "2006-12-13"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "107918-12448-2011-08-06",
+        "c": "US",
+        "n": "Feedback:",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Cuchifritos",
+        "d": [
+          "2011-08-06",
+          "2011-08-24"
+        ]
+      }
+    ]
+  }
+}

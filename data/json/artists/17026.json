@@ -1,0 +1,148 @@
+{
+  "id": "17026",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:10:13",
+  "name": "Marc Couturier",
+  "surname": "Couturier",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Mirbeau sur Bèze (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1946",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Installation",
+  "r00": "6789",
+  "r01": "6242",
+  "r02": "6489",
+  "r03": "5534",
+  "r04": "5717",
+  "r05": "4753",
+  "r06": "5036",
+  "r07": "4303",
+  "r08": "4660",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1987",
+  "all-shows-total": "40",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (8), Switzerland (2), Cameroon (1), Luxembourg (1)",
+  "2005-shows-with": "Marc Couturier (10), Henri Michaux (3), Marina Abramovic (2), Richard Fauguet (2), Roland Flexner (2), Anne Marie Jugnet & Alain Clairet (2), On Kawara (2), Fabrice Langlade (2), André Masson (2), Pierre Molinier (2), Gina Pane (2), Laurent Pariente (2), Giuseppe Penone (2), Carmen Perrin (2), Franck Scurti (2), Xavier Veilhan (2)",
+  "representing-galleries": null,
+  "collecting-museums": "FRAC - Picardie (45 rue Pointin, 80041 Amiens, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France); MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg)",
+  "first_name": "Marc",
+  "last_name": "Couturier",
+  "genre": "m",
+  "birthDate": "1946-01-01",
+  "age": 68,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "17026-1788-2005-03-16",
+        "c": "JP",
+        "n": "Since 1994-Mizuma Art Gallery The 10th Anniversary Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Tokyo",
+        "o": "Mizuma Art Gallery",
+        "d": [
+          "2005-03-16",
+          "2005-04-09"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "17026-3780-2006-04-22",
+        "c": "JP",
+        "n": "Collection of the Fondation Cartier pour l'art contemporain",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Tokyo",
+        "o": "Museum of Contemporary Art Tokyo (MOT)",
+        "d": [
+          "2006-04-22",
+          "2006-07-02"
+        ]
+      },
+      {
+        "i": "17026-2331-2006-07-02",
+        "c": "LU",
+        "n": "Eldorado",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2006-07-02",
+          "2006-11-20"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "17026-1265-2008-10-22",
+        "c": "CH",
+        "n": "Papier",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Basel",
+        "o": "Galerie Gisèle Linder",
+        "d": [
+          "2008-10-22",
+          "2008-11-22"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "17026-13486-2010-04-16",
+        "c": "CM",
+        "n": "Figures de rêve",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Douala",
+        "o": "Espace doual´art",
+        "d": [
+          "2010-04-16",
+          "2010-05-31"
+        ]
+      },
+      {
+        "i": "17026-896-2010-05-20",
+        "c": "CH",
+        "n": "20 Years Already!",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Galerie Guy Bärtschi",
+        "d": [
+          "2010-05-20",
+          "2010-07-16"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "17026-2331-2012-03-21",
+        "c": "LU",
+        "n": "Les Détours De L\\'abstraction",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2012-03-21",
+          "2012-11-04"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "76657",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:35:11",
+  "name": "Sophie Dodelin",
+  "surname": "Dodelin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "(FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1980",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "90665",
+  "r01": "87846",
+  "r02": "83245",
+  "r03": "77667",
+  "r04": "81844",
+  "r05": "74762",
+  "r06": "92057",
+  "r07": "83117",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "3",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Hungary (2)",
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": "C3 - Center for Culture & Communication (Szpáhi utca 20, 1022 Budapest, Hungary)",
+  "first_name": "Sophie",
+  "last_name": "Dodelin",
+  "genre": "f",
+  "birthDate": "1980-01-01",
+  "age": 34,
+  "age_range": "26-35",
+  "expos": {
+    "2008": [
+      {
+        "i": "76657-6135-2008-01-25",
+        "c": "HU",
+        "n": "Stalking Utopia - Tracking the City",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dunaujvaros",
+        "o": "Institute of Contemporary Art - Dunaújvàros",
+        "d": [
+          "2008-01-25",
+          "2008-02-29"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "76657-18105-2006-04-01",
+        "c": "CA",
+        "n": "20,75 contre 1,31",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Granby, QC",
+        "o": "3e impérial - Centre d'essai en art actuel",
+        "d": [
+          "2006-04-01",
+          "2006-08-01"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "76657-10961-2010-10-14",
+        "c": "HU",
+        "n": "imparfait",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Budapest",
+        "o": "Liget Galeria",
+        "d": [
+          "2010-10-14",
+          "2010-11-11"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "13142",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:08:27",
+  "name": "Jean-Jacques Dournon",
+  "surname": "Dournon",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1953",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "41647",
+  "r01": "51780",
+  "r02": "49587",
+  "r03": "45321",
+  "r04": "40723",
+  "r05": "90014",
+  "r06": "81655",
+  "r07": "72848",
+  "r08": "63504",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "Switzerland (3), France (2)",
+  "2005-shows-with": "Jean-Jacques Dournon (2)",
+  "representing-galleries": "Galerie Ditesheim & Maffei (8, rue du Château, 2000 Neuchâtel, Switzerland)",
+  "collecting-museums": "Musée du Hiéron (13 rue de la Paix, 71600 Paray-le-Monial, France)",
+  "first_name": "Jean-Jacques",
+  "last_name": "Dournon",
+  "genre": "m",
+  "birthDate": "1953-01-01",
+  "age": 61,
+  "age_range": "46-55",
+  "expos": {
+    "2012": [
+      {
+        "i": "13142-1526-2012-01-22",
+        "c": "CH",
+        "n": "Le dessin",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Neuchâtel",
+        "o": "Galerie Ditesheim & Maffei",
+        "d": [
+          "2012-01-22",
+          "2012-02-26"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "13142-1938-2009-02-01",
+        "c": "CH",
+        "n": "Paysages et fruits",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Lausanne",
+        "o": "Galerie Alice Pauli",
+        "d": [
+          "2009-02-01",
+          "2009-03-07"
+        ]
+      },
+      {
+        "i": "13142-1526-2009-02-01",
+        "c": "CH",
+        "n": "Jean-Jacques Dournon",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Neuchâtel",
+        "o": "Galerie Ditesheim & Maffei",
+        "d": [
+          "2009-02-01",
+          "2009-03-07"
+        ]
+      }
+    ]
+  }
+}

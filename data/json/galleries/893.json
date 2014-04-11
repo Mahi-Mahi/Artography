@@ -1,0 +1,188 @@
+{
+  "id": "893",
+  "name": "Air de Paris",
+  "street": "32, rue Louise Weiss",
+  "zip": "75013",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33-(0)-144230277",
+  "email": "fan@airdeparis.com",
+  "www": "www.airdeparis.com/now.htm",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075013 %2C%20 %2C%2032, rue Louise Weiss %2C%20France",
+  "fairs-total": "35",
+  "fairs-abroad": "25",
+  "fairs-in-FR": "10",
+  "fairs": {
+    "2005": [
+      {
+        "i": "893-Art 36 Basel",
+        "c": "CH",
+        "n": "Air de Paris",
+        "ct": "Basel"
+      },
+      {
+        "i": "893-Frieze Art Fair 2005",
+        "c": "GB",
+        "n": "Air de Paris",
+        "ct": "London (England)"
+      },
+      {
+        "i": "893-Art Basel Miami Beach 2005",
+        "c": "US",
+        "n": "Air de Paris",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2006": [
+      {
+        "i": "893-Art 37 Basel",
+        "c": "CH",
+        "n": "Air de Paris",
+        "ct": "Basel"
+      },
+      {
+        "i": "893-Frieze Art Fair 2006",
+        "c": "GB",
+        "n": "Air de Paris",
+        "ct": "London (England)"
+      },
+      {
+        "i": "893-Art Basel Miami Beach 2006",
+        "c": "US",
+        "n": "Air de Paris",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2007": [
+      {
+        "i": "893-MACO Mexico 07",
+        "c": "MX",
+        "n": "Air de Paris",
+        "ct": "Mexico City"
+      },
+      {
+        "i": "893-Art 38 Basel",
+        "c": "CH",
+        "n": "Air de Paris",
+        "ct": "Basel"
+      },
+      {
+        "i": "893-Frieze Art Fair 2007",
+        "c": "GB",
+        "n": "Air de Paris",
+        "ct": "London (England)"
+      }
+    ],
+    "2008": [
+      {
+        "i": "893-CIRCA Puerto Rico ’08",
+        "c": "PR",
+        "n": "Air de Paris",
+        "ct": "San Juan"
+      },
+      {
+        "i": "893-Art 39 Basel",
+        "c": "CH",
+        "n": "Air de Paris",
+        "ct": "Basel"
+      },
+      {
+        "i": "893-Art Basel Miami Beach 2008",
+        "c": "US",
+        "n": "Air de Paris",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2009": [
+      {
+        "i": "893-Art 40 Basel",
+        "c": "CH",
+        "n": "Air de Paris",
+        "ct": "Basel"
+      },
+      {
+        "i": "893-Art Basel Miami Beach 2009",
+        "c": "US",
+        "n": "Air de Paris",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2010": [
+      {
+        "i": "893-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Air de Paris",
+        "ct": "Brussels"
+      },
+      {
+        "i": "893-Art 41 Basel",
+        "c": "CH",
+        "n": "Air de Paris",
+        "ct": "Basel"
+      },
+      {
+        "i": "893-Artissima 17",
+        "c": "IT",
+        "n": "Air de Paris",
+        "ct": "Turin"
+      }
+    ],
+    "2011": [
+      {
+        "i": "893-Art Brussels 2011",
+        "c": "BE",
+        "n": "Air de Paris",
+        "ct": "Brussels"
+      },
+      {
+        "i": "893-Art 42 Basel",
+        "c": "CH",
+        "n": "Air de Paris",
+        "ct": "Basel"
+      },
+      {
+        "i": "893-Art Basel Miami Beach 2011",
+        "c": "US",
+        "n": "Air de Paris",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2012": [
+      {
+        "i": "893-Frieze New York 2012",
+        "c": "US",
+        "n": "Air de Paris",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "893-Art 43 Basel",
+        "c": "CH",
+        "n": "Air de Paris",
+        "ct": "Basel"
+      }
+    ],
+    "2013": [
+      {
+        "i": "893-MiArt 2013",
+        "c": "IT",
+        "n": "Air de Paris",
+        "ct": "Milan"
+      },
+      {
+        "i": "893-Frieze New York 2013",
+        "c": "US",
+        "n": "Air de Paris",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "893-Art Basel 2013",
+        "c": "CH",
+        "n": "Air de Paris",
+        "ct": "Basel"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "2017",
+  "name": "Oniris Galerie d´art contemporain",
+  "street": "38, rue d´Antrain B.P. 60205",
+  "zip": "35702",
+  "city": "Rennes",
+  "country": "France",
+  "foundation": "1986",
+  "directeurs": "Yvonne Paumelle",
+  "profile": "Ouverte depuis 1986 à Rennes et dirigée par Yvonne Paumelle, la galerie Oniris est devenue avec le temps un des lieux incontournables de l´art contemporain en Bretagne. Depuis 15 ans, la galerie reste fidèle à son objectif initial: présenter des artistes attachés à une expression rigoureuse dans les modes d´approches complémentaires (peinture, dessin, gravure et sculpture).",
+  "tel": "+33-(0)2 99 36 46 06",
+  "email": "contact@galerie-oniris.com",
+  "www": "www.galerie-oniris.com",
+  "map": "http://maps.google.com/maps?q=Rennes%2C%2035702 %2C%20 %2C%2038, rue d´Antrain B.P. 60205 %2C%20France",
+  "fairs-total": "23",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "19",
+  "fairs": {
+    "2005": [
+      {
+        "i": "2017-Art Cologne 2005",
+        "c": "DE",
+        "n": "Oniris Galerie d´art contemporain",
+        "ct": "Cologne"
+      }
+    ],
+    "2006": [
+      {
+        "i": "2017-Art Brussels 2006- 24th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Oniris Galerie d´art contemporain",
+        "ct": "Brussels"
+      }
+    ],
+    "2007": [
+      {
+        "i": "2017-Art Brussels 2007- 25th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Oniris Galerie d´art contemporain",
+        "ct": "Brussels"
+      }
+    ],
+    "2013": [
+      {
+        "i": "2017-Art Karlsruhe 2013",
+        "c": "DE",
+        "n": "Oniris Galerie d´art contemporain",
+        "ct": "Karlsruhe"
+      }
+    ]
+  }
+}

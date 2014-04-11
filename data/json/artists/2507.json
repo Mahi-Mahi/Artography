@@ -1,0 +1,148 @@
+{
+  "id": "2507",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:03:21",
+  "name": "Antoine Perrot",
+  "surname": "Perrot",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Toulon (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1953",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "22125",
+  "r01": "20644",
+  "r02": "19559",
+  "r03": "22122",
+  "r04": "20231",
+  "r05": "18077",
+  "r06": "20209",
+  "r07": "19741",
+  "r08": "21501",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1999",
+  "all-shows-total": "24",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (10), Germany (3), Poland (1)",
+  "2005-shows-with": "Antoine Perrot (12), Claude Briand-Picard (5), John M Armleder (3), Jean-François Dubreuil (3), Yaacov Agam (2), César Andrade (2), Erwan Ballan (2), Cécile Bart (2), Jean-Pierre Bredo (2), Hellmut Bruch (2), Giancarlo Caporicci (2), Nicolas Chardon (2), Jean-Gabriel Coignet (2), Yvan  Contreras Brunet (2), Dominique De Beir (2), Stephen Dean (2), Philippe Desloubières (2), Susanna Fritscher (2), Gerhard Frömel (2), Hans-Jörg Glattfelder (2), Norbert Huwer (2), Maelle Labussière (2), Jens J. Meyer (2), Olivier Michel (2), François Morellet (2), Patrice Pantin (2), Uli Pohl (2), Philippe Richard (2), Klaus Staudt (2), Véronique Verstraete (2), Claude Viallat (2)",
+  "representing-galleries": "Galerie Réjane Louin (19, rue de l\\'église, 29241 Locquirec, France); Galerie Lahumière (17 Rue du Parc Royal, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Antoine",
+  "last_name": "Perrot",
+  "genre": "c",
+  "birthDate": "1953-01-01",
+  "age": 61,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "2507-9455-2007-03-26",
+        "c": "BE",
+        "n": "Toutes Les Couleurs Sont Autorisées À Condition Que Cela N'empêche Pas Le Commer",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "Atelier 340 Muzeum",
+        "d": [
+          "2007-03-26",
+          "2007-05-27"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "2507-13075-2008-08-07",
+        "c": "PL",
+        "n": "All colours permitted as long as they don\\'t interfere with business",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Katowice",
+        "o": "BWA Contemporary Art Gallery in Katowice",
+        "d": [
+          "2008-08-07",
+          "2008-10-12"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "2507-7927-2009-01-18",
+        "c": "DE",
+        "n": "Hommage an das Quadrat",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Waldenbuch",
+        "o": "Museum Ritter",
+        "d": [
+          "2009-01-18",
+          "2010-04-11"
+        ]
+      },
+      {
+        "i": "2507-525-2009-12-05",
+        "c": "DE",
+        "n": "geometrisch-abstrakt-kinetisch",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Ettlingen",
+        "o": "Galerie Emilia Suciu - konstruktiv-konkrete Kunst",
+        "d": [
+          "2009-12-05",
+          "2010-01-31"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "2507-7927-2009-01-18",
+        "c": "DE",
+        "n": "Hommage an das Quadrat",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Waldenbuch",
+        "o": "Museum Ritter",
+        "d": [
+          "2009-01-18",
+          "2010-04-11"
+        ]
+      },
+      {
+        "i": "2507-525-2009-12-05",
+        "c": "DE",
+        "n": "geometrisch-abstrakt-kinetisch",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Ettlingen",
+        "o": "Galerie Emilia Suciu - konstruktiv-konkrete Kunst",
+        "d": [
+          "2009-12-05",
+          "2010-01-31"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "2507-21184-2011-02-26",
+        "c": "DE",
+        "n": "Kinetik - Kunst in Bewegung",
+        "st": "Group",
+        "t": "Private Collection",
+        "ct": "Riegel",
+        "o": "Kunsthalle Messmer",
+        "d": [
+          "2011-02-26",
+          "2011-06-26"
+        ]
+      }
+    ]
+  }
+}

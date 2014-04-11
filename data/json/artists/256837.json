@@ -1,0 +1,77 @@
+{
+  "id": "256837",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:45:42",
+  "name": "Fouad Bouchoucha",
+  "surname": "Bouchoucha",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Marseille (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1981",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "26279",
+  "r01": "32197",
+  "r02": "36555",
+  "r03": "61767",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2010",
+  "all-shows-total": "10",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (8), Switzerland (1)",
+  "2005-shows-with": "Fouad Bouchoucha (8), Valère Chanceaulme de Sainte Croix (2), Stephanie Cherpin (2), Sandro Della Noce (2), Yann Gerstberger (2), Thomas Léon (2), Benjamin Marianne (2), Alice Planes (2), Geraldine Py (2), Bruno Sedan (2), Simon Starling (2), Roberto Verde (2)",
+  "representing-galleries": "Galerie Eric Dupont (138, rue du Temple, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Fouad",
+  "last_name": "Bouchoucha",
+  "genre": "c",
+  "birthDate": "1981-01-01",
+  "age": 33,
+  "age_range": "26-35",
+  "expos": {
+    "2010": [
+      {
+        "i": "256837-3157-2010-11-20",
+        "c": "CH",
+        "n": "For real!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "St. Gallen",
+        "o": "Kunst Halle Sankt Gallen",
+        "d": [
+          "2010-11-20",
+          "2011-01-23"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "256837-3157-2010-11-20",
+        "c": "CH",
+        "n": "For real!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "St. Gallen",
+        "o": "Kunst Halle Sankt Gallen",
+        "d": [
+          "2010-11-20",
+          "2011-01-23"
+        ]
+      }
+    ]
+  }
+}

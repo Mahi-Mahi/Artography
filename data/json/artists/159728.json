@@ -1,0 +1,75 @@
+{
+  "id": "159728",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:08:30",
+  "name": "Jacques Fournel",
+  "surname": "Fournel",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Montpellier (FR)",
+  "birth day": "25",
+  "birth month": "10",
+  "birth year": "1951",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "19881",
+  "r01": "17980",
+  "r02": "15844",
+  "r03": "13890",
+  "r04": "11991",
+  "r05": "10193",
+  "r06": "9969",
+  "r07": "11967",
+  "r08": "24954",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "6",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (1)",
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France)",
+  "first_name": "Jacques",
+  "last_name": "Fournel",
+  "genre": "m",
+  "birthDate": "1951-10-25",
+  "age": 62,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "159728-20518-2007-01-25",
+        "c": "ES",
+        "n": "Documents, memory of the future",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "San Sebastián",
+        "o": "Koldo Mitxelena Kulturunea",
+        "d": [
+          "2007-01-25",
+          "2007-03-17"
+        ]
+      },
+      {
+        "i": "159728-5490-2007-03-30",
+        "c": "ES",
+        "n": "Documents, memory of the future",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vigo",
+        "o": "MARCO Museo de Arte Contemporánea de Vigo",
+        "d": [
+          "2007-03-30",
+          "2007-06-24"
+        ]
+      }
+    ]
+  }
+}

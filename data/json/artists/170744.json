@@ -1,0 +1,105 @@
+{
+  "id": "170744",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:12:46",
+  "name": "Pierre Courtin",
+  "surname": "Courtin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "(FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1976",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "89948",
+  "r01": "86831",
+  "r02": "81887",
+  "r03": "76047",
+  "r04": "69564",
+  "r05": "62693",
+  "r06": "64400",
+  "r07": "56755",
+  "r08": "64392",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Germany (2)",
+  "2005-shows-with": null,
+  "representing-galleries": "Krupic Kersting Galerie - kuk (Jülicher Strasse  14, 50674 Cologne, Germany)",
+  "collecting-museums": null,
+  "first_name": "Pierre",
+  "last_name": "Courtin",
+  "genre": "m",
+  "birthDate": "1976-01-01",
+  "age": 38,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "170744-21424-2005-04-26",
+        "c": "DE",
+        "n": "Klein Gedrucktes",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Florian Walch",
+        "d": [
+          "2005-04-26",
+          "2005-05-24"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "170744-15008-2006-05-12",
+        "c": "KR",
+        "n": "Moving Windows",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Busan",
+        "o": "Busan Museum of Art",
+        "d": [
+          "2006-05-12",
+          "2006-06-21"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "170744-17316-2008-04-16",
+        "c": "DE",
+        "n": "Pierre Courtin & Damir Radovic",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Cologne",
+        "o": "Krupic Kersting Galerie - kuk",
+        "d": [
+          "2008-04-16",
+          "2008-06-07"
+        ]
+      },
+      {
+        "i": "170744-17316-2008-04-16",
+        "c": "DE",
+        "n": "Don\\'t think twice, it\\'s all right",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Cologne",
+        "o": "Krupic Kersting Galerie - kuk",
+        "d": [
+          "2008-04-16",
+          "2008-06-10"
+        ]
+      }
+    ]
+  }
+}

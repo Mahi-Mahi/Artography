@@ -1,0 +1,135 @@
+{
+  "id": "169258",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:12:13",
+  "name": "Olivier Culmann",
+  "surname": "Culmann",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography",
+  "r00": "46038",
+  "r01": "45701",
+  "r02": "41999",
+  "r03": "47330",
+  "r04": "56179",
+  "r05": "50155",
+  "r06": "54418",
+  "r07": "47287",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (2), Belgium (1), Slovakia (1), United Kingdom (1)",
+  "2005-shows-with": "Olivier Culmann (4)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Olivier",
+  "last_name": "Culmann",
+  "genre": "m",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-35",
+  "expos": {
+    "2006": [
+      {
+        "i": "169258-14676-2006-04-15",
+        "c": "US",
+        "n": "Imaging LA",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Santa Monica, CA",
+        "o": "18th Street Arts Center",
+        "d": [
+          "2006-04-15",
+          "2006-06-23"
+        ]
+      },
+      {
+        "i": "169258-10868-2006-06-22",
+        "c": "MX",
+        "n": "Los mundos de la escuela",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mexico City",
+        "o": "Centro de la Imagen",
+        "d": [
+          "2006-06-22",
+          "2006-07-30"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "169258-15771-2010-02-28",
+        "c": "BE",
+        "n": "BIP 2010 - Biennale internationale de la Photographie et des Arts visuels",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Liège",
+        "o": "Biennale internationale de la Photographie et des Arts visuels",
+        "d": [
+          "2010-02-28",
+          "2010-04-25"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "169258-13492-2011-11-02",
+        "c": "SK",
+        "n": "Watching TV",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bratislava",
+        "o": "Galéria mesta Bratislavy",
+        "d": [
+          "2011-11-02",
+          "2012-01-15"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "169258-13492-2011-11-02",
+        "c": "SK",
+        "n": "Watching TV",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bratislava",
+        "o": "Galéria mesta Bratislavy",
+        "d": [
+          "2011-11-02",
+          "2012-01-15"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "169258-4800-2013-11-09",
+        "c": "GB",
+        "n": "5 Sculptors",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Albemarle Gallery",
+        "d": [
+          "2013-11-09",
+          "2013-11-30"
+        ]
+      }
+    ]
+  }
+}

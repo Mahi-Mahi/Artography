@@ -1,0 +1,77 @@
+{
+  "id": "94632",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:42:32",
+  "name": "Jean-Claude Gautrand",
+  "surname": "Gautrand",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Sains-en-Gohelle (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1932",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "42114",
+  "r01": "39690",
+  "r02": "36275",
+  "r03": "99792",
+  "r04": "93275",
+  "r05": "86181",
+  "r06": "78043",
+  "r07": "69749",
+  "r08": "60750",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2011",
+  "all-shows-total": "2",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (1), Germany (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "Galerie Philippe Chaume (9 rue de Marseille, 75010 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Jean-Claude",
+  "last_name": "Gautrand",
+  "genre": "c",
+  "birthDate": "1932-01-01",
+  "age": 82,
+  "age_range": "46-55",
+  "expos": {
+    "2011": [
+      {
+        "i": "94632-2537-2011-09-16",
+        "c": "DE",
+        "n": "Eyes On Paris - Paris Im Fotobuch 1890 Bis Heute",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hamburg",
+        "o": "Deichtorhallen Hamburg",
+        "d": [
+          "2011-09-16",
+          "2012-01-08"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "94632-2537-2011-09-16",
+        "c": "DE",
+        "n": "Eyes On Paris - Paris Im Fotobuch 1890 Bis Heute",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hamburg",
+        "o": "Deichtorhallen Hamburg",
+        "d": [
+          "2011-09-16",
+          "2012-01-08"
+        ]
+      }
+    ]
+  }
+}

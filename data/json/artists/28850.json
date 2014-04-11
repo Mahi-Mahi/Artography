@@ -1,0 +1,161 @@
+{
+  "id": "28850",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:15:24",
+  "name": "Emmanuel Barcilon",
+  "surname": "Barcilon",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1967",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "37770",
+  "r01": "35350",
+  "r02": "34368",
+  "r03": "43127",
+  "r04": "61401",
+  "r05": "55200",
+  "r06": "48427",
+  "r07": "61925",
+  "r08": "57733",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (4), Belgium (3), Netherlands (2)",
+  "2005-shows-with": "Emmanuel Barcilon (5), Godfried Donkor (3), Lance Letscher (3), Chéri Samba (3), Miguel Sancho (3), Karl Waldmann (3), Marlene Dumas (2), Maimouna Guerresi (2), Didier Hagege (2), Hassan Musa (2), Max Neumann (2), Alberto Reguera (2), Norbert Schwontkowski (2), Anton Solomoukha (2), Miroslav Tichy (2), Martine Vanderhoven (2)",
+  "representing-galleries": "Galerie Pascal Polar (Chaussée de Charleroi 108, 1060 Brussels, Belgium); Rasson Art Gallery (13, rue de Rasse, B-7500 Tournai, Belgium); Galerie Brandt (Prinsengracht  799, 1017 KA Amsterdam, Netherlands); Frost and Reed Contemporary (2-4 King Street, SW1Y 6QP London (England), United Kingdom); Rosenfeld Porcini (37 Rathbone Street, W1T 1NZ London (England), United Kingdom)",
+  "collecting-museums": null,
+  "first_name": "Emmanuel",
+  "last_name": "Barcilon",
+  "genre": "m",
+  "birthDate": "1967-01-01",
+  "age": 47,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "28850-376-2005-09-17",
+        "c": "BE",
+        "n": "Emmanuel Barcilon / Alberto Reguera",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Pascal Polar",
+        "d": [
+          "2005-09-17",
+          "2005-10-29"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "28850-376-2011-07-27",
+        "c": "BE",
+        "n": "Summer Groupshow",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Pascal Polar",
+        "d": [
+          "2011-07-27",
+          "2011-09-03"
+        ]
+      },
+      {
+        "i": "28850-26782-2011-12-03",
+        "c": "NL",
+        "n": "Group Dynamics II",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Galerie Brandt",
+        "d": [
+          "2011-12-03",
+          "2012-01-15"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "28850-26782-2011-12-03",
+        "c": "NL",
+        "n": "Group Dynamics II",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Galerie Brandt",
+        "d": [
+          "2011-12-03",
+          "2012-01-15"
+        ]
+      },
+      {
+        "i": "28850-376-2012-07-07",
+        "c": "BE",
+        "n": "Vision",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Pascal Polar",
+        "d": [
+          "2012-07-07",
+          "2012-09-01"
+        ]
+      },
+      {
+        "i": "28850-376-2012-11-06",
+        "c": "BE",
+        "n": "Visions",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Pascal Polar",
+        "d": [
+          "2012-11-06",
+          "2013-01-01"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "28850-376-2012-11-06",
+        "c": "BE",
+        "n": "Visions",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Pascal Polar",
+        "d": [
+          "2012-11-06",
+          "2013-01-01"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "28850-26782-2010-11-06",
+        "c": "NL",
+        "n": "Emmanuel Barcilon",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Galerie Brandt",
+        "d": [
+          "2010-11-06",
+          "2010-12-19"
+        ]
+      }
+    ]
+  }
+}

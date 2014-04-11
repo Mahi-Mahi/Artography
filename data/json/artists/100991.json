@@ -1,0 +1,161 @@
+{
+  "id": "100991",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:44:52",
+  "name": "Thomas Mailaender",
+  "surname": "Mailaender",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Marseille (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "24117",
+  "r01": "29230",
+  "r02": "41061",
+  "r03": "53808",
+  "r04": "61852",
+  "r05": "55576",
+  "r06": "48771",
+  "r07": "61946",
+  "r08": "55853",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2004",
+  "all-shows-total": "13",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (5), Estonia (2), Belgium (1), United Kingdom (1)",
+  "2005-shows-with": "Thomas Mailaender (6), Gustavo Artigas (2), Kader Attia (2), Bruno Boudjelal (2), Mohamed Bourouissa (2), Michel de Broin (2), Chen Zhen (2), Ad van Denderen (2), Claire Fontaine (2), Ghazel (2), Mona Hatoum (2), Heidrun Holzfeind (2), Karim Kal (2), Anssi Kasitonni (2), Bouchra Khalili (2), Kimsooja (2), Kristof Kintera (2), Neeme Külm (2), Marko Laimre (2), Andrus Lauringson (2), Mare Mikoff (2), Marko Mäetamm (2), Malik Nejmi (2), Melik Ohanian (2), Mathieu Pernot (2), Taavi Piibemann (2), Jaanus Samma (2), Bruno Serralongue (2), Shen Yuan (2), Liina Siib (2), Toomas Thetloff (2), Barthélémy Toguo (2), Armands Zelcs (2)",
+  "representing-galleries": "Galerie Bertrand Grimont (203 Bis Rue Saint Martin, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Thomas",
+  "last_name": "Mailaender",
+  "genre": "m",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-35",
+  "expos": {
+    "2006": [
+      {
+        "i": "100991-3345-2006-06-17",
+        "c": "NL",
+        "n": "Alone Together",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "Galerie Nouvelles Images",
+        "d": [
+          "2006-06-17",
+          "2006-08-23"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "100991-15794-2007-02-21",
+        "c": "NL",
+        "n": "Just Can’t Get Enough” Capricous",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Arnhem",
+        "o": "CBK - Centrum Beeldende Kunst Gelderland",
+        "d": [
+          "2007-02-21",
+          "2007-07-13"
+        ]
+      },
+      {
+        "i": "100991-18342-2007-06-20",
+        "c": "DE",
+        "n": "F/Stop 1. Internationales Fotografiefestival Leipzig",
+        "st": "Group",
+        "t": "Festival",
+        "ct": "Leipzig",
+        "o": "F/Stop Internationales Fotografiefestival Leipzig",
+        "d": [
+          "2007-06-20",
+          "2007-06-24"
+        ]
+      },
+      {
+        "i": "100991-6124-2007-08-25",
+        "c": "CH",
+        "n": "Alone Together",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Liestal",
+        "o": "Kunsthalle Palazzo",
+        "d": [
+          "2007-08-25",
+          "2007-10-05"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "100991-10491-2010-10-24",
+        "c": "EE",
+        "n": "Kättemaks / Revenge",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Tallinn",
+        "o": "Tallinna Kunstihoone / Tallinn Art Hall",
+        "d": [
+          "2010-10-24",
+          "2010-11-29"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "100991-10491-2011-01-29",
+        "c": "EE",
+        "n": "Kättemaks / Revenge",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Tallinn",
+        "o": "Tallinna Kunstihoone / Tallinn Art Hall",
+        "d": [
+          "2011-01-29",
+          "2011-03-14"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "100991-15720-2012-06-22",
+        "c": "BE",
+        "n": "From Here On",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "Fotomuseum Antwerpen",
+        "d": [
+          "2012-06-22",
+          "2012-09-30"
+        ]
+      },
+      {
+        "i": "100991-11490-2012-07-20",
+        "c": "GB",
+        "n": "Metadomestic:",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Middlesbrough (England)",
+        "o": "Middlesbrough Institute of Modern Art - MIMA",
+        "d": [
+          "2012-07-20",
+          "2012-11-23"
+        ]
+      }
+    ]
+  }
+}

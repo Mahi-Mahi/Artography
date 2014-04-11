@@ -1,0 +1,118 @@
+{
+  "id": "166768",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:11:15",
+  "name": "Olivier Rizzo",
+  "surname": "Rizzo",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1961",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "40871",
+  "r01": "43878",
+  "r02": "74021",
+  "r03": "83660",
+  "r04": "87549",
+  "r05": "86257",
+  "r06": "78135",
+  "r07": "69783",
+  "r08": "60806",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2004",
+  "all-shows-total": "19",
+  "2005-shows-biennials": "16",
+  "2005-shows-galleries": "16",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (12), USA (4), Germany (1)",
+  "2005-shows-with": "Olivier Rizzo (12), JonOne (4), TANC (4), Jef Aerosol (3), Tilt (3), Shepard Fairey (2), Jean-Michel Pradel-Fraysse (2), ZEVS (2)",
+  "representing-galleries": "Galerie Suty (Grande Rue 75, 60580 Coye-la-Forêt, France); Art Partner Galerie (7, rue Aubriot, 75004 Paris, France); Galerie Polaris (15, rue des Arquebusiers, 75003 Paris, France); Fabien Castanier Gallery (12196 Ventura Blvd, 91604 Studio City, CA, USA)",
+  "collecting-museums": null,
+  "first_name": "Olivier",
+  "last_name": "Rizzo",
+  "genre": "m",
+  "birthDate": "1961-01-01",
+  "age": 53,
+  "age_range": "46-55",
+  "expos": {
+    "2012": [
+      {
+        "i": "166768-27600-2012-05-12",
+        "c": "US",
+        "n": "French Invasion",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Studio City, CA",
+        "o": "Fabien Castanier Gallery",
+        "d": [
+          "2012-05-12",
+          "2012-06-24"
+        ]
+      },
+      {
+        "i": "166768-27600-2012-06-30",
+        "c": "US",
+        "n": "Freestyle",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Studio City, CA",
+        "o": "Fabien Castanier Gallery",
+        "d": [
+          "2012-06-30",
+          "2012-09-02"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "166768-28544-2013-03-24",
+        "c": "DE",
+        "n": "Urban Art Biennale 2013",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Völklingen",
+        "o": "Urban Art Biennale",
+        "d": [
+          "2013-03-24",
+          "2013-11-01"
+        ]
+      },
+      {
+        "i": "166768-27600-2013-05-11",
+        "c": "US",
+        "n": "Speedy Graphito",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Studio City, CA",
+        "o": "Fabien Castanier Gallery",
+        "d": [
+          "2013-05-11",
+          "2013-06-08"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "166768-27600-2011-09-24",
+        "c": "US",
+        "n": "FreeWay",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Studio City, CA",
+        "o": "Fabien Castanier Gallery",
+        "d": [
+          "2011-09-24",
+          "2011-10-23"
+        ]
+      }
+    ]
+  }
+}

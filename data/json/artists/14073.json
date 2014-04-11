@@ -1,0 +1,92 @@
+{
+  "id": "14073",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:08:50",
+  "name": "Eric Fonteneau",
+  "surname": "Fonteneau",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Cholet (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1954",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "42253",
+  "r01": "38356",
+  "r02": "34052",
+  "r03": "36002",
+  "r04": "31350",
+  "r05": "29628",
+  "r06": "24905",
+  "r07": "20812",
+  "r08": "16813",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1994",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (3), Germany (2)",
+  "2005-shows-with": "Eric Fonteneau (5), Hubertus Gojowczyk (2)",
+  "representing-galleries": "Oniris Galerie d´art contemporain (38, rue d´Antrain B.P. 60205, 35702 Rennes, France); Moeller Fine Art Ltd (36 East 64th Street, 10021 New York City, NY, USA)",
+  "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France)",
+  "first_name": "Eric",
+  "last_name": "Fonteneau",
+  "genre": "m",
+  "birthDate": "1954-01-01",
+  "age": 60,
+  "age_range": "46-55",
+  "expos": {
+    "2009": [
+      {
+        "i": "14073-20622-2009-07-02",
+        "c": "DE",
+        "n": "Hubertus Gojowcyzk & Eric Fonteneau",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Moeller Fine Art",
+        "d": [
+          "2009-07-02",
+          "2009-09-12"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "14073-20622-2011-12-13",
+        "c": "DE",
+        "n": "Stille Materie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Moeller Fine Art",
+        "d": [
+          "2011-12-13",
+          "2012-01-27"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "14073-20622-2011-12-13",
+        "c": "DE",
+        "n": "Stille Materie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Moeller Fine Art",
+        "d": [
+          "2011-12-13",
+          "2012-01-27"
+        ]
+      }
+    ]
+  }
+}

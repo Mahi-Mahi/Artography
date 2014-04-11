@@ -1,0 +1,135 @@
+{
+  "id": "114738",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:50:21",
+  "name": "Claude Gilli",
+  "surname": "Gilli",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Nice (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1938",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "19681",
+  "r01": "18233",
+  "r02": "22183",
+  "r03": "27733",
+  "r04": "24414",
+  "r05": "22447",
+  "r06": "36335",
+  "r07": "55048",
+  "r08": "46766",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1965",
+  "all-shows-total": "13",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (3), Germany (1), Monaco (1), United Kingdom (1), USA (1)",
+  "2005-shows-with": "Claude Gilli (7), Bernar Venet (4), Noël Dolla (3), Jean-Jacques Lebel (3), Jacques Lizène (3), Jean-Luc Verna (3), Marcel Alocco (2), Dominique Angel (2), Arman (2), Eleonore Bak (2), Julien Blaine (2), Marcel Broodthaers (2), Pol Bury (2), Anna Byskov (2), Cai Guo-Qiang (2), Gilbert Caty (2), Erik Dietman (2), Joël Ducorroy (2), Eric Duyckaerts (2), Kristof Everart (2), Jean-Claude Farhi (2), Daniel Farioli (2), Fred Forest (2), Jean-Baptiste Ganne (2), Nicolás García Uriburu (2), Paul-Armand Gette (2), Yoko Gunji (2), Raymond Hains (2), Raoul Hébréard (2), Michel Journiac (2), Peter Klasen (2), Virginie Le Touze (2), George Maciunas (2), Jean Mas (2), Florent Mattei (2), Paul McCarthy (2), Bruno Mendonça (2), Roland Miller (2), Patrick Moya (2), Frédérique Nalbandian (2), Serge Oldenbourg (2), Orlan (2), Gina Pane (2), Gilbert Pedinielli (2), Philippe Perrin (2), Pierre Pinoncelli (2), Charly van Rest (2), Mimmo Rotella (2), Niki de Saint Phalle (2), Sacha Sosno (2), Ben Vautier (2), Jacques Vill",
+  "representing-galleries": "The Mayor Gallery (22A Cork St., W1S 3NA London (England), United Kingdom)",
+  "collecting-museums": "CIAC - Centre International d'Art Contemporain de Carros (Place du château, 06510 Carros, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
+  "first_name": "Claude",
+  "last_name": "Gilli",
+  "genre": "m",
+  "birthDate": "1938-01-01",
+  "age": 76,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "114738-14112-2007-06-21",
+        "c": "ES",
+        "n": "Barcelona - Paris - Pekin",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Espace Cultural Ample",
+        "d": [
+          "2007-06-21",
+          "2007-08-04"
+        ]
+      },
+      {
+        "i": "114738-1341-2007-03-28",
+        "c": "GB",
+        "n": "Claude Gilli",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "The Mayor Gallery",
+        "d": [
+          "2007-03-28",
+          "2007-05-18"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "114738-6417-2008-03-26",
+        "c": "DE",
+        "n": "Die Hände der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Herford",
+        "o": "MARTa Herford",
+        "d": [
+          "2008-03-26",
+          "2008-06-01"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "114738-1341-2009-01-09",
+        "c": "GB",
+        "n": "Artists from the 60s",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "The Mayor Gallery",
+        "d": [
+          "2009-01-09",
+          "2009-02-04"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "114738-26859-2011-09-15",
+        "c": "US",
+        "n": "Group Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Vicky David Gallery",
+        "d": [
+          "2011-09-15",
+          "2011-10-29"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "114738-6361-2012-03-08",
+        "c": "MC",
+        "n": "À l’origine, Nice…",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Marlborough Monaco",
+        "d": [
+          "2012-03-08",
+          "2012-04-26"
+        ]
+      }
+    ]
+  }
+}

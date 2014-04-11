@@ -1,0 +1,77 @@
+{
+  "id": "126813",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:55:01",
+  "name": "Dector & Dupuy",
+  "surname": "Dector & Dupuy",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Michel Dector *1951& Michel Dupuy *1949",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1949",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male, Artist group",
+  "media": null,
+  "r00": "12506",
+  "r01": "11352",
+  "r02": "10307",
+  "r03": "10645",
+  "r04": "12241",
+  "r05": "12115",
+  "r06": "10323",
+  "r07": "14756",
+  "r08": "20611",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1993",
+  "all-shows-total": "20",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (9)",
+  "2005-shows-with": "Dector & Dupuy (7), Jirí Kovanda (2)",
+  "representing-galleries": "Art Attitude Hervé Bize (17-19 rue Gambetta, 54000 Nancy, France)",
+  "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); 49 NORD 6 EST – Frac Lorraine (Rue des Trinitaires 1 bis, 57000 Metz, France)",
+  "first_name": "Dector",
+  "last_name": "&",
+  "genre": "c",
+  "birthDate": "1949-01-01",
+  "age": 65,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "126813-2318-2005-03-09",
+        "c": "AR",
+        "n": "Fondos Regionales de Arte Contemporáneo Île-de-France y Poitou-Charentes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Buenos Aires",
+        "o": "MAMBA - Museo de Arte Moderno de Buenos Aires",
+        "d": [
+          "2005-03-09",
+          "2005-04-30"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "126813-7067-2006-09-20",
+        "c": "CA",
+        "n": "7e manifestation internationale vidéo et art électronique, Montréal",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Montreal, QC",
+        "o": "champ libre",
+        "d": [
+          "2006-09-20",
+          "2006-10-01"
+        ]
+      }
+    ]
+  }
+}

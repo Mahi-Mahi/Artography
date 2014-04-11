@@ -1,0 +1,92 @@
+{
+  "id": "144761",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:02:16",
+  "name": "Pierre Fischer",
+  "surname": "Fischer",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Strassbourg (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1978",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "71374",
+  "r01": "68192",
+  "r02": "62939",
+  "r03": "57781",
+  "r04": "52899",
+  "r05": "61591",
+  "r06": "54170",
+  "r07": "47227",
+  "r08": "39978",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "3",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Germany (2)",
+  "2005-shows-with": null,
+  "representing-galleries": "Galerie T40 (Rather Str. 66, 40476 Dusseldorf, Germany)",
+  "collecting-museums": null,
+  "first_name": "Pierre",
+  "last_name": "Fischer",
+  "genre": "m",
+  "birthDate": "1978-01-01",
+  "age": 36,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "144761-1132-2005-06-11",
+        "c": "DE",
+        "n": "La  main dans la main",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bodenburg",
+        "o": "Kunstverein Bad Salzdetfurth e.V.",
+        "d": [
+          "2005-06-11",
+          "2005-08-28"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "144761-2088-2010-07-09",
+        "c": "DE",
+        "n": "Highlights zur Kulturhauptstadt",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Essen",
+        "o": "kunst-raum schulte-goltz+noelte",
+        "d": [
+          "2010-07-09",
+          "2010-10-09"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "144761-3197-2009-01-23",
+        "c": "DE",
+        "n": "Pierre Fischer - Synchron",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Dusseldorf",
+        "o": "Galerie T40",
+        "d": [
+          "2009-01-23",
+          "2009-02-27"
+        ]
+      }
+    ]
+  }
+}

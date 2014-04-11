@@ -1,0 +1,77 @@
+{
+  "id": "165449",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:10:47",
+  "name": "David Wolle",
+  "surname": "Wolle",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Villefranche/Saône  (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1969",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "33932",
+  "r01": "34004",
+  "r02": "35757",
+  "r03": "34568",
+  "r04": "47143",
+  "r05": "41931",
+  "r06": "48068",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (5), Luxembourg (2)",
+  "2005-shows-with": "David Wolle (3), Jean-Marc Cerino (2), Daniel Dezeuze (2), Patrick Saytour (2), Assan Smati (2), Claude Viallat (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "David",
+  "last_name": "Wolle",
+  "genre": "m",
+  "birthDate": "1969-01-01",
+  "age": 45,
+  "age_range": "36-45",
+  "expos": {
+    "2008": [
+      {
+        "i": "165449-17359-2008-06-12",
+        "c": "LU",
+        "n": "Supports/Surfaces",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Galerie Bernard Ceysson - Luxembourg",
+        "d": [
+          "2008-06-12",
+          "2008-07-27"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "165449-17359-2010-03-03",
+        "c": "LU",
+        "n": "David Wolle",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Galerie Bernard Ceysson - Luxembourg",
+        "d": [
+          "2010-03-03",
+          "2010-05-01"
+        ]
+      }
+    ]
+  }
+}

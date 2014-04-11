@@ -1,0 +1,62 @@
+{
+  "id": "126130",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:54:47",
+  "name": "Thomas David",
+  "surname": "David",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Nantes (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1978",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "54957",
+  "r01": "50385",
+  "r02": "45069",
+  "r03": "39999",
+  "r04": "34930",
+  "r05": "30162",
+  "r06": "25427",
+  "r07": "34553",
+  "r08": "28248",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1999",
+  "all-shows-total": "5",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": null,
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Thomas",
+  "last_name": "David",
+  "genre": "m",
+  "birthDate": "1978-01-01",
+  "age": 36,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "126130-15288-2005-05-28",
+        "c": "AU",
+        "n": "Four Melbourne painters",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Hobart, TAS",
+        "o": "Criterion Gallery",
+        "d": [
+          "2005-05-28",
+          "2005-06-21"
+        ]
+      }
+    ]
+  }
+}

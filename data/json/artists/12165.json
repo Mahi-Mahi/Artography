@@ -1,0 +1,75 @@
+{
+  "id": "12165",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:07:58",
+  "name": "Fréd Sapey-Triomphe",
+  "surname": "Sapey-Triomphe",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1963",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "56614",
+  "r01": "53156",
+  "r02": "53423",
+  "r03": "56973",
+  "r04": "50852",
+  "r05": "44915",
+  "r06": "38813",
+  "r07": "47526",
+  "r08": "40201",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "5",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (2)",
+  "2005-shows-with": null,
+  "representing-galleries": "Galería Braga Menéndez Arte Contemporáneo (Humboldt 1574, C1414CTN Buenos Aires, Argentina); Galerie Les Singuliers (138 Bd Haussmann, 75008 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Fréd",
+  "last_name": "Sapey-Triomphe",
+  "genre": "m",
+  "birthDate": "1963-01-01",
+  "age": 51,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "12165-4950-2007-07-03",
+        "c": "CL",
+        "n": "El Tren",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Santiago",
+        "o": "Galería Animal",
+        "d": [
+          "2007-07-03",
+          "2007-08-04"
+        ]
+      },
+      {
+        "i": "12165-6385-2007-08-07",
+        "c": "AR",
+        "n": "Fred Sapey Triomphe",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Buenos Aires",
+        "o": "Galería Braga Menéndez Arte Contemporáneo",
+        "d": [
+          "2007-08-07",
+          "2007-09-15"
+        ]
+      }
+    ]
+  }
+}

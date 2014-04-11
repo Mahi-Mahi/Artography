@@ -1,0 +1,92 @@
+{
+  "id": "114039",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:50:05",
+  "name": "David Boulogne",
+  "surname": "Boulogne",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "(FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1973",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "79938",
+  "r01": "77008",
+  "r02": "71950",
+  "r03": "66727",
+  "r04": "60438",
+  "r05": "69449",
+  "r06": "61807",
+  "r07": "79885",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "United Kingdom (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "t1+2 artspace (2 Wood Close, E2 6ET London (England), United Kingdom)",
+  "collecting-museums": null,
+  "first_name": "David",
+  "last_name": "Boulogne",
+  "genre": "m",
+  "birthDate": "1973-01-01",
+  "age": 41,
+  "age_range": "36-45",
+  "expos": {
+    "2006": [
+      {
+        "i": "114039-6764-2006-10-10",
+        "c": "GB",
+        "n": "Cannibal Ferox",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "t1+2 artspace",
+        "d": [
+          "2006-10-10",
+          "2006-11-11"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "114039-20956-2009-03-06",
+        "c": "GB",
+        "n": "Photocinema",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Derby (England)",
+        "o": "QUAD Gallery",
+        "d": [
+          "2009-03-06",
+          "2009-04-26"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "114039-6764-2007-08-11",
+        "c": "GB",
+        "n": "David Boulogne - Henorama",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "t1+2 artspace",
+        "d": [
+          "2007-08-11",
+          "2007-09-09"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "20451",
+  "name": "Galerie Crèvecoeur",
+  "street": "4, rue Jouye-Rouve",
+  "zip": "75020",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2008",
+  "directeurs": "Axel Dibie",
+  "profile": null,
+  "tel": "+33 (0)1 43 38 80 17",
+  "email": "axel.dibie@galeriecrevecoeur.com",
+  "www": "www.galeriecrevecoeur.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075020 %2C%20 %2C%204, rue Jouye-Rouve %2C%20France",
+  "fairs-total": "14",
+  "fairs-abroad": "8",
+  "fairs-in-FR": "6",
+  "fairs": {
+    "2011": [
+      {
+        "i": "20451-ARCOmadrid  2011",
+        "c": "ES",
+        "n": "Galerie Crèvecoeur",
+        "ct": "Madrid"
+      },
+      {
+        "i": "20451-Artissima 18",
+        "c": "IT",
+        "n": "Galerie Crèvecoeur",
+        "ct": "Turin"
+      }
+    ],
+    "2012": [
+      {
+        "i": "20451-ARCOmadrid 2012",
+        "c": "ES",
+        "n": "Galerie Crèvecoeur",
+        "ct": "Madrid"
+      },
+      {
+        "i": "20451-Loop - The Video Art Fair 2012",
+        "c": "ES",
+        "n": "Galerie Crèvecoeur",
+        "ct": "Barcelona"
+      },
+      {
+        "i": "20451-Frieze London 2012",
+        "c": "GB",
+        "n": "Galerie Crèvecoeur",
+        "ct": "London (England)"
+      }
+    ],
+    "2013": [
+      {
+        "i": "20451-ARCOmadrid 2013",
+        "c": "ES",
+        "n": "Galerie Crèvecoeur",
+        "ct": "Madrid"
+      },
+      {
+        "i": "20451-Art Brussels 2013",
+        "c": "BE",
+        "n": "Galerie Crèvecoeur",
+        "ct": "Brussels"
+      },
+      {
+        "i": "20451-Art Basel Miami Beach 2013",
+        "c": "US",
+        "n": "Galerie Crèvecoeur",
+        "ct": "Miami Beach, FL"
+      }
+    ]
+  }
+}

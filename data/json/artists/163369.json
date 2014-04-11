@@ -1,0 +1,92 @@
+{
+  "id": "163369",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:09:57",
+  "name": "Emmanuelle Rapin",
+  "surname": "Rapin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Épinal (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1974",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "48701",
+  "r01": "45391",
+  "r02": "40970",
+  "r03": "39468",
+  "r04": "34794",
+  "r05": "30356",
+  "r06": "25975",
+  "r07": "24082",
+  "r08": "23574",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (1), Germany (1)",
+  "2005-shows-with": "Emmanuelle Rapin (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Emmanuelle",
+  "last_name": "Rapin",
+  "genre": "c",
+  "birthDate": "1974-01-01",
+  "age": 40,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "163369-18972-2005-10-07",
+        "c": "IT",
+        "n": "Emergency Biennal 2005",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Bolzano",
+        "o": "Emergency Biennal",
+        "d": [
+          "2005-10-07",
+          "2005-10-28"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "163369-13190-2006-07-08",
+        "c": "CA",
+        "n": "Emergency Biennale in Chechnya",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vancouver, BC",
+        "o": "Centre A - Vancouver International Centre for Contemporary Asian Art",
+        "d": [
+          "2006-07-08",
+          "2006-08-19"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "163369-30232-2011-06-09",
+        "c": "DE",
+        "n": "#wunderkammer",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "LAGE EGAL - Raum für aktuelle Kunst",
+        "d": [
+          "2011-06-09",
+          "2011-09-02"
+        ]
+      }
+    ]
+  }
+}

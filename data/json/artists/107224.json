@@ -1,0 +1,148 @@
+{
+  "id": "107224",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:47:18",
+  "name": "Pierre Mabille",
+  "surname": "Mabille",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Amiens (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1958",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "18194",
+  "r01": "17221",
+  "r02": "19298",
+  "r03": "19257",
+  "r04": "27060",
+  "r05": "33857",
+  "r06": "39194",
+  "r07": "79490",
+  "r08": "69794",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "18",
+  "2005-shows-biennials": "9",
+  "2005-shows-galleries": "9",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (10), USA (3), Brazil (1)",
+  "2005-shows-with": "Pierre Mabille (11), Frédérique Lucien (7), Peter Soriano (6), Pierre Buraglio (5), Gilgian Gelzer (5), Philippe Richard (5), Stéphane Bordarier (4), Nathalie Elémento (4), Jean-François Maurige (4), Claude Tétot (4), Nicolas Guiet (3), Shirley Jaffe (3), Emmanuel van der Meulen (3), Claude Viallat (3), Cécile Bart (2), Neil Bender (2), Elisabeth Condon (2), Helmut Dorner (2), Claire-Jeanne Jézéquel (2), Dominique Labauvie (2), Hervé di Rosa (2), Richard Tuttle (2), Robyn Voshardt & Sven Humphrey (2), Jens Wolf (2)",
+  "representing-galleries": "Galerie Jean Fournier (22, rue du Bac, 75007 Paris, France); Bleu Acier (109 West Columbus Drive, 33602 Tampa, FL, USA)",
+  "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France)",
+  "first_name": "Pierre",
+  "last_name": "Mabille",
+  "genre": "m",
+  "birthDate": "1958-01-01",
+  "age": 56,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "107224-8328-2005-03-18",
+        "c": "US",
+        "n": "Art Plastique",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Tampa, FL",
+        "o": "Bleu Acier",
+        "d": [
+          "2005-03-18",
+          "2005-04-24"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "107224-8328-2007-06-15",
+        "c": "US",
+        "n": "New Editions",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Tampa, FL",
+        "o": "Bleu Acier",
+        "d": [
+          "2007-06-15",
+          "2007-07-31"
+        ]
+      },
+      {
+        "i": "107224-12895-2007-08-22",
+        "c": "FI",
+        "n": "Conversations - peinture.fr//maalaus.fi",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Kerava",
+        "o": "Kerava Art Museum",
+        "d": [
+          "2007-08-22",
+          "2007-10-21"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "107224-8328-2008-10-03",
+        "c": "US",
+        "n": "New York/Tampa, Signatures d’Artistes: Dessin",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Tampa, FL",
+        "o": "Bleu Acier",
+        "d": [
+          "2008-10-03",
+          "2008-11-22"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "107224-9085-2009-01-08",
+        "c": "US",
+        "n": "Off the Wall",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Lennon, Weinberg, Inc.",
+        "d": [
+          "2009-01-08",
+          "2009-02-07"
+        ]
+      },
+      {
+        "i": "107224-9323-2009-09-05",
+        "c": "BR",
+        "n": "Matisse Hoje",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "São Paulo",
+        "o": "Pinacoteca do Estado",
+        "d": [
+          "2009-09-05",
+          "2009-11-01"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "107224-8328-2010-02-12",
+        "c": "US",
+        "n": "l\\'arabesque",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Tampa, FL",
+        "o": "Bleu Acier",
+        "d": [
+          "2010-02-12",
+          "2010-03-27"
+        ]
+      }
+    ]
+  }
+}

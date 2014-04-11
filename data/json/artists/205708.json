@@ -1,0 +1,159 @@
+{
+  "id": "205708",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:25:58",
+  "name": "Benjamin Seror",
+  "surname": "Seror",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Lyon (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "11741",
+  "r01": "16787",
+  "r02": "21477",
+  "r03": "44526",
+  "r04": "39860",
+  "r05": "39412",
+  "r06": "46105",
+  "r07": "51904",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "18",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (9), Austria (1), Lithuania (1), Netherlands (1), Spain (1), USA (1)",
+  "2005-shows-with": "Benjamin Seror (14), Matthieu Clainchard (2), Yona Friedman (2), Aurélien Froment (2), Jeremie Gindre (2), Morten Norbye Halvorsen (2), Danièle Huillet (2), David Lamelas (2), Nicholas Matranga (2), Deimantas Narkevicius (2), Sophie Nys (2), Amilcar Packer (2), Julia Rometti & Victor Costales (2), Kristina Solomoukha (2), Jean-Marie Straub (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Benjamin",
+  "last_name": "Seror",
+  "genre": "m",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-35",
+  "expos": {
+    "2006": [
+      {
+        "i": "205708-14373-2006-04-28",
+        "c": "DE",
+        "n": "Multipolaire",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Leipzig",
+        "o": "Universal Cube",
+        "d": [
+          "2006-04-28",
+          "2006-05-21"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "205708-5790-2011-05-13",
+        "c": "AT",
+        "n": "curated by_vienna 2011: EAST by SOUTH WEST",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Galerie Andreas Huber",
+        "d": [
+          "2011-05-13",
+          "2011-06-18"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "205708-4251-2012-08-24",
+        "c": "LT",
+        "n": "The XI Baltic Triennial of International Art - Mindaugas Triennial",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Vilnius",
+        "o": "The Baltic Triennial of International Art",
+        "d": [
+          "2012-08-24",
+          "2012-09-09"
+        ]
+      },
+      {
+        "i": "205708-29929-2012-09-28",
+        "c": "ES",
+        "n": "This is not an art exhibition, either",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "Fabra i Coats - Barcelona Contemporary Art Center",
+        "d": [
+          "2012-09-28",
+          "2013-01-27"
+        ]
+      },
+      {
+        "i": "205708-13055-2012-11-24",
+        "c": "NL",
+        "n": "the Avantgarde: Deep Cuts",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Maastricht",
+        "o": "Marres - Centre for Contemporary Culture",
+        "d": [
+          "2012-11-24",
+          "2013-02-17"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "205708-29929-2012-09-28",
+        "c": "ES",
+        "n": "This is not an art exhibition, either",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "Fabra i Coats - Barcelona Contemporary Art Center",
+        "d": [
+          "2012-09-28",
+          "2013-01-27"
+        ]
+      },
+      {
+        "i": "205708-13055-2012-11-24",
+        "c": "NL",
+        "n": "the Avantgarde: Deep Cuts",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Maastricht",
+        "o": "Marres - Centre for Contemporary Culture",
+        "d": [
+          "2012-11-24",
+          "2013-02-17"
+        ]
+      },
+      {
+        "i": "205708-1717-2013-01-16",
+        "c": "US",
+        "n": "LA Existancial",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Los Angeles, CA",
+        "o": "LACE - Los Angeles Contemporary Exhibitions",
+        "d": [
+          "2013-01-16",
+          "2013-03-03"
+        ]
+      }
+    ]
+  }
+}

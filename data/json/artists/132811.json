@@ -1,0 +1,92 @@
+{
+  "id": "132811",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:57:25",
+  "name": "Élise Mougin",
+  "surname": "Mougin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1977",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "36680",
+  "r01": "33557",
+  "r02": "30193",
+  "r03": "26928",
+  "r04": "23670",
+  "r05": "20331",
+  "r06": "17303",
+  "r07": "14305",
+  "r08": "47392",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": null,
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Élise",
+  "last_name": "Mougin",
+  "genre": "c",
+  "birthDate": "1977-01-01",
+  "age": 37,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "132811-10202-2005-10-06",
+        "c": "AT",
+        "n": "Profiler",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Kunstraum NOE (Niederösterreich)",
+        "d": [
+          "2005-10-06",
+          "2005-11-26"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "132811-9037-2006-07-02",
+        "c": "CZ",
+        "n": "Profiler",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Prague",
+        "o": "Karlin Studios",
+        "d": [
+          "2006-07-02",
+          "2007-05-18"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "132811-9037-2006-07-02",
+        "c": "CZ",
+        "n": "Profiler",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Prague",
+        "o": "Karlin Studios",
+        "d": [
+          "2006-07-02",
+          "2007-05-18"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "67008",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:31:07",
+  "name": "Silvio Loffredo",
+  "surname": "Loffredo",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1921",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "33786",
+  "r01": "31294",
+  "r02": "28186",
+  "r03": "25391",
+  "r04": "22305",
+  "r05": "19352",
+  "r06": "23843",
+  "r07": "82725",
+  "r08": "72767",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "4",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Italy (1)",
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": "GAMC-Viareggio - Galleria d'Arte Moderna e Contemporanea (Piazza Mazzini 22, 55049 Viareggio (LU), Italy)",
+  "first_name": "Silvio",
+  "last_name": "Loffredo",
+  "genre": "m",
+  "birthDate": "1921-01-01",
+  "age": 93,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "67008-2207-2007-03-23",
+        "c": "IT",
+        "n": "Souvenir dalla Collezione del Centro per l'arte contemporanea Luigi Pecci",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Prato, PO",
+        "o": "Centro per l´Arte Contemporanea Luigi Pecci",
+        "d": [
+          "2007-03-23",
+          "2007-09-09"
+        ]
+      },
+      {
+        "i": "67008-2207-2007-09-09",
+        "c": "IT",
+        "n": "Urban Notes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Prato, PO",
+        "o": "Centro per l´Arte Contemporanea Luigi Pecci",
+        "d": [
+          "2007-09-09",
+          "2008-05-04"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "67008-2207-2007-09-09",
+        "c": "IT",
+        "n": "Urban Notes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Prato, PO",
+        "o": "Centro per l´Arte Contemporanea Luigi Pecci",
+        "d": [
+          "2007-09-09",
+          "2008-05-04"
+        ]
+      },
+      {
+        "i": "67008-2207-2008-05-19",
+        "c": "IT",
+        "n": "Ibridazioni Autonome, 1959 - 1963",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Prato, PO",
+        "o": "Centro per l´Arte Contemporanea Luigi Pecci",
+        "d": [
+          "2008-05-19",
+          "2008-07-27"
+        ]
+      }
+    ]
+  }
+}

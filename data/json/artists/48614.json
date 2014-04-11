@@ -1,0 +1,92 @@
+{
+  "id": "48614",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:23:39",
+  "name": "Bernard Heidsieck",
+  "surname": "Heidsieck",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1928",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "17990",
+  "r01": "16526",
+  "r02": "17929",
+  "r03": "27068",
+  "r04": "24847",
+  "r05": "21362",
+  "r06": "17910",
+  "r07": "16414",
+  "r08": "17249",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1978",
+  "all-shows-total": "14",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (2), Netherlands (1)",
+  "2005-shows-with": "Bernard Heidsieck (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Bernard",
+  "last_name": "Heidsieck",
+  "genre": "m",
+  "birthDate": "1928-01-01",
+  "age": 86,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "48614-6781-2005-12-14",
+        "c": "DE",
+        "n": "Tombola",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Kassel",
+        "o": "Kasseler Kunstverein",
+        "d": [
+          "2005-12-14",
+          "2005-12-23"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "48614-6781-2006-09-01",
+        "c": "DE",
+        "n": "Poetische Positionen II",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Kassel",
+        "o": "Kasseler Kunstverein",
+        "d": [
+          "2006-09-01",
+          "2006-10-08"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "48614-78-2010-05-15",
+        "c": "NL",
+        "n": "Mapping the Art",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Art Affairs Gallery",
+        "d": [
+          "2010-05-15",
+          "2010-06-26"
+        ]
+      }
+    ]
+  }
+}

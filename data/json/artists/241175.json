@@ -1,0 +1,92 @@
+{
+  "id": "241175",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:39:37",
+  "name": "Émile Vappereau",
+  "surname": "Vappereau",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1982",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "80297",
+  "r01": "77373",
+  "r02": "81441",
+  "r03": "75937",
+  "r04": "107819",
+  "r05": "101109",
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2008",
+  "all-shows-total": "3",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "Belgium (1), Portugal (1), Switzerland (1)",
+  "2005-shows-with": "Émile Vappereau (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Émile",
+  "last_name": "Vappereau",
+  "genre": "m",
+  "birthDate": "1982-01-01",
+  "age": 32,
+  "age_range": "26-35",
+  "expos": {
+    "2008": [
+      {
+        "i": "241175-21221-2008-04-10",
+        "c": "CH",
+        "n": "Konkret werden. Der springende Punkt",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Winterthur",
+        "o": "Kunstraum Winterthur",
+        "d": [
+          "2008-04-10",
+          "2008-04-26"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "241175-11482-2010-08-20",
+        "c": "BE",
+        "n": "The old sow sent them out to... they got into it and rolled down the hill.",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "WIELS - Centrum voor Hedendaagse kunst",
+        "d": [
+          "2010-08-20",
+          "2010-09-12"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "241175-14801-2012-06-04",
+        "c": "PT",
+        "n": "Émile Vappereau",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Porto",
+        "o": "Maus Hábitos - Espaço de Intervenção Cultural",
+        "d": [
+          "2012-06-04",
+          "2012-07-24"
+        ]
+      }
+    ]
+  }
+}

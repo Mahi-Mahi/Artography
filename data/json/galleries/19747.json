@@ -1,0 +1,100 @@
+{
+  "id": "19747",
+  "name": "Bendana-Pinel | Art Contemporain",
+  "street": "4, Rue du Perche",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2008",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+ 33 (0) 1 42 74 22 97",
+  "email": "galerie@bendana-pinel.com",
+  "www": "www.bendana-pinel.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%204, Rue du Perche %2C%20France",
+  "fairs-total": "16",
+  "fairs-abroad": "12",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19747-ROMA – The Road to Contemporary Art 2009",
+        "c": "IT",
+        "n": "Bendana-Pinel | Art Contemporain",
+        "ct": "Rome"
+      },
+      {
+        "i": "19747-Ch.ACO 2009",
+        "c": "CL",
+        "n": "Bendana-Pinel | Art Contemporain",
+        "ct": "Santiago"
+      }
+    ],
+    "2011": [
+      {
+        "i": "19747-SWAB 2011",
+        "c": "ES",
+        "n": "Bendana-Pinel | Art Contemporain",
+        "ct": "Barcelona"
+      },
+      {
+        "i": "19747-ArtRio 2011",
+        "c": "BR",
+        "n": "Bendana-Pinel | Art Contemporain",
+        "ct": "Rio de Janeiro, RJ"
+      }
+    ],
+    "2012": [
+      {
+        "i": "19747-Loop - The Video Art Fair 2012",
+        "c": "ES",
+        "n": "Bendana-Pinel | Art Contemporain",
+        "ct": "Barcelona"
+      },
+      {
+        "i": "19747-Pinta London",
+        "c": "GB",
+        "n": "Bendana-Pinel | Art Contemporain",
+        "ct": "London (England)"
+      },
+      {
+        "i": "19747-Ch.ACO 2012",
+        "c": "CL",
+        "n": "Bendana-Pinel | Art Contemporain",
+        "ct": "Santiago"
+      },
+      {
+        "i": "19747-Artissima 19",
+        "c": "IT",
+        "n": "Bendana-Pinel | Art Contemporain",
+        "ct": "Turin"
+      }
+    ],
+    "2013": [
+      {
+        "i": "19747-ARCOmadrid 2013",
+        "c": "ES",
+        "n": "Bendana-Pinel | Art Contemporain",
+        "ct": "Madrid"
+      },
+      {
+        "i": "19747-Loop - The Video Art Fair 2013",
+        "c": "ES",
+        "n": "Bendana-Pinel | Art Contemporain",
+        "ct": "Barcelona"
+      },
+      {
+        "i": "19747-Pinta London 2013",
+        "c": "GB",
+        "n": "Bendana-Pinel | Art Contemporain",
+        "ct": "London (England)"
+      },
+      {
+        "i": "19747-Artissima 2013",
+        "c": "IT",
+        "n": "Bendana-Pinel | Art Contemporain",
+        "ct": "Turin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "23296",
+  "name": "Galerie E.G.P.",
+  "street": "20, rue Germain Pilon",
+  "zip": "75018",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 01 42 51 31 04",
+  "email": null,
+  "www": "www.artegp.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075018 %2C%20 %2C%2020, rue Germain Pilon %2C%20France",
+  "fairs-total": "8",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2011": [
+      {
+        "i": "23296-SWAB 2011",
+        "c": "ES",
+        "n": "Galerie E.G.P.",
+        "ct": "Barcelona"
+      }
+    ],
+    "2012": [
+      {
+        "i": "23296-Scope New York 2012",
+        "c": "US",
+        "n": "Galerie E.G.P.",
+        "ct": "New York City, NY"
+      }
+    ],
+    "2013": [
+      {
+        "i": "23296-Art13 London",
+        "c": "GB",
+        "n": "Galerie E.G.P.",
+        "ct": "London (England)"
+      }
+    ]
+  }
+}

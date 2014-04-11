@@ -1,0 +1,120 @@
+{
+  "id": "50818",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:24:28",
+  "name": "Claude Faure",
+  "surname": "Faure",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1932",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "56147",
+  "r01": "53209",
+  "r02": "92553",
+  "r03": "87121",
+  "r04": "80519",
+  "r05": "81995",
+  "r06": "81205",
+  "r07": "72587",
+  "r08": "63432",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2004",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (2), Germany (2), Slovenia (1)",
+  "2005-shows-with": "Claude Faure (4), Paul Cox (2), Tony Cragg (2), Pierre Granoux (2), Imi Knoebel (2), Françoise Petrovitch (2)",
+  "representing-galleries": "Galerie Bernard Jordan - Paris (77, rue Charlot, 75003 Paris, France); Galerie Jordan Seydoux (Auguststrasse 22, 10117 Berlin, Germany); Galleria Gas Art Gallery (Corso Vittorio Emanuele II 90, 10121 Turin, Italy); Galerie Bernard Jordan - Zürich (Zwinglistrasse 33, 8004 Zurich, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Claude",
+  "last_name": "Faure",
+  "genre": "m",
+  "birthDate": "1932-01-01",
+  "age": 82,
+  "age_range": "46-55",
+  "expos": {
+    "2008": [
+      {
+        "i": "50818-17611-2008-10-31",
+        "c": "DE",
+        "n": "Out of the grey - Druckgraphik & Multiples",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Jordan Seydoux",
+        "d": [
+          "2008-10-31",
+          "2009-01-21"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "50818-17611-2008-10-31",
+        "c": "DE",
+        "n": "Out of the grey - Druckgraphik & Multiples",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Jordan Seydoux",
+        "d": [
+          "2008-10-31",
+          "2009-01-21"
+        ]
+      },
+      {
+        "i": "50818-17611-2009-07-08",
+        "c": "DE",
+        "n": "AZur Druck",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Jordan Seydoux",
+        "d": [
+          "2009-07-08",
+          "2009-09-05"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "50818-13050-2012-10-11",
+        "c": "SI",
+        "n": "From Page to Space",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Murska Sobota",
+        "o": "Galerija Murska Sobota",
+        "d": [
+          "2012-10-11",
+          "2013-03-09"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "50818-13050-2012-10-11",
+        "c": "SI",
+        "n": "From Page to Space",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Murska Sobota",
+        "o": "Galerija Murska Sobota",
+        "d": [
+          "2012-10-11",
+          "2013-03-09"
+        ]
+      }
+    ]
+  }
+}

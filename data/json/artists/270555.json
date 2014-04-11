@@ -1,0 +1,77 @@
+{
+  "id": "270555",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:51:06",
+  "name": "Celine Clanet",
+  "surname": "Clanet",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Chambéry (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1977",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": "Photography",
+  "r00": "42892",
+  "r01": "43433",
+  "r02": "70901",
+  "r03": "65614",
+  "r04": "98370",
+  "r05": "91202",
+  "r06": "82859",
+  "r07": "74313",
+  "r08": "64933",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Belgium (1), France (1), USA (1)",
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Celine",
+  "last_name": "Clanet",
+  "genre": "c",
+  "birthDate": "1977-01-01",
+  "age": 37,
+  "age_range": "36-45",
+  "expos": {
+    "2012": [
+      {
+        "i": "270555-2209-2012-06-14",
+        "c": "BE",
+        "n": "Sense of Place - European Landscape Photography",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "BOZAR - Palais des Beaux-Arts / Paleis voor Schone Kunsten",
+        "d": [
+          "2012-06-14",
+          "2012-09-16"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "270555-11857-2010-01-01",
+        "c": "US",
+        "n": "Céline Clanet",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Portland, OR",
+        "o": "Blue Sky Gallery",
+        "d": [
+          "2010-01-01",
+          "2010-01-31"
+        ]
+      }
+    ]
+  }
+}

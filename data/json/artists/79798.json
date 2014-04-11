@@ -1,0 +1,146 @@
+{
+  "id": "79798",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:36:29",
+  "name": "Hervé Ingrand",
+  "surname": "Ingrand",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1972",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "45257",
+  "r01": "42059",
+  "r02": "37976",
+  "r03": "34147",
+  "r04": "30190",
+  "r05": "32616",
+  "r06": "27858",
+  "r07": "26252",
+  "r08": "29187",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Italy (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "Galleria Raucci/Santamaria (Corso Amedeo di Savoia 190, 80136 Naples, Italy)",
+  "collecting-museums": null,
+  "first_name": "Hervé",
+  "last_name": "Ingrand",
+  "genre": "c",
+  "birthDate": "1972-01-01",
+  "age": 42,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "79798-3140-2005-11-26",
+        "c": "IT",
+        "n": "Napoli presente. Posizioni e prospettive dell’arte contemporanea",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Naples",
+        "o": "PAN - Palazzo delle Arti di Napoli",
+        "d": [
+          "2005-11-26",
+          "2006-02-26"
+        ]
+      },
+      {
+        "i": "79798-6508-2005-05-01",
+        "c": "IT",
+        "n": "\"Cetéternelatelier\" - HERVE INGRAND",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Naples",
+        "o": "Galleria Raucci/Santamaria",
+        "d": [
+          "2005-05-01",
+          "2005-06-30"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "79798-3140-2005-11-26",
+        "c": "IT",
+        "n": "Napoli presente. Posizioni e prospettive dell’arte contemporanea",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Naples",
+        "o": "PAN - Palazzo delle Arti di Napoli",
+        "d": [
+          "2005-11-26",
+          "2006-02-26"
+        ]
+      },
+      {
+        "i": "79798-2509-2006-06-29",
+        "c": "US",
+        "n": "Two Friends and So On",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Andrew Kreps Gallery",
+        "d": [
+          "2006-06-29",
+          "2006-08-12"
+        ]
+      },
+      {
+        "i": "79798-6508-2006-05-01",
+        "c": "IT",
+        "n": "\"Cetéternelatelier: the empty studio/le grotatrip\" - HERVE INGRAND",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Naples",
+        "o": "Galleria Raucci/Santamaria",
+        "d": [
+          "2006-05-01",
+          "2006-06-01"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "79798-6508-2007-03-01",
+        "c": "IT",
+        "n": "\"1:1.000.000.000\"",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Naples",
+        "o": "Galleria Raucci/Santamaria",
+        "d": [
+          "2007-03-01",
+          "2007-05-31"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "79798-6508-2009-02-13",
+        "c": "IT",
+        "n": "Hervè Ingrand - EIN, le pense-bête",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Naples",
+        "o": "Galleria Raucci/Santamaria",
+        "d": [
+          "2009-02-13",
+          "2009-04-18"
+        ]
+      }
+    ]
+  }
+}

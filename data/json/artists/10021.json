@@ -1,0 +1,189 @@
+{
+  "id": "10021",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:06:58",
+  "name": "Hélène Delprat",
+  "surname": "Delprat",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Amiens (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1957",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "13446",
+  "r01": "12744",
+  "r02": "12830",
+  "r03": "11548",
+  "r04": "11152",
+  "r05": "9962",
+  "r06": "8320",
+  "r07": "29844",
+  "r08": "26214",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1984",
+  "all-shows-total": "30",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (7), Switzerland (2), Luxembourg (1), Taiwan (1)",
+  "2005-shows-with": "Hélène Delprat (10), Alice Anderson (3), Virginie Barré (3), Laetitia Benat (3), Marie Drouet (3), Catharina van Eetvelde (3), Vidya Gastaldon (3), Camille Henrot (3), Marko Mäetamm (3), Mel O\\'Callaghan (3), Lionel Renck (3), Stéphane Sautour (3), Anne-Marie Schneider (3), Valerie Sonnier (3), Véronique Boudier (2), Blanca Casas Brullet (2), Pauline Curnier Jardin (2), Jean Dubuffet (2), Thibault Hazelzet (2), Pierre Molinier (2), Nathalie Rebholz (2), Fabien Verschaere (2), THIBAUT WARÉ (2), Brigitte Zieger (2)",
+  "representing-galleries": "Galerie Christophe Gaillard (12 rue de Thorigny, 75003 Paris, France); Galerie Maeght - Paris (42, rue du Bac, 75007 Paris, France); Galerie Gisèle Linder (Elisabethenstr. 54, 4051 Basel, Switzerland)",
+  "collecting-museums": "KUNSTEN Museum of Modern Art Aalborg (former Nordjyllands Kunstmuseum) (Kong Christians Alle 50, 9000 Aalborg, Denmark); FRAC - Picardie (45 rue Pointin, 80041 Amiens, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); Ludwig Museum im Deutschherrenhaus (Danziger Freiheit 1, 56068 Koblenz, Germany); Ludwig Museum - Museum of Contemporary Art - Budapest (Komor Marcell u. 1. (in Palace of Arts), H-1095 Budapest, Hungary); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
+  "first_name": "Hélène",
+  "last_name": "Delprat",
+  "genre": "f",
+  "birthDate": "1957-01-01",
+  "age": 57,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "10021-1135-2005-11-20",
+        "c": "DE",
+        "n": "Wer Visionen hat soll zum Arzt gehen - 25 Jahre GAK",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bremen",
+        "o": "GAK - Gesellschaft für Aktuelle Kunst e.V. Bremen",
+        "d": [
+          "2005-11-20",
+          "2005-12-04"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "10021-1265-2006-07-13",
+        "c": "CH",
+        "n": "Summertime",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Basel",
+        "o": "Galerie Gisèle Linder",
+        "d": [
+          "2006-07-13",
+          "2006-08-12"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "10021-1265-2007-03-07",
+        "c": "CH",
+        "n": "Zeichnungen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Basel",
+        "o": "Galerie Gisèle Linder",
+        "d": [
+          "2007-03-07",
+          "2007-04-14"
+        ]
+      },
+      {
+        "i": "10021-1265-2007-03-20",
+        "c": "CH",
+        "n": "Hélène Delprat",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Basel",
+        "o": "Galerie Gisèle Linder",
+        "d": [
+          "2007-03-20",
+          "2007-05-12"
+        ]
+      },
+      {
+        "i": "10021-1265-2007-10-24",
+        "c": "CH",
+        "n": "Hélène Delprat - Skeleton Bad Taste",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Basel",
+        "o": "Galerie Gisèle Linder",
+        "d": [
+          "2007-10-24",
+          "2007-12-22"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "10021-3540-2008-06-07",
+        "c": "LU",
+        "n": "La main numérique",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Nosbaum&Reding",
+        "d": [
+          "2008-06-07",
+          "2008-06-19"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "10021-1265-2009-08-11",
+        "c": "CH",
+        "n": "ma couleur préférée",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Basel",
+        "o": "Galerie Gisèle Linder",
+        "d": [
+          "2009-08-11",
+          "2009-08-29"
+        ]
+      },
+      {
+        "i": "10021-8174-2009-09-19",
+        "c": "CH",
+        "n": "Konferenz der Tiere - Tierdarstellungen der Sturzenegger- Stiftung und der Graphischen Sammlung",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Schaffhausen",
+        "o": "Museum zu Allerheiligen",
+        "d": [
+          "2009-09-19",
+          "2010-05-16"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "10021-8174-2009-09-19",
+        "c": "CH",
+        "n": "Konferenz der Tiere - Tierdarstellungen der Sturzenegger- Stiftung und der Graphischen Sammlung",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Schaffhausen",
+        "o": "Museum zu Allerheiligen",
+        "d": [
+          "2009-09-19",
+          "2010-05-16"
+        ]
+      },
+      {
+        "i": "10021-2404-2010-07-10",
+        "c": "TW",
+        "n": "The Digital Hand - Painting, Drawing, Filming, Digitalising",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Taichung",
+        "o": "National Taiwan Museum of Art",
+        "d": [
+          "2010-07-10",
+          "2010-10-17"
+        ]
+      }
+    ]
+  }
+}

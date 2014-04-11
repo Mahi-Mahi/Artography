@@ -1,0 +1,84 @@
+{
+  "id": "1718",
+  "name": "Galerie Houg",
+  "street": "43 Rue Auguste Comte",
+  "zip": "69002",
+  "city": "Lyon",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Olivier Houg",
+  "profile": null,
+  "tel": "+33 (0) 4  78 42  98 50",
+  "email": "olivier@olivierhoug.com",
+  "www": "www.olivierhoug.com",
+  "map": "http://maps.google.com/maps?q=Lyon%2C%2069002 %2C%20 %2C%2043 Rue Auguste Comte %2C%20France",
+  "fairs-total": "26",
+  "fairs-abroad": "9",
+  "fairs-in-FR": "17",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1718-Loop - The Video Art Fair '05",
+        "c": "ES",
+        "n": "Galerie Houg",
+        "ct": "Barcelona"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1718-Loop - The Video Art Fair",
+        "c": "ES",
+        "n": "Galerie Houg",
+        "ct": "Barcelona"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1718-ARCO 07",
+        "c": "ES",
+        "n": "Galerie Houg",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1718-Loop - The Video Art Fair 07",
+        "c": "ES",
+        "n": "Galerie Houg",
+        "ct": "Barcelona"
+      },
+      {
+        "i": "1718-bâlelatina 2007",
+        "c": "CH",
+        "n": "Galerie Houg",
+        "ct": "Basel"
+      },
+      {
+        "i": "1718-Photo Miami 2007",
+        "c": "US",
+        "n": "Galerie Houg",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1718-Loop - The Video Art Fair 08",
+        "c": "ES",
+        "n": "Galerie Houg",
+        "ct": "Barcelona"
+      },
+      {
+        "i": "1718-The Solo Project 2008",
+        "c": "CH",
+        "n": "Galerie Houg",
+        "ct": "Basel"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1718-The Solo Project 2009",
+        "c": "CH",
+        "n": "Galerie Houg",
+        "ct": "Basel"
+      }
+    ]
+  }
+}

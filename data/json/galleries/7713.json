@@ -1,0 +1,36 @@
+{
+  "id": "7713",
+  "name": "Galerie Schirman & de Beaucé",
+  "street": "7 bis, 9 rue du Perche",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2005",
+  "directeurs": "Caroline Schirman - Esther de Beaucé",
+  "profile": null,
+  "tel": "+33 (0)1 40476729",
+  "email": "contact@schirman-debeauce.com",
+  "www": "www.schirman-debeauce.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%207 bis, 9 %2C%20rue du Perche %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "9",
+  "fairs": {
+    "2007": [
+      {
+        "i": "7713-Loop - The Video Art Fair 07",
+        "c": "ES",
+        "n": "Galerie Schirman & de Beaucé",
+        "ct": "Barcelona"
+      }
+    ],
+    "2010": [
+      {
+        "i": "7713-VOLTAshow06",
+        "c": "CH",
+        "n": "Galerie Schirman & de Beaucé",
+        "ct": "Basel"
+      }
+    ]
+  }
+}

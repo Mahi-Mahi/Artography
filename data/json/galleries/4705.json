@@ -1,0 +1,122 @@
+{
+  "id": "4705",
+  "name": "Galerie Fréderic Got",
+  "street": "35-37 rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 1 43 26 52 61",
+  "email": "contact@fredericgot.com",
+  "www": "www.artchic.com, www.fredericgot.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2035-37 rue de Seine %2C%20France",
+  "fairs-total": "15",
+  "fairs-abroad": "15",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2006": [
+      {
+        "i": "4705-Art Miami 2006",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "Tucson, AZ"
+      }
+    ],
+    "2007": [
+      {
+        "i": "4705-Art Miami 2007",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "Miami, FL"
+      },
+      {
+        "i": "4705-artDC 2007",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "Washington, DC"
+      }
+    ],
+    "2010": [
+      {
+        "i": "4705-Miami International Art Fair",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "Miami Beach, FL"
+      },
+      {
+        "i": "4705-artpalmbeach 2010",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "West Palm Beach, FL"
+      },
+      {
+        "i": "4705-SOFA New York 2010",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "New York City, NY"
+      }
+    ],
+    "2011": [
+      {
+        "i": "4705-Miami International Art Fair",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "Miami Beach, FL"
+      },
+      {
+        "i": "4705-Art Naples 2011",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "Naples, FL"
+      },
+      {
+        "i": "4705-Red Dot Miami 2011",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "New York City, NY"
+      }
+    ],
+    "2012": [
+      {
+        "i": "4705-Art Palm Beach 2012",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "West Palm Beach, FL"
+      },
+      {
+        "i": "4705-Red Dot Miami 2012",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "4705-Miami International Art Fair 2013",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "Bonita Springs, FL"
+      },
+      {
+        "i": "4705-Art Palm Beach 2013",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "West Palm Beach, FL"
+      },
+      {
+        "i": "4705-Art Hamptons 2013",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "Southampton, NY\t"
+      },
+      {
+        "i": "4705-Red Dot Miami 2013",
+        "c": "US",
+        "n": "Galerie Fréderic Got",
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

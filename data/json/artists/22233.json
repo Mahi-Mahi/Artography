@@ -1,0 +1,245 @@
+{
+  "id": "22233",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:12:25",
+  "name": "Benjamin Moravec",
+  "surname": "Moravec",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Thiais (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1977",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "15988",
+  "r01": "18010",
+  "r02": "18207",
+  "r03": "20250",
+  "r04": "23771",
+  "r05": "20511",
+  "r06": "18669",
+  "r07": "23622",
+  "r08": "34478",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "17",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "Belgium (6), Germany (3)",
+  "2005-shows-with": "Benjamin Moravec (7), Michaël Aerts (4), Stephan Balkenhol (4), Jan Fabre (4), Enrique Marty (3), Panamarenko (3), Koen Vanmechelen (3), Sergey Bratkov (2), Stefaan Dheedene (2), Günther Förg (2), Tatjana Gerhard (2), Ilya Kabakov (2), Jorinde Voigt (2), Gabriel Vormstein (2), Norbert Witzgall (2)",
+  "representing-galleries": "Deweer Art Gallery (Tiegemstraat 6A, B-8553 Otegem, Belgium)",
+  "collecting-museums": null,
+  "first_name": "Benjamin",
+  "last_name": "Moravec",
+  "genre": "m",
+  "birthDate": "1977-01-01",
+  "age": 37,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "22233-1910-2005-09-09",
+        "c": "GB",
+        "n": "London and its painters",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Purdy Hicks Gallery",
+        "d": [
+          "2005-09-09",
+          "2005-10-08"
+        ]
+      },
+      {
+        "i": "22233-2481-2005-10-27",
+        "c": "DE",
+        "n": "Benjamin Moravec",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Hermeyer",
+        "d": [
+          "2005-10-27",
+          "2005-12-27"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "22233-2481-2006-01-12",
+        "c": "DE",
+        "n": "\"Figuration II\"",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Hermeyer",
+        "d": [
+          "2006-01-12",
+          "2006-01-28"
+        ]
+      },
+      {
+        "i": "22233-114-2006-05-07",
+        "c": "BE",
+        "n": "Benjamin Moravec - happy together & mourir ensemble",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Otegem",
+        "o": "Deweer Art Gallery",
+        "d": [
+          "2006-05-07",
+          "2006-06-18"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "22233-847-2007-02-09",
+        "c": "DE",
+        "n": "18. Bundeswettbewerb 2007",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bonn",
+        "o": "Kunst- und Ausstellungshalle der Bundesrepublik Deutschland",
+        "d": [
+          "2007-02-09",
+          "2007-03-11"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "22233-114-2008-09-21",
+        "c": "BE",
+        "n": "Update",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Otegem",
+        "o": "Deweer Art Gallery",
+        "d": [
+          "2008-09-21",
+          "2008-10-26"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "22233-851-2011-05-26",
+        "c": "DE",
+        "n": "Unter Helden - Vor-Bilder in der Gegenwartskunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nuremberg",
+        "o": "Kunsthalle Nürnberg",
+        "d": [
+          "2011-05-26",
+          "2011-07-24"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "22233-114-2012-02-05",
+        "c": "BE",
+        "n": "The Drawing Room",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Otegem",
+        "o": "Deweer Art Gallery",
+        "d": [
+          "2012-02-05",
+          "2012-03-11"
+        ]
+      },
+      {
+        "i": "22233-27107-2012-05-17",
+        "c": "DE",
+        "n": "re•turn",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Nuremberg",
+        "o": "Auf AEG",
+        "d": [
+          "2012-05-17",
+          "2012-07-01"
+        ]
+      },
+      {
+        "i": "22233-114-2012-09-19",
+        "c": "BE",
+        "n": "Re-opening / Chapter I",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Otegem",
+        "o": "Deweer Art Gallery",
+        "d": [
+          "2012-09-19",
+          "2012-12-09"
+        ]
+      },
+      {
+        "i": "22233-28565-2012-09-29",
+        "c": "DE",
+        "n": "Die Kniende, Sphinx Denken",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dresden",
+        "o": "Galerie Next",
+        "d": [
+          "2012-09-29",
+          "2012-10-24"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "22233-114-2013-01-20",
+        "c": "BE",
+        "n": "Collector's Room #1",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Otegem",
+        "o": "Deweer Art Gallery",
+        "d": [
+          "2013-01-20",
+          "2013-03-03"
+        ]
+      },
+      {
+        "i": "22233-7809-2013-06-02",
+        "c": "BE",
+        "n": "Benjamin Moravec. Les Jeux de l\\'Effroi - Le Royaume - Part IV",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Eupen",
+        "o": "IKOB – Museum für Zeitgenössische Kunst Eupen",
+        "d": [
+          "2013-06-02",
+          "2013-08-18"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "22233-114-2010-11-07",
+        "c": "BE",
+        "n": "Benjamin Moravec - Une vie sans fin",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Otegem",
+        "o": "Deweer Art Gallery",
+        "d": [
+          "2010-11-07",
+          "2010-12-19"
+        ]
+      }
+    ]
+  }
+}

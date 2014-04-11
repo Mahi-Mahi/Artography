@@ -1,0 +1,164 @@
+{
+  "id": "370",
+  "name": "Galerie Lahumière",
+  "street": "17 Rue du Parc Royal",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1963",
+  "directeurs": "Anne & Jean-Claude Lahumière",
+  "profile": null,
+  "tel": "+33-(0)1-42 77 27 74",
+  "email": "contact@lahumiere.com",
+  "www": "www.lahumiere.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2017 Rue du Parc Royal %2C%20France",
+  "fairs-total": "34",
+  "fairs-abroad": "20",
+  "fairs-in-FR": "14",
+  "fairs": {
+    "2005": [
+      {
+        "i": "370-Art 36 Basel",
+        "c": "CH",
+        "n": "Galerie Lahumière",
+        "ct": "Basel"
+      },
+      {
+        "i": "370-Art Cologne 2005",
+        "c": "DE",
+        "n": "Galerie Lahumière",
+        "ct": "Cologne"
+      }
+    ],
+    "2006": [
+      {
+        "i": "370-Art 37 Basel",
+        "c": "CH",
+        "n": "Galerie Lahumière",
+        "ct": "Basel"
+      },
+      {
+        "i": "370-Art Cologne 2006",
+        "c": "DE",
+        "n": "Galerie Lahumière",
+        "ct": "Cologne"
+      }
+    ],
+    "2007": [
+      {
+        "i": "370-Art Cologne 2007",
+        "c": "DE",
+        "n": "Galerie Lahumière",
+        "ct": "Cologne"
+      },
+      {
+        "i": "370-Art 38 Basel",
+        "c": "CH",
+        "n": "Galerie Lahumière",
+        "ct": "Basel"
+      },
+      {
+        "i": "370-ArtParis - AbuDhabi 2007",
+        "c": "AE",
+        "n": "Galerie Lahumière",
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2008": [
+      {
+        "i": "370-Art Chicago 2008",
+        "c": "US",
+        "n": "Galerie Lahumière",
+        "ct": "Chicago, IL"
+      },
+      {
+        "i": "370-Art 39 Basel",
+        "c": "CH",
+        "n": "Galerie Lahumière",
+        "ct": "Basel"
+      }
+    ],
+    "2009": [
+      {
+        "i": "370-The Armory Show 2009",
+        "c": "US",
+        "n": "Galerie Lahumière",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "370-Art Cologne 2009",
+        "c": "DE",
+        "n": "Galerie Lahumière",
+        "ct": "Cologne"
+      },
+      {
+        "i": "370-Art 40 Basel",
+        "c": "CH",
+        "n": "Galerie Lahumière",
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "370-Art Cologne 2010",
+        "c": "DE",
+        "n": "Galerie Lahumière",
+        "ct": "Cologne"
+      },
+      {
+        "i": "370-Art 41 Basel",
+        "c": "CH",
+        "n": "Galerie Lahumière",
+        "ct": "Basel"
+      }
+    ],
+    "2011": [
+      {
+        "i": "370-Art Cologne 2011",
+        "c": "DE",
+        "n": "Galerie Lahumière",
+        "ct": "Cologne"
+      },
+      {
+        "i": "370-Art 42 Basel",
+        "c": "CH",
+        "n": "Galerie Lahumière",
+        "ct": "Basel"
+      }
+    ],
+    "2012": [
+      {
+        "i": "370-Art Cologne 2012",
+        "c": "DE",
+        "n": "Galerie Lahumière",
+        "ct": "Cologne"
+      },
+      {
+        "i": "370-Art 43 Basel",
+        "c": "CH",
+        "n": "Galerie Lahumière",
+        "ct": "Basel"
+      }
+    ],
+    "2013": [
+      {
+        "i": "370-Art Karlsruhe 2013",
+        "c": "DE",
+        "n": "Galerie Lahumière",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "370-Art Cologne 2013",
+        "c": "DE",
+        "n": "Galerie Lahumière",
+        "ct": "Cologne"
+      },
+      {
+        "i": "370-Art Basel 2013",
+        "c": "CH",
+        "n": "Galerie Lahumière",
+        "ct": "Basel"
+      }
+    ]
+  }
+}

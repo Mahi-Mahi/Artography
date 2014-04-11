@@ -1,0 +1,135 @@
+{
+  "id": "17303",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:10:21",
+  "name": "Maurice Blaussyld",
+  "surname": "Blaussyld",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Calais (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1960",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "15389",
+  "r01": "14128",
+  "r02": "15195",
+  "r03": "13910",
+  "r04": "11936",
+  "r05": "13326",
+  "r06": "11069",
+  "r07": "12806",
+  "r08": "11836",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1997",
+  "all-shows-total": "13",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (4), Monaco (1), Netherlands (1)",
+  "2005-shows-with": "Maurice Blaussyld (5), Arman (2), Daniel Gustav Cramer (2), Michael Pfisterer (2)",
+  "representing-galleries": "Marijke Schreurs Gallery (475 Av. Van Volxemlaan, 1190 Brussels, Belgium)",
+  "collecting-museums": "SMAK Stedelijk Museum voor Actuele Kunst (Citadelpark, 9000 Ghent, Belgium)",
+  "first_name": "Maurice",
+  "last_name": "Blaussyld",
+  "genre": "m",
+  "birthDate": "1960-01-01",
+  "age": 54,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "17303-2706-2005-08-28",
+        "c": "BE",
+        "n": "Le Tableau des Éléments",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hornu",
+        "o": "MAC's Grand Hornu - Musée des Arts Contemporains",
+        "d": [
+          "2005-08-28",
+          "2005-12-31"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "17303-2706-2006-09-17",
+        "c": "BE",
+        "n": "Sisyphe. Le jour se lève.",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hornu",
+        "o": "MAC's Grand Hornu - Musée des Arts Contemporains",
+        "d": [
+          "2006-09-17",
+          "2007-01-14"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "17303-2706-2006-09-17",
+        "c": "BE",
+        "n": "Sisyphe. Le jour se lève.",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hornu",
+        "o": "MAC's Grand Hornu - Musée des Arts Contemporains",
+        "d": [
+          "2006-09-17",
+          "2007-01-14"
+        ]
+      },
+      {
+        "i": "17303-6417-2007-06-02",
+        "c": "DE",
+        "n": "MARTa schweigt - Garde le silence, le silence te gardera",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Herford",
+        "o": "MARTa Herford",
+        "d": [
+          "2007-06-02",
+          "2007-10-14"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "17303-20654-2012-02-02",
+        "c": "MC",
+        "n": "Le Silence Une Fiction",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Monaco",
+        "o": "Nouveau Musée National de Monaco",
+        "d": [
+          "2012-02-02",
+          "2012-04-03"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "17303-3289-2013-11-02",
+        "c": "NL",
+        "n": "It Also Says Imperceptibly / Dolores",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Ellen de Bruijne Projects",
+        "d": [
+          "2013-11-02",
+          "2013-11-28"
+        ]
+      }
+    ]
+  }
+}

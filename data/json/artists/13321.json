@@ -1,0 +1,74 @@
+{
+  "id": "13321",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:08:32",
+  "name": "Adrian Buba",
+  "surname": "Buba",
+  "nationality": "FR, RO",
+  "nationality fr": "France, Roumanie",
+  "birth location": "Karansebes (RO) (FR)",
+  "birth day": "0",
+  "birth month": "0",
+  "birth year": "1953",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "85495",
+  "r01": "112750",
+  "r02": "112777",
+  "r03": "108643",
+  "r04": "107336",
+  "r05": "100432",
+  "r06": "92057",
+  "r07": "83003",
+  "r08": "72895",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1996",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Germany (2), France (1)",
+  "2005-shows-with": "Adrian Buba (2)",
+  "representing-galleries": "ABK ART (22 rue de l’esplanade, 57160 Metz, France); Galerie Sievi (Gneisenaustr. 112, 10961 Berlin, Germany)",
+  "collecting-museums": null,
+  "first_name": "Adrian",
+  "last_name": "Buba",
+  "genre": "m",
+  "expos": {
+    "2010": [
+      {
+        "i": "13321-651-2010-05-08",
+        "c": "DE",
+        "n": "20 Jahre Galerie Sievi – Zeitzeugen der Kunst in Kreuzberg",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Sievi",
+        "d": [
+          "2010-05-08",
+          "2010-06-26"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "13321-651-2013-09-07",
+        "c": "DE",
+        "n": "Adrian Buba - Malerei",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Sievi",
+        "d": [
+          "2013-09-07",
+          "2013-10-12"
+        ]
+      }
+    ]
+  }
+}

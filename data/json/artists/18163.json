@@ -1,0 +1,92 @@
+{
+  "id": "18163",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:10:45",
+  "name": "Olivier Gourvil",
+  "surname": "Gourvil",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1952",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "48629",
+  "r01": "45287",
+  "r02": "43906",
+  "r03": "39599",
+  "r04": "35023",
+  "r05": "42952",
+  "r06": "42317",
+  "r07": "36291",
+  "r08": "30126",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1992",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (4), United Kingdom (2)",
+  "2005-shows-with": "Olivier Gourvil (6), Xavier Drong (3), Geoffrey Gross (3), Jane Harris (3), Richard Kirwan (3), Nicolas Royer (3), Daniel Sturgis (3), Claude Temin-Vergez (3), Noël Dolla (2), Pierre Moignard (2), Bernard Piffaretti (2), Bruno Rousselot (2), Baptiste Roux (2)",
+  "representing-galleries": null,
+  "collecting-museums": "FRAC - Bretagne (3 rue de Noyal, 35410 Châteaugiron, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France)",
+  "first_name": "Olivier",
+  "last_name": "Gourvil",
+  "genre": "m",
+  "birthDate": "1952-01-01",
+  "age": 62,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "18163-8011-2005-09-10",
+        "c": "US",
+        "n": "Paper Architecture",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Philadelphia, PA",
+        "o": "Slought Foundation",
+        "d": [
+          "2005-09-10",
+          "2005-10-22"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "18163-23320-2009-11-18",
+        "c": "GB",
+        "n": "La Peinture Est Presque Abstraite",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Camberwell Space",
+        "d": [
+          "2009-11-18",
+          "2009-12-23"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "18163-26751-2012-06-29",
+        "c": "GB",
+        "n": "Pencil and Paper",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Poppy Sebire ",
+        "d": [
+          "2012-06-29",
+          "2012-08-04"
+        ]
+      }
+    ]
+  }
+}

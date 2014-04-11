@@ -1,0 +1,202 @@
+{
+  "id": "51004",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:24:32",
+  "name": "Frank Perrin",
+  "surname": "Perrin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1963",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography",
+  "r00": "11753",
+  "r01": "11343",
+  "r02": "11412",
+  "r03": "10140",
+  "r04": "10286",
+  "r05": "10437",
+  "r06": "10713",
+  "r07": "12847",
+  "r08": "32876",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "21",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (4), Switzerland (2), Belgium (1), China (1), Monaco (1), USA (1)",
+  "2005-shows-with": "Frank Perrin (7), Mat Collishaw (2), Mounir Fatmi (2), Elena Kovylina (2), Andrea Mastrovito (2), Jean-Michel Pancin (2)",
+  "representing-galleries": "Analix Forever (rue de l’Arquebuse 25, CH-1204 Geneva, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Frank",
+  "last_name": "Perrin",
+  "genre": "m",
+  "birthDate": "1963-01-01",
+  "age": 51,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "51004-7714-2006-06-24",
+        "c": "TH",
+        "n": "Theatre de la mode",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bangkok",
+        "o": "Queen Gallery",
+        "d": [
+          "2006-06-24",
+          "2006-07-30"
+        ]
+      },
+      {
+        "i": "51004-10496-2006-08-19",
+        "c": "KR",
+        "n": "Theatre of Fashion",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Seoul",
+        "o": "Daelim Contemporary Art Museum",
+        "d": [
+          "2006-08-19",
+          "2006-09-30"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "51004-5490-2007-06-01",
+        "c": "ES",
+        "n": "Nuevos Horizontes - Artistas contemporáneos de Francia",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vigo",
+        "o": "MARCO Museo de Arte Contemporánea de Vigo",
+        "d": [
+          "2007-06-01",
+          "2007-09-30"
+        ]
+      },
+      {
+        "i": "51004-21005-2007-06-06",
+        "c": "ES",
+        "n": "Fashion Show",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "Museu Tèxtil i d’Indumentària",
+        "d": [
+          "2007-06-06",
+          "2007-10-28"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "51004-7269-2008-06-16",
+        "c": "CN",
+        "n": "Frank Perrin and ZEVS - Postcapitalism Kidnapping",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Art Statements Gallery",
+        "d": [
+          "2008-06-16",
+          "2008-07-12"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "51004-895-2009-08-13",
+        "c": "CH",
+        "n": "Fiesta !",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Analix Forever",
+        "d": [
+          "2009-08-13",
+          "2009-08-30"
+        ]
+      },
+      {
+        "i": "51004-20119-2009-12-12",
+        "c": "MC",
+        "n": "Introducing",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Art & Rapy - Contemporary Art Gallery",
+        "d": [
+          "2009-12-12",
+          "2010-01-30"
+        ]
+      },
+      {
+        "i": "51004-895-2009-07-23",
+        "c": "CH",
+        "n": "Walk on the Wild Side",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Analix Forever",
+        "d": [
+          "2009-07-23",
+          "2009-08-11"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "51004-20119-2009-12-12",
+        "c": "MC",
+        "n": "Introducing",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Art & Rapy - Contemporary Art Gallery",
+        "d": [
+          "2009-12-12",
+          "2010-01-30"
+        ]
+      },
+      {
+        "i": "51004-1321-2010-05-15",
+        "c": "US",
+        "n": "Resurrectine",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Ronald Feldman Fine Arts Inc",
+        "d": [
+          "2010-05-15",
+          "2010-06-26"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "51004-26843-2013-09-19",
+        "c": "BE",
+        "n": "Young Collectors",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "Maison Particulière Art Center",
+        "d": [
+          "2013-09-19",
+          "2013-12-15"
+        ]
+      }
+    ]
+  }
+}

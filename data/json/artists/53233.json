@@ -1,0 +1,92 @@
+{
+  "id": "53233",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:25:26",
+  "name": "Philippe Hernandez",
+  "surname": "Hernandez",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1965",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "62696",
+  "r01": "60385",
+  "r02": "55823",
+  "r03": "50826",
+  "r04": "45623",
+  "r05": "40316",
+  "r06": "83315",
+  "r07": "74476",
+  "r08": "65079",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "2",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Mexico (2)",
+  "2005-shows-with": "Philippe Hernandez (2), Marco Rountree (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Philippe",
+  "last_name": "Hernandez",
+  "genre": "m",
+  "birthDate": "1965-01-01",
+  "age": 49,
+  "age_range": "46-55",
+  "expos": {
+    "2008": [
+      {
+        "i": "53233-12706-2008-09-06",
+        "c": "MX",
+        "n": "An unruly history of the readymade",
+        "st": "Group",
+        "t": "Private Collection",
+        "ct": "Mexico City",
+        "o": "Galeria Jumex",
+        "d": [
+          "2008-09-06",
+          "2009-03-06"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "53233-12706-2008-09-06",
+        "c": "MX",
+        "n": "An unruly history of the readymade",
+        "st": "Group",
+        "t": "Private Collection",
+        "ct": "Mexico City",
+        "o": "Galeria Jumex",
+        "d": [
+          "2008-09-06",
+          "2009-03-06"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "53233-28759-2013-01-26",
+        "c": "MX",
+        "n": "Algunas Lagunas",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mexico City",
+        "o": "Proyecto Paralelo",
+        "d": [
+          "2013-01-26",
+          "2013-03-24"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "13545",
+  "name": "Galerie Olivier Robert",
+  "street": "19, rue Mazarine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 1 43 25 31 87",
+  "email": "info@galerieolivierrobert.com",
+  "www": "www.galerieolivierrobert.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2019, rue Mazarine %2C%20France",
+  "fairs-total": "17",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "15",
+  "fairs": {
+    "2008": [
+      {
+        "i": "13545-Contemporary Istanbul Art Fair 2008",
+        "c": "TR",
+        "n": "Galerie Olivier Robert",
+        "ct": "Istanbul"
+      }
+    ],
+    "2012": [
+      {
+        "i": "13545-Artgenève - Salon international d\\'art  2012",
+        "c": "CH",
+        "n": "Galerie Olivier Robert",
+        "ct": "Geneva"
+      }
+    ]
+  }
+}

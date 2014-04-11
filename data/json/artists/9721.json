@@ -1,0 +1,678 @@
+{
+  "id": "9721",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:06:50",
+  "name": "Guillaume Leblon",
+  "surname": "Leblon",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Lille (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1971",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Installation",
+  "r00": "1178",
+  "r01": "1267",
+  "r02": "1240",
+  "r03": "1444",
+  "r04": "1456",
+  "r05": "1853",
+  "r06": "3140",
+  "r07": "3760",
+  "r08": "4366",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1992",
+  "all-shows-total": "104",
+  "2005-shows-biennials": "18",
+  "2005-shows-galleries": "18",
+  "2005-shows-museums": "45",
+  "2005-countries-total": "France (40), Germany (5), Spain (5), USA (4), Belgium (2), Switzerland (2), United Kingdom (2), Argentina (1), Austria (1), Czech Republic (1), Italy (1), Luxembourg (1), Mexico (1), Netherlands (1), Portugal (1), Russia (1), Turkey (1)",
+  "2005-shows-with": "Guillaume Leblon (57), Katinka Bock (13), Raphaël Zarka (7), Dove Allouche (6), Mircea Cantor (6), Aurélien Froment (6), Dora García (6), Laurent Montaron (6), Evariste Richer (6), Miriam Cahn (5), Claude Closky (5), Jimmie Durham (5), Ryan Gander (5), Mike Kelley (5), Bojan Sarcevic (5), Oscar Tuazon (5), Franz Erhard Walther (5), Saâdane Afif (4), Francis Alys (4), Stéphane Calais (4), Dewar & Gicquel (4), Pierre Huyghe (4), Mathieu Mercier (4), Gyan Panchal (4), Haim Steinbach (4), Tatiana Trouvé (4), Joëlle Tuerlinckx (4), Christoph Weber (4), Carlos Amorales (3), Vincent Beaurin (3), Erick Beltrán (3), Pierre Bismuth (3), Ulla von Brandenburg (3), Maurizio Cattelan (3), Isabelle Cornaro (3), Stéphane Dafflon (3), Philippe Decrauzat (3), Helmut Federle (3), Robert Filliou (3), Claire Fontaine (3), Mario Garcia Torres (3), Isa Genzken (3), Dan Graham (3), Laurent Grasso (3), Loris Gréaud (3), Mona Hatoum (3), Fabrice Hybert (3), Sol LeWitt (3), Didier Marcel (3), Rita McBride (3), Cildo Meireles ",
+  "representing-galleries": "Galerie Jocelyn Wolff (78, rue Julien-Lacroix, 75020 Paris, France); Galerie Carlier | Gebauer (Markgrafenstrasse 67, 10969 Berlin, Germany); Projectesd (Pg. Mercader 8 Baixos 1, 08008 Barcelona, Spain)",
+  "collecting-museums": "CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); Musée Départemental d'Art Contemporain de Rochechouart (place du Château, 87600  Rochechouart, France); CGAC - Centro Galego de Arte Contemporánea (Valle Inclán s/n, 15704 Santiago de Compostela, Spain)",
+  "first_name": "Guillaume",
+  "last_name": "Leblon",
+  "genre": "m",
+  "birthDate": "1971-01-01",
+  "age": 43,
+  "age_range": "36-45",
+  "expos": {
+    "2007": [
+      {
+        "i": "9721-1014-2007-03-17",
+        "c": "CH",
+        "n": "Les roses de Jéricho",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Geneva",
+        "o": "attitudes - espace d'arts contemporains",
+        "d": [
+          "2007-03-17",
+          "2007-05-05"
+        ]
+      },
+      {
+        "i": "9721-4483-2007-06-22",
+        "c": "GB",
+        "n": "Guillaume Leblon & Laurent Montaron - Walks",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Bischoff/Weiss",
+        "d": [
+          "2007-06-22",
+          "2007-07-21"
+        ]
+      },
+      {
+        "i": "9721-6752-2007-07-07",
+        "c": "DK",
+        "n": "The Re-conquest of Space",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Copenhagen",
+        "o": "Overgaden - Institut for Samtidskunst",
+        "d": [
+          "2007-07-07",
+          "2007-08-19"
+        ]
+      },
+      {
+        "i": "9721-8257-2007-11-14",
+        "c": "AT",
+        "n": "Suite Française",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Krinzinger Projekte",
+        "d": [
+          "2007-11-14",
+          "2008-02-29"
+        ]
+      },
+      {
+        "i": "9721-7066-2007-12-04",
+        "c": "US",
+        "n": "French Kissing in the U.S.A.",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Miami, FL",
+        "o": "The Moore Space",
+        "d": [
+          "2007-12-04",
+          "2008-03-08"
+        ]
+      },
+      {
+        "i": "9721-3569-2007-03-10",
+        "c": "DE",
+        "n": "Guillaume Leblon",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Kamm",
+        "d": [
+          "2007-03-10",
+          "2007-04-21"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "9721-8257-2007-11-14",
+        "c": "AT",
+        "n": "Suite Française",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Krinzinger Projekte",
+        "d": [
+          "2007-11-14",
+          "2008-02-29"
+        ]
+      },
+      {
+        "i": "9721-7066-2007-12-04",
+        "c": "US",
+        "n": "French Kissing in the U.S.A.",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Miami, FL",
+        "o": "The Moore Space",
+        "d": [
+          "2007-12-04",
+          "2008-03-08"
+        ]
+      },
+      {
+        "i": "9721-6417-2008-02-02",
+        "c": "DE",
+        "n": "Wenn ein Reisender in einer Winternacht - Variationen über Max Bill",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Herford",
+        "o": "MARTa Herford",
+        "d": [
+          "2008-02-02",
+          "2008-03-09"
+        ]
+      },
+      {
+        "i": "9721-2407-2008-03-06",
+        "c": "GB",
+        "n": "Martian Museum of Terrestrial Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Barbican Art Gallery",
+        "d": [
+          "2008-03-06",
+          "2008-05-18"
+        ]
+      },
+      {
+        "i": "9721-3157-2008-08-31",
+        "c": "CH",
+        "n": "«A Town (Not a City)»",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "St. Gallen",
+        "o": "Kunst Halle Sankt Gallen",
+        "d": [
+          "2008-08-31",
+          "2008-11-02"
+        ]
+      },
+      {
+        "i": "9721-8587-2008-09-11",
+        "c": "RU",
+        "n": "Translation. Video Works from the Public Collections of France.",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Moscow",
+        "o": "Moscow museum of modern art - MMOMA",
+        "d": [
+          "2008-09-11",
+          "2008-11-02"
+        ]
+      },
+      {
+        "i": "9721-11661-2008-11-26",
+        "c": "GB",
+        "n": "Neutre intense",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Carl Freedman Gallery",
+        "d": [
+          "2008-11-26",
+          "2009-01-31"
+        ]
+      },
+      {
+        "i": "9721-14027-2008-03-14",
+        "c": "BE",
+        "n": "Guillaume Leblon - Four Ladders",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Leuven",
+        "o": "Stuk Kunstcentrum",
+        "d": [
+          "2008-03-14",
+          "2008-05-25"
+        ]
+      },
+      {
+        "i": "9721-4938-2008-03-28",
+        "c": "ES",
+        "n": "Guillaume Leblon: The Extra Ordinary",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Projectesd",
+        "d": [
+          "2008-03-28",
+          "2008-05-17"
+        ]
+      },
+      {
+        "i": "9721-1586-2008-04-10",
+        "c": "ES",
+        "n": "Guillaume Leblon",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Santiago de Compostela",
+        "o": "CGAC - Centro Galego de Arte Contemporánea",
+        "d": [
+          "2008-04-10",
+          "2008-06-29"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "9721-11661-2008-11-26",
+        "c": "GB",
+        "n": "Neutre intense",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Carl Freedman Gallery",
+        "d": [
+          "2008-11-26",
+          "2009-01-31"
+        ]
+      },
+      {
+        "i": "9721-2283-2009-01-30",
+        "c": "CH",
+        "n": "SLOW MOVEMENT ODER: Das Halbe und das Ganze",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bern",
+        "o": "Kunsthalle Bern",
+        "d": [
+          "2009-01-30",
+          "2009-03-22"
+        ]
+      },
+      {
+        "i": "9721-18895-2009-02-25",
+        "c": "US",
+        "n": "Of Other Spaces",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Columbus, OH",
+        "o": "Canzani Center Gallery/Bureau for Open Culture at Columbus College of Art & Design",
+        "d": [
+          "2009-02-25",
+          "2009-04-25"
+        ]
+      },
+      {
+        "i": "9721-1135-2009-05-17",
+        "c": "DE",
+        "n": "SPACE REVISED #1 Friendly Takeovers Strategien der Raumaneignung",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bremen",
+        "o": "GAK - Gesellschaft für Aktuelle Kunst e.V. Bremen",
+        "d": [
+          "2009-05-17",
+          "2009-08-09"
+        ]
+      },
+      {
+        "i": "9721-7285-2009-05-26",
+        "c": "CZ",
+        "n": "The Eventual",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Prague",
+        "o": "Futura",
+        "d": [
+          "2009-05-26",
+          "2009-08-09"
+        ]
+      },
+      {
+        "i": "9721-1811-2009-11-20",
+        "c": "ES",
+        "n": "The Malady of Writing. A project on text and speculative imagination",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "Museu d´Art Contemporani de Barcelona - MACBA",
+        "d": [
+          "2009-11-20",
+          "2010-04-25"
+        ]
+      },
+      {
+        "i": "9721-4938-2009-12-17",
+        "c": "ES",
+        "n": "Reception: Pieter Vermeersch hosts…",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Projectesd",
+        "d": [
+          "2009-12-17",
+          "2010-01-31"
+        ]
+      },
+      {
+        "i": "9721-2331-2009-06-18",
+        "c": "LU",
+        "n": "Guillaume Leblon : Site Of Confluence",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2009-06-18",
+          "2009-09-13"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "9721-1811-2009-11-20",
+        "c": "ES",
+        "n": "The Malady of Writing. A project on text and speculative imagination",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "Museu d´Art Contemporani de Barcelona - MACBA",
+        "d": [
+          "2009-11-20",
+          "2010-04-25"
+        ]
+      },
+      {
+        "i": "9721-4938-2009-12-17",
+        "c": "ES",
+        "n": "Reception: Pieter Vermeersch hosts…",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Projectesd",
+        "d": [
+          "2009-12-17",
+          "2010-01-31"
+        ]
+      },
+      {
+        "i": "9721-20680-2010-03-04",
+        "c": "BE",
+        "n": "2 1/2 Dimensional - Film Featuring Architecture",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "deSingel",
+        "d": [
+          "2010-03-04",
+          "2010-05-22"
+        ]
+      },
+      {
+        "i": "9721-12877-2010-03-24",
+        "c": "TR",
+        "n": "The Garden of Forking Paths",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Istanbul",
+        "o": "Akbank Art Center",
+        "d": [
+          "2010-03-24",
+          "2010-05-08"
+        ]
+      },
+      {
+        "i": "9721-5187-2010-11-25",
+        "c": "IT",
+        "n": "Sampler #1",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "Galleria Alessandro de March",
+        "d": [
+          "2010-11-25",
+          "2011-01-20"
+        ]
+      },
+      {
+        "i": "9721-2293-2010-12-18",
+        "c": "DE",
+        "n": "Bild für Bild - Film und zeitgenössische Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2010-12-18",
+          "2011-04-25"
+        ]
+      },
+      {
+        "i": "9721-4938-2010-11-18",
+        "c": "ES",
+        "n": "Strange Form of Life",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Projectesd",
+        "d": [
+          "2010-11-18",
+          "2011-01-22"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "9721-5187-2010-11-25",
+        "c": "IT",
+        "n": "Sampler #1",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "Galleria Alessandro de March",
+        "d": [
+          "2010-11-25",
+          "2011-01-20"
+        ]
+      },
+      {
+        "i": "9721-2293-2010-12-18",
+        "c": "DE",
+        "n": "Bild für Bild - Film und zeitgenössische Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2010-12-18",
+          "2011-04-25"
+        ]
+      },
+      {
+        "i": "9721-9328-2011-02-05",
+        "c": "PT",
+        "n": "The Way it Wasn’t (Celebrating Ten Years of castillo/corrales, Paris)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Porto",
+        "o": "Culturgest Porto",
+        "d": [
+          "2011-02-05",
+          "2011-04-23"
+        ]
+      },
+      {
+        "i": "9721-2278-2011-09-09",
+        "c": "AT",
+        "n": "DIE FÜNFTE SÄULE",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Wiener Secession",
+        "d": [
+          "2011-09-09",
+          "2011-11-20"
+        ]
+      },
+      {
+        "i": "9721-3123-2011-10-22",
+        "c": "NL",
+        "n": "Beyond the Fragile Geometry of Sculpture",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Middelburg",
+        "o": "De Vleeshal",
+        "d": [
+          "2011-10-22",
+          "2011-12-11"
+        ]
+      },
+      {
+        "i": "9721-4938-2010-11-18",
+        "c": "ES",
+        "n": "Strange Form of Life",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Projectesd",
+        "d": [
+          "2010-11-18",
+          "2011-01-22"
+        ]
+      },
+      {
+        "i": "9721-2674-2011-05-26",
+        "c": "US",
+        "n": "Guillaume Leblon",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "North Adams, MA",
+        "o": "Massachusetts Museum of Contemporary Art - MASSMoCA",
+        "d": [
+          "2011-05-26",
+          "2011-04-07"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "9721-2317-2012-03-17",
+        "c": "AR",
+        "n": "Aire de Lyon",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Buenos Aires",
+        "o": "Fundación PROA",
+        "d": [
+          "2012-03-17",
+          "2012-06-24"
+        ]
+      },
+      {
+        "i": "9721-27433-2012-04-13",
+        "c": "US",
+        "n": "Dallas Biennale - DB12",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Dallas, TX",
+        "o": "Dallas Biennale",
+        "d": [
+          "2012-04-13",
+          "2012-05-05"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "9721-2087-2013-01-19",
+        "c": "DE",
+        "n": "Die Wahrscheinlichkeit, dass nichts passiert",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Carlier | Gebauer",
+        "d": [
+          "2013-01-19",
+          "2013-03-02"
+        ]
+      },
+      {
+        "i": "9721-21789-2013-01-19",
+        "c": "MX",
+        "n": "The Forgotten Instinct",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mexico City",
+        "o": "Labor",
+        "d": [
+          "2013-01-19",
+          "2013-03-02"
+        ]
+      },
+      {
+        "i": "9721-2674-2013-05-26",
+        "c": "US",
+        "n": "Guillaume Leblon",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "North Adams, MA",
+        "o": "Massachusetts Museum of Contemporary Art - MASSMoCA",
+        "d": [
+          "2013-05-26",
+          "2014-04-07"
+        ]
+      },
+      {
+        "i": "9721-2087-2013-09-14",
+        "c": "DE",
+        "n": "Guillaume Leblon",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Carlier | Gebauer",
+        "d": [
+          "2013-09-14",
+          "2013-10-12"
+        ]
+      }
+    ],
+    "2005": [
+      {
+        "i": "9721-4938-2005-09-20",
+        "c": "ES",
+        "n": "Guillaume Leblon",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Projectesd",
+        "d": [
+          "2005-09-20",
+          "2005-11-05"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "9721-2230-2006-06-24",
+        "c": "DE",
+        "n": "Guillaume Leblon",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Dusseldorf",
+        "o": "Kunstverein für die Rheinlande und Westfalen, Düsseldorf",
+        "d": [
+          "2006-06-24",
+          "2006-08-27"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "9721-2674-2013-05-26",
+        "c": "US",
+        "n": "Guillaume Leblon",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "North Adams, MA",
+        "o": "Massachusetts Museum of Contemporary Art - MASSMoCA",
+        "d": [
+          "2013-05-26",
+          "2014-04-07"
+        ]
+      }
+    ]
+  }
+}

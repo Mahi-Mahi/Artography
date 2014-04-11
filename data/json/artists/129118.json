@@ -1,0 +1,77 @@
+{
+  "id": "129118",
+  "mergedIDs": "256799",
+  "timestamp": "2014-02-22 06:55:57",
+  "name": "Lise Chevalier",
+  "surname": "Chevalier",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1985",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "49515",
+  "r01": "97614",
+  "r02": "95307",
+  "r03": "89977",
+  "r04": "83513",
+  "r05": "80723",
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2008",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (4), Germany (1), Iran (1)",
+  "2005-shows-with": "Lise Chevalier (6), Cedric Jolivet (3), Larissa Fassler (2), Clara Fenise (2), Wolfram Hahn (2), Stephane Kouchian (2), Milan Tutunovic (2)",
+  "representing-galleries": "Galerie AL/MA (35 rue de la Valfère, 34000 Montpellier, France)",
+  "collecting-museums": null,
+  "first_name": "Lise",
+  "last_name": "Chevalier",
+  "genre": "f",
+  "birthDate": "1985-01-01",
+  "age": 29,
+  "age_range": "26-35",
+  "expos": {
+    "2008": [
+      {
+        "i": "129118-17198-2008-05-30",
+        "c": "IR",
+        "n": "Urban Jealousy - the 1st International Roaming Biennial of Tehran",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Tehran",
+        "o": "International Roaming Biennial of Tehran",
+        "d": [
+          "2008-05-30",
+          "2008-07-06"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "129118-1783-2013-05-24",
+        "c": "DE",
+        "n": "Berlin.Status (2)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Künstlerhaus Bethanien",
+        "d": [
+          "2013-05-24",
+          "2013-06-16"
+        ]
+      }
+    ]
+  }
+}

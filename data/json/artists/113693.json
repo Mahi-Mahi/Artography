@@ -1,0 +1,92 @@
+{
+  "id": "113693",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:49:59",
+  "name": "Laurent Proux",
+  "surname": "Proux",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Versailles, Yvelines (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1980",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "26124",
+  "r01": "27660",
+  "r02": "25093",
+  "r03": "22609",
+  "r04": "29763",
+  "r05": "34881",
+  "r06": "29936",
+  "r07": "55993",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "10",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (4), Germany (1), Russia (1)",
+  "2005-shows-with": "Laurent Proux (3)",
+  "representing-galleries": "Galerie Sémiose (3 rue de Montiboeufs, 75020 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Laurent",
+  "last_name": "Proux",
+  "genre": "m",
+  "birthDate": "1980-01-01",
+  "age": 34,
+  "age_range": "26-35",
+  "expos": {
+    "2006": [
+      {
+        "i": "113693-3514-2006-12-01",
+        "c": "DE",
+        "n": "Switch on the light before sleeping",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "GdK Galerie der Künste Berlin",
+        "d": [
+          "2006-12-01",
+          "2006-12-22"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "113693-8561-2010-07-02",
+        "c": "RU",
+        "n": "Vis-A-Vis",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Moscow",
+        "o": "National Center For Contemporary Art (NCCA) - Moscow Branch",
+        "d": [
+          "2010-07-02",
+          "2010-07-25"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "113693-28867-2012-05-18",
+        "c": "DE",
+        "n": "Close Range",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Leipzig",
+        "o": "Westpol a.i.r. Space - Kunst- und Ausstellungsraum",
+        "d": [
+          "2012-05-18",
+          "2012-05-27"
+        ]
+      }
+    ]
+  }
+}

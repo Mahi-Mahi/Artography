@@ -1,0 +1,42 @@
+{
+  "id": "5131",
+  "name": "Galerie Laurent Strouk",
+  "street": "8 bis/16 rue Jacques Callot",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Laurent Strouk",
+  "profile": null,
+  "tel": "+33 (0)1 40468906",
+  "email": "galeriestrouk@wanadoo.fr",
+  "www": "www.popgalerie.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%208 bis/16 rue Jacques Callot %2C%20France",
+  "fairs-total": "18",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "18",
+  "fairs": {
+    "2007": [
+      {
+        "i": "5131-ArtParis - AbuDhabi 2007",
+        "c": "AE",
+        "n": "Galerie Laurent Strouk",
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5131-Artparis-Shenzhen",
+        "c": "CN",
+        "n": "Galerie Laurent Strouk",
+        "ct": "Shenzhen"
+      },
+      {
+        "i": "5131-ArtParis - AbuDhabi 2008",
+        "c": "AE",
+        "n": "Galerie Laurent Strouk",
+        "ct": "Abu Dhabi"
+      }
+    ]
+  }
+}

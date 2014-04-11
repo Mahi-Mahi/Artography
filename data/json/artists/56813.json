@@ -1,0 +1,62 @@
+{
+  "id": "56813",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:26:59",
+  "name": "Guy de Malherbe",
+  "surname": "Malherbe",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1958",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "38577",
+  "r01": "38008",
+  "r02": "45700",
+  "r03": "43129",
+  "r04": "50543",
+  "r05": "44845",
+  "r06": "59004",
+  "r07": "51520",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "10",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (7), Finland (1)",
+  "2005-shows-with": "Arthur Aillaud (5), Guy de Malherbe (5), Pierre Buraglio (4), Vincent Bioulès (3), Anthony Verot (3), Gilles Altieri (2), Alexandre Hollan (2), Sarah Le Guern (2), Jean Rault (2)",
+  "representing-galleries": "Galerie Vieille Du Temple (23 rue Vieille du Temple, 75004 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Guy",
+  "last_name": "de",
+  "genre": "m",
+  "birthDate": "1958-01-01",
+  "age": 56,
+  "age_range": "46-55",
+  "expos": {
+    "2008": [
+      {
+        "i": "56813-9311-2008-03-15",
+        "c": "FI",
+        "n": "Sextet",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rauma",
+        "o": "Lönnström Art Museum",
+        "d": [
+          "2008-03-15",
+          "2008-06-01"
+        ]
+      }
+    ]
+  }
+}

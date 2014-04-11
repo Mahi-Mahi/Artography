@@ -1,0 +1,77 @@
+{
+  "id": "230688",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:35:42",
+  "name": "Jean Paul Thenot",
+  "surname": "Thenot",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1943",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "31943",
+  "r01": "29937",
+  "r02": "67430",
+  "r03": "62551",
+  "r04": "56478",
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2009",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (2), Brazil (1)",
+  "2005-shows-with": "Fred Forest (3), Jean Paul Thenot (3), Marcel Alocco (2), Dominique Angel (2), Eleonore Bak (2), Julien Blaine (2), Roberto Bozzi (2), Anna Byskov (2), Gilbert Caty (2), Erik Dietman (2), Noël Dolla (2), Charles Dreyfus (2), Joël Ducorroy (2), Eric Duyckaerts (2), Kristof Everart (2), Daniel Farioli (2), Jean-Baptiste Ganne (2), Paul-Armand Gette (2), Jean Pierre Giovanelli (2), Yoko Gunji (2), Raymond Hains (2), Raoul Hébréard (2), Joël Hubaut (2), Carsten Höller (2), Pierre Joseph (2), Michel Journiac (2), Judit Kele (2), Arnaud Labelle-Rojoux (2), Thierry Lagalla (2), Virginie Le Touze (2), Jean-Jacques Lebel (2), Jacques Lizène (2), George Maciunas (2), Jean Mas (2), Florent Mattei (2), Bruno Mendonça (2), Roland Miller (2), Patrick Moya (2), Serge Oldenbourg (2), Orlan (2), Gina Pane (2), Philippe Parreno (2), Gilbert Pedinielli (2), Philippe Perrin (2), Pierre Pinoncelli (2), Michel Redolfi (2), Charly van Rest (2), Mimmo Rotella (2), Roland Sabatier (2), Niki de Saint Phalle (2), Bernar Venet (",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Jean",
+  "last_name": "Paul",
+  "genre": "m",
+  "birthDate": "1943-01-01",
+  "age": 71,
+  "age_range": "46-55",
+  "expos": {
+    "2009": [
+      {
+        "i": "230688-2335-2009-09-01",
+        "c": "BR",
+        "n": "A França no MAC",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "São Paulo",
+        "o": "Museu de Arte Contemporânea da Universidade de São Paulo",
+        "d": [
+          "2009-09-01",
+          "2010-01-31"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "230688-2335-2009-09-01",
+        "c": "BR",
+        "n": "A França no MAC",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "São Paulo",
+        "o": "Museu de Arte Contemporânea da Universidade de São Paulo",
+        "d": [
+          "2009-09-01",
+          "2010-01-31"
+        ]
+      }
+    ]
+  }
+}

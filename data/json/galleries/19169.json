@@ -1,0 +1,36 @@
+{
+  "id": "19169",
+  "name": "La Galerie SA - Galerie d'art Brigitte Capy",
+  "street": "27, allées Louis Pasteur",
+  "zip": "40150",
+  "city": "Hossegor",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33.(0)5.58.43.99.49",
+  "email": null,
+  "www": "www.lagalerie-art-hossegor.com",
+  "map": "http://maps.google.com/maps?q=Hossegor%2C%2040150 %2C%20 %2C%2027, allées Louis Pasteur  %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19169-Affordable Art Fair Bruxelles 09",
+        "c": "BE",
+        "n": "La Galerie SA - Galerie d'art Brigitte Capy",
+        "ct": "Brussels"
+      }
+    ],
+    "2010": [
+      {
+        "i": "19169-Affordable Art Fair Bruxelles 2010",
+        "c": "BE",
+        "n": "La Galerie SA - Galerie d'art Brigitte Capy",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

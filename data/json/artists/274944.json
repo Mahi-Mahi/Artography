@@ -1,0 +1,118 @@
+{
+  "id": "274944",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:52:45",
+  "name": "TANC",
+  "surname": "TANC",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "68125",
+  "r01": "70535",
+  "r02": "95138",
+  "r03": "94688",
+  "r04": "103028",
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2009",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "9",
+  "2005-shows-galleries": "9",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (6), Germany (2), Lebanon (1), Morocco (1), United Kingdom (1)",
+  "2005-shows-with": "TANC (10), Jef Aerosol (4), JonOne (4), L\\'Atlas (4), Olivier Rizzo (4), Invader (3), Mist (3), Sun7 (3), Futura2000 (2), Augustine Kofie (2), Psyckoze (2), RESO (2)",
+  "representing-galleries": "Lebenson Gallery (56 rue Chapon, 75003 Paris, France); David Bloch Gallery (8 bis rue des Vieux Marrakchis, 40000 Marrakech, Morocco); The French Art Studio (121 Sulgrave Road, W6 7QH London (England), United Kingdom)",
+  "collecting-museums": null,
+  "first_name": "TANC",
+  "last_name": "",
+  "genre": "m",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-35",
+  "expos": {
+    "2010": [
+      {
+        "i": "274944-22828-2010-04-30",
+        "c": "DE",
+        "n": "Kiss the City - Fine Lines 2",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Skalitzers Contemporary Art",
+        "d": [
+          "2010-04-30",
+          "2010-05-28"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "274944-23060-2012-03-15",
+        "c": "MA",
+        "n": "Contre-Courant",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Marrakech",
+        "o": "David Bloch Gallery",
+        "d": [
+          "2012-03-15",
+          "2012-06-30"
+        ]
+      },
+      {
+        "i": "274944-19516-2012-09-06",
+        "c": "LB",
+        "n": "White Wall",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Beirut",
+        "o": "Beirut Art Center",
+        "d": [
+          "2012-09-06",
+          "2012-11-03"
+        ]
+      },
+      {
+        "i": "274944-14748-2012-10-03",
+        "c": "GB",
+        "n": "Paris street art!",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "The French Art Studio",
+        "d": [
+          "2012-10-03",
+          "2012-11-01"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "274944-28544-2013-03-24",
+        "c": "DE",
+        "n": "Urban Art Biennale 2013",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Völklingen",
+        "o": "Urban Art Biennale",
+        "d": [
+          "2013-03-24",
+          "2013-11-01"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "211574",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:28:18",
+  "name": "Pierre Boulez",
+  "surname": "Boulez",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1925",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Composer",
+  "r00": "29868",
+  "r01": "27843",
+  "r02": "28690",
+  "r03": "26052",
+  "r04": "22937",
+  "r05": "76891",
+  "r06": "69104",
+  "r07": "61170",
+  "r08": "52907",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2004",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "2",
+  "2005-countries-total": "Germany (2)",
+  "2005-shows-with": "Joseph Beuys (2), Pierre Boulez (2), Earle Brown (2), John Cage (2), Marcel Duchamp (2), Morton Feldman (2), Mauricio Kagel (2), Paul Klee (2), Bruno Maderna (2), Nam June Paik (2), Dieter Schnebel (2), K. H. Stockhausen (2), Iannis Xenakis (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Pierre",
+  "last_name": "Boulez",
+  "genre": "m",
+  "birthDate": "1925-01-01",
+  "age": 89,
+  "age_range": "46-55",
+  "expos": {
+    "2009": [
+      {
+        "i": "211574-2259-2009-03-01",
+        "c": "DE",
+        "n": "Notation. Form und Kalkül in den Künsten",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2009-03-01",
+          "2009-07-26"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "211574-7384-2012-05-13",
+        "c": "DE",
+        "n": "A House Full Of Music - Strategien In Musik Und Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Darmstadt",
+        "o": "Mathildenhöhe",
+        "d": [
+          "2012-05-13",
+          "2012-09-09"
+        ]
+      }
+    ]
+  }
+}

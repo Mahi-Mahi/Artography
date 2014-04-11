@@ -1,0 +1,77 @@
+{
+  "id": "160616",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:08:52",
+  "name": "Jean-Christophe Nourisson",
+  "surname": "Nourisson",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Angers (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1962",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "87881",
+  "r01": "82007",
+  "r02": "77031",
+  "r03": "69533",
+  "r04": "61171",
+  "r05": "53747",
+  "r06": "45957",
+  "r07": "38717",
+  "r08": "33432",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1997",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Belgium (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "Joye Gallery (Chaussée de Vleurgat 125, 1000 Brussels, Belgium); Imagine Gallery (Feijacun, Cuigezhang, Lai Guang Ying Dong Lu, Chao, 100103 Beijing, China); Galerie Georges Verney-Carron (45 quai Rambaud, 69002 Lyon, France); Galerie Anne Voss (Gerberstrasse, 44125  Dortmund, Germany)",
+  "collecting-museums": null,
+  "first_name": "Jean-Christophe",
+  "last_name": "Nourisson",
+  "genre": "m",
+  "birthDate": "1962-01-01",
+  "age": 52,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "160616-3412-2006-09-15",
+        "c": "CN",
+        "n": "Marsh Group Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Imagine Gallery",
+        "d": [
+          "2006-09-15",
+          "2006-10-15"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "160616-28045-2012-05-10",
+        "c": "BE",
+        "n": "Jean-christophe Nourisson",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Joye Gallery",
+        "d": [
+          "2012-05-10",
+          "2012-06-30"
+        ]
+      }
+    ]
+  }
+}

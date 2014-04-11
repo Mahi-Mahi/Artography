@@ -1,0 +1,90 @@
+{
+  "id": "145249",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:02:32",
+  "name": "Mathieu Cortin",
+  "surname": "Cortin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": "7",
+  "birth month": "3",
+  "birth year": "1980",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "76831",
+  "r01": "73792",
+  "r02": "68452",
+  "r03": "63280",
+  "r04": "56963",
+  "r05": "51269",
+  "r06": "44833",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": "Germany (1)",
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Mathieu",
+  "last_name": "Cortin",
+  "genre": "m",
+  "birthDate": "1980-03-07",
+  "age": 34,
+  "age_range": "26-35",
+  "expos": {
+    "2007": [
+      {
+        "i": "145249-766-2007-04-04",
+        "c": "DE",
+        "n": "Der Blick nach außen. 11 Positionen der HBK Braunschweig",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Ratingen",
+        "o": "Museum der Stadt Ratingen",
+        "d": [
+          "2007-04-04",
+          "2007-04-29"
+        ]
+      },
+      {
+        "i": "145249-7137-2007-06-05",
+        "c": "DE",
+        "n": "vor sich selbst ein Gegenstand",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Dusseldorf",
+        "o": "Künstlerverein Malkasten",
+        "d": [
+          "2007-06-05",
+          "2007-07-31"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "145249-15147-2008-03-26",
+        "c": "DE",
+        "n": "Mathieu Cortin",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Braunschweig",
+        "o": "Hochschule für Bildende Künste Braunschweig",
+        "d": [
+          "2008-03-26",
+          "2008-03-28"
+        ]
+      }
+    ]
+  }
+}

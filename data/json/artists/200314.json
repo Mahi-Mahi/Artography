@@ -1,0 +1,118 @@
+{
+  "id": "200314",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:23:54",
+  "name": "Eltono",
+  "surname": "Eltono",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Cergy-Pontoise, París (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1975",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Graffiti",
+  "r00": "23340",
+  "r01": "21741",
+  "r02": "43301",
+  "r03": "47362",
+  "r04": "99833",
+  "r05": "92708",
+  "r06": "84373",
+  "r07": "75694",
+  "r08": "66202",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "Spain (4), Jordan (1)",
+  "2005-shows-with": "Eltono (4), San (2), Marta Serna (2), Sixeart (2), SUSO33 (2)",
+  "representing-galleries": "Anonymous Gallery (169 Bowery, 10002 New York City, NY, USA)",
+  "collecting-museums": null,
+  "first_name": "Eltono",
+  "last_name": "",
+  "genre": "m",
+  "birthDate": "1975-01-01",
+  "age": 39,
+  "age_range": "36-45",
+  "expos": {
+    "2010": [
+      {
+        "i": "200314-1825-2010-02-19",
+        "c": "ES",
+        "n": "Murales",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "Fundación Joan Miró",
+        "d": [
+          "2010-02-19",
+          "2010-05-23"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "200314-3722-2011-02-21",
+        "c": "JO",
+        "n": "GRAFIKA: 30 artists of the young Spain",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amman",
+        "o": "Jordan National Gallery of Fine Arts",
+        "d": [
+          "2011-02-21",
+          "2011-03-30"
+        ]
+      },
+      {
+        "i": "200314-17987-2011-10-26",
+        "c": "ES",
+        "n": "La Red Bull Music Academy Y Pensart Presentan El Ruido De Las Burbujas",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "Matadero Madrid",
+        "d": [
+          "2011-10-26",
+          "2011-12-28"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "200314-8462-2012-09-06",
+        "c": "ES",
+        "n": "Insiders",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "N2 galeria",
+        "d": [
+          "2012-09-06",
+          "2012-10-05"
+        ]
+      },
+      {
+        "i": "200314-2657-2012-07-06",
+        "c": "ES",
+        "n": "Eltono - Deambular / Programa Praxis / Centro de control y sala de exhibición: Sala Norte",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Vitoria-Gasteiz",
+        "o": "ARTIUM - Basque Museum Center of Contemporary Art",
+        "d": [
+          "2012-07-06",
+          "2012-09-02"
+        ]
+      }
+    ]
+  }
+}

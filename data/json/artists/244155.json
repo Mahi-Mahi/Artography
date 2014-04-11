@@ -1,0 +1,90 @@
+{
+  "id": "244155",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:40:40",
+  "name": "Julien Dit Khanh",
+  "surname": "Dit Khanh",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Lagny sur Marne (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1985",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "96569",
+  "r01": "94415",
+  "r02": "92385",
+  "r03": null,
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2011",
+  "all-shows-total": "3",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Spain (3)",
+  "2005-shows-with": "Julien Dit Khanh (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Julien",
+  "last_name": "Dit",
+  "genre": "m",
+  "birthDate": "1985-01-01",
+  "age": 29,
+  "age_range": "26-35",
+  "expos": {
+    "2011": [
+      {
+        "i": "244155-23889-2011-01-21",
+        "c": "ES",
+        "n": "XII Bienal Internacional de Fotografía de Córdoba",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Córdoba",
+        "o": "Bienal Internacional de Fotografía de Córdoba",
+        "d": [
+          "2011-01-21",
+          "2011-03-10"
+        ]
+      },
+      {
+        "i": "244155-12960-2011-01-13",
+        "c": "ES",
+        "n": "Julien Dit Khanh – Familiar strangers",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Santander",
+        "o": "Galería Nuble",
+        "d": [
+          "2011-01-13",
+          "2011-02-20"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "244155-12960-2012-09-18",
+        "c": "ES",
+        "n": "Growing Together",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Santander",
+        "o": "Galería Nuble",
+        "d": [
+          "2012-09-18",
+          "2012-10-20"
+        ]
+      }
+    ]
+  }
+}

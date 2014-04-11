@@ -1,0 +1,129 @@
+{
+  "id": "233827",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:36:55",
+  "name": "Bo Taslé d´Héliand",
+  "surname": "Taslé d´Héliand",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1967",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "86550",
+  "r01": "83795",
+  "r02": "79259",
+  "r03": "73795",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2010",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": null,
+  "2005-countries-total": "United Arab Emirates (3), Egypt (1)",
+  "2005-shows-with": "Nedim Kufi (3), Bo Taslé d´Héliand (3), Adonis (2), Fatema Al Mazrouie (2), John van Alstine (2), Mounir Fatmi (2), Guy Ferrer (2), Hilda Hiary (2), Rose Husseiny (2), Wafa Khazendar (2), George Lewis (2), Caroline Ramersdorfer (2), Salwa Zeidan (2)",
+  "representing-galleries": "Salwa Zeidan Gallery (Al Khaleej Al Arabi Street 30, Villa 256, 2nd Floor,  Abu Dhabi, United Arab Emirates)",
+  "collecting-museums": null,
+  "first_name": "Bo",
+  "last_name": "Taslé",
+  "genre": "m",
+  "birthDate": "1967-01-01",
+  "age": 47,
+  "age_range": "46-55",
+  "expos": {
+    "2010": [
+      {
+        "i": "233827-20802-2010-11-04",
+        "c": "AE",
+        "n": "Abu Dhabi Artfair 2010",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Abu Dhabi",
+        "o": "Salwa Zeidan Gallery",
+        "d": [
+          "2010-11-04",
+          "2010-11-07"
+        ]
+      },
+      {
+        "i": "233827-12453-2010-12-12",
+        "c": "EG",
+        "n": "12th Cairo Biennale",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Giza",
+        "o": "International Cairo Biennale",
+        "d": [
+          "2010-12-12",
+          "2011-02-12"
+        ]
+      },
+      {
+        "i": "233827-20802-2010-12-15",
+        "c": "AE",
+        "n": "\"Globe\"",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Abu Dhabi",
+        "o": "Salwa Zeidan Gallery",
+        "d": [
+          "2010-12-15",
+          "2011-02-28"
+        ]
+      },
+      {
+        "i": "233827-20802-2010-03-29",
+        "c": "AE",
+        "n": "Bo Taslé d`Héliand",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Abu Dhabi",
+        "o": "Salwa Zeidan Gallery",
+        "d": [
+          "2010-03-29",
+          "2010-04-28"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "233827-12453-2010-12-12",
+        "c": "EG",
+        "n": "12th Cairo Biennale",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Giza",
+        "o": "International Cairo Biennale",
+        "d": [
+          "2010-12-12",
+          "2011-02-12"
+        ]
+      },
+      {
+        "i": "233827-20802-2010-12-15",
+        "c": "AE",
+        "n": "\"Globe\"",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Abu Dhabi",
+        "o": "Salwa Zeidan Gallery",
+        "d": [
+          "2010-12-15",
+          "2011-02-28"
+        ]
+      }
+    ]
+  }
+}

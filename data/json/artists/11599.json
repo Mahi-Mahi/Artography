@@ -1,0 +1,133 @@
+{
+  "id": "11599",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:07:43",
+  "name": "Philippe Perrin",
+  "surname": "Perrin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "La tronche (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1964",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "7521",
+  "r01": "7114",
+  "r02": "10098",
+  "r03": "11978",
+  "r04": "17305",
+  "r05": "14733",
+  "r06": "15119",
+  "r07": "15224",
+  "r08": "13075",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1990",
+  "all-shows-total": "29",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (10), Cuba (1), Italy (1), Spain (1), Switzerland (1)",
+  "2005-shows-with": "Philippe Perrin (10), Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), Julien Blaine (3), Anna Byskov (3), Gilbert Caty (3), Erik Dietman (3), Noël Dolla (3), Joël Ducorroy (3), Eric Duyckaerts (3), Kristof Everart (3), Daniel Farioli (3), Fred Forest (3), Jean-Baptiste Ganne (3), Paul-Armand Gette (3), Yoko Gunji (3), Crispin Gurholt (3), Raymond Hains (3), Raoul Hébréard (3), Michel Journiac (3), Virginie Le Touze (3), Jean-Jacques Lebel (3), Jacques Lizène (3), George Maciunas (3), Jean Mas (3), Florent Mattei (3), Bruno Mendonça (3), Roland Miller (3), Patrick Moya (3), Serge Oldenbourg (3), Orlan (3), Gina Pane (3), Gilbert Pedinielli (3), Pierre Pinoncelli (3), Charly van Rest (3), Mimmo Rotella (3), Niki de Saint Phalle (3), Bernar Venet (3), Jean-Luc Verna (3), Tina Born (2), Roberto Bozzi (2), Cai Guo-Qiang (2), Baptiste Debombourg (2), Charles Dreyfus (2), Wolfgang Ellenrieder (2), Nicolás García Uriburu (2), Claude Gilli (2), Jean Pierre Giovanelli (2), Philippe Gronon (2), Joël H",
+  "representing-galleries": "Galerie Albert Benamou (24, rue de Penthièvre, 75008 Paris, France); Galerie Seine 51 (51 rue de Seine, 75006 Paris, France); Galerie Beaubourg (Château Notre Dame des Fleurs, 6140 Vence, France); Louise Alexander Gallery (Via del Porto Vecchio 1, 07020 Porto Cervo, Italy)",
+  "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
+  "first_name": "Philippe",
+  "last_name": "Perrin",
+  "genre": "m",
+  "birthDate": "1964-01-01",
+  "age": 50,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "11599-4169-2006-03-11",
+        "c": "CN",
+        "n": "Shooting Star",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Xin Dong Cheng - Beijing",
+        "d": [
+          "2006-03-11",
+          "2006-05-11"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "11599-14948-2007-07-07",
+        "c": "IT",
+        "n": "Group Show - Porto Cervo",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Porto Cervo",
+        "o": "Louise Alexander Gallery",
+        "d": [
+          "2007-07-07",
+          "2007-08-03"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "11599-9335-2011-07-14",
+        "c": "ES",
+        "n": "BANG! BANG!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Andratx",
+        "o": "CCA Andratx",
+        "d": [
+          "2011-07-14",
+          "2011-09-01"
+        ]
+      },
+      {
+        "i": "11599-278-2011-09-15",
+        "c": "IT",
+        "n": "What?",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "Mimmo Scognamiglio Artecontemporanea",
+        "d": [
+          "2011-09-15",
+          "2011-10-31"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "11599-4342-2012-05-11",
+        "c": "CU",
+        "n": "11th Havana Biennial",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Havana",
+        "o": "La Bienal de La Habana",
+        "d": [
+          "2012-05-11",
+          "2012-06-11"
+        ]
+      },
+      {
+        "i": "11599-10479-2012-09-08",
+        "c": "CH",
+        "n": "Bang! Bang! Tatort Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Altdorf",
+        "o": "Haus für Kunst Uri",
+        "d": [
+          "2012-09-08",
+          "2012-11-18"
+        ]
+      }
+    ]
+  }
+}

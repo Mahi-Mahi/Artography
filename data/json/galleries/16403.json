@@ -1,0 +1,44 @@
+{
+  "id": "16403",
+  "name": "Galerie Vue Sur Mer",
+  "street": "15, rue levavasseur",
+  "zip": "35800",
+  "city": "Dinard",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)2 99 88 14 99",
+  "email": null,
+  "www": "www.gallery-vue-sur-mer.com",
+  "map": "http://maps.google.com/maps?q=Dinard%2C%2035800 %2C%20 %2C%2015, rue levavasseur %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2008": [
+      {
+        "i": "16403-The Affordable Art Fair 2008",
+        "c": "GB",
+        "n": "Galerie Vue Sur Mer",
+        "ct": "London (England)"
+      }
+    ],
+    "2010": [
+      {
+        "i": "16403-Lineart 2010",
+        "c": "BE",
+        "n": "Galerie Vue Sur Mer",
+        "ct": "Ghent"
+      }
+    ],
+    "2011": [
+      {
+        "i": "16403-Lineart 2011",
+        "c": "BE",
+        "n": "Galerie Vue Sur Mer",
+        "ct": "Ghent"
+      }
+    ]
+  }
+}

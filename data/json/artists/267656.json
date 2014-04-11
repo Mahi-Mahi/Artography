@@ -1,0 +1,131 @@
+{
+  "id": "267656",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:50:02",
+  "name": "Clémence Seilles",
+  "surname": "Seilles",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": " (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1984",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "33076",
+  "r01": "60793",
+  "r02": "105348",
+  "r03": "106867",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2010",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (6), Germany (4), Austria (1), United Kingdom (1)",
+  "2005-shows-with": "Clémence Seilles (10), Saâdane Afif (2), Stephan Balleux (2), Stefania Batoeva (2), Daniel Biesold (2), Steve Bishop (2), Olarn Chiaravanont (2), Emilie Ding (2), Jason Dodge (2), Charlotte Dualé (2), Evgeny Dybsky (2), Dennis Feddersen (2), Martin Flemming (2), Melissa Frost (2), Wolfgang Ganter (2), Isabelle Graeff (2), Uwe Henneken (2), Sophie Holstein (2), John Isaacs (2), Ilona Kálnoky (2), John Kleckner (2), Ludwig Kreutzer (2), Ingo Mittelstaedt (2), Alejandro Moncada (2), Jonathan Monk (2), Yudi Noor (2), Haralampi G. Oroschakoff (2), Katinka Pilscheur (2), Stefan Rinck (2), Sergio Roger (2), Arne Schreiber (2), Jeremy Shaw (2), Yukiko Terada (2), Hannah Weinberger (2)",
+  "representing-galleries": "TORRI (7, rue Saint-Claude, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Clémence",
+  "last_name": "Seilles",
+  "genre": "f",
+  "birthDate": "1984-01-01",
+  "age": 30,
+  "age_range": "26-35",
+  "expos": {
+    "2010": [
+      {
+        "i": "267656-21897-2010-06-21",
+        "c": "GB",
+        "n": "Art Below | Art Barter Collaboration | June / July 2010",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "ArtBelow",
+        "d": [
+          "2010-06-21",
+          "2010-07-10"
+        ]
+      },
+      {
+        "i": "267656-22496-2010-06-24",
+        "c": "DE",
+        "n": "Art Barter Berlin",
+        "st": "Group",
+        "t": "Temporary Exhibition Space",
+        "ct": "Berlin",
+        "o": "ArtBarter",
+        "d": [
+          "2010-06-24",
+          "2010-06-27"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "267656-8723-2011-10-01",
+        "c": "AT",
+        "n": "Totem and Taboo",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Quartier21",
+        "d": [
+          "2011-10-01",
+          "2011-10-20"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "267656-19666-2012-06-29",
+        "c": "DE",
+        "n": "Berlin-paris - Torri Chez/at Klemm’s",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Klemm's Berlin",
+        "d": [
+          "2012-06-29",
+          "2012-07-28"
+        ]
+      },
+      {
+        "i": "267656-8252-2012-07-06",
+        "c": "DE",
+        "n": "The Mind and the Mood",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Koal",
+        "d": [
+          "2012-07-06",
+          "2012-07-29"
+        ]
+      },
+      {
+        "i": "267656-8252-2012-09-10",
+        "c": "DE",
+        "n": "The Mind and the Mood II",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Koal",
+        "d": [
+          "2012-09-10",
+          "2012-09-30"
+        ]
+      }
+    ]
+  }
+}

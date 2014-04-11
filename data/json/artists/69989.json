@@ -1,0 +1,793 @@
+{
+  "id": "69989",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:32:18",
+  "name": "Agathe Snow",
+  "surname": "Snow",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Corsica (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1976",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": "Installation, Sculpture, Performance",
+  "r00": "2830",
+  "r01": "2679",
+  "r02": "2642",
+  "r03": "2965",
+  "r04": "2790",
+  "r05": "4785",
+  "r06": "8206",
+  "r07": "18517",
+  "r08": "29420",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "56",
+  "2005-shows-biennials": "28",
+  "2005-shows-galleries": "28",
+  "2005-shows-museums": "11",
+  "2005-countries-total": "USA (24), Germany (6), France (4), Italy (3), United Kingdom (3), Denmark (1), Portugal (1)",
+  "2005-shows-with": "Agathe Snow (30), Dash Snow (9), Dan Colen (8), Nate Lowman (6), Joe Bradley (5), Terence Koh (5), Gardar Eide Einarsson (4), Hanna Liden (4), Chris Martin (4), Adam McEwen (4), Aaron Young (4), Katherine Bernhardt (3), Carol Bove (3), Brian Degraw (3), Mark Flood (3), Rachel Harrison (3), Bruce LaBruce (3), Ryan McGinley (3), Amanda Ross-Ho (3), Aurel Schmidt (3), Josh Smith (3), Banks Violette (3), Rita Ackermann (2), assume vivid astro focus (2), Dan Attoe (2), Antonio Ballester Moreno (2), Brian Belott (2), Aaron Bondaroff (2), Tom Burr (2), Jedediah Caesar (2), Scott Campbell (2), Peter Coffin (2), Ann Craven (2), Rosson Crow (2), Amie Dicke (2), Kaye Donachie (2), Jim Drain (2), Brendan  Fowler (2), Ry Fyan (2), Gang Gang Dance (2), Nan Goldin (2), Rashawn Griffin (2), Mark Grotjahn (2), Drew Heitzler (2), Patrick Hill (2), Otis Houston Jr. (2), Karen Kilimnik (2), John Kleckner (2), Greg Lamarche (2), Paul Lee (2), Corey McCorkle (2), Barry McGee (2), Takeshi Murata (2), Mitzi Pederson (2), Raymond Pet",
+  "representing-galleries": "Galerie Hussenot (5 bis, rue des Haudriettes, 75003 Paris, France); OHWOW (937 N. La Cienega Boulevard, 90069 Los Angeles, CA, USA); James Fuentes LLC (55 Delancey Street (between Allen St. and Eldgridge St.), 10002 New York City, NY, USA)",
+  "collecting-museums": "The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London (England), United Kingdom)",
+  "first_name": "Agathe",
+  "last_name": "Snow",
+  "genre": "f",
+  "birthDate": "1976-01-01",
+  "age": 38,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "69989-1303-2005-06-10",
+        "c": "US",
+        "n": "Still Ill",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "Momenta Art",
+        "d": [
+          "2005-06-10",
+          "2005-07-04"
+        ]
+      },
+      {
+        "i": "69989-4434-2005-06-24",
+        "c": "US",
+        "n": "I Throw Herring to the Dog: Curated by Lillian Ludlow and Marcella Mullins",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Canada",
+        "d": [
+          "2005-06-24",
+          "2005-07-31"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "69989-2289-2006-01-21",
+        "c": "CH",
+        "n": "While Interwoven Echoes Drip into a Hybrid Body",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zurich",
+        "o": "Migros Museum für Gegenwartskunst",
+        "d": [
+          "2006-01-21",
+          "2006-03-26"
+        ]
+      },
+      {
+        "i": "69989-5903-2006-03-11",
+        "c": "US",
+        "n": "Survivor",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Bortolami",
+        "d": [
+          "2006-03-11",
+          "2006-04-01"
+        ]
+      },
+      {
+        "i": "69989-7472-2006-10-16",
+        "c": "IS",
+        "n": "Invasionistas - Sequences",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Reykjavik",
+        "o": "Kling & Bang Gallery",
+        "d": [
+          "2006-10-16",
+          "2006-11-05"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "69989-2394-2007-01-09",
+        "c": "US",
+        "n": "The Perfect Man Show",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "White Columns",
+        "d": [
+          "2007-01-09",
+          "2007-02-10"
+        ]
+      },
+      {
+        "i": "69989-2267-2007-04-27",
+        "c": "US",
+        "n": "Beneath the Underdog",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Gagosian Gallery ",
+        "d": [
+          "2007-04-27",
+          "2007-06-16"
+        ]
+      },
+      {
+        "i": "69989-5286-2007-05-11",
+        "c": "GB",
+        "n": "Overbite/Underbite",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Ritter/Zamet",
+        "d": [
+          "2007-05-11",
+          "2007-06-23"
+        ]
+      },
+      {
+        "i": "69989-1837-2007-06-02",
+        "c": "US",
+        "n": "Three for Society",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "303 Gallery",
+        "d": [
+          "2007-06-02",
+          "2007-07-27"
+        ]
+      },
+      {
+        "i": "69989-11761-2007-09-08",
+        "c": "DE",
+        "n": "Beyond the Zero",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Peres Projects - Berlin",
+        "d": [
+          "2007-09-08",
+          "2007-10-13"
+        ]
+      },
+      {
+        "i": "69989-7264-2007-10-27",
+        "c": "US",
+        "n": "Performa 07 - The Second Biennial of New Visual Art Performance",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "New York City, NY",
+        "o": "Performa",
+        "d": [
+          "2007-10-27",
+          "2007-11-20"
+        ]
+      },
+      {
+        "i": "69989-12649-2007-03-11",
+        "c": "US",
+        "n": "No Need To Worry, the Apocalypse has already Happened...",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "James Fuentes LLC",
+        "d": [
+          "2007-03-11",
+          "2007-04-21"
+        ]
+      },
+      {
+        "i": "69989-11761-2007-09-29",
+        "c": "DE",
+        "n": "I Don't Know But I've Been Told, Eskimo Pussy is Mighty Cold",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Peres Projects - Berlin",
+        "d": [
+          "2007-09-29",
+          "2007-11-10"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "69989-5297-2008-01-12",
+        "c": "US",
+        "n": "Accidental Modernism",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Leslie Tonkonow Artworks + Projects",
+        "d": [
+          "2008-01-12",
+          "2008-02-16"
+        ]
+      },
+      {
+        "i": "69989-7372-2008-01-13",
+        "c": "US",
+        "n": "In Practice",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "SculptureCenter",
+        "d": [
+          "2008-01-13",
+          "2008-03-30"
+        ]
+      },
+      {
+        "i": "69989-5722-2008-03-06",
+        "c": "US",
+        "n": "Whitney Biennial 2008",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "New York City, NY",
+        "o": "Whitney Biennial",
+        "d": [
+          "2008-03-06",
+          "2008-06-01"
+        ]
+      },
+      {
+        "i": "69989-1893-2008-04-03",
+        "c": "PT",
+        "n": "Murder Letters",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lisbon",
+        "o": "Galeria Filomena Soares",
+        "d": [
+          "2008-04-03",
+          "2008-05-10"
+        ]
+      },
+      {
+        "i": "69989-4612-2008-07-10",
+        "c": "US",
+        "n": "Pretty Ugly",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Gavin Brown's Enterprise",
+        "d": [
+          "2008-07-10",
+          "2008-08-29"
+        ]
+      },
+      {
+        "i": "69989-4916-2008-09-30",
+        "c": "IT",
+        "n": "Behind",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Rome",
+        "o": "Monitor",
+        "d": [
+          "2008-09-30",
+          "2008-10-30"
+        ]
+      },
+      {
+        "i": "69989-3554-2008-11-20",
+        "c": "US",
+        "n": "Sack of Bones (Los Angeles)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "Peres Projects - Los Angeles",
+        "d": [
+          "2008-11-20",
+          "2008-12-20"
+        ]
+      },
+      {
+        "i": "69989-27241-2008-11-22",
+        "c": "US",
+        "n": "Peanut Gallery",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "The Journal Gallery",
+        "d": [
+          "2008-11-22",
+          "2009-02-01"
+        ]
+      },
+      {
+        "i": "69989-3554-2008-04-05",
+        "c": "US",
+        "n": "Agathe Snow",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "Peres Projects - Los Angeles",
+        "d": [
+          "2008-04-05",
+          "2008-05-03"
+        ]
+      },
+      {
+        "i": "69989-12649-2008-09-09",
+        "c": "US",
+        "n": "Agathe Snow, Just Say Yes",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "James Fuentes LLC",
+        "d": [
+          "2008-09-09",
+          "2008-10-12"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "69989-27241-2008-11-22",
+        "c": "US",
+        "n": "Peanut Gallery",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "The Journal Gallery",
+        "d": [
+          "2008-11-22",
+          "2009-02-01"
+        ]
+      },
+      {
+        "i": "69989-6120-2009-02-27",
+        "c": "GB",
+        "n": "Invisible Adversaries",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Sunderland (England)",
+        "o": "Northern Gallery for Contemporary Art",
+        "d": [
+          "2009-02-27",
+          "2009-04-25"
+        ]
+      },
+      {
+        "i": "69989-6908-2009-05-01",
+        "c": "DK",
+        "n": "The New Yorkers",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Copenhagen",
+        "o": "V1 Gallery",
+        "d": [
+          "2009-05-01",
+          "2009-06-22"
+        ]
+      },
+      {
+        "i": "69989-2553-2009-05-29",
+        "c": "GB",
+        "n": "ABSTRACT AMERICA: NEW PAINTING AND SCULPTURE",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "The Saatchi Gallery",
+        "d": [
+          "2009-05-29",
+          "2010-01-17"
+        ]
+      },
+      {
+        "i": "69989-13682-2009-06-09",
+        "c": "DE",
+        "n": "NARCOTICA",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Galerie Im Regierungsviertel - Forgotten Bar",
+        "d": [
+          "2009-06-09",
+          "2009-06-14"
+        ]
+      },
+      {
+        "i": "69989-3554-2009-07-02",
+        "c": "US",
+        "n": "Minneapolis",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "Peres Projects - Los Angeles",
+        "d": [
+          "2009-07-02",
+          "2009-07-31"
+        ]
+      },
+      {
+        "i": "69989-4434-2009-09-11",
+        "c": "US",
+        "n": "Spaced Out / On Time",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Canada",
+        "d": [
+          "2009-09-11",
+          "2009-10-11"
+        ]
+      },
+      {
+        "i": "69989-12181-2009-09-21",
+        "c": "IT",
+        "n": "New York Minute: 60 Artisti della scena newyorchese",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rome",
+        "o": "MACRO Testaccio (MACRO Future)",
+        "d": [
+          "2009-09-21",
+          "2009-11-01"
+        ]
+      },
+      {
+        "i": "69989-2377-2009-10-18",
+        "c": "US",
+        "n": "Unnatural Rubber",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Pittsburg, PA",
+        "o": "The Andy Warhol Museum",
+        "d": [
+          "2009-10-18",
+          "2010-01-31"
+        ]
+      },
+      {
+        "i": "69989-11761-2009-11-14",
+        "c": "DE",
+        "n": "Lit",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Peres Projects - Berlin",
+        "d": [
+          "2009-11-14",
+          "2010-01-23"
+        ]
+      },
+      {
+        "i": "69989-8970-2009-11-20",
+        "c": "US",
+        "n": "Aberrant Abstraction • Keltie Ferris, Chris Martin, Cordy Ryman, Agathe Snow",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Overland Park, KS",
+        "o": "Nerman Museum of Contemporary Art",
+        "d": [
+          "2009-11-20",
+          "2010-01-31"
+        ]
+      },
+      {
+        "i": "69989-1203-2009-01-28",
+        "c": "US",
+        "n": "Agathe Snow, Master Bait Me",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "New Museum of Contemporary Art",
+        "d": [
+          "2009-01-28",
+          "2009-03-08"
+        ]
+      },
+      {
+        "i": "69989-6599-2009-08-14",
+        "c": "US",
+        "n": "Terristrial Forms",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "East Hampton, NY",
+        "o": "The Fireplace Project",
+        "d": [
+          "2009-08-14",
+          "2009-08-31"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "69989-2553-2009-05-29",
+        "c": "GB",
+        "n": "ABSTRACT AMERICA: NEW PAINTING AND SCULPTURE",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "The Saatchi Gallery",
+        "d": [
+          "2009-05-29",
+          "2010-01-17"
+        ]
+      },
+      {
+        "i": "69989-2377-2009-10-18",
+        "c": "US",
+        "n": "Unnatural Rubber",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Pittsburg, PA",
+        "o": "The Andy Warhol Museum",
+        "d": [
+          "2009-10-18",
+          "2010-01-31"
+        ]
+      },
+      {
+        "i": "69989-11761-2009-11-14",
+        "c": "DE",
+        "n": "Lit",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Peres Projects - Berlin",
+        "d": [
+          "2009-11-14",
+          "2010-01-23"
+        ]
+      },
+      {
+        "i": "69989-8970-2009-11-20",
+        "c": "US",
+        "n": "Aberrant Abstraction • Keltie Ferris, Chris Martin, Cordy Ryman, Agathe Snow",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Overland Park, KS",
+        "o": "Nerman Museum of Contemporary Art",
+        "d": [
+          "2009-11-20",
+          "2010-01-31"
+        ]
+      },
+      {
+        "i": "69989-10047-2010-02-27",
+        "c": "US",
+        "n": "Gentlemen.....Start Your Engines!",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Scarsdale, NY",
+        "o": "Madelyn Jordon Fine Art",
+        "d": [
+          "2010-02-27",
+          "2010-04-10"
+        ]
+      },
+      {
+        "i": "69989-11761-2010-04-17",
+        "c": "DE",
+        "n": "Get Behind Me Satan and Push",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Peres Projects - Berlin",
+        "d": [
+          "2010-04-17",
+          "2010-06-12"
+        ]
+      },
+      {
+        "i": "69989-21011-2010-06-14",
+        "c": "US",
+        "n": "Joy Ride 2010",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Anonymous Gallery",
+        "d": [
+          "2010-06-14",
+          "2010-07-01"
+        ]
+      },
+      {
+        "i": "69989-5286-2010-09-09",
+        "c": "GB",
+        "n": "The Coke Factory",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Ritter/Zamet",
+        "d": [
+          "2010-09-09",
+          "2010-10-23"
+        ]
+      },
+      {
+        "i": "69989-563-2010-10-29",
+        "c": "DE",
+        "n": "Agathe Snow",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Rüdiger Schöttle",
+        "d": [
+          "2010-10-29",
+          "2010-12-04"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "69989-8160-2011-04-10",
+        "c": "US",
+        "n": "NOT THE WAY YOU REMEMBERED",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New York City, NY",
+        "o": "Queens Museum of Art (QMA)",
+        "d": [
+          "2011-04-10",
+          "2011-08-14"
+        ]
+      },
+      {
+        "i": "69989-26428-2011-05-22",
+        "c": "IT",
+        "n": "My Beautiful Mongo",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bergamo",
+        "o": "Thomas Brambilla",
+        "d": [
+          "2011-05-22",
+          "2011-07-29"
+        ]
+      },
+      {
+        "i": "69989-29243-2011-06-30",
+        "c": "US",
+        "n": "Post 9-11",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "OHWOW",
+        "d": [
+          "2011-06-30",
+          "2011-08-27"
+        ]
+      },
+      {
+        "i": "69989-14327-2011-09-08",
+        "c": "US",
+        "n": "Hard Poems In Space At Nds",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Miami, FL",
+        "o": "Gallery Diet",
+        "d": [
+          "2011-09-08",
+          "2011-12-31"
+        ]
+      },
+      {
+        "i": "69989-1413-2011-01-28",
+        "c": "DE",
+        "n": "All Access World",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Deutsche Guggenheim",
+        "d": [
+          "2011-01-28",
+          "2011-03-30"
+        ]
+      },
+      {
+        "i": "69989-563-2011-04-01",
+        "c": "DE",
+        "n": "Agathe Snow - Men oh Men",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Rüdiger Schöttle",
+        "d": [
+          "2011-04-01",
+          "2011-05-14"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "69989-2394-2012-06-09",
+        "c": "US",
+        "n": "Do Your Thing",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "White Columns",
+        "d": [
+          "2012-06-09",
+          "2012-07-14"
+        ]
+      },
+      {
+        "i": "69989-21011-2012-11-17",
+        "c": "US",
+        "n": "Fresh Kills",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Anonymous Gallery",
+        "d": [
+          "2012-11-17",
+          "2012-01-15"
+        ]
+      },
+      {
+        "i": "69989-2516-2012-03-30",
+        "c": "US",
+        "n": "Agathe Snow",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Maccarone Gallery",
+        "d": [
+          "2012-03-30",
+          "2012-04-28"
+        ]
+      },
+      {
+        "i": "69989-29243-2012-11-10",
+        "c": "US",
+        "n": "Tout Dit (2D)",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "OHWOW",
+        "d": [
+          "2012-11-10",
+          "2012-12-08"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "69989-15912-2013-07-16",
+        "c": "US",
+        "n": "And those who were seen dancing were thought to be insane by those who could not hear the music",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Friedman Benda Gallery",
+        "d": [
+          "2013-07-16",
+          "2013-08-17"
+        ]
+      }
+    ]
+  }
+}

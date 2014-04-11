@@ -1,0 +1,28 @@
+{
+  "id": "4225",
+  "name": "Galerie Suty",
+  "street": "75 Grande Rue",
+  "zip": "60580",
+  "city": "Coye-la-Forêt",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 675608187",
+  "email": "mcsuty@galeriesuty.com",
+  "www": "www.galeriesuty.com",
+  "map": "http://maps.google.com/maps?q=Coye-la-Forêt%2C%2060580 %2C%2075 %2C%20Grande Rue %2C%20France",
+  "fairs-total": "8",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "7",
+  "fairs": {
+    "2005": [
+      {
+        "i": "4225-art.fair 2005",
+        "c": "DE",
+        "n": "Galerie Suty",
+        "ct": "Cologne"
+      }
+    ]
+  }
+}

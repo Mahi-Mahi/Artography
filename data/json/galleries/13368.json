@@ -1,0 +1,28 @@
+{
+  "id": "13368",
+  "name": "Galerie Norbert Pastor",
+  "street": "6 rue Valperga",
+  "zip": "06000",
+  "city": "Nice",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33(0)4 93 80 83 52",
+  "email": "galerie-norbertpastor@wanadoo.com",
+  "www": "www.galerie-norbertpastor.com",
+  "map": "http://maps.google.com/maps?q=Nice%2C%2006000 %2C%20 %2C%206 rue Valperga %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2008": [
+      {
+        "i": "13368-So Feucking French (SoFF) 08",
+        "c": "GB",
+        "n": "Galerie Norbert Pastor",
+        "ct": "London (England)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "id": "16112",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:09:43",
+  "name": "Fabien Verschaere",
+  "surname": "Verschaere",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Vincenne (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1975",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting, Drawings",
+  "r00": "2399",
+  "r01": "2296",
+  "r02": "2233",
+  "r03": "2007",
+  "r04": "1886",
+  "r05": "1866",
+  "r06": "1741",
+  "r07": "2264",
+  "r08": "2119",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "78",
+  "2005-shows-biennials": "20",
+  "2005-shows-galleries": "20",
+  "2005-shows-museums": "15",
+  "2005-countries-total": "France (22), Germany (4), Italy (3), Romania (2), USA (2), Austria (1), Cameroon (1), Croatia (1), Luxembourg (1), Switzerland (1), Turkey (1)",
+  "2005-shows-with": "Fabien Verschaere (33), Virginie Barré (5), Lee Bae (5), Damien Deroubaix (4), Pascal Dombis (4), Benoit Lemercier (4), Anna Malagrida (4), Bruno Peinado (4), Eric Rondepierre (4), Georges Rousse (4), Cédric Teisseire (4), Ryuta Amae (3), Gilles Barbier (3), Laetitia Benat (3), Chow Chun-Fai (3), Robert Combas (3), Wim Delvoye (3), Du Zhenjun (3), Fabian Hesse (3), Fabrice Hybert (3), Bertrand Lavier (3), Isabelle Levenez (3), Philippe Mayaux (3), Philippe Pasqua (3), Raymond Pettibon (3), Guillaume Pinard (3), Hervé di Rosa (3), Raphaël Siboni (3), Denis Stepanovic (3), Wang Du (3), Boris Achour (2), Michaël Aerts (2), Sonia Almeida (2), Alice Anderson (2), Vasco Aráujo (2), Athanasios Argianas (2), Micol Assaël (2), Bae Bien-U (2), Mrdjan Bajic (2), Rina Banerjee (2), Pedro Barateiro (2), Matteo Bergamasco (2), David Bestué (2), Gerson Bettencourt Ferreira (2), Michael Beutler (2), Enki Bilal (2), Primoz Bizjak (2), John Bjerklie (2), Dominique Blais (2), Ulla von Brandenburg (2), Olaf Breuning (2),",
+  "representing-galleries": "Art Statements Gallery (Gee Chang Hong Centre, Factory D, 8/F 65 Wong Chuk Hang Road,  Hong Kong, SAR, China); Galleria Galica (Viale Bligny 41, 20136 Milan, Italy); Art Statements - Tokyo (7F Toranomon 40MT Bldg. 5-13-1 Toranomon, 150-0022 Minato-ku Tokyo, Japan); Grace Li Gallery (Claridenstrasse 35, 8002 Zurich, Switzerland); Bui Gallery - Hanoi (23 Ngo Van So Street, Hoan Kiem District Hanoi, Vietnam)",
+  "collecting-museums": "Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France)",
+  "first_name": "Fabien",
+  "last_name": "Verschaere",
+  "genre": "m",
+  "birthDate": "1975-01-01",
+  "age": 39,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "16112-6061-2005-05-26",
+        "c": "CZ",
+        "n": "Prague Biennale 2",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Prague",
+        "o": "Prague Biennale",
+        "d": [
+          "2005-05-26",
+          "2005-09-15"
+        ]
+      },
+      {
+        "i": "16112-2929-2005-06-10",
+        "c": "CN",
+        "n": "Unique but not the only: Contemporary French Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Guangzhou, Guangdong",
+        "o": "The Guangdong Museum of Art",
+        "d": [
+          "2005-06-10",
+          "2005-07-24"
+        ]
+      },
+      {
+        "i": "16112-7269-2005-07-21",
+        "c": "CN",
+        "n": "Fabien Verschaere",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Art Statements Gallery",
+        "d": [
+          "2005-07-21",
+          "2005-08-31"
+        ]
+      },
+      {
+        "i": "16112-4331-2005-12-09",
+        "c": "DE",
+        "n": "Fabien Verschaere - Show Me What You Don't Want",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2005-12-09",
+          "2006-01-21"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "16112-4331-2007-03-29",
+        "c": "DE",
+        "n": "\"Reflections\"",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2007-03-29",
+          "2007-04-28"
+        ]
+      },
+      {
+        "i": "16112-12042-2007-07-27",
+        "c": "ES",
+        "n": "It's Simply Beautiful",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2007-07-27",
+          "2007-10-08"
+        ]
+      },
+      {
+        "i": "16112-1875-2007-09-08",
+        "c": "US",
+        "n": "The Art Parade",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Deitch Projects - 76 Grand Street",
+        "d": [
+          "2007-09-08",
+          "2007-09-08"
+        ]
+      },
+      {
+        "i": "16112-15550-2007-10-12",
+        "c": "BE",
+        "n": "Agorafolly",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "Europalia",
+        "d": [
+          "2007-10-12",
+          "2007-12-12"
+        ]
+      },
+      {
+        "i": "16112-27771-2007-10-13",
+        "c": "BE",
+        "n": "Agorafolly",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "CENTRALE for contemporary art",
+        "d": [
+          "2007-10-13",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "16112-8257-2007-11-14",
+        "c": "AT",
+        "n": "Suite Française",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Krinzinger Projekte",
+        "d": [
+          "2007-11-14",
+          "2008-02-29"
+        ]
+      },
+      {
+        "i": "16112-7066-2007-12-04",
+        "c": "US",
+        "n": "French Kissing in the U.S.A.",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Miami, FL",
+        "o": "The Moore Space",
+        "d": [
+          "2007-12-04",
+          "2008-03-08"
+        ]
+      },
+      {
+        "i": "16112-2410-2007-05-16",
+        "c": "GB",
+        "n": "Fabien Verschaere",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Gateshead (England)",
+        "o": "BALTIC Centre for Contemporary Art",
+        "d": [
+          "2007-05-16",
+          "2007-08-19"
+        ]
+      },
+      {
+        "i": "16112-7269-2007-06-07",
+        "c": "CN",
+        "n": "Fabien Verschaere - Hong Kong after Midnight",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Art Statements Gallery",
+        "d": [
+          "2007-06-07",
+          "2007-07-14"
+        ]
+      },
+      {
+        "i": "16112-26279-2007-06-08",
+        "c": "JP",
+        "n": "Fabien Verschaere",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Minato-ku Tokyo",
+        "o": "Art Statements - Tokyo",
+        "d": [
+          "2007-06-08",
+          "2007-07-14"
+        ]
+      },
+      {
+        "i": "16112-2102-2007-09-07",
+        "c": "US",
+        "n": "Fabien Verschaere",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Parker´s Box",
+        "d": [
+          "2007-09-07",
+          "2007-10-08"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "16112-27771-2007-10-13",
+        "c": "BE",
+        "n": "Agorafolly",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "CENTRALE for contemporary art",
+        "d": [
+          "2007-10-13",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "16112-8257-2007-11-14",
+        "c": "AT",
+        "n": "Suite Française",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Krinzinger Projekte",
+        "d": [
+          "2007-11-14",
+          "2008-02-29"
+        ]
+      },
+      {
+        "i": "16112-7066-2007-12-04",
+        "c": "US",
+        "n": "French Kissing in the U.S.A.",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Miami, FL",
+        "o": "The Moore Space",
+        "d": [
+          "2007-12-04",
+          "2008-03-08"
+        ]
+      },
+      {
+        "i": "16112-3104-2008-01-15",
+        "c": "RO",
+        "n": "Animations / Fiction - Works from the FNAC Collections",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2008-01-15",
+          "2008-08-01"
+        ]
+      },
+      {
+        "i": "16112-2102-2008-05-09",
+        "c": "US",
+        "n": "From Brooklyn with Love",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Parker´s Box",
+        "d": [
+          "2008-05-09",
+          "2008-06-30"
+        ]
+      },
+      {
+        "i": "16112-3540-2008-06-07",
+        "c": "LU",
+        "n": "La main numérique",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Luxembourg",
+        "o": "Nosbaum&Reding",
+        "d": [
+          "2008-06-07",
+          "2008-06-19"
+        ]
+      },
+      {
+        "i": "16112-4331-2008-08-13",
+        "c": "DE",
+        "n": "DRAWN TOGETHER - Gruppenausstellung",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2008-08-13",
+          "2008-09-20"
+        ]
+      },
+      {
+        "i": "16112-4331-2008-09-26",
+        "c": "DE",
+        "n": "Reflections Teil 2 - Gruppenausstellung",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2008-09-26",
+          "2008-11-08"
+        ]
+      },
+      {
+        "i": "16112-3104-2008-12-17",
+        "c": "RO",
+        "n": "Fabien Verschaere - Xmas Party",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2008-12-17",
+          "2009-02-28"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "16112-4664-2009-12-11",
+        "c": "IT",
+        "n": "Disegni Europei",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Rome",
+        "o": "Galleria Oredaria Arti Contemporanee",
+        "d": [
+          "2009-12-11",
+          "2010-02-16"
+        ]
+      },
+      {
+        "i": "16112-3104-2008-12-17",
+        "c": "RO",
+        "n": "Fabien Verschaere - Xmas Party",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2008-12-17",
+          "2009-02-28"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "16112-4664-2009-12-11",
+        "c": "IT",
+        "n": "Disegni Europei",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Rome",
+        "o": "Galleria Oredaria Arti Contemporanee",
+        "d": [
+          "2009-12-11",
+          "2010-02-16"
+        ]
+      },
+      {
+        "i": "16112-11728-2010-02-19",
+        "c": "IT",
+        "n": "Arrivals and Departures",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Ancona",
+        "o": "Fondo Mole Vanvitelliana",
+        "d": [
+          "2010-02-19",
+          "2010-05-09"
+        ]
+      },
+      {
+        "i": "16112-271-2010-04-15",
+        "c": "AT",
+        "n": "AKTUALITÄT EINES MEDIUMS. NADER AHRIMAN BIS CHEN ZHEN",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Galerie Krinzinger",
+        "d": [
+          "2010-04-15",
+          "2010-04-17"
+        ]
+      },
+      {
+        "i": "16112-13486-2010-04-16",
+        "c": "CM",
+        "n": "Figures de rêve",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Douala",
+        "o": "Espace doual´art",
+        "d": [
+          "2010-04-16",
+          "2010-05-31"
+        ]
+      },
+      {
+        "i": "16112-2102-2010-05-14",
+        "c": "US",
+        "n": "Ten Years Hunting - [Part Two]",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Parker´s Box",
+        "d": [
+          "2010-05-14",
+          "2010-05-23"
+        ]
+      },
+      {
+        "i": "16112-23194-2010-09-27",
+        "c": "TR",
+        "n": "Port Izmir 2 - Silence_Storm",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Izmir",
+        "o": "Port Izmir",
+        "d": [
+          "2010-09-27",
+          "2010-11-30"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "16112-4331-2011-12-14",
+        "c": "DE",
+        "n": "Accorachage",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2011-12-14",
+          "2011-12-17"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "16112-11728-2012-02-19",
+        "c": "IT",
+        "n": "Arrivi e Partenze Europa",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Ancona",
+        "o": "Fondo Mole Vanvitelliana",
+        "d": [
+          "2012-02-19",
+          "2012-05-09"
+        ]
+      },
+      {
+        "i": "16112-4219-2012-11-09",
+        "c": "CH",
+        "n": "Post Tenebras Lux - Eine Uebersichtsausstellung",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie Nicola von Senger",
+        "d": [
+          "2012-11-09",
+          "2012-12-22"
+        ]
+      },
+      {
+        "i": "16112-4331-2012-01-13",
+        "c": "DE",
+        "n": "Fabien Verschaere - Aktion",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2012-01-13",
+          "2012-02-25"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "16112-5313-2013-01-25",
+        "c": "HR",
+        "n": "18th International Exhibition of Drawings",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rijeka",
+        "o": "MMSU - Museum of Modern and Contemporary Art Rijeka",
+        "d": [
+          "2013-01-25",
+          "2013-03-16"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "16112-4331-2005-12-09",
+        "c": "DE",
+        "n": "Fabien Verschaere - Show Me What You Don't Want",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2005-12-09",
+          "2006-01-21"
+        ]
+      },
+      {
+        "i": "16112-4899-2006-09-22",
+        "c": "IT",
+        "n": "copycat",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Milan",
+        "o": "Galleria Galica",
+        "d": [
+          "2006-09-22",
+          "2006-11-18"
+        ]
+      }
+    ]
+  }
+}

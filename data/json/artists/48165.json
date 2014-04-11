@@ -1,0 +1,178 @@
+{
+  "id": "48165",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:23:26",
+  "name": "Ariane Michel",
+  "surname": "Michel",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1973",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": "Film",
+  "r00": "7073",
+  "r01": "6456",
+  "r02": "9811",
+  "r03": "10718",
+  "r04": "16524",
+  "r05": "14238",
+  "r06": "12613",
+  "r07": "14401",
+  "r08": "11595",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "23",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "10",
+  "2005-countries-total": "France (9), Canada (1), China (1), Germany (1), Portugal (1), USA (1)",
+  "2005-shows-with": "Ariane Michel (12), Karen Knorr (3), Kader Attia (2), Céleste Boursier-Mougenot (2), Marcelline Delbecq (2), Mark Dion (2), André Guedes (2), Camille Henrot (2), Louise Hervé & Chloé Maillet (2), Hsia-Fei Chang (2), Seulgi Lee (2), Jochen Lempert (2), Mrzyk & Moriceau (2), Jorge Pedro Núñez (2), Jean-Michel Pancin (2), Gerald Petit (2)",
+  "representing-galleries": "Jousse Entreprise (6 Rue Saint-Claude, 75003 Paris, France)",
+  "collecting-museums": "Espace Croisé (Grand Place, 59059 Roubaix, France)",
+  "first_name": "Ariane",
+  "last_name": "Michel",
+  "genre": "f",
+  "birthDate": "1973-01-01",
+  "age": 41,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "48165-6770-2005-10-06",
+        "c": "CH",
+        "n": "11ème Biennale de l’Image en Mouvement",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Geneva",
+        "o": "Biennale de l'Image en Mouvement",
+        "d": [
+          "2005-10-06",
+          "2006-01-15"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "48165-6770-2005-10-06",
+        "c": "CH",
+        "n": "11ème Biennale de l’Image en Mouvement",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Geneva",
+        "o": "Biennale de l'Image en Mouvement",
+        "d": [
+          "2005-10-06",
+          "2006-01-15"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "48165-16103-2007-02-03",
+        "c": "GB",
+        "n": "Tom Ackers / Ariane Michel / Rastko Novakovic",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Whitechapel Project Space",
+        "d": [
+          "2007-02-03",
+          "2007-02-04"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "48165-12233-2008-09-07",
+        "c": "DE",
+        "n": "observing beast, time, evolution",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Hildesheim",
+        "o": "Kunstverein Hildesheim e.V",
+        "d": [
+          "2008-09-07",
+          "2008-11-02"
+        ]
+      },
+      {
+        "i": "48165-13268-2008-12-14",
+        "c": "PT",
+        "n": "No Cinema",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vila do Conde",
+        "o": "Solar - Galeria de Arte Cinemática",
+        "d": [
+          "2008-12-14",
+          "2009-09-21"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "48165-13268-2008-12-14",
+        "c": "PT",
+        "n": "No Cinema",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vila do Conde",
+        "o": "Solar - Galeria de Arte Cinemática",
+        "d": [
+          "2008-12-14",
+          "2009-09-21"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "48165-16253-2010-08-27",
+        "c": "US",
+        "n": "Human Nature",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Saratoga, CA",
+        "o": "Montalvo Arts Center",
+        "d": [
+          "2010-08-27",
+          "2010-10-17"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "48165-7950-2011-03-05",
+        "c": "CA",
+        "n": "The Birds and the Bees",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Oakville, ON",
+        "o": "Oakville Galleries",
+        "d": [
+          "2011-03-05",
+          "2011-06-05"
+        ]
+      },
+      {
+        "i": "48165-22923-2011-05-15",
+        "c": "CN",
+        "n": "Entre-Temps&#65293; The Artist as a Narrator",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Shanghai",
+        "o": "Minsheng Art Museum",
+        "d": [
+          "2011-05-15",
+          "2011-06-26"
+        ]
+      }
+    ]
+  }
+}

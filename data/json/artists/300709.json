@@ -1,0 +1,105 @@
+{
+  "id": "300709",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 08:02:54",
+  "name": "Dorothée Smith",
+  "surname": "Smith",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1985",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": "Video",
+  "r00": "19226",
+  "r01": "20091",
+  "r02": "37633",
+  "r03": null,
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2011",
+  "all-shows-total": "8",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (4), Belgium (1), Luxembourg (1), Portugal (1), Spain (1)",
+  "2005-shows-with": "Dorothée Smith (5), Théodora Barat (2), Véronique Beland (2), Pierre-Yves Boisrame (2), Vincent Ciciliato (2), Maya Da-Rin (2), Ryoichi Kurokawa (2), Joachim Olender (2), Zahra Poonawala (2), David Rokeby (2)",
+  "representing-galleries": "Galerie les filles du calvaire - Paris (17, rue des Filles-du-calvaire, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Dorothée",
+  "last_name": "Smith",
+  "genre": "f",
+  "birthDate": "1985-01-01",
+  "age": 29,
+  "age_range": "26-35",
+  "expos": {
+    "2011": [
+      {
+        "i": "300709-3737-2011-05-15",
+        "c": "LU",
+        "n": "Second Lives : Jeux masqués et autres Je",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2011-05-15",
+          "2011-09-11"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "300709-12042-2013-03-15",
+        "c": "ES",
+        "n": "Elastic Reality",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2013-03-15",
+          "2013-09-08"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "300709-2328-2012-01-27",
+        "c": "BE",
+        "n": "Hear us marching up slowly",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Les filles du calvaire - Bruxelles",
+        "d": [
+          "2012-01-27",
+          "2012-02-25"
+        ]
+      },
+      {
+        "i": "300709-18821-2012-09-14",
+        "c": "PT",
+        "n": "Encontros Da Imagem",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Braga",
+        "o": "Museu Nogueira da Silva",
+        "d": [
+          "2012-09-14",
+          "2012-10-28"
+        ]
+      }
+    ]
+  }
+}

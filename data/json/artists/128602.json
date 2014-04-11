@@ -1,0 +1,105 @@
+{
+  "id": "128602",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:55:44",
+  "name": "Jacques Pugin",
+  "surname": "Pugin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Bulle (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1954",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography",
+  "r00": "31535",
+  "r01": "29145",
+  "r02": "26054",
+  "r03": "23393",
+  "r04": "26378",
+  "r05": "53473",
+  "r06": "46477",
+  "r07": "39484",
+  "r08": "38464",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1987",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "Switzerland (3)",
+  "2005-shows-with": null,
+  "representing-galleries": "Galerie Emotion (93, rue Vieille du Temple, 75003 Paris, France); Krisal Galerie (25 rue de Pont-Neuf, 1227 Geneva, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Jacques",
+  "last_name": "Pugin",
+  "genre": "m",
+  "birthDate": "1954-01-01",
+  "age": 60,
+  "age_range": "46-55",
+  "expos": {
+    "2010": [
+      {
+        "i": "128602-9073-2010-03-06",
+        "c": "CH",
+        "n": "La collection s\\'expose - Polaroïd en péril !",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lausanne",
+        "o": "Musée de l´Elysée",
+        "d": [
+          "2010-03-06",
+          "2010-06-06"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "128602-11355-2006-03-11",
+        "c": "CH",
+        "n": "Jacques Pugin",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Krisal Galerie",
+        "d": [
+          "2006-03-11",
+          "2006-04-04"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "128602-9073-2009-05-02",
+        "c": "CH",
+        "n": "Jacques Pugin - D\\'ombre et de lumière",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Lausanne",
+        "o": "Musée de l´Elysée",
+        "d": [
+          "2009-05-02",
+          "2009-06-14"
+        ]
+      },
+      {
+        "i": "128602-11355-2009-11-12",
+        "c": "CH",
+        "n": "Jacques Pugin",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Krisal Galerie",
+        "d": [
+          "2009-11-12",
+          "2009-12-24"
+        ]
+      }
+    ]
+  }
+}

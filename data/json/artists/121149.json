@@ -1,0 +1,77 @@
+{
+  "id": "121149",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:52:53",
+  "name": "Claude Briand-Picard",
+  "surname": "Briand-Picard",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Saint-Armel (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1946",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "29818",
+  "r01": "33059",
+  "r02": "30555",
+  "r03": "27109",
+  "r04": "23621",
+  "r05": "20565",
+  "r06": "24996",
+  "r07": "23319",
+  "r08": "18789",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1999",
+  "all-shows-total": "18",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (11), Poland (1)",
+  "2005-shows-with": "Claude Briand-Picard (9), Antoine Perrot (5), Erwan Ballan (4), Dominique De Beir (3), Maelle Labussière (3), Olivier Michel (3), Patrice Pantin (3), John M Armleder (2), Elodie Böutry (2), Stephen Dean (2), Philippe Desloubières (2), Marine Joatton (2), Catherine Larre (2), Bernard Peschet (2), Philippe Richard (2)",
+  "representing-galleries": "Galerie Réjane Louin (19, rue de l\\'église, 29241 Locquirec, France)",
+  "collecting-museums": null,
+  "first_name": "Claude",
+  "last_name": "Briand-Picard",
+  "genre": "m",
+  "birthDate": "1946-01-01",
+  "age": 68,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "121149-9455-2007-03-26",
+        "c": "BE",
+        "n": "Toutes Les Couleurs Sont Autorisées À Condition Que Cela N'empêche Pas Le Commer",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "Atelier 340 Muzeum",
+        "d": [
+          "2007-03-26",
+          "2007-05-27"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "121149-13075-2008-08-07",
+        "c": "PL",
+        "n": "All colours permitted as long as they don\\'t interfere with business",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Katowice",
+        "o": "BWA Contemporary Art Gallery in Katowice",
+        "d": [
+          "2008-08-07",
+          "2008-10-12"
+        ]
+      }
+    ]
+  }
+}

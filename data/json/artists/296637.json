@@ -1,0 +1,77 @@
+{
+  "id": "296637",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 08:01:17",
+  "name": "Edgar Morin",
+  "surname": "Morin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1921",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "30687",
+  "r01": "28832",
+  "r02": "26197",
+  "r03": "67655",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2010",
+  "all-shows-total": "2",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (1), Switzerland (1)",
+  "2005-shows-with": "Ayreen Anastas (2), François Bucher (2), Rene Gabri (2), Edgar Morin (2), The Otolith Group (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Edgar",
+  "last_name": "Morin",
+  "genre": "m",
+  "birthDate": "1921-01-01",
+  "age": 93,
+  "age_range": "46-55",
+  "expos": {
+    "2010": [
+      {
+        "i": "296637-2290-2010-10-09",
+        "c": "CH",
+        "n": "Atlas. Truths, intervals, details and the afterlives of the image",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Centre d´Art Contemporain Geneve",
+        "d": [
+          "2010-10-09",
+          "2011-02-13"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "296637-2290-2010-10-09",
+        "c": "CH",
+        "n": "Atlas. Truths, intervals, details and the afterlives of the image",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Centre d´Art Contemporain Geneve",
+        "d": [
+          "2010-10-09",
+          "2011-02-13"
+        ]
+      }
+    ]
+  }
+}

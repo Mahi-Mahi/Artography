@@ -1,0 +1,118 @@
+{
+  "id": "380000",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 08:32:59",
+  "name": "Berger & Berger",
+  "surname": "Berger & Berger",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Laurent P.Berger * 1972 & Cyrille Berger *1975",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1972",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Artist group",
+  "media": null,
+  "r00": "16741",
+  "r01": "15545",
+  "r02": "16450",
+  "r03": "14943",
+  "r04": "16494",
+  "r05": "15666",
+  "r06": "13302",
+  "r07": "10852",
+  "r08": "46399",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (4), Germany (1), Morocco (1)",
+  "2005-shows-with": "Berger & Berger (4)",
+  "representing-galleries": "Rosascape (99 rue du Faubourg du Temple, 75010 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Berger",
+  "last_name": "&",
+  "genre": "c",
+  "birthDate": "1972-01-01",
+  "age": 42,
+  "age_range": "36-45",
+  "expos": {
+    "2006": [
+      {
+        "i": "380000-5722-2006-03-02",
+        "c": "US",
+        "n": "Whitney Biennial 2006 - Day for Night",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "New York City, NY",
+        "o": "Whitney Biennial",
+        "d": [
+          "2006-03-02",
+          "2006-05-28"
+        ]
+      },
+      {
+        "i": "380000-5862-2006-08-04",
+        "c": "MX",
+        "n": "Distor",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mexico City",
+        "o": "Museo de Arte Carrillo Gil",
+        "d": [
+          "2006-08-04",
+          "2006-10-08"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "380000-22481-2009-11-19",
+        "c": "MA",
+        "n": "3rd AiM International Biennale",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Marrakech",
+        "o": "Marrakech Biennale",
+        "d": [
+          "2009-11-19",
+          "2010-01-20"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "380000-22481-2009-11-19",
+        "c": "MA",
+        "n": "3rd AiM International Biennale",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Marrakech",
+        "o": "Marrakech Biennale",
+        "d": [
+          "2009-11-19",
+          "2010-01-20"
+        ]
+      },
+      {
+        "i": "380000-11590-2010-06-12",
+        "c": "DE",
+        "n": "11. Triennale Kleinplastik - Larger Than Life - Stranger Than Fiction",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Fellbach",
+        "o": "Triennale Kleinplastik Fellbach",
+        "d": [
+          "2010-06-12",
+          "2010-10-11"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "id": "90983",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:41:09",
+  "name": "Sammy Engramer",
+  "surname": "Engramer",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Blois, Loir-et-Cher (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1968",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "9696",
+  "r01": "9254",
+  "r02": "8368",
+  "r03": "8707",
+  "r04": "9605",
+  "r05": "9303",
+  "r06": "9976",
+  "r07": "11393",
+  "r08": "22274",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "36",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "12",
+  "2005-countries-total": "France (19), Germany (5)",
+  "2005-shows-with": "Sammy Engramer (16), Ryuta Amae (3), Matze Görig (3), Fabian Hesse (3), Julien Prévieux (3), Denis Stepanovic (3), Saâdane Afif (2), Jérôme Allavena (2), Dove Allouche (2), Vincent Beaurin (2), Davide Bertocchi (2), Katinka Bock (2), Edouard Boyer (2), Matti Braun (2), Stéphane Calais (2), Mircea Cantor (2), Chow Chun-Fai (2), Claude Closky (2), Isabelle Cornaro (2), Pierre Coulibeuf (2), Isa Genzken (2), Geert Goiris (2), Mona Hatoum (2), Alexander Hick (2), Alain Huck (2), Pierre Huyghe (2), Cyrill Lachauer (2), Guillaume Leblon (2), Yuri Leiderman (2), Didier Marcel (2), Enzo Mari (2), Isa Melsheimer (2), Mathieu Mercier (2), Robert Morris (2), Mrzyk & Moriceau (2), Gabriel Orozco (2), Gyan Panchal (2), Éric Poitevin (2), Jérôme Poret (2), Didier Rittener (2), Bernhard Rüdiger (2), Bojan Sarcevic (2), Mathias Schweizer (2), Alain Séchas (2), Allan Sekula (2), Kiki Smith (2), Robert Stadler (2), Nathalie Talec (2), Julien Tiberi (2), Tatiana Trouvé (2), Ben Vautier (2), Fabien Verschaere (2), Je",
+  "representing-galleries": "Galerie Claudine Papillon (13, rue Chapon, 75003 Paris, France)",
+  "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France)",
+  "first_name": "Sammy",
+  "last_name": "Engramer",
+  "genre": "m",
+  "birthDate": "1968-01-01",
+  "age": 46,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "90983-2546-2006-09-23",
+        "c": "DE",
+        "n": "Peintures / Painting",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Martin-Gropius-Bau",
+        "d": [
+          "2006-09-23",
+          "2006-11-12"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "90983-4331-2008-08-13",
+        "c": "DE",
+        "n": "DRAWN TOGETHER - Gruppenausstellung",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2008-08-13",
+          "2008-09-20"
+        ]
+      },
+      {
+        "i": "90983-4331-2008-02-15",
+        "c": "DE",
+        "n": "Sammy Engramer - Space Limit",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2008-02-15",
+          "2008-03-29"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "90983-4331-2009-09-12",
+        "c": "DE",
+        "n": "zeichen – setzen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2009-09-12",
+          "2009-10-31"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "90983-4331-2011-12-14",
+        "c": "DE",
+        "n": "Accorachage",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2011-12-14",
+          "2011-12-17"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "90983-4331-2010-03-05",
+        "c": "DE",
+        "n": "Sammy Engramer - Body-Mind",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2010-03-05",
+          "2010-04-17"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "113231",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:49:48",
+  "name": "Nicolás Goldberg",
+  "surname": "Goldberg",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1978",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "55670",
+  "r01": "52269",
+  "r02": "47676",
+  "r03": "59629",
+  "r04": "53379",
+  "r05": "47383",
+  "r06": "41068",
+  "r07": "35149",
+  "r08": "29237",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "2",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "USA (1)",
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Nicolás",
+  "last_name": "Goldberg",
+  "genre": "m",
+  "birthDate": "1978-01-01",
+  "age": 36,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "113231-2201-2005-12-15",
+        "c": "AR",
+        "n": "Celebridades",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Buenos Aires",
+        "o": "Museo Nacional de Bellas Artes - MNBA",
+        "d": [
+          "2005-12-15",
+          "2006-03-12"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "113231-2201-2005-12-15",
+        "c": "AR",
+        "n": "Celebridades",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Buenos Aires",
+        "o": "Museo Nacional de Bellas Artes - MNBA",
+        "d": [
+          "2005-12-15",
+          "2006-03-12"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "113231-6138-2011-06-18",
+        "c": "US",
+        "n": "A View of Caring: Johnson & Johnson / International Center of Photography Fellowship Program",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "New Brunswick, NJ",
+        "o": "Jane Voorhees Zimmerli Art Museum",
+        "d": [
+          "2011-06-18",
+          "2011-07-31"
+        ]
+      }
+    ]
+  }
+}

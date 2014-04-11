@@ -1,0 +1,75 @@
+{
+  "id": "124809",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:54:14",
+  "name": "Geneviève Gauckler",
+  "surname": "Gauckler",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Lyon (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1967",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "70440",
+  "r01": "67338",
+  "r02": "62209",
+  "r03": "57168",
+  "r04": "51293",
+  "r05": "45877",
+  "r06": "39819",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "4",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": null,
+  "2005-shows-with": null,
+  "representing-galleries": "Galerie Sara Guedj (11, rue Louise Weiss, 75013 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Geneviève",
+  "last_name": "Gauckler",
+  "genre": "f",
+  "birthDate": "1967-01-01",
+  "age": 47,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "124809-7899-2007-04-19",
+        "c": "IT",
+        "n": "I love Tourism",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Venice",
+        "o": "Fondazione Bevilacqua La Masa",
+        "d": [
+          "2007-04-19",
+          "2007-05-21"
+        ]
+      },
+      {
+        "i": "124809-6827-2007-10-02",
+        "c": "GB",
+        "n": "50 Years of Helvetica",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Design Museum",
+        "d": [
+          "2007-10-02",
+          "2007-10-17"
+        ]
+      }
+    ]
+  }
+}

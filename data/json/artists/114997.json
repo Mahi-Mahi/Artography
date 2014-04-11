@@ -1,0 +1,105 @@
+{
+  "id": "114997",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:50:27",
+  "name": "Stéphane Pichard",
+  "surname": "Pichard",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Nanterre (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1968",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "13270",
+  "r01": "12452",
+  "r02": "18503",
+  "r03": "28903",
+  "r04": "27271",
+  "r05": "24716",
+  "r06": "56443",
+  "r07": "56508",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "13",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (8), Germany (1), Switzerland (1), Taiwan (1)",
+  "2005-shows-with": "Stéphane Pichard (10), Emmanuelle Castellan (3), Erik Göngrich (2), Sylvia Henrich (2), Olivier Leroi (2)",
+  "representing-galleries": "Galerie Martine et Thibault de La Châtre (4 rue Saintonge, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Stéphane",
+  "last_name": "Pichard",
+  "genre": "m",
+  "birthDate": "1968-01-01",
+  "age": 46,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "114997-7067-2006-09-20",
+        "c": "CA",
+        "n": "7e manifestation internationale vidéo et art électronique, Montréal",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Montreal, QC",
+        "o": "champ libre",
+        "d": [
+          "2006-09-20",
+          "2006-10-01"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "114997-16683-2010-02-03",
+        "c": "CH",
+        "n": "Exposition Aléatoire XI",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Galerie Papiers Gras",
+        "d": [
+          "2010-02-03",
+          "2010-03-06"
+        ]
+      },
+      {
+        "i": "114997-21590-2010-08-20",
+        "c": "TW",
+        "n": "D-tone/Di-stances",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Taipei",
+        "o": "Kuandu Museum of Fine Arts",
+        "d": [
+          "2010-08-20",
+          "2010-09-26"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "114997-8441-2011-02-25",
+        "c": "DE",
+        "n": "Ecotone",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Galerie Nord | Kunstverein Tiergarten",
+        "d": [
+          "2011-02-25",
+          "2011-04-02"
+        ]
+      }
+    ]
+  }
+}

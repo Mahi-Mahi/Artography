@@ -1,0 +1,77 @@
+{
+  "id": "19122",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:11:11",
+  "name": "Matthieu Kuhn",
+  "surname": "Kuhn",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Strasbourg (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1965",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "73394",
+  "r01": "69224",
+  "r02": "68892",
+  "r03": "62784",
+  "r04": "56343",
+  "r05": "49993",
+  "r06": "43542",
+  "r07": "37832",
+  "r08": "31655",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "8",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "Galerie Kühn - Berlin (Oranienburger Straße 27  27, 10117 Berlin, Germany); Galerie Kühn - Lilienthal (Hauptstraße 39, 28865 Bremen, Germany)",
+  "collecting-museums": null,
+  "first_name": "Matthieu",
+  "last_name": "Kuhn",
+  "genre": "c",
+  "birthDate": "1965-01-01",
+  "age": 49,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "19122-712-2005-07-15",
+        "c": "DE",
+        "n": "Der Frosch - 20 nstler zu einem Thema",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Kühn - Berlin",
+        "d": [
+          "2005-07-15",
+          "2005-09-10"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "19122-712-2007-06-29",
+        "c": "DE",
+        "n": "DAS SCHAF - über 20 Künstler zu einem Thema",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Kühn - Berlin",
+        "d": [
+          "2007-06-29",
+          "2007-08-25"
+        ]
+      }
+    ]
+  }
+}

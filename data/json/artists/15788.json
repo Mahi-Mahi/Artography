@@ -1,0 +1,105 @@
+{
+  "id": "15788",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:09:35",
+  "name": "Damien Cabanes",
+  "surname": "Cabanes",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Suresnes (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1958",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "5953",
+  "r01": "5510",
+  "r02": "5091",
+  "r03": "6235",
+  "r04": "5651",
+  "r05": "6129",
+  "r06": "6326",
+  "r07": "6983",
+  "r08": "5960",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1999",
+  "all-shows-total": "43",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": "11",
+  "2005-countries-total": "France (17), USA (1)",
+  "2005-shows-with": "Damien Cabanes (12), Philippe Cognée (3), Noël Dolla (3), Gérard Garouste (3), Ziad Antar (2), Pierre Ardouvin (2), John M Armleder (2), Gilles Barbier (2), Martin Barré (2), Etienne Bossut (2), François Bouillon (2), Pierre Buraglio (2), Vincent Corpet (2), Gaël Davrinche (2), Jean Degottex (2), Marc Desgrandchamps (2), Sylvie Fajfrowska (2), Jean le Gac (2), Gérard Gasiorowski (2), Gilgian Gelzer (2), Raymond Hains (2), Thomas Hirschhorn (2), Shirley Jaffe (2), Valérie Jouve (2), Carlos Kusnir (2), Isabelle Levenez (2), Claude Lévêque (2), Christian Lhopital (2), Olivier Masmonteil (2), Philippe Mayaux (2), Didier Mencoboni (2), Bernard Moninot (2), Yazid Oulab (2), Bernard Piffaretti (2), Bernard Quesniaux (2), Fiona Rae (2), Arnulf Rainer (2), Daniel Schlier (2), Jesús Rafael Soto (2), Pierre Soulages (2)",
+  "representing-galleries": "Galerie Eric Dupont (138, rue du Temple, 75003 Paris, France)",
+  "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); Musée des Beaux-Arts de Caen (Le Château, 14000 Caen, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Maison d’art contemporain Chaillioux - MACC (5 rue Julien Chaillioux, 94260 Fresnes, France); Musée Régional D'Art Contemporain Languedoc-Roussillon (146, avenue de la plage, 34 410 Sérignan, France)",
+  "first_name": "Damien",
+  "last_name": "Cabanes",
+  "genre": "m",
+  "birthDate": "1958-01-01",
+  "age": 56,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "15788-3041-2005-11-29",
+        "c": "US",
+        "n": "Entourage",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Mike Weiss Gallery",
+        "d": [
+          "2005-11-29",
+          "2005-12-31"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "15788-5313-2007-05-10",
+        "c": "HR",
+        "n": "Body as Spectacle",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rijeka",
+        "o": "MMSU - Museum of Modern and Contemporary Art Rijeka",
+        "d": [
+          "2007-05-10",
+          "2007-06-10"
+        ]
+      },
+      {
+        "i": "15788-3041-2007-02-17",
+        "c": "US",
+        "n": "Damien Cabanes: This Phrase Is Chosen With Care",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Mike Weiss Gallery",
+        "d": [
+          "2007-02-17",
+          "2007-03-17"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "15788-2102-2009-11-06",
+        "c": "US",
+        "n": "NotAbstract 1",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Parker´s Box",
+        "d": [
+          "2009-11-06",
+          "2009-12-20"
+        ]
+      }
+    ]
+  }
+}

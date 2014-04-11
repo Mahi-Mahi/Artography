@@ -1,0 +1,92 @@
+{
+  "id": "10511",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:07:11",
+  "name": "Charles de Montaigu",
+  "surname": "Montaigu",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Aix-les-Bains (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1946",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "42754",
+  "r01": "39894",
+  "r02": "36175",
+  "r03": "38406",
+  "r04": "34049",
+  "r05": "54789",
+  "r06": "63593",
+  "r07": "55939",
+  "r08": "47635",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1982",
+  "all-shows-total": "9",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "2",
+  "2005-countries-total": "Switzerland (2), France (1)",
+  "2005-shows-with": "Charles de Montaigu (2)",
+  "representing-galleries": "anton meier galerie (2, rue de l’Athénée, 1205 Geneva, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Charles",
+  "last_name": "de",
+  "genre": "m",
+  "birthDate": "1946-01-01",
+  "age": 68,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "10511-18711-2005-06-04",
+        "c": "CH",
+        "n": "9e triennale de sculpture contemporaine",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Bex",
+        "o": "Bex Arts - Triennale de sculpture contemporaine suisse en plein air",
+        "d": [
+          "2005-06-04",
+          "2005-09-25"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "10511-18711-2008-06-01",
+        "c": "CH",
+        "n": "10e Triennale de sculpture contemporaine suisse en plein air",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Bex",
+        "o": "Bex Arts - Triennale de sculpture contemporaine suisse en plein air",
+        "d": [
+          "2008-06-01",
+          "2008-09-28"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "10511-22678-2011-02-17",
+        "c": "CH",
+        "n": "Charles de Montaigu: dessins",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "MAH - Musée d'art et d'histoire",
+        "d": [
+          "2011-02-17",
+          "2011-05-15"
+        ]
+      }
+    ]
+  }
+}

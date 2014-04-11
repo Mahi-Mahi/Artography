@@ -1,0 +1,401 @@
+{
+  "id": "10150",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:07:01",
+  "name": "Marc Desgrandchamps",
+  "surname": "Desgrandchamps",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Sallanches (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1960",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "2697",
+  "r01": "2654",
+  "r02": "2571",
+  "r03": "2742",
+  "r04": "2524",
+  "r05": "2356",
+  "r06": "2035",
+  "r07": "1753",
+  "r08": "2249",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1987",
+  "all-shows-total": "63",
+  "2005-shows-biennials": "17",
+  "2005-shows-galleries": "17",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "France (18), USA (5), China (4), Switzerland (2), Germany (1), Greece (1), Slovakia (1)",
+  "2005-shows-with": "Marc Desgrandchamps (22), Vincent Corpet (4), Damien Deroubaix (4), David Lefebvre (4), Stéphane Pencreach (4), Matt Bollinger (3), Philippe Cognée (3), Sylvie Fajfrowska (3), Gregory Forstner (3), Claude Lévêque (3), Gilles Saussier (3), Katharina  Ziemke (3), Adam Adach (2), Jean-Michel Albèrola (2), Pat Andréa (2), Giulia Andreani (2), Pierre Ardouvin (2), Iván Argote (2), Julien Audebert (2), Gilles Barbier (2), Ronan Barrot (2), Brian Belott (2), Ákos Birkás (2), Jean Luc Blanc (2), Etienne Bossut (2), Jérôme Boutterin (2), Damien Cabanes (2), Miriam Cahn (2), Louis Cane (2), Mircea Cantor (2), Denis Castellas (2), Robert Combas (2), Valérie Favre (2), Gérard Garouste (2), Laurent Grasso (2), Dan Hays (2), Anton Henning (2), Camille Henrot (2), Michel Huelin (2), On Kawara (2), William Kentridge (2), Imi Knoebel (2), Guillaume Leblon (2), Frédérique Loutz (2), Markus Lüpertz (2), Olivier Masmonteil (2), Tony Matelli (2), Philippe Mayaux (2), Mathieu Mercier (2), Jean-Michel Othoniel (2), ",
+  "representing-galleries": "Amy Li Gallery (No.54 Caochangdi (old airport road), Chaoyang District, 100015 Beijing, China); Galerie Métropolis (6 passage des Gravilliers, 75003 Paris, France); Galerie Zürcher - Paris (56, rue Chapon, 75003 Paris, France); Galerie EIGEN + ART - Leipzig (Spinnereistrasse 7. Halle 5., 04179 Leipzig, Germany); Galerie Zürcher - New York (33 Bleecker Street, 10012 New York City, NY, USA)",
+  "collecting-museums": "Musée de l´abbaye Sainte-Croix (Rue de Verdun, 85100 Les Sables d' Olonne, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Musée d'Art moderne de Saint-Etienne (La Terrasse, 42000 Saint-Etienne, France); Musée Régional D'Art Contemporain Languedoc-Roussillon (146, avenue de la plage, 34 410 Sérignan, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
+  "first_name": "Marc",
+  "last_name": "Desgrandchamps",
+  "genre": "m",
+  "birthDate": "1960-01-01",
+  "age": 54,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "10150-2929-2005-06-10",
+        "c": "CN",
+        "n": "Unique but not the only: Contemporary French Art",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Guangzhou, Guangdong",
+        "o": "The Guangdong Museum of Art",
+        "d": [
+          "2005-06-10",
+          "2005-07-24"
+        ]
+      },
+      {
+        "i": "10150-2582-2005-12-22",
+        "c": "GR",
+        "n": "Anthropography III",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2005-12-22",
+          "2006-07-30"
+        ]
+      },
+      {
+        "i": "10150-2184-2005-09-01",
+        "c": "DE",
+        "n": "Artliason - BonnLyon: Marc Desgrandchamps - Stand der Dinge",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Bonn",
+        "o": "Kunstmuseum Bonn",
+        "d": [
+          "2005-09-01",
+          "2005-11-13"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "10150-2582-2005-12-22",
+        "c": "GR",
+        "n": "Anthropography III",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2005-12-22",
+          "2006-07-30"
+        ]
+      },
+      {
+        "i": "10150-6322-2006-06-12",
+        "c": "DE",
+        "n": "Etrangement Proche-Seltsam vertraut",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Saarbrücken",
+        "o": "Saarlandmuseum - Moderne Galerie & Studiogalerie",
+        "d": [
+          "2006-06-12",
+          "2006-08-08"
+        ]
+      },
+      {
+        "i": "10150-2546-2006-09-23",
+        "c": "DE",
+        "n": "Peintures / Painting",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Martin-Gropius-Bau",
+        "d": [
+          "2006-09-23",
+          "2006-11-12"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "10150-17130-2009-02-10",
+        "c": "US",
+        "n": "Group show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Galerie Zürcher - New York",
+        "d": [
+          "2009-02-10",
+          "2009-03-02"
+        ]
+      },
+      {
+        "i": "10150-15663-2009-12-18",
+        "c": "CN",
+        "n": "Translucide – Dual Exhibition of French Contemporary",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Beijing",
+        "o": "Today Art Museum",
+        "d": [
+          "2009-12-18",
+          "2010-01-10"
+        ]
+      },
+      {
+        "i": "10150-29329-2009-12-18",
+        "c": "CN",
+        "n": "Translucide",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Amy Li Gallery",
+        "d": [
+          "2009-12-18",
+          "2010-01-10"
+        ]
+      },
+      {
+        "i": "10150-17130-2009-05-09",
+        "c": "US",
+        "n": "Marc Desgrandchamps",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Galerie Zürcher - New York",
+        "d": [
+          "2009-05-09",
+          "2009-06-18"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "10150-15663-2009-12-18",
+        "c": "CN",
+        "n": "Translucide – Dual Exhibition of French Contemporary",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Beijing",
+        "o": "Today Art Museum",
+        "d": [
+          "2009-12-18",
+          "2010-01-10"
+        ]
+      },
+      {
+        "i": "10150-29329-2009-12-18",
+        "c": "CN",
+        "n": "Translucide",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Amy Li Gallery",
+        "d": [
+          "2009-12-18",
+          "2010-01-10"
+        ]
+      },
+      {
+        "i": "10150-2582-2010-10-13",
+        "c": "GR",
+        "n": "Naked Truth",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2010-10-13",
+          "2011-02-27"
+        ]
+      },
+      {
+        "i": "10150-17130-2010-10-29",
+        "c": "US",
+        "n": "In A Violet Distance",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Galerie Zürcher - New York",
+        "d": [
+          "2010-10-29",
+          "2010-12-04"
+        ]
+      },
+      {
+        "i": "10150-1023-2010-11-12",
+        "c": "CH",
+        "n": "A vos papiers",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Galerie Charlotte Moser",
+        "d": [
+          "2010-11-12",
+          "2011-01-18"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "10150-2582-2010-10-13",
+        "c": "GR",
+        "n": "Naked Truth",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2010-10-13",
+          "2011-02-27"
+        ]
+      },
+      {
+        "i": "10150-1023-2010-11-12",
+        "c": "CH",
+        "n": "A vos papiers",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Galerie Charlotte Moser",
+        "d": [
+          "2010-11-12",
+          "2011-01-18"
+        ]
+      },
+      {
+        "i": "10150-29329-2011-09-17",
+        "c": "CN",
+        "n": "Marc Desgrandchamps - Recent Painting",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Amy Li Gallery",
+        "d": [
+          "2011-09-17",
+          "2011-10-23"
+        ]
+      },
+      {
+        "i": "10150-23683-2011-09-17",
+        "c": "CN",
+        "n": "Marc Desgrandchamps",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Beijing",
+        "o": "Dialogue Space",
+        "d": [
+          "2011-09-17",
+          "2011-10-23"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "10150-17130-2012-02-01",
+        "c": "US",
+        "n": "Back From L.A.",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Galerie Zürcher - New York",
+        "d": [
+          "2012-02-01",
+          "2012-02-29"
+        ]
+      },
+      {
+        "i": "10150-3609-2012-11-15",
+        "c": "DE",
+        "n": "Menschenbilder",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Baden-Baden",
+        "o": "Museum Frieder Burda",
+        "d": [
+          "2012-11-15",
+          "2013-01-06"
+        ]
+      },
+      {
+        "i": "10150-17130-2012-05-01",
+        "c": "US",
+        "n": "Marc Desgrandchamps",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Galerie Zürcher - New York",
+        "d": [
+          "2012-05-01",
+          "2012-06-22"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "10150-3609-2012-11-15",
+        "c": "DE",
+        "n": "Menschenbilder",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Baden-Baden",
+        "o": "Museum Frieder Burda",
+        "d": [
+          "2012-11-15",
+          "2013-01-06"
+        ]
+      },
+      {
+        "i": "10150-29109-2013-06-13",
+        "c": "SK",
+        "n": "La Belle Peinture II",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bratislava",
+        "o": "Institut Français de Slovaquie",
+        "d": [
+          "2013-06-13",
+          "2013-07-26"
+        ]
+      },
+      {
+        "i": "10150-5191-2013-09-21",
+        "c": "CH",
+        "n": "Wahlverwandtschaften.  Aktuelle Malerei Und Zeichnung Aus Dem Museum Frieder Burda",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Burgdorf",
+        "o": "museum franz gertsch",
+        "d": [
+          "2013-09-21",
+          "2014-02-16"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "10150-5191-2013-09-21",
+        "c": "CH",
+        "n": "Wahlverwandtschaften.  Aktuelle Malerei Und Zeichnung Aus Dem Museum Frieder Burda",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Burgdorf",
+        "o": "museum franz gertsch",
+        "d": [
+          "2013-09-21",
+          "2014-02-16"
+        ]
+      }
+    ]
+  }
+}

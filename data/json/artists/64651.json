@@ -1,0 +1,75 @@
+{
+  "id": "64651",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:30:13",
+  "name": "Raphaël Renaud",
+  "surname": "Renaud",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1974",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "56693",
+  "r01": "53363",
+  "r02": "48617",
+  "r03": "44159",
+  "r04": "39248",
+  "r05": "34621",
+  "r06": "29630",
+  "r07": "58018",
+  "r08": "63415",
+  "awards": null,
+  "website": "www.raphaelrenaud.com",
+  "all-shows-first": "2003",
+  "all-shows-total": "8",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": null,
+  "2005-shows-with": null,
+  "representing-galleries": "Galerie Iragui  Moscou-Paris (7 -7-5  Malaya Polyanka, 119180  Moscow, Russia); Galerie Alex Schlesinger (Gladbachstrasse 41, 8044 Zurich, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Raphaël",
+  "last_name": "Renaud",
+  "genre": "m",
+  "birthDate": "1974-01-01",
+  "age": 40,
+  "age_range": "36-45",
+  "expos": {
+    "2006": [
+      {
+        "i": "64651-398-2006-04-01",
+        "c": "DE",
+        "n": "Junge Kunst in der Galerie Königsblau",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Stuttgart",
+        "o": "Galerie Königsblau",
+        "d": [
+          "2006-04-01",
+          "2006-05-12"
+        ]
+      },
+      {
+        "i": "64651-4328-2006-03-03",
+        "c": "CH",
+        "n": "Raphaël Renaud",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "Galerie Alex Schlesinger",
+        "d": [
+          "2006-03-03",
+          "2006-04-07"
+        ]
+      }
+    ]
+  }
+}

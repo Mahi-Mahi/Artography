@@ -1,0 +1,90 @@
+{
+  "id": "113394",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:49:51",
+  "name": "Jean-Claude Mattrat",
+  "surname": "Mattrat",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Rouen (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1951",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "98635",
+  "r01": "96370",
+  "r02": "91809",
+  "r03": "86662",
+  "r04": "80128",
+  "r05": "99059",
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2008",
+  "all-shows-total": "3",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Belgium (2), United Kingdom (1)",
+  "2005-shows-with": "Jean-Claude Mattrat (3), Gianfranco Baruchello (2), Glen Baxter (2), Roland Breucker (2), Marcel Broodthaers (2), Jan Carlier (2), Jacques Charlier (2), Anna Christina (2), François de Coninck (2), Philippe De Gobert (2), Guillaume Dendeau (2), Erik Dietman (2), Christian Dotremont (2), Laurent d’Ursel (2), Luc Fierens (2), Jerry Frantz (2), Jean le Gac (2), Joël Gaillard (2), Myriam Hornard (2), Pierre Lecrenier (2), Olivier Leloup (2), Jacques van Lennep (2), Jean-Claude Loubières (2), Marcel van Maele (2), Frank Maieu (2), Marcel Mariën (2), Raymond Minnen (2), Pol Pierart (2), Éric Pougeau (2), Angelo Ricciardi (2), Laurent Sfar (2), André Stas (2), Vincent Strebell (2), Toon Tersas (2), Thierry Tillier (2), Jean-Pierre Verheggen (2), Christian Zeimert (2)",
+  "representing-galleries": null,
+  "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France)",
+  "first_name": "Jean-Claude",
+  "last_name": "Mattrat",
+  "genre": "m",
+  "birthDate": "1951-01-01",
+  "age": 63,
+  "age_range": "46-55",
+  "expos": {
+    "2008": [
+      {
+        "i": "113394-14263-2008-04-27",
+        "c": "BE",
+        "n": "- jeux de mots, jeux d images -",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Merendree",
+        "o": "Galerie Lieve Lambrecht",
+        "d": [
+          "2008-04-27",
+          "2008-08-17"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "113394-21901-2009-03-13",
+        "c": "BE",
+        "n": "Jeux de mots, jeux d\\'images",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "La Louvière",
+        "o": "Musée Ianchelevici",
+        "d": [
+          "2009-03-13",
+          "2009-04-19"
+        ]
+      },
+      {
+        "i": "113394-2525-2009-09-18",
+        "c": "GB",
+        "n": "book a table",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Rocket",
+        "d": [
+          "2009-09-18",
+          "2009-11-07"
+        ]
+      }
+    ]
+  }
+}

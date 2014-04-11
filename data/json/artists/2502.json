@@ -1,0 +1,105 @@
+{
+  "id": "2502",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:03:21",
+  "name": "Jean-Michel Gasquet",
+  "surname": "Gasquet",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Nimes (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1929",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "36161",
+  "r01": "32604",
+  "r02": "30608",
+  "r03": "26876",
+  "r04": "23267",
+  "r05": "21076",
+  "r06": "17654",
+  "r07": "17867",
+  "r08": "21701",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1999",
+  "all-shows-total": "16",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (2), Germany (1)",
+  "2005-shows-with": "Jean-Michel Gasquet (3), André Stempfel (2)",
+  "representing-galleries": "Galerie Lahumière (17 Rue du Parc Royal, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Jean-Michel",
+  "last_name": "Gasquet",
+  "genre": "c",
+  "birthDate": "1929-01-01",
+  "age": 85,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "2502-7927-2007-05-05",
+        "c": "DE",
+        "n": "Bildertausch 2 - Neupräsentation der Sammlung Marli Hoppe-Ritter",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Waldenbuch",
+        "o": "Museum Ritter",
+        "d": [
+          "2007-05-05",
+          "2007-09-30"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "2502-203-2009-04-04",
+        "c": "DE",
+        "n": "4 Positionen",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Heidelberg",
+        "o": "Galerie Uwe Sacksofsky",
+        "d": [
+          "2009-04-04",
+          "2009-06-13"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "2502-203-2006-03-12",
+        "c": "DE",
+        "n": "Jean–Michel Gasquet",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Heidelberg",
+        "o": "Galerie Uwe Sacksofsky",
+        "d": [
+          "2006-03-12",
+          "2006-06-17"
+        ]
+      },
+      {
+        "i": "2502-5288-2006-05-12",
+        "c": "CH",
+        "n": "Jean-Michel Gasquet",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Bern",
+        "o": "Galerie Sacksofsky & Bloch",
+        "d": [
+          "2006-05-12",
+          "2006-06-17"
+        ]
+      }
+    ]
+  }
+}

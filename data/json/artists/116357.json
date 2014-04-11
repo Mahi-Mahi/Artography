@@ -1,0 +1,74 @@
+{
+  "id": "116357",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:50:58",
+  "name": "Claire Fahys",
+  "surname": "Fahys",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "",
+  "birth day": "0",
+  "birth month": "0",
+  "birth year": "1984",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "90680",
+  "r01": "97565",
+  "r02": "93382",
+  "r03": "88094",
+  "r04": "106914",
+  "r05": "100257",
+  "r06": "92057",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "3",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (1), United Kingdom (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "The French Art Studio (121 Sulgrave Road, W6 7QH London (England), United Kingdom); Beverley Knowles Fine Art (88 Bevington Road, W10 5TW London (England), United Kingdom)",
+  "collecting-museums": null,
+  "first_name": "Claire",
+  "last_name": "Fahys",
+  "genre": "f",
+  "expos": {
+    "2007": [
+      {
+        "i": "116357-8795-2007-04-07",
+        "c": "GB",
+        "n": "Transitions",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Beverley Knowles Fine Art",
+        "d": [
+          "2007-04-07",
+          "2007-05-06"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "116357-14748-2013-02-06",
+        "c": "GB",
+        "n": "Claire Fahys - Journeys",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "The French Art Studio",
+        "d": [
+          "2013-02-06",
+          "2013-02-28"
+        ]
+      }
+    ]
+  }
+}

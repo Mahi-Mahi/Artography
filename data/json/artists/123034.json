@@ -1,0 +1,189 @@
+{
+  "id": "123034",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:53:40",
+  "name": "Yann Arthus-Bertrand",
+  "surname": "Arthus-Bertrand",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1946",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": "Photography",
+  "r00": "25340",
+  "r01": "23427",
+  "r02": "20822",
+  "r03": "24020",
+  "r04": "23596",
+  "r05": "32125",
+  "r06": "33338",
+  "r07": "39187",
+  "r08": "32419",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2000",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (4), South Korea (2), Germany (1), Italy (1), Switzerland (1)",
+  "2005-shows-with": "Yann Arthus-Bertrand (4)",
+  "representing-galleries": "Galerie Louis Carré & Cie (10, avenue de Messine, 75008 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Yann",
+  "last_name": "Arthus-Bertrand",
+  "genre": "c",
+  "birthDate": "1946-01-01",
+  "age": 68,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "123034-11488-2005-05-11",
+        "c": "PL",
+        "n": "WRO 05 - 11th international Media Art Biennale",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Wroclaw",
+        "o": "WRO Media Art Biennale",
+        "d": [
+          "2005-05-11",
+          "2005-05-15"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "123034-7708-2008-10-30",
+        "c": "KR",
+        "n": "Power of photography",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Seoul",
+        "o": "Sungkok Art Museum",
+        "d": [
+          "2008-10-30",
+          "2009-01-11"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "123034-7708-2008-10-30",
+        "c": "KR",
+        "n": "Power of photography",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Seoul",
+        "o": "Sungkok Art Museum",
+        "d": [
+          "2008-10-30",
+          "2009-01-11"
+        ]
+      },
+      {
+        "i": "123034-3773-2009-12-09",
+        "c": "IT",
+        "n": "Salva/guardala! …La terra è sotto i tuoi occhi e nelle tue mani",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Venice",
+        "o": "Fondazione Querini Stampalia ONLUS",
+        "d": [
+          "2009-12-09",
+          "2010-02-28"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "123034-12119-2011-10-28",
+        "c": "DE",
+        "n": "terra incognita. Weltbilder – Welterfahrungen",
+        "st": "Group",
+        "t": "Art School",
+        "ct": "Dresden",
+        "o": "Altana Galerie der Technischen Universität Dresden",
+        "d": [
+          "2011-10-28",
+          "2012-02-03"
+        ]
+      },
+      {
+        "i": "123034-13044-2011-12-15",
+        "c": "KR",
+        "n": "It\\'s My Home",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Seoul",
+        "o": "Seoul Museum of Art (SeMA)",
+        "d": [
+          "2011-12-15",
+          "2012-03-15"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "123034-12119-2011-10-28",
+        "c": "DE",
+        "n": "terra incognita. Weltbilder – Welterfahrungen",
+        "st": "Group",
+        "t": "Art School",
+        "ct": "Dresden",
+        "o": "Altana Galerie der Technischen Universität Dresden",
+        "d": [
+          "2011-10-28",
+          "2012-02-03"
+        ]
+      },
+      {
+        "i": "123034-13044-2011-12-15",
+        "c": "KR",
+        "n": "It\\'s My Home",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Seoul",
+        "o": "Seoul Museum of Art (SeMA)",
+        "d": [
+          "2011-12-15",
+          "2012-03-15"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "123034-3773-2009-12-09",
+        "c": "IT",
+        "n": "Salva/guardala! …La terra è sotto i tuoi occhi e nelle tue mani",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Venice",
+        "o": "Fondazione Querini Stampalia ONLUS",
+        "d": [
+          "2009-12-09",
+          "2010-02-28"
+        ]
+      },
+      {
+        "i": "123034-11355-2010-03-06",
+        "c": "CH",
+        "n": "Yann Arthus Bertrand",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Geneva",
+        "o": "Krisal Galerie",
+        "d": [
+          "2010-03-06",
+          "2010-04-04"
+        ]
+      }
+    ]
+  }
+}

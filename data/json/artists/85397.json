@@ -1,0 +1,92 @@
+{
+  "id": "85397",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:38:53",
+  "name": "Etienne Cliquet",
+  "surname": "Cliquet",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Boulogne Billancourt (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1971",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "49533",
+  "r01": "60438",
+  "r02": "55723",
+  "r03": "54649",
+  "r04": "49074",
+  "r05": "43458",
+  "r06": "38791",
+  "r07": "33132",
+  "r08": "64321",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Belgium (1), France (1), Germany (1)",
+  "2005-shows-with": "Etienne Cliquet (2), Katharina Schmidt (2)",
+  "representing-galleries": null,
+  "collecting-museums": "MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg)",
+  "first_name": "Etienne",
+  "last_name": "Cliquet",
+  "genre": "m",
+  "birthDate": "1971-01-01",
+  "age": 43,
+  "age_range": "36-45",
+  "expos": {
+    "2006": [
+      {
+        "i": "85397-2331-2006-07-02",
+        "c": "LU",
+        "n": "Eldorado",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2006-07-02",
+          "2006-11-20"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "85397-4012-2011-10-18",
+        "c": "DE",
+        "n": "Kettenreaktion",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Erfurt",
+        "o": "Kunsthaus Erfurt",
+        "d": [
+          "2011-10-18",
+          "2011-11-18"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "85397-16570-2013-09-19",
+        "c": "BE",
+        "n": "Etienne Cliquet - Terrain d\\'Envol",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "iMAL (interactive Media Art Laboratory)",
+        "d": [
+          "2013-09-19",
+          "2013-10-20"
+        ]
+      }
+    ]
+  }
+}

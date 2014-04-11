@@ -1,0 +1,202 @@
+{
+  "id": "37006",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:18:55",
+  "name": "Cédric Tanguy",
+  "surname": "Tanguy",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": " (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1972",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography",
+  "r00": "21547",
+  "r01": "21752",
+  "r02": "20565",
+  "r03": "18769",
+  "r04": "17802",
+  "r05": "16675",
+  "r06": "14220",
+  "r07": "23958",
+  "r08": "21324",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2001",
+  "all-shows-total": "26",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (7), Belgium (2)",
+  "2005-shows-with": "Cédric Tanguy (7), Carlos Aires (5), Marco Brambilla (3), Jimi Dams (3), Robert Gligorov (3), John Isaacs (3), Samuel Rousseau (3), Art & Language (2), Olivier Blanckart (2), Delphine Boël (2), Guy van Bossche (2), Steven Brouns (2), Daniele Buetti (2), Charley Case (2), Ronald Dagonnier (2), Peter Depelchin (2), Daniël Dewaele (2), Ross Downes (2), Christoph Draeger (2), Gardar Eide Einarsson (2), Fakhri El Ghezal (2), Bruna Esposito (2), Kristof Everart (2), Al Farrow (2), Claire Fontaine (2), Rainer Ganahl (2), Shadi Ghadirian (2), Bernard Gigounon (2), Frances Goodman (2), Dumitru Gorzo (2), Guma Guar (2), Gottfried Helnwein (2), Fabian Hesse (2), IRWIN (2), Thomas Israel (2), Kakudji (2), Dennis Kardon (2), Nina Katchadourian (2), Olga Koumondouros (2), Franck Lesieur (2), Jacques Lizène (2), Emilio Lopez-Menchero (2), Hermann Maier Neustadt (2), Gerard Malanga (2), Marcel Mariën (2), Dominic McGill (2), José María Mellado (2), Cathy de Monchaux (2), Johan Muyle (2), Marko Mäetamm (2), Yoshua Oko",
+  "representing-galleries": "AEROPLASTICS contemporary (32 rue Blanche straat, B-1060 Brussels, Belgium); Galerie Sandrine Mons (8, rue Dalpozzo, 06000 Nice, France); Galerie Métropolis (6 passage des Gravilliers, 75003 Paris, France); Galerie Rabouan Moussion (121, rue Vieille du Temple, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Cédric",
+  "last_name": "Tanguy",
+  "genre": "m",
+  "birthDate": "1972-01-01",
+  "age": 42,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "37006-1715-2005-01-21",
+        "c": "BE",
+        "n": "Unspeakable  (group exhibition)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2005-01-21",
+          "2005-03-05"
+        ]
+      },
+      {
+        "i": "37006-1715-2005-05-22",
+        "c": "BE",
+        "n": "Boost in the Shell",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2005-05-22",
+          "2005-07-31"
+        ]
+      },
+      {
+        "i": "37006-1715-2005-09-16",
+        "c": "BE",
+        "n": "Oracle of Truth (group exhibition)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2005-09-16",
+          "2005-10-29"
+        ]
+      },
+      {
+        "i": "37006-1715-2005-09-16",
+        "c": "BE",
+        "n": "Oracle of Truth",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2005-09-16",
+          "2005-10-21"
+        ]
+      },
+      {
+        "i": "37006-1066-2005-10-22",
+        "c": "DE",
+        "n": "Ratatouille",
+        "st": "Group",
+        "t": "Edition",
+        "ct": "Essen",
+        "o": "20.21 Galerie Edition Kunsthandel GmbH",
+        "d": [
+          "2005-10-22",
+          "2005-12-21"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "37006-1529-2006-02-10",
+        "c": "US",
+        "n": "Blessed are the Merciful",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Kinz + Tillou",
+        "d": [
+          "2006-02-10",
+          "2006-04-29"
+        ]
+      },
+      {
+        "i": "37006-1715-2006-09-14",
+        "c": "BE",
+        "n": "ALL FOR ONE, ONE FOR ALL",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2006-09-14",
+          "2006-11-04"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "37006-1715-2007-09-28",
+        "c": "BE",
+        "n": "Rare Essence",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2007-09-28",
+          "2007-11-03"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "37006-17028-2009-12-12",
+        "c": "BE",
+        "n": "That’s all Folks!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bruges",
+        "o": "Cultuurcentrum Brugge",
+        "d": [
+          "2009-12-12",
+          "2010-01-17"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "37006-17028-2009-12-12",
+        "c": "BE",
+        "n": "That’s all Folks!",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bruges",
+        "o": "Cultuurcentrum Brugge",
+        "d": [
+          "2009-12-12",
+          "2010-01-17"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "37006-27991-2013-01-01",
+        "c": "BE",
+        "n": "That´s all Folks!",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Bruges",
+        "o": "Stadshallen",
+        "d": [
+          "2013-01-01",
+          "2013-01-01"
+        ]
+      }
+    ]
+  }
+}

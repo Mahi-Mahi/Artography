@@ -1,0 +1,77 @@
+{
+  "id": "106445",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:47:02",
+  "name": "Sandra Foltz",
+  "surname": "Foltz",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1968",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "51307",
+  "r01": "50192",
+  "r02": "51179",
+  "r03": "46249",
+  "r04": "55131",
+  "r05": "49258",
+  "r06": "42695",
+  "r07": "38696",
+  "r08": "43648",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1999",
+  "all-shows-total": "10",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (4), Belgium (1)",
+  "2005-shows-with": "Sandra Foltz (5), Laurent Sfar (4), Jean-Francois Guillon (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Sandra",
+  "last_name": "Foltz",
+  "genre": "f",
+  "birthDate": "1968-01-01",
+  "age": 46,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "106445-7067-2006-09-20",
+        "c": "CA",
+        "n": "7e manifestation internationale vidéo et art électronique, Montréal",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Montreal, QC",
+        "o": "champ libre",
+        "d": [
+          "2006-09-20",
+          "2006-10-01"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "106445-14106-2010-02-28",
+        "c": "BE",
+        "n": "A propos d\\'écriture(s)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Florenville",
+        "o": "Centre d´art Contemporain du Luxembourg Belge",
+        "d": [
+          "2010-02-28",
+          "2010-04-02"
+        ]
+      }
+    ]
+  }
+}

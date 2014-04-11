@@ -1,0 +1,133 @@
+{
+  "id": "19185",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:11:13",
+  "name": "Eric Liot",
+  "surname": "Liot",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Caen (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1964",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "14572",
+  "r01": "14091",
+  "r02": "12946",
+  "r03": "12300",
+  "r04": "15039",
+  "r05": "19140",
+  "r06": "17369",
+  "r07": "24193",
+  "r08": "23432",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "23",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (9), Belgium (3), Germany (1), USA (1)",
+  "2005-shows-with": "Eric Liot (7), Erró (3), Peter Klasen (3), Philippe Pasqua (3), Gerard Schlosser (3), Antonio Seguí (3), FC Sofia (3), Valerio Adami (2), Robert Combas (2), Pavlos Dionysopoulos (2), Keith Haring (2), Ivan Messac (2), Jacques Monory (2), Bernard Rancillac (2), Jean-Pierre Raynaud (2), Niki de Saint Phalle (2), Thierry Trives (2), Ben Vautier (2), Andy Warhol (2)",
+  "representing-galleries": "Gallery Copenhagen (St. Kongensgade 76, 1264 Copenhagen, Denmark); Galerie Bayart (17 cours Guynemer, 60200 Compiègne, France); Galerie Suty (Grande Rue 75, 60580 Coye-la-Forêt, France); AD Galerie (40 Allée Giacometti, 34000 Montpellier, France); Galerie Keza (37 rue des Mathurins, FR-75008 Paris, France); Galerie Laurent Strouk (8 bis/16 rue Jacques Callot, 75006 Paris, France); Galerie Raphaël 12 (Braubachstr. 12, 60311 Frankfurt/Main, Germany); Fabien Castanier Gallery (12196 Ventura Blvd, 91604 Studio City, CA, USA)",
+  "collecting-museums": null,
+  "first_name": "Eric",
+  "last_name": "Liot",
+  "genre": "m",
+  "birthDate": "1964-01-01",
+  "age": 50,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "19185-14112-2007-06-21",
+        "c": "ES",
+        "n": "Barcelona - Paris - Pekin",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Espace Cultural Ample",
+        "d": [
+          "2007-06-21",
+          "2007-08-04"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "19185-16573-2009-05-16",
+        "c": "DE",
+        "n": "In between – die Kunst, erwachsen zu werden",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Wiesbaden",
+        "o": "Künstlerverein Walkmühle e.V.",
+        "d": [
+          "2009-05-16",
+          "2009-06-28"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "19185-27600-2012-02-04",
+        "c": "US",
+        "n": "Drill Baby Drill",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Studio City, CA",
+        "o": "Fabien Castanier Gallery",
+        "d": [
+          "2012-02-04",
+          "2012-03-06"
+        ]
+      },
+      {
+        "i": "19185-14161-2012-06-30",
+        "c": "BE",
+        "n": "Eric Liot",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Bruges",
+        "o": "Absolute Art Gallery - Brugge",
+        "d": [
+          "2012-06-30",
+          "2012-07-22"
+        ]
+      },
+      {
+        "i": "19185-14162-2012-06-30",
+        "c": "BE",
+        "n": "Eric Liot",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Knokke",
+        "o": "Absolute Art Gallery - Knokke",
+        "d": [
+          "2012-06-30",
+          "2012-07-22"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "19185-14161-2013-12-20",
+        "c": "BE",
+        "n": "Winter-expo",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Bruges",
+        "o": "Absolute Art Gallery - Brugge",
+        "d": [
+          "2013-12-20",
+          "2013-01-27"
+        ]
+      }
+    ]
+  }
+}

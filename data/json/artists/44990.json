@@ -1,0 +1,75 @@
+{
+  "id": "44990",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:22:11",
+  "name": "Sophie Toulouse",
+  "surname": "Toulouse",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Rennes (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1970",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "69084",
+  "r01": "65557",
+  "r02": "60387",
+  "r03": "55113",
+  "r04": "49329",
+  "r05": "43816",
+  "r06": "45149",
+  "r07": "39353",
+  "r08": "40005",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "8",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (2)",
+  "2005-shows-with": null,
+  "representing-galleries": "Addict Galerie (14/16 Rue de Thorigny, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Sophie",
+  "last_name": "Toulouse",
+  "genre": "f",
+  "birthDate": "1970-01-01",
+  "age": 44,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "44990-3009-2005-06-02",
+        "c": "US",
+        "n": "Saturday Morning",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Josee Bienvenu Gallery",
+        "d": [
+          "2005-06-02",
+          "2005-07-30"
+        ]
+      },
+      {
+        "i": "44990-3444-2005-09-17",
+        "c": "CH",
+        "n": "Disappearance",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Fribourg",
+        "o": "Fri Art - Centre d'Art Contemporain",
+        "d": [
+          "2005-09-17",
+          "2005-11-06"
+        ]
+      }
+    ]
+  }
+}

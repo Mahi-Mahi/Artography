@@ -1,0 +1,92 @@
+{
+  "id": "87840",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:39:52",
+  "name": "Philippe Raphanel",
+  "surname": "Raphanel",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1956",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "57213",
+  "r01": "64786",
+  "r02": "57363",
+  "r03": "50630",
+  "r04": "43820",
+  "r05": "37721",
+  "r06": "31666",
+  "r07": "27172",
+  "r08": "27540",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1990",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Canada (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "Equinox Gallery (2321 Granville Street, V6H 3G4 Vancouver, BC, Canada)",
+  "collecting-museums": "Simon Fraser University Art Gallery (Burnaby Campus, AQ 3004 Burnaby, BC, Canada)",
+  "first_name": "Philippe",
+  "last_name": "Raphanel",
+  "genre": "m",
+  "birthDate": "1956-01-01",
+  "age": 58,
+  "age_range": "46-55",
+  "expos": {
+    "2006": [
+      {
+        "i": "87840-18902-2006-06-29",
+        "c": "CA",
+        "n": "Recent Acquisitions",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Surrey, BC",
+        "o": "Surrey Art Gallery",
+        "d": [
+          "2006-06-29",
+          "2006-08-26"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "87840-10331-2007-11-10",
+        "c": "CA",
+        "n": "Mirror Mirror 2007: Little Landscapes and Miniature Worlds",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Richmond, BC",
+        "o": "Richmond Art Gallery",
+        "d": [
+          "2007-11-10",
+          "2007-11-24"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "87840-5592-2013-02-21",
+        "c": "CA",
+        "n": "Philippe Raphanel - Waters",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Vancouver, BC",
+        "o": "Equinox Gallery",
+        "d": [
+          "2013-02-21",
+          "2013-03-23"
+        ]
+      }
+    ]
+  }
+}

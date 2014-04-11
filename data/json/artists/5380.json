@@ -1,0 +1,925 @@
+{
+  "id": "5380",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:04:52",
+  "name": "Jean-Luc Moulène",
+  "surname": "Moulène",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Rheims (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1955",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography, Sculpture",
+  "r00": "686",
+  "r01": "697",
+  "r02": "720",
+  "r03": "681",
+  "r04": "609",
+  "r05": "590",
+  "r06": "540",
+  "r07": "578",
+  "r08": "572",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1990",
+  "all-shows-total": "162",
+  "2005-shows-biennials": "18",
+  "2005-shows-galleries": "18",
+  "2005-shows-museums": "49",
+  "2005-countries-total": "France (41), Belgium (7), Germany (4), Spain (4), USA (4), United Arab Emirates (3), United Kingdom (3), Italy (2), Poland (2), Albania (1), Australia (1), Brazil (1), Colombia (1), Lebanon (1), Netherlands (1), Russia (1), Turkey (1), Uruguay (1)",
+  "2005-shows-with": "Jean-Luc Moulène (68), Thomas Hirschhorn (10), Anri Sala (10), Jean-Marc Bustamante (8), Harun Farocki (8), Annette Messager (7), Melik Ohanian (7), Heimo Zobernig (7), Jean-Michel Albèrola (6), Allora & Calzadilla (6), Joseph Beuys (6), Claire Fontaine (6), Andy Warhol (6), Christian Boltanski (5), Daniel Buren (5), Claude Closky (5), Robert Filliou (5), Ange Leccia (5), François Morellet (5), Julien Prévieux (5), Sophie Ristelhueber (5), Bruno Serralongue (5), Simon Starling (5), Adel Abdessemed (4), Kader Attia (4), Yto Barrada (4), Michel Blazy (4), Marcel Broodthaers (4), Wim Delvoye (4), Hans-Peter Feldmann (4), Joana Hadjithomas & Khalil Joreige (4), Pierre Huyghe (4), Carsten Höller (4), Cristina Iglesias (4), Mike Kelley (4), Olga Kisseleva (4), Florence Lazar (4), Pierre Leguillon (4), Jochen Lempert (4), Helen Levitt (4), Mathieu Mercier (4), Aernout Mik (4), Antoni Muntadas (4), Gabriel Orozco (4), Bruno Peinado (4), Clément Rodzielski (4), Fernando Sánchez Castillo (4), Alain Séchas (4), ",
+  "representing-galleries": "Galerie Greta Meert (13, rue du Canal, 1000 Brussels, Belgium); Galerie Chantal Crousel (10, rue Charlot, 75003 Paris, France); Thomas Dane Gallery (3 & 11 Duke Street, SW1Y 6BN London (England), United Kingdom); Elga Wimmer PCC (526 West 26, #310, 10001 New York City, NY, USA)",
+  "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); Musée Nicéphore Niépce (28, Quai des Messageries, 71100 Chalon sur Saône, France); FRAC - Bretagne (3 rue de Noyal, 35410 Châteaugiron, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Kadist Art Foundation (19 bis -21 rue Trois Fréres, 75018 Paris, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
+  "first_name": "Jean-Luc",
+  "last_name": "Moulène",
+  "genre": "m",
+  "birthDate": "1955-01-01",
+  "age": 59,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "5380-2657-2005-02-03",
+        "c": "ES",
+        "n": "El estado de las cosas - El objeto en el arte desde 1960 hasta nuestros días",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vitoria-Gasteiz",
+        "o": "ARTIUM - Basque Museum Center of Contemporary Art",
+        "d": [
+          "2005-02-03",
+          "2005-05-22"
+        ]
+      },
+      {
+        "i": "5380-2318-2005-03-09",
+        "c": "AR",
+        "n": "Fondos Regionales de Arte Contemporáneo Île-de-France y Poitou-Charentes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Buenos Aires",
+        "o": "MAMBA - Museo de Arte Moderno de Buenos Aires",
+        "d": [
+          "2005-03-09",
+          "2005-04-30"
+        ]
+      },
+      {
+        "i": "5380-6417-2005-05-07",
+        "c": "DE",
+        "n": "(my private) Heroes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Herford",
+        "o": "MARTa Herford",
+        "d": [
+          "2005-05-07",
+          "2005-08-21"
+        ]
+      },
+      {
+        "i": "5380-344-2005-10-15",
+        "c": "DE",
+        "n": "Des Deux Cotes Du Rhin  -Movement-",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Cologne",
+        "o": "Museum Ludwig",
+        "d": [
+          "2005-10-15",
+          "2006-02-12"
+        ]
+      },
+      {
+        "i": "5380-3840-2005-12-11",
+        "c": "EG",
+        "n": "PhotoCairo3",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Cairo",
+        "o": "Townhouse Gallery",
+        "d": [
+          "2005-12-11",
+          "2005-12-31"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "5380-344-2005-10-15",
+        "c": "DE",
+        "n": "Des Deux Cotes Du Rhin  -Movement-",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Cologne",
+        "o": "Museum Ludwig",
+        "d": [
+          "2005-10-15",
+          "2006-02-12"
+        ]
+      },
+      {
+        "i": "5380-12580-2006-05-03",
+        "c": "LB",
+        "n": "Au Delà des Images: (Beyond Images)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Beirut",
+        "o": "Galerie Sfeir-Semler - Beirut",
+        "d": [
+          "2006-05-03",
+          "2006-06-29"
+        ]
+      },
+      {
+        "i": "5380-6322-2006-06-12",
+        "c": "DE",
+        "n": "Etrangement Proche-Seltsam vertraut",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Saarbrücken",
+        "o": "Saarlandmuseum - Moderne Galerie & Studiogalerie",
+        "d": [
+          "2006-06-12",
+          "2006-08-08"
+        ]
+      },
+      {
+        "i": "5380-1135-2006-10-13",
+        "c": "DE",
+        "n": "Bin beschäftigt",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bremen",
+        "o": "GAK - Gesellschaft für Aktuelle Kunst e.V. Bremen",
+        "d": [
+          "2006-10-13",
+          "2007-01-07"
+        ]
+      },
+      {
+        "i": "5380-2087-2006-05-29",
+        "c": "DE",
+        "n": "Jean-Luc Mouléne - Astral week",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Carlier | Gebauer",
+        "d": [
+          "2006-05-29",
+          "2006-06-03"
+        ]
+      },
+      {
+        "i": "5380-6747-2006-06-08",
+        "c": "GB",
+        "n": "Jean-Luc Moulène",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Thomas Dane Gallery",
+        "d": [
+          "2006-06-08",
+          "2006-07-22"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "5380-1135-2006-10-13",
+        "c": "DE",
+        "n": "Bin beschäftigt",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bremen",
+        "o": "GAK - Gesellschaft für Aktuelle Kunst e.V. Bremen",
+        "d": [
+          "2006-10-13",
+          "2007-01-07"
+        ]
+      },
+      {
+        "i": "5380-5313-2007-05-10",
+        "c": "HR",
+        "n": "Body as Spectacle",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rijeka",
+        "o": "MMSU - Museum of Modern and Contemporary Art Rijeka",
+        "d": [
+          "2007-05-10",
+          "2007-06-10"
+        ]
+      },
+      {
+        "i": "5380-21948-2007-09-08",
+        "c": "DE",
+        "n": "Beyond the Wall",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Stiftung Brandenburger Tor - Max Liebermann Haus",
+        "d": [
+          "2007-09-08",
+          "2007-12-02"
+        ]
+      },
+      {
+        "i": "5380-8102-2007-09-22",
+        "c": "AT",
+        "n": "Volksgarten. Die Politik der Zugehörigkeit",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Graz",
+        "o": "Kunsthaus Graz",
+        "d": [
+          "2007-09-22",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "5380-1615-2007-03-02",
+        "c": "BE",
+        "n": "Jean-Luc Moulène",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Greta Meert",
+        "d": [
+          "2007-03-02",
+          "2007-04-21"
+        ]
+      },
+      {
+        "i": "5380-6747-2007-09-03",
+        "c": "GB",
+        "n": "Jean-Luc Moulène",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Thomas Dane Gallery",
+        "d": [
+          "2007-09-03",
+          "2007-09-21"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "5380-8102-2007-09-22",
+        "c": "AT",
+        "n": "Volksgarten. Die Politik der Zugehörigkeit",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Graz",
+        "o": "Kunsthaus Graz",
+        "d": [
+          "2007-09-22",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "5380-2309-2008-05-24",
+        "c": "IT",
+        "n": "Peripheral vision and collective body",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bolzano",
+        "o": "MUSEION - Museum für moderne und zeitgenössische Kunst ",
+        "d": [
+          "2008-05-24",
+          "2008-09-21"
+        ]
+      },
+      {
+        "i": "5380-16342-2008-09-11",
+        "c": "BE",
+        "n": "Business is Business",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Liège",
+        "o": "Centre Culturel Les Chiroux",
+        "d": [
+          "2008-09-11",
+          "2008-10-11"
+        ]
+      },
+      {
+        "i": "5380-27771-2008-10-16",
+        "c": "BE",
+        "n": "Thinking the world",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "CENTRALE for contemporary art",
+        "d": [
+          "2008-10-16",
+          "2009-01-11"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "5380-27771-2008-10-16",
+        "c": "BE",
+        "n": "Thinking the world",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "CENTRALE for contemporary art",
+        "d": [
+          "2008-10-16",
+          "2009-01-11"
+        ]
+      },
+      {
+        "i": "5380-3739-2009-05-06",
+        "c": "CO",
+        "n": "Paysages de la Conscience",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bogota",
+        "o": "MAMBO - Museo de Arte Moderno de Bogotá",
+        "d": [
+          "2009-05-06",
+          "2009-06-08"
+        ]
+      },
+      {
+        "i": "5380-19510-2009-05-23",
+        "c": "IT",
+        "n": "FLOWER POWER",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Verbania",
+        "o": "Craa Centro di ricerca arte attuale Villa Giulia",
+        "d": [
+          "2009-05-23",
+          "2009-10-11"
+        ]
+      },
+      {
+        "i": "5380-20667-2009-06-24",
+        "c": "ES",
+        "n": "Libertad, Igualdad, Fraternidad",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Zaragoza",
+        "o": "La Lonja",
+        "d": [
+          "2009-06-24",
+          "2009-08-23"
+        ]
+      },
+      {
+        "i": "5380-4967-2009-09-18",
+        "c": "AL",
+        "n": "T.I.C.A.B – Tirana International Contemporary Art Biannual",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Tirana",
+        "o": "Tirana Biennial",
+        "d": [
+          "2009-09-18",
+          "2009-10-22"
+        ]
+      },
+      {
+        "i": "5380-16087-2009-10-04",
+        "c": "US",
+        "n": "Contemporary Works from the Cleve Carney Collection",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Elmhurst, IL",
+        "o": "Elmhurst Art Museum",
+        "d": [
+          "2009-10-04",
+          "2010-01-03"
+        ]
+      },
+      {
+        "i": "5380-9101-2009-10-08",
+        "c": "ES",
+        "n": "Libertad, Igualdad, Fraternidad",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Madrid",
+        "o": "ALCALÁ 31 - Sala de Exposiciones",
+        "d": [
+          "2009-10-08",
+          "2009-11-22"
+        ]
+      },
+      {
+        "i": "5380-14101-2009-12-02",
+        "c": "ES",
+        "n": "Libertad, Igualdad, Fraternidad",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Huarte",
+        "o": "Centro Huarte de Arte Contemporáneo",
+        "d": [
+          "2009-12-02",
+          "2010-03-07"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "5380-16087-2009-10-04",
+        "c": "US",
+        "n": "Contemporary Works from the Cleve Carney Collection",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Elmhurst, IL",
+        "o": "Elmhurst Art Museum",
+        "d": [
+          "2009-10-04",
+          "2010-01-03"
+        ]
+      },
+      {
+        "i": "5380-14101-2009-12-02",
+        "c": "ES",
+        "n": "Libertad, Igualdad, Fraternidad",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Huarte",
+        "o": "Centro Huarte de Arte Contemporáneo",
+        "d": [
+          "2009-12-02",
+          "2010-03-07"
+        ]
+      },
+      {
+        "i": "5380-2724-2010-07-06",
+        "c": "PL",
+        "n": "Workers Leaving the Workplace",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lodz",
+        "o": "ms - Muzeum Sztuki Lodz",
+        "d": [
+          "2010-07-06",
+          "2010-09-05"
+        ]
+      },
+      {
+        "i": "5380-5308-2010-07-15",
+        "c": "UY",
+        "n": "Le Mont Analogue",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Montevideo",
+        "o": "Museo Nacional de Artes Visuales - MNAV",
+        "d": [
+          "2010-07-15",
+          "2010-09-05"
+        ]
+      },
+      {
+        "i": "5380-7990-2010-07-30",
+        "c": "AU",
+        "n": "Still Vast Reserves",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Melbourne, VIC",
+        "o": "Gertrude contemporary art spaces",
+        "d": [
+          "2010-07-30",
+          "2010-08-28"
+        ]
+      },
+      {
+        "i": "5380-2087-2010-01-16",
+        "c": "DE",
+        "n": "Jean-Luc Moulène",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Carlier | Gebauer",
+        "d": [
+          "2010-01-16",
+          "2010-03-06"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "5380-3462-2011-03-16",
+        "c": "AE",
+        "n": "Sharjah Biennial 10 - Plot for a Biennial",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Sharjah",
+        "o": "Sharjah Biennial",
+        "d": [
+          "2011-03-16",
+          "2011-05-16"
+        ]
+      },
+      {
+        "i": "5380-21551-2011-07-06",
+        "c": "PL",
+        "n": "Workers Leaving the Workplace",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lodz",
+        "o": "ms2 – Muzeum Sztuki Lodz",
+        "d": [
+          "2011-07-06",
+          "2011-09-05"
+        ]
+      },
+      {
+        "i": "5380-5723-2011-07-08",
+        "c": "GB",
+        "n": "The Moment Pleasantly Frightful",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Laura Bartlett Gallery",
+        "d": [
+          "2011-07-08",
+          "2011-08-26"
+        ]
+      },
+      {
+        "i": "5380-9931-2011-08-17",
+        "c": "DE",
+        "n": "Road Atlas - Straßenfotografie aus der DZ Bank Kunstsammlung",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rüsselsheim",
+        "o": "Opelvillen",
+        "d": [
+          "2011-08-17",
+          "2011-10-16"
+        ]
+      },
+      {
+        "i": "5380-3733-2011-09-17",
+        "c": "BE",
+        "n": "The Self-portrait, the House and the Seasons",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Oostende",
+        "o": "Mu.ZEE",
+        "d": [
+          "2011-09-17",
+          "2012-01-15"
+        ]
+      },
+      {
+        "i": "5380-21403-2011-11-10",
+        "c": "AE",
+        "n": "The State: The Coming Insurrection",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dubai",
+        "o": "Traffic",
+        "d": [
+          "2011-11-10",
+          "2011-12-31"
+        ]
+      },
+      {
+        "i": "5380-2335-2011-11-19",
+        "c": "BR",
+        "n": "Fotógrafos da Cena Contemporânea",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "São Paulo",
+        "o": "Museu de Arte Contemporânea da Universidade de São Paulo",
+        "d": [
+          "2011-11-19",
+          "2012-04-15"
+        ]
+      },
+      {
+        "i": "5380-1615-2011-04-08",
+        "c": "BE",
+        "n": "Jean-luc MoulÈne",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie Greta Meert",
+        "d": [
+          "2011-04-08",
+          "2011-06-18"
+        ]
+      },
+      {
+        "i": "5380-2744-2011-12-17",
+        "c": "US",
+        "n": "Jean-Luc Moulène, Opus + One",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Beacon, NY",
+        "o": "Dia: Beacon",
+        "d": [
+          "2011-12-17",
+          "2012-12-31"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "5380-3733-2011-09-17",
+        "c": "BE",
+        "n": "The Self-portrait, the House and the Seasons",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Oostende",
+        "o": "Mu.ZEE",
+        "d": [
+          "2011-09-17",
+          "2012-01-15"
+        ]
+      },
+      {
+        "i": "5380-2335-2011-11-19",
+        "c": "BR",
+        "n": "Fotógrafos da Cena Contemporânea",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "São Paulo",
+        "o": "Museu de Arte Contemporânea da Universidade de São Paulo",
+        "d": [
+          "2011-11-19",
+          "2012-04-15"
+        ]
+      },
+      {
+        "i": "5380-11555-2012-04-14",
+        "c": "DE",
+        "n": "Heimat - Fotografien Aus Der Dz Bank Kunstsammlung",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Neuenkirchen",
+        "o": "Kunstverein Springhornhof",
+        "d": [
+          "2012-04-14",
+          "2012-05-20"
+        ]
+      },
+      {
+        "i": "5380-6536-2012-05-31",
+        "c": "ES",
+        "n": "Number Three. From home to the factory. Works from the Centre national des arts plastiques, France",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "La Virreina - Centre de la Imatge",
+        "d": [
+          "2012-05-31",
+          "2012-09-30"
+        ]
+      },
+      {
+        "i": "5380-1595-2012-07-11",
+        "c": "DE",
+        "n": "Road Atlas. Straßenfotografie aus der DZ Bank Kunstsammlung",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Cottbus",
+        "o": "Kunstmuseum Dieselkraftwerk Cottbus",
+        "d": [
+          "2012-07-11",
+          "2012-08-26"
+        ]
+      },
+      {
+        "i": "5380-8587-2012-08-24",
+        "c": "RU",
+        "n": "Portrait/landscape: Genre Boundaries",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Moscow",
+        "o": "Moscow museum of modern art - MMOMA",
+        "d": [
+          "2012-08-24",
+          "2012-10-21"
+        ]
+      },
+      {
+        "i": "5380-21901-2012-10-06",
+        "c": "BE",
+        "n": "Glissement de terrain",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "La Louvière",
+        "o": "Musée Ianchelevici",
+        "d": [
+          "2012-10-06",
+          "2012-12-23"
+        ]
+      },
+      {
+        "i": "5380-30250-2012-11-03",
+        "c": "AE",
+        "n": "In Spite of it All",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Sharjah",
+        "o": "Sharjah Art Foundation Art Spaces",
+        "d": [
+          "2012-11-03",
+          "2013-01-03"
+        ]
+      },
+      {
+        "i": "5380-2744-2011-12-17",
+        "c": "US",
+        "n": "Jean-Luc Moulène, Opus + One",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Beacon, NY",
+        "o": "Dia: Beacon",
+        "d": [
+          "2011-12-17",
+          "2012-12-31"
+        ]
+      },
+      {
+        "i": "5380-2251-2012-09-29",
+        "c": "GB",
+        "n": "Jean-Luc Moule&#768;ne",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Oxford (England)",
+        "o": "Modern Art Oxford",
+        "d": [
+          "2012-09-29",
+          "2012-11-25"
+        ]
+      },
+      {
+        "i": "5380-6747-2012-11-22",
+        "c": "GB",
+        "n": "Jean-Luc Moulène: New Work",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Thomas Dane Gallery",
+        "d": [
+          "2012-11-22",
+          "2013-02-16"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "5380-30250-2012-11-03",
+        "c": "AE",
+        "n": "In Spite of it All",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Sharjah",
+        "o": "Sharjah Art Foundation Art Spaces",
+        "d": [
+          "2012-11-03",
+          "2013-01-03"
+        ]
+      },
+      {
+        "i": "5380-6152-2013-03-02",
+        "c": "BE",
+        "n": "Bon Travail",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "Argos",
+        "d": [
+          "2013-03-02",
+          "2013-04-07"
+        ]
+      },
+      {
+        "i": "5380-5310-2013-04-18",
+        "c": "TR",
+        "n": "Fantastic Machinery",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Istanbul",
+        "o": "Istanbul Modern",
+        "d": [
+          "2013-04-18",
+          "2013-06-16"
+        ]
+      },
+      {
+        "i": "5380-13055-2013-06-16",
+        "c": "NL",
+        "n": "de Verzamelaar: Il faut que le masque ait dansé",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Maastricht",
+        "o": "Marres - Centre for Contemporary Culture",
+        "d": [
+          "2013-06-16",
+          "2013-08-18"
+        ]
+      },
+      {
+        "i": "5380-11350-2013-06-28",
+        "c": "US",
+        "n": "Conscious Unusable",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Miguel Abreu Gallery",
+        "d": [
+          "2013-06-28",
+          "2013-08-17"
+        ]
+      },
+      {
+        "i": "5380-2369-2013-11-09",
+        "c": "US",
+        "n": "The Way of the Shovel: Art as Archaeology",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Chicago, IL",
+        "o": "Museum of Contemporary Art Chicago (MCA)",
+        "d": [
+          "2013-11-09",
+          "2014-03-09"
+        ]
+      },
+      {
+        "i": "5380-6747-2012-11-22",
+        "c": "GB",
+        "n": "Jean-Luc Moulène: New Work",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Thomas Dane Gallery",
+        "d": [
+          "2012-11-22",
+          "2013-02-16"
+        ]
+      },
+      {
+        "i": "5380-19516-2013-07-11",
+        "c": "LB",
+        "n": "Jean-Luc Moulène",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Beirut",
+        "o": "Beirut Art Center",
+        "d": [
+          "2013-07-11",
+          "2013-10-12"
+        ]
+      },
+      {
+        "i": "5380-2943-2013-12-13",
+        "c": "BE",
+        "n": "Jean-Luc Moulène: Endwards",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "Extra City - Kunsthal Antwerpen",
+        "d": [
+          "2013-12-13",
+          "2014-02-23"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "5380-2369-2013-11-09",
+        "c": "US",
+        "n": "The Way of the Shovel: Art as Archaeology",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Chicago, IL",
+        "o": "Museum of Contemporary Art Chicago (MCA)",
+        "d": [
+          "2013-11-09",
+          "2014-03-09"
+        ]
+      },
+      {
+        "i": "5380-2943-2013-12-13",
+        "c": "BE",
+        "n": "Jean-Luc Moulène: Endwards",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "Extra City - Kunsthal Antwerpen",
+        "d": [
+          "2013-12-13",
+          "2014-02-23"
+        ]
+      }
+    ]
+  }
+}

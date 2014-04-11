@@ -1,0 +1,148 @@
+{
+  "id": "90734",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:41:04",
+  "name": "Bad Beuys Entertainment",
+  "surname": "Bad Beuys Entertainment",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1999",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "20379",
+  "r01": "18659",
+  "r02": "16673",
+  "r03": "14772",
+  "r04": "15434",
+  "r05": "15212",
+  "r06": "14522",
+  "r07": "21051",
+  "r08": "28063",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2004",
+  "all-shows-total": "15",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (3), Canada (1), Germany (1)",
+  "2005-shows-with": "Bad Beuys Entertainment (5)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Bad",
+  "last_name": "Beuys",
+  "genre": "c",
+  "birthDate": "1999-01-01",
+  "age": 15,
+  "age_range": "0-25",
+  "expos": {
+    "2005": [
+      {
+        "i": "90734-11359-2005-04-07",
+        "c": "NO",
+        "n": "Vårutstillingen 2005: Hello Society",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Oslo",
+        "o": "Fotogalleriet",
+        "d": [
+          "2005-04-07",
+          "2005-05-08"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "90734-7699-2007-04-25",
+        "c": "AT",
+        "n": "ARTmART 2007",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Künstlerhaus Wien",
+        "d": [
+          "2007-04-25",
+          "2007-05-01"
+        ]
+      },
+      {
+        "i": "90734-4418-2007-07-20",
+        "c": "BR",
+        "n": "Comunismo da Forma",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "São Paulo",
+        "o": "Galeria Vermelho",
+        "d": [
+          "2007-07-20",
+          "2007-08-04"
+        ]
+      },
+      {
+        "i": "90734-3989-2007-10-06",
+        "c": "NL",
+        "n": "groepexpositie",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "The Hague",
+        "o": "West Den Haag",
+        "d": [
+          "2007-10-06",
+          "2007-11-03"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "90734-11307-2009-04-08",
+        "c": "CA",
+        "n": "The Communism Of Forms",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Toronto, ON",
+        "o": "AGYU / Art Gallery of York University",
+        "d": [
+          "2009-04-08",
+          "2009-06-14"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "90734-9302-2010-10-29",
+        "c": "DE",
+        "n": "Channel TV",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Hamburg",
+        "o": "Kunstverein Harburger Bahnhof",
+        "d": [
+          "2010-10-29",
+          "2010-12-19"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "90734-11963-2006-11-18",
+        "c": "GB",
+        "n": "Final Count Of The Collision Between Us And The Damned",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Carter&Gallagher",
+        "d": [
+          "2006-11-18",
+          "2006-12-17"
+        ]
+      }
+    ]
+  }
+}

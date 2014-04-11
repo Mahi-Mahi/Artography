@@ -1,0 +1,28 @@
+{
+  "id": "10599",
+  "name": "Galerie Francoise Souchaud",
+  "street": "35 rue Burdeau",
+  "zip": "69001",
+  "city": "Lyon",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 78 42 49 51",
+  "email": "souchaud@wanadoo.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Lyon%2C%2069001 %2C%20 %2C%2035 rue Burdeau %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2006": [
+      {
+        "i": "10599-Art Prague 2006",
+        "c": "CZ",
+        "n": "Galerie Francoise Souchaud",
+        "ct": "Prague"
+      }
+    ]
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "id": "64539",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:30:10",
+  "name": "ZEVS",
+  "surname": "ZEVS",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1977",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Graffiti",
+  "r00": "9634",
+  "r01": "9466",
+  "r02": "9652",
+  "r03": "9104",
+  "r04": "8657",
+  "r05": "11531",
+  "r06": "35330",
+  "r07": "60446",
+  "r08": "74755",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2004",
+  "all-shows-total": "38",
+  "2005-shows-biennials": "19",
+  "2005-shows-galleries": "19",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "Germany (7), United Kingdom (6), USA (6), China (4), France (4), Denmark (3), Czech Republic (1), Switzerland (1), United Arab Emirates (1)",
+  "2005-shows-with": "ZEVS (29), BOXI (6), Invader (6), Tilt (6), Brad Downey (5), Shepard Fairey (5), Mirko Reisser (5), Blu (4), Conor Harrington (4), Mark Jenkins (4), JonOne (4), Daniel Man (4), Miss Van (4), Victor Ash (3), Herbert Baglione (3), Daniele Buetti (3), Futura2000 (3), Damien Hirst (3), Lucy McLauchlan (3), Antony Micallef (3), Mode 2 (3), Os Gemeos (3), Pius Portmann (3), Richard Prince (3), Swoon (3), Word To Mother (3), Jonathan Yeo (3), A-Kassen (2), AES+F (2), Akim (2), Ruby Anemic (2), Miroslaw Balka (2), Banksy (2), BAST (2), Maiken Bent (2), Blek Le Rat (2), Bronco (2), Baldur Burwitz (2), Dave the Chimp (2), David Choe (2), Lilibeth Cuenca Rasmussen (2), D*Face (2), Miranda Donovan (2), DTagno (2), Jimmie Durham (2), Ben Eine (2), Robert Filliou (2), Ian Francis (2), Liam Gillick (2), Nan Goldin (2), S. Mark Gubb (2), Jan S. Hansen (2), Jenny Holzer (2), Todd James (2), JR (2), Juneau Projects (2), Toshiya Kobayashi (2), Hans Kotter (2), Barbara Kruger (2), Mambo (2), John Matos (2), Michael Mayhew (2), B",
+  "representing-galleries": "Galerie Patricia Dorfmann (61, rue de la Verrerie, 75004 Paris, France); Galerie Zeitgeist (4 bis rue du Chevalier de la Barre, 75018 Paris, France); Lazarides Gallery (11 Rathbone Place, W1T 1HR London (England), United Kingdom); De Buck Gallery (511 W 25th Street, Suite 502, 10001 New York City, NY, USA)",
+  "collecting-museums": null,
+  "first_name": "ZEVS",
+  "last_name": "",
+  "genre": "m",
+  "birthDate": "1977-01-01",
+  "age": 37,
+  "age_range": "36-45",
+  "expos": {
+    "2007": [
+      {
+        "i": "64539-13879-2007-02-11",
+        "c": "DE",
+        "n": "still on and non the wiser&#8230; - Street Art - Graffiti - Wuppertal",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Wuppertal",
+        "o": "Von der Heydt Kunsthalle",
+        "d": [
+          "2007-02-11",
+          "2007-05-06"
+        ]
+      },
+      {
+        "i": "64539-11647-2007-02-17",
+        "c": "CH",
+        "n": "Wakin up nights",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "de Pury & Luxembourg",
+        "d": [
+          "2007-02-17",
+          "2007-03-17"
+        ]
+      },
+      {
+        "i": "64539-964-2007-09-21",
+        "c": "DE",
+        "n": "gezeichnet - Fotografie - ausgewählt von Rik Reinking",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Hamburg",
+        "o": "Galerie  Borchardt",
+        "d": [
+          "2007-09-21",
+          "2007-11-10"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "64539-10735-2008-01-25",
+        "c": "DE",
+        "n": "Fresh air smells funny",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Osnabruck",
+        "o": "Kunsthalle Dominikanerkirche",
+        "d": [
+          "2008-01-25",
+          "2008-03-30"
+        ]
+      },
+      {
+        "i": "64539-7694-2008-04-05",
+        "c": "DE",
+        "n": "Radical Advertising",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dusseldorf",
+        "o": "NRW-Forum Kultur und Wirtschaft",
+        "d": [
+          "2008-04-05",
+          "2008-08-17"
+        ]
+      },
+      {
+        "i": "64539-12318-2008-06-14",
+        "c": "DK",
+        "n": "Call it what you like - Collection Rik Reinking",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Silkeborg",
+        "o": "Kunst Centret Silkeborg Bad",
+        "d": [
+          "2008-06-14",
+          "2008-09-28"
+        ]
+      },
+      {
+        "i": "64539-7269-2008-06-16",
+        "c": "CN",
+        "n": "Frank Perrin and ZEVS - Postcapitalism Kidnapping",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Art Statements Gallery",
+        "d": [
+          "2008-06-16",
+          "2008-07-12"
+        ]
+      },
+      {
+        "i": "64539--2008-09-04",
+        "c": "GB",
+        "n": "Group Exhibitions",
+        "st": "Group",
+        "t": null,
+        "ct": "Manchester (England)",
+        "o": null,
+        "d": [
+          "2008-09-04",
+          "2008-09-06"
+        ]
+      },
+      {
+        "i": "64539-13773-2008-09-04",
+        "c": "GB",
+        "n": "Beck´s Fusion",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Manchester (England)",
+        "o": "Castlefield Gallery",
+        "d": [
+          "2008-09-04",
+          "2008-09-06"
+        ]
+      },
+      {
+        "i": "64539-18249-2008-09-25",
+        "c": "CZ",
+        "n": "TINA B. – The Prague Contemporary Art Festival 08",
+        "st": "Group",
+        "t": "Festival",
+        "ct": "Prague",
+        "o": "TINA B. – The Prague Contemporary Art Festival",
+        "d": [
+          "2008-09-25",
+          "2008-10-15"
+        ]
+      },
+      {
+        "i": "64539-3853-2008-12-05",
+        "c": "GB",
+        "n": "Outsiders",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Walsall, West Midlands (England)",
+        "o": "The New Art Gallery Walsall",
+        "d": [
+          "2008-12-05",
+          "2009-01-25"
+        ]
+      },
+      {
+        "i": "64539-10862-2008-02-22",
+        "c": "DK",
+        "n": "Zevs - Electroshock",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Copenhagen",
+        "o": "Ny Carlsberg Glyptotek",
+        "d": [
+          "2008-02-22",
+          "2008-05-04"
+        ]
+      },
+      {
+        "i": "64539-11647-2008-12-02",
+        "c": "CH",
+        "n": "Visual Attack",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "de Pury & Luxembourg",
+        "d": [
+          "2008-12-02",
+          "2009-02-21"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "64539-3853-2008-12-05",
+        "c": "GB",
+        "n": "Outsiders",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Walsall, West Midlands (England)",
+        "o": "The New Art Gallery Walsall",
+        "d": [
+          "2008-12-05",
+          "2009-01-25"
+        ]
+      },
+      {
+        "i": "64539-10665-2009-05-15",
+        "c": "GB",
+        "n": "Grow Up",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lazarides Gallery",
+        "d": [
+          "2009-05-15",
+          "2009-06-25"
+        ]
+      },
+      {
+        "i": "64539-2188-2009-05-16",
+        "c": "DE",
+        "n": "Urban Art - Werke aus der Sammlung Reinking",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bremen",
+        "o": "Weserburg | Museum für moderne Kunst",
+        "d": [
+          "2009-05-16",
+          "2009-08-30"
+        ]
+      },
+      {
+        "i": "64539-8687-2009-10-15",
+        "c": "DE",
+        "n": "Artotale - Leuphana Urban Art Project",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lüneburg",
+        "o": "Kunstraum der Leuphana Universität Lüneburg",
+        "d": [
+          "2009-10-15",
+          "2009-10-09"
+        ]
+      },
+      {
+        "i": "64539-7269-2009-12-17",
+        "c": "CN",
+        "n": "The Core Marrow of Art",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Art Statements Gallery",
+        "d": [
+          "2009-12-17",
+          "2010-01-30"
+        ]
+      },
+      {
+        "i": "64539-21129-2009-12-24",
+        "c": "CN",
+        "n": "From Style Writing to Art (Part 2 - Shanghai)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Shanghai",
+        "o": "18Gallery Shanghai - Bund18",
+        "d": [
+          "2009-12-24",
+          "2010-01-21"
+        ]
+      },
+      {
+        "i": "64539-11647-2008-12-02",
+        "c": "CH",
+        "n": "Visual Attack",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Zurich",
+        "o": "de Pury & Luxembourg",
+        "d": [
+          "2008-12-02",
+          "2009-02-21"
+        ]
+      },
+      {
+        "i": "64539-7269-2009-07-16",
+        "c": "CN",
+        "n": "ZEVS - First Solo show in Hong Kong",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Art Statements Gallery",
+        "d": [
+          "2009-07-16",
+          "2009-09-30"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "64539-7269-2009-12-17",
+        "c": "CN",
+        "n": "The Core Marrow of Art",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Hong Kong, SAR",
+        "o": "Art Statements Gallery",
+        "d": [
+          "2009-12-17",
+          "2010-01-30"
+        ]
+      },
+      {
+        "i": "64539-21129-2009-12-24",
+        "c": "CN",
+        "n": "From Style Writing to Art (Part 2 - Shanghai)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Shanghai",
+        "o": "18Gallery Shanghai - Bund18",
+        "d": [
+          "2009-12-24",
+          "2010-01-21"
+        ]
+      },
+      {
+        "i": "64539-8146-2010-09-17",
+        "c": "DE",
+        "n": "inter-cool 3.0",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Dortmund",
+        "o": "HMKV - Hartware MedienKunstVerein",
+        "d": [
+          "2010-09-17",
+          "2010-11-28"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "64539-21999-2011-07-21",
+        "c": "US",
+        "n": "Summer Selections",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "De Buck Gallery",
+        "d": [
+          "2011-07-21",
+          "2011-09-01"
+        ]
+      },
+      {
+        "i": "64539-10665-2011-10-11",
+        "c": "GB",
+        "n": "The Minotaur",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Lazarides Gallery",
+        "d": [
+          "2011-10-11",
+          "2011-10-25"
+        ]
+      },
+      {
+        "i": "64539-20485-2011-10-29",
+        "c": "DK",
+        "n": "Facetime",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Copenhagen",
+        "o": "IMO",
+        "d": [
+          "2011-10-29",
+          "2011-12-03"
+        ]
+      },
+      {
+        "i": "64539-21999-2011-02-24",
+        "c": "US",
+        "n": "ZEVS: LIQUIDATED VERSION",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "De Buck Gallery",
+        "d": [
+          "2011-02-24",
+          "2011-04-07"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "64539-19028-2012-01-08",
+        "c": "US",
+        "n": "Facetime",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "On Stellar Rays",
+        "d": [
+          "2012-01-08",
+          "2012-02-26"
+        ]
+      },
+      {
+        "i": "64539-21403-2012-02-02",
+        "c": "AE",
+        "n": "Domination, Hegemony and The Panopticon",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dubai",
+        "o": "Traffic",
+        "d": [
+          "2012-02-02",
+          "2012-03-31"
+        ]
+      },
+      {
+        "i": "64539-22253-2012-05-26",
+        "c": "DE",
+        "n": "Art & Toys – Collection Selim Varol",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "me Collectors Room Berlin",
+        "d": [
+          "2012-05-26",
+          "2012-09-16"
+        ]
+      },
+      {
+        "i": "64539-27600-2012-06-30",
+        "c": "US",
+        "n": "Freestyle",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Studio City, CA",
+        "o": "Fabien Castanier Gallery",
+        "d": [
+          "2012-06-30",
+          "2012-09-02"
+        ]
+      },
+      {
+        "i": "64539-4492-2012-08-08",
+        "c": "US",
+        "n": "Détournement: Signs of the Times",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Jonathan LeVine Gallery",
+        "d": [
+          "2012-08-08",
+          "2012-08-25"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "64539-10830-2013-04-13",
+        "c": "DE",
+        "n": "Poesia - Werke Sammlung Rik Reinking",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Delmenhorst ",
+        "o": "Städtische Galerie Delmenhorst",
+        "d": [
+          "2013-04-13",
+          "2013-06-09"
+        ]
+      },
+      {
+        "i": "64539-28521-2013-04-26",
+        "c": "GB",
+        "n": "Cultural Hijack",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "AA Gallery - AA School of Architecture",
+        "d": [
+          "2013-04-26",
+          "2013-05-25"
+        ]
+      },
+      {
+        "i": "64539-21999-2013-07-08",
+        "c": "US",
+        "n": "Summer Selections",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "De Buck Gallery",
+        "d": [
+          "2013-07-08",
+          "2013-08-30"
+        ]
+      }
+    ]
+  }
+}

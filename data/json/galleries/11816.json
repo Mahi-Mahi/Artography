@@ -1,0 +1,66 @@
+{
+  "id": "11816",
+  "name": "galerieofmarseille",
+  "street": "8 rue du Chevalier Roze",
+  "zip": "13002",
+  "city": "Marseille",
+  "country": "France",
+  "foundation": "2006",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 91 90 07 98",
+  "email": "contact@galerieofmarseille.com",
+  "www": "www.galerieofmarseille.com",
+  "map": "http://maps.google.com/maps?q=Marseille%2C%2013002 %2C%20 %2C%208 rue du Chevalier Roze %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "6",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2008": [
+      {
+        "i": "11816-NEXT 08",
+        "c": "US",
+        "n": "galerieofmarseille",
+        "ct": "Chicago, IL"
+      },
+      {
+        "i": "11816-Loop - The Video Art Fair 08",
+        "c": "ES",
+        "n": "galerieofmarseille",
+        "ct": "Barcelona"
+      }
+    ],
+    "2009": [
+      {
+        "i": "11816-VOLTAshow05",
+        "c": "CH",
+        "n": "galerieofmarseille",
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "11816-VOLTAshow06",
+        "c": "CH",
+        "n": "galerieofmarseille",
+        "ct": "Basel"
+      }
+    ],
+    "2011": [
+      {
+        "i": "11816-Loop - The Video Art Fair 2011",
+        "c": "ES",
+        "n": "galerieofmarseille",
+        "ct": "Barcelona"
+      }
+    ],
+    "2012": [
+      {
+        "i": "11816-Loop - The Video Art Fair 2012",
+        "c": "ES",
+        "n": "galerieofmarseille",
+        "ct": "Barcelona"
+      }
+    ]
+  }
+}

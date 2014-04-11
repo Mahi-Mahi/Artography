@@ -1,0 +1,77 @@
+{
+  "id": "123312",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:53:46",
+  "name": "Camille Virot",
+  "surname": "Virot",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Franche-Comte (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1947",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "72686",
+  "r01": "78853",
+  "r02": "73974",
+  "r03": "94634",
+  "r04": "88163",
+  "r05": "81276",
+  "r06": "73322",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1995",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (1), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Camille Virot (3)",
+  "representing-galleries": "Hart Gallery (113 Upper St - Islington, N1 1QN London (England), United Kingdom)",
+  "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); Sèvres - Cité de la céramique (2 Place de la Manufacture, 92310 Sevres, France)",
+  "first_name": "Camille",
+  "last_name": "Virot",
+  "genre": "c",
+  "birthDate": "1947-01-01",
+  "age": 67,
+  "age_range": "46-55",
+  "expos": {
+    "2011": [
+      {
+        "i": "123312-4830-2011-06-23",
+        "c": "GB",
+        "n": "Mixed Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Hart Gallery",
+        "d": [
+          "2011-06-23",
+          "2011-09-03"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "123312-22679-2013-03-28",
+        "c": "CH",
+        "n": "Huit artistes et la terre",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Musée Ariana",
+        "d": [
+          "2013-03-28",
+          "2013-08-18"
+        ]
+      }
+    ]
+  }
+}

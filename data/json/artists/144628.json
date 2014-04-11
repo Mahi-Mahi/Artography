@@ -1,0 +1,77 @@
+{
+  "id": "144628",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:02:15",
+  "name": "Hubert le Gall",
+  "surname": "Gall",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Lyon, Rhône (FR)",
+  "birth day": "20",
+  "birth month": "2",
+  "birth year": "1961",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "41759",
+  "r01": "38852",
+  "r02": "35408",
+  "r03": "31956",
+  "r04": "35752",
+  "r05": "34930",
+  "r06": "49884",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (2), Monaco (1), Switzerland (1)",
+  "2005-shows-with": "Hubert le Gall (2)",
+  "representing-galleries": "Galerie Pierre-Alain Challier (8, rue Debelleyme, 75003 Paris, France); Galerie Piltzer (6, avenue Foch, 75116 Paris, France); Art & Rapy - Contemporary Art Gallery (11, Avenue Princesse Grace, 98000 Monaco, Monaco)",
+  "collecting-museums": null,
+  "first_name": "Hubert",
+  "last_name": "le",
+  "genre": "m",
+  "birthDate": "1961-02-20",
+  "age": 53,
+  "age_range": "46-55",
+  "expos": {
+    "2010": [
+      {
+        "i": "144628-10681-2010-06-24",
+        "c": "CH",
+        "n": "Nature in a Kit",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lausanne",
+        "o": "MUDAC - Musée de design es d`arts appliques contemporains",
+        "d": [
+          "2010-06-24",
+          "2010-09-27"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "144628-20119-2009-04-09",
+        "c": "MC",
+        "n": "Design Hubert Le Gall",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Art & Rapy - Contemporary Art Gallery",
+        "d": [
+          "2009-04-09",
+          "2009-05-30"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "60981",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:28:44",
+  "name": "Xavier Escribà",
+  "surname": "Escribà",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1969",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "36323",
+  "r01": "33449",
+  "r02": "29966",
+  "r03": "30506",
+  "r04": "26893",
+  "r05": "32795",
+  "r06": "28617",
+  "r07": "23887",
+  "r08": "29740",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Spain (3), France (2)",
+  "2005-shows-with": null,
+  "representing-galleries": "Galería Marita Segovia (Calle Lagasca 7, 28016 Madrid, Spain)",
+  "collecting-museums": null,
+  "first_name": "Xavier",
+  "last_name": "Escribà",
+  "genre": "m",
+  "birthDate": "1969-01-01",
+  "age": 45,
+  "age_range": "36-45",
+  "expos": {
+    "2006": [
+      {
+        "i": "60981-11404-2006-02-02",
+        "c": "ES",
+        "n": "Xavier Escribà - Obra recent",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Galeria Fidel Balaguer",
+        "d": [
+          "2006-02-02",
+          "2006-03-04"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "60981-9515-2009-01-12",
+        "c": "ES",
+        "n": "Xavier Escribá - Pintura",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Madrid",
+        "o": "Galería Marita Segovia",
+        "d": [
+          "2009-01-12",
+          "2009-02-28"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "60981-4062-2011-06-16",
+        "c": "ES",
+        "n": "Xavier Escribà -  La face 'au culte' de la peinture",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "Oriol Galeria d'Art",
+        "d": [
+          "2011-06-16",
+          "2011-07-28"
+        ]
+      },
+      {
+        "i": "60981-3741-2011-10-07",
+        "c": "ES",
+        "n": "Xavier Escribà",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Tarragona",
+        "o": "Museu d'Art Modern de Tarragona",
+        "d": [
+          "2011-10-07",
+          "2011-12-04"
+        ]
+      }
+    ]
+  }
+}

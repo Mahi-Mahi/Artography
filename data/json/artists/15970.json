@@ -1,0 +1,466 @@
+{
+  "id": "15970",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:09:40",
+  "name": "Julien Berthier",
+  "surname": "Berthier",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Besançon (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1975",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Video, Installation, Performance",
+  "r00": "2985",
+  "r01": "2865",
+  "r02": "2556",
+  "r03": "2454",
+  "r04": "2604",
+  "r05": "2311",
+  "r06": "2680",
+  "r07": "2586",
+  "r08": "4517",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2001",
+  "all-shows-total": "64",
+  "2005-shows-biennials": "9",
+  "2005-shows-galleries": "9",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "France (16), Germany (7), Italy (2), United Kingdom (2), Austria (1), Belgium (1), Hungary (1), Spain (1), Switzerland (1)",
+  "2005-shows-with": "Julien Berthier (28), Gilles Barbier (6), Wilfrid Almendra (3), Simon Boudvin (3), Alain Bublex (3), Wim Delvoye (3), Damien Deroubaix (3), Blaise Drummond (3), Claire Fontaine (3), Cyprien Gaillard (3), Bertrand Lavier (3), Natacha Lesueur (3), Mrzyk & Moriceau (3), Julien Prévieux (3), Evariste Richer (3), Didier Rittener (3), Michael Sailstorfer (3), Ernest T. (3), Stéphane Thidet (3), Franz Ackermann (2), Allora & Calzadilla (2), Pierre Ardouvin (2), Micol Assaël (2), Fayçal Baghriche (2), Bernd & Hilla Becher (2), Olivier Blanckart (2), Pierre-Yves Bohm (2), Etienne Bossut (2), Céleste Boursier-Mougenot (2), Anne Brégeaut (2), Benoit Broisat (2), Balthasar Burkhard (2), Mircea Cantor (2), Valentin Carron (2), Nicolas Chardon (2), Matthieu Clainchard (2), Nicolas Darrot (2), Luc Delahaye (2), Philippe Dereux (2), Mark Dion (2), Julien Discrit (2), Richard Fauguet (2), Didier Faustino (2), Valérie Favre (2), Dominique Figarella (2), Daniel Firman (2), Vidya Gastaldon (2), Johan Grimonprez (2), Thoma",
+  "representing-galleries": "Galerie Georges-Philippe & Nathalie Vallois (36 , rue de Seine, 75006 Paris, France); Galerie Wiesehöfer (former Frehrking Wiesehöfer) (Schaafenstr. 8, 50676 Cologne, Germany); BlindArte contemporanea (Via Caio Duilio 4D - 10, 80125 Naples, Italy)",
+  "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France)",
+  "first_name": "Julien",
+  "last_name": "Berthier",
+  "genre": "m",
+  "birthDate": "1975-01-01",
+  "age": 39,
+  "age_range": "36-45",
+  "expos": {
+    "2005": [
+      {
+        "i": "15970-2750-2005-03-09",
+        "c": "CH",
+        "n": "Bewegliche Teile",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Basel",
+        "o": "Museum Tinguely",
+        "d": [
+          "2005-03-09",
+          "2005-06-26"
+        ]
+      },
+      {
+        "i": "15970-9931-2005-09-21",
+        "c": "DE",
+        "n": "ROBOTER - Wird künstliche Intelligenz zu künstlerischer Strategie?",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rüsselsheim",
+        "o": "Opelvillen",
+        "d": [
+          "2005-09-21",
+          "2005-12-11"
+        ]
+      },
+      {
+        "i": "15970-2259-2005-11-19",
+        "c": "DE",
+        "n": "Lichtkunst aus Kunstlicht",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2005-11-19",
+          "2006-08-06"
+        ]
+      },
+      {
+        "i": "15970-3140-2005-11-26",
+        "c": "IT",
+        "n": "Napoli presente. Posizioni e prospettive dell’arte contemporanea",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Naples",
+        "o": "PAN - Palazzo delle Arti di Napoli",
+        "d": [
+          "2005-11-26",
+          "2006-02-26"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "15970-2259-2005-11-19",
+        "c": "DE",
+        "n": "Lichtkunst aus Kunstlicht",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2005-11-19",
+          "2006-08-06"
+        ]
+      },
+      {
+        "i": "15970-3140-2005-11-26",
+        "c": "IT",
+        "n": "Napoli presente. Posizioni e prospettive dell’arte contemporanea",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Naples",
+        "o": "PAN - Palazzo delle Arti di Napoli",
+        "d": [
+          "2005-11-26",
+          "2006-02-26"
+        ]
+      },
+      {
+        "i": "15970-4279-2006-01-14",
+        "c": "PT",
+        "n": "Classe Preferente",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Porto",
+        "o": "Galeria Graça Brandão - Porto",
+        "d": [
+          "2006-01-14",
+          "2006-02-28"
+        ]
+      },
+      {
+        "i": "15970-2183-2006-06-11",
+        "c": "DE",
+        "n": "Und es bewegt sich doch ...",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Bochum",
+        "o": "Kunstmuseum Bochum",
+        "d": [
+          "2006-06-11",
+          "2006-09-03"
+        ]
+      },
+      {
+        "i": "15970-7146-2006-08-20",
+        "c": "DE",
+        "n": "Fliegende Kühe und andere Kometen – Nicht nur komische Dinge in der Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Esslingen",
+        "o": "Villa Merkel - Galerien der Stadt Esslingen",
+        "d": [
+          "2006-08-20",
+          "2006-10-15"
+        ]
+      },
+      {
+        "i": "15970-7067-2006-09-20",
+        "c": "CA",
+        "n": "7e manifestation internationale vidéo et art électronique, Montréal",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Montreal, QC",
+        "o": "champ libre",
+        "d": [
+          "2006-09-20",
+          "2006-10-01"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "15970-224-2007-03-15",
+        "c": "BE",
+        "n": "Zu Gast bei Freunden",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Antwerp",
+        "o": "Stella Lohaus Gallery",
+        "d": [
+          "2007-03-15",
+          "2007-04-21"
+        ]
+      },
+      {
+        "i": "15970-7609-2007-07-14",
+        "c": "IT",
+        "n": "Is it a Pazziella?",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Naples",
+        "o": "BlindArte contemporanea",
+        "d": [
+          "2007-07-14",
+          "2007-09-08"
+        ]
+      },
+      {
+        "i": "15970-7071-2007-08-19",
+        "c": "CH",
+        "n": "Surrealites - Aspekte des Surrealen in der zeitgenössischen Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Biel/Bienne",
+        "o": "Kunsthaus CentrePasquArt - Centre d'Art",
+        "d": [
+          "2007-08-19",
+          "2007-10-21"
+        ]
+      },
+      {
+        "i": "15970-11684-2007-10-13",
+        "c": "GB",
+        "n": "Julien Berthier - Love Love and other attempts",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Allsopp Contemporary",
+        "d": [
+          "2007-10-13",
+          "2007-11-17"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "15970-6781-2008-03-09",
+        "c": "DE",
+        "n": "Prêt-à-porter",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Kassel",
+        "o": "Kasseler Kunstverein",
+        "d": [
+          "2008-03-09",
+          "2008-06-29"
+        ]
+      },
+      {
+        "i": "15970-8291-2008-03-28",
+        "c": "CH",
+        "n": "Comme des bêtes. Ours, chat, cochon & Cie",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Lausanne",
+        "o": "Musée cantonal des Beaux-Arts",
+        "d": [
+          "2008-03-28",
+          "2008-06-22"
+        ]
+      },
+      {
+        "i": "15970-9308-2008-04-19",
+        "c": "DE",
+        "n": "Ad Absurdum - Zeitgemäße Aperate",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Nordhorn",
+        "o": "Städtische Galerie Nordhorn",
+        "d": [
+          "2008-04-19",
+          "2008-06-08"
+        ]
+      },
+      {
+        "i": "15970-7016-2008-05-10",
+        "c": "GB",
+        "n": "Bass Diffusion Model",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Fieldgate Gallery",
+        "d": [
+          "2008-05-10",
+          "2008-06-01"
+        ]
+      },
+      {
+        "i": "15970-285-2008-10-04",
+        "c": "AT",
+        "n": "Landscope",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Salzburg",
+        "o": "Galerie Thaddaeus Ropac - Salzburg",
+        "d": [
+          "2008-10-04",
+          "2008-11-15"
+        ]
+      },
+      {
+        "i": "15970-18810-2008-10-25",
+        "c": "GB",
+        "n": "drift",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Illuminate Productions",
+        "d": [
+          "2008-10-25",
+          "2008-11-19"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "15970-5490-2010-01-29",
+        "c": "ES",
+        "n": "Things that ony an artist can do",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vigo",
+        "o": "MARCO Museo de Arte Contemporánea de Vigo",
+        "d": [
+          "2010-01-29",
+          "2010-05-02"
+        ]
+      },
+      {
+        "i": "15970-7609-2010-03-20",
+        "c": "IT",
+        "n": "Undefined borders for unlimited perceptions",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Naples",
+        "o": "BlindArte contemporanea",
+        "d": [
+          "2010-03-20",
+          "2010-05-06"
+        ]
+      },
+      {
+        "i": "15970-23356-2010-08-06",
+        "c": "DE",
+        "n": "PROVINZ",
+        "st": "Group",
+        "t": "Temporary Exhibition Space",
+        "ct": "Lindau",
+        "o": "PROVINZ",
+        "d": [
+          "2010-08-06",
+          "2010-08-28"
+        ]
+      },
+      {
+        "i": "15970-9150-2010-11-21",
+        "c": "BE",
+        "n": "Alter Nature: We Can",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Hasselt",
+        "o": "Z33",
+        "d": [
+          "2010-11-21",
+          "2010-03-13"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "15970-10456-2011-04-16",
+        "c": "IT",
+        "n": "Drawings Wall",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Rovereto",
+        "o": "Paolo Maria Deanesi Gallery",
+        "d": [
+          "2011-04-16",
+          "2011-07-30"
+        ]
+      },
+      {
+        "i": "15970-15877-2011-05-25",
+        "c": "HU",
+        "n": "Better Being A Virus Than Catching A Cold",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Budapest",
+        "o": "Studio Gallery - Studio of Young Artists Association",
+        "d": [
+          "2011-05-25",
+          "2011-06-25"
+        ]
+      },
+      {
+        "i": "15970-22253-2011-05-29",
+        "c": "DE",
+        "n": "Alles Kannibalen? / ALL CANNIBALS?",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "me Collectors Room Berlin",
+        "d": [
+          "2011-05-29",
+          "2011-08-21"
+        ]
+      },
+      {
+        "i": "15970-22253-2011-10-01",
+        "c": "DE",
+        "n": "My Paris, Collection Antoine de Galbert",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "me Collectors Room Berlin",
+        "d": [
+          "2011-10-01",
+          "2012-01-08"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "15970-22253-2011-10-01",
+        "c": "DE",
+        "n": "My Paris, Collection Antoine de Galbert",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "me Collectors Room Berlin",
+        "d": [
+          "2011-10-01",
+          "2012-01-08"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "15970-21605-2013-01-18",
+        "c": "DE",
+        "n": "Daddy YOU can´t make a cactus... this has been done!",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Grimmuseum",
+        "d": [
+          "2013-01-18",
+          "2013-02-17"
+        ]
+      },
+      {
+        "i": "15970-7146-2013-07-19",
+        "c": "DE",
+        "n": "Crossing Media – Der Kunst die Bühne",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Esslingen",
+        "o": "Villa Merkel - Galerien der Stadt Esslingen",
+        "d": [
+          "2013-07-19",
+          "2013-10-06"
+        ]
+      }
+    ]
+  }
+}

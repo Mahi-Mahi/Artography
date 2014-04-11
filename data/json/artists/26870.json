@@ -1,0 +1,92 @@
+{
+  "id": "26870",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:14:33",
+  "name": "Jean-Michel Sanejouand",
+  "surname": "Sanejouand",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Lyon (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1934",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting, Sculpture",
+  "r00": "3995",
+  "r01": "3807",
+  "r02": "4909",
+  "r03": "4260",
+  "r04": "3872",
+  "r05": "3808",
+  "r06": "3447",
+  "r07": "3749",
+  "r08": "3419",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1970",
+  "all-shows-total": "42",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "17",
+  "2005-countries-total": "France (17), USA (1)",
+  "2005-shows-with": "Jean-Michel Sanejouand (14), Bertrand Lavier (5), John M Armleder (3), Hans-Peter Feldmann (3), Raymond Hains (3), Ann Veronica Janssens (3), Gina Pane (3), Claude Rutault (3), Fred Sandback (3), Raphaël Zarka (3), Scoli Acosta (2), Richard Baquié (2), Martin Barré (2), Jean-Pierre Bertrand (2), Joseph Beuys (2), Jean Luc Blanc (2), Katinka Bock (2), Robert Combas (2), Melanie Counsell (2), Didier Courbot (2), Erik Dietman (2), Thea Djordjadze (2), Hubert Duprat (2), Jimmie Durham (2), Daniel Firman (2), Barry Flanagan (2), Roland Flexner (2), Jim Hodges (2), Douglas Huebler (2), Karen Knorr (2), Udo Koch (2), Gordon Matta-Clark (2), Vincent Mauger (2), Mathieu Mercier (2), Anita Molinero (2), François Morellet (2), Patrick Neu (2), Roman Opalka (2), Gabriel Orozco (2), Panamarenko (2), Bruno Peinado (2), Présence Panchounette (2), Hervé di Rosa (2), Yvan Salomone (2), Joe Scanlan (2), Richard Serra (2), Hervé Télémaque (2), Hervè Trioreau (2)",
+  "representing-galleries": null,
+  "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Musée de l´abbaye Sainte-Croix (Rue de Verdun, 85100 Les Sables d' Olonne, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France); LaM - Lille Métropole musée d'art moderne, d'art contemporain et d'art brut (1 allée du musée, 59650 Villeneuve d'Ascq, France)",
+  "first_name": "Jean-Michel",
+  "last_name": "Sanejouand",
+  "genre": "m",
+  "birthDate": "1934-01-01",
+  "age": 80,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "26870-2657-2005-02-03",
+        "c": "ES",
+        "n": "El estado de las cosas - El objeto en el arte desde 1960 hasta nuestros días",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vitoria-Gasteiz",
+        "o": "ARTIUM - Basque Museum Center of Contemporary Art",
+        "d": [
+          "2005-02-03",
+          "2005-05-22"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "26870-6322-2006-06-12",
+        "c": "DE",
+        "n": "Etrangement Proche-Seltsam vertraut",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Saarbrücken",
+        "o": "Saarlandmuseum - Moderne Galerie & Studiogalerie",
+        "d": [
+          "2006-06-12",
+          "2006-08-08"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "26870-2373-2012-05-27",
+        "c": "US",
+        "n": "Ends of the Earth: Land Art to 1974",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Los Angeles, CA",
+        "o": "The Geffen Contemporary at MOCA",
+        "d": [
+          "2012-05-27",
+          "2012-09-03"
+        ]
+      }
+    ]
+  }
+}

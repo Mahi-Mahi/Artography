@@ -1,0 +1,105 @@
+{
+  "id": "251017",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:43:24",
+  "name": "Samuel Labadie",
+  "surname": "Labadie",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1978",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "31183",
+  "r01": "109148",
+  "r02": "105615",
+  "r03": "100995",
+  "r04": "102472",
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2009",
+  "all-shows-total": "3",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Spain (3)",
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Samuel",
+  "last_name": "Labadie",
+  "genre": "m",
+  "birthDate": "1978-01-01",
+  "age": 36,
+  "age_range": "36-45",
+  "expos": {
+    "2009": [
+      {
+        "i": "251017-3236-2009-11-17",
+        "c": "ES",
+        "n": "La liberación Cómica",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "masART Galería",
+        "d": [
+          "2009-11-17",
+          "2010-01-08"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "251017-3236-2009-11-17",
+        "c": "ES",
+        "n": "La liberación Cómica",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Barcelona",
+        "o": "masART Galería",
+        "d": [
+          "2009-11-17",
+          "2010-01-08"
+        ]
+      },
+      {
+        "i": "251017-18147-2010-11-06",
+        "c": "ES",
+        "n": "Quiero cantar al cielo que cae",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Bilbao",
+        "o": "Espacio Abisal",
+        "d": [
+          "2010-11-06",
+          "2010-11-30"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "251017-1825-2013-07-12",
+        "c": "ES",
+        "n": "Samuel Labadie - El alma examinada",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Barcelona",
+        "o": "Fundación Joan Miró",
+        "d": [
+          "2013-07-12",
+          "2013-09-01"
+        ]
+      }
+    ]
+  }
+}

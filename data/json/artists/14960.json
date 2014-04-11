@@ -1,0 +1,92 @@
+{
+  "id": "14960",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:09:14",
+  "name": "Marie Bourget",
+  "surname": "Bourget",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Bourgoin-Jallieu (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1952",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "13354",
+  "r01": "11776",
+  "r02": "10268",
+  "r03": "8836",
+  "r04": "9611",
+  "r05": "7984",
+  "r06": "6541",
+  "r07": "5896",
+  "r08": "7113",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1985",
+  "all-shows-total": "26",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Switzerland (1), USA (1)",
+  "2005-shows-with": "Marie Bourget (2)",
+  "representing-galleries": null,
+  "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); Le Consortium (16 rue Quentin, 21000 Dijon, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
+  "first_name": "Marie",
+  "last_name": "Bourget",
+  "genre": "f",
+  "birthDate": "1952-01-01",
+  "age": 62,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "14960-1778-2005-06-07",
+        "c": "CH",
+        "n": "Modèles modèles",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2005-06-07",
+          "2005-08-29"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "14960-1778-2010-06-02",
+        "c": "CH",
+        "n": "Modèles modèles 2",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2010-06-02",
+          "2010-09-19"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "14960-14398-2012-10-11",
+        "c": "US",
+        "n": "Decryptions",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Oakland, CA",
+        "o": "Johansson Projects",
+        "d": [
+          "2012-10-11",
+          "2012-11-22"
+        ]
+      }
+    ]
+  }
+}

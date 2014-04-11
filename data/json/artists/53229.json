@@ -1,0 +1,90 @@
+{
+  "id": "53229",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:25:26",
+  "name": "Delphine Rigaud",
+  "surname": "Rigaud",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Saint-Agrève  (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "28879",
+  "r01": "26570",
+  "r02": "23653",
+  "r03": "22742",
+  "r04": "19719",
+  "r05": "17886",
+  "r06": "15068",
+  "r07": "16605",
+  "r08": "19105",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (2), Turkey (1)",
+  "2005-shows-with": "Delphine Rigaud (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Delphine",
+  "last_name": "Rigaud",
+  "genre": "c",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-35",
+  "expos": {
+    "2006": [
+      {
+        "i": "53229-8441-2006-09-20",
+        "c": "DE",
+        "n": "territories. les lacets sont défaits",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Galerie Nord | Kunstverein Tiergarten",
+        "d": [
+          "2006-09-20",
+          "2006-10-21"
+        ]
+      },
+      {
+        "i": "53229-12725-2006-10-07",
+        "c": "IT",
+        "n": "Fatti e Finzione della venusta isola di San Servolo in Venezia",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Venice",
+        "o": "Isola di San Servolo",
+        "d": [
+          "2006-10-07",
+          "2006-11-19"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "53229-19503-2011-09-18",
+        "c": "TR",
+        "n": "Apricot City A4",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Istanbul",
+        "o": "Depo",
+        "d": [
+          "2011-09-18",
+          "2011-10-15"
+        ]
+      }
+    ]
+  }
+}

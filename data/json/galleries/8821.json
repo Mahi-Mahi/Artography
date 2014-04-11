@@ -1,0 +1,88 @@
+{
+  "id": "8821",
+  "name": "Galerie du Fleuve",
+  "street": "6 rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Roy Sfeir",
+  "profile": null,
+  "tel": "+33 1 43260896",
+  "email": "art@galerie-du-fleuve.com",
+  "www": "www.galerie-du-fleuve.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%206 rue de Seine %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "9",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2007": [
+      {
+        "i": "8821-Art Miami 2007",
+        "c": "US",
+        "n": "Galerie du Fleuve",
+        "ct": "Miami, FL"
+      },
+      {
+        "i": "8821-art KARLSRUHE 2007",
+        "c": "DE",
+        "n": "Galerie du Fleuve",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2008": [
+      {
+        "i": "8821-art KARLSRUHE 2008",
+        "c": "DE",
+        "n": "Galerie du Fleuve",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2009": [
+      {
+        "i": "8821-art KARLSRUHE 2009",
+        "c": "DE",
+        "n": "Galerie du Fleuve",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2010": [
+      {
+        "i": "8821-art KARLSRUHE 2010",
+        "c": "DE",
+        "n": "Galerie du Fleuve",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2011": [
+      {
+        "i": "8821-art KARLSRUHE 2011",
+        "c": "DE",
+        "n": "Galerie du Fleuve",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "8821-The Affordable Art Fair - London",
+        "c": "GB",
+        "n": "Galerie du Fleuve",
+        "ct": "London (England)"
+      }
+    ],
+    "2012": [
+      {
+        "i": "8821-Art Karlsruhe 2012",
+        "c": "DE",
+        "n": "Galerie du Fleuve",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2013": [
+      {
+        "i": "8821-Art Karlsruhe 2013",
+        "c": "DE",
+        "n": "Galerie du Fleuve",
+        "ct": "Karlsruhe"
+      }
+    ]
+  }
+}

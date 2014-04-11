@@ -1,0 +1,77 @@
+{
+  "id": "36621",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:18:46",
+  "name": "Franck & Olivier Turpin",
+  "surname": "Turpin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Hennebont (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1964",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Artist group",
+  "media": null,
+  "r00": "24589",
+  "r01": "22307",
+  "r02": "19537",
+  "r03": "17131",
+  "r04": "14733",
+  "r05": "16266",
+  "r06": "14315",
+  "r07": "16039",
+  "r08": "12864",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1999",
+  "all-shows-total": "13",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (1), United Kingdom (1)",
+  "2005-shows-with": "Franck & Olivier Turpin (2)",
+  "representing-galleries": "Vidéochroniques (1 place de Lorette, 13002 Marseille, France)",
+  "collecting-museums": "FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
+  "first_name": "Franck",
+  "last_name": "&",
+  "genre": "c",
+  "birthDate": "1964-01-01",
+  "age": 50,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "36621-3444-2005-04-23",
+        "c": "CH",
+        "n": "DOUBLE CONSCIOUSNESS",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Fribourg",
+        "o": "Fri Art - Centre d'Art Contemporain",
+        "d": [
+          "2005-04-23",
+          "2005-06-19"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "36621-21663-2008-02-18",
+        "c": "GB",
+        "n": "Borders and Identities",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Stephen Lawrence Gallery - University of Greenwich",
+        "d": [
+          "2008-02-18",
+          "2008-04-14"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "146419",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:03:02",
+  "name": "Monsieur Moo",
+  "surname": "Moo",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1981",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "27313",
+  "r01": "25551",
+  "r02": "46849",
+  "r03": "45175",
+  "r04": "47447",
+  "r05": "60546",
+  "r06": "58308",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "10",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (5), Macedonia (1), Poland (1), Slovenia (1), USA (1)",
+  "2005-shows-with": "Monsieur Moo (8), Pascual Sisto (3), Paul Destieu (2), Louise Drubigny (2), Anne-Valérie Gasc (2), Luce Moreau (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Monsieur",
+  "last_name": "Moo",
+  "genre": "c",
+  "birthDate": "1981-01-01",
+  "age": 33,
+  "age_range": "26-35",
+  "expos": {
+    "2007": [
+      {
+        "i": "146419-8441-2007-03-23",
+        "c": "DE",
+        "n": "clips",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "Galerie Nord | Kunstverein Tiergarten",
+        "d": [
+          "2007-03-23",
+          "2007-04-28"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "146419-9893-2008-03-01",
+        "c": "US",
+        "n": "Gravity in Art",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Los Angeles, CA",
+        "o": "Telic Arts Exchange",
+        "d": [
+          "2008-03-01",
+          "2008-04-26"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "146419-11488-2009-05-05",
+        "c": "PL",
+        "n": "WRO 09 Biennale: The Expanded City",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Wroclaw",
+        "o": "WRO Media Art Biennale",
+        "d": [
+          "2009-05-05",
+          "2009-06-07"
+        ]
+      },
+      {
+        "i": "146419-23341-2009-09-03",
+        "c": "MK",
+        "n": "XIV Biennial of Young Artists from Europe and the Mediterranean",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Skopje",
+        "o": "Biennial of Young Artists from Europe and the Mediterranean",
+        "d": [
+          "2009-09-03",
+          "2009-09-12"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "146419-6148-2010-09-09",
+        "c": "SI",
+        "n": "Get Wet",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Maribor",
+        "o": "Maribor Art Gallery",
+        "d": [
+          "2010-09-09",
+          "2010-10-10"
+        ]
+      }
+    ]
+  }
+}

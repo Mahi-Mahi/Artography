@@ -1,0 +1,77 @@
+{
+  "id": "134520",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:58:11",
+  "name": "Ronan-Jim Sevellec",
+  "surname": "Sevellec",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Brest (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1938",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "79434",
+  "r01": "76203",
+  "r02": "70718",
+  "r03": "65366",
+  "r04": "58923",
+  "r05": "52926",
+  "r06": "46229",
+  "r07": "57450",
+  "r08": "49277",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": null,
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Ronan-Jim",
+  "last_name": "Sevellec",
+  "genre": "m",
+  "birthDate": "1938-01-01",
+  "age": 76,
+  "age_range": "46-55",
+  "expos": {
+    "2005": [
+      {
+        "i": "134520-16989-2005-03-25",
+        "c": "BE",
+        "n": "Verborgen werelden",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Ghent",
+        "o": "Museum Dr. Guislain",
+        "d": [
+          "2005-03-25",
+          "2005-09-04"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "134520-8947-2007-03-24",
+        "c": "BE",
+        "n": "HOME is where the heart is",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Lier",
+        "o": "Voorkamer",
+        "d": [
+          "2007-03-24",
+          "2007-05-06"
+        ]
+      }
+    ]
+  }
+}

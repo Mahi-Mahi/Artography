@@ -1,0 +1,131 @@
+{
+  "id": "263806",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:48:33",
+  "name": "Julien Grossmann",
+  "surname": "Grossmann",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Metz (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1983",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "20365",
+  "r01": "19059",
+  "r02": "17779",
+  "r03": "60465",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2010",
+  "all-shows-total": "5",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "3",
+  "2005-countries-total": "Germany (3), Luxembourg (1), Netherlands (1)",
+  "2005-shows-with": "Julien Grossmann (4), Sven Johne (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Julien",
+  "last_name": "Grossmann",
+  "genre": "m",
+  "birthDate": "1983-01-01",
+  "age": 31,
+  "age_range": "26-35",
+  "expos": {
+    "2010": [
+      {
+        "i": "263806-821-2010-06-05",
+        "c": "DE",
+        "n": "Enovos Förderpreis Junge Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Ludwigshafen",
+        "o": "Wilhelm Hack Museum",
+        "d": [
+          "2010-06-05",
+          "2010-07-18"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "263806-24201-2011-10-23",
+        "c": "NL",
+        "n": "Tangible Time",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "The Hague",
+        "o": "Nest",
+        "d": [
+          "2011-10-23",
+          "2011-11-20"
+        ]
+      },
+      {
+        "i": "263806-2331-2011-11-23",
+        "c": "LU",
+        "n": "I´ve Dreamt About",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2011-11-23",
+          "2012-03-04"
+        ]
+      },
+      {
+        "i": "263806-1783-2011-07-29",
+        "c": "DE",
+        "n": "Julien Grossmann: Vibrating Revivals",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Berlin",
+        "o": "Künstlerhaus Bethanien",
+        "d": [
+          "2011-07-29",
+          "2011-08-21"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "263806-2331-2011-11-23",
+        "c": "LU",
+        "n": "I´ve Dreamt About",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2011-11-23",
+          "2012-03-04"
+        ]
+      },
+      {
+        "i": "263806-439-2012-08-28",
+        "c": "DE",
+        "n": "We Notice No Disturbance",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Göttingen",
+        "o": "Kunstverein Göttingen",
+        "d": [
+          "2012-08-28",
+          "2012-10-21"
+        ]
+      }
+    ]
+  }
+}

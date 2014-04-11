@@ -1,0 +1,77 @@
+{
+  "id": "125936",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:54:42",
+  "name": "Maria Spangaro",
+  "surname": "Spangaro",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Haut de Seine (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1964",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "41666",
+  "r01": "40890",
+  "r02": "37114",
+  "r03": "42367",
+  "r04": "37705",
+  "r05": "32944",
+  "r06": "28285",
+  "r07": "26502",
+  "r08": "57095",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2005",
+  "all-shows-total": "6",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Belgium (1), France (1)",
+  "2005-shows-with": "Jean-Baptiste Bruant (2), Maria Spangaro (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Maria",
+  "last_name": "Spangaro",
+  "genre": "f",
+  "birthDate": "1964-01-01",
+  "age": 50,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "125936-2389-2007-02-17",
+        "c": "IS",
+        "n": "Presque Rien",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Reykjavik",
+        "o": "Nýlistasafnið - The Living Art Museum",
+        "d": [
+          "2007-02-17",
+          "2007-03-18"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "125936-2706-2011-06-26",
+        "c": "BE",
+        "n": "Je suis seul, avec vous",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hornu",
+        "o": "MAC's Grand Hornu - Musée des Arts Contemporains",
+        "d": [
+          "2011-06-26",
+          "2011-10-02"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "id": "53218",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:25:26",
+  "name": "Etienne Chambaud",
+  "surname": "Chambaud",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Mulhouse, Haut-Rhin (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1980",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Installation",
+  "r00": "2406",
+  "r01": "2367",
+  "r02": "2731",
+  "r03": "3036",
+  "r04": "5353",
+  "r05": "9641",
+  "r06": "9498",
+  "r07": "11519",
+  "r08": "17580",
+  "awards": null,
+  "website": "www.courtesyoftheartists.com",
+  "all-shows-first": "2002",
+  "all-shows-total": "65",
+  "2005-shows-biennials": "18",
+  "2005-shows-galleries": "18",
+  "2005-shows-museums": "24",
+  "2005-countries-total": "France (25), USA (5), Belgium (4), Italy (4), Germany (3), Mexico (3), Spain (2), United Kingdom (2), Canada (1), China (1), Czech Republic (1), Netherlands (1), Switzerland (1)",
+  "2005-shows-with": "Etienne Chambaud (40), Ryan Gander (11), Benoît Maire (11), Simon Dybbroe Møller (9), Claire Fontaine (8), Aurélien Froment (8), Pierre Bismuth (7), João Maria Gusmão & Pedro Paiva (6), Pamela Rosenkranz (6), Alexandre Singh (6), Jan De Cock (5), Cyprien Gaillard (5), Mark Geffriaud (5), Liam Gillick (5), Wolfgang Tillmans (5), Morgan Fisher (4), Dan Graham (4), Jeppe Hein (4), Ane Mette Hol (4), Navid Nuur (4), Roman Ondák (4), Christodoulos Panayiotou (4), Mai-Thu Perret (4), Nico Vascellari (4), Guido van der Werve (4), Wilfrid Almendra (3), Julieta Aranda (3), Roy Ascott (3), Tauba Auerbach (3), Fia Backström (3), Darren Bader (3), Cecil Balmond (3), Bank (3), Nina Beier (3), Walead Beshty (3), Colby Bird (3), Barbara Bloom (3), Mel Bochner (3), Tobias Buche (3), Sophie Bueno-Boutellier (3), Ian Burns (3), Peter Coffin (3), Edith Dekyndt (3), Liz Deschenes (3), Dexter Sinister (3), Cerith Wyn Evans (3), Lara Favaretto (3), Ceal Floyer (3), Yona Friedman (3), Mario Garcia Torres (3), Wineke Gartz (3",
+  "representing-galleries": "Bugada & Cargnel (7-9 rue de l'Equerre, 75019 Paris, France); Sies + Höke (Poststraße 2+3, 40213 Dusseldorf, Germany); Labor (Colima 55, 06700 Mexico City, Mexico)",
+  "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Musée d´Art Moderne de la Ville de Paris - MAM/ARC (11 avenue du Président Wilson, 75 016 Paris, France)",
+  "first_name": "Etienne",
+  "last_name": "Chambaud",
+  "genre": "m",
+  "birthDate": "1980-01-01",
+  "age": 34,
+  "age_range": "26-35",
+  "expos": {
+    "2007": [
+      {
+        "i": "53218-5764-2007-05-25",
+        "c": "DE",
+        "n": "Perhaps",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Nice & Fit Gallery",
+        "d": [
+          "2007-05-25",
+          "2007-06-23"
+        ]
+      },
+      {
+        "i": "53218-4464-2007-11-29",
+        "c": "US",
+        "n": "From a distance",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Wallspace Gallery",
+        "d": [
+          "2007-11-29",
+          "2008-01-05"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "53218-4464-2007-11-29",
+        "c": "US",
+        "n": "From a distance",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Wallspace Gallery",
+        "d": [
+          "2007-11-29",
+          "2008-01-05"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "53218-8136-2009-09-12",
+        "c": "BE",
+        "n": "Time as Activity (*)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Aalst",
+        "o": "Netwerk - center for contemporary art",
+        "d": [
+          "2009-09-12",
+          "2009-11-07"
+        ]
+      },
+      {
+        "i": "53218-12883-2009-12-12",
+        "c": "CA",
+        "n": "FAX",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Winnipeg, Manitoba",
+        "o": "Plug In Institute of Contemporary Art",
+        "d": [
+          "2009-12-12",
+          "2010-02-21"
+        ]
+      },
+      {
+        "i": "53218-9348-2009-01-09",
+        "c": "DE",
+        "n": "A Brief History of the Twentieth Century",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Sassa Trülzsch",
+        "d": [
+          "2009-01-09",
+          "2009-01-17"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "53218-12883-2009-12-12",
+        "c": "CA",
+        "n": "FAX",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Winnipeg, Manitoba",
+        "o": "Plug In Institute of Contemporary Art",
+        "d": [
+          "2009-12-12",
+          "2010-02-21"
+        ]
+      },
+      {
+        "i": "53218-9399-2010-01-16",
+        "c": "US",
+        "n": "FAX",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Torrance, CA",
+        "o": "Torrance Art Museum",
+        "d": [
+          "2010-01-16",
+          "2010-02-20"
+        ]
+      },
+      {
+        "i": "53218-12966-2010-02-06",
+        "c": "CN",
+        "n": "FAX",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Hong Kong, SAR",
+        "o": "Para/Site Art Space",
+        "d": [
+          "2010-02-06",
+          "2010-04-01"
+        ]
+      },
+      {
+        "i": "53218-11728-2010-02-19",
+        "c": "IT",
+        "n": "Arrivals and Departures",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Ancona",
+        "o": "Fondo Mole Vanvitelliana",
+        "d": [
+          "2010-02-19",
+          "2010-05-09"
+        ]
+      },
+      {
+        "i": "53218-20301-2010-05-07",
+        "c": "GB",
+        "n": "Curators\\' Series #3. History of Art",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "London (England)",
+        "o": "The David Roberts Art Foundation",
+        "d": [
+          "2010-05-07",
+          "2010-07-10"
+        ]
+      },
+      {
+        "i": "53218-12383-2010-05-27",
+        "c": "ES",
+        "n": "Epilogue",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Madrid",
+        "o": "Maisterravalbuena Galería",
+        "d": [
+          "2010-05-27",
+          "2010-07-17"
+        ]
+      },
+      {
+        "i": "53218-19600-2010-06-03",
+        "c": "IT",
+        "n": "The Mousetrapp or Something old something new something borrowed something blue",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Salerno",
+        "o": "Galleria Tiziana Di Caro",
+        "d": [
+          "2010-06-03",
+          "2010-07-30"
+        ]
+      },
+      {
+        "i": "53218-2293-2010-12-18",
+        "c": "DE",
+        "n": "Bild für Bild - Film und zeitgenössische Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2010-12-18",
+          "2011-04-25"
+        ]
+      },
+      {
+        "i": "53218-20301-2010-03-19",
+        "c": "GB",
+        "n": "Etienne Chambaud. The Sirens\\' Stage",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "London (England)",
+        "o": "The David Roberts Art Foundation",
+        "d": [
+          "2010-03-19",
+          "2010-04-24"
+        ]
+      },
+      {
+        "i": "53218-22370-2010-04-15",
+        "c": "IT",
+        "n": "Lo stato delle sirene",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Rome",
+        "o": "Nomas Foundation",
+        "d": [
+          "2010-04-15",
+          "2010-05-29"
+        ]
+      },
+      {
+        "i": "53218-21789-2010-07-03",
+        "c": "MX",
+        "n": "On Hospitality",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Mexico City",
+        "o": "Labor",
+        "d": [
+          "2010-07-03",
+          "2010-08-28"
+        ]
+      },
+      {
+        "i": "53218-3917-2010-09-03",
+        "c": "DE",
+        "n": "Etienne Chambaud\t- Le Musée Décapité (das geköpfte Museum)",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Dusseldorf",
+        "o": "Sies + Höke",
+        "d": [
+          "2010-09-03",
+          "2010-09-28"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "53218-2293-2010-12-18",
+        "c": "DE",
+        "n": "Bild für Bild - Film und zeitgenössische Kunst",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2010-12-18",
+          "2011-04-25"
+        ]
+      },
+      {
+        "i": "53218-23926-2011-02-19",
+        "c": "CZ",
+        "n": "Bartleby the Scrivener",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Prague",
+        "o": "etc. Galerie",
+        "d": [
+          "2011-02-19",
+          "2011-03-11"
+        ]
+      },
+      {
+        "i": "53218-8136-2011-04-16",
+        "c": "BE",
+        "n": "Radical Autonomy - nieuwe werelden van niks",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Aalst",
+        "o": "Netwerk - center for contemporary art",
+        "d": [
+          "2011-04-16",
+          "2011-06-19"
+        ]
+      },
+      {
+        "i": "53218-9556-2011-04-17",
+        "c": "NL",
+        "n": "Radical Autonomy",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "The Hague",
+        "o": "Stroom Den Haag",
+        "d": [
+          "2011-04-17",
+          "2011-06-19"
+        ]
+      },
+      {
+        "i": "53218-2195-2011-04-22",
+        "c": "BE",
+        "n": "Invocations of the blank page",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Antwerp",
+        "o": "NICC - New International Cultural Centre",
+        "d": [
+          "2011-04-22",
+          "2011-06-05"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "53218-2099-2012-01-05",
+        "c": "US",
+        "n": "Rotary Connection",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Casey Kaplan Gallery",
+        "d": [
+          "2012-01-05",
+          "2012-02-11"
+        ]
+      },
+      {
+        "i": "53218-11728-2012-02-19",
+        "c": "IT",
+        "n": "Arrivi e Partenze Europa",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Ancona",
+        "o": "Fondo Mole Vanvitelliana",
+        "d": [
+          "2012-02-19",
+          "2012-05-09"
+        ]
+      },
+      {
+        "i": "53218-27647-2012-06-24",
+        "c": "US",
+        "n": "UR",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Room East",
+        "d": [
+          "2012-06-24",
+          "2012-08-03"
+        ]
+      },
+      {
+        "i": "53218-21789-2012-07-14",
+        "c": "MX",
+        "n": "Sinking Islands",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mexico City",
+        "o": "Labor",
+        "d": [
+          "2012-07-14",
+          "2012-08-31"
+        ]
+      },
+      {
+        "i": "53218-2921-2012-09-13",
+        "c": "US",
+        "n": "When Attitudes Became Form Become Attitudes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "San Francisco, CA",
+        "o": "CCA Wattis Institute for Contemporary Arts",
+        "d": [
+          "2012-09-13",
+          "2012-12-01"
+        ]
+      },
+      {
+        "i": "53218-9756-2012-03-03",
+        "c": "CH",
+        "n": "Undercuts",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Geneva",
+        "o": "Forde - Espace d'art contemporain",
+        "d": [
+          "2012-03-03",
+          "2012-04-14"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "53218-9487-2013-02-01",
+        "c": "US",
+        "n": "When Attitudes Became Form Become Attitudes",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Detroit, MI",
+        "o": "Museum of Contemporay Art Detroit",
+        "d": [
+          "2013-02-01",
+          "2013-03-31"
+        ]
+      },
+      {
+        "i": "53218-27771-2013-03-07",
+        "c": "BE",
+        "n": "Collection Centre national des arts plastiques",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Brussels",
+        "o": "CENTRALE for contemporary art",
+        "d": [
+          "2013-03-07",
+          "2013-06-09"
+        ]
+      },
+      {
+        "i": "53218-17760-2013-05-10",
+        "c": "ES",
+        "n": "Sin Motivo Aparente (for No Apparent Reason)",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Móstoles",
+        "o": "CA2M - Centro de Arte Dos de Mayo",
+        "d": [
+          "2013-05-10",
+          "2013-09-29"
+        ]
+      },
+      {
+        "i": "53218-21789-2013-04-09",
+        "c": "MX",
+        "n": "The Naked Parrot",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Mexico City",
+        "o": "Labor",
+        "d": [
+          "2013-04-09",
+          "2013-06-01"
+        ]
+      }
+    ]
+  }
+}

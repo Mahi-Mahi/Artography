@@ -1,0 +1,28 @@
+{
+  "id": "10506",
+  "name": "Galerie AL/MA",
+  "street": "35 rue de la Valfère",
+  "zip": "34000",
+  "city": "Montpellier",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 67 60 48 03",
+  "email": null,
+  "www": "galeriealma.com",
+  "map": "http://maps.google.com/maps?q=Montpellier%2C%2034000 %2C%20 %2C%2035 rue de la Valfère %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2012": [
+      {
+        "i": "10506-Art On Paper 2012",
+        "c": "BE",
+        "n": "Galerie AL/MA",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

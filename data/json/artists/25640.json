@@ -1,0 +1,74 @@
+{
+  "id": "25640",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:14:01",
+  "name": "Pierre Le-Tan",
+  "surname": "Le-Tan",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "",
+  "birth day": "0",
+  "birth month": "0",
+  "birth year": "1950",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "36327",
+  "r01": "32811",
+  "r02": "29279",
+  "r03": "27854",
+  "r04": "24358",
+  "r05": "20726",
+  "r06": "17546",
+  "r07": "14533",
+  "r08": "11786",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1993",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Monaco (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "Galerie Bartsch & Chariau (Galeriestr. 2, 80539 Munich, Germany)",
+  "collecting-museums": null,
+  "first_name": "Pierre",
+  "last_name": "Le-Tan",
+  "genre": "m",
+  "expos": {
+    "2011": [
+      {
+        "i": "25640-20119-2011-12-16",
+        "c": "MC",
+        "n": "Pierre Le-Tan",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Art & Rapy - Contemporary Art Gallery",
+        "d": [
+          "2011-12-16",
+          "2012-02-18"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "25640-20119-2011-12-16",
+        "c": "MC",
+        "n": "Pierre Le-Tan",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Monaco",
+        "o": "Art & Rapy - Contemporary Art Gallery",
+        "d": [
+          "2011-12-16",
+          "2012-02-18"
+        ]
+      }
+    ]
+  }
+}

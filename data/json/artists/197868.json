@@ -1,0 +1,118 @@
+{
+  "id": "197868",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:22:57",
+  "name": "Cathy Jardon",
+  "surname": "Jardon",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Belfort (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "35242",
+  "r01": "43677",
+  "r02": "56992",
+  "r03": "82981",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2010",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (5), Germany (4)",
+  "2005-shows-with": "Cathy Jardon (7), Josef Albers (2), Max Bill (2), Tobias Grewe (2), Imi Knoebel (2), El Lissitzky (2), Kai Richter (2), Victor Vasarely (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Cathy",
+  "last_name": "Jardon",
+  "genre": "f",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-35",
+  "expos": {
+    "2010": [
+      {
+        "i": "197868-303-2010-11-11",
+        "c": "DE",
+        "n": "Konstruktiv!",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dusseldorf",
+        "o": "Beck & Eggeling International Fine Art",
+        "d": [
+          "2010-11-11",
+          "2011-01-21"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "197868-303-2010-11-11",
+        "c": "DE",
+        "n": "Konstruktiv!",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Dusseldorf",
+        "o": "Beck & Eggeling International Fine Art",
+        "d": [
+          "2010-11-11",
+          "2011-01-21"
+        ]
+      },
+      {
+        "i": "197868-364-2011-07-02",
+        "c": "DE",
+        "n": "Farbe-raum-konzept - Malerei",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Essen",
+        "o": "Galerie Schütte",
+        "d": [
+          "2011-07-02",
+          "2011-09-10"
+        ]
+      },
+      {
+        "i": "197868-29570-2011-07-09",
+        "c": "DE",
+        "n": "Abstrakt | 3 Positionen",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Sundern",
+        "o": "Stadtgalerie Sundern",
+        "d": [
+          "2011-07-09",
+          "2011-08-12"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "197868-7927-2013-05-12",
+        "c": "DE",
+        "n": "Constructive, Concrete",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Waldenbuch",
+        "o": "Museum Ritter",
+        "d": [
+          "2013-05-12",
+          "2013-09-22"
+        ]
+      }
+    ]
+  }
+}

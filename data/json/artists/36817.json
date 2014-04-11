@@ -1,0 +1,676 @@
+{
+  "id": "36817",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:18:51",
+  "name": "Pablo Pijnappel",
+  "surname": "Pijnappel",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Video, Film",
+  "r00": "2834",
+  "r01": "2603",
+  "r02": "3241",
+  "r03": "3253",
+  "r04": "2831",
+  "r05": "2439",
+  "r06": "2772",
+  "r07": "4556",
+  "r08": "10527",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "49",
+  "2005-shows-biennials": "14",
+  "2005-shows-galleries": "14",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "USA (8), Germany (6), Netherlands (4), Belgium (2), Italy (2), Brazil (1), Denmark (1), France (1), Portugal (1), Sweden (1), United Kingdom (1)",
+  "2005-shows-with": "Pablo Pijnappel (16), Athanasios Argianas (3), Benoît Maire (3), Michaël Aerts (2), Sonia Almeida (2), Vasco Aráujo (2), Micol Assaël (2), Pedro Barateiro (2), Matteo Bergamasco (2), David Bestué (2), Gerson Bettencourt Ferreira (2), Michael Beutler (2), Primoz Bizjak (2), Lyn Blumenthal (2), Natalie Bookchin (2), Mark Boulos (2), Ulla von Brandenburg (2), Benoit Broisat (2), Alejandro Cesarco (2), Etienne Chambaud (2), Vaast Colson (2), Björn Dahlem (2), Jan De Cock (2), Amie Dicke (2), Iris van Dongen (2), Juan Downey (2), Aleana Egan (2), Christian Eisenberger (2), Haris Epaminonda (2), Petra Feriancova (2), Andreas Fogarasi (2), Cyprien Gaillard (2), Regina José Galindo (2), Anna Galtarossa (2), John Gerrard (2), Pieterjan Ginckels (2), Loris Gréaud (2), Katie Holten (2), Adrià  Julià (2), Leopold Kessler (2), Kitty Kraus (2), Marijn van Kreij (2), Ferdinand Kriwet (2), Miki Leal (2), Liisa Lounila (2), Constantin Luser (2), Mark Mangion (2), Antoni Muntadas (2), João Onofre (2), Jürgen Ots (2",
+  "representing-galleries": "Galerie Juliètte Jongma (Gerard Douplein 23, 1073 XE Amsterdam, Netherlands); Ambach & Rice (5107 Ballard Ave. N.W., 98107 Seattle, WA, USA)",
+  "collecting-museums": "De Hallen (Grote Markt 16, 2011 RD Haarlem, Netherlands); CGAC - Centro Galego de Arte Contemporánea (Valle Inclán s/n, 15704 Santiago de Compostela, Spain)",
+  "first_name": "Pablo",
+  "last_name": "Pijnappel",
+  "genre": "m",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-35",
+  "expos": {
+    "2006": [
+      {
+        "i": "36817-2427-2006-04-28",
+        "c": "NL",
+        "n": "Don Quijote",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Rotterdam",
+        "o": "Witte de With Center for Contemporary Art",
+        "d": [
+          "2006-04-28",
+          "2006-08-06"
+        ]
+      },
+      {
+        "i": "36817-356-2006-09-02",
+        "c": "DE",
+        "n": "indirect speech",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Kassel",
+        "o": "Kunsthalle Fridericianum",
+        "d": [
+          "2006-09-02",
+          "2006-10-29"
+        ]
+      },
+      {
+        "i": "36817-1586-2006-12-21",
+        "c": "ES",
+        "n": "Contos Dixitais",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Santiago de Compostela",
+        "o": "CGAC - Centro Galego de Arte Contemporánea",
+        "d": [
+          "2006-12-21",
+          "2007-01-28"
+        ]
+      },
+      {
+        "i": "36817-2087-2006-03-21",
+        "c": "DE",
+        "n": "Pablo Pijnappel - Felicitas",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Carlier | Gebauer",
+        "d": [
+          "2006-03-21",
+          "2006-04-22"
+        ]
+      },
+      {
+        "i": "36817-5536-2006-11-11",
+        "c": "NL",
+        "n": "Pablo Pijnappel",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Galerie Juliètte Jongma",
+        "d": [
+          "2006-11-11",
+          "2006-12-16"
+        ]
+      },
+      {
+        "i": "36817-2087-2006-11-21",
+        "c": "DE",
+        "n": "Pablo Pijnappel - Walderedo",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Carlier | Gebauer",
+        "d": [
+          "2006-11-21",
+          "2006-12-22"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "36817-1586-2006-12-21",
+        "c": "ES",
+        "n": "Contos Dixitais",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Santiago de Compostela",
+        "o": "CGAC - Centro Galego de Arte Contemporánea",
+        "d": [
+          "2006-12-21",
+          "2007-01-28"
+        ]
+      },
+      {
+        "i": "36817-6884-2007-01-18",
+        "c": "US",
+        "n": "Elephant Cemetery",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "Artists Space",
+        "d": [
+          "2007-01-18",
+          "2007-03-30"
+        ]
+      },
+      {
+        "i": "36817-3598-2007-02-24",
+        "c": "NL",
+        "n": "Nothing Else Matters",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Haarlem",
+        "o": "De Hallen",
+        "d": [
+          "2007-02-24",
+          "2007-05-28"
+        ]
+      },
+      {
+        "i": "36817-940-2007-03-17",
+        "c": "US",
+        "n": "News from abroad",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Murray Guy",
+        "d": [
+          "2007-03-17",
+          "2007-05-12"
+        ]
+      },
+      {
+        "i": "36817-1289-2007-05-20",
+        "c": "NL",
+        "n": "Prix de Rome",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Amsterdam",
+        "o": "de Appel arts centre",
+        "d": [
+          "2007-05-20",
+          "2007-07-01"
+        ]
+      },
+      {
+        "i": "36817-4986-2007-09-22",
+        "c": "DE",
+        "n": "2. Fotofestival Mannheim-Ludwigshafen-Heidelberg",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Mannheim",
+        "o": "Städtische Kunsthalle Mannheim",
+        "d": [
+          "2007-09-22",
+          "2007-10-21"
+        ]
+      },
+      {
+        "i": "36817-3598-2007-02-24",
+        "c": "NL",
+        "n": "Pablo Pijnappel",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Haarlem",
+        "o": "De Hallen",
+        "d": [
+          "2007-02-24",
+          "2007-05-28"
+        ]
+      },
+      {
+        "i": "36817-2310-2007-06-09",
+        "c": "GB",
+        "n": "Whitechapel Laboratory - Pablo Pijnappel",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "London (England)",
+        "o": "Whitechapel Art Gallery",
+        "d": [
+          "2007-06-09",
+          "2007-06-15"
+        ]
+      },
+      {
+        "i": "36817-9122-2007-07-28",
+        "c": "DE",
+        "n": "Pablo Pijnappel - Homer",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Bremen",
+        "o": "Künstlerhaus Bremen",
+        "d": [
+          "2007-07-28",
+          "2007-10-07"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "36817-3598-2008-03-15",
+        "c": "NL",
+        "n": "Five portraits",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Haarlem",
+        "o": "De Hallen",
+        "d": [
+          "2008-03-15",
+          "2008-06-09"
+        ]
+      },
+      {
+        "i": "36817-6801-2008-03-15",
+        "c": "DE",
+        "n": "MÄNNERFANTASIEN II",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "COMA Centre for Opinions in Music and Art",
+        "d": [
+          "2008-03-15",
+          "2008-04-28"
+        ]
+      },
+      {
+        "i": "36817-10562-2008-04-03",
+        "c": "US",
+        "n": "Past Is An Image We Form In The Present",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "San Francisco, CA",
+        "o": "SF Camerawork",
+        "d": [
+          "2008-04-03",
+          "2008-05-24"
+        ]
+      },
+      {
+        "i": "36817-4990-2008-09-13",
+        "c": "DE",
+        "n": "Wild Signals",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Stuttgart",
+        "o": "Württembergischer Kunstverein",
+        "d": [
+          "2008-09-13",
+          "2008-11-09"
+        ]
+      },
+      {
+        "i": "36817-17352-2008-09-25",
+        "c": "US",
+        "n": "Narrowcast: Reframing Global Video 1986/2008",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Claremont, CA",
+        "o": "Pitzer Art Galleries",
+        "d": [
+          "2008-09-25",
+          "2008-11-23"
+        ]
+      },
+      {
+        "i": "36817-1717-2008-12-09",
+        "c": "US",
+        "n": "Narrowcast: Reframing Global Video 1986/2008",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Los Angeles, CA",
+        "o": "LACE - Los Angeles Contemporary Exhibitions",
+        "d": [
+          "2008-12-09",
+          "2009-03-01"
+        ]
+      },
+      {
+        "i": "36817-2087-2008-06-14",
+        "c": "DE",
+        "n": "Pablo Pijnappel: Homer",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Carlier | Gebauer",
+        "d": [
+          "2008-06-14",
+          "2008-07-26"
+        ]
+      },
+      {
+        "i": "36817-5536-2008-09-06",
+        "c": "NL",
+        "n": "Pablo Pijnappel - Homer",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Galerie Juliètte Jongma",
+        "d": [
+          "2008-09-06",
+          "2008-10-11"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "36817-1717-2008-12-09",
+        "c": "US",
+        "n": "Narrowcast: Reframing Global Video 1986/2008",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Los Angeles, CA",
+        "o": "LACE - Los Angeles Contemporary Exhibitions",
+        "d": [
+          "2008-12-09",
+          "2009-03-01"
+        ]
+      },
+      {
+        "i": "36817-17347-2009-03-28",
+        "c": "BE",
+        "n": "STILL / MOVING / STILL",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Knokke-Heist",
+        "o": "Cultuurcentrum Knokke-Heist",
+        "d": [
+          "2009-03-28",
+          "2009-06-07"
+        ]
+      },
+      {
+        "i": "36817-22236-2009-05-03",
+        "c": "US",
+        "n": "Chance Encounters",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "New York City, NY",
+        "o": "Ludlow 38",
+        "d": [
+          "2009-05-03",
+          "2009-06-21"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "36817-11728-2010-02-19",
+        "c": "IT",
+        "n": "Arrivals and Departures",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Ancona",
+        "o": "Fondo Mole Vanvitelliana",
+        "d": [
+          "2010-02-19",
+          "2010-05-09"
+        ]
+      },
+      {
+        "i": "36817-5744-2010-02-20",
+        "c": "US",
+        "n": "The Front Room: Pablo Pijnappel",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Saint Louis, MO",
+        "o": "Contemporary Art Museum St. Louis",
+        "d": [
+          "2010-02-20",
+          "2010-02-21"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "36817-20973-2011-07-30",
+        "c": "DE",
+        "n": "Spectrums of Light",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Cologne",
+        "o": "Temporary Gallery Cologne",
+        "d": [
+          "2011-07-30",
+          "2011-09-03"
+        ]
+      },
+      {
+        "i": "36817-19893-2011-08-10",
+        "c": "US",
+        "n": "will be home…",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Seattle, WA",
+        "o": "Ambach & Rice",
+        "d": [
+          "2011-08-10",
+          "2011-08-27"
+        ]
+      },
+      {
+        "i": "36817-5536-2011-01-08",
+        "c": "NL",
+        "n": "Fontenay-aux-Roses",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Galerie Juliètte Jongma",
+        "d": [
+          "2011-01-08",
+          "2011-02-19"
+        ]
+      },
+      {
+        "i": "36817-2087-2011-02-05",
+        "c": "DE",
+        "n": "Pablo Pijnappel - Fontenay-aux-Roses",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Galerie Carlier | Gebauer",
+        "d": [
+          "2011-02-05",
+          "2011-03-12"
+        ]
+      },
+      {
+        "i": "36817-19893-2011-02-26",
+        "c": "US",
+        "n": "Pablo Pijnappel - Fontenay-aux-Roses",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Seattle, WA",
+        "o": "Ambach & Rice",
+        "d": [
+          "2011-02-26",
+          "2011-03-27"
+        ]
+      },
+      {
+        "i": "36817-27660-2011-10-28",
+        "c": "BE",
+        "n": "Studio N°02",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie van der Mieden",
+        "d": [
+          "2011-10-28",
+          "2011-12-03"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "36817-2526-2012-01-14",
+        "c": "DK",
+        "n": "Never odd or even - a text spaced exhibition",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Roskilde",
+        "o": "Museet for Samtidskunst / Museum of Contemporary Art",
+        "d": [
+          "2012-01-14",
+          "2012-04-08"
+        ]
+      },
+      {
+        "i": "36817-11728-2012-02-19",
+        "c": "IT",
+        "n": "Arrivi e Partenze Europa",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Ancona",
+        "o": "Fondo Mole Vanvitelliana",
+        "d": [
+          "2012-02-19",
+          "2012-05-09"
+        ]
+      },
+      {
+        "i": "36817-2549-2012-09-08",
+        "c": "BR",
+        "n": "30th São Paulo Biennial",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "São Paulo",
+        "o": "Bienal de Sao Paulo",
+        "d": [
+          "2012-09-08",
+          "2012-12-09"
+        ]
+      },
+      {
+        "i": "36817-5765-2012-03-02",
+        "c": "GB",
+        "n": "Fontenay-aux-roses By Pablo Pijnappel",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Seventeen Gallery",
+        "d": [
+          "2012-03-02",
+          "2012-03-17"
+        ]
+      },
+      {
+        "i": "36817-19893-2012-10-20",
+        "c": "US",
+        "n": "Pablo Pijnappel, Mise-en-abÎme",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Seattle, WA",
+        "o": "Ambach & Rice",
+        "d": [
+          "2012-10-20",
+          "2012-11-24"
+        ]
+      },
+      {
+        "i": "36817-9309-2012-11-09",
+        "c": "DE",
+        "n": "Pablo Pijnappel - Mirror Facing Mirror",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Frankfurt/Main",
+        "o": "Basis Frankfurt",
+        "d": [
+          "2012-11-09",
+          "2013-01-13"
+        ]
+      },
+      {
+        "i": "36817-1609-2012-12-20",
+        "c": "SE",
+        "n": "Pablo Pijnappel",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Malmö",
+        "o": "Malmö Konsthall",
+        "d": [
+          "2012-12-20",
+          "2013-01-20"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "36817-5536-2013-01-12",
+        "c": "NL",
+        "n": "Baw-lal",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Amsterdam",
+        "o": "Galerie Juliètte Jongma",
+        "d": [
+          "2013-01-12",
+          "2013-02-23"
+        ]
+      },
+      {
+        "i": "36817-3494-2013-04-23",
+        "c": "PT",
+        "n": "Duet - group show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lisbon",
+        "o": "Cristina Guerra Contemporary Art",
+        "d": [
+          "2013-04-23",
+          "2013-05-11"
+        ]
+      },
+      {
+        "i": "36817-9309-2012-11-09",
+        "c": "DE",
+        "n": "Pablo Pijnappel - Mirror Facing Mirror",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Frankfurt/Main",
+        "o": "Basis Frankfurt",
+        "d": [
+          "2012-11-09",
+          "2013-01-13"
+        ]
+      },
+      {
+        "i": "36817-1609-2012-12-20",
+        "c": "SE",
+        "n": "Pablo Pijnappel",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Malmö",
+        "o": "Malmö Konsthall",
+        "d": [
+          "2012-12-20",
+          "2013-01-20"
+        ]
+      }
+    ],
+    "2005": [
+      {
+        "i": "36817-2333-2005-05-15",
+        "c": "NL",
+        "n": "Felicitas",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Amsterdam",
+        "o": "Stedelijk Museum Bureau Amsterdam - SMBA",
+        "d": [
+          "2005-05-15",
+          "2005-06-26"
+        ]
+      },
+      {
+        "i": "36817-2943-2005-06-26",
+        "c": "BE",
+        "n": "\"Andrew and Felicitas\" by Pablo Pijnappel",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Antwerp",
+        "o": "Extra City - Kunsthal Antwerpen",
+        "d": [
+          "2005-06-26",
+          "2005-09-18"
+        ]
+      }
+    ]
+  }
+}

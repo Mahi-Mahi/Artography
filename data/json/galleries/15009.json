@@ -1,0 +1,36 @@
+{
+  "id": "15009",
+  "name": "Galerie Basia Embiricos",
+  "street": "14, rue des Jardins St-Paul",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 48 87 00 63",
+  "email": "mbeparis@wanadoo.fr",
+  "www": "www.galeriebasiaembiricos.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%2014, rue des Jardins St-Paul %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "7",
+  "fairs": {
+    "2009": [
+      {
+        "i": "15009-Art Athina 2009",
+        "c": "GR",
+        "n": "Galerie Basia Embiricos",
+        "ct": "Athens"
+      }
+    ],
+    "2011": [
+      {
+        "i": "15009-Art Athina 2011",
+        "c": "GR",
+        "n": "Galerie Basia Embiricos",
+        "ct": "Athens"
+      }
+    ]
+  }
+}

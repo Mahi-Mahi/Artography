@@ -1,0 +1,50 @@
+{
+  "id": "5359",
+  "name": "Galerie Pierre Marie Vitoux",
+  "street": "3, rue d'Ormesson",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+ 33 (0)1 48048100",
+  "email": "pmvitoux@galeriepierremarievitoux.com",
+  "www": "www.galeriepierremarievitoux.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%203, rue d'Ormesson %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2009": [
+      {
+        "i": "5359-Affordable Art Fair Bruxelles 09",
+        "c": "BE",
+        "n": "Galerie Pierre Marie Vitoux",
+        "ct": "Brussels"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5359-ART on PAPER",
+        "c": "BE",
+        "n": "Galerie Pierre Marie Vitoux",
+        "ct": "Brussels"
+      },
+      {
+        "i": "5359-Marrakech Art Fair",
+        "c": "MA",
+        "n": "Galerie Pierre Marie Vitoux",
+        "ct": "Marrakech"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5359-Marrakech Art Fair",
+        "c": "MA",
+        "n": "Galerie Pierre Marie Vitoux",
+        "ct": "Casablanca"
+      }
+    ]
+  }
+}

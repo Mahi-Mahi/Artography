@@ -1,0 +1,77 @@
+{
+  "id": "283785",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:56:19",
+  "name": "Stéphanie Lagarde",
+  "surname": "Lagarde",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1982",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "47664",
+  "r01": "110755",
+  "r02": "107448",
+  "r03": "103021",
+  "r04": "99696",
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2009",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (3), Italy (1), Switzerland (1)",
+  "2005-shows-with": "Stéphanie Lagarde (5)",
+  "representing-galleries": "Eponyme Galerie (23, rue de Ruat, 33000 Bordeaux, France)",
+  "collecting-museums": null,
+  "first_name": "Stéphanie",
+  "last_name": "Lagarde",
+  "genre": "f",
+  "birthDate": "1982-01-01",
+  "age": 32,
+  "age_range": "26-35",
+  "expos": {
+    "2009": [
+      {
+        "i": "283785-11648-2009-06-04",
+        "c": "IT",
+        "n": "Last day of Magic",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Venice",
+        "o": "ScalaMata Exhibition Space",
+        "d": [
+          "2009-06-04",
+          "2009-06-26"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "283785-21585-2013-11-09",
+        "c": "CH",
+        "n": "Aaa Cc Dd Ee G H Iiii J Kk Lll M Nn Oooo Rrrr U",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Lucerne",
+        "o": "Alpineum Produzentengalerie",
+        "d": [
+          "2013-11-09",
+          "2013-12-07"
+        ]
+      }
+    ]
+  }
+}

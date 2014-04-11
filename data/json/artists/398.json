@@ -1,0 +1,107 @@
+{
+  "id": "398",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:01:36",
+  "name": "Moris Gontard",
+  "surname": "Gontard",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Nantes (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1940",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "88009",
+  "r01": "84714",
+  "r02": "79530",
+  "r03": "73668",
+  "r04": "67060",
+  "r05": "70234",
+  "r06": "64849",
+  "r07": "57022",
+  "r08": "59716",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1978",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Belgium (2), France (1)",
+  "2005-shows-with": "Moris Gontard (2)",
+  "representing-galleries": "Galerie Protée (38 rue de Seine, 75006 Paris, France); Galería Barcelona (Plaza Dr. Letamendi, 34, 08007 Barcelona, Spain)",
+  "collecting-museums": null,
+  "first_name": "Moris",
+  "last_name": "Gontard",
+  "genre": "c",
+  "birthDate": "1940-01-01",
+  "age": 74,
+  "age_range": "46-55",
+  "expos": {
+    "2008": [
+      {
+        "i": "398-10505-2008-06-14",
+        "c": "BE",
+        "n": "M.Gontard, Y. Senel, C. Marchand",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie d’YS",
+        "d": [
+          "2008-06-14",
+          "2008-07-15"
+        ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "398-10505-2006-09-21",
+        "c": "BE",
+        "n": "Moris Gontard",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie d’YS",
+        "d": [
+          "2006-09-21",
+          "2006-10-15"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "398-10505-2009-12-12",
+        "c": "BE",
+        "n": "Moris Gontard",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie d’YS",
+        "d": [
+          "2009-12-12",
+          "2010-01-17"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "398-10505-2009-12-12",
+        "c": "BE",
+        "n": "Moris Gontard",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Galerie d’YS",
+        "d": [
+          "2009-12-12",
+          "2010-01-17"
+        ]
+      }
+    ]
+  }
+}

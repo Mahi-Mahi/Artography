@@ -1,0 +1,516 @@
+{
+  "id": "116395",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:50:59",
+  "name": "Blek Le Rat",
+  "surname": "Blek Le Rat",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Boulogne-Billancourt (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1952",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Graffiti",
+  "r00": "15055",
+  "r01": "15681",
+  "r02": "18649",
+  "r03": "18870",
+  "r04": "35421",
+  "r05": "38558",
+  "r06": "83952",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "33",
+  "2005-shows-biennials": "28",
+  "2005-shows-galleries": "28",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "USA (11), United Kingdom (9), Germany (5), France (3), Austria (2), China (1), South Africa (1), Spain (1)",
+  "2005-shows-with": "Blek Le Rat (29), Shepard Fairey (11), Nick Walker (7), Banksy (6), Christian Guémy (4), Invader (4), Jef Aerosol (3), Gary Baseman (3), Beejoir (3), D*Face (3), FAILE (3), Logan Hicks (3), Mark Jenkins (3), Miss Van (3), Miss.Tic (3), Chris Stain (3), The London Police (3), Marc Dean Veca (3), WK Interact (3), Rise Above (2), Rita Ackermann (2), Jean Michel Basquiat (2), Tim Biskup (2), Buff Monster (2), Clayton Brothers (2), Cyclops (2), Dalek (2), The Date Farmers (2), Brad Downey (2), Eelus (2), Ron English (2), evol (2), Sandra Fabara (2), AJ Fosik (2), Futura2000 (2), Doze Green (2), Keith Haring (2), Jim Houser (2), Peter Howson (2), Mr. Jago (2), JonOne (2), Dave Kinsey (2), Mantis (2), Tara McPherson (2), Mr. Brainwash (2), José Parla (2), Michael Sandle (2), Seen (2), Matthew Small (2), Swoon (2), Gary Taxali (2), Tilt (2), Usugrow (2), Andy Warhol (2), Word To Mother (2), ZEVS (2), Zhang Dali (2)",
+  "representing-galleries": "Galerie d'Art Yves Laroche (4 St-Paul Est, H2Y 1G1 Montreal, QC, Canada); Carhartt Gallery (Schusterinsel 9, 79576 Weil am Rhein, Germany); ocontemporary (80 Trafalgar Street, BN1 4EB Brighton (England), United Kingdom); Leonard Street Gallery (73 A Leonard Street, EC2A 4QS London (England), United Kingdom); White Walls Gallery (835 Larkin Street, 94109 San Francisco, CA, USA)",
+  "collecting-museums": null,
+  "first_name": "Blek",
+  "last_name": "Le",
+  "genre": "m",
+  "birthDate": "1952-01-01",
+  "age": 62,
+  "age_range": "46-55",
+  "expos": {
+    "2007": [
+      {
+        "i": "116395-4492-2007-12-01",
+        "c": "US",
+        "n": "The Streets Of Europe",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Jonathan LeVine Gallery",
+        "d": [
+          "2007-12-01",
+          "2007-12-29"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "116395-22765-2008-05-03",
+        "c": "GB",
+        "n": "The Cans Festival",
+        "st": "Group",
+        "t": "Festival",
+        "ct": "London (England)",
+        "o": "The Cans Festival",
+        "d": [
+          "2008-05-03",
+          "2008-05-05"
+        ]
+      },
+      {
+        "i": "116395-1924-2008-08-09",
+        "c": "AT",
+        "n": "Apocalyptic colors",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Vienna",
+        "o": "Galerie Gabriele Senn",
+        "d": [
+          "2008-08-09",
+          "2008-08-30"
+        ]
+      },
+      {
+        "i": "116395-13723-2008-11-01",
+        "c": "DE",
+        "n": "OFF THE WALL – From Vandalism to Urban Art",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Berlin",
+        "o": "Wilde Gallery",
+        "d": [
+          "2008-11-01",
+          "2008-12-20"
+        ]
+      },
+      {
+        "i": "116395-16360-2008-05-01",
+        "c": "ES",
+        "n": "Blek Le Rat // Life Before Banksy...",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "Palma de Mallorca",
+        "o": "KunstTachometer PALMA DE MALLORCA",
+        "d": [
+          "2008-05-01",
+          "2008-05-30"
+        ]
+      },
+      {
+        "i": "116395-4492-2008-10-18",
+        "c": "US",
+        "n": "Paris-New York, New York-Paris",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Jonathan LeVine Gallery",
+        "d": [
+          "2008-10-18",
+          "2008-11-15"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "116395-9970-2009-04-18",
+        "c": "US",
+        "n": "With You I Want to Live: Gordon Locksley & George T. Shea Collection",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Fort Lauderdale, FL",
+        "o": "Museum of Art Fort Lauderdale",
+        "d": [
+          "2009-04-18",
+          "2010-03-22"
+        ]
+      },
+      {
+        "i": "116395-23144-2009-06-05",
+        "c": "US",
+        "n": "Installation Five",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "San Jose, CA",
+        "o": "Anno Domini",
+        "d": [
+          "2009-06-05",
+          "2009-06-20"
+        ]
+      },
+      {
+        "i": "116395-12364-2009-11-13",
+        "c": "GB",
+        "n": "The Northern Art Fair",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Harrogate, North Yorkshire (England)",
+        "o": "108 Fineart",
+        "d": [
+          "2009-11-13",
+          "2009-11-15"
+        ]
+      },
+      {
+        "i": "116395-12364-2009-11-14",
+        "c": "GB",
+        "n": "108 Christmas Exhibition - Little Pictures – Great Art",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Harrogate, North Yorkshire (England)",
+        "o": "108 Fineart",
+        "d": [
+          "2009-11-14",
+          "2010-01-29"
+        ]
+      },
+      {
+        "i": "116395-21129-2009-12-24",
+        "c": "CN",
+        "n": "From Style Writing to Art (Part 2 - Shanghai)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Shanghai",
+        "o": "18Gallery Shanghai - Bund18",
+        "d": [
+          "2009-12-24",
+          "2010-01-21"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "116395-9970-2009-04-18",
+        "c": "US",
+        "n": "With You I Want to Live: Gordon Locksley & George T. Shea Collection",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Fort Lauderdale, FL",
+        "o": "Museum of Art Fort Lauderdale",
+        "d": [
+          "2009-04-18",
+          "2010-03-22"
+        ]
+      },
+      {
+        "i": "116395-12364-2009-11-14",
+        "c": "GB",
+        "n": "108 Christmas Exhibition - Little Pictures – Great Art",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Harrogate, North Yorkshire (England)",
+        "o": "108 Fineart",
+        "d": [
+          "2009-11-14",
+          "2010-01-29"
+        ]
+      },
+      {
+        "i": "116395-21129-2009-12-24",
+        "c": "CN",
+        "n": "From Style Writing to Art (Part 2 - Shanghai)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Shanghai",
+        "o": "18Gallery Shanghai - Bund18",
+        "d": [
+          "2009-12-24",
+          "2010-01-21"
+        ]
+      },
+      {
+        "i": "116395-4492-2010-02-27",
+        "c": "US",
+        "n": "Five Year Anniversary",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Jonathan LeVine Gallery",
+        "d": [
+          "2010-02-27",
+          "2010-03-27"
+        ]
+      },
+      {
+        "i": "116395-15401-2010-05-01",
+        "c": "GB",
+        "n": "Girls, Girls, Girls",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Signal Gallery  ",
+        "d": [
+          "2010-05-01",
+          "2010-05-30"
+        ]
+      },
+      {
+        "i": "116395-12265-2010-05-01",
+        "c": "US",
+        "n": "Blek le Rat & Above",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "San Francisco, CA",
+        "o": "White Walls Gallery",
+        "d": [
+          "2010-05-01",
+          "2010-06-05"
+        ]
+      },
+      {
+        "i": "116395-9580-2010-05-09",
+        "c": "GB",
+        "n": "Fourth Element II",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Aberfeldy, Perthshire (Scotland)",
+        "o": "The Watermill",
+        "d": [
+          "2010-05-09",
+          "2010-09-19"
+        ]
+      },
+      {
+        "i": "116395-19590-2010-05-27",
+        "c": "US",
+        "n": "Street Smarts",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Affirmation Arts",
+        "d": [
+          "2010-05-27",
+          "2010-06-19"
+        ]
+      },
+      {
+        "i": "116395-2097-2010-06-25",
+        "c": "AT",
+        "n": "Street and Studio - Von Basquiat bis Séripop",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Vienna",
+        "o": "Kunsthalle Wien (Museumsquartier)",
+        "d": [
+          "2010-06-25",
+          "2010-10-10"
+        ]
+      },
+      {
+        "i": "116395-16520-2010-12-03",
+        "c": "GB",
+        "n": "Never Judge...?",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Stolenspace Gallery",
+        "d": [
+          "2010-12-03",
+          "2010-12-19"
+        ]
+      },
+      {
+        "i": "116395-12265-2010-12-11",
+        "c": "US",
+        "n": "Winter Group Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "San Francisco, CA",
+        "o": "White Walls Gallery",
+        "d": [
+          "2010-12-11",
+          "2011-01-01"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "116395-12265-2010-12-11",
+        "c": "US",
+        "n": "Winter Group Show",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "San Francisco, CA",
+        "o": "White Walls Gallery",
+        "d": [
+          "2010-12-11",
+          "2011-01-01"
+        ]
+      },
+      {
+        "i": "116395-30513-2011-04-17",
+        "c": "DE",
+        "n": "UrbanArt Graffiti 21",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Völklingen",
+        "o": "Weltkulturerbe Völklinger Hütte - Europäisches Zentrum für Kunst und Industriekultur",
+        "d": [
+          "2011-04-17",
+          "2011-11-01"
+        ]
+      },
+      {
+        "i": "116395-4807-2011-08-20",
+        "c": "GB",
+        "n": "Urban Art Show 2011",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "St. Ives, Cornwall (England)",
+        "o": "Belgrave Gallery St Ives",
+        "d": [
+          "2011-08-20",
+          "2011-09-05"
+        ]
+      },
+      {
+        "i": "116395-360-2011-09-16",
+        "c": "DE",
+        "n": "Street Art - Contemporary Prints",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mannheim",
+        "o": "Galerie Kasten",
+        "d": [
+          "2011-09-16",
+          "2011-10-29"
+        ]
+      },
+      {
+        "i": "116395-12845-2011-10-25",
+        "c": "ZA",
+        "n": "Outside - Urban Street Group Exhibition",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Cape Town",
+        "o": "34FineArt",
+        "d": [
+          "2011-10-25",
+          "2011-11-19"
+        ]
+      },
+      {
+        "i": "116395-17407-2011-11-19",
+        "c": "US",
+        "n": "Late To Dinner",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Culver City, CA",
+        "o": "Carmichael Gallery of Contemporary Art",
+        "d": [
+          "2011-11-19",
+          "2011-12-24"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "116395-360-2012-05-10",
+        "c": "DE",
+        "n": "Black´n White",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Mannheim",
+        "o": "Galerie Kasten",
+        "d": [
+          "2012-05-10",
+          "2012-06-30"
+        ]
+      },
+      {
+        "i": "116395-3052-2012-05-10",
+        "c": "US",
+        "n": "Streets of the World",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Opera Gallery",
+        "d": [
+          "2012-05-10",
+          "2012-05-31"
+        ]
+      },
+      {
+        "i": "116395-22253-2012-05-26",
+        "c": "DE",
+        "n": "Art & Toys – Collection Selim Varol",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Berlin",
+        "o": "me Collectors Room Berlin",
+        "d": [
+          "2012-05-26",
+          "2012-09-16"
+        ]
+      },
+      {
+        "i": "116395-27146-2012-08-16",
+        "c": "US",
+        "n": "Off The Wall: Street Art",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Washington, DC",
+        "o": "Contemporary Wing",
+        "d": [
+          "2012-08-16",
+          "2012-08-25"
+        ]
+      },
+      {
+        "i": "116395-11091-2012-04-27",
+        "c": "GB",
+        "n": "Blek le Rat",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "London (England)",
+        "o": "Opera Gallery",
+        "d": [
+          "2012-04-27",
+          "2012-05-18"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "116395-4807-2013-03-29",
+        "c": "GB",
+        "n": "America\\'s Finest (and Others)",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "St. Ives, Cornwall (England)",
+        "o": "Belgrave Gallery St Ives",
+        "d": [
+          "2013-03-29",
+          "2013-04-22"
+        ]
+      },
+      {
+        "i": "116395-4492-2013-09-07",
+        "c": "US",
+        "n": "Blek le Rat",
+        "st": "Solo",
+        "t": "Private Gallery",
+        "ct": "New York City, NY",
+        "o": "Jonathan LeVine Gallery",
+        "d": [
+          "2013-09-07",
+          "2013-10-05"
+        ]
+      }
+    ]
+  }
+}

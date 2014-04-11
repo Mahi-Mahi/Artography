@@ -1,0 +1,77 @@
+{
+  "id": "160007",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 07:08:37",
+  "name": "Catherine Melin",
+  "surname": "Melin",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1968",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Female",
+  "media": null,
+  "r00": "42253",
+  "r01": "40718",
+  "r02": "39272",
+  "r03": "63501",
+  "r04": "56940",
+  "r05": "50545",
+  "r06": "44005",
+  "r07": "44850",
+  "r08": "37893",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2002",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (6), Netherlands (1)",
+  "2005-shows-with": "Catherine Melin (6), Adel Abdessemed (2), Robert Barry (2), Sarah Ortmeyer (2), Julien Prévieux (2), Bruno Serralongue (2)",
+  "representing-galleries": "Galerie Isabelle Gounod (13, rue Chapon, 75003 Paris, France)",
+  "collecting-museums": null,
+  "first_name": "Catherine",
+  "last_name": "Melin",
+  "genre": "f",
+  "birthDate": "1968-01-01",
+  "age": 46,
+  "age_range": "46-55",
+  "expos": {
+    "2011": [
+      {
+        "i": "160007-13055-2011-06-25",
+        "c": "NL",
+        "n": "Out of Storage: Provisoire & Définitif",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Maastricht",
+        "o": "Marres - Centre for Contemporary Culture",
+        "d": [
+          "2011-06-25",
+          "2012-03-25"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "160007-13055-2011-06-25",
+        "c": "NL",
+        "n": "Out of Storage: Provisoire & Définitif",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Maastricht",
+        "o": "Marres - Centre for Contemporary Culture",
+        "d": [
+          "2011-06-25",
+          "2012-03-25"
+        ]
+      }
+    ]
+  }
+}

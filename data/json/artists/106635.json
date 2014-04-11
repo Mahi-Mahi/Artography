@@ -1,0 +1,310 @@
+{
+  "id": "106635",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:47:06",
+  "name": "Art Orienté Objet",
+  "surname": "Art Orienté Objet",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1991",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Artist group",
+  "media": null,
+  "r00": "5913",
+  "r01": "6656",
+  "r02": "6090",
+  "r03": "7742",
+  "r04": "12517",
+  "r05": "20104",
+  "r06": "28313",
+  "r07": "26059",
+  "r08": "20745",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1994",
+  "all-shows-total": "34",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "20",
+  "2005-countries-total": "France (12), Belgium (2), Luxembourg (2), Austria (1), Cameroon (1), Germany (1), Italy (1), Morocco (1), Norway (1), South Korea (1), Switzerland (1), United Kingdom (1), Uruguay (1)",
+  "2005-shows-with": "Art Orienté Objet (22), Orlan (4), Olga Kisseleva (3), Stelarc (3), Yann Toma (3), Hans Bellmer (2), Maurice Benayoun (2), Zane Berzina (2), Jirï Cernicky (2), Critical Art Ensemble  (CAE) (2), Berlinde De Bruyckere (2), Wim Delvoye (2), Mark Dion (2), Evru / Zush (2), Jan Fabre (2), Seamus Farrell (2), Olivier Goulet (2), Siobhán Hapaska (2), Carsten Höller (2), Eduardo Kac (2), Yayoi Kusama (2), Yann Marussich (2), Zbigniew Oksiuta (2), Huang Yong Ping (2), Éric Poitevin (2), Daniel Pommereulle (2), Philippe Rahm (2), Julia Reodica (2), Société Réaliste (2), Jeanne Susplugas (2), Jun Takita (2), The Tissue Culture & Art Project (2), TODT (2)",
+  "representing-galleries": "Galerie Anton Weller (57, rue de Bretagne, 75003 Paris, France); Synopsism (rue de Genève 21, 1003 Lausanne, Switzerland)",
+  "collecting-museums": "Musée de l’Objet (6 rue Franciade, 41000 Blois, France)",
+  "first_name": "Art",
+  "last_name": "Orienté",
+  "genre": "c",
+  "birthDate": "1991-01-01",
+  "age": 23,
+  "age_range": "0-25",
+  "expos": {
+    "2005": [
+      {
+        "i": "106635-10857-2005-05-01",
+        "c": "CA",
+        "n": "Biennale de Quebec, Manif d'Art 3",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Quebec City",
+        "o": "Manif d’art – The Que&#769;bec City Biennial",
+        "d": [
+          "2005-05-01",
+          "2005-05-30"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "106635-6132-2007-09-10",
+        "c": "AU",
+        "n": "Bienniale of Electronic Arts - BEAP 2007",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Bentley, WA",
+        "o": "Biennale of Electronic Arts Perth - BEAP",
+        "d": [
+          "2007-09-10",
+          "2007-09-23"
+        ]
+      },
+      {
+        "i": "106635-16703-2007-11-16",
+        "c": "GH",
+        "n": "Brocken Memory",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Accra",
+        "o": "Ghana National Art Museum",
+        "d": [
+          "2007-11-16",
+          "2007-12-16"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "106635-19846-2008-01-26",
+        "c": "NO",
+        "n": "STRIKKNIKK",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Arendal",
+        "o": "Bomuldsfabriken Kunsthall",
+        "d": [
+          "2008-01-26",
+          "2008-03-09"
+        ]
+      },
+      {
+        "i": "106635-7250-2008-02-01",
+        "c": "GB",
+        "n": "SK-Interfaces",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Liverpool (England)",
+        "o": "FACT (Foundation for Art and Creative Technology)",
+        "d": [
+          "2008-02-01",
+          "2008-03-30"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "106635-8641-2009-02-19",
+        "c": "MA",
+        "n": "This is now 2",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Rabat",
+        "o": "L’appartement 22",
+        "d": [
+          "2009-02-19",
+          "2009-03-15"
+        ]
+      },
+      {
+        "i": "106635-11262-2009-05-28",
+        "c": "BE",
+        "n": "The Frog Princess",
+        "st": "Group",
+        "t": "Private Gallery",
+        "ct": "Brussels",
+        "o": "Jozsa Gallery",
+        "d": [
+          "2009-05-28",
+          "2009-07-11"
+        ]
+      },
+      {
+        "i": "106635-7071-2009-09-13",
+        "c": "CH",
+        "n": "GENIPULATION Génie génétique et manipulation dans l\\",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Biel/Bienne",
+        "o": "Kunsthaus CentrePasquArt - Centre d'Art",
+        "d": [
+          "2009-09-13",
+          "2009-11-22"
+        ]
+      },
+      {
+        "i": "106635-3737-2009-09-26",
+        "c": "LU",
+        "n": "SK–INTERFACES",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2009-09-26",
+          "2010-01-10"
+        ]
+      },
+      {
+        "i": "106635-13486-2009-01-22",
+        "c": "CM",
+        "n": "Unrooted Trees / Arbres sans racines",
+        "st": "Solo",
+        "t": "Public Institution",
+        "ct": "Douala",
+        "o": "Espace doual´art",
+        "d": [
+          "2009-01-22",
+          "2009-02-28"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "106635-3737-2009-09-26",
+        "c": "LU",
+        "n": "SK–INTERFACES",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2009-09-26",
+          "2010-01-10"
+        ]
+      },
+      {
+        "i": "106635-3458-2010-09-03",
+        "c": "KR",
+        "n": "8th Gwangju Biennale - 10,000 Lives",
+        "st": "Group",
+        "t": "Biennial, Triennial etc.",
+        "ct": "Gwangju",
+        "o": "Gwangju Biennale",
+        "d": [
+          "2010-09-03",
+          "2010-11-07"
+        ]
+      },
+      {
+        "i": "106635-24752-2010-11-20",
+        "c": "BE",
+        "n": "Alter Nature: Harder, Better, Faster, Stronger",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Hasselt",
+        "o": "CIAP",
+        "d": [
+          "2010-11-20",
+          "2011-03-13"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "106635-24752-2010-11-20",
+        "c": "BE",
+        "n": "Alter Nature: Harder, Better, Faster, Stronger",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Hasselt",
+        "o": "CIAP",
+        "d": [
+          "2010-11-20",
+          "2011-03-13"
+        ]
+      },
+      {
+        "i": "106635-3737-2011-05-15",
+        "c": "LU",
+        "n": "Second Lives : Jeux masqués et autres Je",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2011-05-15",
+          "2011-09-11"
+        ]
+      },
+      {
+        "i": "106635-2120-2011-09-01",
+        "c": "AT",
+        "n": "Prix Ars Electronica Exhibition",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Linz",
+        "o": "OK Offenes Kulturhaus OÖ",
+        "d": [
+          "2011-09-01",
+          "2011-09-07"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "106635-6173-2012-06-15",
+        "c": "DE",
+        "n": "66. Internationale Bergische Kunstausstellung 2012",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Solingen",
+        "o": "Kunstmuseum Solingen",
+        "d": [
+          "2012-06-15",
+          "2012-09-09"
+        ]
+      },
+      {
+        "i": "106635-22640-2012-10-18",
+        "c": "UY",
+        "n": "El Ojo Colectivo; en búsqueda de otra subjetividad",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Montevideo",
+        "o": "Centro de Exposiciones Subte",
+        "d": [
+          "2012-10-18",
+          "2012-12-02"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "106635-30519-2013-07-17",
+        "c": "IT",
+        "n": "Cinque Garzoni II - Piccola Germania",
+        "st": "Group",
+        "t": "Project Space",
+        "ct": "Venice",
+        "o": "Cinque Garzoni",
+        "d": [
+          "2013-07-17",
+          "2013-09-01"
+        ]
+      }
+    ]
+  }
+}

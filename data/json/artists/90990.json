@@ -1,0 +1,90 @@
+{
+  "id": "90990",
+  "mergedIDs": null,
+  "timestamp": "2014-02-22 06:41:09",
+  "name": "Benjamin Rivière",
+  "surname": "Rivière",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1976",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "34462",
+  "r01": "31660",
+  "r02": "28531",
+  "r03": "25544",
+  "r04": "23548",
+  "r05": "20310",
+  "r06": "20912",
+  "r07": "21972",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "10",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (2)",
+  "2005-shows-with": "Benjamin Rivière (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Benjamin",
+  "last_name": "Rivière",
+  "genre": "m",
+  "birthDate": "1976-01-01",
+  "age": 38,
+  "age_range": "36-45",
+  "expos": {
+    "2006": [
+      {
+        "i": "90990-12130-2006-02-09",
+        "c": "BE",
+        "n": "Painted Objects",
+        "st": "Group",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "CCNOA - Center for Contemporary Non-Objective Art",
+        "d": [
+          "2006-02-09",
+          "2006-03-12"
+        ]
+      },
+      {
+        "i": "90990-7893-2006-05-12",
+        "c": "NO",
+        "n": "2 Steps",
+        "st": "Group",
+        "t": "Public Institution",
+        "ct": "Oslo",
+        "o": "Kunstnernes Hus",
+        "d": [
+          "2006-05-12",
+          "2006-06-25"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "90990-12130-2007-09-21",
+        "c": "BE",
+        "n": "Multimedia Space: Benjamin Rivière (F)",
+        "st": "Solo",
+        "t": "Non-profit organization",
+        "ct": "Brussels",
+        "o": "CCNOA - Center for Contemporary Non-Objective Art",
+        "d": [
+          "2007-09-21",
+          "2007-09-23"
+        ]
+      }
+    ]
+  }
+}
