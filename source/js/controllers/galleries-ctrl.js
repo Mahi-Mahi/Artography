@@ -6,7 +6,7 @@ define([], function() {
 	return ['$scope', '$location', '$route', 'dataService',
 		function($scope, $location, $route, dataService) {
 
-			jQuery('body').removeClass('home');
+			jQuery('body').removeClass('home').addClass('galerie');
 
 			jQuery(window).off("debouncedresize")
 				.on("debouncedresize", function(event) {
@@ -39,7 +39,7 @@ define([], function() {
 			// default period
 			$scope.filters = {
 				gallery: '',
-				period: '2014'
+				period: '2013'
 			};
 
 			$scope.periods = [];
@@ -267,11 +267,11 @@ define([], function() {
 				switch ($scope.filters.period) {
 					case 'today':
 						period = "Actuellement";
-						verb = "fairsent";
+						verb = "exposent";
 						break;
 					default:
 						period = "En " + $scope.filters.period;
-						verb = "fairsaient";
+						verb = "ont<br />exposé";
 						break;
 				}
 				switch (nb_galleries) {
@@ -296,7 +296,7 @@ define([], function() {
 						break;
 				}
 
-				jQuery('.entry-description p').html('<strong>' + period + '</strong> <br /><strong>' + galleries + '</strong> français <br />' + verb + (nb_galleries ? ' dans <strong>' + countries + '</strong>' : '') + '.');
+				jQuery('.entry-description p').html('<strong>' + period + '</strong>, <strong>' + galleries + '</strong><br /> françaises ' + verb + (nb_galleries ? ' dans <strong>' + countries + '</strong>' : '') + '.');
 			}
 
 			$scope.showGallery = function(gallery_id) {
@@ -311,6 +311,7 @@ define([], function() {
 				console.log("updateGalleries");
 				var i = 0;
 				var re = new RegExp($scope.searchText, "i");
+				console.log(active_galleries);
 				angular.forEach($scope.galleries, function(gallery, idx) {
 					if (active_galleries.indexOf(gallery.id) !== -1 && re.test(gallery.name)) {
 						$scope.galleries[idx].enabled = 'enabled' + (i++ % 2 === 0 ? ' even' : '');

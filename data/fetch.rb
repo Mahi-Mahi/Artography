@@ -126,7 +126,7 @@ af_galleries.shuffle.slice(0,5000).each do |gallery|
 				rescue
 				end
 
-				fair_detail[:n] = af_fair['Title']
+				fair_detail[:n] = af_fair['name']
 				fair_detail[:ct] = af_fair['city']
 
 				af_fair['year'] = af_fair['year'].to_i
@@ -175,8 +175,8 @@ af_artists.shuffle.slice(0,50000).each do |artist|
 	end
 
 	begin
-		artist['birth month'] = 1 if artist['birth month'] == 0
-		artist['birth day'] = 1 if artist['birth day'] == 0
+		artist['birth month'] = 1 if !artist['birth month']
+		artist['birth day'] = 1 if !artist['birth day']
 		birthDate = Date.strptime("#{artist['birth year']}-#{artist['birth month']?artist['birth month']:1}-#{artist['birth day']?artist['birth day']:1}", '%Y-%m-%d')
 		artist[:birthDate] = birthDate.to_s
 		artist[:age] = Time.diff(Time.now, birthDate)[:year]
@@ -304,7 +304,7 @@ File.open(filename, 'w') { |file| file.write content }
 FileUtils.mkdir_p "json/artists"
 artists_name = {}
 artists.sort_by{|k, v| v[:last_name]}.each do |artist_id, artist|
-	unless gallery['country'] == 'FR'
+	unless artist['country'] == 'FR'
 		artists_name[artist_id.to_i] = artist['name']
 		filename = "json/artists/#{artist_id}.json"
 		content = production ? artist.to_json : JSON.pretty_generate(artist)

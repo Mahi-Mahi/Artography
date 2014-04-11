@@ -6,7 +6,7 @@ define([], function() {
 	return ['$scope', '$location', '$route', 'dataService',
 		function($scope, $location, $route, dataService) {
 
-			jQuery('body').removeClass('home');
+			jQuery('body').removeClass('home').removeClass('galerie');
 
 			jQuery(window).off("debouncedresize")
 				.on("debouncedresize", function(event) {
@@ -59,6 +59,8 @@ define([], function() {
 			});
 
 			var all_expos = {};
+
+			var expo_types = [];
 
 			// expos list
 			$scope.expos = [];
@@ -306,6 +308,10 @@ define([], function() {
 						if ($scope.expos.indexOf(expo.i) == -1) {
 							$scope.expos.push(expo.i);
 						}
+						if (expo_types.indexOf(expo.st) == -1) {
+							expo_types.push(expo.st);
+						}
+
 						country.has_expos = true;
 						country.expos = expos;
 						data.continents[data.cc[expo.c]].countries[expo.c] = country;
@@ -313,6 +319,8 @@ define([], function() {
 						console.log("country continent not found : " + expo.c);
 					}
 				});
+
+				console.log(expo_types);
 
 				nb_countries = $scope.countries.length;
 
@@ -371,13 +379,12 @@ define([], function() {
 								} else {
 									new_filledArc = [originX, originY, central_radius, 0 /* layerW */ , a, country.rotation === undefined ? rotation : country.rotation];
 								}
-								console.log(new_filledArc);
 
 								var fill = expo_colors[expo.type];
 								if (expo.showtype == 'Solo') {
-									fill = "url(/assets/images/radio-checked.png)";
+									fill = "url(/assets/images/stripe-" + (expo.type.replace(/expo-/, '')) + ".png)";
+									console.log(fill);
 								}
-								console.log(fill);
 								expo.slice = raphael.path().attr({
 									fill: fill,
 									'stroke-width': 0,

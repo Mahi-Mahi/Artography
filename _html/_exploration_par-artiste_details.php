@@ -91,14 +91,14 @@
 							<label for="periode-today">Aujourd'hui</label>
 						</li>
 						<?php
-							foreach(range('2014','1990') as $period) :
-						?>
-						<li>
-							<input type="radio" name="periode" id="periode-<?php print $period ?>" value="periode-<?php print $period ?>" />
-							<label for="periode-<?php print $period ?>"><?php print $period ?></label>
-						</li>
-						<?php
-							endforeach;
+						foreach(range('2014','1990') as $period) :
+							?>
+							<li>
+								<input type="radio" name="periode" id="periode-<?php print $period ?>" value="periode-<?php print $period ?>" />
+								<label for="periode-<?php print $period ?>"><?php print $period ?></label>
+							</li>
+							<?php
+						endforeach;
 						?>
 					</ul>
 				</fieldset>
@@ -106,19 +106,20 @@
 			</form>
 
 			<div class="legend">
-				<fieldset>
-					<legend>Légende</legend>
-					<dl>
-						<dt>Type d'exposition</dt>
-						<dd><strong>Solo</strong> 3</dd>
-						<dd><strong>Collective</strong> 23</dd>
-						<dt>Organisateur</dt>
-						<dd><strong>Institution publique</strong> 14</dd> 
-						<dd><strong>Structure privée</strong> 14</dd>
-						<dd><strong>Grande manifestation</strong> 14</dd>
-						<dd><strong>Autre</strong> 14</dd>
-					</dl>
-				</fieldset>
+
+					<fieldset>
+						<legend>Légende</legend>
+						<dl>
+							<dt>Type d'exposition</dt>
+							<dd class="solo ng-binding"><strong>Solo</strong></dd>
+							<dd class="collective ng-binding"><strong>Collective</strong></dd>
+							<dt>Organisateur</dt>
+						</dl>
+						<ul class="unstyled organizer-list">
+						<!-- ngRepeat: organizer in organizers --><li ng-repeat="organizer in organizers" class="Non-profit-organization"><strong class="ng-binding">Non-profit organization</strong> <em class="ng-binding">1</em></li><!-- end ngRepeat: organizer in organizers --><li ng-repeat="organizer in organizers" class="Private-Gallery"><strong class="ng-binding">Private Gallery</strong> <em class="ng-binding">14</em></li><!-- end ngRepeat: organizer in organizers --><li ng-repeat="organizer in organizers" class="Public-Institution"><strong class="ng-binding">Public Institution</strong> <em class="ng-binding">22</em></li><!-- end ngRepeat: organizer in organizers -->
+						</ul>
+					</fieldset>
+
 			</div><!-- .legend -->
 
 		</div><!-- .left-sidebar -->
@@ -157,7 +158,7 @@
 			</div><!-- .news-block -->
 
 		</div><!-- .right-sidebar -->
-		
+
 	</div><!-- .row -->
 
 </div><!-- .wrapper -->

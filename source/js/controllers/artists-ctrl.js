@@ -6,7 +6,7 @@ define([], function() {
 	return ['$scope', '$location', '$route', 'dataService',
 		function($scope, $location, $route, dataService) {
 
-			jQuery('body').removeClass('home');
+			jQuery('body').removeClass('home').removeClass('galerie');
 
 			jQuery(window).off("debouncedresize")
 				.on("debouncedresize", function(event) {
