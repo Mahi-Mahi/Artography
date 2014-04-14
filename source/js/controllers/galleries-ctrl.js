@@ -540,10 +540,9 @@ define([], function() {
 				}
 				fontSize = fontSize || 10 * letterSpacing;
 
-				c = letters.length - 1;
-				var R = rotation;
+				rotation = rotation % 360;
 
-				if (rotation + a <= 90 || rotation >= 270) {
+				if ((Math.abs(rotation) + a <= 90 || Math.abs(rotation) + a >= 270) && a < 360) {
 					message = message.split("").reverse().join("");
 					res = prepareText(message, fontSize, letterSpacing, kerning, geckoKerning, fontColor, fontWeight);
 					letters = res.letters;
@@ -558,9 +557,12 @@ define([], function() {
 						"font-family": fontFamily
 					});
 					var p = path.getPointAtLength(places[c] * letterSpacing + point);
-					// var rotate = 'R' + (p.alpha < 180 && reverse ? p.alpha + 180 : p.alpha > 360 ? p.alpha - 360 : p.alpha) + ',' + p.x + ',' + p.y;
-					var rotate = 'R' + (p.alpha < 180 || reverse ? p.alpha + 180 : p.alpha) + ',' + p.x + ',' + p.y;
-					// var rotate = 'R' + p.alpha + ',' + p.x + ',' + p.y;
+					var R = p.alpha;
+					if (p.alpha < 180)
+						R = p.alpha % 180 + 180;
+					if (reverse)
+						R = p.alpha - 180;
+					var rotate = 'R' + R + ',' + p.x + ',' + p.y;
 					set.push(letters[c].attr({
 							x: p.x,
 							y: p.y,
