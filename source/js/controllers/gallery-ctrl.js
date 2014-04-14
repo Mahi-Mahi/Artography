@@ -301,7 +301,7 @@ define([], function() {
 				var layer_interval = Math.min(2, 10 / max_fairs);
 
 				var a = nb_countries == 1 ? 360 : (360 - (nb_countries * a_interval)) / nb_countries;
-				var rotation = 90;
+				var rotation = 0;
 				textOnPathDone = 0;
 
 				var new_filledArc, previous_fair_filledArc;
@@ -535,6 +535,7 @@ define([], function() {
 						R = p.alpha % 180 + 180;
 					if (reverse)
 						R = p.alpha - 180;
+					// console.log([message[c], reverse, p.alpha, R]);
 					var rotate = 'R' + R + ',' + p.x + ',' + p.y;
 					set.push(letters[c].attr({
 							x: p.x,

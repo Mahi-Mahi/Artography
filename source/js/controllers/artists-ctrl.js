@@ -620,6 +620,7 @@ define([], function() {
 						R = p.alpha % 180 + 180;
 					if (reverse)
 						R = p.alpha - 180;
+					console.log([message[c], reverse, p.alpha, R]);
 					var rotate = 'R' + R + ',' + p.x + ',' + p.y;
 					set.push(letters[c].attr({
 							x: p.x,
