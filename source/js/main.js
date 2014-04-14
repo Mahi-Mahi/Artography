@@ -9,6 +9,7 @@ require.config({
 		angularSanitize: '/vendor/angular-sanitize/angular-sanitize',
 		angularResource: '/vendor/angular-resource/angular-resource',
 		angularLocalStorage: '/vendor/angular-local-storage/angular-local-storage',
+		ngProgress: '/vendor/ngprogress/build/ngProgress',
 		raphael: '/vendor/raphael/raphael',
 		jquery: '/vendor/jquery/dist/jquery',
 		// angularAnimate: '/vendor/angular-animate/angular-animate',
@@ -24,6 +25,7 @@ require.config({
 		'angularSanitize': ['angular'],
 		'angularResource': ['angular'],
 		'angularLocalStorage': ['angular'],
+		'ngProgress': ['angular'],
 		// 'angularAnimate': ['angular'],
 		'angularMocks': {
 			deps: ['angular'],

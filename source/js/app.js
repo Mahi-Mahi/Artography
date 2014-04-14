@@ -8,6 +8,7 @@ define([
 	'angularResource',
 	'angularLocalStorage',
 	'angularSanitize',
+	'ngProgress',
 	'raphael',
 	'jquery',
 	'jquery-smartresize'
@@ -23,6 +24,7 @@ define([
 		'ngRoute',
 		'ngResource',
 		'ngSanitize',
+		'ngProgress',
 		// 'ngAnimate',
 		'myApp.controllers',
 		'myApp.filters',

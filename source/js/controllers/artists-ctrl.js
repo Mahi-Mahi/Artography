@@ -3,8 +3,8 @@
 
 define([], function() {
 
-	return ['$scope', '$location', '$route', 'dataService',
-		function($scope, $location, $route, dataService) {
+	return ['$scope', '$location', '$route', 'dataService', 'ngProgress',
+		function($scope, $location, $route, dataService, ngProgress) {
 
 			jQuery('body').removeClass('home').removeClass('galerie');
 
@@ -21,13 +21,16 @@ define([], function() {
 
 			// Artists list
 			$scope.artists = [];
+			var progress = 0;
 			angular.forEach(dataService.data.artists.names, function(artist_name, id) {
+				// ngProgress.set(Math.round(dataService.data.artists.names.length / progress++ * 100));
 				$scope.artists.push({
 					id: parseInt(id, 10),
 					name: artist_name,
 					enabled: ''
 				});
 			});
+			ngProgress.complete();
 
 			$scope.artists.sort(
 				function(a, b) {
@@ -640,6 +643,7 @@ define([], function() {
 							opacity: 1
 						}, fadeIn_delay);
 					});
+					ngProgress.complete();
 				}
 				return set;
 			}
