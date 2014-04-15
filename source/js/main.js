@@ -25,7 +25,7 @@ require.config({
 		'angularSanitize': ['angular'],
 		'angularResource': ['angular'],
 		'angularLocalStorage': ['angular'],
-		'ngProgress': ['angular'],
+		// 'ngProgress': ['angular'],
 		// 'angularAnimate': ['angular'],
 		'angularMocks': {
 			deps: ['angular'],

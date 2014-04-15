@@ -3,8 +3,8 @@
 
 define([], function() {
 
-	return ['$scope', '$location', '$route', 'dataService', 'ngProgress',
-		function($scope, $location, $route, dataService, ngProgress) {
+	return ['$scope', '$location', '$route', 'dataService',
+		function($scope, $location, $route, dataService) {
 
 			jQuery('body').removeClass('home').removeClass('galerie');
 
@@ -21,9 +21,9 @@ define([], function() {
 
 			// Artists list
 			var artists = [];
-			var progress = 0;
+			$scope.artists = [];
+			console.log("set Artists");
 			angular.forEach(dataService.data.artists.names, function(artist_name, id) {
-				// ngProgress.set(Math.round(dataService.data.artists.names.length / progress++ * 100));
 				artists.push({
 					id: parseInt(id, 10),
 					name: artist_name,
@@ -31,7 +31,7 @@ define([], function() {
 				});
 			});
 			$scope.artists = artists;
-			ngProgress.complete();
+			setTimeout(function() {}, 1000);
 
 			$scope.artists.sort(
 				function(a, b) {
@@ -243,7 +243,10 @@ define([], function() {
 				});
 			});
 
-			$scope.$apply();
+			console.log("$scope.$apply();");
+			$scope.$apply(function() {
+				console.log("inside $apply");
+			});
 
 			// setInterval(function() {
 			// 	angular.forEach(delayed_display, function(item, idx) {
@@ -261,6 +264,7 @@ define([], function() {
 			}
 
 			function parseData() {
+				console.log("parseData");
 
 				iteration++;
 
@@ -372,6 +376,7 @@ define([], function() {
 			};
 
 			function updateArtists() {
+				console.log("updateArtists");
 				var i = 0;
 				var re = new RegExp($scope.searchText, "i");
 				angular.forEach($scope.artists, function(artist, idx) {
@@ -384,6 +389,7 @@ define([], function() {
 			}
 
 			function drawChart() {
+				console.log("drawChart");
 
 				console.log("nb_countries : " + nb_countries);
 				console.log("max_artists : " + max_artists);
@@ -643,7 +649,6 @@ define([], function() {
 							opacity: 1
 						}, fadeIn_delay);
 					});
-					ngProgress.complete();
 				}
 				return set;
 			}
