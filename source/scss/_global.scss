@@ -109,7 +109,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		width:220px;
   	}
 	form {
-		height: 400px;
+		max-height: 400px;
 		overflow: auto;
 	}
 }
@@ -119,6 +119,9 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	width:160px;
 	@media (min-width: $break-large) {
 		width:245px;
+  	}
+  	aside {
+  		margin-top: -40px;
   	}
 }
 
@@ -167,7 +170,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		border-bottom:1px dotted #000;
 		color:#000;
 		display: block;
-		font:normal em(26px)/1 'Tungsten-Light', Arial, Verdana, sans-serif;
+		font:normal em(20px)/1 'Tungsten-Light', Arial, Verdana, sans-serif;
 		margin: 0;
 		padding:0 8px 0 25px;
 		text-transform: uppercase;
@@ -226,6 +229,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	padding:0;
 	position:relative;
 	z-index:1;
+	text-align: center;
 }
 
 .entry-content {
@@ -246,10 +250,11 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	background:$highlight-color;
 	color:#fff;
 	display: inline-block;
-	font:normal 3.875em/1.1 'Tungsten-Light', Arial, Verdana, sans-serif;
+	font:normal 1.875em/1.1 'Tungsten-Light', Arial, Verdana, sans-serif;
 	margin:em(15px,62px) 0;
 	padding:em(15px,62px) em(40px,62px);
 	vertical-align: top;
+	width: 220px;
 	strong {
 		font-family:'Tungsten-Medium', Arial, Verdana, sans-serif;
 		font-weight: normal;
@@ -261,7 +266,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 
 .entry-meta {
 	display: block;
-	font:normal 1.5em 'Tungsten-Light', Arial, Verdana, sans-serif;
+	font:normal 1.2em 'Tungsten-Light', Arial, Verdana, sans-serif;
 	margin: 0;
 	padding: 0 0 0 40px;
 	text-transform: uppercase;
@@ -291,12 +296,12 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	background:image-url("bg-description.png") left top no-repeat;
 	color:#000;
 	display: block;
-	font:normal 3em/1 'Tungsten-Light', Arial, Verdana, sans-serif;
+	font:normal 2em/1 'Tungsten-Light', Arial, Verdana, sans-serif;
 	height:137px;
 	margin:0;
 	padding:0 40px 0 0;
 	text-transform: uppercase;
-	width:406px;
+	width:205px;
 	p {
 		display:block;
 		margin: 0;
@@ -307,7 +312,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		display: table-cell;
 		height:137px;
 		vertical-align: middle;
-		width:406px;
+		width:205px;
 	}
 	strong {
 		color:$highlight-color;
@@ -319,7 +324,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 // LEFT SIDEBAR
 
 .left-sidebar {
-	font-size:em(25px);
+	font-size:em(20px);
 	li {
 		display: block;
 		margin: 0;
@@ -362,7 +367,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	content: '';
 	position: absolute;
 	left:0; top: 2px;
-	width: 25px; height: 25px;
+	width: 20px; height: 20px;
 	border: 2px solid #6d6e71;
 	background: #fff;
 	border-radius: 4px;
@@ -373,8 +378,8 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	border-radius: 4px;
 	content: ' ';
 	position: absolute;
-	top: 9px;
-	left: 7px;
+	top: 7px;
+	left: 5px;
 	height:15px;
 	width:15px;
 	-webkit-transition: all .2s;
@@ -485,7 +490,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 
 .artist-item, .exposition-item, .fair-item, .gallery-item {
 	display: none;
-	font-size:em(24px);
+	font-size:em(20px);
 	margin: 0;
 	padding:0 0 4px 0;
 	&.enabled {
@@ -547,7 +552,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	border-radius:4px;
 	color:#231f20;
 	display: block;
-	font:normal 1.5em/1.1 'Tungsten-Light', Arial, Verdana, sans-serif;
+	font:normal 1.2em/1.1 'Tungsten-Light', Arial, Verdana, sans-serif;
 	margin: 15px 0;
 	padding:2px 30px 2px 10px;
 	width:100%;

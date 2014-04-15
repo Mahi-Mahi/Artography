@@ -12,6 +12,13 @@
 			<a href="#" ng-click="goBack();">Retour</a>
 		</p>
 		<div class="entry-content">
+		</div><!-- .entry-content -->
+	</div><!-- .entry-header -->
+
+	<div class="row main">
+
+		<div class="col sidebar left-sidebar">
+
 			<section>
 				<h1 class="entry-title">
 					{{artist.name}}
@@ -23,19 +30,6 @@
 					</ul>
 				</div>
 			</section>
-			<aside>
-				<div class="entry-description">
-					<div class="inner">
-						<p><strong>En {{period}},</strong> cet artiste <br />a exposé dans <strong>{{nb_countries}} pays</strong> <br />via <strong>{{nb_expos}} expositions</strong>.</p>
-					</div><!-- .inner -->
-				</div><!-- .entry-description -->
-			</aside>
-		</div><!-- .entry-content -->
-	</div><!-- .entry-header -->
-
-	<div class="row main">
-
-		<div class="col sidebar left-sidebar">
 
 			<div class="sidebar-inner">
 
@@ -82,6 +76,15 @@
 		</div><!-- .content -->
 
 		<div class="col right-sidebar artist-details-sidebar">
+
+			<aside>
+				<div class="entry-description">
+					<div class="inner">
+						<p><strong>En {{period}},</strong> cet artiste <br />a exposé dans <strong>{{nb_countries}} pays</strong> <br />via <strong>{{nb_expos}} expositions</strong>.</p>
+					</div><!-- .inner -->
+				</div><!-- .entry-description -->
+			</aside>
+
 			<form action="about:blank">
 				<input type="text" value="" class="input-sidebar" placeholder="Rechercher une exposition..." ng-model="searchText" ng-change="searchExpos();" />
 				<ul class="unstyled">

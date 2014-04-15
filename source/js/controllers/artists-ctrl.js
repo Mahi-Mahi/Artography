@@ -130,7 +130,7 @@ define([], function() {
 			var max_artists = 0;
 			var active_artists;
 
-			var mainWidth = jQuery('.content').width();
+			var mainWidth = Math.min(jQuery('.content').width(), jQuery(window).height() - jQuery('.entry-header').height());
 			var canvasW = mainWidth,
 				divW = mainWidth,
 				canvasH = mainWidth,
