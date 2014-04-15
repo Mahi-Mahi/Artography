@@ -103,25 +103,28 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 .left-sidebar {
-	padding:0 0 0 40px;
-	width:160px;
+	padding:0;
+	width:200px;
 	@media (min-width: $break-large) {
-		width:220px;
+		width:280px;
   	}
 	form {
 		max-height: 400px;
 		overflow: auto;
 	}
+	.sidebar-inner {
+		padding:0 0 0 40px;
+	}
 }
 
 .right-sidebar {
-	padding:0 40px 0 0;
-	width:160px;
+	padding:0;
+	width:200px;
 	@media (min-width: $break-large) {
-		width:245px;
+		width:285px;
   	}
-  	aside {
-  		margin-top: -40px;
+  	form {
+  		padding:0 40px 0 0;
   	}
 }
 
@@ -131,9 +134,9 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 .artist-details-sidebar {
-	width:205px;
+	width:245px;
 	@media (min-width: $break-large) {
-		width:315px;
+		width:355px;
   	}
 	ul {
 		height: 550px;
@@ -247,6 +250,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 .entry-title {
+	@include border-box-sizing();
 	background:$highlight-color;
 	color:#fff;
 	display: inline-block;
@@ -254,7 +258,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	margin:em(15px,62px) 0;
 	padding:em(15px,62px) em(40px,62px);
 	vertical-align: top;
-	width: 220px;
+	width: 100%;
 	strong {
 		font-family:'Tungsten-Medium', Arial, Verdana, sans-serif;
 		font-weight: normal;
@@ -294,14 +298,19 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 
 .entry-description {
 	background:image-url("bg-description.png") left top no-repeat;
+	border-right:40px solid #fff;
 	color:#000;
 	display: block;
-	font:normal 2em/1 'Tungsten-Light', Arial, Verdana, sans-serif;
+	font:normal 1.75em/1 'Tungsten-Light', Arial, Verdana, sans-serif;
 	height:137px;
 	margin:0;
-	padding:0 40px 0 0;
+	padding:0;
 	text-transform: uppercase;
-	width:205px;
+	width:160px;
+	@media (min-width: $break-large) {
+		font-size:2em;
+		width:245px;
+  	}
 	p {
 		display:block;
 		margin: 0;
@@ -312,7 +321,10 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		display: table-cell;
 		height:137px;
 		vertical-align: middle;
-		width:205px;
+		width:160px;
+		@media (min-width: $break-large) {
+			width:245px;
+	  	}
 	}
 	strong {
 		color:$highlight-color;
