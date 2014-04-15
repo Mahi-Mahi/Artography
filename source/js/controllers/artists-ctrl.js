@@ -20,16 +20,17 @@ define([], function() {
 			var years = dataService.data.years;
 
 			// Artists list
-			$scope.artists = [];
+			var artists = [];
 			var progress = 0;
 			angular.forEach(dataService.data.artists.names, function(artist_name, id) {
 				// ngProgress.set(Math.round(dataService.data.artists.names.length / progress++ * 100));
-				$scope.artists.push({
+				artists.push({
 					id: parseInt(id, 10),
 					name: artist_name,
 					enabled: ''
 				});
 			});
+			$scope.artists = artists;
 			ngProgress.complete();
 
 			$scope.artists.sort(
@@ -623,7 +624,6 @@ define([], function() {
 						R = p.alpha % 180 + 180;
 					if (reverse)
 						R = p.alpha - 180;
-					console.log([message[c], reverse, p.alpha, R]);
 					var rotate = 'R' + R + ',' + p.x + ',' + p.y;
 					set.push(letters[c].attr({
 							x: p.x,
