@@ -92,11 +92,7 @@ define([], function() {
 				country_title_margin = 30,
 				margin = 10 + country_title_margin;
 
-			var a_interval = 1;
-			var animation_delay = 500,
-				fadeOut_delay = 200,
-				fadeIn_delay = 200;
-
+		var layerW_max = 20;
 			var delayed_display = [];
 
 			var timeouts = {};
@@ -170,8 +166,10 @@ define([], function() {
 
 			var central_radius = divW / 12;
 
-			var animation_delay = 500;
-			var a_interval = 2;
+			var animation_delay = 300,
+				a_interval = 2,
+				fadeOut_delay = 200,
+				fadeIn_delay = 200;
 
 			raphael.circle(originX, originY, central_radius - 5).attr({
 				'stroke': '#333',
@@ -363,7 +361,7 @@ define([], function() {
 
 						angular.forEach(country.expos, function(expo, expo_id) {
 
-							var layerW = expo.iteration < iteration ? 0 : ((divW / 2) - (central_radius + margin)) / (max_expos + 1);
+							var layerW = Math.min(layerW_max, expo.iteration < iteration ? 0 : ((divW / 2) - (central_radius + margin)) / (max_expos + 1));
 							// var layerW = max_artists ? ((divW / 2) - (central_radius + margin)) / max_artists : 0;
 
 							if (layerW)
@@ -393,10 +391,10 @@ define([], function() {
 									filledArc: expo.filledArc
 								}, animation_delay)
 									.hover(function() {
+										console.log("hover");
 										var expo_id = this.node.classList[2].replace(/expo-/, '');
 										var the_expo = all_expos[expo_id];
 										if (the_expo) {
-											console.log(the_expo);
 											jQuery('#popup').attr('class', 'expo-' + the_expo.type).html(
 												'<p class="name">' + the_expo.name + '</p>' +
 												'<p class="period">Du ' + the_expo.period[0] +
@@ -409,10 +407,12 @@ define([], function() {
 													top: currentMousePos.y - 200
 												})
 												.fadeIn();
+											jQuery('#popup').on('mouseout', function() {
+												console.log("out");
+												jQuery(this).stop().fadeOut();
+											});
 										}
-									}, function() {
-										jQuery('#popup').stop().fadeOut();
-									});
+									}, function() {});
 
 								expo.slice.node.setAttribute('class', 'country-' + country_code + ' expo expo-' + expo_id);
 
@@ -451,7 +451,7 @@ define([], function() {
 											'stroke-width': 0,
 											simpleArc: simpleArc,
 											opacity: 0
-										});
+										}).toBack();
 
 										// var message = country_code.toUpperCase();
 										// var res = prepareText(country.country.fr.toUpperCase(), 12, 1, true, true, '00FF00', 'normal');

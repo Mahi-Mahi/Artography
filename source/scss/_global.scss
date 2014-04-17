@@ -10,7 +10,7 @@
 // STRUCTURE
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 html, button, input, select, textarea { font-family:'Tungsten-Book', Arial, Verdana, sans-serif; color:$default-color; }
-body.truc { background:image-url("bg-page.png") repeat #fff; margin:0; padding:0; font-size:1em; }
+body { background:image-url("bg-pattern.png") repeat #fff; margin:0; padding:0; font-size:1em; }
 
 .visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
 
@@ -640,30 +640,35 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 .home-block {
 	display: block;
 	height:525px;
-	margin: -262px 0 0 -350px;
+	margin: -232px 0 0 -260px;
 	padding: 0;
 	position:absolute;
 	left:50%;
 	top:50%;
-	width:700px;
+	width:500px;
 	z-index:20;
-	.artists {
-		position: absolute;
-		top: 84px;
-		left: 156px;
-		width: 58px;
-		height: 17px;
-		text-indent: 100%;
+	.artists, .galleries {
+		font:normal 2em/1.1 'Tungsten-Light', Arial, Verdana, sans-serif;
+		padding: 2px 20px 0;
+		font-weight: 400;
+		background: #000;
+		opacity: 0.89;
+		color: #fff;
 		overflow: hidden;
+		position: absolute;
+		// text-indent: 100%;
+	}
+	.artists {
+		top: 134px;
+		left: 116px;
+		// width: 78px;
+		// height: 27px;
 	}
 	.galleries {
-		position: absolute;
-		top: 425px;
-		left: 496px;
-		width: 58px;
-		height: 17px;
-		text-indent: 100%;
-		overflow: hidden;
+		top: 325px;
+		left: 321px;
+		// width: 58px;
+		// height: 17px;
 	}
 }
 

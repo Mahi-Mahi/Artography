@@ -31,7 +31,6 @@ define([], function() {
 				});
 			});
 			$scope.artists = artists;
-			setTimeout(function() {}, 1000);
 
 			$scope.artists.sort(
 				function(a, b) {
@@ -218,6 +217,12 @@ define([], function() {
 				opacity: 0.2
 				// 'stroke-width': 1
 			});
+
+			var circle_mark_incr = 12;
+			var circle_mark_angle = 0;
+			for (circle_mark_angle = 0; circle_mark_angle < 360; circle_mark_angle += circle_mark_incr) {
+				console.log(circle_mark_angle);
+			}
 
 			// create continents/countries container
 			var data = {
