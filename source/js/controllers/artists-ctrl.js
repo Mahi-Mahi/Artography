@@ -30,7 +30,7 @@ define([], function() {
 					enabled: ''
 				});
 			});
-			$scope.artists = artists;
+			// $scope.artists = artists;
 
 			$scope.artists.sort(
 				function(a, b) {
@@ -264,8 +264,8 @@ define([], function() {
 
 			function update() {
 				parseData();
-				updateArtists();
 				drawChart();
+				updateArtists();
 			}
 
 			function parseData() {
@@ -380,15 +380,32 @@ define([], function() {
 				updateArtists();
 			};
 
+			Array.prototype.diff = function(a) {
+				return this.filter(function(i) {
+					return a.indexOf(i) < 0;
+				});
+			};
+
 			function updateArtists() {
 				console.log("updateArtists");
-				var i = 0;
+				var i;
+				var enabled = [];
 				var re = new RegExp($scope.searchText, "i");
 				angular.forEach($scope.artists, function(artist, idx) {
 					if (active_artists.indexOf(artist.id) !== -1 && re.test(artist.name)) {
 						$scope.artists[idx].enabled = 'enabled' + (i++ % 2 === 0 ? ' even' : '');
+						enabled.push(artist.id);
 					} else {
 						$scope.artists[idx].enabled = '';
+					}
+				});
+				angular.forEach(active_artists.diff(enabled), function(artist_id, idx) {
+					if (!jQuery("#artist-" + artist_id).length) {
+						$scope.artists.push({
+							id: parseInt(artist_id, 10),
+							name: dataService.data.artists.names[artist_id],
+							enabled: 'enabled'
+						});
 					}
 				});
 			}
