@@ -118,7 +118,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 .right-sidebar {
-	padding:0;
+	padding:100px 0;
 	width:200px;
 	@media (min-width: $break-large) {
 		width:285px;
@@ -297,8 +297,11 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 .entry-description {
+	position: absolute;
+	top: 20px;
+	right: 40px;
 	background:image-url("bg-description.png") left top no-repeat;
-	border-right:40px solid #fff;
+	// border-right:40px solid #fff;
 	color:#000;
 	display: block;
 	font:normal 1.75em/1 'Tungsten-Light', Arial, Verdana, sans-serif;
@@ -306,7 +309,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	margin:0;
 	padding:0;
 	text-transform: uppercase;
-	width:160px;
+	width:200px;
 	@media (min-width: $break-large) {
 		font-size:2em;
 		width:245px;
@@ -318,10 +321,11 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		text-align: right;
 	}
 	.inner {
+		padding-left: 20px;
 		display: table-cell;
 		height:137px;
 		vertical-align: middle;
-		width:160px;
+		width:180px;
 		@media (min-width: $break-large) {
 			width:245px;
 	  	}
