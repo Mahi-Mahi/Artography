@@ -113,8 +113,12 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	}
 }
 
-.sidebar-form, .sidebar-form-right {
+.sidebar-form {
 	overflow:auto;
+}
+
+.sidebar-form-right ul {
+	overflow:auto;	
 }
 
 .right-sidebar {
