@@ -102,6 +102,13 @@ define([], function() {
 			var nb_countries_total = 0;
 			var textOnPathDone = 0;
 
+			var scale_circles = [];
+			angular.forEach([2, 5, 10, 25, 50, 100, 250, 500], function(value, key) {
+				scale_circles[key] = {
+					val: value
+				};
+			});
+
 			var mainWidth = jQuery('.content').width();
 			var canvasW = mainWidth,
 				divW = mainWidth,
@@ -111,7 +118,6 @@ define([], function() {
 			var raphael = new Raphael(document.getElementById('canvas'), canvasW, canvasH);
 
 			jQuery('#canvas').on('mouseout', function() {
-				console.log("canvas out");
 				jQuery("#popup").stop().fadeOut();
 			});
 
@@ -348,7 +354,7 @@ define([], function() {
 				var rotation = 0;
 				textOnPathDone = 0;
 
-				var new_filledArc, previous_expo_filledArc;
+				var new_filledArc, previous_expo_filledArc, layerW, real_layerW;
 
 				angular.forEach(delayed_display, function(item, idx) {
 					delete delayed_display[idx];
@@ -366,8 +372,11 @@ define([], function() {
 
 						angular.forEach(country.expos, function(expo, expo_id) {
 
-							var layerW = Math.min(layerW_max, expo.iteration < iteration ? 0 : ((divW / 2) - (central_radius + margin)) / (max_expos + 1));
+							layerW = Math.min(layerW_max, expo.iteration < iteration ? 0 : ((divW / 2) - (central_radius + margin)) / (max_expos + 1));
 							// var layerW = max_artists ? ((divW / 2) - (central_radius + margin)) / max_artists : 0;
+
+							if (layerW)
+								real_layerW = layerW;
 
 							if (layerW)
 								radius += layerW + layer_interval;
@@ -396,7 +405,6 @@ define([], function() {
 									filledArc: expo.filledArc
 								}, animation_delay)
 									.hover(function() {
-										console.log("hover");
 										var expo_id = this.node.classList[2].replace(/expo-/, '');
 										var the_expo = all_expos[expo_id];
 										if (the_expo) {
@@ -413,7 +421,6 @@ define([], function() {
 												})
 												.fadeIn();
 											jQuery('#popup').on('mouseout', function() {
-												console.log("out");
 												jQuery(this).stop().fadeOut();
 											});
 										}
@@ -476,6 +483,45 @@ define([], function() {
 
 					});
 
+				});
+
+				angular.forEach(scale_circles, function(scale, idx) {
+					console.log("real_layerW : " + real_layerW);
+					if (scale_circles[idx].circle) {
+						scale_circles[idx].circle.animate({
+							r: central_radius + real_layerW * scale.val
+						}, animation_delay);
+						scale_circles[idx].legend.animate({
+							x: originX + 10,
+							y: originY - central_radius - real_layerW * scale.val,
+						}, animation_delay);
+					} else {
+						scale_circles[idx].circle = raphael.circle(originX, originY, central_radius + real_layerW * scale.val).attr({
+							opacity: 0.2,
+							'stroke-dasharray': ['.'],
+							stroke: '#000000',
+							'stroke-width': 1
+						}).toBack();
+						scale_circles[idx].legend = raphael.text(originX + 10, originY - central_radius - real_layerW * scale.val, scale.val).attr({
+							fill: '#000000',
+							'font-weight': 20
+						});
+					}
+					if (scale_circles[idx].val > max_expos || scale_circles[idx].val < max_expos / 10) {
+						scale_circles[idx].circle.animate({
+							opacity: 0
+						}, animation_delay);
+						scale_circles[idx].legend.animate({
+							opacity: 0
+						}, animation_delay);
+					} else {
+						scale_circles[idx].circle.animate({
+							opacity: 0.2
+						}, animation_delay);
+						scale_circles[idx].legend.animate({
+							opacity: 1
+						}, animation_delay);
+					}
 				});
 
 			}

@@ -43,7 +43,7 @@ define([], function() {
 			// default period
 			$scope.filters = {
 				artist: '',
-				period: 'today',
+				period: 2014,
 				genres: ['m', 'f', 'c'],
 				ages: ['0-25', '26-35', '36-45', '46-55']
 			};
@@ -130,23 +130,12 @@ define([], function() {
 			var max_artists = 0;
 			var active_artists;
 
-			var scale_circles = [{
-				val: 2
-			}, {
-				val: 5
-			}, {
-				val: 10
-			}, {
-				val: 25
-			}, {
-				val: 50
-			}, {
-				val: 100
-			}, {
-				val: 250
-			}, {
-				val: 500
-			}];
+			var scale_circles = [];
+			angular.forEach([2, 5, 10, 25, 50, 100, 250, 500], function(value, key) {
+				scale_circles[key] = {
+					val: value
+				};
+			});
 
 			var mainWidth = Math.min(jQuery('.content').width(), jQuery(window).height() - jQuery('.entry-header').height());
 			var canvasW = mainWidth,
