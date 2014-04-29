@@ -84,6 +84,13 @@ define([], function() {
 			var nb_countries_total = 0;
 			var textOnPathDone = 0;
 
+			var scale_circles = [];
+			angular.forEach([2, 5, 10, 25, 50, 100, 250, 500], function(value, key) {
+				scale_circles[key] = {
+					val: value
+				};
+			});
+
 			var mainWidth = jQuery('.content').width();
 			var canvasW = mainWidth,
 				divW = mainWidth,
@@ -305,7 +312,7 @@ define([], function() {
 				var rotation = 0;
 				textOnPathDone = 0;
 
-				var new_filledArc, previous_fair_filledArc;
+				var new_filledArc, previous_fair_filledArc, real_layerW = 0;
 
 				angular.forEach(delayed_display, function(item, idx) {
 					delete delayed_display[idx];
@@ -325,6 +332,9 @@ define([], function() {
 
 							var layerW = fair.iteration < iteration ? 0 : ((divW / 2) - (central_radius + margin)) / (max_fairs + 1);
 							// var layerW = max_galleries ? ((divW / 2) - (central_radius + margin)) / max_galleries : 0;
+
+							if (layerW)
+								real_layerW = layerW;
 
 							if (layerW)
 								radius += layerW + layer_interval;
@@ -425,6 +435,44 @@ define([], function() {
 							}
 						}
 
+					});
+
+					angular.forEach(scale_circles, function(scale, idx) {
+						if (scale_circles[idx].circle) {
+							scale_circles[idx].circle.animate({
+								r: central_radius + real_layerW * scale.val
+							}, animation_delay);
+							scale_circles[idx].legend.animate({
+								x: originX + 10,
+								y: originY - central_radius - real_layerW * scale.val,
+							}, animation_delay);
+						} else {
+							scale_circles[idx].circle = raphael.circle(originX, originY, central_radius + real_layerW * scale.val).attr({
+								opacity: 0.2,
+								'stroke-dasharray': ['.'],
+								stroke: '#000000',
+								'stroke-width': 1
+							}).toBack();
+							scale_circles[idx].legend = raphael.text(originX + 10, originY - central_radius - real_layerW * scale.val, scale.val).attr({
+								fill: '#000000',
+								'font-weight': 20
+							});
+						}
+						if (scale_circles[idx].val > max_fairs || scale_circles[idx].val < max_fairs / 10) {
+							scale_circles[idx].circle.animate({
+								opacity: 0
+							}, animation_delay);
+							scale_circles[idx].legend.animate({
+								opacity: 0
+							}, animation_delay);
+						} else {
+							scale_circles[idx].circle.animate({
+								opacity: 0.2
+							}, animation_delay);
+							scale_circles[idx].legend.animate({
+								opacity: 1
+							}, animation_delay);
+						}
 					});
 
 				});
@@ -570,7 +618,7 @@ define([], function() {
 				jQuery('.sidebar-form').css('height', sidebarLeftFormHeight);
 				jQuery('.sidebar-form-right').find('ul').css('height', sidebarRightFormHeight);
 			};
-			
+
 			adaptSidebarFormHeight();
 		}
 

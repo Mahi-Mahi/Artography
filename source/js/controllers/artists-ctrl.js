@@ -23,7 +23,9 @@ define([], function() {
 			// Artists list
 			var artists = [];
 			$scope.artists = [];
+
 			console.log("set Artists");
+
 			angular.forEach(dataService.data.artists.names, function(artist_name, id) {
 				artists.push({
 					id: parseInt(id, 10),
@@ -31,7 +33,6 @@ define([], function() {
 					enabled: ''
 				});
 			});
-			// $scope.artists = artists;
 
 			$scope.artists.sort(
 				function(a, b) {
@@ -43,7 +44,7 @@ define([], function() {
 			// default period
 			$scope.filters = {
 				artist: '',
-				period: 'today',
+				period: 2014,
 				genres: ['m', 'f', 'c'],
 				ages: ['0-25', '26-35', '36-45', '46-55']
 			};
@@ -128,25 +129,14 @@ define([], function() {
 
 			var nb_countries = 0;
 			var max_artists = 0;
-			var active_artists;
+			var active_artists = [];
 
-			var scale_circles = [{
-				val: 2
-			}, {
-				val: 5
-			}, {
-				val: 10
-			}, {
-				val: 25
-			}, {
-				val: 50
-			}, {
-				val: 100
-			}, {
-				val: 250
-			}, {
-				val: 500
-			}];
+			var scale_circles = [];
+			angular.forEach([2, 5, 10, 25, 50, 100, 250, 500], function(value, key) {
+				scale_circles[key] = {
+					val: value
+				};
+			});
 
 			var mainWidth = Math.min(jQuery('.content').width(), jQuery(window).height() - jQuery('.entry-header').height());
 			var canvasW = mainWidth,
@@ -289,7 +279,7 @@ define([], function() {
 
 				iteration++;
 
-				var expos = dataService.data.expos[$scope.filters.period];
+				var expos = dataService.data.expos[$scope.filters.period]; //	 .slice(0, 50)
 
 				$scope.countries = [];
 				max_artists = 0;
@@ -334,7 +324,7 @@ define([], function() {
 							if ($scope.countries.indexOf(expo.c) == -1) {
 								$scope.countries.push(expo.c);
 							}
-							if (active_artists.indexOf(expo.i) == -1) {
+							if (active_artists.indexOf(parseInt(expo.i, 10)) == -1) {
 								active_artists.push(parseInt(expo.i, 10));
 							}
 							country.has_artists = true;
@@ -395,12 +385,6 @@ define([], function() {
 
 			$scope.updateArtists = function() {
 				updateArtists();
-			};
-
-			Array.prototype.diff = function(a) {
-				return this.filter(function(i) {
-					return a.indexOf(i) < 0;
-				});
 			};
 
 			function updateArtists() {
@@ -733,6 +717,7 @@ define([], function() {
 				}
 				return set;
 			}
+
 			jQuery('.expandable').on('click', function() {
 				jQuery(this).toggleClass('expandable-close');
 				jQuery(this).parent().find('.js-expandable').slideToggle('slow');

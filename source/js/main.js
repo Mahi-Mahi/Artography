@@ -49,10 +49,15 @@ require([
 	'routes'
 ], function(angular, app, routes) {
 	'use strict';
-	var $html = angular.element(document.getElementsByTagName('html')[0]);
+	// var $html = angular.element(document.getElementsByTagName('html')[0]);
+
+	Array.prototype.diff = function(a) {
+		return this.filter(function(i) {
+			return a.indexOf(i) < 0;
+		});
+	};
 
 	angular.element().ready(function() {
 		angular.resumeBootstrap([app['name']]);
 	});
 });
-
