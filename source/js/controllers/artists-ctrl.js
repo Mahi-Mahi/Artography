@@ -23,7 +23,9 @@ define([], function() {
 			// Artists list
 			var artists = [];
 			$scope.artists = [];
+
 			console.log("set Artists");
+
 			angular.forEach(dataService.data.artists.names, function(artist_name, id) {
 				artists.push({
 					id: parseInt(id, 10),
@@ -31,7 +33,6 @@ define([], function() {
 					enabled: ''
 				});
 			});
-			// $scope.artists = artists;
 
 			$scope.artists.sort(
 				function(a, b) {
@@ -278,7 +279,7 @@ define([], function() {
 
 				iteration++;
 
-				var expos = dataService.data.expos[$scope.filters.period];
+				var expos = dataService.data.expos[$scope.filters.period]; //	 .slice(0, 50)
 
 				$scope.countries = [];
 				max_artists = 0;
@@ -323,7 +324,7 @@ define([], function() {
 							if ($scope.countries.indexOf(expo.c) == -1) {
 								$scope.countries.push(expo.c);
 							}
-							if (active_artists.indexOf(expo.i) == -1) {
+							if (active_artists.indexOf(parseInt(expo.i, 10)) == -1) {
 								active_artists.push(parseInt(expo.i, 10));
 							}
 							country.has_artists = true;
