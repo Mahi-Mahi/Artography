@@ -350,14 +350,14 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		color:$highlight-color;
 		display: block;
 		margin:0;
-		padding:em(7px) 0 em(7px) 22px;
+		padding:em(7px) 0 em(7px) 16px;
 		text-transform: uppercase;
 		span {
-			background-position:0 5px;
+			background-position:6px 5px;
 			background-repeat:no-repeat;
 			display: block;
 			margin: 0;
-			padding:0 0 0 14px;
+			padding:0 0 0 20px;
 		}
 	}
 	label {
@@ -380,7 +380,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 
 .icon-period {
 	background-image:image-url("icon-periode.png");
-	background-position:0 0;
+	background-position:4px 5px !important;
 }
 
 .expandable {
