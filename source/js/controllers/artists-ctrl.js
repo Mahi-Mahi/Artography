@@ -419,7 +419,7 @@ define([], function() {
 					if (!jQuery("#artist-" + artist_id).length) {
 						$list.append(
 							'<li class="artist-item enabled" data-artist-id="' + artist_id + '">' +
-							'	<a href="#" id="artist-' + artist_id + '">' + dataService.data.artists.names[artist_id] + '</a>' +
+							'	<a id="artist-' + artist_id + '">' + dataService.data.artists.names[artist_id] + '</a>' +
 							'</li>');
 						/*
 								{
@@ -607,9 +607,9 @@ define([], function() {
 
 				if (show_scale_circles) {
 					angular.forEach(scale_circles, function(scale, idx) {
-					var r = Math.max(0, Math.min(divW / 2, central_radius + layerW * scale.val));
-					var y = Math.max(0, Math.min(originY - central_radius, originY - central_radius - layerW * scale.val));
-					if (scale_circles[idx].circle) {
+						var r = Math.max(0, Math.min(divW / 2, central_radius + layerW * scale.val));
+						var y = Math.max(0, Math.min(originY - central_radius, originY - central_radius - layerW * scale.val));
+						if (scale_circles[idx].circle) {
 							if (animate_scale_circles) {
 								scale_circles[idx].circle.animate({
 									r: r
@@ -787,14 +787,18 @@ define([], function() {
 				return set;
 			}
 
+			jQuery('.artists-list').on('click', 'li', function() {
+				document.location = '/arts-visuels/artiste/' + jQuery(this).data('artist-id');
+			});
+
 			jQuery('.expandable').on('click', function() {
 				jQuery(this).toggleClass('expandable-close');
 				jQuery(this).parent().find('.js-expandable').slideToggle('slow');
 			});
 
 			var adaptSidebarFormHeight = function() {
-				var sidebarLeftFormHeight = jQuery(window).height() - ( jQuery('.entry-header').height() + jQuery('.left-sidebar > section').height() + 170 );
-				var sidebarRightFormHeight = jQuery(window).height() - ( jQuery('.entry-description').height() + 100 );
+				var sidebarLeftFormHeight = jQuery(window).height() - (jQuery('.entry-header').height() + jQuery('.left-sidebar > section').height() + 170);
+				var sidebarRightFormHeight = jQuery(window).height() - (jQuery('.entry-description').height() + 100);
 				jQuery('.sidebar-form').css('height', sidebarLeftFormHeight);
 				jQuery('.sidebar-form-right').find('ul').css('height', sidebarRightFormHeight);
 			};
