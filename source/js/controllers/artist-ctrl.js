@@ -518,22 +518,24 @@ define([], function() {
 
 				angular.forEach(scale_circles, function(scale, idx) {
 					console.log("real_layerW : " + real_layerW);
+					var r = Math.max(0, Math.min(divW / 2, central_radius + real_layerW * scale.val));
+					var y = Math.max(0, Math.min(originY - central_radius, originY - central_radius - real_layerW * scale.val));
 					if (scale_circles[idx].circle) {
 						scale_circles[idx].circle.animate({
-							r: central_radius + real_layerW * scale.val
+							r: r
 						}, animation_delay);
 						scale_circles[idx].legend.animate({
 							x: originX + 10,
-							y: originY - central_radius - real_layerW * scale.val,
+							y: y
 						}, animation_delay);
 					} else {
-						scale_circles[idx].circle = raphael.circle(originX, originY, central_radius + real_layerW * scale.val).attr({
+						scale_circles[idx].circle = raphael.circle(originX, originY, r).attr({
 							opacity: 0.2,
 							'stroke-dasharray': ['.'],
 							stroke: '#000000',
 							'stroke-width': 1
 						}).toBack();
-						scale_circles[idx].legend = raphael.text(originX + 10, originY - central_radius - real_layerW * scale.val, scale.val).attr({
+						scale_circles[idx].legend = raphael.text(originX + 10, y, scale.val).attr({
 							fill: '#000000',
 							'font-weight': 20
 						});
@@ -691,8 +693,8 @@ define([], function() {
 			});
 
 			var adaptSidebarFormHeight = function() {
-				var sidebarLeftFormHeight = jQuery(window).height() - ( jQuery('.entry-header').height() + jQuery('.left-sidebar > section').height() + 170 );
-				var sidebarRightFormHeight = jQuery(window).height() - ( jQuery('.entry-description').height() + 100 );
+				var sidebarLeftFormHeight = jQuery(window).height() - (jQuery('.entry-header').height() + jQuery('.left-sidebar > section').height() + 170);
+				var sidebarRightFormHeight = jQuery(window).height() - (jQuery('.entry-description').height() + 100);
 				jQuery('.sidebar-form').css('height', sidebarLeftFormHeight);
 				jQuery('.sidebar-form-right').find('ul').css('height', sidebarRightFormHeight);
 			};

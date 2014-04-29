@@ -606,12 +606,10 @@ define([], function() {
 				});
 
 				if (show_scale_circles) {
-					console.log('show_scale_circles');
 					angular.forEach(scale_circles, function(scale, idx) {
-						var r = Math.max(0, Math.min(divW / 2, central_radius + layerW * scale.val));
-						var y = Math.max(0, Math.min(originY - central_radius, originY - central_radius - layerW * scale.val));
-						console.log([r, y]);
-						if (scale_circles[idx].circle) {
+					var r = Math.max(0, Math.min(divW / 2, central_radius + layerW * scale.val));
+					var y = Math.max(0, Math.min(originY - central_radius, originY - central_radius - layerW * scale.val));
+					if (scale_circles[idx].circle) {
 							if (animate_scale_circles) {
 								scale_circles[idx].circle.animate({
 									r: r
