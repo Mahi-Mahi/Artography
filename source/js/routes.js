@@ -14,14 +14,14 @@ define(['angular', 'app'], function(angular, app) {
 		function($routeProvider) {
 			console.log("routes");
 			$routeProvider.when('/', {
-				templateUrl: '/partials/home.html',
+				templateUrl: '/arts-visuels/partials/home.html',
 				controller: 'homeController'
 			});
 
 			// ARTISTES
 
 			$routeProvider.when('/artistes', {
-				templateUrl: '/partials/artists.html',
+				templateUrl: '/arts-visuels/partials/artists.html',
 				controller: 'artistsController',
 				resolve: {
 					datasets: function(dataService) {
@@ -31,7 +31,7 @@ define(['angular', 'app'], function(angular, app) {
 			});
 
 			$routeProvider.when('/artistes/:period', {
-				templateUrl: '/partials/artists.html',
+				templateUrl: '/arts-visuels/partials/artists.html',
 				controller: 'artistsController',
 				resolve: {
 					datasets: function(dataService) {
@@ -41,7 +41,7 @@ define(['angular', 'app'], function(angular, app) {
 			});
 
 			$routeProvider.when('/artistes/:period/:genre', {
-				templateUrl: '/partials/artists.html',
+				templateUrl: '/arts-visuels/partials/artists.html',
 				controller: 'artistsController',
 				resolve: {
 					datasets: function(dataService) {
@@ -51,7 +51,7 @@ define(['angular', 'app'], function(angular, app) {
 			});
 
 			$routeProvider.when('/artistes/:period/:genre/:age', {
-				templateUrl: '/partials/artists.html',
+				templateUrl: '/arts-visuels/partials/artists.html',
 				controller: 'artistsController',
 				resolve: {
 					datasets: function(dataService) {
@@ -63,7 +63,7 @@ define(['angular', 'app'], function(angular, app) {
 			// ARTIST
 
 			$routeProvider.when('/artiste/:id', {
-				templateUrl: '/partials/artist.html',
+				templateUrl: '/arts-visuels/partials/artist.html',
 				controller: 'artistController',
 				resolve: {
 					datasets: ['$route', 'dataService',
@@ -75,7 +75,7 @@ define(['angular', 'app'], function(angular, app) {
 			});
 
 			$routeProvider.when('/artiste/:id/:period', {
-				templateUrl: '/partials/artist.html',
+				templateUrl: '/arts-visuels/partials/artist.html',
 				controller: 'artistController',
 				resolve: {
 					datasets: ['$route', 'dataService',
@@ -89,7 +89,7 @@ define(['angular', 'app'], function(angular, app) {
 			// GALLERIES
 
 			$routeProvider.when('/galeries', {
-				templateUrl: '/partials/galleries.html',
+				templateUrl: '/arts-visuels/partials/galleries.html',
 				controller: 'galleriesController',
 				resolve: {
 					datasets: function(dataService) {
@@ -99,7 +99,7 @@ define(['angular', 'app'], function(angular, app) {
 			});
 
 			$routeProvider.when('/galeries/:period', {
-				templateUrl: '/partials/galleries.html',
+				templateUrl: '/arts-visuels/partials/galleries.html',
 				controller: 'galleriesController',
 				resolve: {
 					datasets: function(dataService) {
@@ -111,7 +111,7 @@ define(['angular', 'app'], function(angular, app) {
 			// GALLERY
 
 			$routeProvider.when('/galerie/:id', {
-				templateUrl: '/partials/gallery.html',
+				templateUrl: '/arts-visuels/partials/gallery.html',
 				controller: 'galleryController',
 				resolve: {
 					datasets: ['$route', 'dataService',
@@ -123,7 +123,7 @@ define(['angular', 'app'], function(angular, app) {
 			});
 
 			$routeProvider.when('/galerie/:id/:period', {
-				templateUrl: '/partials/gallery.html',
+				templateUrl: '/arts-visuels/partials/gallery.html',
 				controller: 'galleryController',
 				resolve: {
 					datasets: ['$route', 'dataService',

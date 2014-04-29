@@ -4,7 +4,7 @@ css_dir = "css"
 sass_dir = "scss"
 images_dir = "source/assets/images"
 http_generated_images_path = "assets/images"
-http_images_path = "/assets/images"
+http_images_path = "/arts-visuels/assets/images"
 
 environment = :production
 preferred_syntax = :scss

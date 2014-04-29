@@ -373,7 +373,7 @@ define([], function() {
 			}
 
 			$scope.showArtist = function(artist_id) {
-				$location.path('/artiste/' + artist_id);
+				$location.path('/arts-visuels/artiste/' + artist_id);
 			};
 
 			$scope.updateArtists = function() {

@@ -92,7 +92,7 @@ define([], function() {
 				country_title_margin = 30,
 				margin = 10 + country_title_margin;
 
-		var layerW_max = 20;
+			var layerW_max = 20;
 			var delayed_display = [];
 
 			var timeouts = {};
@@ -380,7 +380,7 @@ define([], function() {
 
 								var fill = expo_colors[expo.type];
 								if (expo.showtype == 'Solo') {
-									fill = "url(/assets/images/stripe-" + (expo.type.replace(/expo-/, '')) + ".png)";
+									fill = "url(/arts-visuels/assets/images/stripe-" + (expo.type.replace(/expo-/, '')) + ".png)";
 									console.log(fill);
 								}
 								expo.slice = raphael.path().attr({

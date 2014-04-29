@@ -3,9 +3,9 @@
 /* GLOBAL */
 
 // FONT-FACE
-@include font-face('Tungsten-Book', '/assets/fonts/Tungsten-Book', $weight: normal, $style: normal );
-@include font-face('Tungsten-Medium', '/assets/fonts/Tungsten-Medium', $weight: normal, $style: normal );
-@include font-face('Tungsten-Light', '/assets/fonts/Tungsten-Light', $weight: normal, $style: normal );
+@include font-face('Tungsten-Book', '/arts-visuels/assets/fonts/Tungsten-Book', $weight: normal, $style: normal );
+@include font-face('Tungsten-Medium', '/arts-visuels/assets/fonts/Tungsten-Medium', $weight: normal, $style: normal );
+@include font-face('Tungsten-Light', '/arts-visuels/assets/fonts/Tungsten-Light', $weight: normal, $style: normal );
 
 // STRUCTURE
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }

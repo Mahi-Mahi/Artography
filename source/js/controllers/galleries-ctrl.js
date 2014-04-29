@@ -300,7 +300,7 @@ define([], function() {
 			}
 
 			$scope.showGallery = function(gallery_id) {
-				$location.path('/galerie/' + gallery_id);
+				$location.path('/arts-visuels/galerie/' + gallery_id);
 			};
 
 			$scope.updateGalleries = function() {
