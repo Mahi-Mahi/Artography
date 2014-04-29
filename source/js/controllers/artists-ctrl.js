@@ -130,6 +130,24 @@ define([], function() {
 			var max_artists = 0;
 			var active_artists;
 
+			var scale_circles = [{
+				val: 2
+			}, {
+				val: 5
+			}, {
+				val: 10
+			}, {
+				val: 25
+			}, {
+				val: 50
+			}, {
+				val: 100
+			}, {
+				val: 250
+			}, {
+				val: 500
+			}];
+
 			var mainWidth = Math.min(jQuery('.content').width(), jQuery(window).height() - jQuery('.entry-header').height());
 			var canvasW = mainWidth,
 				divW = mainWidth,
@@ -222,7 +240,7 @@ define([], function() {
 			var circle_mark_incr = 12;
 			var circle_mark_angle = 0;
 			for (circle_mark_angle = 0; circle_mark_angle < 360; circle_mark_angle += circle_mark_incr) {
-				console.log(circle_mark_angle);
+				// console.log(circle_mark_angle);
 			}
 
 			// create continents/countries container
@@ -249,10 +267,7 @@ define([], function() {
 				});
 			});
 
-			console.log("$scope.$apply();");
-			$scope.$apply(function() {
-				console.log("inside $apply");
-			});
+			$scope.$apply();
 
 			// setInterval(function() {
 			// 	angular.forEach(delayed_display, function(item, idx) {
@@ -374,7 +389,8 @@ define([], function() {
 			}
 
 			$scope.showArtist = function(artist_id) {
-				$location.path('/arts-visuels/artiste/' + artist_id);
+				// $location.path('/arts-visuels/artiste/' + artist_id);
+				document.location = '/arts-visuels/artiste/' + artist_id;
 			};
 
 			$scope.updateArtists = function() {
@@ -433,6 +449,9 @@ define([], function() {
 					var continent_rotation = rotation;
 
 					angular.forEach(continent.countries, function(country, country_code) {
+
+						if (country.nb_artists > 0)
+							console.log(country_code + ":" + country.nb_artists);
 
 						var country_width = -(layerW * country.nb_artists);
 
@@ -546,6 +565,45 @@ define([], function() {
 					}
 
 				});
+
+				angular.forEach(scale_circles, function(scale, idx) {
+					if (scale_circles[idx].circle) {
+						scale_circles[idx].circle.animate({
+							r: central_radius + layerW * scale.val
+						}, animation_delay);
+						scale_circles[idx].legend.animate({
+							x: originX + 10,
+							y: originY - central_radius - layerW * scale.val,
+						}, animation_delay);
+					} else {
+						scale_circles[idx].circle = raphael.circle(originX, originY, central_radius + layerW * scale.val).attr({
+							opacity: 0.2,
+							'stroke-dasharray': ['.'],
+							stroke: "#000000",
+							'stroke-width': 1
+						}).toBack();
+						scale_circles[idx].legend = raphael.text(originX + 10, originY - central_radius - layerW * scale.val, scale.val).attr({
+							fill: '#000000',
+							'font-weight': 20
+						});
+					}
+					if (scale_circles[idx].val > max_artists || scale_circles[idx].val < max_artists / 10) {
+						scale_circles[idx].circle.animate({
+							opacity: 0
+						}, animation_delay);
+						scale_circles[idx].legend.animate({
+							opacity: 0
+						}, animation_delay);
+					} else {
+						scale_circles[idx].circle.animate({
+							opacity: 0.2
+						}, animation_delay);
+						scale_circles[idx].legend.animate({
+							opacity: 1
+						}, animation_delay);
+					}
+				});
+
 			}
 
 			function prepareText(message, fontSize, letterSpacing, kerning, geckoKerning, fontColor, fontWeight) {
@@ -559,9 +617,9 @@ define([], function() {
 				for (var c = 0; c < message.length; c++) {
 
 					var letter = raphael.text(0, 0, message[c]).attr({
-						"text-anchor": "bottom",
-						"fill": fontColor,
-						"font-weight": fontWeight
+						'text-anchor': "bottom",
+						fill: fontColor,
+						'font-weight': fontWeight
 					});
 					var character = letter.attr('text'),
 						kern = 0;
@@ -644,8 +702,8 @@ define([], function() {
 
 				for (c = 0; c < letters.length; c++) {
 					letters[c].attr({
-						"font-size": fontSize + "px",
-						"font-family": fontFamily
+						'font-size': fontSize + "px",
+						'font-family': fontFamily
 					});
 					var p = path.getPointAtLength(places[c] * letterSpacing + point);
 					var R = p.alpha;

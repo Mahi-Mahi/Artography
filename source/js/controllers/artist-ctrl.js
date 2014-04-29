@@ -110,6 +110,11 @@ define([], function() {
 
 			var raphael = new Raphael(document.getElementById('canvas'), canvasW, canvasH);
 
+			jQuery('#canvas').on('mouseout', function() {
+				console.log("canvas out");
+				jQuery("#popup").stop().fadeOut();
+			});
+
 			// [ X Position, Y Position, Radius, Width, Angle, Rotation ]
 			raphael.customAttributes.filledArc = function(xloc, yloc, R, width, angle, rotation) {
 				var total = 360;
@@ -403,8 +408,8 @@ define([], function() {
 												'<p class="place">@' + the_expo.city + ',' + the_expo.country.country.fr + '</p>')
 												.stop()
 												.css({
-													left: currentMousePos.x - 200,
-													top: currentMousePos.y - 200
+													left: currentMousePos.x + 0,
+													top: currentMousePos.y + 0
 												})
 												.fadeIn();
 											jQuery('#popup').on('mouseout', function() {
