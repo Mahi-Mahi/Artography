@@ -32,8 +32,8 @@
 				<form action="about:blank">
 
 					<fieldset>
-						<legend>Genre</legend>
-						<ul class="unstyled filter">
+						<legend class="expandable"><span class="icon-genre">Genre</span></legend>
+						<ul class="unstyled filter js-expandable">
 							<li ng-repeat="genre in genres">
 								<input type="checkbox" ng-model="genre.checked" id="genre-{{genre.slug}}" ng-change="updateFilters()" />
 								<label for="genre-{{genre.slug}}">
@@ -44,8 +44,8 @@
 					</fieldset>
 
 					<fieldset>
-						<legend>Âge</legend>
-						<ul class="unstyled filter">
+						<legend class="expandable"><span class="icon-age">Âge</span></legend>
+						<ul class="unstyled filter js-expandable">
 							<li ng-repeat="age in ages">
 								<input type="checkbox" ng-model="age.checked" id="age-{{age.slug}}" ng-change="updateFilters()" />
 								<label for="age-{{age.slug}}">
@@ -56,8 +56,8 @@
 					</fieldset>
 
 					<fieldset>
-						<legend>Période</legend>
-						<ul class="unstyled filter">
+						<legend class="expandable"><span class="icon-period">Période</span></legend>
+						<ul class="unstyled filter js-expandable">
 							<li ng-repeat="period in periods">
 								<input type="radio" name="period" id="period-{{period.slug}}" value="{{period.slug}}" ng-model="$parent.filters.period" {period.checked} />
 								<label for="period-{{period.slug}}">

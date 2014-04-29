@@ -347,11 +347,18 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		padding:0 0 10px 0;
 	}
 	legend {
-		color:#939597;
+		color:$highlight-color;
 		display: block;
 		margin:0;
-		padding:em(7px) 0;
+		padding:em(7px) 0 em(7px) 22px;
 		text-transform: uppercase;
+		span {
+			background-position:0 5px;
+			background-repeat:no-repeat;
+			display: block;
+			margin: 0;
+			padding:0 0 0 14px;
+		}
 	}
 	label {
 		text-transform: uppercase;
@@ -361,6 +368,32 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 			color:$highlight-color;
 		}
 	}
+}
+
+.icon-genre {
+	background-image:image-url("icon-genre.png");
+}
+
+.icon-age {
+	background-image:image-url("icon-age.png");
+}
+
+.icon-period {
+	background-image:image-url("icon-periode.png");
+	background-position:0 0;
+}
+
+.expandable {
+	background:image-url("arrow-right.png") 0 15px no-repeat;
+	cursor:pointer;
+}
+
+.expandable-close {
+	background-image:image-url("arrow-down.png");
+}
+
+.js-expandable {
+	display: none;
 }
 
 // CUSTOM RADIO

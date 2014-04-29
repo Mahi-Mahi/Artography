@@ -55,3 +55,4 @@ require([
 		angular.resumeBootstrap([app['name']]);
 	});
 });
+

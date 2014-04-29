@@ -674,6 +674,10 @@ define([], function() {
 				}
 				return set;
 			}
+			jQuery('.expandable').on('click', function() {
+				jQuery(this).toggleClass('expandable-close');
+				jQuery(this).parent().find('.js-expandable').slideToggle('slow');
+			});
 		}
 
 	];
