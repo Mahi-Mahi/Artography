@@ -108,13 +108,13 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	@media (min-width: $break-large) {
 		width:280px;
   	}
-	form {
-		max-height: 400px;
-		overflow: auto;
-	}
 	.sidebar-inner {
 		padding:0 0 0 40px;
 	}
+}
+
+.sidebar-form, .sidebar-form-right {
+	overflow:auto;
 }
 
 .right-sidebar {
@@ -126,11 +126,6 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
   	form {
   		padding:0 40px 0 0;
   	}
-}
-
-.artists-list {
-	height: 600px;
-	overflow: auto;
 }
 
 .artist-details-sidebar {

@@ -29,7 +29,7 @@
 
 				<span>{{textOnPathDone}}</span>
 
-				<form action="about:blank">
+				<form class="sidebar-form">
 
 					<fieldset>
 						<legend class="expandable"><span class="icon-genre">Genre</span></legend>
@@ -87,7 +87,7 @@
 				</div><!-- .entry-description -->
 			</aside>
 
-			<form action="about:blank">
+			<form class="sidebar-form-right">
 				<input type="text" value="" class="input-sidebar" placeholder="Rechercher un artiste..." ng-model="searchText" ng-change="updateArtists()"  />
 				<ul class="artists-list unstyled">
 					<li ng-repeat="artist in artists" class="artist-item {{artist.enabled}}" ng-click="showArtist(artist.id)">

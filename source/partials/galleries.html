@@ -29,7 +29,7 @@
 
 				<span>{{textOnPathDone}}</span>
 
-				<form action="about:blank">
+				<form class="sidebar-form">
 
 					<fieldset>
 						<legend>Période</legend>
@@ -64,7 +64,7 @@
 				</div><!-- .entry-description -->
 			</aside>
 
-			<form action="about:blank">
+			<form class="sidebar-form-right">
 				<input type="text" value="" class="input-sidebar" placeholder="Rechercher une galerie..." ng-model="searchText" ng-change="updateGalleries()"  />
 				<ul class="galleries-list unstyled">
 					<li ng-repeat="gallery in galleries" class="gallery-item {{gallery.enabled}}" ng-click="showGallery(gallery.id)">

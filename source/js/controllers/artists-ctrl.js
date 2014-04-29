@@ -11,6 +11,7 @@ define([], function() {
 			jQuery(window).off("debouncedresize")
 				.on("debouncedresize", function(event) {
 					$route.reload();
+					adaptSidebarFormHeight();
 				});
 
 			$scope.goBack = function() {
@@ -678,6 +679,16 @@ define([], function() {
 				jQuery(this).toggleClass('expandable-close');
 				jQuery(this).parent().find('.js-expandable').slideToggle('slow');
 			});
+
+			var adaptSidebarFormHeight = function() {
+				var sidebarLeftFormHeight = jQuery(window).height() - ( jQuery('.entry-header').height() + jQuery('.left-sidebar > section').height() + 170 );
+				var sidebarRightFormHeight = jQuery(window).height() - ( jQuery('.entry-description').height() + 40 );
+				jQuery('.sidebar-form').css('height', sidebarLeftFormHeight);
+				jQuery('.sidebar-form-right').css('height', sidebarRightFormHeight);
+			};
+
+			adaptSidebarFormHeight();
+
 		}
 
 	];

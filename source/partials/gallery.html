@@ -33,7 +33,7 @@
 
 			<div class="sidebar-inner">
 
-				<form action="about:blank">
+				<form class="sidebar-form">
 
 					<fieldset>
 						<legend>Période</legend>
@@ -70,7 +70,7 @@
 				</div><!-- .entry-description -->
 			</aside>
 
-			<form action="about:blank">
+			<form class="sidebar-form-right">
 				<input type="text" value="" class="input-sidebar" placeholder="Rechercher une foire..." ng-model="searchText" ng-change="searchFairs();" />
 				<ul class="unstyled">
 					<li ng-repeat="fair in fairs_list"  class="exposition-item {{fair.enabled}} {{fair.type}}"><a href="{{fair.url}}" target="_blank">{{fair.name}}</a></li>
