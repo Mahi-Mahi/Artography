@@ -20,18 +20,24 @@ define([], function() {
 
 			var years = dataService.data.years;
 
+			// DEBUG
+			var max_items = 500;
+
 			// Artists list
 			var artists = [];
 			$scope.artists = [];
 
 			console.log("set Artists");
 
+			var idx = 0;
 			angular.forEach(dataService.data.artists.names, function(artist_name, id) {
-				artists.push({
-					id: parseInt(id, 10),
-					name: artist_name,
-					enabled: ''
-				});
+				if (idx++ < max_items) {
+					artists.push({
+						id: parseInt(id, 10),
+						name: artist_name,
+						enabled: ''
+					});
+				}
 			});
 
 			$scope.artists.sort(
@@ -216,7 +222,10 @@ define([], function() {
 			var timeouts = {};
 
 			var show_continent_label = false,
-				show_country_label = true;
+				show_country_label = true,
+				show_country_slice = true,
+				show_scale_circles = true,
+				animate_scale_circles = true;
 
 			var nb_countries_total = 0;
 			var textOnPathDone = 0;
@@ -227,11 +236,11 @@ define([], function() {
 				// 'stroke-width': 1
 			});
 
-			var circle_mark_incr = 12;
-			var circle_mark_angle = 0;
-			for (circle_mark_angle = 0; circle_mark_angle < 360; circle_mark_angle += circle_mark_incr) {
-				// console.log(circle_mark_angle);
-			}
+			// var circle_mark_incr = 12;
+			// var circle_mark_angle = 0;
+			// for (circle_mark_angle = 0; circle_mark_angle < 360; circle_mark_angle += circle_mark_incr) {
+			// 	// console.log(circle_mark_angle);
+			// }
 
 			// create continents/countries container
 			var data = {
@@ -279,7 +288,7 @@ define([], function() {
 
 				iteration++;
 
-				var expos = dataService.data.expos[$scope.filters.period]; //	 .slice(0, 50)
+				var expos = dataService.data.expos[$scope.filters.period].slice(0, max_items);
 
 				$scope.countries = [];
 				max_artists = 0;
@@ -392,6 +401,36 @@ define([], function() {
 				var i;
 				var enabled = [];
 				var re = new RegExp($scope.searchText, "i");
+				var $list = jQuery('.artists-list');
+				$list.find('li').each(function(idx, item) {
+					var $item = jQuery(item),
+						artist_id = $item.data('artist-id'),
+						artist_class;
+					if (active_artists.indexOf(artist_id) !== -1 && re.test($item.text())) {
+						artist_class = 'enabled';
+						enabled.push(artist_id);
+					} else {
+						artist_class = '';
+					}
+					artist_class = artist_class + (i++ % 2 === 0 ? ' even' : '');
+					$item.attr('class', 'artist-item ' + artist_class);
+				});
+				angular.forEach(active_artists.diff(enabled), function(artist_id) {
+					if (!jQuery("#artist-" + artist_id).length) {
+						$list.append(
+							'<li class="artist-item enabled" data-artist-id="' + artist_id + '">' +
+							'	<a href="#" id="artist-' + artist_id + '">' + dataService.data.artists.names[artist_id] + '</a>' +
+							'</li>');
+						/*
+								{
+									id: parseInt(artist_id, 10),
+									name: dataService.data.artists.names[artist_id],
+									enabled: 'enabled'
+								});
+							*/
+					}
+				});
+				/*
 				angular.forEach($scope.artists, function(artist, idx) {
 					if (active_artists.indexOf(artist.id) !== -1 && re.test(artist.name)) {
 						$scope.artists[idx].enabled = 'enabled' + (i++ % 2 === 0 ? ' even' : '');
@@ -400,7 +439,10 @@ define([], function() {
 						$scope.artists[idx].enabled = '';
 					}
 				});
-				angular.forEach(active_artists.diff(enabled), function(artist_id, idx) {
+				console.log("updateArtists 1");
+				console.log(enabled.length);
+				console.log(active_artists.diff(enabled).length);
+				angular.forEach(active_artists.diff(enabled), function(artist_id) {
 					if (!jQuery("#artist-" + artist_id).length) {
 						$scope.artists.push({
 							id: parseInt(artist_id, 10),
@@ -409,6 +451,7 @@ define([], function() {
 						});
 					}
 				});
+				*/
 			}
 
 			function drawChart() {
@@ -434,32 +477,44 @@ define([], function() {
 
 					angular.forEach(continent.countries, function(country, country_code) {
 
-						if (country.nb_artists > 0)
-							console.log(country_code + ":" + country.nb_artists);
-
 						var country_width = -(layerW * country.nb_artists);
 
 						// filledArc : [ X Position, Y Position, Radius, Width, Angle, Rotation ]
 						var filledArc = [originX, originY, central_radius, country_width, a - a_interval, rotation];
+						if (show_country_slice) {
+							if (country.slice === null) {
+								if (animation_delay) {
+									country.slice = raphael.path().attr({
+										fill: '#F21C79',
+										stroke: '#FFFFFF',
+										'stroke-width': 0,
+										filledArc: [originX, originY, central_radius, 0, a - a_interval, rotation]
+									}).animate({
+										filledArc: filledArc
+									}, animation_delay);
+								} else {
+									country.slice = raphael.path().attr({
+										fill: '#F21C79',
+										stroke: '#FFFFFF',
+										'stroke-width': 0,
+										filledArc: filledArc
+									});
+								}
+								country.slice.node.setAttribute('class', 'country-' + country_code);
 
-						if (country.slice === null) {
-							country.slice = raphael.path().attr({
-								fill: '#F21C79',
-								stroke: '#FFFFFF',
-								'stroke-width': 0,
-								filledArc: [originX, originY, central_radius, 0, a - a_interval, rotation]
-							}).animate({
-								filledArc: filledArc
-							}, animation_delay);
-
-							country.slice.node.setAttribute('class', 'country-' + country_code);
-
-						} else {
-							country.slice.animate({
-								filledArc: filledArc
-							}, animation_delay, null, function() {
-								// console.log("animated");
-							});
+							} else {
+								if (animation_delay) {
+									country.slice.animate({
+										filledArc: filledArc
+									}, animation_delay, null, function() {
+										// console.log("animated");
+									});
+								} else {
+									country.slice.attr({
+										filledArc: filledArc
+									});
+								}
+							}
 						}
 
 						// Country Label
@@ -550,43 +605,59 @@ define([], function() {
 
 				});
 
-				angular.forEach(scale_circles, function(scale, idx) {
-					if (scale_circles[idx].circle) {
-						scale_circles[idx].circle.animate({
-							r: central_radius + layerW * scale.val
-						}, animation_delay);
-						scale_circles[idx].legend.animate({
-							x: originX + 10,
-							y: originY - central_radius - layerW * scale.val,
-						}, animation_delay);
-					} else {
-						scale_circles[idx].circle = raphael.circle(originX, originY, central_radius + layerW * scale.val).attr({
-							opacity: 0.2,
-							'stroke-dasharray': ['.'],
-							stroke: "#000000",
-							'stroke-width': 1
-						}).toBack();
-						scale_circles[idx].legend = raphael.text(originX + 10, originY - central_radius - layerW * scale.val, scale.val).attr({
-							fill: '#000000',
-							'font-weight': 20
-						});
-					}
-					if (scale_circles[idx].val > max_artists || scale_circles[idx].val < max_artists / 10) {
-						scale_circles[idx].circle.animate({
-							opacity: 0
-						}, animation_delay);
-						scale_circles[idx].legend.animate({
-							opacity: 0
-						}, animation_delay);
-					} else {
-						scale_circles[idx].circle.animate({
-							opacity: 0.2
-						}, animation_delay);
-						scale_circles[idx].legend.animate({
-							opacity: 1
-						}, animation_delay);
-					}
-				});
+				if (show_scale_circles) {
+					console.log('show_scale_circles');
+					angular.forEach(scale_circles, function(scale, idx) {
+						var r = Math.max(0, Math.min(divW / 2, central_radius + layerW * scale.val));
+						var y = Math.max(0, Math.min(originY - central_radius, originY - central_radius - layerW * scale.val));
+						console.log([r, y]);
+						if (scale_circles[idx].circle) {
+							if (animate_scale_circles) {
+								scale_circles[idx].circle.animate({
+									r: r
+								}, animation_delay);
+								scale_circles[idx].legend.animate({
+									x: originX + 10,
+									y: y
+								}, animation_delay);
+							} else {
+								scale_circles[idx].circle.attr({
+									r: r
+								});
+								scale_circles[idx].legend.attr({
+									x: originX + 10,
+									y: y
+								});
+							}
+						} else {
+							scale_circles[idx].circle = raphael.circle(originX, originY, r).attr({
+								opacity: 0.2,
+								'stroke-dasharray': ['.'],
+								stroke: "#000000",
+								'stroke-width': 1
+							}).toBack();
+							scale_circles[idx].legend = raphael.text(originX + 10, y, scale.val).attr({
+								fill: '#000000',
+								'font-weight': 20
+							});
+						}
+						if (scale_circles[idx].val > max_artists || scale_circles[idx].val < max_artists / 10) {
+							scale_circles[idx].circle.animate({
+								opacity: 0
+							}, animation_delay);
+							scale_circles[idx].legend.animate({
+								opacity: 0
+							}, animation_delay);
+						} else {
+							scale_circles[idx].circle.animate({
+								opacity: 0.2
+							}, animation_delay);
+							scale_circles[idx].legend.animate({
+								opacity: 1
+							}, animation_delay);
+						}
+					});
+				}
 
 			}
 

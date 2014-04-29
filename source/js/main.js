@@ -2,14 +2,14 @@
 /* global angular */
 
 require.config({
-	urlArgs: "bust=" + 'CACHE_BUST',
+	urlArgs: "bust=" + Math.random(), //'CACHE_BUST',
 	paths: {
 		angular: '/arts-visuels/vendor/angular/angular',
 		angularRoute: '/arts-visuels/vendor/angular-route/angular-route',
 		angularSanitize: '/arts-visuels/vendor/angular-sanitize/angular-sanitize',
 		angularResource: '/arts-visuels/vendor/angular-resource/angular-resource',
 		angularLocalStorage: '/arts-visuels/vendor/angular-local-storage/angular-local-storage',
-		ngProgress: '/arts-visuels/vendor/ngprogress/build/ngProgress',
+		// ngProgress: '/arts-visuels/vendor/ngprogress/build/ngProgress',
 		raphael: '/arts-visuels/vendor/raphael/raphael',
 		jquery: '/arts-visuels/vendor/jquery/dist/jquery',
 		// angularAnimate: '/vendor/angular-animate/angular-animate',
