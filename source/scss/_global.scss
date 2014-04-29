@@ -234,6 +234,30 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	text-align: center;
 }
 
+.content-footer {
+	display: block;
+	margin: 0 auto;
+	padding:0;
+	width:320px;
+	p {
+		display: block;
+		font:normal em(46px) 'Tungsten-Light', Arial, Verdana, sans-serif;
+		line-height:.95;
+		margin: 0;
+		padding: 0;
+		text-transform: uppercase;
+		strong {
+			color:$highlight-color;
+			display: block;
+			float: left;
+			font-size:2em;
+			font-weight: normal;
+			margin: 0;
+			padding: 0 5px 0 0;
+		}
+	}
+}
+
 .entry-content {
 	section, aside {
 		float:left;
@@ -755,12 +779,19 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 .nav-language {
-	position:absolute;
-	left:50%;
-	bottom:40px;
-	margin:0 0 0 -100px;
-	width:200px;
-	z-index:10;
+	display: block;
+	margin: 0;
+	padding: 0 0 1em 0;
+	text-align: center;
+	.home & {
+		position:absolute;
+		left:50%;
+		bottom:40px;
+		margin:0 0 0 -100px;
+		padding:0;
+		width:200px;
+		z-index:10;	
+	}
 }
 
 .credits {

@@ -49,7 +49,7 @@
 
 				<div class="legend">
 					<fieldset>
-						<legend class="legend">Légende</legend>
+						<legend class="">Légende</legend>
 						<dl>
 							<dt>Type d'exposition</dt>
 							<dd class="solo"><strong>Solo</strong>{{counters.Solo}}</dd>
@@ -72,8 +72,10 @@
 			<div class="content-block">
 				<div id="canvas"></div>
 				<div id="popup"></div>
-				<div class="">
 			</div>
+			<div class="content-footer">
+				<p><strong>87%</strong>d'expositions à l'étranger</p>
+			</div><!-- .inner -->
 		</div><!-- .content -->
 
 		<div class="col right-sidebar artist-details-sidebar">
@@ -81,7 +83,7 @@
 			<aside>
 				<div class="entry-description">
 					<div class="inner">
-						<p>.</p>
+						<p><strong>En {{period}},</strong> cet artiste <br />a exposé dans <strong>{{nb_countries}} pays</strong> <br />via <strong>{{nb_expos}} expositions</strong>.</p>
 					</div><!-- .inner -->
 				</div><!-- .entry-description -->
 			</aside>
@@ -107,3 +109,9 @@
 </div><!-- .wrapper -->
 
 	<div class="credits" ng-include="'/arts-visuels/partials/credits.html'"></div><!-- .credits -->
+	<div class="nav-language">
+		<ul class="unstyled">
+			<li class="nav-language-item"><a href="#" class="active">Version française</a> | </li>
+			<li class="nav-language-item"><a href="#">English version</a></li>
+		</ul>
+	</div><!-- .nav-language -->
