@@ -128,7 +128,7 @@ define([], function() {
 
 			var nb_countries = 0;
 			var max_artists = 0;
-			var active_artists;
+			var active_artists = [];
 
 			var scale_circles = [];
 			angular.forEach([2, 5, 10, 25, 50, 100, 250, 500], function(value, key) {
@@ -386,12 +386,6 @@ define([], function() {
 				updateArtists();
 			};
 
-			Array.prototype.diff = function(a) {
-				return this.filter(function(i) {
-					return a.indexOf(i) < 0;
-				});
-			};
-
 			function updateArtists() {
 				console.log("updateArtists");
 				var i;
@@ -405,6 +399,8 @@ define([], function() {
 						$scope.artists[idx].enabled = '';
 					}
 				});
+				console.log("active_artists");
+				console.log(active_artists);
 				angular.forEach(active_artists.diff(enabled), function(artist_id, idx) {
 					if (!jQuery("#artist-" + artist_id).length) {
 						$scope.artists.push({
@@ -722,14 +718,15 @@ define([], function() {
 				}
 				return set;
 			}
+
 			jQuery('.expandable').on('click', function() {
 				jQuery(this).toggleClass('expandable-close');
 				jQuery(this).parent().find('.js-expandable').slideToggle('slow');
 			});
 
 			var adaptSidebarFormHeight = function() {
-				var sidebarLeftFormHeight = jQuery(window).height() - ( jQuery('.entry-header').height() + jQuery('.left-sidebar > section').height() + 170 );
-				var sidebarRightFormHeight = jQuery(window).height() - ( jQuery('.entry-description').height() + 40 );
+				var sidebarLeftFormHeight = jQuery(window).height() - (jQuery('.entry-header').height() + jQuery('.left-sidebar > section').height() + 170);
+				var sidebarRightFormHeight = jQuery(window).height() - (jQuery('.entry-description').height() + 40);
 				jQuery('.sidebar-form').css('height', sidebarLeftFormHeight);
 				jQuery('.sidebar-form-right').find('ul').css('height', sidebarRightFormHeight);
 			};

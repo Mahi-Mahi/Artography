@@ -341,7 +341,37 @@ define([], function() {
 
 			function updateStatus(nb_expos, nb_countries, in_country) {
 				in_country = null;
-				jQuery('.status').html("Actuellement " + nb_expos + " artistes<br /> exposent dans " + nb_countries + " pays");
+				var verb, period, expositions, countries;
+				switch ($scope.filters.period) {
+					case 'today':
+						period = "Actuellement";
+						verb = "exposent";
+						break;
+					default:
+						period = "En " + $scope.filters.period;
+						verb = "exposaient";
+						break;
+				}
+				switch (nb_expos) {
+					case 1:
+						expositions = "une exposition";
+						break;
+					default:
+						expositions = nb_expos + " expositions";
+						break;
+				}
+				switch (nb_countries) {
+					case 1:
+						countries = "un pays";
+						break;
+					default:
+						countries = nb_countries + " pays";
+						break;
+				}
+
+				jQuery('.entry-description p').html('<strong>' + period + ',</strong> cet artiste <br />' + verb + ' dans <strong>' + countries + '</strong>' + '<br /> via <strong> ' + expositions + ' </strong>.');
+
+				// "<strong>En {{period}},</strong> cet artiste <br />a exposé dans <strong>{{nb_countries}} pays</strong> <br />via <strong>{{nb_expos}} expositions</strong>";
 			}
 
 			function drawChart() {
@@ -354,7 +384,7 @@ define([], function() {
 				var rotation = 0;
 				textOnPathDone = 0;
 
-				var new_filledArc, previous_expo_filledArc, layerW, real_layerW;
+				var new_filledArc, previous_expo_filledArc, real_layerW;
 
 				angular.forEach(delayed_display, function(item, idx) {
 					delete delayed_display[idx];
@@ -372,7 +402,7 @@ define([], function() {
 
 						angular.forEach(country.expos, function(expo, expo_id) {
 
-							layerW = Math.min(layerW_max, expo.iteration < iteration ? 0 : ((divW / 2) - (central_radius + margin)) / (max_expos + 1));
+							var layerW = Math.min(layerW_max, expo.iteration < iteration ? 0 : ((divW / 2) - (central_radius + margin)) / (max_expos + 1));
 							// var layerW = max_artists ? ((divW / 2) - (central_radius + margin)) / max_artists : 0;
 
 							if (layerW)
