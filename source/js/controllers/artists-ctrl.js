@@ -399,8 +399,6 @@ define([], function() {
 						$scope.artists[idx].enabled = '';
 					}
 				});
-				console.log("active_artists");
-				console.log(active_artists);
 				angular.forEach(active_artists.diff(enabled), function(artist_id, idx) {
 					if (!jQuery("#artist-" + artist_id).length) {
 						$scope.artists.push({
