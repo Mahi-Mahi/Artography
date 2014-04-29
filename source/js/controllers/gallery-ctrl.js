@@ -438,7 +438,6 @@ define([], function() {
 					});
 
 					angular.forEach(scale_circles, function(scale, idx) {
-						console.log("real_layerW : " + real_layerW);
 						if (scale_circles[idx].circle) {
 							scale_circles[idx].circle.animate({
 								r: central_radius + real_layerW * scale.val
