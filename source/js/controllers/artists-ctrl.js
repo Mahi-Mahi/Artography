@@ -52,7 +52,7 @@ define([], function() {
 				artist: '',
 				period: 2014,
 				genres: ['m', 'f', 'c'],
-				ages: ['0-25', '25-40', '40-60', '60-100']
+				ages: ['0-25', '26-40', '41-60', '61-100']
 			};
 
 			$scope.periods = [{
@@ -98,16 +98,16 @@ define([], function() {
 				slug: '0-25',
 				checked: true
 			}, {
-				name: "26 à 35 ans",
-				slug: '26-35',
+				name: "26 à 40 ans",
+				slug: '26-40',
 				checked: true
 			}, {
-				name: "36 à 45 ans",
-				slug: '36-45',
+				name: "41 à 60 ans",
+				slug: '41-60',
 				checked: true
 			}, {
-				name: "46 à 55 ans",
-				slug: '46-55',
+				name: "plus de 60 ans",
+				slug: '61-100',
 				checked: true
 			}];
 
@@ -357,9 +357,13 @@ define([], function() {
 						period = "Actuellement";
 						verb = "exposent";
 						break;
+					case 2014:
+						period = "En " + $scope.filters.period;
+						verb = "exposent";
+						break;
 					default:
 						period = "En " + $scope.filters.period;
-						verb = "exposaient";
+						verb = "ont exposé";
 						break;
 				}
 				switch (nb_artists) {
@@ -549,7 +553,7 @@ define([], function() {
 
 										delayed_display.push(country.title_path);
 
-									}, 150);
+									}, 250);
 								})(country, country_code, a, rotation);
 							}
 						}
@@ -755,7 +759,7 @@ define([], function() {
 
 				for (c = 0; c < letters.length; c++) {
 					letters[c].attr({
-						'font-size': fontSize + "px",
+						'font-size': (fontSize + 2) + "px",
 						'font-family': fontFamily
 					});
 					var p = path.getPointAtLength(places[c] * letterSpacing + point);

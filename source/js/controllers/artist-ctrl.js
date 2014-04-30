@@ -14,13 +14,13 @@ define([], function() {
 					adaptSidebarFormHeight();
 				});
 
-			var currentMousePos = {
+			$scope.currentMousePos = {
 				x: -1,
 				y: -1
 			};
 			jQuery(document).mousemove(function(event) {
-				currentMousePos.x = event.pageX;
-				currentMousePos.y = event.pageY;
+				$scope.currentMousePos.x = event.pageX;
+				$scope.currentMousePos.y = event.pageY;
 			});
 
 			$scope.goBack = function() {
@@ -280,12 +280,12 @@ define([], function() {
 								slice: null,
 								iteration: 0,
 								showtype: expo.st.replace(/[^\w]+/g, '-').replace(/-$/, ''),
-								type: expo.t.replace(/[^\w]+/g, '-').replace(/-$/, ''),
+								type: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
 							};
 							all_expos[expo.i] = {
 								id: expo.i,
 								showtype: expo.st.replace(/[^\w]+/g, '-').replace(/-$/, ''),
-								type: expo.t.replace(/[^\w]+/g, '-').replace(/-$/, ''),
+								type: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
 								period: expo.d,
 								organizer: expo.o,
 								name: expo.n,
@@ -310,7 +310,7 @@ define([], function() {
 							$scope.organizers[expo.t] = {
 								name: expo.t,
 								counter: 1,
-								slug: expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '')
+								slug: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : ''
 							};
 						} else {
 							$scope.organizers[expo.t].counter++;
@@ -346,11 +346,15 @@ define([], function() {
 				switch ($scope.filters.period) {
 					case 'today':
 						period = "Actuellement";
-						verb = "exposent";
+						verb = "expose";
+						break;
+					case '2014':
+						period = "En " + $scope.filters.period;
+						verb = "expose";
 						break;
 					default:
 						period = "En " + $scope.filters.period;
-						verb = "exposaient";
+						verb = "a exposé";
 						break;
 				}
 				switch (nb_expos) {
@@ -675,6 +679,7 @@ define([], function() {
 				console.log("showExpoPopup(" + expo_id);
 				var the_expo = all_expos[expo_id];
 				if (the_expo) {
+					console.log($scope.currentMousePos);
 					jQuery('#popup').attr('class', 'expo-' + the_expo.type).html(
 						'<p class="name">' + the_expo.name + '</p>' +
 						'<p class="period">Du ' + formatService.formatDate(the_expo.period[0]) +
@@ -683,8 +688,8 @@ define([], function() {
 						'<p class="place">@' + the_expo.city + ',' + the_expo.country.country.fr + '</p>')
 						.stop()
 						.css({
-							left: currentMousePos.x + (-left * 300),
-							top: currentMousePos.y + (left * 50)
+							left: $scope.currentMousePos.x + (-left * 300),
+							top: $scope.currentMousePos.y + (left * 50)
 						})
 						.fadeIn();
 					jQuery('#popup').on('mouseout', function() {

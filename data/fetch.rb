@@ -91,7 +91,7 @@ af_galleries = fetch('/v0/gallery/list')
 
 pp "#{af_galleries.length} galleries"
 
-af_galleries.shuffle.slice(0,5).each do |gallery|
+af_galleries.shuffle.slice(0,5000).each do |gallery|
 
 	print '.'
 
@@ -184,12 +184,12 @@ af_artists.shuffle.slice(0,50000).each do |artist|
 		artist[:age] = Time.diff(Time.now, birthDate)[:year]
 		if artist[:age] < 26
 			artist[:age_range] = '0-25'
-		elsif artist[:age] < 40
+		elsif artist[:age] < 41
 			artist[:age_range] = '26-40'
-		elsif artist[:age] < 60
-			artist[:age_range] = '36-60'
+		elsif artist[:age] < 61
+			artist[:age_range] = '41-60'
 		else
-			artist[:age_range] = '60-100'
+			artist[:age_range] = '61-100'
 		end
 	rescue
 		p "Invalid date"
@@ -234,7 +234,19 @@ af_artists.shuffle.slice(0,50000).each do |artist|
 					expo[:a] = artist[:age_range]
 
 					expo_detail[:n] = af_expo['Title']
-					expo_detail[:st] = af_expo['show-type']
+
+					case af_expo['show-type']
+					when "Public Institution"
+						expo_detail[:st] = 'Institution publique'
+				    when "Private Gallery"
+						expo_detail[:st] = 'Galerie privée'
+				    when "Biennial, Triennial etc."
+				    when "Art Fair"
+						expo_detail[:st] = 'Grande manifestation'
+					when
+						expo_detail[:st] = 'Autre'
+					end
+
 					expo_detail[:t] = af_expo['type']
 					expo_detail[:ct] = af_expo['city']
 					expo_detail[:o] = af_expo['organizer']
