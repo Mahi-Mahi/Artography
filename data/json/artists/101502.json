@@ -7,8 +7,8 @@
   "nationality": "FR",
   "nationality fr": "France",
   "birth location": "Nice (FR)",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1978",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Jacqueline",
   "last_name": "Doyen",
   "genre": "f",
+  "birthDate": "1978-01-01",
+  "age": 36,
+  "age_range": "26-40",
   "expos": {
     "2005": [
       {

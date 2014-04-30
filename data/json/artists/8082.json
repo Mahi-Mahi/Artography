@@ -7,8 +7,8 @@
   "nationality": "FR",
   "nationality fr": "France",
   "birth location": "Guadeloupe",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1865",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Thierry",
   "last_name": "Alet",
   "genre": "m",
+  "birthDate": "1865-01-01",
+  "age": 149,
+  "age_range": "60-100",
   "expos": {
     "2005": [
       {

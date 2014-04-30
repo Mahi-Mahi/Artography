@@ -7,8 +7,8 @@
   "nationality": "FR",
   "nationality fr": "France",
   "birth location": "",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "2004",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Société",
   "last_name": "Réaliste",
   "genre": "c",
+  "birthDate": "2004-01-01",
+  "age": 10,
+  "age_range": "0-25",
   "expos": {
     "2006": [
       {

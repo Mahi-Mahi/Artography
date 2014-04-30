@@ -7,8 +7,8 @@
   "nationality": "FR",
   "nationality fr": "France",
   "birth location": "Rouen (FR)",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1974",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Richard",
   "last_name": "Burel",
   "genre": "m",
+  "birthDate": "1974-01-01",
+  "age": 40,
+  "age_range": "36-60",
   "expos": {
     "2012": [
       {

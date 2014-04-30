@@ -7,8 +7,8 @@
   "nationality": "FR",
   "nationality fr": "France",
   "birth location": "Maisons-Laffitte, FR",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1986",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Morgane",
   "last_name": "Denzler",
   "genre": "c",
+  "birthDate": "1986-01-01",
+  "age": 28,
+  "age_range": "26-40",
   "expos": {
     "2013": [
       {

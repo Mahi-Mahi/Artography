@@ -7,8 +7,8 @@
   "nationality": "FR",
   "nationality fr": "France",
   "birth location": "Le Mans (FR)",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1971",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Jean-Pascal",
   "last_name": "Flavien",
   "genre": "m",
+  "birthDate": "1971-01-01",
+  "age": 43,
+  "age_range": "36-60",
   "expos": {
     "2005": [
       {

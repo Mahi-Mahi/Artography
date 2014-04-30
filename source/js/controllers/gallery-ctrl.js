@@ -91,7 +91,7 @@ define([], function() {
 				};
 			});
 
-			var mainWidth = jQuery('.content').width();
+			var mainWidth = Math.min(jQuery('.content').width(), jQuery(window).height() - jQuery('.entry-header').height());
 			var canvasW = mainWidth,
 				divW = mainWidth,
 				canvasH = mainWidth,

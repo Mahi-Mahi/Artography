@@ -7,6 +7,22 @@ define(['angular'], function(angular) {
 
 	angular.module('myApp.services', ['ngResource', 'LocalStorageModule'])
 
+	.factory('formatService', function($rootScope) {
+
+		var formatService = {};
+
+		formatService.formatDate = function(d) {
+			console.log(d);
+			d = new Date(Date.parse(d));
+			console.log(d);
+			d = d.getDate() + '/' + d.getMonth() + '/' + d.getFullYear();
+			console.log(d);
+			return d;
+		};
+
+		return formatService;
+	})
+
 	.factory('dataService', function($rootScope, $http, $q, localStorageService) {
 
 		var dataService = {};

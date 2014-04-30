@@ -76,6 +76,8 @@ end
 
 artists = {}
 continents = {}
+expo_types = []
+expo_show_types = []
 
 expos = {
 	today: []
@@ -89,7 +91,7 @@ af_galleries = fetch('/v0/gallery/list')
 
 pp "#{af_galleries.length} galleries"
 
-af_galleries.shuffle.slice(0,5000).each do |gallery|
+af_galleries.shuffle.slice(0,5).each do |gallery|
 
 	print '.'
 
@@ -175,19 +177,19 @@ af_artists.shuffle.slice(0,50000).each do |artist|
 	end
 
 	begin
-		artist['birth month'] = 1 if !artist['birth month']
-		artist['birth day'] = 1 if !artist['birth day']
+		artist['birth month'] = 1 if !artist['birth month'] or artist['birth month'] == '0'
+		artist['birth day'] = 1 if !artist['birth day'] or artist['birth day'] == '0'
 		birthDate = Date.strptime("#{artist['birth year']}-#{artist['birth month']?artist['birth month']:1}-#{artist['birth day']?artist['birth day']:1}", '%Y-%m-%d')
 		artist[:birthDate] = birthDate.to_s
 		artist[:age] = Time.diff(Time.now, birthDate)[:year]
 		if artist[:age] < 26
 			artist[:age_range] = '0-25'
-		elsif artist[:age] < 36
-			artist[:age_range] = '26-35'
-		elsif artist[:age] < 46
-			artist[:age_range] = '36-45'
+		elsif artist[:age] < 40
+			artist[:age_range] = '26-40'
+		elsif artist[:age] < 60
+			artist[:age_range] = '36-60'
 		else
-			artist[:age_range] = '46-55'
+			artist[:age_range] = '60-100'
 		end
 	rescue
 		p "Invalid date"
@@ -200,80 +202,89 @@ af_artists.shuffle.slice(0,50000).each do |artist|
 
 		next if af_expo.class == Array
 
-		begin
+		# begin
 
-			country = normalize_country(af_expo['country'])
+			unless af_expo['country'].nil?
+				country = normalize_country(af_expo['country'])
 
-			c = Country.find_country_by_name(country)
+				c = Country.find_country_by_name(country)
 
-			unless c.nil?
+				unless c.nil?
 
-				begin
-					continents[c.continent] = {} if continents[c.continent].nil?
-					continents[c.continent][c.alpha2] = {
-						:fr => c.translations['fr'],
-						:en => c.translations['en']
-					}
-				rescue
-				end
-
-				expo = {}
-				expo_detail = {}
-				expo[:i] = artist['id']
-				expo_detail[:i] = "#{artist['id']}-#{af_expo['galleryID']}-#{af_expo['BeginDate']}"
-				begin
-					expo[:c] = c.alpha2
-					expo_detail[:c] = c.alpha2
-				rescue
-				end
-
-				expo[:g] = artist[:genre]
-				expo[:a] = artist[:age_range]
-
-				expo_detail[:n] = af_expo['Title']
-				expo_detail[:st] = af_expo['show-type']
-				expo_detail[:t] = af_expo['type']
-				expo_detail[:ct] = af_expo['city']
-				expo_detail[:o] = af_expo['organizer']
-				expo_detail[:d] = [af_expo['BeginDate'], af_expo['EndDate']]
-
-				[af_expo['BeginDate'], af_expo['EndDate']].uniq.each do |expo_year|
 					begin
-						expo_year = '2100-01-01' if expo_year == 'NA' or expo_year == '0000-00-00'
-						expo_year = Date.strptime(expo_year, '%Y-%m-%d').year
-						expos[expo_year] = [] if expos[expo_year].nil?
-						expos[expo_year] << expo unless expos[expo_year].include?(expo)
-						years << expo_year unless expo_year > Date.today.year
-
-						unless af_expo['country'] == 'France'
-							artist[:expos][expo_year] = [] if artist[:expos][expo_year].nil?
-							artist[:expos][expo_year] << expo_detail unless artist[:expos][expo_year].include?(expo_detail)
-						end
-
+						continents[c.continent] = {} if continents[c.continent].nil?
+						continents[c.continent][c.alpha2] = {
+							:fr => c.translations['fr'],
+							:en => c.translations['en']
+						}
 					rescue
-						puts "invalid date"
-						p af_expo
 					end
-				end
 
-				begin
-					if Date.strptime(af_expo['BeginDate'], '%Y-%m-%d') < Date.today && Date.strptime(af_expo['EndDate'], '%Y-%m-%d') > Date.today
-						expos[:today] = [] if expos[:today].nil?
-						expos[:today] << expo unless expos[:today].include?(expo)
+					expo = {}
+					expo_detail = {}
+					expo[:i] = artist['id']
+					expo_detail[:i] = "#{artist['id']}-#{af_expo['galleryID']}-#{af_expo['BeginDate']}"
+					begin
+						expo[:c] = c.alpha2
+						expo_detail[:c] = c.alpha2
+					rescue
+					end
 
-						unless af_expo['country'] == 'France'
-							artist[:expos][:today] = [] if artist[:expos][:today].nil?
-							artist[:expos][:today] << expo_detail unless artist[:expos][:today].include?(expo_detail)
+					expo[:g] = artist[:genre]
+					expo[:a] = artist[:age_range]
+
+					expo_detail[:n] = af_expo['Title']
+					expo_detail[:st] = af_expo['show-type']
+					expo_detail[:t] = af_expo['type']
+					expo_detail[:ct] = af_expo['city']
+					expo_detail[:o] = af_expo['organizer']
+					expo_detail[:d] = [af_expo['BeginDate'], af_expo['EndDate']]
+
+					expo_types << af_expo['type'] unless af_expo['type'].nil? #expo_types.include?(af_expo['type'])
+					expo_show_types << af_expo['show-type'] unless af_expo['show-type'].nil? #expo_show_types.include?(expo_show_types['show-type'])
+					expo_types.uniq!
+					expo_show_types.uniq!
+
+					[af_expo['BeginDate'], af_expo['EndDate']].uniq.each do |expo_year|
+						begin
+							expo_year = '2100-01-01' if expo_year == 'NA' or expo_year == '0000-00-00'
+							expo_year.gsub!(/(\d+) 0 0$/, "\\1-01-01")
+							expo_year = Date.strptime(expo_year, '%Y-%m-%d').year
+							expos[expo_year] = [] if expos[expo_year].nil?
+							expos[expo_year] << expo unless expos[expo_year].include?(expo)
+							years << expo_year unless expo_year > Date.today.year
+
+							unless af_expo['country'] == 'France'
+								artist[:expos][expo_year] = [] if artist[:expos][expo_year].nil?
+								artist[:expos][expo_year] << expo_detail unless artist[:expos][expo_year].include?(expo_detail)
+							end
+
+						rescue
+							puts "invalid date"
+							p af_expo
+							p expo_year
 						end
 					end
-				rescue
-				end
 
+					begin
+						if Date.strptime(af_expo['BeginDate'], '%Y-%m-%d') < Date.today && Date.strptime(af_expo['EndDate'], '%Y-%m-%d') > Date.today
+							expos[:today] = [] if expos[:today].nil?
+							expos[:today] << expo unless expos[:today].include?(expo)
+
+							unless af_expo['country'] == 'France'
+								artist[:expos][:today] = [] if artist[:expos][:today].nil?
+								artist[:expos][:today] << expo_detail unless artist[:expos][:today].include?(expo_detail)
+							end
+						end
+					rescue
+					end
+
+				end
 			end
-		rescue
-			p artist
-			p af_expo
-		end
+		# rescue
+		# 	p artist
+		# 	p af_expo
+		# end
 
 	end
 
@@ -359,6 +370,13 @@ puts "#{artists.length} artists"
 puts "#{expos.flatten.length} expos"
 puts "#{galleries.length} galleries"
 puts "#{fairs.flatten.length} fairs"
+
+
+puts "expo_types"
+p expo_types
+
+puts "expo_show_types"
+p expo_show_types
 
 
 FileUtils.rm_rf("../source/data", secure: true)

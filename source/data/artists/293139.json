@@ -7,8 +7,8 @@
   "nationality": "FR",
   "nationality fr": "France",
   "birth location": "",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1979",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Antoine",
   "last_name": "Aguilar",
   "genre": "c",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-40",
   "expos": {
     "2010": [
       {

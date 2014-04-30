@@ -7,8 +7,8 @@
   "nationality": "FR",
   "nationality fr": "France",
   "birth location": "Belfort (FR)",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1975",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Katya",
   "last_name": "Bonnenfant",
   "genre": "f",
+  "birthDate": "1975-01-01",
+  "age": 39,
+  "age_range": "26-40",
   "expos": {
     "2009": [
       {

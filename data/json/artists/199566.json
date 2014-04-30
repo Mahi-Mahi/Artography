@@ -7,8 +7,8 @@
   "nationality": "FR",
   "nationality fr": "France",
   "birth location": "Lyon, FR",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1960",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Marielle",
   "last_name": "Paul",
   "genre": "f",
+  "birthDate": "1960-01-01",
+  "age": 54,
+  "age_range": "36-60",
   "expos": {
     "2007": [
       {

@@ -7,8 +7,8 @@
   "nationality": "FR",
   "nationality fr": "France",
   "birth location": "Moulins (FR)",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1925",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Jean",
   "last_name": "Dupuy",
   "genre": "m",
+  "birthDate": "1925-01-01",
+  "age": 89,
+  "age_range": "60-100",
   "expos": {
     "2007": [
       {

@@ -7,8 +7,8 @@
   "nationality": "FR",
   "nationality fr": "France",
   "birth location": "",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1984",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Claire",
   "last_name": "Fahys",
   "genre": "f",
+  "birthDate": "1984-01-01",
+  "age": 30,
+  "age_range": "26-40",
   "expos": {
     "2007": [
       {

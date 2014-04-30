@@ -7,8 +7,8 @@
   "nationality": "FR",
   "nationality fr": "France",
   "birth location": "",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1941",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Artemis",
   "last_name": "",
   "genre": "c",
+  "birthDate": "1941-01-01",
+  "age": 73,
+  "age_range": "60-100",
   "expos": {
     "2006": [
       {

@@ -7,8 +7,8 @@
   "nationality": "FR, RU",
   "nationality fr": "France, Russie",
   "birth location": "Saint Petersburgh (RU)",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1965",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Olga",
   "last_name": "Kisseleva",
   "genre": "f",
+  "birthDate": "1965-01-01",
+  "age": 49,
+  "age_range": "36-60",
   "expos": {
     "2006": [
       {

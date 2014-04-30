@@ -7,8 +7,8 @@
   "nationality": "FR, RO",
   "nationality fr": "France, Roumanie",
   "birth location": "Karansebes (RO) (FR)",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1953",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Adrian",
   "last_name": "Buba",
   "genre": "m",
+  "birthDate": "1953-01-01",
+  "age": 61,
+  "age_range": "60-100",
   "expos": {
     "2010": [
       {

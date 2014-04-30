@@ -3,8 +3,8 @@
 
 define([], function() {
 
-	return ['$scope', '$location', '$route', 'dataService',
-		function($scope, $location, $route, dataService) {
+	return ['$scope', '$location', '$route', 'dataService', 'formatService',
+		function($scope, $location, $route, dataService, formatService) {
 
 			jQuery('body').removeClass('home').removeClass('galerie');
 
@@ -110,7 +110,7 @@ define([], function() {
 				};
 			});
 
-			var mainWidth = jQuery('.content').width();
+			var mainWidth = Math.min(jQuery('.content').width(), jQuery(window).height() - jQuery('.entry-header').height());
 			var canvasW = mainWidth,
 				divW = mainWidth,
 				canvasH = mainWidth,
@@ -286,7 +286,7 @@ define([], function() {
 								id: expo.i,
 								showtype: expo.st.replace(/[^\w]+/g, '-').replace(/-$/, ''),
 								type: expo.t.replace(/[^\w]+/g, '-').replace(/-$/, ''),
-								period: [expo.d],
+								period: expo.d,
 								organizer: expo.o,
 								name: expo.n,
 								city: expo.ct,
@@ -437,24 +437,7 @@ define([], function() {
 								}, animation_delay)
 									.hover(function() {
 										var expo_id = this.node.classList[2].replace(/expo-/, '');
-										var the_expo = all_expos[expo_id];
-										if (the_expo) {
-											jQuery('#popup').attr('class', 'expo-' + the_expo.type).html(
-												'<p class="name">' + the_expo.name + '</p>' +
-												'<p class="period">Du ' + the_expo.period[0] +
-												(the_expo.period[1] ? (' Au ' + the_expo.period[1]) : '') + '</p>' +
-												'<p class="period">Organisé par ' + the_expo.organizer + '</p>' +
-												'<p class="place">@' + the_expo.city + ',' + the_expo.country.country.fr + '</p>')
-												.stop()
-												.css({
-													left: currentMousePos.x + 0,
-													top: currentMousePos.y + 0
-												})
-												.fadeIn();
-											jQuery('#popup').on('mouseout', function() {
-												jQuery(this).stop().fadeOut();
-											});
-										}
+										showExpoPopup(expo_id);
 									}, function() {});
 
 								expo.slice.node.setAttribute('class', 'country-' + country_code + ' expo expo-' + expo_id);
@@ -687,6 +670,29 @@ define([], function() {
 				}
 				return set;
 			}
+
+			function showExpoPopup(expo_id) {
+				console.log("showExpoPopup(" + expo_id);
+				var the_expo = all_expos[expo_id];
+				if (the_expo) {
+					jQuery('#popup').attr('class', 'expo-' + the_expo.type).html(
+						'<p class="name">' + the_expo.name + '</p>' +
+						'<p class="period">Du ' + formatService.formatDate(the_expo.period[0]) +
+						(the_expo.period[1] ? (' Au ' + formatService.formatDate(the_expo.period[1])) : '') + '</p>' +
+						'<p class="period">Organisé par ' + the_expo.organizer + '</p>' +
+						'<p class="place">@' + the_expo.city + ',' + the_expo.country.country.fr + '</p>')
+						.stop()
+						.css({
+							left: currentMousePos.x + 0,
+							top: currentMousePos.y + 0
+						})
+						.fadeIn();
+					jQuery('#popup').on('mouseout', function() {
+						jQuery(this).stop().fadeOut();
+					});
+				}
+			}
+
 			jQuery('.expandable').on('click', function() {
 				jQuery(this).toggleClass('expandable-close');
 				jQuery(this).parent().find('.js-expandable').slideToggle('slow');

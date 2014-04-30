@@ -7,8 +7,8 @@
   "nationality": "FR",
   "nationality fr": "France",
   "birth location": "",
-  "birth day": "0",
-  "birth month": "0",
+  "birth day": 1,
+  "birth month": 1,
   "birth year": "1951",
   "death location": null,
   "death day": null,
@@ -39,6 +39,9 @@
   "first_name": "Marion",
   "last_name": "Kalter",
   "genre": "f",
+  "birthDate": "1951-01-01",
+  "age": 63,
+  "age_range": "60-100",
   "expos": {
     "2006": [
       {

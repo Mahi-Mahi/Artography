@@ -52,7 +52,7 @@ define([], function() {
 				artist: '',
 				period: 2014,
 				genres: ['m', 'f', 'c'],
-				ages: ['0-25', '26-35', '36-45', '46-55']
+				ages: ['0-25', '25-40', '40-60', '60-100']
 			};
 
 			$scope.periods = [{
