@@ -118,7 +118,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 .sidebar-form-right ul {
-	overflow:auto;	
+	overflow:auto;
 }
 
 .right-sidebar {
@@ -235,7 +235,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 .content-footer {
-	display: block;
+	display: none;
 	margin: 0 auto;
 	padding:0;
 	width:320px;
@@ -790,7 +790,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		margin:0 0 0 -100px;
 		padding:0;
 		width:200px;
-		z-index:10;	
+		z-index:10;
 	}
 }
 

@@ -437,7 +437,7 @@ define([], function() {
 								}, animation_delay)
 									.hover(function() {
 										var expo_id = this.node.classList[2].replace(/expo-/, '');
-										showExpoPopup(expo_id);
+										$scope.showExpoPopup(expo_id);
 									}, function() {});
 
 								expo.slice.node.setAttribute('class', 'country-' + country_code + ' expo expo-' + expo_id);
@@ -671,7 +671,7 @@ define([], function() {
 				return set;
 			}
 
-			function showExpoPopup(expo_id) {
+			$scope.showExpoPopup = function(expo_id, left) {
 				console.log("showExpoPopup(" + expo_id);
 				var the_expo = all_expos[expo_id];
 				if (the_expo) {
@@ -683,8 +683,8 @@ define([], function() {
 						'<p class="place">@' + the_expo.city + ',' + the_expo.country.country.fr + '</p>')
 						.stop()
 						.css({
-							left: currentMousePos.x + 0,
-							top: currentMousePos.y + 0
+							left: currentMousePos.x + (-left * 300),
+							top: currentMousePos.y + (left * 50)
 						})
 						.fadeIn();
 					jQuery('#popup').on('mouseout', function() {
