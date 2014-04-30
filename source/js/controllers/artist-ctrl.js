@@ -330,11 +330,7 @@ define([], function() {
 					}
 				});
 
-				console.log(expo_types);
-
 				nb_countries = $scope.countries.length;
-
-				console.log($scope.organizers);
 
 				updateStatus($scope.expos.length, nb_countries);
 
@@ -430,7 +426,6 @@ define([], function() {
 								var fill = expo_colors[expo.type];
 								if (expo.showtype == 'Solo') {
 									fill = "url(/arts-visuels/assets/images/stripe-" + (expo.type.replace(/expo-/, '')) + ".png)";
-									console.log(fill);
 								}
 								expo.slice = raphael.path().attr({
 									fill: fill,
@@ -687,11 +682,12 @@ define([], function() {
 						'<p class="period">Organisé par ' + the_expo.organizer + '</p>' +
 						'<p class="place">@' + the_expo.city + ',' + the_expo.country.country.fr + '</p>')
 						.stop()
-						.css({
-							left: $scope.currentMousePos.x + (-left * 300),
-							top: $scope.currentMousePos.y + (left * 50)
-						})
 						.fadeIn();
+					console.log($scope.currentMousePos.x)
+					jQuery('#popup').css({
+						left: $scope.currentMousePos.x + (-left * 300),
+						top: $scope.currentMousePos.y + (left * 50)
+					})
 					jQuery('#popup').on('mouseout', function() {
 						jQuery(this).stop().fadeOut();
 					});

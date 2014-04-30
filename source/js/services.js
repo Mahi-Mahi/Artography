@@ -12,11 +12,8 @@ define(['angular'], function(angular) {
 		var formatService = {};
 
 		formatService.formatDate = function(d) {
-			console.log(d);
 			d = new Date(Date.parse(d));
-			console.log(d);
 			d = d.getDate() + '/' + d.getMonth() + '/' + d.getFullYear();
-			console.log(d);
 			return d;
 		};
 
