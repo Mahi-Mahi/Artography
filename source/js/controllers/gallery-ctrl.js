@@ -39,6 +39,8 @@ define([], function() {
 			});
 			$scope.periods.reverse();
 
+			console.log($scope.periods);
+
 			// default period
 			$scope.filters = {
 				period: $route.current.params.period ? $route.current.params.period : $scope.periods[0].slug
