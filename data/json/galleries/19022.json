@@ -1,0 +1,44 @@
+{
+  "id": "19022",
+  "name": "La Voix du Maître",
+  "street": "32, rue du Kilbs",
+  "zip": "67870 ",
+  "city": "Bischoffsheim",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33.388.49.22.44",
+  "email": "ch.fleurov@free.fr",
+  "www": "www.lavoixdumaitre.eu",
+  "map": "http://maps.google.com/maps?q=Bischoffsheim%2C%2067870  %2C%20 %2C%2032, rue du Kilbs %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19022-art KARLSRUHE 2009",
+        "c": "DE",
+        "n": "La Voix du Maître",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2010": [
+      {
+        "i": "19022-art KARLSRUHE 2010",
+        "c": "DE",
+        "n": "La Voix du Maître",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2011": [
+      {
+        "i": "19022-art KARLSRUHE 2011",
+        "c": "DE",
+        "n": "La Voix du Maître",
+        "ct": "Karlsruhe"
+      }
+    ]
+  }
+}

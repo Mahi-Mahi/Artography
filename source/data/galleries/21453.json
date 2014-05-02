@@ -1,0 +1,28 @@
+{
+  "id": "21453",
+  "name": "Galerie deï Barri",
+  "street": "",
+  "zip": "",
+  "city": "Saint Tropez",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+ 33 (0)4 94 56 13 52",
+  "email": "art@galbar.com",
+  "www": "www.galbar.com",
+  "map": "http://maps.google.com/maps?q=Saint Tropez%2C%20 %2C%20 %2C%20 %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2010": [
+      {
+        "i": "21453-Affordable Art Fair Bruxelles 2010",
+        "c": "BE",
+        "n": "Galerie deï Barri",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

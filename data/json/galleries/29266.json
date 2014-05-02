@@ -1,0 +1,34 @@
+{
+  "id": "29266",
+  "name": "K+Y gallery",
+  "street": "24, rue Treilhard",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 1 53300010",
+  "email": null,
+  "www": "www.kplusy.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2024, rue Treilhard %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2013": [
+      {
+        "i": "29266-Art Toronto 2013",
+        "c": "CA",
+        "n": "K+Y gallery",
+        "ct": "Vancouver, BC"
+      },
+      {
+        "i": "29266-Scope Miami Beach 2013",
+        "c": "US",
+        "n": "K+Y gallery",
+        "ct": "Miami Beach, FL"
+      }
+    ]
+  }
+}

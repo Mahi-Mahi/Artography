@@ -1,0 +1,64 @@
+{
+  "id": "19170",
+  "name": "Polka Galerie",
+  "street": "104 rue Oberkampf",
+  "zip": "",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+ 33 6 22 76 27 72",
+  "email": null,
+  "www": "www.polkagalerie.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%20 %2C%20 %2C%20104 rue Oberkampf %2C%20France",
+  "fairs-total": "14",
+  "fairs-abroad": "6",
+  "fairs-in-FR": "8",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19170-Affordable Art Fair Bruxelles 09",
+        "c": "BE",
+        "n": "Polka Galerie",
+        "ct": "Brussels"
+      }
+    ],
+    "2011": [
+      {
+        "i": "19170-Madridfoto 2011",
+        "c": "ES",
+        "n": "Polka Galerie",
+        "ct": "Madrid"
+      }
+    ],
+    "2012": [
+      {
+        "i": "19170-Madridfoto 2012",
+        "c": "ES",
+        "n": "Polka Galerie",
+        "ct": "Madrid"
+      },
+      {
+        "i": "19170-Scope Basel 2012",
+        "c": "CH",
+        "n": "Polka Galerie",
+        "ct": "Basel"
+      }
+    ],
+    "2013": [
+      {
+        "i": "19170-Art Stage Singapore 2013",
+        "c": "SG",
+        "n": "Polka Galerie",
+        "ct": "Singapore"
+      },
+      {
+        "i": "19170-Art Brussels 2013",
+        "c": "BE",
+        "n": "Polka Galerie",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

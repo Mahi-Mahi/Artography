@@ -1,0 +1,50 @@
+{
+  "id": "8090",
+  "name": "Galerie Daniel Guidat",
+  "street": "142, rue d'Antibes",
+  "zip": "06400",
+  "city": "Cannes",
+  "country": "France",
+  "foundation": "1991",
+  "directeurs": "Daniel Guidat, Albert Feix III",
+  "profile": null,
+  "tel": "+33 (0)4 93 94 33 33",
+  "email": null,
+  "www": "www.galeriedanielguidat.com",
+  "map": "http://maps.google.com/maps?q=Cannes%2C%2006400 %2C%20 %2C%20142, rue d\\'Antibes %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2010": [
+      {
+        "i": "8090-Affordable Art Fair Bruxelles 2010",
+        "c": "BE",
+        "n": "Galerie Daniel Guidat",
+        "ct": "Brussels"
+      }
+    ],
+    "2011": [
+      {
+        "i": "8090-Artmonaco 2011",
+        "c": "MC",
+        "n": "Galerie Daniel Guidat",
+        "ct": "Monaco"
+      },
+      {
+        "i": "8090-The Affordable Art Fair - Amsterdam",
+        "c": "NL",
+        "n": "Galerie Daniel Guidat",
+        "ct": "Amsterdam"
+      }
+    ],
+    "2012": [
+      {
+        "i": "8090-Affordable Art Fair Bruxelles 2012",
+        "c": "BE",
+        "n": "Galerie Daniel Guidat",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

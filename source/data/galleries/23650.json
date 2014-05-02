@@ -1,0 +1,28 @@
+{
+  "id": "23650",
+  "name": "Galerie Vendôme",
+  "street": "Cour du 12, rue de la  Paix",
+  "zip": "75002",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 61 73 91",
+  "email": "galerievendome@wanadoo.fr ",
+  "www": "www.galerievendome.fr ",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075002 %2C%20 %2C%20Cour du 12, rue de la  Paix  %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2010": [
+      {
+        "i": "23650-Art Kyiv Contemporary 2010",
+        "c": "UA",
+        "n": "Galerie Vendôme",
+        "ct": "Kiev"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "20694",
+  "name": "Heidigalerie",
+  "street": "1, rue Beaurepaire",
+  "zip": "44000",
+  "city": "Nantes",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+ 33 (0)2 4040 80 10",
+  "email": null,
+  "www": "www.heidigalerie.com",
+  "map": "http://maps.google.com/maps?q=Nantes%2C%2044000 %2C%20 %2C%201, rue Beaurepaire %2C%20France",
+  "fairs-total": "6",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2010": [
+      {
+        "i": "20694-JustMadrid",
+        "c": "ES",
+        "n": "Heidigalerie",
+        "ct": "Madrid"
+      },
+      {
+        "i": "20694-Scope Basel 2010",
+        "c": "US",
+        "n": "Heidigalerie",
+        "ct": "New York City, NY"
+      }
+    ],
+    "2011": [
+      {
+        "i": "20694-ARCOmadrid  2011",
+        "c": "ES",
+        "n": "Heidigalerie",
+        "ct": "Madrid"
+      }
+    ],
+    "2012": [
+      {
+        "i": "20694-ARCOmadrid 2012",
+        "c": "ES",
+        "n": "Heidigalerie",
+        "ct": "Madrid"
+      }
+    ]
+  }
+}

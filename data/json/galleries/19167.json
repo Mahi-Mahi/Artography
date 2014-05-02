@@ -1,0 +1,36 @@
+{
+  "id": "19167",
+  "name": "Exit Art Contemporain",
+  "street": "61, rue du château",
+  "zip": "92100",
+  "city": "Boulogne-Billancourt",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 6 22 23 68 63",
+  "email": "contact@exit-art.fr",
+  "www": "www.exit-art.fr",
+  "map": "http://maps.google.com/maps?q=Boulogne-Billancourt%2C%2092100 %2C%20 %2C%2061, rue du château %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "8",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19167-Affordable Art Fair Bruxelles 09",
+        "c": "BE",
+        "n": "Exit Art Contemporain",
+        "ct": "Brussels"
+      }
+    ],
+    "2010": [
+      {
+        "i": "19167-Affordable Art Fair Bruxelles 2010",
+        "c": "BE",
+        "n": "Exit Art Contemporain",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

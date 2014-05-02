@@ -1,0 +1,28 @@
+{
+  "id": "18406",
+  "name": "Galerie Keller",
+  "street": "13, rue Keller",
+  "zip": "75011",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 43 57 72 49 ",
+  "email": null,
+  "www": "galerie-keller.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075011 %2C%20 %2C%2013, rue Keller %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2010": [
+      {
+        "i": "18406-contemporary art ruhr 10 - die Messe",
+        "c": "DE",
+        "n": "Galerie Keller",
+        "ct": "Essen"
+      }
+    ]
+  }
+}

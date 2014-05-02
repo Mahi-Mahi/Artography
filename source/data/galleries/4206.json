@@ -1,0 +1,72 @@
+{
+  "id": "4206",
+  "name": "Galerie Eric Philippe",
+  "street": "25, galerie Véro-Dodat",
+  "zip": "75001",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1980",
+  "directeurs": "Eric Philippe - Léonore Bancilhon",
+  "profile": null,
+  "tel": "+33 (0)1 42332826",
+  "email": "ericphil@wanadoo.fr",
+  "www": "www.ericphilippe.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075001 %2C%20 %2C%20 25, galerie Véro-Dodat %2C%20France",
+  "fairs-total": "12",
+  "fairs-abroad": "7",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2008": [
+      {
+        "i": "4206-Design Miami/ Basel 2008",
+        "c": "CH",
+        "n": "Galerie Eric Philippe",
+        "ct": "Basel"
+      }
+    ],
+    "2009": [
+      {
+        "i": "4206-TEFAF Maastricht 2009",
+        "c": "NL",
+        "n": "Galerie Eric Philippe",
+        "ct": "Maastricht"
+      }
+    ],
+    "2010": [
+      {
+        "i": "4206-TEFAF Maastricht 2010",
+        "c": "NL",
+        "n": "Galerie Eric Philippe",
+        "ct": "Maastricht"
+      },
+      {
+        "i": "4206-Design Miami/Basel 2010",
+        "c": "CH",
+        "n": "Galerie Eric Philippe",
+        "ct": "Basel"
+      }
+    ],
+    "2011": [
+      {
+        "i": "4206-TEFAF Maastricht 2011",
+        "c": "NL",
+        "n": "Galerie Eric Philippe",
+        "ct": "Helvoirt"
+      }
+    ],
+    "2012": [
+      {
+        "i": "4206-TEFAF Maastricht 2012",
+        "c": "NL",
+        "n": "Galerie Eric Philippe",
+        "ct": "Helvoirt"
+      },
+      {
+        "i": "4206-Design Miami / Basel",
+        "c": "US",
+        "n": "Galerie Eric Philippe",
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "18537",
+  "name": "Galerie Antoine Helwaser",
+  "street": "32 rue Jean Mermoz",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 45 61 07 06",
+  "email": "antoinehelwaser@yahoo.fr",
+  "www": "www.helwasergallery.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2032 rue Jean Mermoz %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "7",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2008": [
+      {
+        "i": "18537-Art Asia Fair 2008",
+        "c": "US",
+        "n": "Galerie Antoine Helwaser",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2010": [
+      {
+        "i": "18537-Art Miami 2010",
+        "c": "US",
+        "n": "Galerie Antoine Helwaser",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2011": [
+      {
+        "i": "18537-Art Miami 2011",
+        "c": "US",
+        "n": "Galerie Antoine Helwaser",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2012": [
+      {
+        "i": "18537-Art Southampton 2012",
+        "c": "US",
+        "n": "Galerie Antoine Helwaser",
+        "ct": "Tucson, AZ"
+      },
+      {
+        "i": "18537-Art Miami 2012",
+        "c": "US",
+        "n": "Galerie Antoine Helwaser",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "18537-Art Southampton 2013",
+        "c": "US",
+        "n": "Galerie Antoine Helwaser",
+        "ct": "Southampton, NY\t"
+      },
+      {
+        "i": "18537-Art Miami 2013",
+        "c": "US",
+        "n": "Galerie Antoine Helwaser",
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

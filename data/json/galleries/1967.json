@@ -1,0 +1,98 @@
+{
+  "id": "1967",
+  "name": "Galerie Natalie Seroussi",
+  "street": "34, rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1977",
+  "directeurs": "Natalie Seroussi",
+  "profile": null,
+  "tel": "+33-(0)1 46 34 05 84",
+  "email": "artcontemporain@natalieseroussi.com",
+  "www": "www.natalieseroussi.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2034, rue de Seine %2C%20France",
+  "fairs-total": "22",
+  "fairs-abroad": "10",
+  "fairs-in-FR": "12",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1967-Art 36 Basel",
+        "c": "CH",
+        "n": "Galerie Natalie Seroussi",
+        "ct": "Basel"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1967-Art 37 Basel",
+        "c": "CH",
+        "n": "Galerie Natalie Seroussi",
+        "ct": "Basel"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1967-ARCO 07",
+        "c": "ES",
+        "n": "Galerie Natalie Seroussi",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1967-Art 38 Basel",
+        "c": "CH",
+        "n": "Galerie Natalie Seroussi",
+        "ct": "Basel"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1967-Art 39 Basel",
+        "c": "CH",
+        "n": "Galerie Natalie Seroussi",
+        "ct": "Basel"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1967-Art 40 Basel",
+        "c": "CH",
+        "n": "Galerie Natalie Seroussi",
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1967-Art 41 Basel",
+        "c": "CH",
+        "n": "Galerie Natalie Seroussi",
+        "ct": "Basel"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1967-Art 42 Basel",
+        "c": "CH",
+        "n": "Galerie Natalie Seroussi",
+        "ct": "Basel"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1967-Art 43 Basel",
+        "c": "CH",
+        "n": "Galerie Natalie Seroussi",
+        "ct": "Basel"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1967-Art Basel 2013",
+        "c": "CH",
+        "n": "Galerie Natalie Seroussi",
+        "ct": "Basel"
+      }
+    ]
+  }
+}

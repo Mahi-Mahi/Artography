@@ -1,0 +1,28 @@
+{
+  "id": "2022",
+  "name": "Galerie Rabouan Moussion",
+  "street": "121, rue Vieille du Temple",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Jacqueline Rabouan Moussion",
+  "profile": null,
+  "tel": "+33-(0)1 48 87 75 91",
+  "email": "rabouanmoussion@noos.fr",
+  "www": "www.rabouan-moussion.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%20121, rue Vieille du Temple %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "10",
+  "fairs": {
+    "2005": [
+      {
+        "i": "2022-Loop - The Video Art Fair '05",
+        "c": "ES",
+        "n": "Galerie Rabouan Moussion",
+        "ct": "Barcelona"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "7392",
+  "name": "Galerie Eric Mircher",
+  "street": "26 rue Saint Claude",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2005",
+  "directeurs": "Eric Mircher",
+  "profile": null,
+  "tel": "+33 (0)1 48 87 02 13",
+  "email": "eric.mircher@wanadoo.fr",
+  "www": "www.mircher.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2026 rue Saint Claude %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "6",
+  "fairs": {
+    "2005": [
+      {
+        "i": "7392-Scope London 2005",
+        "c": "US",
+        "n": "Galerie Eric Mircher",
+        "ct": "New York City, NY"
+      }
+    ],
+    "2007": [
+      {
+        "i": "7392-Arte Fiera 2007",
+        "c": "IT",
+        "n": "Galerie Eric Mircher",
+        "ct": "Bologna"
+      }
+    ],
+    "2008": [
+      {
+        "i": "7392-Hong Kong International Art Fair 2008",
+        "c": "CN",
+        "n": "Galerie Eric Mircher",
+        "ct": "Hong Kong, SAR"
+      }
+    ]
+  }
+}

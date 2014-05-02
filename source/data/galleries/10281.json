@@ -1,0 +1,28 @@
+{
+  "id": "10281",
+  "name": "Galerie Emotion",
+  "street": "93, rue Vieille du Temple",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Lydie Trigano",
+  "profile": null,
+  "tel": "+33 (0)603 045555",
+  "email": "contact@galerie-emotion.com",
+  "www": "www.galerie-emotion.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2093, rue Vieille du Temple %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "9",
+  "fairs": {
+    "2007": [
+      {
+        "i": "10281-ArtParis - AbuDhabi 2007",
+        "c": "AE",
+        "n": "Galerie Emotion",
+        "ct": "Abu Dhabi"
+      }
+    ]
+  }
+}

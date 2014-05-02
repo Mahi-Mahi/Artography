@@ -1,0 +1,36 @@
+{
+  "id": "19166",
+  "name": "Espace G",
+  "street": "3 Place de Haguenau",
+  "zip": "67000",
+  "city": "Strasbourg",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)3 88 32 49 08",
+  "email": null,
+  "www": "www.espaceg.com",
+  "map": "http://maps.google.com/maps?q=Strasbourg%2C%2067000 %2C%20 %2C%203 Place de Haguenau %2C%20France",
+  "fairs-total": "8",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "6",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19166-Affordable Art Fair Bruxelles 09",
+        "c": "BE",
+        "n": "Espace G",
+        "ct": "Brussels"
+      }
+    ],
+    "2010": [
+      {
+        "i": "19166-Affordable Art Fair Bruxelles 2010",
+        "c": "BE",
+        "n": "Espace G",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "23071",
+  "name": "Galerie Goutte de Terre",
+  "street": "46 rue Godefroy Cavaignac",
+  "zip": "75011",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "01 43 73 69 77",
+  "email": "gouttedeterre@yahoo.fr",
+  "www": "www.gouttedeterre.org, www.gouttedeterre.blogspot.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075011 %2C%20 %2C%2046 rue Godefroy Cavaignac %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2010": [
+      {
+        "i": "23071-contemporary art ruhr 10 - die Messe",
+        "c": "DE",
+        "n": "Galerie Goutte de Terre",
+        "ct": "Essen"
+      }
+    ]
+  }
+}

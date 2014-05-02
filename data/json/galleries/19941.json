@@ -1,0 +1,36 @@
+{
+  "id": "19941",
+  "name": "Art Jingle Contemporary",
+  "street": "31 ter rue des Tournelle",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 1 42 78 59 43",
+  "email": "stephane@artjingle.com",
+  "www": "www.artjingle.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2031 ter rue des Tournelle %2C%20France",
+  "fairs-total": "8",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "6",
+  "fairs": {
+    "2010": [
+      {
+        "i": "19941-Affordable Art Fair Bruxelles 2010",
+        "c": "BE",
+        "n": "Art Jingle Contemporary",
+        "ct": "Brussels"
+      }
+    ],
+    "2012": [
+      {
+        "i": "19941-Affordable Art Fair Bruxelles 2012",
+        "c": "BE",
+        "n": "Art Jingle Contemporary",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

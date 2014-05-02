@@ -1,0 +1,98 @@
+{
+  "id": "4204",
+  "name": "Galerie Orel Art - Paris",
+  "street": "40, rue Quincampoix",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2001",
+  "directeurs": "Ilona Orel",
+  "profile": null,
+  "tel": "+33 (0)1 47202254",
+  "email": "orelart@hotmail.com",
+  "www": "www.orelart.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%20 40, rue Quincampoix %2C%20France",
+  "fairs-total": "22",
+  "fairs-abroad": "9",
+  "fairs-in-FR": "13",
+  "fairs": {
+    "2005": [
+      {
+        "i": "4204-Art Moscow 2005",
+        "c": "RU",
+        "n": "Galerie Orel Art - Paris",
+        "ct": "Moscow"
+      }
+    ],
+    "2006": [
+      {
+        "i": "4204-Art Moscow 2006",
+        "c": "RU",
+        "n": "Galerie Orel Art - Paris",
+        "ct": "Moscow"
+      }
+    ],
+    "2007": [
+      {
+        "i": "4204-SWAB 2007",
+        "c": "ES",
+        "n": "Galerie Orel Art - Paris",
+        "ct": "Barcelona"
+      },
+      {
+        "i": "4204-Art Moscow 2007",
+        "c": "RU",
+        "n": "Galerie Orel Art - Paris",
+        "ct": "Moscow"
+      },
+      {
+        "i": "4204-ArtParis - AbuDhabi 2007",
+        "c": "AE",
+        "n": "Galerie Orel Art - Paris",
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2008": [
+      {
+        "i": "4204-ArtParis - AbuDhabi 2008",
+        "c": "AE",
+        "n": "Galerie Orel Art - Paris",
+        "ct": "Abu Dhabi"
+      },
+      {
+        "i": "4204-Scope Miami 08",
+        "c": "US",
+        "n": "Galerie Orel Art - Paris",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2010": [
+      {
+        "i": "4204-ARCOmadrid  2010",
+        "c": "ES",
+        "n": "Galerie Orel Art - Paris",
+        "ct": "Madrid"
+      },
+      {
+        "i": "4204-Marrakech Art Fair",
+        "c": "MA",
+        "n": "Galerie Orel Art - Paris",
+        "ct": "Marrakech"
+      }
+    ],
+    "2012": [
+      {
+        "i": "4204-Cologne Paper Art 2012",
+        "c": "DE",
+        "n": "Galerie Orel Art - Paris",
+        "ct": "Cologne"
+      },
+      {
+        "i": "4204-Viennafair 2012",
+        "c": "AT",
+        "n": "Galerie Orel Art - Paris",
+        "ct": "Vienna"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "11776",
+  "name": "Galerie Métropolis",
+  "street": "6 passage des Gravilliers",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Marie Guilhot Voyant - Daniel Voyant",
+  "profile": null,
+  "tel": "+33(0)1 42 74 64 17",
+  "email": "contact@galeriemetropolis.com",
+  "www": "www.galeriemetropolis.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%206 passage des Gravilliers %2C%20France",
+  "fairs-total": "15",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "12",
+  "fairs": {
+    "2008": [
+      {
+        "i": "11776-So Feucking French (SoFF) 08",
+        "c": "GB",
+        "n": "Galerie Métropolis",
+        "ct": "London (England)"
+      }
+    ],
+    "2013": [
+      {
+        "i": "11776-Loop - The Video Art Fair 2013",
+        "c": "ES",
+        "n": "Galerie Métropolis",
+        "ct": "Barcelona"
+      }
+    ]
+  }
+}

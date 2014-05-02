@@ -1,0 +1,50 @@
+{
+  "id": "9244",
+  "name": "Brimo de Laroussilhe",
+  "street": "7, quai Voltaire",
+  "zip": "75007",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1908",
+  "directeurs": "Philippe Carlier",
+  "profile": null,
+  "tel": "+33 (0)1 42 60 74 76",
+  "email": "brimodl@aol.com",
+  "www": "www.brimodelaroussilhe.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%207, quai Voltaire %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2007": [
+      {
+        "i": "9244-TEFAF Maastricht 2007",
+        "c": "NL",
+        "n": "Brimo de Laroussilhe",
+        "ct": "Maastricht"
+      }
+    ],
+    "2012": [
+      {
+        "i": "9244-TEFAF Maastricht 2012",
+        "c": "NL",
+        "n": "Brimo de Laroussilhe",
+        "ct": "Helvoirt"
+      },
+      {
+        "i": "9244-Frieze Masters 2012",
+        "c": "GB",
+        "n": "Brimo de Laroussilhe",
+        "ct": "London (England)"
+      }
+    ],
+    "2013": [
+      {
+        "i": "9244-Frieze Masters 2013",
+        "c": "GB",
+        "n": "Brimo de Laroussilhe",
+        "ct": "London (England)"
+      }
+    ]
+  }
+}

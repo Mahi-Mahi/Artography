@@ -1,0 +1,28 @@
+{
+  "id": "27299",
+  "name": "Polysémie",
+  "street": "&#65279;&#65279;&#65279;&#65279;6 rue courteline",
+  "zip": "35700",
+  "city": "Rennes",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "François Vertadier",
+  "profile": null,
+  "tel": "33 (0)6 07 27 25 58",
+  "email": "contact@polysemie.com",
+  "www": "www.polysemieactuel.com",
+  "map": "http://maps.google.com/maps?q=Rennes%2C%2035700 %2C%20 %2C%20&#65279;&#65279;&#65279;&#65279;6 rue courteline %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2013": [
+      {
+        "i": "27299-Art Karlsruhe 2013",
+        "c": "DE",
+        "n": "Polysémie",
+        "ct": "Karlsruhe"
+      }
+    ]
+  }
+}

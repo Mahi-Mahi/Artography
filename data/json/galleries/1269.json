@@ -1,0 +1,44 @@
+{
+  "id": "1269",
+  "name": "Galerie Loft",
+  "street": "3 bis rue des Beaux-Arts",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1985",
+  "directeurs": "Jean-François Roudillon",
+  "profile": "Créée en 1985 par Jean-François Roudillon, la galerie Loft, située rue des Beaux-Arts, en plein coeur de Saint-Germain-des-Prés, a découvert de jeunes artistes de talent comme Mesnager, Kriki ou canovas et exposé Erro, Klasen et Monory.\r\n\r\nDepuis 1999, Loft s´est associé à un commissaire indépendant français basé à Hong-Kong, Jean-Marc Decrop, très familier de la scène artistique en Asie. la galerie a donc l´ambition d´être la tête de pont de l´art contemporain chinois en Europe. Loft entend dorénavant exposer régulièrement à Paris le travail des artistes asiatiques, et notamment chinois, comme Sui jan Guo, Zhan Wang, Chen Wenbo ou Guo Wei, encore peu connus du public français.",
+  "tel": "+33-(0)-1 46 33 18 90",
+  "email": "galerieloft@noos.fr",
+  "www": "www.galerieloft.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%203 bis rue des Beaux-Arts %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1269-Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie Loft",
+        "ct": "Brussels"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1269-Art Brussels 2006- 24th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie Loft",
+        "ct": "Brussels"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1269-ArtParis - AbuDhabi 2007",
+        "c": "AE",
+        "n": "Galerie Loft",
+        "ct": "Abu Dhabi"
+      }
+    ]
+  }
+}

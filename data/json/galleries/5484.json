@@ -1,0 +1,44 @@
+{
+  "id": "5484",
+  "name": "Galerie José Martinez",
+  "street": "28 rue Burdeau",
+  "zip": "69001",
+  "city": "Lyon",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "José Martinez",
+  "profile": null,
+  "tel": "+33 (0)4 78280772",
+  "email": "info@galeriejmartinez.fr",
+  "www": "www.galeriejmartinez.fr",
+  "map": "http://maps.google.com/maps?q=Lyon%2C%2069001 %2C%20 %2C%2028 rue Burdeau %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2007": [
+      {
+        "i": "5484-17th annual ifpdaprintfair 2007",
+        "c": "US",
+        "n": "Galerie José Martinez",
+        "ct": "New York City, NY"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5484-19th annual ifpdaprintfair 2009",
+        "c": "US",
+        "n": "Galerie José Martinez",
+        "ct": "New York City, NY"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5484-20th annual ifpdaprintfair 2010",
+        "c": "US",
+        "n": "Galerie José Martinez",
+        "ct": "New York City, NY"
+      }
+    ]
+  }
+}

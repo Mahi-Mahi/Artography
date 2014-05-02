@@ -1,0 +1,42 @@
+{
+  "id": "16397",
+  "name": "DIMA Galerie d´art",
+  "street": "22, Rue des Rosiers",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 77 10 88",
+  "email": "info@dimagallery.com",
+  "www": "www.dimagallery.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%2022, Rue des Rosiers %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2008": [
+      {
+        "i": "16397-The Affordable Art Fair 2008",
+        "c": "GB",
+        "n": "DIMA Galerie d´art",
+        "ct": "London (England)"
+      }
+    ],
+    "2009": [
+      {
+        "i": "16397-Affordable Art Fair Bruxelles 09",
+        "c": "BE",
+        "n": "DIMA Galerie d´art",
+        "ct": "Brussels"
+      },
+      {
+        "i": "16397-The Affordable Art Fair 2009",
+        "c": "GB",
+        "n": "DIMA Galerie d´art",
+        "ct": "London (England)"
+      }
+    ]
+  }
+}

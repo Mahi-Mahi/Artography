@@ -1,0 +1,34 @@
+{
+  "id": "28441",
+  "name": "Galerie L'Aléatoire",
+  "street": "29, rue de Bièvre",
+  "zip": "75005",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33(0)6 16 66 06 77",
+  "email": "laleatoire@gmail.com",
+  "www": "www.galerielaleatoire.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075005 %2C%20 %2C%2029, rue de Bièvre %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2013": [
+      {
+        "i": "28441-cutlog NY 2013",
+        "c": "US",
+        "n": "Galerie L'Aléatoire",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "28441-Art Moscow 2013",
+        "c": "RU",
+        "n": "Galerie L'Aléatoire",
+        "ct": "Moscow"
+      }
+    ]
+  }
+}

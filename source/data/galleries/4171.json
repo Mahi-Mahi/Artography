@@ -1,0 +1,36 @@
+{
+  "id": "4171",
+  "name": "Dansk Moebelkunst - Paris",
+  "street": "53 bis, quai des Grands-Augustins",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1992",
+  "directeurs": "Ole Hoestbo - Maria Wettergren",
+  "profile": null,
+  "tel": "+33 (0)1 43251165",
+  "email": "paris@dmk.dk",
+  "www": "www.dmk.dk",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2053 bis, quai des Grands-Augustins %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2006": [
+      {
+        "i": "4171-Art Brussels 2006- 24th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Dansk Moebelkunst - Paris",
+        "ct": "Brussels"
+      }
+    ],
+    "2008": [
+      {
+        "i": "4171-Design Miami/ Basel 2008",
+        "c": "CH",
+        "n": "Dansk Moebelkunst - Paris",
+        "ct": "Basel"
+      }
+    ]
+  }
+}

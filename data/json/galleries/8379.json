@@ -1,0 +1,36 @@
+{
+  "id": "8379",
+  "name": "The New Art Project",
+  "street": "rue Mazarine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2005",
+  "directeurs": "Lara Pan",
+  "profile": null,
+  "tel": null,
+  "email": "lara@thenewartproject.com",
+  "www": "www.thenewartproject.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%20rue Mazarine %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2006": [
+      {
+        "i": "8379-Photo Miami 2006",
+        "c": "US",
+        "n": "The New Art Project",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2007": [
+      {
+        "i": "8379-Photo Miami 2007",
+        "c": "US",
+        "n": "The New Art Project",
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

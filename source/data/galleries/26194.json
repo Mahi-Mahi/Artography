@@ -1,0 +1,28 @@
+{
+  "id": "26194",
+  "name": "Galerie Bagatelle",
+  "street": "3, rue des Bouchers",
+  "zip": "F-77300",
+  "city": "Fontainebleau",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 1 60 71 14 89",
+  "email": "galeriebagatelle.art@gmail.com",
+  "www": "www.galerie-bagatelle.com",
+  "map": "http://maps.google.com/maps?q=Fontainebleau%2C%20F-77300 %2C%20 %2C%203, rue des Bouchers %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2011": [
+      {
+        "i": "26194-Art International Zürich 2011",
+        "c": "CH",
+        "n": "Galerie Bagatelle",
+        "ct": "Zurich"
+      }
+    ]
+  }
+}

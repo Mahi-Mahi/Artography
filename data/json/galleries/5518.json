@@ -1,0 +1,66 @@
+{
+  "id": "5518",
+  "name": "Galerie Acte 2",
+  "street": "41 rue d'Artois",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Renaud Bergonzo",
+  "profile": null,
+  "tel": "+33 (0)1 42 89 48 80",
+  "email": "acte2photo@aol.com",
+  "www": "www.acte2photo.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2041 rue d'Artois %2C%20France",
+  "fairs-total": "15",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "11",
+  "fairs": {
+    "2007": [
+      {
+        "i": "5518-ArtParis - AbuDhabi 2007",
+        "c": "AE",
+        "n": "Galerie Acte 2",
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5518-ArtParis - AbuDhabi 2008",
+        "c": "AE",
+        "n": "Galerie Acte 2",
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5518-Menasart Fair",
+        "c": "LB",
+        "n": "Galerie Acte 2",
+        "ct": "Beirut"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5518-Art Fair Kyoto 2011",
+        "c": "JP",
+        "n": "Galerie Acte 2",
+        "ct": "Kyoto"
+      },
+      {
+        "i": "5518-Photo Taipei 2011",
+        "c": "TW",
+        "n": "Galerie Acte 2",
+        "ct": "Taipei"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5518-Art Show Busan 2012",
+        "c": "KR",
+        "n": "Galerie Acte 2",
+        "ct": "Busan"
+      }
+    ]
+  }
+}

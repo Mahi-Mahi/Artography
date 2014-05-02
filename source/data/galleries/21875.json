@@ -1,0 +1,64 @@
+{
+  "id": "21875",
+  "name": "Galerie 49",
+  "street": "49 rue Saint-Nicolas",
+  "zip": "49400",
+  "city": "Saumur",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)2 41 59 72 01",
+  "email": null,
+  "www": "www.galerie49-art.com",
+  "map": "http://maps.google.com/maps?q=Saumur%2C%2049400 %2C%20 %2C%2049 rue Saint-Nicolas %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "6",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2010": [
+      {
+        "i": "21875-Lineart 2010",
+        "c": "BE",
+        "n": "Galerie 49",
+        "ct": "Ghent"
+      }
+    ],
+    "2011": [
+      {
+        "i": "21875-Artmonaco 2011",
+        "c": "MC",
+        "n": "Galerie 49",
+        "ct": "Monaco"
+      },
+      {
+        "i": "21875-Lineart 2011",
+        "c": "BE",
+        "n": "Galerie 49",
+        "ct": "Ghent"
+      }
+    ],
+    "2012": [
+      {
+        "i": "21875-Art Monaco 2012",
+        "c": "MC",
+        "n": "Galerie 49",
+        "ct": "Monaco"
+      },
+      {
+        "i": "21875-Art Gent 2012",
+        "c": "BE",
+        "n": "Galerie 49",
+        "ct": "Ghent"
+      }
+    ],
+    "2013": [
+      {
+        "i": "21875-Art Monaco 2013",
+        "c": "MC",
+        "n": "Galerie 49",
+        "ct": "Monaco"
+      }
+    ]
+  }
+}

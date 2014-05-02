@@ -1,0 +1,28 @@
+{
+  "id": "17457",
+  "name": "School Gallery Paris",
+  "street": "81 rue du Temple",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2008",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 71 78 20",
+  "email": "olivier@schoolgallery.fr",
+  "www": "schoolgallery.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2081 rue du Temple %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "10",
+  "fairs": {
+    "2013": [
+      {
+        "i": "17457-Paris Photo Los Angeles 2013",
+        "c": "US",
+        "n": "School Gallery Paris",
+        "ct": "Los Angeles, CA"
+      }
+    ]
+  }
+}

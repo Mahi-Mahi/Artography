@@ -1,0 +1,74 @@
+{
+  "id": "2013",
+  "name": "Galerie Alain Gutharc",
+  "street": "7, Rue Saint-Claude",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1992",
+  "directeurs": "Alain Gutharc",
+  "profile": "Depuis 1992, la galerie Alain Gutharc, fidèle à sa vocation de présenter de jeunes artistes, s´est orientée vers des formes plastiques en accord avec l´époque tout en maintenant un fil commun entre les différents univers plastiques qui marquent notre temps. \r\n\r\nLa photographie plasticienne et la vidéo sont largement représentées par la galerie. Mais d´autres formes d´art plus intimistes, où des performances marquent les liens qui se tissent dans un réseau relationnel, sont également âprement défendues, au même titre que les images issues de la technologie numérique qui permet le télescopage de la réalité et de la fiction.\r\n\r\nLa galerie organise également chaque année une exposition de design. Ces expositions sont l´occasion de mettre en relief les liens qui unissent l´art contemporain et les arts décoratifs, et l´étroite relation qui existe dans les diverses formes d´expression d´une époque.",
+  "tel": "+33-(0)1 47 00 32 10",
+  "email": "gutharc@free.fr",
+  "www": "www.alaingutharc.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%207, Rue Saint-Claude %2C%20France",
+  "fairs-total": "21",
+  "fairs-abroad": "7",
+  "fairs-in-FR": "14",
+  "fairs": {
+    "2006": [
+      {
+        "i": "2013-Art Brussels 2006- 24th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie Alain Gutharc",
+        "ct": "Brussels"
+      }
+    ],
+    "2007": [
+      {
+        "i": "2013-Art Brussels 2007- 25th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie Alain Gutharc",
+        "ct": "Brussels"
+      }
+    ],
+    "2008": [
+      {
+        "i": "2013-Art Brussels 2008- 26th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie Alain Gutharc",
+        "ct": "Brussels"
+      }
+    ],
+    "2009": [
+      {
+        "i": "2013-Art Brussels 2009 - 27th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie Alain Gutharc",
+        "ct": "Brussels"
+      },
+      {
+        "i": "2013-VOLTAshow05",
+        "c": "CH",
+        "n": "Galerie Alain Gutharc",
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "2013-Viennafair 2010",
+        "c": "AT",
+        "n": "Galerie Alain Gutharc",
+        "ct": "Vienna"
+      }
+    ],
+    "2012": [
+      {
+        "i": "2013-Art Brussels 2012",
+        "c": "BE",
+        "n": "Galerie Alain Gutharc",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

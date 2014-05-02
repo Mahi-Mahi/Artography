@@ -1,0 +1,70 @@
+{
+  "id": "7835",
+  "name": "galerie ColletPark",
+  "street": "203bis rue saint martin",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2006",
+  "directeurs": "Denis Collet",
+  "profile": "La galerie ColletPark, fondée en décembre 2006 par Denis Collet et Hyun Park, entreprend la production d’oeuvres d’art et la présentation d’expositions s’inscrivant dans la création contemporaine.\r\nLa galerie est située 203bis rue St Martin à Paris, dans un immeuble haussmannien du quartier du Marais, à proximité du Centre Pompidou. \r\n",
+  "tel": "+33 (0)1 40 46 00 20",
+  "email": "gallery@colletpark.com",
+  "www": "www.colletpark.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%20203bis rue saint martin %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "7",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2007": [
+      {
+        "i": "7835-Art Brussels 2007- 25th Contemporary Art Fair",
+        "c": "BE",
+        "n": "galerie ColletPark",
+        "ct": "Brussels"
+      }
+    ],
+    "2008": [
+      {
+        "i": "7835-Viennafair 2008",
+        "c": "AT",
+        "n": "galerie ColletPark",
+        "ct": "Vienna"
+      },
+      {
+        "i": "7835-ShContemporary 08",
+        "c": "CN",
+        "n": "galerie ColletPark",
+        "ct": "Shanghai"
+      },
+      {
+        "i": "7835-PULSE Miami 08",
+        "c": "US",
+        "n": "galerie ColletPark",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2009": [
+      {
+        "i": "7835-Pulse New York 09",
+        "c": "US",
+        "n": "galerie ColletPark",
+        "ct": "New York City, NY"
+      }
+    ],
+    "2010": [
+      {
+        "i": "7835-Volta NY 10",
+        "c": "US",
+        "n": "galerie ColletPark",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "7835-VOLTAshow06",
+        "c": "CH",
+        "n": "galerie ColletPark",
+        "ct": "Basel"
+      }
+    ]
+  }
+}

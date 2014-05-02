@@ -1,0 +1,234 @@
+{
+  "id": "5908",
+  "name": "Galerie Laurent Godin",
+  "street": "5 Rue du Grenier Saint Lazare",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2005",
+  "directeurs": "Laurent Godin, Agathe Lacroix",
+  "profile": null,
+  "tel": "+33 (0)1 42711066",
+  "email": "info@laurentgodin.com",
+  "www": "www.laurentgodin.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%205 Rue du Grenier Saint Lazare %2C%20France",
+  "fairs-total": "55",
+  "fairs-abroad": "33",
+  "fairs-in-FR": "22",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5908-MiArt 2006 - 11th international modern and contemporary art fair",
+        "c": "IT",
+        "n": "Galerie Laurent Godin",
+        "ct": "Milan"
+      },
+      {
+        "i": "5908-CIGE 2006",
+        "c": "CN",
+        "n": "Galerie Laurent Godin",
+        "ct": "Beijing"
+      },
+      {
+        "i": "5908-KIAF 2006",
+        "c": "KR",
+        "n": "Galerie Laurent Godin",
+        "ct": "Seoul"
+      },
+      {
+        "i": "5908-VOLTAshow02",
+        "c": "CH",
+        "n": "Galerie Laurent Godin",
+        "ct": "Basel"
+      },
+      {
+        "i": "5908-11. ART FORUM BERLIN",
+        "c": "DE",
+        "n": "Galerie Laurent Godin",
+        "ct": "Berlin"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5908-Art Brussels 2007- 25th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie Laurent Godin",
+        "ct": "Brussels"
+      },
+      {
+        "i": "5908-MACO Mexico 07",
+        "c": "MX",
+        "n": "Galerie Laurent Godin",
+        "ct": "Mexico City"
+      },
+      {
+        "i": "5908-CIGE 2007",
+        "c": "CN",
+        "n": "Galerie Laurent Godin",
+        "ct": "Beijing"
+      },
+      {
+        "i": "5908-VOLTAshow03",
+        "c": "CH",
+        "n": "Galerie Laurent Godin",
+        "ct": "Basel"
+      },
+      {
+        "i": "5908-ShContemporary 07",
+        "c": "CN",
+        "n": "Galerie Laurent Godin",
+        "ct": "Shanghai"
+      },
+      {
+        "i": "5908-12. Art Forum Berlin",
+        "c": "DE",
+        "n": "Galerie Laurent Godin",
+        "ct": "Berlin"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5908-Volta NY",
+        "c": "US",
+        "n": "Galerie Laurent Godin",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "5908-Art Brussels 2008- 26th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie Laurent Godin",
+        "ct": "Brussels"
+      },
+      {
+        "i": "5908-FEMACO Mexico 08",
+        "c": "MX",
+        "n": "Galerie Laurent Godin",
+        "ct": "Mexico City"
+      },
+      {
+        "i": "5908-Zoo Art Fair 2008",
+        "c": "GB",
+        "n": "Galerie Laurent Godin",
+        "ct": "London (England)"
+      },
+      {
+        "i": "5908-NADA Art Fair 2008 Miami",
+        "c": "US",
+        "n": "Galerie Laurent Godin",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5908-ARCO 09",
+        "c": "ES",
+        "n": "Galerie Laurent Godin",
+        "ct": "Madrid"
+      },
+      {
+        "i": "5908-The Armory Show 2009",
+        "c": "US",
+        "n": "Galerie Laurent Godin",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "5908-Zona Maco Mexico 09",
+        "c": "MX",
+        "n": "Galerie Laurent Godin",
+        "ct": "Mexico City"
+      },
+      {
+        "i": "5908-VOLTAshow05",
+        "c": "CH",
+        "n": "Galerie Laurent Godin",
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5908-Art Rotterdam 2010",
+        "c": "NL",
+        "n": "Galerie Laurent Godin",
+        "ct": "Rotterdam"
+      },
+      {
+        "i": "5908-The Armory Show 2010",
+        "c": "US",
+        "n": "Galerie Laurent Godin",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "5908-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie Laurent Godin",
+        "ct": "Brussels"
+      },
+      {
+        "i": "5908-Marrakech Art Fair",
+        "c": "MA",
+        "n": "Galerie Laurent Godin",
+        "ct": "Marrakech"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5908-The Armory Show 2011",
+        "c": "US",
+        "n": "Galerie Laurent Godin",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "5908-Zona Maco Mexico 11",
+        "c": "MX",
+        "n": "Galerie Laurent Godin",
+        "ct": "Mexico City"
+      },
+      {
+        "i": "5908-Art Brussels 2011",
+        "c": "BE",
+        "n": "Galerie Laurent Godin",
+        "ct": "Brussels"
+      },
+      {
+        "i": "5908-ArtHK11",
+        "c": "CN",
+        "n": "Galerie Laurent Godin",
+        "ct": "Hong Kong, SAR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5908-The Armory Show 2012",
+        "c": "US",
+        "n": "Galerie Laurent Godin",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "5908-Art Brussels 2012",
+        "c": "BE",
+        "n": "Galerie Laurent Godin",
+        "ct": "Brussels"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5908-Artgenève - Salon international ",
+        "c": "CH",
+        "n": "Galerie Laurent Godin",
+        "ct": "Geneva"
+      },
+      {
+        "i": "5908-The Armory Show 2013",
+        "c": "US",
+        "n": "Galerie Laurent Godin",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "5908-Art Brussels 2013",
+        "c": "BE",
+        "n": "Galerie Laurent Godin",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

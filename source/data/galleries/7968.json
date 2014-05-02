@@ -1,0 +1,60 @@
+{
+  "id": "7968",
+  "name": "Serge Plantureux",
+  "street": "4, Galerie Vivienne",
+  "zip": "75002",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 53299200",
+  "email": "plantureux@magic.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075002 %2C%20 %2C%204, Galerie Vivienne %2C%20France",
+  "fairs-total": "12",
+  "fairs-abroad": "5",
+  "fairs-in-FR": "7",
+  "fairs": {
+    "2006": [
+      {
+        "i": "7968-The AIPAD Photography Show New York 2006",
+        "c": "US",
+        "n": "Serge Plantureux",
+        "ct": "New York City, NY"
+      }
+    ],
+    "2007": [
+      {
+        "i": "7968-Photo Los Angeles 2007",
+        "c": "US",
+        "n": "Serge Plantureux",
+        "ct": "Santa Monica, CA"
+      }
+    ],
+    "2008": [
+      {
+        "i": "7968-The AIPAD Photography Show New York 2008",
+        "c": "US",
+        "n": "Serge Plantureux",
+        "ct": "New York City, NY"
+      }
+    ],
+    "2009": [
+      {
+        "i": "7968-The AIPAD Photography Show New York 2009",
+        "c": "US",
+        "n": "Serge Plantureux",
+        "ct": "New York City, NY"
+      }
+    ],
+    "2012": [
+      {
+        "i": "7968-The AIPAD Photography 2012",
+        "c": "US",
+        "n": "Serge Plantureux",
+        "ct": "Washington, DC"
+      }
+    ]
+  }
+}

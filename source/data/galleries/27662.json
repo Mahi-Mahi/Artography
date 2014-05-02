@@ -1,0 +1,28 @@
+{
+  "id": "27662",
+  "name": "Daniela da Prato Gallery",
+  "street": "6 Passage des Gravilliers",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2011",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)44 6 27 78",
+  "email": "info@dapratogallery.com",
+  "www": "www.dapratogallery.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%206 Passage des Gravilliers %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2013": [
+      {
+        "i": "27662-Slick Brussels 2013",
+        "c": "BE",
+        "n": "Daniela da Prato Gallery",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

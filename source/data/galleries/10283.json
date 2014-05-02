@@ -1,0 +1,48 @@
+{
+  "id": "10283",
+  "name": "Espace Meyer Zafra",
+  "street": "4, rue Malher",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 77 05 34",
+  "email": "contact@espace-zafra.com",
+  "www": "www.espace-zafra.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%204, rue Malher %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "7",
+  "fairs": {
+    "2011": [
+      {
+        "i": "10283-Pinta NY 2011",
+        "c": "US",
+        "n": "Espace Meyer Zafra",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "10283-Pinta London 2013",
+        "c": "GB",
+        "n": "Espace Meyer Zafra",
+        "ct": "London (England)"
+      },
+      {
+        "i": "10283-Pinta NY 2013",
+        "c": "US",
+        "n": "Espace Meyer Zafra",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "10283-Art Miami 2013",
+        "c": "US",
+        "n": "Espace Meyer Zafra",
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

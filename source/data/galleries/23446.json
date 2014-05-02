@@ -1,0 +1,68 @@
+{
+  "id": "23446",
+  "name": "TORRI",
+  "street": "7, rue Saint-Claude",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2010",
+  "directeurs": "Romain Torri",
+  "profile": "Founded in May 2010, the gallery TORRI proposes a new viewpoint counter to the traditional historiography.\r\n\r\nTo aim its policy, the gallery offers the works of established artists like Vera Molnar, Braco Dimitrijevic and Hamish Fulton, exhibited with emerging artists. This location contributes to creates news marks for the public in the light of contemporary practices. In this way, young artists, who exhibited for the first time in France or ever (Jean-Baptiste Bernadet, Florian Pugnaire, David Raffini, Gareth Long, Mathias Schweizer, Jeremy Shaw) coexist with historical figures, to provoke a new way to consider both generation.",
+  "tel": "+33 (0)140 - 27 00 32",
+  "email": "contact@galerietorri.com",
+  "www": "www.galerietorri.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%207, rue Saint-Claude %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "7",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2011": [
+      {
+        "i": "23446-ArtHK11",
+        "c": "CN",
+        "n": "TORRI",
+        "ct": "Hong Kong, SAR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "23446-Art Brussels 2012",
+        "c": "BE",
+        "n": "TORRI",
+        "ct": "Brussels"
+      },
+      {
+        "i": "23446-Artissima 19",
+        "c": "IT",
+        "n": "TORRI",
+        "ct": "Turin"
+      }
+    ],
+    "2013": [
+      {
+        "i": "23446-Art Los Angeles Contemporary 2013",
+        "c": "US",
+        "n": "TORRI",
+        "ct": "Los Angeles, CA"
+      },
+      {
+        "i": "23446-Art Rotterdam 2013",
+        "c": "NL",
+        "n": "TORRI",
+        "ct": "Rotterdam"
+      },
+      {
+        "i": "23446-Art Brussels 2013",
+        "c": "BE",
+        "n": "TORRI",
+        "ct": "Brussels"
+      },
+      {
+        "i": "23446-Artissima 2013",
+        "c": "IT",
+        "n": "TORRI",
+        "ct": "Turin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "5077",
+  "name": "Galerie Arnoux",
+  "street": "27, rue Guénégaud",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1985",
+  "directeurs": "Jean-Pierre Arnoux",
+  "profile": null,
+  "tel": "+33 (0)1 46330466",
+  "email": "galeriearnoux@noos.fr",
+  "www": "www.galeriearnoux.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2027, rue Guénégaud %2C%20France",
+  "fairs-total": "18",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "16",
+  "fairs": {
+    "2008": [
+      {
+        "i": "5077-art KARLSRUHE 2008",
+        "c": "DE",
+        "n": "Galerie Arnoux",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5077-art KARLSRUHE 2011",
+        "c": "DE",
+        "n": "Galerie Arnoux",
+        "ct": "Karlsruhe"
+      }
+    ]
+  }
+}
