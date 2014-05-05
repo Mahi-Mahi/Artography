@@ -293,8 +293,41 @@ define([], function() {
 			}
 
 			function updateStatus(nb_fairs, nb_countries, in_country) {
+				console.log("updateStatus");
 				in_country = null;
-				jQuery('.status').html("Aujourd'hui " + nb_fairs + " galleryes<br /> fairsent dans " + nb_countries + " pays");
+				var verb, period, fairs, countries;
+				switch ($scope.filters.period) {
+					case 'today':
+						period = "Aujourd'hui";
+						verb = "participe";
+						break;
+					case '2014':
+						period = "En " + $scope.filters.period;
+						verb = "participe";
+						break;
+					default:
+						period = "En " + $scope.filters.period;
+						verb = "a participé";
+						break;
+				}
+				switch (nb_fairs) {
+					case 1:
+						fairs = "une foire";
+						break;
+					default:
+						fairs = nb_fairs + " foires";
+						break;
+				}
+				switch (nb_countries) {
+					case 1:
+						countries = "un pays";
+						break;
+					default:
+						countries = nb_countries + " pays";
+						break;
+				}
+
+				jQuery('.entry-description p').html('<strong>' + period + ',</strong> cette gallerie <br />' + verb + ' à <strong> ' + fairs + ' </strong>dans <strong>' + countries + '</strong>' + '.');
 			}
 
 			function drawChart() {
@@ -591,11 +624,9 @@ define([], function() {
 			}
 
 			$scope.showFairPopup = function(fair_id, left) {
-				console.log("showExpoPopup(" + fair_id);
-				console.log(all_fairs);
+				// console.log("showFairPopup(" + fair_id);
 				var the_fair = all_fairs[fair_id];
 				if (the_fair) {
-					console.log($scope.currentMousePos);
 					jQuery('#popup').attr('class', 'expo-' + the_fair.type).html(
 						'<p class="name">' + the_fair.name + '</p>' +
 						'<p class="period">Du ' + formatService.formatDate(the_fair.period[0]) +
