@@ -544,19 +544,13 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		background-position:0 7px;
 		background-repeat:no-repeat;
 	}
-	.Temporary-Exhibition-Space {
-		background-image:image-url("rounded-Temporary-Exhibition-Space.png");
-	}
-	.Public-Institution {
+	.Institution-publique {
 		background-image:image-url("rounded-Public-Institution.png");
 	}
-	.Private-Collection, .Private-Gallery {
+	.Galerie-priv-e {
 		background-image:image-url("rounded-Private-Gallery.png");
 	}
-	.Non-profit-organization {
-		background-image:image-url("rounded-Public-Institution.png");
-	}
-	.Festival {
+	.Autre {
 		background-image:image-url("rounded-Festival.png");
 	}
 }
@@ -864,7 +858,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	}
 }
 
-#popup.expo-Public-Institution {
+#popup.expo-Institution-publique {
 	border-color:#00a79d;
 	.name {
 		color:#00a79d;
@@ -878,7 +872,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	}
 }
 
-#popup.expo-Private-Gallery {
+#popup.expo-Galerie-priv-e {
 	border-color:#ef4036;
 	.name {
 		color:#ef4036;
