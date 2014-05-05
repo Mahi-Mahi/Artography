@@ -73,7 +73,7 @@
 			<form class="sidebar-form-right">
 				<input type="text" value="" class="input-sidebar" placeholder="Rechercher une foire..." ng-model="searchText" ng-change="searchFairs();" />
 				<ul class="unstyled">
-					<li ng-repeat="fair in fairs_list"  class="exposition-item {{fair.enabled}} {{fair.type}}"><a href="{{fair.url}}" target="_blank">{{fair.name}}</a></li>
+					<li ng-repeat="fair in fairs_list"  class="exposition-item {{fair.enabled}} {{fair.type}}" ng-click="showFairPopup(fair.id, true)">{{fair.name}}</li>
 				</ul>
 			</form>
 

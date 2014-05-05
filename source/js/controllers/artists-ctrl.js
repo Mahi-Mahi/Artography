@@ -231,11 +231,17 @@ define([], function() {
 			var textOnPathDone = 0;
 
 			raphael.circle(originX, originY, central_radius - central_margin).attr({
-				fill: '#333',
+				// fill: '#333',
+				fill: "url(/arts-visuels/assets/images/Logo-IFdata.png)",
 				opacity: 0.2
 				// 'stroke-width': 1
 			});
 
+		var logo_ratio = 168 / 288,
+			logo_margin = 12,
+			logo_width = central_radius + logo_margin,
+			logo_height = (central_radius * logo_ratio) + logo_margin;
+		raphael.image("http://artography.localhost/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
 			// var circle_mark_incr = 12;
 			// var circle_mark_angle = 0;
 			// for (circle_mark_angle = 0; circle_mark_angle < 360; circle_mark_angle += circle_mark_incr) {
@@ -354,7 +360,7 @@ define([], function() {
 				var verb, period, artists, countries;
 				switch ($scope.filters.period) {
 					case 'today':
-						period = "Actuellement";
+						period = "Aujourd'hui";
 						verb = "exposent";
 						break;
 					case 2014:

@@ -171,6 +171,11 @@ define([], function() {
 				opacity: 0.2
 				// 'stroke-width': 1
 			});
+			var logo_ratio = 168 / 288,
+				logo_margin = 12,
+				logo_width = central_radius + logo_margin,
+				logo_height = (central_radius * logo_ratio) + logo_margin;
+			raphael.image("http://artography.localhost/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
 
 			// create continents/countries container
 			var data = {
@@ -274,7 +279,7 @@ define([], function() {
 				var verb, period, galleries, countries;
 				switch ($scope.filters.period) {
 					case 'today':
-						period = "Actuellement";
+						period = "Aujourd'hui";
 						verb = "exposent";
 						break;
 					default:

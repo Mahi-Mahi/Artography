@@ -3,8 +3,8 @@
 
 define([], function() {
 
-	return ['$scope', '$location', '$route', 'dataService',
-		function($scope, $location, $route, dataService) {
+	return ['$scope', '$location', '$route', 'dataService', 'formatService',
+		function($scope, $location, $route, dataService, formatService) {
 
 			jQuery('body').removeClass('home').addClass('galerie');
 
@@ -14,13 +14,13 @@ define([], function() {
 					adaptSidebarFormHeight();
 				});
 
-			var currentMousePos = {
+			$scope.currentMousePos = {
 				x: -1,
 				y: -1
 			};
 			jQuery(document).mousemove(function(event) {
-				currentMousePos.x = event.pageX;
-				currentMousePos.y = event.pageY;
+				$scope.currentMousePos.x = event.pageX;
+				$scope.currentMousePos.y = event.pageY;
 			});
 
 			$scope.goBack = function() {
@@ -155,22 +155,16 @@ define([], function() {
 
 			var central_radius = divW / 12;
 
-			var animation_delay = 500;
-			var a_interval = 2;
-
 			raphael.circle(originX, originY, central_radius - 5).attr({
 				'stroke': '#333',
 				'stroke-width': 1
 			});
 
-			/*
-			raphael.path().attr({
-				"stroke": "#00f",
-				"fill": "#f00",
-				"stroke-width": 1,
-				filledArc: [originX, originY, central_radius, 12, 90, 0]
-			});
-*/
+			var logo_ratio = 168 / 288,
+				logo_margin = 12,
+				logo_width = central_radius + logo_margin,
+				logo_height = (central_radius * logo_ratio) + logo_margin;
+			raphael.image("http://artography.localhost/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
 
 			// create continents/countries container
 			var data = {
@@ -299,7 +293,7 @@ define([], function() {
 
 			function updateStatus(nb_fairs, nb_countries, in_country) {
 				in_country = null;
-				jQuery('.status').html("Actuellement " + nb_fairs + " galleryes<br /> fairsent dans " + nb_countries + " pays");
+				jQuery('.status').html("Aujourd'hui " + nb_fairs + " galleryes<br /> fairsent dans " + nb_countries + " pays");
 			}
 
 			function drawChart() {
@@ -360,22 +354,7 @@ define([], function() {
 								}, animation_delay)
 									.hover(function() {
 										var fair_id = this.node.classList[2].replace(/fair-/, '');
-										var the_fair = all_fairs[fair_id];
-										if (the_fair) {
-											console.log(the_fair);
-											jQuery('#popup').attr('class', 'fair-' + the_fair.type).html(
-												'<p class="name">' + the_fair.name + '</p>' +
-												'<p class="period">Du ' + the_fair.period[0] +
-												(the_fair.period[1] ? (' Au ' + the_fair.period[1]) : '') + '</p>' +
-												'<p class="period">Organisé par ' + the_fair.organizer + '</p>' +
-												'<p class="place">@' + the_fair.city + ',' + the_fair.country.country.fr + '</p>')
-												.stop()
-												.css({
-													left: currentMousePos.x - 200,
-													top: currentMousePos.y - 200
-												})
-												.fadeIn();
-										}
+										$scope.showFairPopup(fair_id);
 									}, function() {
 										jQuery('#popup').stop().fadeOut();
 									});
@@ -609,6 +588,31 @@ define([], function() {
 				}
 				return set;
 			}
+
+			$scope.showFairPopup = function(fair_id, left) {
+				console.log("showExpoPopup(" + fair_id);
+				var the_fair = all_fairs[fair_id];
+				if (the_fair) {
+					console.log($scope.currentMousePos);
+					jQuery('#popup').attr('class', 'expo-' + the_fair.type).html(
+						'<p class="name">' + the_fair.name + '</p>' +
+						'<p class="period">Du ' + formatService.formatDate(the_fair.period[0]) +
+						(the_fair.period[1] ? (' Au ' + formatService.formatDate(the_fair.period[1])) : '') + '</p>' +
+						'<p class="period">Organisé par ' + the_fair.organizer + '</p>' +
+						'<p class="place">@' + the_fair.city + ',' + the_fair.country.country.fr + '</p>')
+						.stop()
+						.fadeIn();
+					console.log($scope.currentMousePos.x)
+					jQuery('#popup').css({
+						left: $scope.currentMousePos.x + (-left * 300),
+						top: $scope.currentMousePos.y + (left * 50)
+					})
+					jQuery('#popup').on('mouseout', function() {
+						jQuery(this).stop().fadeOut();
+					});
+				}
+			}
+
 			jQuery('.expandable').on('click', function() {
 				jQuery(this).toggleClass('expandable-close');
 				jQuery(this).parent().find('.js-expandable').slideToggle('slow');
