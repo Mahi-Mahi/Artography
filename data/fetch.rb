@@ -235,19 +235,19 @@ af_artists.shuffle.slice(0,50000).each do |artist|
 
 					expo_detail[:n] = af_expo['Title']
 
-					case af_expo['show-type']
+					case af_expo['type']
 					when "Public Institution"
-						expo_detail[:st] = 'Institution publique'
+						expo_detail[:t] = 'Institution publique'
 				    when "Private Gallery"
-						expo_detail[:st] = 'Galerie privée'
+						expo_detail[:t] = 'Galerie privée'
 				    when "Biennial, Triennial etc."
 				    when "Art Fair"
-						expo_detail[:st] = 'Grande manifestation'
+						expo_detail[:t] = 'Grande manifestation'
 					when
-						expo_detail[:st] = 'Autre'
+						expo_detail[:t] = 'Autre'
 					end
 
-					expo_detail[:t] = af_expo['type']
+					expo_detail[:st] = af_expo['show-type']
 					expo_detail[:ct] = af_expo['city']
 					expo_detail[:o] = af_expo['organizer']
 					expo_detail[:d] = [af_expo['BeginDate'], af_expo['EndDate']]

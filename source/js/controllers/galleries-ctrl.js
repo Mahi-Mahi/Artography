@@ -15,7 +15,8 @@ define([], function() {
 				});
 
 			$scope.goBack = function() {
-				window.history.back();
+				// window.history.back();
+				document.location = '/';
 			};
 
 			var years = dataService.data.years;

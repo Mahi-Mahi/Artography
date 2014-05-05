@@ -24,7 +24,8 @@ define([], function() {
 			});
 
 			$scope.goBack = function() {
-				window.history.back();
+				// window.history.back();
+				document.location = '/';
 			};
 
 			$scope.gallery = dataService.data.galleries[$route.current.params.id];

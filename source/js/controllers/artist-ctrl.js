@@ -7,7 +7,6 @@ define([], function() {
 		function($scope, $location, $route, dataService, formatService) {
 
 			jQuery('body').removeClass('home').removeClass('galerie');
-
 			jQuery(window).off("debouncedresize")
 				.on("debouncedresize", function(event) {
 					$route.reload();
@@ -25,8 +24,9 @@ define([], function() {
 			});
 
 			$scope.goBack = function() {
-				window.history.back();
-			};
+				// window.history.back();
+			document.location = '/';
+		};
 
 			$scope.labels = {
 				genre: {
@@ -75,12 +75,10 @@ define([], function() {
 			// 	counter: 123
 			// }];
 			var expo_colors = {
-				'Biennial-Triennial-etc': '#cccccc',
-				'Temporary-Exhibition-Space': '#cccccc',
-				'Public-Institution': '#00a79d',
-				'Private-Gallery': '#ef4036',
+				'Galerie privée': '#00a79d',
+				'Institution publique': '#ef4036',
 				'Non-profit-organization': '#9e1e62',
-				'Festival': '#8cc63e'
+				'Autre': '#8cc63e'
 			}
 
 			// incremented at each filters change
@@ -420,7 +418,7 @@ define([], function() {
 								} else {
 									new_filledArc = [originX, originY, central_radius, 0 /* layerW */ , a, country.rotation === undefined ? rotation : country.rotation];
 								}
-
+								console.log(expo.showtype);
 								var fill = expo_colors[expo.type];
 								if (expo.showtype == 'Solo') {
 									fill = "url(/arts-visuels/assets/images/stripe-" + (expo.type.replace(/expo-/, '')) + ".png)";
