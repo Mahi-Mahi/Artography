@@ -1,6 +1,10 @@
 {
   "id": "19953",
+<<<<<<< HEAD
   "name": "Le CABINET",
+=======
+  "name": "Galerie Bertrand Baraudou",
+>>>>>>> d5fb6301a1c4351ce7e3a8193dc3ea8d9383e726
   "street": "62, Rue Saint Sabin",
   "zip": "75011",
   "city": "Paris",
@@ -9,12 +13,21 @@
   "directeurs": "",
   "profile": null,
   "tel": "+33 (0)9 53 47 41 62",
+<<<<<<< HEAD
   "email": "blaugier@le-cabinet.com",
   "www": "www.le-cabinet.com/",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075011 %2C%20 %2C%2062, Rue Saint Sabin  %2C%20France",
   "fairs-total": "1",
   "fairs-abroad": "0",
   "fairs-in-FR": "1",
+=======
+  "email": "paris@galeriebaraudou.com",
+  "www": "www.galeriebaraudou.com/",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075011 %2C%20 %2C%2062, Rue Saint Sabin  %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "4",
+>>>>>>> d5fb6301a1c4351ce7e3a8193dc3ea8d9383e726
   "fairs": {
   }
 }
