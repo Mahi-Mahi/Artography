@@ -200,7 +200,6 @@ define([], function() {
 			var updateExpos = function() {
 				$scope.fairs_list = [];
 				angular.forEach($scope.fairs, function(fair_id) {
-					console.log(all_fairs[fair_id]);
 					$scope.fairs_list.push(all_fairs[fair_id]);
 				});
 				$scope.searchExpos();
@@ -593,6 +592,7 @@ define([], function() {
 
 			$scope.showFairPopup = function(fair_id, left) {
 				console.log("showExpoPopup(" + fair_id);
+				console.log(all_fairs);
 				var the_fair = all_fairs[fair_id];
 				if (the_fair) {
 					console.log($scope.currentMousePos);
@@ -604,11 +604,12 @@ define([], function() {
 						'<p class="place">@' + the_fair.city + ',' + the_fair.country.country.fr + '</p>')
 						.stop()
 						.fadeIn();
-					console.log($scope.currentMousePos.x)
+					if (!left)
+						left = 0;
 					jQuery('#popup').css({
 						left: $scope.currentMousePos.x + (-left * 300),
 						top: $scope.currentMousePos.y + (left * 50)
-					})
+					});
 					jQuery('#popup').on('mouseout', function() {
 						jQuery(this).stop().fadeOut();
 					});

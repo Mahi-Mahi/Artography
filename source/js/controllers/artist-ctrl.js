@@ -19,6 +19,7 @@ define([], function() {
 				y: -1
 			};
 			jQuery(document).mousemove(function(event) {
+				// console.log([event.pageX, event.pageY]);
 				$scope.currentMousePos.x = event.pageX;
 				$scope.currentMousePos.y = event.pageY;
 			});
@@ -680,11 +681,13 @@ define([], function() {
 						'<p class="place">@' + the_expo.city + ',' + the_expo.country.country.fr + '</p>')
 						.stop()
 						.fadeIn();
-					console.log($scope.currentMousePos.x)
-					jQuery('#popup').css({
-						left: $scope.currentMousePos.x + (-left * 300),
-						top: $scope.currentMousePos.y + (left * 50)
-					})
+					if (!left)
+						left = 0;
+					var mouse_position = {
+						top: ($scope.currentMousePos.y + (left * 50)) + 'px',
+						left: ($scope.currentMousePos.x + (-left * 300)) + 'px'
+					};
+					jQuery('#popup').css(mouse_position);
 					jQuery('#popup').on('mouseout', function() {
 						jQuery(this).stop().fadeOut();
 					});

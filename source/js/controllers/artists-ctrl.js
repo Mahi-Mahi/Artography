@@ -50,7 +50,7 @@ define([], function() {
 			// default period
 			$scope.filters = {
 				artist: '',
-				period: 2014,
+				period: 2013,
 				genres: ['m', 'f', 'c'],
 				ages: ['0-25', '26-40', '41-60', '61-100']
 			};

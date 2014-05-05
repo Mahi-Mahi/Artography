@@ -120,7 +120,7 @@ af_galleries.shuffle.slice(0,5000).each do |gallery|
 
 				fair = {}
 				fair_detail = {}
-				fair[:i] = gallery['id']
+				fair[:i] = gallery['id'].gsub(/ /, '-')
 				fair_detail[:i] = "#{gallery['id']}-#{af_fair['title']}"
 				begin
 					fair[:c] = c.alpha2
