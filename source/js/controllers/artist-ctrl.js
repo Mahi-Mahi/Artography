@@ -192,7 +192,7 @@ define([], function() {
 				logo_margin = 12,
 				logo_width = central_radius + logo_margin,
 				logo_height = (central_radius * logo_ratio) + logo_margin;
-			raphael.image("http://artography.localhost/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
+			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
 
 			// create continents/countries container
 			var data = {

@@ -237,11 +237,11 @@ define([], function() {
 				// 'stroke-width': 1
 			});
 
-		var logo_ratio = 168 / 288,
-			logo_margin = 12,
-			logo_width = central_radius + logo_margin,
-			logo_height = (central_radius * logo_ratio) + logo_margin;
-		raphael.image("http://artography.localhost/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
+			var logo_ratio = 168 / 288,
+				logo_margin = 12,
+				logo_width = central_radius + logo_margin,
+				logo_height = (central_radius * logo_ratio) + logo_margin;
+			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
 			// var circle_mark_incr = 12;
 			// var circle_mark_angle = 0;
 			// for (circle_mark_angle = 0; circle_mark_angle < 360; circle_mark_angle += circle_mark_incr) {
