@@ -1,0 +1,112 @@
+{
+  "id": "5115",
+  "name": "Marion Meyer Contemporain",
+  "street": "3 rue des Trois Portes",
+  "zip": "75005",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1979",
+  "directeurs": "Eva Meyer Zerbib",
+  "profile": null,
+  "tel": "+33 (0)1 46 33 04 38",
+  "email": "contact@marionmeyercontemporain.com",
+  "www": "www.marionmeyercontemporain.com ",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075005 %2C%20 %2C%203 rue des Trois Portes %2C%20France",
+  "fairs-total": "26",
+  "fairs-abroad": "10",
+  "fairs-in-FR": "16",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5115-Photo London 2006",
+        "c": "GB",
+        "n": "Marion Meyer Contemporain",
+        "ct": "London (England)"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5115-Works on Paper - 2007",
+        "c": "US",
+        "n": "Marion Meyer Contemporain",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "5115-Fine Art Fair Frankfurt 07",
+        "c": "DE",
+        "n": "Marion Meyer Contemporain",
+        "ct": "Frankfurt/Main"
+      },
+      {
+        "i": "5115-artDC 2007",
+        "c": "US",
+        "n": "Marion Meyer Contemporain",
+        "ct": "Washington, DC"
+      },
+      {
+        "i": "5115-ArtParis - AbuDhabi 2007",
+        "c": "AE",
+        "n": "Marion Meyer Contemporain",
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5115-Works on Paper - 2008",
+        "c": "US",
+        "n": "Marion Meyer Contemporain",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "5115-Artparis-Shenzhen",
+        "c": "CN",
+        "n": "Marion Meyer Contemporain",
+        "ct": "Shenzhen"
+      },
+      {
+        "i": "5115-ArtParis - AbuDhabi 2008",
+        "c": "AE",
+        "n": "Marion Meyer Contemporain",
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5115-palmbeach3 - 2009",
+        "c": "US",
+        "n": "Marion Meyer Contemporain",
+        "ct": "West Palm Beach, FL"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5115-Art Cologne 2011",
+        "c": "DE",
+        "n": "Marion Meyer Contemporain",
+        "ct": "Cologne"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5115-Art Brussels 2012",
+        "c": "BE",
+        "n": "Marion Meyer Contemporain",
+        "ct": "Brussels"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5115-Art Brussels 2013",
+        "c": "BE",
+        "n": "Marion Meyer Contemporain",
+        "ct": "Brussels"
+      },
+      {
+        "i": "5115-Artissima 2013",
+        "c": "IT",
+        "n": "Marion Meyer Contemporain",
+        "ct": "Turin"
+      }
+    ]
+  }
+}

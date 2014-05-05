@@ -1,0 +1,58 @@
+{
+  "id": "8763",
+  "name": "Galerie Helene Lamarque - Paris",
+  "street": "37, rue Vaneau",
+  "zip": "75007",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 78 01 91",
+  "email": "hlamarque@wanadoo.fr",
+  "www": "www.galeriehelenelamarque.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%2037, rue Vaneau %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "5",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2006": [
+      {
+        "i": "8763-Contemporary Istanbul Art Fair 2006",
+        "c": "TR",
+        "n": "Galerie Helene Lamarque - Paris",
+        "ct": "Istanbul"
+      }
+    ],
+    "2007": [
+      {
+        "i": "8763-Art Miami 2007",
+        "c": "US",
+        "n": "Galerie Helene Lamarque - Paris",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "8763-Hong Kong International Art Fair 2008",
+        "c": "CN",
+        "n": "Galerie Helene Lamarque - Paris",
+        "ct": "Hong Kong, SAR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "8763-Miami International Art Fair",
+        "c": "US",
+        "n": "Galerie Helene Lamarque - Paris",
+        "ct": "Miami Beach, FL"
+      },
+      {
+        "i": "8763-Art Naples 2011",
+        "c": "US",
+        "n": "Galerie Helene Lamarque - Paris",
+        "ct": "Naples, FL"
+      }
+    ]
+  }
+}

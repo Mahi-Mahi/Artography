@@ -1,0 +1,28 @@
+{
+  "id": "13351",
+  "name": "Galerie Thierry Veaux",
+  "street": "9 Esplanade Robert Vasse",
+  "zip": "84800",
+  "city": "L´Isle-sur-la-Sorgue",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 90 38 55 64",
+  "email": "thierry.veaux@wanadoo.fr",
+  "www": "www.galeriethierryveaux.com",
+  "map": "http://maps.google.com/maps?q=L´Isle-sur-la-Sorgue%2C%2084800 %2C%20 %2C%209 Esplanade Robert Vasse %2C%20France",
+  "fairs-total": "8",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "7",
+  "fairs": {
+    "2007": [
+      {
+        "i": "13351-PURO ARTE VIGO 2007",
+        "c": "ES",
+        "n": "Galerie Thierry Veaux",
+        "ct": "Vigo"
+      }
+    ]
+  }
+}

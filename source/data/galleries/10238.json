@@ -1,0 +1,50 @@
+{
+  "id": "10238",
+  "name": "Galerie Paul Frèches",
+  "street": "12, rue André Barsacq",
+  "zip": "",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)153 09 21 12",
+  "email": "info@paulfreches.com",
+  "www": "www.paulfreches.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%20 %2C%20 %2C%2012, rue André Barsacq %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2006": [
+      {
+        "i": "10238-DFOTO 2006",
+        "c": "ES",
+        "n": "Galerie Paul Frèches",
+        "ct": "San Sebastián"
+      }
+    ],
+    "2007": [
+      {
+        "i": "10238-DFOTO 2007",
+        "c": "ES",
+        "n": "Galerie Paul Frèches",
+        "ct": "San Sebastián"
+      },
+      {
+        "i": "10238-ShContemporary 07",
+        "c": "CN",
+        "n": "Galerie Paul Frèches",
+        "ct": "Shanghai"
+      }
+    ],
+    "2008": [
+      {
+        "i": "10238-ShContemporary 08",
+        "c": "CN",
+        "n": "Galerie Paul Frèches",
+        "ct": "Shanghai"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "5397",
+  "name": "Galerie Delorme",
+  "street": "21 rue de miromesnil",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1985",
+  "directeurs": "Michel et Jacqueline Delorme",
+  "profile": "La Galerie Delorme a été crée en 1985 avec comme dénomination officielle \"Les tableaux de province\"\r\nElle proposait d'offrir aux Parisiens des tableaux des écoles Provençales, Lyonnaises, avec un petit détour par l'école de Rouen.\r\n La galerie a bientôt ajouté à ses favoris les peintres catalans pour s'ouvrir ensuite plus largement sur tous les peintres de l'école de Paris.\r\nAujourd'hui, le critère géographique a quasiment disparu, il n'y a plus qu'une condition :\r\n\"Que ce soit un beau tableau\".\r\nLa galerie Delorme est membre du comité des galeries d'art à Paris.\r\nEt expert auprès de la chambre européenne des experts conseils en oeuvres d'art.",
+  "tel": "+33 (0) 1 42 66 25 20",
+  "email": "delorm@noos.fr",
+  "www": "www.galeriedelorme.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2021 rue de miromesnil %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2010": [
+      {
+        "i": "5397-Shanghai Art Fair - 2010",
+        "c": "CN",
+        "n": "Galerie Delorme",
+        "ct": "Shanghai"
+      },
+      {
+        "i": "5397-ShContemporary 2010",
+        "c": "CN",
+        "n": "Galerie Delorme",
+        "ct": "Shanghai"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "8911",
+  "name": "Galerie Bernard Ceysson - Saint-Etienne",
+  "street": "8 rue des Creuses",
+  "zip": "42100",
+  "city": "Saint-Etienne",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 77 90 44 52",
+  "email": null,
+  "www": "www.bernardceysson.com",
+  "map": "http://maps.google.com/maps?q=Saint-Etienne%2C%2042100 %2C%20 %2C%208 rue des Creuses %2C%20France",
+  "fairs-total": "20",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "16",
+  "fairs": {
+    "2012": [
+      {
+        "i": "8911-Art Brussels 2012",
+        "c": "BE",
+        "n": "Galerie Bernard Ceysson - Saint-Etienne",
+        "ct": "Brussels"
+      },
+      {
+        "i": "8911-The Solo Project 2012",
+        "c": "CH",
+        "n": "Galerie Bernard Ceysson - Saint-Etienne",
+        "ct": "Basel"
+      }
+    ],
+    "2013": [
+      {
+        "i": "8911-Artgenève - Salon international ",
+        "c": "CH",
+        "n": "Galerie Bernard Ceysson - Saint-Etienne",
+        "ct": "Geneva"
+      },
+      {
+        "i": "8911-Art Brussels 2013",
+        "c": "BE",
+        "n": "Galerie Bernard Ceysson - Saint-Etienne",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

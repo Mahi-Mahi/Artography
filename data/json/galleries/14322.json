@@ -1,0 +1,28 @@
+{
+  "id": "14322",
+  "name": "Amandine Lesaffre Contemporary Art",
+  "street": "8, rue Balzac",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)6 70 60 28 26",
+  "email": "artworld@amandine.net",
+  "www": "www.amandinelesaffre.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%208, rue Balzac %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2007": [
+      {
+        "i": "14322-Bridge Art Fair Miami 07",
+        "c": "US",
+        "n": "Amandine Lesaffre Contemporary Art",
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "13240",
+  "name": "Galerie Christian Berst",
+  "street": "24 rue de Charenton",
+  "zip": "75012",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2005",
+  "directeurs": "Christian Berst",
+  "profile": null,
+  "tel": "+33 (0)1 53 33 01 70",
+  "email": "contact@christianberst.com",
+  "www": "www.christianberst.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075012 %2C%20 %2C%2024 rue de Charenton %2C%20France",
+  "fairs-total": "12",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "11",
+  "fairs": {
+    "2007": [
+      {
+        "i": "13240-Art Verona 07",
+        "c": "IT",
+        "n": "Galerie Christian Berst",
+        "ct": "Verona"
+      }
+    ]
+  }
+}

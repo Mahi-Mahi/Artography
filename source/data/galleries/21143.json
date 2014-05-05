@@ -1,0 +1,28 @@
+{
+  "id": "21143",
+  "name": "Galerie Jeanroch Dard",
+  "street": "13 Rue des Arquebusiers",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": null,
+  "email": null,
+  "www": "www.jeanrochdard.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2013 Rue des Arquebusiers %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2013": [
+      {
+        "i": "21143-Art Brussels 2013",
+        "c": "BE",
+        "n": "Galerie Jeanroch Dard",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

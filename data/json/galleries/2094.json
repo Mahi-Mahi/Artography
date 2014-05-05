@@ -1,0 +1,36 @@
+{
+  "id": "2094",
+  "name": "Galerie Patricia Dorfmann",
+  "street": "61, rue de la Verrerie",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1990",
+  "directeurs": "Patricia Dorfmann",
+  "profile": "Depuis sa création en 1990, la galerie propose un programme axé sur la création contemporaine internationale et s´est attachée particulièrement à montrer le travail, de jeunes artistes ou d´artistes étrangers, inédit en France,représentatif des derniers états de la recherche dans le domaine des arts plastiques et visuels.\r\n\r\nLa galerie offre un espace propice à des manifestations et à des événements artistiques variés. Dès sa création elle inaugure une politique d´ouverture sur des manifestations à caractère pluridisciplinaire et cherche ainsi à créer un lieu simplement alternatif. (cinéma, danse, mode).",
+  "tel": "+33-(0)1 42 77 55 41",
+  "email": "galeriepatriciadorfmann@noos.fr",
+  "www": "www.patriciadorfmann.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%2061, rue de la Verrerie %2C%20France",
+  "fairs-total": "16",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "14",
+  "fairs": {
+    "2008": [
+      {
+        "i": "2094-ShContemporary 08",
+        "c": "CN",
+        "n": "Galerie Patricia Dorfmann",
+        "ct": "Shanghai"
+      }
+    ],
+    "2009": [
+      {
+        "i": "2094-VOLTAshow05",
+        "c": "CH",
+        "n": "Galerie Patricia Dorfmann",
+        "ct": "Basel"
+      }
+    ]
+  }
+}

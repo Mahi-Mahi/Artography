@@ -1,0 +1,44 @@
+{
+  "id": "18448",
+  "name": "Galerie Chantal Bamberger",
+  "street": "16 rue du 22 Novembre",
+  "zip": "67000",
+  "city": "Strasbourg",
+  "country": "France",
+  "foundation": "2005",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)6.10.26.12.52",
+  "email": "contact@galerie-bamberger.com",
+  "www": "www.galerie-bamberger.com",
+  "map": "http://maps.google.com/maps?q=Strasbourg%2C%2067000 %2C%20 %2C%2016 rue du 22 Novembre %2C%20France",
+  "fairs-total": "8",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2011": [
+      {
+        "i": "18448-art KARLSRUHE 2011",
+        "c": "DE",
+        "n": "Galerie Chantal Bamberger",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2012": [
+      {
+        "i": "18448-Art Karlsruhe 2012",
+        "c": "DE",
+        "n": "Galerie Chantal Bamberger",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2013": [
+      {
+        "i": "18448-Art Karlsruhe 2013",
+        "c": "DE",
+        "n": "Galerie Chantal Bamberger",
+        "ct": "Karlsruhe"
+      }
+    ]
+  }
+}

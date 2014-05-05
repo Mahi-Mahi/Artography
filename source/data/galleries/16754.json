@@ -1,0 +1,28 @@
+{
+  "id": "16754",
+  "name": "Galerie Polad-Hardouin",
+  "street": "86 rue Quincampoix",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 71 05 29 ",
+  "email": "contact@polad-hardouin.com",
+  "www": "www.polad-hardouin.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2086 rue Quincampoix %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "9",
+  "fairs": {
+    "2008": [
+      {
+        "i": "16754-Scope London 2008",
+        "c": "GB",
+        "n": "Galerie Polad-Hardouin",
+        "ct": "London (England)"
+      }
+    ]
+  }
+}

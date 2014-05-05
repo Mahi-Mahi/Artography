@@ -1,0 +1,34 @@
+{
+  "id": "27911",
+  "name": "Galerie Rauchfeld",
+  "street": "22 rue de Seine",
+  "zip": "",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2012",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 43 54 66 75",
+  "email": null,
+  "www": "www.galerierauchfeld.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%20 %2C%20 %2C%2022 rue de Seine %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2013": [
+      {
+        "i": "27911-Art Palm Beach 2013",
+        "c": "US",
+        "n": "Galerie Rauchfeld",
+        "ct": "West Palm Beach, FL"
+      },
+      {
+        "i": "27911-Red Dot Miami 2013",
+        "c": "US",
+        "n": "Galerie Rauchfeld",
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

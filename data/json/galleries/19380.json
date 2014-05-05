@@ -1,0 +1,52 @@
+{
+  "id": "19380",
+  "name": "Galerie L´Arc en Seine",
+  "street": "27-31-33 rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1984",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1.43.29.11.02 ",
+  "email": "arc-en-seine.galerie@wanadoo.fr",
+  "www": "www.arcenseine.com  ",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2027-31-33 rue de Seine %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19380-TEFAF Maastricht 2009",
+        "c": "NL",
+        "n": "Galerie L´Arc en Seine",
+        "ct": "Maastricht"
+      }
+    ],
+    "2010": [
+      {
+        "i": "19380-TEFAF Maastricht 2010",
+        "c": "NL",
+        "n": "Galerie L´Arc en Seine",
+        "ct": "Maastricht"
+      }
+    ],
+    "2011": [
+      {
+        "i": "19380-TEFAF Maastricht 2011",
+        "c": "NL",
+        "n": "Galerie L´Arc en Seine",
+        "ct": "Helvoirt"
+      }
+    ],
+    "2012": [
+      {
+        "i": "19380-TEFAF Maastricht 2012",
+        "c": "NL",
+        "n": "Galerie L´Arc en Seine",
+        "ct": "Helvoirt"
+      }
+    ]
+  }
+}

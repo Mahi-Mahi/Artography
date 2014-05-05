@@ -1,0 +1,94 @@
+{
+  "id": "2024",
+  "name": "Galerie Aline Vidal",
+  "street": "70, rue Bonaparte",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Aline Vidal",
+  "profile": "La galerie est spécialisée dans l´art contemporain émergent ou confirmé sur la scène internationale. Elle montre des artistes qui utilisent la peinture, la sculpture, le dessin, les installations, la photographie, la vidéo et le son. Chacun d´eux construit selon son langage propre un travail qui coïncide avec les préoccupations de notre époque.\r\n\r\nResponsabilité face aux bouleversements écologiques, mise en lumière de l´évolution de notre société, du paysage urbain, fragilité de la personne humaine, regard sur les glissements du temps. La galerie propose 6 expositions par an et développe une politique d´édition et de diffusion des oeuvres auprès des institutions.",
+  "tel": "+33-(0)1 43 26 08 68",
+  "email": "gal.alinevidal@wanadoo.fr",
+  "www": "www.alinevidal.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2070, rue Bonaparte %2C%20France",
+  "fairs-total": "22",
+  "fairs-abroad": "10",
+  "fairs-in-FR": "12",
+  "fairs": {
+    "2005": [
+      {
+        "i": "2024-Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie Aline Vidal",
+        "ct": "Brussels"
+      }
+    ],
+    "2006": [
+      {
+        "i": "2024-Art Brussels 2006- 24th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie Aline Vidal",
+        "ct": "Brussels"
+      },
+      {
+        "i": "2024-PURO ARTE VIGO 2006",
+        "c": "ES",
+        "n": "Galerie Aline Vidal",
+        "ct": "Vigo"
+      }
+    ],
+    "2007": [
+      {
+        "i": "2024-Art Brussels 2007- 25th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie Aline Vidal",
+        "ct": "Brussels"
+      },
+      {
+        "i": "2024-Loop - The Video Art Fair 07",
+        "c": "ES",
+        "n": "Galerie Aline Vidal",
+        "ct": "Barcelona"
+      }
+    ],
+    "2008": [
+      {
+        "i": "2024-Art Brussels 2008- 26th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie Aline Vidal",
+        "ct": "Brussels"
+      },
+      {
+        "i": "2024-Loop - The Video Art Fair 08",
+        "c": "ES",
+        "n": "Galerie Aline Vidal",
+        "ct": "Barcelona"
+      }
+    ],
+    "2009": [
+      {
+        "i": "2024-Art 40 Basel",
+        "c": "CH",
+        "n": "Galerie Aline Vidal",
+        "ct": "Basel"
+      }
+    ],
+    "2011": [
+      {
+        "i": "2024-Marrakech Art Fair",
+        "c": "MA",
+        "n": "Galerie Aline Vidal",
+        "ct": "Casablanca"
+      }
+    ],
+    "2012": [
+      {
+        "i": "2024-Art Brussels 2012",
+        "c": "BE",
+        "n": "Galerie Aline Vidal",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

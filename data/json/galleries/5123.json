@@ -1,0 +1,36 @@
+{
+  "id": "5123",
+  "name": "Galerie Protée",
+  "street": "38 rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Laurence Izern - Jacques Pulvermacher",
+  "profile": null,
+  "tel": "+33 (0)1 43252195",
+  "email": "galerie.protee@wanadoo.fr",
+  "www": "www.galerieprotee.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2038 rue de Seine %2C%20France",
+  "fairs-total": "12",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "12",
+  "fairs": {
+    "2007": [
+      {
+        "i": "5123-ArtParis - AbuDhabi 2007",
+        "c": "AE",
+        "n": "Galerie Protée",
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5123-ArtParis - AbuDhabi 2008",
+        "c": "AE",
+        "n": "Galerie Protée",
+        "ct": "Abu Dhabi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "14495",
+  "name": "Galerie Gimpel & Müller",
+  "street": "12 rue Guénégaud",
+  "zip": "FR-75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2006",
+  "directeurs": "Berthold Müller",
+  "profile": null,
+  "tel": "+33 1 43 25 33 80",
+  "email": "info@gimpel-muller.com",
+  "www": "www.gimpel-muller.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%20FR-75006 %2C%20 %2C%2012 rue Guénégaud %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "6",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2009": [
+      {
+        "i": "14495-art KARLSRUHE 2009",
+        "c": "DE",
+        "n": "Galerie Gimpel & Müller",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2010": [
+      {
+        "i": "14495-art KARLSRUHE 2010",
+        "c": "DE",
+        "n": "Galerie Gimpel & Müller",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2011": [
+      {
+        "i": "14495-art KARLSRUHE 2011",
+        "c": "DE",
+        "n": "Galerie Gimpel & Müller",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2012": [
+      {
+        "i": "14495-Art Karlsruhe 2012",
+        "c": "DE",
+        "n": "Galerie Gimpel & Müller",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2013": [
+      {
+        "i": "14495-Art Karlsruhe 2013",
+        "c": "DE",
+        "n": "Galerie Gimpel & Müller",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "14495-Art Bodensee 2013",
+        "c": "AT",
+        "n": "Galerie Gimpel & Müller",
+        "ct": "Dornbirn"
+      }
+    ]
+  }
+}

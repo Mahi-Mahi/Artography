@@ -1,0 +1,102 @@
+{
+  "id": "23511",
+  "name": "New Galerie",
+  "street": "2 rue Borda",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2008",
+  "directeurs": "Marion Dana",
+  "profile": null,
+  "tel": "+ 33 (0)1 42 74 50 75",
+  "email": "info@newgalerie.com",
+  "www": "www.newgalerie.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%202 rue Borda %2C%20France",
+  "fairs-total": "20",
+  "fairs-abroad": "12",
+  "fairs-in-FR": "8",
+  "fairs": {
+    "2009": [
+      {
+        "i": "23511-Artissima 16",
+        "c": "IT",
+        "n": "New Galerie",
+        "ct": "Turin"
+      }
+    ],
+    "2010": [
+      {
+        "i": "23511-Independent",
+        "c": "US",
+        "n": "New Galerie",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "23511-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "c": "BE",
+        "n": "New Galerie",
+        "ct": "Brussels"
+      }
+    ],
+    "2011": [
+      {
+        "i": "23511-Sunday London 2011",
+        "c": "GB",
+        "n": "New Galerie",
+        "ct": "London (England)"
+      }
+    ],
+    "2012": [
+      {
+        "i": "23511-Art Los Angeles Contemporary 2012",
+        "c": "US",
+        "n": "New Galerie",
+        "ct": "Los Angeles, CA"
+      },
+      {
+        "i": "23511-The Nada Art Fair New York 2012",
+        "c": "US",
+        "n": "New Galerie",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "23511-The NADA Art Fair Miami 2012",
+        "c": "US",
+        "n": "New Galerie",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "23511-Art Los Angeles Contemporary 2013",
+        "c": "US",
+        "n": "New Galerie",
+        "ct": "Los Angeles, CA"
+      },
+      {
+        "i": "23511-ARCOmadrid 2013",
+        "c": "ES",
+        "n": "New Galerie",
+        "ct": "Madrid"
+      },
+      {
+        "i": "23511-Dallas Art Fair 2013",
+        "c": "US",
+        "n": "New Galerie",
+        "ct": "Dallas, TX"
+      },
+      {
+        "i": "23511-Nada Nyc 2013",
+        "c": "US",
+        "n": "New Galerie",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "23511-abc art berlin contemporary 2013",
+        "c": "DE",
+        "n": "New Galerie",
+        "ct": "Berlin"
+      }
+    ]
+  }
+}

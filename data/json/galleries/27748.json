@@ -1,0 +1,28 @@
+{
+  "id": "27748",
+  "name": "Bogena Galerie",
+  "street": "24 rue Grande",
+  "zip": "06570",
+  "city": "Saint-Paul de Vence",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": null,
+  "email": "bogena@bogena-galerie.com",
+  "www": "www.bogena-galerie.com",
+  "map": "http://maps.google.com/maps?q=Saint-Paul de Vence%2C%2006570 %2C%20 %2C%2024 rue Grande %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2013": [
+      {
+        "i": "27748-Art Stage Singapore 2013",
+        "c": "SG",
+        "n": "Bogena Galerie",
+        "ct": "Singapore"
+      }
+    ]
+  }
+}

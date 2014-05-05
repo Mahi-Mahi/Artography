@@ -1,0 +1,28 @@
+{
+  "id": "28253",
+  "name": "Le Douze Galerie",
+  "street": "2 rue Traversiere",
+  "zip": "56410",
+  "city": "Etel",
+  "country": "France",
+  "foundation": "2010",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)6 80 13 39 68",
+  "email": "p.tessier@ledouze-galerie.com",
+  "www": "www.ledouze-galerie.com",
+  "map": "http://maps.google.com/maps?q=Etel%2C%2056410 %2C%20 %2C%202 rue Traversiere %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2013": [
+      {
+        "i": "28253-Beirut Art Fair 2013",
+        "c": "LB",
+        "n": "Le Douze Galerie",
+        "ct": "Beirut"
+      }
+    ]
+  }
+}

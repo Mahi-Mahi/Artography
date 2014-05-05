@@ -1,0 +1,28 @@
+{
+  "id": "23254",
+  "name": "Pierre Passebon",
+  "street": "20 - 26 galerie Véro-Dodat",
+  "zip": "75001",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 1 42 36 01 13",
+  "email": "mail@galeriedupassage.com",
+  "www": "www.galeriedupassage.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075001 %2C%20 %2C%2020 - 26 galerie Véro-Dodat %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2010": [
+      {
+        "i": "23254-Pavilion of Art & Design 2010",
+        "c": "GB",
+        "n": "Pierre Passebon",
+        "ct": "London (England)"
+      }
+    ]
+  }
+}

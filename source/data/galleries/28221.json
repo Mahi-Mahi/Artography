@@ -1,0 +1,40 @@
+{
+  "id": "28221",
+  "name": "Galerie Younique",
+  "street": "63-65 rue Pascal",
+  "zip": "75013",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2005",
+  "directeurs": "Mathias Bloch",
+  "profile": null,
+  "tel": "+33 (0)1 45 87 94 29",
+  "email": null,
+  "www": "www.galerieyounique.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075013 %2C%20 %2C%2063-65 rue Pascal %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2013": [
+      {
+        "i": "28221-Scope Basel 2013",
+        "c": "CH",
+        "n": "Galerie Younique",
+        "ct": "Basel"
+      },
+      {
+        "i": "28221-Kunst Zürich 2013",
+        "c": "CH",
+        "n": "Galerie Younique",
+        "ct": "Zurich"
+      },
+      {
+        "i": "28221-Art Gent 2013",
+        "c": "BE",
+        "n": "Galerie Younique",
+        "ct": "Ghent"
+      }
+    ]
+  }
+}

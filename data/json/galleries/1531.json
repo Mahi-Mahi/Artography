@@ -1,0 +1,224 @@
+{
+  "id": "1531",
+  "name": "Galerie 1900-2000",
+  "street": "8, rue Bonaparte",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1972",
+  "directeurs": "Marcel Fleiss, David Fleiss",
+  "profile": null,
+  "tel": "+33-(0)1-43 25 84 20",
+  "email": "info@galerie1900-2000.com",
+  "www": "www.galerie1900-2000.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%208, rue Bonaparte %2C%20France",
+  "fairs-total": "49",
+  "fairs-abroad": "30",
+  "fairs-in-FR": "19",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1531-Arte Fiera 2005",
+        "c": "IT",
+        "n": "Galerie 1900-2000",
+        "ct": "Bologna"
+      },
+      {
+        "i": "1531-ARCO 05",
+        "c": "ES",
+        "n": "Galerie 1900-2000",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1531-Art 36 Basel",
+        "c": "CH",
+        "n": "Galerie 1900-2000",
+        "ct": "Basel"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1531-ARCO 06",
+        "c": "ES",
+        "n": "Galerie 1900-2000",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1531-MiArt 2006 - 11th international modern and contemporary art fair",
+        "c": "IT",
+        "n": "Galerie 1900-2000",
+        "ct": "Milan"
+      },
+      {
+        "i": "1531-Art 37 Basel",
+        "c": "CH",
+        "n": "Galerie 1900-2000",
+        "ct": "Basel"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1531-ARCO 07",
+        "c": "ES",
+        "n": "Galerie 1900-2000",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1531-Art 38 Basel",
+        "c": "CH",
+        "n": "Galerie 1900-2000",
+        "ct": "Basel"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1531-ARCO 08",
+        "c": "ES",
+        "n": "Galerie 1900-2000",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1531-Art Brussels 2008- 26th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie 1900-2000",
+        "ct": "Brussels"
+      },
+      {
+        "i": "1531-Art 39 Basel",
+        "c": "CH",
+        "n": "Galerie 1900-2000",
+        "ct": "Basel"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1531-ARCO 09",
+        "c": "ES",
+        "n": "Galerie 1900-2000",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1531-Art Brussels 2009 - 27th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie 1900-2000",
+        "ct": "Brussels"
+      },
+      {
+        "i": "1531-Art 40 Basel",
+        "c": "CH",
+        "n": "Galerie 1900-2000",
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1531-ARCOmadrid  2010",
+        "c": "ES",
+        "n": "Galerie 1900-2000",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1531-TEFAF Maastricht 2010",
+        "c": "NL",
+        "n": "Galerie 1900-2000",
+        "ct": "Maastricht"
+      },
+      {
+        "i": "1531-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie 1900-2000",
+        "ct": "Brussels"
+      },
+      {
+        "i": "1531-Art 41 Basel",
+        "c": "CH",
+        "n": "Galerie 1900-2000",
+        "ct": "Basel"
+      },
+      {
+        "i": "1531-Art Basel Miami Beach 2010",
+        "c": "US",
+        "n": "Galerie 1900-2000",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1531-Art Brussels 2011",
+        "c": "BE",
+        "n": "Galerie 1900-2000",
+        "ct": "Brussels"
+      },
+      {
+        "i": "1531-Art 42 Basel",
+        "c": "CH",
+        "n": "Galerie 1900-2000",
+        "ct": "Basel"
+      },
+      {
+        "i": "1531-Art Basel Miami Beach 2011",
+        "c": "US",
+        "n": "Galerie 1900-2000",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1531-Arte Fiera - BolognaFiere 2012",
+        "c": "IT",
+        "n": "Galerie 1900-2000",
+        "ct": "Bologna"
+      },
+      {
+        "i": "1531-Art Brussels 2012",
+        "c": "BE",
+        "n": "Galerie 1900-2000",
+        "ct": "Brussels"
+      },
+      {
+        "i": "1531-Art 43 Basel",
+        "c": "CH",
+        "n": "Galerie 1900-2000",
+        "ct": "Basel"
+      },
+      {
+        "i": "1531-Frieze Masters 2012",
+        "c": "GB",
+        "n": "Galerie 1900-2000",
+        "ct": "London (England)"
+      },
+      {
+        "i": "1531-Art Basel Miami Beach 2012",
+        "c": "US",
+        "n": "Galerie 1900-2000",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1531-Paris Photo Los Angeles 2013",
+        "c": "US",
+        "n": "Galerie 1900-2000",
+        "ct": "Los Angeles, CA"
+      },
+      {
+        "i": "1531-Art Basel 2013",
+        "c": "CH",
+        "n": "Galerie 1900-2000",
+        "ct": "Basel"
+      },
+      {
+        "i": "1531-Frieze Masters 2013",
+        "c": "GB",
+        "n": "Galerie 1900-2000",
+        "ct": "London (England)"
+      },
+      {
+        "i": "1531-Art Basel Miami Beach 2013",
+        "c": "US",
+        "n": "Galerie 1900-2000",
+        "ct": "Miami Beach, FL"
+      }
+    ]
+  }
+}

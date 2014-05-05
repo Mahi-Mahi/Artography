@@ -1,0 +1,36 @@
+{
+  "id": "21700",
+  "name": "Galerie Ferrero",
+  "street": "2 et 6 rue du Congrès",
+  "zip": "06000",
+  "city": "Nice",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+ 33 4 93 88 34 44",
+  "email": "contact@galerieferrero.com",
+  "www": "www.galerieferrero.com",
+  "map": "http://maps.google.com/maps?q=Nice%2C%2006000 %2C%20 %2C%202 et 6 rue du Congrès %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2010": [
+      {
+        "i": "21700-Artmonaco 2010",
+        "c": "MC",
+        "n": "Galerie Ferrero",
+        "ct": "Monaco"
+      }
+    ],
+    "2012": [
+      {
+        "i": "21700-ArtePadova 2012",
+        "c": "IT",
+        "n": "Galerie Ferrero",
+        "ct": "Padova"
+      }
+    ]
+  }
+}

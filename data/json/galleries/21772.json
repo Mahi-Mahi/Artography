@@ -1,0 +1,40 @@
+{
+  "id": "21772",
+  "name": "Galerie Zeitgeist",
+  "street": "4 bis rue du Chevalier de la Barre",
+  "zip": "75018",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)6.64.18.85.22",
+  "email": "contact@galeriezeitgeist.com",
+  "www": "galeriezeitgeist.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075018 %2C%20 %2C%204 bis rue du Chevalier de la Barre %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2010": [
+      {
+        "i": "21772-Fountain NY 2010",
+        "c": "US",
+        "n": "Galerie Zeitgeist",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "21772-Scope Basel 2010",
+        "c": "US",
+        "n": "Galerie Zeitgeist",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "21772-Lineart 2010",
+        "c": "BE",
+        "n": "Galerie Zeitgeist",
+        "ct": "Ghent"
+      }
+    ]
+  }
+}

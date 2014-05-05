@@ -1,0 +1,44 @@
+{
+  "id": "1352",
+  "name": "Galerie Lisette Alibert",
+  "street": "26, Place des Vosges",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": "In  the Gallery located \"Place des Vosges\" in Paris Lisette and Pierre Alibert show in exclusivity a team of young contemporary artists.\r\nTheir works are in keeping with a common and coherent style which is the \"contemporary primitivism\".",
+  "tel": "+33-(0)1-48 87 45 50",
+  "email": "aliberlis@easynet.fr",
+  "www": "www.lisettealibert.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2026, Place des Vosges %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1352-Art Miami 2005",
+        "c": "US",
+        "n": "Galerie Lisette Alibert",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1352-Art Miami 2006",
+        "c": "US",
+        "n": "Galerie Lisette Alibert",
+        "ct": "Tucson, AZ"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1352-Miami International Art Fair",
+        "c": "US",
+        "n": "Galerie Lisette Alibert",
+        "ct": "Miami Beach, FL"
+      }
+    ]
+  }
+}

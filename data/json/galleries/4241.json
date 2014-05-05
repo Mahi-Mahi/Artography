@@ -1,0 +1,88 @@
+{
+  "id": "4241",
+  "name": "Galerie Kandler",
+  "street": "14 Rue Bayard",
+  "zip": "31000",
+  "city": "Toulouse",
+  "country": "France",
+  "foundation": "1993",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 5 61 63 85 11",
+  "email": "contact@galeriekandler.com",
+  "www": "www.galeriekandler.com",
+  "map": "http://maps.google.com/maps?q=Toulouse%2C%2031000 %2C%2014 %2C%20Rue Bayard %2C%20France",
+  "fairs-total": "20",
+  "fairs-abroad": "9",
+  "fairs-in-FR": "11",
+  "fairs": {
+    "2005": [
+      {
+        "i": "4241-art.fair 2005",
+        "c": "DE",
+        "n": "Galerie Kandler",
+        "ct": "Cologne"
+      }
+    ],
+    "2006": [
+      {
+        "i": "4241-KIAF 2006",
+        "c": "KR",
+        "n": "Galerie Kandler",
+        "ct": "Seoul"
+      }
+    ],
+    "2007": [
+      {
+        "i": "4241-art KARLSRUHE 2007",
+        "c": "DE",
+        "n": "Galerie Kandler",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "4241-KIAF 2007",
+        "c": "KR",
+        "n": "Galerie Kandler",
+        "ct": "Seoul"
+      }
+    ],
+    "2008": [
+      {
+        "i": "4241-art KARLSRUHE 2008",
+        "c": "DE",
+        "n": "Galerie Kandler",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "4241-KIAF 2008",
+        "c": "KR",
+        "n": "Galerie Kandler",
+        "ct": "Seoul"
+      }
+    ],
+    "2009": [
+      {
+        "i": "4241-art KARLSRUHE 2009",
+        "c": "DE",
+        "n": "Galerie Kandler",
+        "ct": "Karlsruhe"
+      }
+    ],
+    "2010": [
+      {
+        "i": "4241-ART on PAPER",
+        "c": "BE",
+        "n": "Galerie Kandler",
+        "ct": "Brussels"
+      }
+    ],
+    "2012": [
+      {
+        "i": "4241-Art On Paper 2012",
+        "c": "BE",
+        "n": "Galerie Kandler",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

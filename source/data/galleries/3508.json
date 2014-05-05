@@ -1,0 +1,116 @@
+{
+  "id": "3508",
+  "name": "Galerie Catherine Putman",
+  "street": "40,rue Quincampoix",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Catherine Putman",
+  "profile": null,
+  "tel": "+33(0)1 45 55 23 06",
+  "email": "contact@catherineputman.com",
+  "www": "www.catherineputman.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%2040,rue Quincampoix %2C%20France",
+  "fairs-total": "24",
+  "fairs-abroad": "13",
+  "fairs-in-FR": "11",
+  "fairs": {
+    "2005": [
+      {
+        "i": "3508-ARCO 05",
+        "c": "ES",
+        "n": "Galerie Catherine Putman",
+        "ct": "Madrid"
+      },
+      {
+        "i": "3508-Art 36 Basel",
+        "c": "CH",
+        "n": "Galerie Catherine Putman",
+        "ct": "Basel"
+      }
+    ],
+    "2006": [
+      {
+        "i": "3508-ARCO 06",
+        "c": "ES",
+        "n": "Galerie Catherine Putman",
+        "ct": "Madrid"
+      },
+      {
+        "i": "3508-Art 37 Basel",
+        "c": "CH",
+        "n": "Galerie Catherine Putman",
+        "ct": "Basel"
+      }
+    ],
+    "2007": [
+      {
+        "i": "3508-ARCO 07",
+        "c": "ES",
+        "n": "Galerie Catherine Putman",
+        "ct": "Madrid"
+      },
+      {
+        "i": "3508-Art 38 Basel",
+        "c": "CH",
+        "n": "Galerie Catherine Putman",
+        "ct": "Basel"
+      }
+    ],
+    "2008": [
+      {
+        "i": "3508-ARCO 08",
+        "c": "ES",
+        "n": "Galerie Catherine Putman",
+        "ct": "Madrid"
+      },
+      {
+        "i": "3508-Art 39 Basel",
+        "c": "CH",
+        "n": "Galerie Catherine Putman",
+        "ct": "Basel"
+      }
+    ],
+    "2009": [
+      {
+        "i": "3508-ARCO 09",
+        "c": "ES",
+        "n": "Galerie Catherine Putman",
+        "ct": "Madrid"
+      }
+    ],
+    "2010": [
+      {
+        "i": "3508-ARCOmadrid  2010",
+        "c": "ES",
+        "n": "Galerie Catherine Putman",
+        "ct": "Madrid"
+      }
+    ],
+    "2011": [
+      {
+        "i": "3508-ARCOmadrid  2011",
+        "c": "ES",
+        "n": "Galerie Catherine Putman",
+        "ct": "Madrid"
+      }
+    ],
+    "2012": [
+      {
+        "i": "3508-ARCOmadrid 2012",
+        "c": "ES",
+        "n": "Galerie Catherine Putman",
+        "ct": "Madrid"
+      }
+    ],
+    "2013": [
+      {
+        "i": "3508-ARCOmadrid 2013",
+        "c": "ES",
+        "n": "Galerie Catherine Putman",
+        "ct": "Madrid"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "19161",
+  "name": "Galerie Art City",
+  "street": "15bis rue Leconte de Lisle",
+  "zip": "75016",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 88 54 32",
+  "email": "contact@galerieartcity.com",
+  "www": "www.galerieartcity.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075016 %2C%20 %2C%2015bis rue Leconte de Lisle %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19161-Affordable Art Fair Bruxelles 09",
+        "c": "BE",
+        "n": "Galerie Art City",
+        "ct": "Brussels"
+      }
+    ],
+    "2010": [
+      {
+        "i": "19161-Affordable Art Fair Bruxelles 2010",
+        "c": "BE",
+        "n": "Galerie Art City",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

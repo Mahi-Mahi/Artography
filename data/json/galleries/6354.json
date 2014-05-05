@@ -1,0 +1,74 @@
+{
+  "id": "6354",
+  "name": "Galerie VU",
+  "street": "Saint-Lazare Rue 58",
+  "zip": "75009",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1998",
+  "directeurs": "Christian Caujolle & Eric Larrouil",
+  "profile": null,
+  "tel": "+33 (0)1 53 01 85 81, +33 (0)1 53 01 85 80",
+  "email": "gilou@abvent.fr",
+  "www": "www.galerie-vu.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075009 %2C%20 %2C%20Saint-Lazare Rue 58 %2C%20France",
+  "fairs-total": "18",
+  "fairs-abroad": "7",
+  "fairs-in-FR": "11",
+  "fairs": {
+    "2006": [
+      {
+        "i": "6354-DFOTO 2006",
+        "c": "ES",
+        "n": "Galerie VU",
+        "ct": "San Sebastián"
+      }
+    ],
+    "2007": [
+      {
+        "i": "6354-DFOTO 2007",
+        "c": "ES",
+        "n": "Galerie VU",
+        "ct": "San Sebastián"
+      }
+    ],
+    "2009": [
+      {
+        "i": "6354-Madridfoto 09",
+        "c": "ES",
+        "n": "Galerie VU",
+        "ct": "Madrid"
+      }
+    ],
+    "2010": [
+      {
+        "i": "6354-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Galerie VU",
+        "ct": "Brussels"
+      },
+      {
+        "i": "6354-Madridfoto 2010",
+        "c": "ES",
+        "n": "Galerie VU",
+        "ct": "Madrid"
+      }
+    ],
+    "2011": [
+      {
+        "i": "6354-Madridfoto 2011",
+        "c": "ES",
+        "n": "Galerie VU",
+        "ct": "Madrid"
+      }
+    ],
+    "2012": [
+      {
+        "i": "6354-Unseen Photo Fair 2012",
+        "c": "NL",
+        "n": "Galerie VU",
+        "ct": "Amsterdam"
+      }
+    ]
+  }
+}

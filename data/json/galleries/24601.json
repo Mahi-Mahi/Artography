@@ -1,0 +1,28 @@
+{
+  "id": "24601",
+  "name": "Galerie Vieceli ",
+  "street": "142, rue d'Antibes",
+  "zip": "06400",
+  "city": "Cannes",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "04 93 45 86 41",
+  "email": "contact@galerievieceli.com",
+  "www": "www.galerievieceli.com",
+  "map": "http://maps.google.com/maps?q=Cannes%2C%2006400 %2C%20 %2C%20142, rue d'Antibes %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2011": [
+      {
+        "i": "24601-Artmonaco 2011",
+        "c": "MC",
+        "n": "Galerie Vieceli ",
+        "ct": "Monaco"
+      }
+    ]
+  }
+}
