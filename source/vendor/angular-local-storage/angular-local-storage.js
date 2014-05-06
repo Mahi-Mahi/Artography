@@ -96,7 +96,7 @@ angularLocalStorage.provider('localStorageService', function() {
           webStorage.removeItem(key);
         }
 
-        return true;
+        return supported;
       } catch (e) {
         storageType = 'cookie';
         $rootScope.$broadcast('LocalStorageModule.notification.error', e.message);
@@ -215,10 +215,10 @@ angularLocalStorage.provider('localStorageService', function() {
     // Should be used mostly for development purposes
     var clearAllFromLocalStorage = function (regularExpression) {
 
-      var regularExpression = regularExpression || "";
+      regularExpression = regularExpression || "";
       //accounting for the '.' in the prefix when creating a regex
-      var tempPrefix = prefix.slice(0, -1) + "\.";
-      var testRegex = RegExp(tempPrefix + regularExpression);
+      var tempPrefix = prefix.slice(0, -1);
+      var testRegex = new RegExp(tempPrefix + '.' + regularExpression);
 
       if (!browserSupportsLocalStorage) {
         $rootScope.$broadcast('LocalStorageModule.notification.warning', 'LOCAL_STORAGE_NOT_SUPPORTED');
@@ -340,6 +340,22 @@ angularLocalStorage.provider('localStorageService', function() {
       return storageType;
     };
 
+    var bindToScope = function(scope, key, def) {
+      var value = getFromLocalStorage(key);
+
+      if (value === null && angular.isDefined(def)) {
+        value = def;
+      } else if (angular.isObject(value) && angular.isObject(def)) {
+        value = angular.extend(def, value);
+      }
+
+      scope[key] = value;
+
+      scope.$watchCollection(key, function(newVal) {
+        addToLocalStorage(key, newVal);
+      });
+    };
+
     return {
       isSupported: browserSupportsLocalStorage,
       getStorageType: getStorageType,
@@ -349,6 +365,7 @@ angularLocalStorage.provider('localStorageService', function() {
       keys: getKeysForLocalStorage,
       remove: removeFromLocalStorage,
       clearAll: clearAllFromLocalStorage,
+      bind: bindToScope,
       cookie: {
         set: addToCookies,
         add: addToCookies, //DEPRECATED
@@ -357,7 +374,7 @@ angularLocalStorage.provider('localStorageService', function() {
         clearAll: clearAllFromCookies
       }
     };
-  }]
+  }];
 });
 }).call(this);
 

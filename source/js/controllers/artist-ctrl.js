@@ -183,15 +183,11 @@ define([], function() {
 				fadeOut_delay = 200,
 				fadeIn_delay = 200;
 
-			// raphael.circle(originX, originY, central_radius - 5).attr({
-			// 	'stroke': '#333',
-			// 	'stroke-width': 1
-			// });
 			var logo_ratio = 168 / 288,
 				logo_margin = 22,
 				logo_width = central_radius + logo_margin,
 				logo_height = (central_radius * logo_ratio) + logo_margin;
-			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
+			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height).toBack();
 
 			// create continents/countries container
 			var data = {
@@ -421,6 +417,7 @@ define([], function() {
 									new_filledArc = [originX, originY, central_radius, 0 /* layerW */ , a, country.rotation === undefined ? rotation : country.rotation];
 								}
 								var fill = expo_colors[expo.type];
+								console.log([expo.type, expo.showtype]);
 								if (expo.showtype == 'Solo') {
 									fill = "url(/arts-visuels/assets/images/stripe-" + (expo.type.replace(/expo-/, '')) + ".png)";
 									console.log(fill);
