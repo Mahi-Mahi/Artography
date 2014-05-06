@@ -183,13 +183,12 @@ define([], function() {
 				fadeOut_delay = 200,
 				fadeIn_delay = 200;
 
-			raphael.circle(originX, originY, central_radius - 5).attr({
-				'stroke': '#333',
-				'stroke-width': 1
-			});
-
+			// raphael.circle(originX, originY, central_radius - 5).attr({
+			// 	'stroke': '#333',
+			// 	'stroke-width': 1
+			// });
 			var logo_ratio = 168 / 288,
-				logo_margin = 12,
+				logo_margin = 22,
 				logo_width = central_radius + logo_margin,
 				logo_height = (central_radius * logo_ratio) + logo_margin;
 			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
@@ -421,7 +420,6 @@ define([], function() {
 								} else {
 									new_filledArc = [originX, originY, central_radius, 0 /* layerW */ , a, country.rotation === undefined ? rotation : country.rotation];
 								}
-								console.log(expo.showtype);
 								var fill = expo_colors[expo.type];
 								if (expo.showtype == 'Solo') {
 									fill = "url(/arts-visuels/assets/images/stripe-" + (expo.type.replace(/expo-/, '')) + ".png)";
@@ -452,10 +450,6 @@ define([], function() {
 							previous_expo_filledArc = previous_filledArc;
 
 						});
-
-						rotation += country.has_expos ? (a + a_interval) : 0;
-
-						data.continents[continent_name].countries[country_code].rotation = country.rotation = rotation;
 
 						// Country Label
 						if (show_country_label) {
@@ -493,6 +487,10 @@ define([], function() {
 								})(country, country_code, a, rotation);
 							}
 						}
+
+						rotation += country.has_expos ? (a + a_interval) : 0;
+
+						data.continents[continent_name].countries[country_code].rotation = country.rotation = rotation;
 
 					});
 

@@ -247,6 +247,7 @@ define([], function() {
 						var country = data.continents[data.cc[fair.c]].countries[fair.c];
 						var fairs = country.fairs;
 						if (!fairs[fair.i]) {
+							console.log(fair);
 							fairs[fair.i] = {
 								slice: null,
 								iteration: 0,
@@ -378,7 +379,6 @@ define([], function() {
 								} else {
 									new_filledArc = [originX, originY, central_radius, 0 /* layerW */ , a, country.rotation === undefined ? rotation : country.rotation];
 								}
-								console.log(new_filledArc);
 
 								fair.slice = raphael.path().attr({
 									fill: '#000',

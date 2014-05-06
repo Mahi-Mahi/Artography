@@ -231,15 +231,15 @@ define([], function() {
 			var nb_countries_total = 0;
 			var textOnPathDone = 0;
 
-			raphael.circle(originX, originY, central_radius - central_margin).attr({
-				// fill: '#333',
-				fill: "url(/arts-visuels/assets/images/Logo-IFdata.png)",
-				opacity: 0.2
-				// 'stroke-width': 1
-			});
+			// raphael.circle(originX, originY, central_radius - central_margin).attr({
+			// fill: '#333',
+			// fill: "url(/arts-visuels/assets/images/Logo-IFdata.png)",
+			// opacity: 0.2
+			// 'stroke-width': 1
+			// });
 
 			var logo_ratio = 168 / 288,
-				logo_margin = 12,
+				logo_margin = 22,
 				logo_width = central_radius + logo_margin,
 				logo_height = (central_radius * logo_ratio) + logo_margin;
 			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
