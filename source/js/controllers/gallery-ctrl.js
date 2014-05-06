@@ -408,10 +408,6 @@ define([], function() {
 
 						});
 
-						rotation += country.has_fairs ? (a + a_interval) : 0;
-
-						data.continents[continent_name].countries[country_code].rotation = country.rotation = rotation;
-
 						// Country Label
 						if (show_country_label) {
 							if (country.title_set) {
@@ -448,6 +444,10 @@ define([], function() {
 								})(country, country_code, a, rotation);
 							}
 						}
+
+						rotation += country.has_fairs ? (a + a_interval) : 0;
+
+						data.continents[continent_name].countries[country_code].rotation = country.rotation = rotation;
 
 					});
 
