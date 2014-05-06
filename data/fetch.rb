@@ -128,7 +128,7 @@ af_galleries.shuffle.slice(0,5000).each do |gallery|
 				rescue
 				end
 
-				fair_detail[:n] = af_fair['name'].gsub(/\\/, '')
+				fair_detail[:n] = af_fair['title'].gsub(/\\/, '')
 				fair_detail[:ct] = af_fair['city']
 
 				af_fair['year'] = af_fair['year'].to_i
