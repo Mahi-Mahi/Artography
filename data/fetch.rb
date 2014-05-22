@@ -91,6 +91,7 @@ af_galleries = fetch('/v0/gallery/list')
 
 pp "#{af_galleries.length} galleries"
 
+
 af_galleries.shuffle.slice(0,5000).each do |gallery|
 
 	print '.'
@@ -153,14 +154,14 @@ af_galleries.shuffle.slice(0,5000).each do |gallery|
 
 	galleries[gallery['id']] = gallery
 
-
 end
+
 
 af_artists = fetch('/v0/artist/list')
 
 pp "#{af_artists.length} artists"
 
-af_artists.shuffle.slice(0,50000).each do |artist|
+af_artists.shuffle.slice(0,1).each do |artist|
 
 	print '.'
 

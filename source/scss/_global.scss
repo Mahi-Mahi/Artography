@@ -138,7 +138,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		width:355px;
   	}
 	ul {
-		height: 550px;
+//		height: 550px;
 		overflow: auto;
 	}
 }
@@ -634,13 +634,11 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 
 .news-block {
 	//
-	display: none;
-	//
 	background:#58585b;
 	border-radius:8px;
 	color:#fff;
 	font-size:em(24px);
-	margin: 0;
+	margin: 0 40px 0 0;
 	padding:16px;
 	h2 {
 		display: block;
@@ -650,6 +648,9 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		padding:0 0 .5em 0;
 		text-transform: uppercase;
 	}
+}
+.home .news-block {
+	display: none;
 }
 
 .news-block-item {

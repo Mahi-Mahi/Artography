@@ -30,6 +30,10 @@ define([], function() {
 
 			$scope.gallery = dataService.data.galleries[$route.current.params.id];
 
+		console.log($scope.gallery);
+			if ($scope.gallery.www)
+				$scope.gallery_links = [$scope.gallery.www];
+
 			$scope.periods = [];
 			angular.forEach($scope.gallery.fairs, function(fair, year) {
 				$scope.periods.push({
@@ -646,7 +650,7 @@ define([], function() {
 						jQuery(this).stop().fadeOut();
 					});
 				}
-			}
+			};
 
 			jQuery('.expandable').on('click', function() {
 				jQuery(this).toggleClass('expandable-close');

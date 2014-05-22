@@ -25,8 +25,8 @@
 				</h1>
 				<div class="entry-meta clearfix">
 					{{labels.genre[artist.genre]}} - {{artist.age}} ans
-					<ul class="unstyled">
-						<li ng-repeat="link in artist_links" class="entry-meta-item"><a href="{{link.url}}" target="_blank">{{title}}</a></li>
+					<ul class="unstyled" ng-if="artist.website">
+						<li class="entry-meta-item"><a href="http://{{artist.website}}" target="_blank">{{artist.website}}</a></li>
 					</ul>
 				</div>
 			</section>
@@ -95,10 +95,10 @@
 				</ul>
 			</form>
 
-
 			<div class="news-block">
 				<h2>Actualités</h2>
 				<ul class="unstyled">
+					<li class="news-block-item"><a href="#"><strong>Materializing Six Years: Lucy R. Lippard and the Emergence of Conceptual Art</strong> @New York -  USA / 2 février - 3 mars 2014 </a></li>
 					<li ng-repeat="news in artist_news"  class="exposition-item"><a href="{{news.url}}" target="_blank" class="{{news.color}}">{{title}}</a></li>
 				</ul>
 			</div><!-- .news-block -->

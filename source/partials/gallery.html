@@ -24,9 +24,11 @@
 					{{gallery.name}}
 				</h1>
 				<div class="entry-meta clearfix">
-					Dirigé par {{gallery.members}}
-					<ul class="unstyled">
-						<li ng-repeat="link in gallery_links" class="entry-meta-item"><a href="{{link.url}}" target="_blank">{{title}}</a></li>
+					<span ng-if="gallery.directeurs">
+						Dirigé par {{gallery.directeurs}}
+					</span>
+					<ul class="unstyled" ng-if="gallery.www">
+						<li class="entry-meta-item"><a href="http://{{gallery.www}}" target="_blank">{{gallery.www}}</a></li>
 					</ul>
 				</div>
 			</section>
