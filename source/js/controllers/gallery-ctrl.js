@@ -329,7 +329,7 @@ define([], function() {
 						break;
 				}
 
-				jQuery('.entry-description p').html('<strong>' + period + ',</strong> cette gallerie <br />' + verb + ' à <strong> ' + fairs + ' </strong>dans <strong>' + countries + '</strong>' + '.');
+				jQuery('.entry-description p').html('<strong>' + period + ',</strong> cette galerie <br />' + verb + ' à <strong> ' + fairs + ' </strong>dans <strong>' + countries + '</strong>' + '.');
 			}
 
 			function drawChart() {
