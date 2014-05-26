@@ -14,6 +14,16 @@ define([], function() {
 					adaptSidebarFormHeight();
 				});
 
+			$scope.currentMousePos = {
+				x: -1,
+				y: -1
+			};
+			jQuery(document).mousemove(function(event) {
+				// console.log([event.pageX, event.pageY]);
+				$scope.currentMousePos.x = event.pageX;
+				$scope.currentMousePos.y = event.pageY;
+			});
+
 			$scope.goBack = function() {
 				// window.history.back();
 				document.location = '/';
@@ -152,6 +162,10 @@ define([], function() {
 				divH = mainWidth;
 
 			var raphael = new Raphael(document.getElementById('canvas'), canvasW, canvasH);
+
+			jQuery('#canvas').on('mouseout', function() {
+				jQuery("#popup").stop().fadeOut();
+			});
 
 			// [ X Position, Y Position, Radius, Width, Angle, Rotation ]
 			raphael.customAttributes.filledArc = function(xloc, yloc, R, width, angle, rotation) {
@@ -502,7 +516,12 @@ define([], function() {
 										filledArc: [originX, originY, central_radius, 0, a - a_interval, rotation]
 									}).animate({
 										filledArc: filledArc
-									}, animation_delay);
+									}, animation_delay)
+										.hover(function() {
+											console.log(this.node.classList);
+											var country_id = this.node.classList[0].replace(/country-/, '');
+											$scope.showCountryPopup(country_id);
+										}, function() {});
 								} else {
 									country.slice = raphael.path().attr({
 										fill: '#F21C79',
@@ -801,6 +820,27 @@ define([], function() {
 			jQuery('.artists-list').on('click', 'li', function() {
 				document.location = '/arts-visuels/artiste/' + jQuery(this).data('artist-id');
 			});
+
+			$scope.showCountryPopup = function(country_id) {
+				console.log("showCountryPopup(" + country_id);
+
+				var continent_name = data.cc[country_id];
+				var country = data.continents[continent_name].countries[country_id];
+
+				jQuery('#popup').html('<p class="period"> En ' + $scope.filters.period + ', ' + country.nb_artists + ' exposent en ' + country.country.fr + '</p>')
+					.stop()
+					.fadeIn();
+
+				var mouse_position = {
+					top: ($scope.currentMousePos.y - 50) + 'px',
+					left: ($scope.currentMousePos.x - 300) + 'px'
+				};
+				jQuery('#popup').css(mouse_position);
+				jQuery('#popup').on('mouseout', function() {
+					jQuery(this).stop().fadeOut();
+				});
+
+			};
 
 			jQuery('.expandable').on('click', function() {
 				jQuery(this).toggleClass('expandable-close');
