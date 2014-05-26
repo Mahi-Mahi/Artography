@@ -9,5 +9,13 @@ define([], function() {
 
 			dataService.init('artist');
 
+			/*
+			var raphael = new Raphael(document.getElementById('canvas'), 600, 600);
+
+			raphael.circle(200, 200, 50).attr({
+				fill: 'url(/arts-visuels/assets/images/stripe-Institution-publique.png)'
+			});
+*/
+
 		}];
 });

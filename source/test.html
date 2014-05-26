@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<script src="raphael-min.js"></script>
+
+		<style>
+		#canvas {
+			width: 600px;
+			height: 600px;
+			border: 1px solid red;
+		}
+		</style>
+	</head>
+	<body>
+		<div id="canvas"></div>
+		<script>
+			var raphael = new Raphael(document.getElementById('canvas'), 600, 600);
+
+			raphael.circle(200, 200, 50).attr({
+				fill: 'url(/arts-visuels/assets/images/stripe-Institution-publique.png)'
+			});
+		</script>
+	</body>
+</html>

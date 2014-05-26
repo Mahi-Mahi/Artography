@@ -18,6 +18,11 @@ define(['angular', 'app'], function(angular, app) {
 				controller: 'homeController'
 			});
 
+			$routeProvider.when('/test/', {
+				templateUrl: '/arts-visuels/partials/artist.html',
+				controller: 'artistController'
+			});
+
 			// ARTISTES
 
 			$routeProvider.when('/artistes', {

@@ -611,9 +611,7 @@ define([], function() {
 							(function(continent, continent_name, continent_a, continent_rotation) {
 								clearTimeout(timeouts[continent_name]);
 								timeouts[continent_name] = setTimeout(function() {
-
 									var simpleArc = [originX, originY, divW / 2 - continent_title_margin, continent_a - a_interval, continent_rotation];
-
 									continent.title_path = raphael.path().attr({
 										stroke: "#00FF00",
 										'stroke-width': 2,

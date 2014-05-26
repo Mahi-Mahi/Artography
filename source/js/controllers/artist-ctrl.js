@@ -496,7 +496,6 @@ define([], function() {
 				});
 
 				angular.forEach(scale_circles, function(scale, idx) {
-					console.log("real_layerW : " + real_layerW);
 					var r = Math.max(0, Math.min(divW / 2, central_radius + real_layerW * scale.val));
 					var y = Math.max(0, Math.min(originY - central_radius, originY - central_radius - real_layerW * scale.val));
 					if (scale_circles[idx].circle) {
