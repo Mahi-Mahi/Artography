@@ -455,28 +455,25 @@ define([], function() {
 							*/
 					}
 				});
-				/*
-				angular.forEach($scope.artists, function(artist, idx) {
-					if (active_artists.indexOf(artist.id) !== -1 && re.test(artist.name)) {
-						$scope.artists[idx].enabled = 'enabled' + (i++ % 2 === 0 ? ' even' : '');
-						enabled.push(artist.id);
-					} else {
-						$scope.artists[idx].enabled = '';
-					}
+				sortArtists();
+			}
+
+			function sortArtists() {
+				jQuery('.artists-list').hide();
+
+				var li = jQuery('.artists-list li').get();
+
+				li.sort(function(a, b) {
+					a = jQuery(a).text();
+					b = jQuery(b).text();
+
+					return (a < b) ? -1 : ((a > b) ? 1 : 0);
 				});
-				console.log("updateArtists 1");
-				console.log(enabled.length);
-				console.log(active_artists.diff(enabled).length);
-				angular.forEach(active_artists.diff(enabled), function(artist_id) {
-					if (!jQuery("#artist-" + artist_id).length) {
-						$scope.artists.push({
-							id: parseInt(artist_id, 10),
-							name: dataService.data.artists.names[artist_id],
-							enabled: 'enabled'
-						});
-					}
-				});
-				*/
+
+				jQuery('.artists-list').append(li);
+
+				jQuery('.artists-list').show();
+
 			}
 
 			function drawChart() {
@@ -518,7 +515,6 @@ define([], function() {
 										filledArc: filledArc
 									}, animation_delay)
 										.hover(function() {
-											console.log(this.node.classList);
 											var country_id = this.node.classList[0].replace(/country-/, '');
 											$scope.showCountryPopup(country_id);
 										}, function() {});
@@ -822,7 +818,6 @@ define([], function() {
 			});
 
 			$scope.showCountryPopup = function(country_id) {
-				console.log("showCountryPopup(" + country_id);
 
 				var continent_name = data.cc[country_id];
 				var country = data.continents[continent_name].countries[country_id];

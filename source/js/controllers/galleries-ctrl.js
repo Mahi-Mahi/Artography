@@ -349,6 +349,25 @@ define([], function() {
 						$scope.galleries[idx].enabled = '';
 					}
 				});
+				sortGalleries();
+			}
+
+			function sortGalleries() {
+				jQuery('.galleries-list').hide();
+
+				var li = jQuery('.galleries-list li').get();
+
+				li.sort(function(a, b) {
+					a = jQuery(a).text();
+					b = jQuery(b).text();
+
+					return (a < b) ? -1 : ((a > b) ? 1 : 0);
+				});
+
+				jQuery('.galleries-list').append(li);
+
+				jQuery('.galleries-list').show();
+
 			}
 
 			function drawChart() {
