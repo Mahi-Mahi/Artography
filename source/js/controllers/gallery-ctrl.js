@@ -30,7 +30,6 @@ define([], function() {
 
 			$scope.gallery = dataService.data.galleries[$route.current.params.id];
 
-		console.log($scope.gallery);
 			if ($scope.gallery.www)
 				$scope.gallery_links = [$scope.gallery.www];
 

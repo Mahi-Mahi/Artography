@@ -419,10 +419,8 @@ define([], function() {
 									new_filledArc = [originX, originY, central_radius, 0 /* layerW */ , a, country.rotation === undefined ? rotation : country.rotation];
 								}
 								var fill = expo_colors[expo.type];
-								console.log([expo.type, expo.showtype]);
 								if (expo.showtype == 'Solo') {
 									fill = "url(/arts-visuels/assets/images/stripe-" + (expo.type.replace(/expo-/, '')) + ".png)";
-									console.log(fill);
 								}
 								expo.slice = raphael.path().attr({
 									fill: fill,
