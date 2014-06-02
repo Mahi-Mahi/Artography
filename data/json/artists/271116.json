@@ -1,0 +1,87 @@
+{
+  "id": "271116",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 07:49:19",
+  "name": "Florian Sumi",
+  "surname": "Sumi",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1984",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "29776",
+  "r01": "97239",
+  "r02": "115491",
+  "r03": "112771",
+  "r04": "108712",
+  "r05": "105544",
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2009",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (2), Germany (2)",
+  "2005-shows-with": "Florian Sumi (3), Tony Regazzoni (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Florian",
+  "last_name": "Sumi",
+  "genre": "m",
+  "birthDate": "1984-01-01",
+  "age": 30,
+  "age_range": "26-40",
+  "expos": {
+    "2009": [
+      {
+        "i": "271116-22649-2009-04-24",
+        "c": "DE",
+        "n": "Berlin Peplum",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "PMgalerie",
+        "d": [
+          "2009-04-24",
+          "2009-05-15"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "271116-22649-2010-10-09",
+        "c": "DE",
+        "n": "LE BA",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "PMgalerie",
+        "d": [
+          "2010-10-09",
+          "2010-11-13"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "271116-21695-2013-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "271116-21695-2013-09-13",
+        "c": "FR"
+      }
+    ]
+  }
+}

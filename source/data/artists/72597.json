@@ -1,0 +1,77 @@
+{
+  "id": "72597",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 06:41:37",
+  "name": "Bruno di Rosa",
+  "surname": "Rosa",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1960",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "48321",
+  "r01": "76185",
+  "r02": "69987",
+  "r03": "62969",
+  "r04": "56353",
+  "r05": "49506",
+  "r06": "43245",
+  "r07": "55000",
+  "r08": "47548",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "2",
+  "2005-countries-total": "Belgium (1), France (1)",
+  "2005-shows-with": "Bruno di Rosa (2)",
+  "representing-galleries": null,
+  "collecting-museums": "Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France)",
+  "first_name": "Bruno",
+  "last_name": "di",
+  "genre": "c",
+  "birthDate": "1960-01-01",
+  "age": 54,
+  "age_range": "41-60",
+  "expos": {
+    "2006": [
+      {
+        "i": "72597-3444-2006-05-20",
+        "c": "CH",
+        "n": "Continuum Distortion",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Fribourg",
+        "o": "Fri Art - Centre d'Art Contemporain",
+        "d": [
+          "2006-05-20",
+          "2006-07-30"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "72597-12727-2008-09-27",
+        "c": "BE",
+        "n": "Honorons Honore",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Mechelen",
+        "o": "Cultuurcentrum Mechelen",
+        "d": [
+          "2008-09-27",
+          "2008-11-23"
+        ]
+      }
+    ]
+  }
+}

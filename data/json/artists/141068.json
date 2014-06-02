@@ -1,0 +1,95 @@
+{
+  "id": "141068",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 07:04:44",
+  "name": "Fanny Mesnard",
+  "surname": "Mesnard",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Angoulême, Charente (FR)",
+  "birth day": "22",
+  "birth month": "5",
+  "birth year": "1980",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "95290",
+  "r01": "96860",
+  "r02": "94350",
+  "r03": "106746",
+  "r04": "101964",
+  "r05": "95591",
+  "r06": "90344",
+  "r07": "82010",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Canada (1), France (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "Galerie Michel Guimont (273 rue Saint-Paul, QC G1K Quebec City, Canada); Galerie Sintitulo (10 rue Commandeur, 06250 Mougins, France); Galerie Frank Gerlitzki - espace ApART (25, rue Pierre Krier, 1880 Luxembourg, Luxembourg)",
+  "collecting-museums": null,
+  "first_name": "Fanny",
+  "last_name": "Mesnard",
+  "genre": "c",
+  "birthDate": "1980-05-22",
+  "age": 34,
+  "age_range": "26-40",
+  "expos": {
+    "2007": [
+      {
+        "i": "141068-10507-2007-04-26",
+        "c": "LU",
+        "n": "Backstage/ rien à cacher",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Luxembourg",
+        "o": "Galerie Frank Gerlitzki - espace ApART",
+        "d": [
+          "2007-04-26",
+          "2007-05-19"
+        ]
+      },
+      {
+        "i": "141068-11868-2007-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "141068-11868-2007-06-03",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "141068-11868-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "141068-11868-2009-10-16",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "141068-28745-2012-06-10",
+        "c": "CA",
+        "n": "Fanny Mesnard",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Quebec City",
+        "o": "Galerie Michel Guimont",
+        "d": [
+          "2012-06-10",
+          "2012-07-01"
+        ]
+      }
+    ]
+  }
+}

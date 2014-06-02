@@ -1,0 +1,75 @@
+{
+  "id": "43537",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 06:31:22",
+  "name": "Anna-Lisa Marjak",
+  "surname": "Marjak",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "(FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1959",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "47242",
+  "r01": "48808",
+  "r02": "45371",
+  "r03": "41415",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2011",
+  "all-shows-total": "3",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Argentina (3)",
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Anna-Lisa",
+  "last_name": "Marjak",
+  "genre": "c",
+  "birthDate": "1959-01-01",
+  "age": 55,
+  "age_range": "41-60",
+  "expos": {
+    "2011": [
+      {
+        "i": "43537-2934-2011-02-24",
+        "c": "AR",
+        "n": "Ellas no están solas",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Buenos Aires",
+        "o": "Centro Cultural Recoleta",
+        "d": [
+          "2011-02-24",
+          "2011-03-08"
+        ]
+      },
+      {
+        "i": "43537-6385-2011-08-16",
+        "c": "AR",
+        "n": "Sentadas y paradas. Vestidas y desnudas",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Buenos Aires",
+        "o": "Galería Braga Menéndez Arte Contemporáneo",
+        "d": [
+          "2011-08-16",
+          "2011-10-15"
+        ]
+      }
+    ]
+  }
+}

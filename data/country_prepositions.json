@@ -1,0 +1,993 @@
+[{
+  "french_name": "afghanistan",
+  "code": "af",
+  "french_preposition": "en"
+}, {
+  "french_name": "afrique du sud",
+  "code": "za",
+  "french_preposition": "en"
+}, {
+  "french_name": "îles åland ",
+  "code": "ax",
+  "french_preposition": "aux"
+}, {
+  "french_name": "albanie",
+  "code": "al",
+  "french_preposition": "en"
+}, {
+  "french_name": "algerie",
+  "code": "dz",
+  "french_preposition": "en"
+}, {
+  "french_name": "allemagne",
+  "code": "de",
+  "french_preposition": "en"
+}, {
+  "french_name": "andorre",
+  "code": "ad",
+  "french_preposition": "à"
+}, {
+  "french_name": "angola",
+  "code": "ao",
+  "french_preposition": "en"
+}, {
+  "french_name": "anguilla",
+  "code": "ai",
+  "french_preposition": "en"
+}, {
+  "french_name": "antarctique",
+  "code": "aq",
+  "french_preposition": "en"
+}, {
+  "french_name": "antigua et barbuda",
+  "code": "ag",
+  "french_preposition": "à"
+}, {
+  "french_name": "arabie saoudite",
+  "code": "sa",
+  "french_preposition": "en"
+}, {
+  "french_name": "argentine",
+  "code": "ar",
+  "french_preposition": "en"
+}, {
+  "french_name": "armenie",
+  "code": "am",
+  "french_preposition": "en"
+}, {
+  "french_name": "aruba",
+  "code": "aw",
+  "french_preposition": "en"
+}, {
+  "french_name": "australie",
+  "code": "au",
+  "french_preposition": "en"
+}, {
+  "french_name": "autriche",
+  "code": "at",
+  "french_preposition": "en"
+}, {
+  "french_name": "azerbaidjan",
+  "code": "az",
+  "french_preposition": "en"
+}, {
+  "french_name": "bahamas",
+  "code": "bs",
+  "french_preposition": "aux"
+}, {
+  "french_name": "bahrein",
+  "code": "bh",
+  "french_preposition": "à"
+}, {
+  "french_name": "bangladesh",
+  "code": "bd",
+  "french_preposition": "au"
+}, {
+  "french_name": "barbade",
+  "code": "bb",
+  "french_preposition": "à"
+}, {
+  "french_name": "belarus",
+  "code": "by",
+  "french_preposition": "au"
+}, {
+  "french_name": "belgique",
+  "code": "be",
+  "french_preposition": "en"
+}, {
+  "french_name": "belize",
+  "code": "bz",
+  "french_preposition": "à"
+}, {
+  "french_name": "benin",
+  "code": "bj",
+  "french_preposition": "au"
+}, {
+  "french_name": "bermudes",
+  "code": "bm",
+  "french_preposition": "aux"
+}, {
+  "french_name": "bhoutan",
+  "code": "bt",
+  "french_preposition": "au"
+}, {
+  "french_name": "bolivie",
+  "code": "bo",
+  "french_preposition": "en"
+}, {
+  "french_name": "pays-bas caribeens",
+  "code": "bq",
+  "french_preposition": "à"
+}, {
+  "french_name": "bosnie-herzegovine",
+  "code": "ba",
+  "french_preposition": "en"
+}, {
+  "french_name": "botswana",
+  "code": "bw",
+  "french_preposition": "au"
+}, {
+  "french_name": "ile bouvet",
+  "code": "bv",
+  "french_preposition": "à l'"
+}, {
+  "french_name": "bresil",
+  "code": "br",
+  "french_preposition": "au"
+}, {
+  "french_name": "brunei darussalam",
+  "code": "bn",
+  "french_preposition": "au"
+}, {
+  "french_name": "bulgarie",
+  "code": "bg",
+  "french_preposition": "en"
+}, {
+  "french_name": "burkina faso",
+  "code": "bf",
+  "french_preposition": "au"
+}, {
+  "french_name": "burundi",
+  "code": "bi",
+  "french_preposition": "au"
+}, {
+  "french_name": "iles caimanes",
+  "code": "ky",
+  "french_preposition": "aux"
+}, {
+  "french_name": "cambodge",
+  "code": "kh",
+  "french_preposition": "au"
+}, {
+  "french_name": "cameroun",
+  "code": "cm",
+  "french_preposition": "au"
+}, {
+  "french_name": "canada",
+  "code": "ca",
+  "french_preposition": "au"
+}, {
+  "french_name": "cap-vert",
+  "code": "cv",
+  "french_preposition": "au"
+}, {
+  "french_name": "republique centrafricaine",
+  "code": "cf",
+  "french_preposition": "en"
+}, {
+  "french_name": "chili",
+  "code": "cl",
+  "french_preposition": "au"
+}, {
+  "french_name": "chine",
+  "code": "cn",
+  "french_preposition": "en"
+}, {
+  "french_name": "ile christmas",
+  "code": "cx",
+  "french_preposition": "à"
+}, {
+  "french_name": "chypre",
+  "code": "cy",
+  "french_preposition": "à"
+}, {
+  "french_name": " iles cocos",
+  "code": "cc",
+  "french_preposition": "aux"
+}, {
+  "french_name": "colombie",
+  "code": "co",
+  "french_preposition": "en"
+}, {
+  "french_name": "comores",
+  "code": "km",
+  "french_preposition": "aux"
+}, {
+  "french_name": "congo",
+  "code": "cg",
+  "french_preposition": "au"
+}, {
+  "french_name": "republique democratique du congo",
+  "code": "cd",
+  "french_preposition": "en"
+}, {
+  "french_name": "iles cook",
+  "code": "ck",
+  "french_preposition": "aux"
+}, {
+  "french_name": "coree du sud",
+  "code": "kr",
+  "french_preposition": "en"
+}, {
+  "french_name": "coree du nord",
+  "code": "kp",
+  "french_preposition": "en"
+}, {
+  "french_name": "costa rica",
+  "code": "cr",
+  "french_preposition": "au"
+}, {
+  "french_name": "cote d'ivoire",
+  "code": "ci",
+  "french_preposition": "en"
+}, {
+  "french_name": "croatie",
+  "code": "hr",
+  "french_preposition": "en"
+}, {
+  "french_name": "cuba",
+  "code": "cu",
+  "french_preposition": "à"
+}, {
+  "french_name": "curacao",
+  "code": "cw",
+  "french_preposition": "à"
+}, {
+  "french_name": "danemark",
+  "code": "dk",
+  "french_preposition": "au"
+}, {
+  "french_name": "djibouti",
+  "code": "dj",
+  "french_preposition": "à"
+}, {
+  "french_name": "republique dominicaine",
+  "code": "do",
+  "french_preposition": "en"
+}, {
+  "french_name": "dominique",
+  "code": "dm",
+  "french_preposition": "à"
+}, {
+  "french_name": "egypte",
+  "code": "eg",
+  "french_preposition": "en"
+}, {
+  "french_name": "el salvador",
+  "code": "sv",
+  "french_preposition": "au"
+}, {
+  "french_name": "emirats arabes unis",
+  "code": "ae",
+  "french_preposition": "aux"
+}, {
+  "french_name": "equateur",
+  "code": "ec",
+  "french_preposition": "en"
+}, {
+  "french_name": "erythree",
+  "code": "er",
+  "french_preposition": "en"
+}, {
+  "french_name": "espagne",
+  "code": "es",
+  "french_preposition": "en"
+}, {
+  "french_name": "estonie",
+  "code": "ee",
+  "french_preposition": "en"
+}, {
+  "french_name": "etats-unis",
+  "code": "us",
+  "french_preposition": "aux"
+}, {
+  "french_name": "ethiopie",
+  "code": "et",
+  "french_preposition": "en"
+}, {
+  "french_name": "iles malouines",
+  "code": "fk",
+  "french_preposition": "aux"
+}, {
+  "french_name": "iles feroe",
+  "code": "fo",
+  "french_preposition": "aux"
+}, {
+  "french_name": "fidji",
+  "code": "fj",
+  "french_preposition": "aux"
+}, {
+  "french_name": "finlande",
+  "code": "fi",
+  "french_preposition": "en"
+}, {
+  "french_name": "france",
+  "code": "fr",
+  "french_preposition": "en"
+}, {
+  "french_name": "gabon",
+  "code": "ga",
+  "french_preposition": "au"
+}, {
+  "french_name": "gambie",
+  "code": "gm",
+  "french_preposition": "en"
+}, {
+  "french_name": "georgie",
+  "code": "ge",
+  "french_preposition": "en"
+}, {
+  "french_name": "georgie du sud et iles sandwich du sud",
+  "code": "gs",
+  "french_preposition": "en"
+}, {
+  "french_name": "ghana",
+  "code": "gh",
+  "french_preposition": "au"
+}, {
+  "french_name": "gibraltar",
+  "code": "gi",
+  "french_preposition": "à"
+}, {
+  "french_name": "grece",
+  "code": "gr",
+  "french_preposition": "en"
+}, {
+  "french_name": "grenade",
+  "code": "gd",
+  "french_preposition": "à"
+}, {
+  "french_name": "groenland",
+  "code": "gl",
+  "french_preposition": "au"
+}, {
+  "french_name": "guadeloupe",
+  "code": "gp",
+  "french_preposition": "en"
+}, {
+  "french_name": "guam",
+  "code": "gu",
+  "french_preposition": "au"
+}, {
+  "french_name": "guatemala",
+  "code": "gt",
+  "french_preposition": "au"
+}, {
+  "french_name": "guernesey",
+  "code": "gg",
+  "french_preposition": "à"
+}, {
+  "french_name": "guinee",
+  "code": "gn",
+  "french_preposition": "en"
+}, {
+  "french_name": "guinee-bissau",
+  "code": "gw",
+  "french_preposition": "en"
+}, {
+  "french_name": "guinee equatoriale",
+  "code": "gq",
+  "french_preposition": "en"
+}, {
+  "french_name": "guyana",
+  "code": "gy",
+  "french_preposition": "en"
+}, {
+  "french_name": "guyane francaise",
+  "code": "gf",
+  "french_preposition": "en"
+}, {
+  "french_name": "haiti",
+  "code": "ht",
+  "french_preposition": "à"
+}, {
+  "french_name": "iles heard et mcdonald",
+  "code": "hm",
+  "french_preposition": "aux"
+}, {
+  "french_name": "honduras",
+  "code": "hn",
+  "french_preposition": "en"
+}, {
+  "french_name": "hong kong",
+  "code": "hk",
+  "french_preposition": "à"
+}, {
+  "french_name": "hongrie",
+  "code": "hu",
+  "french_preposition": "en"
+}, {
+  "french_name": "ile de man",
+  "code": "im",
+  "french_preposition": "aux"
+}, {
+  "french_name": "iles mineures eloignees des etats-unis",
+  "code": "um",
+  "french_preposition": "aux"
+}, {
+  "french_name": "iles vierges britanniques",
+  "code": "vg",
+  "french_preposition": "aux"
+}, {
+  "french_name": "iles vierges des etats-unis",
+  "code": "vi",
+  "french_preposition": "aux"
+}, {
+  "french_name": "inde",
+  "code": "in",
+  "french_preposition": "en"
+}, {
+  "french_name": "indonesie",
+  "code": "id",
+  "french_preposition": "en"
+}, {
+  "french_name": "iran",
+  "code": "ir",
+  "french_preposition": "en"
+}, {
+  "french_name": "iraq",
+  "code": "iq",
+  "french_preposition": "en"
+}, {
+  "french_name": "irlande",
+  "code": "ie",
+  "french_preposition": "en"
+}, {
+  "french_name": "islande",
+  "code": "is",
+  "french_preposition": "en"
+}, {
+  "french_name": "israel",
+  "code": "il",
+  "french_preposition": "en"
+}, {
+  "french_name": "italie",
+  "code": "it",
+  "french_preposition": "en"
+}, {
+  "french_name": "jamaique",
+  "code": "jm",
+  "french_preposition": "en"
+}, {
+  "french_name": "japon",
+  "code": "jp",
+  "french_preposition": "au"
+}, {
+  "french_name": "jersey",
+  "code": "je",
+  "french_preposition": "à"
+}, {
+  "french_name": "jordanie",
+  "code": "jo",
+  "french_preposition": "en"
+}, {
+  "french_name": "kazakhstan",
+  "code": "kz",
+  "french_preposition": "au"
+}, {
+  "french_name": "kenya",
+  "code": "ke",
+  "french_preposition": "au"
+}, {
+  "french_name": "kirghizistan",
+  "code": "kg",
+  "french_preposition": "au"
+}, {
+  "french_name": "kiribati",
+  "code": "ki",
+  "french_preposition": "à"
+}, {
+  "french_name": "koweit",
+  "code": "kw",
+  "french_preposition": "au"
+}, {
+  "french_name": "laos",
+  "code": "la",
+  "french_preposition": "en"
+}, {
+  "french_name": "lesotho",
+  "code": "ls",
+  "french_preposition": "au"
+}, {
+  "french_name": "lettonie",
+  "code": "lv",
+  "french_preposition": "en"
+}, {
+  "french_name": "liban",
+  "code": "lb",
+  "french_preposition": "au"
+}, {
+  "french_name": "liberia",
+  "code": "lr",
+  "french_preposition": "au"
+}, {
+  "french_name": "lybie",
+  "code": "ly",
+  "french_preposition": "en"
+}, {
+  "french_name": "liechtenstein",
+  "code": "li",
+  "french_preposition": "au"
+}, {
+  "french_name": "lituanie",
+  "code": "lt",
+  "french_preposition": "en"
+}, {
+  "french_name": "luxembourg",
+  "code": "lu",
+  "french_preposition": "au"
+}, {
+  "french_name": "macao",
+  "code": "mo",
+  "french_preposition": "à"
+}, {
+  "french_name": "macedoine",
+  "code": "mk",
+  "french_preposition": "en"
+}, {
+  "french_name": "madagascar",
+  "code": "mg",
+  "french_preposition": "à"
+}, {
+  "french_name": "malaisie",
+  "code": "my",
+  "french_preposition": "en"
+}, {
+  "french_name": "malawi",
+  "code": "mw",
+  "french_preposition": "au"
+}, {
+  "french_name": "maldives",
+  "code": "mv",
+  "french_preposition": "aux"
+}, {
+  "french_name": "mali",
+  "code": "ml",
+  "french_preposition": "au"
+}, {
+  "french_name": "malte",
+  "code": "mt",
+  "french_preposition": "à"
+}, {
+  "french_name": "iles mariannes du nord",
+  "code": "mp",
+  "french_preposition": "aux"
+}, {
+  "french_name": "maroc",
+  "code": "ma",
+  "french_preposition": "au"
+}, {
+  "french_name": "iles marshall",
+  "code": "mh",
+  "french_preposition": "aux"
+}, {
+  "french_name": "martinique",
+  "code": "mq",
+  "french_preposition": "en"
+}, {
+  "french_name": "maurice",
+  "code": "mu",
+  "french_preposition": "à"
+}, {
+  "french_name": "mauritanie",
+  "code": "mr",
+  "french_preposition": "en"
+}, {
+  "french_name": "mayotte",
+  "code": "yt",
+  "french_preposition": "à"
+}, {
+  "french_name": "mexique",
+  "code": "mx",
+  "french_preposition": "au"
+}, {
+  "french_name": "micronesie",
+  "code": "fm",
+  "french_preposition": "en"
+}, {
+  "french_name": "moldavie",
+  "code": "md",
+  "french_preposition": ""
+}, {
+  "french_name": "monaco",
+  "code": "mc",
+  "french_preposition": "à"
+}, {
+  "french_name": "mongolie",
+  "code": "mn",
+  "french_preposition": "en"
+}, {
+  "french_name": "montenegro",
+  "code": "me",
+  "french_preposition": "au"
+}, {
+  "french_name": "montserrat",
+  "code": "ms",
+  "french_preposition": ""
+}, {
+  "french_name": "mozambique",
+  "code": "mz",
+  "french_preposition": "au"
+}, {
+  "french_name": "myanmar",
+  "code": "mm",
+  "french_preposition": ""
+}, {
+  "french_name": "namibie",
+  "code": "na",
+  "french_preposition": "en"
+}, {
+  "french_name": "nauru",
+  "code": "nr",
+  "french_preposition": ""
+}, {
+  "french_name": "nepal",
+  "code": "np",
+  "french_preposition": "au"
+}, {
+  "french_name": "nicaragua",
+  "code": "ni",
+  "french_preposition": "au"
+}, {
+  "french_name": "niger",
+  "code": "ne",
+  "french_preposition": "au"
+}, {
+  "french_name": "nigeria",
+  "code": "ng",
+  "french_preposition": "au"
+}, {
+  "french_name": "niue",
+  "code": "nu",
+  "french_preposition": "à"
+}, {
+  "french_name": "ile norfolk",
+  "code": "nf",
+  "french_preposition": "à"
+}, {
+  "french_name": "norvege",
+  "code": "no",
+  "french_preposition": "en"
+}, {
+  "french_name": "nouvelle-caledonie",
+  "code": "nc",
+  "french_preposition": "en"
+}, {
+  "french_name": "nouvelle-zelande",
+  "code": "nz",
+  "french_preposition": "en"
+}, {
+  "french_name": "territoire britannique de l' ocean indien",
+  "code": "io",
+  "french_preposition": "dans le"
+}, {
+  "french_name": "oman",
+  "code": "om",
+  "french_preposition": "en"
+}, {
+  "french_name": "ouganda",
+  "code": "ug",
+  "french_preposition": "en"
+}, {
+  "french_name": "ouzbekistan",
+  "code": "uz",
+  "french_preposition": "en"
+}, {
+  "french_name": "pakistan",
+  "code": "pk",
+  "french_preposition": "au"
+}, {
+  "french_name": "palaos",
+  "code": "pw",
+  "french_preposition": "au"
+}, {
+  "french_name": "territoire occupe palestinien",
+  "code": "ps",
+  "french_preposition": "en"
+}, {
+  "french_name": "panama",
+  "code": "pa",
+  "french_preposition": "au"
+}, {
+  "french_name": "papouasie-nouvelle-guinee",
+  "code": "pg",
+  "french_preposition": "en"
+}, {
+  "french_name": "paraguay",
+  "code": "py",
+  "french_preposition": "au"
+}, {
+  "french_name": "pays-bas",
+  "code": "nl",
+  "french_preposition": "aux"
+}, {
+  "french_name": "perou",
+  "code": "pe",
+  "french_preposition": "au"
+}, {
+  "french_name": "philippines",
+  "code": "ph",
+  "french_preposition": "aux"
+}, {
+  "french_name": "pitcairn",
+  "code": "pn",
+  "french_preposition": "au"
+}, {
+  "french_name": "pologne",
+  "code": "pl",
+  "french_preposition": "en"
+}, {
+  "french_name": "polynesie francaise",
+  "code": "pf",
+  "french_preposition": "en"
+}, {
+  "french_name": "porto rico",
+  "code": "pr",
+  "french_preposition": "au"
+}, {
+  "french_name": "portugal",
+  "code": "pt",
+  "french_preposition": "au"
+}, {
+  "french_name": "qatar",
+  "code": "qa",
+  "french_preposition": "au"
+}, {
+  "french_name": "reunion",
+  "code": "re",
+  "french_preposition": "à la"
+}, {
+  "french_name": "roumanie",
+  "code": "ro",
+  "french_preposition": "en"
+}, {
+  "french_name": "royaume-uni",
+  "code": "gb",
+  "french_preposition": "au"
+}, {
+  "french_name": "russie",
+  "code": "ru",
+  "french_preposition": "en"
+}, {
+  "french_name": "rwanda",
+  "code": "rw",
+  "french_preposition": "au"
+}, {
+  "french_name": "sahara occidental",
+  "code": "eh",
+  "french_preposition": "au"
+}, {
+  "french_name": "saint-barthelemy",
+  "code": "bl",
+  "french_preposition": "à"
+}, {
+  "french_name": "sainte-helene, ascension et tristan da cunha",
+  "code": "sh",
+  "french_preposition": "à"
+}, {
+  "french_name": "sainte-lucie",
+  "code": "lc",
+  "french_preposition": "à"
+}, {
+  "french_name": "saint-kitts-et-nevis",
+  "code": "kn",
+  "french_preposition": "à"
+}, {
+  "french_name": "saint-marin",
+  "code": "sm",
+  "french_preposition": "à"
+}, {
+  "french_name": "saint-martin (partie francaise)",
+  "code": "mf",
+  "french_preposition": "à"
+}, {
+  "french_name": "saint-martin (partie neerlandaise)",
+  "code": "sx",
+  "french_preposition": "à"
+}, {
+  "french_name": "saint-pierre-et-miquelon",
+  "code": "pm",
+  "french_preposition": "à"
+}, {
+  "french_name": "saint-siege (etat de la cite du vatican)",
+  "code": "va",
+  "french_preposition": "au"
+}, {
+  "french_name": "saint-vincent-et-les grenadines",
+  "code": "vc",
+  "french_preposition": "à"
+}, {
+  "french_name": "iles salomon ",
+  "code": "sb",
+  "french_preposition": "aux"
+}, {
+  "french_name": "samoa",
+  "code": "ws",
+  "french_preposition": "aux"
+}, {
+  "french_name": "samoa americaines",
+  "code": "as",
+  "french_preposition": "aux"
+}, {
+  "french_name": "sao tome-et-principe",
+  "code": "st",
+  "french_preposition": "à"
+}, {
+  "french_name": "senegal",
+  "code": "sn",
+  "french_preposition": "au"
+}, {
+  "french_name": "serbie",
+  "code": "rs",
+  "french_preposition": "en"
+}, {
+  "french_name": "seychelles",
+  "code": "sc",
+  "french_preposition": "aux"
+}, {
+  "french_name": "sierra leone",
+  "code": "sl",
+  "french_preposition": "au"
+}, {
+  "french_name": "singapour",
+  "code": "sg",
+  "french_preposition": "à"
+}, {
+  "french_name": "slovaquie",
+  "code": "sk",
+  "french_preposition": "en"
+}, {
+  "french_name": "slovenie",
+  "code": "si",
+  "french_preposition": "en"
+}, {
+  "french_name": "somalie",
+  "code": "so",
+  "french_preposition": "en"
+}, {
+  "french_name": "soudan",
+  "code": "sd",
+  "french_preposition": "au"
+}, {
+  "french_name": "sri lanka",
+  "code": "lk",
+  "french_preposition": "au"
+}, {
+  "french_name": "suede",
+  "code": "se",
+  "french_preposition": "en"
+}, {
+  "french_name": "suisse",
+  "code": "ch",
+  "french_preposition": "en"
+}, {
+  "french_name": "suriname",
+  "code": "sr",
+  "french_preposition": "au"
+}, {
+  "french_name": "svalbard et ile jan mayen",
+  "code": "sj",
+  "french_preposition": "à"
+}, {
+  "french_name": "swaziland",
+  "code": "sz",
+  "french_preposition": "au"
+}, {
+  "french_name": "syrie",
+  "code": "sy",
+  "french_preposition": "en"
+}, {
+  "french_name": "tadjikistan",
+  "code": "tj",
+  "french_preposition": "au"
+}, {
+  "french_name": "taiwan",
+  "code": "tw",
+  "french_preposition": "à"
+}, {
+  "french_name": "tanzanie",
+  "code": "tz",
+  "french_preposition": "en"
+}, {
+  "french_name": "tchad",
+  "code": "td",
+  "french_preposition": "au"
+}, {
+  "french_name": "tcheque, republique",
+  "code": "cz",
+  "french_preposition": "en"
+}, {
+  "french_name": "terres australes francaises",
+  "code": "tf",
+  "french_preposition": "en"
+}, {
+  "french_name": "thailande",
+  "code": "th",
+  "french_preposition": "en"
+}, {
+  "french_name": "timor-leste",
+  "code": "tl",
+  "french_preposition": "au"
+}, {
+  "french_name": "togo",
+  "code": "tg",
+  "french_preposition": "au"
+}, {
+  "french_name": "tokelau",
+  "code": "tk",
+  "french_preposition": "au"
+}, {
+  "french_name": "tonga",
+  "code": "to",
+  "french_preposition": "ay"
+}, {
+  "french_name": "trinite-et-tobago",
+  "code": "tt",
+  "french_preposition": "à"
+}, {
+  "french_name": "tunisie",
+  "code": "tn",
+  "french_preposition": "en"
+}, {
+  "french_name": "turkmenistan",
+  "code": "tm",
+  "french_preposition": "au"
+}, {
+  "french_name": "turks et caiques, iles",
+  "code": "tc",
+  "french_preposition": "aux"
+}, {
+  "french_name": "turquie",
+  "code": "tr",
+  "french_preposition": "en"
+}, {
+  "french_name": "tuvalu",
+  "code": "tv",
+  "french_preposition": "à"
+}, {
+  "french_name": "ukraine",
+  "code": "ua",
+  "french_preposition": "en"
+}, {
+  "french_name": "uruguay",
+  "code": "uy",
+  "french_preposition": "en"
+}, {
+  "french_name": "vanuatu",
+  "code": "vu",
+  "french_preposition": "à"
+}, {
+  "french_name": "venezuela",
+  "code": "ve",
+  "french_preposition": "au"
+}, {
+  "french_name": "viet nam",
+  "code": "vn",
+  "french_preposition": "au"
+}, {
+  "french_name": "wallis et futuna",
+  "code": "wf",
+  "french_preposition": "à"
+}, {
+  "french_name": "yemen",
+  "code": "ye",
+  "french_preposition": "au"
+}, {
+  "french_name": "zambie",
+  "code": "zm",
+  "french_preposition": "en"
+}, {
+  "french_name": "zimbabwe",
+  "code": "zw",
+  "french_preposition": "au"
+}]

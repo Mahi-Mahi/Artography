@@ -1,0 +1,77 @@
+{
+  "id": "48378",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 06:33:04",
+  "name": "Jean Clerté",
+  "surname": "Clerté",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1930",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "40557",
+  "r01": "40251",
+  "r02": "36338",
+  "r03": "32336",
+  "r04": "28816",
+  "r05": "94503",
+  "r06": "87042",
+  "r07": "78689",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1961",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Austria (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "Frank Pages Art Galerie (Stolzenbergstrasse 13, 76530 Baden-Baden, Germany); Galerie Frank Pages (Grand Rue 2, CH-1204 Geneva, Switzerland)",
+  "collecting-museums": null,
+  "first_name": "Jean",
+  "last_name": "Clerté",
+  "genre": "m",
+  "birthDate": "1930-01-01",
+  "age": 84,
+  "age_range": "61-100",
+  "expos": {
+    "2007": [
+      {
+        "i": "48378-30687-2007-04-21",
+        "c": "IT",
+        "n": "Paris 1927/2007 from Atelier 17 to Atelier Contrepoint",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Cremona",
+        "o": "Museo civico Ala Ponzone",
+        "d": [
+          "2007-04-21",
+          "2007-05-30"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "48378-997-2010-07-03",
+        "c": "AT",
+        "n": "Press Art - Sammlung Annette und Peter Nobel",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Salzburg",
+        "o": "Museum der Moderne",
+        "d": [
+          "2010-07-03",
+          "2010-10-24"
+        ]
+      }
+    ]
+  }
+}

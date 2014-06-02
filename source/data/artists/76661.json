@@ -1,0 +1,77 @@
+{
+  "id": "76661",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 06:43:04",
+  "name": "Albert Delamour",
+  "surname": "Delamour",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "(FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1962",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Photography",
+  "r00": "99730",
+  "r01": "100813",
+  "r02": "98060",
+  "r03": "93386",
+  "r04": "87861",
+  "r05": "81190",
+  "r06": "99795",
+  "r07": "91374",
+  "r08": "82374",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2003",
+  "all-shows-total": "3",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": "China (1)",
+  "2005-shows-with": null,
+  "representing-galleries": "Aspen International Art (213 South Mill Street, 81611 Aspen, CO, USA)",
+  "collecting-museums": null,
+  "first_name": "Albert",
+  "last_name": "Delamour",
+  "genre": "m",
+  "birthDate": "1962-01-01",
+  "age": 52,
+  "age_range": "41-60",
+  "expos": {
+    "2005": [
+      {
+        "i": "76661-19708-2005-11-17",
+        "c": "US",
+        "n": "Group Exhibition",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Living with Art Gallery",
+        "d": [
+          "2005-11-17",
+          "2005-12-17"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "76661-10365-2009-03-27",
+        "c": "CN",
+        "n": "Albert Delamour - Through the looking glass",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Xiamen",
+        "o": "Chinese European Art Center (CEAC)",
+        "d": [
+          "2009-03-27",
+          "2009-04-27"
+        ]
+      }
+    ]
+  }
+}

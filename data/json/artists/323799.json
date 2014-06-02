@@ -1,0 +1,82 @@
+{
+  "id": "323799",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 08:07:08",
+  "name": "Anne Bachelier",
+  "surname": "Bachelier",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1949",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "96694",
+  "r01": "98716",
+  "r02": "96747",
+  "r03": "103238",
+  "r04": "108909",
+  "r05": "103213",
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2009",
+  "all-shows-total": "3",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (2), USA (1)",
+  "2005-shows-with": "Anne Bachelier (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Anne",
+  "last_name": "Bachelier",
+  "genre": "c",
+  "birthDate": "1949-01-01",
+  "age": 65,
+  "age_range": "61-100",
+  "expos": {
+    "2011": [
+      {
+        "i": "323799-132-2011-09-14",
+        "c": "US",
+        "n": "Night Scented Stock",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Marianne Boesky Gallery",
+        "d": [
+          "2011-09-14",
+          "2011-10-22"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "323799-28285-2012-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "323799-28285-2012-03-16",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "323799-15425-2009-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "323799-15425-2009-10-22",
+        "c": "FR"
+      }
+    ]
+  }
+}

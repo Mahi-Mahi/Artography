@@ -1,0 +1,84 @@
+{
+  "id": "322551",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 08:06:43",
+  "name": "Salma  Cheddadi",
+  "surname": "Cheddadi",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1984",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "86576",
+  "r01": "88675",
+  "r02": "101727",
+  "r03": "97793",
+  "r04": "92849",
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2010",
+  "all-shows-total": "3",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (1), Portugal (1), Spain (1)",
+  "2005-shows-with": "Salma  Cheddadi (3), Julião Sarmento (2), Raphaël Zarka (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Salma",
+  "last_name": "",
+  "genre": "c",
+  "birthDate": "1984-01-01",
+  "age": 30,
+  "age_range": "26-40",
+  "expos": {
+    "2010": [
+      {
+        "i": "322551-30878-2010-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "322551-30878-2010-11-19",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "322551-3494-2013-04-23",
+        "c": "PT",
+        "n": "Duet - group show",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Lisbon",
+        "o": "Cristina Guerra Contemporary Art",
+        "d": [
+          "2013-04-23",
+          "2013-05-11"
+        ]
+      },
+      {
+        "i": "322551-14957-2013-08-10",
+        "c": "ES",
+        "n": "VI Bienal de Jafre",
+        "st": "Group",
+        "ct": "Jafre, Girona",
+        "o": "Bienal de Jafre",
+        "d": [
+          "2013-08-10",
+          "2013-08-11"
+        ]
+      }
+    ]
+  }
+}

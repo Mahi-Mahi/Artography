@@ -1,0 +1,105 @@
+{
+  "id": "274943",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 07:50:38",
+  "name": "Sun7",
+  "surname": "Sun7",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris, France",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1977",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "97667",
+  "r01": "99513",
+  "r02": "97485",
+  "r03": "98890",
+  "r04": "98055",
+  "r05": "104963",
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2009",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": null,
+  "2005-countries-total": "France (3), Germany (1), United Kingdom (1)",
+  "2005-shows-with": "Sun7 (5), L\\'Atlas (4), Jef Aerosol (3), TANC (3), Babou (2)",
+  "representing-galleries": "The French Art Studio (121 Sulgrave Road, W6 7QH London, United Kingdom)",
+  "collecting-museums": null,
+  "first_name": "Sun7",
+  "last_name": "",
+  "genre": "m",
+  "birthDate": "1977-01-01",
+  "age": 37,
+  "age_range": "26-40",
+  "expos": {
+    "2009": [
+      {
+        "i": "274943-29199-2009-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "274943-29199-2009-03-18",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "274943-22828-2010-04-30",
+        "c": "DE",
+        "n": "Kiss the City - Fine Lines 2",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Skalitzers Contemporary Art",
+        "d": [
+          "2010-04-30",
+          "2010-05-28"
+        ]
+      },
+      {
+        "i": "274943-23441-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "274943-23441-2010-09-10",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "274943-29199-2011-12-03",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "274943-29199-2011-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "274943-14748-2012-10-03",
+        "c": "GB",
+        "n": "Paris street art!",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "London",
+        "o": "The French Art Studio",
+        "d": [
+          "2012-10-03",
+          "2012-11-01"
+        ]
+      }
+    ]
+  }
+}

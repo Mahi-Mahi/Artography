@@ -1,0 +1,92 @@
+{
+  "id": "196962",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 07:23:56",
+  "name": "Cyril Massimelli",
+  "surname": "Massimelli",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1971",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "62120",
+  "r01": "62433",
+  "r02": "58522",
+  "r03": "75246",
+  "r04": "69367",
+  "r05": "62717",
+  "r06": "73527",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2012",
+  "all-shows-total": "1",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": null,
+  "2005-countries-total": "Germany (3)",
+  "2005-shows-with": "Cyril Massimelli (3), Thomas Baumhekel (2), Eberhard Bosslet (2), Stefan Hauberg (2), Andreas Hetfeld (2), Gesa Lange (2), Hendrik Lehmbruch (2)",
+  "representing-galleries": "Galerie Queen Anne (Spinnereistr. 7, 04179 Leipzig, Germany)",
+  "collecting-museums": null,
+  "first_name": "Cyril",
+  "last_name": "Massimelli",
+  "genre": "c",
+  "birthDate": "1971-01-01",
+  "age": 43,
+  "age_range": "41-60",
+  "expos": {
+    "2008": [
+      {
+        "i": "196962-14168-2008-09-05",
+        "c": "DE",
+        "n": "Transformation",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Dresden",
+        "o": "Ostrale",
+        "d": [
+          "2008-09-05",
+          "2008-09-14"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "196962-14168-2009-08-14",
+        "c": "DE",
+        "n": "Ostrale 09",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Dresden",
+        "o": "Ostrale",
+        "d": [
+          "2009-08-14",
+          "2009-09-06"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "196962-10481-2012-03-01",
+        "c": "DE",
+        "n": "In bester Form - Highlights aus Leipziger Galerien 2012",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Leipzig",
+        "o": "Kunsthalle der Sparkasse Leipzig",
+        "d": [
+          "2012-03-01",
+          "2012-05-06"
+        ]
+      }
+    ]
+  }
+}

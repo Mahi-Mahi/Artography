@@ -1,0 +1,77 @@
+{
+  "id": "256800",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 07:44:25",
+  "name": "Delphine Chevrot",
+  "surname": "Chevrot",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1981",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "89650",
+  "r01": "90440",
+  "r02": "87112",
+  "r03": "81974",
+  "r04": "76308",
+  "r05": "82539",
+  "r06": "75428",
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2008",
+  "all-shows-total": "3",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (3)",
+  "2005-shows-with": "Delphine Chevrot (3), Clara Fenise (2), Stephane Kouchian (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Delphine",
+  "last_name": "Chevrot",
+  "genre": "c",
+  "birthDate": "1981-01-01",
+  "age": 33,
+  "age_range": "26-40",
+  "expos": {
+    "2008": [
+      {
+        "i": "256800-10506-2008-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "256800-10506-2008-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "256800-27953-2008-10-19",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "256800-27953-2008-10-19",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "256800-30878-2010-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "256800-30878-2010-11-19",
+        "c": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "52308",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 06:34:28",
+  "name": "André Cottavoz",
+  "surname": "Cottavoz",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "(FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1922",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "96384",
+  "r01": "98287",
+  "r02": "96238",
+  "r03": "114210",
+  "r04": "110064",
+  "r05": "104121",
+  "r06": "96912",
+  "r07": "88551",
+  "r08": "79788",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2006",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Japan (3)",
+  "2005-shows-with": null,
+  "representing-galleries": "Galerie Taménaga (18 avenue Matignon, 75008 Paris, France); Galleria Michelangelo Arte Antica e Moderna (Via Locatelli 7/e, 24121 Bergamo, Italy); Galerie Tamenaga - Osaka (1-4-1, Shiromi Chuo-Ku, Hotel New Otani, 540-001 Osaka, Japan); Galerie Tamenaga - Nakano-Shima (6-2-27, Nakano Shima, Kita-Ku,  Osaka, Japan); Galerie Tamenaga - Tokyo (7-5-4, Ginza Chuo-Ku, 104-0061 Tokyo, Japan); Galerie Mark Peet Visser (Bastion Vught 35, 5211 CZ 's-Hertogenbosch, Netherlands)",
+  "collecting-museums": "Musée de l'Abbaye (Pl. de l\\\\\\'Abbaye,  Saint-Claude, France)",
+  "first_name": "André",
+  "last_name": "Cottavoz",
+  "genre": "m",
+  "birthDate": "1922-01-01",
+  "age": 92,
+  "age_range": "61-100",
+  "expos": {
+    "2006": [
+      {
+        "i": "52308-5036-2006-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "52308-5036-2006-10-20",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "52308-5182-2012-07-01",
+        "c": "JP",
+        "n": "Permanent collection",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Osaka",
+        "o": "Galerie Tamenaga - Osaka",
+        "d": [
+          "2012-07-01",
+          "2012-07-31"
+        ]
+      },
+      {
+        "i": "52308-5181-2012-09-06",
+        "c": "JP",
+        "n": "André Cottavoz",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Tokyo",
+        "o": "Galerie Tamenaga - Tokyo",
+        "d": [
+          "2012-09-06",
+          "2012-09-29"
+        ]
+      },
+      {
+        "i": "52308-5181-2012-10-04",
+        "c": "JP",
+        "n": "André Cottavoz",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Tokyo",
+        "o": "Galerie Tamenaga - Tokyo",
+        "d": [
+          "2012-10-04",
+          "2012-11-03"
+        ]
+      }
+    ]
+  }
+}

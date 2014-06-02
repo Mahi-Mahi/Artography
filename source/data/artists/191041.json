@@ -1,0 +1,100 @@
+{
+  "id": "191041",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 07:21:54",
+  "name": "Alexis Peskine",
+  "surname": "Peskine",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "Paris (FR)",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1979",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": null,
+  "media": null,
+  "r00": "55407",
+  "r01": "54118",
+  "r02": "49056",
+  "r03": "43782",
+  "r04": "56212",
+  "r05": "49514",
+  "r06": "43351",
+  "r07": "42686",
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "2007",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (1), Luxembourg (1), USA (1)",
+  "2005-shows-with": "Alexis Peskine (2)",
+  "representing-galleries": "Zidoun-Bossuyt Gallery  (101, rue Adolphe Fischer, 1520 Luxembourg, Luxembourg)",
+  "collecting-museums": null,
+  "first_name": "Alexis",
+  "last_name": "Peskine",
+  "genre": "c",
+  "birthDate": "1979-01-01",
+  "age": 35,
+  "age_range": "26-40",
+  "expos": {
+    "2008": [
+      {
+        "i": "191041-10948-2008-02-01",
+        "c": "US",
+        "n": "Garveyism",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Rush Arts Gallery",
+        "d": [
+          "2008-02-01",
+          "2008-03-29"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "191041-10520-2011-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "191041-10520-2011-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "191041-21543-2011-01-13",
+        "c": "LU",
+        "n": "Identité Internationale",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Luxembourg",
+        "o": "Zidoun-Bossuyt Gallery ",
+        "d": [
+          "2011-01-13",
+          "2011-02-26"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "191041-16983-2007-09-20",
+        "c": "US",
+        "n": "Alexis Peskine - Cloué: Bound by History, Class & Color",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Hartford, CT",
+        "o": "Real Art Ways",
+        "d": [
+          "2007-09-20",
+          "2007-10-14"
+        ]
+      }
+    ]
+  }
+}

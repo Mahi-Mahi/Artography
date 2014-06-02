@@ -1,0 +1,74 @@
+{
+  "id": "316610",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 08:04:42",
+  "name": "Nicolas Poignon",
+  "surname": "Poignon",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1963",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": null,
+  "r00": "87087",
+  "r01": "89041",
+  "r02": "86696",
+  "r03": "82324",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": "80790",
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1997",
+  "all-shows-total": "4",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "Belgium (1), Canada (1)",
+  "2005-shows-with": "Alexandra Haeseker (2), Nicolas Poignon (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "Nicolas",
+  "last_name": "Poignon",
+  "genre": "m",
+  "birthDate": "1963-01-01",
+  "age": 51,
+  "age_range": "41-60",
+  "expos": {
+    "2011": [
+      {
+        "i": "316610-2281-2011-03-25",
+        "c": "BE",
+        "n": "8e biennale internationale de gravure contemporaine de Liège",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Liège",
+        "o": "MAMAC Musée d´Art Moderne et Contemporain",
+        "d": [
+          "2011-03-25",
+          "2011-05-15"
+        ]
+      },
+      {
+        "i": "316610-22842-2011-07-21",
+        "c": "CA",
+        "n": "7 Biennale internationale d´estampe contemporain",
+        "st": "Group",
+        "ct": "Trois-Rivières, QC",
+        "o": "Biennale d´estampe contemporaine Trois-Rivières",
+        "d": [
+          "2011-07-21",
+          "2011-09-05"
+        ]
+      }
+    ]
+  }
+}

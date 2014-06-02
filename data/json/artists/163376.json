@@ -1,0 +1,227 @@
+{
+  "id": "163376",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 07:12:24",
+  "name": "RYBN",
+  "surname": "RYBN",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": "",
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1999",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Artist collective",
+  "media": null,
+  "r00": "10099",
+  "r01": "10046",
+  "r02": "11410",
+  "r03": "14389",
+  "r04": "33111",
+  "r05": "37669",
+  "r06": "44281",
+  "r07": "41161",
+  "r08": "34715",
+  "awards": null,
+  "website": "rybn.org",
+  "all-shows-first": "2006",
+  "all-shows-total": "10",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
+  "2005-shows-museums": "5",
+  "2005-countries-total": "Belgium (2), Germany (2), Austria (1), Hungary (1), Romania (1), Spain (1), United Kingdom (1)",
+  "2005-shows-with": "RYBN (7), Anna Jermolaewa (2), Antoine Schmitt (2)",
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "RYBN",
+  "last_name": "",
+  "genre": "c",
+  "birthDate": "1999-01-01",
+  "age": 15,
+  "age_range": "0-25",
+  "expos": {
+    "2006": [
+      {
+        "i": "163376-8282-2006-03-25",
+        "c": "FR"
+      },
+      {
+        "i": "163376-8282-2006-03-25",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "163376-7293-2008-04-25",
+        "c": "GB",
+        "n": "Recoded: Landscapes and Politics of New Media",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Aberdeen, Scotland",
+        "o": "Peacock Visual Arts",
+        "d": [
+          "2008-04-25",
+          "2008-05-31"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "163376-16570-2009-05-21",
+        "c": "BE",
+        "n": "V.O.S.T. OV/OT",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "iMAL (interactive Media Art Laboratory)",
+        "d": [
+          "2009-05-21",
+          "2010-05-31"
+        ]
+      },
+      {
+        "i": "163376-16570-2009-03-12",
+        "c": "BE",
+        "n": "Stock Overflow",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "iMAL (interactive Media Art Laboratory)",
+        "d": [
+          "2009-03-12",
+          "2009-03-29"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "163376-16570-2009-05-21",
+        "c": "BE",
+        "n": "V.O.S.T. OV/OT",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "iMAL (interactive Media Art Laboratory)",
+        "d": [
+          "2009-05-21",
+          "2010-05-31"
+        ]
+      },
+      {
+        "i": "163376-12042-2010-04-23",
+        "c": "ES",
+        "n": "el proceso como paradigma",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2010-04-23",
+          "2010-08-30"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "163376-2259-2011-09-16",
+        "c": "DE",
+        "n": "The Global Contemporary, Art Worlds After 1989",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2011-09-16",
+          "2012-02-05"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "163376-2259-2011-09-16",
+        "c": "DE",
+        "n": "The Global Contemporary, Art Worlds After 1989",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2011-09-16",
+          "2012-02-05"
+        ]
+      },
+      {
+        "i": "163376-3104-2012-03-15",
+        "c": "RO",
+        "n": "Re:Made Contemporary Critical Reinterpretations",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2012-03-15",
+          "2012-05-19"
+        ]
+      },
+      {
+        "i": "163376-2120-2012-08-30",
+        "c": "AT",
+        "n": "OK Cyberarts 12 - Prix Ars Electronica Exhibition",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Linz",
+        "o": "OK Offenes Kulturhaus OÖ",
+        "d": [
+          "2012-08-30",
+          "2012-10-06"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "163376-8146-2013-09-14",
+        "c": "DE",
+        "n": "New Industries Festival: Requiem Für Eine Bank",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Dortmund",
+        "o": "HMKV - Hartware MedienKunstVerein",
+        "d": [
+          "2013-09-14",
+          "2014-01-26"
+        ]
+      },
+      {
+        "i": "163376-15219-2013-05-16",
+        "c": "HU",
+        "n": "The Algorithmic Trading Freak Show",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Budapest",
+        "o": "Trafo House of Contemporary Art",
+        "d": [
+          "2013-05-16",
+          "2013-06-15"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "163376-8146-2013-09-14",
+        "c": "DE",
+        "n": "New Industries Festival: Requiem Für Eine Bank",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Dortmund",
+        "o": "HMKV - Hartware MedienKunstVerein",
+        "d": [
+          "2013-09-14",
+          "2014-01-26"
+        ]
+      }
+    ]
+  }
+}

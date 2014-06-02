@@ -1,0 +1,75 @@
+{
+  "id": "343663",
+  "mergedIDs": null,
+  "timestamp": "2014-05-24 08:13:43",
+  "name": "André Poujet",
+  "surname": "Poujet",
+  "nationality": "FR",
+  "nationality fr": "France",
+  "birth location": null,
+  "birth day": 1,
+  "birth month": 1,
+  "birth year": "1919",
+  "death location": null,
+  "death day": null,
+  "death month": null,
+  "death year": null,
+  "attributes": "Male",
+  "media": "Painting",
+  "r00": "90405",
+  "r01": "92816",
+  "r02": "90819",
+  "r03": null,
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
+  "r08": null,
+  "awards": null,
+  "website": null,
+  "all-shows-first": "1947",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": null,
+  "2005-countries-total": "Australia (2)",
+  "2005-shows-with": null,
+  "representing-galleries": null,
+  "collecting-museums": null,
+  "first_name": "André",
+  "last_name": "Poujet",
+  "genre": "m",
+  "birthDate": "1919-01-01",
+  "age": 95,
+  "age_range": "61-100",
+  "expos": {
+    "2012": [
+      {
+        "i": "343663-16085-2012-05-09",
+        "c": "AU",
+        "n": "Vvvvvv Gweeeeen",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Melbourne, VIC",
+        "o": "TCB art inc.",
+        "d": [
+          "2012-05-09",
+          "2012-05-26"
+        ]
+      },
+      {
+        "i": "343663-15622-2012-06-27",
+        "c": "AU",
+        "n": "Guppy Jungle",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Fortitude Valley, QLD",
+        "o": "Ryan Renshaw Gallery",
+        "d": [
+          "2012-06-27",
+          "2012-07-21"
+        ]
+      }
+    ]
+  }
+}
