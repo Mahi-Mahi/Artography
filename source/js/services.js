@@ -41,8 +41,13 @@ define(['angular'], function(angular) {
 
 		dataService.init = function(type) {
 
+			console.log("dataService.init");
 			// dataService.clear();
 
+			console.log(localStorageService.get('version'));
+			if (!localStorageService.get('version')) {
+				localStorageService.add('version', dataService.version);
+			}
 			if (localStorageService.get('version') != dataService.version) {
 				dataService.clear();
 				localStorageService.add('version', dataService.version);
