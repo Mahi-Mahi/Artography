@@ -22,17 +22,47 @@
         "c": "BE",
         "n": "Affordable Art Fair Bruxelles 09",
         "ct": "Brussels"
+      },
+      {
+        "i": "19170-The Affordable Art Fair Paris 09",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "19170-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "19170-cutlog 2010",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "19170-ArtParis 2011",
+        "c": "FR"
+      },
       {
         "i": "19170-Madridfoto 2011",
         "c": "ES",
         "n": "Madridfoto 2011",
         "ct": "Madrid"
+      },
+      {
+        "i": "19170-SLICK 2011",
+        "c": "FR"
+      },
+      {
+        "i": "19170-Photo Off  2011",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "19170-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
       {
         "i": "19170-Madridfoto 2012",
         "c": "ES",
@@ -58,6 +88,10 @@
         "c": "BE",
         "n": "Art Brussels 2013",
         "ct": "Brussels"
+      },
+      {
+        "i": "19170-Paris Photo 2013",
+        "c": "FR"
       }
     ]
   }

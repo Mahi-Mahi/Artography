@@ -1,7 +1,7 @@
 {
   "id": "96544",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:43:21",
+  "timestamp": "2014-05-24 06:49:56",
   "name": "Jean-François Fouilhoux",
   "surname": "Fouilhoux",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "65465",
-  "r01": "62594",
-  "r02": "58250",
-  "r03": "72641",
-  "r04": null,
+  "r00": "47912",
+  "r01": "48442",
+  "r02": "53329",
+  "r03": "49536",
+  "r04": "64959",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,12 +28,12 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "3",
-  "2005-shows-biennials": "1",
-  "2005-shows-galleries": "1",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (2), Switzerland (1)",
-  "2005-shows-with": "Claude Champy (2), Jean-François Fouilhoux (2), Yoshimi Futamura (2), Setsuko Nagasawa (2), Catherine Vanier (2)",
+  "all-shows-total": "5",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (3), Germany (1), Switzerland (1)",
+  "2005-shows-with": "Jean-François Fouilhoux (4), Claude Champy (3), Anne Bulliot (2), Daphné Corregan (2), Alev Ebüzziya (2), Haguiko Fukuyama (2), Yoshimi Futamura (2), Michelle Gardelle (2), Jean Girel (2), Setsuko Nagasawa (2), Gilbert Portanier (2), Hervé Rousseau (2), Gilles Suffren (2), Catherine Vanier (2), Jean Pierre Viot (2)",
   "representing-galleries": "Pulse Contemporary Cermics (4 Place du Chatelain, 1050 Brussels, Belgium); Galerie b15 (Baaderstr. 15, 80469 Munich, Germany)",
   "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); Sèvres - Cité de la céramique (2 Place de la Manufacture, 92310 Sevres, France)",
   "first_name": "Jean-François",
@@ -43,7 +43,25 @@
   "age": 67,
   "age_range": "61-100",
   "expos": {
+    "2010": [
+      {
+        "i": "96544-26731-2010-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "96544-14278-2010-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "96544-14278-2010-09-07",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "96544-26731-2010-09-15",
+        "c": "FR"
+      },
       {
         "i": "96544-5638-2011-09-25",
         "c": "CH",

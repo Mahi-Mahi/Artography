@@ -1,7 +1,7 @@
 {
   "id": "107839",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:47:32",
+  "timestamp": "2014-05-24 06:53:36",
   "name": "David Renaud",
   "surname": "Renaud",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Sculpture",
-  "r00": "4886",
-  "r01": "4572",
-  "r02": "4043",
-  "r03": "4220",
-  "r04": "4168",
-  "r05": "3913",
-  "r06": "3739",
-  "r07": "3672",
-  "r08": "3024",
+  "r00": "6553",
+  "r01": "6092",
+  "r02": "5136",
+  "r03": "4163",
+  "r04": "4208",
+  "r05": "4059",
+  "r06": "4076",
+  "r07": "3807",
+  "r08": "3709",
   "awards": null,
   "website": null,
   "all-shows-first": "1982",
-  "all-shows-total": "43",
+  "all-shows-total": "44",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "16",
-  "2005-countries-total": "France (17), Portugal (1)",
-  "2005-shows-with": "David Renaud (14), Dove Allouche (4), Evariste Richer (4), Martine Aballéa (3), Hamish Fulton (3), Cyprien Gaillard (3), Éric Poitevin (3), Hugues Reip (3), Raphaël Zarka (3), Adel Abdessemed (2), Fanny Adler (2), Pierre Alferi (2), Jean-Marc Ballée (2), Neal Beggs (2), Berdaguer & Péjus (2), Andrea Blum (2), Alighiero Boëtti (2), Mircea Cantor (2), Nicolas Chardon (2), Nina Childress (2), Claude Closky (2), Delphine Coindet (2), Tacita Dean (2), Simone Decker (2), Philippe Decrauzat (2), Detanico & Lain (2), Marcel Dinahet (2), Julien Discrit (2), Jean-Jacques Dumont (2), Jimmie Durham (2), Catharina van Eetvelde (2), Ger van Elk (2), Hans-Peter Feldmann (2), Luigi Ghirri (2), Benjamin Hochart (2), Anne Marie Jugnet (2), Jan Kopp (2), Guillermo Kuitca (2), Vincent Lamouroux (2), Bertrand Lavier (2), Rainier Lericolais (2), Charles Lopez (2), Mathieu Mercier (2), Nicolas Moulin (2), Ugo Rondinone (2), Roman Signer (2), Ernest T. (2), Nathalie Talec (2), John Tremblay (2), herman de vries (2), Kelley Wal",
+  "2005-shows-museums": "17",
+  "2005-countries-total": "France (18), Portugal (1)",
+  "2005-shows-with": "David Renaud (15), Dove Allouche (4), Evariste Richer (4), Martine Aballéa (3), Hamish Fulton (3), Cyprien Gaillard (3), Éric Poitevin (3), Hugues Reip (3), Ernest T. (3), Raphaël Zarka (3), Adel Abdessemed (2), Fanny Adler (2), Pierre Alferi (2), Jean-Marc Ballée (2), Neal Beggs (2), Berdaguer & Péjus (2), Andrea Blum (2), Alighiero Boëtti (2), Mircea Cantor (2), Nicolas Chardon (2), Nina Childress (2), Claude Closky (2), Delphine Coindet (2), Tacita Dean (2), Simone Decker (2), Philippe Decrauzat (2), Detanico & Lain (2), Marcel Dinahet (2), Julien Discrit (2), Jean-Jacques Dumont (2), Jimmie Durham (2), Catharina van Eetvelde (2), Ger van Elk (2), Hans-Peter Feldmann (2), Luigi Ghirri (2), Benjamin Hochart (2), Anne Marie Jugnet (2), Jan Kopp (2), Guillermo Kuitca (2), Vincent Lamouroux (2), Bertrand Lavier (2), Rainier Lericolais (2), Charles Lopez (2), Mathieu Mercier (2), Nicolas Moulin (2), Hugo Pernet (2), Ugo Rondinone (2), Hugo Schüwer-Boss (2), Roman Signer (2), Nathalie Talec (2), John Trem",
   "representing-galleries": "Galerie Anne Barrault (22, rue Saint-Claude, 75003 Paris, France)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France)",
   "first_name": "David",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "107839-9344-2005-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "107839-9344-2005-07-08",
+        "c": "FR"
+      },
       {
         "i": "107839-18972-2005-10-07",
         "c": "IT",
@@ -96,9 +104,25 @@
           "2006-07-08",
           "2006-08-19"
         ]
+      },
+      {
+        "i": "107839-13618-2006-03-25",
+        "c": "FR"
+      },
+      {
+        "i": "107839-13618-2006-03-25",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "107839-7910-2007-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "107839-7910-2007-03-11",
+        "c": "FR"
+      },
       {
         "i": "107839-3104-2007-03-28",
         "c": "RO",
@@ -111,9 +135,127 @@
           "2007-03-28",
           "2007-06-30"
         ]
+      },
+      {
+        "i": "107839-9344-2007-11-16",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "107839-9344-2007-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "107839-18800-2008-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "107839-18800-2008-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "107839-9344-2008-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "107839-9344-2008-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "107839-1372-2008-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "107839-1372-2008-03-01",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "107839-8156-2009-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "107839-8156-2009-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "107839-20789-2009-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "107839-20789-2009-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "107839-9492-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "107839-8996-2009-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "107839-1372-2009-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "107839-1372-2009-11-07",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "107839-9492-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "107839-8996-2009-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "107839-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "107839-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "107839-26739-2010-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "107839-26739-2010-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "107839-21128-2010-07-09",
+        "c": "FR"
+      },
+      {
+        "i": "107839-21128-2010-07-09",
+        "c": "FR"
+      },
+      {
+        "i": "107839-9344-2010-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "107839-28001-2010-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "107839-28001-2010-09-25",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "107839-9344-2010-11-26",
+        "c": "FR"
+      },
       {
         "i": "107839-12330-2011-01-31",
         "c": "PT",
@@ -126,6 +268,44 @@
           "2011-01-31",
           "2011-04-25"
         ]
+      },
+      {
+        "i": "107839-6620-2011-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "107839-6620-2011-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "107839-8996-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "107839-8996-2011-01-28",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "107839-26235-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "107839-26235-2012-07-08",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "107839-2718-2013-11-08",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "107839-2718-2013-11-08",
+        "c": "FR"
       }
     ]
   }

@@ -16,12 +16,28 @@
   "fairs-abroad": "1",
   "fairs-in-FR": "3",
   "fairs": {
+    "2007": [
+      {
+        "i": "13366-SLICK 2007",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "13366-Scope London 2008",
         "c": "GB",
         "n": "Scope London 2008",
         "ct": "London (England)"
+      },
+      {
+        "i": "13366-SLICK 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "13366-SLICK 2009",
+        "c": "FR"
       }
     ]
   }

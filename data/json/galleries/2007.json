@@ -38,10 +38,18 @@
         "ct": "Bologna"
       },
       {
+        "i": "2007-ArtParis 06",
+        "c": "FR"
+      },
+      {
         "i": "2007-Art Brussels 2006- 24th Contemporary Art Fair",
         "c": "BE",
         "n": "Art Brussels 2006- 24th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "2007-Fiac 2006",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -50,6 +58,14 @@
         "c": "IT",
         "n": "Arte Fiera 2007",
         "ct": "Bologna"
+      },
+      {
+        "i": "2007-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "2007-Fiac 2007",
+        "c": "FR"
       },
       {
         "i": "2007-ArtParis - AbuDhabi 2007",
@@ -64,6 +80,14 @@
         "c": "IT",
         "n": "Arte Fiera 2008",
         "ct": "Bologna"
+      },
+      {
+        "i": "2007-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "2007-ST-ART 2008 - 13ème édition",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -72,14 +96,44 @@
         "c": "IT",
         "n": "Arte Fiera 2009",
         "ct": "Bologna"
+      },
+      {
+        "i": "2007-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "2007-Fiac 2009",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "2007-ArtParis 2010",
+        "c": "FR"
+      },
       {
         "i": "2007-Art Brussels 2010 - 28th Contemporary Art Fair",
         "c": "BE",
         "n": "Art Brussels 2010 - 28th Contemporary Art Fair",
         "ct": "Brussels"
+      }
+    ],
+    "2011": [
+      {
+        "i": "2007-ArtParis 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "2007-Art Paris Art Fair 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "2007-Art Paris Art Fair 2013",
+        "c": "FR"
       }
     ]
   }

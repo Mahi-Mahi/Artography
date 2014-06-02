@@ -16,12 +16,22 @@
   "fairs-abroad": "2",
   "fairs-in-FR": "3",
   "fairs": {
+    "2011": [
+      {
+        "i": "18932-Fiac 2011",
+        "c": "FR"
+      }
+    ],
     "2012": [
       {
         "i": "18932-Art Brussels 2012",
         "c": "BE",
         "n": "Art Brussels 2012",
         "ct": "Brussels"
+      },
+      {
+        "i": "18932-Fiac 2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -30,6 +40,10 @@
         "c": "AE",
         "n": "Art Dubai 2013",
         "ct": "Dubai"
+      },
+      {
+        "i": "18932-FIAC 2013",
+        "c": "FR"
       }
     ]
   }

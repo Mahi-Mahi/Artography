@@ -1,7 +1,7 @@
 {
   "id": "57262",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:12",
+  "timestamp": "2014-05-24 06:36:12",
   "name": "Davide Balula",
   "surname": "Balula",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "4693",
-  "r01": "4467",
-  "r02": "5056",
-  "r03": "4803",
-  "r04": "5308",
-  "r05": "5906",
-  "r06": "7051",
-  "r07": "9391",
-  "r08": "11318",
+  "r00": "3097",
+  "r01": "4259",
+  "r02": "3716",
+  "r03": "4289",
+  "r04": "3914",
+  "r05": "4395",
+  "r06": "4842",
+  "r07": "5862",
+  "r08": "8015",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "59",
-  "2005-shows-biennials": "15",
-  "2005-shows-galleries": "15",
-  "2005-shows-museums": "18",
-  "2005-countries-total": "France (20), USA (10), Germany (3), Italy (1), Luxembourg (1), Netherlands (1), Portugal (1), Russia (1), Switzerland (1)",
-  "2005-shows-with": "Davide Balula (32), Clément Rodzielski (4), Delphine Coindet (3), Claire Fontaine (3), Fabrice Hybert (3), Rainier Lericolais (3), Mathieu Mercier (3), Gyan Panchal (3), Emilie Pitoiset (3), Saâdane Afif (2), Wilfrid Almendra (2), Can Altay (2), Olivier Babin (2), Jules de Balincourt (2), Ralph Borland (2), David Brognon & Stéphanie Rollin (2), Peggy Buth (2), Etienne Chambaud (2), Nicolas Chardon (2), Claude Closky (2), Peter Coffin (2), Isabelle Cornaro (2), Ceal Floyer (2), Cyprien Gaillard (2), Vincent Ganivet (2), Mario Garcia Torres (2), Liam Gillick (2), Laurent Grasso (2), Mark Hosking (2), Huong Ngo (2), Guillaume Leblon (2), Isa Melsheimer (2), Olivier Millagou (2), Ricardo Miranda Zuñiga (2), Laurent Montaron (2), Lucy Orta (2), Jorge Pardo (2), Bernard Piffaretti (2), Julien Prévieux (2), J. Morgan Puett (2), Michael Rakowitz (2), Michael Riedel (2), Alyce Santoro (2), Joe Scanlan (2), Franck Scurti (2), Kristina Solomoukha (2), Meredyth Sparks (2), Andrea Zittel (2)",
+  "all-shows-total": "61",
+  "2005-shows-biennials": "17",
+  "2005-shows-galleries": "17",
+  "2005-shows-museums": "20",
+  "2005-countries-total": "France (23), USA (10), Germany (3), Belgium (1), Italy (1), Luxembourg (1), Netherlands (1), Portugal (1), Russia (1), Switzerland (1)",
+  "2005-shows-with": "Davide Balula (35), Clément Rodzielski (4), Delphine Coindet (3), Ceal Floyer (3), Claire Fontaine (3), Fabrice Hybert (3), Rainier Lericolais (3), Mathieu Mercier (3), Laurent Montaron (3), Gyan Panchal (3), Steven Parrino (3), Emilie Pitoiset (3), Saâdane Afif (2), Wilfrid Almendra (2), Can Altay (2), Olivier Babin (2), Jules de Balincourt (2), Pierre Bismuth (2), Ralph Borland (2), Ulla von Brandenburg (2), David Brognon & Stéphanie Rollin (2), Peggy Buth (2), Etienne Chambaud (2), John Chamberlain (2), Nicolas Chardon (2), Claude Closky (2), Peter Coffin (2), Isabelle Cornaro (2), Nicolas Floc\\'h (2), Cyprien Gaillard (2), Vincent Ganivet (2), Dora García (2), Mario Garcia Torres (2), Liam Gillick (2), Laurent Grasso (2), Mark Hosking (2), Huong Ngo (2), Guillaume Leblon (2), Sol LeWitt (2), Isa Melsheimer (2), Olivier Millagou (2), Ricardo Miranda Zuñiga (2), Lucy Orta (2), Jorge Pardo (2), Bernard Piffaretti (2), Diogo Pimentão (2), Julien Prévieux (2), J. Morgan Puett (2), Michael Rakowitz (2), ",
   "representing-galleries": "Galerie Frank Elbaz (66, rue De Turenne, 75003 Paris, France); François Ghebaly Gallery (2600 La Cienega Blvd, CA 90034 Los Angeles, CA, USA); Kowal+Odermatt (250 NW 23Rd St Unit 408, FL 33127 Miami Beach, FL, USA)",
   "collecting-museums": "FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France)",
   "first_name": "Davide",
@@ -44,6 +44,38 @@
   "age_range": "26-40",
   "expos": {
     "2005": [
+      {
+        "i": "57262-7851-2005-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "57262-7851-2005-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "57262-8282-2005-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "57262-8282-2005-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "57262-1293-2005-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "57262-1293-2005-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "57262-8292-2005-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "57262-8292-2005-11-25",
+        "c": "FR"
+      },
       {
         "i": "57262-6700-2005-12-17",
         "c": "NL",
@@ -71,6 +103,30 @@
           "2005-12-17",
           "2006-01-22"
         ]
+      },
+      {
+        "i": "57262-4180-2006-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "57262-4180-2006-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "57262-10522-2006-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "57262-10522-2006-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "57262-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "57262-12314-2006-11-17",
+        "c": "FR"
       },
       {
         "i": "57262-6062-2006-11-23",
@@ -101,6 +157,30 @@
         ]
       },
       {
+        "i": "57262-11859-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "57262-11859-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "57262-22295-2007-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "57262-22295-2007-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "57262-7851-2007-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "57262-7851-2007-06-27",
+        "c": "FR"
+      },
+      {
         "i": "57262-15043-2007-09-07",
         "c": "KR",
         "n": "SFX Seoul 2007",
@@ -114,6 +194,14 @@
         ]
       },
       {
+        "i": "57262-18800-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "57262-18800-2007-09-15",
+        "c": "FR"
+      },
+      {
         "i": "57262-5239-2007-09-25",
         "c": "IT",
         "n": "New entry",
@@ -125,6 +213,30 @@
           "2007-09-25",
           "2007-10-12"
         ]
+      },
+      {
+        "i": "57262-7949-2007-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "57262-7949-2007-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "57262-17165-2007-05-04",
+        "c": "FR"
+      },
+      {
+        "i": "57262-17165-2007-05-04",
+        "c": "FR"
+      },
+      {
+        "i": "57262-4180-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "57262-4180-2007-06-02",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -142,6 +254,18 @@
         ]
       },
       {
+        "i": "57262-17461-2008-07-09",
+        "c": "FR"
+      },
+      {
+        "i": "57262-17461-2008-07-09",
+        "c": "FR"
+      },
+      {
+        "i": "57262-14159-2008-10-11",
+        "c": "FR"
+      },
+      {
         "i": "57262-12798-2008-12-04",
         "c": "US",
         "n": "The Possibility of an Island",
@@ -153,9 +277,21 @@
           "2008-12-04",
           "2009-03-21"
         ]
+      },
+      {
+        "i": "57262-7851-2008-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "57262-7851-2008-05-16",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "57262-14159-2008-10-11",
+        "c": "FR"
+      },
       {
         "i": "57262-12798-2008-12-04",
         "c": "US",
@@ -181,6 +317,14 @@
           "2009-03-07",
           "2009-04-18"
         ]
+      },
+      {
+        "i": "57262-8996-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "57262-8996-2009-03-13",
+        "c": "FR"
       },
       {
         "i": "57262-5451-2009-05-02",
@@ -209,6 +353,14 @@
         ]
       },
       {
+        "i": "57262-7850-2009-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "57262-7850-2009-06-23",
+        "c": "FR"
+      },
+      {
         "i": "57262-20863-2009-09-12",
         "c": "US",
         "n": "Seven in One! Seven in One-Third!!",
@@ -220,6 +372,22 @@
           "2009-09-12",
           "2009-10-17"
         ]
+      },
+      {
+        "i": "57262-10222-2009-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "57262-10222-2009-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "57262-8678-2009-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "57262-8678-2009-10-01",
+        "c": "FR"
       },
       {
         "i": "57262-2447-2009-10-02",
@@ -248,6 +416,30 @@
           "2009-10-02",
           "2010-01-10"
         ]
+      },
+      {
+        "i": "57262-946-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "57262-946-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "57262-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "57262-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "57262-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "57262-10227-2010-05-07",
+        "c": "FR"
       },
       {
         "i": "57262-19666-2010-06-25",
@@ -302,6 +494,10 @@
         ]
       },
       {
+        "i": "57262-19085-2010-11-25",
+        "c": "FR"
+      },
+      {
         "i": "57262-29280-2010-01-08",
         "c": "PT",
         "n": "Davide Balula  - Là / 360, Translucent",
@@ -313,6 +509,14 @@
           "2010-01-08",
           "2010-01-31"
         ]
+      },
+      {
+        "i": "57262-4180-2010-02-27",
+        "c": "FR"
+      },
+      {
+        "i": "57262-4180-2010-02-27",
+        "c": "FR"
       },
       {
         "i": "57262-23337-2010-10-27",
@@ -343,6 +547,18 @@
         ]
       },
       {
+        "i": "57262-19085-2010-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "57262-7851-2011-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "57262-7851-2011-03-18",
+        "c": "FR"
+      },
+      {
         "i": "57262-22954-2011-05-12",
         "c": "NL",
         "n": "May in A’dam",
@@ -354,6 +570,14 @@
           "2011-05-12",
           "2011-05-29"
         ]
+      },
+      {
+        "i": "57262-27842-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "57262-27842-2011-06-25",
+        "c": "FR"
       },
       {
         "i": "57262-23337-2011-06-30",
@@ -380,9 +604,72 @@
           "2011-09-10",
           "2011-10-22"
         ]
+      },
+      {
+        "i": "57262-19670-2011-11-04",
+        "c": "FR"
+      },
+      {
+        "i": "57262-19670-2011-11-04",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "57262-8282-2012-09-04",
+        "c": "FR"
+      },
+      {
+        "i": "57262-8282-2012-09-04",
+        "c": "FR"
+      },
+      {
+        "i": "57262-1782-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "57262-1782-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "57262-11581-2012-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "57262-4180-2012-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "57262-4180-2012-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "57262-18752-2012-07-21",
+        "c": "RU",
+        "n": "The Endless Pace (Mechanical Clock For 60 Dancers)",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Moscow",
+        "o": "Garage Center for Contemporary Culture - GCCC",
+        "d": [
+          "2012-07-21",
+          "2012-07-22"
+        ]
       }
     ],
     "2013": [
+      {
+        "i": "57262-11581-2012-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "57262-4180-2013-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "57262-4180-2013-04-02",
+        "c": "FR"
+      },
       {
         "i": "57262-26518-2013-07-27",
         "c": "CH",
@@ -407,21 +694,6 @@
         "d": [
           "2013-01-25",
           "2013-03-23"
-        ]
-      }
-    ],
-    "2012": [
-      {
-        "i": "57262-18752-2012-07-21",
-        "c": "RU",
-        "n": "The Endless Pace (Mechanical Clock For 60 Dancers)",
-        "t": "Autre",
-        "st": "Solo",
-        "ct": "Moscow",
-        "o": "Garage Center for Contemporary Culture - GCCC",
-        "d": [
-          "2012-07-21",
-          "2012-07-22"
         ]
       }
     ]

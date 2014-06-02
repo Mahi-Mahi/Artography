@@ -1,7 +1,7 @@
 {
   "id": "57263",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:12",
+  "timestamp": "2014-05-24 06:36:12",
   "name": "Marcelline Delbecq",
   "surname": "Delbecq",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "5445",
-  "r01": "5465",
-  "r02": "5922",
-  "r03": "5841",
-  "r04": "6480",
-  "r05": "6518",
-  "r06": "7307",
-  "r07": "9731",
-  "r08": "33409",
+  "r00": "5128",
+  "r01": "4814",
+  "r02": "4532",
+  "r03": "4860",
+  "r04": "4828",
+  "r05": "5353",
+  "r06": "5291",
+  "r07": "5972",
+  "r08": "7877",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "53",
+  "all-shows-total": "54",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "19",
-  "2005-countries-total": "France (18), Switzerland (4), United Kingdom (3), Italy (2), Germany (1), Lebanon (1), Norway (1), Spain (1), Sweden (1), USA (1)",
-  "2005-shows-with": "Marcelline Delbecq (32), Cyprien Gaillard (5), Lara Almárcegui (4), Marc Bauer (4), Tony Chakar (4), Latifa Echakhch (4), Eric Hattan (4), Adrien Missika (4), Estefania Peñafiel Loaiza (4), Dan Perjovschi (4), Lewis Baltz (3), Isabelle Cornaro (3), Anders Edström (3), Ryan Gander (3), Camille Henrot (3), Jean-Luc Moulène (3), Jorge Pedro Núñez (3), Gyan Panchal (3), Alain Séchas (3), Maxime Thieffine (3), Vito Acconci (2), Fanny Adler (2), Carl Andre (2), Olivier Babin (2), Dike Blair (2), Stéphane Calais (2), Daniel Gustav Cramer (2), Stéphane Dafflon (2), Patrizio Di Massimo (2), Claire Fontaine (2), Aurélien Froment (2), Ellie Ga (2), Mario Garcia Torres (2), Felix Gonzalez-Torres (2), André Guedes (2), Louise Hervé & Chloé Maillet (2), Thomas Hirschhorn (2), Véronique Joumard (2), Martin Kippenberger (2), Pierre Leguillon (2), Mark Lewis (2), Mark Lewis (2), Robert Longo (2), Christian Marclay (2), Ariane Michel (2), Gabriel Orozco (2), A. R. Penck (2), Gerald Petit (2), Olivia Plender (2), ",
+  "2005-shows-museums": "20",
+  "2005-countries-total": "France (19), Switzerland (4), United Kingdom (3), Italy (2), Germany (1), Lebanon (1), Norway (1), Spain (1), Sweden (1), USA (1)",
+  "2005-shows-with": "Marcelline Delbecq (33), Cyprien Gaillard (5), Lara Almárcegui (4), Marc Bauer (4), Tony Chakar (4), Latifa Echakhch (4), Ryan Gander (4), Eric Hattan (4), Adrien Missika (4), Estefania Peñafiel Loaiza (4), Dan Perjovschi (4), Lewis Baltz (3), Isabelle Cornaro (3), Anders Edström (3), Mario Garcia Torres (3), Camille Henrot (3), Jean-Luc Moulène (3), Jorge Pedro Núñez (3), Gyan Panchal (3), Alain Séchas (3), Maxime Thieffine (3), Vito Acconci (2), Fanny Adler (2), Carl Andre (2), Julien Audebert (2), Olivier Babin (2), Dike Blair (2), Stéphane Calais (2), Daniel Gustav Cramer (2), Stéphane Dafflon (2), Patrizio Di Massimo (2), Claire Fontaine (2), Aurélien Froment (2), Ellie Ga (2), Felix Gonzalez-Torres (2), André Guedes (2), Louise Hervé & Chloé Maillet (2), Thomas Hirschhorn (2), Véronique Joumard (2), Martin Kippenberger (2), Pierre Leguillon (2), Mark Lewis (2), Mark Lewis (2), Robert Longo (2), Christian Marclay (2), Ariane Michel (2), Clémence de Montgolfier (2), Gabriel Orozco (2), A. R",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Marcelline",
@@ -44,6 +44,14 @@
   "age_range": "26-40",
   "expos": {
     "2005": [
+      {
+        "i": "57263-15274-2005-11-04",
+        "c": "FR"
+      },
+      {
+        "i": "57263-15274-2005-11-04",
+        "c": "FR"
+      },
       {
         "i": "57263-2500-2005-11-26",
         "c": "DE",
@@ -71,9 +79,105 @@
           "2005-11-26",
           "2006-01-08"
         ]
+      },
+      {
+        "i": "57263-10501-2006-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "57263-10501-2006-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "57263-9475-2006-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "57263-9475-2006-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "57263-4180-2006-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "57263-4180-2006-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "57263-8282-2006-04-23",
+        "c": "FR"
+      },
+      {
+        "i": "57263-8282-2006-04-23",
+        "c": "FR"
+      },
+      {
+        "i": "57263-4180-2006-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "57263-4180-2006-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "57263-10811-2006-10-07",
+        "c": "FR"
+      },
+      {
+        "i": "57263-10811-2006-10-07",
+        "c": "FR"
+      },
+      {
+        "i": "57263-4180-2006-10-21",
+        "c": "FR"
+      },
+      {
+        "i": "57263-4180-2006-10-21",
+        "c": "FR"
+      },
+      {
+        "i": "57263-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "57263-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "57263-4180-2006-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "57263-4180-2006-05-06",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "57263-10811-2007-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "57263-10811-2007-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "57263-19341-2007-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "57263-19341-2007-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "57263-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "57263-16095-2007-05-11",
+        "c": "FR"
+      },
       {
         "i": "57263-13635-2007-07-12",
         "c": "US",
@@ -86,6 +190,14 @@
           "2007-07-12",
           "2007-08-25"
         ]
+      },
+      {
+        "i": "57263-18800-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "57263-18800-2007-09-15",
+        "c": "FR"
       },
       {
         "i": "57263-4196-2007-11-15",
@@ -112,6 +224,10 @@
           "2007-12-04",
           "2008-03-08"
         ]
+      },
+      {
+        "i": "57263-8282-2007-12-12",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -127,6 +243,10 @@
           "2007-12-04",
           "2008-03-08"
         ]
+      },
+      {
+        "i": "57263-8282-2007-12-12",
+        "c": "FR"
       },
       {
         "i": "57263-1721-2008-01-17",
@@ -155,6 +275,14 @@
         ]
       },
       {
+        "i": "57263-9060-2008-04-04",
+        "c": "FR"
+      },
+      {
+        "i": "57263-9060-2008-04-04",
+        "c": "FR"
+      },
+      {
         "i": "57263-2038-2008-04-23",
         "c": "IT",
         "n": "I desired what you were, I need what you are",
@@ -179,6 +307,14 @@
           "2008-08-23",
           "2008-10-12"
         ]
+      },
+      {
+        "i": "57263-11890-2008-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "57263-11890-2008-09-13",
+        "c": "FR"
       },
       {
         "i": "57263-20851-2008-11-20",
@@ -209,6 +345,14 @@
         ]
       },
       {
+        "i": "57263-29113-2009-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "57263-29113-2009-02-20",
+        "c": "FR"
+      },
+      {
         "i": "57263-3851-2009-05-02",
         "c": "GB",
         "n": "Desiring Necessities",
@@ -220,6 +364,14 @@
           "2009-05-02",
           "2009-06-20"
         ]
+      },
+      {
+        "i": "57263-23549-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "57263-23549-2009-09-14",
+        "c": "FR"
       },
       {
         "i": "57263-18325-2009-10-24",
@@ -250,6 +402,14 @@
         ]
       },
       {
+        "i": "57263-19790-2010-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "57263-19790-2010-06-14",
+        "c": "FR"
+      },
+      {
         "i": "57263-17368-2010-07-16",
         "c": "ES",
         "n": "5x5Castelló10. Premi Internacional d\\'Art Contemporani Diputació de Castelló",
@@ -261,9 +421,57 @@
           "2010-07-16",
           "2010-09-26"
         ]
+      },
+      {
+        "i": "57263-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "57263-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "57263-9120-2010-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "57263-9120-2010-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "57263-10222-2010-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "57263-4184-2010-12-10",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "57263-10222-2010-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "57263-4184-2010-12-10",
+        "c": "FR"
+      },
+      {
+        "i": "57263-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "57263-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "57263-14920-2011-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "57263-14920-2011-10-08",
+        "c": "FR"
+      },
       {
         "i": "57263-1014-2011-10-12",
         "c": "CH",
@@ -293,6 +501,30 @@
     ],
     "2012": [
       {
+        "i": "57263-25336-2012-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "57263-25336-2012-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "57263-11894-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "57263-11894-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "57263-8282-2012-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "57263-8282-2012-04-11",
+        "c": "FR"
+      },
+      {
         "i": "57263-1014-2012-04-20",
         "c": "CH",
         "n": "The Beirut Experience II",
@@ -317,9 +549,33 @@
           "2012-04-21",
           "2012-06-10"
         ]
+      },
+      {
+        "i": "57263-4184-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "57263-4184-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "57263-8554-2012-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "57263-8554-2012-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "57263-19085-2012-11-29",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "57263-19085-2012-11-29",
+        "c": "FR"
+      },
       {
         "i": "57263-10932-2013-03-21",
         "c": "IT",
@@ -332,6 +588,14 @@
           "2013-03-21",
           "2013-05-11"
         ]
+      },
+      {
+        "i": "57263-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "57263-9475-2013-03-23",
+        "c": "FR"
       }
     ]
   }

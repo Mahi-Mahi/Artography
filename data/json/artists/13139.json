@@ -1,7 +1,7 @@
 {
   "id": "13139",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:08:27",
+  "timestamp": "2014-05-24 06:20:08",
   "name": "Geneviève Asse",
   "surname": "Asse",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting",
-  "r00": "4580",
-  "r01": "7826",
-  "r02": "7873",
-  "r03": "7546",
-  "r04": "7984",
-  "r05": "7159",
-  "r06": "5867",
-  "r07": "4813",
-  "r08": "5125",
+  "r00": "4259",
+  "r01": "4285",
+  "r02": "10432",
+  "r03": "10564",
+  "r04": "9506",
+  "r05": "10343",
+  "r06": "8664",
+  "r07": "6406",
+  "r08": "4913",
   "awards": null,
   "website": null,
   "all-shows-first": "1991",
@@ -35,7 +35,7 @@
   "2005-countries-total": "France (15), Switzerland (5)",
   "2005-shows-with": "Geneviève Asse (10), Julius Bissier (4), Miklos Bokor (4), Arturo Bonfanti (3), Antonio Calderara (3), Olivier Debré (3), Jean Lecoultre (3), Zoran Music (3), Jean-Pierre Pincemin (3), Tal Coat (3), Giulio Camagni (2), Frédéric Clot (2), Vieira da Silva (2), Jim Dine (2), Pierre Dmitrienko (2), Marlene Dumas (2), Simon Edmondson (2), Pierre Edouard (2), André Evrard (2), Martine Franck (2), Monique Frydman (2), Franz Kline (2), Roberto Matta (2), Piet Moget (2), Philippe Monod (2), Rene Myrha (2), Osamu Nakajima (2), Aurélie Nemours (2), Gérard de Palézieux (2), Irving Petlin (2), Pablo Picasso (2), Edda Renouf (2), Germaine Richier (2), François Rouan (2), Kiki Smith (2), Arpad Szenes (2), Jacques Truphémus (2), Félix Vallotton (2), Zao Wouki (2)",
   "representing-galleries": "Galerie Claude Bernard (7-9 rue des Beaux Arts, 75006 Paris, France); Galerie Marwan Hoss (12, rue d´Alger, 75001 Paris, France); L'Or du Temps (25 rue de l'Echaudé, 75006 Paris, France); Galerie Catherine Putman (40,rue Quincampoix, 75004 Paris, France); Oniris Galerie d´art contemporain (38, rue d´Antrain B.P. 60205, 35702 Rennes, France); Galerie Alice Pauli (9, rue du Port-Franc, CH 1003 Lausanne, Switzerland); Galerie Ditesheim & Maffei (8, rue du Château, 2000 Neuchâtel, Switzerland)",
-  "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); Musée des Beaux-Arts de Caen (Le Château, 14000 Caen, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Bretagne (3 rue de Noyal, 35410 Châteaugiron, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); Musée des Beaux-Arts de Rennes (20 quai Emile Zola, 35 000 Rennes, France); les Abattoirs de Toulouse (allées Charles-de-Fitte 76, 31300 Toulouse, France); Musée des Beaux-Arts de Tours (18, place François Sicard, 37000 Tours, France); LaM - Lille Métropole musée d'art moderne, d'art contemporain et d'art brut (1 allée du musée, 59650 Villeneuve d'Ascq, France); The Ashmolean Museum of Art and Archaeology (Beaumont Street, OX1 2PH Oxford (England), United Kingdom); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
+  "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); Musée des Beaux-Arts de Caen (Le Château, 14000 Caen, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Bretagne (3 rue de Noyal, 35410 Châteaugiron, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); Musée des Beaux-Arts de Rennes (20 quai Emile Zola, 35 000 Rennes, France); les Abattoirs de Toulouse (allées Charles-de-Fitte 76, 31300 Toulouse, France); Musée des Beaux-Arts de Tours (18, place François Sicard, 37000 Tours, France); LaM - Lille Métropole musée d'art moderne, d'art contemporain et d'art brut (1 allée du musée, 59650 Villeneuve d'Ascq, France); The Ashmolean Museum of Art and Archaeology (Beaumont Street, OX1 2PH Oxford, United Kingdom); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
   "first_name": "Geneviève",
   "last_name": "Asse",
   "genre": "f",
@@ -44,6 +44,18 @@
   "age_range": "61-100",
   "expos": {
     "2005": [
+      {
+        "i": "13139-2007-2005-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "13139-2007-2005-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "13139-2366-2005-10-08",
+        "c": "FR"
+      },
       {
         "i": "13139-1938-2005-12-01",
         "c": "CH",
@@ -56,9 +68,29 @@
           "2005-12-01",
           "2005-12-23"
         ]
+      },
+      {
+        "i": "13139-2007-2005-12-23",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "13139-2366-2005-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "13139-2007-2005-12-23",
+        "c": "FR"
+      },
+      {
+        "i": "13139-2007-2006-07-11",
+        "c": "FR"
+      },
+      {
+        "i": "13139-2007-2006-07-11",
+        "c": "FR"
+      },
       {
         "i": "13139-2546-2006-09-23",
         "c": "DE",
@@ -71,6 +103,24 @@
           "2006-09-23",
           "2006-11-12"
         ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "13139-5113-2007-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "13139-5113-2007-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "13139-3508-2007-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "13139-3508-2007-03-03",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -86,24 +136,29 @@
           "2009-04-05",
           "2009-06-28"
         ]
-      }
-    ],
-    "2010": [
+      },
       {
-        "i": "13139-1938-2010-04-20",
-        "c": "CH",
-        "n": "Accrochage des artistes de la galerie",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Lausanne",
-        "o": "Galerie Alice Pauli",
-        "d": [
-          "2010-04-20",
-          "2010-05-15"
-        ]
+        "i": "13139-2219-2009-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "13139-2007-2009-09-01",
+        "c": "FR"
+      },
+      {
+        "i": "13139-2007-2009-09-01",
+        "c": "FR"
+      },
+      {
+        "i": "13139-12641-2009-11-27",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "13139-2219-2009-05-27",
+        "c": "FR"
+      },
       {
         "i": "13139-5638-2011-02-06",
         "c": "CH",
@@ -116,6 +171,65 @@
           "2011-02-06",
           "2011-04-17"
         ]
+      },
+      {
+        "i": "13139-18448-2011-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "13139-18448-2011-01-29",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "13139-5113-2010-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "13139-5113-2010-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "13139-8545-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "13139-8545-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "13139-1938-2010-04-20",
+        "c": "CH",
+        "n": "Accrochage des artistes de la galerie",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Lausanne",
+        "o": "Galerie Alice Pauli",
+        "d": [
+          "2010-04-20",
+          "2010-05-15"
+        ]
+      },
+      {
+        "i": "13139-19358-2010-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "13139-19358-2010-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "13139-12641-2009-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "13139-3508-2010-01-16",
+        "c": "FR"
+      },
+      {
+        "i": "13139-3508-2010-01-16",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -131,6 +245,18 @@
           "2012-01-22",
           "2012-02-26"
         ]
+      },
+      {
+        "i": "13139-2017-2012-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "13139-2017-2012-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "13139-10121-2012-11-24",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -146,6 +272,50 @@
           "2013-02-10",
           "2013-03-10"
         ]
+      },
+      {
+        "i": "13139-10121-2012-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "13139-23506-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "13139-23506-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "13139-18448-2013-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "13139-18448-2013-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "13139-2007-2013-04-04",
+        "c": "FR"
+      },
+      {
+        "i": "13139-2007-2013-04-04",
+        "c": "FR"
+      },
+      {
+        "i": "13139-2219-2013-06-26",
+        "c": "FR"
+      },
+      {
+        "i": "13139-2219-2013-06-26",
+        "c": "FR"
+      },
+      {
+        "i": "13139-3508-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "13139-3508-2013-09-21",
+        "c": "FR"
       }
     ]
   }

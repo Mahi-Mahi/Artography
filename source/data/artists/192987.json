@@ -1,7 +1,7 @@
 {
   "id": "192987",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:21:06",
+  "timestamp": "2014-05-24 07:22:35",
   "name": "Benoit-Marie Moriceau",
   "surname": "Moriceau",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "13951",
-  "r01": "13565",
-  "r02": "14010",
-  "r03": "15330",
-  "r04": "33010",
-  "r05": "46641",
-  "r06": "43302",
-  "r07": "46398",
-  "r08": "61812",
+  "r00": "9473",
+  "r01": "11471",
+  "r02": "10785",
+  "r03": "11116",
+  "r04": "12206",
+  "r05": "28340",
+  "r06": "41087",
+  "r07": "37374",
+  "r08": "41896",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "24",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
-  "2005-shows-museums": "6",
-  "2005-countries-total": "France (18), Canada (1), Portugal (1)",
-  "2005-shows-with": "Benoit-Marie Moriceau (16), Antoine Dorotte (4), Angélique Lecaille (4), Briac Lepretre (4), Benoît Maire (4), Armand Morin (4), Samir Mougas (4), Yann Sérandour (4), Wilfrid Almendra (3), Mark Geffriaud (3), Louise Hervé & Chloé Maillet (3), Bevis Martin & Charlie Youle (3), Nicolas Milhé (3), Julien Nédélec (3), Blaise Parmentier (3), Ernesto Sartori (3), Mélanie Vincent (3), Pierre Bismuth (2), Isabelle Cornaro (2), Julien Crépieux (2), Camille Henrot (2), Laurent Le Deunff (2), Jean-Luc Moulène (2), Jorge Pedro Núñez (2), Masahide Otani (2), Bruno Persat (2), Flavien Théry (2), Duncan Wylie (2), Raphaël Zarka (2)",
+  "all-shows-total": "26",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (20), Canada (1), Portugal (1)",
+  "2005-shows-with": "Benoit-Marie Moriceau (17), Antoine Dorotte (5), Angélique Lecaille (4), Briac Lepretre (4), Benoît Maire (4), Armand Morin (4), Samir Mougas (4), Yann Sérandour (4), Wilfrid Almendra (3), Mark Geffriaud (3), Louise Hervé & Chloé Maillet (3), Bevis Martin & Charlie Youle (3), Nicolas Milhé (3), Julien Nédélec (3), Blaise Parmentier (3), Ernesto Sartori (3), Mélanie Vincent (3), Pierre Bismuth (2), Isabelle Cornaro (2), Jocelyn Cottencin (2), Julien Crépieux (2), Laurent Duthion (2), Camille Henrot (2), Laurent Le Deunff (2), Jean-Luc Moulène (2), Jorge Pedro Núñez (2), Masahide Otani (2), Bruno Persat (2), Flavien Théry (2), Duncan Wylie (2), Raphaël Zarka (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Benoit-Marie",
@@ -43,7 +43,172 @@
   "age": 34,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "192987-20542-2005-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "192987-20542-2005-04-08",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "192987-12314-2006-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "192987-12314-2006-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "192987-20784-2006-10-28",
+        "c": "CH",
+        "n": "Benoit-Marie Moriceau - Restricted Area",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Geneva",
+        "o": "espace kugler - Art contemporain",
+        "d": [
+          "2006-10-28",
+          "2006-11-12"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "192987-10990-2008-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "192987-10990-2008-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "192987-11492-2008-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "192987-11492-2008-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "192987-20542-2007-11-06",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "192987-8542-2009-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "192987-8542-2009-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "192987-9947-2009-11-03",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "192987-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "192987-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "192987-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "192987-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "192987-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "192987-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "192987-10522-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "192987-10522-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "192987-9947-2009-11-03",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "192987-20542-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "192987-20542-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "192987-19673-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "192987-19673-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "192987-10522-2011-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "192987-10522-2011-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "192987-23298-2011-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "192987-23298-2011-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "192987-20542-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "192987-20542-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "192987-25336-2011-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "192987-25336-2011-01-22",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "192987-8897-2012-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "192987-8897-2012-02-02",
+        "c": "FR"
+      },
       {
         "i": "192987-8030-2012-09-14",
         "c": "CA",
@@ -56,6 +221,14 @@
           "2012-09-14",
           "2012-10-20"
         ]
+      },
+      {
+        "i": "192987-11627-2012-01-05",
+        "c": "FR"
+      },
+      {
+        "i": "192987-11627-2012-01-05",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -71,21 +244,28 @@
           "2013-06-06",
           "2013-07-20"
         ]
+      },
+      {
+        "i": "192987-20542-2013-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "192987-20542-2013-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "192987-11627-2013-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "192987-11627-2013-06-22",
+        "c": "FR"
       }
     ],
-    "2006": [
+    "2007": [
       {
-        "i": "192987-20784-2006-10-28",
-        "c": "CH",
-        "n": "Benoit-Marie Moriceau - Restricted Area",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Geneva",
-        "o": "espace kugler - Art contemporain",
-        "d": [
-          "2006-10-28",
-          "2006-11-12"
-        ]
+        "i": "192987-20542-2007-11-06",
+        "c": "FR"
       }
     ]
   }

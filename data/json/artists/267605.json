@@ -1,7 +1,7 @@
 {
   "id": "267605",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:50:00",
+  "timestamp": "2014-05-24 07:48:08",
   "name": "Emmanuelle Castellan",
   "surname": "Castellan",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "51057",
-  "r01": "49619",
-  "r02": "46191",
-  "r03": "58072",
-  "r04": "60994",
-  "r05": "53522",
-  "r06": "54346",
-  "r07": "46804",
-  "r08": "38946",
+  "r00": "45199",
+  "r01": "45422",
+  "r02": "46963",
+  "r03": "44176",
+  "r04": "68568",
+  "r05": "83299",
+  "r06": "68345",
+  "r07": "70925",
+  "r08": "57561",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (5), Germany (1), Ukraine (1)",
-  "2005-shows-with": "Emmanuelle Castellan (5), Stéphane Pichard (3), Erik Göngrich (2), Sylvia Henrich (2)",
+  "2005-countries-total": "France (6), Germany (1), Ukraine (1)",
+  "2005-shows-with": "Emmanuelle Castellan (6), Stéphane Pichard (3), Erik Göngrich (2), Sylvia Henrich (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Emmanuelle",
@@ -56,9 +56,35 @@
           "2011-02-25",
           "2011-04-02"
         ]
+      },
+      {
+        "i": "267605-10235-2011-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "267605-10235-2011-04-17",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "267605-8999-2012-04-26",
+        "c": "FR"
+      },
+      {
+        "i": "267605-8999-2012-04-26",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "267605-10235-2013-02-24",
+        "c": "FR"
+      },
+      {
+        "i": "267605-10235-2013-02-24",
+        "c": "FR"
+      },
       {
         "i": "267605-20057-2013-04-08",
         "c": "UA",
@@ -71,6 +97,26 @@
           "2013-04-08",
           "2013-04-22"
         ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "267605-22493-2008-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "267605-22493-2008-06-10",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "267605-8999-2010-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "267605-8999-2010-09-14",
+        "c": "FR"
       }
     ]
   }

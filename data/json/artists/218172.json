@@ -1,7 +1,7 @@
 {
   "id": "218172",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:30:55",
+  "timestamp": "2014-05-24 07:31:13",
   "name": "Nicolas Delaroche",
   "surname": "Delaroche",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "31055",
-  "r01": "29061",
-  "r02": "26459",
-  "r03": "30892",
-  "r04": "38361",
-  "r05": null,
+  "r00": "25850",
+  "r01": "25344",
+  "r02": "22483",
+  "r03": "19755",
+  "r04": "22967",
+  "r05": "29431",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -31,9 +31,9 @@
   "all-shows-total": "7",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "Switzerland (4), France (1), Italy (1), USA (1)",
-  "2005-shows-with": "Nicolas Delaroche (6), Yann Amstutz (4), George Awde (4), Kristoffer Axén (4), Benjamin Beker (4), Joshua Bilton (4), Bogdan Andrei Bordeianu (4), Maxime Brygo (4), Chang Kyun Kim (4), Tehila Cohen (4), Jen Davis (4), David De Beyter (4), Sylvia Doebelt (4), Dru Donovan (4), David Favrod (4), Daniela Friebel (4), Matthieu Gafsou (4), Anne Golaz (4), Lena Gomon (4), Nick Graham (4), Audrey Guiraud (4), Claudia Hanimann (4), Florian Joye (4), Kalle Kataila (4), Daniel Kaufmann (4), Ani Kington (4), Markus Klingenhäger (4), Richard Kolker (4), Sylwia Kowalczyk (4), Ania Krupiakov (4), Ivar Kvaal (4), Elisa Larvego (4), Shane Lavalette (4), SungHee Lee (4), Jacinthe Lessard-L. (4), Liu Di (4), Sophie T. Lvoff (4), Agata Madejska (4), David Molander (4), Ágnes Éva Molnar (4), Richard Mosse (4), Milo Newman (4), Yusuke Nishimura (4), Ya\\'ara Oren (4), Anna Orlowska (4), Jennifer Osborne (4), Margo Ovcharenko (4), Nelli Palomäki (4), Augustin Rebetez (4), Andrea Star Reese (4), Nicole Robson (4), Simone Rosenba",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "Switzerland (3), France (1), Italy (1), USA (1)",
+  "2005-shows-with": "Nicolas Delaroche (5), Yann Amstutz (4), George Awde (4), Kristoffer Axén (4), Benjamin Beker (4), Joshua Bilton (4), Bogdan Andrei Bordeianu (4), Maxime Brygo (4), Chang Kyun Kim (4), Tehila Cohen (4), Jen Davis (4), David De Beyter (4), Sylvia Doebelt (4), Dru Donovan (4), David Favrod (4), Daniela Friebel (4), Matthieu Gafsou (4), Anne Golaz (4), Lena Gomon (4), Nick Graham (4), Audrey Guiraud (4), Claudia Hanimann (4), Florian Joye (4), Kalle Kataila (4), Daniel Kaufmann (4), Ani Kington (4), Markus Klingenhäger (4), Richard Kolker (4), Sylwia Kowalczyk (4), Ania Krupiakov (4), Ivar Kvaal (4), Elisa Larvego (4), Shane Lavalette (4), SungHee Lee (4), Jacinthe Lessard-L. (4), Liu Di (4), Sophie T. Lvoff (4), Agata Madejska (4), David Molander (4), Ágnes Éva Molnar (4), Richard Mosse (4), Milo Newman (4), Yusuke Nishimura (4), Ya\\'ara Oren (4), Anna Orlowska (4), Jennifer Osborne (4), Margo Ovcharenko (4), Nelli Palomäki (4), Augustin Rebetez (4), Andrea Star Reese (4), Nicole Robson (4), Simone Rosenba",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Nicolas",
@@ -97,6 +97,14 @@
           "2011-01-21",
           "2011-03-17"
         ]
+      },
+      {
+        "i": "218172-27948-2011-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "218172-27948-2011-04-07",
+        "c": "FR"
       },
       {
         "i": "218172-12803-2011-05-07",

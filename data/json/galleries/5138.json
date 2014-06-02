@@ -16,5 +16,75 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "13",
   "fairs": {
+    "2005": [
+      {
+        "i": "5138-ArtParis 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "5138-ArtParis 06",
+        "c": "FR"
+      },
+      {
+        "i": "5138-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5138-ArtParis 07",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5138-Art Elysées 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5138-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "5138-Art Elysées 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5138-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "5138-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5138-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "5138-ArtParis 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5138-Art Paris Art Fair 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5138-Art Paris Art Fair 2013",
+        "c": "FR"
+      }
+    ]
   }
 }

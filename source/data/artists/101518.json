@@ -1,7 +1,7 @@
 {
   "id": "101518",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:45:04",
+  "timestamp": "2014-05-24 06:51:30",
   "name": "Claire Chevrier",
   "surname": "Chevrier",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "9970",
-  "r01": "9333",
-  "r02": "11517",
-  "r03": "10402",
-  "r04": "9203",
-  "r05": "8579",
-  "r06": "7912",
-  "r07": "6841",
-  "r08": "11660",
+  "r00": "11877",
+  "r01": "11088",
+  "r02": "9505",
+  "r03": "12656",
+  "r04": "10447",
+  "r05": "8662",
+  "r06": "7778",
+  "r07": "6974",
+  "r08": "5774",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "23",
+  "all-shows-total": "24",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "10",
-  "2005-countries-total": "France (12), Canada (1), Spain (1)",
-  "2005-shows-with": "Claire Chevrier (9), Jean-Marc Bustamante (2), Gérard Collin-Thiébaut (2), Mario Giacomelli (2), Corinne Mercadier (2), Jean-Luc Moulène (2), Julien Prévieux (2), Allan Sekula (2), Bruno Serralongue (2), Patrick Tosani (2)",
+  "2005-shows-museums": "11",
+  "2005-countries-total": "France (13), Canada (1), Spain (1)",
+  "2005-shows-with": "Claire Chevrier (10), Jean-Luc Moulène (3), Patrick Tosani (3), Jean-Marc Bustamante (2), Gérard Collin-Thiébaut (2), Stéphane Couturier (2), Mario Giacomelli (2), Ange Leccia (2), Corinne Mercadier (2), Julien Prévieux (2), Allan Sekula (2), Bruno Serralongue (2)",
   "representing-galleries": "Galerie Domi Nostrae (39, Cours de la Liberté, 69003 Lyon, France); Galerie Gilles Peyroulet & Cie (75 & 80 rue Quincampoix, 75003 Paris, France)",
   "collecting-museums": "Musée Nicéphore Niépce (28, Quai des Messageries, 71100 Chalon sur Saône, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
   "first_name": "Claire",
@@ -43,7 +43,61 @@
   "age": 51,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "101518-7491-2005-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "101518-7491-2005-02-11",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "101518-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "101518-8129-2006-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "101518-8129-2006-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "101518-8129-2006-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "101518-8129-2006-03-18",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "101518-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "101518-1907-2007-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "101518-1907-2007-03-08",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "101518-8129-2008-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "101518-8129-2008-03-01",
+        "c": "FR"
+      },
       {
         "i": "101518-17713-2008-06-18",
         "c": "CA",
@@ -56,9 +110,57 @@
           "2008-06-18",
           "2008-10-13"
         ]
+      },
+      {
+        "i": "101518-1907-2008-11-20",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "101518-1907-2009-01-24",
+        "c": "FR"
+      },
+      {
+        "i": "101518-1907-2009-01-24",
+        "c": "FR"
+      },
+      {
+        "i": "101518-1907-2008-11-20",
+        "c": "FR"
+      },
+      {
+        "i": "101518-10244-2009-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "101518-10244-2009-09-26",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "101518-27815-2010-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "101518-27815-2010-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "101518-27815-2010-12-11",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "101518-8129-2012-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "101518-8129-2012-02-12",
+        "c": "FR"
+      },
       {
         "i": "101518-6536-2012-05-31",
         "c": "ES",
@@ -71,6 +173,54 @@
           "2012-05-31",
           "2012-09-30"
         ]
+      },
+      {
+        "i": "101518-8568-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "101518-26739-2012-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "101518-27835-2012-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "101518-27835-2012-02-04",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "101518-8568-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "101518-26739-2012-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "101518-10244-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "101518-10244-2013-04-13",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "101518-27815-2010-12-11",
+        "c": "FR"
+      },
+      {
+        "i": "101518-16265-2011-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "101518-16265-2011-06-15",
+        "c": "FR"
       }
     ]
   }

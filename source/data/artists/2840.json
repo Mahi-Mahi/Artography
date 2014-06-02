@@ -1,7 +1,7 @@
 {
   "id": "2840",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:03:35",
+  "timestamp": "2014-05-24 06:15:55",
   "name": "François Bouillon",
   "surname": "Bouillon",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "13931",
-  "r01": "17047",
-  "r02": "18385",
-  "r03": "16091",
-  "r04": "13934",
-  "r05": "14938",
-  "r06": "13827",
-  "r07": "12153",
-  "r08": "15303",
+  "r00": "13076",
+  "r01": "13780",
+  "r02": "19567",
+  "r03": "24688",
+  "r04": "21350",
+  "r05": "17510",
+  "r06": "20928",
+  "r07": "18158",
+  "r08": "15089",
   "awards": null,
   "website": null,
   "all-shows-first": "1984",
-  "all-shows-total": "23",
+  "all-shows-total": "24",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "7",
-  "2005-countries-total": "France (8), Belgium (1), Germany (1)",
-  "2005-shows-with": "François Bouillon (10), Pierre Buraglio (3), Glen Baxter (2), Damien Cabanes (2), Claude Closky (2), Henri Cueco (2), Marinette Cueco (2), Osman Dinc (2), Philippe Favier (2), Daniel Firman (2), Shirley Jaffe (2), Barbara & Michael Leisgen (2), Frédérique Loutz (2), Olivier Masmonteil (2), Philippe Mayaux (2), Bernard Quesniaux (2), Jean-Pierre Uhlen (2), Claude Viallat (2), Erwin Wurm (2)",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (9), Belgium (1), Germany (1)",
+  "2005-shows-with": "François Bouillon (11), Pierre Buraglio (3), Glen Baxter (2), Damien Cabanes (2), Claude Closky (2), Henri Cueco (2), Marinette Cueco (2), Osman Dinc (2), Philippe Favier (2), Daniel Firman (2), Shirley Jaffe (2), Barbara & Michael Leisgen (2), Frédérique Loutz (2), Olivier Masmonteil (2), Philippe Mayaux (2), Bernard Quesniaux (2), Jean-Pierre Uhlen (2), Claude Viallat (2), Erwin Wurm (2)",
   "representing-galleries": "Atelier Eric Seydoux (6, rue de l'Abbé-Carton, 75014 Paris, France); Galerie Jordan Seydoux (Auguststrasse 22, 10117 Berlin, Germany); Studio Gariboldi (Palazzo Cicogna - Corso Monforte 23, 20122 Milan, Italy)",
-  "collecting-museums": "FRAC - Picardie (45 rue Pointin, 80041 Amiens, France); Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Bretagne (3 rue de Noyal, 35410 Châteaugiron, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); Maison d’art contemporain Chaillioux - MACC (5 rue Julien Chaillioux, 94260 Fresnes, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France); Musée Départemental d'Art Contemporain de Rochechouart (place du Château, 87600  Rochechouart, France); Musée des beaux-arts Denys-Puech (Place Clémenceau, 12000 Rodez, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
+  "collecting-museums": "FRAC - Picardie (45 rue Pointin, 80041 Amiens, France); Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Bretagne (3 rue de Noyal, 35410 Châteaugiron, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); Maison d’art contemporain Chaillioux - MACC (5 rue Julien Chaillioux, 94260 Fresnes, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France); Musée Départemental d'Art Contemporain de Rochechouart (place du Château, 87600  Rochechouart, France); Musée Denys-Puech (Place Clémenceau, 12000 Rodez, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
   "first_name": "François",
   "last_name": "Bouillon",
   "genre": "m",
@@ -57,7 +57,25 @@
         ]
       }
     ],
+    "2007": [
+      {
+        "i": "2840-20029-2007-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "2840-20029-2007-06-07",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "2840-20029-2008-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "2840-20029-2008-01-17",
+        "c": "FR"
+      },
       {
         "i": "2840-17611-2008-07-10",
         "c": "DE",
@@ -70,6 +88,26 @@
           "2008-07-10",
           "2008-08-30"
         ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "2840-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "2840-9475-2009-07-04",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "2840-11867-2010-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "2840-11867-2010-09-14",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -85,6 +123,50 @@
           "2011-05-08",
           "2011-06-19"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "2840-9344-2012-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "2840-9344-2012-06-22",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "2840-28755-2013-01-01",
+        "c": "FR"
+      },
+      {
+        "i": "2840-28755-2013-01-01",
+        "c": "FR"
+      },
+      {
+        "i": "2840-27818-2013-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "2840-27818-2013-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "2840-9475-2013-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "2840-9475-2013-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "2840-10519-2013-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "2840-10519-2013-10-02",
+        "c": "FR"
       }
     ]
   }

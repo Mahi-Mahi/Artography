@@ -1,7 +1,7 @@
 {
   "id": "71975",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:33:07",
+  "timestamp": "2014-05-24 06:41:24",
   "name": "André Robillard",
   "surname": "Robillard",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "55869",
-  "r01": "51794",
-  "r02": "47909",
-  "r03": "42812",
-  "r04": "37825",
-  "r05": "32922",
-  "r06": "28337",
-  "r07": "28035",
-  "r08": "34707",
+  "r00": "52904",
+  "r01": "45217",
+  "r02": "43937",
+  "r03": "36549",
+  "r04": "30070",
+  "r05": "24323",
+  "r06": "19636",
+  "r07": "15842",
+  "r08": "13994",
   "awards": null,
   "website": null,
   "all-shows-first": "1992",
-  "all-shows-total": "9",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (2), USA (1)",
-  "2005-shows-with": "André Robillard (3), Royal Robertson (2), Ionel Talpazan (2)",
-  "representing-galleries": "Galerie Susanne  Zander (Antwerpener Str. 1, 50672 Cologne, Germany); Galerie Susi Brunner (Spitalgasse 10, 8001 Zurich, Switzerland)",
+  "2005-countries-total": "France (3), Austria (1), USA (1)",
+  "2005-shows-with": "André Robillard (5), Ionel Talpazan (3), Howard Finster (2), Chris Hipkiss (2), Renaldo Kuhler (2), Paul Laffoley (2), Michel Nedjar (2), Royal Robertson (2), George Widener (2)",
+  "representing-galleries": "Galerie der Künstler aus Gugging (Hauptstr. 2, 3400 Maria -Gugging, Austria); Galerie Susanne  Zander (Antwerpener Str. 1, 50672 Cologne, Germany); Galerie Susi Brunner (Spitalgasse 10, 8001 Zurich, Switzerland)",
   "collecting-museums": "LaM - Lille Métropole musée d'art moderne, d'art contemporain et d'art brut (1 allée du musée, 59650 Villeneuve d'Ascq, France)",
   "first_name": "André",
   "last_name": "Robillard",
@@ -84,6 +84,34 @@
           "2006-12-03",
           "2007-01-28"
         ]
+      },
+      {
+        "i": "71975-2565-2007-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "71975-2565-2007-06-04",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "71975-13240-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "71975-13240-2008-06-06",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "71975-13240-2012-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "71975-13240-2012-10-16",
+        "c": "FR"
       }
     ],
     "2013": [

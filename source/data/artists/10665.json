@@ -1,7 +1,7 @@
 {
   "id": "10665",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:14",
+  "timestamp": "2014-05-24 06:19:10",
   "name": "Fabrice Langlade",
   "surname": "Langlade",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "9879",
-  "r01": "9508",
-  "r02": "8497",
-  "r03": "9015",
-  "r04": "8885",
-  "r05": "11250",
-  "r06": "16764",
-  "r07": "16770",
-  "r08": "17222",
+  "r00": "10459",
+  "r01": "9988",
+  "r02": "9274",
+  "r03": "7724",
+  "r04": "8189",
+  "r05": "7900",
+  "r06": "10603",
+  "r07": "16944",
+  "r08": "16751",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "25",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "all-shows-total": "26",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
   "2005-shows-museums": "8",
-  "2005-countries-total": "France (7), Austria (3), Switzerland (3), Germany (1), Spain (1)",
-  "2005-shows-with": "Fabrice Langlade (13), Elina Brotherus (4), Sergey Bratkov (3), Maïder Fortuné (3), Françoise Petrovitch (3), Iris Sara Schiller (3), Yves Tremorin (3), Hans Witschi (3), Lauri Astala (2), Hanna Brotherus (2), Marc Couturier (2), Jan Fabre (2), Cao Guimarães (2), Sunil Gupta (2), Charlotte Gyllenhammar (2), Michael Kalmbach (2), Gudrun Kampl (2), André Masson (2), Luc Mattenberger (2), Andrea Muheim (2), Peter Neuchs (2), Samuel Rousseau (2), Laurent Tixador (2), Bob Verschueren (2)",
+  "2005-countries-total": "France (8), Austria (3), Switzerland (3), Germany (1), Spain (1)",
+  "2005-shows-with": "Fabrice Langlade (14), Elina Brotherus (4), Sergey Bratkov (3), Maïder Fortuné (3), Françoise Petrovitch (3), Iris Sara Schiller (3), Yves Tremorin (3), Hans Witschi (3), Lauri Astala (2), Hanna Brotherus (2), Marc Couturier (2), Jan Fabre (2), Cao Guimarães (2), Sunil Gupta (2), Charlotte Gyllenhammar (2), Michael Kalmbach (2), Gudrun Kampl (2), André Masson (2), Luc Mattenberger (2), Andrea Muheim (2), Peter Neuchs (2), Samuel Rousseau (2), Laurent Tixador (2), Bob Verschueren (2)",
   "representing-galleries": "GALERIE FREY (Erhardplatz 3, 5020 Salzburg, Austria); Galerie Steinek (Eschenbachgasse 4, 1010 Vienna, Austria); Galeria Millan (Rua Fradique Coutinho 1360, 05416 - 00 São Paulo, Brazil); JGM. Galerie (8 bis, rue Jacques Callot, 75006 Paris, France); Galerie Guy Bärtschi (Route des Jeunes 43, Allée G, 1227 Geneva, Switzerland)",
   "collecting-museums": "FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France)",
   "first_name": "Fabrice",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2007": [
+      {
+        "i": "10665-2048-2007-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "10665-2048-2007-03-01",
+        "c": "FR"
+      },
       {
         "i": "10665-14042-2007-09-29",
         "c": "RS",
@@ -59,6 +67,22 @@
       }
     ],
     "2008": [
+      {
+        "i": "10665-16305-2008-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "10665-16305-2008-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "10665-3864-2008-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "10665-3864-2008-05-07",
+        "c": "FR"
+      },
       {
         "i": "10665-1238-2008-07-01",
         "c": "AT",
@@ -142,6 +166,14 @@
     ],
     "2010": [
       {
+        "i": "10665-20164-2010-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "10665-20164-2010-03-23",
+        "c": "FR"
+      },
+      {
         "i": "10665-896-2010-05-20",
         "c": "CH",
         "n": "20 Years Already!",
@@ -181,6 +213,32 @@
           "2010-10-09",
           "2011-01-02"
         ]
+      },
+      {
+        "i": "10665-18811-2011-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "10665-18811-2011-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "10665-8282-2011-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "10665-8282-2011-04-08",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "10665-3983-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "10665-3983-2012-09-08",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -196,6 +254,24 @@
           "2013-06-24",
           "2013-09-06"
         ]
+      },
+      {
+        "i": "10665-29111-2013-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "10665-29111-2013-06-25",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "10665-2048-2006-05-04",
+        "c": "FR"
+      },
+      {
+        "i": "10665-2048-2006-05-04",
+        "c": "FR"
       }
     ]
   }

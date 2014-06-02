@@ -1,7 +1,7 @@
 {
   "id": "36262",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:18:38",
+  "timestamp": "2014-05-24 06:28:44",
   "name": "Francis Limérat",
   "surname": "Limérat",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sculpture, Drawings",
-  "r00": "24838",
-  "r01": "26462",
-  "r02": "25795",
-  "r03": "24276",
-  "r04": "33666",
-  "r05": "30229",
-  "r06": "48317",
-  "r07": "45148",
-  "r08": "45989",
+  "r00": "20243",
+  "r01": "19545",
+  "r02": "19897",
+  "r03": "18596",
+  "r04": "16924",
+  "r05": "31800",
+  "r06": "28288",
+  "r07": "48912",
+  "r08": "45280",
   "awards": null,
   "website": null,
   "all-shows-first": "1980",
-  "all-shows-total": "21",
-  "2005-shows-biennials": "9",
-  "2005-shows-galleries": "9",
+  "all-shows-total": "22",
+  "2005-shows-biennials": "10",
+  "2005-shows-galleries": "10",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (10), Canada (1), USA (1)",
+  "2005-countries-total": "France (11), Canada (1), USA (1)",
   "2005-shows-with": "Francis Limérat (8), Noël Dolla (2), Charles Hill (2)",
   "representing-galleries": "Arrêt sur l'image Galerie (Hangar G2 - Quai Armand Lalande, 3330 Bordeaux, France); Galerie Sabine Puget (château barras, 83670 Fox-Amphoux, France); art/espace (1 Bis avenue Léman, 74200 Thonon-Les-Bains, France); 212GALLERY (525 East Cooper Avenue, 81611 Aspen, CO, USA)",
   "collecting-museums": "FRAC - Picardie (45 rue Pointin, 80041 Amiens, France); Musée des Beaux-arts d'Angers (, 49100 Angers, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
@@ -43,7 +43,55 @@
   "age": 68,
   "age_range": "61-100",
   "expos": {
+    "2006": [
+      {
+        "i": "36262-10222-2006-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "36262-10222-2006-05-17",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "36262-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "36262-20179-2007-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "36262-8553-2008-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "36262-8553-2008-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "36262-4241-2008-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "36262-4241-2008-11-13",
+        "c": "FR"
+      }
+    ],
     "2009": [
+      {
+        "i": "36262-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "36262-5456-2009-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "36262-5456-2009-06-13",
+        "c": "FR"
+      },
       {
         "i": "36262-19669-2009-08-07",
         "c": "US",
@@ -56,6 +104,34 @@
           "2009-08-07",
           "2009-09-07"
         ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "36262-2303-2010-08-22",
+        "c": "FR"
+      },
+      {
+        "i": "36262-2303-2010-08-22",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "36262-4241-2011-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "36262-4241-2011-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "36262-5456-2011-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "36262-5456-2011-03-17",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -71,6 +147,32 @@
           "2012-05-27",
           "2012-08-26"
         ]
+      },
+      {
+        "i": "36262-24014-2012-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "36262-24014-2012-02-02",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "36262-1380-2013-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "36262-1380-2013-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "36262-4241-2013-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "36262-4241-2013-09-18",
+        "c": "FR"
       }
     ],
     "2005": [
@@ -86,6 +188,12 @@
           "2005-04-16",
           "2005-05-14"
         ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "36262-20179-2007-11-08",
+        "c": "FR"
       }
     ]
   }

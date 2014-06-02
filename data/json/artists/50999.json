@@ -1,7 +1,7 @@
 {
   "id": "50999",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:24:32",
+  "timestamp": "2014-05-24 06:34:00",
   "name": "Julien Prévieux",
   "surname": "Prévieux",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video",
-  "r00": "2427",
-  "r01": "2467",
-  "r02": "2989",
-  "r03": "3785",
-  "r04": "3848",
-  "r05": "3974",
-  "r06": "5639",
-  "r07": "9685",
-  "r08": "10457",
+  "r00": "1731",
+  "r01": "1847",
+  "r02": "1829",
+  "r03": "2405",
+  "r04": "3099",
+  "r05": "3124",
+  "r06": "3221",
+  "r07": "4737",
+  "r08": "8550",
   "awards": null,
   "website": "www.previeux.net",
   "all-shows-first": "2003",
-  "all-shows-total": "80",
+  "all-shows-total": "82",
   "2005-shows-biennials": "9",
   "2005-shows-galleries": "9",
-  "2005-shows-museums": "37",
-  "2005-countries-total": "France (39), Belgium (4), Netherlands (4), Taiwan (2), Austria (1), Croatia (1), Germany (1), Greece (1), Hungary (1), Italy (1), Romania (1), Spain (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Julien Prévieux (53), Liam Gillick (6), Mathieu Mercier (6), Virginie Yassef (6), Carey Young (6), Geert Goiris (5), Martin Le Chevallier (5), Claude Lévêque (5), Jean-Luc Moulène (5), Yann Sérandour (5), Tatiana Trouvé (5), Raphaël Zarka (5), Adel Abdessemed (4), Saâdane Afif (4), Fayçal Baghriche (4), Mircea Cantor (4), Claude Closky (4), Wim Delvoye (4), Nicolas Floc\\'h (4), Julie-Christine Fortier (4), Ryan Gander (4), Jos de Gruyter & Harald Thys (4), Santiago Sierra (4), Roman Signer (4), Javier Téllez (4), Jean-Luc Vilmouth (4), Erwin Wurm (4), Boris Achour (3), Allora & Calzadilla (3), Francis Alys (3), Atelier van Lieshout (3), Robert Barry (3), Alain Bernardini (3), Julien Berthier (3), Dominique Blais (3), Michel Blazy (3), Katinka Bock (3), Christian Boltanski (3), Stéphane Calais (3), Matthieu Clainchard (3), Vaast Colson (3), Isabelle Cornaro (3), François Curlet (3), Philippe Decrauzat (3), Jeremy Deller (3), Dewar & Gicquel (3), Sammy Engramer (3), Harun Farocki (3), Ceal Floyer (3",
+  "2005-shows-museums": "40",
+  "2005-countries-total": "France (42), Belgium (5), Netherlands (4), Taiwan (2), Austria (1), Croatia (1), Germany (1), Greece (1), Hungary (1), Italy (1), Romania (1), Spain (1), Switzerland (1), USA (1)",
+  "2005-shows-with": "Julien Prévieux (57), Carey Young (7), Liam Gillick (6), Mathieu Mercier (6), Yann Sérandour (6), Virginie Yassef (6), Claude Closky (5), Geert Goiris (5), Martin Le Chevallier (5), Claude Lévêque (5), Jean-Luc Moulène (5), Roman Signer (5), Tatiana Trouvé (5), Raphaël Zarka (5), Adel Abdessemed (4), Saâdane Afif (4), Atelier van Lieshout (4), Fayçal Baghriche (4), Dominique Blais (4), Mircea Cantor (4), Wim Delvoye (4), Nicolas Floc\\'h (4), Julie-Christine Fortier (4), Ryan Gander (4), Jos de Gruyter & Harald Thys (4), Fabrice Hybert (4), Matthieu Laurette (4), Santiago Sierra (4), Javier Téllez (4), Jean-Luc Vilmouth (4), Erwin Wurm (4), Boris Achour (3), Allora & Calzadilla (3), Francis Alys (3), Robert Barry (3), Alain Bernardini (3), Julien Berthier (3), Michel Blazy (3), Katinka Bock (3), Christian Boltanski (3), Ulla von Brandenburg (3), Stéphane Calais (3), Matthieu Clainchard (3), Vaast Colson (3), Isabelle Cornaro (3), François Curlet (3), Philippe Decrauzat (3), Jeremy Deller (3), Dewar",
   "representing-galleries": "Jousse Entreprise (6 Rue Saint-Claude, 75003 Paris, France); West Den Haag (Groenewegje 136, 2515 LR The Hague, Netherlands)",
   "collecting-museums": null,
   "first_name": "Julien",
@@ -43,7 +43,75 @@
   "age": 40,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "50999-2528-2005-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "50999-2528-2005-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "50999-8282-2005-11-03",
+        "c": "FR"
+      },
+      {
+        "i": "50999-8282-2005-11-03",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "50999-1939-2006-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "50999-1939-2006-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "50999-8282-2006-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "50999-8282-2006-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "50999-11771-2006-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "50999-11771-2006-11-16",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "50999-7347-2007-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "50999-7347-2007-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "50999-7912-2007-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "50999-7912-2007-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10870-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10870-2007-07-07",
+        "c": "FR"
+      },
       {
         "i": "50999-3933-2007-09-08",
         "c": "TR",
@@ -81,9 +149,53 @@
           "2007-10-27",
           "2007-11-30"
         ]
+      },
+      {
+        "i": "50999-1939-2007-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "50999-1939-2007-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "50999-18800-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "50999-18800-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "50999-18149-2007-12-06",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "50999-26775-2008-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "50999-26775-2008-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "50999-18906-2008-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "50999-18906-2008-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "50999-16340-2008-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "50999-16340-2008-04-17",
+        "c": "FR"
+      },
       {
         "i": "50999-6186-2008-04-19",
         "c": "IT",
@@ -98,6 +210,22 @@
         ]
       },
       {
+        "i": "50999-13901-2008-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "50999-13901-2008-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "50999-21802-2008-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "50999-21802-2008-05-16",
+        "c": "FR"
+      },
+      {
         "i": "50999-7127-2008-09-03",
         "c": "RO",
         "n": "The Young Artists’ Biennial - Re-construction",
@@ -108,6 +236,14 @@
           "2008-09-03",
           "2009-03-31"
         ]
+      },
+      {
+        "i": "50999-8282-2008-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "50999-8282-2008-09-05",
+        "c": "FR"
       },
       {
         "i": "50999-3989-2008-09-06",
@@ -136,6 +272,14 @@
         ]
       },
       {
+        "i": "50999-11771-2008-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "50999-11771-2008-09-20",
+        "c": "FR"
+      },
+      {
         "i": "50999-17202-2008-10-20",
         "c": "BE",
         "n": "La theorie du Komplot",
@@ -160,6 +304,22 @@
           "2008-11-29",
           "2009-01-31"
         ]
+      },
+      {
+        "i": "50999-18149-2007-12-06",
+        "c": "FR"
+      },
+      {
+        "i": "50999-9061-2008-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "50999-9061-2008-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10218-2008-10-18",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -189,6 +349,30 @@
         ]
       },
       {
+        "i": "50999-10227-2009-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10227-2009-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "50999-11771-2009-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "50999-11771-2009-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "50999-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "50999-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
         "i": "50999-15596-2009-04-25",
         "c": "NL",
         "n": "The Tragic and the Funny meet again",
@@ -202,6 +386,14 @@
         ]
       },
       {
+        "i": "50999-10237-2009-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10237-2009-05-16",
+        "c": "FR"
+      },
+      {
         "i": "50999-9150-2009-06-28",
         "c": "BE",
         "n": "Work Now",
@@ -213,6 +405,10 @@
           "2009-06-28",
           "2009-09-27"
         ]
+      },
+      {
+        "i": "50999-10218-2008-10-18",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -230,6 +426,22 @@
         ]
       },
       {
+        "i": "50999-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "50999-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
         "i": "50999-15411-2010-06-19",
         "c": "TW",
         "n": "Love At First Sight: Contemporary Art Made In France - Collection FRAC Nord-Pas de Calais",
@@ -241,6 +453,14 @@
           "2010-06-19",
           "2010-08-22"
         ]
+      },
+      {
+        "i": "50999-23510-2010-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "50999-23510-2010-06-19",
+        "c": "FR"
       },
       {
         "i": "50999-22838-2010-08-07",
@@ -267,9 +487,37 @@
           "2010-06-09",
           "2010-07-17"
         ]
+      },
+      {
+        "i": "50999-13618-2010-11-06",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "50999-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "50999-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10679-2011-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10679-2011-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "50999-7491-2011-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "50999-7491-2011-05-20",
+        "c": "FR"
+      },
       {
         "i": "50999-15877-2011-05-25",
         "c": "HU",
@@ -333,6 +581,22 @@
           "2011-10-22",
           "2011-12-11"
         ]
+      },
+      {
+        "i": "50999-10221-2011-11-12",
+        "c": "FR"
+      },
+      {
+        "i": "50999-13618-2010-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "50999-12129-2011-09-19",
+        "c": "FR"
+      },
+      {
+        "i": "50999-12129-2011-09-19",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -363,6 +627,34 @@
         ]
       },
       {
+        "i": "50999-10221-2011-11-12",
+        "c": "FR"
+      },
+      {
+        "i": "50999-28278-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "50999-28278-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "50999-2585-2012-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "50999-2585-2012-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "50999-14238-2012-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "50999-14238-2012-02-17",
+        "c": "FR"
+      },
+      {
         "i": "50999-7427-2012-03-04",
         "c": "AT",
         "n": "Wunder",
@@ -389,20 +681,41 @@
         ]
       },
       {
-        "i": "50999-10777-2012-12-01",
-        "c": "US",
-        "n": "Lost (in La)",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Los Angeles, CA",
-        "o": "Los Angeles Municipal Art Gallery (LAMAG)",
-        "d": [
-          "2012-12-01",
-          "2013-01-27"
-        ]
-      }
-    ],
-    "2013": [
+        "i": "50999-21098-2012-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "50999-21098-2012-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "50999-26775-2012-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "50999-26775-2012-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "50999-1939-2012-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "50999-1939-2012-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "50999-8568-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "50999-2303-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "50999-2303-2012-11-15",
+        "c": "FR"
+      },
       {
         "i": "50999-10777-2012-12-01",
         "c": "US",
@@ -415,6 +728,97 @@
           "2012-12-01",
           "2013-01-27"
         ]
+      },
+      {
+        "i": "50999-10517-2012-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10517-2012-05-05",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "50999-8568-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10777-2012-12-01",
+        "c": "US",
+        "n": "Lost (in La)",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Los Angeles, CA",
+        "o": "Los Angeles Municipal Art Gallery (LAMAG)",
+        "d": [
+          "2012-12-01",
+          "2013-01-27"
+        ]
+      },
+      {
+        "i": "50999-26251-2013-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "50999-26251-2013-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "50999-1939-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "50999-1939-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10221-2013-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10221-2013-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "50999-11771-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "50999-11771-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "50999-29986-2013-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "50999-29986-2013-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10244-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "50999-10244-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "50999-1293-2013-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "50999-1293-2013-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "50999-27794-2013-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "50999-27794-2013-05-30",
+        "c": "FR"
       }
     ]
   }

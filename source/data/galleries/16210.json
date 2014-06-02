@@ -18,6 +18,10 @@
   "fairs": {
     "2008": [
       {
+        "i": "16210-ArtParis 08",
+        "c": "FR"
+      },
+      {
         "i": "16210-Art Beijing 2008",
         "c": "CN",
         "n": "Art Beijing 2008",
@@ -31,6 +35,10 @@
       }
     ],
     "2009": [
+      {
+        "i": "16210-ArtParis 09",
+        "c": "FR"
+      },
       {
         "i": "16210-Art Beijing 2009",
         "c": "CN",
@@ -46,6 +54,18 @@
     ],
     "2010": [
       {
+        "i": "16210-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "16210-SLICK 2010",
+        "c": "FR"
+      },
+      {
+        "i": "16210-Photo Off 2010",
+        "c": "FR"
+      },
+      {
         "i": "16210-Scope Miami 2010",
         "c": "US",
         "n": "Scope Miami 2010",
@@ -54,10 +74,22 @@
     ],
     "2011": [
       {
+        "i": "16210-ArtParis 2011",
+        "c": "FR"
+      },
+      {
         "i": "16210-ArtHK11",
         "c": "CN",
         "n": "ArtHK11",
         "ct": "Hong Kong, SAR"
+      },
+      {
+        "i": "16210-SLICK 2011",
+        "c": "FR"
+      },
+      {
+        "i": "16210-Paris Photo 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -66,6 +98,22 @@
         "c": "SG",
         "n": "Art Stage Singapore 2012",
         "ct": "Singapore"
+      },
+      {
+        "i": "16210-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "16210-Slick Brussels 2012",
+        "c": "FR"
+      },
+      {
+        "i": "16210-fotofever artfair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "16210-SLICK 2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -80,6 +128,22 @@
         "c": "GB",
         "n": "Art13 London",
         "ct": "London (England)"
+      },
+      {
+        "i": "16210-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "16210-Yia Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "16210-Slick Paris 2013",
+        "c": "FR"
+      },
+      {
+        "i": "16210-Paris Photo 2013",
+        "c": "FR"
       }
     ]
   }

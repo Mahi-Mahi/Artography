@@ -28,6 +28,10 @@
         "c": "BE",
         "n": "Art Brussels 2005 - 23rd Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "1566-Fiac 2005",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -42,9 +46,17 @@
         "c": "BE",
         "n": "Art Brussels 2006- 24th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "1566-Fiac 2006",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "1566-ArtParis 07",
+        "c": "FR"
+      },
       {
         "i": "1566-Art Brussels 2007- 25th Contemporary Art Fair",
         "c": "BE",
@@ -70,6 +82,10 @@
         "c": "IT",
         "n": "ROMA The Road to Contemporary Art 2008",
         "ct": "Rome"
+      },
+      {
+        "i": "1566-ArtParis 08",
+        "c": "FR"
       },
       {
         "i": "1566-Art Brussels 2008- 26th Contemporary Art Fair",
@@ -116,6 +132,10 @@
         "ct": "New York City, NY"
       },
       {
+        "i": "1566-Fiac 2009",
+        "c": "FR"
+      },
+      {
         "i": "1566-NADA Art Fair Miami Beach 2009",
         "c": "US",
         "n": "NADA Art Fair Miami Beach 2009",
@@ -134,6 +154,10 @@
         "c": "MA",
         "n": "Marrakech Art Fair",
         "ct": "Marrakech"
+      },
+      {
+        "i": "1566-Fiac 2010",
+        "c": "FR"
       },
       {
         "i": "1566-Artissima 17",
@@ -192,6 +216,10 @@
         "c": "IT",
         "n": "Artissima 19",
         "ct": "Turin"
+      },
+      {
+        "i": "1566-Paris Photo 2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -218,6 +246,10 @@
         "c": "DE",
         "n": "abc art berlin contemporary 2013",
         "ct": "Berlin"
+      },
+      {
+        "i": "1566-Paris Photo 2013",
+        "c": "FR"
       }
     ]
   }

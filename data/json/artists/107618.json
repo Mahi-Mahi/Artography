@@ -1,7 +1,7 @@
 {
   "id": "107618",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:47:27",
+  "timestamp": "2014-05-24 06:53:31",
   "name": "Pierre-Etienne Morelle",
   "surname": "Morelle",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "28331",
-  "r01": "26033",
-  "r02": "24125",
-  "r03": "28190",
-  "r04": "25576",
-  "r05": "21942",
-  "r06": "18591",
-  "r07": "17654",
-  "r08": "31918",
+  "r00": "35308",
+  "r01": "31201",
+  "r02": "25639",
+  "r03": "22287",
+  "r04": "27957",
+  "r05": "23925",
+  "r06": "19593",
+  "r07": "15894",
+  "r08": "14736",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "6",
-  "2005-shows-biennials": "1",
-  "2005-shows-galleries": "1",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
   "2005-shows-museums": "1",
-  "2005-countries-total": "Germany (4), France (1)",
-  "2005-shows-with": "Pierre-Etienne Morelle (2)",
+  "2005-countries-total": "Germany (5), France (1)",
+  "2005-shows-with": "Pierre-Etienne Morelle (3)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Pierre-Etienne",
@@ -60,6 +60,14 @@
     ],
     "2011": [
       {
+        "i": "107618-9492-2011-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "107618-9492-2011-01-15",
+        "c": "FR"
+      },
+      {
         "i": "107618-30440-2011-11-18",
         "c": "DE",
         "n": "Solos II",
@@ -84,6 +92,16 @@
           "2011-07-15",
           "2011-08-07"
         ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "107618-7978-2006-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "107618-7978-2006-05-16",
+        "c": "FR"
       }
     ],
     "2010": [

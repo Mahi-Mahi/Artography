@@ -1,7 +1,7 @@
 {
   "id": "379858",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:32:55",
+  "timestamp": "2014-05-24 08:25:26",
   "name": "Pierre Daniel",
   "surname": "Daniel",
   "nationality": "FR",
@@ -16,9 +16,9 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "67591",
-  "r01": "112371",
-  "r02": null,
+  "r00": "53194",
+  "r01": "54919",
+  "r02": "112748",
   "r03": null,
   "r04": null,
   "r05": null,
@@ -33,7 +33,7 @@
   "2005-shows-galleries": "2",
   "2005-shows-museums": null,
   "2005-countries-total": "France (3)",
-  "2005-shows-with": "Pierre Daniel (2), Yann Gerstberger (2)",
+  "2005-shows-with": "Pierre Daniel (2), Yann Gerstberger (2), Guillaume Linard-Osorio (2)",
   "representing-galleries": "Galerie Alain Gutharc (7, Rue Saint-Claude, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Pierre",
@@ -43,5 +43,33 @@
   "age": 27,
   "age_range": "26-40",
   "expos": {
+    "2012": [
+      {
+        "i": "379858-2013-2012-12-08",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "379858-2013-2012-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "379858-2013-2013-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "379858-2013-2013-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "379858-11850-2013-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "379858-11850-2013-12-03",
+        "c": "FR"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "107883",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:47:33",
+  "timestamp": "2014-05-24 06:53:37",
   "name": "Jean Girel",
   "surname": "Girel",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "77697",
-  "r01": "74733",
-  "r02": "70168",
-  "r03": "64978",
-  "r04": null,
+  "r00": "63392",
+  "r01": "63901",
+  "r02": "60160",
+  "r03": "56336",
+  "r04": "51486",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,12 +28,12 @@
   "awards": null,
   "website": null,
   "all-shows-first": "1985",
-  "all-shows-total": "3",
-  "2005-shows-biennials": null,
-  "2005-shows-galleries": null,
+  "all-shows-total": "4",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
   "2005-shows-museums": "1",
-  "2005-countries-total": "Belgium (1), France (1)",
-  "2005-shows-with": "Jean Girel (2)",
+  "2005-countries-total": "France (2), Belgium (1)",
+  "2005-shows-with": "Jean Girel (3), Jean-François Fouilhoux (2)",
   "representing-galleries": "Pierre-Marie Giraud (15, rue des Minimes, 1000 Brussels, Belgium)",
   "collecting-museums": "FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); Sèvres - Cité de la céramique (2 Place de la Manufacture, 92310 Sevres, France)",
   "first_name": "Jean",
@@ -56,6 +56,16 @@
           "2010-04-23",
           "2010-10-31"
         ]
+      },
+      {
+        "i": "107883-26731-2010-09-15",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "107883-26731-2010-09-15",
+        "c": "FR"
       }
     ]
   }

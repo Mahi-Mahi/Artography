@@ -1,7 +1,7 @@
 {
   "id": "67883",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:31:27",
+  "timestamp": "2014-05-24 06:39:59",
   "name": "Alexandre Hollan",
   "surname": "Hollan",
   "nationality": "FR, HU",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "11329",
-  "r01": "10821",
-  "r02": "14735",
-  "r03": "15940",
-  "r04": "14174",
-  "r05": "16807",
-  "r06": "14600",
-  "r07": "17341",
-  "r08": "21877",
+  "r00": "10511",
+  "r01": "10044",
+  "r02": "9015",
+  "r03": "13051",
+  "r04": "13850",
+  "r05": "11632",
+  "r06": "13435",
+  "r07": "12213",
+  "r08": "15277",
   "awards": null,
   "website": null,
   "all-shows-first": "1985",
   "all-shows-total": "37",
   "2005-shows-biennials": "15",
   "2005-shows-galleries": "15",
-  "2005-shows-museums": "6",
-  "2005-countries-total": "France (18), Germany (2), Italy (1), Switzerland (1)",
-  "2005-shows-with": "Alexandre Hollan (12), Pierre Buraglio (4), Arthur Aillaud (2), Gilles Altieri (2), Vincent Barré (2), Janos Ber (2), Vincent Bioulès (2), Daniel Brandely (2), Philippe Hélénon (2), Jeff Kowatch (2), Guy de Malherbe (2), Denis Martin (2), Herta Müller (2), Beth Reisman (2), Anthony Verot (2)",
-  "representing-galleries": "Ottilia Pribilla Gallery (Kronenburgstraat 21, 2000 Antwerp, Belgium); Galerie Chantal Melanson Art Contemporain (10 passage de la Cathédrale, 74000 Annecy\t, France); Galerie La Navire (4, Boulevard Clémenceau, 71144-29221 Brest, France); Galerie Vieille Du Temple (23 rue Vieille du Temple, 75004 Paris, France); art/espace (1 Bis avenue Léman, 74200 Thonon-Les-Bains, France); Kunstkabinett Hans Martin Hennig (Argelanderstraße 79, 53115 Bonn, Germany); Galerie Annamarie M. Andersen (Bodmerstr. 8, 8002 Zurich, Switzerland)",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (18), Germany (2), Belgium (1), Italy (1), Switzerland (1)",
+  "2005-shows-with": "Alexandre Hollan (13), Pierre Buraglio (4), Arthur Aillaud (2), Gilles Altieri (2), Vincent Barré (2), Janos Ber (2), Vincent Bioulès (2), Daniel Brandely (2), Rodney Graham (2), Philippe Hélénon (2), Jeff Kowatch (2), Guy de Malherbe (2), Denis Martin (2), Herta Müller (2), Giuseppe Penone (2), Beth Reisman (2), Anthony Verot (2)",
+  "representing-galleries": "Ottilia Pribilla Gallery (Kronenburgstraat 21, 2000 Antwerp, Belgium); Galerie Chantal Melanson Art Contemporain (10 passage de la Cathédrale, 74000 Annecy, France); Galerie La Navire (4, Boulevard Clémenceau, 71144-29221 Brest, France); Galerie Vieille Du Temple (23 rue Vieille du Temple, 75004 Paris, France); art/espace (1 Bis avenue Léman, 74200 Thonon-Les-Bains, France); Kunstkabinett Hans Martin Hennig (Argelanderstraße 79, 53115 Bonn, Germany); Galerie Annamarie M. Andersen (Bodmerstr. 8, 8002 Zurich, Switzerland)",
   "collecting-museums": "Musée du Hiéron (13 rue de la Paix, 71600 Paray-le-Monial, France)",
   "first_name": "Alexandre",
   "last_name": "Hollan",
@@ -43,22 +43,23 @@
   "age": 81,
   "age_range": "61-100",
   "expos": {
-    "2009": [
-      {
-        "i": "67883-8660-2009-04-05",
-        "c": "CH",
-        "n": "arte & natura",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Bellinzona",
-        "o": "Museo Civico Villa dei Cedri",
-        "d": [
-          "2009-04-05",
-          "2009-06-28"
-        ]
-      }
-    ],
     "2005": [
+      {
+        "i": "67883-5138-2005-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2005-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2005-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2005-09-15",
+        "c": "FR"
+      },
       {
         "i": "67883-8787-2005-05-20",
         "c": "DE",
@@ -75,20 +76,21 @@
     ],
     "2006": [
       {
-        "i": "67883-10876-2006-10-15",
-        "c": "CA",
-        "n": "Un seul arbre : Alexandre Hollan vu par Louise Warren",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Joliette, Québec",
-        "o": "Musée D´Art de Joliette",
-        "d": [
-          "2006-10-15",
-          "2007-01-14"
-        ]
-      }
-    ],
-    "2007": [
+        "i": "67883-27953-2006-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "67883-27953-2006-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2006-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2006-09-14",
+        "c": "FR"
+      },
       {
         "i": "67883-10876-2006-10-15",
         "c": "CA",
@@ -103,35 +105,96 @@
         ]
       },
       {
-        "i": "67883-17887-2007-03-16",
-        "c": "BE",
-        "n": "Alexandre Hollan",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Antwerp",
-        "o": "Ottilia Pribilla Gallery",
-        "d": [
-          "2007-03-16",
-          "2007-04-21"
-        ]
+        "i": "67883-5138-2006-12-09",
+        "c": "FR"
       }
     ],
-    "2008": [
+    "2009": [
       {
-        "i": "67883-28207-2008-02-29",
-        "c": "DE",
-        "n": "Alexandre Hollan - Den Baum sehen",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Bonn",
-        "o": "Kunstkabinett Hans Martin Hennig",
+        "i": "67883-8660-2009-04-05",
+        "c": "CH",
+        "n": "arte & natura",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bellinzona",
+        "o": "Museo Civico Villa dei Cedri",
         "d": [
-          "2008-02-29",
-          "2008-04-30"
+          "2009-04-05",
+          "2009-06-28"
         ]
+      },
+      {
+        "i": "67883-5138-2009-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2009-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "67883-11882-2009-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "67883-20341-2009-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "67883-20341-2009-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "67883-10860-2009-11-03",
+        "c": "FR"
+      },
+      {
+        "i": "67883-10860-2009-11-03",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2009-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2009-01-15",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "67883-11882-2009-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "67883-11882-2010-04-10",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "67883-11882-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2011-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2011-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "67883-24014-2011-12-10",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2011-01-01",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2011-01-01",
+        "c": "FR"
+      },
       {
         "i": "67883-28207-2011-04-01",
         "c": "DE",
@@ -161,6 +224,34 @@
     ],
     "2012": [
       {
+        "i": "67883-24014-2011-12-10",
+        "c": "FR"
+      },
+      {
+        "i": "67883-11882-2012-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "67883-11882-2012-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2012-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2012-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "67883-11777-2012-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "67883-11777-2012-10-20",
+        "c": "FR"
+      },
+      {
         "i": "67883-2308-2011-10-09",
         "c": "IT",
         "n": "Alexandre Hollan. Silences en couleurs",
@@ -171,6 +262,111 @@
         "d": [
           "2011-10-09",
           "2012-02-05"
+        ]
+      },
+      {
+        "i": "67883-10121-2012-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "67883-10121-2012-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2012-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "67883-5138-2012-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "67883-9061-2012-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "67883-9061-2012-06-24",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "67883-17190-2013-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "67883-17190-2013-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "67883-28272-2013-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "67883-28272-2013-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "67883-24014-2013-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "67883-24014-2013-11-07",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "67883-10876-2006-10-15",
+        "c": "CA",
+        "n": "Un seul arbre : Alexandre Hollan vu par Louise Warren",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Joliette, Québec",
+        "o": "Musée D´Art de Joliette",
+        "d": [
+          "2006-10-15",
+          "2007-01-14"
+        ]
+      },
+      {
+        "i": "67883-5138-2006-12-09",
+        "c": "FR"
+      },
+      {
+        "i": "67883-17887-2007-03-16",
+        "c": "BE",
+        "n": "Alexandre Hollan",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Antwerp",
+        "o": "Ottilia Pribilla Gallery",
+        "d": [
+          "2007-03-16",
+          "2007-04-21"
+        ]
+      },
+      {
+        "i": "67883-2260-2007-11-16",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "67883-2260-2007-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "67883-28207-2008-02-29",
+        "c": "DE",
+        "n": "Alexandre Hollan - Den Baum sehen",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Bonn",
+        "o": "Kunstkabinett Hans Martin Hennig",
+        "d": [
+          "2008-02-29",
+          "2008-04-30"
         ]
       }
     ]

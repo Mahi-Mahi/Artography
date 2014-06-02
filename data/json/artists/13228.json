@@ -1,7 +1,7 @@
 {
   "id": "13228",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:08:29",
+  "timestamp": "2014-05-24 06:20:11",
   "name": "André Stempfel",
   "surname": "Stempfel",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "23330",
-  "r01": "20893",
-  "r02": "18234",
-  "r03": "15775",
-  "r04": "13572",
-  "r05": "12814",
-  "r06": "14352",
-  "r07": "11527",
-  "r08": "15285",
+  "r00": "35127",
+  "r01": "30397",
+  "r02": "26506",
+  "r03": "21649",
+  "r04": "17995",
+  "r05": "14759",
+  "r06": "14350",
+  "r07": "17769",
+  "r08": "12963",
   "awards": null,
   "website": null,
   "all-shows-first": "1959",
-  "all-shows-total": "18",
+  "all-shows-total": "19",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
   "2005-shows-museums": "1",
   "2005-countries-total": "France (3), Germany (2), Hungary (1), Slovakia (1)",
   "2005-shows-with": "André Stempfel (5), Carmelo Arden Quin (2), Charles Bézie (2), Bolívar (2), Giancarlo Caporicci (2), Franco Cortese (2), Marián Drugda (2), János Fajó (2), Joël Froment (2), Jean-Michel Gasquet (2), Ingo Glass (2), Hans-Jörg Glattfelder (2), István Haász (2), Viktor Hulík (2), László Tamás Kovács (2), Antonia Lambelé (2), Dany Paal (2), Volf Roitman (2), János Saxon Szász (2), Gaby Terhuven (2)",
   "representing-galleries": "Galerie Lahumière (17 Rue du Parc Royal, 75003 Paris, France)",
-  "collecting-museums": "MACLA Museo de Arte Contemporaneo Latinoamericano (Calle 50 entre 6 y 7, C.P. 1900 La Plata, Argentina); Museo MAGA (Via De Magri 1,  Gallarte (VA), Italy); Museum of Geometric and MADI Art (3109 Carlisle Street, 75204-1194 Dallas, TX, USA)",
+  "collecting-museums": "MACLA Museo de Arte Contemporaneo Latinoamericano (Calle 50 entre 6 y 7, C.P. 1900 La Plata, Argentina); Museo MAGA (Via De Magri 1,  Gallarte, VA, Italy); Museum of Geometric and MADI Art (3109 Carlisle Street, 75204-1194 Dallas, TX, USA)",
   "first_name": "André",
   "last_name": "Stempfel",
   "genre": "m",
@@ -43,7 +43,17 @@
   "age": 84,
   "age_range": "61-100",
   "expos": {
+    "2005": [
+      {
+        "i": "13228-370-2005-12-03",
+        "c": "FR"
+      }
+    ],
     "2006": [
+      {
+        "i": "13228-370-2005-12-03",
+        "c": "FR"
+      },
       {
         "i": "13228-8587-2006-05-10",
         "c": "RU",
@@ -82,6 +92,14 @@
           "2006-10-22",
           "2007-03-11"
         ]
+      },
+      {
+        "i": "13228-370-2006-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "13228-370-2006-11-25",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -112,9 +130,25 @@
           "2008-10-26",
           "2008-12-13"
         ]
+      },
+      {
+        "i": "13228-370-2008-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "13228-370-2008-05-17",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "13228-370-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "13228-370-2009-01-17",
+        "c": "FR"
+      },
       {
         "i": "13228-203-2009-04-04",
         "c": "DE",
@@ -127,6 +161,14 @@
           "2009-04-04",
           "2009-06-13"
         ]
+      },
+      {
+        "i": "13228-4241-2009-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "13228-4241-2009-06-10",
+        "c": "FR"
       }
     ],
     "2013": [

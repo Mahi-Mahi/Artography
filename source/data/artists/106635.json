@@ -1,7 +1,7 @@
 {
   "id": "106635",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:47:06",
+  "timestamp": "2014-05-24 06:53:11",
   "name": "Art Orienté Objet",
   "surname": "Art Orienté Objet",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Artist group",
   "media": null,
-  "r00": "5913",
-  "r01": "6656",
-  "r02": "6090",
-  "r03": "7742",
-  "r04": "12517",
-  "r05": "20104",
-  "r06": "28313",
-  "r07": "26059",
-  "r08": "20745",
+  "r00": "3779",
+  "r01": "4356",
+  "r02": "4957",
+  "r03": "4511",
+  "r04": "6418",
+  "r05": "11516",
+  "r06": "22932",
+  "r07": "42178",
+  "r08": "39744",
   "awards": null,
   "website": null,
   "all-shows-first": "1994",
-  "all-shows-total": "34",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
-  "2005-shows-museums": "20",
-  "2005-countries-total": "France (12), Belgium (2), Luxembourg (2), Austria (1), Cameroon (1), Germany (1), Italy (1), Morocco (1), Norway (1), South Korea (1), Switzerland (1), United Kingdom (1), Uruguay (1)",
-  "2005-shows-with": "Art Orienté Objet (22), Orlan (4), Olga Kisseleva (3), Stelarc (3), Yann Toma (3), Hans Bellmer (2), Maurice Benayoun (2), Zane Berzina (2), Jirï Cernicky (2), Critical Art Ensemble  (CAE) (2), Berlinde De Bruyckere (2), Wim Delvoye (2), Mark Dion (2), Evru / Zush (2), Jan Fabre (2), Seamus Farrell (2), Olivier Goulet (2), Siobhán Hapaska (2), Carsten Höller (2), Eduardo Kac (2), Yayoi Kusama (2), Yann Marussich (2), Zbigniew Oksiuta (2), Huang Yong Ping (2), Éric Poitevin (2), Daniel Pommereulle (2), Philippe Rahm (2), Julia Reodica (2), Société Réaliste (2), Jeanne Susplugas (2), Jun Takita (2), The Tissue Culture & Art Project (2), TODT (2)",
+  "all-shows-total": "35",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "21",
+  "2005-countries-total": "France (13), Belgium (2), Luxembourg (2), Austria (1), Cameroon (1), Germany (1), Italy (1), Morocco (1), Norway (1), South Korea (1), Switzerland (1), United Kingdom (1), Uruguay (1), USA (1)",
+  "2005-shows-with": "Art Orienté Objet (24), Orlan (4), Siobhán Hapaska (3), Olga Kisseleva (3), Stelarc (3), Yann Toma (3), Jerôme Basserode (2), Hans Bellmer (2), Maurice Benayoun (2), Zane Berzina (2), Irina Botea (2), Jirï Cernicky (2), Critical Art Ensemble  (CAE) (2), Berlinde De Bruyckere (2), Wim Delvoye (2), Mark Dion (2), Evru / Zush (2), Jan Fabre (2), Seamus Farrell (2), Olivier Goulet (2), Carsten Höller (2), Eduardo Kac (2), Yayoi Kusama (2), Yann Marussich (2), Agnes Meyer-Brandis (2), Zbigniew Oksiuta (2), Huang Yong Ping (2), Éric Poitevin (2), Daniel Pommereulle (2), Philippe Rahm (2), Julia Reodica (2), Société Réaliste (2), Jeanne Susplugas (2), Jun Takita (2), The Tissue Culture & Art Project (2), TODT (2)",
   "representing-galleries": "Galerie Anton Weller (57, rue de Bretagne, 75003 Paris, France); Synopsism (rue de Genève 21, 1003 Lausanne, Switzerland)",
   "collecting-museums": "Musée de l’Objet (6 rue Franciade, 41000 Blois, France)",
   "first_name": "Art",
@@ -110,6 +110,22 @@
           "2008-02-01",
           "2008-03-30"
         ]
+      },
+      {
+        "i": "106635-2718-2008-05-23",
+        "c": "FR"
+      },
+      {
+        "i": "106635-2718-2008-05-23",
+        "c": "FR"
+      },
+      {
+        "i": "106635-1368-2008-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "106635-1368-2008-03-14",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -140,6 +156,14 @@
         ]
       },
       {
+        "i": "106635-10235-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "106635-10235-2009-07-04",
+        "c": "FR"
+      },
+      {
         "i": "106635-7071-2009-09-13",
         "c": "CH",
         "n": "GENIPULATION Génie génétique et manipulation dans l\\",
@@ -164,6 +188,10 @@
           "2009-09-26",
           "2010-01-10"
         ]
+      },
+      {
+        "i": "106635-21695-2009-12-12",
+        "c": "FR"
       },
       {
         "i": "106635-13486-2009-01-22",
@@ -194,6 +222,26 @@
         ]
       },
       {
+        "i": "106635-21695-2009-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "106635-26739-2010-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "106635-26739-2010-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "106635-7850-2010-07-22",
+        "c": "FR"
+      },
+      {
+        "i": "106635-7850-2010-07-22",
+        "c": "FR"
+      },
+      {
         "i": "106635-3458-2010-09-03",
         "c": "KR",
         "n": "8th Gwangju Biennale - 10,000 Lives",
@@ -217,6 +265,14 @@
           "2010-11-20",
           "2011-03-13"
         ]
+      },
+      {
+        "i": "106635-2304-2010-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "106635-2304-2010-05-30",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -232,6 +288,14 @@
           "2010-11-20",
           "2011-03-13"
         ]
+      },
+      {
+        "i": "106635-10825-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "106635-10825-2011-05-07",
+        "c": "FR"
       },
       {
         "i": "106635-3737-2011-05-15",
@@ -258,9 +322,25 @@
           "2011-09-01",
           "2011-09-07"
         ]
+      },
+      {
+        "i": "106635-20164-2011-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "106635-12129-2011-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "106635-12129-2011-10-05",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "106635-20164-2011-11-17",
+        "c": "FR"
+      },
       {
         "i": "106635-6173-2012-06-15",
         "c": "DE",
@@ -289,6 +369,22 @@
       }
     ],
     "2013": [
+      {
+        "i": "106635-7811-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "106635-7811-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "106635-4603-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "106635-4603-2013-04-06",
+        "c": "FR"
+      },
       {
         "i": "106635-30519-2013-07-17",
         "c": "IT",

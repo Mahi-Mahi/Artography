@@ -1,7 +1,7 @@
 {
   "id": "250964",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:43:23",
+  "timestamp": "2014-05-24 07:42:25",
   "name": "Claire Adelfang",
   "surname": "Adelfang",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "28816",
-  "r01": "54355",
-  "r02": "108566",
-  "r03": "104193",
-  "r04": "98289",
-  "r05": null,
+  "r00": "10581",
+  "r01": "20221",
+  "r02": "43055",
+  "r03": "107031",
+  "r04": "102506",
+  "r05": "96406",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -29,10 +29,10 @@
   "website": null,
   "all-shows-first": "2009",
   "all-shows-total": "7",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (7)",
+  "2005-countries-total": "France (7), Austria (1)",
   "2005-shows-with": "Claire Adelfang (5), Massimo Vitali (3), Camille Henrot (2), JR (2), Claude Lévêque (2), Nicolas Milhé (2), Takashi Murakami (2), Jean-Michel Othoniel (2), Agnes Varda (2)",
   "representing-galleries": null,
   "collecting-museums": null,
@@ -43,5 +43,69 @@
   "age": 30,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "250964-1829-2009-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "250964-1829-2009-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "250964-21710-2009-11-24",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "250964-21710-2009-11-24",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "250964-23298-2012-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "250964-23298-2012-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "250964-946-2012-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "250964-946-2012-02-04",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "250964-27822-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "250964-27822-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "250964-22704-2013-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "250964-22704-2013-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "250964-946-2013-04-25",
+        "c": "FR"
+      },
+      {
+        "i": "250964-946-2013-04-25",
+        "c": "FR"
+      }
+    ]
   }
 }

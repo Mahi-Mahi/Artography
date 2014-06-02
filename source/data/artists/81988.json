@@ -1,7 +1,7 @@
 {
   "id": "81988",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:37:23",
+  "timestamp": "2014-05-24 06:44:57",
   "name": "Mauro Corda",
   "surname": "Corda",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "48694",
-  "r01": "49694",
-  "r02": "46653",
-  "r03": "52137",
-  "r04": "51253",
-  "r05": "45620",
-  "r06": "39431",
-  "r07": "35651",
-  "r08": "29555",
+  "r00": "52537",
+  "r01": "49813",
+  "r02": "51440",
+  "r03": "46696",
+  "r04": "53270",
+  "r05": "51936",
+  "r06": "44660",
+  "r07": "37546",
+  "r08": "33272",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
@@ -34,7 +34,7 @@
   "2005-shows-museums": null,
   "2005-countries-total": "Belgium (2), France (1), Kuwait (1), Singapore (1), United Kingdom (1), USA (1)",
   "2005-shows-with": "Mauro Corda (4), Patrick Cornillet (2), Nick Gentry (2), Philippe Pasqua (2)",
-  "representing-galleries": "Opera Gallery (20 Queen´s Road Central,  Hong Kong, SAR, China); Opera Gallery (356, rue Saint-Honoré, 75001 Paris, France); Galerie Marie-José Degrelle (11 rue Goïot, 51100 Reims, France); Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa (RI), Italy); Galerie de Twee Pauwen (Oranjestraat 1/Noordeinde, 2514 JB The Hague, Netherlands); Opera Gallery (391 Orchard Road 02-12,  Singapore, Singapore); Bel-Air Fine Art (7, rue de la Corraterie, 1204 Geneva, Switzerland); Opera Gallery (134 New Bond Street, W1S 2TF London (England), United Kingdom); Opera Gallery (9700 Collins Avenue, 33154 Bal Harbour, FL, USA); Opera Gallery (115 Spring Street, 10012 New York City, NY, USA)",
+  "representing-galleries": "Opera Gallery (20 Queen´s Road Central,  Hong Kong, SAR, China); Opera Gallery (356, rue Saint-Honoré, 75001 Paris, France); Galerie Marie-José Degrelle (11 rue Goïot, 51100 Reims, France); Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa, RI, Italy); Galerie de Twee Pauwen (Oranjestraat 1/Noordeinde, 2514 JB The Hague, Netherlands); Opera Gallery (391 Orchard Road 02-12,  Singapore, Singapore); Bel-Air Fine Art (7, rue de la Corraterie, 1204 Geneva, Switzerland); Opera Gallery (134 New Bond Street, W1S 2TF London, United Kingdom); Opera Gallery (9700 Collins Avenue, 33154 Bal Harbour, FL, USA); Opera Gallery (115 Spring Street, 10012 New York City, NY, USA)",
   "collecting-museums": null,
   "first_name": "Mauro",
   "last_name": "Corda",
@@ -126,6 +126,16 @@
           "2013-12-20",
           "2013-01-27"
         ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "81988-26249-2010-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "81988-26249-2010-04-29",
+        "c": "FR"
       }
     ],
     "2011": [

@@ -1,7 +1,7 @@
 {
   "id": "20608",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:11:48",
+  "timestamp": "2014-05-24 06:23:05",
   "name": "Benjamin Sabatier",
   "surname": "Sabatier",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "10709",
-  "r01": "11341",
-  "r02": "14781",
-  "r03": "14245",
-  "r04": "12962",
-  "r05": "16948",
-  "r06": "14210",
-  "r07": "18971",
-  "r08": "15395",
+  "r00": "7584",
+  "r01": "9188",
+  "r02": "10397",
+  "r03": "15024",
+  "r04": "13808",
+  "r05": "12065",
+  "r06": "16253",
+  "r07": "13029",
+  "r08": "17882",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "16",
+  "all-shows-total": "17",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (9), Belgium (1), Germany (1)",
-  "2005-shows-with": "Benjamin Sabatier (8), Valérie Belin (3), John Cornu (2), Fischli & Weiss (2), Vincent Ganivet (2), Olga Kisseleva (2), Jeff Koons (2), David Mach (2), McDermott & McGough (2), Mathieu Mercier (2), Laurent Pernot (2), Pierre et Gilles (2), Emmanuel Régent (2), Evariste Richer (2), Veit Stratmann (2), Morgane Tschiember (2)",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (9), Germany (3), Belgium (1)",
+  "2005-shows-with": "Benjamin Sabatier (10), Fischli & Weiss (4), Mathieu Mercier (4), Valérie Belin (3), Hartmut Böhm (3), Tony Cragg (3), Stefan Eberstadt (3), Mike Figgis (3), Christian Frosch (3), Tom Früchtl (3), Rolf Glasmeier (3), Knut Henrik Henriksen (3), Ottmar Hörl (3), Christian Jankowski (3), Camill Leberer (3), Stefan Löffelhardt (3), Russel Maltz (3), Patrick Fabian Panetta (3), Katinka Pilscheur (3), Thomas Rentmeister (3), Kai Richter (3), Haim Steinbach (3), Gerold Tagwerker (3), Heiko Tappenbeck (3), Günther Uecker (3), Timm Ulrichs (3), Erwin Wurm (3), Martin Wöhrl (3), Beat Zoderer (3), John Cornu (2), Vincent Ganivet (2), Olga Kisseleva (2), Jeff Koons (2), David Mach (2), McDermott & McGough (2), Laurent Pernot (2), Pierre et Gilles (2), Emmanuel Régent (2), Evariste Richer (2), Andreas Slominski (2), Veit Stratmann (2), Morgane Tschiember (2)",
   "representing-galleries": "Bodson-Emelinckx Gallery (Rue de Hennin 70, 1050 Brussels, Belgium); Galerie Jérôme de Noirmont (38, avenue Matignon, 75008 Paris, France)",
   "collecting-museums": null,
   "first_name": "Benjamin",
@@ -43,6 +43,57 @@
   "age": 37,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "20608-1407-2009-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "20608-1407-2009-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "20608-1407-2009-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "20608-1407-2009-04-03",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "20608-26739-2010-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "20608-26739-2010-05-10",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "20608-1407-2011-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "20608-1407-2011-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "20608-26248-2011-09-14",
+        "c": "BE",
+        "n": "Benjamin Sabatier",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "Bodson-Emelinckx Gallery",
+        "d": [
+          "2011-09-14",
+          "2011-10-08"
+        ]
+      }
+    ],
     "2012": [
       {
         "i": "20608-8171-2012-05-25",
@@ -56,21 +107,70 @@
           "2012-05-25",
           "2012-09-16"
         ]
+      },
+      {
+        "i": "20608-11771-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "20608-11771-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "20608-28142-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "20608-28142-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "20608-1407-2012-05-23",
+        "c": "FR"
+      },
+      {
+        "i": "20608-1407-2012-05-23",
+        "c": "FR"
       }
     ],
-    "2011": [
+    "2013": [
       {
-        "i": "20608-26248-2011-09-14",
-        "c": "BE",
-        "n": "Benjamin Sabatier",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Brussels",
-        "o": "Bodson-Emelinckx Gallery",
-        "d": [
-          "2011-09-14",
-          "2011-10-08"
-        ]
+        "i": "20608-10247-2013-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "20608-10247-2013-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "20608-29739-2013-10-12",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "20608-29739-2013-10-12",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "20608-1407-2005-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "20608-1407-2005-02-04",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "20608-1407-2007-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "20608-1407-2007-03-23",
+        "c": "FR"
       }
     ]
   }

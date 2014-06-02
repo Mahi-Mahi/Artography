@@ -1,7 +1,7 @@
 {
   "id": "128595",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:55:44",
+  "timestamp": "2014-05-24 07:00:36",
   "name": "Gilles Coulon",
   "surname": "Coulon",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "69227",
-  "r01": "64408",
-  "r02": "58728",
-  "r03": "61161",
-  "r04": "54169",
-  "r05": "47738",
-  "r06": "40895",
-  "r07": "34808",
-  "r08": "28645",
+  "r00": "89558",
+  "r01": "86964",
+  "r02": "81093",
+  "r03": "74003",
+  "r04": "80210",
+  "r05": "65699",
+  "r06": "53862",
+  "r07": "43689",
+  "r08": "35221",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "3",
+  "all-shows-total": "4",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
   "2005-shows-museums": null,
@@ -43,5 +43,15 @@
   "age": 48,
   "age_range": "41-60",
   "expos": {
+    "2011": [
+      {
+        "i": "128595-21906-2011-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "128595-21906-2011-01-29",
+        "c": "FR"
+      }
+    ]
   }
 }

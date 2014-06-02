@@ -1,7 +1,7 @@
 {
   "id": "9451",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:06:43",
+  "timestamp": "2014-05-24 06:18:42",
   "name": "Claude Caillol",
   "surname": "Caillol",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "32952",
-  "r01": "28860",
-  "r02": "28090",
-  "r03": "24204",
-  "r04": "21704",
-  "r05": "18644",
-  "r06": "17410",
-  "r07": "18063",
-  "r08": "14276",
+  "r00": "17505",
+  "r01": "44062",
+  "r02": "37798",
+  "r03": "42339",
+  "r04": "36158",
+  "r05": "33961",
+  "r06": "28219",
+  "r07": "26585",
+  "r08": "29592",
   "awards": null,
   "website": null,
-  "all-shows-first": "1984",
-  "all-shows-total": "13",
+  "all-shows-first": "1982",
+  "all-shows-total": "16",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": null,
-  "2005-countries-total": "France (3), Luxembourg (2)",
-  "2005-shows-with": "Claude Caillol (2), Patrick Saytour (2), Claude Viallat (2)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (5), Luxembourg (2)",
+  "2005-shows-with": "Claude Caillol (4), Patrick Saytour (2), Claude Viallat (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Claude",
@@ -43,6 +43,16 @@
   "age": 59,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "9451-2718-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "9451-2718-2007-06-29",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "9451-17359-2008-06-12",
@@ -56,6 +66,14 @@
           "2008-06-12",
           "2008-07-27"
         ]
+      },
+      {
+        "i": "9451-8911-2008-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "9451-8911-2008-11-07",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -71,6 +89,26 @@
           "2009-01-22",
           "2009-03-02"
         ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "9451-23359-2010-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "9451-23359-2010-10-23",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "9451-8911-2012-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "9451-8911-2012-06-07",
+        "c": "FR"
       }
     ]
   }

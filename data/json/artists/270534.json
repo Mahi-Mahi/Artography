@@ -1,7 +1,7 @@
 {
   "id": "270534",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:51:05",
+  "timestamp": "2014-05-24 07:49:07",
   "name": "Pierre Fisher",
   "surname": "Fisher",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "28259",
-  "r01": "27252",
-  "r02": "55450",
-  "r03": "50831",
-  "r04": "90243",
-  "r05": null,
+  "r00": "21638",
+  "r01": "21788",
+  "r02": "20413",
+  "r03": "44512",
+  "r04": "40043",
+  "r05": "77533",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2009",
-  "all-shows-total": "6",
+  "all-shows-total": "7",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (5), Germany (1)",
+  "2005-countries-total": "France (6), Germany (1)",
   "2005-shows-with": "Pierre Fisher (4), Nicolas Muller (3), Fayçal Baghriche (2), Julien Chevy (2), Vincent Ganivet (2), MA Leledy (2), Simon Nicaise (2), Elisa Pône (2), Bojan Stojic (2), Julie Vayssière (2), Adrien Vescovi (2)",
   "representing-galleries": "Galerie Anne de Villepoix (43, rue de Montmorency, 75003 Paris, France)",
   "collecting-museums": null,
@@ -43,6 +43,16 @@
   "age": 31,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "270534-11771-2009-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "270534-11771-2009-04-18",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "270534-22649-2010-06-10",
@@ -56,6 +66,44 @@
           "2010-06-10",
           "2010-06-26"
         ]
+      },
+      {
+        "i": "270534-2585-2010-11-19",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "270534-2585-2010-11-19",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "270534-1963-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "270534-1963-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "270534-1963-2012-11-10",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "270534-4218-2012-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "270534-4218-2012-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "270534-1963-2012-11-10",
+        "c": "FR"
       }
     ]
   }

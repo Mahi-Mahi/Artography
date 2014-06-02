@@ -1,7 +1,7 @@
 {
   "id": "3593",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:03:59",
+  "timestamp": "2014-05-24 06:16:17",
   "name": "Geneviève Claisse",
   "surname": "Claisse",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting",
-  "r00": "10738",
-  "r01": "10061",
-  "r02": "10592",
-  "r03": "10107",
-  "r04": "10240",
-  "r05": "12204",
-  "r06": "13802",
-  "r07": "21142",
-  "r08": "23207",
+  "r00": "10989",
+  "r01": "10428",
+  "r02": "9198",
+  "r03": "9609",
+  "r04": "8825",
+  "r05": "8856",
+  "r06": "10786",
+  "r07": "12137",
+  "r08": "20497",
   "awards": null,
   "website": null,
   "all-shows-first": "1961",
-  "all-shows-total": "42",
+  "all-shows-total": "43",
   "2005-shows-biennials": "14",
   "2005-shows-galleries": "14",
   "2005-shows-museums": "6",
-  "2005-countries-total": "France (13), Germany (7), Austria (1), Hungary (1), Switzerland (1)",
-  "2005-shows-with": "Geneviève Claisse (21), Carlos Cruz-Diez (11), Antonio Asis (6), Véra Molnar (6), Aurélie Nemours (6), Victor Vasarely (6), Martha Boto (5), Octavio Herrera (5), Jesús Rafael Soto (5), John Carter (4), Gerhard Doehler (4), Gottfried Honegger (4), Edda Jachens (4), Julio Le Parc (4), Dario Pérez-Flores (4), Sigurd Rompza (4), Daniel de Spirt (4), Klaus Staudt (4), Gregorio Vardanega (4), César Andrade (3), Carmelo Arden Quin (3), Ode Bertrand (3), Charles Bézie (3), Ioan Bunus (3), Yvan  Contreras Brunet (3), Jo Enzweiler (3), Rita Ernst (3), János Fajó (3), Horacio García Rossi (3), Hans-Jörg Glattfelder (3), Norbert Huwer (3), Josef Linschinger (3), François Morellet (3), Mehdi Moutashar (3), Uli Pohl (3), Karin Radoy (3), Horst Rave (3), Nelly Rudin (3), Diet Sayler (3), Ludwig Wilding (3), Josef Albers (2), Douglas Allsop (2), Getulio Alviani (2), John M Armleder (2), Frank Badur (2), Werner Bauer (2), Anne Blanchet (2), Hellmut Bruch (2), Karl Duschek (2), Gerhard Frömel (2), Hans Geipel (2),",
+  "2005-countries-total": "France (13), Germany (7), Switzerland (2), Austria (1), Hungary (1)",
+  "2005-shows-with": "Geneviève Claisse (22), Carlos Cruz-Diez (12), Antonio Asis (6), Véra Molnar (6), Aurélie Nemours (6), Victor Vasarely (6), Martha Boto (5), John Carter (5), Octavio Herrera (5), Jesús Rafael Soto (5), Gerhard Doehler (4), Gottfried Honegger (4), Edda Jachens (4), Julio Le Parc (4), Dario Pérez-Flores (4), Sigurd Rompza (4), Daniel de Spirt (4), Klaus Staudt (4), Gregorio Vardanega (4), César Andrade (3), Carmelo Arden Quin (3), Ode Bertrand (3), Charles Bézie (3), Ioan Bunus (3), Yvan  Contreras Brunet (3), Jo Enzweiler (3), Rita Ernst (3), János Fajó (3), Horacio García Rossi (3), Hans-Jörg Glattfelder (3), Norbert Huwer (3), Josef Linschinger (3), François Morellet (3), Mehdi Moutashar (3), Uli Pohl (3), Karin Radoy (3), Horst Rave (3), Nelly Rudin (3), Diet Sayler (3), Marie-Thérèse Vacossin (3), Ludwig Wilding (3), Josef Albers (2), Douglas Allsop (2), Getulio Alviani (2), John M Armleder (2), Frank Badur (2), Werner Bauer (2), Anne Blanchet (2), Hellmut Bruch (2), Helmut Dirnaichner (2), K",
   "representing-galleries": "Galerie Nery Marino (8 rue des Coutures Saint Gervais, 75003 Paris, France); Galerie Lavignes-Bastille (27 rue de charonne, 75011 Paris, France); Galerie Denise René - Rive Gauche (196 bd saint germain, 75007 Paris, France); Galerie Emilia Suciu - konstruktiv-konkrete Kunst (Pforzheimer Str. 120, 76275 Ettlingen, Germany); De Vierde Dimensie (Zevenbergseweg 12, 6586 AJ Plasmolen/Mook, Netherlands)",
   "collecting-museums": "MACBA - Museo de Arte Contemporáneo de Buenos Aires (Av. San Juan 328, C1147AAO Buenos Aires, Argentina); Musée des Beaux-Arts de Cambrai (15 rue de l\\'épée, 59400 Cambrai, France); LAAC - Lieu d'Art et Action Contemporaine de Dunkerque (Pont Lucien Lefol, 59140 Dunkerque, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); LaM - Lille Métropole musée d'art moderne, d'art contemporain et d'art brut (1 allée du musée, 59650 Villeneuve d'Ascq, France); ms - Muzeum Sztuki Lodz (ul. Wi&#281;ckowskiego 36, 90-743 Lodz, Poland)",
   "first_name": "Geneviève",
@@ -56,6 +56,18 @@
           "2005-11-19",
           "2006-01-29"
         ]
+      },
+      {
+        "i": "3593-370-2005-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "3593-1855-2005-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "3593-1855-2005-06-01",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -71,6 +83,10 @@
           "2005-11-19",
           "2006-01-29"
         ]
+      },
+      {
+        "i": "3593-370-2005-12-03",
+        "c": "FR"
       },
       {
         "i": "3593-525-2006-04-08",
@@ -168,6 +184,10 @@
         ]
       },
       {
+        "i": "3593-1855-2008-11-13",
+        "c": "FR"
+      },
+      {
         "i": "3593-525-2008-11-29",
         "c": "DE",
         "n": "Jubiläumsausstellung: 20 Jahre Galerie Suciu",
@@ -192,9 +212,17 @@
           "2007-10-27",
           "2008-04-20"
         ]
+      },
+      {
+        "i": "3593-315-2008-11-20",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "3593-1855-2008-11-13",
+        "c": "FR"
+      },
       {
         "i": "3593-525-2008-11-29",
         "c": "DE",
@@ -207,6 +235,38 @@
           "2008-11-29",
           "2009-01-31"
         ]
+      },
+      {
+        "i": "3593-27194-2009-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "3593-27194-2009-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "3593-8109-2009-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "3593-8109-2009-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "3593-20837-2009-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "3593-20837-2009-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "3593-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "3593-9475-2009-07-04",
+        "c": "FR"
       },
       {
         "i": "3593-232-2009-09-10",
@@ -233,6 +293,10 @@
           "2009-12-05",
           "2010-01-31"
         ]
+      },
+      {
+        "i": "3593-315-2008-11-20",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -289,7 +353,57 @@
         ]
       }
     ],
+    "2011": [
+      {
+        "i": "3593-315-2011-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "3593-315-2011-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "3593-27194-2011-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "3593-27194-2011-10-12",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "3593-8109-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "3593-8109-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "3593-27194-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "3593-27194-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "3593-8109-2012-04-26",
+        "c": "FR"
+      },
+      {
+        "i": "3593-8109-2012-04-26",
+        "c": "FR"
+      },
+      {
+        "i": "3593-27194-2012-04-26",
+        "c": "FR"
+      },
+      {
+        "i": "3593-27194-2012-04-26",
+        "c": "FR"
+      },
       {
         "i": "3593-29125-2012-09-05",
         "c": "CH",
@@ -329,6 +443,14 @@
           "2012-10-27",
           "2013-03-31"
         ]
+      },
+      {
+        "i": "3593-26673-2013-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "3593-26673-2013-04-28",
+        "c": "FR"
       }
     ]
   }

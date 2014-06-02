@@ -1,7 +1,7 @@
 {
   "id": "267656",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:50:02",
+  "timestamp": "2014-05-24 07:48:09",
   "name": "Clémence Seilles",
   "surname": "Seilles",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "33076",
-  "r01": "60793",
-  "r02": "105348",
-  "r03": "106867",
-  "r04": null,
+  "r00": "18047",
+  "r01": "18512",
+  "r02": "45947",
+  "r03": "102155",
+  "r04": "106141",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,12 +28,12 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "12",
+  "all-shows-total": "13",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (6), Germany (4), Austria (1), United Kingdom (1)",
-  "2005-shows-with": "Clémence Seilles (10), Saâdane Afif (2), Stephan Balleux (2), Stefania Batoeva (2), Daniel Biesold (2), Steve Bishop (2), Olarn Chiaravanont (2), Emilie Ding (2), Jason Dodge (2), Charlotte Dualé (2), Evgeny Dybsky (2), Dennis Feddersen (2), Martin Flemming (2), Melissa Frost (2), Wolfgang Ganter (2), Isabelle Graeff (2), Uwe Henneken (2), Sophie Holstein (2), John Isaacs (2), Ilona Kálnoky (2), John Kleckner (2), Ludwig Kreutzer (2), Ingo Mittelstaedt (2), Alejandro Moncada (2), Jonathan Monk (2), Yudi Noor (2), Haralampi G. Oroschakoff (2), Katinka Pilscheur (2), Stefan Rinck (2), Sergio Roger (2), Arne Schreiber (2), Jeremy Shaw (2), Yukiko Terada (2), Hannah Weinberger (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (6), Germany (4), Austria (1), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Clémence Seilles (11), Emilie Ding (3), Saâdane Afif (2), Stephan Balleux (2), Stefania Batoeva (2), Daniel Biesold (2), Steve Bishop (2), Olarn Chiaravanont (2), Jason Dodge (2), Charlotte Dualé (2), Evgeny Dybsky (2), Dennis Feddersen (2), Martin Flemming (2), Melissa Frost (2), Wolfgang Ganter (2), Isabelle Graeff (2), Uwe Henneken (2), Sophie Holstein (2), John Isaacs (2), Ilona Kálnoky (2), John Kleckner (2), Ludwig Kreutzer (2), Ingo Mittelstaedt (2), Alejandro Moncada (2), Jonathan Monk (2), Yudi Noor (2), Haralampi G. Oroschakoff (2), Katinka Pilscheur (2), Stefan Rinck (2), Sergio Roger (2), Arne Schreiber (2), Jeremy Shaw (2), Yukiko Terada (2), Hannah Weinberger (2)",
   "representing-galleries": "TORRI (7, rue Saint-Claude, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Clémence",
@@ -88,6 +88,14 @@
     ],
     "2012": [
       {
+        "i": "267656-23446-2012-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "267656-23446-2012-03-17",
+        "c": "FR"
+      },
+      {
         "i": "267656-19666-2012-06-29",
         "c": "DE",
         "n": "Berlin-paris - Torri Chez/at Klemm’s",
@@ -125,6 +133,48 @@
           "2012-09-10",
           "2012-09-30"
         ]
+      },
+      {
+        "i": "267656-23446-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "267656-23446-2012-05-12",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "267656-28277-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "267656-28277-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "267656-22295-2013-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "267656-22295-2013-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "267656-26775-2013-11-20",
+        "c": "FR"
+      },
+      {
+        "i": "267656-26775-2013-11-20",
+        "c": "FR"
+      },
+      {
+        "i": "267656-9060-2013-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "267656-9060-2013-03-16",
+        "c": "FR"
       }
     ]
   }

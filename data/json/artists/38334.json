@@ -1,7 +1,7 @@
 {
   "id": "38334",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:19:27",
+  "timestamp": "2014-05-24 06:29:28",
   "name": "Gregory Cumins",
   "surname": "Cumins",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "53064",
-  "r01": "50626",
-  "r02": "46168",
-  "r03": "51941",
-  "r04": "46385",
-  "r05": "41334",
-  "r06": "37178",
-  "r07": "31754",
-  "r08": "40937",
+  "r00": "50241",
+  "r01": "57643",
+  "r02": "52338",
+  "r03": "45550",
+  "r04": "52262",
+  "r05": "44949",
+  "r06": "38904",
+  "r07": "34533",
+  "r08": "28821",
   "awards": null,
-  "website": null,
+  "website": "www.gregorycumins.com",
   "all-shows-first": "2005",
   "all-shows-total": "7",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (2), Germany (2)",
+  "2005-countries-total": "France (3), Germany (2)",
   "2005-shows-with": "Gregory Cumins (3)",
-  "representing-galleries": null,
+  "representing-galleries": "Galerie C (Esplanade Léopold Robert 1A, 2000 Neuchâtel, Switzerland)",
   "collecting-museums": null,
   "first_name": "Gregory",
   "last_name": "Cumins",
@@ -71,6 +71,24 @@
           "2006-06-15",
           "2006-09-17"
         ]
+      },
+      {
+        "i": "38334-7986-2006-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "38334-7986-2006-09-25",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "38334-1937-2008-07-15",
+        "c": "FR"
+      },
+      {
+        "i": "38334-1937-2008-07-15",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -101,6 +119,16 @@
           "2013-11-15",
           "2013-12-21"
         ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "38334-20322-2009-08-29",
+        "c": "FR"
+      },
+      {
+        "i": "38334-20322-2009-08-29",
+        "c": "FR"
       }
     ]
   }

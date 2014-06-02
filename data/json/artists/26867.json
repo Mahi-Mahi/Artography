@@ -1,7 +1,7 @@
 {
   "id": "26867",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:14:33",
+  "timestamp": "2014-05-24 06:25:18",
   "name": "Eric Baudart",
   "surname": "Baudart",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "10507",
-  "r01": "10102",
-  "r02": "9249",
-  "r03": "10670",
-  "r04": "9191",
-  "r05": "7927",
-  "r06": "7888",
-  "r07": "6900",
-  "r08": "7214",
+  "r00": "10805",
+  "r01": "10150",
+  "r02": "12372",
+  "r03": "10179",
+  "r04": "12150",
+  "r05": "9455",
+  "r06": "7698",
+  "r07": "7491",
+  "r08": "6298",
   "awards": "Gilles-Dusein Award",
-  "website": null,
+  "website": "www.eric-baudart.com",
   "all-shows-first": "2002",
-  "all-shows-total": "19",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (8), Belgium (1), Italy (1)",
-  "2005-shows-with": "Eric Baudart (8), Laurent Grasso (3), Pierre Ardouvin (2), Valérie Belin (2), Etienne Bossut (2), Edith Dekyndt (2), David Douard (2), Claire Fontaine (2), Aurélien Froment (2), Vincent Ganivet (2), Dominique Ghesquiere (2), Florian & Michael Quistrebert (2), David Renggli (2), Ernesto Sartori (2)",
+  "all-shows-total": "22",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (10), Belgium (1), Italy (1), USA (1)",
+  "2005-shows-with": "Eric Baudart (10), Laurent Grasso (3), Florian & Michael Quistrebert (3), Pierre Ardouvin (2), Valérie Belin (2), Etienne Bossut (2), Edith Dekyndt (2), David Douard (2), Claire Fontaine (2), Aurélien Froment (2), Vincent Ganivet (2), Dominique Ghesquiere (2), David Renggli (2), Robin Rhode (2), Ernesto Sartori (2)",
   "representing-galleries": "Galerie Chez Valentin (9, rue St Gilles, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Eric",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2006": [
+      {
+        "i": "26867-19804-2006-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "26867-19804-2006-02-25",
+        "c": "FR"
+      },
       {
         "i": "26867-6417-2006-07-09",
         "c": "DE",
@@ -58,6 +66,24 @@
         ]
       }
     ],
+    "2007": [
+      {
+        "i": "26867-16095-2007-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "26867-16095-2007-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "26867-14159-2007-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "26867-14159-2007-09-13",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "26867-17188-2008-05-30",
@@ -70,6 +96,68 @@
           "2008-05-30",
           "2008-08-30"
         ]
+      },
+      {
+        "i": "26867-378-2008-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "26867-378-2008-05-24",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "26867-378-2009-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "26867-378-2009-06-23",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "26867-378-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "26867-8282-2011-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "26867-8282-2011-02-11",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "26867-378-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "26867-29576-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "26867-29576-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "26867-16095-2012-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "26867-16095-2012-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "26867-27857-2012-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "26867-27857-2012-10-05",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -85,6 +173,26 @@
           "2013-03-07",
           "2013-06-09"
         ]
+      },
+      {
+        "i": "26867-29739-2013-10-12",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "26867-29739-2013-10-12",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "26867-378-2005-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "26867-378-2005-09-10",
+        "c": "FR"
       }
     ]
   }

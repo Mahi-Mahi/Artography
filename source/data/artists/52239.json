@@ -1,7 +1,7 @@
 {
   "id": "52239",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:25:01",
+  "timestamp": "2014-05-24 06:34:26",
   "name": "Laurent Millet",
   "surname": "Millet",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "15911",
-  "r01": "14709",
-  "r02": "15171",
-  "r03": "13346",
-  "r04": "14069",
-  "r05": "15710",
-  "r06": "13071",
-  "r07": "12857",
-  "r08": "10269",
+  "r00": "18600",
+  "r01": "19237",
+  "r02": "16937",
+  "r03": "18107",
+  "r04": "14933",
+  "r05": "16141",
+  "r06": "18795",
+  "r07": "14340",
+  "r08": "13819",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
   "all-shows-total": "21",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": "6",
-  "2005-countries-total": "France (5), USA (2), Spain (1)",
+  "2005-countries-total": "France (6), USA (2), Spain (1)",
   "2005-shows-with": "Laurent Millet (6)",
   "representing-galleries": "Camera Obscura (268, boulevard Raspail/ 12, rue Cresson, 75014 Paris, France); La Galerie Particuliere (16 rue du Perche, 75003 Paris, France); Spectrum Sotos (C/ Concepción Arenal 19, 50005 Zaragoza, Spain); Robert Mann Gallery (210 Eleventh Avenue, 10001 New York City, NY, USA)",
   "collecting-museums": "Los Angeles County Museum of Art - LACMA (Wilshire Boulevard 5905, CA 90036 Los Angeles, CA, USA); San Francisco Museum of Modern Art - SFMOMA (Third Street 151, CA 94103 San Francisco, CA, USA)",
@@ -101,6 +101,14 @@
     ],
     "2009": [
       {
+        "i": "52239-5176-2009-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "52239-5176-2009-02-05",
+        "c": "FR"
+      },
+      {
         "i": "52239-2583-2009-02-13",
         "c": "US",
         "n": "PhotoDimensional",
@@ -112,9 +120,25 @@
           "2009-02-13",
           "2009-04-19"
         ]
+      },
+      {
+        "i": "52239-15039-2009-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "52239-15039-2009-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "52239-3100-2009-10-10",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "52239-3100-2009-10-10",
+        "c": "FR"
+      },
       {
         "i": "52239-11570-2010-09-03",
         "c": "ES",
@@ -140,6 +164,16 @@
           "2010-05-13",
           "2010-07-09"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "52239-29133-2013-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "52239-29133-2013-06-08",
+        "c": "FR"
       }
     ],
     "2005": [
@@ -168,6 +202,24 @@
           "2005-09-15",
           "2005-10-29"
         ]
+      },
+      {
+        "i": "52239-5176-2005-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "52239-5176-2005-12-02",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "52239-20164-2012-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "52239-20164-2012-02-14",
+        "c": "FR"
       }
     ]
   }

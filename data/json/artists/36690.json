@@ -1,7 +1,7 @@
 {
   "id": "36690",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:18:48",
+  "timestamp": "2014-05-24 06:28:53",
   "name": "Berdaguer & Péjus",
   "surname": "Berdaguer & Péjus",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Artist group",
   "media": "Installation",
-  "r00": "2257",
-  "r01": "2138",
-  "r02": "2277",
-  "r03": "2136",
-  "r04": "2496",
-  "r05": "3171",
-  "r06": "4326",
-  "r07": "4765",
-  "r08": "6328",
+  "r00": "1929",
+  "r01": "1893",
+  "r02": "1733",
+  "r03": "1910",
+  "r04": "1733",
+  "r05": "2087",
+  "r06": "2687",
+  "r07": "3854",
+  "r08": "4357",
   "awards": "Prix Fondation d'entreprise Ricard",
   "website": null,
   "all-shows-first": "1993",
-  "all-shows-total": "65",
+  "all-shows-total": "69",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "29",
-  "2005-countries-total": "France (33), USA (4), Russia (1), Switzerland (1)",
-  "2005-shows-with": "Berdaguer & Péjus (33), Vincent Lamouroux (9), Didier Marcel (7), Yona Friedman (6), Dora García (6), Tatiana Trouvé (6), Raphaël Zarka (6), Boris Achour (5), Yves Bélorgey (4), Edith Dekyndt (4), Julien Discrit (4), Didier Faustino (4), Robert Filliou (4), Philippe Ramette (4), herman de vries (4), Lida Abdul (3), David Altmejd (3), Renaud Auguste-Dormeuil (3), Élisabeth Ballet (3), Dominique Blais (3), Monica Bonvicini (3), Mircea Cantor (3), Cao Fei (3), Jordi Colomer (3), François Dallegret (3), Mark Dion (3), Peter Downsbrough (3), Anthony Duchêne (3), Philippe Durand (3), Jimmie Durham (3), Simon Faithfull (3), Elise Florenty (3), Loris Gréaud (3), Joseph Grigely (3), Ben Hall (3), Thomas Hirschhorn (3), Severine Hubard (3), Pierre Huyghe (3), Stefan Kern (3), François Morellet (3), Sarah Morris (3), Juan Muñoz (3), Stephanie Nava (3), Drago Persic (3), Kristina Solomoukha (3), Marie Voignier (3), A Constructed World (2), Martine Aballéa (2), Adel Abdessemed (2), Bas Jan Ader (2), Pierre Alf",
+  "2005-shows-museums": "32",
+  "2005-countries-total": "France (36), USA (4), Germany (1), Russia (1), Switzerland (1)",
+  "2005-shows-with": "Berdaguer & Péjus (36), Vincent Lamouroux (9), Dora García (7), Didier Marcel (7), Raphaël Zarka (7), Yona Friedman (6), Tatiana Trouvé (6), Boris Achour (5), herman de vries (5), Yves Bélorgey (4), Dominique Blais (4), Edith Dekyndt (4), Julien Discrit (4), Philippe Durand (4), Simon Faithfull (4), Didier Faustino (4), Robert Filliou (4), Mark Geffriaud (4), Joseph Grigely (4), François Morellet (4), Philippe Ramette (4), Yann Sérandour (4), A Constructed World (3), Lida Abdul (3), David Altmejd (3), Renaud Auguste-Dormeuil (3), Élisabeth Ballet (3), Robert Barry (3), Monica Bonvicini (3), Mircea Cantor (3), Cao Fei (3), Jordi Colomer (3), François Dallegret (3), Mark Dion (3), Peter Downsbrough (3), Anthony Duchêne (3), Jean Dupuy (3), Jimmie Durham (3), Elise Florenty (3), Ryan Gander (3), Loris Gréaud (3), Ben Hall (3), Thomas Hirschhorn (3), Severine Hubard (3), Pierre Huyghe (3), Stefan Kern (3), Ben Kinmont (3), Jirí Kovanda (3), Natacha Lesueur (3), Sarah Morris (3), Juan Muñoz (3), Steph",
   "representing-galleries": "galerieofmarseille (8 rue du Chevalier Roze, 13002 Marseille, France)",
   "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Musée Régional D'Art Contemporain Languedoc-Roussillon (146, avenue de la plage, 34 410 Sérignan, France)",
   "first_name": "Berdaguer",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "36690-193-2005-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "36690-193-2005-03-09",
+        "c": "FR"
+      },
       {
         "i": "36690-362-2005-06-23",
         "c": "ES",
@@ -56,9 +64,41 @@
           "2005-06-23",
           "2005-07-22"
         ]
+      },
+      {
+        "i": "36690-2585-2005-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "36690-4159-2005-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "36690-4159-2005-06-01",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "36690-2585-2005-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "36690-7390-2006-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "36690-7390-2006-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "36690-11729-2006-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "36690-11729-2006-06-30",
+        "c": "FR"
+      },
       {
         "i": "36690-6091-2006-07-14",
         "c": "GB",
@@ -71,9 +111,99 @@
           "2006-07-14",
           "2006-09-17"
         ]
+      },
+      {
+        "i": "36690-7390-2006-12-14",
+        "c": "FR"
+      },
+      {
+        "i": "36690-4159-2006-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "36690-4159-2006-09-16",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "36690-7390-2006-12-14",
+        "c": "FR"
+      },
+      {
+        "i": "36690-741-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "36690-741-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "36690-18800-2007-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "36690-18800-2007-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "36690-4159-2007-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "36690-4159-2007-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "36690-13699-2007-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "36690-13699-2007-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "36690-11816-2007-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "36690-11816-2007-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "36690-8282-2007-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "36690-8282-2007-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "36690-10517-2007-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "36690-10517-2007-03-03",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "36690-4159-2008-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "36690-4159-2008-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "36690-2718-2008-05-23",
+        "c": "FR"
+      },
+      {
+        "i": "36690-2718-2008-05-23",
+        "c": "FR"
+      },
       {
         "i": "36690-10815-2008-10-31",
         "c": "RU",
@@ -86,9 +216,107 @@
           "2008-10-31",
           "2008-11-30"
         ]
+      },
+      {
+        "i": "36690-2219-2008-10-22",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "36690-8156-2009-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "36690-8156-2009-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "36690-8700-2009-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "36690-8700-2009-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "36690-27918-2009-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "36690-27918-2009-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "36690-2718-2009-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "36690-2718-2009-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "36690-8548-2009-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "36690-8548-2009-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "36690-20109-2009-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "36690-20109-2009-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "36690-18811-2009-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "36690-2219-2009-10-14",
+        "c": "FR"
+      },
+      {
+        "i": "36690-2219-2008-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "36690-14366-2009-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "36690-14366-2009-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "36690-4159-2009-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "36690-4159-2009-09-05",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "36690-18811-2009-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "36690-2219-2009-10-14",
+        "c": "FR"
+      },
+      {
+        "i": "36690-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "36690-2585-2010-02-05",
+        "c": "FR"
+      },
       {
         "i": "36690-9046-2010-02-05",
         "c": "US",
@@ -101,6 +329,30 @@
           "2010-02-05",
           "2010-04-18"
         ]
+      },
+      {
+        "i": "36690-27842-2010-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "36690-27842-2010-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "36690-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "36690-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "36690-2219-2010-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "36690-2219-2010-05-05",
+        "c": "FR"
       },
       {
         "i": "36690-9333-2010-05-23",
@@ -142,7 +394,99 @@
         ]
       }
     ],
+    "2011": [
+      {
+        "i": "36690-28742-2011-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "36690-28742-2011-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "36690-21541-2011-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "36690-11816-2011-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "36690-11816-2011-05-12",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "36690-21541-2011-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "36690-10517-2012-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "36690-10517-2012-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "36690-15491-2012-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "36690-15491-2012-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "36690-26235-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "36690-26235-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "36690-10517-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "36690-10517-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "36690-7391-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "36690-7391-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "36690-2303-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "36690-2303-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "36690-7491-2012-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "36690-7491-2012-03-16",
+        "c": "FR"
+      }
+    ],
     "2013": [
+      {
+        "i": "36690-27841-2013-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "36690-27841-2013-01-22",
+        "c": "FR"
+      },
       {
         "i": "36690-6026-2013-01-30",
         "c": "US",
@@ -155,6 +499,46 @@
           "2013-01-30",
           "2013-04-16"
         ]
+      },
+      {
+        "i": "36690-28277-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "36690-28277-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "36690-8520-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "36690-8520-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "36690-26235-2013-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "36690-26235-2013-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "36690-28736-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "36690-28736-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "36690-24269-2013-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "36690-24269-2013-06-28",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "44859",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:22:07",
+  "timestamp": "2014-05-24 06:31:50",
   "name": "Jochen Gerner",
   "surname": "Gerner",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Cartoon/Comic",
-  "r00": "11306",
-  "r01": "11608",
-  "r02": "10407",
-  "r03": "11209",
-  "r04": "16242",
-  "r05": "38862",
-  "r06": "34167",
-  "r07": "34462",
-  "r08": "41079",
+  "r00": "8819",
+  "r01": "8919",
+  "r02": "9824",
+  "r03": "8377",
+  "r04": "8990",
+  "r05": "13485",
+  "r06": "38036",
+  "r07": "32467",
+  "r08": "32521",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "30",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
-  "2005-shows-museums": "11",
-  "2005-countries-total": "France (15), Portugal (1), Reunion (1), Russia (1), USA (1)",
-  "2005-shows-with": "Jochen Gerner (17), Raymond Pettibon (4), Hervé di Rosa (4), Virginie Barré (3), Abdelkader Benchamma (3), Wim Delvoye (3), Daniel Johnston (3), Anita Molinero (3), Guillaume Pinard (3), Francis Alys (2), Gilles Barbier (2), Michel Blazy (2), Armelle Caron (2), R. Crumb (2), Will Eisner (2), Richard Fauguet (2), Roland Flexner (2), Pauline Fondevila (2), Claire Fontaine (2), Dominique Goblet (2), Frédérique Loutz (2), Ilan Manouach (2), Moolinex (2), Rivane Neuenschwander (2), Françoise Petrovitch (2), Plonk & Replonk (2), Robin Rhode (2), Riad Sattouf (2), Alain Séchas (2), Bruno Serralongue (2), Taroop & Glabel (2)",
+  "all-shows-total": "31",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "12",
+  "2005-countries-total": "France (17), Portugal (1), Reunion (1), Russia (1), USA (1)",
+  "2005-shows-with": "Jochen Gerner (19), Abdelkader Benchamma (4), Raymond Pettibon (4), Guillaume Pinard (4), Hervé di Rosa (4), Virginie Barré (3), Wim Delvoye (3), Marc Desgrandchamps (3), Richard Fauguet (3), Daniel Johnston (3), Frédérique Loutz (3), Anita Molinero (3), Francis Alys (2), Gilles Barbier (2), Olivier Blanckart (2), Michel Blazy (2), Armelle Caron (2), R. Crumb (2), Mimosa Echard (2), Will Eisner (2), Roland Flexner (2), Pauline Fondevila (2), Claire Fontaine (2), Dominique Goblet (2), Ilan Manouach (2), Moolinex (2), Rivane Neuenschwander (2), Françoise Petrovitch (2), Plonk & Replonk (2), Robin Rhode (2), Riad Sattouf (2), Alain Séchas (2), Bruno Serralongue (2), Taroop & Glabel (2)",
   "representing-galleries": "Galerie Anne Barrault (22, rue Saint-Claude, 75003 Paris, France)",
   "collecting-museums": "MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg)",
   "first_name": "Jochen",
@@ -43,7 +43,103 @@
   "age": 43,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "44859-1372-2005-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "44859-1372-2005-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "44859-10576-2005-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "44859-10576-2005-06-30",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "44859-1372-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "44859-1372-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "44859-10576-2006-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "44859-10576-2006-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "44859-1372-2006-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "44859-1372-2006-04-29",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "44859-10005-2007-01-02",
+        "c": "FR"
+      },
+      {
+        "i": "44859-10005-2007-01-02",
+        "c": "FR"
+      },
+      {
+        "i": "44859-16305-2007-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "44859-16305-2007-09-21",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "44859-10576-2008-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "44859-10576-2008-11-18",
+        "c": "FR"
+      }
+    ],
     "2009": [
+      {
+        "i": "44859-10576-2009-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "44859-10576-2009-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "44859-27842-2009-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "44859-27842-2009-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "44859-7811-2009-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "44859-7811-2009-05-28",
+        "c": "FR"
+      },
       {
         "i": "44859-18022-2009-10-16",
         "c": "RE",
@@ -69,6 +165,14 @@
           "2009-11-23",
           "2010-01-22"
         ]
+      },
+      {
+        "i": "44859-1372-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "44859-1372-2009-09-12",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -86,6 +190,38 @@
         ]
       },
       {
+        "i": "44859-20082-2010-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "44859-20082-2010-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "44859-21103-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "44859-21103-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "44859-10576-2010-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "44859-10576-2010-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "44859-21097-2010-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "44859-21097-2010-06-09",
+        "c": "FR"
+      },
+      {
         "i": "44859-8587-2010-09-07",
         "c": "RU",
         "n": "Res Publica",
@@ -97,6 +233,14 @@
           "2010-09-07",
           "2010-10-17"
         ]
+      },
+      {
+        "i": "44859-8568-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "44859-8568-2010-10-01",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -112,6 +256,50 @@
           "2011-01-31",
           "2011-04-25"
         ]
+      },
+      {
+        "i": "44859-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "44859-21128-2011-02-03",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "44859-28277-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "44859-28277-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "44859-10235-2013-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "44859-10235-2013-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "44859-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "44859-1372-2013-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "44859-1372-2013-10-19",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "44859-29739-2013-10-12",
+        "c": "FR"
       }
     ]
   }

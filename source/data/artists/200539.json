@@ -1,7 +1,7 @@
 {
   "id": "200539",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:23:57",
+  "timestamp": "2014-05-24 07:25:10",
   "name": "Julien Tiberi",
   "surname": "Tiberi",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "20054",
-  "r01": "24510",
-  "r02": "38227",
-  "r03": "36723",
-  "r04": "65866",
-  "r05": "75195",
-  "r06": "67618",
-  "r07": "59817",
-  "r08": null,
+  "r00": "11924",
+  "r01": "13118",
+  "r02": "15593",
+  "r03": "21508",
+  "r04": "19878",
+  "r05": "32356",
+  "r06": "31798",
+  "r07": "25834",
+  "r08": "20787",
   "awards": null,
   "website": null,
-  "all-shows-first": "2006",
-  "all-shows-total": "22",
-  "2005-shows-biennials": "10",
-  "2005-shows-galleries": "10",
+  "all-shows-first": "2003",
+  "all-shows-total": "25",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
   "2005-shows-museums": "7",
-  "2005-countries-total": "France (16), Belgium (1), Germany (1), USA (1)",
-  "2005-shows-with": "Julien Tiberi (17), Aurélien Mole (8), Saâdane Afif (4), Leonor Antunes (3), Aurélien Froment (3), Hippolyte Hentgen (3), Julien Nédélec (3), Clément Rodzielski (3), Jean-Luc Verna (3), Xavier Antin (2), Michel Blazy (2), Roxane Borujerdi (2), Nicolas Chardon (2), Claude Closky (2), Peter Coffin (2), Guillaume Constantin (2), Philippe Decrauzat (2), Olivier Dollinger (2), Céline Duval (2), Sammy Engramer (2), David Evrard (2), Andrea Fraser (2), Louise Hervé & Chloé Maillet (2), Mathieu Mercier (2), Estefania Peñafiel Loaiza (2), Julien Prévieux (2), Yann Sérandour (2), Kiki Smith (2), Thu Van Tran (2), Niels Trannois (2), Erwin Wurm (2)",
+  "2005-countries-total": "France (20), Belgium (1), Germany (1), Italy (1), USA (1)",
+  "2005-shows-with": "Julien Tiberi (21), Aurélien Mole (8), Saâdane Afif (4), Leonor Antunes (4), Aurélien Froment (4), Hippolyte Hentgen (4), Clément Rodzielski (4), Roxane Borujerdi (3), Nicolas Chardon (3), Julien Nédélec (3), Niels Trannois (3), Jean-Luc Verna (3), Xavier Antin (2), Jesus Alberto Benitez (2), Michel Blazy (2), Claude Closky (2), Peter Coffin (2), Guillaume Constantin (2), Philippe Decrauzat (2), Guillaume Dégé (2), Olivier Dollinger (2), Céline Duval (2), Sammy Engramer (2), David Evrard (2), Andrea Fraser (2), Louise Hervé & Chloé Maillet (2), Jacques Julien (2), Raphaël Julliard (2), Pierre Leguillon (2), Christophe Lemaitre (2), Marion Mahu (2), Colombe Marcasiano (2), Mathieu Mercier (2), Robert Morris (2), Estefania Peñafiel Loaiza (2), Julien Prévieux (2), Yann Sérandour (2), Izet Sheshivari (2), Kiki Smith (2), Olivier Soulerin (2), syndicate (2), Eva Taulois (2), Thu Van Tran (2), Cyril Verde (2), Erwin Wurm (2)",
   "representing-galleries": "Galerie Sémiose (3 rue de Montiboeufs, 75020 Paris, France)",
   "collecting-museums": null,
   "first_name": "Julien",
@@ -43,6 +43,26 @@
   "age": 35,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "200539-22295-2006-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "200539-22295-2006-07-01",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "200539-12129-2009-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "200539-12129-2009-09-30",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "200539-22137-2010-03-04",
@@ -56,9 +76,65 @@
           "2010-03-04",
           "2010-05-25"
         ]
+      },
+      {
+        "i": "200539-19738-2010-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "200539-19738-2010-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "200539-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "200539-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "200539-4194-2010-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "200539-4194-2010-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "200539-13699-2010-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "200539-13699-2010-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "200539-19611-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "200539-19611-2010-09-11",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "200539-20132-2011-10-29",
+        "c": "FR"
+      },
+      {
+        "i": "200539-20132-2011-10-29",
+        "c": "FR"
+      },
+      {
+        "i": "200539-12381-2011-11-01",
+        "c": "FR"
+      },
+      {
+        "i": "200539-12381-2011-11-01",
+        "c": "FR"
+      },
       {
         "i": "200539-20522-2011-11-04",
         "c": "US",
@@ -86,9 +162,65 @@
           "2011-11-04",
           "2012-01-08"
         ]
+      },
+      {
+        "i": "200539-7999-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "200539-7999-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "200539-7391-2012-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "200539-7391-2012-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "200539-7816-2012-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "200539-7816-2012-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "200539-8520-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "200539-7816-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "200539-7816-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "200539-12381-2012-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "200539-12381-2012-04-28",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "200539-8520-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "200539-11771-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "200539-11771-2013-02-15",
+        "c": "FR"
+      },
       {
         "i": "200539-27771-2013-03-07",
         "c": "BE",
@@ -101,6 +233,14 @@
           "2013-03-07",
           "2013-06-09"
         ]
+      },
+      {
+        "i": "200539-8520-2013-07-20",
+        "c": "FR"
+      },
+      {
+        "i": "200539-8520-2013-07-20",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "272510",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:51:52",
+  "timestamp": "2014-05-24 07:49:48",
   "name": "Gabriel Desplanque",
   "surname": "Desplanque",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video",
-  "r00": "52613",
-  "r01": "55913",
-  "r02": "52381",
-  "r03": "77475",
-  "r04": null,
+  "r00": "43865",
+  "r01": "44270",
+  "r02": "46770",
+  "r03": "43237",
+  "r04": "68369",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -29,11 +29,11 @@
   "website": null,
   "all-shows-first": "2010",
   "all-shows-total": "7",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": "5",
-  "2005-countries-total": "France (7)",
-  "2005-shows-with": "Gabriel Desplanque (7), Laurent Pernot (3), Denis Darzacq (2)",
+  "2005-countries-total": "France (7), Netherlands (1)",
+  "2005-shows-with": "Gabriel Desplanque (8), Laurent Pernot (3), Denis Darzacq (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Gabriel",
@@ -43,5 +43,69 @@
   "age": 33,
   "age_range": "26-40",
   "expos": {
+    "2010": [
+      {
+        "i": "272510-18800-2010-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "272510-18800-2010-07-01",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "272510-26739-2011-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "272510-26739-2011-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "272510-26775-2011-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "272510-26775-2011-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "272510-30361-2011-04-15",
+        "c": "FR"
+      },
+      {
+        "i": "272510-30361-2011-04-15",
+        "c": "FR"
+      },
+      {
+        "i": "272510-13652-2011-10-01",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "272510-13652-2011-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "272510-23298-2012-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "272510-23298-2012-09-21",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "272510-10220-2013-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "272510-10220-2013-06-15",
+        "c": "FR"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "17696",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:34",
+  "timestamp": "2014-05-24 06:21:58",
   "name": "Dominique Bailly",
   "surname": "Bailly",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "51876",
-  "r01": "48586",
-  "r02": "50249",
-  "r03": "48750",
-  "r04": "42259",
-  "r05": "36555",
-  "r06": "35633",
-  "r07": "29661",
-  "r08": "27207",
+  "r00": "46494",
+  "r01": "59396",
+  "r02": "57787",
+  "r03": "64541",
+  "r04": "65804",
+  "r05": "57136",
+  "r06": "49521",
+  "r07": "47479",
+  "r08": "36582",
   "awards": null,
   "website": null,
   "all-shows-first": "1991",
   "all-shows-total": "12",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (5)",
-  "2005-shows-with": "Dominique Bailly (3)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (6)",
+  "2005-shows-with": "Dominique Bailly (4)",
   "representing-galleries": "Galerie Barnoud (27 rue Berlier, 21000 Dijon, France); School Gallery Paris (81 rue du Temple, 75003 Paris, France)",
   "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France)",
   "first_name": "Dominique",
@@ -43,5 +43,63 @@
   "age": 65,
   "age_range": "61-100",
   "expos": {
+    "2006": [
+      {
+        "i": "17696-27953-2006-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "17696-27953-2006-04-28",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "17696-25217-2011-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "17696-25217-2011-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "17696-2071-2011-11-04",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "17696-2071-2011-11-04",
+        "c": "FR"
+      },
+      {
+        "i": "17696-17457-2012-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "17696-17457-2012-02-18",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "17696-20679-2013-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "17696-20679-2013-03-21",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "17696-17457-2008-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "17696-17457-2008-04-24",
+        "c": "FR"
+      }
+    ]
   }
 }

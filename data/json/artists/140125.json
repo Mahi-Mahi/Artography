@@ -1,7 +1,7 @@
 {
   "id": "140125",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:00:29",
+  "timestamp": "2014-05-24 07:04:28",
   "name": "Emmanuelle Lainé",
   "surname": "Lainé",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Female",
   "media": "Sculpture, Drawings",
-  "r00": "7703",
-  "r01": "7432",
-  "r02": "8903",
-  "r03": "10691",
-  "r04": "10934",
-  "r05": "9575",
-  "r06": "27148",
-  "r07": "41801",
-  "r08": "60007",
+  "r00": "6390",
+  "r01": "6326",
+  "r02": "5894",
+  "r03": "7113",
+  "r04": "8814",
+  "r05": "8935",
+  "r06": "7608",
+  "r07": "23591",
+  "r08": "37896",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "24",
+  "all-shows-total": "26",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
   "2005-shows-museums": "10",
-  "2005-countries-total": "France (16), United Kingdom (2), Belgium (1), Germany (1), Italy (1), Switzerland (1)",
-  "2005-shows-with": "Emmanuelle Lainé (17), Michael Beutler (3), Dewar & Gicquel (3), Ida Ekblad (3), Vincent Ganivet (3), Camille Henrot (3), Hedwig Houben (3), Charles Mason (3), Mathieu Mercier (3), Florian & Michael Quistrebert (3), Lili Reynaud Dewar (3), Saâdane Afif (2), James Angus (2), Neil Beloufa (2), Pierre Bismuth (2), François Curlet (2), Julien Discrit (2), Mario Garcia Torres (2), Louise Hervé & Chloé Maillet (2), Thomas Hirschhorn (2), Claude Lévêque (2), Basim Magdy (2), Nicolas Milhé (2), Vik Muniz (2), Laurent Perbos (2), Delphine Reist (2), Sylvain Rousseau (2), Blair Thurman (2), Rirkrit Tiravanija (2), Laurent Tixador (2), John Tremblay (2), Stephane Vigny (2)",
-  "representing-galleries": "Galerie LHK (6 rue Saint Claude, 75003 Paris, France); Triple V (24 & 34 rue Louise Weiss, 75013 Paris, France)",
+  "2005-countries-total": "France (17), United Kingdom (2), Belgium (1), Germany (1), Italy (1), Switzerland (1)",
+  "2005-shows-with": "Emmanuelle Lainé (18), Lili Reynaud Dewar (4), Michael Beutler (3), Dewar & Gicquel (3), Ida Ekblad (3), Vincent Ganivet (3), Camille Henrot (3), Hedwig Houben (3), Charles Mason (3), Mathieu Mercier (3), Florian & Michael Quistrebert (3), Saâdane Afif (2), James Angus (2), Neil Beloufa (2), Pierre Bismuth (2), François Curlet (2), Julien Discrit (2), Jimmie Durham (2), Mario Garcia Torres (2), Louise Hervé & Chloé Maillet (2), Thomas Hirschhorn (2), Claude Lévêque (2), Basim Magdy (2), Nicolas Milhé (2), Vik Muniz (2), Steven Parrino (2), Laurent Perbos (2), Delphine Reist (2), Sylvain Rousseau (2), Blair Thurman (2), Rirkrit Tiravanija (2), Laurent Tixador (2), John Tremblay (2), Stephane Vigny (2)",
+  "representing-galleries": "Galerie LHK (6 rue Saint Claude, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Emmanuelle",
   "last_name": "Lainé",
@@ -58,6 +58,66 @@
         ]
       }
     ],
+    "2007": [
+      {
+        "i": "140125-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "140125-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "140125-10870-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "140125-10870-2007-07-07",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "140125-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "140125-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "140125-18564-2008-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "140125-18564-2008-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "140125-8282-2008-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "140125-8282-2008-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "140125-1782-2008-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "140125-1782-2008-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "140125-18564-2008-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "140125-18564-2008-11-23",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "140125-22002-2009-05-25",
@@ -71,9 +131,67 @@
           "2009-05-25",
           "2009-09-19"
         ]
+      },
+      {
+        "i": "140125-18564-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "140125-18564-2009-09-12",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "140125-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "140125-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "140125-20542-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "140125-20542-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "140125-24759-2010-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "140125-24759-2010-06-18",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "140125-26376-2011-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "140125-26376-2011-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "140125-8282-2011-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "140125-8282-2011-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "140125-9060-2011-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "140125-9060-2011-06-11",
+        "c": "FR"
+      },
       {
         "i": "140125-3851-2011-09-24",
         "c": "GB",
@@ -99,6 +217,14 @@
           "2011-10-06",
           "2011-11-06"
         ]
+      },
+      {
+        "i": "140125-14600-2011-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "140125-14600-2011-01-07",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -116,6 +242,14 @@
         ]
       },
       {
+        "i": "140125-26765-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "140125-26765-2012-04-20",
+        "c": "FR"
+      },
+      {
         "i": "140125-28575-2012-06-09",
         "c": "DE",
         "n": "#the Flesh",
@@ -127,9 +261,25 @@
           "2012-06-09",
           "2012-07-28"
         ]
+      },
+      {
+        "i": "140125-21695-2012-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "140125-21695-2012-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "140125-14600-2012-12-07",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "140125-14600-2012-12-07",
+        "c": "FR"
+      },
       {
         "i": "140125-27771-2013-03-07",
         "c": "BE",

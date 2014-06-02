@@ -16,12 +16,70 @@
   "fairs-abroad": "2",
   "fairs-in-FR": "15",
   "fairs": {
+    "2007": [
+      {
+        "i": "13545-Show Off Paris 2007",
+        "c": "FR"
+      },
+      {
+        "i": "13545-Paris Photo 2007",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "13545-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
+        "i": "13545-Art-O-Rama 2008",
+        "c": "FR"
+      },
       {
         "i": "13545-Contemporary Istanbul Art Fair 2008",
         "c": "TR",
         "n": "Contemporary Istanbul Art Fair 2008",
         "ct": "Istanbul"
+      },
+      {
+        "i": "13545-Show Off Paris 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "13545-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "13545-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
+        "i": "13545-Docks Art Fair 2009",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "13545-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "13545-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "13545-Art-O-Rama 2011",
+        "c": "FR"
+      },
+      {
+        "i": "13545-DocksArtFair 2011",
+        "c": "FR"
+      },
+      {
+        "i": "13545-SLICK 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -30,6 +88,16 @@
         "c": "CH",
         "n": "Artgenève - Salon international d'art  2012",
         "ct": "Geneva"
+      }
+    ],
+    "2013": [
+      {
+        "i": "13545-DocksArtFair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "13545-cutlog 2013",
+        "c": "FR"
       }
     ]
   }

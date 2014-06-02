@@ -16,12 +16,22 @@
   "fairs-abroad": "1",
   "fairs-in-FR": "2",
   "fairs": {
+    "2008": [
+      {
+        "i": "16211-ArtParis 08",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "16211-ARCO 09",
         "c": "ES",
         "n": "ARCO 09",
         "ct": "Madrid"
+      },
+      {
+        "i": "16211-ArtParis 09",
+        "c": "FR"
       }
     ]
   }

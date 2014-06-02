@@ -122,7 +122,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 .right-sidebar {
-	padding:100px 0;
+	padding:100px 0 0 0;
 	width:200px;
 	@media (min-width: $break-large) {
 		width:285px;
@@ -235,7 +235,6 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 .content-footer {
-	display: none;
 	margin: 0 auto;
 	padding:0;
 	width:320px;

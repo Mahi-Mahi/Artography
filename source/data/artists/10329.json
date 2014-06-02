@@ -1,7 +1,7 @@
 {
   "id": "10329",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:06",
+  "timestamp": "2014-05-24 06:19:02",
   "name": "Hugues Reip",
   "surname": "Reip",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video, Artist's book, Installation",
-  "r00": "3839",
-  "r01": "3374",
-  "r02": "3152",
-  "r03": "3195",
-  "r04": "3041",
-  "r05": "2645",
-  "r06": "2385",
-  "r07": "2243",
-  "r08": "1789",
+  "r00": "5816",
+  "r01": "5754",
+  "r02": "4494",
+  "r03": "4084",
+  "r04": "4251",
+  "r05": "3792",
+  "r06": "3078",
+  "r07": "2606",
+  "r08": "2325",
   "awards": null,
-  "website": null,
+  "website": "www.huguesreip.com",
   "all-shows-first": "1992",
-  "all-shows-total": "66",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
-  "2005-shows-museums": "17",
-  "2005-countries-total": "France (18), Belgium (2), Cameroon (1), Italy (1), Japan (1)",
-  "2005-shows-with": "Hugues Reip (22), Saâdane Afif (5), Philippe Decrauzat (4), Jean-Luc Verna (4), Nicolas Chardon (3), Charles Fréger (3), Laurent Grasso (3), Philippe Gronon (3), Fabrice Hybert (3), Véronique Joumard (3), Mathieu Mercier (3), Mrzyk & Moriceau (3), Éric Poitevin (3), Paul Pouvreau (3), David Renaud (3), Evariste Richer (3), Barthélémy Toguo (3), Pierre Vadi (3), Xavier Veilhan (3), Raphaël Zarka (3), Dove Allouche (2), John M Armleder (2), Francis Baudevin (2), Glen Baxter (2), Thomas Bayrle (2), Neal Beggs (2), Karina Bisch (2), Dominique Blais (2), Lilian Bourgeat (2), Nina Childress (2), Claude Closky (2), Delphine Coindet (2), François Curlet (2), Stéphane Dafflon (2), Edith Dekyndt (2), Damien Deroubaix (2), Andreas Dobler (2), David Evrard (2), Simon Faithfull (2), Ivan Fayard (2), Joan Fontcuberta (2), Cyprien Gaillard (2), Gérard Gasiorowski (2), Isa Genzken (2), Benjamin Hochart (2), Jacques Julien (2), William Kentridge (2), Vincent Lamouroux (2), Rainier Lericolais (2), Isabelle Levenez (2",
+  "all-shows-total": "70",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
+  "2005-shows-museums": "19",
+  "2005-countries-total": "France (20), Belgium (3), Cameroon (1), Italy (1), Japan (1)",
+  "2005-shows-with": "Hugues Reip (25), Saâdane Afif (5), Philippe Decrauzat (4), Jean-Luc Verna (4), Neal Beggs (3), Nicolas Chardon (3), Edith Dekyndt (3), Joan Fontcuberta (3), Charles Fréger (3), Laurent Grasso (3), Philippe Gronon (3), Fabrice Hybert (3), Véronique Joumard (3), William Kentridge (3), Mathieu Mercier (3), Mrzyk & Moriceau (3), Éric Poitevin (3), Paul Pouvreau (3), David Renaud (3), Evariste Richer (3), Barthélémy Toguo (3), Pierre Vadi (3), Xavier Veilhan (3), Raphaël Zarka (3), Dove Allouche (2), John M Armleder (2), Francis Baudevin (2), Glen Baxter (2), Thomas Bayrle (2), Karina Bisch (2), Dominique Blais (2), Lilian Bourgeat (2), Nina Childress (2), Claude Closky (2), Delphine Coindet (2), François Curlet (2), Stéphane Dafflon (2), Stephen Dean (2), Damien Deroubaix (2), Andreas Dobler (2), David Evrard (2), Simon Faithfull (2), Ivan Fayard (2), Michel François (2), Cyprien Gaillard (2), Gérard Gasiorowski (2), Isa Genzken (2), Dominique Gonzalez-Foerster (2), Benjamin Hochart (2), Pierre Huyghe",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Centre (12 rue de la Tour Neuve, 45000 Orleans, France)",
   "first_name": "Hugues",
@@ -44,6 +44,30 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "10329-193-2005-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "10329-193-2005-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "10329-10227-2005-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "10329-10227-2005-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "10329-2353-2005-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "10329-2353-2005-05-13",
+        "c": "FR"
+      },
       {
         "i": "10329-362-2005-06-23",
         "c": "ES",
@@ -56,9 +80,51 @@
           "2005-06-23",
           "2005-07-22"
         ]
+      },
+      {
+        "i": "10329-10518-2005-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "10329-10518-2005-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "10329-9344-2005-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "10329-9344-2005-04-01",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "10329-10517-2006-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "10329-10517-2006-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "10329-17271-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "10329-17271-2006-09-09",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "10329-11587-2007-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "10329-11587-2007-01-18",
+        "c": "FR"
+      },
       {
         "i": "10329-2389-2007-02-17",
         "c": "IS",
@@ -71,9 +137,49 @@
           "2007-02-17",
           "2007-03-18"
         ]
+      },
+      {
+        "i": "10329-16305-2007-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "10329-16305-2007-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "10329-8282-2007-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "10329-8282-2007-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "10329-1829-2007-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "10329-1829-2007-09-14",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "10329-9059-2008-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "10329-9059-2008-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "10329-17377-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "10329-17377-2008-04-11",
+        "c": "FR"
+      },
       {
         "i": "10329-10965-2008-06-19",
         "c": "IT",
@@ -99,6 +205,28 @@
           "2008-07-26",
           "2008-09-28"
         ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "10329-18800-2009-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "10329-18800-2009-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "10329-28534-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "10329-28534-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "10329-21098-2009-10-18",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -129,6 +257,14 @@
         ]
       },
       {
+        "i": "10329-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "10329-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
         "i": "10329-2328-2010-05-20",
         "c": "BE",
         "n": "Radical Postures",
@@ -140,6 +276,112 @@
           "2010-05-20",
           "2010-07-10"
         ]
+      },
+      {
+        "i": "10329-10239-2010-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "10329-10239-2010-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "10329-9344-2010-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "10329-21098-2009-10-18",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "10329-9344-2010-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "10329-8285-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "10329-8285-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "10329-8639-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "10329-8639-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "10329-1829-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "10329-1829-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "10329-10519-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "10329-10519-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "10329-6620-2011-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "10329-6620-2011-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "10329-11586-2011-11-05",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "10329-11586-2011-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "10329-1829-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "10329-1829-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "10329-10516-2012-04-04",
+        "c": "FR"
+      },
+      {
+        "i": "10329-10516-2012-04-04",
+        "c": "FR"
+      },
+      {
+        "i": "10329-10517-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "10329-10517-2012-09-08",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "10329-3500-2013-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "10329-3500-2013-06-22",
+        "c": "FR"
       }
     ]
   }

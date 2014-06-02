@@ -1,7 +1,7 @@
 {
   "id": "140359",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:00:33",
+  "timestamp": "2014-05-24 07:04:32",
   "name": "Isabel Duperray",
   "surname": "Duperray",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "97918",
-  "r01": "98503",
-  "r02": "93797",
-  "r03": "90905",
-  "r04": "84167",
-  "r05": "77052",
-  "r06": "72485",
-  "r07": "64516",
-  "r08": "55819",
+  "r00": "46264",
+  "r01": "77690",
+  "r02": "82710",
+  "r03": "76745",
+  "r04": "84191",
+  "r05": "76641",
+  "r06": "75716",
+  "r07": "71550",
+  "r08": "63095",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
   "all-shows-total": "5",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": null,
-  "2005-countries-total": "France (3)",
-  "2005-shows-with": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (7)",
+  "2005-shows-with": "Isabel Duperray (4), Yves Gobart (2), Thomas Ivernel (2), Alexandra Roussopoulos (2)",
   "representing-galleries": "Galerie Guigon (39, rue de Charenton, 75012 Paris, France)",
   "collecting-museums": null,
   "first_name": "Isabel",
@@ -43,5 +43,45 @@
   "age": 48,
   "age_range": "41-60",
   "expos": {
+    "2008": [
+      {
+        "i": "140359-8911-2008-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "140359-8911-2008-01-19",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "140359-11827-2005-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "140359-11827-2005-04-13",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "140359-29391-2011-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "140359-29391-2011-10-16",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "140359-27613-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "140359-27613-2013-03-23",
+        "c": "FR"
+      }
+    ]
   }
 }

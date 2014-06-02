@@ -1,7 +1,7 @@
 {
   "id": "306082",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:04:57",
+  "timestamp": "2014-05-24 08:01:12",
   "name": "Nyaba Leon Ouedraogo",
   "surname": "Ouedraogo",
   "nationality": "FR, BF",
@@ -16,10 +16,10 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "33203",
-  "r01": "31241",
-  "r02": "38219",
-  "r03": null,
+  "r00": "21952",
+  "r01": "22196",
+  "r02": "23349",
+  "r03": "29053",
   "r04": null,
   "r05": null,
   "r06": null,
@@ -28,12 +28,12 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2011",
-  "all-shows-total": "7",
+  "all-shows-total": "8",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (1), Germany (1), Greece (1), Ireland (Republic) (1), Mali (1), United Kingdom (1), USA (1)",
-  "2005-shows-with": "Nyaba Leon Ouedraogo (6), Christian Als (4), Edward Burtynsky (4), Stéphane Couturier (4), Mitch Epstein (4), Chris Jordan (4), Yeondoo Jung (4), Vera Lutter (4), Taryn Simon (4), Thomas Struth (4), Guy Tillim (4), Michael Wolf (4)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "USA (2), France (1), Germany (1), Greece (1), Ireland (Republic) (1), Mali (1), United Kingdom (1)",
+  "2005-shows-with": "Nyaba Leon Ouedraogo (7), Christian Als (4), Edward Burtynsky (4), Stéphane Couturier (4), Mitch Epstein (4), Chris Jordan (4), Yeondoo Jung (4), Vera Lutter (4), Taryn Simon (4), Thomas Struth (4), Guy Tillim (4), Michael Wolf (4), El Anatsui (2), Charles Okereke (2), George Osodi (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Nyaba",
@@ -147,6 +147,14 @@
           "2012-06-02",
           "2012-09-16"
         ]
+      },
+      {
+        "i": "306082-21906-2012-04-26",
+        "c": "FR"
+      },
+      {
+        "i": "306082-21906-2012-04-26",
+        "c": "FR"
       }
     ]
   }

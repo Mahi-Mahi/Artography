@@ -1,7 +1,7 @@
 {
   "id": "181052",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:16:39",
+  "timestamp": "2014-05-24 07:18:31",
   "name": "Laurent Suchy",
   "surname": "Suchy",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "67289",
-  "r01": "64307",
-  "r02": "63921",
-  "r03": "58986",
-  "r04": "53090",
-  "r05": "86206",
-  "r06": "80527",
-  "r07": "72047",
-  "r08": "62799",
+  "r00": "63630",
+  "r01": "64981",
+  "r02": "60027",
+  "r03": "59631",
+  "r04": "53739",
+  "r05": "47567",
+  "r06": "86985",
+  "r07": "81691",
+  "r08": "72603",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
   "all-shows-total": "4",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (3)",
-  "2005-shows-with": "Laurent Suchy (2)",
+  "2005-countries-total": "France (4)",
+  "2005-shows-with": "Laurent Suchy (3)",
   "representing-galleries": "Galerie Georges Verney-Carron (45 quai Rambaud, 69002 Lyon, France)",
   "collecting-museums": null,
   "first_name": "Laurent",
@@ -43,5 +43,35 @@
   "age": 46,
   "age_range": "41-60",
   "expos": {
+    "2008": [
+      {
+        "i": "181052-22625-2008-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "181052-22625-2008-06-07",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "181052-11681-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "181052-11681-2012-04-06",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "181052-11681-2009-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "181052-11681-2009-06-04",
+        "c": "FR"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "70955",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:32:44",
+  "timestamp": "2014-05-24 06:41:04",
   "name": "Marc Chevalier",
   "surname": "Chevalier",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "17337",
-  "r01": "15632",
-  "r02": "13683",
-  "r03": "12005",
-  "r04": "13016",
-  "r05": "12425",
-  "r06": "10350",
-  "r07": "12767",
-  "r08": "10928",
+  "r00": "19953",
+  "r01": "18222",
+  "r02": "15331",
+  "r03": "12454",
+  "r04": "12255",
+  "r05": "13952",
+  "r06": "12952",
+  "r07": "10204",
+  "r08": "14456",
   "awards": null,
   "website": null,
   "all-shows-first": "1993",
-  "all-shows-total": "20",
+  "all-shows-total": "21",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (4), Belgium (1)",
-  "2005-shows-with": "Marc Chevalier (5), Thierry Lagalla (3), Julien Bouillon (2), Marcel Broodthaers (2), Jean Dupuy (2), Pierre Huyghe (2), Florent Mattei (2), Marie-Ève Mestre (2), Emilie Perotto (2), Allen Ruppersberg (2), Cédric Teisseire (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (5), Belgium (1)",
+  "2005-shows-with": "Marc Chevalier (6), Julien Bouillon (3), Thierry Lagalla (3), Cédric Teisseire (3), Marcel Broodthaers (2), Jean Dupuy (2), Robert Filliou (2), Jacqueline Gainon (2), Jean-Baptiste Ganne (2), Pierre Huyghe (2), Lemesle & Roubaud (2), Ludovic Lignon (2), Florent Mattei (2), Marie-Ève Mestre (2), Emilie Perotto (2), Emmanuel Régent (2), Allen Ruppersberg (2)",
   "representing-galleries": "Galerie Norbert Pastor (6 rue Valperga, 06000 Nice, France)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Marc",
@@ -56,9 +56,51 @@
           "2005-05-05",
           "2005-05-27"
         ]
+      },
+      {
+        "i": "70955-2585-2005-11-05",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "70955-2585-2005-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "70955-7851-2006-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "70955-7851-2006-09-30",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "70955-10501-2007-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "70955-10501-2007-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "70955-741-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "70955-741-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "70955-28954-2007-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "70955-28954-2007-06-09",
+        "c": "FR"
+      },
       {
         "i": "70955-361-2007-09-02",
         "c": "DE",
@@ -86,6 +128,14 @@
           "2007-09-02",
           "2008-01-20"
         ]
+      },
+      {
+        "i": "70955-5450-2008-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "70955-5450-2008-01-31",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -101,6 +151,36 @@
           "2009-09-03",
           "2009-10-04"
         ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "70955-8996-2010-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "70955-8996-2010-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "70955-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "70955-2585-2010-02-05",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "70955-16752-2012-12-07",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "70955-16752-2012-12-07",
+        "c": "FR"
       }
     ]
   }

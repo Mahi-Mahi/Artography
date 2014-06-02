@@ -1,7 +1,7 @@
 {
   "id": "337175",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:16:40",
+  "timestamp": "2014-05-24 08:11:35",
   "name": "Junko Yamasaki",
   "surname": "Yamasaki",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "60300",
-  "r01": "57384",
-  "r02": "106101",
-  "r03": "101385",
-  "r04": "94957",
-  "r05": "87829",
-  "r06": "79619",
-  "r07": "71217",
-  "r08": "62138",
+  "r00": "47985",
+  "r01": "48592",
+  "r02": "45196",
+  "r03": "107898",
+  "r04": "102550",
+  "r05": "95670",
+  "r06": "87821",
+  "r07": "79148",
+  "r08": "70423",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "3",
-  "2005-shows-biennials": "1",
-  "2005-shows-galleries": "1",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (2)",
-  "2005-shows-with": "Marcel Bataillard (2), Ruy Blas (2), Anna Byskov (2), Gilbert Caty (2), Jean Dupuy (2), Arnaud Labelle-Rojoux (2), Thierry Lagalla (2), Jean Mas (2), Florent Mattei (2), Patrick Moya (2), Ben Vautier (2), Jean-Luc Verna (2), Junko Yamasaki (2)",
+  "2005-countries-total": "France (3)",
+  "2005-shows-with": "Thierry Lagalla (3), Ben Vautier (3), Junko Yamasaki (3), Marcel Bataillard (2), Ruy Blas (2), Anna Byskov (2), Gilbert Caty (2), Jean Dupuy (2), Arnaud Labelle-Rojoux (2), Jean Mas (2), Florent Mattei (2), Patrick Moya (2), Gérald Panighi (2), Emmanuel Régent (2), Jean-Luc Verna (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Junko",
@@ -43,5 +43,35 @@
   "age": 41,
   "age_range": "41-60",
   "expos": {
+    "2012": [
+      {
+        "i": "337175-2585-2012-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "337175-2585-2012-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "337175-16752-2012-12-07",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "337175-16752-2012-12-07",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "337175-23311-2005-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "337175-23311-2005-06-03",
+        "c": "FR"
+      }
+    ]
   }
 }

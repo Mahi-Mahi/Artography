@@ -1,7 +1,7 @@
 {
   "id": "115079",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:50:29",
+  "timestamp": "2014-05-24 06:56:05",
   "name": "Julien Bouillon",
   "surname": "Bouillon",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "11897",
-  "r01": "11346",
-  "r02": "10070",
-  "r03": "8822",
-  "r04": "9004",
-  "r05": "7600",
-  "r06": "7649",
-  "r07": "14391",
-  "r08": "13491",
+  "r00": "14058",
+  "r01": "13017",
+  "r02": "11814",
+  "r03": "9415",
+  "r04": "8601",
+  "r05": "8657",
+  "r06": "6879",
+  "r07": "6898",
+  "r08": "14415",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "19",
+  "all-shows-total": "20",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (6), Germany (1)",
-  "2005-shows-with": "Julien Bouillon (6), Emilie Perotto (3), Marc Chevalier (2), François Curlet (2), Agathe Fleury (2), Jean-Baptiste Ganne (2), Thierry Lagalla (2), Xavier Mazzarol (2), Aurélien Mole (2), Bettina Samson (2), Louis-Philippe Scoufaras (2), Cédric Teisseire (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (7), Germany (1)",
+  "2005-shows-with": "Julien Bouillon (7), Marc Chevalier (3), Jean-Baptiste Ganne (3), Emilie Perotto (3), Cédric Teisseire (3), François Curlet (2), Robert Filliou (2), Agathe Fleury (2), Thierry Lagalla (2), Lemesle & Roubaud (2), Xavier Mazzarol (2), Aurélien Mole (2), Bettina Samson (2), Louis-Philippe Scoufaras (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Julien",
@@ -43,7 +43,103 @@
   "age": 42,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "115079-7851-2006-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "115079-7851-2006-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "115079-18150-2006-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "115079-18150-2006-12-15",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "115079-9850-2007-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "115079-9850-2007-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "115079-9850-2007-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "115079-9850-2007-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "115079-28954-2007-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "115079-28954-2007-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "115079-2585-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "115079-2585-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "115079-8282-2007-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "115079-8282-2007-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "115079-2585-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "115079-2585-2007-06-29",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "115079-5450-2008-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "115079-5450-2008-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "115079-1782-2008-12-04",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "115079-1782-2008-12-04",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "115079-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "115079-2585-2010-02-05",
+        "c": "FR"
+      },
       {
         "i": "115079-22137-2010-03-04",
         "c": "DE",
@@ -56,6 +152,34 @@
           "2010-03-04",
           "2010-05-25"
         ]
+      },
+      {
+        "i": "115079-11868-2010-03-25",
+        "c": "FR"
+      },
+      {
+        "i": "115079-11868-2010-03-25",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "115079-1566-2012-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "115079-1566-2012-01-14",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "115079-10221-2013-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "115079-10221-2013-01-19",
+        "c": "FR"
       }
     ]
   }

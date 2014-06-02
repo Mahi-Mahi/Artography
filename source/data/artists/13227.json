@@ -1,7 +1,7 @@
 {
   "id": "13227",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:08:29",
+  "timestamp": "2014-05-24 06:20:11",
   "name": "Claude Pasquer",
   "surname": "Pasquer",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "17066",
-  "r01": "15592",
-  "r02": "15952",
-  "r03": "14248",
-  "r04": "17064",
-  "r05": "17844",
-  "r06": "22176",
-  "r07": "20602",
-  "r08": "27963",
+  "r00": "18330",
+  "r01": "17528",
+  "r02": "14992",
+  "r03": "15194",
+  "r04": "12972",
+  "r05": "16041",
+  "r06": "16856",
+  "r07": "22000",
+  "r08": "20282",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
-  "all-shows-total": "30",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "all-shows-total": "32",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
   "2005-shows-museums": "6",
-  "2005-countries-total": "Germany (10), France (3), Poland (2)",
+  "2005-countries-total": "Germany (10), France (3), Poland (2), Switzerland (2)",
   "2005-shows-with": "Claude Pasquer (14), Charles Bézie (12), Jo Kuhn (12), Hellmut Bruch (11), Carlos Cruz-Diez (11), Jo Niemeyer (11), Henri Prosi (11), Jean Pierre Viot (11), Martin Wörn (11), Piet van Zon (11), Gerhard Frömel (10), Josef Linschinger (10), Sigurd Rompza (10), Marie-Thérèse Vacossin (10), John Carter (9), Norbert Thomas (9), Gilbert Decock (8), Willem Kloppers (8), Miriam Prantl (8), Gerhard Jürgen Blum-Kwiatkowski (7), Pierre Boillot (7), Julian Gil (7), Gerhard Hotter (7), André van Lier (7), Gido Wiederkehr (7), Jean-François Dubreuil (6), Anneke Klein Kranenbarg (6), Yves Popet (6), Kurt Teuscher (6), Maria Arvelaiz-Gordon (5), Jan Berdyszak (5), Ode Bertrand (5), Ingo Glass (5), Hanns Herpich (5), Alfons Kunen (5), Mitsouko Mori (5), Knut Navrot (5), Keummi Paik-Bauermeister (5), Torsten Ridell (5), Albert Rubens (5), Satoru Sato (5), Diet Sayler (5), Elise Delbrassine (4), Roger Demyttenaere (4), Anders Liden (4), müller-emil (4), László Ottó (4), Chris Popovic (4), Peter Staechelin (4), Helen",
   "representing-galleries": "galerie konkret martin woern (Hauptstr. 29, 79295 Sulzburg, Germany); La Vitrine (rue des Alpes 32, 1700 Fribourg, Switzerland)",
   "collecting-museums": "Forum Konkrete Kunst (Peterskirche auf dem Petersberg, 99084 Erfurt, Germany)",
@@ -84,6 +84,14 @@
           "2006-05-10",
           "2006-06-05"
         ]
+      },
+      {
+        "i": "13227-370-2006-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "13227-370-2006-11-25",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -99,6 +107,14 @@
           "2007-03-11",
           "2007-03-11"
         ]
+      },
+      {
+        "i": "13227-29576-2007-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "13227-29576-2007-06-30",
+        "c": "FR"
       },
       {
         "i": "13227-3175-2007-07-06",
@@ -224,6 +240,14 @@
         ]
       },
       {
+        "i": "13227-21761-2010-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "13227-21761-2010-03-14",
+        "c": "FR"
+      },
+      {
         "i": "13227-17646-2010-06-25",
         "c": "DE",
         "n": "10 Jahre IKKP - 10 Jahre Kunsthaus Rehau",
@@ -302,6 +326,14 @@
           "2011-02-11",
           "2011-04-03"
         ]
+      },
+      {
+        "i": "13227--2011-08-06",
+        "c": "FR"
+      },
+      {
+        "i": "13227--2011-08-06",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -317,6 +349,14 @@
           "2012-10-21",
           "2012-11-17"
         ]
+      },
+      {
+        "i": "13227-370-2012-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "13227-370-2012-01-13",
+        "c": "FR"
       }
     ]
   }

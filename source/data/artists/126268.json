@@ -1,12 +1,12 @@
 {
   "id": "126268",
-  "mergedIDs": null,
-  "timestamp": "2014-02-22 06:54:50",
+  "mergedIDs": "439093",
+  "timestamp": "2014-05-24 06:59:50",
   "name": "Annie Vigier",
   "surname": "Vigier",
   "nationality": "FR",
   "nationality fr": "France",
-  "birth location": null,
+  "birth location": "",
   "birth day": 1,
   "birth month": 1,
   "birth year": "1965",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "21970",
-  "r01": "20325",
-  "r02": "23967",
-  "r03": "23194",
-  "r04": "20255",
-  "r05": "20425",
-  "r06": "20257",
-  "r07": "55655",
-  "r08": "47504",
+  "r00": "14423",
+  "r01": "21964",
+  "r02": "18747",
+  "r03": "23328",
+  "r04": "21731",
+  "r05": "18207",
+  "r06": "17976",
+  "r07": "17884",
+  "r08": "54738",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "8",
+  "all-shows-total": "9",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (4), Lithuania (1)",
-  "2005-shows-with": "Franck Apertet (5), Annie Vigier (5), Terre Thaemlitz (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (5), Lithuania (1)",
+  "2005-shows-with": "Franck Apertet (6), Annie Vigier (6), Nina Beier & Marie Lund (2), Dora García (2), Roman Ondák (2), Terre Thaemlitz (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Annie",
@@ -43,6 +43,66 @@
   "age": 49,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "126268-10229-2005-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "126268-10229-2005-02-05",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "126268-2493-2007-09-17",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "126268-2493-2007-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "126268-8700-2008-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "126268-8700-2008-09-08",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "126268-10229-2009-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "126268-10229-2009-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "126268-10229-2009-12-05",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "126268-10229-2009-12-05",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "126268-10229-2011-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "126268-10229-2011-11-08",
+        "c": "FR"
+      }
+    ],
     "2012": [
       {
         "i": "126268-2589-2012-09-14",

@@ -1,7 +1,7 @@
 {
   "id": "88694",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:40:13",
+  "timestamp": "2014-05-24 06:47:19",
   "name": "Patrick Taberna",
   "surname": "Taberna",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "45508",
-  "r01": "42516",
-  "r02": "42214",
-  "r03": "52277",
-  "r04": "47000",
-  "r05": "41561",
-  "r06": "46882",
-  "r07": "40430",
-  "r08": null,
+  "r00": "50980",
+  "r01": "50485",
+  "r02": "46251",
+  "r03": "46985",
+  "r04": "67661",
+  "r05": "60516",
+  "r06": "53759",
+  "r07": "71173",
+  "r08": "62903",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "9",
+  "all-shows-total": "8",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
   "2005-shows-museums": "1",
   "2005-countries-total": "Japan (4), France (1), Greece (1)",
   "2005-shows-with": "Patrick Taberna (2)",
-  "representing-galleries": "Camera Obscura (268, boulevard Raspail/ 12, rue Cresson, 75014 Paris, France); TantoTempo (Kensho Building 3F,2-1-3, Sakaemachi-dori, Chuo-ku, 650-0023  Kobe, Japan); galerie bmg (12 Tannery Brook Road, 12498 Woodstock, NY\t, USA)",
+  "representing-galleries": "Camera Obscura (268, boulevard Raspail/ 12, rue Cresson, 75014 Paris, France); TantoTempo (Kensho Building 3F,2-1-3, Sakaemachi-dori, Chuo-ku, 650-0023  Kobe, Japan); galerie bmg (12 Tannery Brook Road, 12498 Woodstock, NY, USA)",
   "collecting-museums": "Maison Européenne de la Photographie (5/7 rue de Fourcy, 75004 Paris, France)",
   "first_name": "Patrick",
   "last_name": "Taberna",
@@ -56,6 +56,14 @@
           "2006-03-23",
           "2006-05-14"
         ]
+      },
+      {
+        "i": "88694-5176-2006-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "88694-5176-2006-03-23",
+        "c": "FR"
       },
       {
         "i": "88694-7210-2006-05-12",
@@ -127,6 +135,14 @@
           "2011-07-30",
           "2011-08-22"
         ]
+      },
+      {
+        "i": "88694-5176-2011-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "88694-5176-2011-01-13",
+        "c": "FR"
       }
     ],
     "2012": [

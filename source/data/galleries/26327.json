@@ -16,5 +16,21 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "3",
   "fairs": {
+    "2011": [
+      {
+        "i": "26327-fotofever",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "26327-Chic Dessin 2012",
+        "c": "FR"
+      },
+      {
+        "i": "26327-Chic Artfair - À la Cité de la Mode et du Design 2012",
+        "c": "FR"
+      }
+    ]
   }
 }

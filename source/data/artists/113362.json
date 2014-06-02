@@ -1,7 +1,7 @@
 {
   "id": "113362",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:49:51",
+  "timestamp": "2014-05-24 06:55:30",
   "name": "Michel Gerson",
   "surname": "Gerson",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "30324",
-  "r01": "27846",
-  "r02": "24802",
-  "r03": "24537",
-  "r04": "21573",
-  "r05": "19940",
-  "r06": "16805",
-  "r07": "32545",
-  "r08": "26815",
+  "r00": "42352",
+  "r01": "39696",
+  "r02": "34186",
+  "r03": "27505",
+  "r04": "26224",
+  "r05": "21709",
+  "r06": "19222",
+  "r07": "15343",
+  "r08": "34997",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "10",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (4)",
-  "2005-shows-with": "Michel Gerson (4), Jean-François Courtilat (3), Béatrice Dacher (3), Laurent Moriceau (2)",
+  "2005-countries-total": "France (3)",
+  "2005-shows-with": "Michel Gerson (3), Jean-François Courtilat (2), Béatrice Dacher (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France)",
   "first_name": "Michel",
@@ -56,6 +56,62 @@
           "2007-01-19",
           "2007-03-11"
         ]
+      },
+      {
+        "i": "113362-22625-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "113362-22625-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "113362-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "113362-8548-2007-06-02",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "113362-10239-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "113362-10239-2009-07-04",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "113362-22625-2010-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "113362-22625-2010-10-08",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "113362-16035-2011-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "113362-16035-2011-01-25",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "113362-22625-2012-04-15",
+        "c": "FR"
+      },
+      {
+        "i": "113362-22625-2012-04-15",
+        "c": "FR"
       }
     ]
   }

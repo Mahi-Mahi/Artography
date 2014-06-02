@@ -1,7 +1,7 @@
 {
   "id": "57507",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:18",
+  "timestamp": "2014-05-24 06:36:18",
   "name": "Max Charvolen",
   "surname": "Charvolen",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "48835",
-  "r01": "44444",
-  "r02": "40789",
-  "r03": "39338",
-  "r04": "35567",
-  "r05": "30475",
-  "r06": "25746",
-  "r07": "23333",
-  "r08": "18949",
+  "r00": "48675",
+  "r01": "44286",
+  "r02": "37615",
+  "r03": "32994",
+  "r04": "50596",
+  "r05": "44876",
+  "r06": "37695",
+  "r07": "29484",
+  "r08": "26042",
   "awards": null,
   "website": null,
   "all-shows-first": "1987",
-  "all-shows-total": "12",
+  "all-shows-total": "13",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (5)",
-  "2005-shows-with": "Max Charvolen (5)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (6)",
+  "2005-shows-with": "Max Charvolen (6), Georges Rousse (2)",
   "representing-galleries": "Galerie Martagon (47 grand rue, 84340 Malaucène, France); Galerie AL/MA (35 rue de la Valfère, 34000 Montpellier, France); Galerie Joël Scholtès (45, boulevard Victor Hugo, 06000 Nice, France)",
   "collecting-museums": "CIAC - Centre International d'Art Contemporain de Carros (Place du château, 06510 Carros, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Max",
@@ -43,5 +43,75 @@
   "age": 68,
   "age_range": "61-100",
   "expos": {
+    "2005": [
+      {
+        "i": "57507-5434-2005-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "57507-5434-2005-03-04",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "57507-29107-2010-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "57507-10503-2010-12-04",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "57507-29107-2010-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "57507-10503-2010-12-04",
+        "c": "FR"
+      },
+      {
+        "i": "57507-27778-2011-10-15",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "57507-27778-2011-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "57507-10506-2012-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "57507-23311-2012-12-01",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "57507-10506-2012-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "57507-23311-2012-12-01",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "57507-10506-2007-12-07",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "57507-10506-2007-12-07",
+        "c": "FR"
+      }
+    ]
   }
 }

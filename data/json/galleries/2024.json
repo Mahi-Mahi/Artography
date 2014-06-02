@@ -22,6 +22,14 @@
         "c": "BE",
         "n": "Art Brussels 2005 - 23rd Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "2024-Fiac 2005",
+        "c": "FR"
+      },
+      {
+        "i": "2024-Paris Photo 2005",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -30,6 +38,10 @@
         "c": "BE",
         "n": "Art Brussels 2006- 24th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "2024-Fiac 2006",
+        "c": "FR"
       },
       {
         "i": "2024-PURO ARTE VIGO 2006",
@@ -50,6 +62,10 @@
         "c": "ES",
         "n": "Loop - The Video Art Fair 07",
         "ct": "Barcelona"
+      },
+      {
+        "i": "2024-Fiac 2007",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -64,6 +80,10 @@
         "c": "ES",
         "n": "Loop - The Video Art Fair 08",
         "ct": "Barcelona"
+      },
+      {
+        "i": "2024-Fiac 2008",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -72,9 +92,31 @@
         "c": "CH",
         "n": "Art 40 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "2024-Fiac 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "2024-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "2024-Fiac 2010",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "2024-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "2024-DocksArtFair 2011",
+        "c": "FR"
+      },
       {
         "i": "2024-Marrakech Art Fair",
         "c": "MA",
@@ -84,10 +126,18 @@
     ],
     "2012": [
       {
+        "i": "2024-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "c": "FR"
+      },
+      {
         "i": "2024-Art Brussels 2012",
         "c": "BE",
         "n": "Art Brussels 2012",
         "ct": "Brussels"
+      },
+      {
+        "i": "2024-Fiac 2012",
+        "c": "FR"
       }
     ]
   }

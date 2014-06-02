@@ -1,7 +1,7 @@
 {
   "id": "135128",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:58:33",
+  "timestamp": "2014-05-24 07:02:47",
   "name": "Clement Cogitore",
   "surname": "Cogitore",
   "nationality": "FR",
@@ -14,36 +14,54 @@
   "death day": null,
   "death month": null,
   "death year": null,
-  "attributes": null,
+  "attributes": "Male",
   "media": null,
-  "r00": "12609",
-  "r01": "19247",
-  "r02": "27136",
-  "r03": "24580",
-  "r04": "33569",
-  "r05": "29288",
-  "r06": "58170",
-  "r07": null,
+  "r00": "6198",
+  "r01": "8426",
+  "r02": "13641",
+  "r03": "19073",
+  "r04": "16634",
+  "r05": "20930",
+  "r06": "17692",
+  "r07": "54038",
   "r08": null,
   "awards": null,
-  "website": null,
+  "website": "www.clementcogitore.com",
   "all-shows-first": "2007",
-  "all-shows-total": "16",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
-  "2005-shows-museums": "7",
-  "2005-countries-total": "France (6), Switzerland (2), Austria (1), Belgium (1), Germany (1), Italy (1), Slovakia (1), Spain (1), Turkey (1)",
-  "2005-shows-with": "Clement Cogitore (14), Mia Bailey (2), Rosa Barba (2), François Bucher (2), Daya Cahen (2), Tony Cokes (2), Raphaël Cuomo (2), Peter Downsbrough (2), Redmond Entwistle (2), Gregory Forstner (2), Anton Ginzburg (2), Johan Grimonprez (2), Crispin Gurholt (2), Maria Iorio (2), Bjorn Melhus (2), John Menick (2), Christian Merlhiot (2), Nada Prlja (2), Tejal Shah (2), Gerda Steiner & Jörg Lenzlinger (2), Maria Tackmann (2), Muriel Toulemonde (2), Sarah Vanagt (2), Phillip Warnell (2), Apichatpong Weerasethakul (2), Paul Wong (2), Julius Ziz (2)",
+  "all-shows-total": "19",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": "11",
+  "2005-countries-total": "France (9), Switzerland (4), Austria (1), Belgium (1), Germany (1), Italy (1), Slovakia (1), Spain (1), Turkey (1)",
+  "2005-shows-with": "Clement Cogitore (17), Mia Bailey (3), Regula Abraham (2), Céline Adamo (2), Karin Aeschlimann (2), Puntes Sierra Aloha (2), Ariane Andereggen (2), Gabriela de Antuñano (2), Stefan Armbruster (2), Catherine Arnaud (2), Chris Aschwanden (2), Beatrice Bader (2), Peter Baer (2), Jörg Baier (2), Robin Ballard (2), Sonia Bamert (2), Susanne Banholzer (2), Dennis Bannert (2), Rosa Barba (2), Tina Barth (2), Philippe-Didier Beck (2), Daniela Beck (2), Evelyn Beckmann (2), Florian Bendele (2), Boris Berber (2), Andreas Berde (2), Elisabeth Bereznicki (2), Stefan Bergmann (2), Sarah Bernauer (2), Kaspar Berner (2), Volker Bessel (2), Andreas Blank (2), Charles Blockey (2), Petra Blocksdorf (2), Reinhard Bombsch (2), François Bucher (2), Ralph Bürgin (2), Daya Cahen (2), Christine Camenisch (2), Tony Cokes (2), Damien Comment (2), Colette Couleau (2), Raphaël Cuomo (2), Kilian Dellers (2), Erik Dettwiler (2), Peter Downsbrough (2), Krassimira Drenska (2), Patricia Dreyfus (2), Matthias Dämpfle (2), Caroline Ebne",
   "representing-galleries": "White Project (24 RUE SAINT CLAUDE, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Clement",
   "last_name": "Cogitore",
-  "genre": "c",
+  "genre": "m",
   "birthDate": "1983-01-01",
   "age": 31,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "135128-2709-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "135128-2709-2007-06-02",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "135128-2709-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "135128-2709-2008-06-06",
+        "c": "FR"
+      },
       {
         "i": "135128-2212-2008-11-29",
         "c": "CH",
@@ -113,6 +131,14 @@
           "2010-11-28",
           "2011-01-09"
         ]
+      },
+      {
+        "i": "135128-26246-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "135128-26246-2011-06-25",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -141,6 +167,22 @@
           "2012-05-09",
           "2012-05-31"
         ]
+      },
+      {
+        "i": "135128-1782-2012-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "135128-1782-2012-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "135128-26246-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "135128-26246-2012-09-08",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -195,6 +237,24 @@
           "2013-06-25",
           "2013-06-30"
         ]
+      },
+      {
+        "i": "135128-20775-2013-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "135128-21128-2013-11-29",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "135128-20775-2013-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "135128-21128-2013-11-29",
+        "c": "FR"
       }
     ]
   }

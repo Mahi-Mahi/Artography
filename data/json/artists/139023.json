@@ -1,7 +1,7 @@
 {
   "id": "139023",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:00:05",
+  "timestamp": "2014-05-24 07:04:06",
   "name": "Marion Mahu",
   "surname": "Mahu",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "64355",
-  "r01": "61208",
-  "r02": "56869",
-  "r03": "52005",
-  "r04": "86991",
-  "r05": "79911",
-  "r06": "72127",
-  "r07": "68046",
-  "r08": null,
+  "r00": "50109",
+  "r01": "49486",
+  "r02": "45042",
+  "r03": "40376",
+  "r04": "36040",
+  "r05": "82241",
+  "r06": "74666",
+  "r07": "66377",
+  "r08": "62586",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "5",
+  "all-shows-total": "6",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (1), Germany (1), Greece (1)",
-  "2005-shows-with": "Marion Mahu (3)",
+  "2005-countries-total": "France (1), Germany (1), Greece (1), Italy (1)",
+  "2005-shows-with": "Marion Mahu (4), Julien Tiberi (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Marion",
@@ -43,7 +43,43 @@
   "age": 36,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "139023-11771-2006-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "139023-11771-2006-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "139023-15171-2006-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "139023-15171-2006-11-24",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "139023-1368-2007-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "139023-1368-2007-04-17",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "139023-13699-2010-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "139023-13699-2010-06-04",
+        "c": "FR"
+      },
       {
         "i": "139023-1132-2010-06-27",
         "c": "DE",

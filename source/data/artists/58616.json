@@ -1,7 +1,7 @@
 {
   "id": "58616",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:47",
+  "timestamp": "2014-05-24 06:36:42",
   "name": "Stéphane Thidet",
   "surname": "Thidet",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "4794",
-  "r01": "4640",
-  "r02": "4216",
-  "r03": "5622",
-  "r04": "8319",
-  "r05": "9954",
-  "r06": "13508",
-  "r07": "31957",
-  "r08": null,
+  "r00": "3666",
+  "r01": "3720",
+  "r02": "3620",
+  "r03": "3128",
+  "r04": "4437",
+  "r05": "6742",
+  "r06": "8281",
+  "r07": "11197",
+  "r08": "28600",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "33",
+  "all-shows-total": "34",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
   "2005-shows-museums": "16",
-  "2005-countries-total": "France (16), Germany (3), Belgium (1), Italy (1), Luxembourg (1), Portugal (1), Sweden (1)",
-  "2005-shows-with": "Stéphane Thidet (20), François Morellet (8), Mircea Cantor (6), Claire Fontaine (6), Pierre Ardouvin (5), Elika Hedayat (5), Thomas Hirschhorn (5), Vasco Aráujo (4), Virginie Barré (4), Philippe Bazin (4), Maurizio Cattelan (4), Roberto Cuoghi (4), Mark Dion (4), Gardar Eide Einarsson (4), Urs Fischer (4), Fischli & Weiss (4), David Hammons (4), Annika von Hausswolff (4), William Kentridge (4), Kimsooja (4), Jeff Koons (4), Sigalit Landau (4), Sherrie Levine (4), DeAnna Maganias (4), Mark Manders (4), Paul McCarthy (4), Boris Mikhailov (4), Esko Männikkö (4), Bruce Nauman (4), Cady Noland (4), Martin Parr (4), Navin Rawanchaikul (4), Aurel Schmidt (4), Gregor Schneider (4), Lara Schnitger (4), Santiago Sierra (4), Kara Walker (4), Gilles Barbier (3), Julien Berthier (3), Marc Bijl (3), Céleste Boursier-Mougenot (3), Nicolas Darrot (3), Damien Deroubaix (3), Richard Fauguet (3), Marepe (3), Theo Mercier (3), Nicolas Milhé (3), Honoré d´ O (3), Lucien Pelen (3), Mathieu Pernot (3), Éric Pougeau (3), ",
+  "2005-countries-total": "France (16), Germany (3), Belgium (2), Italy (1), Luxembourg (1), Portugal (1), Sweden (1)",
+  "2005-shows-with": "Stéphane Thidet (21), François Morellet (8), Mircea Cantor (6), Claire Fontaine (6), Pierre Ardouvin (5), Elika Hedayat (5), Thomas Hirschhorn (5), Esko Männikkö (5), Vasco Aráujo (4), Virginie Barré (4), Philippe Bazin (4), Julien Berthier (4), Maurizio Cattelan (4), Roberto Cuoghi (4), Mark Dion (4), Gardar Eide Einarsson (4), Urs Fischer (4), Fischli & Weiss (4), David Hammons (4), Annika von Hausswolff (4), William Kentridge (4), Kimsooja (4), Jeff Koons (4), Sigalit Landau (4), Sherrie Levine (4), DeAnna Maganias (4), Mark Manders (4), Paul McCarthy (4), Boris Mikhailov (4), Bruce Nauman (4), Cady Noland (4), Martin Parr (4), Lucien Pelen (4), Navin Rawanchaikul (4), Aurel Schmidt (4), Gregor Schneider (4), Lara Schnitger (4), Santiago Sierra (4), Jean-Luc Vilmouth (4), Kara Walker (4), Gilles Barbier (3), Marc Bijl (3), Céleste Boursier-Mougenot (3), Jacob Dahlgren (3), Nicolas Darrot (3), Damien Deroubaix (3), Richard Fauguet (3), Marepe (3), Theo Mercier (3), Nicolas Milhé (3), Honoré d´ O (",
   "representing-galleries": "Galerie Aline Vidal (70, rue Bonaparte, 75006 Paris, France)",
   "collecting-museums": null,
   "first_name": "Stéphane",
@@ -44,6 +44,14 @@
   "age_range": "26-40",
   "expos": {
     "2006": [
+      {
+        "i": "58616-2024-2006-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "58616-2024-2006-01-07",
+        "c": "FR"
+      },
       {
         "i": "58616-8592-2006-09-03",
         "c": "DE",
@@ -56,9 +64,45 @@
           "2006-09-03",
           "2006-10-29"
         ]
+      },
+      {
+        "i": "58616-2024-2006-12-01",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "58616-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "58616-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "58616-2718-2007-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "58616-2718-2007-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "58616-6620-2007-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "58616-6620-2007-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "58616-12992-2007-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "58616-12992-2007-09-25",
+        "c": "FR"
+      },
       {
         "i": "58616-28587-2007-12-01",
         "c": "CH",
@@ -71,6 +115,14 @@
           "2007-12-01",
           "2008-01-20"
         ]
+      },
+      {
+        "i": "58616-8282-2007-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "58616-2024-2006-12-01",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -86,9 +138,53 @@
           "2007-12-01",
           "2008-01-20"
         ]
+      },
+      {
+        "i": "58616-8282-2007-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "58616-2024-2008-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "58616-2024-2008-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "58616-8282-2008-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "58616-8282-2008-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "58616-6620-2008-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "58616-9059-2008-03-28",
+        "c": "FR"
+      },
+      {
+        "i": "58616-9059-2008-03-28",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "58616-6620-2008-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "58616-20109-2009-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "58616-20109-2009-06-05",
+        "c": "FR"
+      },
       {
         "i": "58616-2376-2009-10-21",
         "c": "IT",
@@ -101,6 +197,18 @@
           "2009-10-21",
           "2010-03-04"
         ]
+      },
+      {
+        "i": "58616-21695-2009-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "58616-14920-2009-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "58616-14920-2009-04-09",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -116,6 +224,10 @@
           "2009-10-21",
           "2010-03-04"
         ]
+      },
+      {
+        "i": "58616-21695-2009-12-12",
+        "c": "FR"
       },
       {
         "i": "58616-3737-2010-05-01",
@@ -144,6 +256,18 @@
         ]
       },
       {
+        "i": "58616-7811-2010-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "58616-2024-2010-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "58616-2024-2010-11-06",
+        "c": "FR"
+      },
+      {
         "i": "58616-7146-2010-11-14",
         "c": "DE",
         "n": "Ceci n’est pas un Casino",
@@ -159,6 +283,10 @@
     ],
     "2011": [
       {
+        "i": "58616-7811-2010-10-23",
+        "c": "FR"
+      },
+      {
         "i": "58616-7146-2010-11-14",
         "c": "DE",
         "n": "Ceci n’est pas un Casino",
@@ -170,6 +298,14 @@
           "2010-11-14",
           "2011-02-13"
         ]
+      },
+      {
+        "i": "58616-2024-2011-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "58616-2024-2011-01-12",
+        "c": "FR"
       },
       {
         "i": "58616-2428-2011-02-17",
@@ -222,6 +358,22 @@
           "2011-10-01",
           "2012-01-08"
         ]
+      },
+      {
+        "i": "58616-18800-2011-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "58616-18800-2011-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "58616-10517-2011-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "58616-10517-2011-10-15",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -237,6 +389,42 @@
           "2011-10-01",
           "2012-01-08"
         ]
+      },
+      {
+        "i": "58616-2024-2012-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "58616-2024-2012-05-10",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "58616-741-2013-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "58616-741-2013-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "58616-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "58616-20775-2013-10-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "58616-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "58616-20775-2013-10-20",
+        "c": "FR"
       }
     ]
   }

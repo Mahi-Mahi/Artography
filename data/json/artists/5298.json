@@ -1,7 +1,7 @@
 {
   "id": "5298",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:04:50",
+  "timestamp": "2014-05-24 06:17:00",
   "name": "Brice Dellsperger",
   "surname": "Dellsperger",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video",
-  "r00": "1824",
-  "r01": "1711",
-  "r02": "1580",
-  "r03": "1620",
-  "r04": "1515",
-  "r05": "1330",
-  "r06": "1222",
-  "r07": "1498",
-  "r08": "1204",
+  "r00": "2689",
+  "r01": "2303",
+  "r02": "1965",
+  "r03": "1673",
+  "r04": "1748",
+  "r05": "1517",
+  "r06": "1252",
+  "r07": "1120",
+  "r08": "1392",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
-  "all-shows-total": "76",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "all-shows-total": "78",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
   "2005-shows-museums": "16",
-  "2005-countries-total": "France (8), Germany (4), Israel (4), Turkey (3), Austria (2), Brazil (2), Spain (2), Russia (1), United Kingdom (1), USA (1)",
+  "2005-countries-total": "France (8), Germany (4), Israel (4), Turkey (3), Austria (2), Brazil (2), Spain (2), USA (2), Russia (1), United Kingdom (1)",
   "2005-shows-with": "Brice Dellsperger (23), Jean Luc Blanc (3), Laurent Grasso (3), Eva Grubinger (3), Gabriël Lester (3), Fabian Marti (3), Seza Paker (3), Jim Shaw (3), Jean-Luc Verna (3), Wang Du (3), Art & Language (2), Dan Attoe (2), Abel Auer (2), Avner Ben Gal (2), Mareike Bernien (2), Armin Boehm (2), Pauline Boudry & Renate Lorenz (2), Ulla von Brandenburg (2), Cris Brodahl (2), Christoph Büchel (2), Nina Canell (2), Steven Claydon (2), Claude Closky (2), Aaron Curry (2), Enrico David (2), Kaye Donachie (2), Michael Esposito (2), Cerith Wyn Evans (2), Nir Evron (2), Matias Faldbakken (2), Gretchen Faust (2), Simone Gilges (2), Liam Gillick (2), Goldin + Senneby (2), Zvi Goldstein (2), Fabrice Gygi (2), Julian Göthe (2), Carl Michael von Hausswolff (2), Michal Helfman (2), Lothar Hempel (2), Uwe Henneken (2), Benedikt Hipp (2), Karl Holmqvist (2), Jenny Holzer (2), Jonathan Horowitz (2), Rashid Johnson (2), Edward Kay (2), Mike Kelley (2), Joachim Koester (2), Terence Koh (2), Koo Dong-Hee (2), Jan Kopp (2), Bernd Kra",
   "representing-galleries": "Air de Paris (32, rue Louise Weiss, 75013 Paris, France); Art-netart (66 bis, avenue Jean-Moulin, 75014 Paris, France); team (gallery, inc.) (83 Grand Street, 10013 New York City, NY, USA)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
@@ -135,9 +135,25 @@
           "2005-10-01",
           "2006-01-01"
         ]
+      },
+      {
+        "i": "5298-893-2006-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "5298-893-2006-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "5298-6620-2006-12-03",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "5298-6620-2006-12-03",
+        "c": "FR"
+      },
       {
         "i": "5298-10928-2007-02-02",
         "c": "IT",
@@ -163,6 +179,14 @@
           "2007-02-17",
           "2007-05-01"
         ]
+      },
+      {
+        "i": "5298-741-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "5298-741-2007-03-10",
+        "c": "FR"
       },
       {
         "i": "5298-27771-2007-03-23",
@@ -191,6 +215,14 @@
         ]
       },
       {
+        "i": "5298-7912-2007-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "5298-7912-2007-06-05",
+        "c": "FR"
+      },
+      {
         "i": "5298-11485-2007-09-29",
         "c": "GB",
         "n": "No, future",
@@ -204,6 +236,10 @@
         ]
       },
       {
+        "i": "5298-1293-2007-10-20",
+        "c": "FR"
+      },
+      {
         "i": "5298-7408-2007-10-21",
         "c": "CH",
         "n": "Aggression",
@@ -215,6 +251,10 @@
           "2007-10-21",
           "2007-12-02"
         ]
+      },
+      {
+        "i": "5298-8281-2007-10-28",
+        "c": "FR"
       },
       {
         "i": "5298-7066-2007-12-04",
@@ -231,6 +271,14 @@
       }
     ],
     "2008": [
+      {
+        "i": "5298-1293-2007-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "5298-8281-2007-10-28",
+        "c": "FR"
+      },
       {
         "i": "5298-7066-2007-12-04",
         "c": "US",
@@ -256,6 +304,22 @@
           "2008-01-31",
           "2008-03-30"
         ]
+      },
+      {
+        "i": "5298-2585-2008-02-29",
+        "c": "FR"
+      },
+      {
+        "i": "5298-2585-2008-02-29",
+        "c": "FR"
+      },
+      {
+        "i": "5298-8285-2008-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "5298-8285-2008-04-10",
+        "c": "FR"
       },
       {
         "i": "5298-15871-2008-05-30",
@@ -353,6 +417,14 @@
         ]
       },
       {
+        "i": "5298-11845-2010-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "5298-11845-2010-03-27",
+        "c": "FR"
+      },
+      {
         "i": "5298-12877-2010-05-26",
         "c": "TR",
         "n": "Transit-Topos",
@@ -364,6 +436,14 @@
           "2010-05-26",
           "2010-07-03"
         ]
+      },
+      {
+        "i": "5298-893-2010-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "5298-893-2010-02-20",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -379,6 +459,14 @@
           "2011-02-03",
           "2011-06-05"
         ]
+      },
+      {
+        "i": "5298-7912-2011-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "5298-7912-2011-06-18",
+        "c": "FR"
       },
       {
         "i": "5298-2555-2011-06-23",
@@ -419,6 +507,10 @@
         ]
       },
       {
+        "i": "5298-2303-2011-11-09",
+        "c": "FR"
+      },
+      {
         "i": "5298-2098-2011-01-13",
         "c": "US",
         "n": "Refreshing Fassbinder...and others",
@@ -434,6 +526,10 @@
     ],
     "2012": [
       {
+        "i": "5298-2303-2011-11-09",
+        "c": "FR"
+      },
+      {
         "i": "5298-7130-2012-01-19",
         "c": "AT",
         "n": "Reality Manifestos, or can Dialectics break Bricks?",
@@ -445,6 +541,14 @@
           "2012-01-19",
           "2012-03-03"
         ]
+      },
+      {
+        "i": "5298-29913-2012-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "5298-29913-2012-06-16",
+        "c": "FR"
       },
       {
         "i": "5298-19770-2012-08-24",
@@ -499,6 +603,14 @@
       }
     ],
     "2013": [
+      {
+        "i": "5298-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "5298-9475-2013-03-23",
+        "c": "FR"
+      },
       {
         "i": "5298-5426-2013-04-25",
         "c": "AT",

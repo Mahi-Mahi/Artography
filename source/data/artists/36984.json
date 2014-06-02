@@ -1,7 +1,7 @@
 {
   "id": "36984",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:18:55",
+  "timestamp": "2014-05-24 06:29:00",
   "name": "Chourouk Hriech",
   "surname": "Hriech",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography, Video, Installation, Drawings",
-  "r00": "8410",
-  "r01": "10604",
-  "r02": "10358",
-  "r03": "10125",
-  "r04": "19072",
-  "r05": "23406",
-  "r06": "21828",
-  "r07": "18370",
-  "r08": "17289",
+  "r00": "6532",
+  "r01": "6921",
+  "r02": "9527",
+  "r03": "8984",
+  "r04": "8674",
+  "r05": "18571",
+  "r06": "23647",
+  "r07": "21643",
+  "r08": "17885",
   "awards": null,
   "website": "www.documentsdartistes.org/hriech",
   "all-shows-first": "2002",
-  "all-shows-total": "27",
+  "all-shows-total": "28",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
   "2005-shows-museums": "12",
-  "2005-countries-total": "France (10), Morocco (4), United Kingdom (3), China (1), Norway (1), Spain (1), Switzerland (1)",
-  "2005-shows-with": "Chourouk Hriech (15), Mounir Fatmi (5), Kader Attia (4), Bouchra Khalili (4), Younès Rahmoun (4), Fouad Bellamine (3), Hicham Benohoud (3), Mohamed Bourouissa (3), Mohamed El Baz (3), Sarah Al Abdali (2), Francis Alys (2), Fayçal Baghriche (2), Yto Barrada (2), Faouzi Bensaidi (2), Abdulnasser Gharem (2), Joana Hadjithomas & Khalil Joreige (2), Isaac Julien (2), Nicène Kossentini (2), Lu Hao (2), Ahmed Mater (2), Malik Nejmi (2), Driss Ouadahi (2), Yazid Oulab (2), Marc Quer (2), Yvan Salomone (2), Faisal Samra (2), Ilias Selfati (2), Batoul S\\'himi (2), Yamou (2), Ayman Yossri Daydban (2)",
+  "2005-countries-total": "France (10), Morocco (4), United Kingdom (3), Belgium (1), China (1), Norway (1), Spain (1), Switzerland (1)",
+  "2005-shows-with": "Chourouk Hriech (16), Mounir Fatmi (6), Kader Attia (4), Bouchra Khalili (4), Younès Rahmoun (4), Fouad Bellamine (3), Hicham Benohoud (3), Mohamed Bourouissa (3), Mohamed El Baz (3), Sarah Al Abdali (2), Francis Alys (2), Fayçal Baghriche (2), Yto Barrada (2), Faouzi Bensaidi (2), Ninar Esber (2), Carlos Garaicoa (2), Abdulnasser Gharem (2), Joana Hadjithomas & Khalil Joreige (2), Isaac Julien (2), Nicène Kossentini (2), Lu Hao (2), Ahmed Mater (2), Malik Nejmi (2), Driss Ouadahi (2), Yazid Oulab (2), Marc Quer (2), Yvan Salomone (2), Faisal Samra (2), Ilias Selfati (2), Batoul S\\'himi (2), Yamou (2), Ayman Yossri Daydban (2)",
   "representing-galleries": "JGM. Galerie (8 bis, rue Jacques Callot, 75006 Paris, France); Galerie d'art L'Atelier 21 (21, rue Abou Mahassine Arrouyani,  Casablanca, Morocco)",
   "collecting-museums": "FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Chourouk",
@@ -43,6 +43,16 @@
   "age": 36,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "36984-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "36984-12314-2006-11-17",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "36984-8641-2007-01-15",
@@ -71,6 +81,14 @@
           "2008-07-11",
           "2008-09-03"
         ]
+      },
+      {
+        "i": "36984-17463-2008-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "36984-17463-2008-10-16",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -86,6 +104,14 @@
           "2009-02-21",
           "2009-04-19"
         ]
+      },
+      {
+        "i": "36984-28278-2009-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "36984-28278-2009-09-25",
+        "c": "FR"
       },
       {
         "i": "36984-22481-2009-11-19",
@@ -137,6 +163,30 @@
           "2010-10-24",
           "2011-02-28"
         ]
+      },
+      {
+        "i": "36984-2414-2010-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "36984-2414-2010-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "36984-28762-2010-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "36984-28762-2010-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "36984-2048-2010-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "36984-2048-2010-09-06",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -151,6 +201,14 @@
           "2010-10-24",
           "2011-02-28"
         ]
+      },
+      {
+        "i": "36984-28739-2011-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "36984-28739-2011-01-21",
+        "c": "FR"
       },
       {
         "i": "36984-7839-2011-10-27",
@@ -205,6 +263,22 @@
           "2012-10-07",
           "2012-10-28"
         ]
+      },
+      {
+        "i": "36984-28761-2012-05-14",
+        "c": "FR"
+      },
+      {
+        "i": "36984-28761-2012-05-14",
+        "c": "FR"
+      },
+      {
+        "i": "36984-21128-2012-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "36984-21128-2012-09-13",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -246,6 +320,22 @@
           "2013-03-08",
           "2013-05-24"
         ]
+      },
+      {
+        "i": "36984-28736-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "36984-28736-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "36984-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "36984-2358-2013-05-25",
+        "c": "FR"
       }
     ]
   }

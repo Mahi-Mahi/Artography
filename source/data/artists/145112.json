@@ -1,7 +1,7 @@
 {
   "id": "145112",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:02:27",
+  "timestamp": "2014-05-24 07:06:05",
   "name": "Emma Dusong",
   "surname": "Dusong",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "39152",
-  "r01": "51334",
-  "r02": "89790",
-  "r03": null,
-  "r04": null,
+  "r00": "30082",
+  "r01": "30829",
+  "r02": "41161",
+  "r03": "81396",
+  "r04": "113193",
   "r05": null,
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
-  "all-shows-first": "2011",
-  "all-shows-total": "3",
-  "2005-shows-biennials": null,
-  "2005-shows-galleries": null,
+  "all-shows-first": "2010",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (3)",
-  "2005-shows-with": "Emma Dusong (3), Valérie Mréjen (2)",
+  "2005-countries-total": "France (4)",
+  "2005-shows-with": "Emma Dusong (4), Valérie Mréjen (2)",
   "representing-galleries": null,
   "collecting-museums": "Espace Croisé (Grand Place, 59059 Roubaix, France)",
   "first_name": "Emma",
@@ -43,5 +43,35 @@
   "age": 32,
   "age_range": "26-40",
   "expos": {
+    "2011": [
+      {
+        "i": "145112-26775-2011-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "145112-26775-2011-04-06",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "145112-8282-2012-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "145112-8282-2012-04-11",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "145112-8128-2013-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "145112-8128-2013-01-17",
+        "c": "FR"
+      }
+    ]
   }
 }

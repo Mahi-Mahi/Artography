@@ -1,7 +1,7 @@
 {
   "id": "112024",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:49:14",
+  "timestamp": "2014-05-24 06:55:02",
   "name": "Pierre Leguillon",
   "surname": "Leguillon",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "3480",
-  "r01": "3939",
-  "r02": "4224",
-  "r03": "4981",
-  "r04": "10399",
-  "r05": "14763",
-  "r06": "18643",
-  "r07": "15497",
-  "r08": "12452",
+  "r00": "2193",
+  "r01": "2605",
+  "r02": "2890",
+  "r03": "3192",
+  "r04": "3889",
+  "r05": "9267",
+  "r06": "14092",
+  "r07": "18673",
+  "r08": "14616",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "43",
-  "2005-shows-biennials": "12",
-  "2005-shows-galleries": "12",
-  "2005-shows-museums": "21",
-  "2005-countries-total": "France (19), Netherlands (4), USA (4), Portugal (3), Switzerland (2), Albania (1), Austria (1), Belgium (1), Germany (1), Lithuania (1), United Kingdom (1)",
-  "2005-shows-with": "Pierre Leguillon (33), Clément Rodzielski (6), Raphaël Zarka (5), A Constructed World (4), Nicolas Chardon (4), Aurélien Froment (4), Dora García (4), Jean-Luc Moulène (4), Gyan Panchal (4), Yann Sérandour (4), Olivier Babin (3), Fayçal Baghriche (3), Mario Garcia Torres (3), Rodney Graham (3), Wade Guyton (3), Ben Kinmont (3), Mathieu Mercier (3), Jonathan Monk (3), Olivier Mosset (3), Emilie Parendeau (3), Diogo Pimentão (3), Mathieu Kleyebe Abonnenc (2), Francis Alys (2), Diane Arbus (2), Richard Baquié (2), Olivier Bardin (2), Yael Bartana (2), Karina Bisch (2), Dominique Blais (2), Katinka Bock (2), Nicolas Boulard (2), Mariana Castillo Deball (2), Maurizio Cattelan (2), Alejandro Cesarco (2), Jean-Marc Chapoulie (2), Melissa Dubbin & Aaron S. Davidson (2), Marcelline Delbecq (2), Jean Dupuy (2), Robert Filliou (2), Claire Fontaine (2), Michel François (2), Dani Gal (2), Ryan Gander (2), Jérémie Gaulin (2), Mark Geffriaud (2), Aurelie Godard (2), Shilpa Gupta (2), Thomas Hirschhorn (2), Amar ",
+  "all-shows-total": "45",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
+  "2005-shows-museums": "24",
+  "2005-countries-total": "France (21), USA (5), Netherlands (4), Portugal (3), Germany (2), Switzerland (2), Albania (1), Austria (1), Belgium (1), Lithuania (1), United Kingdom (1)",
+  "2005-shows-with": "Pierre Leguillon (37), Clément Rodzielski (7), Yann Sérandour (6), Raphaël Zarka (6), A Constructed World (5), Nicolas Chardon (5), Aurélien Froment (5), Dora García (5), Jean-Luc Moulène (5), Ben Kinmont (4), Louise Lawler (4), Gyan Panchal (4), Emilie Parendeau (4), Diane Arbus (3), Olivier Babin (3), Fayçal Baghriche (3), Dominique Blais (3), Alejandro Cesarco (3), Jean Dupuy (3), Ryan Gander (3), Mario Garcia Torres (3), Jérémie Gaulin (3), Mark Geffriaud (3), Aurelie Godard (3), Rodney Graham (3), Wade Guyton (3), Mathieu Mercier (3), Jonathan Monk (3), Olivier Mosset (3), Diogo Pimentão (3), Lawrence Weiner (3), Mathieu Kleyebe Abonnenc (2), Dove Allouche (2), Francis Alys (2), Leonor Antunes (2), Richard Baquié (2), Olivier Bardin (2), Robert Barry (2), Yael Bartana (2), Jesus Alberto Benitez (2), Berdaguer & Péjus (2), Karina Bisch (2), Joianne Bittle (2), Katinka Bock (2), Roxane Borujerdi (2), Nicolas Boulard (2), Hugo Brégeau (2), Mariana Castillo Deball (2), Maurizio Cattelan (2), Jea",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Pierre",
@@ -74,6 +74,38 @@
       }
     ],
     "2008": [
+      {
+        "i": "112024-8292-2008-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "112024-8292-2008-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "112024-10522-2008-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "112024-10522-2008-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "112024-11894-2008-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "112024-11894-2008-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "112024-11890-2008-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "112024-11890-2008-09-13",
+        "c": "FR"
+      },
       {
         "i": "112024-14037-2008-10-25",
         "c": "PT",
@@ -169,6 +201,22 @@
         ]
       },
       {
+        "i": "112024-378-2010-02-27",
+        "c": "FR"
+      },
+      {
+        "i": "112024-378-2010-02-27",
+        "c": "FR"
+      },
+      {
+        "i": "112024-1293-2010-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "112024-1293-2010-03-01",
+        "c": "FR"
+      },
+      {
         "i": "112024-3494-2010-03-08",
         "c": "PT",
         "n": "ENTREVISTA PERPÉTUA CURATED BY RICARDO NICOLAU - Lectures | Performances | Concerts | Radio Transmissions",
@@ -180,6 +228,22 @@
           "2010-03-08",
           "2010-03-13"
         ]
+      },
+      {
+        "i": "112024-21710-2010-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "112024-21710-2010-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "112024-8282-2010-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "112024-8282-2010-05-26",
+        "c": "FR"
       },
       {
         "i": "112024-9302-2010-10-29",
@@ -288,6 +352,14 @@
         ]
       },
       {
+        "i": "112024-20082-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "112024-20082-2011-04-02",
+        "c": "FR"
+      },
+      {
         "i": "112024-3276-2011-05-06",
         "c": "NL",
         "n": "Homo Ludens – Act I",
@@ -299,6 +371,14 @@
           "2011-05-06",
           "2011-07-02"
         ]
+      },
+      {
+        "i": "112024-10229-2011-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "112024-10229-2011-06-19",
+        "c": "FR"
       },
       {
         "i": "112024-9073-2011-06-24",
@@ -327,6 +407,22 @@
         ]
       },
       {
+        "i": "112024-22625-2011-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "112024-22625-2011-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "112024-21710-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "112024-21710-2011-11-19",
+        "c": "FR"
+      },
+      {
         "i": "112024-1778-2010-10-20",
         "c": "CH",
         "n": "Pierre Leguillon - Danse libre",
@@ -353,7 +449,53 @@
         ]
       }
     ],
+    "2012": [
+      {
+        "i": "112024-21802-2012-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "112024-21802-2012-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "112024-2303-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "112024-2303-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "112024-8520-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "112024-19085-2012-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "112024-20216-2012-11-30",
+        "c": "FR"
+      }
+    ],
     "2013": [
+      {
+        "i": "112024-8520-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "112024-19085-2012-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "112024-7811-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "112024-7811-2013-02-15",
+        "c": "FR"
+      },
       {
         "i": "112024-6152-2013-03-02",
         "c": "BE",
@@ -368,6 +510,14 @@
         ]
       },
       {
+        "i": "112024-7921-2013-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "112024-7921-2013-04-24",
+        "c": "FR"
+      },
+      {
         "i": "112024-2694-2013-10-05",
         "c": "US",
         "n": "2013 Carnegie International",
@@ -379,6 +529,10 @@
           "2013-10-05",
           "2014-03-16"
         ]
+      },
+      {
+        "i": "112024-20216-2012-11-30",
+        "c": "FR"
       }
     ],
     "2014": [

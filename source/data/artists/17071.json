@@ -1,7 +1,7 @@
 {
   "id": "17071",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:14",
+  "timestamp": "2014-05-24 06:21:43",
   "name": "Etienne Bossut",
   "surname": "Bossut",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sculpture",
-  "r00": "1887",
-  "r01": "1717",
-  "r02": "1607",
-  "r03": "1522",
-  "r04": "1604",
-  "r05": "1654",
-  "r06": "1552",
-  "r07": "1428",
-  "r08": "1456",
+  "r00": "2239",
+  "r01": "2071",
+  "r02": "1797",
+  "r03": "1618",
+  "r04": "1445",
+  "r05": "1531",
+  "r06": "1550",
+  "r07": "1562",
+  "r08": "1366",
   "awards": null,
-  "website": null,
+  "website": "etiennebossut.com",
   "all-shows-first": "1985",
-  "all-shows-total": "91",
+  "all-shows-total": "96",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
-  "2005-shows-museums": "30",
-  "2005-countries-total": "France (30), Belgium (2), Spain (2), Switzerland (2), Luxembourg (1), Romania (1), United Kingdom (1)",
-  "2005-shows-with": "Etienne Bossut (32), Bertrand Lavier (6), John M Armleder (5), Philippe Cognée (5), Didier Marcel (5), Mathieu Mercier (5), Pierre Ardouvin (4), Alain Bublex (4), Philippe Decrauzat (4), Sol LeWitt (4), Allan McCollum (4), Claude Rutault (4), Cécile Bart (3), Valérie Belin (3), Yves Bélorgey (3), Valentin Carron (3), Isabelle Cornaro (3), Noël Dolla (3), Michel François (3), Aurélien Froment (3), Rodney Graham (3), Laurent Grasso (3), Anita Molinero (3), Julian Opie (3), Panamarenko (3), Bruno Peinado (3), Giuseppe Penone (3), Bernard Piffaretti (3), Pascal Pinaud (3), David Renggli (3), Franck Scurti (3), Roman Signer (3), Ida Tursic & Wilfried Mille (3), Erwin Wurm (3), Raphaël Zarka (3), Adam Adach (2), Roy Arden (2), Richard Artschwager (2), Eric Aupol (2), Olivier Babin (2), Gilles Barbier (2), Martin Barré (2), Eric Baudart (2), Julien Berthier (2), Rut Blees Luxemburg (2), Katinka Bock (2), Christian Boltanski (2), Lilian Bourgeat (2), Jérôme Boutterin (2), Anne Brégeaut (2), Daniel Buren (",
+  "2005-shows-museums": "32",
+  "2005-countries-total": "France (32), Belgium (3), Spain (2), Switzerland (2), Luxembourg (1), Romania (1), United Kingdom (1)",
+  "2005-shows-with": "Etienne Bossut (35), John M Armleder (6), Bertrand Lavier (6), Mathieu Mercier (6), Philippe Cognée (5), Didier Marcel (5), Pierre Ardouvin (4), Cécile Bart (4), Alain Bublex (4), Valentin Carron (4), Philippe Decrauzat (4), Aurélien Froment (4), Sol LeWitt (4), Allan McCollum (4), Bruno Peinado (4), Claude Rutault (4), Alain Séchas (4), Erwin Wurm (4), Valérie Belin (3), Yves Bélorgey (3), Julien Berthier (3), Claude Closky (3), Isabelle Cornaro (3), François Curlet (3), Noël Dolla (3), Christelle Familiari (3), Sylvie Fleury (3), Nicolas Floc\\'h (3), Michel François (3), General Idea (3), Paul-Armand Gette (3), Rodney Graham (3), Laurent Grasso (3), Raymond Hains (3), Anita Molinero (3), François Morellet (3), Julian Opie (3), Panamarenko (3), Giuseppe Penone (3), Bernard Piffaretti (3), Pascal Pinaud (3), David Renggli (3), Jean-Michel Sanejouand (3), Franck Scurti (3), Yann Sérandour (3), Jim Shaw (3), Roman Signer (3), Ernest T. (3), Ida Tursic & Wilfried Mille (3), Jean-Luc Vilmouth (3), Raph",
   "representing-galleries": "Sébastien Ricou Gallery (Rue Souveraine 54 Opperstraat, 1050 Brussels, Belgium); Galerie Chez Valentin (9, rue St Gilles, 75003 Paris, France)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Musée d'Art moderne de Saint-Etienne (La Terrasse, 42000 Saint-Etienne, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France); Mamco - musée d´art moderne ",
   "first_name": "Etienne",
@@ -69,9 +69,73 @@
           "2005-06-07",
           "2005-08-29"
         ]
+      },
+      {
+        "i": "17071-27940-2005-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "17071-27940-2005-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2028-2005-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2028-2005-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "17071-10517-2005-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "17071-10517-2005-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "17071-11681-2005-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "17071-11681-2005-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8997-2005-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8997-2005-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "17071-10239-2005-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "17071-10239-2005-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "17071-378-2005-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "17071-378-2005-04-09",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "17071-2090-2006-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2090-2006-01-07",
+        "c": "FR"
+      },
       {
         "i": "17071-10177-2006-01-20",
         "c": "BE",
@@ -84,9 +148,81 @@
           "2006-01-20",
           "2006-02-18"
         ]
+      },
+      {
+        "i": "17071-11587-2006-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "17071-11587-2006-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8128-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8128-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2414-2006-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2414-2006-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8554-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8554-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2028-2006-05-09",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2028-2006-05-09",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2028-2006-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2028-2006-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "17071-13618-2006-12-16",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2028-2006-12-16",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "17071-2028-2007-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2028-2007-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "17071-11587-2007-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "17071-11587-2007-01-18",
+        "c": "FR"
+      },
       {
         "i": "17071-2233-2007-01-18",
         "c": "CH",
@@ -99,6 +235,62 @@
           "2007-01-18",
           "2007-03-03"
         ]
+      },
+      {
+        "i": "17071-16095-2007-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "17071-16095-2007-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "17071-10220-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "17071-10220-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8189-2007-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8189-2007-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "17071-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "17071-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "17071-13618-2006-12-16",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2028-2006-12-16",
+        "c": "FR"
+      },
+      {
+        "i": "17071-378-2007-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "17071-378-2007-04-14",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -114,9 +306,61 @@
           "2008-01-26",
           "2008-04-06"
         ]
+      },
+      {
+        "i": "17071-16577-2008-03-31",
+        "c": "FR"
+      },
+      {
+        "i": "17071-16577-2008-03-31",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "17071-27953-2008-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "17071-27953-2008-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "17071-27827-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "17071-27827-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2357-2008-10-15",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "17071-12129-2009-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "17071-12129-2009-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2585-2009-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2585-2009-02-20",
+        "c": "FR"
+      },
       {
         "i": "17071-7913-2009-04-25",
         "c": "GB",
@@ -144,6 +388,22 @@
         ]
       },
       {
+        "i": "17071-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "17071-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "17071-10239-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "17071-10239-2009-07-04",
+        "c": "FR"
+      },
+      {
         "i": "17071-17760-2009-10-09",
         "c": "ES",
         "n": "Auto. Sueño y materia",
@@ -155,6 +415,22 @@
           "2009-10-09",
           "2010-01-10"
         ]
+      },
+      {
+        "i": "17071-2357-2008-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "17071-20838-2009-07-11",
+        "c": "FR"
+      },
+      {
+        "i": "17071-20838-2009-07-11",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2414-2009-10-30",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -172,6 +448,22 @@
         ]
       },
       {
+        "i": "17071-8128-2010-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8128-2010-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8997-2010-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8997-2010-05-28",
+        "c": "FR"
+      },
+      {
         "i": "17071-1778-2010-06-02",
         "c": "CH",
         "n": "Modèles modèles 2",
@@ -183,6 +475,42 @@
           "2010-06-02",
           "2010-09-19"
         ]
+      },
+      {
+        "i": "17071-9344-2010-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "17071-9344-2010-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "17071-370-2010-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "17071-370-2010-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "17071-2414-2009-10-30",
+        "c": "FR"
+      },
+      {
+        "i": "17071-11586-2010-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "17071-11586-2010-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "17071-378-2010-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "17071-378-2010-04-20",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -211,9 +539,73 @@
           "2011-04-02",
           "2011-05-28"
         ]
+      },
+      {
+        "i": "17071-378-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "17071-378-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "17071-11681-2011-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "17071-11681-2011-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "17071-4184-2011-10-29",
+        "c": "FR"
+      },
+      {
+        "i": "17071-378-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8520-2011-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8540-2011-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8540-2011-09-29",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "17071-4184-2011-10-29",
+        "c": "FR"
+      },
+      {
+        "i": "17071-378-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8520-2011-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "17071-29133-2012-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "17071-29133-2012-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "17071-28664-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "17071-28664-2012-07-06",
+        "c": "FR"
+      },
       {
         "i": "17071-1778-2012-10-17",
         "c": "CH",
@@ -226,6 +618,10 @@
           "2012-10-17",
           "2013-01-13"
         ]
+      },
+      {
+        "i": "17071-11586-2012-10-19",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -243,6 +639,34 @@
         ]
       },
       {
+        "i": "17071-11586-2012-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "17071-11587-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "17071-11587-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "17071-19085-2013-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "17071-19085-2013-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "17071-8996-2013-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "17071-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
         "i": "17071-22407-2013-03-28",
         "c": "BE",
         "n": "une Belge journée",
@@ -254,6 +678,16 @@
           "2013-03-28",
           "2013-05-04"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "17071-8996-2013-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "17071-29739-2013-10-12",
+        "c": "FR"
       }
     ]
   }

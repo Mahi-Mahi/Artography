@@ -1,7 +1,7 @@
 {
   "id": "12025",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:55",
+  "timestamp": "2014-05-24 06:19:43",
   "name": "Patrick Bailly-Maître-Grand",
   "surname": "Bailly-Maître-Grand",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "38797",
-  "r01": "41503",
-  "r02": "39660",
-  "r03": "38214",
-  "r04": "33073",
-  "r05": "28336",
-  "r06": "29163",
-  "r07": "29341",
-  "r08": "23895",
+  "r00": "44180",
+  "r01": "42777",
+  "r02": "49203",
+  "r03": "49073",
+  "r04": "49209",
+  "r05": "42434",
+  "r06": "35567",
+  "r07": "37356",
+  "r08": "37950",
   "awards": null,
-  "website": null,
+  "website": "www.baillymaitregrand.com",
   "all-shows-first": "1984",
-  "all-shows-total": "14",
+  "all-shows-total": "17",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (4), Luxembourg (1)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (6), Luxembourg (1)",
   "2005-shows-with": "Patrick Bailly-Maître-Grand (4)",
   "representing-galleries": "Galerie Baudoin Lebon (38, rue sainte croix de la bretonnerie, 75004 Paris, France); Galerie Lucien Schweitzer (24 avenue Monterey, 2163 Luxembourg, Luxembourg); Galeria Tagomago (Santa Teresa 3, 08012 Barcelona, Spain)",
   "collecting-museums": "Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France); Center for Creative Photography - University of Arizona (North Olive Road 1030, 85721-0103 Tucson, AZ, USA)",
@@ -69,9 +69,17 @@
           "2005-08-01",
           "2005-08-31"
         ]
+      },
+      {
+        "i": "12025-19790-2005-11-27",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "12025-19790-2005-11-27",
+        "c": "FR"
+      },
       {
         "i": "12025-22731-2006-01-01",
         "c": "PL",
@@ -113,6 +121,44 @@
           "2011-04-08",
           "2011-05-14"
         ]
+      },
+      {
+        "i": "12025-16577-2011-11-02",
+        "c": "FR"
+      },
+      {
+        "i": "12025-16577-2011-11-02",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "12025-1380-2012-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "12025-1380-2012-10-25",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "12025-11889-2013-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "12025-11889-2013-06-28",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "12025-1380-2008-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "12025-1380-2008-05-07",
+        "c": "FR"
       }
     ]
   }

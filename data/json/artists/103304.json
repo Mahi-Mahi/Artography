@@ -1,7 +1,7 @@
 {
   "id": "103304",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:45:44",
+  "timestamp": "2014-05-24 06:52:01",
   "name": "Pierre-Albert Celice",
   "surname": "Celice",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "57090",
-  "r01": "85941",
-  "r02": "80982",
-  "r03": "75001",
-  "r04": "68581",
-  "r05": "61686",
-  "r06": "54634",
-  "r07": "47511",
-  "r08": null,
+  "r00": "50600",
+  "r01": "50430",
+  "r02": "89188",
+  "r03": "82033",
+  "r04": "74869",
+  "r05": "66968",
+  "r06": "59306",
+  "r07": "51481",
+  "r08": "44205",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
@@ -35,7 +35,7 @@
   "2005-countries-total": "France (2)",
   "2005-shows-with": null,
   "representing-galleries": "Galerie D.X (10, place des Quinconces, 33000 Bordeaux, France)",
-  "collecting-museums": "FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France); Tate Britain (Millbank, SW1P 4RG London (England), United Kingdom)",
+  "collecting-museums": "FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France); Tate Britain (Millbank, SW1P 4RG London, United Kingdom)",
   "first_name": "Pierre-Albert",
   "last_name": "Celice",
   "genre": "m",
@@ -43,5 +43,35 @@
   "age": 82,
   "age_range": "61-100",
   "expos": {
+    "2013": [
+      {
+        "i": "103304-10519-2013-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "103304-10519-2013-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "103304-29767-2013-04-26",
+        "c": "FR"
+      },
+      {
+        "i": "103304-29767-2013-04-26",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "103304-26775-2006-11-18",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "103304-26775-2006-11-18",
+        "c": "FR"
+      }
+    ]
   }
 }

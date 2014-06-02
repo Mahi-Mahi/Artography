@@ -1,7 +1,7 @@
 {
   "id": "138043",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:59:41",
+  "timestamp": "2014-05-24 07:03:46",
   "name": "Sabine Pigalle",
   "surname": "Pigalle",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "46591",
-  "r01": "43927",
-  "r02": "64311",
-  "r03": "72573",
-  "r04": "76711",
-  "r05": "69831",
-  "r06": "78371",
-  "r07": null,
+  "r00": "38470",
+  "r01": "38611",
+  "r02": "35196",
+  "r03": "54890",
+  "r04": "65909",
+  "r05": "72314",
+  "r06": "65250",
+  "r07": "76354",
   "r08": null,
   "awards": null,
   "website": null,
@@ -34,7 +34,7 @@
   "2005-shows-museums": "1",
   "2005-countries-total": "France (4), Italy (1), Netherlands (1), Switzerland (1), Turkey (1), USA (1)",
   "2005-shows-with": "Sabine Pigalle (7), Oleg Dou (2), Kimiko Yoshida (2)",
-  "representing-galleries": "Galerie DX (10, place des Quinconces, 33000 Bordeaux, France); Louise Alexander Gallery (Via del Porto Vecchio 1, 07020 Porto Cervo, Italy); Galerie Brandt (Prinsengracht  799, 1017 KA Amsterdam, Netherlands); Boyer-Labarre Galerie (Grand-Rue 37, 1204 Geneva, Switzerland); Hania Bailly Contemporary (10 Place De La Taconnerie,  Geneva, Switzerland)",
+  "representing-galleries": "Galerie DX (10, place des Quinconces, 33000 Bordeaux, France); Louise Alexander Gallery (Via del Porto Vecchio 1, 07020 Porto Cervo, Italy); Galerie Brandt (Prinsengracht  799, 1017 KA Amsterdam, Netherlands); Boyer-Labarre Galerie (Grand-Rue 37, 1204 Geneva, Switzerland); Hania Bailly Gallery (10 rue de l\\'Hôtel de Ville, 1204 Geneva, Switzerland)",
   "collecting-museums": null,
   "first_name": "Sabine",
   "last_name": "Pigalle",
@@ -86,6 +86,14 @@
         ]
       },
       {
+        "i": "138043-22594-2008-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "138043-22594-2008-05-15",
+        "c": "FR"
+      },
+      {
         "i": "138043-13635-2008-11-07",
         "c": "US",
         "n": "The Flowers Of Evil Still Bloom / Spleen: Les Fleurs Du Mal ",
@@ -114,7 +122,33 @@
         ]
       }
     ],
+    "2010": [
+      {
+        "i": "138043-29767-2010-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "138043-29767-2010-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "138043-21874-2010-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "138043-21874-2010-09-17",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "138043-7347-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "138043-7347-2012-05-12",
+        "c": "FR"
+      },
       {
         "i": "138043-26825-2012-05-26",
         "c": "TR",

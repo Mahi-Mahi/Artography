@@ -1,7 +1,7 @@
 {
   "id": "16514",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:56",
+  "timestamp": "2014-05-24 06:21:30",
   "name": "Philippe Hurteau",
   "surname": "Hurteau",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "28310",
-  "r01": "25470",
-  "r02": "22964",
-  "r03": "20143",
-  "r04": "17215",
-  "r05": "16706",
-  "r06": "14048",
-  "r07": "12225",
-  "r08": "10008",
+  "r00": "54574",
+  "r01": "47526",
+  "r02": "37138",
+  "r03": "31550",
+  "r04": "25615",
+  "r05": "20824",
+  "r06": "19411",
+  "r07": "15105",
+  "r08": "12420",
   "awards": null,
   "website": null,
   "all-shows-first": "1987",
-  "all-shows-total": "15",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "16",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (6)",
-  "2005-shows-with": "Philippe Hurteau (5), Darren Almond (2), Jean-Louis Aroldo (2), Michel Aubry (2), Eric Baudelaire (2), Marc Bauer (2), Philippe Cognée (2), Philippe Decrauzat (2), Nicolas Delprat (2), Emmanuel Lagarrigue (2), Mathieu Mercier (2), Ida Tursic & Wilfried Mille (2)",
+  "2005-countries-total": "France (7)",
+  "2005-shows-with": "Philippe Hurteau (6), Darren Almond (2), Jean-Louis Aroldo (2), Michel Aubry (2), Eric Baudelaire (2), Marc Bauer (2), Philippe Cognée (2), Philippe Decrauzat (2), Nicolas Delprat (2), Emmanuel Lagarrigue (2), Mathieu Mercier (2), Ida Tursic & Wilfried Mille (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Musée de l´abbaye Sainte-Croix (Rue de Verdun, 85100 Les Sables d' Olonne, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); LaM - Lille Métropole musée d'art moderne, d'art contemporain et d'art brut (1 allée du musée, 59650 Villeneuve d'Ascq, France)",
   "first_name": "Philippe",
@@ -56,6 +56,32 @@
           "2005-03-09",
           "2005-04-30"
         ]
+      },
+      {
+        "i": "16514-8282-2005-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "16514-8282-2005-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "16514-5358-2005-10-29",
+        "c": "FR"
+      },
+      {
+        "i": "16514-5358-2005-10-29",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "16514-19876-2006-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "16514-19876-2006-04-07",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -71,6 +97,60 @@
           "2007-03-08",
           "2007-04-22"
         ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "16514-4201-2008-05-08",
+        "c": "FR"
+      },
+      {
+        "i": "16514-4201-2008-05-08",
+        "c": "FR"
+      },
+      {
+        "i": "16514-13364-2008-12-18",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "16514-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "16514-21903-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "16514-21903-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "16514-19078-2009-01-24",
+        "c": "FR"
+      },
+      {
+        "i": "16514-19078-2009-01-24",
+        "c": "FR"
+      },
+      {
+        "i": "16514-17091-2009-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "16514-17091-2009-05-15",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "16514-22625-2012-07-09",
+        "c": "FR"
+      },
+      {
+        "i": "16514-22625-2012-07-09",
+        "c": "FR"
       }
     ]
   }

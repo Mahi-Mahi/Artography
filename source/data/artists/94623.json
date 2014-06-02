@@ -1,7 +1,7 @@
 {
   "id": "94623",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:42:32",
+  "timestamp": "2014-05-24 06:49:18",
   "name": "Cédric Delsaux",
   "surname": "Delsaux",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "11405",
-  "r01": "10482",
-  "r02": "41529",
-  "r03": "37513",
-  "r04": "41357",
-  "r05": "36533",
-  "r06": "63184",
-  "r07": null,
+  "r00": "8445",
+  "r01": "8474",
+  "r02": "7520",
+  "r03": "37192",
+  "r04": "32646",
+  "r05": "36699",
+  "r06": "31684",
+  "r07": "59228",
   "r08": null,
   "awards": null,
   "website": null,
@@ -34,7 +34,7 @@
   "2005-shows-museums": "6",
   "2005-countries-total": "France (3), Italy (2), Poland (2), Austria (1), USA (1)",
   "2005-shows-with": "Cédric Delsaux (6), Jean-Michel Albèrola (2), Stephanos Antonakos (2), Vasco Ascolini (2), François Marie Banier (2), Jean-Pierre Bertrand (2), Peter Bialobrzeski (2), Pierre Bismuth (2), Stefan Brüggemann (2), Marie-José Burki (2), Pier Paolo Calzolari (2), Thibaut Cuisset (2), Laddie John Dill (2), Tracey Emin (2), Dan Flavin (2), Claire Fontaine (2), Douglas Gordon (2), Ilkka Halso (2), Alfredo Jaar (2), William Klein (2), Peter Knapp (2), Gyula Kosice (2), Joseph Kosuth (2), Piotr Kowalski (2), Brigitte Kowanz (2), Sigalit Landau (2), Bertrand Lavier (2), Eric Lebrun (2), Peter Lindbergh (2), Mario Merz (2), François Morellet (2), Andrea Nacciarriti (2), Maurizio Nannucci (2), Bruce Nauman (2), Jean-Claude Palisse (2), Fritz Panzer (2), Leszek Pekalski (2), Delphine Reist (2), Bettina Rheims (2), Jason Rhoades (2), Willy Ronis (2), Georges Rousse (2), Denis Rouvre (2), Keith Sonnier (2), Yan Tomaszewski (2), Sabine Weiss (2)",
-  "representing-galleries": "Galerie Acte 2 (41 rue d'Artois, 75008 Paris, France); Galerie Philippe Chaume (9 rue de Marseille, 75010 Paris, France); Wanted Paris gallery (23, rue du roi de Sicile, 75004 Paris, France); Bonni Benrubi Gallery (52 East 76th Street, 10021 New York City, NY, USA)",
+  "representing-galleries": "Galerie Acte 2 (41 rue d'Artois, 75008 Paris, France); Galerie Philippe Chaume (9 rue de Marseille, 75010 Paris, France); Wanted Paris gallery (23, rue du roi de Sicile, 75004 Paris, France); East Wing (PO Box 5581, 00000 Doha, Qatar); Bonni Benrubi Gallery (52 East 76th Street, 10021 New York City, NY, USA)",
   "collecting-museums": null,
   "first_name": "Cédric",
   "last_name": "Delsaux",
@@ -43,6 +43,29 @@
   "age": 40,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "94623-22594-2007-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "94623-22594-2007-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "94623-10722-2007-09-15",
+        "c": "US",
+        "n": "landscape/starwars on earth",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Washington, DC",
+        "o": "Project 4 Gallery",
+        "d": [
+          "2007-09-15",
+          "2007-10-20"
+        ]
+      }
+    ],
     "2008": [
       {
         "i": "94623-19393-2008-02-02",
@@ -101,6 +124,14 @@
     ],
     "2012": [
       {
+        "i": "94623-7811-2012-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "94623-7811-2012-02-17",
+        "c": "FR"
+      },
+      {
         "i": "94623-3767-2012-06-21",
         "c": "IT",
         "n": "Neon. La Materia luminosa dell’arte",
@@ -125,6 +156,22 @@
           "2012-10-30",
           "2013-01-05"
         ]
+      },
+      {
+        "i": "94623-10516-2012-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "94623-10516-2012-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "94623-5518-2012-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "94623-5518-2012-09-05",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -139,21 +186,6 @@
         "d": [
           "2012-10-30",
           "2013-01-05"
-        ]
-      }
-    ],
-    "2007": [
-      {
-        "i": "94623-10722-2007-09-15",
-        "c": "US",
-        "n": "landscape/starwars on earth",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Washington, DC",
-        "o": "Project 4 Gallery",
-        "d": [
-          "2007-09-15",
-          "2007-10-20"
         ]
       }
     ]

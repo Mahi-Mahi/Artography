@@ -1,7 +1,7 @@
 {
   "id": "10318",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:06",
+  "timestamp": "2014-05-24 06:19:02",
   "name": "Valérie Mréjen",
   "surname": "Mréjen",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video, Video, Film",
-  "r00": "2050",
-  "r01": "2001",
-  "r02": "1774",
-  "r03": "1768",
-  "r04": "1685",
-  "r05": "1533",
-  "r06": "1870",
-  "r07": "1899",
-  "r08": "1790",
+  "r00": "1982",
+  "r01": "1966",
+  "r02": "1946",
+  "r03": "1845",
+  "r04": "1799",
+  "r05": "1635",
+  "r06": "1427",
+  "r07": "1818",
+  "r08": "1901",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
-  "all-shows-total": "78",
+  "all-shows-total": "80",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "28",
-  "2005-countries-total": "France (12), Spain (4), Mexico (3), Japan (2), United Kingdom (2), Belgium (1), China (1), Estonia (1), Israel (1), Italy (1), Luxembourg (1), Netherlands (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Valérie Mréjen (29), Keren Cytter (8), Dominique Gonzalez-Foerster (6), Douglas Gordon (5), Anri Sala (5), Bani Abidi (4), Eija-Liisa Ahtila (4), Tacita Dean (4), Stan Douglas (4), Omer Fast (4), Rodney Graham (4), Pierre Huyghe (4), Runa Islam (4), Christian Marclay (4), Daria Martin (4), Artur Zmijewski (4), Alice Anderson (3), Ziad Antar (3), Yael Bartana (3), Guy Ben-Ner (3), Manon de Boer (3), Sophie Calle (3), Bruce Conner (3), Abraham Cruzvillegas (3), Oskar Dawicki (3), Hans-Peter Feldmann (3), Luke Fowler (3), Dora García (3), Camille Henrot (3), Cristina Lucas (3), Steve McQueen (3), Annette Messager (3), Orlan (3), Florence Paradeis (3), Philippe Parreno (3), Anne-Marie Schneider (3), Rosemarie Trockel (3), Yang Fudong (3), Marina Abramovic (2), Absalon (2), AES+F (2), Michelangelo Antonioni (2), Kader Attia (2), Maja Bajevic (2), Virginie Barré (2), Samuel Beckett (2), Bernadette Corporation (2), Bestué / Vives (2), Christian Boltanski (2), Anastassia Bordeau (2), Louise Bourgeois (2), Marily",
+  "2005-shows-museums": "30",
+  "2005-countries-total": "France (15), Spain (4), Mexico (3), Japan (2), United Kingdom (2), Belgium (1), China (1), Estonia (1), Israel (1), Italy (1), Luxembourg (1), Netherlands (1), Switzerland (1), USA (1)",
+  "2005-shows-with": "Valérie Mréjen (31), Keren Cytter (8), Dominique Gonzalez-Foerster (6), Douglas Gordon (5), Anri Sala (5), Bani Abidi (4), Eija-Liisa Ahtila (4), Tacita Dean (4), Stan Douglas (4), Omer Fast (4), Rodney Graham (4), Pierre Huyghe (4), Runa Islam (4), Christian Marclay (4), Daria Martin (4), Artur Zmijewski (4), Alice Anderson (3), Ziad Antar (3), Yael Bartana (3), Guy Ben-Ner (3), Manon de Boer (3), Sophie Calle (3), Bruce Conner (3), Abraham Cruzvillegas (3), Oskar Dawicki (3), Hans-Peter Feldmann (3), Luke Fowler (3), Dora García (3), Camille Henrot (3), Cristina Lucas (3), Steve McQueen (3), Annette Messager (3), Orlan (3), Florence Paradeis (3), Philippe Parreno (3), Anne-Marie Schneider (3), Rosemarie Trockel (3), Yang Fudong (3), Marina Abramovic (2), Absalon (2), AES+F (2), Michelangelo Antonioni (2), Kader Attia (2), Maja Bajevic (2), Virginie Barré (2), Samuel Beckett (2), Bernadette Corporation (2), Bestué & Vives (2), Christian Boltanski (2), Anastassia Bordeau (2), Louise Bourgeois (2), Marily",
   "representing-galleries": "Galerie Olivari-Veys (9 rue de Hennin, 1050 Brussels, Belgium)",
-  "collecting-museums": "FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); Espace Croisé (Grand Place, 59059 Roubaix, France); MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg); Tate Britain (Millbank, SW1P 4RG London (England), United Kingdom)",
+  "collecting-museums": "FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); Espace Croisé (Grand Place, 59059 Roubaix, France); MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg); Tate Britain (Millbank, SW1P 4RG London, United Kingdom)",
   "first_name": "Valérie",
   "last_name": "Mréjen",
   "genre": "f",
@@ -44,6 +44,22 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "10318-10237-2005-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "10318-10237-2005-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "10318-2365-2005-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "10318-2365-2005-03-04",
+        "c": "FR"
+      },
       {
         "i": "10318-754-2005-06-05",
         "c": "DE",
@@ -56,6 +72,14 @@
           "2005-06-05",
           "2005-09-11"
         ]
+      },
+      {
+        "i": "10318-2493-2005-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "10318-2493-2005-09-14",
+        "c": "FR"
       },
       {
         "i": "10318-14614-2005-10-02",
@@ -99,6 +123,14 @@
         ]
       },
       {
+        "i": "10318-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "10318-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
         "i": "10318-10177-2006-04-15",
         "c": "BE",
         "n": "Suite Fibonacci",
@@ -110,6 +142,14 @@
           "2006-04-15",
           "2006-05-13"
         ]
+      },
+      {
+        "i": "10318-6620-2006-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "10318-6620-2006-09-03",
+        "c": "FR"
       },
       {
         "i": "10318-6146-2006-09-06",
@@ -347,6 +387,14 @@
         ]
       },
       {
+        "i": "10318-2351-2008-04-15",
+        "c": "FR"
+      },
+      {
+        "i": "10318-2351-2008-04-15",
+        "c": "FR"
+      },
+      {
         "i": "10318-2921-2008-07-01",
         "c": "US",
         "n": "Passengers: 1.11 Valérie Mréjen",
@@ -361,6 +409,10 @@
       }
     ],
     "2009": [
+      {
+        "i": "10318-2219-2009-05-27",
+        "c": "FR"
+      },
       {
         "i": "10318-1811-2009-11-20",
         "c": "ES",
@@ -385,6 +437,80 @@
         "d": [
           "2009-07-16",
           "2009-09-06"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "10318-2219-2009-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "10318-9475-2011-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "10318-9475-2011-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "10318-26775-2011-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "10318-26775-2011-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "10318-22923-2011-05-15",
+        "c": "CN",
+        "n": "Entre-Temps&#65293; The Artist as a Narrator",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Shanghai",
+        "o": "Minsheng Art Museum",
+        "d": [
+          "2011-05-15",
+          "2011-06-26"
+        ]
+      },
+      {
+        "i": "10318-2343-2011-06-24",
+        "c": "MX",
+        "n": "Blockbuster. Cine para exhibiciones",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Monterrey, NL",
+        "o": "Museo de Arte Contemporáneo de Monterrey MARCO",
+        "d": [
+          "2011-06-24",
+          "2011-09-25"
+        ]
+      },
+      {
+        "i": "10318-21480-2011-06-24",
+        "c": "JP",
+        "n": "If you live long enough",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Yokohama",
+        "o": "Creative Space 9001",
+        "d": [
+          "2011-06-24",
+          "2011-07-03"
+        ]
+      },
+      {
+        "i": "10318-18693-2011-10-08",
+        "c": "MX",
+        "n": "Blockbuster: Cinema for exhibitions",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Mexico City",
+        "o": "Museo Universitario de Arte Contemporáneo - MUAC",
+        "d": [
+          "2011-10-08",
+          "2012-02-05"
         ]
       }
     ],
@@ -455,6 +581,14 @@
         ]
       },
       {
+        "i": "10318-9492-2010-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "10318-9492-2010-09-18",
+        "c": "FR"
+      },
+      {
         "i": "10318-22540-2010-12-02",
         "c": "GB",
         "n": "Language",
@@ -465,60 +599,6 @@
         "d": [
           "2010-12-02",
           "2010-12-18"
-        ]
-      }
-    ],
-    "2011": [
-      {
-        "i": "10318-22923-2011-05-15",
-        "c": "CN",
-        "n": "Entre-Temps&#65293; The Artist as a Narrator",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Shanghai",
-        "o": "Minsheng Art Museum",
-        "d": [
-          "2011-05-15",
-          "2011-06-26"
-        ]
-      },
-      {
-        "i": "10318-2343-2011-06-24",
-        "c": "MX",
-        "n": "Blockbuster. Cine para exhibiciones",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Monterrey, NL",
-        "o": "Museo de Arte Contemporáneo de Monterrey MARCO",
-        "d": [
-          "2011-06-24",
-          "2011-09-25"
-        ]
-      },
-      {
-        "i": "10318-21480-2011-06-24",
-        "c": "JP",
-        "n": "If you live long enough",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Yokohama",
-        "o": "Creative Space 9001",
-        "d": [
-          "2011-06-24",
-          "2011-07-03"
-        ]
-      },
-      {
-        "i": "10318-18693-2011-10-08",
-        "c": "MX",
-        "n": "Blockbuster: Cinema for exhibitions",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Mexico City",
-        "o": "Museo Universitario de Arte Contemporáneo - MUAC",
-        "d": [
-          "2011-10-08",
-          "2012-02-05"
         ]
       }
     ],
@@ -535,6 +615,14 @@
           "2011-10-08",
           "2012-02-05"
         ]
+      },
+      {
+        "i": "10318-20789-2012-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "10318-20789-2012-06-06",
+        "c": "FR"
       },
       {
         "i": "10318-6419-2012-12-10",
@@ -565,6 +653,38 @@
         ]
       },
       {
+        "i": "10318-8128-2013-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "10318-8128-2013-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "10318-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "10318-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "10318-11894-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "10318-11894-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "10318-4159-2013-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "10318-4159-2013-06-08",
+        "c": "FR"
+      },
+      {
         "i": "10318-5625-2013-07-05",
         "c": "MX",
         "n": "Blockbuster: cine para exhibiciones",
@@ -576,6 +696,22 @@
           "2013-07-05",
           "2013-10-10"
         ]
+      },
+      {
+        "i": "10318-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "10318-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "10318-19606-2013-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "10318-19606-2013-10-19",
+        "c": "FR"
       }
     ]
   }

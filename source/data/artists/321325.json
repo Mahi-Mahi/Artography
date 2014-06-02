@@ -1,7 +1,7 @@
 {
   "id": "321325",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:10:45",
+  "timestamp": "2014-05-24 08:06:18",
   "name": "Xavier Antin",
   "surname": "Antin",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "74110",
-  "r01": "71411",
-  "r02": "111252",
-  "r03": "110741",
-  "r04": null,
+  "r00": "60008",
+  "r01": "61342",
+  "r02": "58347",
+  "r03": "110240",
+  "r04": "111152",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,11 +28,11 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "5",
+  "all-shows-total": "6",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (4), USA (1)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (5), USA (1)",
   "2005-shows-with": "Xavier Antin (4), Aurélien Mole (2), Julien Tiberi (2)",
   "representing-galleries": "Galerie Crèvecoeur (4, rue Jouye-Rouve, 75020 Paris, France)",
   "collecting-museums": null,
@@ -43,6 +43,16 @@
   "age": 33,
   "age_range": "26-40",
   "expos": {
+    "2010": [
+      {
+        "i": "321325-19048-2010-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "321325-19048-2010-10-02",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "321325-20522-2011-11-04",
@@ -71,6 +81,32 @@
           "2011-11-04",
           "2012-01-08"
         ]
+      },
+      {
+        "i": "321325-7999-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "321325-7999-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "321325-25336-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "321325-25336-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "321325-20451-2012-11-17",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "321325-20451-2012-11-17",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "29028",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:15:32",
+  "timestamp": "2014-05-24 06:26:04",
   "name": "Agnès Baillon",
   "surname": "Baillon",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Female",
   "media": "Sculpture",
-  "r00": "34449",
-  "r01": "34794",
-  "r02": "33977",
-  "r03": "33712",
-  "r04": "41738",
-  "r05": "36774",
-  "r06": "31366",
-  "r07": "26514",
-  "r08": "21686",
+  "r00": "26540",
+  "r01": "37045",
+  "r02": "35815",
+  "r03": "33807",
+  "r04": "32585",
+  "r05": "42220",
+  "r06": "35476",
+  "r07": "29334",
+  "r08": "23932",
   "awards": null,
   "website": "www.agnesbaillon.com",
   "all-shows-first": "2002",
-  "all-shows-total": "12",
+  "all-shows-total": "13",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (7), Greece (1)",
-  "2005-shows-with": "Agnès Baillon (5), Jeanne Bouchart (3), Nora Douady (2), David MAES (2), Jean-Francois Oudry (2), Marc Perez (2)",
-  "representing-galleries": "Mathilde Hatzenberger Gallery (Rue Haute 11, 1000 Brussels, Belgium); A Contrario (6 avenue de la Libération, 87000 Limoges, France); Le Soleil Sur La Place (4.rue Antoine de Saint Exupery, 69002 Lyon, France); Galerie Felli (127, rue Vieille, 75003 Paris, France); Galerie Brun L'église (51, rue de Bourgogne, 75007 Paris, France); Galerie Lefor-Openo (29 rue Mazarine, 75006 Paris, France); Galerie Pierre Marie Vitoux (3, rue d'Ormesson, 75004 Paris, France); Galerie Gilbert Dufois (8 Place Henri IV, 60300 Senlis, France); Galerie Seuren (Waldstraße 42, 76133 Karlsruhe, Germany)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (7), Greece (2)",
+  "2005-shows-with": "Agnès Baillon (6), Jeanne Bouchart (3), Panagiotis Beltekos (2), Vincent Corpet (2), Marc Desgrandchamps (2), Nora Douady (2), Panos Fidakis (2), Maria Filopoulou (2), Apostolos Georgiou (2), David MAES (2), Thanassis Makris (2), Michalis Manoussakis (2), Tassos Mantzavinos (2), Kalliroi Marouda (2), Andrea Martinelli (2), Florian Merkel (2), Jean-Francois Oudry (2), Dimitris Papaioannou (2), Marc Perez (2), Edouardo Sacaillan (2), Mathias Schauwecker (2), Attila Szücs (2), Dino Valls (2)",
+  "representing-galleries": "A Contrario (6 avenue de la Libération, 87000 Limoges, France); Le Soleil Sur La Place (4.rue Antoine de Saint Exupery, 69002 Lyon, France); Galerie Felli (127, rue Vieille, 75003 Paris, France); Galerie Brun L'église (51, rue de Bourgogne, 75007 Paris, France); Galerie Lefor-Openo (29 rue Mazarine, 75006 Paris, France); Galerie Pierre Marie Vitoux (3, rue d'Ormesson, 75004 Paris, France); Galerie Gilbert Dufois (8 Place Henri IV, 60300 Senlis, France); Galerie Seuren (Waldstraße 42, 76133 Karlsruhe, Germany)",
   "collecting-museums": null,
   "first_name": "Agnès",
   "last_name": "Baillon",
@@ -56,6 +56,14 @@
           "2005-01-16",
           "2005-03-06"
         ]
+      },
+      {
+        "i": "29028-5359-2005-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "29028-5359-2005-05-19",
+        "c": "FR"
       },
       {
         "i": "29028-2582-2005-12-22",
@@ -114,6 +122,66 @@
           "2010-10-13",
           "2011-02-27"
         ]
+      },
+      {
+        "i": "29028-22949-2011-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "29028-22949-2011-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "29028-22949-2011-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "29028-22949-2011-03-03",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "29028-22949-2012-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "29028-22949-2012-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "29028-22949-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "29028-22949-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "29028-5495-2012-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "29028-5495-2012-04-05",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "29028-24689-2013-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "29028-24689-2013-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "29028-22949-2013-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "29028-22949-2013-02-21",
+        "c": "FR"
       }
     ]
   }

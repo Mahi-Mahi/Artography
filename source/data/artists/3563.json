@@ -1,7 +1,7 @@
 {
   "id": "3563",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:03:58",
+  "timestamp": "2014-05-24 06:16:16",
   "name": "Philippe Fangeaux",
   "surname": "Fangeaux",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "54950",
-  "r01": "51541",
-  "r02": "50487",
-  "r03": "45811",
-  "r04": "45462",
-  "r05": "41128",
-  "r06": "35364",
-  "r07": "66014",
-  "r08": "61436",
+  "r00": "58977",
+  "r01": "57097",
+  "r02": "51424",
+  "r03": "49910",
+  "r04": "44228",
+  "r05": "44136",
+  "r06": "38777",
+  "r07": "32462",
+  "r08": "69205",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (2), Germany (1)",
-  "2005-shows-with": "Philippe Fangeaux (2)",
+  "2005-countries-total": "France (3), Germany (1)",
+  "2005-shows-with": "Philippe Fangeaux (3)",
   "representing-galleries": "Galerie Piltzer (6, avenue Foch, 75116 Paris, France)",
   "collecting-museums": null,
   "first_name": "Philippe",
@@ -43,6 +43,46 @@
   "age": 51,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "3563-9475-2007-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "3563-9475-2007-03-11",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "3563-23145-2009-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "3563-23145-2009-06-24",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "3563-5115-2010-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "3563-5115-2010-01-19",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "3563-23145-2006-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "3563-23145-2006-07-07",
+        "c": "FR"
+      }
+    ],
     "2012": [
       {
         "i": "3563-1143-2012-02-18",

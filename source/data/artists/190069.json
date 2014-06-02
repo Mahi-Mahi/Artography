@@ -1,7 +1,7 @@
 {
   "id": "190069",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:20:00",
+  "timestamp": "2014-05-24 07:21:34",
   "name": "Jean-Michel Fauquet",
   "surname": "Fauquet",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "45800",
-  "r01": "47039",
-  "r02": "43078",
-  "r03": "54434",
-  "r04": "48837",
-  "r05": "45353",
-  "r06": "50751",
-  "r07": "77633",
-  "r08": "68092",
+  "r00": "12257",
+  "r01": "41543",
+  "r02": "42789",
+  "r03": "37933",
+  "r04": "50619",
+  "r05": "44341",
+  "r06": "40502",
+  "r07": "46314",
+  "r08": "78189",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "7",
-  "2005-shows-biennials": "1",
-  "2005-shows-galleries": "1",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (4), USA (1)",
+  "all-shows-total": "8",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (5), Germany (1), USA (1)",
   "2005-shows-with": "Jean-Michel Fauquet (4), Stéphane Couturier (3)",
   "representing-galleries": "Galerie Conrads (Lindenstr. 167, 40233 Dusseldorf, Germany); Haim Chanin Fine Art (121 East 19th Street 10th Floor, 10011 New York City, NY, USA)",
   "collecting-museums": null,
@@ -56,6 +56,34 @@
           "2008-05-11",
           "2008-06-11"
         ]
+      },
+      {
+        "i": "190069-20789-2008-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "190069-20789-2008-11-14",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "190069-15039-2009-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "190069-15039-2009-07-07",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "190069-21359-2013-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "190069-21359-2013-07-01",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -71,6 +99,16 @@
           "2007-05-03",
           "2007-06-30"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "190069-20789-2011-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "190069-20789-2011-01-20",
+        "c": "FR"
       }
     ]
   }

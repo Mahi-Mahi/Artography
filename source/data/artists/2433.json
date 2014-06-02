@@ -1,7 +1,7 @@
 {
   "id": "2433",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:03:17",
+  "timestamp": "2014-05-24 06:15:41",
   "name": "Michel Auder",
   "surname": "Auder",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Video, Sculpture",
-  "r00": "2310",
-  "r01": "3008",
-  "r02": "3115",
-  "r03": "2743",
-  "r04": "3169",
-  "r05": "3590",
-  "r06": "3651",
-  "r07": "3404",
-  "r08": "3017",
+  "r00": "1683",
+  "r01": "2094",
+  "r02": "3133",
+  "r03": "3313",
+  "r04": "2709",
+  "r05": "3338",
+  "r06": "3919",
+  "r07": "3973",
+  "r08": "3598",
   "awards": null,
   "website": null,
   "all-shows-first": "1984",
-  "all-shows-total": "74",
-  "2005-shows-biennials": "16",
-  "2005-shows-galleries": "16",
+  "all-shows-total": "73",
+  "2005-shows-biennials": "15",
+  "2005-shows-galleries": "15",
   "2005-shows-museums": "11",
-  "2005-countries-total": "USA (14), Germany (5), Belgium (3), Switzerland (3), France (2), Italy (2), Portugal (2), Denmark (1), Greece (1), Norway (1), Spain (1), Sweden (1), United Kingdom (1)",
-  "2005-shows-with": "Michel Auder (22), Andy Warhol (4), Mariana Castillo Deball (3), Cyprien Gaillard (3), Elsebeth Jørgensen (3), Rosalind Nashashibi (3), Darren Bader (2), Pedro Barateiro (2), Cezary Bodzianowski (2), Yvette Brackman (2), John Brattin (2), Olaf Breuning (2), Marc Camille Chaimowicz (2), Johannes Christoffersen (2), Daniel Gustav Cramer (2), Dexter Sinister (2), Tracey Emin (2), Haris Epaminonda (2), Hans-Peter Feldmann (2), Maria Finn (2), Kendell Geers (2), Nan Goldin (2), Tamar Halpern (2), Ulrik Heltoft (2), Frederik Jacobi (2), Frans Jacobi (2), Rashid Johnson (2), Matt Keegan (2), Mike Kelley (2), Daniel Knorr (2), Sandra Kranich (2), Janette Laverrière (2), Leigh Ledare (2), Kalup Linzy (2), Babette Mangolte (2), Lars Mathisen (2), Ryan McNamara (2), Marilyn Minter (2), Bruce Nauman (2), Mark Orange (2), Laura Parnes (2), Giulia Piscitelli (2), Pia Rönicke (2), Carolee Schneemann (2), Lucy Skaer (2), Ettore Sottsass (2), Michael Stickrod (2), Elisabeth Subrin (2), Sung-Hwan Kim (2), Christian Tomaszew",
+  "2005-countries-total": "USA (15), Germany (5), Belgium (3), Switzerland (3), France (2), Italy (2), Portugal (2), Denmark (1), Greece (1), Norway (1), Spain (1), Sweden (1), United Kingdom (1)",
+  "2005-shows-with": "Michel Auder (23), Andy Warhol (4), Darren Bader (3), Mariana Castillo Deball (3), Cyprien Gaillard (3), Elsebeth Jørgensen (3), Rosalind Nashashibi (3), Lisa Anne Auerbach (2), Pedro Barateiro (2), Cezary Bodzianowski (2), Yvette Brackman (2), John Brattin (2), Olaf Breuning (2), Marc Camille Chaimowicz (2), Johannes Christoffersen (2), Daniel Gustav Cramer (2), Dexter Sinister (2), Tracey Emin (2), Haris Epaminonda (2), Hans-Peter Feldmann (2), Maria Finn (2), Kendell Geers (2), Gaylen Gerber (2), Nan Goldin (2), Joseph Grigely (2), Tamar Halpern (2), Ulrik Heltoft (2), Gary Indiana (2), Frederik Jacobi (2), Frans Jacobi (2), Rashid Johnson (2), Matt Keegan (2), Mike Kelley (2), Daniel Knorr (2), Sandra Kranich (2), Janette Laverrière (2), Leigh Ledare (2), Kalup Linzy (2), Shana Lutker (2), Babette Mangolte (2), Lars Mathisen (2), Ryan McNamara (2), Marilyn Minter (2), Bruce Nauman (2), Pauline Oliveros (2), Mark Orange (2), Laura Owens (2), Laura Parnes (2), Giulia Piscitelli (2), Pia Rönicke (2), Caro",
   "representing-galleries": "Office Baroque Gallery (Bloemenhofplein 5 Place du Jardin aux Fleurs, 1000 Brussels, Belgium); Galerie Coullaud & Koulinsky (12 rue de Picardie, 75003 Paris, France); Aurel Scheibler / ScheiblerMitte (Charlottenstrasse 2, 10969 Berlin, Germany); Kayne Griffin Corcoran (1201 South La Brea Avenue, 90019 Los Angeles, CA, USA)",
   "collecting-museums": "FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Michel",
@@ -94,6 +94,14 @@
           "2005-10-06",
           "2006-01-15"
         ]
+      },
+      {
+        "i": "2433-10870-2005-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "2433-10870-2005-06-30",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -522,6 +530,14 @@
     ],
     "2012": [
       {
+        "i": "2433-29900-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "2433-29900-2012-04-06",
+        "c": "FR"
+      },
+      {
         "i": "2433-2666-2012-04-19",
         "c": "ES",
         "n": "La idea de América Latina",
@@ -546,6 +562,10 @@
           "2012-11-01",
           "2013-02-03"
         ]
+      },
+      {
+        "i": "2433-28438-2012-11-13",
+        "c": "FR"
       },
       {
         "i": "2433-2178-2012-03-17",
@@ -574,6 +594,10 @@
           "2012-11-01",
           "2013-02-03"
         ]
+      },
+      {
+        "i": "2433-28438-2012-11-13",
+        "c": "FR"
       },
       {
         "i": "2433-4453-2013-01-10",

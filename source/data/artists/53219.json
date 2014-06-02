@@ -1,7 +1,7 @@
 {
   "id": "53219",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:25:26",
+  "timestamp": "2014-05-24 06:34:47",
   "name": "Julien Discrit",
   "surname": "Discrit",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "3842",
-  "r01": "3595",
-  "r02": "3451",
-  "r03": "4758",
-  "r04": "4934",
-  "r05": "5431",
-  "r06": "5949",
-  "r07": "10979",
-  "r08": "13793",
+  "r00": "3671",
+  "r01": "3418",
+  "r02": "2933",
+  "r03": "2747",
+  "r04": "3921",
+  "r05": "4065",
+  "r06": "4424",
+  "r07": "4864",
+  "r08": "9438",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "51",
+  "all-shows-total": "52",
   "2005-shows-biennials": "9",
   "2005-shows-galleries": "9",
-  "2005-shows-museums": "22",
-  "2005-countries-total": "France (25), Brazil (2), Argentina (1), China (1), Germany (1), Russia (1), United Kingdom (1)",
-  "2005-shows-with": "Julien Discrit (28), Nicolas Moulin (6), Detanico & Lain (5), Adel Abdessemed (4), Absalon (4), Berdaguer & Péjus (4), Dominique Gonzalez-Foerster (4), Douglas Gordon (4), Renaud Auguste-Dormeuil (3), Dominique Blais (3), Katinka Bock (3), Benoit Broisat (3), Yona Friedman (3), Aurélien Froment (3), Cyprien Gaillard (3), Camille Henrot (3), Pierre Huyghe (3), Mrzyk & Moriceau (3), Philippe Parreno (3), Laurent Tixador (3), Judi Werthein (3), Wood & Harrison (3), Martine Aballéa (2), Gabriel Acevedo Velarde (2), Pierre Alferi (2), Dove Allouche (2), Francis Alys (2), Art & Language (2), Olivier Babin (2), Zbynek Baladran (2), Ernesto Ballesteros (2), Lenora de Barros (2), Eduardo Basualdo (2), Thomas Bayrle (2), Erick Beltrán (2), Julien Berthier (2), Diego Bianchi (2), Andrea Blum (2), Christian Boltanski (2), Ulla von Brandenburg (2), François Bucher (2), Augusto de Campos (2), Marina De Caro (2), Vija Celmins (2), Virginia Chihota (2), Isabelle Cornaro (2), Kajsa Dahlberg (2), Jeremiah Day (2), Jason D",
+  "2005-shows-museums": "23",
+  "2005-countries-total": "France (25), Brazil (2), Argentina (1), Belgium (1), China (1), Germany (1), Russia (1), United Kingdom (1)",
+  "2005-shows-with": "Julien Discrit (29), Nicolas Moulin (6), Detanico & Lain (5), Adel Abdessemed (4), Absalon (4), Berdaguer & Péjus (4), Dominique Gonzalez-Foerster (4), Douglas Gordon (4), Francis Alys (3), Renaud Auguste-Dormeuil (3), Dominique Blais (3), Katinka Bock (3), Benoit Broisat (3), Yona Friedman (3), Aurélien Froment (3), Cyprien Gaillard (3), Camille Henrot (3), Pierre Huyghe (3), Laurent Montaron (3), Mrzyk & Moriceau (3), Philippe Parreno (3), Laurent Tixador (3), Judi Werthein (3), Wood & Harrison (3), Martine Aballéa (2), Gabriel Acevedo Velarde (2), Pierre Alferi (2), Dove Allouche (2), Art & Language (2), Olivier Babin (2), Zbynek Baladran (2), Ernesto Ballesteros (2), Lenora de Barros (2), Eduardo Basualdo (2), Thomas Bayrle (2), Erick Beltrán (2), Julien Berthier (2), Diego Bianchi (2), Andrea Blum (2), Christian Boltanski (2), Ulla von Brandenburg (2), François Bucher (2), Augusto de Campos (2), Marina De Caro (2), Vija Celmins (2), Virginia Chihota (2), Isabelle Cornaro (2), Kajsa Dahlberg (2), Jer",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France)",
   "first_name": "Julien",
@@ -44,6 +44,22 @@
   "age_range": "26-40",
   "expos": {
     "2005": [
+      {
+        "i": "53219-8292-2005-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "53219-8292-2005-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "53219-2528-2005-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "53219-2528-2005-09-11",
+        "c": "FR"
+      },
       {
         "i": "53219-2276-2005-11-11",
         "c": "AT",
@@ -71,9 +87,45 @@
           "2005-11-11",
           "2006-01-29"
         ]
+      },
+      {
+        "i": "53219-9120-2006-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "53219-9120-2006-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "53219-10522-2006-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "53219-10522-2006-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "53219-10990-2006-07-26",
+        "c": "FR"
+      },
+      {
+        "i": "53219-10990-2006-07-26",
+        "c": "FR"
+      },
+      {
+        "i": "53219-6620-2006-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "53219-10990-2006-11-24",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "53219-6620-2006-12-03",
+        "c": "FR"
+      },
       {
         "i": "53219-27771-2007-03-23",
         "c": "BE",
@@ -101,6 +153,22 @@
         ]
       },
       {
+        "i": "53219-20789-2007-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "53219-20789-2007-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2007-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2007-05-12",
+        "c": "FR"
+      },
+      {
         "i": "53219-5490-2007-06-01",
         "c": "ES",
         "n": "Nuevos Horizontes - Artistas contemporáneos de Francia",
@@ -112,9 +180,61 @@
           "2007-06-01",
           "2007-09-30"
         ]
+      },
+      {
+        "i": "53219-9475-2007-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "53219-9475-2007-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "53219-10990-2007-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4651-2007-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "53219-11492-2007-10-27",
+        "c": "FR"
+      },
+      {
+        "i": "53219-11492-2007-10-27",
+        "c": "FR"
+      },
+      {
+        "i": "53219-8555-2007-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "53219-10990-2006-11-24",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "53219-10990-2007-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4651-2007-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "53219-8555-2007-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2008-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2008-05-06",
+        "c": "FR"
+      },
       {
         "i": "53219-7016-2008-05-10",
         "c": "GB",
@@ -127,9 +247,49 @@
           "2008-05-10",
           "2008-06-01"
         ]
+      },
+      {
+        "i": "53219-18149-2008-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "53219-18149-2008-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "53219-11890-2008-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "53219-11890-2008-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "53219-8282-2008-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "53219-8282-2008-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2008-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2008-01-12",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "53219-8156-2009-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "53219-8156-2009-01-21",
+        "c": "FR"
+      },
       {
         "i": "53219-18876-2009-04-24",
         "c": "BR",
@@ -144,6 +304,22 @@
         ]
       },
       {
+        "i": "53219-7850-2009-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "53219-7850-2009-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "53219-18800-2009-09-19",
+        "c": "FR"
+      },
+      {
+        "i": "53219-18800-2009-09-19",
+        "c": "FR"
+      },
+      {
         "i": "53219-17564-2009-09-21",
         "c": "BR",
         "n": "Entre Temps",
@@ -155,9 +331,57 @@
           "2009-09-21",
           "2009-11-01"
         ]
+      },
+      {
+        "i": "53219-4159-2009-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2009-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "53219-21098-2009-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "53219-21098-2009-03-15",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "53219-21695-2010-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "53219-21695-2010-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "53219-25336-2010-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "53219-25336-2010-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "53219-9060-2010-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "53219-9060-2010-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2010-07-09",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2010-07-09",
+        "c": "FR"
+      },
       {
         "i": "53219-8587-2010-09-07",
         "c": "RU",
@@ -170,9 +394,41 @@
           "2010-09-07",
           "2010-10-17"
         ]
+      },
+      {
+        "i": "53219-20082-2010-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "53219-20082-2010-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2010-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2010-06-12",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "53219-8282-2011-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "53219-8282-2011-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2011-05-07",
+        "c": "FR"
+      },
       {
         "i": "53219-22923-2011-05-15",
         "c": "CN",
@@ -185,9 +441,33 @@
           "2011-05-15",
           "2011-06-26"
         ]
+      },
+      {
+        "i": "53219-9475-2011-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "53219-9475-2011-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "53219-21541-2011-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "53219-2493-2011-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "53219-2493-2011-09-15",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "53219-21541-2011-09-12",
+        "c": "FR"
+      },
       {
         "i": "53219-2087-2012-01-20",
         "c": "DE",
@@ -202,6 +482,14 @@
         ]
       },
       {
+        "i": "53219-4159-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "53219-4159-2012-01-27",
+        "c": "FR"
+      },
+      {
         "i": "53219-2317-2012-03-17",
         "c": "AR",
         "n": "Aire de Lyon",
@@ -213,6 +501,32 @@
           "2012-03-17",
           "2012-06-24"
         ]
+      },
+      {
+        "i": "53219-26235-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "53219-26235-2012-07-08",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "53219-12129-2013-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "53219-12129-2013-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "53219-11859-2013-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "53219-11859-2013-04-17",
+        "c": "FR"
       }
     ]
   }

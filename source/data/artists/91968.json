@@ -1,7 +1,7 @@
 {
   "id": "91968",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:41:33",
+  "timestamp": "2014-05-24 06:48:24",
   "name": "Guy Ferrer",
   "surname": "Ferrer",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Sculpture",
-  "r00": "39252",
-  "r01": "36972",
-  "r02": "35186",
-  "r03": "57113",
-  "r04": "51959",
-  "r05": null,
+  "r00": "34266",
+  "r01": "34084",
+  "r02": "30655",
+  "r03": "28665",
+  "r04": "49384",
+  "r05": "44388",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -34,7 +34,7 @@
   "2005-shows-museums": null,
   "2005-countries-total": "China (3), France (2), United Arab Emirates (2), Germany (1), South Africa (1), South Korea (1)",
   "2005-shows-with": "Guy Ferrer (4), Adonis (2), Fatema Al Mazrouie (2), John van Alstine (2), Hilda Hiary (2), Rose Husseiny (2), Wafa Khazendar (2), Nedim Kufi (2), George Lewis (2), Bo Taslé d´Héliand (2), Salwa Zeidan (2)",
-  "representing-galleries": "Galerie Chantal Melanson Art Contemporain (10 passage de la Cathédrale, 74000 Annecy\t, France); Galerie Nathalie Gaillard (112 avenue Kléber, 75016 Paris, France); GNG galerie d'art (3, rue Visconti, 75006 Paris, France); Die Galerie - Frankfurt (Grüneburgweg 123, 60323 Frankfurt/Main, Germany); Galerie MMG (1-5-8, Higashi-Azabu, 1060044 Tokyo, Japan); The Page Gallery (B101 397 Seocho-daero, Seocho-gu,  Seoul, South Korea); Salwa Zeidan Gallery (Al Khaleej Al Arabi Street 30, Villa 256, 2nd Floor,  Abu Dhabi, United Arab Emirates); Gallery Saint Germain (302 North Robertson Blv., 90048 West Hollywood, CA, USA)",
+  "representing-galleries": "Galerie Chantal Melanson Art Contemporain (10 passage de la Cathédrale, 74000 Annecy, France); Galerie Nathalie Gaillard (112 avenue Kléber, 75016 Paris, France); GNG galerie d'art (3, rue Visconti, 75006 Paris, France); Die Galerie - Frankfurt (Grüneburgweg 123, 60323 Frankfurt/Main, Germany); Galerie MMG (1-5-8, Higashi-Azabu, 1060044 Tokyo, Japan); The Page Gallery (B101 397 Seocho-daero, Seocho-gu,  Seoul, South Korea); Salwa Zeidan Gallery (Al Khaleej Al Arabi Street 30, Villa 256, 2nd Floor,  Abu Dhabi, United Arab Emirates); Gallery Saint Germain (302 North Robertson Blv., 90048 West Hollywood, CA, USA)",
   "collecting-museums": null,
   "first_name": "Guy",
   "last_name": "Ferrer",
@@ -140,6 +140,14 @@
         ]
       },
       {
+        "i": "91968-8087-2011-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "91968-8087-2011-06-17",
+        "c": "FR"
+      },
+      {
         "i": "91968-4169-2011-09-16",
         "c": "CN",
         "n": "Guy Ferrer - Soies",
@@ -151,6 +159,14 @@
           "2011-09-16",
           "2011-10-17"
         ]
+      },
+      {
+        "i": "91968-4170-2011-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "91968-4170-2011-09-16",
+        "c": "FR"
       }
     ],
     "2012": [

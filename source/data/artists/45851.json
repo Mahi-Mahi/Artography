@@ -1,7 +1,7 @@
 {
   "id": "45851",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:22:33",
+  "timestamp": "2014-05-24 06:32:11",
   "name": "Laurent Perbos",
   "surname": "Perbos",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "9070",
-  "r01": "8295",
-  "r02": "7622",
-  "r03": "7952",
-  "r04": "14080",
-  "r05": "13425",
-  "r06": "16963",
-  "r07": "21027",
-  "r08": "20388",
+  "r00": "7705",
+  "r01": "7697",
+  "r02": "6389",
+  "r03": "5634",
+  "r04": "5775",
+  "r05": "13157",
+  "r06": "12109",
+  "r07": "15612",
+  "r08": "19864",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "25",
+  "all-shows-total": "28",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "11",
-  "2005-countries-total": "France (10), Germany (2), Belgium (1), Denmark (1), Luxembourg (1)",
-  "2005-shows-with": "Laurent Perbos (12), Wilfrid Almendra (3), Pierre Ardouvin (3), Mathieu Mercier (3), Anita Molinero (3), Guillaume Poulain (3), Olivier Babin (2), Robert Barta (2), Patrick Bérubé (2), Marc Bijl (2), Hermine Bourgadier (2), Lilian Bourgeat (2), Antoinette J. Citizen (2), Claude Closky (2), Courtney Coombs (2), François Curlet (2), Jacob Dahlgren (2), Wim Delvoye (2), Richard Fauguet (2), Patrice Gaillard & Claude (2), Kendell Geers (2), le Gentil Garçon (2), Pierre Joseph (2), Paul Kirps (2), Emmanuelle Lainé (2), Walter Langelaar (2), Annika Larsson (2), Yvan Le Bozec (2), Claude Lévêque (2), Ingeborg Lüscher (2), Nicolas Milhé (2), Ian Monk (2), Bruno Peinado (2), Letizia Romanini (2), Lionel Scoccimaro (2), Stéphane Thidet (2), Ida Tursic & Wilfried Mille (2), Olaf Val (2)",
+  "2005-shows-museums": "12",
+  "2005-countries-total": "France (11), Germany (2), Belgium (1), Denmark (1), Italy (1), Luxembourg (1)",
+  "2005-shows-with": "Laurent Perbos (14), Wilfrid Almendra (3), Pierre Ardouvin (3), Mathieu Mercier (3), Anita Molinero (3), Guillaume Poulain (3), Olivier Babin (2), Robert Barta (2), Patrick Bérubé (2), Marc Bijl (2), Hermine Bourgadier (2), Lilian Bourgeat (2), Antoinette J. Citizen (2), Frédéric Clavère (2), Claude Closky (2), Robert Combas (2), Courtney Coombs (2), François Curlet (2), Jacob Dahlgren (2), Wim Delvoye (2), Mounir Fatmi (2), Richard Fauguet (2), Patrice Gaillard & Claude (2), Kendell Geers (2), le Gentil Garçon (2), Pierre Joseph (2), Paul Kirps (2), Emmanuelle Lainé (2), Walter Langelaar (2), Annika Larsson (2), Yvan Le Bozec (2), Claude Lévêque (2), Ingeborg Lüscher (2), Nicolas Milhé (2), Ian Monk (2), Bruno Peinado (2), Sylvie Réno (2), Letizia Romanini (2), Lionel Scoccimaro (2), Stéphane Thidet (2), Ida Tursic & Wilfried Mille (2), Olaf Val (2)",
   "representing-galleries": "Lambert Gallery (rue de Praetre 45-47, 1050 Brussels, Belgium); Artaé Gallery (11 rue Aimé Collomb, 69003 Lyon, France); Galerie Piltzer (6, avenue Foch, 75116 Paris, France)",
   "collecting-museums": null,
   "first_name": "Laurent",
@@ -43,7 +43,43 @@
   "age": 43,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "45851-7491-2005-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "45851-7491-2005-06-10",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "45851-8540-2006-07-11",
+        "c": "FR"
+      },
+      {
+        "i": "45851-8540-2006-07-11",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "45851-10220-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "45851-10220-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "45851-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "45851-2528-2007-06-06",
+        "c": "FR"
+      },
       {
         "i": "45851-28587-2007-12-01",
         "c": "CH",
@@ -71,9 +107,41 @@
           "2007-12-01",
           "2008-01-20"
         ]
+      },
+      {
+        "i": "45851-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "45851-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "45851-8128-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "45851-8128-2008-06-06",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "45851-20542-2010-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "45851-20542-2010-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "45851-2303-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "45851-2303-2010-02-05",
+        "c": "FR"
+      },
       {
         "i": "45851-16516-2010-03-06",
         "c": "BE",
@@ -125,6 +193,14 @@
           "2010-11-14",
           "2011-02-13"
         ]
+      },
+      {
+        "i": "45851-15038-2010-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "45851-15038-2010-09-23",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -140,9 +216,25 @@
           "2010-11-14",
           "2011-02-13"
         ]
+      },
+      {
+        "i": "45851-27842-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "45851-27842-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "45851-10247-2011-12-11",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "45851-10247-2011-12-11",
+        "c": "FR"
+      },
       {
         "i": "45851-28575-2012-06-09",
         "c": "DE",
@@ -155,6 +247,32 @@
           "2012-06-09",
           "2012-07-28"
         ]
+      },
+      {
+        "i": "45851-10870-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "45851-10870-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "45851-27523-2012-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "45851-27523-2012-05-25",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "45851-8647-2009-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "45851-8647-2009-04-03",
+        "c": "FR"
       }
     ]
   }

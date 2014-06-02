@@ -1,7 +1,7 @@
 {
   "id": "5306",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:04:50",
+  "timestamp": "2014-05-24 06:17:00",
   "name": "Laetitia Benat",
   "surname": "Benat",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography, Video",
-  "r00": "12301",
-  "r01": "10842",
-  "r02": "9589",
-  "r03": "9456",
-  "r04": "8920",
-  "r05": "7373",
-  "r06": "7044",
-  "r07": "6132",
-  "r08": "5581",
+  "r00": "14843",
+  "r01": "19334",
+  "r02": "15366",
+  "r03": "12917",
+  "r04": "13445",
+  "r05": "11967",
+  "r06": "9015",
+  "r07": "8289",
+  "r08": "6838",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
   "all-shows-total": "31",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "6",
-  "2005-countries-total": "France (7), Luxembourg (1), Switzerland (1), Taiwan (1)",
-  "2005-shows-with": "Laetitia Benat (7), Alice Anderson (3), Virginie Barré (3), Hélène Delprat (3), Marie Drouet (3), Catharina van Eetvelde (3), Vidya Gastaldon (3), Camille Henrot (3), Marko Mäetamm (3), Mel O\\'Callaghan (3), Lionel Renck (3), Stéphane Sautour (3), Anne-Marie Schneider (3), Valerie Sonnier (3), Fabien Verschaere (3), Blanca Casas Brullet (2), Lothar Hempel (2), Nathalie Rebholz (2), THIBAUT WARÉ (2), Brigitte Zieger (2)",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (7), Luxembourg (1), Switzerland (1), Taiwan (1), USA (1)",
+  "2005-shows-with": "Laetitia Benat (8), Alice Anderson (3), Virginie Barré (3), Hélène Delprat (3), Marie Drouet (3), Catharina van Eetvelde (3), Vidya Gastaldon (3), Camille Henrot (3), Marko Mäetamm (3), Mel O\\'Callaghan (3), Lionel Renck (3), Stéphane Sautour (3), Anne-Marie Schneider (3), Valerie Sonnier (3), Fabien Verschaere (3), Blanca Casas Brullet (2), Lothar Hempel (2), Raymond Pettibon (2), Nathalie Rebholz (2), THIBAUT WARÉ (2), Brigitte Zieger (2)",
   "representing-galleries": "Galerie Crèvecoeur (4, rue Jouye-Rouve, 75020 Paris, France)",
   "collecting-museums": null,
   "first_name": "Laetitia",
@@ -43,7 +43,77 @@
   "age": 43,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "5306-1936-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "5306-1936-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "5306-9477-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "5306-9477-2005-01-13",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "5306-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "5306-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "5306-1936-2006-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "5306-1936-2006-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "5306-7851-2006-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "5306-7851-2006-01-20",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5306-7851-2007-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "5306-7851-2007-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "5306-22295-2007-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "5306-22295-2007-06-27",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "5306-10237-2008-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "5306-10237-2008-02-26",
+        "c": "FR"
+      },
       {
         "i": "5306-3540-2008-06-07",
         "c": "LU",
@@ -56,9 +126,33 @@
           "2008-06-07",
           "2008-06-19"
         ]
+      },
+      {
+        "i": "5306-10237-2008-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "5306-10237-2008-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "5306-20451-2008-09-01",
+        "c": "FR"
+      },
+      {
+        "i": "5306-20451-2008-09-01",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "5306-20789-2010-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "5306-20789-2010-01-14",
+        "c": "FR"
+      },
       {
         "i": "5306-2404-2010-07-10",
         "c": "TW",
@@ -71,6 +165,32 @@
           "2010-07-10",
           "2010-10-17"
         ]
+      },
+      {
+        "i": "5306-10237-2010-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "5306-10237-2010-10-15",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5306-8548-2011-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "5306-8548-2011-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "5306-20451-2011-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "5306-20451-2011-06-09",
+        "c": "FR"
       }
     ],
     "2012": [

@@ -1,7 +1,7 @@
 {
   "id": "205391",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:25:51",
+  "timestamp": "2014-05-24 07:26:50",
   "name": "Christophe Sarlin",
   "surname": "Sarlin",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "36461",
-  "r01": "36303",
-  "r02": "45057",
-  "r03": "40969",
-  "r04": "36607",
-  "r05": "57168",
-  "r06": null,
+  "r00": "29393",
+  "r01": "32063",
+  "r02": "31439",
+  "r03": "40054",
+  "r04": "35507",
+  "r05": "31064",
+  "r06": "51668",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "4",
+  "all-shows-total": "5",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (4)",
-  "2005-shows-with": "Christophe Sarlin (4), Nicolas Kozerawski (2)",
+  "2005-countries-total": "France (4), Czech Republic (1)",
+  "2005-shows-with": "Christophe Sarlin (5), Lara Almárcegui (2), Nicolas Kozerawski (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Christophe",
@@ -43,5 +43,45 @@
   "age": 32,
   "age_range": "26-40",
   "expos": {
+    "2008": [
+      {
+        "i": "205391-8128-2008-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "205391-8128-2008-11-22",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "205391-3864-2009-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "205391-3864-2009-04-29",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "205391-2414-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "205391-2414-2012-01-27",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "205391-20542-2013-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "205391-20542-2013-09-14",
+        "c": "FR"
+      }
+    ]
   }
 }

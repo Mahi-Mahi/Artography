@@ -1,7 +1,7 @@
 {
   "id": "297579",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:01:40",
+  "timestamp": "2014-05-24 07:58:20",
   "name": "Élise Beaucousin",
   "surname": "Beaucousin",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "65083",
-  "r01": "62108",
-  "r02": "57169",
-  "r03": "52485",
-  "r04": "47009",
-  "r05": "60064",
-  "r06": "52926",
-  "r07": null,
+  "r00": "41306",
+  "r01": "63973",
+  "r02": "58483",
+  "r03": "52454",
+  "r04": "46870",
+  "r05": "41201",
+  "r06": "54808",
+  "r07": "47542",
   "r08": null,
   "awards": null,
   "website": null,
@@ -31,9 +31,9 @@
   "all-shows-total": "4",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (2)",
-  "2005-shows-with": "Élise Beaucousin (2)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (3)",
+  "2005-shows-with": "Élise Beaucousin (3)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Élise",
@@ -43,5 +43,33 @@
   "age": 36,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "297579-11850-2009-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "297579-11850-2009-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "297579-8678-2009-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "297579-8678-2009-11-05",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "297579-11850-2007-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "297579-11850-2007-04-24",
+        "c": "FR"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "189967",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:19:58",
+  "timestamp": "2014-05-24 07:21:32",
   "name": "Geraldine Py",
   "surname": "Py",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "25303",
-  "r01": "23702",
-  "r02": "70272",
-  "r03": "78720",
-  "r04": "72268",
-  "r05": "78060",
-  "r06": "85169",
-  "r07": null,
+  "r00": "68547",
+  "r01": "68744",
+  "r02": "64674",
+  "r03": "62243",
+  "r04": "72595",
+  "r05": "65806",
+  "r06": "73664",
+  "r07": "83111",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "8",
+  "all-shows-total": "7",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (6), Iran (1)",
-  "2005-shows-with": "Geraldine Py (7), Roberto Verde (5), Fouad Bouchoucha (2), Valère Chanceaulme de Sainte Croix (2), Stephanie Cherpin (2), Sandro Della Noce (2), Yann Gerstberger (2), Benjamin Marianne (2), Alice Planes (2), Bruno Sedan (2)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (5), Iran (1)",
+  "2005-shows-with": "Geraldine Py (6), Roberto Verde (5), Fouad Bouchoucha (2), Valère Chanceaulme de Sainte Croix (2), Stephanie Cherpin (2), Sandro Della Noce (2), Yann Gerstberger (2), Benjamin Marianne (2), Alice Planes (2), Bruno Sedan (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Geraldine",
@@ -43,6 +43,16 @@
   "age": 28,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "189967-18612-2007-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "189967-18612-2007-06-23",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "189967-17198-2008-05-30",
@@ -55,6 +65,62 @@
           "2008-05-30",
           "2008-07-06"
         ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "189967-19611-2009-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "189967-19611-2009-11-13",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "189967-19085-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "189967-19085-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "189967-2013-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "189967-2013-2011-05-07",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "189967-2219-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "189967-2219-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "189967-8547-2012-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "189967-8547-2012-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "189967-23298-2012-12-08",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "189967-23298-2012-12-08",
+        "c": "FR"
       }
     ]
   }

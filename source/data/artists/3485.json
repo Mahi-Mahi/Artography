@@ -1,7 +1,7 @@
 {
   "id": "3485",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:03:56",
+  "timestamp": "2014-05-24 06:16:14",
   "name": "Boris Achour",
   "surname": "Achour",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video, Objects",
-  "r00": "2499",
-  "r01": "2281",
-  "r02": "2404",
-  "r03": "2145",
-  "r04": "1926",
-  "r05": "2254",
-  "r06": "2164",
-  "r07": "1819",
-  "r08": "1957",
+  "r00": "3039",
+  "r01": "2960",
+  "r02": "2545",
+  "r03": "2756",
+  "r04": "2316",
+  "r05": "1938",
+  "r06": "2415",
+  "r07": "2202",
+  "r08": "1857",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "69",
+  "all-shows-total": "71",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "17",
-  "2005-countries-total": "France (20), United Kingdom (2), Belgium (1), Germany (1), Ireland (Republic) (1), Norway (1), Romania (1), Russia (1), Spain (1), USA (1)",
-  "2005-shows-with": "Boris Achour (24), Pierre Huyghe (6), Berdaguer & Péjus (5), Mathieu Mercier (5), Jean-Luc Vilmouth (5), Fischli & Weiss (4), Saâdane Afif (3), Ghada Amer (3), Olivier Babin (3), Pierre Bismuth (3), Mircea Cantor (3), Claude Closky (3), Wim Delvoye (3), Harun Farocki (3), Robert Filliou (3), Rodney Graham (3), Loris Gréaud (3), Thomas Hirschhorn (3), Vincent Lamouroux (3), Didier Marcel (3), Christian Marclay (3), Jonathan Monk (3), Olivier Mosset (3), Jean-Luc Moulène (3), Roman Ondák (3), Kirsten Pieroth (3), Michelangelo Pistoletto (3), Julien Prévieux (3), Simon Starling (3), Tatiana Trouvé (3), Xavier Veilhan (3), Erwin Wurm (3), A Constructed World (2), Adel Abdessemed (2), accès local (2), Chantal Akerman (2), Sandy Amério (2), John M Armleder (2), Kader Attia (2), Bobby Baker (2), Dave Ball (2), Istvan Balogh (2), Gilles Barbier (2), Iain Baxter (2), Damien Beguet (2), Alain Bernardini (2), Samuel Bianchini (2), Dominique Blais (2), Michel Blazy (2), Anna & Bernhard Blume (2), Alain Bublex (2",
+  "2005-shows-museums": "19",
+  "2005-countries-total": "France (22), United Kingdom (2), Belgium (1), Germany (1), Ireland (Republic) (1), Norway (1), Romania (1), Russia (1), Spain (1), USA (1)",
+  "2005-shows-with": "Boris Achour (26), Pierre Huyghe (6), Berdaguer & Péjus (5), Mathieu Mercier (5), Jean-Luc Vilmouth (5), Fischli & Weiss (4), Christian Marclay (4), Xavier Veilhan (4), Adel Abdessemed (3), Saâdane Afif (3), Ghada Amer (3), Olivier Babin (3), Pierre Bismuth (3), Mircea Cantor (3), Claude Closky (3), Wim Delvoye (3), Harun Farocki (3), Robert Filliou (3), Ryan Gander (3), Rodney Graham (3), Loris Gréaud (3), Thomas Hirschhorn (3), Vincent Lamouroux (3), Didier Marcel (3), Jonathan Monk (3), Olivier Mosset (3), Jean-Luc Moulène (3), Roman Ondák (3), Kirsten Pieroth (3), Michelangelo Pistoletto (3), Julien Prévieux (3), Simon Starling (3), Tatiana Trouvé (3), Erwin Wurm (3), A Constructed World (2), accès local (2), Chantal Akerman (2), Sandy Amério (2), John M Armleder (2), Kader Attia (2), Bobby Baker (2), Dave Ball (2), Istvan Balogh (2), Gilles Barbier (2), Iain Baxter (2), Damien Beguet (2), Alain Bernardini (2), Samuel Bianchini (2), Dominique Blais (2), Michel Blazy (2), Anna & Bernhard Blume (2)",
   "representing-galleries": "Galleria Cesare Manzo (Vicolo del Governo Vecchio 8, 00186 Rome, Italy)",
   "collecting-museums": "FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); Espace Croisé (Grand Place, 59059 Roubaix, France)",
   "first_name": "Boris",
@@ -45,6 +45,14 @@
   "expos": {
     "2005": [
       {
+        "i": "3485-2303-2005-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "3485-2303-2005-01-17",
+        "c": "FR"
+      },
+      {
         "i": "3485-2918-2005-01-28",
         "c": "RU",
         "n": "1 Moscow Biennale of Contemporary Art",
@@ -55,6 +63,14 @@
           "2005-01-28",
           "2005-02-28"
         ]
+      },
+      {
+        "i": "3485-2528-2005-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "3485-2528-2005-06-18",
+        "c": "FR"
       },
       {
         "i": "3485-6700-2005-12-17",
@@ -83,9 +99,57 @@
           "2005-12-17",
           "2006-01-22"
         ]
+      },
+      {
+        "i": "3485-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "3485-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "3485-1953-2006-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "3485-1953-2006-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "3485-26765-2006-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "3485-26765-2006-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "3485-2585-2006-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "3485-2585-2006-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "3485-1953-2006-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "3485-1953-2006-03-03",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "3485-9850-2007-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "3485-9850-2007-02-28",
+        "c": "FR"
+      },
       {
         "i": "3485-2662-2007-06-29",
         "c": "ES",
@@ -111,6 +175,22 @@
           "2007-07-07",
           "2007-07-21"
         ]
+      },
+      {
+        "i": "3485-7949-2007-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "3485-7949-2007-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "3485-1953-2007-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "3485-1953-2007-11-23",
+        "c": "FR"
       },
       {
         "i": "3485-14480-2007-12-13",
@@ -167,6 +247,22 @@
         ]
       },
       {
+        "i": "3485-13901-2008-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "3485-13901-2008-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "3485-21802-2008-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "3485-21802-2008-05-16",
+        "c": "FR"
+      },
+      {
         "i": "3485-10815-2008-10-31",
         "c": "RU",
         "n": "Ricard Foundation Prize",
@@ -178,6 +274,10 @@
           "2008-10-31",
           "2008-11-30"
         ]
+      },
+      {
+        "i": "3485-4184-2008-11-22",
+        "c": "FR"
       },
       {
         "i": "3485-15871-2008-05-23",
@@ -195,20 +295,29 @@
     ],
     "2009": [
       {
-        "i": "3485-2196-2009-12-04",
-        "c": "BE",
-        "n": "GAGARIN The Artists in their Own Words",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Ghent",
-        "o": "SMAK Stedelijk Museum voor Actuele Kunst",
-        "d": [
-          "2009-12-04",
-          "2010-03-14"
-        ]
-      }
-    ],
-    "2010": [
+        "i": "3485-4184-2008-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "3485-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "3485-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "3485-4184-2009-10-03",
+        "c": "FR"
+      },
+      {
+        "i": "3485-4184-2009-10-03",
+        "c": "FR"
+      },
+      {
+        "i": "3485-2219-2009-10-14",
+        "c": "FR"
+      },
       {
         "i": "3485-2196-2009-12-04",
         "c": "BE",
@@ -221,9 +330,68 @@
           "2009-12-04",
           "2010-03-14"
         ]
+      },
+      {
+        "i": "3485-1953-2009-04-22",
+        "c": "FR"
+      },
+      {
+        "i": "3485-1953-2009-04-22",
+        "c": "FR"
+      },
+      {
+        "i": "3485-8292-2009-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "3485-8292-2009-09-11",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "3485-2219-2009-10-14",
+        "c": "FR"
+      },
+      {
+        "i": "3485-2196-2009-12-04",
+        "c": "BE",
+        "n": "GAGARIN The Artists in their Own Words",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Ghent",
+        "o": "SMAK Stedelijk Museum voor Actuele Kunst",
+        "d": [
+          "2009-12-04",
+          "2010-03-14"
+        ]
+      },
+      {
+        "i": "3485-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "3485-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "3485-4184-2010-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "3485-4184-2010-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "3485-26731-2010-09-15",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "3485-26731-2010-09-15",
+        "c": "FR"
+      },
       {
         "i": "3485-30039-2011-01-30",
         "c": "US",
@@ -251,6 +419,10 @@
         ]
       },
       {
+        "i": "3485-8520-2011-12-02",
+        "c": "FR"
+      },
+      {
         "i": "3485-7516-2011-12-03",
         "c": "GB",
         "n": "Ha Ha Road",
@@ -266,6 +438,10 @@
     ],
     "2012": [
       {
+        "i": "3485-8520-2011-12-02",
+        "c": "FR"
+      },
+      {
         "i": "3485-7516-2011-12-03",
         "c": "GB",
         "n": "Ha Ha Road",
@@ -277,6 +453,34 @@
           "2011-12-03",
           "2012-03-11"
         ]
+      },
+      {
+        "i": "3485-11845-2012-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "3485-11845-2012-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "3485-19085-2012-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "3485-10227-2012-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "3485-10227-2012-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "3485-1953-2012-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "3485-1953-2012-04-14",
+        "c": "FR"
       },
       {
         "i": "3485-57-2012-09-08",
@@ -294,6 +498,26 @@
     ],
     "2013": [
       {
+        "i": "3485-19085-2012-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "3485-4184-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "3485-4184-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "3485-26235-2013-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "3485-26235-2013-03-30",
+        "c": "FR"
+      },
+      {
         "i": "3485-12978-2013-06-21",
         "c": "IE",
         "n": "The Black Moon",
@@ -305,6 +529,22 @@
           "2013-06-21",
           "2013-09-09"
         ]
+      },
+      {
+        "i": "3485-24269-2013-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "3485-24269-2013-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "3485-19606-2013-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "3485-19606-2013-10-19",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "251436",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:43:35",
+  "timestamp": "2014-05-24 07:42:35",
   "name": "Juliette Mogenet",
   "surname": "Mogenet",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "59744",
-  "r01": "63963",
-  "r02": "60332",
-  "r03": "55426",
-  "r04": null,
+  "r00": "50213",
+  "r01": "50643",
+  "r02": "55603",
+  "r03": "51824",
+  "r04": "47179",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -34,7 +34,7 @@
   "2005-shows-museums": "1",
   "2005-countries-total": "France (3), Switzerland (1)",
   "2005-shows-with": "Juliette Mogenet (4), Marie-Anna Delgado (2)",
-  "representing-galleries": null,
+  "representing-galleries": "Galerie de Roussan (10 rue Jouye-Rouve, 75020 Paris, France)",
   "collecting-museums": null,
   "first_name": "Juliette",
   "last_name": "Mogenet",
@@ -43,7 +43,35 @@
   "age": 33,
   "age_range": "26-40",
   "expos": {
+    "2010": [
+      {
+        "i": "251436-8282-2010-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "251436-8282-2010-03-09",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "251436-26257-2012-11-09",
+        "c": "FR"
+      },
+      {
+        "i": "251436-26257-2012-11-09",
+        "c": "FR"
+      }
+    ],
     "2013": [
+      {
+        "i": "251436-3508-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "251436-3508-2013-03-23",
+        "c": "FR"
+      },
       {
         "i": "251436-4344-2013-03-27",
         "c": "CH",

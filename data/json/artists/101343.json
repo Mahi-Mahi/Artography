@@ -1,7 +1,7 @@
 {
   "id": "101343",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:45:00",
+  "timestamp": "2014-05-24 06:51:26",
   "name": "Philippe Grandrieux",
   "surname": "Grandrieux",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Film",
-  "r00": "43996",
-  "r01": "52548",
-  "r02": "83681",
-  "r03": "75456",
-  "r04": "67408",
-  "r05": "59144",
-  "r06": "50775",
-  "r07": "43506",
-  "r08": "35931",
+  "r00": "28632",
+  "r01": "29432",
+  "r02": "52325",
+  "r03": null,
+  "r04": null,
+  "r05": null,
+  "r06": "85782",
+  "r07": "68765",
+  "r08": "55257",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
   "all-shows-total": "5",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (2), China (1), Russia (1)",
-  "2005-shows-with": "Philippe Grandrieux (4), Sylvain Baumann (2), Dominique Ghesquiere (2), Sarah Ritter (2)",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "China (1), France (1), Netherlands (1), Russia (1)",
+  "2005-shows-with": "Philippe Grandrieux (4)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Philippe",
@@ -56,6 +56,22 @@
           "2012-06-07",
           "2012-07-01"
         ]
+      },
+      {
+        "i": "101343-19953-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "101343-19953-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "101343-28767-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "101343-28767-2012-09-08",
+        "c": "FR"
       }
     ],
     "2013": [

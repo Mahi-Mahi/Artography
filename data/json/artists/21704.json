@@ -1,7 +1,7 @@
 {
   "id": "21704",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:12:11",
+  "timestamp": "2014-05-24 06:23:26",
   "name": "Didier Faustino",
   "surname": "Faustino",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Architecture, Performance",
-  "r00": "1743",
-  "r01": "1685",
-  "r02": "1850",
-  "r03": "1971",
-  "r04": "1992",
-  "r05": "2111",
-  "r06": "2151",
-  "r07": "2077",
-  "r08": "2024",
+  "r00": "1621",
+  "r01": "1714",
+  "r02": "1597",
+  "r03": "1742",
+  "r04": "1847",
+  "r05": "1830",
+  "r06": "1933",
+  "r07": "1950",
+  "r08": "1842",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "52",
+  "all-shows-total": "54",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "19",
-  "2005-countries-total": "France (7), USA (6), Portugal (5), Japan (3), Germany (2), Austria (1), China (1), Denmark (1), Italy (1), Netherlands (1), South Korea (1), Switzerland (1), Taiwan (1), United Kingdom (1)",
-  "2005-shows-with": "Didier Faustino (26), Superflex (6), John M Armleder (5), Marti Guixe (5), Philippe Ramette (5), Barbara Visser (5), Christopher Wool (5), Berdaguer & Péjus (4), Maurizio Cattelan (4), Sylvie Fleury (4), Claire Fontaine (4), Donald Judd (4), Scott King (4), Antonia Low (4), François Morellet (4), Bruce Nauman (4), Markus Sixay (4), Vito Acconci (3), Atelier van Lieshout (3), Ralph Ball (3), Walead Beshty (3), BLESS (3), Céleste Boursier-Mougenot (3), Cao Fei (3), Keren Cytter (3), Plamen Dejanov & Swetlana Heger (3), Sam Durant (3), Jimmie Durham (3), Fischli & Weiss (3), Peter Friedl (3), Yona Friedman (3), Dora García (3), General Idea (3), Piero Gilardi (3), Liam Gillick (3), Dominique Gonzalez-Foerster (3), Zaha Hadid (3), Jim Isermann (3), Vincent Lamouroux (3), Bertrand Lavier (3), Mark Leckey (3), Didier Marcel (3), Juan Muñoz (3), Maxine Naylor (3), Philippe Parreno (3), Gaetano Pesce (3), Tejo Remy (3), Gerhard Richter (3), Florian Slotawa (3), Javier Téllez (3), Rirkrit Tiravanija (3), Tatiana",
+  "2005-shows-museums": "22",
+  "2005-countries-total": "France (9), USA (8), Portugal (5), Japan (3), Germany (2), Austria (1), China (1), Denmark (1), Italy (1), Netherlands (1), South Korea (1), Switzerland (1), Taiwan (1), United Kingdom (1)",
+  "2005-shows-with": "Didier Faustino (30), Philippe Ramette (6), Superflex (6), John M Armleder (5), Marti Guixe (5), Barbara Visser (5), Christopher Wool (5), Vito Acconci (4), Berdaguer & Péjus (4), Maurizio Cattelan (4), Sylvie Fleury (4), Claire Fontaine (4), Dora García (4), Donald Judd (4), Scott King (4), Antonia Low (4), François Morellet (4), Bruce Nauman (4), Markus Sixay (4), Lawrence Weiner (4), Iván Argote (3), Atelier van Lieshout (3), Ralph Ball (3), Walead Beshty (3), BLESS (3), Céleste Boursier-Mougenot (3), Cao Fei (3), Keren Cytter (3), Plamen Dejanov & Swetlana Heger (3), Sam Durant (3), Jimmie Durham (3), Fischli & Weiss (3), Nicolas Floc\\'h (3), Peter Friedl (3), Yona Friedman (3), General Idea (3), Piero Gilardi (3), Liam Gillick (3), Dominique Gonzalez-Foerster (3), Zaha Hadid (3), Jim Isermann (3), Vincent Lamouroux (3), Bertrand Lavier (3), Mark Leckey (3), Didier Marcel (3), Juan Muñoz (3), Maxine Naylor (3), Philippe Parreno (3), Gaetano Pesce (3), Tejo Remy (3), Gerhard Richter (3), Florian Slot",
   "representing-galleries": "Galerie Gabrielle Maubrie (24, rue Sainte Croix de la Bretonnerie, 75004 Paris, France); Galerie Michel Rein (42 rue de Turenne, 75003 Paris, France); Galeria Quadrado Azul - Lisboa (Largo dos Stephens 4, 1200-457 Lisbon, Portugal); Galeria Filomena Soares (Rua da Manutenção 80, 1900-321 Lisbon, Portugal); Galeria Quadrado Azul - Porto (R. Miguel Bombarda 435, 4050-382 Porto, Portugal)",
   "collecting-museums": "FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); FRAC - Centre (12 rue de la Tour Neuve, 45000 Orleans, France); MACE - Museu de Arte Contemporânea de Elvas (Rua da Cadeia, 7350 Elvas, Portugal); Centro de Arte Moderna - CAM -  Fundação Calouste Gulbenkian (Rua Dr. Nicolau de Bettencourt, 1050-078 Lisbon, Portugal); Museu Serralves - Museu de Arte Contemporânea (R. D. João de Castro 210,  Porto, Portugal); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
   "first_name": "Didier",
@@ -44,6 +44,10 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "21704-2219-2005-06-15",
+        "c": "FR"
+      },
       {
         "i": "21704-17811-2005-06-30",
         "c": "PT",
@@ -70,6 +74,14 @@
         ]
       },
       {
+        "i": "21704-1613-2005-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "21704-1613-2005-05-28",
+        "c": "FR"
+      },
+      {
         "i": "21704-6419-2005-10-11",
         "c": "JP",
         "n": "Didier Fiuza Faustino - Salaryman’s Dream",
@@ -85,6 +97,10 @@
     ],
     "2006": [
       {
+        "i": "21704-2219-2005-06-15",
+        "c": "FR"
+      },
+      {
         "i": "21704-4966-2005-11-18",
         "c": "CN",
         "n": "The 2nd Guangzhou Triennial",
@@ -95,6 +111,14 @@
           "2005-11-18",
           "2006-01-15"
         ]
+      },
+      {
+        "i": "21704-1613-2006-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "21704-1613-2006-01-14",
+        "c": "FR"
       },
       {
         "i": "21704-2549-2006-10-27",
@@ -227,6 +251,14 @@
         ]
       },
       {
+        "i": "21704-10239-2009-04-04",
+        "c": "FR"
+      },
+      {
+        "i": "21704-10239-2009-04-04",
+        "c": "FR"
+      },
+      {
         "i": "21704-2340-2009-05-30",
         "c": "PT",
         "n": "Serralves 2009 - The Collection, 1st Part",
@@ -238,6 +270,18 @@
           "2009-05-30",
           "2009-11-09"
         ]
+      },
+      {
+        "i": "21704-18811-2009-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "21704-2709-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "21704-2709-2009-10-16",
+        "c": "FR"
       },
       {
         "i": "21704-7264-2009-11-01",
@@ -267,6 +311,10 @@
     ],
     "2010": [
       {
+        "i": "21704-18811-2009-09-18",
+        "c": "FR"
+      },
+      {
         "i": "21704-9046-2010-02-05",
         "c": "US",
         "n": "Spatial city: the architecture of idealism",
@@ -291,6 +339,14 @@
           "2010-02-24",
           "2010-05-24"
         ]
+      },
+      {
+        "i": "21704-1917-2010-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "21704-1917-2010-06-12",
+        "c": "FR"
       },
       {
         "i": "21704-22662-2010-07-16",
@@ -422,6 +478,14 @@
           "2011-01-13",
           "2011-04-03"
         ]
+      },
+      {
+        "i": "21704-21097-2011-10-21",
+        "c": "FR"
+      },
+      {
+        "i": "21704-21097-2011-10-21",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -463,6 +527,14 @@
           "2012-03-09",
           "2012-07-01"
         ]
+      },
+      {
+        "i": "21704-21098-2012-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "21704-21098-2012-05-13",
+        "c": "FR"
       },
       {
         "i": "21704-2338-2012-06-01",
@@ -543,6 +615,10 @@
           "2013-09-06",
           "2014-01-12"
         ]
+      },
+      {
+        "i": "21704-8522-2013-11-16",
+        "c": "FR"
       }
     ],
     "2014": [
@@ -558,6 +634,10 @@
           "2013-09-06",
           "2014-01-12"
         ]
+      },
+      {
+        "i": "21704-8522-2013-11-16",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "157889",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:07:45",
+  "timestamp": "2014-05-24 07:10:29",
   "name": "Alexandre Gérard",
   "surname": "Gérard",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "44179",
-  "r01": "51275",
-  "r02": "49347",
-  "r03": "45015",
-  "r04": "73969",
-  "r05": "80244",
-  "r06": "72381",
-  "r07": "80688",
-  "r08": null,
+  "r00": "32222",
+  "r01": "31964",
+  "r02": "36372",
+  "r03": "33727",
+  "r04": "29824",
+  "r05": "61008",
+  "r06": "67041",
+  "r07": "59169",
+  "r08": "81030",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "8",
+  "all-shows-total": "9",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (5), Germany (1)",
-  "2005-shows-with": "Alexandre Gérard (5), Stéphane Bérard (2), Berdaguer & Péjus (2), Jean Dupuy (2), Yannick Papailhau (2)",
+  "2005-countries-total": "France (5), Germany (1), Italy (1)",
+  "2005-shows-with": "Alexandre Gérard (6), Stéphane Bérard (2), Berdaguer & Péjus (2), Anthony Duchêne (2), Jean Dupuy (2), Yannick Papailhau (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Alexandre",
@@ -43,6 +43,54 @@
   "age": 39,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "157889-16340-2006-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "157889-16340-2006-06-02",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "157889-10501-2007-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "157889-10501-2007-09-17",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "157889-21213-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "157889-21213-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "157889-13699-2009-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "157889-13699-2009-04-06",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "157889-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "157889-2585-2010-02-05",
+        "c": "FR"
+      }
+    ],
     "2012": [
       {
         "i": "157889-16699-2012-10-28",
@@ -56,6 +104,24 @@
           "2012-10-28",
           "2012-12-02"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "157889-4651-2013-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "157889-4651-2013-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "157889-28736-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "157889-28736-2013-04-13",
+        "c": "FR"
       }
     ]
   }

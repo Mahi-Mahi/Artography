@@ -1,7 +1,7 @@
 {
   "id": "17085",
   "mergedIDs": "395539",
-  "timestamp": "2014-02-22 06:10:14",
+  "timestamp": "2014-05-24 06:21:44",
   "name": "Taroop & Glabel",
   "surname": "Taroop & Glabel",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Artist group",
   "media": null,
-  "r00": "5048",
-  "r01": "5032",
-  "r02": "5103",
-  "r03": "5142",
-  "r04": "4716",
-  "r05": "4731",
-  "r06": "5254",
-  "r07": "7279",
-  "r08": "7526",
+  "r00": "4396",
+  "r01": "4246",
+  "r02": "4280",
+  "r03": "4172",
+  "r04": "4069",
+  "r05": "3451",
+  "r06": "3268",
+  "r07": "4243",
+  "r08": "5635",
   "awards": null,
   "website": null,
   "all-shows-first": "1993",
-  "all-shows-total": "45",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
-  "2005-shows-museums": "15",
-  "2005-countries-total": "France (22), Switzerland (1)",
-  "2005-shows-with": "Taroop & Glabel (18), Arnaud Labelle-Rojoux (6), Ernest T. (5), Wim Delvoye (4), Michel Blazy (3), Marcel Broodthaers (3), Claude Closky (3), Joël Hubaut (3), Orlan (3), Bruno Peinado (3), Présence Panchounette (3), Julien Prévieux (3), Yann Sérandour (3), Jim Shaw (3), Andy Warhol (3), John Baldessari (2), Eric Baudelaire (2), Olivier Blanckart (2), Anna & Bernhard Blume (2), Christian Boltanski (2), George Brecht (2), Daniel Buren (2), Sophie Calle (2), Philippe Cazal (2), Pascal le Coq (2), Guillaume Dégé (2), Jeremy Deller (2), Peter Downsbrough (2), Jean Dupuy (2), Hans-Peter Feldmann (2), Robert Filliou (2), Sylvie Fleury (2), Gloria Friedmann (2), Jochen Gerner (2), Thomas Hirschhorn (2), Thomas Huber (2), Carsten Höller (2), Michel Journiac (2), Allan Kaprow (2), Matthieu Laurette (2), Bertrand Lavier (2), Urs Lüthi (2), George Maciunas (2), Kris Martin (2), Philippe Mayaux (2), Mario Merz (2), Annette Messager (2), Jonathan Monk (2), Jean-Luc Moulène (2), Vik Muniz (2), Gabriel Orozco (2), J",
+  "all-shows-total": "49",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "17",
+  "2005-countries-total": "France (25), Switzerland (1)",
+  "2005-shows-with": "Taroop & Glabel (21), Arnaud Labelle-Rojoux (6), Ernest T. (6), Wim Delvoye (5), Michel Blazy (4), Claude Closky (4), Jim Shaw (4), Marcel Broodthaers (3), Guillaume Dégé (3), Jeremy Deller (3), Hans-Peter Feldmann (3), Sylvie Fleury (3), Joël Hubaut (3), Laurent Le Deunff (3), Philippe Mayaux (3), Annette Messager (3), Orlan (3), Philippe Parreno (3), Bruno Peinado (3), Présence Panchounette (3), Julien Prévieux (3), Richard Prince (3), Alain Séchas (3), Yann Sérandour (3), Andy Warhol (3), John M Armleder (2), Art & Language (2), John Baldessari (2), Eric Baudelaire (2), Stéphane Bérard (2), Guillaume Bijl (2), Olivier Blanckart (2), Anna & Bernhard Blume (2), Christian Boltanski (2), George Brecht (2), Olaf Breuning (2), Daniel Buren (2), Patrick van Caeckenbergh (2), Sophie Calle (2), Valentin Carron (2), Maurizio Cattelan (2), Philippe Cazal (2), Jacques Charlier (2), Pascal le Coq (2), Damien Deroubaix (2), Dewar & Gicquel (2), Peter Downsbrough (2), Jean Dupuy (2), Robert Filliou (2), Claire F",
   "representing-galleries": "Galerie Sémiose (3 rue de Montiboeufs, 75020 Paris, France)",
   "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France)",
   "first_name": "Taroop",
@@ -43,7 +43,211 @@
   "age": 21,
   "age_range": "0-25",
   "expos": {
+    "2005": [
+      {
+        "i": "17085-10517-2005-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "17085-10517-2005-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "17085-2028-2005-10-14",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "17085-2028-2005-10-14",
+        "c": "FR"
+      },
+      {
+        "i": "17085-8128-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "17085-8128-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "17085-4218-2006-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "17085-4218-2006-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "17085-4194-2006-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "17085-4194-2006-01-14",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "17085-4218-2007-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "17085-4218-2007-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "17085-2028-2007-01-06",
+        "c": "FR"
+      },
+      {
+        "i": "17085-2028-2007-01-06",
+        "c": "FR"
+      },
+      {
+        "i": "17085-2028-2007-04-26",
+        "c": "FR"
+      },
+      {
+        "i": "17085-2028-2007-04-26",
+        "c": "FR"
+      },
+      {
+        "i": "17085-10517-2007-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "17085-2028-2007-12-08",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "17085-11587-2008-02-27",
+        "c": "FR"
+      },
+      {
+        "i": "17085-11587-2008-02-27",
+        "c": "FR"
+      },
+      {
+        "i": "17085-7390-2008-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "17085-7390-2008-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "17085-17765-2008-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "17085-17765-2008-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "17085-10517-2007-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "17085-2028-2007-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "17085-2028-2008-02-27",
+        "c": "FR"
+      },
+      {
+        "i": "17085-2028-2008-02-27",
+        "c": "FR"
+      },
+      {
+        "i": "17085-7816-2008-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "17085-7816-2008-06-13",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "17085-27842-2009-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "17085-27842-2009-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "17085-8996-2009-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "17085-7491-2009-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "17085-7816-2009-09-04",
+        "c": "FR"
+      },
+      {
+        "i": "17085-7816-2009-09-04",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "17085-8996-2009-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "17085-7491-2009-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "17085-27842-2010-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "17085-27842-2010-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "17085-8996-2010-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "17085-8996-2010-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "17085-25336-2010-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "17085-25336-2010-04-09",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "17085-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "17085-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "17085-10517-2011-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "17085-10517-2011-02-15",
+        "c": "FR"
+      },
       {
         "i": "17085-8291-2011-10-08",
         "c": "CH",
@@ -56,6 +260,10 @@
           "2011-10-08",
           "2012-01-15"
         ]
+      },
+      {
+        "i": "17085-10221-2011-11-12",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -71,6 +279,70 @@
           "2011-10-08",
           "2012-01-15"
         ]
+      },
+      {
+        "i": "17085-10221-2011-11-12",
+        "c": "FR"
+      },
+      {
+        "i": "17085-10517-2012-01-09",
+        "c": "FR"
+      },
+      {
+        "i": "17085-10517-2012-01-09",
+        "c": "FR"
+      },
+      {
+        "i": "17085-8568-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "17085-7816-2012-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "17085-7816-2012-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "17085-7816-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "17085-7816-2012-05-12",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "17085-8568-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "17085-16752-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "17085-16752-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "17085-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "17085-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "17085-2585-2013-11-24",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "17085-2585-2013-11-24",
+        "c": "FR"
       }
     ]
   }

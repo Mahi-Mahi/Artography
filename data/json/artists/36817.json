@@ -1,7 +1,7 @@
 {
   "id": "36817",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:18:51",
+  "timestamp": "2014-05-24 06:28:56",
   "name": "Pablo Pijnappel",
   "surname": "Pijnappel",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video, Film",
-  "r00": "2834",
-  "r01": "2603",
-  "r02": "3241",
-  "r03": "3253",
-  "r04": "2831",
-  "r05": "2439",
-  "r06": "2772",
-  "r07": "4556",
-  "r08": "10527",
+  "r00": "2676",
+  "r01": "2594",
+  "r02": "2198",
+  "r03": "2925",
+  "r04": "2829",
+  "r05": "2346",
+  "r06": "1952",
+  "r07": "2180",
+  "r08": "3807",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "49",
+  "all-shows-total": "51",
   "2005-shows-biennials": "14",
   "2005-shows-galleries": "14",
   "2005-shows-museums": "7",
-  "2005-countries-total": "USA (8), Germany (6), Netherlands (4), Belgium (2), Italy (2), Brazil (1), Denmark (1), France (1), Portugal (1), Sweden (1), United Kingdom (1)",
-  "2005-shows-with": "Pablo Pijnappel (16), Athanasios Argianas (3), Benoît Maire (3), Michaël Aerts (2), Sonia Almeida (2), Vasco Aráujo (2), Micol Assaël (2), Pedro Barateiro (2), Matteo Bergamasco (2), David Bestué (2), Gerson Bettencourt Ferreira (2), Michael Beutler (2), Primoz Bizjak (2), Lyn Blumenthal (2), Natalie Bookchin (2), Mark Boulos (2), Ulla von Brandenburg (2), Benoit Broisat (2), Alejandro Cesarco (2), Etienne Chambaud (2), Vaast Colson (2), Björn Dahlem (2), Jan De Cock (2), Amie Dicke (2), Iris van Dongen (2), Juan Downey (2), Aleana Egan (2), Christian Eisenberger (2), Haris Epaminonda (2), Petra Feriancova (2), Andreas Fogarasi (2), Cyprien Gaillard (2), Regina José Galindo (2), Anna Galtarossa (2), John Gerrard (2), Pieterjan Ginckels (2), Loris Gréaud (2), Katie Holten (2), Adrià  Julià (2), Leopold Kessler (2), Kitty Kraus (2), Marijn van Kreij (2), Ferdinand Kriwet (2), Miki Leal (2), Liisa Lounila (2), Constantin Luser (2), Mark Mangion (2), Antoni Muntadas (2), João Onofre (2), Jürgen Ots (2",
-  "representing-galleries": "Galerie Juliètte Jongma (Gerard Douplein 23, 1073 XE Amsterdam, Netherlands); Ambach & Rice (5107 Ballard Ave. N.W., 98107 Seattle, WA, USA)",
+  "2005-countries-total": "USA (8), Germany (6), Netherlands (5), Belgium (3), Italy (2), Brazil (1), Denmark (1), France (1), Portugal (1), Sweden (1), United Kingdom (1)",
+  "2005-shows-with": "Pablo Pijnappel (18), Athanasios Argianas (3), Alejandro Cesarco (3), Benoît Maire (3), Michaël Aerts (2), Sonia Almeida (2), Vasco Aráujo (2), Micol Assaël (2), Pedro Barateiro (2), Matteo Bergamasco (2), David Bestué (2), Gerson Bettencourt Ferreira (2), Michael Beutler (2), Primoz Bizjak (2), Lyn Blumenthal (2), Natalie Bookchin (2), Mark Boulos (2), Ulla von Brandenburg (2), Benoit Broisat (2), Etienne Chambaud (2), Vaast Colson (2), Björn Dahlem (2), Jan De Cock (2), Amie Dicke (2), Iris van Dongen (2), Juan Downey (2), Aleana Egan (2), Christian Eisenberger (2), Haris Epaminonda (2), Petra Feriancova (2), Andreas Fogarasi (2), Cyprien Gaillard (2), Regina José Galindo (2), Anna Galtarossa (2), John Gerrard (2), Pieterjan Ginckels (2), Loris Gréaud (2), Katie Holten (2), Adrià  Julià (2), Leopold Kessler (2), Kitty Kraus (2), Marijn van Kreij (2), Ferdinand Kriwet (2), Miki Leal (2), Liisa Lounila (2), Constantin Luser (2), Mark Mangion (2), Antoni Muntadas (2), João Onofre (2), Jürgen Ots (2",
+  "representing-galleries": "Galerie Juliètte Jongma (Gerard Douplein 23, 1073 XE Amsterdam, Netherlands); Ambach & Rice (6148 Wilshire Blvd, 90048 Los Angeles, CA, USA)",
   "collecting-museums": "De Hallen (Grote Markt 16, 2011 RD Haarlem, Netherlands); CGAC - Centro Galego de Arte Contemporánea (Valle Inclán s/n, 15704 Santiago de Compostela, Spain)",
   "first_name": "Pablo",
   "last_name": "Pijnappel",
@@ -190,6 +190,14 @@
         ]
       },
       {
+        "i": "36817-8678-2007-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "36817-8678-2007-06-18",
+        "c": "FR"
+      },
+      {
         "i": "36817-4986-2007-09-22",
         "c": "DE",
         "n": "2. Fotofestival Mannheim-Ludwigshafen-Heidelberg",
@@ -320,6 +328,14 @@
           "2008-12-09",
           "2009-03-01"
         ]
+      },
+      {
+        "i": "36817-10811-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "36817-10811-2008-04-11",
+        "c": "FR"
       },
       {
         "i": "36817-2087-2008-06-14",

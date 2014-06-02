@@ -1,7 +1,7 @@
 {
   "id": "231501",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:36:01",
+  "timestamp": "2014-05-24 07:35:46",
   "name": "Flavien Théry",
   "surname": "Théry",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "35626",
-  "r01": "33484",
-  "r02": "31814",
-  "r03": "56101",
-  "r04": "75401",
-  "r05": null,
+  "r00": "30613",
+  "r01": "30644",
+  "r02": "27588",
+  "r03": "25818",
+  "r04": "48794",
+  "r05": "69024",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -29,11 +29,11 @@
   "website": null,
   "all-shows-first": "2009",
   "all-shows-total": "5",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (3), Germany (1), Luxembourg (1)",
-  "2005-shows-with": "Flavien Théry (5), Benoit-Marie Moriceau (2)",
+  "2005-countries-total": "France (3), Germany (2), Luxembourg (1)",
+  "2005-shows-with": "Flavien Théry (6), Benoit-Marie Moriceau (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Flavien",
@@ -43,7 +43,35 @@
   "age": 41,
   "age_range": "41-60",
   "expos": {
+    "2009": [
+      {
+        "i": "231501-8542-2009-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "231501-8542-2009-10-23",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "231501-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "231501-21802-2010-04-30",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "231501-27891-2011-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "231501-27891-2011-01-22",
+        "c": "FR"
+      },
       {
         "i": "231501-3737-2011-01-29",
         "c": "LU",

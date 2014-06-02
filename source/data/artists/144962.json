@@ -1,7 +1,7 @@
 {
   "id": "144962",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:02:22",
+  "timestamp": "2014-05-24 07:06:02",
   "name": "Damien Berthier",
   "surname": "Berthier",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "39111",
-  "r01": "36496",
-  "r02": "35760",
-  "r03": "33703",
-  "r04": "31161",
-  "r05": "30158",
-  "r06": "33401",
-  "r07": "78939",
-  "r08": null,
+  "r00": "36342",
+  "r01": "34203",
+  "r02": "29535",
+  "r03": "28011",
+  "r04": "26130",
+  "r05": "23369",
+  "r06": "23323",
+  "r07": "26452",
+  "r08": "78971",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "12",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
+  "all-shows-total": "13",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (9)",
-  "2005-shows-with": "Damien Berthier (7), Thierry Lagalla (5), Han Hoogerbrugge (4), Karine Rougier (4), Stephane Steiner (4), Caroline Bach (3), Michel de Broin (3), Claire Dantzer (2), Arnaud Labelle-Rojoux (2), Florent Mattei (2), Stéphane Protic (2), Lionel Scoccimaro (2)",
-  "representing-galleries": "Vidéochroniques (1 place de Lorette, 13002 Marseille, France); Espace A Vendre (17 rue Smolett, 06300 Nice, France); Le CABINET (62, Rue Saint Sabin, 75011 Paris, France)",
+  "2005-countries-total": "France (10)",
+  "2005-shows-with": "Damien Berthier (8), Thierry Lagalla (6), Stephane Steiner (6), Han Hoogerbrugge (5), Karine Rougier (5), Caroline Bach (4), Michel de Broin (4), Arnaud Labelle-Rojoux (4), Claire Dantzer (3), Florent Mattei (3), Stéphane Protic (3), Emmanuel Régent (3), Lionel Scoccimaro (3), Thierry Agnone (2), Julien Blaine (2), Frédéric Clavère (2), Sylvie Réno (2), Jerôme Robbe (2), Sabry Tchalgadjieff (2)",
+  "representing-galleries": "Vidéochroniques (1 place de Lorette, 13002 Marseille, France); Espace A Vendre (17 rue Smolett, 06300 Nice, France); Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France)",
   "collecting-museums": null,
   "first_name": "Damien",
   "last_name": "Berthier",
@@ -43,5 +43,115 @@
   "age": 34,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "144962-16752-2006-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "144962-16752-2006-02-04",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "144962-16752-2007-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "144962-16752-2007-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "144962-741-2007-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "144962-741-2007-04-27",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "144962-16752-2008-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "144962-16752-2008-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "144962-19953-2008-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "144962-19953-2008-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "144962-16752-2008-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "144962-16752-2008-06-13",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "144962-19953-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "144962-19953-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "144962-16752-2010-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "144962-16752-2010-11-27",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "144962-27825-2011-12-16",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "144962-27825-2011-12-16",
+        "c": "FR"
+      },
+      {
+        "i": "144962-19953-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "144962-19953-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "144962-10870-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "144962-10870-2012-07-07",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "144962-19953-2009-07-17",
+        "c": "FR"
+      },
+      {
+        "i": "144962-19953-2009-07-17",
+        "c": "FR"
+      }
+    ]
   }
 }

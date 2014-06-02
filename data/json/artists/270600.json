@@ -1,7 +1,7 @@
 {
   "id": "270600",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:51:07",
+  "timestamp": "2014-05-24 07:49:09",
   "name": "Giuliana Zefferi",
   "surname": "Zefferi",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "17868",
-  "r01": "30953",
-  "r02": "28305",
-  "r03": "25779",
-  "r04": null,
+  "r00": "12885",
+  "r01": "12993",
+  "r02": "23637",
+  "r03": "20757",
+  "r04": "18533",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,12 +28,12 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "5",
+  "all-shows-total": "6",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (4), Finland (1)",
-  "2005-shows-with": "Giuliana Zefferi (4)",
+  "2005-countries-total": "France (5), Finland (1)",
+  "2005-shows-with": "Giuliana Zefferi (5)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Giuliana",
@@ -56,6 +56,44 @@
           "2010-10-22",
           "2010-11-07"
         ]
+      },
+      {
+        "i": "270600-1782-2010-07-12",
+        "c": "FR"
+      },
+      {
+        "i": "270600-1782-2010-07-12",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "270600-20132-2011-10-29",
+        "c": "FR"
+      },
+      {
+        "i": "270600-20132-2011-10-29",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "270600-1782-2013-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "270600-1782-2013-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "270600-2585-2013-11-24",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "270600-2585-2013-11-24",
+        "c": "FR"
       }
     ]
   }

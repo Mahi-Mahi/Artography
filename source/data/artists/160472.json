@@ -1,7 +1,7 @@
 {
   "id": "160472",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:08:49",
+  "timestamp": "2014-05-24 07:11:24",
   "name": "Antoine Dorotte",
   "surname": "Dorotte",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "25797",
-  "r01": "30202",
-  "r02": "33059",
-  "r03": "37051",
-  "r04": "72989",
-  "r05": "77583",
-  "r06": "84316",
-  "r07": null,
+  "r00": "15518",
+  "r01": "19426",
+  "r02": "22339",
+  "r03": "25612",
+  "r04": "29435",
+  "r05": "66236",
+  "r06": "72953",
+  "r07": "83332",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "16",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (13)",
-  "2005-shows-with": "Antoine Dorotte (7), Samir Mougas (5), Benoit-Marie Moriceau (4), Angélique Lecaille (3), Briac Lepretre (3), Bevis Martin & Charlie Youle (3), Armand Morin (3), Julien Nédélec (3), Blaise Parmentier (3), Ernesto Sartori (3), Yann Sérandour (3), Mélanie Vincent (3), Camille Henrot (2), Pierre Labat (2), Sébastien Vonier (2)",
+  "all-shows-total": "18",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (16)",
+  "2005-shows-with": "Antoine Dorotte (10), Benoit-Marie Moriceau (5), Samir Mougas (5), Angélique Lecaille (3), Briac Lepretre (3), Bevis Martin & Charlie Youle (3), Armand Morin (3), Julien Nédélec (3), Blaise Parmentier (3), Ernesto Sartori (3), Yann Sérandour (3), Mélanie Vincent (3), Sébastien Vonier (3), Virginie Barré (2), Céline Duval (2), Camille Henrot (2), Pierre Labat (2), Benoît Maire (2), Tony Regazzoni (2)",
   "representing-galleries": "galerieACDC (1, rue des étables, 33800 Bordeaux, France)",
   "collecting-museums": null,
   "first_name": "Antoine",
@@ -43,5 +43,139 @@
   "age": 38,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "160472-10990-2007-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "160472-10990-2007-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "160472-19673-2007-12-08",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "160472-19673-2007-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "160472-10990-2008-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "160472-10990-2008-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "160472-10990-2008-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "160472-10990-2008-01-26",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "160472-10990-2009-03-05",
+        "c": "FR"
+      },
+      {
+        "i": "160472-10990-2009-03-05",
+        "c": "FR"
+      },
+      {
+        "i": "160472-10990-2009-05-21",
+        "c": "FR"
+      },
+      {
+        "i": "160472-10990-2009-05-21",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "160472-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "160472-1782-2010-06-11",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "160472-20542-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "160472-20542-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "160472-19673-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "160472-19673-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "160472-20542-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "160472-20542-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "160472-10990-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "160472-10990-2011-03-15",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "160472-19606-2013-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "160472-19606-2013-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "160472-19085-2013-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "160472-19085-2013-02-14",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "160472-10990-2012-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "160472-10990-2012-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "160472-20542-2012-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "160472-20542-2012-02-04",
+        "c": "FR"
+      }
+    ]
   }
 }

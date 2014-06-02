@@ -1,7 +1,7 @@
 {
   "id": "230000",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:35:26",
+  "timestamp": "2014-05-24 07:35:16",
   "name": "Nicolas Dusollier",
   "surname": "Dusollier",
   "nationality": "FR",
@@ -16,21 +16,21 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "40936",
-  "r01": "38219",
-  "r02": "34643",
-  "r03": "31331",
-  "r04": "35091",
-  "r05": "36362",
-  "r06": "31216",
-  "r07": "85070",
-  "r08": "74755",
+  "r00": "40830",
+  "r01": "38601",
+  "r02": "33465",
+  "r03": "28890",
+  "r04": "25049",
+  "r05": "27771",
+  "r06": "30787",
+  "r07": "25841",
+  "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "13",
-  "2005-shows-biennials": "6",
-  "2005-shows-galleries": "6",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
   "2005-shows-museums": null,
   "2005-countries-total": "Germany (8), France (1), Norway (1)",
   "2005-shows-with": "Nicolas Dusollier (8), Cyril Aboucaya (2), AIDS-3D (2), Caitlin Berrigan (2), Paolo Chiasera (2), Thomas Eller (2), Susanne Gerber (2), Daisy Ginsberg (2), Elín Hansdóttir (2), Valérie Kolakis (2), Markus Miessen (2), Ralf Pflugfelder (2), Sascha Pohflepp (2), Patricia Reed (2)",
@@ -43,48 +43,35 @@
   "age": 36,
   "age_range": "26-40",
   "expos": {
-    "2009": [
+    "2007": [
       {
-        "i": "230000-17121-2009-02-07",
-        "c": "DE",
-        "n": "PODROSTOK",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Sox",
-        "d": [
-          "2009-02-07",
-          "2009-03-22"
-        ]
+        "i": "230000-19804-2007-02-09",
+        "c": "FR"
       },
       {
-        "i": "230000-22137-2009-12-17",
-        "c": "DE",
-        "n": "Une valise à Berlin",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Institut Français de Berlin ",
-        "d": [
-          "2009-12-17",
-          "2010-01-25"
-        ]
+        "i": "230000-19804-2007-02-09",
+        "c": "FR"
       },
       {
-        "i": "230000-23471-2009-11-22",
-        "c": "DE",
-        "n": "Hyperworld",
-        "t": "Autre",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "Stattbad Wedding",
-        "d": [
-          "2009-11-22",
-          "2009-12-18"
-        ]
+        "i": "230000-11845-2007-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "230000-11845-2007-10-13",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "230000-19804-2008-09-18",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "230000-19804-2008-09-18",
+        "c": "FR"
+      },
       {
         "i": "230000-22137-2009-12-17",
         "c": "DE",
@@ -174,6 +161,47 @@
         "d": [
           "2010-06-12",
           "2010-06-27"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "230000-17121-2009-02-07",
+        "c": "DE",
+        "n": "PODROSTOK",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Sox",
+        "d": [
+          "2009-02-07",
+          "2009-03-22"
+        ]
+      },
+      {
+        "i": "230000-22137-2009-12-17",
+        "c": "DE",
+        "n": "Une valise à Berlin",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Institut Français de Berlin ",
+        "d": [
+          "2009-12-17",
+          "2010-01-25"
+        ]
+      },
+      {
+        "i": "230000-23471-2009-11-22",
+        "c": "DE",
+        "n": "Hyperworld",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "Stattbad Wedding",
+        "d": [
+          "2009-11-22",
+          "2009-12-18"
         ]
       }
     ],

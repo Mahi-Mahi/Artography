@@ -1,7 +1,7 @@
 {
   "id": "81681",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:37:14",
+  "timestamp": "2014-05-24 06:44:51",
   "name": "Antonio Gallego",
   "surname": "Gallego",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "35544",
-  "r01": "31968",
-  "r02": "28204",
-  "r03": "24734",
-  "r04": "21490",
-  "r05": "18225",
-  "r06": "15326",
-  "r07": "12612",
-  "r08": "15984",
+  "r00": "56863",
+  "r01": "51006",
+  "r02": "57587",
+  "r03": "43291",
+  "r04": "32862",
+  "r05": "25612",
+  "r06": "20118",
+  "r07": "15699",
+  "r08": "12305",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "6",
+  "all-shows-total": "7",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": null,
-  "2005-countries-total": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (1)",
   "2005-shows-with": null,
   "representing-galleries": "Galerie Beatrice Binoche (1, rue charles gounod, 97400  Saint Denis, Reunion)",
   "collecting-museums": null,
@@ -43,7 +43,25 @@
   "age": 58,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "81681-26765-2006-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "81681-26765-2006-05-10",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "81681-12083-2007-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "81681-12083-2007-05-10",
+        "c": "FR"
+      },
       {
         "i": "81681-18022-2007-08-31",
         "c": "RE",

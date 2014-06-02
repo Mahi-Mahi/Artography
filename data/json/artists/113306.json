@@ -1,7 +1,7 @@
 {
   "id": "113306",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:49:50",
+  "timestamp": "2014-05-24 06:55:29",
   "name": "Jocelyn Cottencin",
   "surname": "Cottencin",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "41558",
-  "r01": "38848",
-  "r02": "47982",
-  "r03": "44876",
-  "r04": "56015",
-  "r05": "50317",
-  "r06": "43908",
-  "r07": null,
+  "r00": "33456",
+  "r01": "33066",
+  "r02": "33834",
+  "r03": "44059",
+  "r04": "40268",
+  "r05": "52058",
+  "r06": "45667",
+  "r07": "39211",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "10",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (6), Belgium (1), Croatia (1)",
-  "2005-shows-with": "Jocelyn Cottencin (8), Pierre Bismuth (2), Florence Doléac (2), Reynald Drouhin (2), Mario Garcia Torres (2), Claude Lévêque (2), Julie Morel (2), Julien Prévieux (2)",
+  "all-shows-total": "13",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (9), Belgium (1), Croatia (1)",
+  "2005-shows-with": "Jocelyn Cottencin (10), Laurent Duthion (3), Berdaguer & Péjus (2), Pierre Bismuth (2), Elie Cristiani (2), Marcel Dinahet (2), Florence Doléac (2), Reynald Drouhin (2), Christelle Familiari (2), Mario Garcia Torres (2), Natacha Lesueur (2), Claude Lévêque (2), Julie Morel (2), Benoit-Marie Moriceau (2), Bruno Peinado (2), Julien Prévieux (2), Alain Séchas (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Jocelyn",
@@ -43,6 +43,24 @@
   "age": 47,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "113306-10584-2007-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "113306-10584-2007-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "113306-8542-2007-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "113306-8542-2007-01-26",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "113306-16570-2009-05-21",
@@ -71,6 +89,32 @@
           "2009-05-21",
           "2010-05-31"
         ]
+      },
+      {
+        "i": "113306-23295-2010-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "113306-23295-2010-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "113306-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "113306-21802-2010-04-30",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "113306-16095-2011-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "113306-16095-2011-04-01",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -86,6 +130,32 @@
           "2012-04-24",
           "2012-06-17"
         ]
+      },
+      {
+        "i": "113306-22493-2012-04-25",
+        "c": "FR"
+      },
+      {
+        "i": "113306-22493-2012-04-25",
+        "c": "FR"
+      },
+      {
+        "i": "113306-22493-2012-11-21",
+        "c": "FR"
+      },
+      {
+        "i": "113306-16095-2012-11-23",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "113306-22493-2012-11-21",
+        "c": "FR"
+      },
+      {
+        "i": "113306-16095-2012-11-23",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "172274",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:13:25",
+  "timestamp": "2014-05-24 07:15:29",
   "name": "Emilie Satre",
   "surname": "Satre",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "49587",
-  "r01": "54565",
-  "r02": "49859",
-  "r03": "45188",
-  "r04": "49078",
-  "r05": "62768",
-  "r06": "59314",
-  "r07": "56221",
-  "r08": "48105",
+  "r00": "49546",
+  "r01": "49330",
+  "r02": "55488",
+  "r03": "48345",
+  "r04": "42198",
+  "r05": "46386",
+  "r06": "62517",
+  "r07": "58186",
+  "r08": "57970",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
   "all-shows-total": "9",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "4",
+  "2005-shows-museums": "3",
   "2005-countries-total": "France (5), Switzerland (2)",
-  "2005-shows-with": "Emilie Satre (5), Damien Guggenheim (2), Paula Mueller (2), Christian Vetter (2), Eric Winarto (2)",
+  "2005-shows-with": "Emilie Satre (5), Damien Guggenheim (2), Christian Vetter (2), Eric Winarto (2)",
   "representing-galleries": "Galerie Jerome Ladiray (96 rue Jeanne d\\'Arc, 76000 Rouen, France)",
   "collecting-museums": null,
   "first_name": "Emilie",
@@ -71,9 +71,31 @@
           "2007-12-15",
           "2008-01-27"
         ]
+      },
+      {
+        "i": "172274-17873-2008-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "172274-17873-2008-05-17",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "172274-10519-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "172274-10519-2009-10-17",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "172274-25308-2010-09-17",
+        "c": "FR"
+      },
       {
         "i": "172274-20784-2010-12-10",
         "c": "CH",
@@ -86,6 +108,20 @@
           "2010-12-10",
           "2010-12-30"
         ]
+      },
+      {
+        "i": "172274-17873-2010-05-01",
+        "c": "FR"
+      },
+      {
+        "i": "172274-17873-2010-05-01",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "172274-25308-2010-09-17",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -101,6 +137,14 @@
           "2013-01-17",
           "2013-01-03"
         ]
+      },
+      {
+        "i": "172274-8555-2013-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "172274-8555-2013-09-28",
+        "c": "FR"
       }
     ]
   }

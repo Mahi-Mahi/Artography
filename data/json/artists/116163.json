@@ -1,7 +1,7 @@
 {
   "id": "116163",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:50:53",
+  "timestamp": "2014-05-24 06:56:28",
   "name": "Mark Geffriaud",
   "surname": "Geffriaud",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "3245",
-  "r01": "3381",
-  "r02": "3955",
-  "r03": "4812",
-  "r04": "8901",
-  "r05": "19950",
-  "r06": "34537",
-  "r07": "54060",
-  "r08": "66156",
+  "r00": "2148",
+  "r01": "2311",
+  "r02": "2337",
+  "r03": "2873",
+  "r04": "3534",
+  "r05": "6752",
+  "r06": "15892",
+  "r07": "28167",
+  "r08": "44093",
   "awards": null,
   "website": null,
-  "all-shows-first": "2005",
-  "all-shows-total": "56",
-  "2005-shows-biennials": "18",
-  "2005-shows-galleries": "18",
-  "2005-shows-museums": "25",
-  "2005-countries-total": "France (33), Italy (2), Lithuania (2), Netherlands (2), United Kingdom (2), USA (2), Austria (1), Belgium (1), Canada (1), Germany (1), Romania (1), Spain (1)",
-  "2005-shows-with": "Mark Geffriaud (44), Ryan Gander (15), Benoît Maire (10), Jirí Kovanda (8), Bruno Persat (8), Isabelle Cornaro (7), Aurélien Froment (7), Yann Sérandour (7), Julien Crépieux (6), Clément Rodzielski (6), Raphaël Zarka (6), Etienne Chambaud (5), Pratchaya Phinthong (5), Chloé Quenum (5), Pierre Bismuth (4), Dominique Blais (4), Dora García (4), Roman Ondák (4), Jimmy Robert (4), Robert Barry (3), Michael Crowe (3), Jason Dodge (3), Elise Florenty (3), Michel François (3), Mario Garcia Torres (3), Irene Kopelman (3), Claude Lévêque (3), Jonathan Monk (3), Laurent Montaron (3), Benoit-Marie Moriceau (3), Pia Rönicke (3), A Constructed World (2), Mac Adams (2), Pierre-Olivier Arnaud (2), Berdaguer & Péjus (2), Karla Black (2), Robert Breer (2), Sophie Bueno-Boutellier (2), Mariana Castillo Deball (2), Alex Cecchetti (2), Alejandro Cesarco (2), Lenka Clayton (2), Gérard Collin-Thiébaut (2), Edith Dekyndt (2), Jean Dupuy (2), Céline Duval (2), Eric Duyckaerts (2), Sean Edwards (2), Omer Fast (2), R",
+  "all-shows-first": "2003",
+  "all-shows-total": "62",
+  "2005-shows-biennials": "19",
+  "2005-shows-galleries": "19",
+  "2005-shows-museums": "30",
+  "2005-countries-total": "France (38), USA (3), Italy (2), Lithuania (2), Netherlands (2), United Kingdom (2), Austria (1), Belgium (1), Canada (1), Germany (1), Romania (1), Spain (1)",
+  "2005-shows-with": "Mark Geffriaud (50), Ryan Gander (16), Benoît Maire (11), Jirí Kovanda (9), Yann Sérandour (9), Bruno Persat (8), Isabelle Cornaro (7), Aurélien Froment (7), Raphaël Zarka (7), Dominique Blais (6), Julien Crépieux (6), Clément Rodzielski (6), Pierre Bismuth (5), Etienne Chambaud (5), Dora García (5), Pratchaya Phinthong (5), Chloé Quenum (5), Robert Barry (4), Berdaguer & Péjus (4), Joseph Grigely (4), Roman Ondák (4), Jimmy Robert (4), A Constructed World (3), Ulla von Brandenburg (3), Alejandro Cesarco (3), Michael Crowe (3), Jason Dodge (3), Jean Dupuy (3), Céline Duval (3), Elise Florenty (3), Michel François (3), Mario Garcia Torres (3), Aurelie Godard (3), Dan Graham (3), Ben Kinmont (3), Irene Kopelman (3), Pierre Leguillon (3), Claude Lévêque (3), Jonathan Monk (3), Laurent Montaron (3), Benoit-Marie Moriceau (3), Dennis Oppenheim (3), Will Potter (3), Pia Rönicke (3), Bruno Serralongue (3), Mac Adams (2), Dove Allouche (2), Pierre-Olivier Arnaud (2), Eric Baudelaire (2), Joianne Bittl",
   "representing-galleries": "gb agency (18 rue des 4 Fils, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Mark",
@@ -43,6 +43,34 @@
   "age": 37,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "116163-11827-2005-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "116163-11827-2005-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "116163-8206-2005-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "116163-8206-2005-10-20",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "116163-12314-2006-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "116163-12314-2006-04-01",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "116163-3149-2007-06-09",
@@ -69,6 +97,10 @@
           "2007-11-16",
           "2008-01-10"
         ]
+      },
+      {
+        "i": "116163-19673-2007-12-08",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -86,6 +118,58 @@
         ]
       },
       {
+        "i": "116163-19673-2007-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "116163-10218-2008-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "116163-10218-2008-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "116163-4186-2008-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "116163-4186-2008-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "116163-10990-2008-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "116163-10990-2008-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "116163-11492-2008-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "116163-11492-2008-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "116163-1977-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "116163-1977-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "116163-19673-2008-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "116163-19673-2008-09-17",
+        "c": "FR"
+      },
+      {
         "i": "116163-16920-2008-12-04",
         "c": "ES",
         "n": "crisis. against appearance",
@@ -97,6 +181,10 @@
           "2008-12-04",
           "2009-01-24"
         ]
+      },
+      {
+        "i": "116163-7390-2008-12-11",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -112,6 +200,10 @@
           "2008-12-04",
           "2009-01-24"
         ]
+      },
+      {
+        "i": "116163-7390-2008-12-11",
+        "c": "FR"
       },
       {
         "i": "116163-15311-2009-01-09",
@@ -140,6 +232,14 @@
         ]
       },
       {
+        "i": "116163-11214-2009-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "116163-11214-2009-03-01",
+        "c": "FR"
+      },
+      {
         "i": "116163-17114-2009-04-23",
         "c": "LT",
         "n": "The Happy Interval",
@@ -153,20 +253,49 @@
         ]
       },
       {
-        "i": "116163-16482-2009-12-12",
-        "c": "GB",
-        "n": "Three by 3",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "London (England)",
-        "o": "FormContent project space",
-        "d": [
-          "2009-12-12",
-          "2010-02-07"
-        ]
-      }
-    ],
-    "2010": [
+        "i": "116163-21098-2009-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "116163-21098-2009-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "116163-4186-2009-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "116163-4186-2009-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "116163-8282-2009-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "116163-8282-2009-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "116163-4186-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "116163-4186-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "116163-4186-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "116163-4186-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "116163-14159-2009-10-20",
+        "c": "FR"
+      },
       {
         "i": "116163-16482-2009-12-12",
         "c": "GB",
@@ -179,6 +308,57 @@
           "2009-12-12",
           "2010-02-07"
         ]
+      },
+      {
+        "i": "116163-4186-2009-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "116163-4186-2009-01-10",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "116163-14159-2009-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "116163-16482-2009-12-12",
+        "c": "GB",
+        "n": "Three by 3",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "London (England)",
+        "o": "FormContent project space",
+        "d": [
+          "2009-12-12",
+          "2010-02-07"
+        ]
+      },
+      {
+        "i": "116163-10351-2010-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "116163-10351-2010-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "116163-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "116163-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "116163-10244-2010-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "116163-10244-2010-03-20",
+        "c": "FR"
       },
       {
         "i": "116163-2309-2010-03-20",
@@ -194,6 +374,14 @@
         ]
       },
       {
+        "i": "116163-20789-2010-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "116163-20789-2010-06-03",
+        "c": "FR"
+      },
+      {
         "i": "116163-3749-2010-06-09",
         "c": "IT",
         "n": "Premio lorenzo bonaldi per l’arte – enterprize, v edizione",
@@ -207,6 +395,14 @@
         ]
       },
       {
+        "i": "116163-25336-2010-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "116163-25336-2010-06-17",
+        "c": "FR"
+      },
+      {
         "i": "116163-3123-2010-09-17",
         "c": "NL",
         "n": "Beyond the Dust - Artists\\' Documents Today",
@@ -218,9 +414,49 @@
           "2010-09-17",
           "2010-12-12"
         ]
+      },
+      {
+        "i": "116163-7390-2010-12-09",
+        "c": "FR"
+      },
+      {
+        "i": "116163-7390-2010-12-09",
+        "c": "FR"
+      },
+      {
+        "i": "116163-19673-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "116163-19673-2010-04-10",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "116163-7390-2010-12-09",
+        "c": "FR"
+      },
+      {
+        "i": "116163-7390-2010-12-09",
+        "c": "FR"
+      },
+      {
+        "i": "116163-8282-2011-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "116163-8282-2011-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "116163-2351-2011-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "116163-2351-2011-03-01",
+        "c": "FR"
+      },
       {
         "i": "116163-8136-2011-04-16",
         "c": "BE",
@@ -246,9 +482,41 @@
           "2011-04-17",
           "2011-06-19"
         ]
+      },
+      {
+        "i": "116163-7390-2011-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "116163-4186-2011-10-29",
+        "c": "FR"
+      },
+      {
+        "i": "116163-4186-2011-10-29",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "116163-7390-2011-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "116163-2414-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "116163-2414-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "116163-4186-2012-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "116163-4186-2012-04-21",
+        "c": "FR"
+      },
       {
         "i": "116163-940-2012-05-11",
         "c": "US",
@@ -261,6 +529,14 @@
           "2012-05-11",
           "2012-06-30"
         ]
+      },
+      {
+        "i": "116163-7390-2012-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "116163-7390-2012-06-07",
+        "c": "FR"
       },
       {
         "i": "116163-16482-2012-08-30",
@@ -302,6 +578,14 @@
         ]
       },
       {
+        "i": "116163-2303-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "116163-2303-2012-11-15",
+        "c": "FR"
+      },
+      {
         "i": "116163-27130-2012-01-21",
         "c": "LT",
         "n": "Opening",
@@ -328,6 +612,22 @@
           "2013-01-18",
           "2013-03-09"
         ]
+      },
+      {
+        "i": "116163-7390-2013-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "116163-7390-2013-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "116163-10522-2013-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "116163-10522-2013-06-22",
+        "c": "FR"
       }
     ]
   }

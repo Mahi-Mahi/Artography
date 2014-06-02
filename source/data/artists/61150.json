@@ -1,7 +1,7 @@
 {
   "id": "61150",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:28:48",
+  "timestamp": "2014-05-24 06:37:36",
   "name": "Bruno Boudjelal",
   "surname": "Boudjelal",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "21024",
-  "r01": "22474",
-  "r02": "23090",
-  "r03": "27888",
-  "r04": "24485",
-  "r05": "21550",
-  "r06": "20658",
-  "r07": "17154",
-  "r08": "26630",
+  "r00": "19109",
+  "r01": "18261",
+  "r02": "19918",
+  "r03": "20507",
+  "r04": "27614",
+  "r05": "22677",
+  "r06": "19157",
+  "r07": "17808",
+  "r08": "14160",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "15",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
-  "2005-shows-museums": "6",
-  "2005-countries-total": "France (8), Netherlands (1)",
-  "2005-shows-with": "Bruno Boudjelal (7), Kader Attia (4), Mohamed Bourouissa (4), Taysir Batniji (3), Chen Zhen (3), Denis Darzacq (3), Ad van Denderen (3), Bouchra Khalili (3), Bruno Serralongue (3), Barthélémy Toguo (3), Claire Fontaine (2), Ghazel (2), Mona Hatoum (2), Karim Kal (2), Kimsooja (2), Thomas Mailaender (2), Malik Nejmi (2), Nii Obodaï (2), Melik Ohanian (2), Adrian Paci (2), Mathieu Pernot (2), Shen Yuan (2)",
+  "all-shows-total": "17",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (9), Belgium (1), Netherlands (1)",
+  "2005-shows-with": "Bruno Boudjelal (9), Kader Attia (5), Mohamed Bourouissa (5), Taysir Batniji (4), Chen Zhen (4), Denis Darzacq (4), Ad van Denderen (4), Bouchra Khalili (4), Thomas Mailaender (4), Malik Nejmi (4), Bruno Serralongue (4), Barthélémy Toguo (4), Claire Fontaine (3), Ghazel (3), Mona Hatoum (3), Karim Kal (3), Kimsooja (3), Melik Ohanian (3), Mathieu Pernot (3), Shen Yuan (3), Mounir Fatmi (2), Nii Obodaï (2), Rajak Ohanian (2), Adrian Paci (2), Djamel Tatah (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Bruno",
@@ -56,6 +56,10 @@
           "2005-11-11",
           "2006-01-29"
         ]
+      },
+      {
+        "i": "61150-8786-2005-11-22",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -71,6 +75,10 @@
           "2005-11-11",
           "2006-01-29"
         ]
+      },
+      {
+        "i": "61150-8786-2005-11-22",
+        "c": "FR"
       },
       {
         "i": "61150-1593-2006-02-17",
@@ -99,6 +107,34 @@
         ]
       }
     ],
+    "2008": [
+      {
+        "i": "61150-17313-2008-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "61150-26372-2008-10-28",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "61150-17313-2008-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "61150-21460-2009-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "61150-21460-2009-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "61150-26372-2008-10-28",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "61150-2333-2011-02-12",
@@ -112,6 +148,50 @@
           "2011-02-12",
           "2011-03-27"
         ]
+      },
+      {
+        "i": "61150-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "61150-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "61150-26372-2011-11-16",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "61150-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "61150-8129-2012-10-20",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "61150-28294-2013-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "61150-28294-2013-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "61150-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "61150-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "61150-8129-2012-10-20",
+        "c": "FR"
       }
     ]
   }

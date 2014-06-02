@@ -1,7 +1,7 @@
 {
   "id": "11691",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:46",
+  "timestamp": "2014-05-24 06:19:36",
   "name": "Gérard Deschamps",
   "surname": "Deschamps",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation, Assemblage",
-  "r00": "4436",
-  "r01": "4636",
-  "r02": "4545",
-  "r03": "4293",
-  "r04": "5731",
-  "r05": "4877",
-  "r06": "5661",
-  "r07": "6414",
-  "r08": "5010",
+  "r00": "4059",
+  "r01": "3789",
+  "r02": "3980",
+  "r03": "3841",
+  "r04": "3502",
+  "r05": "4937",
+  "r06": "4005",
+  "r07": "6032",
+  "r08": "7244",
   "awards": null,
   "website": null,
   "all-shows-first": "1963",
-  "all-shows-total": "32",
+  "all-shows-total": "35",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "12",
-  "2005-countries-total": "France (11), Austria (1), Italy (1), Romania (1), Spain (1), Switzerland (1), United Kingdom (1), USA (1)",
-  "2005-shows-with": "Gérard Deschamps (16), Raymond Hains (5), Jacques Villeglé (5), François Dufrêne (4), Yves Klein (4), Niki de Saint Phalle (4), Wim Delvoye (3), François Morellet (3), Robert Rauschenberg (3), Mimmo Rotella (3), Daniel Spoerri (3), Wolf Vostell (3), Arman (2), John M Armleder (2), Karine Bonneval (2), Marcel Broodthaers (2), Christo & Jeanne-Claude (2), Erik Dietman (2), Jim Dine (2), Jean Fautrier (2), Lucio Fontana (2), Adolf Frohner (2), Rodolphe Huguet (2), Pierre Joseph (2), Bertrand Lavier (2), Otto Muehl (2), Raymond Pettibon (2), Sigmar Polke (2), Friedrich Schröder-Sonnenstern (2), Jean Tinguely (2), Niele Toroni (2)",
+  "2005-shows-museums": "15",
+  "2005-countries-total": "France (14), Austria (1), Italy (1), Romania (1), Spain (1), Switzerland (1), United Kingdom (1), USA (1)",
+  "2005-shows-with": "Gérard Deschamps (19), Raymond Hains (6), Jacques Villeglé (6), Wim Delvoye (4), François Dufrêne (4), Yves Klein (4), François Morellet (4), Niki de Saint Phalle (4), Daniel Spoerri (4), John M Armleder (3), Marcel Broodthaers (3), Robert Rauschenberg (3), Mimmo Rotella (3), Sarkís (3), Alain Séchas (3), Wolf Vostell (3), Gilles Aillaud (2), Arman (2), Karine Bonneval (2), Etienne Bossut (2), Véronique Boudier (2), Balthasar Burkhard (2), Valentin Carron (2), Jacques Charlier (2), Christo & Jeanne-Claude (2), Erik Dietman (2), Marcel Dinahet (2), Jim Dine (2), Céline Duval (2), Jean Fautrier (2), Fischli & Weiss (2), Lucio Fontana (2), Adolf Frohner (2), Rodolphe Huguet (2), Pierre Joseph (2), Bertrand Lavier (2), Paul McCarthy (2), Otto Muehl (2), Raymond Pettibon (2), Sigmar Polke (2), Jean-Michel Sanejouand (2), Friedrich Schröder-Sonnenstern (2), Jim Shaw (2), Jean Tinguely (2), Niele Toroni (2), Rosemarie Trockel (2)",
   "representing-galleries": "Galerie Hubert Konrad (32, avenue Matignon, 75008 Paris, France); Galerie Martine et Thibault de La Châtre (4 rue Saintonge, 75003 Paris, France); Galerie Gilles Peyroulet & Cie (75 & 80 rue Quincampoix, 75003 Paris, France)",
   "collecting-museums": "Museum Moderner Kunst Stiftung Ludwig - MUMOK  (Museumsplatz 1, 1070 Vienna, Austria); Musée de l’Objet (6 rue Franciade, 41000 Blois, France); Musée des Beaux Arts de Dôle (85 rue des Arènes, 39100 Dôle, France); MAMAC - Musee d´Art Moderne et d`Art Contemporain Nice (Promenade des Arts, 06300 Nice, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France); Berardo Museum - Collection of Modern and Contemporary Art (Praça do Império, 1449-003 Lisbon, Portugal); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
   "first_name": "Gérard",
@@ -56,6 +56,14 @@
           "2005-07-15",
           "2006-05-14"
         ]
+      },
+      {
+        "i": "11691-12992-2005-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "11691-12992-2005-09-17",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -75,6 +83,14 @@
     ],
     "2007": [
       {
+        "i": "11691-2542-2007-03-28",
+        "c": "FR"
+      },
+      {
+        "i": "11691-2542-2007-03-28",
+        "c": "FR"
+      },
+      {
         "i": "11691-4986-2007-05-02",
         "c": "DE",
         "n": "100 Jahre Kunsthalle Mannheim",
@@ -86,6 +102,22 @@
           "2007-05-02",
           "2007-09-09"
         ]
+      },
+      {
+        "i": "11691-10220-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "11691-10220-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "11691-1746-2007-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "11691-1746-2007-10-13",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -116,6 +148,14 @@
         ]
       },
       {
+        "i": "11691-20029-2008-10-31",
+        "c": "FR"
+      },
+      {
+        "i": "11691-20029-2008-10-31",
+        "c": "FR"
+      },
+      {
         "i": "11691-3753-2008-11-07",
         "c": "IT",
         "n": "Il Nouveau Réalisme dal 1970 ad oggi. Omaggio a Pierre Restany",
@@ -127,6 +167,18 @@
           "2008-11-07",
           "2009-02-01"
         ]
+      },
+      {
+        "i": "11691-17165-2008-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "11691-25308-2008-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "11691-25308-2008-06-05",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -144,6 +196,10 @@
         ]
       },
       {
+        "i": "11691-17165-2008-11-23",
+        "c": "FR"
+      },
+      {
         "i": "11691-1341-2009-01-09",
         "c": "GB",
         "n": "Artists from the 60s",
@@ -155,6 +211,14 @@
           "2009-01-09",
           "2009-02-04"
         ]
+      },
+      {
+        "i": "11691-1907-2009-01-24",
+        "c": "FR"
+      },
+      {
+        "i": "11691-1907-2009-01-24",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -172,6 +236,14 @@
         ]
       },
       {
+        "i": "11691-1746-2010-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "11691-1746-2010-07-01",
+        "c": "FR"
+      },
+      {
         "i": "11691-2277-2010-07-09",
         "c": "AT",
         "n": "Painting, Process and Expansion",
@@ -183,9 +255,53 @@
           "2010-07-09",
           "2010-10-03"
         ]
+      },
+      {
+        "i": "11691-8568-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "11691-8568-2010-10-01",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "11691-27842-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "11691-27842-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "11691-1746-2011-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "11691-1746-2011-09-03",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "11691-1293-2012-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "11691-1293-2012-10-05",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "11691-28276-2013-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "11691-28276-2013-02-16",
+        "c": "FR"
+      },
       {
         "i": "11691-2369-2013-02-16",
         "c": "US",
@@ -198,6 +314,14 @@
           "2013-02-16",
           "2013-06-02"
         ]
+      },
+      {
+        "i": "11691-1746-2013-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "11691-1746-2013-05-16",
+        "c": "FR"
       }
     ]
   }

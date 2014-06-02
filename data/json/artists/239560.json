@@ -1,7 +1,7 @@
 {
   "id": "239560",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:39:02",
+  "timestamp": "2014-05-24 07:38:31",
   "name": "Chloé Quenum",
   "surname": "Quenum",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "16154",
-  "r01": "21747",
-  "r02": "40008",
-  "r03": "64244",
-  "r04": "86162",
-  "r05": null,
+  "r00": "8708",
+  "r01": "10603",
+  "r02": "15724",
+  "r03": "29891",
+  "r04": "49459",
+  "r05": "81623",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2009",
-  "all-shows-total": "14",
+  "all-shows-total": "17",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
-  "2005-shows-museums": "6",
-  "2005-countries-total": "France (12), Canada (1), USA (1)",
-  "2005-shows-with": "Chloé Quenum (11), Mark Geffriaud (5), Bruno Persat (5), Ryan Gander (3), Lenka Clayton (2), Isabelle Cornaro (2), Julien Crépieux (2), Michael Crowe (2), Chitty Kasemkitvatana (2), Jirí Kovanda (2), Benoît Maire (2), Mark Manders (2), Pratchaya Phinthong (2), The Play (2), Yann Sérandour (2), Alina Turco (2)",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (14), Canada (1), Spain (1), USA (1)",
+  "2005-shows-with": "Chloé Quenum (14), Mark Geffriaud (5), Bruno Persat (5), Ryan Gander (4), Julien Crépieux (3), Lenka Clayton (2), Isabelle Cornaro (2), Michael Crowe (2), Dora García (2), Chitty Kasemkitvatana (2), Jirí Kovanda (2), Benoît Maire (2), Mark Manders (2), Pratchaya Phinthong (2), The Play (2), Yann Sérandour (2), Alina Turco (2)",
   "representing-galleries": "Galerie Joseph Tang (1, rue CharlesFrancois Dupuis, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Chloé",
@@ -43,7 +43,77 @@
   "age": 31,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "239560-4186-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "239560-4186-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "239560-4186-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "239560-4186-2009-10-16",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "239560-4166-2010-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "239560-4166-2010-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "239560-19611-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "239560-19611-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "239560-10501-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "239560-10501-2010-09-11",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "239560-7390-2011-12-15",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "239560-7390-2011-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "239560-12319-2012-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "239560-12319-2012-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "239560-7390-2012-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "239560-7390-2012-06-07",
+        "c": "FR"
+      },
       {
         "i": "239560-8030-2012-09-14",
         "c": "CA",
@@ -56,9 +126,33 @@
           "2012-09-14",
           "2012-10-20"
         ]
+      },
+      {
+        "i": "239560-29070-2012-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "239560-29070-2012-03-08",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "239560-11889-2013-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "239560-11889-2013-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "239560-8282-2013-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "239560-8282-2013-09-06",
+        "c": "FR"
+      },
       {
         "i": "239560-23608-2013-02-28",
         "c": "US",
@@ -71,6 +165,14 @@
           "2013-02-28",
           "2013-03-30"
         ]
+      },
+      {
+        "i": "239560-29070-2013-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "239560-29070-2013-10-19",
+        "c": "FR"
       }
     ]
   }

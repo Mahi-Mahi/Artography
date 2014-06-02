@@ -1,7 +1,7 @@
 {
   "id": "58110",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:35",
+  "timestamp": "2014-05-24 06:36:31",
   "name": "Anne-Catherine Becker-Echivard",
   "surname": "Becker-Echivard",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "49902",
-  "r01": "46511",
-  "r02": "42105",
-  "r03": "37802",
-  "r04": "33988",
-  "r05": "33814",
-  "r06": "38536",
-  "r07": "39317",
-  "r08": "32684",
+  "r00": "57433",
+  "r01": "54911",
+  "r02": "51397",
+  "r03": "43498",
+  "r04": "36960",
+  "r05": "31784",
+  "r06": "31383",
+  "r07": "38280",
+  "r08": "39540",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "11",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (4), China (1), Germany (1)",
-  "2005-shows-with": "Anne-Catherine Becker-Echivard (3)",
+  "2005-countries-total": "France (4), China (1), Germany (1), South Korea (1)",
+  "2005-shows-with": "Anne-Catherine Becker-Echivard (4)",
   "representing-galleries": "Wanted Paris gallery (23, rue du roi de Sicile, 75004 Paris, France)",
   "collecting-museums": null,
   "first_name": "Anne-Catherine",
@@ -43,6 +43,16 @@
   "age": 43,
   "age_range": "41-60",
   "expos": {
+    "2010": [
+      {
+        "i": "58110-11851-2010-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "58110-11851-2010-09-30",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "58110-26060-2011-03-11",
@@ -58,6 +68,36 @@
         ]
       }
     ],
+    "2013": [
+      {
+        "i": "58110-30303-2013-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "58110-30303-2013-07-05",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "58110-4241-2005-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "58110-4241-2005-05-03",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "58110-11851-2007-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "58110-11851-2007-06-12",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "58110-7396-2008-03-09",
@@ -71,6 +111,24 @@
           "2008-03-09",
           "2008-05-04"
         ]
+      },
+      {
+        "i": "58110-11851-2008-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "58110-11851-2008-06-10",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "58110-11851-2009-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "58110-11851-2009-11-19",
+        "c": "FR"
       }
     ]
   }

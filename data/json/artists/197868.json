@@ -1,7 +1,7 @@
 {
   "id": "197868",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:22:57",
+  "timestamp": "2014-05-24 07:24:15",
   "name": "Cathy Jardon",
   "surname": "Jardon",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "35242",
-  "r01": "43677",
-  "r02": "56992",
-  "r03": "82981",
-  "r04": null,
+  "r00": "23659",
+  "r01": "26024",
+  "r02": "32446",
+  "r03": "43090",
+  "r04": "76009",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,12 +28,12 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "9",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
   "2005-shows-museums": "5",
-  "2005-countries-total": "France (5), Germany (4)",
-  "2005-shows-with": "Cathy Jardon (7), Josef Albers (2), Max Bill (2), Tobias Grewe (2), Imi Knoebel (2), El Lissitzky (2), Kai Richter (2), Victor Vasarely (2)",
+  "2005-countries-total": "France (6), Germany (5)",
+  "2005-shows-with": "Cathy Jardon (9), Josef Albers (2), Max Bill (2), Tobias Grewe (2), Imi Knoebel (2), El Lissitzky (2), Kai Richter (2), Victor Vasarely (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Cathy",
@@ -56,6 +56,14 @@
           "2010-11-11",
           "2011-01-21"
         ]
+      },
+      {
+        "i": "197868-21696-2010-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "197868-21696-2010-02-12",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -71,6 +79,30 @@
           "2010-11-11",
           "2011-01-21"
         ]
+      },
+      {
+        "i": "197868-8285-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "197868-8285-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "197868-20646-2011-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "197868-20646-2011-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "197868-26377-2011-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "197868-26377-2011-05-28",
+        "c": "FR"
       },
       {
         "i": "197868-364-2011-07-02",
@@ -112,6 +144,16 @@
           "2013-05-12",
           "2013-09-22"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "197868-11850-2012-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "197868-11850-2012-06-05",
+        "c": "FR"
       }
     ]
   }

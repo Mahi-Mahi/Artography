@@ -1,7 +1,7 @@
 {
   "id": "50818",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:24:28",
+  "timestamp": "2014-05-24 06:33:57",
   "name": "Claude Faure",
   "surname": "Faure",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "56147",
-  "r01": "53209",
-  "r02": "92553",
-  "r03": "87121",
-  "r04": "80519",
-  "r05": "81995",
-  "r06": "81205",
-  "r07": "72587",
-  "r08": "63432",
+  "r00": "33833",
+  "r01": "34211",
+  "r02": "42111",
+  "r03": "89316",
+  "r04": "83122",
+  "r05": "75787",
+  "r06": "79842",
+  "r07": "81451",
+  "r08": "72557",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "6",
+  "all-shows-total": "7",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (2), Germany (2), Slovenia (1)",
-  "2005-shows-with": "Claude Faure (4), Paul Cox (2), Tony Cragg (2), Pierre Granoux (2), Imi Knoebel (2), Françoise Petrovitch (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "Germany (3), France (2), Slovenia (1)",
+  "2005-shows-with": "Claude Faure (5), Imi Knoebel (3), Yaacov Agam (2), Stephanos Antonakos (2), Janine Antoni (2), Enrico Baj (2), Eduard Bal (2), Vittore Baroni (2), René Bertholo (2), Peter Blake (2), KP Brehmer (2), Marcel Broodthaers (2), Stanley Brouwn (2), Daniel Buren (2), Luca Buvoli (2), James Lee Byars (2), Sophie Calle (2), Augusto de Campos (2), Mariana Castillo Deball (2), Christo & Jeanne-Claude (2), Peter Coffin (2), Jordi Colomer (2), Paul Cox (2), Tony Cragg (2), Jean Dubuffet (2), Marcel Duchamp (2), Knut Eckstein (2), Olafur Eliasson (2), Hans-Peter Feldmann (2), Robert Filliou (2), Lucio Fontana (2), John Furnival (2), Gérard Garouste (2), Gilbert & George (2), Fernanda Gomes (2), Pierre Granoux (2), Marie-Ange Guilleminot (2), Andreas Gursky (2), Keith Haring (2), Axel Heibel (2), Dietrich Helms (2), Stephen Hendee (2), Damien Hirst (2), Nan Hoover (2), Gary Hume (2), Michael Kirby (2), Gisela Kleinlein (2), Peter Kogler (2), Barbara Kruger (2), Yayoi Kusama (2), Les Levine (2), Sol LeWitt (2), Roy Lichte",
   "representing-galleries": "Galerie Bernard Jordan - Paris (77, rue Charlot, 75003 Paris, France); Galerie Jordan Seydoux (Auguststrasse 22, 10117 Berlin, Germany); Galleria Gas Art Gallery (Corso Vittorio Emanuele II 90, 10121 Turin, Italy); Galerie Bernard Jordan - Zürich (Zwinglistrasse 33, 8004 Zurich, Switzerland)",
   "collecting-museums": null,
   "first_name": "Claude",
@@ -73,6 +73,14 @@
         ]
       },
       {
+        "i": "50818-27574-2009-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "50818-27574-2009-05-16",
+        "c": "FR"
+      },
+      {
         "i": "50818-17611-2009-07-08",
         "c": "DE",
         "n": "AZur Druck",
@@ -99,6 +107,14 @@
           "2012-10-11",
           "2013-03-09"
         ]
+      },
+      {
+        "i": "50818-8554-2012-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "50818-8554-2012-03-09",
+        "c": "FR"
       }
     ],
     "2013": [

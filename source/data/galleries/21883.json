@@ -18,6 +18,14 @@
   "fairs": {
     "2010": [
       {
+        "i": "21883-Lille Art Fair 2010",
+        "c": "FR"
+      },
+      {
+        "i": "21883-ST-ART 2010",
+        "c": "FR"
+      },
+      {
         "i": "21883-Lineart 2010",
         "c": "BE",
         "n": "Lineart 2010",
@@ -25,6 +33,10 @@
       }
     ],
     "2011": [
+      {
+        "i": "21883-Lille Art Fair 2011",
+        "c": "FR"
+      },
       {
         "i": "21883-Art International Zürich 2011",
         "c": "CH",
@@ -36,6 +48,10 @@
         "c": "NL",
         "n": "The Affordable Art Fair - Amsterdam",
         "ct": "Amsterdam"
+      },
+      {
+        "i": "21883-St-Art 2011",
+        "c": "FR"
       },
       {
         "i": "21883-Lineart 2011",
@@ -50,6 +66,28 @@
         "c": "BE",
         "n": "Affordable Art Fair Bruxelles 2012",
         "ct": "Brussels"
+      },
+      {
+        "i": "21883-Lille Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "21883-ST-ART  2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "21883-New Art Fair Paris",
+        "c": "FR"
+      },
+      {
+        "i": "21883-Lille Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "21883-St-art 2013",
+        "c": "FR"
       }
     ]
   }

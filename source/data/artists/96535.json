@@ -1,7 +1,7 @@
 {
   "id": "96535",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:43:21",
+  "timestamp": "2014-05-24 06:49:56",
   "name": "Claude Champy",
   "surname": "Champy",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "43768",
-  "r01": "44434",
-  "r02": "40928",
-  "r03": "46614",
-  "r04": "83810",
-  "r05": "80275",
-  "r06": null,
+  "r00": "33674",
+  "r01": "33703",
+  "r02": "38190",
+  "r03": "34180",
+  "r04": "39620",
+  "r05": "79842",
+  "r06": "76856",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "7",
+  "all-shows-total": "8",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (4), Switzerland (2), Germany (1)",
-  "2005-shows-with": "Claude Champy (3), Setsuko Nagasawa (3), Bernard Dejonghe (2), Jean-François Fouilhoux (2), Yoshimi Futamura (2), Michel Muraour (2), Daniel Pontoreau (2), Catherine Vanier (2)",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (4), Germany (2), Switzerland (2)",
+  "2005-shows-with": "Claude Champy (4), Jean-François Fouilhoux (3), Setsuko Nagasawa (3), Anne Bulliot (2), Daphné Corregan (2), Bernard Dejonghe (2), Haguiko Fukuyama (2), Yoshimi Futamura (2), Michelle Gardelle (2), Michel Muraour (2), Daniel Pontoreau (2), Gilbert Portanier (2), Hervé Rousseau (2), Gilles Suffren (2), Catherine Vanier (2), Jean Pierre Viot (2), Camille Virot (2)",
   "representing-galleries": "Galerie Rosenhauer (Konrad-Adenauer-Str. 34, 37075 Göttingen, Germany); Galerie b15 (Baaderstr. 15, 80469 Munich, Germany)",
   "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); Sèvres - Cité de la céramique (2 Place de la Manufacture, 92310 Sevres, France)",
   "first_name": "Claude",
@@ -43,7 +43,33 @@
   "age": 70,
   "age_range": "61-100",
   "expos": {
+    "2010": [
+      {
+        "i": "96535-26731-2010-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "96535-26731-2010-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "96535-26731-2010-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "96535-27944-2010-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "96535-27944-2010-03-10",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "96535-26731-2010-09-15",
+        "c": "FR"
+      },
       {
         "i": "96535-5638-2011-09-25",
         "c": "CH",
@@ -71,6 +97,16 @@
           "2013-03-28",
           "2013-08-18"
         ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "96535-14278-2008-10-07",
+        "c": "FR"
+      },
+      {
+        "i": "96535-14278-2008-10-07",
+        "c": "FR"
       }
     ],
     "2009": [

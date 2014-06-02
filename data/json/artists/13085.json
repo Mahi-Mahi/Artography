@@ -1,7 +1,7 @@
 {
   "id": "13085",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:08:25",
+  "timestamp": "2014-05-24 06:20:07",
   "name": "Sarah Moon",
   "surname": "Moon",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "4535",
-  "r01": "4291",
-  "r02": "4483",
-  "r03": "5003",
-  "r04": "4730",
-  "r05": "4459",
-  "r06": "4022",
-  "r07": "3363",
-  "r08": "3100",
+  "r00": "6753",
+  "r01": "6300",
+  "r02": "5738",
+  "r03": "5290",
+  "r04": "6500",
+  "r05": "6140",
+  "r06": "5841",
+  "r07": "5202",
+  "r08": "4152",
   "awards": null,
   "website": null,
   "all-shows-first": "1983",
-  "all-shows-total": "60",
+  "all-shows-total": "57",
   "2005-shows-biennials": "18",
   "2005-shows-galleries": "18",
   "2005-shows-museums": "10",
-  "2005-countries-total": "France (9), United Kingdom (4), USA (3), Switzerland (2), Austria (1), Belgium (1), Canada (1), China (1), Germany (1), Italy (1), Morocco (1), Netherlands (1), Poland (1), Russia (1)",
-  "2005-shows-with": "Sarah Moon (19), Richard Avedon (5), William Klein (5), Lillian Bassman (4), Nick Knight (4), Peter Lindbergh (4), Helmut Newton (4), Irving Penn (4), Erwin Blumenfeld (3), Guy Bourdin (3), Henri Cartier-Bresson (3), Louise Dahl-Wolfe (3), Bruce Davidson (3), Ralph Gibson (3), F.C. Gundlach (3), Jacques-Henri Lartigue (3), Bernard Plossu (3), Marc Riboud (3), Melvin Sokolsky (3), Deborah Turbeville (3), Cecil Beaton (2), Sibylle Bergemann (2), Désirée Dolron (2), Claudine Doury (2), Walker Evans (2), Hubs Flöter (2), Robert Frank (2), Nan Goldin (2), Horst P. Horst (2), Frank Horvat (2), George Hoyningen-Huené (2), George Hurrell (2), David LaChapelle (2), Edgar Leciejewski (2), Annie Leibovitz (2), Zoe Leonard (2), Leon Levinstein (2), George Platt Lynes (2), Gjon Mili (2), Lee Miller (2), Arnold Newman (2), Regina Relang (2), Paolo Roversi (2), Imre von Santho (2), Andy Warhol (2), Wols (2), Masao Yamamoto (2), Yva (2)",
-  "representing-galleries": "Camera Obscura (268, boulevard Raspail/ 12, rue Cresson, 75014 Paris, France); Faguo Club Gallery (14, avenue Émile Deschanel, 75007 Paris, France); Galerie zur Stockeregg (Stockerstr. 33, CH-8022 Zurich, Switzerland); Michael Hoppen Gallery (3 Jubilee Place, SW3 3TD London (England), United Kingdom); Weinstein Gallery (908  West 46th Street, 55419 Minneapolis, MN, USA); Howard Greenberg Gallery (41 East 57th Street, 10022 New York City, NY, USA); Staley-Wise Gallery (560 Broadway, 10012 New York City, NY, USA)",
-  "collecting-museums": "Moscow House of Photography (Ostojenka Str. 16, 119034 Moscow, Russia)",
+  "2005-countries-total": "France (9), United Kingdom (4), USA (4), Switzerland (2), Austria (1), Belgium (1), Canada (1), China (1), Germany (1), Italy (1), Morocco (1), Netherlands (1), Poland (1)",
+  "2005-shows-with": "Sarah Moon (20), Richard Avedon (5), William Klein (5), Irving Penn (5), Lillian Bassman (4), Henri Cartier-Bresson (4), Nick Knight (4), Peter Lindbergh (4), Helmut Newton (4), Erwin Blumenfeld (3), Guy Bourdin (3), Louise Dahl-Wolfe (3), Bruce Davidson (3), Ralph Gibson (3), F.C. Gundlach (3), Jacques-Henri Lartigue (3), Bernard Plossu (3), Marc Riboud (3), Melvin Sokolsky (3), Deborah Turbeville (3), Diane Arbus (2), Cecil Beaton (2), Sibylle Bergemann (2), Bill Brandt (2), Harry Callahan (2), Robert Doisneau (2), Désirée Dolron (2), Claudine Doury (2), William Eggleston (2), Walker Evans (2), Hubs Flöter (2), Joan Fontcuberta (2), Robert Frank (2), Nan Goldin (2), Horst P. Horst (2), Frank Horvat (2), George Hoyningen-Huené (2), George Hurrell (2), Yousuf Karsh (2), David LaChapelle (2), Edgar Leciejewski (2), Annie Leibovitz (2), Zoe Leonard (2), Leon Levinstein (2), George Platt Lynes (2), Danny Lyon (2), Robert Mapplethorpe (2), Gjon Mili (2), Lee Miller (2), Arno Minkkinen (2), Lisette Model (2), ",
+  "representing-galleries": "Camera Obscura (268, boulevard Raspail/ 12, rue Cresson, 75014 Paris, France); Faguo Club Gallery (14, avenue Émile Deschanel, 75007 Paris, France); Galerie zur Stockeregg (Stockerstr. 33, CH-8022 Zurich, Switzerland); Michael Hoppen Gallery (3 Jubilee Place, SW3 3TD London, United Kingdom); Weinstein Gallery (908  West 46th Street, 55419 Minneapolis, MN, USA); Howard Greenberg Gallery (41 East 57th Street, 10022 New York City, NY, USA); Staley-Wise Gallery (560 Broadway, 10012 New York City, NY, USA)",
+  "collecting-museums": null,
   "first_name": "Sarah",
   "last_name": "Moon",
   "genre": "f",
@@ -44,6 +44,14 @@
   "age_range": "61-100",
   "expos": {
     "2005": [
+      {
+        "i": "13085-21359-2005-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "13085-21359-2005-07-05",
+        "c": "FR"
+      },
       {
         "i": "13085-1519-2005-09-10",
         "c": "CA",
@@ -56,6 +64,14 @@
           "2005-09-10",
           "2005-10-22"
         ]
+      },
+      {
+        "i": "13085-5176-2005-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "13085-5176-2005-02-16",
+        "c": "FR"
       },
       {
         "i": "13085-3495-2005-04-23",
@@ -220,6 +236,14 @@
         ]
       },
       {
+        "i": "13085-7921-2009-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "13085-7921-2009-06-24",
+        "c": "FR"
+      },
+      {
         "i": "13085-461-2009-11-13",
         "c": "CH",
         "n": "à propos...",
@@ -287,6 +311,14 @@
         ]
       },
       {
+        "i": "13085-29027-2010-10-07",
+        "c": "FR"
+      },
+      {
+        "i": "13085-28272-2010-10-23",
+        "c": "FR"
+      },
+      {
         "i": "13085-1767-2010-12-10",
         "c": "US",
         "n": "Staff Picks 2010",
@@ -328,6 +360,14 @@
     ],
     "2011": [
       {
+        "i": "13085-29027-2010-10-07",
+        "c": "FR"
+      },
+      {
+        "i": "13085-28272-2010-10-23",
+        "c": "FR"
+      },
+      {
         "i": "13085-1767-2010-12-10",
         "c": "US",
         "n": "Staff Picks 2010",
@@ -339,6 +379,14 @@
           "2010-12-10",
           "2011-01-22"
         ]
+      },
+      {
+        "i": "13085-5176-2011-02-24",
+        "c": "FR"
+      },
+      {
+        "i": "13085-5176-2011-02-24",
+        "c": "FR"
       },
       {
         "i": "13085-22553-2011-03-12",
@@ -417,6 +465,14 @@
           "2011-06-08",
           "2011-08-14"
         ]
+      },
+      {
+        "i": "13085-17271-2011-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "13085-17271-2011-07-10",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -432,6 +488,22 @@
           "2011-10-21",
           "2012-04-01"
         ]
+      },
+      {
+        "i": "13085-5176-2012-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "13085-5176-2012-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "13085-5176-2012-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "13085-5176-2012-10-19",
+        "c": "FR"
       },
       {
         "i": "13085-3495-2012-12-12",
@@ -499,6 +571,14 @@
           "2013-05-21",
           "2013-09-01"
         ]
+      },
+      {
+        "i": "13085-741-2013-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "13085-741-2013-06-21",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -514,6 +594,14 @@
           "2008-10-16",
           "2008-11-22"
         ]
+      },
+      {
+        "i": "13085-5176-2008-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "13085-5176-2008-10-24",
+        "c": "FR"
       }
     ]
   }

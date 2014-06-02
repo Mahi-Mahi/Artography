@@ -1,7 +1,7 @@
 {
   "id": "5099",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:04:44",
+  "timestamp": "2014-05-24 06:16:55",
   "name": "Marie-Laure Cazin",
   "surname": "Cazin",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "51736",
-  "r01": "48294",
-  "r02": "44091",
-  "r03": "39720",
-  "r04": "35401",
-  "r05": "40209",
-  "r06": "42439",
-  "r07": "36348",
-  "r08": "65440",
+  "r00": "59712",
+  "r01": "56167",
+  "r02": "49734",
+  "r03": "43389",
+  "r04": "37835",
+  "r05": "32633",
+  "r06": "37596",
+  "r07": "39872",
+  "r08": "33373",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
@@ -35,7 +35,7 @@
   "2005-countries-total": "France (2)",
   "2005-shows-with": "Marie-Laure Cazin (2)",
   "representing-galleries": null,
-  "collecting-museums": "Tate Britain (Millbank, SW1P 4RG London (England), United Kingdom)",
+  "collecting-museums": "Tate Britain (Millbank, SW1P 4RG London, United Kingdom)",
   "first_name": "Marie-Laure",
   "last_name": "Cazin",
   "genre": "c",
@@ -43,5 +43,45 @@
   "age": 45,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "5099-1368-2005-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "5099-1368-2005-04-20",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "5099-8282-2006-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "5099-8282-2006-02-28",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5099-16035-2008-11-20",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5099-16035-2008-11-20",
+        "c": "FR"
+      },
+      {
+        "i": "5099-2709-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "5099-2709-2009-10-16",
+        "c": "FR"
+      }
+    ]
   }
 }

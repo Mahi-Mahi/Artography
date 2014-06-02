@@ -16,12 +16,30 @@
   "fairs-abroad": "1",
   "fairs-in-FR": "4",
   "fairs": {
+    "2009": [
+      {
+        "i": "20986-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "20986-Affordable Art Fair Bruxelles 2010",
         "c": "BE",
         "n": "Affordable Art Fair Bruxelles 2010",
         "ct": "Brussels"
+      },
+      {
+        "i": "20986-The Affordable Art Fair Paris 2010",
+        "c": "FR"
+      },
+      {
+        "i": "20986-Chic Art Fair 2010",
+        "c": "FR"
+      },
+      {
+        "i": "20986-ST-ART 2010",
+        "c": "FR"
       }
     ]
   }

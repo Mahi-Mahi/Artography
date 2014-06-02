@@ -1,7 +1,7 @@
 {
   "id": "255152",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:45:03",
+  "timestamp": "2014-05-24 07:43:51",
   "name": "Alain Delorme",
   "surname": "Delorme",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "18523",
-  "r01": "20612",
-  "r02": "19451",
-  "r03": "33403",
-  "r04": "45459",
-  "r05": "40271",
-  "r06": "53132",
-  "r07": "66642",
-  "r08": null,
+  "r00": "11890",
+  "r01": "11878",
+  "r02": "13522",
+  "r03": "12827",
+  "r04": "25809",
+  "r05": "36598",
+  "r06": "31405",
+  "r07": "40164",
+  "r08": "49263",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "16",
+  "all-shows-total": "20",
   "2005-shows-biennials": "11",
   "2005-shows-galleries": "11",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (5), Netherlands (3), Germany (2), Japan (1), Spain (1), Switzerland (1)",
-  "2005-shows-with": "Alain Delorme (6), Kim De Ruysscher (2), Alain Declercq (2), Mireille Loup (2), Jeanne Susplugas (2)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (6), Netherlands (3), Germany (2), Italy (2), Japan (1), Poland (1), Spain (1), Switzerland (1)",
+  "2005-shows-with": "Alain Delorme (9), Martin Caminiti (2), Kevin Cyr (2), Kim De Ruysscher (2), Alain Declercq (2), Laurent Duthion (2), Joshua Frankel (2), Max Knight (2), Mireille Loup (2), Yann R\\'Cycle (2), Jeanne Susplugas (2), Philip Symonds (2), the pit (2), Vhils (2), Cedric Viollet (2)",
   "representing-galleries": "Galerie Magda Danysz (78, rue Amelot, 75013 Paris, France); Galerie Brandt (Prinsengracht  799, 1017 KA Amsterdam, Netherlands)",
   "collecting-museums": null,
   "first_name": "Alain",
@@ -43,7 +43,90 @@
   "age": 35,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "255152-2090-2007-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "255152-2090-2007-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "255152-10584-2007-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "255152-10584-2007-07-01",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "255152-23554-2011-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "255152-23554-2011-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "255152-26374-2011-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "255152-26374-2011-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "255152-2090-2011-12-10",
+        "c": "FR"
+      },
+      {
+        "i": "255152-26782-2011-01-22",
+        "c": "NL",
+        "n": "Alain Delorme",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Amsterdam",
+        "o": "Galerie Brandt",
+        "d": [
+          "2011-01-22",
+          "2011-03-20"
+        ]
+      },
+      {
+        "i": "255152-6778-2011-07-05",
+        "c": "ES",
+        "n": "Alain Delorme - Totems",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Bilbao",
+        "o": "Sala Rekalde",
+        "d": [
+          "2011-07-05",
+          "2011-08-28"
+        ]
+      },
+      {
+        "i": "255152-18982-2011-11-18",
+        "c": "DE",
+        "n": "Totems",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "taubert contemporary",
+        "d": [
+          "2011-11-18",
+          "2012-02-18"
+        ]
+      }
+    ],
     "2012": [
+      {
+        "i": "255152-2090-2011-12-10",
+        "c": "FR"
+      },
       {
         "i": "255152-26782-2012-05-30",
         "c": "NL",
@@ -95,6 +178,24 @@
           "2011-11-18",
           "2012-02-18"
         ]
+      },
+      {
+        "i": "255152-24164-2012-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "255152-24164-2012-04-19",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "255152-30491-2006-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "255152-30491-2006-09-22",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -112,45 +213,14 @@
         ]
       }
     ],
-    "2011": [
+    "2010": [
       {
-        "i": "255152-26782-2011-01-22",
-        "c": "NL",
-        "n": "Alain Delorme",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Amsterdam",
-        "o": "Galerie Brandt",
-        "d": [
-          "2011-01-22",
-          "2011-03-20"
-        ]
+        "i": "255152-2090-2010-09-04",
+        "c": "FR"
       },
       {
-        "i": "255152-6778-2011-07-05",
-        "c": "ES",
-        "n": "Alain Delorme - Totems",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Bilbao",
-        "o": "Sala Rekalde",
-        "d": [
-          "2011-07-05",
-          "2011-08-28"
-        ]
-      },
-      {
-        "i": "255152-18982-2011-11-18",
-        "c": "DE",
-        "n": "Totems",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "taubert contemporary",
-        "d": [
-          "2011-11-18",
-          "2012-02-18"
-        ]
+        "i": "255152-2090-2010-09-04",
+        "c": "FR"
       }
     ],
     "2013": [

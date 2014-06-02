@@ -1,7 +1,7 @@
 {
   "id": "173942",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:14:00",
+  "timestamp": "2014-05-24 07:16:03",
   "name": "Elisa Pône",
   "surname": "Pône",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "16131",
-  "r01": "14898",
-  "r02": "19381",
-  "r03": "20255",
-  "r04": "20970",
-  "r05": "40085",
-  "r06": "60971",
-  "r07": null,
+  "r00": "13290",
+  "r01": "13020",
+  "r02": "11421",
+  "r03": "15230",
+  "r04": "16023",
+  "r05": "16288",
+  "r06": "34274",
+  "r07": "55553",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "17",
+  "all-shows-total": "18",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
   "2005-shows-museums": "9",
-  "2005-countries-total": "France (12), Germany (1), Poland (1), Portugal (1), United Kingdom (1)",
-  "2005-shows-with": "Elisa Pône (13), Adrien Vescovi (3), Julien Chevy (2), Pierre Fisher (2), Vincent Ganivet (2), Douglas Gordon (2), Pierre Labat (2), MA Leledy (2), Arnaud Maguet (2), Nicolas Muller (2), Simon Nicaise (2), Hugues Reip (2), Roman Signer (2), Bojan Stojic (2), Julie Vayssière (2), Jean-Luc Verna (2)",
+  "2005-countries-total": "France (12), United Kingdom (2), Germany (1), Poland (1), Portugal (1)",
+  "2005-shows-with": "Elisa Pône (14), Adrien Vescovi (3), Julien Chevy (2), Pierre Fisher (2), Vincent Ganivet (2), Douglas Gordon (2), Pierre Labat (2), MA Leledy (2), Arnaud Maguet (2), Nicolas Muller (2), Simon Nicaise (2), Hugues Reip (2), Roman Signer (2), Bojan Stojic (2), Julie Vayssière (2), Jean-Luc Verna (2)",
   "representing-galleries": "Galerie Michel Rein (42 rue de Turenne, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Elisa",
@@ -43,7 +43,25 @@
   "age": 40,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "173942-18800-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "173942-18800-2007-09-15",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "173942-17766-2008-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "173942-17766-2008-04-16",
+        "c": "FR"
+      },
       {
         "i": "173942-5765-2008-04-16",
         "c": "GB",
@@ -56,9 +74,37 @@
           "2008-04-16",
           "2008-05-17"
         ]
+      },
+      {
+        "i": "173942-1917-2008-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "173942-1917-2008-02-02",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "173942-11771-2009-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "173942-11771-2009-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "173942-18800-2009-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "173942-18800-2009-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "173942-8996-2009-10-25",
+        "c": "FR"
+      },
       {
         "i": "173942-2419-2009-12-19",
         "c": "PL",
@@ -74,6 +120,10 @@
       }
     ],
     "2010": [
+      {
+        "i": "173942-8996-2009-10-25",
+        "c": "FR"
+      },
       {
         "i": "173942-2419-2009-12-19",
         "c": "PL",
@@ -99,9 +149,41 @@
           "2010-06-10",
           "2010-06-26"
         ]
+      },
+      {
+        "i": "173942-4651-2010-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "173942-19670-2010-12-21",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "173942-4651-2010-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "173942-19670-2010-12-21",
+        "c": "FR"
+      },
+      {
+        "i": "173942-1829-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "173942-1829-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "173942-11771-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "173942-11771-2011-05-07",
+        "c": "FR"
+      },
       {
         "i": "173942-10739-2011-09-29",
         "c": "PT",
@@ -114,6 +196,32 @@
           "2011-09-29",
           "2011-11-11"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "173942-9120-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "173942-9120-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "173942-18800-2012-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "173942-18800-2012-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "173942-1917-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "173942-1917-2012-09-08",
+        "c": "FR"
       }
     ]
   }

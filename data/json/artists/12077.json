@@ -1,7 +1,7 @@
 {
   "id": "12077",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:56",
+  "timestamp": "2014-05-24 06:19:44",
   "name": "Kriki",
   "surname": "Kriki",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "89663",
-  "r01": "84818",
-  "r02": "90617",
-  "r03": "83316",
-  "r04": "75091",
-  "r05": "66881",
-  "r06": "58340",
-  "r07": "57346",
-  "r08": "48301",
+  "r00": "76314",
+  "r01": "76425",
+  "r02": "72525",
+  "r03": "80601",
+  "r04": "74590",
+  "r05": "67593",
+  "r06": "81000",
+  "r07": "72639",
+  "r08": "73544",
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
-  "all-shows-total": "6",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (1), Turkey (1)",
+  "2005-countries-total": "France (1), Luxembourg (1), Turkey (1)",
   "2005-shows-with": "Kriki (2)",
-  "representing-galleries": "Galerie du Centre (5, rue Pierre-au-Lard, 75004 Paris, France); Opera Gallery (356, rue Saint-Honoré, 75001 Paris, France); Zidoun-Bossuyt Gallery  (101, rue Adolphe Fischer, 1520 Luxembourg, Luxembourg)",
+  "representing-galleries": "Galerie du Centre (5, rue Pierre-au-Lard, 75004 Paris, France); Opera Gallery (356, rue Saint-Honoré, 75001 Paris, France)",
   "collecting-museums": "Musée du sourire (34, rue des Dames, 75017 Paris, France)",
   "first_name": "Kriki",
   "last_name": "",
@@ -43,6 +43,16 @@
   "age": 49,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "12077-5466-2005-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "12077-5466-2005-05-27",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "12077-3570-2007-02-05",
@@ -71,6 +81,14 @@
           "2012-05-11",
           "2012-05-26"
         ]
+      },
+      {
+        "i": "12077-1385-2012-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "12077-1385-2012-11-10",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "2026",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:02:56",
+  "timestamp": "2014-05-24 06:15:26",
   "name": "Pascal Pinaud",
   "surname": "Pinaud",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "2308",
-  "r01": "2172",
-  "r02": "2090",
-  "r03": "2028",
-  "r04": "2137",
-  "r05": "1892",
-  "r06": "1543",
-  "r07": "1430",
-  "r08": "1467",
+  "r00": "3010",
+  "r01": "2801",
+  "r02": "2543",
+  "r03": "2426",
+  "r04": "2489",
+  "r05": "2830",
+  "r06": "2308",
+  "r07": "1685",
+  "r08": "1521",
   "awards": null,
   "website": null,
   "all-shows-first": "1992",
-  "all-shows-total": "76",
+  "all-shows-total": "77",
   "2005-shows-biennials": "10",
   "2005-shows-galleries": "10",
-  "2005-shows-museums": "13",
-  "2005-countries-total": "France (13), Switzerland (5), Belgium (3), Germany (1), Luxembourg (1)",
-  "2005-shows-with": "Pascal Pinaud (19), John M Armleder (6), Noël Dolla (6), Bernard Piffaretti (5), Bernard Frize (4), Philippe Gronon (4), Etienne Bossut (3), Philippe Cognée (3), Sandrine Flury (3), Didier Marcel (3), Mathieu Mercier (3), Fiona Rae (3), Didier Rittener (3), Yvan Salomone (3), Pierre Ardouvin (2), Martin Barré (2), Cécile Bart (2), Carole Benzaken (2), Céleste Boursier-Mougenot (2), Pascal Broccolichi (2), Silvia Bächli (2), Philippe Decrauzat (2), Helmut Dorner (2), Nicolas Floc\\'h (2), Michel Grillet (2), Jonathan Lasker (2), Bertrand Lavier (2), Eric Madeleine (2), Stephane Magnin (2), Emilie Maltaverne (2), Didier Mencoboni (2), Pierre Moignard (2), Frank Nitsche (2), Philippe Ramette (2), Bruno Rousselot (2), Ludovic Sauvage (2), Anne-Marie Schneider (2), Xavier Veilhan (2)",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "France (14), Switzerland (5), Belgium (3), Germany (1), Luxembourg (1)",
+  "2005-shows-with": "Pascal Pinaud (20), Noël Dolla (7), John M Armleder (6), Bernard Piffaretti (5), Bernard Frize (4), Philippe Gronon (4), Etienne Bossut (3), Philippe Cognée (3), Sandrine Flury (3), Didier Marcel (3), Mathieu Mercier (3), Fiona Rae (3), Didier Rittener (3), Yvan Salomone (3), Pierre Ardouvin (2), Martin Barré (2), Cécile Bart (2), Carole Benzaken (2), Céleste Boursier-Mougenot (2), Pascal Broccolichi (2), Silvia Bächli (2), Denis Castellas (2), César (2), Philippe Decrauzat (2), Helmut Dorner (2), Roland Flexner (2), Nicolas Floc\\'h (2), Michel Grillet (2), Jonathan Lasker (2), Bertrand Lavier (2), Eric Madeleine (2), Stephane Magnin (2), Emilie Maltaverne (2), Didier Mencoboni (2), Pierre Moignard (2), Frank Nitsche (2), Philippe Ramette (2), Bruno Rousselot (2), Ludovic Sauvage (2), Anne-Marie Schneider (2), Cédric Teisseire (2), Xavier Veilhan (2), Claude Viallat (2)",
   "representing-galleries": "Galerie Nathalie Obadia - Bruxelles (Rue Charles Decoster 8, 1050 Brussels, Belgium); Galerie Nathalie Obadia - Paris (3, rue du Cloitre Saint-Merri, 75004 Paris, France); Galerie Catherine Issert (2, route des Serres, 6570 Saint-Paul de Vence, France)",
   "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); Musée Départemental d'Art Contemporain de Rochechouart (place du Château, 87600  Rochechouart, France); Musée d'Art moderne de Saint-Etienne (La Terrasse, 42000 Saint-Etienne, France); Mamco - musée d´art moderne et contemporain (10 rue des Vieux-Grenadiers, CH-1205 Geneva, Switzerland)",
   "first_name": "Pascal",
@@ -56,6 +56,14 @@
           "2005-10-20",
           "2006-01-30"
         ]
+      },
+      {
+        "i": "2026-3864-2005-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "2026-3864-2005-09-12",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -71,6 +79,46 @@
           "2005-10-20",
           "2006-01-30"
         ]
+      },
+      {
+        "i": "2026-2090-2006-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2090-2006-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2414-2006-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2414-2006-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "2026-3864-2006-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "2026-3864-2006-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "2026-1955-2006-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "2026-1955-2006-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2014-2006-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2014-2006-06-30",
+        "c": "FR"
       },
       {
         "i": "2026-12984-2006-07-11",
@@ -97,9 +145,49 @@
           "2006-09-23",
           "2006-11-12"
         ]
+      },
+      {
+        "i": "2026-2014-2006-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "2026-10517-2006-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "2026-10517-2006-05-06",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "2026-2014-2006-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "2026-10584-2007-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "2026-10584-2007-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "2026-4651-2007-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "2026-4651-2007-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2585-2007-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2585-2007-02-10",
+        "c": "FR"
+      },
       {
         "i": "2026-17449-2007-03-31",
         "c": "TH",
@@ -112,9 +200,65 @@
           "2007-03-31",
           "2007-06-17"
         ]
+      },
+      {
+        "i": "2026-8897-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "2026-8897-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2014-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2014-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "2026-10517-2007-10-06",
+        "c": "FR"
+      },
+      {
+        "i": "2026-10517-2007-10-06",
+        "c": "FR"
+      },
+      {
+        "i": "2026-3864-2007-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2014-2007-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2014-2007-06-01",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "2026-3864-2007-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "2026-17377-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "2026-17377-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "2026-1955-2008-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "2026-1955-2008-05-17",
+        "c": "FR"
+      },
       {
         "i": "2026-18199-2008-09-20",
         "c": "BE",
@@ -126,6 +270,37 @@
         "d": [
           "2008-09-20",
           "2008-10-31"
+        ]
+      },
+      {
+        "i": "2026-13364-2008-12-18",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "2026-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2585-2009-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2585-2009-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "2026-18199-2009-09-12",
+        "c": "BE",
+        "n": "Pascal Pinaud - Débord & dépeint",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "Galerie Nathalie Obadia - Bruxelles",
+        "d": [
+          "2009-09-12",
+          "2009-10-31"
         ]
       }
     ],
@@ -142,6 +317,14 @@
           "2010-03-20",
           "2010-04-30"
         ]
+      },
+      {
+        "i": "2026-8997-2010-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "2026-8997-2010-05-28",
+        "c": "FR"
       },
       {
         "i": "2026-1778-2010-06-02",
@@ -168,9 +351,49 @@
           "2010-06-02",
           "2010-09-19"
         ]
+      },
+      {
+        "i": "2026-10522-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "2026-10522-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2353-2010-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "2026-19670-2010-12-21",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "2026-2353-2010-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "2026-19670-2010-12-21",
+        "c": "FR"
+      },
+      {
+        "i": "2026-11214-2011-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "2026-11214-2011-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "2026-10247-2011-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "2026-10247-2011-06-22",
+        "c": "FR"
+      },
       {
         "i": "2026-4185-2011-10-15",
         "c": "CH",
@@ -226,6 +449,22 @@
         ]
       },
       {
+        "i": "2026-8555-2012-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "2026-8555-2012-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "2026-1955-2012-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "2026-1955-2012-01-12",
+        "c": "FR"
+      },
+      {
         "i": "2026-18199-2012-01-12",
         "c": "BE",
         "n": "Sept ans de réflexion",
@@ -237,6 +476,14 @@
           "2012-01-12",
           "2012-02-25"
         ]
+      },
+      {
+        "i": "2026-2014-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "2026-2014-2012-06-28",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -251,21 +498,6 @@
         "d": [
           "2013-02-20",
           "2013-05-05"
-        ]
-      }
-    ],
-    "2009": [
-      {
-        "i": "2026-18199-2009-09-12",
-        "c": "BE",
-        "n": "Pascal Pinaud - Débord & dépeint",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Brussels",
-        "o": "Galerie Nathalie Obadia - Bruxelles",
-        "d": [
-          "2009-09-12",
-          "2009-10-31"
         ]
       }
     ]

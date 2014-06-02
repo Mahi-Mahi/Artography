@@ -1,7 +1,7 @@
 {
   "id": "235951",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:37:40",
+  "timestamp": "2014-05-24 07:37:17",
   "name": "Raphaële Bidault-Waddington",
   "surname": "Bidault-Waddington",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "37876",
-  "r01": "36207",
-  "r02": "32801",
-  "r03": "29481",
-  "r04": "57269",
-  "r05": "51092",
-  "r06": "44201",
-  "r07": "39768",
-  "r08": "32979",
+  "r00": "40920",
+  "r01": "40772",
+  "r02": "36665",
+  "r03": "31129",
+  "r04": "26742",
+  "r05": "63617",
+  "r06": "54048",
+  "r07": "45136",
+  "r08": "39547",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
@@ -88,19 +88,14 @@
         ]
       }
     ],
-    "today": [
+    "2007": [
       {
-        "i": "235951-26519-2013-10-10",
-        "c": "DE",
-        "n": "Rooms for Photography - Folkwang Statements",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Hamburg",
-        "o": "FREELENS Galerie",
-        "d": [
-          "2013-10-10",
-          "2014-08-11"
-        ]
+        "i": "235951-21200-2007-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "235951-21200-2007-09-08",
+        "c": "FR"
       }
     ]
   }

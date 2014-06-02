@@ -16,12 +16,42 @@
   "fairs-abroad": "1",
   "fairs-in-FR": "6",
   "fairs": {
+    "2006": [
+      {
+        "i": "8089-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "8089-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "8089-Lille Art Fair 08",
+        "c": "FR"
+      },
+      {
+        "i": "8089-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "8089-Affordable Art Fair Bruxelles 09",
         "c": "BE",
         "n": "Affordable Art Fair Bruxelles 09",
         "ct": "Brussels"
+      },
+      {
+        "i": "8089-Lille Art Fair 09",
+        "c": "FR"
+      },
+      {
+        "i": "8089-ST-ART 2009 - 14e édition",
+        "c": "FR"
       }
     ]
   }

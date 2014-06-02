@@ -16,12 +16,28 @@
   "fairs-abroad": "1",
   "fairs-in-FR": "3",
   "fairs": {
+    "2007": [
+      {
+        "i": "13364-SLICK 2007",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "13364-So Feucking French (SoFF) 08",
         "c": "GB",
         "n": "So Feucking French (SoFF) 08",
         "ct": "London (England)"
+      },
+      {
+        "i": "13364-SLICK 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "13364-SLICK Dessin 09",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "35687",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:18:24",
+  "timestamp": "2014-05-24 06:28:31",
   "name": "Ode Bertrand",
   "surname": "Bertrand",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "18988",
-  "r01": "19861",
-  "r02": "23818",
-  "r03": "22860",
-  "r04": "26546",
-  "r05": "30113",
-  "r06": "32124",
-  "r07": "32007",
-  "r08": "39853",
+  "r00": "17907",
+  "r01": "17235",
+  "r02": "17412",
+  "r03": "21367",
+  "r04": "19888",
+  "r05": "23712",
+  "r06": "27294",
+  "r07": "29610",
+  "r08": "29291",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -33,7 +33,7 @@
   "2005-shows-galleries": "7",
   "2005-shows-museums": "5",
   "2005-countries-total": "Germany (6), France (4), Switzerland (4), Hungary (1), Poland (1)",
-  "2005-shows-with": "Ode Bertrand (14), Marie-Thérèse Vacossin (10), Jean-François Dubreuil (9), Carlos Cruz-Diez (8), Julian Gil (8), Josef Linschinger (8), Yves Popet (8), Charles Bézie (7), Sigurd Rompza (7), Albert Rubens (7), Gido Wiederkehr (7), Martin Wörn (7), John Carter (6), Mitsouko Mori (6), Henri Prosi (6), Torsten Ridell (6), Satoru Sato (6), Diet Sayler (6), Norbert Thomas (6), Jean Pierre Viot (6), Maria Arvelaiz-Gordon (5), Jan Berdyszak (5), Gerhard Jürgen Blum-Kwiatkowski (5), Pierre Boillot (5), Hellmut Bruch (5), Gilbert Decock (5), Gerhard Frömel (5), Ingo Glass (5), Hans-Jörg Glattfelder (5), Hanns Herpich (5), Gottfried Honegger (5), Gerhard Hotter (5), Willem Kloppers (5), Jo Kuhn (5), Manfred Mohr (5), Knut Navrot (5), Jo Niemeyer (5), Claude Pasquer (5), Miriam Prantl (5), Kurt Teuscher (5), Piet van Zon (5), Elise Delbrassine (4), Roger Demyttenaere (4), Alfons Kunen (4), André van Lier (4), Véra Molnar (4), László Ottó (4), Nelly Rudin (4), Klaus Staudt (4), Ian Tyson (4), Helen Vergouwen",
+  "2005-shows-with": "Ode Bertrand (14), Marie-Thérèse Vacossin (10), Jean-François Dubreuil (9), Carlos Cruz-Diez (8), Julian Gil (8), Josef Linschinger (8), Yves Popet (8), Charles Bézie (7), Sigurd Rompza (7), Albert Rubens (7), Gido Wiederkehr (7), Martin Wörn (7), John Carter (6), Mitsouko Mori (6), Jo Niemeyer (6), Henri Prosi (6), Torsten Ridell (6), Satoru Sato (6), Diet Sayler (6), Norbert Thomas (6), Jean Pierre Viot (6), Maria Arvelaiz-Gordon (5), Jan Berdyszak (5), Gerhard Jürgen Blum-Kwiatkowski (5), Pierre Boillot (5), Hellmut Bruch (5), Gilbert Decock (5), Gerhard Frömel (5), Ingo Glass (5), Hans-Jörg Glattfelder (5), Hanns Herpich (5), Gottfried Honegger (5), Gerhard Hotter (5), Willem Kloppers (5), Jo Kuhn (5), Manfred Mohr (5), Knut Navrot (5), Claude Pasquer (5), Miriam Prantl (5), Kurt Teuscher (5), Piet van Zon (5), Elise Delbrassine (4), Roger Demyttenaere (4), Alfons Kunen (4), André van Lier (4), Véra Molnar (4), László Ottó (4), Nelly Rudin (4), Klaus Staudt (4), Ian Tyson (4), Helen Vergouwen",
   "representing-galleries": "Oniris Galerie d´art contemporain (38, rue d´Antrain B.P. 60205, 35702 Rennes, France); galerie konkret martin woern (Hauptstr. 29, 79295 Sulzburg, Germany); Galerie La Ligne (Heinrichstrasse 237, CH-8005 Zurich, Switzerland)",
   "collecting-museums": null,
   "first_name": "Ode",
@@ -58,6 +58,10 @@
         ]
       },
       {
+        "i": "35687-370-2005-12-03",
+        "c": "FR"
+      },
+      {
         "i": "35687-3175-2005-04-01",
         "c": "CH",
         "n": "Ode Bertrand - Bilder",
@@ -72,6 +76,10 @@
       }
     ],
     "2006": [
+      {
+        "i": "35687-370-2005-12-03",
+        "c": "FR"
+      },
       {
         "i": "35687-6776-2006-04-01",
         "c": "DE",
@@ -110,6 +118,14 @@
           "2006-05-05",
           "2006-07-04"
         ]
+      },
+      {
+        "i": "35687-2017-2006-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "35687-2017-2006-06-01",
+        "c": "FR"
       },
       {
         "i": "35687-4036-2006-01-14",
@@ -196,6 +212,14 @@
         ]
       },
       {
+        "i": "35687-20837-2009-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "35687-20837-2009-06-19",
+        "c": "FR"
+      },
+      {
         "i": "35687-27666-2009-12-10",
         "c": "DE",
         "n": "Works on Papers",
@@ -248,6 +272,14 @@
           "2009-12-10",
           "2010-02-27"
         ]
+      },
+      {
+        "i": "35687-21761-2010-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "35687-21761-2010-03-14",
+        "c": "FR"
       },
       {
         "i": "35687-11914-2010-09-03",
@@ -315,6 +347,14 @@
           "2011-02-11",
           "2011-04-03"
         ]
+      },
+      {
+        "i": "35687--2011-08-06",
+        "c": "FR"
+      },
+      {
+        "i": "35687--2011-08-06",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -342,6 +382,14 @@
           "2012-09-05",
           "2012-09-10"
         ]
+      },
+      {
+        "i": "35687-2017-2012-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "35687-2017-2012-10-02",
+        "c": "FR"
       }
     ],
     "2013": [

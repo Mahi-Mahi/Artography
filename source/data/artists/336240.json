@@ -1,7 +1,7 @@
 {
   "id": "336240",
   "mergedIDs": "11929",
-  "timestamp": "2014-02-22 08:16:19",
+  "timestamp": "2014-05-24 08:11:16",
   "name": "Zwy Milshtein",
   "surname": "Milshtein",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "74707",
-  "r01": "71486",
-  "r02": "79705",
-  "r03": "73936",
-  "r04": "76984",
-  "r05": "69907",
-  "r06": "65508",
-  "r07": "57748",
-  "r08": "73640",
+  "r00": "43419",
+  "r01": "70069",
+  "r02": "65435",
+  "r03": "75624",
+  "r04": "69038",
+  "r05": "72395",
+  "r06": "64773",
+  "r07": "60165",
+  "r08": "52385",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "7",
+  "all-shows-total": "8",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": null,
-  "2005-countries-total": "France (4)",
-  "2005-shows-with": "Zwy Milshtein (2)",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (4), China (1)",
+  "2005-shows-with": "Zwy Milshtein (3)",
   "representing-galleries": "Up'art - Galerie du Quai (4, Quai au bois de construction, 1000 Brussels, Belgium); Galerie La Réserve d'Area (50 rue d'Hauteville, 75010 Paris, France)",
   "collecting-museums": "FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France)",
   "first_name": "Zwy",
@@ -43,5 +43,71 @@
   "age": 80,
   "age_range": "61-100",
   "expos": {
+    "2005": [
+      {
+        "i": "336240-5772-2005-12-06",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "336240-5772-2005-12-06",
+        "c": "FR"
+      },
+      {
+        "i": "336240-28285-2006-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "336240-28285-2006-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "336240-18402-2006-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "336240-18402-2006-05-11",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "336240-18402-2008-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "336240-18402-2008-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "336240-18402-2008-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "336240-18402-2008-07-10",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "336240-26249-2010-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "336240-26249-2010-06-03",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "336240-18402-2012-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "336240-18402-2012-03-29",
+        "c": "FR"
+      }
+    ]
   }
 }

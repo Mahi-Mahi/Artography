@@ -1,7 +1,7 @@
 {
   "id": "200583",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:23:58",
+  "timestamp": "2014-05-24 07:25:11",
   "name": "Florent Lamouroux",
   "surname": "Lamouroux",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "63985",
-  "r01": "73744",
-  "r02": "68296",
-  "r03": "62193",
-  "r04": "57587",
-  "r05": "51105",
-  "r06": "44631",
-  "r07": "38092",
-  "r08": "31918",
+  "r00": "37414",
+  "r01": "72718",
+  "r02": "88790",
+  "r03": "77714",
+  "r04": "67796",
+  "r05": "60596",
+  "r06": "52073",
+  "r07": "43769",
+  "r08": "36494",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "3",
+  "all-shows-total": "4",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": null,
-  "2005-countries-total": "France (2)",
-  "2005-shows-with": null,
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (3)",
+  "2005-shows-with": "Florent Lamouroux (2)",
   "representing-galleries": "Galerie Isabelle Gounod (13, rue Chapon, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Florent",
@@ -43,5 +43,25 @@
   "age": 34,
   "age_range": "26-40",
   "expos": {
+    "2010": [
+      {
+        "i": "200583-7348-2010-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "200583-7348-2010-09-03",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "200583-7348-2013-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "200583-7348-2013-05-02",
+        "c": "FR"
+      }
+    ]
   }
 }

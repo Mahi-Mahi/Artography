@@ -1,7 +1,7 @@
 {
   "id": "64647",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:12",
+  "timestamp": "2014-05-24 06:38:51",
   "name": "Céline Berger",
   "surname": "Berger",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting",
-  "r00": "28306",
-  "r01": "41044",
-  "r02": "50409",
-  "r03": "100168",
-  "r04": "93798",
-  "r05": "90496",
-  "r06": "82318",
-  "r07": "78217",
-  "r08": null,
+  "r00": "15008",
+  "r01": "19866",
+  "r02": "31374",
+  "r03": "38933",
+  "r04": "93562",
+  "r05": "91968",
+  "r06": "89307",
+  "r07": "80928",
+  "r08": "78352",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "10",
+  "all-shows-total": "12",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (3), Germany (2), Slovakia (1), United Kingdom (1), USA (1)",
-  "2005-shows-with": "Céline Berger (8), Damien Cadio (3), Carole Benzaken (2), Juliano Caldeira (2), Gérard Fromanger (2), Martin Kohout (2), Axel Pahlavi (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (4), Germany (2), Netherlands (1), Slovakia (1), United Kingdom (1), USA (1)",
+  "2005-shows-with": "Céline Berger (10), Damien Cadio (3), Carole Benzaken (2), Juliano Caldeira (2), Gérard Fromanger (2), Martin Kohout (2), Axel Pahlavi (2)",
   "representing-galleries": "Galerie Iragui  Moscou-Paris (7 -7-5  Malaya Polyanka, 119180  Moscow, Russia)",
   "collecting-museums": null,
   "first_name": "Céline",
@@ -43,6 +43,36 @@
   "age": 42,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "64647-19804-2006-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "64647-19804-2006-05-13",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "64647-29884-2007-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "64647-29884-2007-06-05",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "64647-29199-2009-04-25",
+        "c": "FR"
+      },
+      {
+        "i": "64647-29199-2009-04-25",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "64647-847-2011-10-14",
@@ -71,6 +101,22 @@
           "2011-10-14",
           "2012-01-15"
         ]
+      },
+      {
+        "i": "64647-7392-2012-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "64647-7392-2012-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "64647-8678-2012-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "64647-8678-2012-04-05",
+        "c": "FR"
       },
       {
         "i": "64647-29646-2012-09-27",

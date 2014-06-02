@@ -16,5 +16,87 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "16",
   "fairs": {
+    "2005": [
+      {
+        "i": "5079-ArtParis 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "5079-ArtParis 06",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5079-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "5079-Les Elysées de l'Art - 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5079-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "5079-Art Elysées 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5079-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "5079-Art Elysées 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5079-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "5079-Art Elysées 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5079-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "5079-Art Elysées 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5079-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "5079-Art Elysées 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5079-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "5079-Art Elysees 2013",
+        "c": "FR"
+      }
+    ]
   }
 }

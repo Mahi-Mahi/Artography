@@ -1,7 +1,7 @@
 {
   "id": "81992",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:37:23",
+  "timestamp": "2014-05-24 06:44:57",
   "name": "Nathalie Grall",
   "surname": "Grall",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "93121",
-  "r01": "88582",
-  "r02": "82261",
-  "r03": "75324",
-  "r04": "68573",
-  "r05": "60958",
-  "r06": "55405",
-  "r07": "62677",
-  "r08": "53512",
+  "r00": "97900",
+  "r01": "97582",
+  "r02": "93689",
+  "r03": "88078",
+  "r04": "81920",
+  "r05": "75695",
+  "r06": "68390",
+  "r07": "63891",
+  "r08": "77638",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
@@ -34,7 +34,7 @@
   "2005-shows-museums": null,
   "2005-countries-total": "France (2)",
   "2005-shows-with": null,
-  "representing-galleries": "Galerie Eva Doublet (243 rue des fougères, 17700 Saint-Georges du Bois, France); Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa (RI), Italy)",
+  "representing-galleries": "Galerie Eva Doublet (243 rue des fougères, 17700 Saint-Georges du Bois, France); Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa, RI, Italy)",
   "collecting-museums": null,
   "first_name": "Nathalie",
   "last_name": "Grall",
@@ -43,5 +43,35 @@
   "age": 53,
   "age_range": "41-60",
   "expos": {
+    "2008": [
+      {
+        "i": "81992-5082-2008-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "81992-5082-2008-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "81992-5082-2007-12-05",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "81992-5082-2007-12-05",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "81992-18081-2010-11-20",
+        "c": "FR"
+      },
+      {
+        "i": "81992-18081-2010-11-20",
+        "c": "FR"
+      }
+    ]
   }
 }

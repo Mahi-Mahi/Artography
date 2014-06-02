@@ -1,7 +1,7 @@
 {
   "id": "53157",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:25:24",
+  "timestamp": "2014-05-24 06:34:46",
   "name": "Colette Couleau",
   "surname": "Couleau",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "41901",
-  "r01": "38845",
-  "r02": "37494",
-  "r03": "37378",
-  "r04": "33402",
-  "r05": "29054",
-  "r06": "39862",
-  "r07": "34586",
-  "r08": "33173",
+  "r00": "39077",
+  "r01": "35876",
+  "r02": "30361",
+  "r03": "27377",
+  "r04": "25799",
+  "r05": "21972",
+  "r06": "18360",
+  "r07": "37939",
+  "r08": "32110",
   "awards": ",",
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "8",
+  "all-shows-total": "9",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "Switzerland (3), France (1)",
-  "2005-shows-with": "Colette Couleau (3), Regula Abraham (2), Marie-Louise Leus (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "Switzerland (4), France (1)",
+  "2005-shows-with": "Colette Couleau (4), Regula Abraham (3), Céline Adamo (2), Karin Aeschlimann (2), Puntes Sierra Aloha (2), Ariane Andereggen (2), Gabriela de Antuñano (2), Stefan Armbruster (2), Catherine Arnaud (2), Chris Aschwanden (2), Beatrice Bader (2), Peter Baer (2), Jörg Baier (2), Mia Bailey (2), Robin Ballard (2), Sonia Bamert (2), Susanne Banholzer (2), Dennis Bannert (2), Tina Barth (2), Philippe-Didier Beck (2), Daniela Beck (2), Evelyn Beckmann (2), Florian Bendele (2), Boris Berber (2), Andreas Berde (2), Elisabeth Bereznicki (2), Stefan Bergmann (2), Sarah Bernauer (2), Kaspar Berner (2), Volker Bessel (2), Andreas Blank (2), Charles Blockey (2), Petra Blocksdorf (2), Reinhard Bombsch (2), Ralph Bürgin (2), Christine Camenisch (2), Clement Cogitore (2), Damien Comment (2), Kilian Dellers (2), Erik Dettwiler (2), Gabriella Disler (2), Krassimira Drenska (2), Patricia Dreyfus (2), Matthias Dämpfle (2), Caroline Ebner (2), Marga Ebner (2), Tobias Eder (2), Claudia Eichenberger (2), Christine Fausten (2), Si",
   "representing-galleries": "Galerie Karin Sutter (St. Alban-Vorstadt 10, 4001 Basel, Switzerland); Chelsea Galerie (Delsbergerstrasse 31, 4242 Laufen, Switzerland)",
   "collecting-museums": null,
   "first_name": "Colette",
@@ -170,6 +170,16 @@
           "2010-08-22",
           "2010-09-25"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "53157-19790-2012-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "53157-19790-2012-03-18",
+        "c": "FR"
       }
     ],
     "2011": [

@@ -1,7 +1,7 @@
 {
   "id": "15287",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:21",
+  "timestamp": "2014-05-24 06:20:59",
   "name": "Philippe Perrot",
   "surname": "Perrot",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "8337",
-  "r01": "8547",
-  "r02": "7494",
-  "r03": "7439",
-  "r04": "6663",
-  "r05": "6744",
-  "r06": "5571",
-  "r07": "6028",
-  "r08": "6851",
+  "r00": "9506",
+  "r01": "9994",
+  "r02": "9952",
+  "r03": "7875",
+  "r04": "7508",
+  "r05": "6490",
+  "r06": "6429",
+  "r07": "5038",
+  "r08": "5516",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "21",
+  "all-shows-total": "23",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (2), USA (2), Greece (1), Italy (1)",
-  "2005-shows-with": "Philippe Perrot (6), Kader Attia (2), Gilles Barbier (2), Michel Blazy (2), Stéphane Calais (2), Maurizio Cattelan (2), Damien Deroubaix (2), Urs Fischer (2), Cyprien Gaillard (2), Jeff Koons (2), Friedrich Kunath (2), Didier Marcel (2), Philippe Mayaux (2), Bruno Peinado (2), Charles Ray (2), Wang Du (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (3), Greece (2), USA (2), Italy (1)",
+  "2005-shows-with": "Philippe Perrot (8), Kader Attia (2), Gilles Barbier (2), Michel Blazy (2), Stéphane Calais (2), Maurizio Cattelan (2), Damien Deroubaix (2), Marc Desgrandchamps (2), Richard Fauguet (2), Urs Fischer (2), Cyprien Gaillard (2), Apostolos Georgiou (2), Jeff Koons (2), Friedrich Kunath (2), Giorgos Lappas (2), Frédérique Loutz (2), Didier Marcel (2), Philippe Mayaux (2), Angelos Papadimitriou (2), Bruno Peinado (2), Charles Ray (2), Wang Du (2)",
   "representing-galleries": "Art:Concept (13 rue des Arquebusiers, 75003 Paris, France); John Connelly Presents (JCP) (625 West 27th Street, 10001 New York City, NY, USA)",
   "collecting-museums": "FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); MOCA Grand Avenue (250 South Grand Avenue, 90012 Los Angeles, CA, USA)",
   "first_name": "Philippe",
@@ -56,6 +56,22 @@
           "2005-03-09",
           "2005-04-30"
         ]
+      },
+      {
+        "i": "15287-1797-2005-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "15287-1797-2005-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "15287-2528-2005-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "15287-2528-2005-06-18",
+        "c": "FR"
       },
       {
         "i": "15287-1571-2005-11-22",
@@ -101,6 +117,14 @@
         ]
       },
       {
+        "i": "15287-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "15287-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
         "i": "15287-7066-2007-12-04",
         "c": "US",
         "n": "French Kissing in the U.S.A.",
@@ -142,9 +166,27 @@
           "2009-01-04",
           "2009-02-08"
         ]
+      },
+      {
+        "i": "15287-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "15287-26765-2009-04-24",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "15287-2353-2010-11-06",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "15287-2353-2010-11-06",
+        "c": "FR"
+      },
       {
         "i": "15287-3775-2011-06-02",
         "c": "IT",

@@ -1,7 +1,7 @@
 {
   "id": "100042",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:44:28",
+  "timestamp": "2014-05-24 06:50:59",
   "name": "Philippe Garel",
   "surname": "Garel",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "60613",
-  "r01": "57204",
-  "r02": "52533",
-  "r03": "48898",
-  "r04": "52072",
-  "r05": "68280",
-  "r06": "67323",
-  "r07": "61626",
-  "r08": "54303",
+  "r00": "39359",
+  "r01": "60859",
+  "r02": "56498",
+  "r03": "50730",
+  "r04": "45946",
+  "r05": "49942",
+  "r06": "70255",
+  "r07": "69897",
+  "r08": "63766",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "9",
+  "all-shows-total": "10",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (2), Italy (2), Germany (1)",
-  "2005-shows-with": "Philippe Garel (4), Agostino Arrivabene (2), Giuseppe Colombo (2), Isabella Molard (2), Paolo Quaresima (2), Luciano Ventrone (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (2), Italy (2), China (1), Germany (1)",
+  "2005-shows-with": "Philippe Garel (5), Agostino Arrivabene (2), Giuseppe Colombo (2), Isabella Molard (2), Paolo Quaresima (2), Luciano Ventrone (2)",
   "representing-galleries": "Galleria Forni (Via Farini 26, 40124 Bologna, Italy); Studio Forni (Via Fatebenefratelli 13, 20121 Milan, Italy)",
-  "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); Ca´la Ghironda - Museo d´Arte Classica, Moderna e Contemporanea (via Leonardo da Vinci 19, 40069 Zola Predosa (BO), Italy)",
+  "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); Ca´la Ghironda - Museo d´Arte Classica, Moderna e Contemporanea (via Leonardo da Vinci 19, 40069 Zola Predosa, BO, Italy)",
   "first_name": "Philippe",
   "last_name": "Garel",
   "genre": "m",
@@ -88,6 +88,16 @@
         ]
       }
     ],
+    "2009": [
+      {
+        "i": "100042-10519-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "100042-10519-2009-10-17",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "100042-1440-2010-06-10",
@@ -101,6 +111,14 @@
           "2010-06-10",
           "2010-07-16"
         ]
+      },
+      {
+        "i": "100042-29101-2010-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "100042-29101-2010-09-24",
+        "c": "FR"
       }
     ],
     "2011": [

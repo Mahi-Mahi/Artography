@@ -16,5 +16,21 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "3",
   "fairs": {
+    "2009": [
+      {
+        "i": "20988-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "20988-Lille Art Fair 2010",
+        "c": "FR"
+      },
+      {
+        "i": "20988-The Affordable Art Fair Paris 2010",
+        "c": "FR"
+      }
+    ]
   }
 }

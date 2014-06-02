@@ -1,7 +1,7 @@
 {
   "id": "94400",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:42:28",
+  "timestamp": "2014-05-24 06:49:15",
   "name": "Jean-Pierre Nadau",
   "surname": "Nadau",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "56339",
-  "r01": "52878",
-  "r02": "47936",
-  "r03": "47015",
-  "r04": "41562",
-  "r05": "36575",
-  "r06": "33044",
-  "r07": "27978",
-  "r08": "23491",
+  "r00": "69884",
+  "r01": "62766",
+  "r02": "54990",
+  "r03": "46928",
+  "r04": "47897",
+  "r05": "40095",
+  "r06": "33570",
+  "r07": "29840",
+  "r08": "24263",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "12",
-  "2005-shows-biennials": "1",
-  "2005-shows-galleries": "1",
+  "all-shows-total": "13",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (1), Germany (1), Japan (1)",
-  "2005-shows-with": "Chris Hipkiss (3), Jean-Pierre Nadau (3), Willem van Genk (2), Madge Gill (2), Michel Nedjar (2), Nikifor (2)",
-  "representing-galleries": "Galerie Susanne  Zander (Antwerpener Str. 1, 50672 Cologne, Germany); Galerie Hamer (Leliegracht 38, 1015 DH Amsterdam, Netherlands)",
+  "2005-countries-total": "Austria (1), France (1), Germany (1), Japan (1)",
+  "2005-shows-with": "Jean-Pierre Nadau (4), Chris Hipkiss (3), Michel Nedjar (3), Willem van Genk (2), Madge Gill (2), Nikifor (2), Gérard Sendrey (2)",
+  "representing-galleries": "Galerie der Künstler aus Gugging (Hauptstr. 2, 3400 Maria -Gugging, Austria); Galerie Susanne  Zander (Antwerpener Str. 1, 50672 Cologne, Germany); Galerie Hamer (Leliegracht 38, 1015 DH Amsterdam, Netherlands)",
   "collecting-museums": null,
   "first_name": "Jean-Pierre",
   "last_name": "Nadau",
@@ -56,6 +56,10 @@
           "2005-04-02",
           "2005-05-08"
         ]
+      },
+      {
+        "i": "94400-22692-2005-09-12",
+        "c": "FR"
       },
       {
         "i": "94400-20748-2005-11-05",
@@ -99,6 +103,10 @@
     ],
     "2006": [
       {
+        "i": "94400-22692-2005-09-12",
+        "c": "FR"
+      },
+      {
         "i": "94400-20748-2006-02-07",
         "c": "NL",
         "n": "Winterexpositie",
@@ -138,6 +146,16 @@
           "2008-03-02",
           "2008-05-12"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "94400-22692-2011-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "94400-22692-2011-01-17",
+        "c": "FR"
       }
     ],
     "2013": [

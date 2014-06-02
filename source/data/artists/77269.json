@@ -1,7 +1,7 @@
 {
   "id": "77269",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:35:26",
+  "timestamp": "2014-05-24 06:43:17",
   "name": "Christian LaCroix",
   "surname": "LaCroix",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Fashion Design",
-  "r00": "29087",
-  "r01": "26974",
-  "r02": "25593",
-  "r03": "22998",
-  "r04": "20135",
-  "r05": "27219",
-  "r06": "30689",
-  "r07": "36767",
-  "r08": "42598",
+  "r00": "31697",
+  "r01": "29323",
+  "r02": "26488",
+  "r03": "24034",
+  "r04": "20519",
+  "r05": "17192",
+  "r06": "23860",
+  "r07": "27503",
+  "r08": "33531",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "12",
+  "all-shows-total": "13",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (3), Hungary (1), Italy (1)",
-  "2005-shows-with": "Christian LaCroix (4), Jean-Luc Moulène (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (4), Hungary (1), Italy (1)",
+  "2005-shows-with": "Christian LaCroix (5), Jean-Luc Moulène (2), Jana Sterbak (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Christian",
@@ -86,9 +86,25 @@
           "2007-03-31",
           "2007-06-17"
         ]
+      },
+      {
+        "i": "77269-14159-2007-05-09",
+        "c": "FR"
+      },
+      {
+        "i": "77269-14159-2007-05-09",
+        "c": "FR"
+      },
+      {
+        "i": "77269-14159-2007-11-20",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "77269-14159-2007-11-20",
+        "c": "FR"
+      },
       {
         "i": "77269-19782-2008-01-15",
         "c": "HU",
@@ -116,6 +132,34 @@
           "2009-05-23",
           "2009-10-11"
         ]
+      },
+      {
+        "i": "77269-8282-2009-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "77269-8282-2009-06-03",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "77269-12125-2013-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "77269-12125-2013-05-05",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "77269-11393-2012-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "77269-11393-2012-06-29",
+        "c": "FR"
       }
     ]
   }

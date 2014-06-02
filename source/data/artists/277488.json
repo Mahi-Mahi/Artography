@@ -1,7 +1,7 @@
 {
   "id": "277488",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:53:47",
+  "timestamp": "2014-05-24 07:51:30",
   "name": "Nicolas Sassoon",
   "surname": "Sassoon",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "31925",
-  "r01": "43863",
-  "r02": "100643",
-  "r03": "97850",
-  "r04": null,
+  "r00": "20331",
+  "r01": "22002",
+  "r02": "30251",
+  "r03": "96027",
+  "r04": "93723",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,13 +28,13 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "8",
+  "all-shows-total": "10",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (4), Canada (3), Mexico (1)",
-  "2005-shows-with": "Nicolas Sassoon (5)",
-  "representing-galleries": "The Sunday Painter (1st Floor, 12-16 Blenheim Grove, SE15 4QL London (England), United Kingdom)",
+  "2005-countries-total": "Canada (4), France (4), Mexico (1), USA (1)",
+  "2005-shows-with": "Nicolas Sassoon (7), Sara Ludy (2)",
+  "representing-galleries": "The Sunday Painter (1st Floor, 12-16 Blenheim Grove, SE15 4QL London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "Nicolas",
   "last_name": "Sassoon",
@@ -58,6 +58,14 @@
         ]
       },
       {
+        "i": "277488-20646-2010-11-09",
+        "c": "FR"
+      },
+      {
+        "i": "277488-20646-2010-11-09",
+        "c": "FR"
+      },
+      {
         "i": "277488-22910-2010-12-11",
         "c": "CA",
         "n": "Hot spring",
@@ -69,6 +77,16 @@
           "2010-12-11",
           "2010-12-18"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "277488-20132-2011-10-29",
+        "c": "FR"
+      },
+      {
+        "i": "277488-20132-2011-10-29",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -84,6 +102,14 @@
           "2012-03-17",
           "2012-04-16"
         ]
+      },
+      {
+        "i": "277488-18800-2012-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "277488-18800-2012-04-07",
+        "c": "FR"
       },
       {
         "i": "277488-12004-2012-07-13",
@@ -112,6 +138,16 @@
           "2012-07-13",
           "2013-01-30"
         ]
+      },
+      {
+        "i": "277488-18800-2013-09-22",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "277488-18800-2013-09-22",
+        "c": "FR"
       }
     ]
   }

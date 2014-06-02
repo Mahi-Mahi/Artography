@@ -1,7 +1,7 @@
 {
   "id": "16901",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:10",
+  "timestamp": "2014-05-24 06:21:39",
   "name": "François-Xavier Courrèges",
   "surname": "Courrèges",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "10620",
-  "r01": "9556",
-  "r02": "8430",
-  "r03": "7401",
-  "r04": "8569",
-  "r05": "7716",
-  "r06": "7704",
-  "r07": "11847",
-  "r08": "11052",
+  "r00": "10394",
+  "r01": "13183",
+  "r02": "10805",
+  "r03": "8841",
+  "r04": "7119",
+  "r05": "8501",
+  "r06": "7368",
+  "r07": "7295",
+  "r08": "11853",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "28",
+  "all-shows-total": "30",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (8), Canada (1), Italy (1), Spain (1)",
-  "2005-shows-with": "François-Xavier Courrèges (7), Douglas Gordon (6), Christian Boltanski (3), Rebecca Bournigault (3), Anne Brégeaut (3), Claude Closky (3), Claude Lévêque (3), Melanie Manchot (3), Christodoulos Panayiotou (3), Cécile Paris (3), Marina Abramovic (2), Bas Jan Ader (2), David Altmejd (2), Francis Alys (2), Pierre Ardouvin (2), Fiona Banner (2), Miquel Barceló (2), Jean Michel Basquiat (2), Jean Charles Blais (2), Diane Borsato (2), Louise Bourgeois (2), Michel de Broin (2), Marcel Broodthaers (2), KR Buxey (2), Sophie Calle (2), Lygia Clark (2), Marcel Dzama (2), Tracey Emin (2), Cerith Wyn Evans (2), Christelle Familiari (2), Hans-Peter Feldmann (2), Ryan Gander (2), Nan Goldin (2), Felix Gonzalez-Torres (2), Kevin Francis Gray (2), Jenny Holzer (2), Roni Horn (2), Carsten Höller (2), Jesper Just (2), On Kawara (2), Janice Kerbel (2), Anselm Kiefer (2), Jannis Kounellis (2), Thierry Kuntzel (2), Bertrand Lavier (2), Louise Lawler (2), Ange Leccia (2), Sol LeWitt (2), Arnaud Maguet (2), Christian Marclay",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (10), Canada (1), Italy (1), Spain (1)",
+  "2005-shows-with": "François-Xavier Courrèges (9), Douglas Gordon (7), Francis Alys (4), Christian Boltanski (4), Marcel Broodthaers (4), Claude Lévêque (4), Jean Michel Basquiat (3), Louise Bourgeois (3), Rebecca Bournigault (3), Anne Brégeaut (3), Claude Closky (3), Hans-Peter Feldmann (3), Nan Goldin (3), Jenny Holzer (3), Roni Horn (3), On Kawara (3), Anselm Kiefer (3), Bertrand Lavier (3), Melanie Manchot (3), Christian Marclay (3), Christodoulos Panayiotou (3), Cécile Paris (3), Andrés Serrano (3), Jana Sterbak (3), Niele Toroni (3), Cy Twombly (3), Francesco Vezzoli (3), Andy Warhol (3), Marina Abramovic (2), Bas Jan Ader (2), David Altmejd (2), Pierre Ardouvin (2), Fiona Banner (2), Miquel Barceló (2), Robert Barry (2), Joseph Beuys (2), Jean Charles Blais (2), Diane Borsato (2), Michel de Broin (2), KR Buxey (2), Sophie Calle (2), Mircea Cantor (2), Lygia Clark (2), Jason Dodge (2), Marcel Dzama (2), Tracey Emin (2), Cerith Wyn Evans (2), Christelle Familiari (2), Spencer Finch (2), Ryan Gander (2), Anna Gaskell",
   "representing-galleries": "Galerie Sultana (12 rue des arquebusiers, 75003 Paris, France)",
   "collecting-museums": "Musée du sourire (34, rue des Dames, 75017 Paris, France)",
   "first_name": "François-Xavier",
@@ -43,6 +43,29 @@
   "age": 39,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "16901-1936-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "16901-1936-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "16901-4454-2005-09-26",
+        "c": "ES",
+        "n": "François-Xavier Courrèges - Love Unlimited",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Barcelona",
+        "o": "Nogueras Blanchard",
+        "d": [
+          "2005-09-26",
+          "2005-11-12"
+        ]
+      }
+    ],
     "2006": [
       {
         "i": "16901-2706-2006-01-29",
@@ -56,9 +79,25 @@
           "2006-01-29",
           "2006-05-07"
         ]
+      },
+      {
+        "i": "16901-1936-2006-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "16901-1936-2006-11-25",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "16901-30465-2007-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "16901-30465-2007-03-15",
+        "c": "FR"
+      },
       {
         "i": "16901-17449-2007-03-31",
         "c": "TH",
@@ -71,6 +110,18 @@
           "2007-03-31",
           "2007-06-17"
         ]
+      },
+      {
+        "i": "16901-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "16901-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "16901-8281-2007-10-28",
+        "c": "FR"
       },
       {
         "i": "16901-10736-2007-11-16",
@@ -101,6 +152,10 @@
     ],
     "2008": [
       {
+        "i": "16901-8281-2007-10-28",
+        "c": "FR"
+      },
+      {
         "i": "16901-7527-2008-05-07",
         "c": "IT",
         "n": "Le Grand Tour",
@@ -112,6 +167,14 @@
           "2008-05-07",
           "2008-07-14"
         ]
+      },
+      {
+        "i": "16901-30465-2008-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "16901-30465-2008-06-15",
+        "c": "FR"
       },
       {
         "i": "16901-4454-2008-06-19",
@@ -140,6 +203,14 @@
           "2009-09-24",
           "2010-01-11"
         ]
+      },
+      {
+        "i": "16901-20694-2009-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "16901-20694-2009-04-06",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -155,21 +226,58 @@
           "2009-09-24",
           "2010-01-11"
         ]
+      },
+      {
+        "i": "16901-4651-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "16901-4651-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "16901-4651-2010-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "16901-7391-2010-10-30",
+        "c": "FR"
+      },
+      {
+        "i": "16901-7391-2010-10-30",
+        "c": "FR"
+      },
+      {
+        "i": "16901-8281-2010-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "16901-30465-2010-01-09",
+        "c": "FR"
+      },
+      {
+        "i": "16901-30465-2010-01-09",
+        "c": "FR"
       }
     ],
-    "2005": [
+    "2011": [
       {
-        "i": "16901-4454-2005-09-26",
-        "c": "ES",
-        "n": "François-Xavier Courrèges - Love Unlimited",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Barcelona",
-        "o": "Nogueras Blanchard",
-        "d": [
-          "2005-09-26",
-          "2005-11-12"
-        ]
+        "i": "16901-4651-2010-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "16901-8281-2010-12-12",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16901-30270-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "16901-30270-2013-02-02",
+        "c": "FR"
       }
     ]
   }

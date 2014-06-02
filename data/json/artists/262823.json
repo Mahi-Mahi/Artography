@@ -1,7 +1,7 @@
 {
   "id": "262823",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:48:07",
+  "timestamp": "2014-05-24 07:46:29",
   "name": "Amel Bennys",
   "surname": "Bennys",
   "nationality": "FR, TN",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "80809",
-  "r01": "78109",
-  "r02": "73224",
-  "r03": "98293",
-  "r04": "91780",
-  "r05": "84729",
-  "r06": "76580",
-  "r07": "68413",
-  "r08": "60537",
+  "r00": "73880",
+  "r01": "74160",
+  "r02": "70189",
+  "r03": "64862",
+  "r04": "98491",
+  "r05": "91141",
+  "r06": "83262",
+  "r07": "74700",
+  "r08": "66098",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
@@ -34,7 +34,7 @@
   "2005-shows-museums": null,
   "2005-countries-total": "France (2), United Kingdom (1)",
   "2005-shows-with": null,
-  "representing-galleries": "Galerie El Marsa (2 place du Saf Saf, 2070 La Marsa, Tunisia); Selma Feriani Gallery (23 Maddox Street, W1S 2QN London (England), United Kingdom)",
+  "representing-galleries": "Galerie El Marsa (2 place du Saf Saf, 2070 La Marsa, Tunisia); Selma Feriani Gallery (23 Maddox Street, W1S 2QN London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "Amel",
   "last_name": "Bennys",
@@ -43,7 +43,17 @@
   "age": 49,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "262823-28288-2005-11-26",
+        "c": "FR"
+      }
+    ],
     "2006": [
+      {
+        "i": "262823-28288-2005-11-26",
+        "c": "FR"
+      },
       {
         "i": "262823-8031-2006-08-01",
         "c": "TN",
@@ -59,6 +69,22 @@
       }
     ],
     "2011": [
+      {
+        "i": "262823-28288-2011-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "262823-28288-2011-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "262823-29550-2011-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "262823-29550-2011-04-29",
+        "c": "FR"
+      },
       {
         "i": "262823-19376-2011-11-17",
         "c": "GB",

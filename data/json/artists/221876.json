@@ -1,7 +1,7 @@
 {
   "id": "221876",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:32:20",
+  "timestamp": "2014-05-24 07:32:29",
   "name": "Dominique Furge",
   "surname": "Furge",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "61150",
-  "r01": "58218",
-  "r02": "54018",
-  "r03": "56267",
-  "r04": "76271",
-  "r05": null,
+  "r00": "52487",
+  "r01": "52497",
+  "r02": "48482",
+  "r03": "43969",
+  "r04": "46124",
+  "r05": "69130",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -34,7 +34,7 @@
   "2005-shows-museums": null,
   "2005-countries-total": "France (8)",
   "2005-shows-with": "Dominique Furge (6), Philippe Caurant (4), Bertrand Lamarche (4), Marylène Negro (4), Sophie Ristelhueber (4), Kees Visser (4), Isabelle Arthuis (3), Christian Lebrat (3), Cedrick Eymenier (2), Jochen Lempert (2), Oleg Tcherny (2), Pieter Vermeersch (2)",
-  "representing-galleries": "Vidéochroniques (1 place de Lorette, 13002 Marseille, France); Galerie Jérôme Poggi (115/117 rue La Fayette, 75010 Paris, France)",
+  "representing-galleries": "Vidéochroniques (1 place de Lorette, 13002 Marseille, France); Galerie Jérôme Poggi (2 rue Beaubourg, 75004 Paris, France)",
   "collecting-museums": null,
   "first_name": "Dominique",
   "last_name": "Furge",
@@ -43,5 +43,75 @@
   "age": 52,
   "age_range": "41-60",
   "expos": {
+    "2009": [
+      {
+        "i": "221876-21639-2009-08-15",
+        "c": "FR"
+      },
+      {
+        "i": "221876-21639-2009-08-15",
+        "c": "FR"
+      },
+      {
+        "i": "221876-11816-2009-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "221876-11816-2009-01-10",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "221876-21639-2010-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "221876-21639-2010-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "221876-21639-2010-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "221876-21639-2010-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "221876-21639-2010-08-28",
+        "c": "FR"
+      },
+      {
+        "i": "221876-21639-2010-08-28",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "221876-21639-2011-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "221876-21639-2011-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "221876-21639-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "221876-21639-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "221876-21639-2011-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "221876-21639-2011-09-06",
+        "c": "FR"
+      }
+    ]
   }
 }

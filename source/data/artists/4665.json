@@ -1,7 +1,7 @@
 {
   "id": "4665",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:04:33",
+  "timestamp": "2014-05-24 06:16:44",
   "name": "Ernest Pignon Ernest",
   "surname": "Pignon Ernest",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "7697",
-  "r01": "8420",
-  "r02": "9373",
-  "r03": "10666",
-  "r04": "11295",
-  "r05": "18403",
-  "r06": "17735",
-  "r07": "16682",
-  "r08": "13344",
+  "r00": "5875",
+  "r01": "6302",
+  "r02": "7018",
+  "r03": "7952",
+  "r04": "10144",
+  "r05": "10824",
+  "r06": "22142",
+  "r07": "21842",
+  "r08": "20548",
   "awards": null,
   "website": null,
-  "all-shows-first": "1986",
-  "all-shows-total": "43",
+  "all-shows-first": "1977",
+  "all-shows-total": "44",
   "2005-shows-biennials": "13",
   "2005-shows-galleries": "13",
-  "2005-shows-museums": "14",
-  "2005-countries-total": "France (19), Switzerland (4), Chile (1), Croatia (1), Netherlands (1), Serbia (1)",
+  "2005-shows-museums": "15",
+  "2005-countries-total": "France (20), Switzerland (4), Chile (1), Croatia (1), Netherlands (1), Serbia (1)",
   "2005-shows-with": "Ernest Pignon Ernest (22), Vladimir Veli&#269;kovi&#263; (7), Jean-Michel Albèrola (4), Wim Delvoye (4), Erik Dietman (4), Joàn Miró (4), Javier Pérez (4), Paul Rebeyrolle (4), Georges Rousse (4), Antonio Saura (4), Marina Abramovic (3), Eduardo Arroyo (3), Francis Bacon (3), Philippe Cognée (3), Erró (3), Jan Fabre (3), Richard Fauguet (3), Jean le Gac (3), Peter Klasen (3), Christian Lhopital (3), Frédérique Loutz (3), Tony Oursler (3), Giuseppe Penone (3), Carmen Perrin (3), Pablo Picasso (3), Samuel Rousseau (3), Pierre Alechinsky (2), Arman (2), Omar Bâ (2), Miquel Barceló (2), Georg Baselitz (2), Jean Michel Basquiat (2), Hermán Braun-Vega (2), Mark Brusse (2), Matt Bryans (2), Silvia Bächli (2), Carmen Calvo (2), Robert Combas (2), Gaël Davrinche (2), Daniel Dezeuze (2), Marlene Dumas (2), Philippe Favier (2), Franta (2), Gérard Garouste (2), Vidya Gastaldon (2), Nan Goldin (2), Fabrice Gygi (2), Myung-Ok Han (2), Alain Josseau (2), Michel Journiac (2), Eugène Leroy (2), Erik van Lieshou",
   "representing-galleries": "Art To Be Gllery (44 rue Saint André, 59000 Lille, France); Galerie Lelong - Paris (Rue de Téhéran 13, 75008 Paris, France); Galerie Eva Doublet (243 rue des fougères, 17700 Saint-Georges du Bois, France); Galerie Jeanne (Prannerstr. 5, 80333 Munich, Germany); Galerie Guy Bärtschi (Route des Jeunes 43, Allée G, 1227 Geneva, Switzerland)",
   "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); Musée des Beaux-Arts de Caen (Le Château, 14000 Caen, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); Maison des Arts de Grand Quevilly (Avenue des Provinces, 76120 Grand-Quevilly, France)",
@@ -43,7 +43,82 @@
   "age": 72,
   "age_range": "61-100",
   "expos": {
+    "2007": [
+      {
+        "i": "4665-23441-2007-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "4665-23441-2007-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "4665-18448-2007-12-01",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "4665-8293-2008-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "4665-18448-2007-12-01",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "4665-8293-2008-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "4665-18402-2009-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "4665-18402-2009-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "4665-23586-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "4665-23586-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "4665-896-2009-01-29",
+        "c": "CH",
+        "n": "Ernest Pignon-Ernest - Signing Of The Bärtschi-salomon Editions Monograph",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Geneva",
+        "o": "Galerie Guy Bärtschi",
+        "d": [
+          "2009-01-29",
+          "2009-03-13"
+        ]
+      },
+      {
+        "i": "4665-193-2009-09-04",
+        "c": "FR"
+      },
+      {
+        "i": "4665-193-2009-09-04",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "4665-2366-2010-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "4665-2366-2010-02-03",
+        "c": "FR"
+      },
       {
         "i": "4665-896-2010-05-20",
         "c": "CH",
@@ -56,6 +131,22 @@
           "2010-05-20",
           "2010-07-16"
         ]
+      },
+      {
+        "i": "4665-20838-2010-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "4665-20838-2010-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "4665-23329-2010-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "4665-23329-2010-10-22",
+        "c": "FR"
       },
       {
         "i": "4665-12268-2010-06-11",
@@ -84,9 +175,49 @@
           "2011-01-29",
           "2011-03-30"
         ]
+      },
+      {
+        "i": "4665-741-2011-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "4665-741-2011-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "4665-8997-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "4665-8997-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "4665-14227-2011-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "4665-14227-2011-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "4665-17115-2011-12-17",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "4665-17115-2011-12-17",
+        "c": "FR"
+      },
+      {
+        "i": "4665-27843-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "4665-27843-2012-02-25",
+        "c": "FR"
+      },
       {
         "i": "4665-3096-2012-03-17",
         "c": "NL",
@@ -99,6 +230,30 @@
           "2012-03-17",
           "2012-07-22"
         ]
+      },
+      {
+        "i": "4665-5359-2012-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "4665-5359-2012-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "4665-2585-2012-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "4665-2585-2012-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "4665-18448-2012-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "4665-18448-2012-06-02",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -114,6 +269,30 @@
           "2013-01-25",
           "2013-03-16"
         ]
+      },
+      {
+        "i": "4665-5458-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "4665-5458-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "4665-14870-2013-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "4665-14870-2013-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "4665-5458-2013-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "4665-5458-2013-05-10",
+        "c": "FR"
       },
       {
         "i": "4665-896-2013-06-25",
@@ -140,21 +319,14 @@
           "2013-09-28",
           "2013-10-27"
         ]
-      }
-    ],
-    "2009": [
+      },
       {
-        "i": "4665-896-2009-01-29",
-        "c": "CH",
-        "n": "Ernest Pignon-Ernest - Signing Of The Bärtschi-salomon Editions Monograph",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Geneva",
-        "o": "Galerie Guy Bärtschi",
-        "d": [
-          "2009-01-29",
-          "2009-03-13"
-        ]
+        "i": "4665-28230-2013-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "4665-28230-2013-09-05",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "27081",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:14:38",
+  "timestamp": "2014-05-24 06:25:23",
   "name": "Katia Kameli",
   "surname": "Kameli",
   "nationality": "FR",
@@ -16,21 +16,21 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "16966",
-  "r01": "18600",
-  "r02": "23464",
-  "r03": "24355",
-  "r04": "27696",
-  "r05": "24363",
-  "r06": "30365",
-  "r07": "32539",
-  "r08": "34627",
+  "r00": "14901",
+  "r01": "14442",
+  "r02": "16230",
+  "r03": "21155",
+  "r04": "22036",
+  "r05": "25328",
+  "r06": "22289",
+  "r07": "28473",
+  "r08": "30652",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
   "all-shows-total": "19",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": "6",
   "2005-countries-total": "France (4), Morocco (3), Denmark (1), Germany (1), Israel (1), Senegal (1), Spain (1), Switzerland (1), Turkey (1), USA (1)",
   "2005-shows-with": "Katia Kameli (14), Mounir Fatmi (4), Bouchra Khalili (3), Younès Rahmoun (3), Zineb Sedira (3), Basma Alsharif (2), Kader Attia (2), Ismail Bahri (2), Sarnath Banerjee (2), Neil Beloufa (2), Guy Ben-Ner (2), Ursula Biemann (2), Zoulikha Bouabdellah (2), Marcus Coates (2), Köken Ergun (2), Hatice Güleryüz (2), Yuki Kawamura (2), Faouzi Laâtiris (2), Waheeda Malullah (2), Amina Menia (2), László Moholy-Nagy (2), Antoni Muntadas (2), Otobong Nkanga (2), O Zhang (2), Ethem Ozguven (2), Adrian Paci (2), Jean-Gabriel Périot (2), Triny Prada (2), Anri Sala (2), Larissa Sansour (2), Ruti Sela (2), Tejal Shah (2), Chulayarnnon Siriphol (2), James Webb (2), Apichatpong Weerasethakul (2), Guido van der Werve (2), Akram Zaatari (2)",
@@ -43,6 +43,16 @@
   "age": 41,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "27081-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "27081-12314-2006-11-17",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "27081-14957-2007-08-11",
@@ -125,6 +135,14 @@
           "2010-03-10",
           "2010-04-30"
         ]
+      },
+      {
+        "i": "27081-17869-2010-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "27081-17869-2010-05-22",
+        "c": "FR"
       },
       {
         "i": "27081-5799-2010-11-18",
@@ -218,9 +236,33 @@
           "2012-05-11",
           "2012-06-10"
         ]
+      },
+      {
+        "i": "27081-27825-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "27081-21101-2012-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "27081-21101-2012-06-15",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "27081-27825-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "27081-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "27081-2358-2013-05-25",
+        "c": "FR"
+      },
       {
         "i": "27081-19503-2013-06-14",
         "c": "TR",

@@ -1,7 +1,7 @@
 {
   "id": "202813",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:24:52",
+  "timestamp": "2014-05-24 07:25:56",
   "name": "Jean-Marc Nicolas",
   "surname": "Nicolas",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "79419",
-  "r01": "73024",
-  "r02": "75474",
-  "r03": "67259",
-  "r04": "66861",
-  "r05": "58076",
-  "r06": "49512",
-  "r07": "41733",
-  "r08": "33972",
+  "r00": "80753",
+  "r01": "82919",
+  "r02": "80425",
+  "r03": "95036",
+  "r04": "89925",
+  "r05": "102051",
+  "r06": "90328",
+  "r07": "78857",
+  "r08": "64316",
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
-  "all-shows-total": "5",
-  "2005-shows-biennials": null,
-  "2005-shows-galleries": null,
+  "all-shows-total": "6",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (2)",
-  "2005-shows-with": "Jean-Marc Nicolas (2)",
+  "2005-countries-total": "France (3)",
+  "2005-shows-with": "Jean-Marc Nicolas (3)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Jean-Marc",
@@ -43,5 +43,25 @@
   "age": 52,
   "age_range": "41-60",
   "expos": {
+    "2010": [
+      {
+        "i": "202813-29576-2010-07-09",
+        "c": "FR"
+      },
+      {
+        "i": "202813-29576-2010-07-09",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "202813-28954-2012-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "202813-28954-2012-04-14",
+        "c": "FR"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "21302",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:12:01",
+  "timestamp": "2014-05-24 06:23:17",
   "name": "Duncan Wylie",
   "surname": "Wylie",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "9958",
-  "r01": "9442",
-  "r02": "11719",
-  "r03": "13298",
-  "r04": "17103",
-  "r05": "21334",
-  "r06": "21303",
-  "r07": "36319",
-  "r08": "35225",
+  "r00": "7597",
+  "r01": "7406",
+  "r02": "7623",
+  "r03": "9916",
+  "r04": "11264",
+  "r05": "15046",
+  "r06": "18868",
+  "r07": "19301",
+  "r08": "34736",
   "awards": "Project grant, National Foundation for Graphic and Fine Arts, Paris, France\r\n,Nominated for the Canson Drawing Prize 2011, Paris, France\r\n,Charles Oulmont Foundation Painting Award, Paris,Eddy Rugale Michailov Painting Award,Taylor Foundation, Paris.,2nd prize, Coprim Foundation for Contemporary Art, Paris.,2nd prize, Saint-Grégoire Painting Prize (FR).,1st prize,  Zimbabwe National Schools  Exhibition - Harare (ZW), National Gallery of Zimbabwe",
   "website": "www.duncan-wylie.com",
   "all-shows-first": "2000",
-  "all-shows-total": "33",
+  "all-shows-total": "34",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "10",
-  "2005-countries-total": "France (15), Brazil (1), Slovakia (1), USA (1)",
-  "2005-shows-with": "Duncan Wylie (12), Guillaume Bresson (4), Olivier Masmonteil (4), Farah Atassi (3), Gregory Forstner (3), Iris Levasseur (3), Mathieu Mercier (3), Claire Tabouret (3), Giulia Andreani (2), Iván Argote (2), Abdelkader Benchamma (2), Julien Beneyton (2), Katinka Bock (2), Katia Bourdarel (2), Mohamed Bourouissa (2), Claude Closky (2), Philippe Cognée (2), Gaël Davrinche (2), Damien Deroubaix (2), Marc Desgrandchamps (2), Dewar & Gicquel (2), Claire Fontaine (2), Cyprien Gaillard (2), Vincent Ganivet (2), Laurent Grasso (2), Markus Hansen (2), Camille Henrot (2), Fabrice Hybert (2), Armand Jalut (2), Youcef Korichi (2), P. Nicolas Ledoux (2), Vincent Mauger (2), Jonathan Meese (2), Theo Mercier (2), Annette Messager (2), Benoit-Marie Moriceau (2), Roman Opalka (2), Axel Pahlavi (2), Giuseppe Penone (2), Mathieu Pernot (2), Françoise Petrovitch (2), Liliana Porter (2), Emmanuel Régent (2), Jean-Xavier Renaud (2), Raphaëlle Ricol (2), Lionel Sabatté (2), Jeanne Susplugas (2), Morgane Tschiember (2), Oscar T",
+  "2005-shows-museums": "11",
+  "2005-countries-total": "France (15), Brazil (1), Netherlands (1), Slovakia (1), USA (1)",
+  "2005-shows-with": "Duncan Wylie (13), Guillaume Bresson (4), Olivier Masmonteil (4), Farah Atassi (3), Gregory Forstner (3), Iris Levasseur (3), Mathieu Mercier (3), Claire Tabouret (3), Giulia Andreani (2), Iván Argote (2), Abdelkader Benchamma (2), Julien Beneyton (2), Katinka Bock (2), Katia Bourdarel (2), Mohamed Bourouissa (2), Claude Closky (2), Philippe Cognée (2), Gaël Davrinche (2), Damien Deroubaix (2), Marc Desgrandchamps (2), Dewar & Gicquel (2), Claire Fontaine (2), Cyprien Gaillard (2), Vincent Ganivet (2), Laurent Grasso (2), Markus Hansen (2), Camille Henrot (2), Fabrice Hybert (2), Armand Jalut (2), Youcef Korichi (2), P. Nicolas Ledoux (2), Vincent Mauger (2), Jonathan Meese (2), Theo Mercier (2), Annette Messager (2), Benoit-Marie Moriceau (2), Roman Opalka (2), Axel Pahlavi (2), Giuseppe Penone (2), Mathieu Pernot (2), Françoise Petrovitch (2), Liliana Porter (2), Emmanuel Régent (2), Jean-Xavier Renaud (2), Raphaëlle Ricol (2), Lionel Sabatté (2), Jeanne Susplugas (2), Morgane Tschiember (2), Oscar T",
   "representing-galleries": "JGM. Galerie (8 bis, rue Jacques Callot, 75006 Paris, France)",
   "collecting-museums": "Musee de Grenoble (5, place de Lavalette, 38000 Grenoble, France); Centre national des arts plastiques (Tour Atlantique 1, place de la Pyramide, 92911 Paris, France); MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg)",
   "first_name": "Duncan",
@@ -43,7 +43,57 @@
   "age": 39,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "21302-26775-2005-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "21302-26775-2005-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "21302-29105-2005-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "21302-29105-2005-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "21302-29106-2005-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "21302-29106-2005-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "21302-28955-2005-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "21302-28955-2005-10-05",
+        "c": "FR"
+      }
+    ],
     "2006": [
+      {
+        "i": "21302-8897-2006-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "21302-8897-2006-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "21302-29107-2006-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "21302-29107-2006-07-01",
+        "c": "FR"
+      },
       {
         "i": "21302-18835-2006-10-26",
         "c": "DE",
@@ -73,6 +123,22 @@
         ]
       },
       {
+        "i": "21302-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "21302-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "21302-7910-2007-07-11",
+        "c": "FR"
+      },
+      {
+        "i": "21302-7910-2007-07-11",
+        "c": "FR"
+      },
+      {
         "i": "21302-4178-2007-02-15",
         "c": "US",
         "n": "Duncan Wylie - Zimbabwe Today",
@@ -86,7 +152,69 @@
         ]
       }
     ],
+    "2009": [
+      {
+        "i": "21302-29108-2009-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "21302-4975-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "21302-4975-2009-07-04",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "21302-29108-2009-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "21302-8897-2008-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "21302-8897-2008-03-13",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "21302-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "21302-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "21302-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "21302-1782-2010-06-11",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "21302-7392-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "21302-7392-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "21302-26775-2011-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "21302-26775-2011-05-25",
+        "c": "FR"
+      },
       {
         "i": "21302-20389-2011-09-18",
         "c": "BR",
@@ -113,6 +241,48 @@
         ]
       }
     ],
+    "2012": [
+      {
+        "i": "21302-8897-2012-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "21302-8897-2012-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "21302-27843-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "21302-27843-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "21302-9475-2012-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "21302-9475-2012-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "21302-29101-2012-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "21302-29101-2012-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "21302-2048-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "21302-2048-2012-09-08",
+        "c": "FR"
+      }
+    ],
     "2013": [
       {
         "i": "21302-29109-2013-06-13",
@@ -126,6 +296,32 @@
           "2013-06-13",
           "2013-07-26"
         ]
+      },
+      {
+        "i": "21302-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "21302-21098-2013-11-30",
+        "c": "FR"
+      },
+      {
+        "i": "21302-29738-2013-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "21302-29738-2013-09-28",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "21302-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "21302-21098-2013-11-30",
+        "c": "FR"
       }
     ]
   }

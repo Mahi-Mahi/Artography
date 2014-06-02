@@ -1,7 +1,7 @@
 {
   "id": "108734",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:47:53",
+  "timestamp": "2014-05-24 06:53:55",
   "name": "Jean-Baptiste Bernadet",
   "surname": "Bernadet",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "13313",
-  "r01": "16363",
-  "r02": "15392",
-  "r03": "20036",
-  "r04": "33099",
-  "r05": "35441",
-  "r06": "39110",
-  "r07": "35699",
-  "r08": "41714",
+  "r00": "10349",
+  "r01": "10184",
+  "r02": "13215",
+  "r03": "11971",
+  "r04": "16058",
+  "r05": "28538",
+  "r06": "29908",
+  "r07": "32958",
+  "r08": "29315",
   "awards": "Residency, APT + Residency Unlimited Studio, Brooklyn, NY (USA) \r\n\r\nSecond Prize, BNP Paribas Fortis Belgium Young Talents Awards,Residency, Chinati Foundation, Marfa Texas (USA)  \r\nSuddenly Last Summer, Residency, Beauchéry Saint-Martin (F),First prize, Art’Contest, Brussels (B)",
   "website": "www.jbbernadet.com",
   "all-shows-first": "2005",
-  "all-shows-total": "30",
-  "2005-shows-biennials": "22",
-  "2005-shows-galleries": "22",
+  "all-shows-total": "31",
+  "2005-shows-biennials": "23",
+  "2005-shows-galleries": "23",
   "2005-shows-museums": "4",
-  "2005-countries-total": "Belgium (12), France (6), Switzerland (4), USA (3), Germany (1), Spain (1)",
-  "2005-shows-with": "Jean-Baptiste Bernadet (20), Thomas Bonny (3), Michiel Ceulers (3), Michael Dans (3), Christian Gonzenbach (3), Evan Gruzis (3), Ruth van Haren Noman (3), Josse Bailly (2), Boris Beaucarne (2), Charlotte Beaudry (2), Pascal Bernier (2), Vaast Colson (2), Damien De Lepeleire (2), Hadrien Dussoix (2), Martin Laborde (2), Robert Longo (2), Michel Mouffe (2), Eva Nielsen (2), Xavier Noiret-Thomé (2), Sophie Nys (2), Robert Quint (2), Ruby Sky Stiler (2), Robert Suermondt (2), Pieter Vermeersch (2), Charles Veyron (2)",
-  "representing-galleries": "TORRI (7, rue Saint-Claude, 75003 Paris, France); SAKS (Rue de la Synagogue 34, 1204 Geneva, Switzerland); American Contemporary (4 East 2nd Street at Bowery, 10003  New York City, NY, USA)",
+  "2005-countries-total": "Belgium (12), France (7), Switzerland (4), USA (3), Germany (1), Spain (1)",
+  "2005-shows-with": "Jean-Baptiste Bernadet (21), Thomas Bonny (3), Michiel Ceulers (3), Michael Dans (3), Christian Gonzenbach (3), Evan Gruzis (3), Ruth van Haren Noman (3), Josse Bailly (2), Boris Beaucarne (2), Charlotte Beaudry (2), Pascal Bernier (2), Vaast Colson (2), Damien De Lepeleire (2), Hadrien Dussoix (2), Martin Laborde (2), Robert Longo (2), Michel Mouffe (2), Eva Nielsen (2), Xavier Noiret-Thomé (2), Sophie Nys (2), Robert Quint (2), Ruby Sky Stiler (2), Robert Suermondt (2), Pieter Vermeersch (2), Charles Veyron (2)",
+  "representing-galleries": "TORRI (7, rue Saint-Claude, 75003 Paris, France); American Contemporary (4 East 2nd Street at Bowery, 10003  New York City, NY, USA)",
   "collecting-museums": null,
   "first_name": "Jean-Baptiste",
   "last_name": "Bernadet",
@@ -43,6 +43,16 @@
   "age": 36,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "108734-10726-2005-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "108734-10726-2005-06-15",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "108734-12727-2008-09-27",
@@ -73,6 +83,14 @@
         ]
       },
       {
+        "i": "108734-20451-2009-04-04",
+        "c": "FR"
+      },
+      {
+        "i": "108734-20451-2009-04-04",
+        "c": "FR"
+      },
+      {
         "i": "108734-2328-2009-05-28",
         "c": "BE",
         "n": "There Is No(W) Romanticism",
@@ -86,6 +104,14 @@
         ]
       },
       {
+        "i": "108734-23549-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "108734-23549-2009-09-14",
+        "c": "FR"
+      },
+      {
         "i": "108734-5255-2009-12-02",
         "c": "BE",
         "n": "Group Show",
@@ -97,6 +123,14 @@
           "2009-12-02",
           "2010-01-16"
         ]
+      },
+      {
+        "i": "108734-23549-2009-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "108734-23549-2009-05-13",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -207,6 +241,14 @@
         ]
       },
       {
+        "i": "108734-23446-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "108734-23446-2011-04-02",
+        "c": "FR"
+      },
+      {
         "i": "108734-11558-2011-11-11",
         "c": "US",
         "n": "Jean-Baptiste Bernadet,",
@@ -315,6 +357,22 @@
         ]
       },
       {
+        "i": "108734-28201-2013-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "108734-28201-2013-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "108734-23446-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "108734-23446-2013-04-06",
+        "c": "FR"
+      },
+      {
         "i": "108734-2209-2013-06-27",
         "c": "BE",
         "n": "Young Belgian Art Prize 2013",
@@ -380,6 +438,16 @@
           "2006-09-08",
           "2006-10-30"
         ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "108734-24759-2007-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "108734-24759-2007-07-01",
+        "c": "FR"
       }
     ]
   }

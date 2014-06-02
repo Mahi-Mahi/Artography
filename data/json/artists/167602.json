@@ -1,7 +1,7 @@
 {
   "id": "167602",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:11:35",
+  "timestamp": "2014-05-24 07:13:53",
   "name": "Camille Laurelli",
   "surname": "Laurelli",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "30080",
-  "r01": "27859",
-  "r02": "29700",
-  "r03": "26782",
-  "r04": "28577",
-  "r05": "33740",
-  "r06": "33173",
-  "r07": "33648",
-  "r08": "42406",
+  "r00": "30633",
+  "r01": "28771",
+  "r02": "24732",
+  "r03": "26906",
+  "r04": "23095",
+  "r05": "25471",
+  "r06": "30399",
+  "r07": "29364",
+  "r08": "29536",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "14",
+  "all-shows-total": "15",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (6), Poland (1)",
-  "2005-shows-with": "Camille Laurelli (6), Guillaume Brissaud (2), Fabrice Croux (2), Wim Delvoye (2), Alexandra Galkina (2), Ivars Gravlejs (2), Zhanna Kadyrova (2), Laura Kuusk (2), David Ter-Oganyan (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (6), Czech Republic (1), Poland (1)",
+  "2005-shows-with": "Camille Laurelli (7), Guillaume Brissaud (2), Fabrice Croux (2), Wim Delvoye (2), Alexandra Galkina (2), Ivars Gravlejs (2), Zhanna Kadyrova (2), Laura Kuusk (2), David Ter-Oganyan (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Camille",
@@ -97,9 +97,25 @@
           "2006-08-24",
           "2006-09-09"
         ]
+      },
+      {
+        "i": "167602-8647-2006-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "167602-8647-2006-11-15",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "167602-18906-2007-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "167602-18906-2007-09-08",
+        "c": "FR"
+      },
       {
         "i": "167602-895-2007-09-14",
         "c": "CH",
@@ -114,7 +130,63 @@
         ]
       }
     ],
+    "2008": [
+      {
+        "i": "167602-18906-2008-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "167602-18906-2008-04-06",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "167602-27918-2009-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "167602-27918-2009-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "167602-18906-2009-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "167602-18906-2009-03-15",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "167602-18906-2010-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "167602-18906-2010-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "167602-18906-2010-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "167602-18906-2010-06-20",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "167602-19673-2011-01-19",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "167602-19673-2011-01-19",
+        "c": "FR"
+      },
       {
         "i": "167602-15834-2012-03-15",
         "c": "PL",

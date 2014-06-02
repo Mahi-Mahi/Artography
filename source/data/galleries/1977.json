@@ -22,14 +22,28 @@
         "c": "GR",
         "n": "Art Athina 2005",
         "ct": "Athens"
+      },
+      {
+        "i": "1977-Fiac 2005",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "1977-Fiac 2006",
+        "c": "FR"
+      },
       {
         "i": "1977-Artissima 13",
         "c": "IT",
         "n": "Artissima 13",
         "ct": "Turin"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1977-Paris Photo 2007",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -40,10 +54,18 @@
         "ct": "Athens"
       },
       {
+        "i": "1977-Fiac 2008",
+        "c": "FR"
+      },
+      {
         "i": "1977-Artissima 15",
         "c": "IT",
         "n": "Artissima 15",
         "ct": "Turin"
+      },
+      {
+        "i": "1977-Paris Photo 2008",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -52,6 +74,36 @@
         "c": "ES",
         "n": "ARCO 09",
         "ct": "Madrid"
+      },
+      {
+        "i": "1977-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
+        "i": "1977-Docks Art Fair 2009",
+        "c": "FR"
+      },
+      {
+        "i": "1977-Fiac 2009",
+        "c": "FR"
+      },
+      {
+        "i": "1977-Paris Photo 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1977-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "1977-Fiac 2010",
+        "c": "FR"
+      },
+      {
+        "i": "1977-Paris Photo 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -60,6 +112,10 @@
         "c": "ES",
         "n": "Loop - The Video Art Fair 2011",
         "ct": "Barcelona"
+      },
+      {
+        "i": "1977-Paris Photo 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -68,6 +124,14 @@
         "c": "BE",
         "n": "Art Brussels 2012",
         "ct": "Brussels"
+      },
+      {
+        "i": "1977-Fiac 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1977-Paris Photo 2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -88,6 +152,10 @@
         "c": "US",
         "n": "Paris Photo Los Angeles 2013",
         "ct": "Los Angeles, CA"
+      },
+      {
+        "i": "1977-FIAC 2013",
+        "c": "FR"
       }
     ]
   }

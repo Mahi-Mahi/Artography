@@ -1,7 +1,7 @@
 {
   "id": "5982",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:05:09",
+  "timestamp": "2014-05-24 06:17:19",
   "name": "Jean-Jacques Lebel",
   "surname": "Lebel",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "1854",
-  "r01": "1785",
-  "r02": "1928",
-  "r03": "2003",
-  "r04": "1730",
-  "r05": "2037",
-  "r06": "2103",
-  "r07": "2112",
-  "r08": "2019",
+  "r00": "1998",
+  "r01": "1842",
+  "r02": "1748",
+  "r03": "1962",
+  "r04": "2051",
+  "r05": "1630",
+  "r06": "2031",
+  "r07": "2073",
+  "r08": "2058",
   "awards": null,
   "website": null,
   "all-shows-first": "1988",
-  "all-shows-total": "61",
+  "all-shows-total": "64",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
-  "2005-shows-museums": "16",
-  "2005-countries-total": "France (12), Germany (3), Switzerland (2), United Kingdom (2), USA (2), Austria (1), Hungary (1), Romania (1), Russia (1)",
+  "2005-shows-museums": "17",
+  "2005-countries-total": "France (12), Germany (4), Switzerland (2), United Kingdom (2), USA (2), Austria (1), Hungary (1), Romania (1), Russia (1)",
   "2005-shows-with": "Jean-Jacques Lebel (20), Joseph Beuys (5), Christian Boltanski (5), Robert Filliou (5), Raymond Hains (5), Michel Journiac (5), Arnaud Labelle-Rojoux (5), Jacques Lizène (5), George Maciunas (5), Gina Pane (5), Mimmo Rotella (5), Niki de Saint Phalle (5), Ben Vautier (5), Wolf Vostell (5), Marina Abramovic (4), Julien Blaine (4), George Brecht (4), Erik Dietman (4), Joël Ducorroy (4), Erró (4), Fred Forest (4), Paul-Armand Gette (4), Carsten Höller (4), Annette Messager (4), Hermann Nitsch (4), Orlan (4), Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), James Lee Byars (3), Anna Byskov (3), John Cage (3), Gilbert Caty (3), Noël Dolla (3), Jean Dupuy (3), Eric Duyckaerts (3), Kristof Everart (3), Daniel Farioli (3), Jean-Baptiste Ganne (3), Claude Gilli (3), Yoko Gunji (3), Raoul Hébréard (3), Joël Hubaut (3), Alison Knowles (3), Virginie Le Touze (3), Robert Malaval (3), Jean Mas (3), Florent Mattei (3), Paul McCarthy (3), Bruno Mendonça (3), Roland Miller (3), Patrick Moya (3), Serge Oldenb",
-  "representing-galleries": "Galerie Louis Carré & Cie (10, avenue de Messine, 75008 Paris, France); The Mayor Gallery (22A Cork St., W1S 3NA London (England), United Kingdom)",
+  "representing-galleries": "Galerie Louis Carré & Cie (10, avenue de Messine, 75008 Paris, France); The Mayor Gallery (22A Cork St., W1S 3NA London, United Kingdom)",
   "collecting-museums": "Musée de l’Objet (6 rue Franciade, 41000 Blois, France); Musée d´Art Moderne de la Ville de Paris - MAM/ARC (11 avenue du Président Wilson, 75 016 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); Musée Régional D'Art Contemporain Languedoc-Roussillon (146, avenue de la plage, 34 410 Sérignan, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France); FLUXUS+ (Schiffbauergasse 4f, 14467 Potsdam, Germany); Ludwig Museum - Museum of Contemporary Art - Budapest (Komor Marcell u. 1. (in Palace of Arts), H-1095 Budapest, Hungary); The Israel Museum (Ruppin Blvd., 91710 Jerusalem, Israel); Berardo Museum - Collection of Modern and Contemporary Art (Praça do Império, 1449-003 Lisbon, Portugal); Museu d´Art Contemporani de Barcelona - MACBA (Plaça dels Àngels 1, 08001 Barcelona, Spain); Museo Vostell Malpartida (Carretera de los Barruecos, s/n,, 10910 Malpartida de Cáceres, Spain)",
   "first_name": "Jean-Jacques",
   "last_name": "Lebel",
@@ -84,6 +84,14 @@
           "2006-04-07",
           "2006-06-05"
         ]
+      },
+      {
+        "i": "5982-1531-2006-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "5982-1531-2006-04-27",
+        "c": "FR"
       },
       {
         "i": "5982-2203-2006-10-08",
@@ -140,6 +148,14 @@
         ]
       },
       {
+        "i": "5982-2709-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "5982-2709-2007-06-02",
+        "c": "FR"
+      },
+      {
         "i": "5982-2097-2007-10-05",
         "c": "AT",
         "n": "True Romance - Allegorien der Liebe von der Renaissance bis heute",
@@ -151,6 +167,14 @@
           "2007-10-05",
           "2008-02-03"
         ]
+      },
+      {
+        "i": "5982-2009-2007-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "5982-2009-2007-03-22",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -179,6 +203,14 @@
           "2008-02-15",
           "2008-05-12"
         ]
+      },
+      {
+        "i": "5982-2219-2008-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "5982-2219-2008-05-07",
+        "c": "FR"
       },
       {
         "i": "5982-576-2008-10-15",
@@ -245,6 +277,26 @@
           "2009-09-24",
           "2009-10-22"
         ]
+      },
+      {
+        "i": "5982-1531-2009-10-07",
+        "c": "FR"
+      },
+      {
+        "i": "5982-1531-2009-10-07",
+        "c": "FR"
+      },
+      {
+        "i": "5982-7811-2009-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "5982-16207-2009-11-03",
+        "c": "FR"
+      },
+      {
+        "i": "5982-16207-2009-11-03",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -260,6 +312,10 @@
           "2010-06-04",
           "2010-07-31"
         ]
+      },
+      {
+        "i": "5982-7811-2009-10-25",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -303,6 +359,14 @@
         ]
       },
       {
+        "i": "5982-2585-2011-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "5982-2585-2011-06-24",
+        "c": "FR"
+      },
+      {
         "i": "5982-3104-2011-12-14",
         "c": "RO",
         "n": "Fluxus In Germany 1962 - 1994",
@@ -344,6 +408,30 @@
         ]
       },
       {
+        "i": "5982-28439-2012-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "5982-28439-2012-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "5982-2585-2012-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "5982-2585-2012-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "5982-2585-2012-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "5982-2585-2012-07-01",
+        "c": "FR"
+      },
+      {
         "i": "5982-23665-2012-07-10",
         "c": "US",
         "n": "Mash Up: Collage from 1930 to the present",
@@ -368,6 +456,40 @@
           "2012-08-31",
           "2012-12-02"
         ]
+      },
+      {
+        "i": "5982-2009-2012-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "5982-2009-2012-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "5982-3864-2012-10-27",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5982-7811-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "5982-7811-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "5982-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "5982-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "5982-3864-2012-10-27",
+        "c": "FR"
       }
     ]
   }

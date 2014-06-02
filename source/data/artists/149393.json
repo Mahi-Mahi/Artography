@@ -1,7 +1,7 @@
 {
   "id": "149393",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:04:16",
+  "timestamp": "2014-05-24 07:07:34",
   "name": "Michael Roy",
   "surname": "Roy",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "31125",
-  "r01": "28466",
-  "r02": "25616",
-  "r03": "26482",
-  "r04": "22881",
-  "r05": "20937",
-  "r06": "19350",
-  "r07": "28261",
-  "r08": "24405",
+  "r00": "33255",
+  "r01": "30454",
+  "r02": "26446",
+  "r03": "23298",
+  "r04": "24112",
+  "r05": "20300",
+  "r06": "18272",
+  "r07": "19890",
+  "r08": "32973",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "12",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "15",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (5), Sweden (1)",
-  "2005-shows-with": "Michael Roy (5), Alighiero Boëtti (2), Isabelle Boinot (2), Elaine Bradford (2), Orly Cogan (2), Robert Combas (2), Andrea Dezsö (2), Véronique Ellena (2), Doro Fullmano (2), Sylvette Galmiche (2), René-Francois Grégogna (2), Catherine Haddouche (2), Jenny Hart (2), Rodolphe Huguet (2), Takashi Iwasaki (2), Danielle Jacqui (2), Cecile Jarsaillon (2), Isabelle Jousset (2), Aya Kakeda (2), Armelle Kerouas (2), Jim Lambie (2), Delaine Le Bas (2), Marie-Rose Lortet (2), Corinne Marchetti (2), Raymond Materson (2), David Mecalco (2), Myriam Mechita (2), Marléne Mocquet (2), Moolinex (2), Mark Newport (2), Sandrine Pelletier (2), Frédérico Perimon (2), France De Ranchin (2), Hervé di Rosa (2), Richard Saja (2), Jean-Joseph Sanfourche (2), Skart (2), Anna Torma (2), Jacques Trovic (2), Claude Viallat (2), Aurélie William-Levaux (2)",
+  "2005-countries-total": "France (7), Sweden (1), United Kingdom (1)",
+  "2005-shows-with": "Michael Roy (8), Véronique Ellena (3), Alighiero Boëtti (2), Isabelle Boinot (2), Elaine Bradford (2), Orly Cogan (2), Robert Combas (2), Andrea Dezsö (2), Doro Fullmano (2), Sylvette Galmiche (2), Laurent Goumarre (2), René-Francois Grégogna (2), Catherine Haddouche (2), Jenny Hart (2), Rodolphe Huguet (2), Takashi Iwasaki (2), Danielle Jacqui (2), Cecile Jarsaillon (2), Isabelle Jousset (2), Aya Kakeda (2), Armelle Kerouas (2), Jim Lambie (2), Delaine Le Bas (2), Marie-Rose Lortet (2), Corinne Marchetti (2), Raymond Materson (2), David Mecalco (2), Myriam Mechita (2), Marléne Mocquet (2), Anita Molinero (2), Moolinex (2), Mark Newport (2), Sandrine Pelletier (2), Frédérico Perimon (2), Guillaume Pilet (2), Bernard Quesniaux (2), France De Ranchin (2), Hervé di Rosa (2), Richard Saja (2), Jean-Joseph Sanfourche (2), Skart (2), Vincent J. Stoker (2), Anna Torma (2), Jacques Trovic (2), Claude Viallat (2), Aurélie William-Levaux (2)",
   "representing-galleries": "Galerie Alain Gutharc (7, Rue Saint-Claude, 75003 Paris, France); Espai Tactel (C/Denia 25-B, 46006 Valencia, Spain)",
   "collecting-museums": null,
   "first_name": "Michael",
@@ -56,9 +56,17 @@
           "2005-03-16",
           "2005-04-23"
         ]
+      },
+      {
+        "i": "149393-13088-2005-11-16",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "149393-13088-2005-11-16",
+        "c": "FR"
+      },
       {
         "i": "149393-17548-2006-11-18",
         "c": "SE",
@@ -86,9 +94,25 @@
           "2006-11-18",
           "2007-01-31"
         ]
+      },
+      {
+        "i": "149393-1293-2007-10-20",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "149393-1293-2007-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "149393-2013-2008-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "149393-2013-2008-05-31",
+        "c": "FR"
+      },
       {
         "i": "149393-7885-2008-11-01",
         "c": "SE",
@@ -116,6 +140,44 @@
           "2008-11-01",
           "2009-02-15"
         ]
+      },
+      {
+        "i": "149393-26732-2009-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "149393-26733-2009-12-12",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "149393-26732-2009-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "149393-26733-2009-12-12",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "149393-2013-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "149393-2013-2012-07-07",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "149393-2013-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "149393-2013-2011-04-02",
+        "c": "FR"
       }
     ]
   }

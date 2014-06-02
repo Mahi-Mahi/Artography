@@ -1,7 +1,7 @@
 {
   "id": "69989",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:32:18",
+  "timestamp": "2014-05-24 06:40:44",
   "name": "Agathe Snow",
   "surname": "Snow",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Female",
   "media": "Installation, Sculpture, Performance",
-  "r00": "2830",
-  "r01": "2679",
-  "r02": "2642",
-  "r03": "2965",
-  "r04": "2790",
-  "r05": "4785",
-  "r06": "8206",
-  "r07": "18517",
-  "r08": "29420",
+  "r00": "2412",
+  "r01": "2291",
+  "r02": "2074",
+  "r03": "1999",
+  "r04": "2271",
+  "r05": "2079",
+  "r06": "3682",
+  "r07": "6297",
+  "r08": "16091",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "56",
-  "2005-shows-biennials": "28",
-  "2005-shows-galleries": "28",
-  "2005-shows-museums": "11",
-  "2005-countries-total": "USA (24), Germany (6), France (4), Italy (3), United Kingdom (3), Denmark (1), Portugal (1)",
-  "2005-shows-with": "Agathe Snow (30), Dash Snow (9), Dan Colen (8), Nate Lowman (6), Joe Bradley (5), Terence Koh (5), Gardar Eide Einarsson (4), Hanna Liden (4), Chris Martin (4), Adam McEwen (4), Aaron Young (4), Katherine Bernhardt (3), Carol Bove (3), Brian Degraw (3), Mark Flood (3), Rachel Harrison (3), Bruce LaBruce (3), Ryan McGinley (3), Amanda Ross-Ho (3), Aurel Schmidt (3), Josh Smith (3), Banks Violette (3), Rita Ackermann (2), assume vivid astro focus (2), Dan Attoe (2), Antonio Ballester Moreno (2), Brian Belott (2), Aaron Bondaroff (2), Tom Burr (2), Jedediah Caesar (2), Scott Campbell (2), Peter Coffin (2), Ann Craven (2), Rosson Crow (2), Amie Dicke (2), Kaye Donachie (2), Jim Drain (2), Brendan  Fowler (2), Ry Fyan (2), Gang Gang Dance (2), Nan Goldin (2), Rashawn Griffin (2), Mark Grotjahn (2), Drew Heitzler (2), Patrick Hill (2), Otis Houston Jr. (2), Karen Kilimnik (2), John Kleckner (2), Greg Lamarche (2), Paul Lee (2), Corey McCorkle (2), Barry McGee (2), Takeshi Murata (2), Mitzi Pederson (2), Raymond Pet",
+  "all-shows-total": "58",
+  "2005-shows-biennials": "29",
+  "2005-shows-galleries": "29",
+  "2005-shows-museums": "12",
+  "2005-countries-total": "USA (25), Germany (7), France (4), Italy (3), United Kingdom (3), Denmark (1), Portugal (1)",
+  "2005-shows-with": "Agathe Snow (32), Dash Snow (9), Dan Colen (8), Nate Lowman (6), Joe Bradley (5), Terence Koh (5), Gardar Eide Einarsson (4), Hanna Liden (4), Chris Martin (4), Adam McEwen (4), Aaron Young (4), Katherine Bernhardt (3), Carol Bove (3), Brian Degraw (3), Mark Flood (3), Nan Goldin (3), Rachel Harrison (3), Bruce LaBruce (3), Ryan McGinley (3), Amanda Ross-Ho (3), Sterling Ruby (3), Aurel Schmidt (3), Josh Smith (3), Banks Violette (3), Rita Ackermann (2), assume vivid astro focus (2), Dan Attoe (2), Antonio Ballester Moreno (2), Brian Belott (2), Aaron Bondaroff (2), Tom Burr (2), Jedediah Caesar (2), Scott Campbell (2), Peter Coffin (2), Ann Craven (2), Rosson Crow (2), Amie Dicke (2), Otto Dix (2), Kaye Donachie (2), Jim Drain (2), Brendan  Fowler (2), Ry Fyan (2), Gang Gang Dance (2), Rashawn Griffin (2), George Grosz (2), Mark Grotjahn (2), Andreas Gursky (2), Drew Heitzler (2), Patrick Hill (2), Otis Houston Jr. (2), Karen Kilimnik (2), John Kleckner (2), Greg Lamarche (2), Paul Lee (2), Paul McCarthy (2)",
   "representing-galleries": "Galerie Hussenot (5 bis, rue des Haudriettes, 75003 Paris, France); OHWOW (937 N. La Cienega Boulevard, 90069 Los Angeles, CA, USA); James Fuentes LLC (55 Delancey Street (between Allen St. and Eldgridge St.), 10002 New York City, NY, USA)",
-  "collecting-museums": "The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London (England), United Kingdom)",
+  "collecting-museums": "The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London, United Kingdom)",
   "first_name": "Agathe",
   "last_name": "Snow",
   "genre": "f",
@@ -69,6 +69,14 @@
           "2005-06-24",
           "2005-07-31"
         ]
+      },
+      {
+        "i": "69989-7851-2005-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "69989-7851-2005-09-24",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -428,6 +436,14 @@
         ]
       },
       {
+        "i": "69989-9947-2009-09-01",
+        "c": "FR"
+      },
+      {
+        "i": "69989-9947-2009-09-01",
+        "c": "FR"
+      },
+      {
         "i": "69989-4434-2009-09-11",
         "c": "US",
         "n": "Spaced Out / On Time",
@@ -504,6 +520,14 @@
           "2009-01-28",
           "2009-03-08"
         ]
+      },
+      {
+        "i": "69989-2351-2009-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "69989-2351-2009-04-07",
+        "c": "FR"
       },
       {
         "i": "69989-6599-2009-08-14",
@@ -623,6 +647,10 @@
           "2010-09-09",
           "2010-10-23"
         ]
+      },
+      {
+        "i": "69989-1566-2010-09-14",
+        "c": "FR"
       },
       {
         "i": "69989-563-2010-10-29",
@@ -785,6 +813,14 @@
           "2013-07-16",
           "2013-08-17"
         ]
+      },
+      {
+        "i": "69989-1566-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "69989-1566-2013-01-12",
+        "c": "FR"
       }
     ]
   }

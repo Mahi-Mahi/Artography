@@ -1,7 +1,7 @@
 {
   "id": "57572",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:20",
+  "timestamp": "2014-05-24 06:36:19",
   "name": "Marine Joatton",
   "surname": "Joatton",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "17951",
-  "r01": "17048",
-  "r02": "15620",
-  "r03": "15146",
-  "r04": "14725",
-  "r05": "16402",
-  "r06": "21656",
-  "r07": "18104",
-  "r08": "16650",
+  "r00": "18385",
+  "r01": "20179",
+  "r02": "17446",
+  "r03": "14849",
+  "r04": "14029",
+  "r05": "13156",
+  "r06": "14662",
+  "r07": "20138",
+  "r08": "16144",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
   "all-shows-total": "20",
   "2005-shows-biennials": "9",
   "2005-shows-galleries": "9",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (12), South Korea (2), Hungary (1)",
-  "2005-shows-with": "Marine Joatton (10), Erwan Ballan (2), Ruth Barabash (2), Erik Binder (2), Frauke Boggasch (2), Claude Briand-Picard (2), Dominique De Beir (2), Ugo Giletta (2), Nina Kovacheva (2), Maelle Labussière (2), Denisa Lehocká (2), Frédérique Lucien (2), Olivier Michel (2), Zsuzsa Moizer (2), Yazid Oulab (2), Patrice Pantin (2), Bernard Peschet (2), Françoise Petrovitch (2), François Schmitt (2), Barthélémy Toguo (2), Sandra Vasquez de la Horra (2)",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (13), South Korea (2), Hungary (1)",
+  "2005-shows-with": "Marine Joatton (11), Erwan Ballan (2), Ruth Barabash (2), Erik Binder (2), Frauke Boggasch (2), Claude Briand-Picard (2), Dominique De Beir (2), Ugo Giletta (2), Nina Kovacheva (2), Maelle Labussière (2), Denisa Lehocká (2), Frédérique Lucien (2), Olivier Michel (2), Zsuzsa Moizer (2), Yazid Oulab (2), Patrice Pantin (2), Bernard Peschet (2), Françoise Petrovitch (2), François Schmitt (2), Barthélémy Toguo (2), Sandra Vasquez de la Horra (2)",
   "representing-galleries": "Galerie Réjane Louin (19, rue de l\\'église, 29241 Locquirec, France); Galerie Eric Dupont (138, rue du Temple, 75003 Paris, France); Gallery 604 (3, Daecheong-ro 138beon-gil, Jung-gu, 600-012 Busan, South Korea)",
   "collecting-museums": null,
   "first_name": "Marine",
@@ -43,6 +43,106 @@
   "age": 42,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "57572-11850-2005-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "57572-11850-2005-06-21",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "57572-11850-2006-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "57572-11850-2006-06-20",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "57572-29380-2007-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "57572-29380-2007-06-16",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "57572-1876-2008-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "57572-1876-2008-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "57572-3864-2008-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "57572-3864-2008-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "57572-1876-2008-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "57572-1876-2008-01-12",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "57572-8293-2009-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "57572-8293-2009-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "57572-27918-2009-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "57572-27918-2009-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "57572-27574-2009-11-01",
+        "c": "FR"
+      },
+      {
+        "i": "57572-1876-2009-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "57572-1876-2009-09-05",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "57572-27574-2009-11-01",
+        "c": "FR"
+      },
+      {
+        "i": "57572-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "57572-7910-2010-03-13",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "57572-13715-2011-01-21",
@@ -58,6 +158,14 @@
         ]
       },
       {
+        "i": "57572-27574-2011-07-02",
+        "c": "FR"
+      },
+      {
+        "i": "57572-27574-2011-07-02",
+        "c": "FR"
+      },
+      {
         "i": "57572-28980-2011-09-01",
         "c": "KR",
         "n": "Three Artists of European",
@@ -69,9 +177,35 @@
           "2011-09-01",
           "2011-09-30"
         ]
+      },
+      {
+        "i": "57572-27574-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "57572-27574-2011-04-02",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "57572-27574-2012-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "57572-15873-2012-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "57572-15873-2012-03-17",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "57572-27574-2012-12-08",
+        "c": "FR"
+      },
       {
         "i": "57572-28980-2013-06-01",
         "c": "KR",

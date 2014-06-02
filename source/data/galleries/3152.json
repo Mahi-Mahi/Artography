@@ -22,6 +22,10 @@
         "c": "US",
         "n": "Art Miami 2005",
         "ct": "Miami Beach, FL"
+      },
+      {
+        "i": "3152-ArtParis 2005",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -50,6 +54,10 @@
         "c": "NL",
         "n": "Art Amsterdam 2007",
         "ct": "Amsterdam"
+      },
+      {
+        "i": "3152-SLICK 2007",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -106,6 +114,18 @@
         "c": "US",
         "n": "Pulse Miami 2011",
         "ct": "Miami, FL"
+      }
+    ],
+    "2012": [
+      {
+        "i": "3152-Art Paris Art Fair 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "3152-Art Paris Art Fair 2013",
+        "c": "FR"
       }
     ]
   }

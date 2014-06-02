@@ -1,7 +1,7 @@
 {
   "id": "195481",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:22:03",
+  "timestamp": "2014-05-24 07:23:25",
   "name": "Xavier Mazzarol",
   "surname": "Mazzarol",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "64216",
-  "r01": "61311",
-  "r02": "59042",
-  "r03": "64361",
-  "r04": "95400",
-  "r05": "89978",
-  "r06": null,
+  "r00": "44009",
+  "r01": "43775",
+  "r02": "39958",
+  "r03": "37053",
+  "r04": "39039",
+  "r05": "76727",
+  "r06": "88299",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
   "all-shows-total": "8",
-  "2005-shows-biennials": "6",
-  "2005-shows-galleries": "6",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
   "2005-shows-museums": null,
-  "2005-countries-total": "Germany (4), France (2), Italy (2)",
-  "2005-shows-with": "Xavier Mazzarol (7), Louis-Philippe Scoufaras (3), Saâdane Afif (2), Julien Bouillon (2), Jean-Baptiste Bouvet (2), Agathe Fleury (2), Elise Florenty (2), Gregor Hildebrandt (2), Anna Hughes (2), Ludovic Jecker (2), Alicja Kwade (2), Ryan McLaughlin (2), Eléonore de Montesquiou (2), Charlotte Moth (2), Nathan Peter (2), Hannu Prinz (2), Marie Reinert (2), Romana Schmalisch (2), Niels Trannois (2), Claudia Wieser (2)",
+  "2005-countries-total": "Germany (5), France (2), Italy (2)",
+  "2005-shows-with": "Xavier Mazzarol (8), Agathe Fleury (4), Ludovic Jecker (3), Louis-Philippe Scoufaras (3), Saâdane Afif (2), Julien Bouillon (2), Jean-Baptiste Bouvet (2), Elise Florenty (2), Gregor Hildebrandt (2), Anna Hughes (2), Alicja Kwade (2), Ryan McLaughlin (2), Eléonore de Montesquiou (2), Charlotte Moth (2), Anne Neukamp (2), Nathan Peter (2), Hannu Prinz (2), Marie Reinert (2), Romana Schmalisch (2), Niels Trannois (2), Claudia Wieser (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Xavier",
@@ -56,9 +56,17 @@
           "2008-07-16",
           "2008-07-27"
         ]
+      },
+      {
+        "i": "195481-1566-2008-11-29",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "195481-1566-2008-11-29",
+        "c": "FR"
+      },
       {
         "i": "195481-17121-2009-02-07",
         "c": "DE",
@@ -127,6 +135,16 @@
           "2011-03-23",
           "2011-04-30"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "195481-1566-2012-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "195481-1566-2012-01-14",
+        "c": "FR"
       }
     ]
   }

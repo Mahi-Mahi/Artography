@@ -16,12 +16,36 @@
   "fairs-abroad": "2",
   "fairs-in-FR": "4",
   "fairs": {
+    "2011": [
+      {
+        "i": "26247-SLICK 2011",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "26247-Slick Brussels 2012",
+        "c": "FR"
+      },
       {
         "i": "26247-VOLTA 8 Basel 2012",
         "c": "CH",
         "n": "VOLTA 8 Basel 2012",
         "ct": "Münchenstein / Basel"
+      },
+      {
+        "i": "26247-SLICK 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "26247-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "26247-Yia Art Fair 2013",
+        "c": "FR"
       }
     ]
   }

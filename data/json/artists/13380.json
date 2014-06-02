@@ -1,7 +1,7 @@
 {
   "id": "13380",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:08:34",
+  "timestamp": "2014-05-24 06:20:15",
   "name": "Jean-Luc Mylayne",
   "surname": "Mylayne",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "2163",
-  "r01": "2155",
-  "r02": "2009",
-  "r03": "2495",
-  "r04": "2759",
-  "r05": "3593",
-  "r06": "5651",
-  "r07": "7276",
-  "r08": "5709",
+  "r00": "1804",
+  "r01": "1777",
+  "r02": "1736",
+  "r03": "1525",
+  "r04": "2009",
+  "r05": "2257",
+  "r06": "2966",
+  "r07": "4995",
+  "r08": "6326",
   "awards": null,
   "website": null,
   "all-shows-first": "1991",
-  "all-shows-total": "44",
+  "all-shows-total": "46",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "20",
-  "2005-countries-total": "USA (10), France (7), Spain (5), Belgium (2), Germany (2), Italy (2), Austria (1), United Kingdom (1)",
-  "2005-shows-with": "Jean-Luc Mylayne (17), Eric Baudelaire (4), Sophie Calle (4), Uwe Henneken (4), Gabriel Kuri (4), Paul McDevitt (4), Thomas Ruff (4), Phillip Allen (3), Andreas Eriksson (3), Hans-Peter Feldmann (3), Gregor Hildebrandt (3), Markus Karstiess (3), Alicja Kwade (3), Roman Lipski (3), Hew Locke (3), Paul Morrison (3), Gerwald Rockenschaub (3), Emmanuelle Antille (2), John Baldessari (2), Lewis Baltz (2), Yto Barrada (2), Philippe Bazin (2), Jordi Bernadó (2), Beni Bischof (2), Cosima von Bonin (2), Varda Caivano (2), Matt Calderwood (2), Alice Channer (2), Florence Chevallier (2), Georganne Deen (2), Cor Dera (2), Kaye Donachie (2), Cerith Wyn Evans (2), Graham Fagen (2), Patrick Faigenbaum (2), Carsten Fock (2), Lee Friedlander (2), Regina José Galindo (2), David Goldblatt (2), Andreas  Golinski (2), Paul Graham (2), Tue Greenfort (2), Sabine Groß (2), Jeppe Hein (2), Haïdée Henry (2), Alexander Hoda (2), Rachel Howard (2), Mike Kelley (2), William Klein (2), Peter Land (2), Stefan Löffelhardt (2), Bernhar",
-  "representing-galleries": "Gladstone Gallery - Brussels (12 rue du Grand Cerf, 1000 Brussels, Belgium); Sprüth Magers Berlin (Oranienburger Straße 18, 10178 Berlin, Germany); Sprüth Magers London (7A Grafton Street, W1S 4EJ London (England), United Kingdom); Gladstone Gallery - New York - 21st Street (530 West  21st Street New York, NY 10011 USA, 10011 New York City, NY, USA); Gladstone Gallery - New York - 24th Street (515 West 24th Street, 10011 New York City, NY, USA)",
+  "2005-shows-museums": "21",
+  "2005-countries-total": "USA (11), France (7), Spain (5), Belgium (2), Germany (2), Italy (2), Austria (1), United Kingdom (1)",
+  "2005-shows-with": "Jean-Luc Mylayne (18), Eric Baudelaire (4), Sophie Calle (4), Uwe Henneken (4), Gabriel Kuri (4), Paul McDevitt (4), Thomas Ruff (4), Phillip Allen (3), Andreas Eriksson (3), Hans-Peter Feldmann (3), Gregor Hildebrandt (3), Markus Karstiess (3), Alicja Kwade (3), Roman Lipski (3), Hew Locke (3), Paul Morrison (3), Éric Poitevin (3), Gerwald Rockenschaub (3), Emmanuelle Antille (2), John Baldessari (2), Lewis Baltz (2), Yto Barrada (2), Philippe Bazin (2), Jordi Bernadó (2), Beni Bischof (2), Cosima von Bonin (2), Varda Caivano (2), Matt Calderwood (2), Alice Channer (2), Florence Chevallier (2), Georganne Deen (2), Cor Dera (2), Mark Dion (2), Kaye Donachie (2), Cerith Wyn Evans (2), Graham Fagen (2), Patrick Faigenbaum (2), Carsten Fock (2), Lee Friedlander (2), Regina José Galindo (2), David Goldblatt (2), Andreas  Golinski (2), Paul Graham (2), Tue Greenfort (2), Sabine Groß (2), Jeppe Hein (2), Haïdée Henry (2), Alexander Hoda (2), Rachel Howard (2), Mike Kelley (2), William Klein (2), Peter Land (2",
+  "representing-galleries": "Gladstone Gallery - Brussels (12 rue du Grand Cerf, 1000 Brussels, Belgium); Sprüth Magers Berlin (Oranienburger Straße 18, 10178 Berlin, Germany); Sprüth Magers London (7A Grafton Street, W1S 4EJ London, United Kingdom); Gladstone Gallery - New York (515 West 24th Street & 530 West 21st Street, 10011 New York City, NY, USA)",
   "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France)",
   "first_name": "Jean-Luc",
   "last_name": "Mylayne",
@@ -43,6 +43,16 @@
   "age": 68,
   "age_range": "61-100",
   "expos": {
+    "2005": [
+      {
+        "i": "13380-7491-2005-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "13380-7491-2005-02-11",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "13380-2188-2007-12-01",
@@ -205,6 +215,14 @@
         ]
       },
       {
+        "i": "13380-1293-2009-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "13380-1293-2009-05-29",
+        "c": "FR"
+      },
+      {
         "i": "13380-6071-2009-01-30",
         "c": "US",
         "n": "Jean-Luc Mylayne",
@@ -218,6 +236,14 @@
         ]
       },
       {
+        "i": "13380-2528-2009-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "13380-2528-2009-05-15",
+        "c": "FR"
+      },
+      {
         "i": "13380-10037-2009-06-28",
         "c": "US",
         "n": "Jean-Luc Mylayne",
@@ -229,6 +255,14 @@
           "2009-06-28",
           "2009-09-20"
         ]
+      },
+      {
+        "i": "13380-8997-2009-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "13380-8997-2009-09-18",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -392,6 +426,14 @@
         ]
       },
       {
+        "i": "13380-28615-2012-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "13380-28615-2012-10-20",
+        "c": "FR"
+      },
+      {
         "i": "13380-3679-2011-08-13",
         "c": "US",
         "n": "Jean-Luc Mylayne:  The Heavens are Blue",
@@ -431,9 +473,29 @@
           "2012-05-04",
           "2014-04-13"
         ]
+      },
+      {
+        "i": "13380-8997-2013-10-05",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "13380-8997-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "13380-8997-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "13380-8129-2013-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "13380-8129-2013-02-16",
+        "c": "FR"
+      },
       {
         "i": "13380-18101-2013-03-29",
         "c": "IT",
@@ -472,6 +534,10 @@
           "2013-04-20",
           "2013-06-16"
         ]
+      },
+      {
+        "i": "13380-8997-2013-10-05",
+        "c": "FR"
       }
     ]
   }

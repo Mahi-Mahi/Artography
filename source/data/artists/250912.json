@@ -1,7 +1,7 @@
 {
   "id": "250912",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:43:22",
+  "timestamp": "2014-05-24 07:42:24",
   "name": "Aline Biasutto",
   "surname": "Biasutto",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "64049",
-  "r01": "61010",
-  "r02": "56736",
-  "r03": "51945",
-  "r04": "92716",
-  "r05": "91791",
-  "r06": "83640",
-  "r07": "75000",
-  "r08": null,
+  "r00": "49697",
+  "r01": "49613",
+  "r02": "45599",
+  "r03": "41191",
+  "r04": "44091",
+  "r05": "90855",
+  "r06": "91357",
+  "r07": "82853",
+  "r08": "74143",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "3",
+  "all-shows-total": "4",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (1), Russia (1)",
-  "2005-shows-with": "Aline Biasutto (2), Simona Da Pozzo (2)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (2), Russia (1)",
+  "2005-shows-with": "Aline Biasutto (3), Simona Da Pozzo (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Aline",
@@ -43,7 +43,27 @@
   "age": 34,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "250912-12381-2006-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "250912-12381-2006-04-01",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "250912-21707-2009-12-12",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "250912-21707-2009-12-12",
+        "c": "FR"
+      },
       {
         "i": "250912-8587-2010-07-02",
         "c": "RU",

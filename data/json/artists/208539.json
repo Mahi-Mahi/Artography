@@ -1,7 +1,7 @@
 {
   "id": "208539",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:27:06",
+  "timestamp": "2014-05-24 07:27:54",
   "name": "Tarek Atoui",
   "surname": "Atoui",
   "nationality": "FR, LB",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sound Art",
-  "r00": "5533",
-  "r01": "6084",
-  "r02": "10792",
-  "r03": "17123",
-  "r04": "32049",
-  "r05": null,
+  "r00": "2920",
+  "r01": "3901",
+  "r02": "4327",
+  "r03": "7946",
+  "r04": "13463",
+  "r05": "25948",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": "tarekatoui.com",
   "all-shows-first": "2009",
-  "all-shows-total": "14",
+  "all-shows-total": "18",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "6",
-  "2005-countries-total": "Germany (3), Sweden (2), Austria (1), Belgium (1), Denmark (1), France (1), Lebanon (1), Netherlands (1), South Korea (1), United Arab Emirates (1), USA (1)",
-  "2005-shows-with": "Tarek Atoui (14), Tino Sehgal (5), Jalal Toufic (4), Adel Abdessemed (3), Doa Aly (3), Yto Barrada (3), Gerard Byrne (3), Jimmie Durham (3), Joana Hadjithomas & Khalil Joreige (3), Bouchra Khalili (3), Hassan Khan (3), Basim Magdy (3), Haroon Mirza (3), Selma & Sofiane Ouissi (3), Walid Raad (3), Akram Zaatari (3), Saâdane Afif (2), Reem Al Ghaith (2), Allora & Calzadilla (2), Ziad Antar (2), Kader Attia (2), Neil Beloufa (2), Manon de Boer (2), Abraham Cruzvillegas (2), Eugenio Dittborn (2), Stan Douglas (2), Radhouane El Meddeb (2), Haris Epaminonda (2), Ayse Erkmen (2), Tim Etchells (2), Mounir Fatmi (2), Lara Favaretto (2), Dora García (2), Mariam Ghani (2), Simryn Gill (2), Mona Hatoum (2), Susan Hiller (2), Lamia Joreige (2), Erkki Kurenniemi (2), Sandra Madi (2), Rima Maroun (2), Minouk Lim (2), Rabih Mrouè (2), Christodoulos Panayiotou (2), Susan Philipsz (2), Lea Porsager (2), Michael Portnoy (2), Raqs Media Collective (2), Lili Reynaud Dewar (2), Jewyo Rhii (2), Sung-Hwan Kim (2), Mika Taanila (2",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "Germany (4), Sweden (4), Austria (1), Belgium (1), Denmark (1), France (1), Lebanon (1), Netherlands (1), Russia (1), South Korea (1), United Arab Emirates (1), USA (1)",
+  "2005-shows-with": "Tarek Atoui (18), Tino Sehgal (6), Yto Barrada (4), Hassan Khan (4), Jalal Toufic (4), Adel Abdessemed (3), Saâdane Afif (3), Doa Aly (3), Gerard Byrne (3), Tacita Dean (3), Jimmie Durham (3), Tim Etchells (3), Simryn Gill (3), Shilpa Gupta (3), Joana Hadjithomas & Khalil Joreige (3), Bouchra Khalili (3), Basim Magdy (3), Haroon Mirza (3), Selma & Sofiane Ouissi (3), Christodoulos Panayiotou (3), Walid Raad (3), Raqs Media Collective (3), Anri Sala (3), Lawrence Weiner (3), Akram Zaatari (3), A-1 53167 (2), Bani Abidi (2), Mathieu Kleyebe Abonnenc (2), Reem Al Ghaith (2), Allora & Calzadilla (2), Ziad Antar (2), Julieta Aranda (2), Robert Ashley (2), Kader Attia (2), Petra Bauer (2), Neil Beloufa (2), Gordon Bennett (2), Manon de Boer (2), Geta Bratescu (2), Daniel Buren (2), Mariana Castillo Deball (2), Carolina Caycedo (2), Abraham Cruzvillegas (2), Eugenio Dittborn (2), Stan Douglas (2), Radhouane El Meddeb (2), Elmgreen & Dragset (2), Haris Epaminonda (2), Ayse Erkmen (2), Mounir Fatmi (2), Lara Favarett",
   "representing-galleries": "Galerie Chantal Crousel (10, rue Charlot, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Tarek",
@@ -164,6 +164,14 @@
       }
     ],
     "2012": [
+      {
+        "i": "208539-26765-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "208539-26765-2012-04-20",
+        "c": "FR"
+      },
       {
         "i": "208539-2538-2012-06-09",
         "c": "DE",

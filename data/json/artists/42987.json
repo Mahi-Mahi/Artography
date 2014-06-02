@@ -1,7 +1,7 @@
 {
   "id": "42987",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:21:23",
+  "timestamp": "2014-05-24 06:31:09",
   "name": "Bureau d’études",
   "surname": "Bureau d’études",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Artist group",
   "media": "Installation",
-  "r00": "3255",
-  "r01": "2954",
-  "r02": "3195",
-  "r03": "2905",
-  "r04": "3132",
-  "r05": "3113",
-  "r06": "3236",
-  "r07": "2691",
-  "r08": "2207",
+  "r00": "4200",
+  "r01": "3835",
+  "r02": "3101",
+  "r03": "3358",
+  "r04": "2898",
+  "r05": "3118",
+  "r06": "3003",
+  "r07": "3125",
+  "r08": "2432",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "42",
+  "all-shows-total": "44",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": "17",
-  "2005-countries-total": "Germany (5), France (3), Switzerland (3), Canada (2), Netherlands (2), Spain (2), Sweden (2), Austria (1), Colombia (1), Italy (1), Portugal (1), Romania (1), Turkey (1), United Kingdom (1)",
-  "2005-shows-with": "Bureau d’études (26), Adriana Varejão (6), Kristoffer Ardeña (4), Ursula Biemann (4), Milena Bonilla (4), Lukas Einsele (4), Brian Holmes (4), Ashley Hunt (4), Karlo Ibarra (4), Emma Kay (4), Maria Lantz (4), Mark Lombardi (4), Mikael Lundberg (4), Oliver Musovik (4), Josh On (4), Trevor Paglen (4), Lia Perjovschi (4), Arno Peters (4), Sabine Réthoré (4), Jan Svenungsson (4), Renaud Auguste-Dormeuil (3), Rosa Barba (3), Chto delat? (3), Stefan Constantinescu (3), Öyvind Fahlström (3), Eduard Freudmann (3), Buckminster Fuller (3), Goldin + Senneby (3), Frances Goodman (3), Can Gülcü (3), Hackitectura (3), Mona Hatoum (3), Thomas Hirschhorn (3), Armin Linke (3), Adrian Matei (3), Christoph Mayer (3), Christina McPhee (3), Yoko Ono (3), Marko Peljhan (3), Katarina  Pirak (3), Philippe Rekacewicz (3), Anri Sala (3), Sean Snyder (3), Société Réaliste (3), Hiroshi Sugimoto (3), Ignasi Aballí (2), Bas Jan Ader (2), Lorenz Aggermann (2), Nevin Aladag (2), Efren Alvarez (2), Francis Alys (2), Ulf Aminde",
+  "2005-countries-total": "Germany (6), France (3), Switzerland (3), Canada (2), Netherlands (2), Spain (2), Sweden (2), Austria (1), Belgium (1), Colombia (1), Italy (1), Portugal (1), Romania (1), Turkey (1), United Kingdom (1)",
+  "2005-shows-with": "Bureau d’études (28), Adriana Varejão (6), Trevor Paglen (5), Kristoffer Ardeña (4), Ursula Biemann (4), Milena Bonilla (4), Lukas Einsele (4), Brian Holmes (4), Ashley Hunt (4), Karlo Ibarra (4), Emma Kay (4), Maria Lantz (4), Mark Lombardi (4), Mikael Lundberg (4), Oliver Musovik (4), Josh On (4), Lia Perjovschi (4), Arno Peters (4), Sabine Réthoré (4), Jan Svenungsson (4), Renaud Auguste-Dormeuil (3), Rosa Barba (3), Chto delat? (3), Stefan Constantinescu (3), Öyvind Fahlström (3), Eduard Freudmann (3), Buckminster Fuller (3), Goldin + Senneby (3), Frances Goodman (3), Can Gülcü (3), Hackitectura (3), Mona Hatoum (3), Thomas Hirschhorn (3), Armin Linke (3), Adrian Matei (3), Christoph Mayer (3), Christina McPhee (3), Yoko Ono (3), Marko Peljhan (3), Katarina  Pirak (3), Philippe Rekacewicz (3), Anri Sala (3), Sean Snyder (3), Société Réaliste (3), Hiroshi Sugimoto (3), Ignasi Aballí (2), Bas Jan Ader (2), Lorenz Aggermann (2), Nevin Aladag (2), Efren Alvarez (2), Francis Alys (2), Ulf Aminde",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Bureau",
@@ -313,6 +313,14 @@
         ]
       },
       {
+        "i": "42987-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "42987-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
         "i": "42987-21862-2010-05-09",
         "c": "GB",
         "n": "Uneven Geographies - Uneven Geographies",
@@ -404,6 +412,14 @@
           "2010-11-21",
           "2011-03-13"
         ]
+      },
+      {
+        "i": "42987-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "42987-21128-2011-02-03",
+        "c": "FR"
       },
       {
         "i": "42987-19432-2011-03-09",
@@ -525,6 +541,14 @@
           "2012-11-21",
           "2013-02-24"
         ]
+      },
+      {
+        "i": "42987-17612-2013-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "42987-17612-2013-06-30",
+        "c": "FR"
       },
       {
         "i": "42987-7977-2013-10-19",

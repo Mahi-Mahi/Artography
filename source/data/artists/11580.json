@@ -1,7 +1,7 @@
 {
   "id": "11580",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:43",
+  "timestamp": "2014-05-24 06:19:33",
   "name": "Renaud Jacquier-Stajnowicz",
   "surname": "Jacquier-Stajnowicz",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "35341",
-  "r01": "62197",
-  "r02": "57202",
-  "r03": "57994",
-  "r04": "52068",
-  "r05": "48969",
-  "r06": "42620",
-  "r07": "62721",
-  "r08": "57276",
+  "r00": "26554",
+  "r01": "26459",
+  "r02": "51019",
+  "r03": "55443",
+  "r04": "56070",
+  "r05": "48960",
+  "r06": "45317",
+  "r07": "38615",
+  "r08": "61050",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "10",
+  "all-shows-total": "11",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (2), Germany (1), Hungary (1), Switzerland (1)",
-  "2005-shows-with": "Renaud Jacquier-Stajnowicz (4), Charles Bézie (2), Hans-Jörg Glattfelder (2), Manfred Mohr (2), Henri Prosi (2), Reinhard Roy (2), Marie-Thérèse Vacossin (2)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (2), Germany (2), Hungary (1), Switzerland (1)",
+  "2005-shows-with": "Renaud Jacquier-Stajnowicz (5), Horst Bartnig (2), Ode Bertrand (2), Charles Bézie (2), Bob Bonies (2), Andreas Brandt (2), Piero Dorazio (2), Jean-François Dubreuil (2), Hans-Jörg Glattfelder (2), Matti Kujasalo (2), Dóra Maurer (2), Manfred Mohr (2), Henri Prosi (2), Reinhard Roy (2), Marie-Thérèse Vacossin (2)",
   "representing-galleries": "Galerie Lahumière (17 Rue du Parc Royal, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Renaud",
@@ -43,6 +43,26 @@
   "age": 62,
   "age_range": "61-100",
   "expos": {
+    "2005": [
+      {
+        "i": "11580-370-2005-12-03",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "11580-370-2005-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "11580-370-2006-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "11580-370-2006-11-25",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "11580-3175-2007-07-06",
@@ -56,6 +76,24 @@
           "2007-07-06",
           "2007-09-08"
         ]
+      },
+      {
+        "i": "11580-370-2007-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "11580-370-2007-03-15",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "11580-370-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "11580-370-2009-01-17",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -99,6 +137,14 @@
           "2013-07-27",
           "2013-10-27"
         ]
+      },
+      {
+        "i": "11580-370-2013-01-24",
+        "c": "FR"
+      },
+      {
+        "i": "11580-370-2013-01-24",
+        "c": "FR"
       }
     ]
   }

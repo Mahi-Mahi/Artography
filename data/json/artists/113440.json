@@ -1,7 +1,7 @@
 {
   "id": "113440",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:49:52",
+  "timestamp": "2014-05-24 06:55:32",
   "name": "François Monchâtre",
   "surname": "Monchâtre",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "49145",
-  "r01": "45901",
-  "r02": "42214",
-  "r03": "38047",
-  "r04": "57447",
-  "r05": "51271",
-  "r06": "45005",
-  "r07": "38628",
-  "r08": "69227",
+  "r00": "44305",
+  "r01": "42674",
+  "r02": "43843",
+  "r03": "38502",
+  "r04": "33743",
+  "r05": "55312",
+  "r06": "48369",
+  "r07": "41284",
+  "r08": "34841",
   "awards": null,
   "website": null,
   "all-shows-first": "1967",
-  "all-shows-total": "5",
+  "all-shows-total": "6",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (2)",
-  "2005-shows-with": null,
+  "2005-countries-total": "France (3)",
+  "2005-shows-with": "François Monchâtre (2)",
   "representing-galleries": "Galerie Lélia Mordoch (50, rue Mazarine, 75006 Paris, France); Galerie Susi Brunner (Spitalgasse 10, 8001 Zurich, Switzerland)",
   "collecting-museums": null,
   "first_name": "François",
@@ -43,5 +43,45 @@
   "age": 86,
   "age_range": "61-100",
   "expos": {
+    "2005": [
+      {
+        "i": "113440-4706-2005-12-16",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "113440-4706-2005-12-16",
+        "c": "FR"
+      },
+      {
+        "i": "113440-4706-2006-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "113440-4706-2006-06-09",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "113440-4706-2010-12-23",
+        "c": "FR"
+      },
+      {
+        "i": "113440-4706-2010-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "113440-4706-2010-11-19",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "113440-4706-2010-12-23",
+        "c": "FR"
+      }
+    ]
   }
 }

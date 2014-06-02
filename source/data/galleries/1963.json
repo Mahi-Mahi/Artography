@@ -18,6 +18,10 @@
   "fairs": {
     "2005": [
       {
+        "i": "1963-Fiac 2005",
+        "c": "FR"
+      },
+      {
         "i": "1963-Frieze Art Fair 2005",
         "c": "GB",
         "n": "Frieze Art Fair 2005",
@@ -44,6 +48,14 @@
         "ct": "Barcelona"
       },
       {
+        "i": "1963-Fiac 2006",
+        "c": "FR"
+      },
+      {
+        "i": "1963-Paris Photo 2006",
+        "c": "FR"
+      },
+      {
         "i": "1963-Pulse Miami 06",
         "c": "US",
         "n": "Pulse Miami 06",
@@ -64,6 +76,14 @@
         "ct": "Shanghai"
       },
       {
+        "i": "1963-Fiac 2007",
+        "c": "FR"
+      },
+      {
+        "i": "1963-Paris Photo 2007",
+        "c": "FR"
+      },
+      {
         "i": "1963-PULSE Miami 07",
         "c": "US",
         "n": "PULSE Miami 07",
@@ -72,10 +92,18 @@
     ],
     "2008": [
       {
+        "i": "1963-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
         "i": "1963-Art Brussels 2008- 26th Contemporary Art Fair",
         "c": "BE",
         "n": "Art Brussels 2008- 26th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "1963-Fiac 2008",
+        "c": "FR"
       },
       {
         "i": "1963-PULSE Miami 08",
@@ -86,10 +114,18 @@
     ],
     "2009": [
       {
+        "i": "1963-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
         "i": "1963-Art Brussels 2009 - 27th Contemporary Art Fair",
         "c": "BE",
         "n": "Art Brussels 2009 - 27th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "1963-Fiac 2009",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -104,6 +140,14 @@
         "c": "DE",
         "n": "15. Art Forum Berlin",
         "ct": "Berlin"
+      },
+      {
+        "i": "1963-Fiac 2010",
+        "c": "FR"
+      },
+      {
+        "i": "1963-Paris Photo 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -112,6 +156,14 @@
         "c": "US",
         "n": "The Armory Show 2011",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "1963-Fiac 2011",
+        "c": "FR"
+      },
+      {
+        "i": "1963-Paris Photo 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -120,6 +172,14 @@
         "c": "US",
         "n": "The Armory Show 2012",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "1963-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1963-Fiac 2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -128,6 +188,14 @@
         "c": "US",
         "n": "The Armory Show 2013",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "1963-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1963-FIAC 2013",
+        "c": "FR"
       }
     ]
   }

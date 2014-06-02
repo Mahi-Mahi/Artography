@@ -1,7 +1,7 @@
 {
   "id": "91969",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:41:33",
+  "timestamp": "2014-05-24 06:48:24",
   "name": "Jacques Clauzel",
   "surname": "Clauzel",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "62595",
-  "r01": "59660",
-  "r02": "67889",
-  "r03": "62784",
-  "r04": "61047",
-  "r05": "81022",
-  "r06": "73001",
-  "r07": "66989",
-  "r08": "58079",
+  "r00": "46515",
+  "r01": "46260",
+  "r02": "53040",
+  "r03": "61805",
+  "r04": "55865",
+  "r05": "54075",
+  "r06": "78437",
+  "r07": "69823",
+  "r08": "63872",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
   "all-shows-total": "10",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "Belgium (4), France (2), Germany (1)",
-  "2005-shows-with": "Jacques Clauzel (6), Jean Degottex (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "Belgium (5), France (2), Germany (1)",
+  "2005-shows-with": "Jacques Clauzel (7), Jean Degottex (2), Michael Kravagna (2)",
   "representing-galleries": "Monos Gallery (rue Henri Blès 39, 4000 Liège, Belgium); Art Point Gallery (Rondplein  10, 2400 Mol, Belgium); Arrêt sur l'image Galerie (Hangar G2 - Quai Armand Lalande, 3330 Bordeaux, France); Galerie Berthet-Aittouarès (29, rue de Seine, 75006 Paris, France); Galerie Eva Doublet (243 rue des fougères, 17700 Saint-Georges du Bois, France); Galerie MMG (1-5-8, Higashi-Azabu, 1060044 Tokyo, Japan)",
   "collecting-museums": null,
   "first_name": "Jacques",
@@ -88,6 +88,14 @@
     ],
     "2010": [
       {
+        "i": "91969-23310-2010-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "91969-23310-2010-05-25",
+        "c": "FR"
+      },
+      {
         "i": "91969-22700-2010-11-17",
         "c": "BE",
         "n": "Black is living",
@@ -99,6 +107,14 @@
           "2010-11-17",
           "2011-01-23"
         ]
+      },
+      {
+        "i": "91969-13344-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "91969-13344-2010-10-01",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -170,6 +186,16 @@
           "2012-12-08",
           "2013-01-06"
         ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "91969-10224-2007-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "91969-10224-2007-09-16",
+        "c": "FR"
       }
     ]
   }

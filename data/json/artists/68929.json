@@ -1,7 +1,7 @@
 {
   "id": "68929",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:31:53",
+  "timestamp": "2014-05-24 06:40:21",
   "name": "Yves Gellie",
   "surname": "Gellie",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "59085",
-  "r01": "55432",
-  "r02": "50927",
-  "r03": "46112",
-  "r04": "41297",
-  "r05": "36300",
-  "r06": "43350",
-  "r07": "37188",
-  "r08": "64369",
+  "r00": "24046",
+  "r01": "64595",
+  "r02": "57251",
+  "r03": "49979",
+  "r04": "43658",
+  "r05": "37758",
+  "r06": "32255",
+  "r07": "39441",
+  "r08": "33131",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "3",
+  "all-shows-total": "4",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (1), Spain (1)",
-  "2005-shows-with": null,
+  "2005-countries-total": "France (1), Spain (1), USA (1)",
+  "2005-shows-with": "Yves Gellie (2)",
   "representing-galleries": "Galerie Baudoin Lebon (38, rue sainte croix de la bretonnerie, 75004 Paris, France)",
   "collecting-museums": null,
   "first_name": "Yves",
@@ -85,6 +85,14 @@
           "2008-06-04",
           "2008-07-27"
         ]
+      },
+      {
+        "i": "68929-1380-2008-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "68929-1380-2008-01-31",
+        "c": "FR"
       }
     ]
   }

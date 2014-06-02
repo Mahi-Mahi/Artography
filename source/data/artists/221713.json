@@ -1,7 +1,7 @@
 {
   "id": "221713",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:32:16",
+  "timestamp": "2014-05-24 07:32:26",
   "name": "Vincent Dulom",
   "surname": "Dulom",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "39772",
-  "r01": "47484",
-  "r02": "45828",
-  "r03": "81244",
-  "r04": "80617",
-  "r05": "73608",
-  "r06": null,
+  "r00": "30179",
+  "r01": "32055",
+  "r02": "38767",
+  "r03": "36960",
+  "r04": "75777",
+  "r05": "76372",
+  "r06": "69253",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
   "all-shows-total": "10",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (8), Belgium (1)",
-  "2005-shows-with": "Vincent Dulom (6), Claire Chesnier (2), John Cornu (2), Jean Denant (2), Jennifer Douzenel (2)",
+  "2005-countries-total": "France (9), Belgium (1)",
+  "2005-shows-with": "Vincent Dulom (7), Claire Chesnier (3), John Cornu (2), Jean Denant (2), Jennifer Douzenel (2), Claire Tabouret (2)",
   "representing-galleries": "Galerie Leonardo Agosti (3, Quai de l\\'Aspirant Herber, 34200 Sète, France)",
   "collecting-museums": null,
   "first_name": "Vincent",
@@ -43,6 +43,52 @@
   "age": 49,
   "age_range": "41-60",
   "expos": {
+    "2010": [
+      {
+        "i": "221713-29884-2010-03-26",
+        "c": "FR"
+      },
+      {
+        "i": "221713-29884-2010-03-26",
+        "c": "FR"
+      },
+      {
+        "i": "221713-19508-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "221713-19508-2010-06-05",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "221713-10247-2011-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "221713-10247-2011-01-30",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "221713-26256-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "221713-26256-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "221713-28142-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "221713-28142-2012-09-07",
+        "c": "FR"
+      }
+    ],
     "2013": [
       {
         "i": "221713-29403-2013-04-18",
@@ -56,6 +102,32 @@
           "2013-04-18",
           "2013-04-21"
         ]
+      },
+      {
+        "i": "221713-26256-2013-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "221713-26256-2013-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "221713-8647-2013-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "221713-8647-2013-06-21",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "221713-16728-2008-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "221713-16728-2008-11-07",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "218460",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:31:02",
+  "timestamp": "2014-05-24 07:31:19",
   "name": "Christophe Lemaitre",
   "surname": "Lemaitre",
   "nationality": "FR",
@@ -14,35 +14,71 @@
   "death day": null,
   "death month": null,
   "death year": null,
-  "attributes": null,
+  "attributes": "Male",
   "media": null,
-  "r00": "42558",
-  "r01": "39884",
-  "r02": "67210",
-  "r03": "63669",
-  "r04": "72859",
-  "r05": "85267",
-  "r06": null,
+  "r00": "27679",
+  "r01": "28241",
+  "r02": "25567",
+  "r03": "59258",
+  "r04": "55664",
+  "r05": "65921",
+  "r06": "82626",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "11",
-  "2005-shows-biennials": "6",
-  "2005-shows-galleries": "6",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (8), Germany (1), Netherlands (1)",
-  "2005-shows-with": "Christophe Lemaitre (8), Jan Kopp (2)",
+  "all-shows-total": "13",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (11), Germany (1), Netherlands (1)",
+  "2005-shows-with": "Christophe Lemaitre (10), Leonor Antunes (2), Jesus Alberto Benitez (2), Roxane Borujerdi (2), Nicolas Chardon (2), Hippolyte Hentgen (2), Raphaël Julliard (2), Jan Kopp (2), Pierre Leguillon (2), Colombe Marcasiano (2), Aurélien Mole (2), Clément Rodzielski (2), Izet Sheshivari (2), Olivier Soulerin (2), syndicate (2), Eva Taulois (2), Julien Tiberi (2), Niels Trannois (2), Cyril Verde (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Christophe",
   "last_name": "Lemaitre",
-  "genre": "c",
+  "genre": "m",
   "birthDate": "1981-12-28",
   "age": 32,
   "age_range": "26-40",
   "expos": {
+    "2008": [
+      {
+        "i": "218460-29884-2008-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "218460-29884-2008-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "218460-23549-2008-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "218460-23549-2008-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "218460-23549-2008-12-02",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "218460-12129-2009-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "218460-12129-2009-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "218460-23549-2008-12-02",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "218460-19666-2011-07-01",
@@ -60,6 +96,30 @@
     ],
     "2012": [
       {
+        "i": "218460-4194-2012-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "218460-4194-2012-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "218460-25336-2012-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "218460-25336-2012-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "218460-7999-2012-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "218460-7999-2012-09-29",
+        "c": "FR"
+      },
+      {
         "i": "218460-596-2012-10-02",
         "c": "NL",
         "n": "Theatre of Thought",
@@ -71,6 +131,18 @@
           "2012-10-02",
           "2013-01-27"
         ]
+      },
+      {
+        "i": "218460-8520-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "218460-29077-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "218460-29077-2012-03-24",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -86,6 +158,20 @@
           "2012-10-02",
           "2013-01-27"
         ]
+      },
+      {
+        "i": "218460-8520-2012-11-23",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "218460-19673-2010-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "218460-19673-2010-10-15",
+        "c": "FR"
       }
     ]
   }

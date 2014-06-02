@@ -1,7 +1,7 @@
 {
   "id": "18467",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:53",
+  "timestamp": "2014-05-24 06:22:16",
   "name": "Françoise Quardon",
   "surname": "Quardon",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "12261",
-  "r01": "11078",
-  "r02": "12613",
-  "r03": "13503",
-  "r04": "16881",
-  "r05": "16526",
-  "r06": "16524",
-  "r07": "14399",
-  "r08": "13218",
+  "r00": "12583",
+  "r01": "12253",
+  "r02": "10505",
+  "r03": "13068",
+  "r04": "14516",
+  "r05": "19021",
+  "r06": "17136",
+  "r07": "15636",
+  "r08": "12219",
   "awards": null,
   "website": null,
   "all-shows-first": "1990",
-  "all-shows-total": "28",
+  "all-shows-total": "29",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "8",
   "2005-countries-total": "France (11), Romania (1), South Korea (1)",
   "2005-shows-with": "Françoise Quardon (10), Fabrice Hybert (3), Élisabeth Ballet (2), Louise Bourgeois (2), Olaf Breuning (2), Stéphane Couturier (2), Christine Crozat (2), Marie Ducaté (2), Sylvie Fleury (2), Yona Friedman (2), Lee Bul (2), Giuseppe Penone (2), Jean Jacques Rullier (2), Kiki Smith (2)",
   "representing-galleries": "Galerie Domi Nostrae (39, Cours de la Liberté, 69003 Lyon, France); Galerie Métropolis (6 passage des Gravilliers, 75003 Paris, France)",
-  "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France); Leeds Art Gallery (The Headrow, LS1 3AA Leeds (England), United Kingdom)",
+  "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France); Leeds Art Gallery (The Headrow, LS1 3AA Leeds, United Kingdom)",
   "first_name": "Françoise",
   "last_name": "Quardon",
   "genre": "m",
@@ -43,6 +43,42 @@
   "age": 53,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "18467-4252-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "18467-4252-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "18467-12992-2005-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "18467-12992-2005-09-17",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "18467-12641-2006-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "18467-12641-2006-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "18467-11776-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "18467-11776-2006-09-09",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "18467-17449-2007-03-31",
@@ -71,9 +107,41 @@
           "2010-03-20",
           "2010-08-29"
         ]
+      },
+      {
+        "i": "18467-2021-2010-05-08",
+        "c": "FR"
+      },
+      {
+        "i": "18467-2021-2010-05-08",
+        "c": "FR"
+      },
+      {
+        "i": "18467-2718-2010-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "18467-2718-2010-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "18467-26731-2010-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "18467-29027-2010-10-07",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "18467-26731-2010-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "18467-29027-2010-10-07",
+        "c": "FR"
+      },
       {
         "i": "18467-3104-2011-01-24",
         "c": "RO",
@@ -86,6 +154,68 @@
           "2011-01-24",
           "2011-04-20"
         ]
+      },
+      {
+        "i": "18467-28278-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "18467-28278-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "18467-14920-2011-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "18467-14920-2011-10-08",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "18467-8088-2012-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "18467-8088-2012-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "18467-11845-2012-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "18467-11845-2012-03-21",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "18467-11776-2008-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "18467-11776-2008-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "18467-11776-2008-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "18467-11776-2008-05-15",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "18467-8554-2009-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "18467-8554-2009-05-07",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "65143",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:26",
+  "timestamp": "2014-05-24 06:39:02",
   "name": "François Weil",
   "surname": "Weil",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "58457",
-  "r01": "55546",
-  "r02": "58284",
-  "r03": "55367",
-  "r04": "82628",
-  "r05": "91972",
-  "r06": "83802",
-  "r07": "76199",
-  "r08": null,
+  "r00": "49794",
+  "r01": "49827",
+  "r02": "45965",
+  "r03": "50687",
+  "r04": "47873",
+  "r05": "78457",
+  "r06": "91682",
+  "r07": "83191",
+  "r08": "75967",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
@@ -34,7 +34,7 @@
   "2005-shows-museums": "2",
   "2005-countries-total": "France (3), Germany (1)",
   "2005-shows-with": "François Weil (4)",
-  "representing-galleries": "Mathilde Hatzenberger Gallery (Rue Haute 11, 1000 Brussels, Belgium); Galerie Lucie Weill & Seligmann (6 rue Bonaparte, 75006 Paris, France); Galerie Alice Mogabgab (253 rue Gourad,  Beirut, Lebanon)",
+  "representing-galleries": "Mathilde Hatzenberger Gallery (11 Rue Léon Lepage, 1000 Brussels, Belgium); Galerie Lucie Weill & Seligmann (6 rue Bonaparte, 75006 Paris, France); Galerie Alice Mogabgab (253 rue Gourad,  Beirut, Lebanon)",
   "collecting-museums": "Villa Datris - Fondation pour la Sculpture Contemporaine (7, avenue des 4 Otages, 84800 L´Isle-sur-la-Sorgue, France)",
   "first_name": "François",
   "last_name": "Weil",
@@ -43,6 +43,26 @@
   "age": 50,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "65143-23441-2007-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "65143-23441-2007-10-11",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "65143-21339-2009-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "65143-21339-2009-07-03",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "65143-6781-2010-09-04",
@@ -56,6 +76,36 @@
           "2010-09-04",
           "2010-10-31"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "65143-20984-2011-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "65143-20984-2011-09-06",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "65143-26673-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "65143-26673-2012-04-06",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "65143-5139-2006-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "65143-5139-2006-05-18",
+        "c": "FR"
       }
     ]
   }

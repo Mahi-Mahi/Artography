@@ -1,7 +1,7 @@
 {
   "id": "57122",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:06",
+  "timestamp": "2014-05-24 06:36:09",
   "name": "Miss Van",
   "surname": "Miss Van",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Female",
   "media": "Graffiti",
-  "r00": "8560",
-  "r01": "7807",
-  "r02": "8506",
-  "r03": "9745",
-  "r04": "9882",
-  "r05": "12256",
-  "r06": "11743",
-  "r07": "14132",
-  "r08": "18951",
+  "r00": "8553",
+  "r01": "8063",
+  "r02": "6651",
+  "r03": "7172",
+  "r04": "8406",
+  "r05": "8433",
+  "r06": "10635",
+  "r07": "9827",
+  "r08": "11884",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "46",
-  "2005-shows-biennials": "28",
-  "2005-shows-galleries": "28",
+  "all-shows-total": "47",
+  "2005-shows-biennials": "30",
+  "2005-shows-galleries": "30",
   "2005-shows-museums": "4",
-  "2005-countries-total": "USA (7), Italy (5), United Kingdom (5), China (4), France (4), Germany (4), Denmark (1), Netherlands (1), Spain (1)",
-  "2005-shows-with": "Miss Van (24), Shepard Fairey (10), Sas Christian (5), Ron English (5), Camille Rose Garcia (5), Alex Gross (5), Invader (5), JonOne (5), Mark Ryden (5), Jeff Soto (5), Esao Andrews (4), David Bray (4), Ray Caesar (4), Chloe Early (4), Kris Lewis (4), Travis Loui (4), Tara McPherson (4), Scott Musgrove (4), Marion Peck (4), Ronzo (4), Word To Mother (4), ZEVS (4), Leila Ataya (3), Gary Baseman (3), Blek Le Rat (3), Botto & Bruno (3), Victor Castillo (3), Nicoletta Ceccoli (3), Colin Christian (3), D*Face (3), Dalek (3), Brad Downey (3), Gosia Galas (3), Christian Gonzenbach (3), Mr. Jago (3), Aaron Jasinski (3), Jaybo (3), Ken Keirns (3), Charles Krafft (3), Kosta Kulundzic (3), P. Nicolas Ledoux (3), Russell Maurice (3), Tim McCormick (3), Kathie Olivas (3), Michael Page (3), Laurina Paperina (3), Todd Schorr (3), Natalie Shau (3), Joe Sorren (3), Nathan Spoor (3), Kathy Staico Schorr (3), David Stoupakis (3), Sunny & Kai (3), Paul Alexander Thornton (3), Jonathan Viner (3), Dan Witz (3), Victor Ash (2), An",
-  "representing-galleries": "Dorothy Circus Gallery (Via dei Pettinari 76, 00186 Rome, Italy); Stolenspace Gallery (91 Brick Lane, E1 6QL London (England), United Kingdom); Jonathan LeVine Gallery (529 W. 20th Street, 9E, 10011 New York City, NY, USA); Copro Nason Gallery (2525 Michigan Avenue T5, 90404 Santa Monica, CA, USA)",
+  "2005-countries-total": "USA (9), Italy (5), United Kingdom (5), China (4), France (4), Germany (4), Denmark (1), Netherlands (1), Spain (1)",
+  "2005-shows-with": "Miss Van (26), Shepard Fairey (11), Ron English (6), Camille Rose Garcia (6), Alex Gross (6), Mark Ryden (6), Jeff Soto (6), Sas Christian (5), Chloe Early (5), Invader (5), JonOne (5), Tara McPherson (5), Scott Musgrove (5), Marion Peck (5), Esao Andrews (4), Gary Baseman (4), David Bray (4), Ray Caesar (4), Dalek (4), Kris Lewis (4), Travis Loui (4), Ronzo (4), Todd Schorr (4), Word To Mother (4), ZEVS (4), Leila Ataya (3), Blek Le Rat (3), Botto & Bruno (3), Victor Castillo (3), Nicoletta Ceccoli (3), Colin Christian (3), D*Face (3), Brad Downey (3), Gosia Galas (3), Christian Gonzenbach (3), Doze Green (3), Mr. Jago (3), Aaron Jasinski (3), Jaybo (3), James Jean (3), Ken Keirns (3), Charles Krafft (3), Kosta Kulundzic (3), P. Nicolas Ledoux (3), Russell Maurice (3), Tim McCormick (3), Kathie Olivas (3), Michael Page (3), Laurina Paperina (3), Natalie Shau (3), Joe Sorren (3), Nathan Spoor (3), Kathy Staico Schorr (3), David Stoupakis (3), Sunny & Kai (3), Paul Alexander Thornton (3), Jonathan Viner (3), ",
+  "representing-galleries": "Dorothy Circus Gallery (Via dei Pettinari 76, 00186 Rome, Italy); Stolenspace Gallery (91 Brick Lane, E1 6QL London, United Kingdom); Jonathan LeVine Gallery (529 W. 20th Street, 9E, 10011 New York City, NY, USA); Copro Nason Gallery (2525 Michigan Avenue T5, 90404 Santa Monica, CA, USA)",
   "collecting-museums": null,
   "first_name": "Miss",
   "last_name": "Van",
@@ -56,6 +56,14 @@
           "2005-03-19",
           "2005-04-16"
         ]
+      },
+      {
+        "i": "57122-2090-2005-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "57122-2090-2005-09-10",
+        "c": "FR"
       },
       {
         "i": "57122-4492-2005-09-10",
@@ -84,6 +92,14 @@
           "2006-09-27",
           "2007-01-07"
         ]
+      },
+      {
+        "i": "57122-2090-2006-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "57122-2090-2006-04-29",
+        "c": "FR"
       },
       {
         "i": "57122-12009-2006-06-08",
@@ -177,6 +193,14 @@
           "2006-06-08",
           "2007-07-15"
         ]
+      },
+      {
+        "i": "57122-2090-2007-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "57122-2090-2007-11-24",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -231,9 +255,17 @@
           "2008-07-26",
           "2008-08-21"
         ]
+      },
+      {
+        "i": "57122-2090-2008-12-20",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "57122-2090-2008-12-20",
+        "c": "FR"
+      },
       {
         "i": "57122-21688-2009-03-21",
         "c": "DE",
@@ -272,6 +304,14 @@
           "2009-07-02",
           "2009-07-19"
         ]
+      },
+      {
+        "i": "57122-2090-2009-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "57122-2090-2009-10-24",
+        "c": "FR"
       },
       {
         "i": "57122-16520-2009-12-04",
@@ -460,6 +500,10 @@
         ]
       },
       {
+        "i": "57122-2090-2011-12-10",
+        "c": "FR"
+      },
+      {
         "i": "57122-21129-2010-12-16",
         "c": "CN",
         "n": "Twinkles Solo Show",
@@ -471,6 +515,14 @@
           "2010-12-16",
           "2011-01-16"
         ]
+      },
+      {
+        "i": "57122-2090-2011-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "57122-2090-2011-03-19",
+        "c": "FR"
       },
       {
         "i": "57122-4492-2011-05-26",
@@ -500,6 +552,10 @@
       }
     ],
     "2012": [
+      {
+        "i": "57122-2090-2011-12-10",
+        "c": "FR"
+      },
       {
         "i": "57122-16520-2012-02-10",
         "c": "GB",

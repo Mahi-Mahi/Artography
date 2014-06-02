@@ -1,7 +1,7 @@
 {
   "id": "7960",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:06:02",
+  "timestamp": "2014-05-24 06:18:07",
   "name": "Jean Miotte",
   "surname": "Miotte",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "2465",
-  "r01": "2220",
-  "r02": "1989",
-  "r03": "2682",
-  "r04": "4404",
-  "r05": "6210",
-  "r06": "5139",
-  "r07": "4175",
-  "r08": "7055",
+  "r00": "2403",
+  "r01": "2323",
+  "r02": "1952",
+  "r03": "1603",
+  "r04": "2405",
+  "r05": "4495",
+  "r06": "7147",
+  "r07": "5400",
+  "r08": "4126",
   "awards": null,
   "website": null,
   "all-shows-first": "1962",
@@ -34,7 +34,7 @@
   "2005-shows-museums": "13",
   "2005-countries-total": "USA (11), Germany (7), Czech Republic (2), South Korea (1), Spain (1), Switzerland (1)",
   "2005-shows-with": "Jean Miotte (11), Günther Uecker (6), Otto Piene (4), K. R. H. Sonderborg (4), Walter Stöhrer (4), Antoni Tàpies (4), Andy Warhol (4), Sam Francis (3), Rupprecht Geiger (3), Heinz Mack (3), Emil Schumacher (3), Fred Thieler (3), David &#268;erný (2), Max Ackermann (2), Milan Adamciak (2), Hynek Alt (2), Valentin Altofer (2), Horst Antes (2), Arman (2), Karel Balcar (2), Jiri Balcar (2), Pavel Banka (2), Tomáš Bárta (2), Markéta Bendová (2), Jirí Beránek (2), Václav Bláha (2), Josef Bolf (2), Václav Bostík (2), Vladimír Boudník (2), Pavel Brázda (2), Veronika Bromová (2), Peter Brüning (2), Carl Buchheister (2), Milan Cais (2), David Cajthaml (2), Alexander Calder (2), Rolf Cavael (2), Dino Ceco (2), Karel Chaba (2), Vendula Chalankova (2), Dalibor Chatrny (2), Oliver Christmann (2), Christo & Jeanne-Claude (2), Tomás Cisarovsky (2), Sonia Delaunay (2), Bedrich Dlouhy (2), Piero Dorazio (2), Veronika Drahotová (2), Frantisek Drtikol (2), Dennis Ekstrom (2), Max Ernst (2), Milan Fano Blatn",
-  "representing-galleries": "Galerie Image Rainer & Co. OHG (Ruprechtsplatz 4-5, 1010 Vienna, Austria); Theo Wijnhoven Interior Art gallery (Oostmeers 7, 8000 Bruges, Belgium); Galerie Hélène Trintignan (21, rue Saint Guilhem, 34000 Montpellier, France); Galerie Helene Lamarque - Paris (37, rue Vaneau, 75007 Paris, France); Galerie Olivier NOUVELLET (19 rue de Seine, 75006 Paris, France); Galerie Wild - Frankfurt/Main (Kirchnerstr. 2, 60311 Frankfurt/Main, Germany); Galerie Casteel - Mönchengladbach (Regentenstraße 90-92, 41061 Mönchengladbach, Germany); Galerie La Cité (1, rue Louvigny (1er étage), 1946 Luxembourg, Luxembourg); Galería Dolores de Sierra (San Agustín, 15 (Barrio de las Letras), E-28014 Madrid, Spain); Galleri Victoria (Viktoriagatan 2a, 30246 Halmstad, Sweden); Galerie GoldTurm (Seeblickstrasse 26, 9327 Tübach, Switzerland); Galerie Münchow (Stockerstr. 11, 8002 Zurich, Switzerland); Hanina Gallery (180 Westbourne Grove, W11 2RH London (England), United Kingdom)",
+  "representing-galleries": "Galerie Image Rainer & Co. OHG (Ruprechtsplatz 4-5, 1010 Vienna, Austria); Theo Wijnhoven Interior Art gallery (Oostmeers 7, 8000 Bruges, Belgium); Galerie Hélène Trintignan (21, rue Saint Guilhem, 34000 Montpellier, France); Galerie Helene Lamarque - Paris (37, rue Vaneau, 75007 Paris, France); Galerie Olivier NOUVELLET (19 rue de Seine, 75006 Paris, France); Galerie Wild - Frankfurt/Main (Kirchnerstr. 2, 60311 Frankfurt/Main, Germany); Galerie Casteel - Mönchengladbach (Regentenstraße 90-92, 41061 Mönchengladbach, Germany); Galerie La Cité (1, rue Louvigny (1er étage), 1946 Luxembourg, Luxembourg); Galería Dolores de Sierra (San Agustín, 15 (Barrio de las Letras), E-28014 Madrid, Spain); Galleri Victoria (Viktoriagatan 2a, 30246 Halmstad, Sweden); Galerie GoldTurm (Seeblickstrasse 26, 9327 Tübach, Switzerland); Galerie Münchow (Stockerstr. 11, 8002 Zurich, Switzerland); Hanina Gallery (180 Westbourne Grove, W11 2RH London, United Kingdom)",
   "collecting-museums": "CAM - Chelsea Art Museum (556 West 22nd Street, 10011 New York City, NY, USA)",
   "first_name": "Jean",
   "last_name": "Miotte",
@@ -56,9 +56,17 @@
           "2005-03-15",
           "2005-04-17"
         ]
+      },
+      {
+        "i": "7960-8763-2005-12-13",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "7960-8763-2005-12-13",
+        "c": "FR"
+      },
       {
         "i": "7960-3124-2006-03-28",
         "c": "ES",

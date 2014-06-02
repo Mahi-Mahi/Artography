@@ -1,7 +1,7 @@
 {
   "id": "306788",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:05:13",
+  "timestamp": "2014-05-24 08:01:25",
   "name": "Jonathan Binet",
   "surname": "Binet",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "13636",
-  "r01": "17040",
-  "r02": "33575",
-  "r03": "44206",
-  "r04": "39768",
-  "r05": "34970",
-  "r06": null,
+  "r00": "6350",
+  "r01": "7535",
+  "r02": "9723",
+  "r03": "27777",
+  "r04": "37924",
+  "r05": "33058",
+  "r06": "28396",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -31,9 +31,9 @@
   "all-shows-total": "13",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (9), Germany (1), Switzerland (1), United Kingdom (1)",
-  "2005-shows-with": "Jonathan Binet (10), Ryan Gander (3), Katinka Bock (2), Claude Closky (2), Jason Dodge (2), Jessica Lajard (2), Jonathan Monk (2), Lili Reynaud Dewar (2), Simon Starling (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (10), Germany (1), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Jonathan Binet (11), Ryan Gander (3), Katinka Bock (2), Claude Closky (2), Jason Dodge (2), Jessica Lajard (2), Jonathan Monk (2), Lili Reynaud Dewar (2), Simon Starling (2)",
   "representing-galleries": "Gaudel de Stampa (3, rue de Vaucouleurs, 75011 Paris, France)",
   "collecting-museums": null,
   "first_name": "Jonathan",
@@ -43,7 +43,33 @@
   "age": 30,
   "age_range": "26-40",
   "expos": {
+    "2008": [
+      {
+        "i": "306788-11845-2008-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "306788-11845-2008-09-16",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "306788-17012-2011-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "306788-17012-2011-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "306788-1797-2011-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "306788-1797-2011-02-26",
+        "c": "FR"
+      },
       {
         "i": "306788-18325-2011-04-02",
         "c": "DE",
@@ -56,6 +82,22 @@
           "2011-04-02",
           "2011-05-07"
         ]
+      },
+      {
+        "i": "306788-12319-2011-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "306788-12319-2011-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "306788-17012-2011-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "306788-17012-2011-09-09",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -71,9 +113,21 @@
           "2012-02-25",
           "2012-03-31"
         ]
+      },
+      {
+        "i": "306788-4184-2012-12-01",
+        "c": "FR"
+      },
+      {
+        "i": "306788-2303-2012-11-15",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "306788-4184-2012-12-01",
+        "c": "FR"
+      },
       {
         "i": "306788-20301-2013-01-18",
         "c": "GB",
@@ -86,6 +140,28 @@
           "2013-01-18",
           "2013-02-16"
         ]
+      },
+      {
+        "i": "306788-8282-2013-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "306788-8282-2013-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "306788-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "306788-2303-2012-11-15",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "306788-29739-2013-10-12",
+        "c": "FR"
       }
     ]
   }

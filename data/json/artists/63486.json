@@ -1,7 +1,7 @@
 {
   "id": "63486",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:29:45",
+  "timestamp": "2014-05-24 06:38:26",
   "name": "Katia Bourdarel",
   "surname": "Bourdarel",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "9595",
-  "r01": "8720",
-  "r02": "9872",
-  "r03": "9313",
-  "r04": "9807",
-  "r05": "8628",
-  "r06": "7906",
-  "r07": "12388",
-  "r08": "16534",
+  "r00": "9256",
+  "r01": "8993",
+  "r02": "7739",
+  "r03": "8990",
+  "r04": "8401",
+  "r05": "8759",
+  "r06": "7422",
+  "r07": "6612",
+  "r08": "11344",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "33",
+  "all-shows-total": "34",
   "2005-shows-biennials": "13",
   "2005-shows-galleries": "13",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (13), Germany (2), Switzerland (2), Belgium (1), Slovakia (1), Slovenia (1)",
-  "2005-shows-with": "Katia Bourdarel (17), Damien Cadio (3), Sylvain Ciavaldini (3), Claude Lévêque (3), Axel Pahlavi (3), Jerome Zonder (3), Elvira Bach (2), Stephan Balkenhol (2), Beza (2), Corine Borgnet (2), Alkis Boutlis (2), Damien Deroubaix (2), Martin Eder (2), Marcel Eichner (2), Wolfgang Ellenrieder (2), Mounir Fatmi (2), Gregory Forstner (2), Martin Galle (2), Andreas Golder (2), Paule Hammer (2), Katrin Heichel (2), Micha&#322; Jankowski (2), Ruprecht von Kaufmann (2), Youcef Korichi (2), Marianna Krueger (2), Pawel Ksiazek (2), Zofia Kulik (2), Jamila Lamrani (2), P. Nicolas Ledoux (2), Pascal Navarro (2), Audrey Nervi (2), David Ostrowski (2), Justine Otto (2), Emmanuel Régent (2), Lionel Sabatté (2), Rigo Schmidt (2), Norbert Schwontkowski (2), Tal R (2), Miriam Vlaming (2), Herbert Volkmann (2), Duncan Wylie (2)",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (14), Belgium (2), Germany (2), Switzerland (2), Slovakia (1), Slovenia (1)",
+  "2005-shows-with": "Katia Bourdarel (19), Damien Cadio (3), Sylvain Ciavaldini (3), Claude Lévêque (3), Axel Pahlavi (3), Jerome Zonder (3), Alice Anderson (2), Elvira Bach (2), Stephan Balkenhol (2), Gilles Barbier (2), Beza (2), Corine Borgnet (2), Alkis Boutlis (2), Damien Deroubaix (2), Martin Eder (2), Marcel Eichner (2), Wolfgang Ellenrieder (2), Mounir Fatmi (2), Gregory Forstner (2), Martin Galle (2), Anna Gaskell (2), Andreas Golder (2), Paule Hammer (2), Katrin Heichel (2), Micha&#322; Jankowski (2), Ruprecht von Kaufmann (2), Youcef Korichi (2), Marianna Krueger (2), Pawel Ksiazek (2), Zofia Kulik (2), Jamila Lamrani (2), P. Nicolas Ledoux (2), Pascal Navarro (2), Audrey Nervi (2), David Ostrowski (2), Justine Otto (2), Emmanuel Régent (2), Lionel Sabatté (2), Rigo Schmidt (2), Norbert Schwontkowski (2), Claire Tabouret (2), Tal R (2), Miriam Vlaming (2), Herbert Volkmann (2), Duncan Wylie (2)",
   "representing-galleries": "Galerie Eva Hober (35 - 37, rue Chapon, 75003 Paris, France); Galerie Bernhard Bischoff & Partner (Waisenhausplatz 30, 3011 Bern, Switzerland)",
   "collecting-museums": null,
   "first_name": "Katia",
@@ -43,6 +43,63 @@
   "age": 45,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "63486-1933-2005-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "63486-1933-2005-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "63486-7030-2005-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "63486-7030-2005-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "63486-181-2005-12-01",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "63486-6620-2006-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "63486-6620-2006-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "63486-181-2005-12-01",
+        "c": "FR"
+      },
+      {
+        "i": "63486-335-2006-03-31",
+        "c": "DE",
+        "n": "Katia Bourdarel: The Flesh of Fairy Tales",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Dusseldorf",
+        "o": "Galerie Voss",
+        "d": [
+          "2006-03-31",
+          "2006-04-29"
+        ]
+      },
+      {
+        "i": "63486-7030-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "63486-7030-2006-09-09",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "63486-27771-2007-03-23",
@@ -82,6 +139,10 @@
           "2007-07-17",
           "2007-09-01"
         ]
+      },
+      {
+        "i": "63486-741-2007-11-08",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -97,6 +158,26 @@
           "2008-02-01",
           "2008-03-08"
         ]
+      },
+      {
+        "i": "63486-181-2008-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "63486-181-2008-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "63486-741-2007-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "63486-7030-2008-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "63486-7030-2008-05-06",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -127,9 +208,51 @@
           "2010-05-20",
           "2010-07-03"
         ]
+      },
+      {
+        "i": "63486-7030-2010-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "63486-7030-2010-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "63486-8281-2010-12-12",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "63486-8281-2010-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "63486-26775-2011-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "63486-26775-2011-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "63486-181-2011-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "63486-181-2011-07-07",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "63486-24690-2012-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "63486-24690-2012-04-13",
+        "c": "FR"
+      },
       {
         "i": "63486-23467-2012-04-28",
         "c": "DE",
@@ -157,6 +280,22 @@
         ]
       },
       {
+        "i": "63486-4179-2012-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "63486-4179-2012-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "63486-17457-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "63486-17457-2012-06-28",
+        "c": "FR"
+      },
+      {
         "i": "63486-6148-2012-08-02",
         "c": "SI",
         "n": "Beautiful painting is behind us",
@@ -168,9 +307,33 @@
           "2012-08-02",
           "2012-09-09"
         ]
+      },
+      {
+        "i": "63486-4160-2012-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "63486-181-2012-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "63486-181-2012-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "63486-4179-2012-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "63486-4179-2012-10-11",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "63486-4160-2012-12-12",
+        "c": "FR"
+      },
       {
         "i": "63486-29109-2013-06-13",
         "c": "SK",
@@ -183,21 +346,16 @@
           "2013-06-13",
           "2013-07-26"
         ]
+      },
+      {
+        "i": "63486-30302-2013-10-26",
+        "c": "FR"
       }
     ],
-    "2006": [
+    "2014": [
       {
-        "i": "63486-335-2006-03-31",
-        "c": "DE",
-        "n": "Katia Bourdarel: The Flesh of Fairy Tales",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Dusseldorf",
-        "o": "Galerie Voss",
-        "d": [
-          "2006-03-31",
-          "2006-04-29"
-        ]
+        "i": "63486-30302-2013-10-26",
+        "c": "FR"
       }
     ]
   }

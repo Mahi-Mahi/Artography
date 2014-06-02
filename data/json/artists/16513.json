@@ -1,7 +1,7 @@
 {
   "id": "16513",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:56",
+  "timestamp": "2014-05-24 06:21:30",
   "name": "Anne Durez",
   "surname": "Durez",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "35056",
-  "r01": "32349",
-  "r02": "31858",
-  "r03": "33030",
-  "r04": "28983",
-  "r05": "25323",
-  "r06": "21749",
-  "r07": "26545",
-  "r08": "23838",
+  "r00": "34251",
+  "r01": "31638",
+  "r02": "30388",
+  "r03": "29290",
+  "r04": "29138",
+  "r05": "24093",
+  "r06": "20672",
+  "r07": "20545",
+  "r08": "25939",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "14",
+  "all-shows-total": "17",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (2), Belgium (1), Morocco (1)",
-  "2005-shows-with": "Anne Durez (4)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (4), Belgium (1), Brazil (1), Morocco (1)",
+  "2005-shows-with": "Anne Durez (7), Isabelle Arthuis (2), Manon de Boer (2), Nathalie Brevet & Hughes Rochette (2), Marilá Dardot (2), Marcel Dinahet (2), Laurent Duthion (2), Laurent Fiévet (2), Raymond Hains (2), Maurício Ianês (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); Espace d’Art Contemporain ( les halles ) (rue pierre péquignat 9, 2900 Porrentruy, Switzerland)",
   "first_name": "Anne",
@@ -43,6 +43,26 @@
   "age": 45,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "16513-2528-2005-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "16513-2528-2005-09-11",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "16513-5358-2006-03-25",
+        "c": "FR"
+      },
+      {
+        "i": "16513-5358-2006-03-25",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "16513-5313-2007-05-10",
@@ -58,6 +78,14 @@
         ]
       },
       {
+        "i": "16513-10220-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "16513-10220-2007-06-02",
+        "c": "FR"
+      },
+      {
         "i": "16513-16709-2007-12-02",
         "c": "CH",
         "n": "Anne Durez & Marcel Dinahet",
@@ -69,6 +97,10 @@
           "2007-12-02",
           "2008-01-20"
         ]
+      },
+      {
+        "i": "16513-28001-2007-11-24",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -97,6 +129,10 @@
           "2008-01-26",
           "2008-03-01"
         ]
+      },
+      {
+        "i": "16513-28001-2007-11-24",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -112,6 +148,26 @@
           "2009-02-19",
           "2009-03-15"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "16513-7999-2011-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "16513-7999-2011-02-26",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "16513-8555-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "16513-8555-2012-11-15",
+        "c": "FR"
       }
     ]
   }

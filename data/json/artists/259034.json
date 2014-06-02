@@ -1,7 +1,7 @@
 {
   "id": "259034",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:46:33",
+  "timestamp": "2014-05-24 07:45:10",
   "name": "Agathe Fleury",
   "surname": "Fleury",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "18204",
-  "r01": "16982",
-  "r02": "31449",
-  "r03": "63788",
-  "r04": "109026",
-  "r05": "102393",
+  "r00": "11457",
+  "r01": "11638",
+  "r02": "10825",
+  "r03": "20226",
+  "r04": "37294",
+  "r05": "84124",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "13",
+  "all-shows-total": "14",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
   "2005-shows-museums": "1",
-  "2005-countries-total": "Germany (14), France (1)",
-  "2005-shows-with": "Agathe Fleury (13), Gregor Hildebrandt (4), Norbert Witzgall (4), Antje Blumenstein (3), Sven Drühl (3), Heiner Franzen (3), Robert Gfader (3), Rainer Neumeier (3), Cora Piantoni (3), Philip Topolovac (3), Saâdane Afif (2), Boban Andelkovic (2), Anette Babl (2), Darren Bader (2), Phyllida Barlow (2), Robert Barta (2), Eduardo Basualdo (2), Elisabeth Baumgartner (2), Patrick Baumüller (2), Olivia Berckemeyer (2), Michael Beutler (2), Marc Bijl (2), Julien Bouillon (2), Stefan Bressel (2), Frank Bubenzer (2), Nico Burger (2), Quirin Bäumler (2), Anna Chkolnikova (2), Andy Coolquitt (2), Ben Cottrell (2), Robert Crotla (2), Maciek Czapski (2), Jan De Cock (2), Hansjörg Dobliar (2), Gürsoy  Dogtas (2), Thomas Draschan (2), Heike Döscher (2), Hedwig Eberle (2), Ulrich Emmert (2), Andreas Exner (2), Amir Fattal (2), Martin Feldbauer (2), Jean-Pascal Flavien (2), France Fiction (2), Michel François (2), Marten Frerichs (2), Martha Friedman (2), Tom Früchtl (2), Kasia Fudakowski (2), Klaus von Gaffron (2), B",
+  "2005-countries-total": "Germany (16), France (1)",
+  "2005-shows-with": "Agathe Fleury (15), Gregor Hildebrandt (5), Ludovic Jecker (4), Xavier Mazzarol (4), Norbert Witzgall (4), Olivia Berckemeyer (3), Antje Blumenstein (3), Sven Drühl (3), Heiner Franzen (3), Robert Gfader (3), Alicja Kwade (3), Rainer Neumeier (3), Cora Piantoni (3), Haleh Redjaian (3), Philip Topolovac (3), Saâdane Afif (2), Boban Andelkovic (2), Anette Babl (2), Darren Bader (2), Phyllida Barlow (2), Robert Barta (2), Eduardo Basualdo (2), Elisabeth Baumgartner (2), Patrick Baumüller (2), Michael Beutler (2), Marc Bijl (2), Madeleine Boschan (2), Julien Bouillon (2), Jean-Baptiste Bouvet (2), Stefan Bressel (2), Frank Bubenzer (2), Nico Burger (2), Johannes Buss (2), Quirin Bäumler (2), Anna Chkolnikova (2), Andy Coolquitt (2), Ben Cottrell (2), Robert Crotla (2), Maciek Czapski (2), Jan De Cock (2), Hansjörg Dobliar (2), Gürsoy  Dogtas (2), Thomas Draschan (2), Heike Döscher (2), Hedwig Eberle (2), Ulrich Emmert (2), Andreas Exner (2), Amir Fattal (2), Martin Feldbauer (2), Jean-Pascal Flavien (2), F",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Agathe",
@@ -231,6 +231,29 @@
         ]
       }
     ],
+    "2012": [
+      {
+        "i": "259034-1566-2012-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "259034-1566-2012-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "259034-449-2012-09-11",
+        "c": "DE",
+        "n": "Agathe Fleury",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "NBK - Neuer Berliner Kunstverein",
+        "d": [
+          "2012-09-11",
+          "2012-11-02"
+        ]
+      }
+    ],
     "2013": [
       {
         "i": "259034-29608-2013-11-08",
@@ -243,21 +266,6 @@
         "d": [
           "2013-11-08",
           "2013-12-31"
-        ]
-      }
-    ],
-    "2012": [
-      {
-        "i": "259034-449-2012-09-11",
-        "c": "DE",
-        "n": "Agathe Fleury",
-        "t": "Autre",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "NBK - Neuer Berliner Kunstverein",
-        "d": [
-          "2012-09-11",
-          "2012-11-02"
         ]
       }
     ]

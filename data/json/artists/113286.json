@@ -1,7 +1,7 @@
 {
   "id": "113286",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:49:49",
+  "timestamp": "2014-05-24 06:55:29",
   "name": "Sébastien Reuzé",
   "surname": "Reuzé",
   "nationality": "FR",
@@ -16,21 +16,21 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "28385",
-  "r01": "25907",
-  "r02": "23227",
-  "r03": "20631",
-  "r04": "20729",
-  "r05": "17856",
-  "r06": "29341",
-  "r07": "24778",
-  "r08": "24589",
+  "r00": "35749",
+  "r01": "33143",
+  "r02": "26791",
+  "r03": "21901",
+  "r04": "18232",
+  "r05": "17576",
+  "r06": "14459",
+  "r07": "29518",
+  "r08": "23898",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
   "all-shows-total": "12",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
   "2005-shows-museums": "3",
   "2005-countries-total": "Belgium (5), Romania (1)",
   "2005-shows-with": "Sébastien Reuzé (5), Isabelle Arthuis (4), Lionel Estève (4), Xavier Noiret-Thomé (4), Erwan Mahéo (3), Laurette Atrux-Tallau (2), Boris Beaucarne (2), Lucile Bertrand (2), Franck Christen (2), Damien De Lepeleire (2), Alain Geronnez (2), Léopoldine Roux (2), Emmanuelle Villard (2)",
@@ -43,6 +43,16 @@
   "age": 43,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "113286-10244-2005-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "113286-10244-2005-06-08",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "113286-18852-2006-05-24",

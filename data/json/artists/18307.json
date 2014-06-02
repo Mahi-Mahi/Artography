@@ -1,7 +1,7 @@
 {
   "id": "18307",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:49",
+  "timestamp": "2014-05-24 06:22:13",
   "name": "Christelle Familiari",
   "surname": "Familiari",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Installation, Sculpture",
-  "r00": "6689",
-  "r01": "5946",
-  "r02": "5433",
-  "r03": "4721",
-  "r04": "4654",
-  "r05": "4599",
-  "r06": "5300",
-  "r07": "6179",
-  "r08": "6301",
+  "r00": "9375",
+  "r01": "8469",
+  "r02": "7072",
+  "r03": "6066",
+  "r04": "4986",
+  "r05": "4749",
+  "r06": "4591",
+  "r07": "5442",
+  "r08": "6653",
   "awards": null,
   "website": "www.christellefamiliari.com",
   "all-shows-first": "1999",
-  "all-shows-total": "39",
+  "all-shows-total": "40",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "11",
-  "2005-countries-total": "France (13), Italy (2), Canada (1), Switzerland (1)",
-  "2005-shows-with": "Christelle Familiari (10), Sophie Calle (4), Anne Brégeaut (3), Michel de Broin (3), Mathieu Mercier (3), Christodoulos Panayiotou (3), Jean-Luc Vilmouth (3), Marina Abramovic (2), Bas Jan Ader (2), Wilfrid Almendra (2), David Altmejd (2), Diane Borsato (2), Etienne Bossut (2), Rebecca Bournigault (2), KR Buxey (2), Lygia Clark (2), Claude Closky (2), François-Xavier Courrèges (2), Matali Crasset (2), Florence Doléac (2), David Dubois (2), Tracey Emin (2), Cerith Wyn Evans (2), Hans-Peter Feldmann (2), Felix Gonzalez-Torres (2), Douglas Gordon (2), Kevin Francis Gray (2), Carsten Höller (2), Jesper Just (2), Janice Kerbel (2), Thierry Kuntzel (2), Ange Leccia (2), Claude Lévêque (2), Melanie Manchot (2), Ryan McGinley (2), Monique Moumblow (2), Hayley Newman (2), Cécile Paris (2), Pierre et Gilles (2), Prinz Gholam (2), Smith & Stewart (2), Jana Sterbak (2), Sam Taylor-Wood (2), Eve K. Tremblay (2), Ulay (2), Jorinde Voigt (2), Andy Warhol (2)",
+  "2005-shows-museums": "12",
+  "2005-countries-total": "France (14), Italy (2), Canada (1), Switzerland (1)",
+  "2005-shows-with": "Christelle Familiari (11), Sophie Calle (4), Etienne Bossut (3), Anne Brégeaut (3), Michel de Broin (3), Mathieu Mercier (3), Christodoulos Panayiotou (3), Jean-Luc Vilmouth (3), Marina Abramovic (2), Bas Jan Ader (2), Wilfrid Almendra (2), David Altmejd (2), Diane Borsato (2), Rebecca Bournigault (2), KR Buxey (2), Lygia Clark (2), Claude Closky (2), Jocelyn Cottencin (2), François-Xavier Courrèges (2), Matali Crasset (2), Florence Doléac (2), David Dubois (2), Tracey Emin (2), Cerith Wyn Evans (2), Simon Faithfull (2), Hans-Peter Feldmann (2), Nicolas Floc\\'h (2), Paul-Armand Gette (2), Robert Gober (2), Felix Gonzalez-Torres (2), Douglas Gordon (2), Kevin Francis Gray (2), Raymond Hains (2), Carsten Höller (2), Jesper Just (2), Janice Kerbel (2), Thierry Kuntzel (2), Ange Leccia (2), Natacha Lesueur (2), Claude Lévêque (2), Melanie Manchot (2), Ryan McGinley (2), Monique Moumblow (2), Hayley Newman (2), Cécile Paris (2), Bruno Peinado (2), Pierre et Gilles (2), Prinz Gholam (2), Alain Séchas (2), ",
   "representing-galleries": "Le Petit Jaunais (35, rue de la Croix-Rouge, 44300 Nantes, France); Galerie Benoît Lecarpentier (16 rue Caffarelli, 75003 Paris, France); Galleria Cesare Manzo (Vicolo del Governo Vecchio 8, 00186 Rome, Italy)",
   "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France)",
   "first_name": "Christelle",
@@ -43,6 +43,40 @@
   "age": 42,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "18307-12129-2006-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "18307-12129-2006-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "18307-8554-2006-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "18307-8554-2006-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "18307-7850-2006-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "18307-7850-2006-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "18307-28954-2006-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "18307-28954-2006-09-16",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "18307-17449-2007-03-31",
@@ -58,6 +92,22 @@
         ]
       },
       {
+        "i": "18307-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "18307-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "18307-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "18307-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
         "i": "18307-3104-2007-06-26",
         "c": "RO",
         "n": "FUORI USO 2006 - ALTERED STATES",
@@ -69,6 +119,10 @@
           "2007-06-26",
           "2007-08-31"
         ]
+      },
+      {
+        "i": "18307-8282-2007-12-12",
+        "c": "FR"
       },
       {
         "i": "18307-9130-2007-03-21",
@@ -86,6 +140,10 @@
     ],
     "2008": [
       {
+        "i": "18307-8282-2007-12-12",
+        "c": "FR"
+      },
+      {
         "i": "18307-17188-2008-05-30",
         "c": "IT",
         "n": "Biennale di Alessandria - Shapes of Time",
@@ -96,9 +154,49 @@
           "2008-05-30",
           "2008-08-30"
         ]
+      },
+      {
+        "i": "18307-8542-2008-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "18307-8542-2008-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "18307-11894-2008-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "18307-11894-2008-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "18307-8282-2008-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "18307-8282-2008-04-18",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "18307-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "18307-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "18307-10239-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "18307-10239-2009-07-04",
+        "c": "FR"
+      },
       {
         "i": "18307-8097-2009-09-24",
         "c": "CA",
@@ -141,6 +239,14 @@
         ]
       },
       {
+        "i": "18307-4651-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "18307-4651-2010-05-07",
+        "c": "FR"
+      },
+      {
         "i": "18307-8157-2010-07-05",
         "c": "CH",
         "n": "Actual Fears / Mixed Gaps & Vertigo",
@@ -152,6 +258,68 @@
           "2010-07-05",
           "2010-07-11"
         ]
+      },
+      {
+        "i": "18307-26731-2010-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "18307-10239-2010-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "18307-10239-2010-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "18307-22446-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "18307-22446-2010-09-11",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "18307-26731-2010-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "18307-22446-2011-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "18307-22446-2011-06-04",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "18307-29913-2012-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "18307-29913-2012-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "18307-16095-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "18307-16095-2012-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "18307-16095-2012-03-09",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "18307-16095-2012-11-23",
+        "c": "FR"
       }
     ]
   }

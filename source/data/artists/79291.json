@@ -1,7 +1,7 @@
 {
   "id": "79291",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:36:15",
+  "timestamp": "2014-05-24 06:44:00",
   "name": "Yann Beauvais",
   "surname": "Beauvais",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "25830",
-  "r01": "23600",
-  "r02": "21015",
-  "r03": "18578",
-  "r04": "16777",
-  "r05": "18359",
-  "r06": "18770",
-  "r07": "15583",
-  "r08": "23316",
+  "r00": "14369",
+  "r01": "13996",
+  "r02": "28075",
+  "r03": "22876",
+  "r04": "18726",
+  "r05": "15975",
+  "r06": "17379",
+  "r07": "17880",
+  "r08": "14103",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "10",
+  "all-shows-total": "11",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (4), Spain (1)",
-  "2005-shows-with": "Yann Beauvais (5), Marylène Negro (3), Neal Beggs (2), Angela de la Cruz (2), Christophe Cuzin (2), José Antonio Hernández-Diez (2), Irene van de Mheen (2), Miguel Angel Molina (2), Miquel Mont (2), Jesús Palomino (2), Emmanuelle Villard (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (4), Germany (1), Spain (1)",
+  "2005-shows-with": "Yann Beauvais (6), Marylène Negro (3), Neal Beggs (2), Angela de la Cruz (2), Christophe Cuzin (2), José Antonio Hernández-Diez (2), Irene van de Mheen (2), Miguel Angel Molina (2), Miquel Mont (2), Jesús Palomino (2), Paul Sharits (2), Emmanuelle Villard (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Yann",
@@ -43,6 +43,16 @@
   "age": 60,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "79291-8540-2005-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "79291-8540-2005-03-03",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "79291-2288-2006-06-16",
@@ -86,6 +96,40 @@
           "2008-10-22",
           "2009-01-04"
         ]
+      },
+      {
+        "i": "79291-2414-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "79291-2414-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "79291-8678-2009-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "79291-8678-2009-11-26",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "79291-1403-2010-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "79291-1403-2010-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "79291-23510-2010-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "79291-23510-2010-06-19",
+        "c": "FR"
       }
     ]
   }

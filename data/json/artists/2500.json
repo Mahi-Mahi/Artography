@@ -1,7 +1,7 @@
 {
   "id": "2500",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:03:21",
+  "timestamp": "2014-05-24 06:15:44",
   "name": "Jean-François Dubreuil",
   "surname": "Dubreuil",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "8938",
-  "r01": "9480",
-  "r02": "11094",
-  "r03": "12974",
-  "r04": "18467",
-  "r05": "32852",
-  "r06": "27511",
-  "r07": "24003",
-  "r08": "19969",
+  "r00": "7440",
+  "r01": "7367",
+  "r02": "7875",
+  "r03": "9659",
+  "r04": "11861",
+  "r05": "19226",
+  "r06": "47538",
+  "r07": "35751",
+  "r08": "29738",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "37",
-  "2005-shows-biennials": "14",
-  "2005-shows-galleries": "14",
+  "all-shows-total": "38",
+  "2005-shows-biennials": "15",
+  "2005-shows-galleries": "15",
   "2005-shows-museums": "9",
-  "2005-countries-total": "Germany (13), France (12), Austria (1), Poland (1)",
-  "2005-shows-with": "Jean-François Dubreuil (24), Yves Popet (11), Sigurd Rompza (10), Martin Wörn (10), Ode Bertrand (9), Josef Linschinger (9), Jean Pierre Viot (9), Charles Bézie (8), John Carter (8), Julian Gil (8), Henri Prosi (8), Jo Kuhn (7), Knut Navrot (7), Jo Niemeyer (7), Albert Rubens (7), Marie-Thérèse Vacossin (7), Gido Wiederkehr (7), Hellmut Bruch (6), Gilbert Decock (6), Gerhard Frömel (6), Hans-Jörg Glattfelder (6), Gerhard Hotter (6), Claude Pasquer (6), Miriam Prantl (6), Torsten Ridell (6), Satoru Sato (6), Norbert Thomas (6), Piet van Zon (6), Maria Arvelaiz-Gordon (5), Jan Berdyszak (5), Gerhard Jürgen Blum-Kwiatkowski (5), Pierre Boillot (5), Carlos Cruz-Diez (5), Jo Enzweiler (5), Ingo Glass (5), Hanns Herpich (5), Willem Kloppers (5), Mitsouko Mori (5), Ben Muthofer (5), Diet Sayler (5), Kurt Teuscher (5), Elise Delbrassine (4), Roger Demyttenaere (4), István Haász (4), Gottfried Honegger (4), Alfons Kunen (4), André van Lier (4), Jan Meyer-Rogge (4), László Ottó (4), Karin Radoy (4), Danie",
+  "2005-countries-total": "Germany (13), France (12), Austria (1), Poland (1), Switzerland (1)",
+  "2005-shows-with": "Jean-François Dubreuil (24), Yves Popet (11), Sigurd Rompza (10), Martin Wörn (10), Ode Bertrand (9), Josef Linschinger (9), Jean Pierre Viot (9), Charles Bézie (8), John Carter (8), Julian Gil (8), Jo Niemeyer (8), Henri Prosi (8), Jo Kuhn (7), Knut Navrot (7), Albert Rubens (7), Marie-Thérèse Vacossin (7), Gido Wiederkehr (7), Hellmut Bruch (6), Gilbert Decock (6), Gerhard Frömel (6), Hans-Jörg Glattfelder (6), Gerhard Hotter (6), Claude Pasquer (6), Miriam Prantl (6), Torsten Ridell (6), Satoru Sato (6), Norbert Thomas (6), Piet van Zon (6), Maria Arvelaiz-Gordon (5), Jan Berdyszak (5), Gerhard Jürgen Blum-Kwiatkowski (5), Pierre Boillot (5), Carlos Cruz-Diez (5), Jo Enzweiler (5), Ingo Glass (5), Hanns Herpich (5), Willem Kloppers (5), Mitsouko Mori (5), Ben Muthofer (5), Diet Sayler (5), Kurt Teuscher (5), Elise Delbrassine (4), Roger Demyttenaere (4), István Haász (4), Gottfried Honegger (4), Alfons Kunen (4), André van Lier (4), Jan Meyer-Rogge (4), László Ottó (4), Karin Radoy (4), Danie",
   "representing-galleries": "Galerie Lahumière (17 Rue du Parc Royal, 75003 Paris, France); März Galerie (Beethovenstr. 18, 68165 Mannheim, Germany); galerie konkret martin woern (Hauptstr. 29, 79295 Sulzburg, Germany); La Vitrine (rue des Alpes 32, 1700 Fribourg, Switzerland)",
   "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); Espace de l’art concret (Château de Mouans - Mouans-Sartoux, 06370 Mouans Sartoux, France); LaM - Lille Métropole musée d'art moderne, d'art contemporain et d'art brut (1 allée du musée, 59650 Villeneuve d'Ascq, France); Forum Konkrete Kunst (Peterskirche auf dem Petersberg, 99084 Erfurt, Germany); Modern Gallery, László Vass Collection (Vár u. 3-5-7., 8200 Veszprém, Hungary)",
   "first_name": "Jean-François",
@@ -69,6 +69,22 @@
           "2012-12-01",
           "2013-01-26"
         ]
+      },
+      {
+        "i": "2500-10247-2012-12-21",
+        "c": "FR"
+      },
+      {
+        "i": "2500-21159-2013-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "2500-21159-2013-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "2500-10247-2013-12-11",
+        "c": "FR"
       }
     ],
     "2005": [
@@ -84,6 +100,10 @@
           "2005-11-19",
           "2006-01-29"
         ]
+      },
+      {
+        "i": "2500-370-2005-12-03",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -99,9 +119,29 @@
           "2005-11-19",
           "2006-01-29"
         ]
+      },
+      {
+        "i": "2500-370-2005-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "2500-370-2006-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "2500-370-2006-11-25",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "2500-370-2007-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "2500-370-2007-10-04",
+        "c": "FR"
+      },
       {
         "i": "2500-19507-2007-12-08",
         "c": "DE",
@@ -146,6 +186,14 @@
     ],
     "2009": [
       {
+        "i": "2500-370-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "2500-370-2009-01-17",
+        "c": "FR"
+      },
+      {
         "i": "2500-11236-2009-06-04",
         "c": "AT",
         "n": "Victor Vasarely und die konstruktive Kunst aus Frankreich gestern und heute",
@@ -170,6 +218,10 @@
           "2009-06-14",
           "2009-07-12"
         ]
+      },
+      {
+        "i": "2500-10247-2009-06-21",
+        "c": "FR"
       },
       {
         "i": "2500-525-2009-12-05",
@@ -213,6 +265,10 @@
     ],
     "2010": [
       {
+        "i": "2500-10247-2009-06-21",
+        "c": "FR"
+      },
+      {
         "i": "2500-525-2009-12-05",
         "c": "DE",
         "n": "geometrisch-abstrakt-kinetisch",
@@ -252,6 +308,14 @@
         ]
       },
       {
+        "i": "2500-21761-2010-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "2500-21761-2010-03-14",
+        "c": "FR"
+      },
+      {
         "i": "2500-11914-2010-09-03",
         "c": "DE",
         "n": "Couleur et Geometrie",
@@ -263,6 +327,14 @@
           "2010-09-03",
           "2010-10-10"
         ]
+      },
+      {
+        "i": "2500-21159-2010-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "2500-21159-2010-11-10",
+        "c": "FR"
       },
       {
         "i": "2500-751-2010-11-18",
@@ -289,6 +361,22 @@
           "2010-12-10",
           "2011-01-29"
         ]
+      },
+      {
+        "i": "2500-370-2010-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "2500-370-2010-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "2500-370-2010-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "2500-370-2010-01-14",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -319,6 +407,14 @@
         ]
       },
       {
+        "i": "2500-10247-2011-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "2500-10247-2011-01-30",
+        "c": "FR"
+      },
+      {
         "i": "2500-24000-2011-02-11",
         "c": "PL",
         "n": "Kolor i Geometria",
@@ -330,6 +426,22 @@
           "2011-02-11",
           "2011-04-03"
         ]
+      },
+      {
+        "i": "2500--2011-08-06",
+        "c": "FR"
+      },
+      {
+        "i": "2500--2011-08-06",
+        "c": "FR"
+      },
+      {
+        "i": "2500-370-2011-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "2500-370-2011-02-02",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -397,6 +509,16 @@
           "2012-12-01",
           "2013-01-26"
         ]
+      },
+      {
+        "i": "2500-10247-2012-12-21",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "2500-10247-2013-12-11",
+        "c": "FR"
       }
     ]
   }

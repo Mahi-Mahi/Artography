@@ -1,7 +1,7 @@
 {
   "id": "85882",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:39:05",
+  "timestamp": "2014-05-24 06:46:19",
   "name": "Roxane Borujerdi",
   "surname": "Borujerdi",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video, Performance, Drawings",
-  "r00": "24009",
-  "r01": "22754",
-  "r02": "31126",
-  "r03": "30177",
-  "r04": "29070",
-  "r05": "27480",
-  "r06": "25986",
-  "r07": "21853",
-  "r08": "17794",
+  "r00": "22522",
+  "r01": "21406",
+  "r02": "20269",
+  "r03": "32364",
+  "r04": "30075",
+  "r05": "28255",
+  "r06": "26032",
+  "r07": "24235",
+  "r08": "19700",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
   "all-shows-total": "18",
-  "2005-shows-biennials": "8",
-  "2005-shows-galleries": "8",
+  "2005-shows-biennials": "9",
+  "2005-shows-galleries": "9",
   "2005-shows-museums": "5",
-  "2005-countries-total": "France (12), Germany (2), United Kingdom (1)",
-  "2005-shows-with": "Roxane Borujerdi (12), Chloé Dugit-Gros (2), Aurélien Mole (2), Julien Prévieux (2), Clément Rodzielski (2), Maxime Thieffine (2), Julien Tiberi (2)",
+  "2005-countries-total": "France (13), Germany (2), United Kingdom (1)",
+  "2005-shows-with": "Roxane Borujerdi (13), Clément Rodzielski (3), Julien Tiberi (3), Leonor Antunes (2), Jesus Alberto Benitez (2), Nicolas Chardon (2), Chloé Dugit-Gros (2), Aurélien Froment (2), Hippolyte Hentgen (2), Raphaël Julliard (2), Pierre Leguillon (2), Christophe Lemaitre (2), Colombe Marcasiano (2), Aurélien Mole (2), Julien Prévieux (2), Izet Sheshivari (2), Olivier Soulerin (2), syndicate (2), Eva Taulois (2), Maxime Thieffine (2), Niels Trannois (2), Cyril Verde (2)",
   "representing-galleries": "Galerie Lucile Corty (2 rue Borda, 75003 Paris, France); Galerie Emmanuel Hervé (6, rue Jouye Rouve, 75020 Paris, France); Susanne Burmester Galerie (Bahnhofstraße 51, 18528 Bergen, Germany); Berendsen - Galerie voor eigentijdse Kunst (Hoogstraat 32, 3011 PR Rotterdam, Netherlands)",
   "collecting-museums": null,
   "first_name": "Roxane",
@@ -43,7 +43,87 @@
   "age": 32,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "85882-8282-2005-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "85882-8282-2005-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "85882-2342-2005-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "85882-2342-2005-06-24",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "85882-16340-2008-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "85882-16340-2008-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "85882-11247-2008-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "85882-11247-2008-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "85882-18150-2008-12-10",
+        "c": "FR"
+      },
+      {
+        "i": "85882-18150-2008-12-10",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "85882-19611-2009-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "85882-19611-2009-02-18",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "85882-13367-2010-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "85882-13367-2010-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "85882-13367-2010-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "85882-13367-2010-03-06",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "85882-7999-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "85882-7999-2012-01-07",
+        "c": "FR"
+      },
       {
         "i": "85882-8000-2012-04-16",
         "c": "GB",
@@ -82,6 +162,50 @@
           "2012-10-28",
           "2012-12-02"
         ]
+      },
+      {
+        "i": "85882-8520-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "85882-27216-2012-11-09",
+        "c": "FR"
+      },
+      {
+        "i": "85882-27216-2012-11-09",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "85882-8520-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "85882-27216-2013-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "85882-27216-2013-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "85882-29986-2013-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "85882-29986-2013-03-22",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "85882-13367-2011-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "85882-13367-2011-09-10",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "16112",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:43",
+  "timestamp": "2014-05-24 06:21:19",
   "name": "Fabien Verschaere",
   "surname": "Verschaere",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Drawings",
-  "r00": "2399",
-  "r01": "2296",
-  "r02": "2233",
-  "r03": "2007",
-  "r04": "1886",
-  "r05": "1866",
-  "r06": "1741",
-  "r07": "2264",
-  "r08": "2119",
+  "r00": "3298",
+  "r01": "2923",
+  "r02": "2533",
+  "r03": "2386",
+  "r04": "1986",
+  "r05": "1756",
+  "r06": "1697",
+  "r07": "1515",
+  "r08": "2071",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "78",
+  "all-shows-total": "79",
   "2005-shows-biennials": "20",
   "2005-shows-galleries": "20",
-  "2005-shows-museums": "15",
-  "2005-countries-total": "France (22), Germany (4), Italy (3), Romania (2), USA (2), Austria (1), Cameroon (1), Croatia (1), Luxembourg (1), Switzerland (1), Turkey (1)",
+  "2005-shows-museums": "16",
+  "2005-countries-total": "France (23), Germany (4), Italy (3), Romania (2), USA (2), Austria (1), Cameroon (1), Croatia (1), Luxembourg (1), Switzerland (1), Turkey (1)",
   "2005-shows-with": "Fabien Verschaere (33), Virginie Barré (5), Lee Bae (5), Damien Deroubaix (4), Pascal Dombis (4), Benoit Lemercier (4), Anna Malagrida (4), Bruno Peinado (4), Eric Rondepierre (4), Georges Rousse (4), Cédric Teisseire (4), Ryuta Amae (3), Gilles Barbier (3), Laetitia Benat (3), Chow Chun-Fai (3), Robert Combas (3), Wim Delvoye (3), Du Zhenjun (3), Fabian Hesse (3), Fabrice Hybert (3), Bertrand Lavier (3), Isabelle Levenez (3), Philippe Mayaux (3), Philippe Pasqua (3), Raymond Pettibon (3), Guillaume Pinard (3), Hervé di Rosa (3), Raphaël Siboni (3), Denis Stepanovic (3), Wang Du (3), Boris Achour (2), Michaël Aerts (2), Sonia Almeida (2), Alice Anderson (2), Vasco Aráujo (2), Athanasios Argianas (2), Micol Assaël (2), Bae Bien-U (2), Mrdjan Bajic (2), Rina Banerjee (2), Pedro Barateiro (2), Matteo Bergamasco (2), David Bestué (2), Gerson Bettencourt Ferreira (2), Michael Beutler (2), Enki Bilal (2), Primoz Bizjak (2), John Bjerklie (2), Dominique Blais (2), Ulla von Brandenburg (2), Olaf Breuning (2),",
   "representing-galleries": "Art Statements Gallery (Gee Chang Hong Centre, Factory D, 8/F 65 Wong Chuk Hang Road,  Hong Kong, SAR, China); Galleria Galica (Viale Bligny 41, 20136 Milan, Italy); Art Statements - Tokyo (7F Toranomon 40MT Bldg. 5-13-1 Toranomon, 150-0022 Minato-ku Tokyo, Japan); Grace Li Gallery (Claridenstrasse 35, 8002 Zurich, Switzerland); Bui Gallery - Hanoi (23 Ngo Van So Street, Hoan Kiem District Hanoi, Vietnam)",
   "collecting-museums": "Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France)",
@@ -70,6 +70,22 @@
         ]
       },
       {
+        "i": "16112-2493-2005-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "16112-2493-2005-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "16112-12992-2005-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "16112-12992-2005-09-17",
+        "c": "FR"
+      },
+      {
         "i": "16112-7269-2005-07-21",
         "c": "CN",
         "n": "Fabien Verschaere",
@@ -96,7 +112,75 @@
         ]
       }
     ],
+    "2006": [
+      {
+        "i": "16112-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "16112-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "16112-5122-2006-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "16112-5122-2006-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "16112-29107-2006-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "16112-29107-2006-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "16112-2718-2006-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "16112-4331-2005-12-09",
+        "c": "DE",
+        "n": "Fabien Verschaere - Show Me What You Don't Want",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2005-12-09",
+          "2006-01-21"
+        ]
+      },
+      {
+        "i": "16112-4899-2006-09-22",
+        "c": "IT",
+        "n": "copycat",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Milan",
+        "o": "Galleria Galica",
+        "d": [
+          "2006-09-22",
+          "2006-11-18"
+        ]
+      }
+    ],
     "2007": [
+      {
+        "i": "16112-2718-2006-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "16112-2718-2007-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "16112-2718-2007-03-16",
+        "c": "FR"
+      },
       {
         "i": "16112-4331-2007-03-29",
         "c": "DE",
@@ -109,6 +193,14 @@
           "2007-03-29",
           "2007-04-28"
         ]
+      },
+      {
+        "i": "16112-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "16112-4975-2007-07-07",
+        "c": "FR"
       },
       {
         "i": "16112-12042-2007-07-27",
@@ -187,6 +279,22 @@
           "2007-12-04",
           "2008-03-08"
         ]
+      },
+      {
+        "i": "16112-2528-2007-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "16112-2528-2007-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "16112-1917-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "16112-1917-2007-03-10",
+        "c": "FR"
       },
       {
         "i": "16112-2410-2007-05-16",
@@ -347,32 +455,12 @@
         ]
       },
       {
-        "i": "16112-3104-2008-12-17",
-        "c": "RO",
-        "n": "Fabien Verschaere - Xmas Party",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Bucharest",
-        "o": "National Museum of Contemporary Art (MNAC)",
-        "d": [
-          "2008-12-17",
-          "2009-02-28"
-        ]
-      }
-    ],
-    "2009": [
+        "i": "16112-11776-2008-05-27",
+        "c": "FR"
+      },
       {
-        "i": "16112-4664-2009-12-11",
-        "c": "IT",
-        "n": "Disegni Europei",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Rome",
-        "o": "Galleria Oredaria Arti Contemporanee",
-        "d": [
-          "2009-12-11",
-          "2010-02-16"
-        ]
+        "i": "16112-11776-2008-05-27",
+        "c": "FR"
       },
       {
         "i": "16112-3104-2008-12-17",
@@ -388,7 +476,27 @@
         ]
       }
     ],
-    "2010": [
+    "2009": [
+      {
+        "i": "16112-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "16112-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "16112-7811-2009-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "16112-7811-2009-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "16112-5450-2009-09-02",
+        "c": "FR"
+      },
       {
         "i": "16112-4664-2009-12-11",
         "c": "IT",
@@ -401,6 +509,62 @@
           "2009-12-11",
           "2010-02-16"
         ]
+      },
+      {
+        "i": "16112-13652-2009-12-17",
+        "c": "FR"
+      },
+      {
+        "i": "16112-3104-2008-12-17",
+        "c": "RO",
+        "n": "Fabien Verschaere - Xmas Party",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2008-12-17",
+          "2009-02-28"
+        ]
+      },
+      {
+        "i": "16112-11776-2009-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "16112-11776-2009-04-29",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "16112-5450-2009-09-02",
+        "c": "FR"
+      },
+      {
+        "i": "16112-4664-2009-12-11",
+        "c": "IT",
+        "n": "Disegni Europei",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Rome",
+        "o": "Galleria Oredaria Arti Contemporanee",
+        "d": [
+          "2009-12-11",
+          "2010-02-16"
+        ]
+      },
+      {
+        "i": "16112-13652-2009-12-17",
+        "c": "FR"
+      },
+      {
+        "i": "16112-20789-2010-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "16112-20789-2010-01-14",
+        "c": "FR"
       },
       {
         "i": "16112-11728-2010-02-19",
@@ -442,6 +606,14 @@
         ]
       },
       {
+        "i": "16112-11776-2010-04-26",
+        "c": "FR"
+      },
+      {
+        "i": "16112-11776-2010-04-26",
+        "c": "FR"
+      },
+      {
         "i": "16112-2102-2010-05-14",
         "c": "US",
         "n": "Ten Years Hunting - [Part Two]",
@@ -453,6 +625,30 @@
           "2010-05-14",
           "2010-05-23"
         ]
+      },
+      {
+        "i": "16112-2718-2010-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "16112-2718-2010-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "16112-7850-2010-07-22",
+        "c": "FR"
+      },
+      {
+        "i": "16112-7850-2010-07-22",
+        "c": "FR"
+      },
+      {
+        "i": "16112-5450-2010-09-01",
+        "c": "FR"
+      },
+      {
+        "i": "16112-5450-2010-09-01",
+        "c": "FR"
       },
       {
         "i": "16112-23194-2010-09-27",
@@ -469,6 +665,14 @@
     ],
     "2011": [
       {
+        "i": "16112-26733-2011-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "16112-1746-2011-12-03",
+        "c": "FR"
+      },
+      {
         "i": "16112-4331-2011-12-14",
         "c": "DE",
         "n": "Accorachage",
@@ -480,9 +684,33 @@
           "2011-12-14",
           "2011-12-17"
         ]
+      },
+      {
+        "i": "16112-5450-2011-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "16112-5450-2011-04-07",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "16112-26733-2011-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "16112-1746-2011-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "16112-5450-2012-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "16112-5450-2012-01-19",
+        "c": "FR"
+      },
       {
         "i": "16112-11728-2012-02-19",
         "c": "IT",
@@ -495,6 +723,34 @@
           "2012-02-19",
           "2012-05-09"
         ]
+      },
+      {
+        "i": "16112-27843-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "16112-27843-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "16112-26235-2012-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "16112-26775-2012-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "16112-26775-2012-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "16112-2718-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "16112-2718-2012-06-28",
+        "c": "FR"
       },
       {
         "i": "16112-4219-2012-11-09",
@@ -525,6 +781,10 @@
     ],
     "2013": [
       {
+        "i": "16112-26235-2012-04-29",
+        "c": "FR"
+      },
+      {
         "i": "16112-5313-2013-01-25",
         "c": "HR",
         "n": "18th International Exhibition of Drawings",
@@ -536,34 +796,30 @@
           "2013-01-25",
           "2013-03-16"
         ]
-      }
-    ],
-    "2006": [
-      {
-        "i": "16112-4331-2005-12-09",
-        "c": "DE",
-        "n": "Fabien Verschaere - Show Me What You Don't Want",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Munich",
-        "o": "Galerie Traversée",
-        "d": [
-          "2005-12-09",
-          "2006-01-21"
-        ]
       },
       {
-        "i": "16112-4899-2006-09-22",
-        "c": "IT",
-        "n": "copycat",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Milan",
-        "o": "Galleria Galica",
-        "d": [
-          "2006-09-22",
-          "2006-11-18"
-        ]
+        "i": "16112-27973-2013-02-08",
+        "c": "FR"
+      },
+      {
+        "i": "16112-27973-2013-02-08",
+        "c": "FR"
+      },
+      {
+        "i": "16112-5450-2013-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "16112-5450-2013-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "16112-5450-2013-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "16112-5450-2013-06-05",
+        "c": "FR"
       }
     ]
   }

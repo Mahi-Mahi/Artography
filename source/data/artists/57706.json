@@ -1,7 +1,7 @@
 {
   "id": "57706",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:23",
+  "timestamp": "2014-05-24 06:36:22",
   "name": "Frédérique Loutz",
   "surname": "Loutz",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "5530",
-  "r01": "6480",
-  "r02": "6041",
-  "r03": "6617",
-  "r04": "7857",
-  "r05": "9025",
-  "r06": "9792",
-  "r07": "10181",
-  "r08": "10145",
+  "r00": "4785",
+  "r01": "4677",
+  "r02": "5635",
+  "r03": "5140",
+  "r04": "5692",
+  "r05": "6803",
+  "r06": "7887",
+  "r07": "8493",
+  "r08": "8688",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "35",
+  "all-shows-total": "36",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
-  "2005-shows-museums": "13",
-  "2005-countries-total": "France (14), Germany (4), Greece (3), Cameroon (1), Switzerland (1)",
-  "2005-shows-with": "Frédérique Loutz (19), Damien Deroubaix (5), Erik Dietman (5), Richard Fauguet (5), Wim Delvoye (4), Javier Pérez (4), Françoise Petrovitch (4), Sandra Vasquez de la Horra (4), Eduardo Arroyo (3), Gilles Barbier (3), Glen Baxter (3), Michel Blazy (3), Matt Bryans (3), Silvia Bächli (3), Tony Cragg (3), Marlene Dumas (3), Marcel Dzama (3), Shirley Jaffe (3), Imi Knoebel (3), Christian Lhopital (3), Bernard Moninot (3), François Morellet (3), Tony Oursler (3), Ernest Pignon Ernest (3), Richard Prince (3), Jean-Luc Verna (3), Jean-Michel Albèrola (2), Dove Allouche (2), Miquel Barceló (2), François Bouillon (2), Mark Brusse (2), Pierre Buraglio (2), Philippe Cognée (2), Robert Combas (2), Pascal Convert (2), Paul Cox (2), Berlinde De Bruyckere (2), Marc Desgrandchamps (2), Dewar & Gicquel (2), Daniel Dezeuze (2), Atul Dodiya (2), Roland Flexner (2), Vidya Gastaldon (2), Jochen Gerner (2), Paul-Armand Gette (2), Delphine Gigoux-Martin (2), John Giorno (2), J. J. Grandville (2), Pierre Granoux (2), Laure",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "France (15), Germany (4), Greece (3), Cameroon (1), Switzerland (1)",
+  "2005-shows-with": "Frédérique Loutz (20), Richard Fauguet (6), Damien Deroubaix (5), Erik Dietman (5), Wim Delvoye (4), Javier Pérez (4), Françoise Petrovitch (4), Sandra Vasquez de la Horra (4), Eduardo Arroyo (3), Gilles Barbier (3), Glen Baxter (3), Michel Blazy (3), Matt Bryans (3), Silvia Bächli (3), Tony Cragg (3), Marc Desgrandchamps (3), Marlene Dumas (3), Marcel Dzama (3), Jochen Gerner (3), Shirley Jaffe (3), Imi Knoebel (3), Christian Lhopital (3), Bernard Moninot (3), François Morellet (3), Tony Oursler (3), Ernest Pignon Ernest (3), Richard Prince (3), Jean-Luc Verna (3), Jean-Michel Albèrola (2), Dove Allouche (2), Miquel Barceló (2), Abdelkader Benchamma (2), François Bouillon (2), Mark Brusse (2), Pierre Buraglio (2), Philippe Cognée (2), Robert Combas (2), Pascal Convert (2), Paul Cox (2), Berlinde De Bruyckere (2), Dewar & Gicquel (2), Daniel Dezeuze (2), Atul Dodiya (2), Roland Flexner (2), Vidya Gastaldon (2), Paul-Armand Gette (2), Delphine Gigoux-Martin (2), John Giorno (2), J. J. Grandville (2),",
   "representing-galleries": "Galerie Claudine Papillon (13, rue Chapon, 75003 Paris, France); Galerie Jordan Seydoux (Auguststrasse 22, 10117 Berlin, Germany); Thanassis Frissiras Gallery (Kriezotou 7, 10671 Athens, Greece); Katz Contemporary (Talstrasse 83, 8001 Zurich, Switzerland)",
   "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Maison d’art contemporain Chaillioux - MACC (5 rue Julien Chaillioux, 94260 Fresnes, France)",
   "first_name": "Frédérique",
@@ -44,6 +44,14 @@
   "age_range": "26-40",
   "expos": {
     "2005": [
+      {
+        "i": "57706-8997-2005-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "57706-8997-2005-09-29",
+        "c": "FR"
+      },
       {
         "i": "57706-15283-2005-11-17",
         "c": "US",
@@ -82,6 +90,14 @@
           "2005-12-22",
           "2006-07-30"
         ]
+      },
+      {
+        "i": "57706-4205-2005-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "57706-4205-2005-03-12",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -112,6 +128,10 @@
         ]
       },
       {
+        "i": "57706-2542-2006-09-16",
+        "c": "FR"
+      },
+      {
         "i": "57706-8861-2006-10-26",
         "c": "GR",
         "n": "Fresh Ground II",
@@ -123,9 +143,29 @@
           "2006-10-26",
           "2006-11-18"
         ]
+      },
+      {
+        "i": "57706-2014-2006-12-15",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "57706-2542-2006-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "57706-2014-2006-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "57706-12083-2007-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "57706-12083-2007-02-20",
+        "c": "FR"
+      },
       {
         "i": "57706-2582-2007-05-17",
         "c": "GR",
@@ -138,6 +178,14 @@
           "2007-05-17",
           "2007-10-07"
         ]
+      },
+      {
+        "i": "57706-4205-2007-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "57706-4205-2007-05-06",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -168,6 +216,10 @@
         ]
       },
       {
+        "i": "57706-8293-2008-10-10",
+        "c": "FR"
+      },
+      {
         "i": "57706-17611-2008-10-31",
         "c": "DE",
         "n": "Out of the grey - Druckgraphik & Multiples",
@@ -196,6 +248,10 @@
     ],
     "2009": [
       {
+        "i": "57706-8293-2008-10-10",
+        "c": "FR"
+      },
+      {
         "i": "57706-17611-2008-10-31",
         "c": "DE",
         "n": "Out of the grey - Druckgraphik & Multiples",
@@ -209,6 +265,14 @@
         ]
       },
       {
+        "i": "57706-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "57706-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
         "i": "57706-8861-2008-11-21",
         "c": "GR",
         "n": "Frédérique Loutz:",
@@ -220,6 +284,14 @@
           "2008-11-21",
           "2009-01-03"
         ]
+      },
+      {
+        "i": "57706-4205-2009-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "57706-4205-2009-03-17",
+        "c": "FR"
       },
       {
         "i": "57706-17611-2009-09-11",
@@ -250,6 +322,30 @@
         ]
       },
       {
+        "i": "57706-21103-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "57706-21103-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "57706-20838-2010-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "57706-20838-2010-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "57706-8128-2010-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "57706-8128-2010-06-19",
+        "c": "FR"
+      },
+      {
         "i": "57706-1132-2010-06-27",
         "c": "DE",
         "n": "Hortus Medicus",
@@ -261,6 +357,14 @@
           "2010-06-27",
           "2010-08-22"
         ]
+      },
+      {
+        "i": "57706-11867-2010-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "57706-11867-2010-09-14",
+        "c": "FR"
       },
       {
         "i": "57706-2582-2010-10-13",
@@ -302,6 +406,68 @@
           "2011-01-19",
           "2011-03-12"
         ]
+      },
+      {
+        "i": "57706-7811-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "57706-7811-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "57706-14227-2011-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "57706-14227-2011-09-16",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "57706-10235-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "57706-10235-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "57706-4205-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "57706-4205-2012-09-08",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "57706-4205-2013-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "57706-4205-2013-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "57706-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "57706-2219-2013-10-16",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "57706-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "57706-2219-2013-10-16",
+        "c": "FR"
       }
     ]
   }

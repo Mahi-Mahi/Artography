@@ -1,7 +1,7 @@
 {
   "id": "62405",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:29:17",
+  "timestamp": "2014-05-24 06:38:02",
   "name": "Bernard Joisten",
   "surname": "Joisten",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "20011",
-  "r01": "17556",
-  "r02": "14910",
-  "r03": "12812",
-  "r04": "10848",
-  "r05": "10553",
-  "r06": "10342",
-  "r07": "8550",
-  "r08": "6746",
+  "r00": "26128",
+  "r01": "40441",
+  "r02": "34246",
+  "r03": "25992",
+  "r04": "20519",
+  "r05": "14999",
+  "r06": "14835",
+  "r07": "14731",
+  "r08": "11241",
   "awards": null,
   "website": null,
   "all-shows-first": "1988",
-  "all-shows-total": "22",
+  "all-shows-total": "23",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "Japan (3), France (2), Romania (1)",
-  "2005-shows-with": "Bernard Joisten (3), Pierre Joseph (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (3), Japan (3), Romania (1)",
+  "2005-shows-with": "Bernard Joisten (4), Pierre Joseph (2)",
   "representing-galleries": "Super Window Project (385-10 Motoyama Kamigamo Kita-Ku, 603-8047 Kyoto, Japan)",
   "collecting-museums": null,
   "first_name": "Bernard",
@@ -43,6 +43,16 @@
   "age": 52,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "62405-1953-2005-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "62405-1953-2005-01-20",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "62405-10361-2007-03-08",
@@ -71,6 +81,14 @@
           "2008-01-15",
           "2008-08-01"
         ]
+      },
+      {
+        "i": "62405-11890-2008-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "62405-11890-2008-09-13",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -86,6 +104,14 @@
           "2009-11-25",
           "2010-01-31"
         ]
+      },
+      {
+        "i": "62405-10517-2009-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "62405-10517-2009-02-06",
+        "c": "FR"
       },
       {
         "i": "62405-17380-2009-09-25",

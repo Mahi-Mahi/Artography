@@ -1,7 +1,7 @@
 {
   "id": "53204",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:25:25",
+  "timestamp": "2014-05-24 06:34:47",
   "name": "Mathieu Lehanneur",
   "surname": "Lehanneur",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Design",
-  "r00": "19880",
-  "r01": "18488",
-  "r02": "16554",
-  "r03": "14698",
-  "r04": "16857",
-  "r05": "14551",
-  "r06": "12196",
-  "r07": "17152",
-  "r08": "25808",
+  "r00": "27404",
+  "r01": "23911",
+  "r02": "19861",
+  "r03": "16445",
+  "r04": "13748",
+  "r05": "15974",
+  "r06": "13102",
+  "r07": "10601",
+  "r08": "15150",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -34,7 +34,7 @@
   "2005-shows-museums": "2",
   "2005-countries-total": "France (5), Germany (1), Romania (1)",
   "2005-shows-with": "Mathieu Lehanneur (7)",
-  "representing-galleries": "Carpenters Workshop Gallery (54 Rue De La Verrerie 54, 75004 Paris, France); Carpenters Workshop Gallery (2 Michael Road, SW6 2AD London (England), United Kingdom)",
+  "representing-galleries": "Carpenters Workshop Gallery (54 Rue De La Verrerie 54, 75004 Paris, France); Carpenters Workshop Gallery (2 Michael Road, SW6 2AD London, United Kingdom)",
   "collecting-museums": "FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France)",
   "first_name": "Mathieu",
   "last_name": "Lehanneur",
@@ -43,6 +43,16 @@
   "age": 40,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "53204-2528-2005-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "53204-2528-2005-09-11",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "53204-10681-2006-10-13",
@@ -56,6 +66,10 @@
           "2006-10-13",
           "2007-02-11"
         ]
+      },
+      {
+        "i": "53204-7390-2006-12-14",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -73,6 +87,26 @@
         ]
       },
       {
+        "i": "53204-7390-2006-12-14",
+        "c": "FR"
+      },
+      {
+        "i": "53204-10229-2007-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "53204-10229-2007-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "53204-10229-2007-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "53204-10229-2007-04-01",
+        "c": "FR"
+      },
+      {
         "i": "53204-2331-2007-05-25",
         "c": "LU",
         "n": "TOMORROW NOW - when design meets science fiction",
@@ -84,9 +118,21 @@
           "2007-05-25",
           "2007-09-24"
         ]
+      },
+      {
+        "i": "53204-27797-2007-10-19",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "53204-17889-2010-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "53204-17889-2010-04-02",
+        "c": "FR"
+      },
       {
         "i": "53204-3104-2010-05-05",
         "c": "RO",
@@ -99,6 +145,14 @@
           "2010-05-05",
           "2010-06-30"
         ]
+      },
+      {
+        "i": "53204-25308-2010-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "53204-27797-2010-09-24",
+        "c": "FR"
       },
       {
         "i": "53204-22854-2010-11-13",
@@ -116,6 +170,14 @@
     ],
     "2011": [
       {
+        "i": "53204-25308-2010-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "53204-27797-2010-09-24",
+        "c": "FR"
+      },
+      {
         "i": "53204-22854-2010-11-13",
         "c": "DE",
         "n": "Freak Show: Strategies for (dis)engagement in Design",
@@ -127,6 +189,32 @@
           "2010-11-13",
           "2011-01-29"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "53204-11742-2012-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "53204-11742-2012-09-13",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "53204-21639-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "53204-21639-2013-01-26",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "53204-27797-2007-10-19",
+        "c": "FR"
       }
     ]
   }

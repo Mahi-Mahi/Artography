@@ -1,7 +1,7 @@
 {
   "id": "1406",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:02:23",
+  "timestamp": "2014-05-24 06:15:03",
   "name": "Cristof Yvoré",
   "surname": "Yvoré",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "11739",
-  "r01": "15106",
-  "r02": "19965",
-  "r03": "22609",
-  "r04": "22398",
-  "r05": "23922",
-  "r06": "21492",
-  "r07": "17422",
-  "r08": "15176",
+  "r00": "8408",
+  "r01": "9691",
+  "r02": "14013",
+  "r03": "20900",
+  "r04": "26118",
+  "r05": "27493",
+  "r06": "34455",
+  "r07": "30409",
+  "r08": "22363",
   "awards": null,
   "website": null,
   "all-shows-first": "1995",
-  "all-shows-total": "25",
+  "all-shows-total": "26",
   "2005-shows-biennials": "9",
   "2005-shows-galleries": "9",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (4), Belgium (3), Germany (3), USA (2), Italy (1), South Korea (1)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (5), Belgium (3), Germany (3), USA (2), Italy (1), South Korea (1)",
   "2005-shows-with": "Cristof Yvoré (8), George Condo (2), Anne-Mie van Kerckhoven (2)",
   "representing-galleries": "Galerie Albrecht - Berlin (Charlottenstr. 78, 10117 Berlin, Germany)",
   "collecting-museums": "Museum het Domein (Kapittelstraat 6, 6130 AA Sittard, Netherlands)",
@@ -114,6 +114,29 @@
         ]
       }
     ],
+    "2010": [
+      {
+        "i": "1406-8897-2010-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "1406-8897-2010-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "1406-19828-2010-04-24",
+        "c": "DE",
+        "n": "Cristof Yvoré",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "Galerie Albrecht - Berlin",
+        "d": [
+          "2010-04-24",
+          "2010-05-29"
+        ]
+      }
+    ],
     "2011": [
       {
         "i": "1406-19828-2011-01-15",
@@ -144,6 +167,14 @@
     ],
     "2012": [
       {
+        "i": "1406-10522-2012-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "1406-10522-2012-03-30",
+        "c": "FR"
+      },
+      {
         "i": "1406-76-2012-05-11",
         "c": "BE",
         "n": "Artists of the Gallery",
@@ -168,9 +199,25 @@
           "2012-04-27",
           "2012-06-09"
         ]
+      },
+      {
+        "i": "1406-28403-2012-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "1406-28403-2012-09-29",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "1406-17115-2013-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "1406-17115-2013-01-19",
+        "c": "FR"
+      },
       {
         "i": "1406-7448-2013-04-18",
         "c": "KR",
@@ -210,21 +257,6 @@
         "d": [
           "2009-09-12",
           "2009-10-24"
-        ]
-      }
-    ],
-    "2010": [
-      {
-        "i": "1406-19828-2010-04-24",
-        "c": "DE",
-        "n": "Cristof Yvoré",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "Galerie Albrecht - Berlin",
-        "d": [
-          "2010-04-24",
-          "2010-05-29"
         ]
       }
     ]

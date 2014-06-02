@@ -1,7 +1,7 @@
 {
   "id": "16189",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:46",
+  "timestamp": "2014-05-24 06:21:21",
   "name": "Jean Baptiste Huynh",
   "surname": "Huynh",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "8147",
-  "r01": "7668",
-  "r02": "8270",
-  "r03": "8029",
-  "r04": "6972",
-  "r05": "8230",
-  "r06": "7399",
-  "r07": "9359",
-  "r08": "9480",
+  "r00": "8427",
+  "r01": "9119",
+  "r02": "8297",
+  "r03": "9257",
+  "r04": "8673",
+  "r05": "7112",
+  "r06": "9158",
+  "r07": "8018",
+  "r08": "12244",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "10",
   "2005-shows-galleries": "10",
   "2005-shows-museums": "3",
-  "2005-countries-total": "Germany (6), Spain (2), Austria (1), China (1), France (1), Italy (1), Netherlands (1), South Korea (1)",
-  "2005-shows-with": "Jean Baptiste Huynh (10), Valérie Belin (2), Enrique Brinkmann (2), Antonio Clavé (2), Thomas Florschuetz (2), Charles Fréger (2), Nan Goldin (2), Martin Klimas (2), André Masson (2), Vera Mercer (2), Joàn Miró (2), Igor Mitoraj (2), Helmut Newton (2), Christian Rothmann (2), Thomas Ruff (2), Miron Schmückle (2), Jean-Loup Sieff (2), Luzia Simons (2), Margriet Smulders (2), Wolfgang Tillmans (2), Michael Wesely (2)",
+  "2005-countries-total": "Germany (6), Spain (2), Austria (1), Belgium (1), China (1), France (1), Italy (1), Netherlands (1), South Korea (1)",
+  "2005-shows-with": "Jean Baptiste Huynh (11), Valérie Belin (2), Enrique Brinkmann (2), Antonio Clavé (2), Thomas Florschuetz (2), Charles Fréger (2), Nan Goldin (2), Martin Klimas (2), André Masson (2), Vera Mercer (2), Joàn Miró (2), Igor Mitoraj (2), Helmut Newton (2), Christian Rothmann (2), Thomas Ruff (2), Miron Schmückle (2), Jean-Loup Sieff (2), Luzia Simons (2), Margriet Smulders (2), Wolfgang Tillmans (2), Michael Wesely (2)",
   "representing-galleries": "André Simoens Gallery (Kustlaan 128-130, 8300 Knokke-Heist, Belgium); Galerie Marwan Hoss (12, rue d´Alger, 75001 Paris, France); Camera Work (Kantstrasse 149, 10623 Berlin, Germany); Sala Gaspar (Plaza Dr. Letamendi 1, 08007 Barcelona, Spain); Sonnabend Gallery (536 West 22nd Street, 10011 New York City, NY, USA)",
   "collecting-museums": null,
   "first_name": "Jean",
@@ -302,6 +302,14 @@
           "2011-11-26",
           "2012-01-28"
         ]
+      },
+      {
+        "i": "16189-7877-2012-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "16189-7877-2012-10-04",
+        "c": "FR"
       }
     ],
     "2013": [

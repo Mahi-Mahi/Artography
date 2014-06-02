@@ -1,7 +1,7 @@
 {
   "id": "53487",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:25:31",
+  "timestamp": "2014-05-24 06:34:52",
   "name": "Olivier Gagnère",
   "surname": "Gagnère",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "27832",
-  "r01": "25313",
-  "r02": "22266",
-  "r03": "23333",
-  "r04": "20016",
-  "r05": "28939",
-  "r06": "24277",
-  "r07": "19963",
-  "r08": "17580",
+  "r00": "34224",
+  "r01": "33429",
+  "r02": "29520",
+  "r03": "26839",
+  "r04": "29454",
+  "r05": "22799",
+  "r06": "41502",
+  "r07": "31164",
+  "r08": "23468",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "10",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (4)",
+  "2005-countries-total": "France (5)",
   "2005-shows-with": "Olivier Gagnère (4), Jean-Marc Bustamante (2), Pierre Charpin (2), Hella Jongerius (2), Arik Levy (2), Nestor Perkal (2), Ettore Sottsass (2)",
-  "representing-galleries": "Contrasts Gallery (798 Art District, No. 4 Jiu Xianqiao Road, Chaoyang District, 100015 Beijing, China); Pearl Lam Galleries (181 Middle Jiangxi Road, G/F, 200002 Shanghai, China); Galerie Kreo (22, rue Duchefdelaville, 75013 Paris, France)",
+  "representing-galleries": "Contrasts Gallery (798 Art District, No. 4 Jiu Xianqiao Road, Chaoyang District, 100015 Beijing, China); Pearl Lam Galleries (181 Middle Jiangxi Road, G/F, 200002 Shanghai, China); Galerie Kreo (22, rue Duchefdelaville, 75013 Paris, France); Galerie Lefebvre & Fils (rue du Bac 27, 75007 Paris, France)",
   "collecting-museums": "FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); Musée Départemental d'Art Contemporain de Rochechouart (place du Château, 87600  Rochechouart, France)",
   "first_name": "Olivier",
   "last_name": "Gagnère",
@@ -43,6 +43,44 @@
   "age": 62,
   "age_range": "61-100",
   "expos": {
+    "2009": [
+      {
+        "i": "53487-11845-2009-12-02",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "53487-11845-2009-12-02",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "53487-27891-2011-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "53487-27891-2011-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "53487-4190-2011-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "53487-4190-2011-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "53487-11214-2011-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "53487-11214-2011-06-06",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "53487-6159-2006-05-13",

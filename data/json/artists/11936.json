@@ -1,7 +1,7 @@
 {
   "id": "11936",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:52",
+  "timestamp": "2014-05-24 06:19:41",
   "name": "Philippe Bazin",
   "surname": "Bazin",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "5918",
-  "r01": "5699",
-  "r02": "5165",
-  "r03": "5509",
-  "r04": "6855",
-  "r05": "8354",
-  "r06": "7421",
-  "r07": "6921",
-  "r08": "8284",
+  "r00": "6537",
+  "r01": "5942",
+  "r02": "5313",
+  "r03": "4485",
+  "r04": "4706",
+  "r05": "6101",
+  "r06": "7600",
+  "r07": "6421",
+  "r08": "5782",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "35",
+  "all-shows-total": "36",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": "15",
-  "2005-countries-total": "France (13), Canada (1), Italy (1), Portugal (1), Sweden (1)",
-  "2005-shows-with": "Philippe Bazin (14), Martin Parr (5), Vasco Aráujo (4), Virginie Barré (4), Mircea Cantor (4), Maurizio Cattelan (4), Florence Chevallier (4), Roberto Cuoghi (4), Mark Dion (4), Gardar Eide Einarsson (4), Urs Fischer (4), Fischli & Weiss (4), Claire Fontaine (4), David Hammons (4), Annika von Hausswolff (4), Thomas Hirschhorn (4), William Kentridge (4), Kimsooja (4), Jeff Koons (4), Sigalit Landau (4), Sherrie Levine (4), DeAnna Maganias (4), Mark Manders (4), Paul McCarthy (4), Boris Mikhailov (4), Esko Männikkö (4), Bruce Nauman (4), Cady Noland (4), Navin Rawanchaikul (4), Aurel Schmidt (4), Gregor Schneider (4), Lara Schnitger (4), Santiago Sierra (4), Stéphane Thidet (4), Kara Walker (4), Marepe (3), Lorna Simpson (3), Yves Tremorin (3), Sophie Calle (2), Philippe Cognée (2), Stéphane Couturier (2), Pascal Dolemieux (2), Jean-Luc Mylayne (2), Bernard Plossu (2), Allan Sekula (2), Keiichi Tahara (2), Patrick Tosani (2)",
+  "2005-countries-total": "France (15), Canada (1), Italy (1), Portugal (1), Sweden (1)",
+  "2005-shows-with": "Philippe Bazin (16), Martin Parr (5), Vasco Aráujo (4), Virginie Barré (4), Mircea Cantor (4), Maurizio Cattelan (4), Florence Chevallier (4), Roberto Cuoghi (4), Mark Dion (4), Gardar Eide Einarsson (4), Urs Fischer (4), Fischli & Weiss (4), Claire Fontaine (4), David Hammons (4), Annika von Hausswolff (4), Thomas Hirschhorn (4), William Kentridge (4), Kimsooja (4), Jeff Koons (4), Sigalit Landau (4), Sherrie Levine (4), DeAnna Maganias (4), Mark Manders (4), Paul McCarthy (4), Boris Mikhailov (4), Esko Männikkö (4), Bruce Nauman (4), Cady Noland (4), Navin Rawanchaikul (4), Aurel Schmidt (4), Gregor Schneider (4), Lara Schnitger (4), Santiago Sierra (4), Stéphane Thidet (4), Kara Walker (4), Marepe (3), Lorna Simpson (3), Yves Tremorin (3), Sophie Calle (2), Philippe Cognée (2), Stéphane Couturier (2), Pascal Dolemieux (2), Lee Friedlander (2), Laura Henno (2), Jean-Luc Mylayne (2), Roman Opalka (2), Bernard Plossu (2), Allan Sekula (2), Keiichi Tahara (2), Patrick Tosani (2)",
   "representing-galleries": null,
   "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
   "first_name": "Philippe",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2006": [
+      {
+        "i": "11936-1372-2006-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "11936-1372-2006-03-18",
+        "c": "FR"
+      },
       {
         "i": "11936-4014-2006-04-29",
         "c": "DE",
@@ -56,6 +64,38 @@
           "2006-04-29",
           "2006-06-11"
         ]
+      },
+      {
+        "i": "11936-8554-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "11936-8554-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "11936-1372-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "11936-1372-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "11936-18800-2006-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "11936-18800-2006-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "11936-8554-2006-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "11936-8554-2006-07-07",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -71,6 +111,14 @@
           "2007-02-21",
           "2007-04-29"
         ]
+      },
+      {
+        "i": "11936-1372-2007-11-03",
+        "c": "FR"
+      },
+      {
+        "i": "11936-1372-2007-11-03",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -86,9 +134,25 @@
           "2008-09-10",
           "2008-12-13"
         ]
+      },
+      {
+        "i": "11936-16035-2008-11-20",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "11936-16035-2008-11-20",
+        "c": "FR"
+      },
+      {
+        "i": "11936-1293-2009-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "11936-1293-2009-05-29",
+        "c": "FR"
+      },
       {
         "i": "11936-2376-2009-10-21",
         "c": "IT",
@@ -101,6 +165,14 @@
           "2009-10-21",
           "2010-03-04"
         ]
+      },
+      {
+        "i": "11936-27835-2009-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "11936-27835-2009-01-22",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -118,6 +190,14 @@
         ]
       },
       {
+        "i": "11936-5115-2010-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "11936-5115-2010-03-09",
+        "c": "FR"
+      },
+      {
         "i": "11936-8987-2010-05-15",
         "c": "PT",
         "n": "Investigations of a dog",
@@ -129,9 +209,49 @@
           "2010-05-15",
           "2010-09-05"
         ]
+      },
+      {
+        "i": "11936-8554-2010-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "11936-8554-2010-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "11936-7811-2010-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "11936-10520-2010-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "11936-10520-2010-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "11936-10679-2010-02-27",
+        "c": "FR"
+      },
+      {
+        "i": "11936-10679-2010-02-27",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "11936-7811-2010-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "11936-10519-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "11936-10519-2011-02-12",
+        "c": "FR"
+      },
       {
         "i": "11936-2428-2011-02-17",
         "c": "SE",
@@ -144,6 +264,54 @@
           "2011-02-17",
           "2011-05-29"
         ]
+      },
+      {
+        "i": "11936-5115-2011-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "11936-5115-2011-09-09",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "11936-10679-2012-11-17",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "11936-10679-2012-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "11936-10220-2013-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "11936-10220-2013-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "11936-8997-2013-10-05",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "11936-8997-2013-10-05",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "11936-1372-2005-10-29",
+        "c": "FR"
+      },
+      {
+        "i": "11936-1372-2005-10-29",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "263849",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:48:34",
+  "timestamp": "2014-05-24 07:46:50",
   "name": "Amélie Dubois",
   "surname": "Dubois",
   "nationality": "FR",
@@ -14,13 +14,13 @@
   "death day": null,
   "death month": null,
   "death year": null,
-  "attributes": null,
+  "attributes": "Female",
   "media": null,
-  "r00": "32402",
-  "r01": "30291",
-  "r02": "62098",
-  "r03": "67582",
-  "r04": null,
+  "r00": "24435",
+  "r01": "24719",
+  "r02": "22398",
+  "r03": "47900",
+  "r04": "51753",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,22 +28,30 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "5",
+  "all-shows-total": "6",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (3), Spain (1), Switzerland (1)",
-  "2005-shows-with": "Amélie Dubois (4), Anna Barham (2), Nina Beier & Marie Lund (2), Alejandro Cesarco (2), Dora García (2), Fabio Kacero (2), David Lamelas (2), Ján Mancuska (2), Gustav Metzger (2), Helen Mirra (2), Claire Morel (2), Tania Mouraud (2), Ewa Partum (2), Charles Sandison (2)",
+  "2005-countries-total": "France (4), Spain (1), Switzerland (1)",
+  "2005-shows-with": "Amélie Dubois (5), Anna Barham (2), Nina Beier & Marie Lund (2), Alejandro Cesarco (2), Dora García (2), Fabio Kacero (2), David Lamelas (2), Ján Mancuska (2), Gustav Metzger (2), Helen Mirra (2), Claire Morel (2), Tania Mouraud (2), Ewa Partum (2), Charles Sandison (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Amélie",
   "last_name": "Dubois",
-  "genre": "c",
+  "genre": "f",
   "birthDate": "1983-01-01",
   "age": 31,
   "age_range": "26-40",
   "expos": {
     "2010": [
+      {
+        "i": "263849-10218-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "263849-10218-2010-06-11",
+        "c": "FR"
+      },
       {
         "i": "263849-9493-2010-06-18",
         "c": "CH",
@@ -60,6 +68,14 @@
     ],
     "2012": [
       {
+        "i": "263849-9492-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "263849-9492-2012-01-27",
+        "c": "FR"
+      },
+      {
         "i": "263849-5490-2012-06-01",
         "c": "ES",
         "n": "Formas Breves, Outras, 25",
@@ -71,6 +87,16 @@
           "2012-06-01",
           "2012-10-14"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "263849-22373-2011-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "263849-22373-2011-10-24",
+        "c": "FR"
       }
     ]
   }

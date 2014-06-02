@@ -1,7 +1,7 @@
 {
   "id": "302046",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:03:28",
+  "timestamp": "2014-05-24 07:59:50",
   "name": "Julien Nédélec",
   "surname": "Nédélec",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "16674",
-  "r01": "19510",
-  "r02": "51979",
-  "r03": "70721",
-  "r04": "76066",
-  "r05": null,
+  "r00": "10023",
+  "r01": "11581",
+  "r02": "13563",
+  "r03": "37995",
+  "r04": "55127",
+  "r05": "69374",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": "www.julien-nedelec.net",
   "all-shows-first": "2009",
-  "all-shows-total": "20",
+  "all-shows-total": "22",
   "2005-shows-biennials": "11",
   "2005-shows-galleries": "11",
-  "2005-shows-museums": "6",
-  "2005-countries-total": "France (19), USA (1)",
-  "2005-shows-with": "Julien Nédélec (11), Bevis Martin & Charlie Youle (4), Armand Morin (4), Ernesto Sartori (4), Mélanie Vincent (4), Antoine Dorotte (3), Angélique Lecaille (3), Briac Lepretre (3), Aurélien Mole (3), Benoit-Marie Moriceau (3), Samir Mougas (3), Blaise Parmentier (3), Yann Sérandour (3), Julien Tiberi (3), Claude Closky (2), Aurélien Froment (2)",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (21), USA (1)",
+  "2005-shows-with": "Julien Nédélec (13), Bevis Martin & Charlie Youle (4), Armand Morin (4), Ernesto Sartori (4), Yann Sérandour (4), Mélanie Vincent (4), Claude Closky (3), Antoine Dorotte (3), Angélique Lecaille (3), Briac Lepretre (3), Aurélien Mole (3), Benoit-Marie Moriceau (3), Samir Mougas (3), Blaise Parmentier (3), Julien Tiberi (3), Guillaume Aubry (2), Peter Downsbrough (2), Hans-Peter Feldmann (2), Aurélien Froment (2), Hamish Fulton (2), Simon Nicaise (2), Bruno Peinado (2), Julien Prévieux (2), herman de vries (2), Raphaël Zarka (2)",
   "representing-galleries": "galerieACDC (1, rue des étables, 33800 Bordeaux, France)",
   "collecting-museums": null,
   "first_name": "Julien",
@@ -43,7 +43,51 @@
   "age": 31,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "302046-19673-2009-10-14",
+        "c": "FR"
+      },
+      {
+        "i": "302046-19673-2009-10-14",
+        "c": "FR"
+      },
+      {
+        "i": "302046-18613-2009-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "302046-18613-2009-04-30",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "302046-19611-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "302046-19611-2010-09-11",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "302046-19673-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "302046-19673-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "302046-20542-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "302046-20542-2011-03-15",
+        "c": "FR"
+      },
       {
         "i": "302046-24333-2011-05-06",
         "c": "US",
@@ -56,6 +100,124 @@
           "2011-05-06",
           "2011-06-05"
         ]
+      },
+      {
+        "i": "302046-19747-2011-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "302046-19747-2011-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "302046-20542-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "302046-20542-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "302046-10990-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "302046-10990-2011-05-07",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "302046-7999-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "302046-7999-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "302046-11771-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "302046-11771-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "302046-10990-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "302046-10990-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "302046-10990-2012-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "302046-10990-2012-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "302046-19673-2012-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "302046-19673-2012-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "302046-10990-2012-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "302046-10990-2012-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "302046-10990-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "302046-10990-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "302046-8548-2012-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "302046-8548-2012-09-27",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "302046-11771-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "302046-11771-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "302046-2718-2013-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "302046-22624-2013-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "302046-22624-2013-05-30",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "302046-2718-2013-11-08",
+        "c": "FR"
       }
     ]
   }

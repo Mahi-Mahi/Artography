@@ -16,5 +16,51 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "8",
   "fairs": {
+    "2005": [
+      {
+        "i": "1386-Paris Photo 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1386-Paris Photo 2006",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1386-Paris Photo 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1386-Paris Photo 2009",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1386-Paris Photo 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1386-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1386-Paris Photo 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1386-Paris Photo 2013",
+        "c": "FR"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "232872",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:36:34",
+  "timestamp": "2014-05-24 07:36:15",
   "name": "Christian Louboutin",
   "surname": "Louboutin",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Fashion Design",
-  "r00": "65886",
-  "r01": "63061",
-  "r02": "76607",
-  "r03": "71716",
-  "r04": "65341",
-  "r05": null,
+  "r00": "31314",
+  "r01": "58761",
+  "r02": "54948",
+  "r03": "69978",
+  "r04": "64682",
+  "r05": "58296",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2009",
-  "all-shows-total": "3",
+  "all-shows-total": "4",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (1), Russia (1), United Kingdom (1)",
-  "2005-shows-with": "Christian Louboutin (2)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (1), Netherlands (1), Russia (1), United Kingdom (1)",
+  "2005-shows-with": "Christian Louboutin (3)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Christian",
@@ -56,6 +56,16 @@
           "2009-04-09",
           "2009-05-10"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "232872-23254-2011-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "232872-23254-2011-11-22",
+        "c": "FR"
       }
     ],
     "2012": [

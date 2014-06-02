@@ -28,6 +28,10 @@
         "c": "CH",
         "n": "Art 36 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "3508-Fiac 2005",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -42,6 +46,10 @@
         "c": "CH",
         "n": "Art 37 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "3508-Fiac 2006",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -52,10 +60,18 @@
         "ct": "Madrid"
       },
       {
+        "i": "3508-ArtParis 07",
+        "c": "FR"
+      },
+      {
         "i": "3508-Art 38 Basel",
         "c": "CH",
         "n": "Art 38 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "3508-Fiac 2007",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -64,6 +80,14 @@
         "c": "ES",
         "n": "ARCO 08",
         "ct": "Madrid"
+      },
+      {
+        "i": "3508-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "3508-Salon du Dessin Contemporain 2008",
+        "c": "FR"
       },
       {
         "i": "3508-Art 39 Basel",
@@ -86,6 +110,10 @@
         "c": "ES",
         "n": "ARCOmadrid  2010",
         "ct": "Madrid"
+      },
+      {
+        "i": "3508-Salon du Dessin Contemporain 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -94,6 +122,10 @@
         "c": "ES",
         "n": "ARCOmadrid  2011",
         "ct": "Madrid"
+      },
+      {
+        "i": "3508-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -102,6 +134,10 @@
         "c": "ES",
         "n": "ARCOmadrid 2012",
         "ct": "Madrid"
+      },
+      {
+        "i": "3508-Art Paris Art Fair 2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -110,6 +146,14 @@
         "c": "ES",
         "n": "ARCOmadrid 2013",
         "ct": "Madrid"
+      },
+      {
+        "i": "3508-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "3508-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
       }
     ]
   }

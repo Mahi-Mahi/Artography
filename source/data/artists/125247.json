@@ -1,7 +1,7 @@
 {
   "id": "125247",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:54:25",
+  "timestamp": "2014-05-24 06:59:29",
   "name": "Nicolas Deshayes",
   "surname": "Deshayes",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "7650",
-  "r01": "12058",
-  "r02": "12758",
-  "r03": "24368",
-  "r04": "28369",
-  "r05": "36869",
-  "r06": "31781",
-  "r07": "32146",
-  "r08": "65471",
+  "r00": "4648",
+  "r01": "5608",
+  "r02": "9815",
+  "r03": "10384",
+  "r04": "18222",
+  "r05": "20554",
+  "r06": "34421",
+  "r07": "28900",
+  "r08": "29147",
   "awards": null,
-  "website": null,
+  "website": "www.nicolasdeshayes.net",
   "all-shows-first": "2005",
-  "all-shows-total": "31",
+  "all-shows-total": "34",
   "2005-shows-biennials": "12",
   "2005-shows-galleries": "12",
-  "2005-shows-museums": "6",
-  "2005-countries-total": "United Kingdom (19), France (2), Italy (2), USA (2), Netherlands (1), Norway (1), Poland (1)",
-  "2005-shows-with": "Nicolas Deshayes (25), Amir Chasson (3), Magali Reus (3), Rupert Ackroyd (2), Carl Andre (2), Aaron Angell (2), Ed Atkins (2), Adam Bainbridge (2), Myka Baum (2), Frances Blythe (2), Sam Burford (2), Gordon Cheung (2), David Cochrane (2), Dan Coopey (2), Edward Cotterill (2), Andrew Curtis (2), Am Nuden Da (2), Matthew Darbyshire (2), Timothy Davies (2), David Douard (2), Tomas Downes (2), Lee Edwards (2), Bee Emmott (2), Teresa Eng (2), Adham Faramawy (2), Jess Flood-Paddock (2), Anna M. R. Freeman (2), Felix Frith (2), Ryan Gander (2), Jorge de la Garza (2), Tom Godfrey (2), Joseph Gower (2), Susie Green (2), Anthea Hamilton (2), Alexandra Handal (2), Richard Healy (2), Jung-Ouk Hong (2), Benjamin Jenner (2), Michael Just (2), Dean Kissick (2), Paul Knight (2), Una Knox (2), Simone Koch (2), Rinat Kotler (2), Martina Lindqvist (2), George Henry Longly (2), Susanne Ludwig (2), Rachel Maclean (2), Francis Mason (2), Jack Newling (2), Kate Owens (2), Ruairiadh O\\'Connell (2), Marco Palmieri (2), Rebecca Parkin",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "United Kingdom (22), France (2), Italy (2), USA (2), Germany (1), Netherlands (1), Norway (1), Poland (1)",
+  "2005-shows-with": "Nicolas Deshayes (29), Magali Reus (5), Aaron Angell (4), Ed Atkins (4), Amir Chasson (3), David Douard (3), Jess Flood-Paddock (3), Kate Owens (3), Giles Round (3), Rupert Ackroyd (2), Carl Andre (2), Adam Bainbridge (2), Jonathan Baldock (2), Olga Balema (2), Myka Baum (2), Frances Blythe (2), Edwin Burdis (2), Sam Burford (2), Alice Channer (2), Gordon Cheung (2), David Cochrane (2), Dan Coopey (2), Edward Cotterill (2), Andrew Curtis (2), Am Nuden Da (2), Matthew Darbyshire (2), Timothy Davies (2), Tomas Downes (2), Lee Edwards (2), Bee Emmott (2), Teresa Eng (2), Adham Faramawy (2), Anna M. R. Freeman (2), Felix Frith (2), Ryan Gander (2), Jorge de la Garza (2), Tom Godfrey (2), Joseph Gower (2), Susie Green (2), Anthea Hamilton (2), Alexandra Handal (2), Emma Hart (2), Richard Healy (2), Jung-Ouk Hong (2), Benjamin Jenner (2), Michael Just (2), Dean Kissick (2), Paul Knight (2), Una Knox (2), Simone Koch (2), Rinat Kotler (2), Martina Lindqvist (2), George Henry Longly (2), Susanne Ludwig (2), Rachel Ma",
   "representing-galleries": "Galleria 42 (Via Carteria 42,  Modena, Italy)",
   "collecting-museums": null,
   "first_name": "Nicolas",
@@ -287,6 +287,14 @@
         ]
       },
       {
+        "i": "125247-378-2012-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "125247-378-2012-06-07",
+        "c": "FR"
+      },
+      {
         "i": "125247-6563-2012-11-15",
         "c": "GB",
         "n": "Chimera Q.T.E.",
@@ -326,6 +334,14 @@
           "2013-02-10",
           "2013-03-24"
         ]
+      },
+      {
+        "i": "125247-29077-2013-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "125247-29077-2013-03-29",
+        "c": "FR"
       },
       {
         "i": "125247-28040-2013-04-18",

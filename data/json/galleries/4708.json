@@ -32,6 +32,12 @@
         "ct": "Tucson, AZ"
       }
     ],
+    "2009": [
+      {
+        "i": "4708-The Affordable Art Fair Paris 09",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "4708-Affordable Art Fair Bruxelles 2010",
@@ -44,6 +50,20 @@
         "c": "US",
         "n": "The Affordable Art Fair New York Fall 2010",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "4708-Art Elysées 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "4708-CHIC DESSIN",
+        "c": "FR"
+      },
+      {
+        "i": "4708-Art Elysées 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -52,6 +72,10 @@
         "c": "BE",
         "n": "Affordable Art Fair Bruxelles 2012",
         "ct": "Brussels"
+      },
+      {
+        "i": "4708-Art Elysées 2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -66,6 +90,10 @@
         "c": "GB",
         "n": "Art13 London",
         "ct": "London (England)"
+      },
+      {
+        "i": "4708-Art Elysees 2013",
+        "c": "FR"
       }
     ]
   }

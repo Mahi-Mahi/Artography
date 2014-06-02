@@ -16,6 +16,32 @@
   "fairs-abroad": "1",
   "fairs-in-FR": "5",
   "fairs": {
+    "2009": [
+      {
+        "i": "20132-Docks Art Fair 2009",
+        "c": "FR"
+      },
+      {
+        "i": "20132-Show Off Paris 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "20132-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "20132-Art-O-Rama 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "20132-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      }
+    ],
     "2012": [
       {
         "i": "20132-ShContemporary 2012",

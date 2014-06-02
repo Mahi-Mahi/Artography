@@ -1,7 +1,7 @@
 {
   "id": "107299",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:47:20",
+  "timestamp": "2014-05-24 06:53:24",
   "name": "Maïder Fortuné",
   "surname": "Fortuné",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography, Video, Installation",
-  "r00": "6383",
-  "r01": "6509",
-  "r02": "6224",
-  "r03": "6253",
-  "r04": "6839",
-  "r05": "7827",
-  "r06": "7624",
-  "r07": "8874",
-  "r08": "8913",
+  "r00": "6262",
+  "r01": "6219",
+  "r02": "6105",
+  "r03": "5614",
+  "r04": "5491",
+  "r05": "6063",
+  "r06": "7014",
+  "r07": "6696",
+  "r08": "7696",
   "awards": null,
-  "website": null,
+  "website": "maider-fortune.fr",
   "all-shows-first": "2002",
-  "all-shows-total": "36",
+  "all-shows-total": "37",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "13",
-  "2005-countries-total": "France (13), Germany (2), Canada (1), Greece (1), Ireland (Republic) (1), Spain (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Maïder Fortuné (19), Ziad Antar (3), Sergey Bratkov (3), Elina Brotherus (3), Detanico & Lain (3), Fabrice Langlade (3), Mira Sanders (3), Iris Sara Schiller (3), David Shrigley (3), Yves Tremorin (3), Hans Witschi (3), Wood & Harrison (3), Lauri Astala (2), Marc Bauer (2), Thomas Bayrle (2), Dara Birnbaum (2), Marco Brambilla (2), Hanna Brotherus (2), Marcel Dinahet (2), Julien Discrit (2), Peter Downsbrough (2), Hubert Duprat (2), Hans-Peter Feldmann (2), Douglas Gordon (2), Dan Graham (2), Cao Guimarães (2), Sunil Gupta (2), Charlotte Gyllenhammar (2), Gary Hill (2), Pierre Huyghe (2), Valérie Jouve (2), Isaac Julien (2), Michael Kalmbach (2), William Kentridge (2), Jan Kopp (2), Thierry Kuntzel (2), Euan MacDonald (2), Anthony McCall (2), Steve McQueen (2), Bill Morrison (2), Andrea Muheim (2), Bruce Nauman (2), Peter Neuchs (2), Jun Nguyen-Hatsushiba (2), Tony Oursler (2), Nam June Paik (2), Françoise Petrovitch (2), Guillaume Pinard (2), Sophie Ristelhueber (2), Jacques Roubaud (2), Michael Snow (2",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "France (13), Germany (2), Spain (2), Canada (1), Greece (1), Ireland (Republic) (1), Switzerland (1), USA (1)",
+  "2005-shows-with": "Maïder Fortuné (20), Ziad Antar (3), Sergey Bratkov (3), Elina Brotherus (3), Detanico & Lain (3), Fabrice Langlade (3), Mira Sanders (3), Iris Sara Schiller (3), David Shrigley (3), Yves Tremorin (3), Hans Witschi (3), Wood & Harrison (3), Lauri Astala (2), Marc Bauer (2), Thomas Bayrle (2), Dara Birnbaum (2), Marco Brambilla (2), Hanna Brotherus (2), Marcel Dinahet (2), Julien Discrit (2), Peter Downsbrough (2), Hubert Duprat (2), Hans-Peter Feldmann (2), Douglas Gordon (2), Dan Graham (2), Cao Guimarães (2), Sunil Gupta (2), Charlotte Gyllenhammar (2), Gary Hill (2), Pierre Huyghe (2), Valérie Jouve (2), Isaac Julien (2), Michael Kalmbach (2), William Kentridge (2), Jan Kopp (2), Thierry Kuntzel (2), Liu Zhenchen (2), Euan MacDonald (2), Anthony McCall (2), Steve McQueen (2), Bill Morrison (2), Andrea Muheim (2), Bruce Nauman (2), Peter Neuchs (2), Jun Nguyen-Hatsushiba (2), Tony Oursler (2), Nam June Paik (2), Françoise Petrovitch (2), Guillaume Pinard (2), Sophie Ristelhueber (2), Jacques Roubaud (2",
   "representing-galleries": "Galerie Martine Aboucaya (5, rue Sainte-Anastase, 75003 Paris, France); EXPRMNTL Galerie (Rue de la bourse 18,  31000 Toulouse, France)",
   "collecting-museums": null,
   "first_name": "Maïder",
@@ -43,6 +43,45 @@
   "age": 41,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "107299-1368-2005-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "107299-1368-2005-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "107299-8189-2005-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "107299-8189-2005-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "107299-8678-2005-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "107299-8678-2005-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "107299-1825-2005-10-07",
+        "c": "ES",
+        "n": "Maïder Fortuné",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Barcelona",
+        "o": "Fundación Joan Miró",
+        "d": [
+          "2005-10-07",
+          "2005-12-04"
+        ]
+      }
+    ],
     "2006": [
       {
         "i": "107299-27771-2006-06-23",
@@ -71,7 +110,83 @@
         ]
       }
     ],
+    "2007": [
+      {
+        "i": "107299-1403-2007-01-06",
+        "c": "FR"
+      },
+      {
+        "i": "107299-1403-2007-01-06",
+        "c": "FR"
+      },
+      {
+        "i": "107299-4159-2007-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "107299-4159-2007-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "107299-12992-2007-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "107299-12992-2007-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "107299-10244-2007-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "107299-10244-2007-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "107299-10726-2007-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "107299-2709-2007-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "107299-1403-2007-11-24",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "107299-10726-2007-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "107299-2709-2007-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "107299-1403-2007-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "107299-10121-2008-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "107299-4159-2008-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "107299-4159-2008-03-15",
+        "c": "FR"
+      }
+    ],
     "2009": [
+      {
+        "i": "107299-10121-2008-10-25",
+        "c": "FR"
+      },
       {
         "i": "107299-10479-2009-03-06",
         "c": "CH",
@@ -97,6 +212,14 @@
           "2009-05-30",
           "2009-07-26"
         ]
+      },
+      {
+        "i": "107299-18800-2009-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "107299-18800-2009-06-12",
+        "c": "FR"
       },
       {
         "i": "107299-2374-2009-11-19",
@@ -125,6 +248,14 @@
           "2009-11-19",
           "2010-02-05"
         ]
+      },
+      {
+        "i": "107299-8189-2010-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "107299-8189-2010-01-18",
+        "c": "FR"
       },
       {
         "i": "107299-2440-2010-01-23",
@@ -205,9 +336,33 @@
           "2010-12-18",
           "2011-04-25"
         ]
+      },
+      {
+        "i": "107299-4159-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "107299-4159-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "107299-20164-2011-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "107299-4159-2011-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "107299-4159-2011-01-08",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "107299-20164-2011-11-17",
+        "c": "FR"
+      },
       {
         "i": "107299-8214-2012-01-13",
         "c": "IE",
@@ -220,21 +375,58 @@
           "2012-01-13",
           "2012-03-25"
         ]
+      },
+      {
+        "i": "107299-4159-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "107299-4159-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "107299-17313-2012-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "107299-17313-2012-03-07",
+        "c": "FR"
       }
     ],
-    "2005": [
+    "2013": [
       {
-        "i": "107299-1825-2005-10-07",
-        "c": "ES",
-        "n": "Maïder Fortuné",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Barcelona",
-        "o": "Fundación Joan Miró",
-        "d": [
-          "2005-10-07",
-          "2005-12-04"
-        ]
+        "i": "107299-4159-2013-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "107299-4159-2013-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "107299-12129-2013-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "107299-12129-2013-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "107299-20775-2013-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "107299-10351-2013-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "107299-10351-2013-11-06",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "107299-20775-2013-10-20",
+        "c": "FR"
       }
     ]
   }

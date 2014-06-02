@@ -1,7 +1,7 @@
 {
   "id": "110048",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:48:25",
+  "timestamp": "2014-05-24 06:54:21",
   "name": "Joëlle de la Casinière",
   "surname": "Casinière",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "12830",
-  "r01": "13636",
-  "r02": "12131",
-  "r03": "12440",
-  "r04": "14458",
-  "r05": "21338",
-  "r06": "21521",
-  "r07": "17888",
-  "r08": "30540",
+  "r00": "8960",
+  "r01": "11916",
+  "r02": "12818",
+  "r03": "10726",
+  "r04": "10764",
+  "r05": "12814",
+  "r06": "20212",
+  "r07": "20095",
+  "r08": "16070",
   "awards": null,
   "website": null,
   "all-shows-first": "1987",
-  "all-shows-total": "19",
+  "all-shows-total": "21",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "Germany (5), France (2), Belgium (1), Canada (1), Switzerland (1), United Kingdom (1)",
-  "2005-shows-with": "Joëlle de la Casinière (8), Herman Asselberghs (3), Vincent Meessen (3), Orla Barry (2), Antonin de Bemels (2), Manon de Boer (2), Thierry de Mey & Anne-Teresa de Keersmaeker (2), Messieurs Delmotte (2), Peter Downsbrough (2), Lili Dujourie (2), Michel François (2), Dora García (2), Johan Grimonprez (2), David Hatcher (2), Adam Leech (2), Jacques van Lennep (2), Jacques Lizène (2), Wendy Morris (2), Sophie Nys (2), Jacques-Louis Nyst (2), Hans Op de Beeck (2), The Otolith Group (2), Ria Pacquée (2), Eric Pauwels (2), Nicolas Provost (2), Javier Téllez (2), Koen Theys (2)",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "Germany (5), Belgium (3), France (2), Canada (1), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Joëlle de la Casinière (9), Herman Asselberghs (3), Vincent Meessen (3), Orla Barry (2), Antonin de Bemels (2), Manon de Boer (2), Michel Bonnemaison (2), Thierry de Mey & Anne-Teresa de Keersmaeker (2), Messieurs Delmotte (2), Peter Downsbrough (2), Lili Dujourie (2), Michel François (2), Dora García (2), Johan Grimonprez (2), David Hatcher (2), Adam Leech (2), Jacques Lennep (2), Jacques Lizène (2), Wendy Morris (2), Sophie Nys (2), Jacques-Louis Nyst (2), Hans Op de Beeck (2), The Otolith Group (2), Ria Pacquée (2), Eric Pauwels (2), Nicolas Provost (2), Javier Téllez (2), Koen Theys (2)",
   "representing-galleries": null,
   "collecting-museums": "Argos (Werfstraat 13 rue du Chantier, 1000 Brussels, Belgium)",
   "first_name": "Joëlle",
@@ -129,6 +129,10 @@
         ]
       },
       {
+        "i": "110048-10218-2010-09-03",
+        "c": "FR"
+      },
+      {
         "i": "110048-7404-2010-10-04",
         "c": "DE",
         "n": "Das Barranquilla Prinzip",
@@ -143,6 +147,10 @@
       }
     ],
     "2011": [
+      {
+        "i": "110048-10218-2010-09-03",
+        "c": "FR"
+      },
       {
         "i": "110048-7404-2010-10-04",
         "c": "DE",
@@ -196,6 +204,14 @@
           "2013-04-26",
           "2013-06-01"
         ]
+      },
+      {
+        "i": "110048-4186-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "110048-4186-2013-05-25",
+        "c": "FR"
       }
     ],
     "2006": [

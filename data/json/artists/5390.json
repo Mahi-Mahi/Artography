@@ -1,7 +1,7 @@
 {
   "id": "5390",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:04:53",
+  "timestamp": "2014-05-24 06:17:02",
   "name": "Lionel Estève",
   "surname": "Estève",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "4339",
-  "r01": "4157",
-  "r02": "5033",
-  "r03": "4897",
-  "r04": "5091",
-  "r05": "5310",
-  "r06": "6104",
-  "r07": "6691",
-  "r08": "6569",
+  "r00": "3898",
+  "r01": "3681",
+  "r02": "3546",
+  "r03": "4566",
+  "r04": "4303",
+  "r05": "4518",
+  "r06": "4601",
+  "r07": "5571",
+  "r08": "6112",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "51",
+  "all-shows-total": "50",
   "2005-shows-biennials": "17",
   "2005-shows-galleries": "17",
-  "2005-shows-museums": "12",
-  "2005-countries-total": "France (11), Belgium (10), Greece (5), Finland (1), Germany (1), Poland (1), USA (1)",
-  "2005-shows-with": "Lionel Estève (24), Xavier Noiret-Thomé (7), Isabelle Arthuis (4), Robert Devriendt (4), Michel François (4), Sébastien Reuzé (4), Laurette Atrux-Tallau (3), Marie-José Burki (3), Matali Crasset (3), Ann Veronica Janssens (3), Dionisis Kavallieratos (3), Erwan Mahéo (3), Mathieu Mercier (3), Françoise Petrovitch (3), Thomas Schütte (3), Emmanuelle Villard (3), Iván Argote (2), Carola Bark (2), Boris Beaucarne (2), Matthias Beckmann (2), Abdelkader Benchamma (2), Lucile Bertrand (2), Michel Blazy (2), Katinka Bock (2), James Brooks (2), Daniel Buren (2), Pier Paolo Calzolari (2), Jeongmoon Choi (2), Franck Christen (2), Gérard Collin-Thiébaut (2), Valérie Dantas Mota (2), Philippe De Gobert (2), Damien De Lepeleire (2), Wim Delvoye (2), Marcel Dinahet (2), Motoko Dobashi (2), Erró (2), Richard Fauguet (2), Etienne de Fleurieu (2), Rodney Graham (2), Patrick Guns (2), Zilvinas Kempinas (2), Imi Knoebel (2), Kolkoz (2), Corinne Laroche (2), Rainier Lericolais (2), Gilles Mahé (2), Florian Maier-Ai",
+  "2005-shows-museums": "13",
+  "2005-countries-total": "Belgium (12), France (12), Greece (5), Finland (1), Poland (1), USA (1)",
+  "2005-shows-with": "Lionel Estève (24), Xavier Noiret-Thomé (7), Robert Devriendt (5), Isabelle Arthuis (4), Marie-José Burki (4), Michel François (4), Sébastien Reuzé (4), Laurette Atrux-Tallau (3), Ann Veronica Janssens (3), Dionisis Kavallieratos (3), Erwan Mahéo (3), Xavier Mary (3), Mathieu Mercier (3), Françoise Petrovitch (3), Benoit Platéus (3), Thomas Schütte (3), Emmanuelle Villard (3), Iván Argote (2), Boris Beaucarne (2), Abdelkader Benchamma (2), Lucile Bertrand (2), Michel Blazy (2), Katinka Bock (2), Daniel Buren (2), Pier Paolo Calzolari (2), Franck Christen (2), Gérard Collin-Thiébaut (2), Matali Crasset (2), Philippe De Gobert (2), Damien De Lepeleire (2), Wim Delvoye (2), Marcel Dinahet (2), Erró (2), Richard Fauguet (2), Rodney Graham (2), Patrick Guns (2), Zilvinas Kempinas (2), Imi Knoebel (2), Kolkoz (2), Gilles Mahé (2), Florian Maier-Aichen (2), Nikos Navridis (2), Giuseppe Penone (2), Raymond Pettibon (2), Robin Rhode (2), Karine Rougier (2), Léopoldine Roux (2), Julien Salaud (2), Bruno",
   "representing-galleries": "Galerie Albert Baronian (2 rue Isidore Verheyden, 1050 Brussels, Belgium); Galerie Emmanuel Perrotin - Paris (76, rue de Turenne, 75003 Paris, France); Bernier/Eliades Gallery (11 Eptachalkou, GR-11851 Athens, Greece); Galerie Emmanuel Perrotin - Miami (194 NW 30th Street, 33127 Miami, FL, USA)",
   "collecting-museums": null,
   "first_name": "Lionel",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "5390-12129-2005-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "5390-12129-2005-01-08",
+        "c": "FR"
+      },
       {
         "i": "5390-346-2005-01-21",
         "c": "DE",
@@ -58,6 +66,14 @@
         ]
       },
       {
+        "i": "5390-10229-2005-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "5390-10229-2005-03-13",
+        "c": "FR"
+      },
+      {
         "i": "5390-1470-2005-04-07",
         "c": "GR",
         "n": "Lionel Esteve",
@@ -69,6 +85,14 @@
           "2005-04-07",
           "2005-05-14"
         ]
+      },
+      {
+        "i": "5390-1961-2005-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "5390-1961-2005-09-10",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -114,6 +138,14 @@
     ],
     "2007": [
       {
+        "i": "5390-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "5390-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
         "i": "5390-2387-2007-11-03",
         "c": "IL",
         "n": "BoysCraft",
@@ -138,6 +170,10 @@
           "2007-02-10",
           "2007-04-07"
         ]
+      },
+      {
+        "i": "5390-8647-2007-11-30",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -179,6 +215,14 @@
           "2008-02-17",
           "2008-06-01"
         ]
+      },
+      {
+        "i": "5390-16305-2008-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "5390-16305-2008-03-21",
+        "c": "FR"
       },
       {
         "i": "5390-1470-2008-05-22",
@@ -246,6 +290,10 @@
         ]
       },
       {
+        "i": "5390-8647-2007-11-30",
+        "c": "FR"
+      },
+      {
         "i": "5390-2563-2008-10-23",
         "c": "FI",
         "n": "Tickling Works",
@@ -287,6 +335,14 @@
         ]
       },
       {
+        "i": "5390-10244-2009-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "5390-10244-2009-04-28",
+        "c": "FR"
+      },
+      {
         "i": "5390-1912-2009-06-19",
         "c": "BE",
         "n": "Nothing is permanent",
@@ -300,6 +356,14 @@
         ]
       },
       {
+        "i": "5390-21143-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "5390-21143-2009-10-17",
+        "c": "FR"
+      },
+      {
         "i": "5390-6564-2009-12-01",
         "c": "US",
         "n": "Group Show",
@@ -311,6 +375,14 @@
           "2009-12-01",
           "2010-01-09"
         ]
+      },
+      {
+        "i": "5390-1961-2009-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "5390-1961-2009-03-14",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -328,6 +400,10 @@
         ]
       },
       {
+        "i": "5390-26731-2010-09-15",
+        "c": "FR"
+      },
+      {
         "i": "5390-1912-2010-04-23",
         "c": "BE",
         "n": "Lionel Estève - Gymnastique",
@@ -339,9 +415,29 @@
           "2010-04-23",
           "2010-05-29"
         ]
+      },
+      {
+        "i": "5390-9061-2010-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "5390-9061-2010-06-27",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "5390-26731-2010-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "5390-25338-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "5390-25338-2011-03-15",
+        "c": "FR"
+      },
       {
         "i": "5390-17141-2011-03-16",
         "c": "DE",
@@ -410,6 +506,14 @@
         ]
       },
       {
+        "i": "5390-10247-2012-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "5390-10247-2012-07-01",
+        "c": "FR"
+      },
+      {
         "i": "5390-13075-2012-07-27",
         "c": "PL",
         "n": "The Vicinity of Constellations",
@@ -434,6 +538,22 @@
           "2012-09-28",
           "2012-10-07"
         ]
+      },
+      {
+        "i": "5390-1782-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "5390-1782-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "5390-1961-2012-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "5390-1961-2012-01-14",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -462,6 +582,16 @@
           "2013-09-18",
           "2013-12-31"
         ]
+      },
+      {
+        "i": "5390-29739-2013-10-12",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "5390-29739-2013-10-12",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "16110",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:43",
+  "timestamp": "2014-05-24 06:21:19",
   "name": "Delphine Coindet",
   "surname": "Coindet",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Sculpture",
-  "r00": "2864",
-  "r01": "2769",
-  "r02": "2746",
-  "r03": "2786",
-  "r04": "2640",
-  "r05": "2716",
-  "r06": "2923",
-  "r07": "3729",
-  "r08": "4367",
+  "r00": "3282",
+  "r01": "3018",
+  "r02": "2737",
+  "r03": "2656",
+  "r04": "2665",
+  "r05": "2462",
+  "r06": "2515",
+  "r07": "2692",
+  "r08": "3619",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "68",
-  "2005-shows-biennials": "16",
-  "2005-shows-galleries": "16",
+  "all-shows-total": "70",
+  "2005-shows-biennials": "17",
+  "2005-shows-galleries": "17",
   "2005-shows-museums": "16",
-  "2005-countries-total": "France (22), Switzerland (13), Netherlands (1), Spain (1), USA (1)",
-  "2005-shows-with": "Delphine Coindet (31), Philippe Decrauzat (8), Didier Marcel (7), Francis Baudevin (6), John M Armleder (5), Sylvie Fleury (5), Olivier Mosset (5), Valentin Carron (4), Stéphane Dafflon (4), Emilie Ding (4), Gilles Furtwängler (4), Christoph Gossweiler (4), Mathieu Mercier (4), Steven Parrino (4), John Tremblay (4), Pierre Vadi (4), Davide Balula (3), Wallace Berman (3), Nicolas Chardon (3), Claude Closky (3), Fabrice Gygi (3), Stéphane Kropf (3), Bertrand Lavier (3), Florence Paradeis (3), Mai-Thu Perret (3), Roman Signer (3), Blair Thurman (3), Benjamin Valenza (3), Raphaël Zarka (3), Scoli Acosta (2), Saâdane Afif (2), Wilfrid Almendra (2), Thomas Bayrle (2), Vincent Beaurin (2), Hans Bellmer (2), Donatella Bernardi (2), Alexandre Bianchini (2), Etienne Bossut (2), Lilian Bourgeat (2), Olaf Breuning (2), Nina Childress (2), Claudia Comte (2), Bruce Conner (2), Isabelle Cornaro (2), Philippe Daerendinger (2), Damien Deroubaix (2), Sylvie Fanchon (2), Ivan Fayard (2), Freistilmuseum (2), Vidya Gastaldon",
+  "2005-countries-total": "France (22), Switzerland (14), Netherlands (1), Spain (1), USA (1)",
+  "2005-shows-with": "Delphine Coindet (32), Philippe Decrauzat (8), Didier Marcel (7), John M Armleder (6), Francis Baudevin (6), Valentin Carron (5), Sylvie Fleury (5), Olivier Mosset (5), Stéphane Dafflon (4), Emilie Ding (4), Gilles Furtwängler (4), Christoph Gossweiler (4), Mathieu Mercier (4), Steven Parrino (4), Mai-Thu Perret (4), John Tremblay (4), Pierre Vadi (4), Benjamin Valenza (4), Davide Balula (3), Wallace Berman (3), Nicolas Chardon (3), Claude Closky (3), Vidya Gastaldon (3), Fabrice Gygi (3), Stéphane Kropf (3), Bertrand Lavier (3), Florence Paradeis (3), Roman Signer (3), Blair Thurman (3), Raphaël Zarka (3), Scoli Acosta (2), Saâdane Afif (2), Wilfrid Almendra (2), Stéphane Barbier-Bouvet (2), Thomas Bayrle (2), Vincent Beaurin (2), Hans Bellmer (2), Donatella Bernardi (2), Alexandre Bianchini (2), Etienne Bossut (2), Lilian Bourgeat (2), Olaf Breuning (2), Nina Childress (2), Claudia Comte (2), Bruce Conner (2), Isabelle Cornaro (2), Philippe Daerendinger (2), Damien Deroubaix (2), Sylvie Fanchon (2), I",
   "representing-galleries": "Galerie Laurent Godin (5 Rue du Grenier Saint Lazare, 75003 Paris, France); Evergreene (7, rue du Vieux-Billard, 1205 Geneva, Switzerland)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Centre (12 rue de la Tour Neuve, 45000 Orleans, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France)",
   "first_name": "Delphine",
@@ -56,9 +56,33 @@
           "2005-03-09",
           "2005-04-30"
         ]
+      },
+      {
+        "i": "16110-378-2005-12-10",
+        "c": "FR"
+      },
+      {
+        "i": "16110-19673-2005-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "16110-19673-2005-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "16110-19085-2005-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "16110-19085-2005-09-22",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "16110-378-2005-12-10",
+        "c": "FR"
+      },
       {
         "i": "16110-3158-2006-01-21",
         "c": "CH",
@@ -71,6 +95,22 @@
           "2006-01-21",
           "2006-03-26"
         ]
+      },
+      {
+        "i": "16110-10227-2006-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "16110-10227-2006-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "16110-2414-2006-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "16110-2414-2006-02-04",
+        "c": "FR"
       },
       {
         "i": "16110-8157-2006-02-25",
@@ -86,6 +126,10 @@
         ]
       },
       {
+        "i": "16110-5908-2006-03-11",
+        "c": "FR"
+      },
+      {
         "i": "16110-8005-2006-10-14",
         "c": "AU",
         "n": "Bartertown",
@@ -99,6 +143,14 @@
         ]
       },
       {
+        "i": "16110-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "16110-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
         "i": "16110-3548-2006-05-01",
         "c": "CH",
         "n": "Weird, Hot & Intricate",
@@ -110,9 +162,65 @@
           "2006-05-01",
           "2006-07-01"
         ]
+      },
+      {
+        "i": "16110-10517-2006-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "16110-10517-2006-09-23",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "16110-2585-2007-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "16110-2585-2007-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "16110-26775-2007-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "16110-26775-2007-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "16110-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "16110-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "16110-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "16110-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "16110-9344-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "16110-9344-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "16110-9344-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "16110-9344-2007-06-29",
+        "c": "FR"
+      },
       {
         "i": "16110-13721-2007-11-23",
         "c": "DE",
@@ -125,9 +233,25 @@
           "2007-11-23",
           "2007-12-15"
         ]
+      },
+      {
+        "i": "16110-8282-2007-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "16110-5908-2007-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "16110-5908-2007-06-09",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "16110-8282-2007-12-12",
+        "c": "FR"
+      },
       {
         "i": "16110-13458-2008-02-16",
         "c": "CH",
@@ -140,6 +264,22 @@
           "2008-02-16",
           "2008-03-14"
         ]
+      },
+      {
+        "i": "16110-7835-2008-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "16110-7835-2008-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "16110-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "16110-2528-2008-04-11",
+        "c": "FR"
       },
       {
         "i": "16110-9493-2008-05-15",
@@ -181,6 +321,26 @@
         ]
       },
       {
+        "i": "16110-7910-2008-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "16110-7910-2008-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "16110-14159-2008-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "16110-20029-2008-10-31",
+        "c": "FR"
+      },
+      {
+        "i": "16110-20029-2008-10-31",
+        "c": "FR"
+      },
+      {
         "i": "16110-3548-2008-03-13",
         "c": "CH",
         "n": "Polyamid Spirit",
@@ -192,9 +352,17 @@
           "2008-03-13",
           "2008-05-10"
         ]
+      },
+      {
+        "i": "16110-10219-2008-10-15",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "16110-14159-2008-10-11",
+        "c": "FR"
+      },
       {
         "i": "16110-7450-2009-02-07",
         "c": "CH",
@@ -222,6 +390,18 @@
         ]
       },
       {
+        "i": "16110-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "16110-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "16110-9344-2009-11-20",
+        "c": "FR"
+      },
+      {
         "i": "16110-12127-2009-11-29",
         "c": "NL",
         "n": "Circuit & Co.",
@@ -233,9 +413,41 @@
           "2009-11-29",
           "2009-12-31"
         ]
+      },
+      {
+        "i": "16110-10219-2008-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "16110-5908-2009-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "16110-5908-2009-10-22",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "16110-9344-2009-11-20",
+        "c": "FR"
+      },
+      {
+        "i": "16110-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "16110-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "16110-1917-2010-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "16110-1917-2010-06-12",
+        "c": "FR"
+      },
       {
         "i": "16110-9493-2010-06-18",
         "c": "CH",
@@ -248,9 +460,25 @@
           "2010-06-18",
           "2010-09-04"
         ]
+      },
+      {
+        "i": "16110-9344-2010-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "16110-5908-2010-12-10",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "16110-9344-2010-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "16110-5908-2010-12-10",
+        "c": "FR"
+      },
       {
         "i": "16110-11631-2011-06-17",
         "c": "CH",
@@ -278,6 +506,14 @@
         ]
       },
       {
+        "i": "16110-5908-2011-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "16110-5908-2011-06-30",
+        "c": "FR"
+      },
+      {
         "i": "16110-1366-2011-09-15",
         "c": "ES",
         "n": "Ventajas De Viajar En Tren",
@@ -289,6 +525,18 @@
           "2011-09-15",
           "2011-10-29"
         ]
+      },
+      {
+        "i": "16110-10218-2011-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "16110-1782-2011-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "16110-1782-2011-10-18",
+        "c": "FR"
       },
       {
         "i": "16110-3548-2011-03-21",
@@ -319,6 +567,10 @@
     ],
     "2012": [
       {
+        "i": "16110-10218-2011-10-16",
+        "c": "FR"
+      },
+      {
         "i": "16110-9756-2012-01-10",
         "c": "CH",
         "n": "Atlas",
@@ -332,6 +584,14 @@
         ]
       },
       {
+        "i": "16110-26249-2012-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "16110-26249-2012-01-13",
+        "c": "FR"
+      },
+      {
         "i": "16110-18393-2012-01-27",
         "c": "CH",
         "n": "Time",
@@ -343,6 +603,48 @@
           "2012-01-27",
           "2012-03-03"
         ]
+      },
+      {
+        "i": "16110-10351-2012-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "16110-10351-2012-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "16110-5908-2012-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "16110-5908-2012-06-06",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16110-28299-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "16110-28299-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "16110-2351-2013-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "16110-2351-2013-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "16110-8996-2013-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "16110-8996-2013-04-12",
+        "c": "FR"
       }
     ]
   }

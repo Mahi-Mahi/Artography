@@ -1,7 +1,7 @@
 {
   "id": "267485",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:49:56",
+  "timestamp": "2014-05-24 07:48:06",
   "name": "Juliette Bonneviot",
   "surname": "Bonneviot",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting",
-  "r00": "10869",
-  "r01": "16478",
-  "r02": "21411",
-  "r03": "90890",
-  "r04": "104647",
-  "r05": "97746",
-  "r06": "89528",
-  "r07": "80666",
-  "r08": "70860",
+  "r00": "5727",
+  "r01": "7627",
+  "r02": "11823",
+  "r03": "15578",
+  "r04": "86040",
+  "r05": "105810",
+  "r06": "98679",
+  "r07": "90201",
+  "r08": "81290",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "27",
-  "2005-shows-biennials": "14",
-  "2005-shows-galleries": "14",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "Germany (7), Switzerland (3), United Kingdom (3), USA (3), Ireland (Republic) (2), Italy (2), Netherlands (2), Austria (1), Canada (1), France (1)",
-  "2005-shows-with": "Juliette Bonneviot (23), Harm van den Dorpel (6), AIDS-3D (5), Constant Dullaart (5), Aude Pariset (5), Timur Si-Qin (5), Helga Wretman (5), Nicolas Ceccaldi (4), Martijn Hendriks (4), Aleksandra Domanovic (3), Yngve Holen (3), Oliver Laric (3), Marlie Mul (3), Jon Rafman (3), Artie Vierkant (3), Lorenzo Bernet (2), Gerry Bibby (2), Charles Broskoski (2), Daniel Everett (2), Mark Flood (2), Gregor Hildebrandt (2), Joel Holmberg (2), Ilja Karilampi (2), Martin Kohout (2), Kitty Kraus (2), Alicja Kwade (2), Joep van Liefland (2), Darri Lorenzen (2), Ming Wong (2), Simon Dybbroe Møller (2), Seth Pick (2), Borna Sammak (2), Juliane Solmsdorf (2), Ignacio Uriarte (2), Anne de Vries (2), Damon Zucconi (2)",
+  "all-shows-total": "34",
+  "2005-shows-biennials": "20",
+  "2005-shows-galleries": "20",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "Germany (8), Sweden (5), Switzerland (3), United Kingdom (3), USA (3), Austria (2), Ireland (Republic) (2), Italy (2), Netherlands (2), Canada (1), China (1), France (1)",
+  "2005-shows-with": "Juliette Bonneviot (30), Harm van den Dorpel (7), Aude Pariset (7), AIDS-3D (6), Timur Si-Qin (6), Nicolas Ceccaldi (5), Aleksandra Domanovic (5), Constant Dullaart (5), Marlie Mul (5), Helga Wretman (5), Martijn Hendriks (4), Oliver Laric (4), Jon Rafman (4), Artie Vierkant (4), Vittorio Brodmann (3), Yngve Holen (3), Alicja Kwade (3), Grayson Revoir (3), Cory Arcangel (2), Lorenzo Bernet (2), Gerry Bibby (2), Charles Broskoski (2), Dora Budor & Maja &#268;ule (2), Nina Canell (2), Kah Bee Chow (2), Petra Cortright (2), Simon Denny (2), Daniel Everett (2), Mark Flood (2), Ed Fornieles (2), Mia Goyette (2), Calla Henkel & Max Pitegoff (2), Gregor Hildebrandt (2), Joel Holmberg (2), Ilja Karilampi (2), Morag Keil (2), Martin Kohout (2), Kitty Kraus (2), Joep van Liefland (2), Darri Lorenzen (2), Ming Wong (2), Sandra Mujinga (2), Simon Dybbroe Møller (2), Katja Novitskova (2), Marisa Olson (2), Jaakko Pallasvuo (2), Seth Pick (2), Agnieszka Polska (2), Bunny Rogers (2), Borna Sammak (2), Nora Schultz (2), Jul",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Juliette",
@@ -376,6 +376,14 @@
           "2013-05-24",
           "2013-09-29"
         ]
+      },
+      {
+        "i": "267485-2493-2013-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "267485-2493-2013-09-12",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "13916",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:08:46",
+  "timestamp": "2014-05-24 06:20:27",
   "name": "Laura Lamiel",
   "surname": "Lamiel",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "17444",
-  "r01": "32546",
-  "r02": "33443",
-  "r03": "29404",
-  "r04": "25403",
-  "r05": "23891",
-  "r06": "22734",
-  "r07": "18567",
-  "r08": "20647",
+  "r00": "10862",
+  "r01": "14649",
+  "r02": "40025",
+  "r03": "44270",
+  "r04": "38019",
+  "r05": "30392",
+  "r06": "28694",
+  "r07": "26222",
+  "r08": "19937",
   "awards": null,
   "website": null,
   "all-shows-first": "1981",
-  "all-shows-total": "18",
+  "all-shows-total": "20",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (7), Germany (1), Spain (1)",
-  "2005-shows-with": "Laura Lamiel (6), Élisabeth Ballet (2), Pierre Buraglio (2), Shirley Jaffe (2), Annette Messager (2), Kiki Smith (2), Katja Strunz (2), Tatiana Trouvé (2), Marthe Wéry (2)",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (7), Spain (3), Belgium (1), Germany (1)",
+  "2005-shows-with": "Laura Lamiel (8), Élisabeth Ballet (2), Pierrette Bloch (2), Pierre Buraglio (2), Shirley Jaffe (2), Annette Messager (2), Judit Reigl (2), Edda Renouf (2), Kiki Smith (2), Katja Strunz (2), Tatiana Trouvé (2), Marthe Wéry (2)",
   "representing-galleries": "Marcelle Alix (4 rue Jouye-Rouve, 75020 Paris, France); Galeria Evelyn Botella (Galeria Aele) (C/ Mejia Lequerica, 12, 1º Derecha, 28004 Madrid, Spain)",
   "collecting-museums": null,
   "first_name": "Laura",
@@ -56,9 +56,73 @@
           "2005-02-07",
           "2005-02-28"
         ]
+      },
+      {
+        "i": "13916-11882-2005-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "13916-11882-2005-05-28",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "13916-16035-2008-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "13916-16035-2008-04-10",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "13916-2219-2009-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "13916-12129-2009-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "13916-12129-2009-09-30",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "13916-2219-2009-05-27",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "13916-24747-2012-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "13916-24747-2012-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "13916-24747-2012-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "13916-24747-2012-04-05",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "13916-4651-2013-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "13916-4651-2013-02-23",
+        "c": "FR"
+      },
       {
         "i": "13916-389-2013-06-20",
         "c": "ES",
@@ -84,6 +148,14 @@
           "2013-04-26",
           "2013-05-26"
         ]
+      },
+      {
+        "i": "13916-3864-2013-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "13916-3864-2013-09-14",
+        "c": "FR"
       }
     ],
     "2006": [

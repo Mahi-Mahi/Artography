@@ -1,7 +1,7 @@
 {
   "id": "242780",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:40:11",
+  "timestamp": "2014-05-24 07:39:37",
   "name": "Jean-Baptiste Maître",
   "surname": "Maître",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "29734",
-  "r01": "28664",
-  "r02": "33390",
-  "r03": "45216",
-  "r04": "59769",
-  "r05": "59091",
-  "r06": null,
+  "r00": "14701",
+  "r01": "21913",
+  "r02": "22188",
+  "r03": "27448",
+  "r04": "38644",
+  "r05": "53236",
+  "r06": "52945",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -31,9 +31,9 @@
   "all-shows-total": "15",
   "2005-shows-biennials": "10",
   "2005-shows-galleries": "10",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "Netherlands (6), France (4), Belgium (2), Germany (1), Italy (1)",
-  "2005-shows-with": "Jean-Baptiste Maître (10)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "Netherlands (6), France (4), Belgium (2), Italy (2), Germany (1), Switzerland (1), USA (1)",
+  "2005-shows-with": "Jean-Baptiste Maître (13)",
   "representing-galleries": "Anyspace Gallery (59 rue Van Eyck, 1050 Brussels, Belgium); GMVZ - Galerie Martin van Zomeren (Prinsengracht 276 hs, 1016 HJ Amsterdam, Netherlands)",
   "collecting-museums": null,
   "first_name": "Jean-Baptiste",
@@ -44,6 +44,14 @@
   "age_range": "26-40",
   "expos": {
     "2008": [
+      {
+        "i": "242780-4201-2008-05-08",
+        "c": "FR"
+      },
+      {
+        "i": "242780-4201-2008-05-08",
+        "c": "FR"
+      },
       {
         "i": "242780-596-2008-10-07",
         "c": "NL",
@@ -71,6 +79,14 @@
           "2008-10-07",
           "2009-01-25"
         ]
+      },
+      {
+        "i": "242780-2037-2009-11-12",
+        "c": "FR"
+      },
+      {
+        "i": "242780-2037-2009-11-12",
+        "c": "FR"
       },
       {
         "i": "242780-3232-2009-11-14",
@@ -125,6 +141,14 @@
           "2010-02-26",
           "2010-04-10"
         ]
+      },
+      {
+        "i": "242780-4205-2010-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "242780-4205-2010-07-06",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -169,6 +193,14 @@
       }
     ],
     "2012": [
+      {
+        "i": "242780-8241-2012-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "242780-8241-2012-10-13",
+        "c": "FR"
+      },
       {
         "i": "242780-3282-2012-11-30",
         "c": "NL",

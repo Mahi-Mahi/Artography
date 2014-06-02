@@ -1,7 +1,7 @@
 {
   "id": "56819",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:26:59",
+  "timestamp": "2014-05-24 06:36:03",
   "name": "Sylvie Auvray",
   "surname": "Auvray",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "7540",
-  "r01": "10778",
-  "r02": "10074",
-  "r03": "10154",
-  "r04": "17219",
-  "r05": "15880",
-  "r06": "14160",
-  "r07": "30342",
-  "r08": "31639",
+  "r00": "6157",
+  "r01": "5991",
+  "r02": "9322",
+  "r03": "8311",
+  "r04": "8288",
+  "r05": "15692",
+  "r06": "13984",
+  "r07": "11991",
+  "r08": "28212",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "18",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
+  "all-shows-total": "19",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
   "2005-shows-museums": "5",
-  "2005-countries-total": "France (9), Switzerland (2), Luxembourg (1)",
-  "2005-shows-with": "Sylvie Auvray (9), John M Armleder (4), Konstantin Grcic (3), Didier Marcel (3), Anita Molinero (3), Ron Arad (2), Andrea Branzi (2), Tony Brown (2), Pierre Charpin (2), David Chieppo (2), Johanna Grawunder (2), Jongsung Jo (2), Michele de Lucchi (2), Alessandro Mendini (2), Carlo Mollino (2), Aldo Rossi (2), Denis Santachiara (2), Cindy Sherman (2), Peter Shire (2), Tamuna Sirbiladze (2), Ettore Sottsass (2), Jacques Tati (2), Bert Theis (2), Franz West (2)",
+  "2005-countries-total": "France (9), Switzerland (2), Luxembourg (1), USA (1)",
+  "2005-shows-with": "Sylvie Auvray (10), John M Armleder (4), Konstantin Grcic (3), Didier Marcel (3), Anita Molinero (3), Cindy Sherman (3), Caroline Achaintre (2), Ron Arad (2), Andrea Branzi (2), Tony Brown (2), Pierre Charpin (2), David Chieppo (2), Rachel Feinstein (2), Johanna Grawunder (2), Jongsung Jo (2), Michele de Lucchi (2), Alessandro Mendini (2), Carlo Mollino (2), Aldo Rossi (2), Denis Santachiara (2), Peter Shire (2), Tamuna Sirbiladze (2), Ettore Sottsass (2), Jacques Tati (2), Bert Theis (2), Franz West (2)",
   "representing-galleries": "galerie ColletPark (203bis rue saint martin, 75003 Paris, France)",
   "collecting-museums": "MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg)",
   "first_name": "Sylvie",
@@ -43,7 +43,35 @@
   "age": 40,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "56819-4165-2005-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "56819-4165-2005-07-08",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "56819-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "56819-12314-2006-11-17",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "56819-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "56819-16095-2007-05-11",
+        "c": "FR"
+      },
       {
         "i": "56819-2226-2007-07-07",
         "c": "US",
@@ -56,6 +84,34 @@
           "2007-07-07",
           "2007-08-11"
         ]
+      },
+      {
+        "i": "56819-8282-2007-12-12",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "56819-8282-2007-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "56819-7835-2008-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "56819-7835-2008-03-08",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "56819-9947-2009-09-01",
+        "c": "FR"
+      },
+      {
+        "i": "56819-9947-2009-09-01",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -71,9 +127,59 @@
           "2010-01-30",
           "2010-05-23"
         ]
+      },
+      {
+        "i": "56819-7835-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "56819-7835-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "56819-8121-2010-07-11",
+        "c": "FR"
+      },
+      {
+        "i": "56819-8121-2010-07-11",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "56819-8121-2011-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "56819-8121-2011-06-09",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "56819-7835-2012-01-02",
+        "c": "FR"
+      },
+      {
+        "i": "56819-7835-2012-01-02",
+        "c": "FR"
+      },
+      {
+        "i": "56819-4194-2012-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "56819-4194-2012-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "56819-7835-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "56819-7835-2012-09-08",
+        "c": "FR"
+      },
       {
         "i": "56819-3506-2012-10-20",
         "c": "CH",
@@ -101,6 +207,14 @@
           "2013-02-20",
           "2013-05-05"
         ]
+      },
+      {
+        "i": "56819-1522-2013-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "56819-1522-2013-04-19",
+        "c": "FR"
       }
     ]
   }

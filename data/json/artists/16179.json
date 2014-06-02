@@ -1,7 +1,7 @@
 {
   "id": "16179",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:46",
+  "timestamp": "2014-05-24 06:21:21",
   "name": "Philippe Lepeut",
   "surname": "Lepeut",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "67772",
-  "r01": "78641",
-  "r02": "72968",
-  "r03": "66504",
-  "r04": "81899",
-  "r05": "73628",
-  "r06": "64906",
-  "r07": "56773",
-  "r08": "48006",
+  "r00": "35497",
+  "r01": "57966",
+  "r02": "82950",
+  "r03": "78190",
+  "r04": "72984",
+  "r05": null,
+  "r06": "92188",
+  "r07": "77959",
+  "r08": "65746",
   "awards": null,
   "website": null,
   "all-shows-first": "1987",
   "all-shows-total": "6",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (2), Switzerland (1)",
-  "2005-shows-with": "Philippe Lepeut (3), Jean-Marc Bustamante (2), Marie Prunier (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (3), Switzerland (1)",
+  "2005-shows-with": "Philippe Lepeut (4), Jean-Marc Bustamante (2), Charles Mason (2), Marie Prunier (2), Daniel Schlier (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France)",
   "first_name": "Philippe",
@@ -56,6 +56,26 @@
           "2010-05-06",
           "2010-06-20"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "16179-7912-2013-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "16179-7912-2013-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "16179-20775-2013-10-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "16179-20775-2013-10-20",
+        "c": "FR"
       }
     ]
   }

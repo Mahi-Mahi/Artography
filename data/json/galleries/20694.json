@@ -16,6 +16,12 @@
   "fairs-abroad": "4",
   "fairs-in-FR": "2",
   "fairs": {
+    "2009": [
+      {
+        "i": "20694-cutlog",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "20694-JustMadrid",
@@ -28,6 +34,10 @@
         "c": "US",
         "n": "Scope Basel 2010",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "20694-SLICK 2010",
+        "c": "FR"
       }
     ],
     "2011": [

@@ -16,12 +16,22 @@
   "fairs-abroad": "2",
   "fairs-in-FR": "2",
   "fairs": {
+    "2012": [
+      {
+        "i": "27216-Fiac 2012",
+        "c": "FR"
+      }
+    ],
     "2013": [
       {
         "i": "27216-Art Rotterdam 2013",
         "c": "NL",
         "n": "Art Rotterdam 2013",
         "ct": "Rotterdam"
+      },
+      {
+        "i": "27216-Art-O-Rama 2013",
+        "c": "FR"
       },
       {
         "i": "27216-ArtRio 2013",

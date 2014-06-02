@@ -1,7 +1,7 @@
 {
   "id": "37806",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:19:14",
+  "timestamp": "2014-05-24 06:29:17",
   "name": "Babette Mangolte",
   "surname": "Mangolte",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Film",
-  "r00": "2185",
-  "r01": "2522",
-  "r02": "2349",
-  "r03": "2621",
-  "r04": "3505",
-  "r05": "3553",
-  "r06": "6081",
-  "r07": "24624",
-  "r08": "19838",
+  "r00": "1660",
+  "r01": "1781",
+  "r02": "2018",
+  "r03": "1805",
+  "r04": "2067",
+  "r05": "2824",
+  "r06": "2825",
+  "r07": "5134",
+  "r08": "27396",
   "awards": null,
-  "website": null,
+  "website": "www.babettemangolte.com",
   "all-shows-first": "1977",
-  "all-shows-total": "48",
-  "2005-shows-biennials": "11",
-  "2005-shows-galleries": "11",
-  "2005-shows-museums": "12",
-  "2005-countries-total": "USA (11), Germany (9), United Kingdom (4), Austria (1), Canada (1), Croatia (1), France (1), Greece (1), Israel (1), Italy (1), Poland (1), Sweden (1), Switzerland (1)",
-  "2005-shows-with": "Babette Mangolte (30), Yvonne Rainer (6), Trisha Brown (4), Joan Jonas (4), Bruce Nauman (4), Kelly Nipper (4), Martha Rosler (4), Stuart Sherman (4), Andy Warhol (4), Valie  Export (3), Mike Kelley (3), Robert Morris (3), Mai-Thu Perret (3), Robert Rauschenberg (3), Carolee Schneemann (3), Robert Smithson (3), Alina Szapocznikow (3), Piotr Uklanski (3), Vito Acconci (2), Carl Andre (2), Richard Artschwager (2), Michel Auder (2), Serge Baghdassarians & Boris Baltschun (2), Jérôme Bel (2), Guy Ben-Ner (2), Joseph Beuys (2), Rossella Biscotti (2), Alighiero Boëtti (2), Matthew Buckingham (2), Christoph Büchel (2), John Cage (2), Maurizio Cattelan (2), Marc Camille Chaimowicz (2), René Clair (2), Phil Collins (2), Daniel Gustav Cramer (2), Willie Doherty (2), Jimmie Durham (2), William Eggleston (2), Olafur Eliasson (2), Haris Epaminonda (2), William Forsythe (2), Simone Forti (2), Hollis Frampton (2), Dora García (2), Andrea Geyer (2), Kate Gilmore (2), Dan Graham (2), Nancy Graves (2), Richard Hamilton (",
+  "all-shows-total": "53",
+  "2005-shows-biennials": "12",
+  "2005-shows-galleries": "12",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "USA (11), Germany (8), United Kingdom (4), Israel (2), Switzerland (2), Austria (1), Canada (1), Croatia (1), France (1), Greece (1), Italy (1), Mexico (1), Poland (1), Sweden (1)",
+  "2005-shows-with": "Babette Mangolte (32), Yvonne Rainer (7), Trisha Brown (4), Joan Jonas (4), Mike Kelley (4), Bruce Nauman (4), Kelly Nipper (4), Martha Rosler (4), Andy Warhol (4), Valie  Export (3), Dan Graham (3), Robert Morris (3), Mai-Thu Perret (3), Robert Rauschenberg (3), Carolee Schneemann (3), Stuart Sherman (3), Robert Smithson (3), Alina Szapocznikow (3), Piotr Uklanski (3), Vito Acconci (2), Carl Andre (2), Eleanor Antin (2), Richard Artschwager (2), Michel Auder (2), Jérôme Bel (2), Guy Ben-Ner (2), Joseph Beuys (2), Rossella Biscotti (2), Alighiero Boëtti (2), Matthew Buckingham (2), Christoph Büchel (2), John Cage (2), Maurizio Cattelan (2), Marc Camille Chaimowicz (2), René Clair (2), Phil Collins (2), Daniel Gustav Cramer (2), Willie Doherty (2), Jimmie Durham (2), William Eggleston (2), Olafur Eliasson (2), Haris Epaminonda (2), William Forsythe (2), Simone Forti (2), Hollis Frampton (2), Dora García (2), Andrea Geyer (2), Kate Gilmore (2), Nancy Graves (2), Richard Hamilton (2), Raoul Hausmann (2), S",
   "representing-galleries": "Broadway 1602 (1182 Broadway Apt. 1602, 10001 New York City, NY, USA)",
   "collecting-museums": null,
   "first_name": "Babette",
@@ -492,6 +492,10 @@
         ]
       },
       {
+        "i": "37806-2219-2011-11-23",
+        "c": "FR"
+      },
+      {
         "i": "37806-7427-2011-11-27",
         "c": "AT",
         "n": "Zeit zu handeln!",
@@ -518,6 +522,10 @@
           "2011-11-18",
           "2012-01-17"
         ]
+      },
+      {
+        "i": "37806-2219-2011-11-23",
+        "c": "FR"
       },
       {
         "i": "37806-7427-2011-11-27",

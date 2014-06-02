@@ -1,7 +1,7 @@
 {
   "id": "14076",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:08:50",
+  "timestamp": "2014-05-24 06:20:31",
   "name": "Didier Courbot",
   "surname": "Courbot",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Sculpture",
-  "r00": "6736",
-  "r01": "6154",
-  "r02": "5635",
-  "r03": "6192",
-  "r04": "5672",
-  "r05": "4864",
-  "r06": "4062",
-  "r07": "4154",
-  "r08": "3615",
+  "r00": "9410",
+  "r01": "9556",
+  "r02": "8209",
+  "r03": "6871",
+  "r04": "7957",
+  "r05": "6973",
+  "r06": "5484",
+  "r07": "4192",
+  "r08": "4282",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "46",
+  "all-shows-total": "48",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (10), Canada (3), Czech Republic (2), Japan (1), Russia (1)",
-  "2005-shows-with": "Didier Courbot (14), Philippe Cazal (2), Marcel Dinahet (2), Pierre Filliquet (2), Francesco Finizio (2), Dora García (2), Thomas Hirschhorn (2), Patrick Howlett (2), Jan Kopp (2), Axel Lieber (2), Fernande Petitdemange (2), Didier Rittener (2), Peter Rösel (2), Jean-Michel Sanejouand (2), Kristina Solomoukha (2), Lawrence Weiner (2)",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (11), Canada (3), Czech Republic (2), Japan (1), Russia (1)",
+  "2005-shows-with": "Didier Courbot (15), Jean-Marc Bustamante (2), Philippe Cazal (2), Marcel Dinahet (2), Pierre Filliquet (2), Francesco Finizio (2), Dora García (2), Eric Hattan (2), Thomas Hirschhorn (2), Patrick Howlett (2), Jan Kopp (2), Axel Lieber (2), Marylène Negro (2), Bruno Peinado (2), Fernande Petitdemange (2), Julien Prévieux (2), Sophie Ristelhueber (2), Didier Rittener (2), Peter Rösel (2), Jean-Michel Sanejouand (2), Kristina Solomoukha (2), herman de vries (2), Eric Watier (2), Lawrence Weiner (2)",
   "representing-galleries": "Susan Hobbs Gallery (137 Tecumseth Street, M6J 2H2 Toronto, ON, Canada); SCAI the Bathhouse (Kashiwayu-Ato, 6-1-23 Yanaka, Taito-ku, 110-0001 Tokyo, Japan)",
   "collecting-museums": "Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France)",
   "first_name": "Didier",
@@ -44,6 +44,22 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "14076-1620-2005-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "14076-1620-2005-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "14076-1620-2005-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "14076-1620-2005-05-28",
+        "c": "FR"
+      },
       {
         "i": "14076-4920-2005-09-28",
         "c": "JP",
@@ -83,9 +99,25 @@
           "2006-06-14",
           "2006-08-06"
         ]
+      },
+      {
+        "i": "14076-9061-2006-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "14076-9061-2006-07-01",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "14076-1620-2007-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "14076-1620-2007-01-13",
+        "c": "FR"
+      },
       {
         "i": "14076-6900-2007-03-23",
         "c": "CY",
@@ -165,9 +197,33 @@
           "2008-06-26",
           "2008-08-09"
         ]
+      },
+      {
+        "i": "14076-18613-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "14076-18613-2008-11-08",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "14076-7912-2010-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "14076-7912-2010-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "14076-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "14076-21802-2010-04-30",
+        "c": "FR"
+      },
       {
         "i": "14076-7884-2010-07-08",
         "c": "CA",
@@ -180,9 +236,21 @@
           "2010-07-08",
           "2010-08-21"
         ]
+      },
+      {
+        "i": "14076-23091-2010-12-12",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "14076-24154-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "14076-24154-2011-05-07",
+        "c": "FR"
+      },
       {
         "i": "14076-9037-2011-08-10",
         "c": "CZ",
@@ -210,6 +278,14 @@
         ]
       },
       {
+        "i": "14076-2351-2011-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "14076-23091-2010-12-12",
+        "c": "FR"
+      },
+      {
         "i": "14076-7884-2011-10-27",
         "c": "CA",
         "n": "Didier Courbot",
@@ -225,6 +301,10 @@
     ],
     "2012": [
       {
+        "i": "14076-2351-2011-09-21",
+        "c": "FR"
+      },
+      {
         "i": "14076-13316-2012-01-24",
         "c": "CZ",
         "n": "Monochrom",
@@ -236,9 +316,25 @@
           "2012-01-24",
           "2012-02-29"
         ]
+      },
+      {
+        "i": "14076-11586-2012-10-19",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "14076-11586-2012-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "14076-28739-2013-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "14076-28739-2013-03-08",
+        "c": "FR"
+      },
       {
         "i": "14076-1983-2013-07-02",
         "c": "JP",
@@ -251,6 +347,26 @@
           "2013-07-02",
           "2013-08-02"
         ]
+      },
+      {
+        "i": "14076-20775-2013-10-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "14076-20775-2013-10-20",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "14076-18613-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "14076-18613-2009-10-17",
+        "c": "FR"
       }
     ]
   }

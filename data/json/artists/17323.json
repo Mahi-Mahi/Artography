@@ -1,7 +1,7 @@
 {
   "id": "17323",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:21",
+  "timestamp": "2014-05-24 06:21:49",
   "name": "Caroline Achaintre",
   "surname": "Achaintre",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Female",
   "media": "Works on Paper",
-  "r00": "6981",
-  "r01": "7429",
-  "r02": "8941",
-  "r03": "8731",
-  "r04": "11826",
-  "r05": "11486",
-  "r06": "10876",
-  "r07": "9855",
-  "r08": "13807",
+  "r00": "4637",
+  "r01": "5090",
+  "r02": "6268",
+  "r03": "8341",
+  "r04": "7886",
+  "r05": "11665",
+  "r06": "11102",
+  "r07": "10173",
+  "r08": "8973",
   "awards": null,
   "website": "www.carolineachaintre.com",
   "all-shows-first": "2001",
-  "all-shows-total": "47",
-  "2005-shows-biennials": "12",
-  "2005-shows-galleries": "12",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "United Kingdom (16), Germany (4), Norway (2), Canada (1), Ireland (Republic) (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Caroline Achaintre (22), Jonathan Baldock (2), Anna Barham (2), Alice Channer (2), Karl Larsson (2), Laura Oldfield Ford (2), Mai-Thu Perret (2), Clunie Reid (2), George Young (2)",
-  "representing-galleries": "Galerie Mirko Mayer / m-projects (An der Schanz 1, 50735 Cologne, Germany); Arcade Fine Arts (87 Lever Street, EC1V 3RA London (England), United Kingdom)",
-  "collecting-museums": "The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London (England), United Kingdom)",
+  "all-shows-total": "51",
+  "2005-shows-biennials": "14",
+  "2005-shows-galleries": "14",
+  "2005-shows-museums": "11",
+  "2005-countries-total": "United Kingdom (18), Germany (4), France (2), Norway (2), USA (2), Canada (1), Ireland (Republic) (1), Switzerland (1)",
+  "2005-shows-with": "Caroline Achaintre (26), Mai-Thu Perret (3), Sylvie Auvray (2), Jonathan Baldock (2), Anna Barham (2), Guidette Carbonell (2), Alice Channer (2), Isabelle Cornaro (2), Alexandre da Cunha (2), Dewar & Gicquel (2), Jess Flood-Paddock (2), Elsie Giauque (2), Karl Larsson (2), Laura Oldfield Ford (2), Clunie Reid (2), Lynette Yiadom-Boakye (2), George Young (2)",
+  "representing-galleries": "Galerie Mirko Mayer / m-projects (An der Schanz 1, 50735 Cologne, Germany); Arcade Fine Arts (87 Lever Street, EC1V 3RA London, United Kingdom)",
+  "collecting-museums": "The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London, United Kingdom)",
   "first_name": "Caroline",
   "last_name": "Achaintre",
   "genre": "f",
@@ -43,6 +43,29 @@
   "age": 45,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "17323-1917-2005-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "17323-1917-2005-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "17323-11489-2005-10-12",
+        "c": "GB",
+        "n": "Caroline Achaintre",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "London (England)",
+        "o": "The Showroom",
+        "d": [
+          "2005-10-12",
+          "2005-11-20"
+        ]
+      }
+    ],
     "2006": [
       {
         "i": "17323-11489-2006-03-28",
@@ -108,6 +131,14 @@
           "2006-05-26",
           "2006-09-24"
         ]
+      },
+      {
+        "i": "17323-946-2006-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "17323-946-2006-06-29",
+        "c": "FR"
       },
       {
         "i": "17323-7016-2006-09-08",
@@ -549,21 +580,6 @@
         "d": [
           "2013-03-01",
           "2013-05-04"
-        ]
-      }
-    ],
-    "2005": [
-      {
-        "i": "17323-11489-2005-10-12",
-        "c": "GB",
-        "n": "Caroline Achaintre",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "London (England)",
-        "o": "The Showroom",
-        "d": [
-          "2005-10-12",
-          "2005-11-20"
         ]
       }
     ]

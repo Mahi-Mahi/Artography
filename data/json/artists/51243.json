@@ -1,7 +1,7 @@
 {
   "id": "51243",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:24:38",
+  "timestamp": "2014-05-24 06:34:05",
   "name": "Invader",
   "surname": "Invader",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "8928",
-  "r01": "8383",
-  "r02": "8551",
-  "r03": "8018",
-  "r04": "7441",
-  "r05": "13902",
-  "r06": "13403",
-  "r07": "17031",
-  "r08": "16970",
+  "r00": "8989",
+  "r01": "8515",
+  "r02": "7580",
+  "r03": "7580",
+  "r04": "6854",
+  "r05": "6152",
+  "r06": "12608",
+  "r07": "11802",
+  "r08": "16193",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "39",
-  "2005-shows-biennials": "16",
-  "2005-shows-galleries": "16",
+  "all-shows-total": "41",
+  "2005-shows-biennials": "17",
+  "2005-shows-galleries": "17",
   "2005-shows-museums": "11",
-  "2005-countries-total": "France (9), United Kingdom (5), USA (5), Germany (4), China (1), Denmark (1), Finland (1), Luxembourg (1), Slovenia (1), South Korea (1)",
-  "2005-shows-with": "Invader (26), Shepard Fairey (8), JonOne (7), ZEVS (6), Victor Ash (5), Blu (5), Futura2000 (5), Miss Van (5), Jef Aerosol (4), Blek Le Rat (4), JR (4), Miss.Tic (4), Banksy (3), David Choe (3), FAILE (3), Conor Harrington (3), Todd James (3), L\\'Atlas (3), Lucy McLauchlan (3), Antony Micallef (3), Mist (3), Mode 2 (3), Nunca (3), Os Gemeos (3), Quik (3), Seen (3), Swoon (3), TANC (3), Jonathan Yeo (3), Gary Baseman (2), Philippe Baudelocque (2), Bujahuli (2), Ray Caesar (2), Fernando Carlo Jr. (2), Dalek (2), The Date Farmers (2), Dem189 (2), Stephan Doitschinoff (2), Miranda Donovan (2), Marcel Duchamp (2), David Ellis (2), Ruud van Empel (2), Gilbert & George (2), Sozyone Gonzalez (2), Christian Guémy (2), Ikon (2), Paul Insect (2), Charlie Isoe (2), Mark Jenkins (2), Ludo (2), m-city (2), Otto Maja (2), Mambo (2), John Matos (2), Barry McGee (2), Mentalgassi (2), Joàn Miró (2), Polly Morgan (2), Mark Newton (2), José Parla (2), Pablo Picasso (2), Popay (2), Psyckoze (2), Mirko Reisser (2), RESO (2), M",
-  "representing-galleries": "Galerie Le Feuvre (6, rue de Mirosmesnil, 75008  Paris, France); Lazarides Gallery (11 Rathbone Place, W1T 1HR London (England), United Kingdom); Sixspace (5803 Washington Boulevard, 90232 Culver City, CA, USA)",
+  "2005-countries-total": "France (10), United Kingdom (5), USA (5), Germany (4), China (1), Denmark (1), Finland (1), Luxembourg (1), Norway (1), Slovenia (1), South Korea (1)",
+  "2005-shows-with": "Invader (28), Shepard Fairey (10), Vhils (8), JonOne (7), Blu (6), ZEVS (6), Victor Ash (5), Banksy (5), Blek Le Rat (5), Futura2000 (5), JR (5), Miss Van (5), Swoon (5), Jef Aerosol (4), David Choe (4), L\\'Atlas (4), Miss.Tic (4), Os Gemeos (4), The Date Farmers (3), FAILE (3), Christian Guémy (3), Conor Harrington (3), Todd James (3), Mark Jenkins (3), Ludo (3), m-city (3), Barry McGee (3), Lucy McLauchlan (3), Antony Micallef (3), Mist (3), Mode 2 (3), Nunca (3), José Parla (3), Quik (3), Seen (3), TANC (3), Jonathan Yeo (3), Gary Baseman (2), Philippe Baudelocque (2), Bujahuli (2), Ray Caesar (2), Fernando Carlo Jr. (2), Martha Cooper (2), Dalek (2), Dem189 (2), Stephan Doitschinoff (2), DOLK (2), Miranda Donovan (2), Marcel Duchamp (2), EINE (2), David Ellis (2), Ruud van Empel (2), Gilbert & George (2), Sozyone Gonzalez (2), Ikon (2), Paul Insect (2), Charlie Isoe (2), KAWS (2), Otto Maja (2), Mambo (2), John Matos (2), Mentalgassi (2), Joàn Miró (2), Polly Morgan (2), Mark Newton (2), Pablo Picasso",
+  "representing-galleries": "Alice Gallery (182, rue Antoine Dansaert - Antoine Dansaertstraat, 1000 Brussels, Belgium); Galerie Le Feuvre (6, rue de Mirosmesnil, 75008  Paris, France); Lazarides Gallery (11 Rathbone Place, W1T 1HR London, United Kingdom); Sixspace (5803 Washington Boulevard, 90232 Culver City, CA, USA)",
   "collecting-museums": null,
   "first_name": "Invader",
   "last_name": "",
@@ -43,6 +43,24 @@
   "age": 45,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "51243-5450-2005-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "51243-5450-2005-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "51243-2094-2005-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "51243-2094-2005-03-24",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "51243-2410-2006-09-27",
@@ -73,6 +91,10 @@
         ]
       },
       {
+        "i": "51243-10247-2007-07-02",
+        "c": "FR"
+      },
+      {
         "i": "51243-4492-2007-12-01",
         "c": "US",
         "n": "The Streets Of Europe",
@@ -100,6 +122,10 @@
       }
     ],
     "2008": [
+      {
+        "i": "51243-10247-2007-07-02",
+        "c": "FR"
+      },
       {
         "i": "51243-3853-2008-12-05",
         "c": "GB",
@@ -129,6 +155,14 @@
         ]
       },
       {
+        "i": "51243-17765-2009-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "51243-17765-2009-04-03",
+        "c": "FR"
+      },
+      {
         "i": "51243-10665-2009-05-15",
         "c": "GB",
         "n": "Grow Up",
@@ -155,6 +189,14 @@
         ]
       },
       {
+        "i": "51243-23586-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "51243-23586-2009-07-04",
+        "c": "FR"
+      },
+      {
         "i": "51243-12976-2009-09-04",
         "c": "SI",
         "n": "28th Biennial of Graphic Arts",
@@ -165,6 +207,14 @@
           "2009-09-04",
           "2009-10-25"
         ]
+      },
+      {
+        "i": "51243-1829-2009-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "51243-1829-2009-09-08",
+        "c": "FR"
       },
       {
         "i": "51243-21348-2009-09-30",
@@ -178,6 +228,14 @@
           "2009-09-30",
           "2009-11-25"
         ]
+      },
+      {
+        "i": "51243-2090-2009-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "51243-2090-2009-10-24",
+        "c": "FR"
       },
       {
         "i": "51243-10665-2009-12-03",
@@ -314,6 +372,14 @@
         ]
       },
       {
+        "i": "51243-13886-2011-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "51243-13886-2011-01-20",
+        "c": "FR"
+      },
+      {
         "i": "51243-30513-2011-04-17",
         "c": "DE",
         "n": "UrbanArt Graffiti 21",
@@ -338,9 +404,25 @@
           "2011-05-07",
           "2011-06-24"
         ]
+      },
+      {
+        "i": "51243-2090-2011-12-10",
+        "c": "FR"
+      },
+      {
+        "i": "51243-13886-2011-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "51243-13886-2011-06-07",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "51243-2090-2011-12-10",
+        "c": "FR"
+      },
       {
         "i": "51243-8521-2012-02-10",
         "c": "FI",
@@ -353,6 +435,14 @@
           "2012-02-10",
           "2012-05-27"
         ]
+      },
+      {
+        "i": "51243-13886-2012-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "51243-13886-2012-05-24",
+        "c": "FR"
       },
       {
         "i": "51243-3113-2012-09-07",
@@ -419,6 +509,14 @@
           "2013-05-25",
           "2013-10-27"
         ]
+      },
+      {
+        "i": "51243-2090-2013-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "51243-2090-2013-06-22",
+        "c": "FR"
       }
     ]
   }

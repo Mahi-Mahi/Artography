@@ -16,12 +16,40 @@
   "fairs-abroad": "1",
   "fairs-in-FR": "5",
   "fairs": {
+    "2005": [
+      {
+        "i": "4212-Fiac 2005",
+        "c": "FR"
+      }
+    ],
     "2006": [
+      {
+        "i": "4212-Show Off Paris 2006",
+        "c": "FR"
+      },
       {
         "i": "4212-Estampa 2006",
         "c": "ES",
         "n": "Estampa 2006",
         "ct": "Madrid"
+      }
+    ],
+    "2007": [
+      {
+        "i": "4212-ArtParis 07",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "4212-ArtParis 08",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "4212-ArtParis 09",
+        "c": "FR"
       }
     ]
   }

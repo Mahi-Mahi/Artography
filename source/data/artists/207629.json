@@ -1,7 +1,7 @@
 {
   "id": "207629",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:26:44",
+  "timestamp": "2014-05-24 07:27:35",
   "name": "Jean-Francois Guillon",
   "surname": "Guillon",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "67865",
-  "r01": "64690",
-  "r02": "80786",
-  "r03": "76162",
-  "r04": "79597",
-  "r05": "73117",
-  "r06": "68732",
-  "r07": "60798",
-  "r08": "52375",
+  "r00": "62999",
+  "r01": "63189",
+  "r02": "59196",
+  "r03": "81489",
+  "r04": "77027",
+  "r05": "83064",
+  "r06": "75251",
+  "r07": "70559",
+  "r08": "61354",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "9",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "10",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (7)",
-  "2005-shows-with": "Jean-Francois Guillon (4), Armelle Caron (2), Philippe Cazal (2), Sandra Foltz (2), Olivier Nerry (2), Laurent Sfar (2)",
+  "2005-countries-total": "France (8)",
+  "2005-shows-with": "Jean-Francois Guillon (5), Armelle Caron (2), Philippe Cazal (2), Sandra Foltz (2), Olivier Nerry (2), Laurent Sfar (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Jean-Francois",
@@ -43,5 +43,81 @@
   "age": 49,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "207629-28954-2005-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "207629-28954-2005-06-11",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "207629-21710-2009-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "207629-13472-2008-11-25",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "207629-21710-2009-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "207629-4042-2010-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "207629-4042-2010-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "207629-22625-2010-01-09",
+        "c": "FR"
+      },
+      {
+        "i": "207629-22625-2010-01-09",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "207629-22625-2011-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "207629-22625-2011-11-05",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "207629-28954-2012-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "207629-28954-2012-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "207629-28001-2012-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "207629-28001-2012-05-11",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "207629-13472-2008-11-25",
+        "c": "FR"
+      }
+    ]
   }
 }

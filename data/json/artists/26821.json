@@ -1,7 +1,7 @@
 {
   "id": "26821",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:14:31",
+  "timestamp": "2014-05-24 06:25:17",
   "name": "George Dupin",
   "surname": "Dupin",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "26750",
-  "r01": "28503",
-  "r02": "27549",
-  "r03": "24210",
-  "r04": "24199",
-  "r05": "26768",
-  "r06": "22437",
-  "r07": "18470",
-  "r08": "17025",
+  "r00": "24248",
+  "r01": "23178",
+  "r02": "25399",
+  "r03": "23883",
+  "r04": "19593",
+  "r05": "20449",
+  "r06": "34012",
+  "r07": "25985",
+  "r08": "19900",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "13",
+  "all-shows-total": "15",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (2), Switzerland (2), Brazil (1)",
-  "2005-shows-with": "George Dupin (5), Jean-Marc Bustamante (2), Stéphane Couturier (2), Anne-Marie Filaire (2), Vincent Fournier (2), Sherrie Levine (2), Sophie Ristelhueber (2)",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (3), Switzerland (3), Brazil (1)",
+  "2005-shows-with": "George Dupin (7), Sherrie Levine (4), Collectif 1m3 (3), Donald Alberti (3), Carl Andre (3), John M Armleder (3), Richard Artschwager (3), Francis Baudevin (3), Ford Beckman (3), Alexandre Bianchini (3), Dike Blair (3), Gavin Brown (3), Neil Campbell (3), Michael Corris (3), Mark Dagley (3), Steve DiBenedetto (3), John Dogg (3), Gretchen Faust (3), Helmut Federle (3), Sylvie Fleury (3), Roland Flexner (3), Christian Floquet (3), Vincent Fournier (3), Fritz Glarner (3), Janine Gordon (3), Amy Granat (3), Timothy Greenfield-Sanders (3), Marcia Hafif (3), Peter Halley (3), Nicole Hassler (3), IFP (3), Michael Jenkins (3), Kyle Jenkins (3), Donald Judd (3), Allan Kaprow (3), Ben Kinmont (3), Serge Kliaving (3), Joseph Kosuth (3), Stéphane Kropf (3), Alix Lambert (3), Louise Lawler (3), Ange Leccia (3), Sol LeWitt (3), Christian Marclay (3), Matthew McCaslin (3), Allan McCollum (3), Cady Noland (3), Not Vital (3), Steven Parrino (3), Laurie Parsons (3), Gilles Porret (3), Christian Robert-Tissot (3), Gerwald Rock",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France)",
   "first_name": "George",
@@ -58,6 +58,16 @@
         ]
       }
     ],
+    "2006": [
+      {
+        "i": "26821-10517-2006-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "26821-10517-2006-03-29",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "26821-3829-2009-11-14",
@@ -71,6 +81,10 @@
           "2009-11-14",
           "2010-03-14"
         ]
+      },
+      {
+        "i": "26821-10519-2009-12-12",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -88,6 +102,10 @@
         ]
       },
       {
+        "i": "26821-10519-2009-12-12",
+        "c": "FR"
+      },
+      {
         "i": "26821-5638-2010-03-21",
         "c": "CH",
         "n": "Portrait de l’artiste en motocycliste",
@@ -101,7 +119,17 @@
         ]
       }
     ],
+    "2012": [
+      {
+        "i": "26821-26739-2012-10-05",
+        "c": "FR"
+      }
+    ],
     "2013": [
+      {
+        "i": "26821-26739-2012-10-05",
+        "c": "FR"
+      },
       {
         "i": "26821-12812-2013-06-05",
         "c": "CH",

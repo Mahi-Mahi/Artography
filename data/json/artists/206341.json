@@ -1,7 +1,7 @@
 {
   "id": "206341",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:26:14",
+  "timestamp": "2014-05-24 07:27:09",
   "name": "Bertille Bak",
   "surname": "Bak",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video, Installation, Drawings",
-  "r00": "4370",
-  "r01": "5950",
-  "r02": "15176",
-  "r03": "15500",
-  "r04": "19165",
-  "r05": "59822",
-  "r06": null,
+  "r00": "2437",
+  "r01": "2928",
+  "r02": "4042",
+  "r03": "10889",
+  "r04": "10752",
+  "r05": "12903",
+  "r06": "54525",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "27",
+  "all-shows-total": "29",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "14",
-  "2005-countries-total": "France (14), Germany (2), Spain (2), Canada (1), Greece (1), Italy (1), Portugal (1), Turkey (1), United Kingdom (1), Uruguay (1)",
-  "2005-shows-with": "Bertille Bak (20), Jeremy Deller (4), Florian Pugnaire (3), Jorge Satorre (3), Adel Abdessemed (2), Gabriel  Abrantes (2), Lara Almárcegui (2), El Anatsui (2), Yto Barrada (2), Yael Bartana (2), Bernd & Hilla Becher (2), Anca Benera (2), Johanna Billing (2), Céleste Boursier-Mougenot (2), Mircea Cantor (2), Cao Fei (2), Jean-Marc Chapoulie (2), Isabelle Cornaro (2), Benjamin Crotty (2), Bertrand Dezoteux (2), Clorinde Durand (2), Jimmie Durham (2), Arnold Estefan (2), Fischli & Weiss (2), Joana Hadjithomas & Khalil Joreige (2), Camille Henrot (2), Louise Hervé & Chloé Maillet (2), Thomas Hirschhorn (2), Mike Kelley (2), Hassan Khan (2), Vincent Loubere (2), Basim Magdy (2), Angelica Mesiti (2), Jean-Luc Moulène (2), Bruce Nauman (2), Oda Projesi (2), Gaël Peltier (2), Adrian Piper (2), Philippe Ramette (2), Raumlabor (2), Nadin Reschke-Kindlimann (2), Jean Rouch (2), Denis Savary (2), Hito Steyerl (2), Javier Téllez (2), Guy Tillim (2), Tatiana Trouvé (2), Tamara de Wehr (2)",
-  "representing-galleries": "Galerie Xippas France (108, rue Vieille du Temple, 75003 Paris, France); Nettie Horn (, E2 9DG London (England), United Kingdom)",
+  "2005-shows-museums": "17",
+  "2005-countries-total": "France (16), Germany (2), Spain (2), United Kingdom (2), Canada (1), Greece (1), Italy (1), Luxembourg (1), Portugal (1), Turkey (1), Uruguay (1)",
+  "2005-shows-with": "Bertille Bak (22), Jeremy Deller (4), Florian Pugnaire (3), Jorge Satorre (3), Adel Abdessemed (2), Gabriel  Abrantes (2), Lara Almárcegui (2), El Anatsui (2), Yto Barrada (2), Yael Bartana (2), Bernd & Hilla Becher (2), Anca Benera (2), Johanna Billing (2), Céleste Boursier-Mougenot (2), Mircea Cantor (2), Cao Fei (2), Jean-Marc Chapoulie (2), Isabelle Cornaro (2), Benjamin Crotty (2), Bertrand Dezoteux (2), Clorinde Durand (2), Jimmie Durham (2), Arnold Estefan (2), Fischli & Weiss (2), Joana Hadjithomas & Khalil Joreige (2), Camille Henrot (2), Louise Hervé & Chloé Maillet (2), Thomas Hirschhorn (2), Mike Kelley (2), Hassan Khan (2), Vincent Loubere (2), Basim Magdy (2), Angelica Mesiti (2), Jean-Luc Moulène (2), Bruce Nauman (2), Oda Projesi (2), Gaël Peltier (2), Adrian Piper (2), Philippe Ramette (2), Raumlabor (2), Nadin Reschke-Kindlimann (2), Jean Rouch (2), Denis Savary (2), Hito Steyerl (2), Javier Téllez (2), Guy Tillim (2), Tatiana Trouvé (2), Tamara de Wehr (2)",
+  "representing-galleries": "Galerie Xippas France (108, rue Vieille du Temple, 75003 Paris, France); Nettie Horn (, E2 9DG London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "Bertille",
   "last_name": "Bak",
@@ -43,7 +43,75 @@
   "age": 31,
   "age_range": "26-40",
   "expos": {
+    "2008": [
+      {
+        "i": "206341-2709-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "206341-2709-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "206341-1977-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "206341-1977-2008-09-06",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "206341-2303-2009-10-09",
+        "c": "FR"
+      },
+      {
+        "i": "206341-6620-2009-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "206341-2709-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "206341-2709-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "206341-23091-2009-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "206341-23091-2009-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "206341-14920-2009-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "206341-14920-2009-04-09",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "206341-2303-2009-10-09",
+        "c": "FR"
+      },
+      {
+        "i": "206341-6620-2009-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "206341-8282-2010-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "206341-8282-2010-01-19",
+        "c": "FR"
+      },
       {
         "i": "206341-1230-2010-11-27",
         "c": "DE",
@@ -73,6 +141,14 @@
         ]
       },
       {
+        "i": "206341-9059-2011-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "206341-9059-2011-03-20",
+        "c": "FR"
+      },
+      {
         "i": "206341-10739-2011-09-29",
         "c": "PT",
         "n": "Infiltration // Le Privilège Des Chemins",
@@ -87,6 +163,22 @@
       }
     ],
     "2012": [
+      {
+        "i": "206341-14238-2012-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "206341-14238-2012-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "206341-26765-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "206341-26765-2012-04-20",
+        "c": "FR"
+      },
       {
         "i": "206341-3775-2012-08-30",
         "c": "IT",
@@ -114,6 +206,14 @@
         ]
       },
       {
+        "i": "206341-10227-2012-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "206341-10227-2012-09-14",
+        "c": "FR"
+      },
+      {
         "i": "206341-27612-2012-11-24",
         "c": "UY",
         "n": "1era. Bienal de Montevideo 2012 - El Gran Sur (The Great South)",
@@ -124,6 +224,14 @@
           "2012-11-24",
           "2013-03-30"
         ]
+      },
+      {
+        "i": "206341-1977-2012-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "206341-1977-2012-04-12",
+        "c": "FR"
       },
       {
         "i": "206341-12818-2012-05-11",
@@ -137,6 +245,14 @@
           "2012-05-11",
           "2012-06-30"
         ]
+      },
+      {
+        "i": "206341-1293-2012-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "206341-1293-2012-09-21",
+        "c": "FR"
       }
     ],
     "2013": [

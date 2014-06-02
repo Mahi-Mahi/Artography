@@ -1,7 +1,7 @@
 {
   "id": "193057",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:21:07",
+  "timestamp": "2014-05-24 07:22:36",
   "name": "Fabien Mérelle",
   "surname": "Mérelle",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "11922",
-  "r01": "20859",
-  "r02": "29546",
-  "r03": "27776",
-  "r04": "62496",
-  "r05": "92205",
-  "r06": null,
+  "r00": "8360",
+  "r01": "8576",
+  "r02": "16197",
+  "r03": "23226",
+  "r04": "21360",
+  "r05": "54502",
+  "r06": "91015",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "15",
+  "all-shows-total": "16",
   "2005-shows-biennials": "13",
   "2005-shows-galleries": "13",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (8), Switzerland (4), China (3)",
-  "2005-shows-with": "Fabien Mérelle (8), Wim Delvoye (4), Vidya Gastaldon (4), Javier Pérez (4), Carmen Perrin (4), Marina Abramovic (3), Omar Bâ (3), Jan Fabre (3), Philippe Favier (3), Nan Goldin (3), Fabrice Gygi (3), Myung-Ok Han (3), Not Vital (3), Antoine Roegiers (3), Georges Rousse (3), Alberto Sorbelli (3), Dieter Appelt (2), Per Barclay (2), Carmen Calvo (2), Daniel Dezeuze (2), Richard Fauguet (2), Rafael Lozano-Hemmer (2), Mihael Milunovic (2), Cornelia Parker (2), Giuseppe Penone (2), Ernest Pignon Ernest (2), Samuel Rousseau (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (9), Switzerland (4), China (3)",
+  "2005-shows-with": "Fabien Mérelle (9), Wim Delvoye (5), Vidya Gastaldon (5), Javier Pérez (5), Philippe Favier (4), Carmen Perrin (4), Marina Abramovic (3), Omar Bâ (3), Jan Fabre (3), Nan Goldin (3), Fabrice Gygi (3), Myung-Ok Han (3), Not Vital (3), Antoine Roegiers (3), Georges Rousse (3), Alberto Sorbelli (3), Dove Allouche (2), Dieter Appelt (2), Rina Banerjee (2), Per Barclay (2), Marc Bauer (2), Cathryn Boch (2), Carmen Calvo (2), Daniel Dezeuze (2), Erik Dietman (2), Marcel Dzama (2), Richard Fauguet (2), Leiko Ikemura (2), Robert Longo (2), Rafael Lozano-Hemmer (2), Mihael Milunovic (2), Tony Oursler (2), Cornelia Parker (2), Giuseppe Penone (2), Pavel Pepperstein (2), Ernest Pignon Ernest (2), Samuel Rousseau (2), Anne-Marie Schneider (2), Gert & Uwe Tobias (2)",
   "representing-galleries": "Edouard Malingue Gallery (First floor, 8 Queen\\'s Road, Central Hong Kong, SAR, China); Galerie Guy Bärtschi (Route des Jeunes 43, Allée G, 1227 Geneva, Switzerland); Michel Soskine Inc. - New York (900 Park Avenue, 10021 New York City, NY, USA)",
   "collecting-museums": null,
   "first_name": "Fabien",
@@ -43,6 +43,34 @@
   "age": 33,
   "age_range": "26-40",
   "expos": {
+    "2008": [
+      {
+        "i": "193057-7711-2008-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "193057-7711-2008-01-11",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "193057-21143-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "193057-21143-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "193057-21143-2009-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "193057-21143-2009-02-14",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "193057-896-2010-05-20",
@@ -69,6 +97,14 @@
           "2010-03-18",
           "2010-05-14"
         ]
+      },
+      {
+        "i": "193057-21143-2010-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "193057-21143-2010-04-14",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -99,9 +135,25 @@
           "2012-06-26",
           "2012-08-31"
         ]
+      },
+      {
+        "i": "193057-2021-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "193057-2021-2012-03-31",
+        "c": "FR"
+      },
+      {
+        "i": "193057-2021-2012-03-31",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "193057-2021-2012-11-23",
+        "c": "FR"
+      },
       {
         "i": "193057-896-2013-06-25",
         "c": "CH",
@@ -114,6 +166,10 @@
           "2013-06-25",
           "2013-09-06"
         ]
+      },
+      {
+        "i": "193057-2219-2013-10-16",
+        "c": "FR"
       },
       {
         "i": "193057-26449-2013-05-21",
@@ -140,6 +196,20 @@
           "2013-05-23",
           "2013-05-26"
         ]
+      },
+      {
+        "i": "193057-28299-2013-11-09",
+        "c": "FR"
+      },
+      {
+        "i": "193057-28299-2013-11-09",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "193057-2219-2013-10-16",
+        "c": "FR"
       }
     ]
   }

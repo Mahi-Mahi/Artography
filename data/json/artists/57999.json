@@ -1,7 +1,7 @@
 {
   "id": "57999",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:32",
+  "timestamp": "2014-05-24 06:36:29",
   "name": "Eric Manigaud",
   "surname": "Manigaud",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "21590",
-  "r01": "38894",
-  "r02": "38312",
-  "r03": "34825",
-  "r04": "33135",
-  "r05": null,
+  "r00": "17196",
+  "r01": "17265",
+  "r02": "34172",
+  "r03": "33065",
+  "r04": "29212",
+  "r05": "27489",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -35,7 +35,7 @@
   "2005-countries-total": "Belgium (3), France (3), Germany (1), South Korea (1), United Kingdom (1)",
   "2005-shows-with": "Eric Manigaud (8), Françoise Petrovitch (3), Barthélémy Toguo (3), Ruth Barabash (2), Massimo Bartolini (2), Frauke Boggasch (2), Rebecca Bournigault (2), Yves Bresson (2), Davide Cantoni (2), Alice Cattaneo (2), Loris Cecchini (2), Bart De Zutter (2), Roland Flexner (2), Andrea Fogli (2), Carlos Garaicoa (2), Francesco Gennari (2), Ugo Giletta (2), Paolo Grassino (2), Kevin Francis Gray (2), Siobhán Hapaska (2), Adam Jeppesen (2), Kimsooja (2), Bernd Koller (2), Jan Kopp (2), Rosemary Laing (2), Denisa Lehocká (2), Dacia Manto (2), Carla Mattii (2), Sabrina Mezzaqui (2), Helen Mirra (2), Liliana Moro (2), Vik Muniz (2), Sirous Namazi (2), Isabel Nolan (2), Marina Paris (2), Pavel Pepperstein (2), Marina Perez (2), László László Révész (2), Anila Rubiku (2), Hiraki Sawa (2), Fabian Seiz (2), Francesco Sena (2), Kati Szil (2), Kei Takemura (2), Mariusz Tarkawian (2), Tessa M. den Uyl (2), Paul Wallach (2), Lois Weinberger (2), Yeesookyung (2)",
   "representing-galleries": "Galerie Houg (43 Rue Auguste Comte, 69002 Lyon, France)",
-  "collecting-museums": "The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London (England), United Kingdom)",
+  "collecting-museums": "The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London, United Kingdom)",
   "first_name": "Eric",
   "last_name": "Manigaud",
   "genre": "m",
@@ -69,6 +69,22 @@
           "2009-05-07",
           "2009-06-29"
         ]
+      },
+      {
+        "i": "57999-3864-2009-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "57999-3864-2009-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "57999-10519-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "57999-10519-2009-10-17",
+        "c": "FR"
       },
       {
         "i": "57999-21348-2009-12-22",
@@ -138,6 +154,16 @@
           "2013-10-13",
           "2013-12-08"
         ]
+      },
+      {
+        "i": "57999-1718-2012-11-16",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "57999-1718-2012-11-16",
+        "c": "FR"
       }
     ]
   }

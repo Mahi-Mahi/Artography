@@ -16,5 +16,17 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "2",
   "fairs": {
+    "2008": [
+      {
+        "i": "15426-ARTéNÎM Grenoble 2008",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "15426-Lille Art Fair 2011",
+        "c": "FR"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "29005",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:15:31",
+  "timestamp": "2014-05-24 06:26:04",
   "name": "Olivier Millagou",
   "surname": "Millagou",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "11915",
-  "r01": "10742",
-  "r02": "9435",
-  "r03": "8876",
-  "r04": "7730",
-  "r05": "7269",
-  "r06": "7710",
-  "r07": "6770",
-  "r08": "7609",
+  "r00": "20183",
+  "r01": "17020",
+  "r02": "12985",
+  "r03": "10324",
+  "r04": "9091",
+  "r05": "7414",
+  "r06": "6726",
+  "r07": "7133",
+  "r08": "6030",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "29",
+  "all-shows-total": "30",
   "2005-shows-biennials": "10",
   "2005-shows-galleries": "10",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (8), Belgium (2), Canada (1), Luxembourg (1), USA (1)",
-  "2005-shows-with": "Olivier Millagou (11), Arnaud Maguet (3), Davide Balula (2), Jacin Giordano (2), Walter Pfeiffer (2), Jana Sterbak (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (9), Belgium (2), Canada (1), Luxembourg (1), USA (1)",
+  "2005-shows-with": "Olivier Millagou (12), Arnaud Maguet (3), Davide Balula (2), François-Xavier Courrèges (2), Jacin Giordano (2), Walter Pfeiffer (2), Jana Sterbak (2)",
   "representing-galleries": "Galerie Erna Hécey (1c, rue des Fabriques, 1000 Brussels, Belgium); Galerie Sultana (12 rue des arquebusiers, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Olivier",
@@ -44,6 +44,14 @@
   "age_range": "26-40",
   "expos": {
     "2005": [
+      {
+        "i": "29005-18549-2005-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "29005-18549-2005-02-12",
+        "c": "FR"
+      },
       {
         "i": "29005-965-2005-04-16",
         "c": "BE",
@@ -56,6 +64,22 @@
           "2005-04-16",
           "2005-07-20"
         ]
+      },
+      {
+        "i": "29005-3864-2005-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "29005-3864-2005-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "29005-1782-2005-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "29005-1782-2005-05-25",
+        "c": "FR"
       },
       {
         "i": "29005-14042-2005-10-01",
@@ -109,6 +133,29 @@
         "d": [
           "2006-07-07",
           "2006-09-16"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "29005-10005-2007-01-02",
+        "c": "FR"
+      },
+      {
+        "i": "29005-10005-2007-01-02",
+        "c": "FR"
+      },
+      {
+        "i": "29005-4483-2007-04-13",
+        "c": "GB",
+        "n": "Olivier Millagou - Muster to Cluster or Else",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "London (England)",
+        "o": "Bischoff/Weiss",
+        "d": [
+          "2007-04-13",
+          "2007-06-16"
         ]
       }
     ],
@@ -179,21 +226,74 @@
           "2009-04-18",
           "2009-05-16"
         ]
+      },
+      {
+        "i": "29005-7850-2009-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "29005-7850-2009-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "29005-30465-2009-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "29005-30465-2009-03-15",
+        "c": "FR"
       }
     ],
-    "2007": [
+    "2010": [
       {
-        "i": "29005-4483-2007-04-13",
-        "c": "GB",
-        "n": "Olivier Millagou - Muster to Cluster or Else",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "London (England)",
-        "o": "Bischoff/Weiss",
-        "d": [
-          "2007-04-13",
-          "2007-06-16"
-        ]
+        "i": "29005-30465-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "29005-30465-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "29005-7391-2010-10-30",
+        "c": "FR"
+      },
+      {
+        "i": "29005-7391-2010-10-30",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "29005-28954-2011-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "29005-28954-2011-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "29005-22624-2011-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "29005-22624-2011-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "29005-7391-2011-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "29005-7391-2011-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "29005-7391-2011-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "29005-7391-2011-01-08",
+        "c": "FR"
       }
     ]
   }

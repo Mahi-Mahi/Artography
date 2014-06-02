@@ -16,7 +16,17 @@
   "fairs-abroad": "2",
   "fairs-in-FR": "1",
   "fairs": {
+    "2011": [
+      {
+        "i": "10506-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "10506-Slick Brussels 2012",
+        "c": "FR"
+      },
       {
         "i": "10506-Art On Paper 2012",
         "c": "BE",

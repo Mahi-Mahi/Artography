@@ -1,7 +1,7 @@
 {
   "id": "38268",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:19:26",
+  "timestamp": "2014-05-24 06:29:27",
   "name": "Patrick Zachmann",
   "surname": "Zachmann",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "13801",
-  "r01": "12312",
-  "r02": "10779",
-  "r03": "10523",
-  "r04": "9481",
-  "r05": "8821",
-  "r06": "9443",
-  "r07": "8171",
-  "r08": "11694",
+  "r00": "17087",
+  "r01": "15289",
+  "r02": "13041",
+  "r03": "10746",
+  "r04": "10187",
+  "r05": "8800",
+  "r06": "8776",
+  "r07": "9695",
+  "r08": "8555",
   "awards": null,
   "website": null,
   "all-shows-first": "1990",
-  "all-shows-total": "18",
+  "all-shows-total": "20",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "Germany (4), France (2), Netherlands (1), Poland (1)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (4), Germany (4), Netherlands (1), Poland (1)",
   "2005-shows-with": "Patrick Zachmann (6), Abbas (3), Leonard Freed (3), Micha Bar-Am (2), Robert Capa (2), Antoine D\\'Agata (2), Martine Franck (2), Maya Goded (2), Erich Hartmann (2), Alex Majoli (2), Susan Meiselas (2), Inge Morath (2), Paolo Pellegrin (2), Gueorgui    Pinkhassov (2), Guy le Querrec (2), Lise Sarfati (2), David Seymour (2), Klavdij Sluban (2)",
   "representing-galleries": "Magnum Photos Paris (19 rue Hegesippe Moreau, 75018 Paris, France)",
   "collecting-museums": null,
@@ -168,6 +168,37 @@
           "2009-05-14",
           "2009-08-30"
         ]
+      },
+      {
+        "i": "38268-26372-2009-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "38268-26372-2009-05-26",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "38268-10520-2010-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "38268-10520-2010-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "38268-22091-2010-02-23",
+        "c": "DE",
+        "n": "Patrick Zachmann - photography",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Munich",
+        "o": "CLAIR",
+        "d": [
+          "2010-02-23",
+          "2010-05-08"
+        ]
       }
     ],
     "2011": [
@@ -195,21 +226,6 @@
         "d": [
           "2011-09-15",
           "2011-10-22"
-        ]
-      }
-    ],
-    "2010": [
-      {
-        "i": "38268-22091-2010-02-23",
-        "c": "DE",
-        "n": "Patrick Zachmann - photography",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Munich",
-        "o": "CLAIR",
-        "d": [
-          "2010-02-23",
-          "2010-05-08"
         ]
       }
     ]

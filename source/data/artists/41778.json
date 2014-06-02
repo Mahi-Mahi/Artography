@@ -1,7 +1,7 @@
 {
   "id": "41778",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:20:52",
+  "timestamp": "2014-05-24 06:30:44",
   "name": "Julien Bismuth",
   "surname": "Bismuth",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video, Installation, Sculpture",
-  "r00": "2870",
-  "r01": "3060",
-  "r02": "3237",
-  "r03": "4810",
-  "r04": "9536",
-  "r05": "11254",
-  "r06": "20252",
-  "r07": "24393",
-  "r08": "47948",
+  "r00": "2038",
+  "r01": "2102",
+  "r02": "2290",
+  "r03": "2407",
+  "r04": "3815",
+  "r05": "8219",
+  "r06": "9896",
+  "r07": "19189",
+  "r08": "23776",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "58",
-  "2005-shows-biennials": "25",
-  "2005-shows-galleries": "25",
-  "2005-shows-museums": "20",
-  "2005-countries-total": "France (16), USA (12), Germany (11), Austria (8), Belgium (1), Spain (1), United Kingdom (1)",
-  "2005-shows-with": "Julien Bismuth (39), Jean-Pascal Flavien (8), Ivan Bazak (6), Dominique Ghesquiere (6), Thomas Mohren (6), Régis Perray (6), Roseline Rannoch (6), Mathilde Rosier (6), Jürgen Stollhans (6), Lucas Ajemian (5), Cecile Desvignes (5), Freya Hattenberger (5), Christian Jendreiko (5), Karolin Meunier (5), Antoine Petitprez (5), Elsa Tomkowiak (5), Virginie Yassef (4), John Baldessari (3), Gilles Barbier (3), Mike Bouchet (3), Martin Kersels (3), Mahony (3), Oswald Oberhuber (3), Allen Ruppersberg (3), Jessica Warboys (3), Franz West (3), Erwin Wurm (3), Heimo Zobernig (3), Annabelle Adie (2), Renaud Auguste-Dormeuil (2), Matthew Barney (2), Gottfried Bechtold (2), Joseph Beuys (2), John Bock (2), Manon de Boer (2), Lilian Bourgeat (2), Anais de Chabaneix (2), Guy de Cointet (2), Heinrich Dunst (2), Ryan Gander (2), Dora García (2), Gelatin (2), Rodney Graham (2), Rune Guneriussen (2), Lisa Holzer (2), Judith Hopf (2), Roni Horn (2), Richard Jackson (2), Christian Jankowski (2), Martin Kippenberger (2), Tomasz Ko",
+  "all-shows-total": "61",
+  "2005-shows-biennials": "28",
+  "2005-shows-galleries": "28",
+  "2005-shows-museums": "22",
+  "2005-countries-total": "France (19), USA (13), Germany (11), Austria (9), Belgium (1), Spain (1), United Kingdom (1)",
+  "2005-shows-with": "Julien Bismuth (42), Jean-Pascal Flavien (9), Dominique Ghesquiere (7), Ivan Bazak (6), Thomas Mohren (6), Régis Perray (6), Roseline Rannoch (6), Mathilde Rosier (6), Jürgen Stollhans (6), Lucas Ajemian (5), Cecile Desvignes (5), Freya Hattenberger (5), Christian Jendreiko (5), Karolin Meunier (5), Antoine Petitprez (5), Elsa Tomkowiak (5), Virginie Yassef (4), John Baldessari (3), Gilles Barbier (3), Mike Bouchet (3), Martin Kersels (3), Louise Lawler (3), Mahony (3), Oswald Oberhuber (3), Allen Ruppersberg (3), Jessica Warboys (3), Franz West (3), Erwin Wurm (3), Heimo Zobernig (3), Annabelle Adie (2), Vasco Aráujo (2), Renaud Auguste-Dormeuil (2), Matthew Barney (2), Gottfried Bechtold (2), Joseph Beuys (2), John Bock (2), Manon de Boer (2), Lilian Bourgeat (2), Marcel Broodthaers (2), Anais de Chabaneix (2), Guy de Cointet (2), Heinrich Dunst (2), Eric Duyckaerts (2), Ryan Gander (2), Dora García (2), Gelatin (2), Rodney Graham (2), Rune Guneriussen (2), Lisa Holzer (2), Judith Hopf (2), Roni Horn (2",
   "representing-galleries": "Galerie Emanuel Layr (An der Hülben 2, 1010 Vienna, Austria); Galerie Georges-Philippe & Nathalie Vallois (36 , rue de Seine, 75006 Paris, France); Galerie Parisa Kind (Offenbacher Landstraße 7-13 HH, 60599 Frankfurt/Main, Germany); Invisible-Exports (14A Orchard Street (between. Hester and Canal Street), 10002 New York City, NY, USA)",
   "collecting-museums": null,
   "first_name": "Julien",
@@ -56,6 +56,14 @@
           "2006-11-24",
           "2006-12-24"
         ]
+      },
+      {
+        "i": "41778-1953-2006-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "41778-1953-2006-09-22",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -112,6 +120,14 @@
         ]
       },
       {
+        "i": "41778-1953-2007-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "41778-1953-2007-11-23",
+        "c": "FR"
+      },
+      {
         "i": "41778-3201-2007-05-26",
         "c": "DE",
         "n": "Julien Bismuth - Monologues For Minerals, 1.1 (Salt Flat/Radio Stück)",
@@ -126,6 +142,14 @@
       }
     ],
     "2008": [
+      {
+        "i": "41778-2585-2008-02-29",
+        "c": "FR"
+      },
+      {
+        "i": "41778-2585-2008-02-29",
+        "c": "FR"
+      },
       {
         "i": "41778-11558-2008-04-10",
         "c": "US",
@@ -259,6 +283,18 @@
         ]
       },
       {
+        "i": "41778-11890-2009-11-28",
+        "c": "FR"
+      },
+      {
+        "i": "41778-1953-2009-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "41778-1953-2009-03-12",
+        "c": "FR"
+      },
+      {
         "i": "41778-3201-2009-09-05",
         "c": "DE",
         "n": "Julien Bismuth",
@@ -273,6 +309,10 @@
       }
     ],
     "2010": [
+      {
+        "i": "41778-11890-2009-11-28",
+        "c": "FR"
+      },
       {
         "i": "41778-18421-2010-02-26",
         "c": "US",
@@ -300,6 +340,22 @@
         ]
       },
       {
+        "i": "41778-6620-2010-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "41778-6620-2010-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "41778-4194-2010-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "41778-4194-2010-09-03",
+        "c": "FR"
+      },
+      {
         "i": "41778-2555-2010-09-09",
         "c": "DE",
         "n": "Playing the City II",
@@ -313,6 +369,14 @@
         ]
       },
       {
+        "i": "41778-8282-2010-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "41778-8282-2010-09-21",
+        "c": "FR"
+      },
+      {
         "i": "41778-21483-2010-10-20",
         "c": "AT",
         "n": "Laokoon&#8232;",
@@ -324,6 +388,14 @@
           "2010-10-20",
           "2010-11-21"
         ]
+      },
+      {
+        "i": "41778-9923-2010-10-28",
+        "c": "FR"
+      },
+      {
+        "i": "41778-9923-2010-10-28",
+        "c": "FR"
       },
       {
         "i": "41778-7467-2010-11-21",
@@ -445,6 +517,22 @@
         ]
       },
       {
+        "i": "41778-11586-2011-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "41778-11586-2011-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "41778-7978-2011-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "41778-7978-2011-03-01",
+        "c": "FR"
+      },
+      {
         "i": "41778-8707-2011-04-16",
         "c": "DE",
         "n": "a painting show",
@@ -471,6 +559,14 @@
         ]
       },
       {
+        "i": "41778-10726-2011-05-14",
+        "c": "FR"
+      },
+      {
+        "i": "41778-10726-2011-05-14",
+        "c": "FR"
+      },
+      {
         "i": "41778-5316-2011-06-25",
         "c": "ES",
         "n": "I WAS A MALE YVONNE DE CARLO - El arte crítico puede ser sofisticado, incluso entretenido / Salas 4, 5 y 6",
@@ -495,6 +591,22 @@
           "2011-09-10",
           "2011-10-26"
         ]
+      },
+      {
+        "i": "41778-9923-2011-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "41778-9923-2011-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "41778-1953-2011-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "41778-6620-2011-12-04",
+        "c": "FR"
       },
       {
         "i": "41778-20418-2010-12-16",
@@ -575,6 +687,14 @@
           "2011-06-25",
           "2012-01-08"
         ]
+      },
+      {
+        "i": "41778-1953-2011-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "41778-6620-2011-12-04",
+        "c": "FR"
       },
       {
         "i": "41778-2087-2012-01-20",
@@ -694,6 +814,30 @@
           "2013-03-15",
           "2013-04-21"
         ]
+      },
+      {
+        "i": "41778-2718-2013-03-28",
+        "c": "FR"
+      },
+      {
+        "i": "41778-2718-2013-03-28",
+        "c": "FR"
+      },
+      {
+        "i": "41778-11890-2013-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "41778-11890-2013-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "41778-1953-2013-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "41778-1953-2013-05-17",
+        "c": "FR"
       }
     ]
   }

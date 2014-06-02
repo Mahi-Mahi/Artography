@@ -1,7 +1,7 @@
 {
   "id": "16508",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:56",
+  "timestamp": "2014-05-24 06:21:29",
   "name": "Claire-Jeanne Jézéquel",
   "surname": "Jézéquel",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Sculpture",
-  "r00": "7832",
-  "r01": "8909",
-  "r02": "9834",
-  "r03": "8711",
-  "r04": "7879",
-  "r05": "6593",
-  "r06": "7407",
-  "r07": "6944",
-  "r08": "6439",
+  "r00": "8458",
+  "r01": "7827",
+  "r02": "9949",
+  "r03": "11139",
+  "r04": "9241",
+  "r05": "7839",
+  "r06": "6057",
+  "r07": "6690",
+  "r08": "6271",
   "awards": null,
   "website": null,
   "all-shows-first": "1992",
-  "all-shows-total": "31",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (14), Italy (1)",
-  "2005-shows-with": "Claire-Jeanne Jézéquel (12), Giuseppe Gabellone (3), Carl Andre (2), Cécile Bart (2), Madeleine Berkhemer (2), Dominique Blais (2), Pierre Buraglio (2), Patrick van Caeckenbergh (2), Georg Ettl (2), Richard Fauguet (2), Susanna Fritscher (2), Fabrice Hybert (2), Shirley Jaffe (2), Michael Kienzer (2), Pierre Mabille (2), Didier Marcel (2), Stephen Marsden (2), Gordon Matta-Clark (2), Anita Molinero (2), Richard Monnier (2), Miquel Mont (2), Olivier Mosset (2), Philippe Ramette (2), Evariste Richer (2), Mathias le Royer (2), Denis Savary (2), Jessica Stockholder (2), James Turrell (2), Arnaud Vasseux (2), Claude Viallat (2)",
+  "all-shows-total": "34",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (16), Italy (1), Switzerland (1)",
+  "2005-shows-with": "Claire-Jeanne Jézéquel (14), Giuseppe Gabellone (3), Philippe Ramette (3), Denis Savary (3), Carl Andre (2), Cécile Bart (2), Yves Bélorgey (2), Madeleine Berkhemer (2), Dominique Blais (2), Céleste Boursier-Mougenot (2), Pierre Buraglio (2), Patrick van Caeckenbergh (2), Georg Ettl (2), Richard Fauguet (2), Susanna Fritscher (2), Fabrice Hybert (2), Shirley Jaffe (2), Valérie Jouve (2), Michael Kienzer (2), Vera Lutter (2), Pierre Mabille (2), Didier Marcel (2), Stephen Marsden (2), Gordon Matta-Clark (2), Anita Molinero (2), Richard Monnier (2), Miquel Mont (2), Olivier Mosset (2), Vik Muniz (2), Evariste Richer (2), Mathias le Royer (2), Yvan Salomone (2), Jessica Stockholder (2), Janaïna Tschäpe (2), James Turrell (2), Arnaud Vasseux (2), Claude Viallat (2)",
   "representing-galleries": "Galerie Jean Fournier (22, rue du Bac, 75007 Paris, France); Galerie Xippas France (108, rue Vieille du Temple, 75003 Paris, France)",
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France)",
   "first_name": "Claire-Jeanne",
@@ -43,7 +43,41 @@
   "age": 49,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "16508-4975-2006-03-25",
+        "c": "FR"
+      },
+      {
+        "i": "16508-4975-2006-03-25",
+        "c": "FR"
+      },
+      {
+        "i": "16508-29574-2006-05-04",
+        "c": "FR"
+      },
+      {
+        "i": "16508-29574-2006-05-04",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "16508-10501-2007-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "16508-10501-2007-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "16508-741-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "16508-741-2007-03-10",
+        "c": "FR"
+      },
       {
         "i": "16508-15487-2007-05-11",
         "c": "BE",
@@ -69,9 +103,33 @@
           "2007-08-31",
           "2007-10-01"
         ]
+      },
+      {
+        "i": "16508-22625-2007-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "16508-22625-2007-10-11",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "16508-17271-2008-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "16508-17271-2008-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "16508-16035-2008-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "16508-16035-2008-04-10",
+        "c": "FR"
+      },
       {
         "i": "16508-10965-2008-06-19",
         "c": "IT",
@@ -84,6 +142,112 @@
           "2008-06-19",
           "2008-10-05"
         ]
+      },
+      {
+        "i": "16508-1977-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "16508-1977-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "16508-1977-2008-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "16508-1977-2008-02-16",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "16508-1977-2010-09-04",
+        "c": "FR"
+      },
+      {
+        "i": "16508-1977-2010-09-04",
+        "c": "FR"
+      },
+      {
+        "i": "16508-26731-2010-09-15",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "16508-26731-2010-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "16508-29576-2011-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "16508-29576-2011-07-08",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "16508-11888-2012-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "16508-11888-2012-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "16508-28288-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "16508-28288-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "16508-16191-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "16508-16191-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "16508-9061-2012-10-21",
+        "c": "FR"
+      },
+      {
+        "i": "16508-9061-2012-10-21",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16508-9344-2013-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "16508-1894-2013-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "16508-1894-2013-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "16508-1894-2013-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "16508-1894-2013-01-10",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "16508-9344-2013-09-20",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "99048",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:44:07",
+  "timestamp": "2014-05-24 06:50:41",
   "name": "Jérôme Bel",
   "surname": "Bel",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Choreography",
-  "r00": "4812",
-  "r01": "5148",
-  "r02": "6020",
-  "r03": "6937",
-  "r04": "5909",
-  "r05": "6350",
-  "r06": "6876",
-  "r07": "19973",
-  "r08": "21852",
+  "r00": "3938",
+  "r01": "4277",
+  "r02": "4505",
+  "r03": "5520",
+  "r04": "6440",
+  "r05": "5198",
+  "r06": "5510",
+  "r07": "6035",
+  "r08": "21692",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "15",
+  "all-shows-total": "18",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "USA (3), Brazil (1), China (1), France (1), Germany (1), Italy (1), Japan (1)",
-  "2005-shows-with": "Jérôme Bel (9), Joan Jonas (3), Pedro Reyes (3), Pawel Althamer (2), Eleanor Antin (2), Matthew Barney (2), Trisha Brown (2), Paulo Bruscky (2), John Cage (2), René Clair (2), Olafur Eliasson (2), James Ensor (2), Fischli & Weiss (2), Nicolas Floc\\'h (2), Rainer Ganahl (2), Douglas Gordon (2), Martha Graham (2), Rodney Graham (2), Raoul Hausmann (2), Deborah Hay (2), Mike Kelley (2), Babette Mangolte (2), Cildo Meireles (2), Vsevolod Meyerhold (2), Robert Morris (2), Bruce Nauman (2), Hermann Nitsch (2), Hélio Oiticica (2), Steve Paxton (2), Michelangelo Pistoletto (2), Yvonne Rainer (2), Robert Rauschenberg (2), Man Ray (2), Aki Sasamoto (2), Tino Sehgal (2), Danh Vo (2), Andy Warhol (2)",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "USA (5), Brazil (1), China (1), France (1), Germany (1), Italy (1), Japan (1), Russia (1)",
+  "2005-shows-with": "Jérôme Bel (12), Joan Jonas (4), Pedro Reyes (4), Marina Abramovic (3), Pawel Althamer (3), William Kentridge (3), Cildo Meireles (3), Bruce Nauman (3), Tino Sehgal (3), Allora & Calzadilla (2), Carl Andre (2), Eleanor Antin (2), Matthew Barney (2), Trisha Brown (2), Paulo Bruscky (2), Daniel Buren (2), John Cage (2), Cao Fei (2), René Clair (2), Lygia Clark (2), Tacita Dean (2), Olafur Eliasson (2), Elmgreen & Dragset (2), Tracey Emin (2), James Ensor (2), Cerith Wyn Evans (2), Fischli & Weiss (2), Nicolas Floc\\'h (2), William Forsythe (2), Yona Friedman (2), Rainer Ganahl (2), Felix Gonzalez-Torres (2), Douglas Gordon (2), Martha Graham (2), Rodney Graham (2), Shilpa Gupta (2), Anna Halprin (2), Raoul Hausmann (2), Deborah Hay (2), Allan Kaprow (2), Mike Kelley (2), Hassan Khan (2), David Lamelas (2), Sol LeWitt (2), Babette Mangolte (2), Paul McCarthy (2), Vsevolod Meyerhold (2), Robert Morris (2), Hermann Nitsch (2), Hélio Oiticica (2), Clifford Owens (2), Steve Paxton (2), Michelangelo Pistoletto (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Jérôme",
@@ -86,6 +86,10 @@
         ]
       },
       {
+        "i": "99048-2493-2007-09-17",
+        "c": "FR"
+      },
+      {
         "i": "99048-7264-2007-10-27",
         "c": "US",
         "n": "Performa 07 - The Second Biennial of New Visual Art Performance",
@@ -99,6 +103,10 @@
       }
     ],
     "2008": [
+      {
+        "i": "99048-2493-2007-09-17",
+        "c": "FR"
+      },
       {
         "i": "99048-2309-2008-05-24",
         "c": "IT",
@@ -180,7 +188,17 @@
         ]
       }
     ],
+    "2011": [
+      {
+        "i": "99048-2219-2011-11-23",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "99048-2219-2011-11-23",
+        "c": "FR"
+      },
       {
         "i": "99048-2228-2012-10-15",
         "c": "US",

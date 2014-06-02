@@ -1,7 +1,7 @@
 {
   "id": "250446",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:43:11",
+  "timestamp": "2014-05-24 07:42:14",
   "name": "Hippolyte Hentgen",
   "surname": "Hippolyte Hentgen",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Artist group",
   "media": null,
-  "r00": "10581",
-  "r01": "16791",
-  "r02": "19764",
-  "r03": "21951",
-  "r04": "77424",
-  "r05": null,
+  "r00": "7224",
+  "r01": "7325",
+  "r02": "12766",
+  "r03": "15194",
+  "r04": "16787",
+  "r05": "69484",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -29,11 +29,11 @@
   "website": "hippolytehentgen.tumblr.com",
   "all-shows-first": "2009",
   "all-shows-total": "26",
-  "2005-shows-biennials": "12",
-  "2005-shows-galleries": "12",
-  "2005-shows-museums": "10",
-  "2005-countries-total": "France (18), Switzerland (4), Germany (1), Spain (1), United Kingdom (1)",
-  "2005-shows-with": "Hippolyte Hentgen (18), Françoise Petrovitch (4), Julien Tiberi (3), Jean-Marie Appriou (2), Virginie Barré (2), Christophe Blanc (2), Nicolas Chardon (2), Pauline Curnier Jardin (2), David Evrard (2), Pauline Fondevila (2), Gregory Forstner (2), Iris Levasseur (2), Guillaume Pinard (2), Clément Rodzielski (2), Frédéric Sallaz (2), Jeanne Susplugas (2), Jean-Luc Verna (2)",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (19), Switzerland (4), Germany (1), Spain (1), United Kingdom (1)",
+  "2005-shows-with": "Hippolyte Hentgen (19), Françoise Petrovitch (4), Julien Tiberi (4), Nicolas Chardon (3), Clément Rodzielski (3), Leonor Antunes (2), Jean-Marie Appriou (2), Virginie Barré (2), Jesus Alberto Benitez (2), Christophe Blanc (2), Christine Boillat (2), Roxane Borujerdi (2), Pauline Curnier Jardin (2), David Evrard (2), Pauline Fondevila (2), Gregory Forstner (2), Raphaël Julliard (2), Pierre Leguillon (2), Christophe Lemaitre (2), Iris Levasseur (2), Colombe Marcasiano (2), Isabelle Menean (2), Guillaume Pinard (2), Frédéric Sallaz (2), Izet Sheshivari (2), Olivier Soulerin (2), Jeanne Susplugas (2), syndicate (2), Eva Taulois (2), Niels Trannois (2), Cyril Verde (2), Jean-Luc Verna (2)",
   "representing-galleries": "Galerie Sémiose (3 rue de Montiboeufs, 75020 Paris, France)",
   "collecting-museums": null,
   "first_name": "Hippolyte",
@@ -43,7 +43,57 @@
   "age": 37,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "250446-17765-2009-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "250446-17765-2009-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "250446-7816-2009-12-11",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "250446-7816-2009-12-11",
+        "c": "FR"
+      },
+      {
+        "i": "250446-19738-2010-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "250446-19738-2010-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "250446-2718-2010-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "250446-2718-2010-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "250446-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "250446-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "250446-8568-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "250446-8568-2010-10-01",
+        "c": "FR"
+      },
       {
         "i": "250446-20784-2010-11-23",
         "c": "CH",
@@ -56,9 +106,33 @@
           "2010-11-23",
           "2010-12-07"
         ]
+      },
+      {
+        "i": "250446-7816-2010-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "250446-7816-2010-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "250446-11627-2010-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "250446-11627-2010-11-10",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "250446-10519-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "250446-10519-2011-02-12",
+        "c": "FR"
+      },
       {
         "i": "250446-9934-2011-07-08",
         "c": "DE",
@@ -71,6 +145,14 @@
           "2011-07-08",
           "2011-08-13"
         ]
+      },
+      {
+        "i": "250446-20132-2011-10-29",
+        "c": "FR"
+      },
+      {
+        "i": "250446-20132-2011-10-29",
+        "c": "FR"
       },
       {
         "i": "250446-20784-2011-02-11",
@@ -88,6 +170,14 @@
     ],
     "2012": [
       {
+        "i": "250446-7816-2012-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "250446-7816-2012-02-18",
+        "c": "FR"
+      },
+      {
         "i": "250446-27894-2012-07-04",
         "c": "ES",
         "n": "De Paso En La Tierra",
@@ -99,9 +189,33 @@
           "2012-07-04",
           "2012-09-03"
         ]
+      },
+      {
+        "i": "250446-8520-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "250446-7816-2012-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "250446-7816-2012-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "250446-7816-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "250446-7816-2012-09-08",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "250446-8520-2012-11-23",
+        "c": "FR"
+      },
       {
         "i": "250446-12803-2013-01-17",
         "c": "CH",
@@ -140,6 +254,40 @@
           "2013-02-20",
           "2013-05-05"
         ]
+      },
+      {
+        "i": "250446-8520-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "250446-8520-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "250446-10239-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "250446-10239-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "250446-20542-2013-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "250446-20542-2013-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "250446-28739-2013-12-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "250446-28739-2013-12-20",
+        "c": "FR"
       }
     ]
   }

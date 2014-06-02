@@ -1,7 +1,7 @@
 {
   "id": "2027",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:02:56",
+  "timestamp": "2014-05-24 06:15:26",
   "name": "Cécile Bart",
   "surname": "Bart",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting, Installation, Objects",
-  "r00": "2846",
-  "r01": "2540",
-  "r02": "2428",
-  "r03": "2550",
-  "r04": "2973",
-  "r05": "3045",
-  "r06": "3045",
-  "r07": "2635",
-  "r08": "2279",
+  "r00": "3025",
+  "r01": "2855",
+  "r02": "2479",
+  "r03": "2349",
+  "r04": "2534",
+  "r05": "3225",
+  "r06": "3440",
+  "r07": "3400",
+  "r08": "3086",
   "awards": null,
-  "website": null,
+  "website": "www.cecilebart.com",
   "all-shows-first": "1989",
-  "all-shows-total": "76",
-  "2005-shows-biennials": "12",
-  "2005-shows-galleries": "12",
-  "2005-shows-museums": "16",
-  "2005-countries-total": "France (22), Switzerland (4), Belgium (3), Brazil (1)",
-  "2005-shows-with": "Cécile Bart (21), John M Armleder (7), Michel Verjux (7), Olivier Mosset (6), François Morellet (5), Claude Rutault (5), Etienne Bossut (3), Susanna Fritscher (3), François Perrodin (3), Pierre Ardouvin (2), Farah Atassi (2), Élisabeth Ballet (2), Jean-Pierre Bertrand (2), Jean Boghossian (2), Christian Boltanski (2), Alan Charlton (2), Jean-Gabriel Coignet (2), Christophe Cuzin (2), Philippe Decrauzat (2), Cedrick Eymenier (2), Dominique Figarella (2), Franck Gérard (2), Dan Graham (2), Thomas Huber (2), Claire-Jeanne Jézéquel (2), Aïda Kazarian (2), Zilvinas Kempinas (2), Imi Knoebel (2), Renée Lévi (2), Pierre Mabille (2), Didier Marcel (2), Vincent Mauger (2), John McCracken (2), Miquel Mont (2), Antoine Perrot (2), Pascal Pinaud (2), Philippe Richard (2), Evariste Richer (2), Gerwald Rockenschaub (2), Sarkís (2), Adrian Schiess (2), Tatiana Trouvé (2), Ida Tursic & Wilfried Mille (2), Günter Umberg (2), Véronique Verstraete (2)",
+  "all-shows-total": "79",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
+  "2005-shows-museums": "17",
+  "2005-countries-total": "France (24), Switzerland (4), Belgium (3), Brazil (1)",
+  "2005-shows-with": "Cécile Bart (23), John M Armleder (7), Michel Verjux (7), François Morellet (6), Olivier Mosset (6), Claude Rutault (5), Etienne Bossut (4), Susanna Fritscher (3), François Perrodin (3), Sarkís (3), Pierre Ardouvin (2), Isabelle Arthuis (2), Farah Atassi (2), Élisabeth Ballet (2), Jean-Pierre Bertrand (2), Pierrette Bloch (2), Jean Boghossian (2), Christian Boltanski (2), Balthasar Burkhard (2), Alan Charlton (2), Jean-Gabriel Coignet (2), Christophe Cuzin (2), Philippe Decrauzat (2), Cedrick Eymenier (2), Dominique Figarella (2), Franck Gérard (2), Dan Graham (2), Thomas Huber (2), Claire-Jeanne Jézéquel (2), Aïda Kazarian (2), Zilvinas Kempinas (2), Bouchra Khalili (2), Imi Knoebel (2), Krijn de Koning (2), Renée Lévi (2), Pierre Mabille (2), Didier Marcel (2), Vincent Mauger (2), John McCracken (2), Miquel Mont (2), Marylène Negro (2), Antoine Perrot (2), Pascal Pinaud (2), David Renggli (2), Philippe Richard (2), Evariste Richer (2), Gerwald Rockenschaub (2), Jean-Michel Sanejouand (2), Adrian",
   "representing-galleries": "Galerie Georges Verney-Carron (45 quai Rambaud, 69002 Lyon, France); Galerie Frank (7, rue Saint-Claude, 75003 Paris, France); Galerie Chez Valentin (9, rue St Gilles, 75003 Paris, France); Galerie Catherine Issert (2, route des Serres, 6570 Saint-Paul de Vence, France); Blancpain Art Contemporain (63 rue des Maraîchers, 1205 Geneva, Switzerland)",
   "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); Espace de l’art concret (Château de Mouans - Mouans-Sartoux, 06370 Mouans Sartoux, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France); Städtisches Museum Abteiberg (Abteistr. 27, 41061 Mönchengladbach, Germany); Museum gegenstandsfreier Kunst (Sackstraße 4, 21762 Otterndorf, Germany)",
   "first_name": "Cécile",
@@ -43,7 +43,101 @@
   "age": 56,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "2027-7978-2005-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "2027-7978-2005-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "2027-27940-2005-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "2027-27940-2005-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "2027-11681-2005-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "2027-11681-2005-09-12",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "2027-8128-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "2027-8128-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "2027-2014-2006-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "2027-2014-2006-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "2027-2414-2006-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "2027-2414-2006-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "2027-2014-2006-12-15",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "2027-2014-2006-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "2027-10501-2007-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "2027-10501-2007-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "2027-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "2027-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "2027-10221-2007-11-10",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "2027-10221-2007-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "2027-16035-2008-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "2027-16035-2008-04-10",
+        "c": "FR"
+      },
       {
         "i": "2027-969-2008-06-13",
         "c": "BE",
@@ -58,6 +152,14 @@
         ]
       },
       {
+        "i": "2027-11681-2008-09-19",
+        "c": "FR"
+      },
+      {
+        "i": "2027-11681-2008-09-19",
+        "c": "FR"
+      },
+      {
         "i": "2027-969-2008-03-14",
         "c": "BE",
         "n": "J.R.S. & Co",
@@ -69,6 +171,22 @@
           "2008-03-14",
           "2008-04-26"
         ]
+      },
+      {
+        "i": "2027-8540-2008-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "2027-8540-2008-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "2027-2014-2008-04-25",
+        "c": "FR"
+      },
+      {
+        "i": "2027-2014-2008-04-25",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -97,9 +215,41 @@
           "2009-09-05",
           "2009-11-01"
         ]
+      },
+      {
+        "i": "2027-10247-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "2027-17875-2009-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "2027-17875-2009-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "2027-7978-2009-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "2027-7978-2009-06-13",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "2027-10247-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "2027-4184-2010-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "2027-4184-2010-04-03",
+        "c": "FR"
+      },
       {
         "i": "2027-1778-2010-06-02",
         "c": "CH",
@@ -112,6 +262,34 @@
           "2010-06-02",
           "2010-09-19"
         ]
+      },
+      {
+        "i": "2027-8548-2010-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "2027-8548-2010-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "2027-2014-2010-07-02",
+        "c": "FR"
+      },
+      {
+        "i": "2027-2014-2010-07-02",
+        "c": "FR"
+      },
+      {
+        "i": "2027-11586-2010-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "2027-11586-2010-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "2027-10247-2010-10-20",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -129,6 +307,46 @@
         ]
       },
       {
+        "i": "2027-8121-2011-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "2027-8121-2011-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "2027-21639-2011-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "2027-21639-2011-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "2027-11681-2011-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "2027-11681-2011-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "2027-29576-2011-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "2027-29576-2011-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "2027-9475-2011-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "2027-9475-2011-07-10",
+        "c": "FR"
+      },
+      {
         "i": "2027-1015-2011-07-23",
         "c": "CH",
         "n": "Accrochage d\\'été",
@@ -140,6 +358,22 @@
           "2011-07-23",
           "2011-08-15"
         ]
+      },
+      {
+        "i": "2027-10247-2010-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "2027-378-2011-05-08",
+        "c": "FR"
+      },
+      {
+        "i": "2027-378-2011-05-08",
+        "c": "FR"
+      },
+      {
+        "i": "2027-27842-2011-11-05",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -155,6 +389,38 @@
           "2012-02-22",
           "2012-05-06"
         ]
+      },
+      {
+        "i": "2027-20082-2012-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "2027-20082-2012-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "2027-8555-2012-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "2027-8555-2012-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "2027-27842-2011-11-05",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "2027-29739-2013-10-12",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "2027-29739-2013-10-12",
+        "c": "FR"
       }
     ]
   }

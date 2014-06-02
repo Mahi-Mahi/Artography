@@ -1,7 +1,7 @@
 {
   "id": "126115",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:54:46",
+  "timestamp": "2014-05-24 06:59:47",
   "name": "Aurélie Pétrel",
   "surname": "Pétrel",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "32188",
-  "r01": "73975",
-  "r02": "73672",
-  "r03": "68353",
-  "r04": "63387",
-  "r05": "70391",
-  "r06": "62776",
-  "r07": "67960",
-  "r08": null,
+  "r00": "23166",
+  "r01": "23432",
+  "r02": "62369",
+  "r03": "61352",
+  "r04": "55436",
+  "r05": "58092",
+  "r06": "66008",
+  "r07": "58069",
+  "r08": "65087",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "13",
+  "all-shows-total": "14",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
   "2005-shows-museums": "2",
-  "2005-countries-total": "Japan (3), Switzerland (2), Brazil (1), Finland (1), France (1), Germany (1), Italy (1)",
-  "2005-shows-with": "Aurélie Pétrel (8), Julien Guinand (2), Francis Morandini (2)",
+  "2005-countries-total": "Japan (3), France (2), Switzerland (2), Brazil (1), Finland (1), Germany (1), Italy (1)",
+  "2005-shows-with": "Aurélie Pétrel (9), Julien Guinand (2), Francis Morandini (2)",
   "representing-galleries": "Galerie Houg (43 Rue Auguste Comte, 69002 Lyon, France); Bloo Gallery (Via Tiburtina 149, 00185 Rome, Italy); Super Window Project (385-10 Motoyama Kamigamo Kita-Ku, 603-8047 Kyoto, Japan); Gowen Contemporary (Rue de L´Arquebuse 14, 1204 Geneva, Switzerland)",
   "collecting-museums": null,
   "first_name": "Aurélie",
@@ -56,6 +56,24 @@
           "2006-04-28",
           "2006-05-21"
         ]
+      },
+      {
+        "i": "126115-13618-2006-10-21",
+        "c": "FR"
+      },
+      {
+        "i": "126115-13618-2006-10-21",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "126115-10219-2007-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "126115-10219-2007-02-28",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -128,6 +146,14 @@
       }
     ],
     "2012": [
+      {
+        "i": "126115-11778-2012-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "126115-11778-2012-02-09",
+        "c": "FR"
+      },
       {
         "i": "126115-27776-2012-04-27",
         "c": "IT",

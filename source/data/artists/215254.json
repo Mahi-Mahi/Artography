@@ -1,7 +1,7 @@
 {
   "id": "215254",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:29:44",
+  "timestamp": "2014-05-24 07:30:14",
   "name": "Cannelle Tanc",
   "surname": "Tanc",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "35942",
-  "r01": "37761",
-  "r02": "34305",
-  "r03": "30955",
-  "r04": "30858",
-  "r05": "59612",
-  "r06": "72092",
-  "r07": "63895",
-  "r08": "57883",
+  "r00": "14036",
+  "r01": "19737",
+  "r02": "26648",
+  "r03": "23311",
+  "r04": "19664",
+  "r05": "25366",
+  "r06": "48524",
+  "r07": "54977",
+  "r08": "45214",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "6",
+  "all-shows-total": "7",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (4), Austria (1)",
-  "2005-shows-with": "Cannelle Tanc (5), Frederic Vincent (4), Michel Blazy (2), Louise Bourgeois (2), Henri Chopin (2), Arnaud Labelle-Rojoux (2), Andy Warhol (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (5), Austria (1)",
+  "2005-shows-with": "Cannelle Tanc (6), Frederic Vincent (5), Joseph Beuys (2), Michel Blazy (2), Louise Bourgeois (2), Henri Chopin (2), Arnaud Labelle-Rojoux (2), Andy Warhol (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Cannelle",
@@ -71,6 +71,44 @@
           "2008-03-13",
           "2008-03-22"
         ]
+      },
+      {
+        "i": "215254-27918-2008-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "215254-27918-2008-09-12",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "215254-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "215254-26765-2009-04-24",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "215254-10825-2010-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "215254-10825-2010-10-08",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "215254-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "215254-10825-2013-09-21",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "253746",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:44:31",
+  "timestamp": "2014-05-24 07:43:22",
   "name": "Elodie Seguin",
   "surname": "Seguin",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "24266",
-  "r01": "22711",
-  "r02": "51813",
-  "r03": "58383",
-  "r04": null,
+  "r00": "13870",
+  "r01": "18879",
+  "r02": "16993",
+  "r03": "43685",
+  "r04": "50294",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -31,10 +31,10 @@
   "all-shows-total": "10",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (5), United Kingdom (2), Germany (1), Spain (1)",
-  "2005-shows-with": "Elodie Seguin (6), Bernadette Corporation (2), André Butzer (2), Marieta Chirulescu (2), Matt Connors (2), Raphael Danke (2), Elmgreen & Dragset (2), Fischli & Weiss (2), Sylvie Fleury (2), Mark Flood (2), Claire Fontaine (2), Leo Gabin (2), Gelatin (2), Rodney Graham (2), Amy Granat (2), Guyton & Walker (2), Stefan Hablützel (2), Thomas Helbig (2), Richard Hell (2), Uwe Henneken (2), Gregor Hildebrandt (2), IRWIN (2), Xylor Jane (2), Sergej Jensen (2), Jacob Kassay (2), Jirí Kovanda (2), Alicja Kwade (2), Leigh Ledare (2), Paul McDevitt (2), Jonathan Meese (2), Henrik Olesen (2), Manfred Pernice (2), Jan van der Ploeg (2), Cornelius Quabeck (2), Anselm Reyle (2), Gerwald Rockenschaub (2), Gedi Sibony (2), Katja Strunz (2), Martin Städeli (2), Superflex (2), Gert & Uwe Tobias (2), Fredrik Vaerslev (2), Christoph Weber (2), Franz West (2), Christopher Wool (2)",
-  "representing-galleries": null,
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (6), United Kingdom (2), Germany (1), Spain (1)",
+  "2005-shows-with": "Elodie Seguin (7), Bernadette Corporation (2), André Butzer (2), Marieta Chirulescu (2), Matt Connors (2), Raphael Danke (2), Elmgreen & Dragset (2), Fischli & Weiss (2), Sylvie Fleury (2), Mark Flood (2), Claire Fontaine (2), Leo Gabin (2), Gelatin (2), Rodney Graham (2), Amy Granat (2), Guyton & Walker (2), Stefan Hablützel (2), Thomas Helbig (2), Richard Hell (2), Uwe Henneken (2), Gregor Hildebrandt (2), IRWIN (2), Xylor Jane (2), Sergej Jensen (2), Jacob Kassay (2), Jirí Kovanda (2), Alicja Kwade (2), Leigh Ledare (2), Paul McDevitt (2), Jonathan Meese (2), Henrik Olesen (2), Manfred Pernice (2), Jan van der Ploeg (2), Cornelius Quabeck (2), Anselm Reyle (2), Gerwald Rockenschaub (2), Gedi Sibony (2), Katja Strunz (2), Martin Städeli (2), Superflex (2), Gert & Uwe Tobias (2), Fredrik Vaerslev (2), Christoph Weber (2), Franz West (2), Christopher Wool (2)",
+  "representing-galleries": "Hilary Crisp Gallery (2nd Floor, 33 White Church Lane, E1 7QR London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "Elodie",
   "last_name": "Seguin",
@@ -43,7 +43,43 @@
   "age": 30,
   "age_range": "26-40",
   "expos": {
+    "2010": [
+      {
+        "i": "253746-3522-2010-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "253746-3522-2010-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "253746-3522-2010-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "253746-3522-2010-01-30",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "253746-7850-2011-10-14",
+        "c": "FR"
+      },
+      {
+        "i": "253746-7850-2011-10-14",
+        "c": "FR"
+      },
+      {
+        "i": "253746-3522-2011-11-11",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "253746-3522-2011-11-11",
+        "c": "FR"
+      },
       {
         "i": "253746-9335-2012-04-07",
         "c": "ES",
@@ -82,6 +118,14 @@
           "2012-05-24",
           "2012-07-22"
         ]
+      },
+      {
+        "i": "253746-3522-2012-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "253746-3522-2012-03-22",
+        "c": "FR"
       },
       {
         "i": "253746-18196-2012-11-15",

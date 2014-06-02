@@ -73,6 +73,10 @@ def normalize_country(country)
 
 end
 
+country_prepositions = {}
+JSON.parse(open("country_prepositions.json").read).each do |c|
+	country_prepositions[c['code']] = c['french_preposition'].downcase
+end
 
 artists = {}
 continents = {}
@@ -114,6 +118,7 @@ af_galleries.shuffle.slice(0,5000).each do |gallery|
 					continents[c.continent] = {} if continents[c.continent].nil?
 					continents[c.continent][c.alpha2] = {
 						:fr => c.translations['fr'],
+						:fr_prefix => country_prepositions[c.alpha2.downcase],
 						:en => c.translations['en']
 					}
 				rescue
@@ -139,8 +144,10 @@ af_galleries.shuffle.slice(0,5000).each do |gallery|
 
 				years << af_fair['year'] unless af_fair['year'] > Date.today.year
 
-				unless af_fair['country'] == 'France'
-					gallery[:fairs][af_fair['year']] = [] if gallery[:fairs][af_fair['year']].nil?
+				gallery[:fairs][af_fair['year']] = [] if gallery[:fairs][af_fair['year']].nil?
+				if af_fair['country'] == 'France'
+					gallery[:fairs][af_fair['year']] << {i: fair_detail[:i], c: 'FR'}
+				else
 					gallery[:fairs][af_fair['year']] << fair_detail unless gallery[:fairs][af_fair['year']].include?(fair_detail)
 				end
 
@@ -161,7 +168,7 @@ af_artists = fetch('/v0/artist/list')
 
 pp "#{af_artists.length} artists"
 
-af_artists.shuffle.slice(0,1).each do |artist|
+af_artists.shuffle.slice(0,5000).each do |artist|
 
 	print '.'
 
@@ -216,6 +223,7 @@ af_artists.shuffle.slice(0,1).each do |artist|
 						continents[c.continent] = {} if continents[c.continent].nil?
 						continents[c.continent][c.alpha2] = {
 							:fr => c.translations['fr'],
+							:fr_prefix => country_prepositions[c.alpha2.downcase],
 							:en => c.translations['en']
 						}
 					rescue
@@ -267,8 +275,10 @@ af_artists.shuffle.slice(0,1).each do |artist|
 							expos[expo_year] << expo unless expos[expo_year].include?(expo)
 							years << expo_year unless expo_year > Date.today.year
 
-							unless af_expo['country'] == 'France'
-								artist[:expos][expo_year] = [] if artist[:expos][expo_year].nil?
+							artist[:expos][expo_year] = [] if artist[:expos][expo_year].nil?
+							if af_expo['country'] == 'France'
+								artist[:expos][expo_year] << {i: expo_detail[:i], c: 'FR'}
+							else
 								artist[:expos][expo_year] << expo_detail unless artist[:expos][expo_year].include?(expo_detail)
 							end
 
@@ -284,10 +294,12 @@ af_artists.shuffle.slice(0,1).each do |artist|
 							expos[:today] = [] if expos[:today].nil?
 							expos[:today] << expo unless expos[:today].include?(expo)
 
-							unless af_expo['country'] == 'France'
-								artist[:expos][:today] = [] if artist[:expos][:today].nil?
+							if af_expo['country'] == 'France'
+								artist[:expos][:today] << {i: expo_detail[:i], c: 'FR'}
+							else
 								artist[:expos][:today] << expo_detail unless artist[:expos][:today].include?(expo_detail)
 							end
+
 						end
 					rescue
 					end

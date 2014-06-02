@@ -1,7 +1,7 @@
 {
   "id": "2070",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:02:59",
+  "timestamp": "2014-05-24 06:15:28",
   "name": "Jacques Julien",
   "surname": "Julien",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sculpture",
-  "r00": "8146",
-  "r01": "7951",
-  "r02": "7012",
-  "r03": "6347",
-  "r04": "5584",
-  "r05": "4745",
-  "r06": "5253",
-  "r07": "4888",
-  "r08": "4210",
+  "r00": "8817",
+  "r01": "10520",
+  "r02": "11335",
+  "r03": "9161",
+  "r04": "7868",
+  "r05": "6469",
+  "r06": "5205",
+  "r07": "6158",
+  "r08": "5527",
   "awards": null,
   "website": null,
   "all-shows-first": "1995",
-  "all-shows-total": "31",
-  "2005-shows-biennials": "1",
-  "2005-shows-galleries": "1",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (9), Luxembourg (1)",
-  "2005-shows-with": "Jacques Julien (9), Raphaël Zarka (4), Didier Rittener (3), Scoli Acosta (2), Saâdane Afif (2), Wilfrid Almendra (2), Conny Blom (2), Katinka Bock (2), Olivier Dollinger (2), Elmgreen & Dragset (2), Geert Goiris (2), Raphaël Julliard (2), Jan Kopp (2), Renée Lévi (2), Jonathan Monk (2), Gyan Panchal (2), Bruno Peinado (2), Présence Panchounette (2), Tony Regazzoni (2), Hugues Reip (2), Bojan Sarcevic (2), Ernesto Sartori (2), Izet Sheshivari (2), Simon Starling (2), Jean-Luc Verna (2), Mathieu Walker (2)",
+  "all-shows-total": "32",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (11), Luxembourg (1)",
+  "2005-shows-with": "Jacques Julien (10), Raphaël Zarka (4), Didier Rittener (3), Scoli Acosta (2), Saâdane Afif (2), Wilfrid Almendra (2), Conny Blom (2), Katinka Bock (2), Olivier Dollinger (2), Elmgreen & Dragset (2), Piero Gilardi (2), Geert Goiris (2), Raphaël Julliard (2), Jan Kopp (2), Renée Lévi (2), Jonathan Monk (2), Robert Morris (2), Gyan Panchal (2), Bruno Peinado (2), Présence Panchounette (2), Tony Regazzoni (2), Hugues Reip (2), Bojan Sarcevic (2), Ernesto Sartori (2), Izet Sheshivari (2), Simon Starling (2), Taroop & Glabel (2), Julien Tiberi (2), Jean-Luc Verna (2), Mathieu Walker (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France)",
   "first_name": "Jacques",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "2070-10227-2005-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "2070-10227-2005-03-30",
+        "c": "FR"
+      },
       {
         "i": "2070-2546-2005-10-20",
         "c": "DE",
@@ -71,6 +79,30 @@
           "2005-10-20",
           "2006-01-08"
         ]
+      },
+      {
+        "i": "2070-4184-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "2070-4184-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "2070-8540-2006-07-11",
+        "c": "FR"
+      },
+      {
+        "i": "2070-8540-2006-07-11",
+        "c": "FR"
+      },
+      {
+        "i": "2070-8554-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "2070-8554-2006-09-08",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -86,6 +118,108 @@
           "2008-01-26",
           "2008-04-06"
         ]
+      },
+      {
+        "i": "2070-10218-2008-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "2070-10218-2008-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "2070-1782-2008-12-04",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "2070-1782-2008-12-04",
+        "c": "FR"
+      },
+      {
+        "i": "2070-12129-2009-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "2070-12129-2009-04-29",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "2070-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "2070-10227-2010-05-07",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "2070-1829-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "2070-1829-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "2070-21098-2011-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "2070-21098-2011-03-06",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "2070-29576-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "2070-29576-2012-07-06",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "2070-29739-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "2070-29739-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "2070-2585-2013-11-24",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "2070-2585-2013-11-24",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "2070-15361-2007-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "2070-15361-2007-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "2070-2414-2007-03-02",
+        "c": "FR"
+      },
+      {
+        "i": "2070-2414-2007-03-02",
+        "c": "FR"
       }
     ]
   }

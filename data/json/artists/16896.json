@@ -1,7 +1,7 @@
 {
   "id": "16896",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:10",
+  "timestamp": "2014-05-24 06:21:39",
   "name": "Pierrette Bloch",
   "surname": "Bloch",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "9806",
-  "r01": "10671",
-  "r02": "9731",
-  "r03": "9863",
-  "r04": "21661",
-  "r05": "26292",
-  "r06": "28340",
-  "r07": "23604",
-  "r08": "25915",
+  "r00": "5185",
+  "r01": "5937",
+  "r02": "9383",
+  "r03": "8252",
+  "r04": "8414",
+  "r05": "23154",
+  "r06": "30063",
+  "r07": "32934",
+  "r08": "25979",
   "awards": null,
   "website": null,
   "all-shows-first": "1995",
-  "all-shows-total": "23",
+  "all-shows-total": "25",
   "2005-shows-biennials": "9",
   "2005-shows-galleries": "9",
-  "2005-shows-museums": "7",
-  "2005-countries-total": "France (11), USA (3), Germany (1), Switzerland (1)",
-  "2005-shows-with": "Pierrette Bloch (11), Louise Bourgeois (4), Véra Molnar (4), Giuseppe Penone (4), Norbert Prangenberg (3), Dove Allouche (2), Francis Alys (2), Valérie Belin (2), Jonathan Callan (2), Nina Canell (2), Tony Cragg (2), Ding Yi (2), Marcel Duchamp (2), Gotthard Graubner (2), Mona Hatoum (2), Eva Hesse (2), Vasily Kandinsky (2), Zilvinas Kempinas (2), Catherine Lee (2), Henri Michaux (2), Gideon Rubin (2), Georgia Russell (2), Zineb Sedira (2), Joël Shapiro (2), Pierre Soulages (2), Atsuko Tanaka (2), Tatiana Trouvé (2), Marthe Wéry (2)",
+  "2005-shows-museums": "11",
+  "2005-countries-total": "France (13), USA (3), Germany (2), Belgium (1), Switzerland (1)",
+  "2005-shows-with": "Pierrette Bloch (14), Louise Bourgeois (5), Véra Molnar (4), Giuseppe Penone (4), Henri Michaux (3), Norbert Prangenberg (3), Magdalena Abakanowicz (2), Anni Albers (2), Dove Allouche (2), Francis Alys (2), Ghada Amer (2), Cécile Bart (2), Valérie Belin (2), Etienne Bossut (2), Alexander Calder (2), Jonathan Callan (2), Nina Canell (2), Claude Closky (2), Tony Cragg (2), Tacita Dean (2), Dewar & Gicquel (2), Ding Yi (2), Marcel Duchamp (2), Latifa Echakhch (2), Ryan Gander (2), Vidya Gastaldon (2), Eve Gramatzki (2), Gotthard Graubner (2), Mona Hatoum (2), Eva Hesse (2), Sheila Hicks (2), Vasily Kandinsky (2), Zilvinas Kempinas (2), Bouchra Khalili (2), Laura Lamiel (2), Catherine Lee (2), Natacha Lesueur (2), Joàn Miró (2), François Morellet (2), Pablo Picasso (2), Présence Panchounette (2), Judit Reigl (2), Edda Renouf (2), Gideon Rubin (2), Georgia Russell (2), Zineb Sedira (2), Joël Shapiro (2), Pierre Soulages (2), Sophie Taeuber-Arp (2), Atsuko Tanaka (2), Rosemarie Trockel (2), Tatiana Trouvé ",
   "representing-galleries": "Galerie Frank (7, rue Saint-Claude, 75003 Paris, France); Galerie Marwan Hoss (12, rue d´Alger, 75001 Paris, France); Atelier Eric Seydoux (6, rue de l'Abbé-Carton, 75014 Paris, France); Galerie Lucie Weill & Seligmann (6 rue Bonaparte, 75006 Paris, France); Galerie Karsten Greve - Cologne (Drususgasse 1 - 5, 50667 Cologne, Germany); Pieceunic (50 rue des Bains, 1205 Geneva, Switzerland); Galerie Rosa Turetsky (25 Grand rue, 1204 Geneva, Switzerland); Haim Chanin Fine Art (121 East 19th Street 10th Floor, 10011 New York City, NY, USA)",
   "collecting-museums": "FRAC - Picardie (45 rue Pointin, 80041 Amiens, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France)",
   "first_name": "Pierrette",
@@ -43,7 +43,33 @@
   "age": 86,
   "age_range": "61-100",
   "expos": {
+    "2006": [
+      {
+        "i": "16896-7129-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "16896-7129-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "16896-11828-2006-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "16896-11828-2006-10-24",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "16896-7910-2008-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "16896-7910-2008-03-08",
+        "c": "FR"
+      },
       {
         "i": "16896-2997-2008-05-11",
         "c": "US",
@@ -58,7 +84,106 @@
         ]
       }
     ],
+    "2009": [
+      {
+        "i": "16896-1270-2009-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "16896-1270-2009-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "16896-10506-2009-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "16896-10506-2009-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "16896-2219-2009-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "16896-10121-2009-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "16896-10121-2009-07-10",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "16896-2219-2009-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "16896-8293-2010-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "16896-2228-2010-11-21",
+        "c": "US",
+        "n": "On Line: Drawing Through the Twentieth Century",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "MoMA - Museum of Modern Art",
+        "d": [
+          "2010-11-21",
+          "2011-02-07"
+        ]
+      },
+      {
+        "i": "16896-1270-2011-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "16896-1270-2011-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "16896-91-2011-04-13",
+        "c": "DE",
+        "n": "Pierrette Bloch",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Cologne",
+        "o": "Galerie Karsten Greve - Cologne",
+        "d": [
+          "2011-04-13",
+          "2011-05-21"
+        ]
+      },
+      {
+        "i": "16896-23994-2011-09-22",
+        "c": "CH",
+        "n": "Pierrette Bloch",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Geneva",
+        "o": "Galerie Rosa Turetsky",
+        "d": [
+          "2011-09-22",
+          "2011-10-29"
+        ]
+      }
+    ],
     "2010": [
+      {
+        "i": "16896-1270-2010-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "16896-1270-2010-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "16896-8293-2010-10-13",
+        "c": "FR"
+      },
       {
         "i": "16896-2228-2010-11-21",
         "c": "US",
@@ -86,45 +211,34 @@
         ]
       }
     ],
-    "2011": [
+    "2012": [
       {
-        "i": "16896-2228-2010-11-21",
-        "c": "US",
-        "n": "On Line: Drawing Through the Twentieth Century",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "New York City, NY",
-        "o": "MoMA - Museum of Modern Art",
-        "d": [
-          "2010-11-21",
-          "2011-02-07"
-        ]
+        "i": "16896-1270-2012-11-17",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16896-1270-2012-11-17",
+        "c": "FR"
       },
       {
-        "i": "16896-91-2011-04-13",
-        "c": "DE",
-        "n": "Pierrette Bloch",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Cologne",
-        "o": "Galerie Karsten Greve - Cologne",
-        "d": [
-          "2011-04-13",
-          "2011-05-21"
-        ]
+        "i": "16896-21541-2013-01-11",
+        "c": "FR"
       },
       {
-        "i": "16896-23994-2011-09-22",
-        "c": "CH",
-        "n": "Pierrette Bloch",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Geneva",
-        "o": "Galerie Rosa Turetsky",
-        "d": [
-          "2011-09-22",
-          "2011-10-29"
-        ]
+        "i": "16896-21541-2013-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "16896-29739-2013-10-12",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "16896-29739-2013-10-12",
+        "c": "FR"
       }
     ],
     "2005": [

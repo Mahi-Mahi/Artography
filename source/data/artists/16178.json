@@ -1,7 +1,7 @@
 {
   "id": "16178",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:46",
+  "timestamp": "2014-05-24 06:21:21",
   "name": "Véronique Joumard",
   "surname": "Joumard",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Installation, Sculpture",
-  "r00": "4761",
-  "r01": "4482",
-  "r02": "4139",
-  "r03": "3673",
-  "r04": "3361",
-  "r05": "3029",
-  "r06": "2749",
-  "r07": "2678",
-  "r08": "3097",
+  "r00": "7244",
+  "r01": "7000",
+  "r02": "6156",
+  "r03": "5385",
+  "r04": "4427",
+  "r05": "3816",
+  "r06": "3308",
+  "r07": "2866",
+  "r08": "2718",
   "awards": null,
   "website": null,
   "all-shows-first": "1993",
-  "all-shows-total": "55",
+  "all-shows-total": "56",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
-  "2005-shows-museums": "10",
-  "2005-countries-total": "France (16), Japan (1), Mexico (1), Switzerland (1)",
-  "2005-shows-with": "Véronique Joumard (18), Christophe Cuzin (3), Ivan Fayard (3), Fischli & Weiss (3), Didier Marcel (3), François Morellet (3), Hugues Reip (3), Alain Séchas (3), Jean-Luc Vilmouth (3), Vito Acconci (2), Lewis Baltz (2), Vincent Barré (2), Berdaguer & Péjus (2), Dike Blair (2), Claude Closky (2), Peter Coffin (2), Delphine Coindet (2), Stéphane Dafflon (2), Olivier Debré (2), Philippe Decrauzat (2), Marcelline Delbecq (2), Anders Edström (2), Leandro Erlich (2), Laurent Grasso (2), Mona Hatoum (2), Vincent Lamouroux (2), Ange Leccia (2), Mathieu Mercier (2), Mrzyk & Moriceau (2), Steven Parrino (2), Éric Poitevin (2), Richard Prince (2), Hiroshi Sugimoto (2), John Tremblay (2), Raphaël Zarka (2)",
+  "2005-shows-museums": "11",
+  "2005-countries-total": "France (17), Japan (1), Mexico (1), Switzerland (1)",
+  "2005-shows-with": "Véronique Joumard (19), Christophe Cuzin (3), Ivan Fayard (3), Fischli & Weiss (3), Didier Marcel (3), François Morellet (3), Hugues Reip (3), Alain Séchas (3), Hiroshi Sugimoto (3), Jean-Luc Vilmouth (3), Vito Acconci (2), Lewis Baltz (2), Vincent Barré (2), Berdaguer & Péjus (2), Dike Blair (2), Claude Closky (2), Peter Coffin (2), Delphine Coindet (2), Stéphane Dafflon (2), Olivier Debré (2), Philippe Decrauzat (2), Marcelline Delbecq (2), Anders Edström (2), Leandro Erlich (2), Laurent Grasso (2), Mona Hatoum (2), Vincent Lamouroux (2), Ange Leccia (2), Mathieu Mercier (2), Mrzyk & Moriceau (2), Steven Parrino (2), Éric Poitevin (2), Richard Prince (2), Roman Signer (2), John Tremblay (2), Raphaël Zarka (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France)",
   "first_name": "Véronique",
@@ -56,6 +56,22 @@
           "2005-03-09",
           "2005-04-30"
         ]
+      },
+      {
+        "i": "16178-4184-2005-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "16178-4184-2005-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "16178-11587-2005-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "16178-11587-2005-05-28",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -71,9 +87,49 @@
           "2006-01-20",
           "2006-02-18"
         ]
+      },
+      {
+        "i": "16178-10517-2006-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "16178-10517-2006-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "16178-8554-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "16178-8554-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "16178-18800-2006-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "16178-18800-2006-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "16178-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "16178-10227-2006-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "16178-10227-2006-01-08",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "16178-2219-2006-09-27",
+        "c": "FR"
+      },
       {
         "i": "16178-2233-2007-01-18",
         "c": "CH",
@@ -99,9 +155,119 @@
           "2007-03-17",
           "2007-05-05"
         ]
+      },
+      {
+        "i": "16178-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "16178-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "16178-9475-2007-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "16178-9475-2007-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "16178-16305-2007-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "16178-16305-2007-09-21",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "16178-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "16178-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "16178-1923-2008-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "16178-1923-2008-06-13",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "16178-11882-2009-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "16178-28534-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "16178-28534-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "16178-18811-2009-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "16178-18800-2009-09-19",
+        "c": "FR"
+      },
+      {
+        "i": "16178-18800-2009-09-19",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "16178-11882-2009-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "16178-18811-2009-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "16178-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "16178-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "16178-8520-2010-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "16178-8520-2010-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "16178-11681-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "16178-11681-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "16178-4184-2010-12-10",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "16178-4184-2010-12-10",
+        "c": "FR"
+      },
       {
         "i": "16178-3444-2011-05-28",
         "c": "CH",
@@ -129,9 +295,49 @@
           "2012-04-20",
           "2012-06-10"
         ]
+      },
+      {
+        "i": "16178-2024-2012-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "16178-2024-2012-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "16178-10517-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "16178-10517-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "16178-8554-2012-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "16178-8554-2012-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "16178-2013-2012-12-08",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "16178-2013-2012-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "16178-10517-2013-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "16178-10517-2013-01-20",
+        "c": "FR"
+      },
       {
         "i": "16178-29259-2013-03-20",
         "c": "JP",
@@ -143,6 +349,14 @@
           "2013-03-20",
           "2013-11-04"
         ]
+      },
+      {
+        "i": "16178-17377-2013-06-26",
+        "c": "FR"
+      },
+      {
+        "i": "16178-17377-2013-06-26",
+        "c": "FR"
       }
     ]
   }

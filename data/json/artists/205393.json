@@ -1,7 +1,7 @@
 {
   "id": "205393",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:25:51",
+  "timestamp": "2014-05-24 07:26:50",
   "name": "Jean-Baptiste Bouvet",
   "surname": "Bouvet",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "86305",
-  "r01": "83527",
-  "r02": "78912",
-  "r03": "80018",
-  "r04": "89152",
-  "r05": "83529",
-  "r06": null,
+  "r00": "72130",
+  "r01": "72452",
+  "r02": "68590",
+  "r03": "63266",
+  "r04": "64075",
+  "r05": "71476",
+  "r06": "80535",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "5",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": null,
   "2005-countries-total": "Germany (5), France (1)",
-  "2005-shows-with": "Jean-Baptiste Bouvet (5), Gregor Hildebrandt (2), Anna Hughes (2), Ludovic Jecker (2), Alicja Kwade (2), Xavier Mazzarol (2), Hannu Prinz (2), Marie Reinert (2), Niels Trannois (2), Claudia Wieser (2)",
+  "2005-shows-with": "Jean-Baptiste Bouvet (5), Agathe Fleury (2), Gregor Hildebrandt (2), Anna Hughes (2), Ludovic Jecker (2), Alicja Kwade (2), Xavier Mazzarol (2), Hannu Prinz (2), Marie Reinert (2), Niels Trannois (2), Claudia Wieser (2)",
   "representing-galleries": "Bimal Projects (Zimmerstraße 11, 10969 Berlin, Germany)",
   "collecting-museums": null,
   "first_name": "Jean-Baptiste",
@@ -43,6 +43,29 @@
   "age": 34,
   "age_range": "26-40",
   "expos": {
+    "2008": [
+      {
+        "i": "205393-11247-2008-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "205393-11247-2008-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "205393-16764-2008-11-29",
+        "c": "DE",
+        "n": "Jean–Baptiste Bouvet",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "Bimal Projects",
+        "d": [
+          "2008-11-29",
+          "2009-01-31"
+        ]
+      }
+    ],
     "2009": [
       {
         "i": "205393-17121-2009-02-07",
@@ -113,21 +136,6 @@
         "d": [
           "2012-09-13",
           "2012-09-16"
-        ]
-      }
-    ],
-    "2008": [
-      {
-        "i": "205393-16764-2008-11-29",
-        "c": "DE",
-        "n": "Jean–Baptiste Bouvet",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "Bimal Projects",
-        "d": [
-          "2008-11-29",
-          "2009-01-31"
         ]
       }
     ]

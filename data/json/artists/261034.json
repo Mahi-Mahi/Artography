@@ -1,7 +1,7 @@
 {
   "id": "261034",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:47:20",
+  "timestamp": "2014-05-24 07:45:52",
   "name": "Simon Nicaise",
   "surname": "Nicaise",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "31114",
-  "r01": "31038",
-  "r02": "38236",
-  "r03": "38294",
-  "r04": "90243",
-  "r05": null,
+  "r00": "22799",
+  "r01": "22802",
+  "r02": "23047",
+  "r03": "28445",
+  "r04": "28060",
+  "r05": "81913",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2009",
-  "all-shows-total": "9",
+  "all-shows-total": "11",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (8), Germany (1)",
-  "2005-shows-with": "Simon Nicaise (8), Nicolas Muller (3), Adrien Vescovi (3), Saâdane Afif (2), Fayçal Baghriche (2), Karina Bisch (2), Julien Chevy (2), Matthieu Clainchard (2), Pierre Fisher (2), Vincent Ganivet (2), MA Leledy (2), Mathieu Mercier (2), Bertrand Planes (2), Elisa Pône (2), Julien Prévieux (2), Bojan Stojic (2), Julie Vayssière (2)",
+  "2005-countries-total": "France (10), Germany (1)",
+  "2005-shows-with": "Simon Nicaise (9), Nicolas Muller (3), Adrien Vescovi (3), Saâdane Afif (2), Fayçal Baghriche (2), Karina Bisch (2), Julien Chevy (2), Matthieu Clainchard (2), Pierre Fisher (2), Vincent Ganivet (2), Bertrand Lavier (2), MA Leledy (2), Mathieu Mercier (2), Julien Nédélec (2), Bertrand Planes (2), Elisa Pône (2), Julien Prévieux (2), Bojan Stojic (2), Julie Vayssière (2), Raphaël Zarka (2)",
   "representing-galleries": "Bodson-Emelinckx Gallery (Rue de Hennin 70, 1050 Brussels, Belgium)",
   "collecting-museums": null,
   "first_name": "Simon",
@@ -43,7 +43,33 @@
   "age": 32,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "261034-11771-2009-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "261034-11771-2009-04-18",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "261034-1293-2010-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "261034-1293-2010-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "261034-20082-2010-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "261034-20082-2010-04-13",
+        "c": "FR"
+      },
       {
         "i": "261034-22649-2010-06-10",
         "c": "DE",
@@ -56,6 +82,52 @@
           "2010-06-10",
           "2010-06-26"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "261034-18150-2011-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "261034-18150-2011-07-06",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "261034-23298-2012-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "261034-23298-2012-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "261034-1957-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "261034-1957-2012-09-08",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "261034-30270-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "261034-30270-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "261034-11771-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "261034-11771-2013-02-15",
+        "c": "FR"
       }
     ]
   }

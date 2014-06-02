@@ -1,7 +1,7 @@
 {
   "id": "17260",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:19",
+  "timestamp": "2014-05-24 06:21:48",
   "name": "Véronique Boudier",
   "surname": "Boudier",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography, Video, Installation, Performance",
-  "r00": "5347",
-  "r01": "4789",
-  "r02": "4592",
-  "r03": "4773",
-  "r04": "4229",
-  "r05": "4605",
-  "r06": "4069",
-  "r07": "3347",
-  "r08": "3523",
+  "r00": "7121",
+  "r01": "7043",
+  "r02": "5540",
+  "r03": "5098",
+  "r04": "5450",
+  "r05": "4401",
+  "r06": "4860",
+  "r07": "4046",
+  "r08": "3131",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "43",
-  "2005-shows-biennials": "8",
-  "2005-shows-galleries": "8",
-  "2005-shows-museums": "9",
-  "2005-countries-total": "France (17), Belgium (1)",
-  "2005-shows-with": "Véronique Boudier (15), Michel Blazy (3), Jean-Luc Moulène (3), Pierre Ardouvin (2), Elina Brotherus (2), Pauline Curnier Jardin (2), Hélène Delprat (2), Sophie Dubosc (2), Nathalie Elémento (2), David Lefebvre (2), Orlan (2), Jean-Luc Verna (2)",
+  "all-shows-total": "44",
+  "2005-shows-biennials": "9",
+  "2005-shows-galleries": "9",
+  "2005-shows-museums": "10",
+  "2005-countries-total": "France (19), Belgium (1)",
+  "2005-shows-with": "Véronique Boudier (16), Michel Blazy (3), Jean-Luc Moulène (3), Pierre Ardouvin (2), Elina Brotherus (2), Pauline Curnier Jardin (2), Hélène Delprat (2), Gérard Deschamps (2), Marcel Dinahet (2), Sophie Dubosc (2), Céline Duval (2), Nathalie Elémento (2), Fischli & Weiss (2), Sigalit Landau (2), David Lefebvre (2), Orlan (2), Jean-Luc Verna (2)",
   "representing-galleries": "Galerie Christophe Gaillard (12 rue de Thorigny, 75003 Paris, France)",
   "collecting-museums": "Centre d'Art le LAIT (41 rue porta, 81000 Albi, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France)",
   "first_name": "Véronique",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "17260-8189-2005-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "17260-8189-2005-06-05",
+        "c": "FR"
+      },
       {
         "i": "17260-18972-2005-10-07",
         "c": "IT",
@@ -68,6 +76,14 @@
           "2005-10-29",
           "2006-01-15"
         ]
+      },
+      {
+        "i": "17260-2585-2005-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "17260-2585-2005-02-26",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -96,9 +112,17 @@
           "2006-07-08",
           "2006-08-19"
         ]
+      },
+      {
+        "i": "17260-2219-2006-09-27",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "17260-2219-2006-09-27",
+        "c": "FR"
+      },
       {
         "i": "17260-17449-2007-03-31",
         "c": "TH",
@@ -111,9 +135,85 @@
           "2007-03-31",
           "2007-06-17"
         ]
+      },
+      {
+        "i": "17260-16095-2007-11-16",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "17260-16095-2007-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "17260-378-2008-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "17260-378-2008-11-22",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "17260-12906-2009-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "17260-12906-2009-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "17260-9475-2009-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "17260-9475-2009-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "17260-9344-2009-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "17260-9344-2009-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "17260-3100-2009-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "17260-5115-2009-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "17260-5115-2009-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "17260-7491-2009-12-18",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "17260-3100-2009-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "17260-7491-2009-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "17260-16095-2010-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "17260-16095-2010-04-28",
+        "c": "FR"
+      },
       {
         "i": "17260-10361-2010-01-24",
         "c": "BE",
@@ -126,6 +226,84 @@
           "2010-01-24",
           "2010-02-20"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "17260-9475-2011-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "17260-9475-2011-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "17260-16207-2011-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "17260-16207-2011-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "17260-26775-2011-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "17260-26775-2011-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "17260-27842-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "17260-27842-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "17260-16207-2011-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "17260-16207-2011-06-09",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "17260-16207-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "17260-16207-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "17260-16207-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "17260-16207-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "17260-9344-2012-11-23",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "17260-9344-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "17260-16207-2013-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "17260-16207-2013-05-16",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "57270",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:12",
+  "timestamp": "2014-05-24 06:36:13",
   "name": "Laurent Fiévet",
   "surname": "Fiévet",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video installation",
-  "r00": "17741",
-  "r01": "16232",
-  "r02": "15230",
-  "r03": "17671",
-  "r04": "17733",
-  "r05": "17468",
-  "r06": "17091",
-  "r07": "18402",
-  "r08": "19218",
+  "r00": "21437",
+  "r01": "20509",
+  "r02": "16722",
+  "r03": "15016",
+  "r04": "17701",
+  "r05": "17380",
+  "r06": "16572",
+  "r07": "16437",
+  "r08": "17787",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "27",
-  "2005-shows-biennials": "12",
-  "2005-shows-galleries": "12",
+  "all-shows-total": "28",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
   "2005-shows-museums": "5",
-  "2005-countries-total": "France (16), Canada (1), Italy (1), Netherlands (1)",
-  "2005-shows-with": "Laurent Fiévet (16), Frédéric Coché (3), Dominique Dehais (3), Sanna Kannisto (3), Laurence   Papouin (3), Laurent Pernot (3), Dominique Petitgand (3), Marie-Amélie Porcher (3), Jérôme Touron (3), Mehdi Abbioui (2), Adel Abdessemed (2), Lida Abdul (2), Nobuyoshi Araki (2), Rémy Artiges (2), Valérie Belin (2), Pascal Bernier (2), Boris & Natascha (2), Carole Chebron (2), Jan Fabre (2), Aurélia Frey (2), Robin Friend (2), Benjamin Girard (2), Teun Hocks (2), Doris Kloster-Folliet (2), Ange Leccia (2), Ien Lucas (2), Tina Mérandon (2), Richard Müller (2), Juha Nenonen (2), Liza Nguyen (2), Fabienne Oudart (2), Félix Pinquier (2), Delphine Pouille (2), Jan Saudek (2), Olivier Sidet (2), Nicolas Simarik (2), Natascha Stellmach (2), Jacqueline Taïb (2), Aymeric Vergnon-d\\'Alançon (2), Ingrid Wildi Merino (2)",
+  "2005-countries-total": "France (16), Brazil (1), Canada (1), Italy (1), Netherlands (1)",
+  "2005-shows-with": "Laurent Fiévet (17), Frédéric Coché (3), Dominique Dehais (3), Sanna Kannisto (3), Laurence   Papouin (3), Laurent Pernot (3), Dominique Petitgand (3), Marie-Amélie Porcher (3), Jérôme Touron (3), Mehdi Abbioui (2), Adel Abdessemed (2), Lida Abdul (2), Nobuyoshi Araki (2), Rémy Artiges (2), Valérie Belin (2), Pascal Bernier (2), Manon de Boer (2), Boris & Natascha (2), Nathalie Brevet & Hughes Rochette (2), Carole Chebron (2), Marilá Dardot (2), Anne Durez (2), Jan Fabre (2), Aurélia Frey (2), Robin Friend (2), Benjamin Girard (2), Teun Hocks (2), Maurício Ianês (2), Doris Kloster-Folliet (2), Ange Leccia (2), Ien Lucas (2), Tina Mérandon (2), Richard Müller (2), Juha Nenonen (2), Liza Nguyen (2), Fabienne Oudart (2), Félix Pinquier (2), Delphine Pouille (2), Jan Saudek (2), Olivier Sidet (2), Nicolas Simarik (2), Natascha Stellmach (2), Jacqueline Taïb (2), Aymeric Vergnon-d\\'Alançon (2), Ingrid Wildi Merino (2)",
   "representing-galleries": "Galerie La Ferronnerie (40, rue de la Folie-Méricourt, 75011 Paris, France); Galerie Ramakers (Toussaintkade 51, 2513 CL The Hague, Netherlands)",
   "collecting-museums": null,
   "first_name": "Laurent",
@@ -43,7 +43,33 @@
   "age": 45,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "57270-1402-2006-07-12",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2006-07-12",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2006-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2006-02-14",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "57270-1402-2007-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2007-01-12",
+        "c": "FR"
+      },
       {
         "i": "57270-13268-2007-07-07",
         "c": "PT",
@@ -56,6 +82,14 @@
           "2007-07-07",
           "2007-10-07"
         ]
+      },
+      {
+        "i": "57270-1402-2007-10-09",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2007-10-09",
+        "c": "FR"
       },
       {
         "i": "57270-3348-2007-09-09",
@@ -83,9 +117,75 @@
           "2008-06-01",
           "2008-06-15"
         ]
+      },
+      {
+        "i": "57270-1402-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "57270-24432-2008-12-05",
+        "c": "FR"
+      },
+      {
+        "i": "57270-24432-2008-12-05",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "57270-1402-2009-03-05",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2009-03-05",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2009-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2009-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2009-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2009-10-13",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "57270-21639-2011-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "57270-21639-2011-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "57270-7999-2011-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "57270-7999-2011-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2011-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2011-03-03",
+        "c": "FR"
+      },
       {
         "i": "57270-1300-2011-03-04",
         "c": "IT",
@@ -100,6 +200,30 @@
         ]
       },
       {
+        "i": "57270-26775-2011-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "57270-26775-2011-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "57270-24709-2011-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "57270-24709-2011-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "57270-24711-2011-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "57270-24711-2011-05-13",
+        "c": "FR"
+      },
+      {
         "i": "57270-3348-2011-06-19",
         "c": "NL",
         "n": "Paris Calling!",
@@ -111,6 +235,52 @@
           "2011-06-19",
           "2011-07-17"
         ]
+      },
+      {
+        "i": "57270-1402-2011-12-13",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2010-12-15",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "57270-1402-2011-12-13",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2012-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2012-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "57270-1402-2012-12-13",
+        "c": "FR"
+      },
+      {
+        "i": "57270-18612-2012-10-26",
+        "c": "FR"
+      },
+      {
+        "i": "57270-18612-2012-10-26",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "57270-1402-2012-12-13",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "57270-1402-2010-12-15",
+        "c": "FR"
       }
     ]
   }

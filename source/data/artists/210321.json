@@ -1,7 +1,7 @@
 {
   "id": "210321",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:27:49",
+  "timestamp": "2014-05-24 07:28:31",
   "name": "Sebastien Gouju",
   "surname": "Gouju",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "46045",
-  "r01": "43257",
-  "r02": "44675",
-  "r03": "40585",
-  "r04": "61878",
-  "r05": "67058",
-  "r06": "59522",
-  "r07": "85070",
-  "r08": "74755",
+  "r00": "31272",
+  "r01": "40948",
+  "r02": "36753",
+  "r03": "37450",
+  "r04": "33150",
+  "r05": "54887",
+  "r06": "60133",
+  "r07": "52495",
+  "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "11",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (5), Belgium (1), Switzerland (1)",
-  "2005-shows-with": "Sebastien Gouju (6), Jean-Jacques Dumont (2), Esther Hiepler (2)",
+  "2005-countries-total": "France (6), Belgium (1), Germany (1), Switzerland (1)",
+  "2005-shows-with": "Sebastien Gouju (7), Jean-Jacques Dumont (2), Esther Hiepler (2), Patrick Neu (2)",
   "representing-galleries": "Galerie Sémiose (3 rue de Montiboeufs, 75020 Paris, France)",
   "collecting-museums": null,
   "first_name": "Sebastien",
@@ -43,6 +43,16 @@
   "age": 36,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "210321-10222-2009-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "210321-10222-2009-09-18",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "210321-6124-2010-05-06",
@@ -69,6 +79,58 @@
           "2010-08-07",
           "2010-09-26"
         ]
+      },
+      {
+        "i": "210321-7816-2010-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "210321-7816-2010-06-04",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "210321-19790-2012-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "210321-19790-2012-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "210321-7816-2012-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "210321-7816-2012-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "210321-28664-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "210321-28664-2012-07-06",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "210321-18102-2007-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "210321-18102-2007-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "210321-7816-2007-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "210321-7816-2007-09-22",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "65414",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:33",
+  "timestamp": "2014-05-24 06:39:08",
   "name": "Marc Quer",
   "surname": "Quer",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "36574",
-  "r01": "43843",
-  "r02": "39388",
-  "r03": "35003",
-  "r04": "30848",
-  "r05": "26518",
-  "r06": "22556",
-  "r07": "18712",
-  "r08": "15254",
+  "r00": "34328",
+  "r01": "42408",
+  "r02": "60684",
+  "r03": "48216",
+  "r04": "39132",
+  "r05": "31732",
+  "r06": "25729",
+  "r07": "20680",
+  "r08": "16439",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "7",
+  "all-shows-total": "8",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (4)",
-  "2005-shows-with": "Marc Quer (3), Chourouk Hriech (2)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (5)",
+  "2005-shows-with": "Marc Quer (4), Douglas Gordon (2), Chourouk Hriech (2), Anri Sala (2), Barthélémy Toguo (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Marc",
@@ -43,5 +43,51 @@
   "age": 49,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "65414-2585-2005-11-05",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "65414-2585-2005-11-05",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "65414-28736-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "65414-28736-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "65414-26256-2013-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "65414-26256-2013-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "65414-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "65414-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "65414-26256-2013-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "65414-26256-2013-05-16",
+        "c": "FR"
+      }
+    ]
   }
 }

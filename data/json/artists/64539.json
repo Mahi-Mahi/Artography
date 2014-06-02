@@ -1,7 +1,7 @@
 {
   "id": "64539",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:10",
+  "timestamp": "2014-05-24 06:38:49",
   "name": "ZEVS",
   "surname": "ZEVS",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Graffiti",
-  "r00": "9634",
-  "r01": "9466",
-  "r02": "9652",
-  "r03": "9104",
-  "r04": "8657",
-  "r05": "11531",
-  "r06": "35330",
-  "r07": "60446",
-  "r08": "74755",
+  "r00": "8117",
+  "r01": "7738",
+  "r02": "7789",
+  "r03": "7772",
+  "r04": "7286",
+  "r05": "6743",
+  "r06": "9223",
+  "r07": "31127",
+  "r08": "57172",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "38",
-  "2005-shows-biennials": "19",
-  "2005-shows-galleries": "19",
+  "all-shows-total": "40",
+  "2005-shows-biennials": "21",
+  "2005-shows-galleries": "21",
   "2005-shows-museums": "9",
-  "2005-countries-total": "Germany (7), United Kingdom (6), USA (6), China (4), France (4), Denmark (3), Czech Republic (1), Switzerland (1), United Arab Emirates (1)",
-  "2005-shows-with": "ZEVS (29), BOXI (6), Invader (6), Tilt (6), Brad Downey (5), Shepard Fairey (5), Mirko Reisser (5), Blu (4), Conor Harrington (4), Mark Jenkins (4), JonOne (4), Daniel Man (4), Miss Van (4), Victor Ash (3), Herbert Baglione (3), Daniele Buetti (3), Futura2000 (3), Damien Hirst (3), Lucy McLauchlan (3), Antony Micallef (3), Mode 2 (3), Os Gemeos (3), Pius Portmann (3), Richard Prince (3), Swoon (3), Word To Mother (3), Jonathan Yeo (3), A-Kassen (2), AES+F (2), Akim (2), Ruby Anemic (2), Miroslaw Balka (2), Banksy (2), BAST (2), Maiken Bent (2), Blek Le Rat (2), Bronco (2), Baldur Burwitz (2), Dave the Chimp (2), David Choe (2), Lilibeth Cuenca Rasmussen (2), D*Face (2), Miranda Donovan (2), DTagno (2), Jimmie Durham (2), Ben Eine (2), Robert Filliou (2), Ian Francis (2), Liam Gillick (2), Nan Goldin (2), S. Mark Gubb (2), Jan S. Hansen (2), Jenny Holzer (2), Todd James (2), JR (2), Juneau Projects (2), Toshiya Kobayashi (2), Hans Kotter (2), Barbara Kruger (2), Mambo (2), John Matos (2), Michael Mayhew (2), B",
-  "representing-galleries": "Galerie Patricia Dorfmann (61, rue de la Verrerie, 75004 Paris, France); Galerie Zeitgeist (4 bis rue du Chevalier de la Barre, 75018 Paris, France); Lazarides Gallery (11 Rathbone Place, W1T 1HR London (England), United Kingdom); De Buck Gallery (511 W 25th Street, Suite 502, 10001 New York City, NY, USA)",
+  "2005-countries-total": "Germany (7), USA (7), United Kingdom (6), China (4), France (4), Denmark (3), Czech Republic (1), Norway (1), Switzerland (1), United Arab Emirates (1)",
+  "2005-shows-with": "ZEVS (31), BOXI (6), Invader (6), Tilt (6), Vhils (6), Brad Downey (5), Shepard Fairey (5), Conor Harrington (5), Mirko Reisser (5), Blu (4), Mark Jenkins (4), JonOne (4), Daniel Man (4), Antony Micallef (4), Miss Van (4), Mode 2 (4), Jonathan Yeo (4), Victor Ash (3), Herbert Baglione (3), Daniele Buetti (3), EINE (3), Ian Francis (3), Futura2000 (3), Damien Hirst (3), Lucy McLauchlan (3), Os Gemeos (3), Pius Portmann (3), Richard Prince (3), Swoon (3), Word To Mother (3), A-Kassen (2), AES+F (2), Akim (2), Ruby Anemic (2), Miroslaw Balka (2), Banksy (2), BAST (2), Maiken Bent (2), Blek Le Rat (2), Bronco (2), Baldur Burwitz (2), Dave the Chimp (2), David Choe (2), Lilibeth Cuenca Rasmussen (2), D*Face (2), Miranda Donovan (2), Stanley Donwood (2), DTagno (2), Jimmie Durham (2), Robert Filliou (2), Liam Gillick (2), Nan Goldin (2), S. Mark Gubb (2), Jan S. Hansen (2), Jenny Holzer (2), Paul Insect (2), Todd James (2), JR (2), Juneau Projects (2), Toshiya Kobayashi (2), Hans Kotter (2), Barbara Kruger (2), Mam",
+  "representing-galleries": "Galerie Patricia Dorfmann (61, rue de la Verrerie, 75004 Paris, France); Galerie Zeitgeist (4 bis rue du Chevalier de la Barre, 75018 Paris, France); Lazarides Gallery (11 Rathbone Place, W1T 1HR London, United Kingdom); De Buck Gallery (511 W 25th Street, Suite 502, 10001 New York City, NY, USA)",
   "collecting-museums": null,
   "first_name": "ZEVS",
   "last_name": "",
@@ -82,6 +82,22 @@
           "2007-09-21",
           "2007-11-10"
         ]
+      },
+      {
+        "i": "64539-2090-2007-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "64539-2090-2007-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "64539-2094-2007-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "64539-2094-2007-05-24",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -231,6 +247,14 @@
         ]
       },
       {
+        "i": "64539-2094-2009-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "64539-2094-2009-02-07",
+        "c": "FR"
+      },
+      {
         "i": "64539-10665-2009-05-15",
         "c": "GB",
         "n": "Grow Up",
@@ -257,6 +281,14 @@
         ]
       },
       {
+        "i": "64539-1829-2009-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "64539-1829-2009-09-08",
+        "c": "FR"
+      },
+      {
         "i": "64539-8687-2009-10-15",
         "c": "DE",
         "n": "Artotale - Leuphana Urban Art Project",
@@ -268,6 +300,14 @@
           "2009-10-15",
           "2009-10-09"
         ]
+      },
+      {
+        "i": "64539-2090-2009-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "64539-2090-2009-10-24",
+        "c": "FR"
       },
       {
         "i": "64539-7269-2009-12-17",
@@ -361,9 +401,17 @@
           "2010-09-17",
           "2010-11-28"
         ]
+      },
+      {
+        "i": "64539-22952-2010-12-02",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "64539-22952-2010-12-02",
+        "c": "FR"
+      },
       {
         "i": "64539-21999-2011-07-21",
         "c": "US",
@@ -523,6 +571,16 @@
           "2013-07-08",
           "2013-08-30"
         ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "64539-2094-2006-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "64539-2094-2006-03-23",
+        "c": "FR"
       }
     ]
   }

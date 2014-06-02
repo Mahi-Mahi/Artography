@@ -1,7 +1,7 @@
 {
   "id": "38407",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:19:29",
+  "timestamp": "2014-05-24 06:29:30",
   "name": "Camille Henrot",
   "surname": "Henrot",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video",
-  "r00": "2068",
-  "r01": "3310",
-  "r02": "3799",
-  "r03": "4118",
-  "r04": "4732",
-  "r05": "4942",
-  "r06": "5355",
-  "r07": "7263",
-  "r08": "8207",
+  "r00": "887",
+  "r01": "1444",
+  "r02": "2716",
+  "r03": "3123",
+  "r04": "3344",
+  "r05": "3923",
+  "r06": "4124",
+  "r07": "4478",
+  "r08": "6190",
   "awards": null,
-  "website": null,
+  "website": "www.camillehenrot.fr",
   "all-shows-first": "2005",
-  "all-shows-total": "69",
-  "2005-shows-biennials": "11",
-  "2005-shows-galleries": "11",
-  "2005-shows-museums": "31",
-  "2005-countries-total": "France (30), USA (9), Germany (2), South Korea (2), Belgium (1), Benin (1), Brazil (1), Canada (1), China (1), Italy (1), Luxembourg (1), Taiwan (1), United Arab Emirates (1), United Kingdom (1), Uruguay (1)",
-  "2005-shows-with": "Camille Henrot (48), Claude Lévêque (8), Kader Attia (7), Cyprien Gaillard (7), Mathieu Mercier (7), Valérie Belin (6), Vidya Gastaldon (6), Alfredo Jaar (6), Anri Sala (6), Zineb Sedira (6), Adel Abdessemed (5), Virginie Barré (5), Laurent Grasso (5), Bouchra Khalili (5), Anne-Marie Schneider (5), Tatiana Trouvé (5), Pierre Ardouvin (4), Neil Beloufa (4), Michel Blazy (4), Céleste Boursier-Mougenot (4), Marie Bovo (4), Mircea Cantor (4), Jimmie Durham (4), Thomas Hirschhorn (4), Pierre Huyghe (4), Valérie Jouve (4), Sigalit Landau (4), Didier Marcel (4), François Morellet (4), Huang Yong Ping (4), Younès Rahmoun (4), Philippe Ramette (4), Shen Yuan (4), Oscar Tuazon (4), Xavier Veilhan (4), Raphaël Zarka (4), Georges Adéagbo (3), Francis Alys (3), Alice Anderson (3), Julien Audebert (3), Gilles Barbier (3), Yto Barrada (3), Eric Baudelaire (3), Laetitia Benat (3), Pierre Bismuth (3), Mohamed Bourouissa (3), Daniel Buren (3), Stéphane Calais (3), Maurizio Cattelan (3), Claude Closky (3), Stéphane",
+  "all-shows-total": "81",
+  "2005-shows-biennials": "12",
+  "2005-shows-galleries": "12",
+  "2005-shows-museums": "39",
+  "2005-countries-total": "France (33), USA (11), Germany (3), Belgium (2), South Korea (2), Spain (2), Sweden (2), United Kingdom (2), Benin (1), Brazil (1), Canada (1), China (1), Italy (1), Luxembourg (1), Netherlands (1), Taiwan (1), United Arab Emirates (1), Uruguay (1)",
+  "2005-shows-with": "Camille Henrot (58), Claude Lévêque (10), Kader Attia (8), Cyprien Gaillard (7), Mathieu Mercier (7), Valérie Belin (6), Vidya Gastaldon (6), Alfredo Jaar (6), Anri Sala (6), Zineb Sedira (6), Adel Abdessemed (5), Virginie Barré (5), Laurent Grasso (5), Bouchra Khalili (5), Younès Rahmoun (5), Lili Reynaud Dewar (5), Anne-Marie Schneider (5), Tatiana Trouvé (5), Francis Alys (4), Pierre Ardouvin (4), Yto Barrada (4), Neil Beloufa (4), Michel Blazy (4), Mohamed Bourouissa (4), Céleste Boursier-Mougenot (4), Marie Bovo (4), Mircea Cantor (4), Jimmie Durham (4), Ryan Gander (4), Thomas Hirschhorn (4), Pierre Huyghe (4), Valérie Jouve (4), Sigalit Landau (4), Ange Leccia (4), Pierre Malphettes (4), Didier Marcel (4), François Morellet (4), Huang Yong Ping (4), Philippe Ramette (4), Shen Yuan (4), Oscar Tuazon (4), Xavier Veilhan (4), Raphaël Zarka (4), Mathieu Kleyebe Abonnenc (3), Georges Adéagbo (3), Alice Anderson (3), Julien Audebert (3), Gilles Barbier (3), Eric Baudelaire (3), Laetitia Benat (3),",
   "representing-galleries": "Galerie Kamel Mennour (60 rue Mazarine, 75006 Paris, France); Rosascape (99 rue du Faubourg du Temple, 75010 Paris, France)",
   "collecting-museums": null,
   "first_name": "Camille",
@@ -56,9 +56,65 @@
           "2005-04-07",
           "2005-05-07"
         ]
+      },
+      {
+        "i": "38407-1293-2005-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1293-2005-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1957-2005-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1957-2005-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "38407-2342-2005-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "38407-2342-2005-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "38407-6620-2005-12-04",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1957-2005-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1957-2005-09-10",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "38407-6620-2005-12-04",
+        "c": "FR"
+      },
+      {
+        "i": "38407-9475-2006-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "38407-9475-2006-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "38407-10237-2006-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "38407-10237-2006-03-11",
+        "c": "FR"
+      },
       {
         "i": "38407-5639-2006-10-17",
         "c": "CH",
@@ -73,7 +129,49 @@
         ]
       }
     ],
+    "2007": [
+      {
+        "i": "38407-1782-2007-02-01",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1782-2007-02-01",
+        "c": "FR"
+      },
+      {
+        "i": "38407-2709-2007-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "38407-2709-2007-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "38407-20789-2007-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "38407-20789-2007-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1293-2007-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "38407-5317-2007-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "38407-5317-2007-05-19",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "38407-1293-2007-10-20",
+        "c": "FR"
+      },
       {
         "i": "38407-3540-2008-06-07",
         "c": "LU",
@@ -99,6 +197,22 @@
           "2008-06-20",
           "2008-09-14"
         ]
+      },
+      {
+        "i": "38407-1941-2008-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1941-2008-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "38407-8282-2008-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "38407-8282-2008-10-10",
+        "c": "FR"
       },
       {
         "i": "38407-7708-2008-10-30",
@@ -153,9 +267,65 @@
           "2009-04-24",
           "2009-06-22"
         ]
+      },
+      {
+        "i": "38407-27918-2009-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "38407-27918-2009-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1941-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1941-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1941-2009-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1941-2009-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "38407-11894-2009-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "38407-11894-2009-05-30",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "38407-20789-2010-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "38407-20789-2010-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "38407-18811-2010-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "38407-18811-2010-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1782-2010-06-11",
+        "c": "FR"
+      },
       {
         "i": "38407-2404-2010-07-10",
         "c": "TW",
@@ -181,9 +351,41 @@
           "2010-09-10",
           "2010-12-30"
         ]
+      },
+      {
+        "i": "38407-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "38407-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "38407-2353-2010-11-06",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "38407-2353-2010-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "38407-8282-2011-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "38407-8282-2011-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "38407-7347-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "38407-7347-2011-05-07",
+        "c": "FR"
+      },
       {
         "i": "38407-22923-2011-05-15",
         "c": "CN",
@@ -211,6 +413,14 @@
         ]
       },
       {
+        "i": "38407-11894-2011-07-02",
+        "c": "FR"
+      },
+      {
+        "i": "38407-11894-2011-07-02",
+        "c": "FR"
+      },
+      {
         "i": "38407-2743-2011-07-26",
         "c": "KR",
         "n": "French Art Today: Marcel Duchamp Prize",
@@ -235,6 +445,10 @@
           "2011-11-07",
           "2013-01-06"
         ]
+      },
+      {
+        "i": "38407-8700-2011-11-16",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -250,6 +464,10 @@
           "2011-11-07",
           "2013-01-06"
         ]
+      },
+      {
+        "i": "38407-27822-2012-10-13",
+        "c": "FR"
       },
       {
         "i": "38407-27199-2012-11-08",
@@ -274,6 +492,14 @@
           "2012-11-24",
           "2013-03-30"
         ]
+      },
+      {
+        "i": "38407-19085-2012-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "38407-946-2012-11-30",
+        "c": "FR"
       },
       {
         "i": "38407-10777-2012-12-01",
@@ -302,6 +528,38 @@
         ]
       },
       {
+        "i": "38407-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "38407-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "38407-27822-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "38407-27822-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "38407-26673-2013-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "38407-26673-2013-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "38407-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "38407-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
         "i": "38407-2367-2013-06-01",
         "c": "IT",
         "n": "Biennale di Venezia - 55th International Art Exhibition",
@@ -312,6 +570,14 @@
           "2013-06-01",
           "2013-11-24"
         ]
+      },
+      {
+        "i": "38407-22704-2013-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "38407-22704-2013-06-08",
+        "c": "FR"
       },
       {
         "i": "38407-9946-2013-09-07",
@@ -327,6 +593,18 @@
         ]
       },
       {
+        "i": "38407-21128-2013-09-19",
+        "c": "FR"
+      },
+      {
+        "i": "38407-21128-2013-09-19",
+        "c": "FR"
+      },
+      {
+        "i": "38407-8997-2013-10-05",
+        "c": "FR"
+      },
+      {
         "i": "38407-29999-2013-10-10",
         "c": "US",
         "n": "Solar",
@@ -340,6 +618,10 @@
         ]
       },
       {
+        "i": "38407-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
         "i": "38407-29939-2013-10-17",
         "c": "US",
         "n": "I SEE YOU",
@@ -351,6 +633,14 @@
           "2013-10-17",
           "2014-01-31"
         ]
+      },
+      {
+        "i": "38407-19606-2013-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "38407-19606-2013-10-19",
+        "c": "FR"
       },
       {
         "i": "38407-8011-2013-01-12",
@@ -394,6 +684,26 @@
     ],
     "2012": [
       {
+        "i": "38407-8700-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "38407-26765-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "38407-26765-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "38407-7347-2012-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "38407-7347-2012-05-07",
+        "c": "FR"
+      },
+      {
         "i": "38407-132-2012-08-15",
         "c": "US",
         "n": "Estate",
@@ -420,6 +730,10 @@
         ]
       },
       {
+        "i": "38407-27822-2012-10-13",
+        "c": "FR"
+      },
+      {
         "i": "38407-27199-2012-11-08",
         "c": "BJ",
         "n": "Biennale Bénin 2012",
@@ -444,6 +758,14 @@
         ]
       },
       {
+        "i": "38407-19085-2012-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "38407-946-2012-11-30",
+        "c": "FR"
+      },
+      {
         "i": "38407-10777-2012-12-01",
         "c": "US",
         "n": "Lost (in La)",
@@ -455,9 +777,25 @@
           "2012-12-01",
           "2013-01-27"
         ]
+      },
+      {
+        "i": "38407-27966-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "38407-27966-2012-09-07",
+        "c": "FR"
       }
     ],
     "2014": [
+      {
+        "i": "38407-8997-2013-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "38407-29739-2013-10-12",
+        "c": "FR"
+      },
       {
         "i": "38407-29939-2013-10-17",
         "c": "US",

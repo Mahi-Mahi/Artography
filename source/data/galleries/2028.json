@@ -16,6 +16,32 @@
   "fairs-abroad": "4",
   "fairs-in-FR": "6",
   "fairs": {
+    "2007": [
+      {
+        "i": "2028-Show Off Paris 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "2028-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
+        "i": "2028-Fiac 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "2028-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
+        "i": "2028-Fiac 2009",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "2028-Art 41 Basel",
@@ -28,6 +54,12 @@
         "c": "BE",
         "n": "Lineart 2010",
         "ct": "Ghent"
+      }
+    ],
+    "2011": [
+      {
+        "i": "2028-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
       }
     ],
     "2012": [

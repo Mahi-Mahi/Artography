@@ -1,7 +1,7 @@
 {
   "id": "21547",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:12:07",
+  "timestamp": "2014-05-24 06:23:22",
   "name": "Louis Jammes",
   "surname": "Jammes",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Printmaking, Photography",
-  "r00": "15705",
-  "r01": "14198",
-  "r02": "15056",
-  "r03": "16231",
-  "r04": "13916",
-  "r05": "18625",
-  "r06": "15422",
-  "r07": "12776",
-  "r08": "10198",
+  "r00": "11036",
+  "r01": "18627",
+  "r02": "15590",
+  "r03": "17313",
+  "r04": "19707",
+  "r05": "15700",
+  "r06": "24910",
+  "r07": "18556",
+  "r08": "13400",
   "awards": null,
   "website": null,
   "all-shows-first": "1986",
-  "all-shows-total": "21",
+  "all-shows-total": "24",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (7)",
-  "2005-shows-with": "Louis Jammes (6), Robert Combas (4), François Boisrond (3), Hervé di Rosa (3), Jean Charles Blais (2), Rémi Blanchard (2), Erró (2), Bernard Faucon (2), Loïc le Groumellec (2), Fabrice Hybert (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (8)",
+  "2005-shows-with": "Louis Jammes (7), Robert Combas (5), François Boisrond (4), Hervé di Rosa (4), Jean Charles Blais (3), Fabrice Hybert (3), Miquel Barceló (2), Rémi Blanchard (2), Erró (2), Bernard Faucon (2), Loïc le Groumellec (2), Annette Messager (2), Georges Rousse (2)",
   "representing-galleries": "Galerie Seine 51 (51 rue de Seine, 75006 Paris, France); Gallery Yamaki Fine Art (3-9-5-2F Motomachi Chuo-ku, 650-0022  Hyogo, Japan)",
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France)",
   "first_name": "Louis",
@@ -56,6 +56,90 @@
           "2005-09-02",
           "2005-09-29"
         ]
+      },
+      {
+        "i": "21547-5450-2005-11-23",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "21547-5450-2005-11-23",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "21547-5129-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "21547-5129-2007-05-11",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "21547-28534-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "21547-28534-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "21547-8281-2009-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "21547-20789-2009-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "21547-20789-2009-11-13",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "21547-8281-2009-10-24",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "21547-9344-2011-11-18",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "21547-9344-2011-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "21547-5450-2012-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "21547-5450-2012-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "21547-14218-2012-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "21547-14218-2012-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "21547-5450-2012-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "21547-5450-2012-10-16",
+        "c": "FR"
       }
     ]
   }

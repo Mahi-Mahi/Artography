@@ -1,7 +1,7 @@
 {
   "id": "53210",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:25:25",
+  "timestamp": "2014-05-24 06:34:47",
   "name": "Vincent Olinet",
   "surname": "Olinet",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "6706",
-  "r01": "6985",
-  "r02": "6428",
-  "r03": "6272",
-  "r04": "12960",
-  "r05": "11845",
-  "r06": "11181",
-  "r07": "11511",
-  "r08": "33904",
+  "r00": "4955",
+  "r01": "5704",
+  "r02": "5773",
+  "r03": "5192",
+  "r04": "4967",
+  "r05": "11513",
+  "r06": "10345",
+  "r07": "9452",
+  "r08": "9652",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "27",
+  "all-shows-total": "28",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
-  "2005-shows-museums": "12",
-  "2005-countries-total": "France (9), Germany (4), Italy (2), USA (2), Belgium (1), China (1), Netherlands (1), Russia (1), Spain (1), Switzerland (1)",
-  "2005-shows-with": "Vincent Olinet (19), Wim Delvoye (3), Claude Lévêque (3), Marina Abramovic (2), Delphine Balley (2), Pascal Bernier (2), Claude Closky (2), Will Cotton (2), Martin Creed (2), Damien Deroubaix (2), Fischli & Weiss (2), Laura Ford (2), Frances Goodman (2), Jeppe Hein (2), John Isaacs (2), Jeff Koons (2), Robert Lazzarini (2), Paul McCarthy (2), Jonathan Meese (2), Marilyn Minter (2), Piet Moget (2), Takashi Murakami (2), Bruce Nauman (2), Xavier Noiret-Thomé (2), Cécile Paris (2), Alicia Paz (2), Hervé di Rosa (2), Samuel Rousseau (2), Erwin Wurm (2), Yarisal & Kublitz (2)",
+  "2005-shows-museums": "13",
+  "2005-countries-total": "France (9), Germany (4), Italy (2), USA (2), Austria (1), Belgium (1), China (1), Netherlands (1), Russia (1), Spain (1), Switzerland (1)",
+  "2005-shows-with": "Vincent Olinet (20), Wim Delvoye (3), Fischli & Weiss (3), Jeppe Hein (3), Claude Lévêque (3), Bruce Nauman (3), Marina Abramovic (2), Francis Alys (2), Delphine Balley (2), Pascal Bernier (2), John Bock (2), Charlie Chaplin (2), Claude Closky (2), Will Cotton (2), Martin Creed (2), Damien Deroubaix (2), Marcel Duchamp (2), Robert Elfgen (2), Laura Ford (2), Frances Goodman (2), Rodney Graham (2), John Isaacs (2), Buster Keaton (2), Szymon Kobylarz (2), Jeff Koons (2), Alexej Koschkarow (2), Peter Land (2), Robert Lazzarini (2), Louis Lumière (2), Gordon Matta-Clark (2), Paul McCarthy (2), Bruce McLean (2), Steve McQueen (2), Jonathan Meese (2), Marilyn Minter (2), Piet Moget (2), Takashi Murakami (2), Xavier Noiret-Thomé (2), Cécile Paris (2), Alicia Paz (2), Wilfredo Prieto (2), Hervé di Rosa (2), Samuel Rousseau (2), Timm Ulrichs (2), Erwin Wurm (2), Yarisal & Kublitz (2)",
   "representing-galleries": "Sorry, we’re closed (Rue de la Régence 65A, 1000 Brussels, Belgium); Galerie Laurent Godin (5 Rue du Grenier Saint Lazare, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Vincent",
@@ -43,6 +43,38 @@
   "age": 33,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "53210-2528-2005-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "53210-2528-2005-09-11",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "53210-5908-2006-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "53210-2219-2006-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "53210-2219-2006-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "53210-5908-2006-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "53210-5908-2006-06-09",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "53210-2430-2008-06-28",
@@ -56,6 +88,14 @@
           "2008-06-28",
           "2008-08-31"
         ]
+      },
+      {
+        "i": "53210-5908-2008-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "53210-5908-2008-10-11",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -127,6 +167,22 @@
         ]
       },
       {
+        "i": "53210-8128-2010-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "53210-8128-2010-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "53210-8545-2010-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "53210-8545-2010-06-27",
+        "c": "FR"
+      },
+      {
         "i": "53210-8561-2010-07-02",
         "c": "RU",
         "n": "Vis-A-Vis",
@@ -153,6 +209,10 @@
         ]
       },
       {
+        "i": "53210-4651-2010-10-22",
+        "c": "FR"
+      },
+      {
         "i": "53210-3460-2010-10-24",
         "c": "CN",
         "n": "8th Shanghai Biennale",
@@ -163,6 +223,14 @@
           "2010-10-24",
           "2011-02-28"
         ]
+      },
+      {
+        "i": "53210-5908-2010-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "53210-5908-2010-04-01",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -178,6 +246,10 @@
           "2010-10-15",
           "2011-02-20"
         ]
+      },
+      {
+        "i": "53210-4651-2010-10-22",
+        "c": "FR"
       },
       {
         "i": "53210-3460-2010-10-24",
@@ -203,6 +275,18 @@
           "2011-01-19",
           "2011-02-18"
         ]
+      },
+      {
+        "i": "53210-20082-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "53210-20082-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "53210-26733-2011-06-03",
+        "c": "FR"
       },
       {
         "i": "53210-346-2011-09-24",
@@ -246,6 +330,10 @@
     ],
     "2012": [
       {
+        "i": "53210-26733-2011-06-03",
+        "c": "FR"
+      },
+      {
         "i": "53210-27894-2012-07-04",
         "c": "ES",
         "n": "De Paso En La Tierra",
@@ -270,9 +358,25 @@
           "2011-11-04",
           "2012-01-14"
         ]
+      },
+      {
+        "i": "53210-22624-2012-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "53210-22624-2012-03-29",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "53210-29111-2013-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "53210-29111-2013-06-25",
+        "c": "FR"
+      },
       {
         "i": "53210-3576-2013-07-20",
         "c": "DE",
@@ -315,6 +419,14 @@
           "2007-03-01",
           "2007-04-30"
         ]
+      },
+      {
+        "i": "53210-5908-2007-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "53210-5908-2007-05-20",
+        "c": "FR"
       }
     ]
   }

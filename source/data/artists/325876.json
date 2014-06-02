@@ -1,7 +1,7 @@
 {
   "id": "325876",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:12:33",
+  "timestamp": "2014-05-24 08:07:49",
   "name": "Joséphine Kaeppelin",
   "surname": "Kaeppelin",
   "nationality": "FR",
@@ -16,10 +16,10 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "36724",
-  "r01": "40395",
-  "r02": "85495",
-  "r03": null,
+  "r00": "23853",
+  "r01": "28704",
+  "r02": "31880",
+  "r03": "76013",
   "r04": null,
   "r05": null,
   "r06": null,
@@ -28,12 +28,12 @@
   "awards": null,
   "website": "www.josephinekaeppelin.com",
   "all-shows-first": "2011",
-  "all-shows-total": "4",
-  "2005-shows-biennials": null,
-  "2005-shows-galleries": null,
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (2), Germany (2)",
-  "2005-shows-with": "Joséphine Kaeppelin (2)",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "Germany (3), France (2), Turkey (1)",
+  "2005-shows-with": "Joséphine Kaeppelin (4)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Joséphine",
@@ -71,9 +71,25 @@
           "2011-11-25",
           "2012-01-08"
         ]
+      },
+      {
+        "i": "325876-6620-2012-10-07",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "325876-15174-2013-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "325876-15174-2013-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "325876-6620-2012-10-07",
+        "c": "FR"
+      },
       {
         "i": "325876-16163-2013-10-10",
         "c": "DE",

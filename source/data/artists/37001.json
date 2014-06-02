@@ -1,7 +1,7 @@
 {
   "id": "37001",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:18:55",
+  "timestamp": "2014-05-24 06:29:00",
   "name": "Jean-Baptiste Ganne",
   "surname": "Ganne",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "5572",
-  "r01": "5133",
-  "r02": "5286",
-  "r03": "5416",
-  "r04": "5180",
-  "r05": "5563",
-  "r06": "6571",
-  "r07": "11004",
-  "r08": "11221",
+  "r00": "5697",
+  "r01": "5348",
+  "r02": "4502",
+  "r03": "4598",
+  "r04": "5048",
+  "r05": "4734",
+  "r06": "4971",
+  "r07": "6074",
+  "r08": "10985",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "32",
+  "all-shows-total": "33",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "12",
-  "2005-countries-total": "France (10), Belgium (1), Greece (1), Hungary (1), Italy (1), Switzerland (1), United Kingdom (1)",
-  "2005-shows-with": "Jean-Baptiste Ganne (14), Eric Duyckaerts (4), Raymond Hains (4), Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), Gilles Barbier (3), Julien Blaine (3), Heath Bunting (3), Anna Byskov (3), Gilbert Caty (3), Nancy Davenport (3), Erik Dietman (3), Noël Dolla (3), Joël Ducorroy (3), Miklós Erhardt (3), Kristof Everart (3), Daniel Farioli (3), Fred Forest (3), Paul-Armand Gette (3), Alexandra Guillot (3), Yoko Gunji (3), Raoul Hébréard (3), Carsten Höller (3), Michel Journiac (3), Tamás Kaszás (3), Zofia Kulik (3), Arnaud Labelle-Rojoux (3), Thierry Lagalla (3), Virginie Le Touze (3), Jean-Jacques Lebel (3), Jacques Lizène (3), Marko Lulic (3), George Maciunas (3), Jean Mas (3), Florent Mattei (3), Bruno Mendonça (3), Roland Miller (3), Patrick Moya (3), Serge Oldenbourg (3), Orlan (3), Gina Pane (3), Philippe Parreno (3), Gilbert Pedinielli (3), Philippe Perrin (3), Pierre Pinoncelli (3), Oliver Ressler (3), Charly van Rest (3), Mimmo Rotella (3), Niki de Saint Phalle (3), Fia-Stina Sandlund ",
+  "2005-shows-museums": "13",
+  "2005-countries-total": "France (11), Belgium (1), Greece (1), Hungary (1), Italy (1), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Jean-Baptiste Ganne (15), Erik Dietman (4), Noël Dolla (4), Eric Duyckaerts (4), Raymond Hains (4), Serge Oldenbourg (4), Pierre Pinoncelli (4), Mimmo Rotella (4), Niki de Saint Phalle (4), Bernar Venet (4), Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), Gilles Barbier (3), Julien Blaine (3), Julien Bouillon (3), Heath Bunting (3), Anna Byskov (3), Gilbert Caty (3), Nancy Davenport (3), Joël Ducorroy (3), Miklós Erhardt (3), Kristof Everart (3), Daniel Farioli (3), Robert Filliou (3), Fred Forest (3), Paul-Armand Gette (3), Claude Gilli (3), Alexandra Guillot (3), Yoko Gunji (3), Raoul Hébréard (3), Carsten Höller (3), Michel Journiac (3), Tamás Kaszás (3), Zofia Kulik (3), Arnaud Labelle-Rojoux (3), Thierry Lagalla (3), Virginie Le Touze (3), Jean-Jacques Lebel (3), Jacques Lizène (3), Marko Lulic (3), George Maciunas (3), Jean Mas (3), Florent Mattei (3), Bruno Mendonça (3), Roland Miller (3), Patrick Moya (3), Orlan (3), Gina Pane (3), Philippe Parreno (3), Gilbert Pedinielli (3), Phil",
   "representing-galleries": "Vidéochroniques (1 place de Lorette, 13002 Marseille, France)",
   "collecting-museums": null,
   "first_name": "Jean-Baptiste",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "37001-6588-2005-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "37001-6588-2005-02-15",
+        "c": "FR"
+      },
       {
         "i": "37001-3289-2005-05-21",
         "c": "NL",
@@ -60,6 +68,22 @@
     ],
     "2006": [
       {
+        "i": "37001-22295-2006-02-24",
+        "c": "FR"
+      },
+      {
+        "i": "37001-22295-2006-02-24",
+        "c": "FR"
+      },
+      {
+        "i": "37001-20789-2006-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "37001-20789-2006-03-09",
+        "c": "FR"
+      },
+      {
         "i": "37001-3289-2006-07-01",
         "c": "NL",
         "n": "What a finger is to the moon - groupshow",
@@ -71,6 +95,14 @@
           "2006-07-01",
           "2006-07-15"
         ]
+      },
+      {
+        "i": "37001-7851-2006-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "37001-7851-2006-09-30",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -178,9 +210,61 @@
           "2008-11-13",
           "2008-12-19"
         ]
+      },
+      {
+        "i": "37001-1782-2008-12-04",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "37001-1782-2008-12-04",
+        "c": "FR"
+      },
+      {
+        "i": "37001-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "37001-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "37001-8282-2009-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "37001-8282-2009-06-03",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "37001-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "37001-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "37001-22295-2010-11-27",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "37001-22295-2010-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "37001-2585-2011-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "37001-2585-2011-06-24",
+        "c": "FR"
+      },
       {
         "i": "37001-8157-2011-11-26",
         "c": "CH",
@@ -193,6 +277,42 @@
           "2011-11-26",
           "2011-12-22"
         ]
+      },
+      {
+        "i": "37001-18150-2011-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "37001-18150-2011-09-10",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "37001-2585-2012-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "37001-2585-2012-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "37001-2585-2012-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "37001-2585-2012-07-01",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "37001-11886-2013-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "37001-11886-2013-06-08",
+        "c": "FR"
       }
     ]
   }

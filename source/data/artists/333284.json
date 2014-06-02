@@ -1,7 +1,7 @@
 {
   "id": "333284",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:15:15",
+  "timestamp": "2014-05-24 08:10:16",
   "name": "Morgane Fourey",
   "surname": "Fourey",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "33616",
-  "r01": "58322",
-  "r02": "76640",
-  "r03": "87325",
-  "r04": "92137",
-  "r05": null,
+  "r00": "25290",
+  "r01": "25833",
+  "r02": "47603",
+  "r03": "67851",
+  "r04": "81257",
+  "r05": "88868",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2009",
-  "all-shows-total": "10",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (10)",
-  "2005-shows-with": "Morgane Fourey (6), Jérôme Allavena (2), Vincent Deleplanque (2), Yoeri Guépin (2), Thierry Lagalla (2), Frédéric Malette (2), Martinet & Texereau (2), Marion Robin (2), Olivier Sévère (2), Xavier Theunis (2), Kirill Ukolov (2)",
+  "2005-countries-total": "France (9)",
+  "2005-shows-with": "Morgane Fourey (5), Jérôme Allavena (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Morgane",
@@ -43,5 +43,95 @@
   "age": 30,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "333284-19670-2009-12-15",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "333284-19670-2009-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "333284-19670-2010-12-21",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "333284-19670-2010-12-21",
+        "c": "FR"
+      },
+      {
+        "i": "333284-20132-2011-04-26",
+        "c": "FR"
+      },
+      {
+        "i": "333284-20132-2011-04-26",
+        "c": "FR"
+      },
+      {
+        "i": "333284-18150-2011-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "333284-18150-2011-07-06",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "333284-28767-2013-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "333284-28767-2013-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "333284-19953-2013-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "333284-19953-2013-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "333284-1953-2013-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "333284-1953-2013-01-25",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "333284-10990-2012-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "333284-10990-2012-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "333284-10990-2012-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "333284-10990-2012-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "333284-10990-2012-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "333284-10990-2012-03-23",
+        "c": "FR"
+      }
+    ]
   }
 }

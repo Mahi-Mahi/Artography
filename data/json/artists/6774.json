@@ -1,7 +1,7 @@
 {
   "id": "6774",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:05:29",
+  "timestamp": "2014-05-24 06:17:38",
   "name": "Walter Strack",
   "surname": "Strack",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "74367",
-  "r01": "75301",
-  "r02": "70093",
-  "r03": "64918",
-  "r04": "58727",
-  "r05": "86881",
-  "r06": "78644",
-  "r07": "70253",
-  "r08": "64354",
+  "r00": "65435",
+  "r01": "65243",
+  "r02": "65181",
+  "r03": "63808",
+  "r04": "58087",
+  "r05": "51816",
+  "r06": "89136",
+  "r07": "79921",
+  "r08": "70691",
   "awards": null,
   "website": null,
   "all-shows-first": "1965",
-  "all-shows-total": "8",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (2), Poland (1)",
-  "2005-shows-with": "César Andrade (2), Ania Borzobohaty (2), Manuel Mérida (2), Francisco Salazar (2), Jesús Rafael Soto (2), Walter Strack (2), Luis Tomasello (2), Ludwig Wilding (2)",
+  "2005-countries-total": "France (3), Poland (1)",
+  "2005-shows-with": "César Andrade (3), Walter Strack (3), Ania Borzobohaty (2), Manuel Mérida (2), Dario Pérez-Flores (2), Francisco Salazar (2), Jesús Rafael Soto (2), Luis Tomasello (2), Ludwig Wilding (2)",
   "representing-galleries": "Espace Meyer Zafra (4, rue Malher, 75006 Paris, France); M-ART Galerie (Heegbarg 31, 22391 Hamburg, Germany)",
   "collecting-museums": null,
   "first_name": "Walter",
@@ -114,6 +114,24 @@
           "2009-06-19",
           "2009-09-13"
         ]
+      },
+      {
+        "i": "6774-10283-2009-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "6774-10283-2009-01-20",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "6774-10283-2013-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "6774-10283-2013-01-15",
+        "c": "FR"
       }
     ]
   }

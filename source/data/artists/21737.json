@@ -1,7 +1,7 @@
 {
   "id": "21737",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:12:12",
+  "timestamp": "2014-05-24 06:23:27",
   "name": "Pascal Kern",
   "surname": "Kern",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "16844",
-  "r01": "16727",
-  "r02": "15694",
-  "r03": "14199",
-  "r04": "12055",
-  "r05": "10538",
-  "r06": "8620",
-  "r07": "6889",
-  "r08": "5415",
+  "r00": "30155",
+  "r01": "31254",
+  "r02": "32772",
+  "r03": "28502",
+  "r04": "23318",
+  "r05": "17288",
+  "r06": "13857",
+  "r07": "10063",
+  "r08": "7382",
   "awards": null,
   "website": null,
   "all-shows-first": "1985",
-  "all-shows-total": "19",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "21",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
   "2005-shows-museums": "2",
-  "2005-countries-total": "United Kingdom (3), France (2)",
-  "2005-shows-with": "Pascal Kern (5), Doug & Mike Starn (3), Tom Drahos (2), Ian McKeever (2), Garry Fabian Miller (2), Anne Moreau (2), Alison Rossiter (2)",
-  "representing-galleries": "HackelBury Fine Art Limited (4 Launceston Place, W8 5RL London (England), United Kingdom); Eaton Fine Art (435 Gardenia Street, 33401 West Palm Beach, FL, USA)",
+  "2005-countries-total": "United Kingdom (4), France (2)",
+  "2005-shows-with": "Pascal Kern (6), Doug & Mike Starn (4), Garry Fabian Miller (3), Tom Drahos (2), Ian McKeever (2), Anne Moreau (2), Alison Rossiter (2)",
+  "representing-galleries": "HackelBury Fine Art Limited (4 Launceston Place, W8 5RL London, United Kingdom); Eaton Fine Art (435 Gardenia Street, 33401 West Palm Beach, FL, USA)",
   "collecting-museums": "FRAC - Picardie (45 rue Pointin, 80041 Amiens, France); FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); Maison Européenne de la Photographie (5/7 rue de Fourcy, 75004 Paris, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France)",
   "first_name": "Pascal",
   "last_name": "Kern",
@@ -69,6 +69,16 @@
           "2005-09-01",
           "2005-09-30"
         ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "21737-28534-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "21737-28534-2009-06-18",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -112,6 +122,16 @@
           "2012-06-21",
           "2012-08-04"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "21737-10519-2013-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "21737-10519-2013-10-02",
+        "c": "FR"
       }
     ]
   }

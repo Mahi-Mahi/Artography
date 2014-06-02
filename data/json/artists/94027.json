@@ -1,7 +1,7 @@
 {
   "id": "94027",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:42:19",
+  "timestamp": "2014-05-24 06:49:07",
   "name": "Pierre Pinoncelli",
   "surname": "Pinoncelli",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "29813",
-  "r01": "27947",
-  "r02": "59069",
-  "r03": "113855",
-  "r04": "109026",
-  "r05": "102393",
-  "r06": "94166",
-  "r07": "85070",
+  "r00": "18543",
+  "r01": "18742",
+  "r02": "16900",
+  "r03": "31372",
+  "r04": null,
+  "r05": null,
+  "r06": null,
+  "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "4",
+  "all-shows-total": "5",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (3)",
-  "2005-shows-with": "Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), Julien Blaine (3), Anna Byskov (3), Gilbert Caty (3), Erik Dietman (3), Noël Dolla (3), Joël Ducorroy (3), Eric Duyckaerts (3), Kristof Everart (3), Daniel Farioli (3), Fred Forest (3), Jean-Baptiste Ganne (3), Paul-Armand Gette (3), Yoko Gunji (3), Raymond Hains (3), Raoul Hébréard (3), Michel Journiac (3), Virginie Le Touze (3), Jean-Jacques Lebel (3), Jacques Lizène (3), George Maciunas (3), Jean Mas (3), Florent Mattei (3), Bruno Mendonça (3), Roland Miller (3), Patrick Moya (3), Serge Oldenbourg (3), Orlan (3), Gina Pane (3), Gilbert Pedinielli (3), Philippe Perrin (3), Pierre Pinoncelli (3), Charly van Rest (3), Mimmo Rotella (3), Niki de Saint Phalle (3), Bernar Venet (3), Jean-Luc Verna (3), Roberto Bozzi (2), Cai Guo-Qiang (2), Charles Dreyfus (2), Nicolás García Uriburu (2), Claude Gilli (2), Jean Pierre Giovanelli (2), Joël Hubaut (2), Carsten Höller (2), Pierre Joseph (2), Judit Kele (2), Arnaud Labelle-Rojoux (2), Thierry Lagalla",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (4)",
+  "2005-shows-with": "Erik Dietman (4), Noël Dolla (4), Jean-Baptiste Ganne (4), Serge Oldenbourg (4), Pierre Pinoncelli (4), Mimmo Rotella (4), Niki de Saint Phalle (4), Bernar Venet (4), Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), Julien Blaine (3), Anna Byskov (3), Gilbert Caty (3), Joël Ducorroy (3), Eric Duyckaerts (3), Kristof Everart (3), Daniel Farioli (3), Fred Forest (3), Paul-Armand Gette (3), Claude Gilli (3), Yoko Gunji (3), Raymond Hains (3), Raoul Hébréard (3), Michel Journiac (3), Virginie Le Touze (3), Jean-Jacques Lebel (3), Jacques Lizène (3), George Maciunas (3), Jean Mas (3), Florent Mattei (3), Bruno Mendonça (3), Roland Miller (3), Patrick Moya (3), Orlan (3), Gina Pane (3), Gilbert Pedinielli (3), Philippe Perrin (3), Charly van Rest (3), Jean-Luc Verna (3), Arman (2), Roberto Bozzi (2), Cai Guo-Qiang (2), Charles Dreyfus (2), Robert Filliou (2), Nicolás García Uriburu (2), Jean Pierre Giovanelli (2), Joël Hubaut (2), Carsten Höller (2), Pierre Joseph (2), Judit Kele (2), Arnaud Labe",
   "representing-galleries": null,
   "collecting-museums": "CIAC - Centre International d'Art Contemporain de Carros (Place du château, 06510 Carros, France)",
   "first_name": "Pierre",
@@ -56,6 +56,34 @@
           "2006-09-15",
           "2006-09-17"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "94027-2585-2011-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "94027-2585-2011-06-24",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "94027-2585-2012-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "94027-2585-2012-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "94027-2585-2012-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "94027-2585-2012-07-01",
+        "c": "FR"
       }
     ]
   }

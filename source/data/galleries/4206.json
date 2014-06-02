@@ -16,12 +16,34 @@
   "fairs-abroad": "7",
   "fairs-in-FR": "5",
   "fairs": {
+    "2005": [
+      {
+        "i": "4206-Fiac 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "4206-Fiac 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "4206-Fiac 2007",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "4206-Design Miami/ Basel 2008",
         "c": "CH",
         "n": "Design Miami/ Basel 2008",
         "ct": "Basel"
+      },
+      {
+        "i": "4206-Fiac 2008",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -30,6 +52,10 @@
         "c": "NL",
         "n": "TEFAF Maastricht 2009",
         "ct": "Maastricht"
+      },
+      {
+        "i": "4206-Fiac 2009",
+        "c": "FR"
       }
     ],
     "2010": [

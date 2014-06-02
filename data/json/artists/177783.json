@@ -1,7 +1,7 @@
 {
   "id": "177783",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:15:28",
+  "timestamp": "2014-05-24 07:17:23",
   "name": "Samuel François",
   "surname": "François",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "20329",
-  "r01": "27777",
-  "r02": "34286",
-  "r03": "33166",
-  "r04": "36483",
-  "r05": "40582",
-  "r06": "59284",
-  "r07": "74383",
-  "r08": "67544",
+  "r00": "15800",
+  "r01": "15976",
+  "r02": "23472",
+  "r03": "29725",
+  "r04": "28359",
+  "r05": "31591",
+  "r06": "35003",
+  "r07": "55639",
+  "r08": "74910",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "24",
-  "2005-shows-biennials": "14",
-  "2005-shows-galleries": "14",
+  "all-shows-total": "26",
+  "2005-shows-biennials": "16",
+  "2005-shows-galleries": "16",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (9), Belgium (2), Luxembourg (2), Switzerland (2), Germany (1), Poland (1), United Kingdom (1)",
-  "2005-shows-with": "Samuel François (9), Justin Morin (4), Claire Decet (3), Olivier Kosta-Théfaine (3), Corentin Grossmann (2), Renato Leotta (2), Keegan McHargue (2)",
-  "representing-galleries": "Alice Gallery (182, rue Antoine Dansaert - Antoine Dansaertstraat, 1000 Brussels, Belgium); Galerie Jeanroch Dard (13 Rue des Arquebusiers, 75003 Paris, France); Milieu (Münstergasse 6, 3000 Bern, Switzerland)",
+  "2005-countries-total": "France (11), Belgium (2), Luxembourg (2), Switzerland (2), Germany (1), Poland (1), United Kingdom (1)",
+  "2005-shows-with": "Samuel François (11), Olivier Kosta-Théfaine (5), Justin Morin (5), Claire Decet (3), Corentin Grossmann (2), Renato Leotta (2), Keegan McHargue (2)",
+  "representing-galleries": "Galerie Jeanroch Dard (13 Rue des Arquebusiers, 75003 Paris, France); Milieu (Münstergasse 6, 3000 Bern, Switzerland)",
   "collecting-museums": "Centre d'Art Ville de Dudelange (Rue Dominique Lang, L-3505 Dudelange, Luxembourg)",
   "first_name": "Samuel",
   "last_name": "François",
@@ -43,7 +43,25 @@
   "age": 36,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "177783-17868-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "177783-17868-2006-09-09",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "177783-17868-2007-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "177783-17868-2007-10-04",
+        "c": "FR"
+      },
       {
         "i": "177783-11971-2007-12-09",
         "c": "DE",
@@ -123,6 +141,61 @@
           "2008-10-30",
           "2008-11-30"
         ]
+      },
+      {
+        "i": "177783-21143-2008-12-13",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "177783-21143-2009-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "177783-21143-2009-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "177783-21143-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "177783-21143-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "177783-21143-2008-12-13",
+        "c": "FR"
+      },
+      {
+        "i": "177783-30132-2009-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "177783-30132-2009-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "177783-29168-2009-07-01",
+        "c": "CH",
+        "n": "Samuel Francois - Zuper!",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Bern",
+        "o": "Milieu",
+        "d": [
+          "2009-07-01",
+          "2009-07-30"
+        ]
+      },
+      {
+        "i": "177783-30133-2009-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "177783-30133-2009-10-24",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -138,9 +211,25 @@
           "2010-11-13",
           "2010-11-27"
         ]
+      },
+      {
+        "i": "177783-21143-2010-09-04",
+        "c": "FR"
+      },
+      {
+        "i": "177783-21143-2010-09-04",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "177783-21143-2011-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "177783-21143-2011-01-08",
+        "c": "FR"
+      },
       {
         "i": "177783-14578-2011-09-17",
         "c": "LU",
@@ -156,6 +245,14 @@
       }
     ],
     "2012": [
+      {
+        "i": "177783-21143-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "177783-21143-2012-09-08",
+        "c": "FR"
+      },
       {
         "i": "177783-3540-2012-11-15",
         "c": "LU",
@@ -181,6 +278,14 @@
           "2012-03-08",
           "2012-04-06"
         ]
+      },
+      {
+        "i": "177783-21143-2012-04-26",
+        "c": "FR"
+      },
+      {
+        "i": "177783-21143-2012-04-26",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -208,21 +313,6 @@
         "d": [
           "2013-03-01",
           "2013-04-06"
-        ]
-      }
-    ],
-    "2009": [
-      {
-        "i": "177783-29168-2009-07-01",
-        "c": "CH",
-        "n": "Samuel Francois - Zuper!",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Bern",
-        "o": "Milieu",
-        "d": [
-          "2009-07-01",
-          "2009-07-30"
         ]
       }
     ]

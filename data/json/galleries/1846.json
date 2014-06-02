@@ -22,6 +22,14 @@
         "c": "IT",
         "n": "Arte Fiera 2005",
         "ct": "Bologna"
+      },
+      {
+        "i": "1846-ArtParis 2005",
+        "c": "FR"
+      },
+      {
+        "i": "1846-Fiac 2005",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -30,6 +38,10 @@
         "c": "ES",
         "n": "ARCO 06",
         "ct": "Madrid"
+      },
+      {
+        "i": "1846-ArtParis 06",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -40,10 +52,66 @@
         "ct": "Bologna"
       },
       {
+        "i": "1846-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "1846-Les Elysées de l'Art - 2007",
+        "c": "FR"
+      },
+      {
         "i": "1846-ArtParis - AbuDhabi 2007",
         "c": "AE",
         "n": "ArtParis - AbuDhabi 2007",
         "ct": "Abu Dhabi"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1846-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "1846-Art Elysées 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1846-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "1846-Paris Photo 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1846-ArtParis 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1846-Paris Photo 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1846-Paris Photo 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1846-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1846-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
       }
     ]
   }

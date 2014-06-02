@@ -1,7 +1,7 @@
 {
   "id": "131963",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:57:03",
+  "timestamp": "2014-05-24 07:01:45",
   "name": "Jacques Pourcher",
   "surname": "Pourcher",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "90007",
-  "r01": "87003",
-  "r02": "93809",
-  "r03": "103568",
-  "r04": "97108",
-  "r05": "89360",
-  "r06": "80703",
-  "r07": "72011",
-  "r08": "62546",
+  "r00": "61179",
+  "r01": "62666",
+  "r02": "81093",
+  "r03": "92304",
+  "r04": null,
+  "r05": null,
+  "r06": "98838",
+  "r07": "87649",
+  "r08": "76961",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
   "all-shows-total": "4",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (2), USA (1)",
-  "2005-shows-with": "Jacques Pourcher (3)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (2), Belgium (1), USA (1)",
+  "2005-shows-with": "Jacques Pourcher (4), Eve Gramatzki (2)",
   "representing-galleries": "Arrêt sur l'image Galerie (Hangar G2 - Quai Armand Lalande, 3330 Bordeaux, France); Galerie Olivier NOUVELLET (19 rue de Seine, 75006 Paris, France)",
   "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France)",
   "first_name": "Jacques",
@@ -56,6 +56,24 @@
           "2011-03-10",
           "2011-10-02"
         ]
+      },
+      {
+        "i": "131963-14495-2011-12-10",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "131963-14495-2011-12-10",
+        "c": "FR"
+      },
+      {
+        "i": "131963-27843-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "131963-27843-2012-02-25",
+        "c": "FR"
       }
     ]
   }

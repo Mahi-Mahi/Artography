@@ -1,7 +1,7 @@
 {
   "id": "49667",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:24:02",
+  "timestamp": "2014-05-24 06:33:32",
   "name": "Tsuneko Taniuchi",
   "surname": "Taniuchi",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "38442",
-  "r01": "34425",
-  "r02": "54298",
-  "r03": "46959",
-  "r04": "39801",
-  "r05": "33602",
-  "r06": "31727",
-  "r07": "26634",
-  "r08": "21209",
+  "r00": "21810",
+  "r01": "35024",
+  "r02": "29510",
+  "r03": "53985",
+  "r04": "45007",
+  "r05": "37419",
+  "r06": "29951",
+  "r07": "25272",
+  "r08": "19088",
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
-  "all-shows-total": "10",
+  "all-shows-total": "13",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (3), Belgium (1), Italy (1)",
-  "2005-shows-with": "Tsuneko Taniuchi (5), Fayçal Baghriche (2), Claire Fontaine (2), Marcello Maloberti (2), Francois Paire (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (4), Belgium (1), Italy (1)",
+  "2005-shows-with": "Tsuneko Taniuchi (6), Fayçal Baghriche (2), Claire Fontaine (2), Marcello Maloberti (2), Francois Paire (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Tsuneko",
@@ -71,6 +71,24 @@
           "2008-03-06",
           "2008-03-16"
         ]
+      },
+      {
+        "i": "49667-11890-2008-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "49667-11890-2008-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "49667-13364-2008-12-18",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "49667-13364-2008-12-18",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -86,6 +104,14 @@
           "2012-06-21",
           "2012-11-11"
         ]
+      },
+      {
+        "i": "49667-4651-2012-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "49667-4651-2012-06-30",
+        "c": "FR"
       }
     ]
   }

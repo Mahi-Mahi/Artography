@@ -1,7 +1,7 @@
 {
   "id": "115123",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:50:29",
+  "timestamp": "2014-05-24 06:56:06",
   "name": "Marie Reinert",
   "surname": "Reinert",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "50301",
-  "r01": "48988",
-  "r02": "45083",
-  "r03": "40848",
-  "r04": "50057",
-  "r05": "45071",
-  "r06": "70322",
-  "r07": "85070",
+  "r00": "38299",
+  "r01": "37477",
+  "r02": "39138",
+  "r03": "34516",
+  "r04": "30394",
+  "r05": "40463",
+  "r06": "40318",
+  "r07": "67255",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "9",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
   "2005-shows-museums": "2",
   "2005-countries-total": "France (4), Germany (3), Portugal (1)",
-  "2005-shows-with": "Marie Reinert (8), Adel Abdessemed (2), accès local (2), Boris Achour (2), Ghada Amer (2), Sandy Amério (2), Istvan Balogh (2), Iain Baxter (2), Damien Beguet (2), Alain Bernardini (2), Samuel Bianchini (2), Jean-Baptiste Bouvet (2), Jean-Marc Chapoulie (2), Chen Chieh-Jen (2), Claude Closky (2), Collectif 1.0.3 (2), Delphine Doukhan (2), Pieter Engels (2), Harun Farocki (2), Hans-Peter Feldmann (2), Robert Filliou (2), Daniel Firman (2), Nicolas Floc\\'h (2), Claire Fontaine (2), Julie-Christine Fortier (2), Raphaël Grisey (2), Eric Hattan (2), Gregor Hildebrandt (2), Anna Hughes (2), Pierre Huyghe (2), Ludovic Jecker (2), Olga Kisseleva (2), Alicja Kwade (2), Benoît Laffiché (2), Martin Le Chevallier (2), Nadia Lichtig (2), Gilles Mahé (2), Charles Mazé (2), Xavier Mazzarol (2), Mathieu Mercier (2), Gianni Motti (2), Jean-Luc Moulène (2), Frédéric Ollereau (2), Régis Perray (2), Giuseppe Pinot-Gallizio (2), Michelangelo Pistoletto (2), Julien Prévieux (2), Hannu Prinz (2), Pascal Rivet (2), Krist",
+  "2005-shows-with": "Marie Reinert (8), Adel Abdessemed (2), accès local (2), Boris Achour (2), Ghada Amer (2), Sandy Amério (2), Istvan Balogh (2), Iain Baxter (2), Damien Beguet (2), Alain Bernardini (2), Samuel Bianchini (2), Jean-Baptiste Bouvet (2), Jean-Marc Chapoulie (2), Chen Chieh-Jen (2), Claude Closky (2), Collectif 1.0.3 (2), Delphine Doukhan (2), Pieter Engels (2), Harun Farocki (2), Hans-Peter Feldmann (2), Robert Filliou (2), Daniel Firman (2), Agathe Fleury (2), Nicolas Floc\\'h (2), Claire Fontaine (2), Julie-Christine Fortier (2), Raphaël Grisey (2), Eric Hattan (2), Gregor Hildebrandt (2), Anna Hughes (2), Pierre Huyghe (2), Ludovic Jecker (2), Olga Kisseleva (2), Alicja Kwade (2), Benoît Laffiché (2), Martin Le Chevallier (2), Nadia Lichtig (2), Gilles Mahé (2), Charles Mazé (2), Xavier Mazzarol (2), Mathieu Mercier (2), Gianni Motti (2), Jean-Luc Moulène (2), Frédéric Ollereau (2), Régis Perray (2), Giuseppe Pinot-Gallizio (2), Michelangelo Pistoletto (2), Julien Prévieux (2), Hannu Prinz (2), Pasc",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Marie",
@@ -43,6 +43,44 @@
   "age": 43,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "115123-11729-2006-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "115123-11729-2006-06-30",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "115123-10237-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "115123-10237-2007-09-15",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "115123-13901-2008-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "115123-13901-2008-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "115123-21802-2008-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "115123-21802-2008-05-16",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "115123-17121-2009-02-07",
@@ -73,6 +111,14 @@
         ]
       },
       {
+        "i": "115123-12129-2010-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "115123-12129-2010-04-07",
+        "c": "FR"
+      },
+      {
         "i": "115123-17121-2010-07-18",
         "c": "DE",
         "n": "A busy day",
@@ -87,6 +133,14 @@
       }
     ],
     "2013": [
+      {
+        "i": "115123-21639-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "115123-21639-2013-01-26",
+        "c": "FR"
+      },
       {
         "i": "115123-29893-2013-08-20",
         "c": "PT",

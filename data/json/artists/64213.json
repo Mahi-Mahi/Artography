@@ -1,7 +1,7 @@
 {
   "id": "64213",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:03",
+  "timestamp": "2014-05-24 06:38:42",
   "name": "Maya Schweizer",
   "surname": "Schweizer",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video",
-  "r00": "3915",
-  "r01": "4461",
-  "r02": "4537",
-  "r03": "4544",
-  "r04": "4958",
-  "r05": "5013",
-  "r06": "5407",
-  "r07": "11449",
-  "r08": "41048",
+  "r00": "3017",
+  "r01": "3348",
+  "r02": "3790",
+  "r03": "3752",
+  "r04": "3710",
+  "r05": "4026",
+  "r06": "3960",
+  "r07": "4244",
+  "r08": "9498",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "42",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
-  "2005-shows-museums": "13",
-  "2005-countries-total": "Germany (15), USA (3), Norway (2), Austria (1), Belgium (1), Czech Republic (1), Estonia (1), France (1), Greece (1), Iran (1), Italy (1), Switzerland (1)",
-  "2005-shows-with": "Maya Schweizer (25), Clemens von Wedemeyer (11), Yukiko Terada (3), Julieta Aranda (2), Kader Attia (2), Kaya Behkalam (2), Edgar Cleijne (2), Björn Dahlem (2), Hassan Darsi (2), Silvina Der-Meguerditchian (2), Ellen Gallagher (2), H.R. Giger (2), Veli Granö (2), Nilbar Güres (2), Adolph Denis Horn (2), Ilya Kabakov (2), Mike Kelley (2), Katarzyna Kozyra (2), Jone Kvie (2), Liu Zhenchen (2), Wiebke Loeper (2), Gordon Matta-Clark (2), Jimmy McBride (2), John McCracken (2), Daniel McDonald (2), Nathalie Melikian (2), Simon Menner (2), Vladimir Mitrev (2), Katrin Plavcak (2), Ride 1 (2), Achim Riethmann (2), Eran Schaerf (2), Elise Storsveen (2), Sun Ra (2), Børre Sæthre (2), Stan Vanderbeek (2), Tobias Zielony (2)",
-  "representing-galleries": null,
+  "all-shows-total": "46",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
+  "2005-shows-museums": "15",
+  "2005-countries-total": "Germany (17), USA (3), Norway (2), Austria (1), Belgium (1), Czech Republic (1), Estonia (1), France (1), Greece (1), Iran (1), Italy (1), Slovakia (1), South Korea (1), Switzerland (1)",
+  "2005-shows-with": "Maya Schweizer (27), Clemens von Wedemeyer (12), Kaya Behkalam (3), Yukiko Terada (3), Julieta Aranda (2), Kader Attia (2), Chto delat? (2), Edgar Cleijne (2), Björn Dahlem (2), Hassan Darsi (2), Silvina Der-Meguerditchian (2), Ellen Gallagher (2), H.R. Giger (2), Veli Granö (2), Nilbar Güres (2), Adolph Denis Horn (2), Ilya Kabakov (2), Mike Kelley (2), Katarzyna Kozyra (2), Jone Kvie (2), Liu Zhenchen (2), Wiebke Loeper (2), Gordon Matta-Clark (2), Jimmy McBride (2), John McCracken (2), Daniel McDonald (2), Nathalie Melikian (2), Simon Menner (2), Vladimir Mitrev (2), Katrin Plavcak (2), Nadin Reschke-Kindlimann (2), Ride 1 (2), Achim Riethmann (2), Eran Schaerf (2), Elise Storsveen (2), Sun Ra (2), Børre Sæthre (2), Stan Vanderbeek (2), Tobias Zielony (2)",
+  "representing-galleries": "ASPN (Spinnereistr. 7 (Halle 20), 04179 Leipzig, Germany)",
   "collecting-museums": null,
   "first_name": "Maya",
   "last_name": "Schweizer",
@@ -98,6 +98,10 @@
         ]
       },
       {
+        "i": "64213-10522-2006-11-08",
+        "c": "FR"
+      },
+      {
         "i": "64213-10736-2006-11-24",
         "c": "DE",
         "n": "Rio",
@@ -112,6 +116,26 @@
       }
     ],
     "2007": [
+      {
+        "i": "64213-10522-2006-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "64213-2219-2007-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "64213-2219-2007-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "64213-3522-2007-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "64213-3522-2007-01-10",
+        "c": "FR"
+      },
       {
         "i": "64213-1134-2007-06-02",
         "c": "DE",
@@ -137,6 +161,14 @@
           "2007-07-20",
           "2007-07-25"
         ]
+      },
+      {
+        "i": "64213-2718-2007-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "64213-2718-2007-09-21",
+        "c": "FR"
       },
       {
         "i": "64213-1807-2007-11-05",
@@ -335,6 +367,14 @@
           "2010-09-03",
           "2010-10-24"
         ]
+      },
+      {
+        "i": "64213-8547-2010-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "64213-8547-2010-11-25",
+        "c": "FR"
       }
     ],
     "2011": [

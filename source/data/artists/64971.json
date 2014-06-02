@@ -1,7 +1,7 @@
 {
   "id": "64971",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:22",
+  "timestamp": "2014-05-24 06:38:58",
   "name": "Jean-Christophe Ballot",
   "surname": "Ballot",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "15762",
-  "r01": "14336",
-  "r02": "13945",
-  "r03": "12600",
-  "r04": "11073",
-  "r05": "11228",
-  "r06": "17974",
-  "r07": "14888",
-  "r08": "60592",
+  "r00": "18943",
+  "r01": "16985",
+  "r02": "14084",
+  "r03": "13218",
+  "r04": "11368",
+  "r05": "9487",
+  "r06": "9585",
+  "r07": "15691",
+  "r08": "12599",
   "awards": null,
   "website": null,
   "all-shows-first": "1994",
@@ -34,7 +34,7 @@
   "2005-shows-museums": "4",
   "2005-countries-total": "France (9), Greece (1), Morocco (1), USA (1)",
   "2005-shows-with": "Jean-Christophe Ballot (6), Cédric Bouteiller (2), Valérie Delarue (2), Giorgio Laveri (2)",
-  "representing-galleries": "Galerie Alexandre Cadain (76 Rue Quincampoix, 75003 Paris, France); Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa (RI), Italy)",
+  "representing-galleries": "Galerie Alexandre Cadain (76 Rue Quincampoix, 75003 Paris, France); Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa, RI, Italy)",
   "collecting-museums": null,
   "first_name": "Jean-Christophe",
   "last_name": "Ballot",
@@ -43,7 +43,102 @@
   "age": 54,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "64971-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "64971-5122-2006-04-04",
+        "c": "FR"
+      },
+      {
+        "i": "64971-5122-2006-04-04",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "64971-2219-2006-09-27",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "64971-23329-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "64971-23329-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "64971-15039-2009-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "64971-15039-2009-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "64971-18826-2009-06-13",
+        "c": "US",
+        "n": "Paris-Chicago: The Photography of Jean-Christophe Ballot",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Chicago, IL",
+        "o": "Loyola University Museum of Art (LUMA)",
+        "d": [
+          "2009-06-13",
+          "2009-08-16"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "64971-23329-2010-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "64971-23329-2010-02-03",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "64971-24168-2011-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "64971-24168-2011-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "64971-24168-2011-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "64971-24168-2011-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "64971-24168-2011-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "64971-24168-2011-06-02",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "64971-24168-2012-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "64971-24168-2012-03-30",
+        "c": "FR"
+      },
       {
         "i": "64971-8538-2012-10-12",
         "c": "GR",
@@ -75,6 +170,22 @@
     ],
     "2008": [
       {
+        "i": "64971-5518-2008-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "64971-5518-2008-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "64971-10516-2008-01-16",
+        "c": "FR"
+      },
+      {
+        "i": "64971-10516-2008-01-16",
+        "c": "FR"
+      },
+      {
         "i": "64971-20742-2008-10-15",
         "c": "MA",
         "n": "Jean-Christophe Ballot - Paysages En Revue",
@@ -85,21 +196,6 @@
         "d": [
           "2008-10-15",
           "2008-11-15"
-        ]
-      }
-    ],
-    "2009": [
-      {
-        "i": "64971-18826-2009-06-13",
-        "c": "US",
-        "n": "Paris-Chicago: The Photography of Jean-Christophe Ballot",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Chicago, IL",
-        "o": "Loyola University Museum of Art (LUMA)",
-        "d": [
-          "2009-06-13",
-          "2009-08-16"
         ]
       }
     ]

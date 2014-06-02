@@ -1,7 +1,7 @@
 {
   "id": "134775",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:58:22",
+  "timestamp": "2014-05-24 07:02:40",
   "name": "Justin Morin",
   "surname": "Morin",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "34000",
-  "r01": "38501",
-  "r02": "36224",
-  "r03": "45526",
-  "r04": "43275",
-  "r05": "42509",
-  "r06": "36796",
-  "r07": "78566",
-  "r08": null,
+  "r00": "29584",
+  "r01": "28815",
+  "r02": "33436",
+  "r03": "30402",
+  "r04": "39304",
+  "r05": "36632",
+  "r06": "35202",
+  "r07": "29838",
+  "r08": "78737",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "12",
-  "2005-shows-biennials": "6",
-  "2005-shows-galleries": "6",
+  "all-shows-total": "13",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (7), Indonesia (1)",
-  "2005-shows-with": "Justin Morin (5), Samuel François (4), Claire Decet (2), Corentin Grossmann (2), Olivier Kosta-Théfaine (2), Renato Leotta (2), Keegan McHargue (2)",
+  "2005-countries-total": "France (8), Indonesia (1)",
+  "2005-shows-with": "Justin Morin (6), Samuel François (5), Olivier Kosta-Théfaine (3), Claire Decet (2), Corentin Grossmann (2), Renato Leotta (2), Keegan McHargue (2)",
   "representing-galleries": "GALERIE FREDERIC DESIMPEL (Rue Bosquet 4, 1060 Brussels, Belgium); Galerie Jeanroch Dard (13 Rue des Arquebusiers, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Justin",
@@ -58,7 +58,33 @@
         ]
       }
     ],
+    "2009": [
+      {
+        "i": "134775-21143-2009-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "134775-21143-2009-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "134775-21143-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "134775-21143-2009-10-17",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "134775-21143-2011-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "134775-21143-2011-01-08",
+        "c": "FR"
+      },
       {
         "i": "134775-3694-2011-05-08",
         "c": "ID",
@@ -71,9 +97,35 @@
           "2011-05-08",
           "2011-05-15"
         ]
+      },
+      {
+        "i": "134775-21143-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "134775-21143-2011-06-25",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "134775-21143-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "134775-21143-2012-09-08",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "134775-17868-2007-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "134775-17868-2007-02-06",
+        "c": "FR"
+      },
       {
         "i": "134775-27772-2007-04-19",
         "c": "BE",
@@ -114,6 +166,26 @@
           "2007-12-14",
           "2008-01-26"
         ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "134775-30132-2010-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "134775-30132-2010-03-04",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "134775-21143-2013-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "134775-21143-2013-09-07",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "139087",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:00:06",
+  "timestamp": "2014-05-24 07:04:07",
   "name": "Romain Bernini",
   "surname": "Bernini",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": null,
   "media": "Painting",
-  "r00": "23721",
-  "r01": "37661",
-  "r02": "39875",
-  "r03": "36118",
-  "r04": "45116",
-  "r05": "51164",
-  "r06": "56616",
-  "r07": null,
+  "r00": "12637",
+  "r01": "18912",
+  "r02": "33043",
+  "r03": "36290",
+  "r04": "31961",
+  "r05": "40318",
+  "r06": "46345",
+  "r07": "52223",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "12",
-  "2005-shows-biennials": "6",
-  "2005-shows-galleries": "6",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (5), Denmark (1), Slovenia (1), USA (1)",
-  "2005-shows-with": "Romain Bernini (4), Julien Beneyton (2), Ida Tursic & Wilfried Mille (2)",
-  "representing-galleries": "Galerie l'antichambre (15, rue de Boigne, 73000 Chambéry, France); Galerie Métropolis (6 passage des Gravilliers, 75003 Paris, France); Suzanne Tarasiève Galerie (7, rue Pastourelle, 75003 Paris, France); Priska C. Juschka  Fine  Art (547 West 27th Street, 2nd Floor, 10001 New York City, NY, USA)",
+  "all-shows-total": "14",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (7), Denmark (1), Slovenia (1), USA (1)",
+  "2005-shows-with": "Romain Bernini (5), Julien Beneyton (2), Ida Tursic & Wilfried Mille (2)",
+  "representing-galleries": "Galerie l'antichambre (15, rue de Boigne, 73000 Chambéry, France); Galerie Métropolis (6 passage des Gravilliers, 75003 Paris, France); Suzanne Tarasiève Galerie (7, rue Pastourelle, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Romain",
   "last_name": "Bernini",
@@ -43,7 +43,77 @@
   "age": 35,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "139087-11682-2007-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "139087-11682-2007-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "139087-8999-2007-07-21",
+        "c": "FR"
+      },
+      {
+        "i": "139087-8999-2007-07-21",
+        "c": "FR"
+      },
+      {
+        "i": "139087-11682-2007-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "139087-11776-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "139087-11776-2007-03-10",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "139087-11682-2007-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "139087-11776-2008-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "139087-11776-2008-01-19",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "139087-16752-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "139087-16752-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "139087-11776-2009-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "139087-11776-2009-04-29",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "139087-11682-2012-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "139087-11682-2012-05-26",
+        "c": "FR"
+      },
       {
         "i": "139087-7760-2012-06-09",
         "c": "DK",
@@ -84,6 +154,16 @@
           "2010-05-20",
           "2010-07-03"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "139087-2718-2013-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "139087-2718-2013-06-15",
+        "c": "FR"
       }
     ]
   }

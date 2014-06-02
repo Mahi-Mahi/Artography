@@ -16,7 +16,31 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "18",
   "fairs": {
+    "2005": [
+      {
+        "i": "5131-ArtParis 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "5131-ArtParis 06",
+        "c": "FR"
+      },
+      {
+        "i": "5131-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "5131-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "5131-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      },
       {
         "i": "5131-ArtParis - AbuDhabi 2007",
         "c": "AE",
@@ -25,6 +49,14 @@
       }
     ],
     "2008": [
+      {
+        "i": "5131-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "5131-Lille Art Fair 08",
+        "c": "FR"
+      },
       {
         "i": "5131-Artparis-Shenzhen",
         "c": "CN",
@@ -36,6 +68,44 @@
         "c": "AE",
         "n": "ArtParis - AbuDhabi 2008",
         "ct": "Abu Dhabi"
+      },
+      {
+        "i": "5131-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5131-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "5131-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5131-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "5131-Lille Art Fair 2010",
+        "c": "FR"
+      },
+      {
+        "i": "5131-ST-ART 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5131-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "5131-St-Art 2011",
+        "c": "FR"
       }
     ]
   }

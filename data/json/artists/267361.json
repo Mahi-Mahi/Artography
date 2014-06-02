@@ -1,7 +1,7 @@
 {
   "id": "267361",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:49:53",
+  "timestamp": "2014-05-24 07:48:03",
   "name": "Jean-François Leroy",
   "surname": "Leroy",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "43305",
-  "r01": "45044",
-  "r02": "53567",
-  "r03": "49074",
-  "r04": "71154",
-  "r05": "94692",
-  "r06": null,
+  "r00": "32262",
+  "r01": "33691",
+  "r02": "36047",
+  "r03": "44649",
+  "r04": "40087",
+  "r05": "63947",
+  "r06": "93521",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
   "all-shows-total": "15",
-  "2005-shows-biennials": "8",
-  "2005-shows-galleries": "8",
+  "2005-shows-biennials": "10",
+  "2005-shows-galleries": "10",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (14)",
-  "2005-shows-with": "Jean-François Leroy (12), Guillaume Constantin (6), Vincent Mauger (6), Jean-Baptiste Couronne (2), Rodolphe Delaunay (2), Olivier Metzger (2), Marine Pagès (2), Raphaël Zarka (2)",
+  "2005-countries-total": "France (16)",
+  "2005-shows-with": "Jean-François Leroy (14), Vincent Mauger (8), Guillaume Constantin (7), Nathalie Elémento (3), Jean-Baptiste Couronne (2), Rodolphe Delaunay (2), Olivier Metzger (2), Marine Pagès (2), Raphaël Zarka (2)",
   "representing-galleries": "Galerie Bertrand Grimont (203 Bis Rue Saint Martin, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Jean-François",
@@ -43,5 +43,129 @@
   "age": 32,
   "age_range": "26-40",
   "expos": {
+    "2008": [
+      {
+        "i": "267361-29884-2008-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "267361-29884-2008-01-17",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "267361-19508-2009-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "267361-19508-2009-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "267361-19673-2009-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "267361-19673-2009-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "267361-11850-2009-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "267361-11850-2009-12-08",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "267361-12129-2010-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "267361-12129-2010-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "267361-19508-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "267361-19508-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "267361-19670-2010-12-21",
+        "c": "FR"
+      },
+      {
+        "i": "267361-19508-2010-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "267361-19508-2010-09-18",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "267361-19670-2010-12-21",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "267361-19508-2012-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "267361-19508-2012-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "267361-20650-2012-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "267361-20650-2012-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "267361-29576-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "267361-29576-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "267361-19508-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "267361-19508-2012-09-08",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "267361-21347-2013-02-19",
+        "c": "FR"
+      },
+      {
+        "i": "267361-21347-2013-02-19",
+        "c": "FR"
+      },
+      {
+        "i": "267361-19508-2013-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "267361-19508-2013-03-21",
+        "c": "FR"
+      }
+    ]
   }
 }

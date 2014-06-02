@@ -1,7 +1,7 @@
 {
   "id": "16853",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:08",
+  "timestamp": "2014-05-24 06:21:38",
   "name": "Franck David",
   "surname": "David",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "13799",
-  "r01": "12471",
-  "r02": "10817",
-  "r03": "9512",
-  "r04": "8326",
-  "r05": "8067",
-  "r06": "7605",
-  "r07": "8060",
-  "r08": "6378",
+  "r00": "21671",
+  "r01": "25398",
+  "r02": "20702",
+  "r03": "14857",
+  "r04": "11418",
+  "r05": "9331",
+  "r06": "8834",
+  "r07": "8006",
+  "r08": "8481",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "19",
+  "all-shows-total": "21",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (5), United Kingdom (1)",
-  "2005-shows-with": "Franck David (4), Mathieu Mercier (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (6), United Kingdom (1)",
+  "2005-shows-with": "Franck David (5), James Lee Byars (2), Mathieu Mercier (2), Jonathan Monk (2), Bruno Peinado (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France)",
   "first_name": "Franck",
@@ -43,6 +43,42 @@
   "age": 48,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "16853-8189-2005-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "16853-8189-2005-06-05",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "16853-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "16853-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "16853-12992-2007-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "16853-12992-2007-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "16853-12314-2007-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "16853-12314-2007-11-10",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "16853-8634-2008-01-11",
@@ -56,6 +92,54 @@
           "2008-01-11",
           "2008-02-10"
         ]
+      },
+      {
+        "i": "16853-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "16853-2528-2008-04-11",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "16853-23431-2011-03-31",
+        "c": "FR"
+      },
+      {
+        "i": "16853-23431-2011-03-31",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16853-27216-2013-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "16853-27216-2013-01-10",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "16853-10519-2009-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "16853-10519-2009-05-30",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "16853-10235-2010-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "16853-10235-2010-10-10",
+        "c": "FR"
       }
     ]
   }

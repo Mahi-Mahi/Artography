@@ -1,6 +1,6 @@
 {
   "id": "19953",
-  "name": "Le CABINET",
+  "name": "Galerie Bertrand Baraudou",
   "street": "62, Rue Saint Sabin",
   "zip": "75011",
   "city": "Paris",
@@ -9,12 +9,18 @@
   "directeurs": "",
   "profile": null,
   "tel": "+33 (0)9 53 47 41 62",
-  "email": "blaugier@le-cabinet.com",
-  "www": "www.le-cabinet.com/",
+  "email": "paris@galeriebaraudou.com",
+  "www": "www.galeriebaraudou.com/",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075011 %2C%20 %2C%2062, Rue Saint Sabin  %2C%20France",
-  "fairs-total": "1",
+  "fairs-total": "4",
   "fairs-abroad": "0",
-  "fairs-in-FR": "1",
+  "fairs-in-FR": "4",
   "fairs": {
+    "2011": [
+      {
+        "i": "19953-DocksArtFair 2011",
+        "c": "FR"
+      }
+    ]
   }
 }

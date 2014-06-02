@@ -1,7 +1,7 @@
 {
   "id": "167495",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:11:32",
+  "timestamp": "2014-05-24 07:13:51",
   "name": "Anthony Lanzenberg",
   "surname": "Lanzenberg",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "49107",
-  "r01": "46227",
-  "r02": "76073",
-  "r03": "70573",
-  "r04": "76711",
-  "r05": "69777",
-  "r06": "61925",
-  "r07": "54476",
-  "r08": "46462",
+  "r00": "44483",
+  "r01": "44018",
+  "r02": "39999",
+  "r03": "74687",
+  "r04": "67633",
+  "r05": "76101",
+  "r06": "67932",
+  "r07": "59505",
+  "r08": "51412",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
@@ -34,7 +34,7 @@
   "2005-shows-museums": "2",
   "2005-countries-total": "France (3)",
   "2005-shows-with": "Anthony Lanzenberg (3), Haizea Barcenilla Garcia (2), Patrick Bock (2), Davide Cascio (2), Ramiro Guerreiro (2), Jorge Pedro Núñez (2), Samir Ramdani (2)",
-  "representing-galleries": "Arushi Arts (C-36 Okhla Ind. Area, Phase 1, 110020  New Delhi\t, India)",
+  "representing-galleries": "Arushi Arts (C-36 Okhla Ind. Area, Phase 1, 110020  New Delhi, India)",
   "collecting-museums": null,
   "first_name": "Anthony",
   "last_name": "Lanzenberg",
@@ -43,5 +43,43 @@
   "age": 38,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "167495-8700-2005-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "167495-8700-2005-11-17",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "167495-20649-2010-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "167495-20649-2010-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "167495-21098-2010-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "167495-21098-2010-06-27",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "167495-8282-2012-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "167495-8282-2012-04-11",
+        "c": "FR"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "222212",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:32:27",
+  "timestamp": "2014-05-24 07:32:36",
   "name": "Aurélien Mole",
   "surname": "Mole",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "22896",
-  "r01": "25766",
-  "r02": "30196",
-  "r03": "29525",
-  "r04": "69160",
-  "r05": "65373",
-  "r06": null,
+  "r00": "10958",
+  "r01": "16476",
+  "r02": "18469",
+  "r03": "24631",
+  "r04": "23687",
+  "r05": "62954",
+  "r06": "59347",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "17",
+  "all-shows-total": "19",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
-  "2005-shows-museums": "7",
-  "2005-countries-total": "France (14), Germany (1), USA (1)",
-  "2005-shows-with": "Aurélien Mole (16), Julien Tiberi (8), Guillaume Constantin (3), Haris Epaminonda (3), Julien Nédélec (3), Estefania Peñafiel Loaiza (3), Clément Rodzielski (3), Saâdane Afif (2), Xavier Antin (2), Leonor Antunes (2), Nina Beier & Marie Lund (2), Roxane Borujerdi (2), Julien Bouillon (2), Aurélien Froment (2), Ryan Gander (2), Alexis Guillier (2), Jirí Kovanda (2), Vincent Mauger (2), Charlotte Moth (2), Aude Pariset (2), Sébastien Rémy (2), Bettina Samson (2), Yann Sérandour (2), Niels Trannois (2), Claudia Wieser (2), Erwin Wurm (2)",
+  "2005-shows-museums": "10",
+  "2005-countries-total": "France (16), USA (2), Germany (1)",
+  "2005-shows-with": "Aurélien Mole (19), Julien Tiberi (8), Guillaume Constantin (3), Haris Epaminonda (3), Julien Nédélec (3), Estefania Peñafiel Loaiza (3), Clément Rodzielski (3), Yann Sérandour (3), Saâdane Afif (2), Xavier Antin (2), Leonor Antunes (2), Nina Beier & Marie Lund (2), Roxane Borujerdi (2), Julien Bouillon (2), Marcel Broodthaers (2), Claude Closky (2), Aurélien Froment (2), Ryan Gander (2), Mark Geffriaud (2), Alexis Guillier (2), Jirí Kovanda (2), Isabelle Le Minh (2), Pierre Leguillon (2), Christophe Lemaitre (2), Vincent Mauger (2), Mathieu Mercier (2), Charlotte Moth (2), Jean-Luc Moulène (2), Dennis Oppenheim (2), Aude Pariset (2), Sébastien Rémy (2), Allen Ruppersberg (2), Bettina Samson (2), Niels Trannois (2), Claudia Wieser (2), Erwin Wurm (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Aurélien",
@@ -43,7 +43,43 @@
   "age": 38,
   "age_range": "26-40",
   "expos": {
+    "2008": [
+      {
+        "i": "222212-8700-2008-10-15",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "222212-8700-2008-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "222212-1372-2009-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "222212-1372-2009-06-20",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "222212-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "222212-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "222212-8678-2010-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "222212-8678-2010-02-25",
+        "c": "FR"
+      },
       {
         "i": "222212-22137-2010-03-04",
         "c": "DE",
@@ -56,9 +92,49 @@
           "2010-03-04",
           "2010-05-25"
         ]
+      },
+      {
+        "i": "222212-4194-2010-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "222212-4194-2010-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "222212-19508-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "222212-19508-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "222212-19611-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "222212-19611-2010-09-11",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "222212-1372-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "222212-1372-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "222212-1963-2011-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "222212-1963-2011-10-20",
+        "c": "FR"
+      },
       {
         "i": "222212-20522-2011-11-04",
         "c": "US",
@@ -86,6 +162,56 @@
           "2011-11-04",
           "2012-01-08"
         ]
+      },
+      {
+        "i": "222212-7999-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "222212-7999-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "222212-7999-2012-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "222212-7999-2012-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "222212-8520-2012-11-23",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "222212-8520-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "222212-11771-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "222212-11771-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "222212-8520-2013-07-20",
+        "c": "FR"
+      },
+      {
+        "i": "222212-8520-2013-07-20",
+        "c": "FR"
+      },
+      {
+        "i": "222212-21695-2013-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "222212-21695-2013-09-13",
+        "c": "FR"
       }
     ]
   }

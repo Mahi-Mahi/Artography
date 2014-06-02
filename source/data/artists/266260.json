@@ -1,7 +1,7 @@
 {
   "id": "266260",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:49:28",
+  "timestamp": "2014-05-24 07:47:40",
   "name": "Jef Aerosol",
   "surname": "Aerosol",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Stencil",
-  "r00": "25331",
-  "r01": "34805",
-  "r02": "64473",
-  "r03": "70765",
-  "r04": "84446",
-  "r05": "95336",
-  "r06": null,
+  "r00": "18217",
+  "r01": "19515",
+  "r02": "27464",
+  "r03": "55227",
+  "r04": "63332",
+  "r05": "79833",
+  "r06": "94660",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
   "all-shows-total": "26",
-  "2005-shows-biennials": "21",
-  "2005-shows-galleries": "21",
+  "2005-shows-biennials": "22",
+  "2005-shows-galleries": "22",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (14), United Kingdom (4), Germany (3), USA (3), Argentina (1)",
-  "2005-shows-with": "Jef Aerosol (21), Christian Guémy (5), Invader (4), TANC (4), Blek Le Rat (3), JonOne (3), L\\'Atlas (3), Miss.Tic (3), Olivier Rizzo (3), Sun7 (3), Alexone (2), Philippe Bonan (2), Paella Chimicos (2), Dalek (2), Shepard Fairey (2), Futura2000 (2), Dale Grimshaw (2), Logan Hicks (2), Jace (2), Ludo (2), Mambo (2), Jérôme Mesnager (2), Mr. Brainwash (2), Popay (2), Seen (2), Chris Stain (2), Jeanne Susplugas (2), Yang Yongliang (2)",
-  "representing-galleries": "Xin Art Galerie (13 rue Thiers, 17590 Ars en Ré, France); Raison d'Art (153 Bis Boulevard de la Liberté, 59000  Lille, France); Carhartt Gallery (Schusterinsel 9, 79576 Weil am Rhein, Germany); The French Art Studio (121 Sulgrave Road, W6 7QH London (England), United Kingdom); Signal Gallery   (Curtain Road 96a, EC2A 3AA London (England), United Kingdom)",
+  "2005-countries-total": "France (14), United Kingdom (5), Germany (3), USA (3), Argentina (1)",
+  "2005-shows-with": "Jef Aerosol (21), Christian Guémy (5), Invader (4), TANC (4), Vhils (4), Blek Le Rat (3), JonOne (3), L\\'Atlas (3), Miss.Tic (3), Olivier Rizzo (3), Sun7 (3), Alexone (2), Philippe Bonan (2), Paella Chimicos (2), Dalek (2), Shepard Fairey (2), Futura2000 (2), Dale Grimshaw (2), Logan Hicks (2), Jace (2), Ludo (2), Mambo (2), Jérôme Mesnager (2), Mr. Brainwash (2), Popay (2), Seen (2), Chris Stain (2), Jeanne Susplugas (2), Yang Yongliang (2)",
+  "representing-galleries": "Xin Art Galerie (13 rue Thiers, 17590 Ars en Ré, France); Raison d'Art (153 Bis Boulevard de la Liberté, 59000  Lille, France); Carhartt Gallery (Schusterinsel 9, 79576 Weil am Rhein, Germany); The French Art Studio (121 Sulgrave Road, W6 7QH London, United Kingdom); Signal Gallery   (Curtain Road 96a, EC2A 3AA London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "Jef",
   "last_name": "Aerosol",
@@ -58,6 +58,14 @@
         ]
       },
       {
+        "i": "266260-18365-2008-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "266260-18365-2008-09-18",
+        "c": "FR"
+      },
+      {
         "i": "266260-26134-2008-11-23",
         "c": "US",
         "n": "Stencil",
@@ -69,6 +77,24 @@
           "2008-11-23",
           "2008-12-06"
         ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "266260-18368-2009-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "266260-18368-2009-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "266260-18365-2009-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "266260-18365-2009-03-12",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -84,6 +110,14 @@
           "2010-05-01",
           "2010-05-30"
         ]
+      },
+      {
+        "i": "266260-23441-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "266260-23441-2010-09-10",
+        "c": "FR"
       },
       {
         "i": "266260-14534-2010-01-29",
@@ -112,9 +146,41 @@
           "2011-06-01",
           "2011-06-30"
         ]
+      },
+      {
+        "i": "266260-2090-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "266260-2090-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "266260-29199-2011-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "266260-2090-2011-12-10",
+        "c": "FR"
+      },
+      {
+        "i": "266260-22943-2011-12-15",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "266260-29199-2011-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "266260-2090-2011-12-10",
+        "c": "FR"
+      },
+      {
+        "i": "266260-22943-2011-12-15",
+        "c": "FR"
+      },
       {
         "i": "266260-26171-2012-02-04",
         "c": "DE",
@@ -127,6 +193,22 @@
           "2012-02-04",
           "2012-03-03"
         ]
+      },
+      {
+        "i": "266260-18365-2012-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "266260-18365-2012-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "266260-24181-2012-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "266260-24181-2012-05-22",
+        "c": "FR"
       },
       {
         "i": "266260-15401-2012-06-01",
@@ -142,6 +224,10 @@
         ]
       },
       {
+        "i": "266260-14870-2012-06-08",
+        "c": "FR"
+      },
+      {
         "i": "266260-27207-2012-06-09",
         "c": "DE",
         "n": "Public Provocations IV",
@@ -155,6 +241,10 @@
         ]
       },
       {
+        "i": "266260-8568-2012-09-28",
+        "c": "FR"
+      },
+      {
         "i": "266260-14748-2012-10-03",
         "c": "GB",
         "n": "Paris street art!",
@@ -166,9 +256,25 @@
           "2012-10-03",
           "2012-11-01"
         ]
+      },
+      {
+        "i": "266260-28266-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "266260-28266-2012-09-28",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "266260-14870-2012-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "266260-8568-2012-09-28",
+        "c": "FR"
+      },
       {
         "i": "266260-28544-2013-03-24",
         "c": "DE",
@@ -180,6 +286,14 @@
           "2013-03-24",
           "2013-11-01"
         ]
+      },
+      {
+        "i": "266260-2090-2013-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "266260-2090-2013-06-22",
+        "c": "FR"
       },
       {
         "i": "266260-2934-2013-03-06",

@@ -1,7 +1,7 @@
 {
   "id": "17073",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:14",
+  "timestamp": "2014-05-24 06:21:43",
   "name": "Philippe Cazal",
   "surname": "Cazal",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Installation, Objects, Sculpture",
-  "r00": "3468",
-  "r01": "3268",
-  "r02": "3030",
-  "r03": "2800",
-  "r04": "2431",
-  "r05": "2250",
-  "r06": "2483",
-  "r07": "2168",
-  "r08": "4116",
+  "r00": "4812",
+  "r01": "4163",
+  "r02": "3636",
+  "r03": "3163",
+  "r04": "2815",
+  "r05": "2369",
+  "r06": "2182",
+  "r07": "2422",
+  "r08": "2057",
   "awards": null,
   "website": null,
   "all-shows-first": "1987",
@@ -34,7 +34,7 @@
   "2005-shows-museums": "15",
   "2005-countries-total": "France (25), China (1), Morocco (1)",
   "2005-shows-with": "Philippe Cazal (24), Bertrand Lavier (7), Claude Closky (6), Raymond Hains (4), Lawrence Weiner (4), Jerôme Basserode (3), Sophie Calle (3), Eric Duyckaerts (3), Nicolas Floc\\'h (3), Paul-Armand Gette (3), Thomas Hirschhorn (3), Eugène Leroy (3), Sol LeWitt (3), Mathieu Mercier (3), Bruno Peinado (3), Haim Steinbach (3), Ernest T. (3), John M Armleder (2), Iain Baxter (2), Christian Bonnefoi (2), Etienne Bossut (2), Lilian Bourgeat (2), Patrice Carré (2), Anne-James Chaton (2), Philippe Cognée (2), Gérard Collin-Thiébaut (2), Robert Combas (2), Didier Courbot (2), Jean Daviot (2), Philippe De Gobert (2), Hans-Peter Feldmann (2), Robert Gober (2), Marie-Ange Guilleminot (2), Jean-Francois Guillon (2), Peter Halley (2), Jenny Holzer (2), Olga Kisseleva (2), Matthieu Laurette (2), Natacha Lesueur (2), Didier Marcel (2), Philippe Mayaux (2), Paul McCarthy (2), Allan McCollum (2), Annette Messager (2), François Morellet (2), Olivier Mosset (2), Tania Mouraud (2), Marylène Negro (2), Aurélie Nemours (2), O",
-  "representing-galleries": "Galerie Georges Verney-Carron (45 quai Rambaud, 69002 Lyon, France); Art Attitude Hervé Bize (17-19 rue Gambetta, 54000 Nancy, France); Galerie Fatma Jellal (4, rue de la réunion, quartier Bourgogne,  Casablanca, Morocco); L’appartement 22 (279, avenue Mohamed V,  Rabat, Morocco)",
+  "representing-galleries": "Galerie Georges Verney-Carron (45 quai Rambaud, 69002 Lyon, France); Art Attitude Hervé Bize (17-19 rue Gambetta, 54000 Nancy, France); Galerie Fatma Jellal (4, rue de la réunion, quartier Bourgogne,  Casablanca, Morocco)",
   "collecting-museums": "FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France); MUba Eugène Leroy (2, rue Paul Doumer, 59200 Tourcoing, France)",
   "first_name": "Philippe",
   "last_name": "Cazal",
@@ -56,9 +56,17 @@
           "2005-02-25",
           "2005-05-16"
         ]
+      },
+      {
+        "i": "17073-2219-2005-06-15",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "17073-2219-2005-06-15",
+        "c": "FR"
+      },
       {
         "i": "17073-2546-2006-09-23",
         "c": "DE",
@@ -71,9 +79,73 @@
           "2006-09-23",
           "2006-11-12"
         ]
+      },
+      {
+        "i": "17073-2028-2006-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2006-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "17073-8520-2006-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "17073-8520-2006-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "17073-11845-2006-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "17073-11845-2006-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2006-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2006-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2006-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2006-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2006-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2006-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2006-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2006-09-30",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "17073-2028-2007-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2007-01-18",
+        "c": "FR"
+      },
       {
         "i": "17073-2233-2007-01-18",
         "c": "CH",
@@ -86,6 +158,14 @@
           "2007-01-18",
           "2007-03-03"
         ]
+      },
+      {
+        "i": "17073-7347-2007-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "17073-7347-2007-05-26",
+        "c": "FR"
       },
       {
         "i": "17073-2390-2007-09-21",
@@ -114,9 +194,123 @@
           "2007-09-21",
           "2008-01-13"
         ]
+      },
+      {
+        "i": "17073-2414-2008-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2414-2008-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "17073-10726-2008-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "17073-10726-2008-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "17073-7390-2008-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "17073-7390-2008-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "17073-10235-2008-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "17073-10235-2008-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2008-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2008-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2304-2008-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "17073-18613-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "17073-18613-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "17073-8520-2008-02-08",
+        "c": "FR"
+      },
+      {
+        "i": "17073-8520-2008-02-08",
+        "c": "FR"
+      },
+      {
+        "i": "17073-11681-2008-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "17073-11681-2008-04-12",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "17073-2304-2008-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2528-2009-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2528-2009-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "17073-4184-2009-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "17073-4184-2009-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "17073-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "17073-9475-2009-07-04",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "17073-2028-2010-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2010-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "17073-21347-2010-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "17073-21347-2010-03-10",
+        "c": "FR"
+      },
       {
         "i": "17073-23164-2010-09-17",
         "c": "CN",
@@ -130,7 +324,69 @@
         ]
       }
     ],
+    "2011": [
+      {
+        "i": "17073-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "17073-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2071-2011-04-23",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2071-2011-04-23",
+        "c": "FR"
+      },
+      {
+        "i": "17073-11681-2011-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "17073-11681-2011-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "17073-10726-2011-10-14",
+        "c": "FR"
+      },
+      {
+        "i": "17073-22625-2011-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "17073-22625-2011-11-05",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "17073-10726-2011-10-14",
+        "c": "FR"
+      },
+      {
+        "i": "17073-8189-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "17073-8189-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "17073-28954-2012-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "17073-28954-2012-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "17073-11586-2012-10-19",
+        "c": "FR"
+      },
       {
         "i": "17073-29464-2012-10-26",
         "c": "MA",
@@ -146,6 +402,34 @@
       }
     ],
     "2013": [
+      {
+        "i": "17073-11586-2012-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2013-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "17073-2028-2013-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "17073-10726-2013-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "17073-10726-2013-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "17073-29574-2013-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "17073-29574-2013-09-06",
+        "c": "FR"
+      },
       {
         "i": "17073-29464-2012-10-26",
         "c": "MA",

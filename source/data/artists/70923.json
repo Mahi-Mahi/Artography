@@ -1,7 +1,7 @@
 {
   "id": "70923",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:32:43",
+  "timestamp": "2014-05-24 06:41:03",
   "name": "Sylvie Réno",
   "surname": "Réno",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Sculpture",
-  "r00": "30850",
-  "r01": "30014",
-  "r02": "28442",
-  "r03": "32038",
-  "r04": "33768",
-  "r05": "44721",
-  "r06": "47008",
-  "r07": "55155",
-  "r08": "52444",
+  "r00": "24451",
+  "r01": "23747",
+  "r02": "21594",
+  "r03": "19676",
+  "r04": "20765",
+  "r05": "23709",
+  "r06": "39992",
+  "r07": "42783",
+  "r08": "53879",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "22",
+  "all-shows-total": "24",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (7), Belgium (3), Germany (1), Slovakia (1), USA (1)",
-  "2005-shows-with": "Sylvie Réno (12), Lionel Scoccimaro (4), Eric Angenot (2), Marcel Berlanger (2), Franck Bragigand (2), Jean-Jacques Ceccarelli (2), Frédéric Clavère (2), Claire Dantzer (2), Jo De Smedt (2), Loek Grootjans (2), Piotr Klémensiewicz (2), Élodie Lesourd (2), Boris Thiébaut (2), Ben Vautier (2), Justin Wijers (2)",
+  "2005-countries-total": "France (8), Belgium (3), Germany (1), Italy (1), Slovakia (1), USA (1)",
+  "2005-shows-with": "Sylvie Réno (13), Frédéric Clavère (4), Lionel Scoccimaro (4), Claire Dantzer (3), Eric Angenot (2), Marcel Berlanger (2), Damien Berthier (2), Franck Bragigand (2), Jean-Jacques Ceccarelli (2), Jo De Smedt (2), Loek Grootjans (2), Piotr Klémensiewicz (2), Élodie Lesourd (2), Laurent Perbos (2), Stéphane Protic (2), Emmanuel Régent (2), Karine Rougier (2), Boris Thiébaut (2), Ben Vautier (2), Justin Wijers (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Sylvie",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2006": [
+      {
+        "i": "70923-4042-2006-09-02",
+        "c": "FR"
+      },
+      {
+        "i": "70923-4042-2006-09-02",
+        "c": "FR"
+      },
       {
         "i": "70923-15472-2006-09-02",
         "c": "DE",
@@ -71,6 +79,18 @@
           "2008-07-05",
           "2008-10-05"
         ]
+      },
+      {
+        "i": "70923-10870-2008-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "70923-10870-2008-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "70923-23549-2007-12-07",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -86,9 +106,33 @@
           "2009-04-10",
           "2009-05-30"
         ]
+      },
+      {
+        "i": "70923-8128-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "70923-8128-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "70923-14887-2009-12-14",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "70923-14887-2009-12-14",
+        "c": "FR"
+      },
+      {
+        "i": "70923-181-2010-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "70923-181-2010-01-15",
+        "c": "FR"
+      },
       {
         "i": "70923-2102-2010-05-27",
         "c": "US",
@@ -114,6 +158,47 @@
           "2010-06-27",
           "2010-08-22"
         ]
+      },
+      {
+        "i": "70923-14887-2010-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "70923-14887-2010-09-06",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "70923-16752-2011-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "70923-16752-2011-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "70923-13636-2011-02-10",
+        "c": "SK",
+        "n": "Tirez pas sur le pianiste / Nestrie&#318;ajte na pianistu",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Kosice",
+        "o": "East - Slovakian Gallery Kosice",
+        "d": [
+          "2011-02-10",
+          "2011-04-03"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "70923-10870-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "70923-10870-2012-07-07",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -131,19 +216,18 @@
         ]
       }
     ],
-    "2011": [
+    "2007": [
       {
-        "i": "70923-13636-2011-02-10",
-        "c": "SK",
-        "n": "Tirez pas sur le pianiste / Nestrie&#318;ajte na pianistu",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Kosice",
-        "o": "East - Slovakian Gallery Kosice",
-        "d": [
-          "2011-02-10",
-          "2011-04-03"
-        ]
+        "i": "70923-20542-2007-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "70923-20542-2007-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "70923-23549-2007-12-07",
+        "c": "FR"
       }
     ]
   }

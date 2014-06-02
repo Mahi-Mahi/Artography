@@ -1,7 +1,7 @@
 {
   "id": "26837",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:14:31",
+  "timestamp": "2014-05-24 06:25:17",
   "name": "Lydie Arickx",
   "surname": "Arickx",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "23473",
-  "r01": "22321",
-  "r02": "26278",
-  "r03": "23781",
-  "r04": "20734",
-  "r05": "19765",
-  "r06": "21592",
-  "r07": "18784",
-  "r08": "20976",
+  "r00": "28510",
+  "r01": "26560",
+  "r02": "23098",
+  "r03": "28234",
+  "r04": "23928",
+  "r05": "19689",
+  "r06": "18415",
+  "r07": "20326",
+  "r08": "17051",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
   "all-shows-total": "16",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (8)",
-  "2005-shows-with": "Lydie Arickx (4), Louise Giamari (2), Emmanuelle Renard (2), Jean Rustin (2), Christine Sefolosha (2)",
+  "2005-countries-total": "France (8), Switzerland (1)",
+  "2005-shows-with": "Lydie Arickx (5), Louise Giamari (2), Guy Oberson (2), Emmanuelle Renard (2), Jean Rustin (2), Christine Sefolosha (2)",
   "representing-galleries": "Galerie DX (10, place des Quinconces, 33000 Bordeaux, France); Editions Atelier Clot, Bramsen & Georges (19, rue Vieille du Temple, 75004 Paris, France); Galerie Idées d´artistes (17, rue Quicampoix, 75004 Paris, France); Galerie Polad-Hardouin (86 rue Quincampoix, 75003 Paris, France); Galerie Pierre Marie Vitoux (3, rue d'Ormesson, 75004 Paris, France)",
   "collecting-museums": null,
   "first_name": "Lydie",
@@ -43,5 +43,125 @@
   "age": 60,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "26837-16754-2007-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "26837-16754-2007-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "26837-16754-2007-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "26837-16754-2007-10-13",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "26837-16754-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "26837-16754-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "26837-21874-2009-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "26837-21874-2009-06-05",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "26837-16754-2011-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "26837-16754-2011-03-12",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "26837-5359-2012-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "26837-5359-2012-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "26837-16754-2012-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "26837-16754-2012-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "26837-21865-2012-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "26837-21865-2012-06-23",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "26837-2071-2013-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "26837-2071-2013-03-08",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "26837-16754-2005-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "26837-16754-2005-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "26837-1427-2005-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "26837-1427-2005-03-24",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "26837-16754-2006-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "26837-16754-2006-11-07",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "26837-16754-2008-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "26837-16754-2008-06-02",
+        "c": "FR"
+      }
+    ]
   }
 }

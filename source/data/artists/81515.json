@@ -1,7 +1,7 @@
 {
   "id": "81515",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:37:08",
+  "timestamp": "2014-05-24 06:44:47",
   "name": "Céline Duval",
   "surname": "Duval",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "9916",
-  "r01": "9645",
-  "r02": "8803",
-  "r03": "8488",
-  "r04": "8856",
-  "r05": "10987",
-  "r06": "16021",
-  "r07": "13261",
-  "r08": "14176",
+  "r00": "7564",
+  "r01": "8751",
+  "r02": "8706",
+  "r03": "7529",
+  "r04": "7107",
+  "r05": "7229",
+  "r06": "9312",
+  "r07": "14349",
+  "r08": "11416",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "23",
+  "all-shows-total": "26",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (8), Italy (2), United Kingdom (2), Belgium (1), Netherlands (1), Spain (1), Switzerland (1), Turkey (1), USA (1)",
-  "2005-shows-with": "Céline Duval (15), Aurélien Froment (3), John M Armleder (2), John Baldessari (2), Eric Baudelaire (2), Pierre Bismuth (2), Banu Cennetoglu (2), Melissa Dubbin & Aaron S. Davidson (2), Daniel Eatock (2), Claire Fontaine (2), Mark Geffriaud (2), Thomas Lanfranchi (2), Jonathan Monk (2), Bruce Nauman (2), Françoise Petrovitch (2), Walid Raad (2), Yann Sérandour (2), Julien Tiberi (2)",
+  "2005-shows-museums": "12",
+  "2005-countries-total": "France (12), Italy (2), United Kingdom (2), Belgium (1), Netherlands (1), Spain (1), Switzerland (1), Turkey (1), USA (1)",
+  "2005-shows-with": "Céline Duval (19), Jonathan Monk (4), Yann Sérandour (4), Ludovic Burel (3), Claude Closky (3), Hans-Peter Feldmann (3), Aurélien Froment (3), Mark Geffriaud (3), Marie-Ange Guilleminot (3), Michalis Pichler (3), Francis Alys (2), John M Armleder (2), Pierre-Olivier Arnaud (2), John Baldessari (2), Eric Baudelaire (2), Pierre Bismuth (2), Christian Boltanski (2), Véronique Boudier (2), Banu Cennetoglu (2), Melissa Dubbin & Aaron S. Davidson (2), Tacita Dean (2), Gérard Deschamps (2), Mark Dion (2), Antoine Dorotte (2), Patrick Dubrac (2), Daniel Eatock (2), Robert Filliou (2), Claire Fontaine (2), On Kawara (2), Thomas Lanfranchi (2), Jean Claude Lefèvre (2), Sol LeWitt (2), Roberto Martinez (2), Simon Morris (2), Maurizio Nannucci (2), Bruce Nauman (2), Françoise Petrovitch (2), Peter Piller (2), Julien Prévieux (2), Walid Raad (2), Hubert Renard (2), Ed Ruscha (2), Daniel Spoerri (2), Julien Tiberi (2), herman de vries (2), Eric Watier (2)",
   "representing-galleries": "Galerie Sémiose (3 rue de Montiboeufs, 75020 Paris, France)",
   "collecting-museums": null,
   "first_name": "Céline",
@@ -84,6 +84,14 @@
           "2005-11-11",
           "2006-01-29"
         ]
+      },
+      {
+        "i": "81515-2585-2006-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "81515-2585-2006-03-19",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -99,6 +107,14 @@
           "2008-04-12",
           "2008-05-10"
         ]
+      },
+      {
+        "i": "81515-17765-2008-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "81515-17765-2008-06-19",
+        "c": "FR"
       },
       {
         "i": "81515-9553-2008-08-23",
@@ -155,6 +171,22 @@
         ]
       },
       {
+        "i": "81515-20789-2009-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "81515-20789-2009-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "81515-7816-2009-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "81515-7816-2009-01-30",
+        "c": "FR"
+      },
+      {
         "i": "81515-437-2009-05-09",
         "c": "ES",
         "n": "Céline Duval - Impresos y ediciones",
@@ -169,6 +201,22 @@
       }
     ],
     "2010": [
+      {
+        "i": "81515-10351-2010-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "81515-10351-2010-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "81515-10244-2010-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "81515-10244-2010-03-20",
+        "c": "FR"
+      },
       {
         "i": "81515-18971-2010-04-24",
         "c": "IT",
@@ -209,6 +257,32 @@
           "2011-05-06",
           "2011-07-02"
         ]
+      },
+      {
+        "i": "81515-27842-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "81515-27842-2011-06-25",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "81515-7816-2012-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "81515-7816-2012-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "81515-7816-2012-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "81515-7816-2012-06-23",
+        "c": "FR"
       }
     ],
     "2013": [

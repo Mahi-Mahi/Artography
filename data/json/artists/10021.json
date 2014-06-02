@@ -1,7 +1,7 @@
 {
   "id": "10021",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:06:58",
+  "timestamp": "2014-05-24 06:18:55",
   "name": "Hélène Delprat",
   "surname": "Delprat",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "13446",
-  "r01": "12744",
-  "r02": "12830",
-  "r03": "11548",
-  "r04": "11152",
-  "r05": "9962",
-  "r06": "8320",
-  "r07": "29844",
-  "r08": "26214",
+  "r00": "12997",
+  "r01": "14276",
+  "r02": "12363",
+  "r03": "12190",
+  "r04": "10303",
+  "r05": "9683",
+  "r06": "8326",
+  "r07": "6749",
+  "r08": "28262",
   "awards": null,
   "website": null,
   "all-shows-first": "1984",
-  "all-shows-total": "30",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (7), Switzerland (2), Luxembourg (1), Taiwan (1)",
+  "all-shows-total": "32",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (9), Switzerland (2), Luxembourg (1), Taiwan (1)",
   "2005-shows-with": "Hélène Delprat (10), Alice Anderson (3), Virginie Barré (3), Laetitia Benat (3), Marie Drouet (3), Catharina van Eetvelde (3), Vidya Gastaldon (3), Camille Henrot (3), Marko Mäetamm (3), Mel O\\'Callaghan (3), Lionel Renck (3), Stéphane Sautour (3), Anne-Marie Schneider (3), Valerie Sonnier (3), Véronique Boudier (2), Blanca Casas Brullet (2), Pauline Curnier Jardin (2), Jean Dubuffet (2), Thibault Hazelzet (2), Pierre Molinier (2), Nathalie Rebholz (2), Fabien Verschaere (2), THIBAUT WARÉ (2), Brigitte Zieger (2)",
   "representing-galleries": "Galerie Christophe Gaillard (12 rue de Thorigny, 75003 Paris, France); Galerie Maeght - Paris (42, rue du Bac, 75007 Paris, France); Galerie Gisèle Linder (Elisabethenstr. 54, 4051 Basel, Switzerland)",
-  "collecting-museums": "KUNSTEN Museum of Modern Art Aalborg (former Nordjyllands Kunstmuseum) (Kong Christians Alle 50, 9000 Aalborg, Denmark); FRAC - Picardie (45 rue Pointin, 80041 Amiens, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); Ludwig Museum im Deutschherrenhaus (Danziger Freiheit 1, 56068 Koblenz, Germany); Ludwig Museum - Museum of Contemporary Art - Budapest (Komor Marcell u. 1. (in Palace of Arts), H-1095 Budapest, Hungary); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
+  "collecting-museums": "KUNSTEN Museum of Modern Art (Kong Christians Alle 50, 9000 Aalborg, Denmark); FRAC - Picardie (45 rue Pointin, 80041 Amiens, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); Ludwig Museum im Deutschherrenhaus (Danziger Freiheit 1, 56068 Koblenz, Germany); Ludwig Museum - Museum of Contemporary Art - Budapest (Komor Marcell u. 1. (in Palace of Arts), H-1095 Budapest, Hungary); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
   "first_name": "Hélène",
   "last_name": "Delprat",
   "genre": "f",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "10021-11682-2005-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "10021-11682-2005-05-11",
+        "c": "FR"
+      },
       {
         "i": "10021-1135-2005-11-20",
         "c": "DE",
@@ -86,6 +94,14 @@
           "2007-03-07",
           "2007-04-14"
         ]
+      },
+      {
+        "i": "10021-7811-2007-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "10021-7811-2007-02-18",
+        "c": "FR"
       },
       {
         "i": "10021-1265-2007-03-20",
@@ -172,6 +188,22 @@
         ]
       },
       {
+        "i": "10021-20789-2010-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "10021-20789-2010-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "10021-16207-2010-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "10021-16207-2010-02-16",
+        "c": "FR"
+      },
+      {
         "i": "10021-2404-2010-07-10",
         "c": "TW",
         "n": "The Digital Hand - Painting, Drawing, Filming, Digitalising",
@@ -183,6 +215,52 @@
           "2010-07-10",
           "2010-10-17"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "10021-16207-2011-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "10021-16207-2011-04-28",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "10021-29576-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "10021-29576-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "10021-16207-2012-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "10021-16207-2012-03-15",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "10021-16207-2013-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "10021-16207-2013-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "10021-16207-2013-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "10021-16207-2013-07-05",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "143742",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:01:54",
+  "timestamp": "2014-05-24 07:05:37",
   "name": "Marie Preston",
   "surname": "Preston",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "38385",
-  "r01": "37844",
-  "r02": "50855",
-  "r03": "57278",
-  "r04": "74521",
-  "r05": "67831",
-  "r06": "60265",
-  "r07": null,
+  "r00": "24910",
+  "r01": "30626",
+  "r02": "29573",
+  "r03": "41220",
+  "r04": "50445",
+  "r05": "71084",
+  "r06": "63757",
+  "r07": "56050",
   "r08": null,
   "awards": null,
   "website": null,
@@ -31,9 +31,9 @@
   "all-shows-total": "8",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (6)",
-  "2005-shows-with": "Marie Preston (5), Tony Regazzoni (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (7)",
+  "2005-shows-with": "Marie Preston (6), Camille Ducellier (2), Latifa Laâbissi (2), Tony Regazzoni (2), Kiki Smith (2)",
   "representing-galleries": "Ornamentum (506.5 Warren Street, 12534  Hudson, NY, USA)",
   "collecting-museums": null,
   "first_name": "Marie",
@@ -43,5 +43,71 @@
   "age": 34,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "143742-10227-2007-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "143742-10227-2007-06-01",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "143742-17872-2010-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "143742-17872-2010-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "143742-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "143742-10227-2010-05-07",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "143742-12129-2012-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "143742-12129-2012-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "143742-8700-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "143742-8700-2012-04-20",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "143742-21695-2013-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "143742-21695-2013-09-13",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "143742-11771-2011-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "143742-11771-2011-02-18",
+        "c": "FR"
+      }
+    ]
   }
 }

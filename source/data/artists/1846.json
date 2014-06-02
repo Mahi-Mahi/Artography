@@ -1,7 +1,7 @@
 {
   "id": "1846",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:02:48",
+  "timestamp": "2014-05-24 06:15:19",
   "name": "Patrick Tosani",
   "surname": "Tosani",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Sculpture",
-  "r00": "2773",
-  "r01": "2509",
-  "r02": "2608",
-  "r03": "2723",
-  "r04": "2370",
-  "r05": "1978",
-  "r06": "1661",
-  "r07": "1360",
-  "r08": "1312",
+  "r00": "4181",
+  "r01": "3822",
+  "r02": "3099",
+  "r03": "3277",
+  "r04": "3626",
+  "r05": "2877",
+  "r06": "2174",
+  "r07": "1684",
+  "r08": "1249",
   "awards": null,
   "website": null,
   "all-shows-first": "1986",
-  "all-shows-total": "83",
+  "all-shows-total": "87",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "17",
-  "2005-countries-total": "France (17), Germany (2), Canada (1)",
-  "2005-shows-with": "Patrick Tosani (16), Jean-Marc Bustamante (3), Philip-Lorca diCorcia (3), Philippe Gronon (3), Jean-Luc Moulène (3), Bernard Plossu (3), Sophie Ristelhueber (3), Andrés Serrano (3), Julien Audebert (2), Philippe Bazin (2), Bernd & Hilla Becher (2), Christian Boltanski (2), Elina Brotherus (2), Sophie Calle (2), Henri Cartier-Bresson (2), Claire Chevrier (2), Lynne Cohen (2), Stéphane Couturier (2), Gregory Crewdson (2), Thomas Demand (2), Rineke Dijkstra (2), Jeanne Dunning (2), Antoine D\\'Agata (2), Patrick Faigenbaum (2), Alain Fleischer (2), Jean le Gac (2), Geert Goiris (2), Nan Goldin (2), Paul Graham (2), Valérie Jouve (2), Karen Knorr (2), Suzanne Lafont (2), Louise Lawler (2), Ange Leccia (2), Joachim Mogarra (2), Jonathan Monk (2), Marie-Paule Nègre (2), Gina Pane (2), Éric Poitevin (2), Man Ray (2), Denis Roche (2), Georges Rousse (2), Thomas Ruff (2), August Sander (2), Adrian Schiess (2), Cindy Sherman (2), Xavier Veilhan (2)",
+  "2005-shows-museums": "20",
+  "2005-countries-total": "France (20), Germany (2), Canada (1)",
+  "2005-shows-with": "Patrick Tosani (19), Philippe Gronon (4), Jean-Luc Moulène (4), Jean-Marc Bustamante (3), Claire Chevrier (3), Stéphane Couturier (3), Philip-Lorca diCorcia (3), Ange Leccia (3), Bernard Plossu (3), Man Ray (3), Sophie Ristelhueber (3), Andrés Serrano (3), Xavier Veilhan (3), Julien Audebert (2), Philippe Bazin (2), Bernd & Hilla Becher (2), Christian Boltanski (2), Elina Brotherus (2), Sophie Calle (2), Henri Cartier-Bresson (2), Lynne Cohen (2), Gregory Crewdson (2), Thomas Demand (2), Rineke Dijkstra (2), Jeanne Dunning (2), Antoine D\\'Agata (2), Patrick Faigenbaum (2), Alain Fleischer (2), Jean le Gac (2), Geert Goiris (2), Nan Goldin (2), Paul Graham (2), Valérie Jouve (2), Karen Knorr (2), Suzanne Lafont (2), Bertrand Lavier (2), Louise Lawler (2), Joachim Mogarra (2), Jonathan Monk (2), Marie-Paule Nègre (2), Gina Pane (2), Éric Poitevin (2), Denis Roche (2), Georges Rousse (2), Thomas Ruff (2), August Sander (2), Adrian Schiess (2), Cindy Sherman (2), Andy Warhol (2)",
   "representing-galleries": "Galerie De Expeditie (Leliegracht 47, 1016 GT Amsterdam, Netherlands); Forvm (dels Cavallers 4, 43003 Tarragona, Spain)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); Musée Nicéphore Niépce (28, Quai des Messageries, 71100 Chalon sur Saône, France); Musée municipal d'art La Roche-sur-Yon (Rue Jean Jaurès, 85000 La Roche-sur-Yon, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); 49 NORD 6 EST – Frac Lorraine (Rue des Trinitaires 1 bis, 57000 Metz, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Maison Européenne de la Photographie (5/7 rue de Fourcy, 75004 Paris, France); Centre Pompidou - Musée ",
   "first_name": "Patrick",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "1846-10247-2005-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "1846-10247-2005-01-15",
+        "c": "FR"
+      },
       {
         "i": "1846-2657-2005-02-03",
         "c": "ES",
@@ -56,6 +64,14 @@
           "2005-02-03",
           "2005-05-22"
         ]
+      },
+      {
+        "i": "1846-7491-2005-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "1846-7491-2005-02-11",
+        "c": "FR"
       },
       {
         "i": "1846-2318-2005-03-09",
@@ -84,6 +100,22 @@
         ]
       },
       {
+        "i": "1846-8996-2005-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "1846-8996-2005-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "1846-20341-2005-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "1846-20341-2005-06-25",
+        "c": "FR"
+      },
+      {
         "i": "1846-13825-2005-10-20",
         "c": "US",
         "n": "Beyond Narcissus",
@@ -95,6 +127,14 @@
           "2005-10-20",
           "2006-01-30"
         ]
+      },
+      {
+        "i": "1846-8996-2005-02-22",
+        "c": "FR"
+      },
+      {
+        "i": "1846-8996-2005-02-22",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -136,9 +176,49 @@
           "2006-05-03",
           "2006-06-29"
         ]
+      },
+      {
+        "i": "1846-11214-2006-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "1846-11214-2006-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "1846-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "1846-8128-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "1846-8128-2006-11-17",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "1846-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "1846-10244-2007-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "1846-10244-2007-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "1846-20058-2007-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "1846-20058-2007-07-05",
+        "c": "FR"
+      },
       {
         "i": "1846-10496-2007-07-26",
         "c": "KR",
@@ -151,9 +231,33 @@
           "2007-07-26",
           "2007-10-31"
         ]
+      },
+      {
+        "i": "1846-4205-2007-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "1846-4205-2007-03-15",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "1846-8129-2008-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "1846-8129-2008-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "1846-8128-2008-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "1846-8128-2008-05-02",
+        "c": "FR"
+      },
       {
         "i": "1846-17713-2008-06-18",
         "c": "CA",
@@ -166,6 +270,34 @@
           "2008-06-18",
           "2008-10-13"
         ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "1846-27815-2009-12-12",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1846-27815-2009-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "1846-8548-2010-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "1846-8548-2010-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "1846-10520-2010-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "1846-10520-2010-11-19",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -181,9 +313,65 @@
           "2011-01-15",
           "2011-02-19"
         ]
+      },
+      {
+        "i": "1846-10517-2011-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "1846-10517-2011-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "1846-8129-2011-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "1846-8129-2011-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "1846-10244-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "1846-10244-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "1846-10516-2011-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "1846-10516-2011-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "1846-2037-2011-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "1846-2037-2011-05-05",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "1846-10519-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "1846-10519-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "1846-29133-2012-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "1846-29133-2012-02-10",
+        "c": "FR"
+      },
       {
         "i": "1846-403-2012-02-25",
         "c": "DE",
@@ -196,6 +384,50 @@
           "2012-02-25",
           "2012-04-29"
         ]
+      },
+      {
+        "i": "1846-2260-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "1846-2260-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "1846-10516-2012-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "1846-2037-2012-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "1846-2037-2012-10-24",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1846-10516-2012-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "1846-20679-2013-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "1846-20679-2013-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "1846-8997-2013-10-05",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "1846-8997-2013-10-05",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "40803",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:20:29",
+  "timestamp": "2014-05-24 06:30:24",
   "name": "Thomas Vinson",
   "surname": "Vinson",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "21018",
-  "r01": "19911",
-  "r02": "17867",
-  "r03": "22660",
-  "r04": "21991",
-  "r05": "31204",
-  "r06": "41540",
-  "r07": "44457",
-  "r08": "43676",
+  "r00": "20097",
+  "r01": "19343",
+  "r02": "17282",
+  "r03": "14844",
+  "r04": "19219",
+  "r05": "18173",
+  "r06": "27774",
+  "r07": "38776",
+  "r08": "41943",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "19",
+  "all-shows-total": "20",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
   "2005-shows-museums": "3",
-  "2005-countries-total": "Germany (7), France (3), Brazil (1), Switzerland (1)",
-  "2005-shows-with": "Thomas Vinson (9), Henrik Eiben (3), Douglas Allsop (2), Hartmut Böhm (2), Antonio Calderara (2), Dominique Figarella (2), Gisela Hoffmann (2), Hella Nohl (2), Adrian Schiess (2), Regine Schumann (2), Cédric Teisseire (2), Heiner Thiel (2), Günter Umberg (2)",
-  "representing-galleries": "Galerie Andrieu (Christburger Str. 25, 10405 Berlin, Germany); Galerie Kim Behm (Untermainkai  20, 60329 Frankfurt/Main, Germany); Octagon Galerie (J. S. M.Bisschops Singel 289 - R, NL - 1012 Amsterdam, Netherlands); GALERIE WENGER (Mühlebachstrasse 12, CH-8008 Zurich, Switzerland)",
+  "2005-countries-total": "Germany (7), France (3), Switzerland (2), Brazil (1)",
+  "2005-shows-with": "Thomas Vinson (10), Henrik Eiben (3), Douglas Allsop (2), Hartmut Böhm (2), Antonio Calderara (2), John Carter (2), Gerard Willem van Fastenhout (2), Dominique Figarella (2), Gisela Hoffmann (2), Hella Nohl (2), Adrian Schiess (2), Regine Schumann (2), Cédric Teisseire (2), Heiner Thiel (2), Günter Umberg (2)",
+  "representing-galleries": "Galerie Andrieu (Christburger Str. 25, 10405 Berlin, Germany); Galerie Kim Behm (Untermainkai  20, 60329 Frankfurt/Main, Germany); Octagon Galerie (J. S. M.Bisschops Singel 289 - R, NL - 1012 Amsterdam, Netherlands); Galerie Wenger (Mühlebachstrasse 12, CH-8008 Zurich, Switzerland)",
   "collecting-museums": null,
   "first_name": "Thomas",
   "last_name": "Vinson",
@@ -207,6 +207,10 @@
         ]
       },
       {
+        "i": "40803-10247-2009-10-17",
+        "c": "FR"
+      },
+      {
         "i": "40803-18430-2009-01-30",
         "c": "DE",
         "n": "Thomas Vinson",
@@ -221,6 +225,10 @@
       }
     ],
     "2010": [
+      {
+        "i": "40803-10247-2009-10-17",
+        "c": "FR"
+      },
       {
         "i": "40803-12379-2010-03-20",
         "c": "DE",
@@ -261,6 +269,22 @@
           "2010-11-20",
           "2011-02-06"
         ]
+      },
+      {
+        "i": "40803-10247-2011-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "40803-10247-2011-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "40803-19790-2011-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "40803-19790-2011-03-18",
+        "c": "FR"
       }
     ],
     "2006": [

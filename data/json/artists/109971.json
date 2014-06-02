@@ -1,7 +1,7 @@
 {
   "id": "109971",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:48:23",
+  "timestamp": "2014-05-24 06:54:19",
   "name": "Anne Marie Jugnet & Alain Clairet",
   "surname": "Jugnet & Alain Clairet",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Female, Male, Artist group",
   "media": "Painting",
-  "r00": "3477",
-  "r01": "3659",
-  "r02": "3197",
-  "r03": "2756",
-  "r04": "2487",
-  "r05": "2186",
-  "r06": "2268",
-  "r07": "2476",
-  "r08": "2662",
+  "r00": "5110",
+  "r01": "4885",
+  "r02": "5174",
+  "r03": "4032",
+  "r04": "3032",
+  "r05": "2559",
+  "r06": "2135",
+  "r07": "2171",
+  "r08": "2365",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "40",
+  "all-shows-total": "41",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "10",
-  "2005-countries-total": "France (10), Luxembourg (2), USA (2), Slovakia (1)",
-  "2005-shows-with": "Anne Marie Jugnet & Alain Clairet (11), Wilfrid Almendra (3), Matali Crasset (3), Mitja Tusek (3), Rita Ackermann (2), John M Armleder (2), Art Keller (2), Joze Barsi (2), Matei Bejenaru (2), Vesna Bukovec (2), André Cadere (2), Mircea Cantor (2), Ivan Cargo (2), Avgust Cernigoj (2), Jagna Ciuchta (2), Marc Couturier (2), Danica Dakic (2), Róza El-Hassan (2), Kota Ezawa (2), Patrick Faigenbaum (2), Helmut Federle (2), Pavlina Fichta Cierna (2), Bernard Frize (2), Aurélien Froment (2), Sébastien de Ganay (2), Jochen Gerz (2), Nan Goldin (2), Steven Gontarski (2), Douglas Gordon (2), Cosmin Gradinaru (2), Joseph Grigely (2), Božidar Jakac (2), Ilya Kabakov (2), Leopold Kessler (2), Jaroslaw Kozlowski (2), Elke Krystufek (2), Denisa Lehocká (2), Yuri Leiderman (2), Jonas Mekas (2), Mathieu Mercier (2), Aleksandra Mir (2), Marko Mäetamm (2), Vlad Nanca (2), Yves Netzhammer (2), Roman Ondák (2), Simon Patterson (2), Dan Perjovschi (2), Slavica Perkovi&#263; (2), Géza Perneczky (2), Vaclav Pozarek (2), Mar",
-  "representing-galleries": "Galerie Martine Aboucaya (5, rue Sainte-Anastase, 75003 Paris, France); Talley Dunn Gallery (5020 Tracy Street, 75205 Dallas, TX, USA)",
+  "2005-shows-museums": "11",
+  "2005-countries-total": "France (11), Luxembourg (2), USA (2), Slovakia (1)",
+  "2005-shows-with": "Anne Marie Jugnet & Alain Clairet (12), Wilfrid Almendra (3), Matali Crasset (3), Douglas Gordon (3), Simon Patterson (3), Mitja Tusek (3), Rita Ackermann (2), John M Armleder (2), Art Keller (2), Joze Barsi (2), Matei Bejenaru (2), Vesna Bukovec (2), André Cadere (2), Mircea Cantor (2), Ivan Cargo (2), Avgust Cernigoj (2), Jagna Ciuchta (2), Marc Couturier (2), Danica Dakic (2), Tacita Dean (2), Róza El-Hassan (2), Kota Ezawa (2), Patrick Faigenbaum (2), Helmut Federle (2), Pavlina Fichta Cierna (2), Bernard Frize (2), Aurélien Froment (2), Sébastien de Ganay (2), Jochen Gerz (2), Nan Goldin (2), Steven Gontarski (2), Cosmin Gradinaru (2), Joseph Grigely (2), Fabrice Hybert (2), Božidar Jakac (2), Ilya Kabakov (2), Leopold Kessler (2), Jaroslaw Kozlowski (2), Elke Krystufek (2), Denisa Lehocká (2), Yuri Leiderman (2), Jonas Mekas (2), Mathieu Mercier (2), Aleksandra Mir (2), Marko Mäetamm (2), Vlad Nanca (2), Yves Netzhammer (2), Roman Ondák (2), Bruno Peinado (2), Dan Perjovschi (2), Slavica Perkovi",
+  "representing-galleries": "Galerie Martine Aboucaya (5, rue Sainte-Anastase, 75003 Paris, France)",
   "collecting-museums": "Vancouver Art Gallery (Hornby Street 750, V6Z 2H7 Vancouver, BC, Canada); CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France); MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg); Mamco - musée d´art moderne et contemporain (10 rue des Vieux-Grenadiers, CH-1205 Geneva, Switzerland)",
   "first_name": "Anne",
   "last_name": "Marie",
@@ -69,6 +69,14 @@
           "2005-11-04",
           "2006-01-29"
         ]
+      },
+      {
+        "i": "109971-10218-2005-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "109971-10218-2005-06-18",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -84,9 +92,45 @@
           "2005-11-04",
           "2006-01-29"
         ]
+      },
+      {
+        "i": "109971-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "109971-8282-2006-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "109971-1923-2006-10-21",
+        "c": "FR"
+      },
+      {
+        "i": "109971-1923-2006-10-21",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "109971-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "109971-8282-2006-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "109971-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "109971-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "109971-10247-2007-07-02",
+        "c": "FR"
+      },
       {
         "i": "109971-3737-2007-07-07",
         "c": "LU",
@@ -114,6 +158,14 @@
         ]
       },
       {
+        "i": "109971-8128-2007-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "109971-8128-2007-11-23",
+        "c": "FR"
+      },
+      {
         "i": "109971-4380-2007-02-17",
         "c": "US",
         "n": "Anne Marie Jugnet and Alain Clairet: On The Horizon",
@@ -129,6 +181,10 @@
     ],
     "2008": [
       {
+        "i": "109971-10247-2007-07-02",
+        "c": "FR"
+      },
+      {
         "i": "109971-4380-2008-01-11",
         "c": "US",
         "n": "Beverly Semmes: Pink Arms, Pairs and Bumps",
@@ -140,6 +196,14 @@
           "2008-01-11",
           "2008-02-23"
         ]
+      },
+      {
+        "i": "109971-10519-2008-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "109971-10519-2008-01-19",
+        "c": "FR"
       },
       {
         "i": "109971-25720-2008-02-03",
@@ -166,9 +230,21 @@
           "2008-10-04",
           "2008-12-07"
         ]
+      },
+      {
+        "i": "109971-1923-2008-10-30",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "109971-6620-2009-02-08",
+        "c": "FR"
+      },
+      {
+        "i": "109971-6620-2009-02-08",
+        "c": "FR"
+      },
       {
         "i": "109971-2030-2009-09-13",
         "c": "SK",
@@ -181,6 +257,46 @@
           "2009-09-13",
           "2009-12-17"
         ]
+      },
+      {
+        "i": "109971-7999-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "109971-7999-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "109971-1923-2008-10-30",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "109971-9060-2010-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "109971-9060-2010-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "109971-8548-2010-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "109971-8548-2010-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "109971-26731-2010-09-15",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "109971-26731-2010-09-15",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -196,6 +312,34 @@
           "2012-06-30",
           "2012-09-16"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "109971-10247-2013-12-11",
+        "c": "FR"
+      },
+      {
+        "i": "109971-4159-2013-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "109971-4159-2013-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "109971-10522-2013-10-05",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "109971-10247-2013-12-11",
+        "c": "FR"
+      },
+      {
+        "i": "109971-10522-2013-10-05",
+        "c": "FR"
       }
     ]
   }

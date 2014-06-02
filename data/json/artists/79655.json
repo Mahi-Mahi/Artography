@@ -1,7 +1,7 @@
 {
   "id": "79655",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:36:26",
+  "timestamp": "2014-05-24 06:44:09",
   "name": "Diagne Chanel",
   "surname": "Chanel",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting, Sculpture",
-  "r00": "69213",
-  "r01": "67521",
-  "r02": "62858",
-  "r03": "59187",
-  "r04": "60316",
-  "r05": "63898",
-  "r06": "68514",
-  "r07": "65239",
-  "r08": null,
+  "r00": "68463",
+  "r01": "67317",
+  "r02": "64232",
+  "r03": "58202",
+  "r04": "54115",
+  "r05": "55424",
+  "r06": "59768",
+  "r07": "65225",
+  "r08": "62668",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
@@ -35,7 +35,7 @@
   "2005-countries-total": "Germany (6), France (2), USA (1)",
   "2005-shows-with": "Diagne Chanel (8), George Afedzi Hughes (5), Osi Audu (5), Godfried Donkor (5), Sokari Douglas-Camp (5), Sokey Edorh (5), Amouzou Glikpa (5), El Loko (5), Luis Mequé (5), Owusu-Ankomah (5), Rikki Wemega-Kwawu (5), Dominique Zinkpé (5), Tété Azankpo (4), Norman Catherine (4), Felix Droese (4), Karin Kahlhofer (4), Herbert Kaufmann (4), Jupp Linssen (4), Toyin Loye (4), Fritz Martin (4), Hanns Pastor (4), Marie Pittroff (4), Francois du Plessis (4), Aloys Rump (4), Kofi Setordji (4), Emil Sorge (4), Emeka Udemba (4), Chung Yong-Chang (3), Gordon Clark (3), Karl Fred Dahmen (3), Artur Elmer (3), K.O. Götz (3), Jörg Immendorff (3), Karl-Heinz Jeiter (3), William Kentridge (3), Ren Rong (3), Hartmut Ritzerfeld (3), Tracey Rose (3), Twins Seven Seven (3), Petra Deta Weidemann (3), Sascha Berretz (2), Hans Werner Berretz (2), Bram Bogart (2), Jean-Michel Crapanzano (2), Frank Ermschel (2), David Goldblatt (2), Abhijit Gupta (2), Hans Hartung (2), Hans Jaenisch (2), Käthe Kollwitz (2), Hermann-Josef Kuhna (2),",
   "representing-galleries": "ARTCO Galerie (Seilgraben 31, 52062 Aachen, Germany); ARTCO Galerie GmbH (Apolloniastr. 1, 52134 Herzogenrath, Germany)",
-  "collecting-museums": "Fondation Jean Paul Blachere (384, Avenue des Argiles, 84400 Apt, France)",
+  "collecting-museums": null,
   "first_name": "Diagne",
   "last_name": "Chanel",
   "genre": "f",
@@ -86,6 +86,14 @@
         ]
       },
       {
+        "i": "79655-7881-2007-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "79655-7881-2007-05-13",
+        "c": "FR"
+      },
+      {
         "i": "79655-6251-2007-10-05",
         "c": "DE",
         "n": "AFRICA SELECT - Teil II",
@@ -112,6 +120,14 @@
           "2008-02-16",
           "2008-03-15"
         ]
+      },
+      {
+        "i": "79655-16265-2008-11-28",
+        "c": "FR"
+      },
+      {
+        "i": "79655-16265-2008-11-28",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -171,6 +187,14 @@
       }
     ],
     "2011": [
+      {
+        "i": "79655-28253-2011-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "79655-28253-2011-06-23",
+        "c": "FR"
+      },
       {
         "i": "79655-6251-2011-08-05",
         "c": "DE",

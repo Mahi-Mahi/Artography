@@ -1,7 +1,7 @@
 {
   "id": "319504",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:10:02",
+  "timestamp": "2014-05-24 08:05:41",
   "name": "Claire Morel",
   "surname": "Morel",
   "nationality": "FR",
@@ -16,10 +16,10 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "30416",
-  "r01": "29415",
-  "r02": "98131",
-  "r03": null,
+  "r00": "18550",
+  "r01": "23199",
+  "r02": "21979",
+  "r03": "91641",
   "r04": null,
   "r05": null,
   "r06": null,
@@ -28,12 +28,12 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2011",
-  "all-shows-total": "5",
+  "all-shows-total": "6",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (4), Spain (1)",
-  "2005-shows-with": "Claire Morel (4), Ján Mancuska (3), Anna Barham (2), Nina Beier & Marie Lund (2), Alejandro Cesarco (2), Amélie Dubois (2), Dora García (2), Fabio Kacero (2), David Lamelas (2), Helen Mirra (2), Tania Mouraud (2), Ewa Partum (2), Charles Sandison (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (5), Spain (1)",
+  "2005-shows-with": "Claire Morel (5), Ján Mancuska (3), Anna Barham (2), Nina Beier & Marie Lund (2), Alejandro Cesarco (2), Peter Downsbrough (2), Amélie Dubois (2), Dora García (2), Fabio Kacero (2), David Lamelas (2), Helen Mirra (2), Tania Mouraud (2), Ewa Partum (2), Julien Prévieux (2), Charles Sandison (2), Yann Sérandour (2)",
   "representing-galleries": "Galerie Martine Aboucaya (5, rue Sainte-Anastase, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Claire",
@@ -43,7 +43,25 @@
   "age": 34,
   "age_range": "26-40",
   "expos": {
+    "2011": [
+      {
+        "i": "319504-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "319504-21128-2011-02-03",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "319504-9492-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "319504-9492-2012-01-27",
+        "c": "FR"
+      },
       {
         "i": "319504-5490-2012-06-01",
         "c": "ES",
@@ -56,6 +74,24 @@
           "2012-06-01",
           "2012-10-14"
         ]
+      },
+      {
+        "i": "319504-4159-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "319504-4159-2012-05-12",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "319504-4159-2013-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "319504-4159-2013-03-19",
+        "c": "FR"
       }
     ]
   }

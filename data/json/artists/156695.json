@@ -1,7 +1,7 @@
 {
   "id": "156695",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:07:14",
+  "timestamp": "2014-05-24 07:10:05",
   "name": "Florent Contin-Roux",
   "surname": "Contin-Roux",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "31111",
-  "r01": "45797",
-  "r02": "41857",
-  "r03": "37830",
-  "r04": "33661",
-  "r05": "29390",
-  "r06": "42269",
-  "r07": null,
+  "r00": "27362",
+  "r01": "26729",
+  "r02": "41762",
+  "r03": "36280",
+  "r04": "31474",
+  "r05": "28342",
+  "r06": "24086",
+  "r07": "36191",
   "r08": null,
   "awards": null,
   "website": null,
@@ -32,7 +32,7 @@
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (2)",
+  "2005-countries-total": "France (3)",
   "2005-shows-with": "Martine Aballéa (2), Florent Contin-Roux (2), Philippe Durand (2), Richard Fauguet (2), Barbara & Michael Leisgen (2), William Wegman (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); Musée des Beaux-Arts de Limoges – Palais de l’Evêché (1 place de l’Evêché, 87000 Limoges, France)",
@@ -43,5 +43,35 @@
   "age": 39,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "156695-9344-2007-11-16",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "156695-9344-2007-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "156695-9344-2008-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "156695-9344-2008-06-21",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "156695-9475-2013-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "156695-9475-2013-07-07",
+        "c": "FR"
+      }
+    ]
   }
 }

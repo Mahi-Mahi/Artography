@@ -1,7 +1,7 @@
 {
   "id": "12165",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:58",
+  "timestamp": "2014-05-24 06:19:47",
   "name": "Fréd Sapey-Triomphe",
   "surname": "Sapey-Triomphe",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "56614",
-  "r01": "53156",
-  "r02": "53423",
-  "r03": "56973",
-  "r04": "50852",
-  "r05": "44915",
-  "r06": "38813",
-  "r07": "47526",
-  "r08": "40201",
+  "r00": "62963",
+  "r01": "62447",
+  "r02": "57895",
+  "r03": "56879",
+  "r04": "62035",
+  "r05": "52422",
+  "r06": "44277",
+  "r07": "36675",
+  "r08": "48161",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "5",
-  "2005-shows-biennials": null,
-  "2005-shows-galleries": null,
+  "all-shows-total": "7",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (2)",
+  "2005-countries-total": "France (4)",
   "2005-shows-with": null,
   "representing-galleries": "Galería Braga Menéndez Arte Contemporáneo (Humboldt 1574, C1414CTN Buenos Aires, Argentina); Galerie Les Singuliers (138 Bd Haussmann, 75008 Paris, France)",
   "collecting-museums": null,
@@ -69,6 +69,26 @@
           "2007-08-07",
           "2007-09-15"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "12165-29101-2011-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "12165-29101-2011-01-07",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "12165-13653-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "12165-13653-2012-04-06",
+        "c": "FR"
       }
     ]
   }

@@ -22,6 +22,14 @@
         "c": "BE",
         "n": "Art Brussels 2005 - 23rd Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "1403-Fiac 2005",
+        "c": "FR"
+      },
+      {
+        "i": "1403-Paris Photo 2005",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -50,6 +58,14 @@
         "ct": "San Sebastián"
       },
       {
+        "i": "1403-Show Off Paris 2006",
+        "c": "FR"
+      },
+      {
+        "i": "1403-Paris Photo 2006",
+        "c": "FR"
+      },
+      {
         "i": "1403-Pulse Miami 06",
         "c": "US",
         "n": "Pulse Miami 06",
@@ -76,6 +92,14 @@
         "ct": "San Sebastián"
       },
       {
+        "i": "1403-Show Off Paris 2007",
+        "c": "FR"
+      },
+      {
+        "i": "1403-Paris Photo 2007",
+        "c": "FR"
+      },
+      {
         "i": "1403-Photo Miami 2007",
         "c": "US",
         "n": "Photo Miami 2007",
@@ -100,6 +124,10 @@
         "c": "US",
         "n": "NEXT 08",
         "ct": "Chicago, IL"
+      },
+      {
+        "i": "1403-Paris Photo 2008",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -108,14 +136,26 @@
         "c": "BE",
         "n": "Art Brussels 2009 - 27th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "1403-Paris Photo 2009",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "1403-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
       {
         "i": "1403-Art Brussels 2010 - 28th Contemporary Art Fair",
         "c": "BE",
         "n": "Art Brussels 2010 - 28th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "1403-Paris Photo 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -124,9 +164,17 @@
         "c": "BE",
         "n": "Art Brussels 2011",
         "ct": "Brussels"
+      },
+      {
+        "i": "1403-Paris Photo 2011",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "1403-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
       {
         "i": "1403-Artgenève - Salon international d\\'art  2012",
         "c": "CH",
@@ -138,6 +186,10 @@
         "c": "NL",
         "n": "Unseen Photo Fair 2012",
         "ct": "Amsterdam"
+      },
+      {
+        "i": "1403-Paris Photo 2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -146,6 +198,26 @@
         "c": "CH",
         "n": "Artgenève - Salon international ",
         "ct": "Geneva"
+      },
+      {
+        "i": "1403-Lille Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1403-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1403-DocksArtFair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1403-Yia Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1403-Paris Photo 2013",
+        "c": "FR"
       }
     ]
   }

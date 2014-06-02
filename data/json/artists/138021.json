@@ -1,7 +1,7 @@
 {
   "id": "138021",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:59:40",
+  "timestamp": "2014-05-24 07:03:45",
   "name": "Laetitia Badaut",
   "surname": "Badaut",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "23257",
-  "r01": "28141",
-  "r02": "26359",
-  "r03": "24669",
-  "r04": "42152",
-  "r05": "37220",
-  "r06": "32501",
-  "r07": "27488",
-  "r08": "22488",
+  "r00": "22676",
+  "r01": "21619",
+  "r02": "26672",
+  "r03": "23871",
+  "r04": "21406",
+  "r05": "42240",
+  "r06": "35690",
+  "r07": "30422",
+  "r08": "25031",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "11",
-  "2005-shows-biennials": "6",
-  "2005-shows-galleries": "6",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (9), Germany (1)",
-  "2005-shows-with": "Laetitia Badaut (8), Arnaud Dezoteux (2), Rebecca Digne (2), Chloé Dugit-Gros (2), Marie-Jeanne Hoffner (2), Fleur Noguera (2), Jorge Pedro Núñez (2)",
+  "2005-countries-total": "France (10), Germany (1)",
+  "2005-shows-with": "Laetitia Badaut (9), Arnaud Dezoteux (2), Rebecca Digne (2), Chloé Dugit-Gros (2), Marie-Jeanne Hoffner (2), Fleur Noguera (2), Jorge Pedro Núñez (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Laetitia",
@@ -73,6 +73,34 @@
         ]
       }
     ],
+    "2008": [
+      {
+        "i": "138021-20451-2008-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "138021-20451-2008-10-15",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "138021-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "138021-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "138021-21710-2010-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "138021-21710-2010-11-13",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "138021-18953-2011-01-15",
@@ -86,6 +114,58 @@
           "2011-01-15",
           "2011-01-29"
         ]
+      },
+      {
+        "i": "138021-21710-2011-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "138021-21710-2011-01-15",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "138021-28582-2012-07-02",
+        "c": "FR"
+      },
+      {
+        "i": "138021-28582-2012-07-02",
+        "c": "FR"
+      },
+      {
+        "i": "138021-22624-2012-11-29",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "138021-12129-2013-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "138021-12129-2013-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "138021-10244-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "138021-10244-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "138021-10237-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "138021-10237-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "138021-22624-2012-11-29",
+        "c": "FR"
       }
     ]
   }

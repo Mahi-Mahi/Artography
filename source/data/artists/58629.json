@@ -1,7 +1,7 @@
 {
   "id": "58629",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:48",
+  "timestamp": "2014-05-24 06:36:43",
   "name": "François Houtin",
   "surname": "Houtin",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "98861",
-  "r01": "96027",
-  "r02": "91265",
-  "r03": "85621",
-  "r04": "97309",
-  "r05": "92931",
-  "r06": "86766",
-  "r07": "77608",
-  "r08": "67680",
+  "r00": "92853",
+  "r01": "94345",
+  "r02": "91628",
+  "r03": "87032",
+  "r04": "81813",
+  "r05": "100343",
+  "r06": "98168",
+  "r07": null,
+  "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
@@ -34,7 +34,7 @@
   "2005-shows-museums": "1",
   "2005-countries-total": "France (4)",
   "2005-shows-with": "François Houtin (4)",
-  "representing-galleries": "Galerie du Verneur (4 rue Louis Lomenec'h, 29930 Pont Aven, France); Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa (RI), Italy); Francis Kyle Gallery (9 Maddox Street, Mayfair, W1S 2QE London (England), United Kingdom)",
+  "representing-galleries": "Galerie du Verneur (4 rue Louis Lomenec'h, 29930 Pont Aven, France); Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa, RI, Italy); Francis Kyle Gallery (9 Maddox Street, Mayfair, W1S 2QE London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "François",
   "last_name": "Houtin",
@@ -43,5 +43,45 @@
   "age": 64,
   "age_range": "61-100",
   "expos": {
+    "2008": [
+      {
+        "i": "58629-5082-2008-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "58629-5082-2008-01-30",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "58629-11880-2009-09-19",
+        "c": "FR"
+      },
+      {
+        "i": "58629-11880-2009-09-19",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "58629-5082-2010-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "58629-5082-2010-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "58629-29027-2010-10-07",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "58629-29027-2010-10-07",
+        "c": "FR"
+      }
+    ]
   }
 }

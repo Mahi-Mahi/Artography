@@ -1,7 +1,7 @@
 {
   "id": "242644",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:40:08",
+  "timestamp": "2014-05-24 07:39:34",
   "name": "Gregory Buchert",
   "surname": "Buchert",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video, Performance",
-  "r00": "26178",
-  "r01": "30923",
-  "r02": "49737",
-  "r03": "45602",
-  "r04": "40814",
-  "r05": null,
+  "r00": "18146",
+  "r01": "19784",
+  "r02": "25410",
+  "r03": "44370",
+  "r04": "39635",
+  "r05": "34910",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2009",
-  "all-shows-total": "7",
+  "all-shows-total": "8",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (4), Switzerland (2)",
-  "2005-shows-with": "Gregory Buchert (5), Marie-Anne Baccichet (2), Sarah Bernauer (2), Ralph Bürgin (2), Martin Chramosta (2), Lorenza Diaz (2), Jan Erbelding (2), Franziska Glozer (2), Christophe Herreros (2), Bianca Hildenbrand (2), Clare Kenny (2), Antoine Lejolivet (2), Oliver Minder (2), Sebastian Mundwiler (2), Natacha Paganelli (2), Bianca Pedrina (2), Philippe Reinau (2), Marion Ritzmann (2), Tom Senn (2), Valentina Stieger (2), Aline Zeltner (2)",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (6), Switzerland (2)",
+  "2005-shows-with": "Gregory Buchert (7), Marie-Anne Baccichet (2), Sarah Bernauer (2), Ralph Bürgin (2), Martin Chramosta (2), Lorenza Diaz (2), Jan Erbelding (2), Franziska Glozer (2), Christophe Herreros (2), Bianca Hildenbrand (2), Clare Kenny (2), Antoine Lejolivet (2), Oliver Minder (2), Sebastian Mundwiler (2), Natacha Paganelli (2), Bianca Pedrina (2), Philippe Reinau (2), Marion Ritzmann (2), Tom Senn (2), Valentina Stieger (2), Aline Zeltner (2)",
   "representing-galleries": "Analix Forever (rue de l’Arquebuse 25, CH-1204 Geneva, Switzerland)",
   "collecting-museums": null,
   "first_name": "Gregory",
@@ -44,6 +44,26 @@
   "age_range": "26-40",
   "expos": {
     "2012": [
+      {
+        "i": "242644-2709-2012-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "242644-2709-2012-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "242644-25336-2012-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "242644-25336-2012-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "242644-21639-2012-11-23",
+        "c": "FR"
+      },
       {
         "i": "242644-3158-2012-11-25",
         "c": "CH",
@@ -59,6 +79,10 @@
       }
     ],
     "2013": [
+      {
+        "i": "242644-21639-2012-11-23",
+        "c": "FR"
+      },
       {
         "i": "242644-3158-2012-11-25",
         "c": "CH",
@@ -99,6 +123,18 @@
           "2013-11-25",
           "2014-01-06"
         ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "242644-6620-2009-10-11",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "242644-6620-2009-10-11",
+        "c": "FR"
       }
     ]
   }

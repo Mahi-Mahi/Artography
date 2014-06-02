@@ -1,7 +1,7 @@
 {
   "id": "58614",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:47",
+  "timestamp": "2014-05-24 06:36:42",
   "name": "Florence Doléac",
   "surname": "Doléac",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "10777",
-  "r01": "11158",
-  "r02": "10424",
-  "r03": "11446",
-  "r04": "13749",
-  "r05": "11894",
-  "r06": "11802",
-  "r07": "13431",
-  "r08": "18609",
+  "r00": "10027",
+  "r01": "10366",
+  "r02": "10827",
+  "r03": "9630",
+  "r04": "10772",
+  "r05": "13676",
+  "r06": "11113",
+  "r07": "10673",
+  "r08": "13018",
   "awards": null,
   "website": "www.doleac.net",
   "all-shows-first": "1999",
   "all-shows-total": "32",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "12",
-  "2005-countries-total": "France (14), Belgium (1), Indonesia (1), Italy (1), Monaco (1), Slovenia (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Florence Doléac (21), Claude Closky (4), Matali Crasset (4), Mathieu Mercier (4), 5.5 Designer (3), Martine Aballéa (2), Atelier van Lieshout (2), Karina Bisch (2), BLESS (2), Ulla von Brandenburg (2), Andrea Branzi (2), Jocelyn Cottencin (2), Julien Discrit (2), David Dubois (2), Christelle Familiari (2), Richard Fauguet (2), Patrice Gaillard & Claude (2), Carsten Höller (2), Ann Veronica Janssens (2), Hella Jongerius (2), Jeff Koons (2), Claude Lévêque (2), M/M (Paris) (2), Kazimir Malevich (2), Virgil Marti (2), Nicolas Moulin (2), Radi designers (2), Philippe Ramette (2), Tobias Rehberger (2), Adrien Rovero (2), Franck Scurti (2), Studio Job (2), Tatiana Trouvé (2), Jean-Luc Vilmouth (2), Marcel Wanders (2), Franz West (2), Erwin Wurm (2)",
+  "2005-shows-museums": "13",
+  "2005-countries-total": "France (15), Belgium (1), Indonesia (1), Italy (1), Monaco (1), Slovenia (1), Switzerland (1), USA (1)",
+  "2005-shows-with": "Florence Doléac (22), Claude Closky (4), Matali Crasset (4), Mathieu Mercier (4), 5.5 Designer (3), Martine Aballéa (2), Atelier van Lieshout (2), Karina Bisch (2), BLESS (2), Ulla von Brandenburg (2), Andrea Branzi (2), Jocelyn Cottencin (2), Julien Discrit (2), David Dubois (2), Christelle Familiari (2), Richard Fauguet (2), Patrice Gaillard & Claude (2), Carsten Höller (2), Ann Veronica Janssens (2), Hella Jongerius (2), Jeff Koons (2), Claude Lévêque (2), M/M (Paris) (2), Kazimir Malevich (2), Virgil Marti (2), Anita Molinero (2), Nicolas Moulin (2), Radi designers (2), Philippe Ramette (2), Tobias Rehberger (2), Adrien Rovero (2), Franck Scurti (2), Studio Job (2), Tatiana Trouvé (2), Jean-Luc Vilmouth (2), Marcel Wanders (2), Franz West (2), Erwin Wurm (2)",
   "representing-galleries": "Jousse Entreprise (6 Rue Saint-Claude, 75003 Paris, France); Galerie Aline Vidal (70, rue Bonaparte, 75006 Paris, France)",
   "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France)",
   "first_name": "Florence",
@@ -43,6 +43,94 @@
   "age": 46,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "58614-2024-2006-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "58614-2024-2006-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "58614-10239-2006-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "58614-10239-2006-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "58614-8554-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "58614-8554-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "58614-1939-2006-12-02",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "58614-10220-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "58614-10220-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "58614-1957-2007-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "58614-1939-2006-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "58614-8285-2007-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "58614-8285-2007-09-28",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "58614-1957-2007-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "58614-2414-2008-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "58614-2414-2008-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "58614-4184-2008-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "58614-4184-2008-05-24",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "58614-8156-2009-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "58614-8156-2009-01-21",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "58614-20119-2010-04-01",
@@ -56,6 +144,34 @@
           "2010-04-01",
           "2010-05-08"
         ]
+      },
+      {
+        "i": "58614-20082-2010-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "58614-20082-2010-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "58614-21098-2010-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "58614-21098-2010-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "58614-26731-2010-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "58614-10239-2010-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "58614-10239-2010-09-18",
+        "c": "FR"
       },
       {
         "i": "58614-18696-2010-09-25",
@@ -98,6 +214,10 @@
     ],
     "2011": [
       {
+        "i": "58614-26731-2010-09-15",
+        "c": "FR"
+      },
+      {
         "i": "58614-18696-2010-09-25",
         "c": "IT",
         "n": "Changing the world with a vase of flowers",
@@ -136,6 +256,22 @@
         ]
       },
       {
+        "i": "58614-16095-2011-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "58614-16095-2011-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "58614-8282-2011-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "58614-8282-2011-04-08",
+        "c": "FR"
+      },
+      {
         "i": "58614-3694-2011-05-08",
         "c": "ID",
         "n": "DYSFASHIONAL #6 Jakarta",
@@ -147,9 +283,25 @@
           "2011-05-08",
           "2011-05-15"
         ]
+      },
+      {
+        "i": "58614-26775-2011-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "58614-26775-2011-05-25",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "58614-16095-2012-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "58614-16095-2012-06-15",
+        "c": "FR"
+      },
       {
         "i": "58614-9086-2012-09-21",
         "c": "US",
@@ -162,9 +314,25 @@
           "2012-09-21",
           "2012-10-27"
         ]
+      },
+      {
+        "i": "58614-16095-2012-11-23",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "58614-16095-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "58614-1939-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "58614-1939-2013-01-12",
+        "c": "FR"
+      },
       {
         "i": "58614-21901-2013-01-25",
         "c": "BE",
@@ -177,6 +345,14 @@
           "2013-01-25",
           "2013-03-17"
         ]
+      },
+      {
+        "i": "58614-8285-2013-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "58614-8285-2013-05-24",
+        "c": "FR"
       }
     ]
   }

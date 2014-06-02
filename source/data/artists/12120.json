@@ -1,7 +1,7 @@
 {
   "id": "12120",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:57",
+  "timestamp": "2014-05-24 06:19:46",
   "name": "Catherine Poncin",
   "surname": "Poncin",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "40616",
-  "r01": "37548",
-  "r02": "40489",
-  "r03": "37673",
-  "r04": "35572",
-  "r05": "38764",
-  "r06": "35633",
-  "r07": "30213",
-  "r08": "48679",
+  "r00": "35536",
+  "r01": "33415",
+  "r02": "28527",
+  "r03": "30661",
+  "r04": "27759",
+  "r05": "24558",
+  "r06": "24726",
+  "r07": "21270",
+  "r08": "27711",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "14",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "15",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (3), Morocco (2), Italy (1), Jordan (1), Netherlands (1)",
-  "2005-shows-with": "Catherine Poncin (7), Sofia Aguiar (3), Ninar Esber (3), Seamus Farrell (3), Otobong Nkanga (3), Younès Rahmoun (3), Batoul S\\'himi (3), James Webb (3), Mustapha Akrim (2), Yto Barrada (2), Gabriella Ciancimino (2), Tomás Colaço (2), Mohssin Harraki (2), Bouchra Khalili (2), Faouzi Laâtiris (2), Bernard Marcadé (2), Karim Rafi (2), Naoko Takahashi (2), John Zarobell (2)",
-  "representing-galleries": "Galerie Les filles du calvaire - Bruxelles (Boulevard Barthélémy, Kanal 20, 1000 Brussels, Belgium); Galerie les filles du calvaire - Paris (17, rue des Filles-du-calvaire, 75003 Paris, France); L’appartement 22 (279, avenue Mohamed V,  Rabat, Morocco)",
+  "2005-countries-total": "France (3), Morocco (3), Italy (1), Jordan (1), Netherlands (1)",
+  "2005-shows-with": "Catherine Poncin (8), Younès Rahmoun (4), Sofia Aguiar (3), Mustapha Akrim (3), Gabriella Ciancimino (3), Ninar Esber (3), Seamus Farrell (3), Otobong Nkanga (3), Karim Rafi (3), Batoul S\\'himi (3), James Webb (3), Ismail Bahri (2), Yto Barrada (2), Tomás Colaço (2), Badr El Hammami (2), Mohssin Harraki (2), Fadma Kaddouri (2), Bouchra Khalili (2), Faouzi Laâtiris (2), Bernard Marcadé (2), Naoko Takahashi (2), John Zarobell (2)",
+  "representing-galleries": "Galerie Les filles du calvaire - Bruxelles (Boulevard Barthélémy, Kanal 20, 1000 Brussels, Belgium); Galerie les filles du calvaire - Paris (17, rue des Filles-du-calvaire, 75003 Paris, France)",
   "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France)",
   "first_name": "Catherine",
   "last_name": "Poncin",
@@ -56,9 +56,27 @@
           "2006-04-19",
           "2006-04-17"
         ]
+      },
+      {
+        "i": "12120-1403-2006-11-04",
+        "c": "FR"
+      },
+      {
+        "i": "12120-1403-2006-11-04",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "12120-17313-2008-10-08",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "12120-17313-2008-10-08",
+        "c": "FR"
+      },
       {
         "i": "12120-22481-2009-11-19",
         "c": "MA",
@@ -153,6 +171,24 @@
           "2012-03-17",
           "2012-07-22"
         ]
+      },
+      {
+        "i": "12120-27825-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "12120-29550-2012-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "12120-29550-2012-03-29",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "12120-27825-2012-11-15",
+        "c": "FR"
       }
     ]
   }

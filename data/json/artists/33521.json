@@ -1,7 +1,7 @@
 {
   "id": "33521",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:17:28",
+  "timestamp": "2014-05-24 06:27:44",
   "name": "Olivier Masmonteil",
   "surname": "Masmonteil",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "7126",
-  "r01": "8022",
-  "r02": "8596",
-  "r03": "8146",
-  "r04": "8580",
-  "r05": "8514",
-  "r06": "7383",
-  "r07": "11151",
-  "r08": "13360",
+  "r00": "5729",
+  "r01": "6220",
+  "r02": "7533",
+  "r03": "7993",
+  "r04": "7278",
+  "r05": "7736",
+  "r06": "7591",
+  "r07": "6347",
+  "r08": "9753",
   "awards": "Painting Prize, Fondation Coffim, France",
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "38",
-  "2005-shows-biennials": "10",
-  "2005-shows-galleries": "10",
-  "2005-shows-museums": "11",
-  "2005-countries-total": "France (20), Austria (2), Belgium (2), Canada (1), Germany (1)",
-  "2005-shows-with": "Olivier Masmonteil (17), Duncan Wylie (4), Julien Beneyton (3), Josef Bolf (3), Claude Closky (3), Philippe Cognée (3), Gérard Garouste (3), Iris Levasseur (3), Emmanuel Régent (3), Richard Stipl (3), Adam Adach (2), Hugues Allamargot (2), Pierre Ardouvin (2), Julien Audebert (2), Gilles Barbier (2), Abdelkader Benchamma (2), Etienne Bossut (2), Simon Boudvin (2), François Bouillon (2), Jérôme Boutterin (2), Damien Cabanes (2), Henri Cueco (2), Marinette Cueco (2), Gaël Davrinche (2), Damien Deroubaix (2), Marc Desgrandchamps (2), Marcel Dinahet (2), Sylvie Fajfrowska (2), Sylvie Fanchon (2), Richard Fauguet (2), Philippe Favier (2), Daniel Firman (2), Gregory Forstner (2), Jean le Gac (2), Vincent Ganivet (2), Paul-Armand Gette (2), Hervé Ic (2), Armand Jalut (2), Bayrol Jiménez (2), Folkert de Jong (2), Isabelle Levenez (2), Philippe Mayaux (2), Jonathan Meese (2), Didier Mencoboni (2), Mathieu Mercier (2), Alicia Paz (2), Giuseppe Penone (2), Françoise Petrovitch (2), Bernard Quesniaux (2), Arnul",
+  "all-shows-total": "39",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
+  "2005-shows-museums": "12",
+  "2005-countries-total": "France (23), Belgium (3), Austria (2), Canada (1), Germany (1)",
+  "2005-shows-with": "Olivier Masmonteil (19), Duncan Wylie (4), Julien Beneyton (3), Josef Bolf (3), Claude Closky (3), Philippe Cognée (3), Gregory Forstner (3), Gérard Garouste (3), Hervé Ic (3), Iris Levasseur (3), Françoise Petrovitch (3), Emmanuel Régent (3), Richard Stipl (3), Adam Adach (2), Hugues Allamargot (2), Pierre Ardouvin (2), Julien Audebert (2), Gilles Barbier (2), Abdelkader Benchamma (2), Carole Benzaken (2), Etienne Bossut (2), Simon Boudvin (2), François Bouillon (2), Jérôme Boutterin (2), Damien Cabanes (2), Henri Cueco (2), Marinette Cueco (2), Gaël Davrinche (2), Damien Deroubaix (2), Marc Desgrandchamps (2), Marcel Dinahet (2), Sylvie Fajfrowska (2), Sylvie Fanchon (2), Richard Fauguet (2), Philippe Favier (2), Daniel Firman (2), Jean le Gac (2), Vincent Ganivet (2), Paul-Armand Gette (2), Armand Jalut (2), Bayrol Jiménez (2), Folkert de Jong (2), Isabelle Levenez (2), Philippe Mayaux (2), Jonathan Meese (2), Didier Mencoboni (2), Mathieu Mercier (2), Alicia Paz (2), Giuseppe Penone (2), Éric P",
   "representing-galleries": "André Simoens Gallery (Kustlaan 128-130, 8300 Knokke-Heist, Belgium); Galerie Dukan (24, rue Pastourelle, 75003 Paris, France); Galerie Dukan (Spinnereistraße 7 - Halle 4.B, 04179 Leipzig, Germany)",
   "collecting-museums": "Fondation pour L'Art Contemporain, Claudine et Jean-Marc Salomon (château d’Arenthon, 74290 Alex, France); Centre national des arts plastiques (Tour Atlantique 1, place de la Pyramide, 92911 Paris, France); FRAC - Alsace (1, espace Gilbert Estève, 67601 Sélestat, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France)",
   "first_name": "Olivier",
@@ -43,7 +43,46 @@
   "age": 41,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "33521-26775-2005-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "33521-26775-2005-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "33521-204-2005-03-19",
+        "c": "DE",
+        "n": "OLIVIER MASMONTEIL - Augenweide",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "Galerie Michael Schultz",
+        "d": [
+          "2005-03-19",
+          "2005-04-30"
+        ]
+      }
+    ],
     "2006": [
+      {
+        "i": "33521-5122-2006-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "33521-5122-2006-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "33521-5388-2006-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "33521-5388-2006-04-29",
+        "c": "FR"
+      },
       {
         "i": "33521-3981-2006-06-30",
         "c": "DE",
@@ -56,6 +95,40 @@
           "2006-06-30",
           "2006-08-12"
         ]
+      },
+      {
+        "i": "33521-5388-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "33521-5388-2006-09-09",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "33521-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "33521-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "33521-7910-2007-07-11",
+        "c": "FR"
+      },
+      {
+        "i": "33521-7910-2007-07-11",
+        "c": "FR"
+      },
+      {
+        "i": "33521-9475-2007-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "33521-9475-2007-03-11",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -73,7 +146,101 @@
         ]
       }
     ],
+    "2009": [
+      {
+        "i": "33521-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "33521-9475-2009-07-04",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "33521-8897-2010-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "33521-8897-2010-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "33521-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "33521-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "33521-20082-2010-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "33521-20082-2010-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "33521-27827-2010-01-16",
+        "c": "FR"
+      },
+      {
+        "i": "33521-27827-2010-01-16",
+        "c": "FR"
+      },
+      {
+        "i": "33521-8897-2010-11-20",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "33521-7392-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "33521-7392-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "33521-8897-2011-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "33521-8897-2011-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "33521-8897-2010-11-20",
+        "c": "FR"
+      },
+      {
+        "i": "33521-29101-2011-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "33521-29101-2011-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "33521-4467-2011-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "33521-4467-2011-09-11",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "33521-27843-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "33521-27843-2012-02-25",
+        "c": "FR"
+      },
       {
         "i": "33521-16535-2012-06-23",
         "c": "BE",
@@ -99,6 +266,30 @@
           "2012-04-21",
           "2012-05-18"
         ]
+      },
+      {
+        "i": "33521-27830-2012-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "33521-27830-2012-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "33521-28152-2012-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "33521-28152-2012-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "33521-8897-2012-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "33521-8897-2012-10-16",
+        "c": "FR"
       },
       {
         "i": "33521-1968-2012-12-16",
@@ -129,6 +320,42 @@
         ]
       },
       {
+        "i": "33521--2013-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "33521--2013-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "33521--2013-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "33521--2013-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "33521-9475-2013-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "33521-9475-2013-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "33521-8897-2013-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "33521-8897-2013-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "33521-11263-2013-09-20",
+        "c": "FR"
+      },
+      {
         "i": "33521-8897-2013-09-21",
         "c": "DE",
         "n": "Olivier Masmonteil / Johan Tahon - Gallery Tour",
@@ -140,6 +367,10 @@
           "2013-09-21",
           "2013-09-22"
         ]
+      },
+      {
+        "i": "33521-29739-2013-10-12",
+        "c": "FR"
       },
       {
         "i": "33521-1968-2012-12-16",
@@ -155,19 +386,14 @@
         ]
       }
     ],
-    "2005": [
+    "2014": [
       {
-        "i": "33521-204-2005-03-19",
-        "c": "DE",
-        "n": "OLIVIER MASMONTEIL - Augenweide",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "Galerie Michael Schultz",
-        "d": [
-          "2005-03-19",
-          "2005-04-30"
-        ]
+        "i": "33521-11263-2013-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "33521-29739-2013-10-12",
+        "c": "FR"
       }
     ]
   }

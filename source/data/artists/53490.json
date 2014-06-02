@@ -1,7 +1,7 @@
 {
   "id": "53490",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:25:31",
+  "timestamp": "2014-05-24 06:34:52",
   "name": "André Dubreuil",
   "surname": "Dubreuil",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "83090",
-  "r01": "80090",
-  "r02": "74853",
-  "r03": "69548",
-  "r04": "62954",
-  "r05": "56831",
-  "r06": "49884",
-  "r07": null,
+  "r00": "83448",
+  "r01": "81237",
+  "r02": "75595",
+  "r03": "68654",
+  "r04": "61879",
+  "r05": "54873",
+  "r06": "48441",
+  "r07": "41681",
   "r08": null,
   "awards": null,
   "website": null,
@@ -35,7 +35,7 @@
   "2005-countries-total": null,
   "2005-shows-with": null,
   "representing-galleries": "Contrasts Gallery (798 Art District, No. 4 Jiu Xianqiao Road, Chaoyang District, 100015 Beijing, China); Pearl Lam Galleries (181 Middle Jiangxi Road, G/F, 200002 Shanghai, China)",
-  "collecting-museums": "Brighton Museum and Art Gallery (Royal Pavilion Gardens, BN1 1EE Brighton (England), United Kingdom)",
+  "collecting-museums": "Brighton Museum and Art Gallery (Royal Pavilion Gardens, BN1 1EE Brighton, United Kingdom)",
   "first_name": "André",
   "last_name": "Dubreuil",
   "genre": "m",
@@ -43,5 +43,17 @@
   "age": 63,
   "age_range": "61-100",
   "expos": {
+    "2007": [
+      {
+        "i": "53490-2542-2007-09-26",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "53490-2542-2007-09-26",
+        "c": "FR"
+      }
+    ]
   }
 }

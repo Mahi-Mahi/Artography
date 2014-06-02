@@ -1,7 +1,7 @@
 {
   "id": "57645",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:22",
+  "timestamp": "2014-05-24 06:36:21",
   "name": "Najia Mehadji",
   "surname": "Mehadji",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting",
-  "r00": "31600",
-  "r01": "36436",
-  "r02": "44952",
-  "r03": "66650",
-  "r04": "70360",
-  "r05": "63407",
-  "r06": "55945",
-  "r07": "48747",
-  "r08": "44537",
+  "r00": "22986",
+  "r01": "24908",
+  "r02": "28925",
+  "r03": "40414",
+  "r04": "66067",
+  "r05": "70749",
+  "r06": "62425",
+  "r07": "54004",
+  "r08": "46293",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "14",
+  "all-shows-total": "15",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (8), Morocco (1), Qatar (1), Romania (1)",
-  "2005-shows-with": "Najia Mehadji (7), Élisabeth Ballet (2), Hicham Benohoud (2), Mahi Binebine (2), Mounir Fatmi (2), Tania Mouraud (2), Tatiana Trouvé (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (9), Morocco (1), Qatar (1), Romania (1)",
+  "2005-shows-with": "Najia Mehadji (8), Mounir Fatmi (3), Élisabeth Ballet (2), Hicham Benohoud (2), Mahi Binebine (2), Tania Mouraud (2), Yazid Oulab (2), Tatiana Trouvé (2)",
   "representing-galleries": "Galerie Catherine Putman (40,rue Quincampoix, 75004 Paris, France); Anima Gallery (Parcel 17, 30 La Croisette, Porto Arabia, The Pearl The Pearl, Qatar)",
   "collecting-museums": null,
   "first_name": "Najia",
@@ -43,6 +43,51 @@
   "age": 64,
   "age_range": "61-100",
   "expos": {
+    "2005": [
+      {
+        "i": "57645-12992-2005-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "57645-12992-2005-09-17",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "57645-5122-2006-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "57645-5122-2006-02-23",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "57645-2219-2009-05-27",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "57645-2219-2009-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "57645-3104-2011-01-24",
+        "c": "RO",
+        "n": "Architecture Dessins Utopies",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bucharest",
+        "o": "National Museum of Contemporary Art (MNAC)",
+        "d": [
+          "2011-01-24",
+          "2011-04-20"
+        ]
+      }
+    ],
     "2010": [
       {
         "i": "57645-8717-2010-10-07",
@@ -58,22 +103,27 @@
         ]
       }
     ],
-    "2011": [
-      {
-        "i": "57645-3104-2011-01-24",
-        "c": "RO",
-        "n": "Architecture Dessins Utopies",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Bucharest",
-        "o": "National Museum of Contemporary Art (MNAC)",
-        "d": [
-          "2011-01-24",
-          "2011-04-20"
-        ]
-      }
-    ],
     "2012": [
+      {
+        "i": "57645-4160-2012-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "57645-4160-2012-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "57645-28442-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "57645-28442-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "57645-8786-2012-10-16",
+        "c": "FR"
+      },
       {
         "i": "57645-27976-2012-09-15",
         "c": "QA",
@@ -86,6 +136,44 @@
           "2012-09-15",
           "2012-10-31"
         ]
+      },
+      {
+        "i": "57645-27818-2012-11-15",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "57645-8786-2012-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "57645-27818-2013-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "57645-27818-2013-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "57645-27818-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "57645-28442-2013-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "57645-28442-2013-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "57645-11777-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "57645-11777-2013-04-13",
+        "c": "FR"
       }
     ]
   }

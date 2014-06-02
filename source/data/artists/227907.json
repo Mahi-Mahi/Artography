@@ -1,7 +1,7 @@
 {
   "id": "227907",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:34:37",
+  "timestamp": "2014-05-24 07:34:33",
   "name": "Jean-Michel Pancin",
   "surname": "Pancin",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "15351",
-  "r01": "28186",
-  "r02": "56545",
-  "r03": "54239",
-  "r04": "71076",
-  "r05": "100667",
-  "r06": null,
+  "r00": "5974",
+  "r01": "9795",
+  "r02": "21128",
+  "r03": "49251",
+  "r04": "47042",
+  "r05": "64585",
+  "r06": "101471",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "11",
+  "all-shows-total": "14",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (9), Switzerland (2)",
-  "2005-shows-with": "Jean-Michel Pancin (9), Mat Collishaw (4), Mounir Fatmi (4), Dove Allouche (2), Tïa Calli Borlase (2), Sebastián Díaz Morales (2), Loris Gréaud (2), Camille Henrot (2), Andrea Mastrovito (2), Luc Mattenberger (2), Ariane Michel (2), Robert Montgomery (2), Mrzyk & Moriceau (2), Frank Perrin (2), Françoise Petrovitch (2), Éric Pougeau (2), Julien Serve (2)",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (11), Switzerland (2), Spain (1)",
+  "2005-shows-with": "Jean-Michel Pancin (12), Mounir Fatmi (5), Mat Collishaw (4), Tïa Calli Borlase (3), Loris Gréaud (3), Luc Mattenberger (3), Julien Serve (3), Dove Allouche (2), Francis Alys (2), Kader Attia (2), Conrad Bakker (2), Neil Beloufa (2), Sebastián Díaz Morales (2), Claire Fontaine (2), Mona Hatoum (2), Camille Henrot (2), Ali Kazma (2), Zilvinas Kempinas (2), Anselm Kiefer (2), Liu Zhenchen (2), Andrea Mastrovito (2), Ariane Michel (2), Robert Montgomery (2), Mrzyk & Moriceau (2), Mathieu Pernot (2), Frank Perrin (2), Françoise Petrovitch (2), Pierre et Gilles (2), Éric Pougeau (2), Gérard Rancinan (2), Moussa Sarr (2), Xavier Veilhan (2), Raphaël Zarka (2)",
   "representing-galleries": "Analix Forever (rue de l’Arquebuse 25, CH-1204 Geneva, Switzerland)",
   "collecting-museums": null,
   "first_name": "Jean-Michel",
@@ -43,6 +43,16 @@
   "age": 41,
   "age_range": "41-60",
   "expos": {
+    "2008": [
+      {
+        "i": "227907-4201-2008-05-08",
+        "c": "FR"
+      },
+      {
+        "i": "227907-4201-2008-05-08",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "227907-8157-2009-09-05",
@@ -58,7 +68,51 @@
         ]
       }
     ],
+    "2010": [
+      {
+        "i": "227907-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "227907-22964-2010-09-10",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "227907-18379-2011-11-23",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "227907-18379-2011-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "227907-12220-2012-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "227907-12220-2012-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "227907-3983-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "227907-3983-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "227907-2718-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "227907-2718-2012-09-28",
+        "c": "FR"
+      },
       {
         "i": "227907-895-2012-06-09",
         "c": "CH",
@@ -71,6 +125,34 @@
           "2012-06-09",
           "2012-08-24"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "227907-2090-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "227907-2090-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "227907-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "227907-1782-2013-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "227907-1782-2013-04-19",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "227907-29739-2013-10-12",
+        "c": "FR"
       }
     ]
   }

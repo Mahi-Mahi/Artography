@@ -1,7 +1,7 @@
 {
   "id": "124107",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:54:02",
+  "timestamp": "2014-05-24 06:59:09",
   "name": "Élodie Lesourd",
   "surname": "Lesourd",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "12245",
-  "r01": "16015",
-  "r02": "18934",
-  "r03": "19869",
-  "r04": "20932",
-  "r05": "30865",
-  "r06": "26320",
-  "r07": "33814",
-  "r08": "28015",
+  "r00": "6800",
+  "r01": "10143",
+  "r02": "13760",
+  "r03": "16859",
+  "r04": "17465",
+  "r05": "18247",
+  "r06": "28211",
+  "r07": "23258",
+  "r08": "30806",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "23",
-  "2005-shows-biennials": "11",
-  "2005-shows-galleries": "11",
-  "2005-shows-museums": "7",
-  "2005-countries-total": "France (13), Belgium (2), Germany (1), Luxembourg (1), Slovenia (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Élodie Lesourd (17), Damien Deroubaix (5), Lionel Scoccimaro (5), Julien Beneyton (4), Maël Nozahic (4), Éric Pougeau (4), Eric Angenot (2), Matthew Barney (2), Ronan Barrot (2), Marcel Berlanger (2), Marc Bijl (2), Franck Bragigand (2), Nicholas Bullen (2), Larry Carroll (2), Gregory Cuquel (2), Jo De Smedt (2), Gregory Forstner (2), Loek Grootjans (2), Seldon Hunt (2), Gregory Jacobsen (2), Armand Jalut (2), Theodor Kittelsen (2), Youcef Korichi (2), Harmony Korine (2), Iris Levasseur (2), Juan Pablo Macias (2), Audrey Nervi (2), Axel Pahlavi (2), Ludovic Paquelier (2), Sylvie Réno (2), Raphaëlle Ricol (2), Torbjorn Rodland (2), Dennis Rudolph (2), Steven Shearer (2), Boris Thiébaut (2), Mark Titchner (2), Gee Vaucher (2), Stephane Vigny (2), Banks Violette (2), Justin Wijers (2), Jerome Zonder (2)",
+  "all-shows-total": "26",
+  "2005-shows-biennials": "12",
+  "2005-shows-galleries": "12",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (15), Belgium (2), USA (2), Germany (1), Luxembourg (1), Slovenia (1), Switzerland (1)",
+  "2005-shows-with": "Élodie Lesourd (19), Damien Deroubaix (5), Lionel Scoccimaro (5), Julien Beneyton (4), Maël Nozahic (4), Éric Pougeau (4), Eric Angenot (2), Matthew Barney (2), Ronan Barrot (2), Marcel Berlanger (2), Marc Bijl (2), Franck Bragigand (2), Nicholas Bullen (2), Larry Carroll (2), Gregory Cuquel (2), Jo De Smedt (2), Ceal Floyer (2), Gregory Forstner (2), Loek Grootjans (2), Seldon Hunt (2), Gregory Jacobsen (2), Armand Jalut (2), Theodor Kittelsen (2), Youcef Korichi (2), Harmony Korine (2), Iris Levasseur (2), Juan Pablo Macias (2), Audrey Nervi (2), Axel Pahlavi (2), Ludovic Paquelier (2), Sylvie Réno (2), Raphaëlle Ricol (2), Torbjorn Rodland (2), Dennis Rudolph (2), Steven Shearer (2), Boris Thiébaut (2), Mark Titchner (2), Gee Vaucher (2), Stephane Vigny (2), Banks Violette (2), Justin Wijers (2), Jerome Zonder (2)",
   "representing-galleries": "Galerie Olivier Robert (19, rue Mazarine, 75006 Paris, France)",
   "collecting-museums": null,
   "first_name": "Élodie",
@@ -43,7 +43,25 @@
   "age": 36,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "124107-2342-2005-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "124107-2342-2005-06-24",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "124107-4651-2007-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "124107-4651-2007-02-02",
+        "c": "FR"
+      },
       {
         "i": "124107-28587-2007-12-01",
         "c": "CH",
@@ -56,6 +74,14 @@
           "2007-12-01",
           "2008-01-20"
         ]
+      },
+      {
+        "i": "124107-13545-2007-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "124107-13545-2007-01-18",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -86,9 +112,41 @@
           "2009-04-10",
           "2009-05-30"
         ]
+      },
+      {
+        "i": "124107-7491-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "124107-7491-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "124107-13545-2009-12-05",
+        "c": "FR"
+      },
+      {
+        "i": "124107-13545-2009-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "124107-13545-2009-05-30",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "124107-13545-2009-12-05",
+        "c": "FR"
+      },
+      {
+        "i": "124107-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "124107-7910-2010-03-13",
+        "c": "FR"
+      },
       {
         "i": "124107-13031-2010-06-27",
         "c": "BE",
@@ -105,6 +163,14 @@
     ],
     "2011": [
       {
+        "i": "124107-13545-2011-03-31",
+        "c": "FR"
+      },
+      {
+        "i": "124107-13545-2011-03-31",
+        "c": "FR"
+      },
+      {
         "i": "124107-21930-2011-04-14",
         "c": "DE",
         "n": "After",
@@ -116,6 +182,38 @@
           "2011-04-14",
           "2011-05-28"
         ]
+      },
+      {
+        "i": "124107-13545-2011-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "124107-13545-2011-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "124107-23091-2011-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "124107-23091-2011-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "124107-13545-2011-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "124107-13545-2011-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "124107-13545-2011-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "124107-13545-2011-03-12",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -146,6 +244,14 @@
         ]
       },
       {
+        "i": "124107-13545-2012-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "124107-13545-2012-05-10",
+        "c": "FR"
+      },
+      {
         "i": "124107-6148-2012-08-02",
         "c": "SI",
         "n": "Beautiful painting is behind us",
@@ -157,9 +263,17 @@
           "2012-08-02",
           "2012-09-09"
         ]
+      },
+      {
+        "i": "124107-8568-2012-09-28",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "124107-8568-2012-09-28",
+        "c": "FR"
+      },
       {
         "i": "124107-3737-2013-05-18",
         "c": "LU",
@@ -172,6 +286,22 @@
           "2013-05-18",
           "2013-09-15"
         ]
+      },
+      {
+        "i": "124107-7851-2013-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "124107-7851-2013-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "124107-13545-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "124107-13545-2013-03-23",
+        "c": "FR"
       }
     ]
   }

@@ -18,7 +18,6 @@ define([], function() {
 				y: -1
 			};
 			jQuery(document).mousemove(function(event) {
-				// console.log([event.pageX, event.pageY]);
 				$scope.currentMousePos.x = event.pageX;
 				$scope.currentMousePos.y = event.pageY;
 			});
@@ -38,15 +37,22 @@ define([], function() {
 
 			$scope.artist = dataService.data.artists[$route.current.params.id];
 
-			console.log($scope.artist);
+			// console.log($scope.artist);
 
 			$scope.periods = [];
-			angular.forEach($scope.artist.expos, function(expo, year) {
-				$scope.periods.push({
-					name: parseInt(year, 10) ? year : "Aujourd'hui",
-					slug: year,
-					checked: null
+			angular.forEach($scope.artist.expos, function(expos, year) {
+				var has_expos = false;
+				angular.forEach(expos, function(expo, idx) {
+					if (expo.c !== 'FR')
+						has_expos = true;
 				});
+				if (has_expos) {
+					$scope.periods.push({
+						name: parseInt(year, 10) ? year : "Aujourd'hui",
+						slug: year,
+						checked: null
+					});
+				}
 			});
 			$scope.periods.reverse();
 
@@ -63,6 +69,7 @@ define([], function() {
 			});
 
 			var all_expos = {};
+			var french_expos = {};
 
 			var expo_types = [];
 
@@ -72,6 +79,7 @@ define([], function() {
 			// Countries list
 			$scope.countries = [];
 			$scope.organizers = {};
+			$scope.artist_news = [];
 			// $scope.organizers_list = [{
 			// 	name: 'TOTO',
 			// 	counter: 123
@@ -82,7 +90,7 @@ define([], function() {
 				'Non-profit-organization': '#9e1e62',
 				'': '#8cc63e',
 				'Autre': '#8cc63e'
-			}
+			};
 
 			// incremented at each filters change
 			var iteration = 0;
@@ -90,9 +98,7 @@ define([], function() {
 			var nb_countries = 0;
 			var max_expos = 0;
 
-			var central_radius = 60,
-				central_margin = 20,
-				country_title_margin = 30,
+			var country_title_margin = 30,
 				margin = 10 + country_title_margin;
 
 			var layerW_max = 20;
@@ -102,7 +108,6 @@ define([], function() {
 
 			var show_country_label = true;
 
-			var nb_countries_total = 0;
 			var textOnPathDone = 0;
 
 			var scale_circles = [];
@@ -112,7 +117,7 @@ define([], function() {
 				};
 			});
 
-			var mainWidth = Math.min(jQuery('.content').width(), jQuery(window).height() - jQuery('.entry-header').height());
+			var mainWidth = Math.min(jQuery('.content').width(), jQuery(window).height() - jQuery('.entry-header').height() - jQuery('.content-footer').height());
 			var canvasW = mainWidth,
 				divW = mainWidth,
 				canvasH = mainWidth,
@@ -182,7 +187,6 @@ define([], function() {
 
 			var animation_delay = 300,
 				a_interval = 2,
-				fadeOut_delay = 200,
 				fadeIn_delay = 200;
 
 			var logo_ratio = 168 / 288,
@@ -223,7 +227,9 @@ define([], function() {
 			var updateExpos = function() {
 				$scope.expos_list = [];
 				angular.forEach($scope.expos, function(expo_id) {
-					$scope.expos_list.push(all_expos[expo_id]);
+					if (all_expos[expo_id]) {
+						$scope.expos_list.push(all_expos[expo_id]);
+					}
 				});
 				$scope.searchExpos();
 			};
@@ -240,9 +246,29 @@ define([], function() {
 				});
 			};
 
+			function showActus() {
+				if ($scope.artist.expos.today) {
+					var the_expo = $scope.artist.expos.today[0];
+					$scope.artist_news = [];
+					if (the_expo) {
+						jQuery('.news-block li').html(the_expo.n + '<br />' +
+							'Du ' + formatService.formatDate(the_expo.d[0]) +
+							(the_expo.d[1] ? (' Au ' + formatService.formatDate(the_expo.d[1])) : '') + '<br />' +
+							the_expo.o + ' / @' + the_expo.ct + ',' + the_expo.c).show();
+					} else {
+						jQuery('.news-block').hide();
+					}
+				}
+				jQuery('.news-block').hide();
+			}
+
+			showActus();
+
 			$scope.$apply();
 
 			function parseData() {
+
+				console.log("parseData");
 
 				iteration++;
 
@@ -252,7 +278,10 @@ define([], function() {
 				var expos = $scope.artist.expos[$scope.filters.period];
 				// console.log("expos : " + expos.length);
 
+				// console.log(expos);
+
 				$scope.expos = [];
+				$scope.french_expos = [];
 				$scope.countries = [];
 				$scope.organizers = {};
 				max_expos = 0;
@@ -270,24 +299,33 @@ define([], function() {
 						var country = data.continents[data.cc[expo.c]].countries[expo.c];
 						var expos = country.expos;
 						if (!expos[expo.i]) {
-							expos[expo.i] = {
-								slice: null,
-								iteration: 0,
-								showtype: expo.st.replace(/[^\w]+/g, '-').replace(/-$/, ''),
-								type: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
-							};
-							all_expos[expo.i] = {
-								id: expo.i,
-								showtype: expo.st.replace(/[^\w]+/g, '-').replace(/-$/, ''),
-								type: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
-								period: expo.d,
-								organizer: expo.o,
-								name: expo.n,
-								city: expo.ct,
-								country: country,
-								enabled: 'enabled'
-							};
+							if (expo.c == 'FR') {
+								expos[expo.i] = {
+									id: expo.i,
+									iteration: 0
+								};
+							} else {
+								expos[expo.i] = {
+									slice: null,
+									iteration: 0,
+									showtype: expo.st.replace(/[^\w]+/g, '-').replace(/-$/, ''),
+									type: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
+								};
+								all_expos[expo.i] = {
+									id: expo.i,
+									showtype: expo.st.replace(/[^\w]+/g, '-').replace(/-$/, ''),
+									type: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
+									period: expo.d,
+									organizer: expo.o,
+									name: expo.n,
+									city: expo.ct,
+									country: country,
+									enabled: 'enabled'
+								};
+							}
+
 						}
+
 						if (expos[expo.i].iteration < iteration) {
 							if (!country.nb_expos) {
 								country.nb_expos = 1;
@@ -297,7 +335,7 @@ define([], function() {
 							max_expos = Math.max(max_expos, country.nb_expos);
 						}
 						expos[expo.i].iteration = iteration;
-						if ($scope.countries.indexOf(expo.c) == -1) {
+						if (expo.c !== 'FR' && $scope.countries.indexOf(expo.c) == -1) {
 							$scope.countries.push(expo.c);
 						}
 						if (!$scope.organizers[expo.t]) {
@@ -325,6 +363,10 @@ define([], function() {
 						console.log("country continent not found : " + expo.c);
 					}
 				});
+
+				console.log(data.continents['Europe'].countries['FR'].nb_expos, Object.keys(expos).length);
+
+				jQuery('.content-footer strong').text(Math.round(data.continents['Europe'].countries['FR'].nb_expos / Object.keys(expos).length * 100) + '%');
 
 				nb_countries = $scope.countries.length;
 
@@ -394,100 +436,103 @@ define([], function() {
 					angular.forEach(continent.countries, function(country, country_code) {
 						// console.log(country_code);
 
-						var radius = central_radius;
-						var previous_expo = null;
+						if (country_code !== 'FR') {
 
-						angular.forEach(country.expos, function(expo, expo_id) {
+							var radius = central_radius;
+							var previous_expo = null;
 
-							var layerW = Math.min(layerW_max, expo.iteration < iteration ? 0 : ((divW / 2) - (central_radius + margin)) / (max_expos + 1));
-							// var layerW = max_artists ? ((divW / 2) - (central_radius + margin)) / max_artists : 0;
+							angular.forEach(country.expos, function(expo, expo_id) {
 
-							if (layerW)
-								real_layerW = layerW;
+								var layerW = Math.min(layerW_max, expo.iteration < iteration ? 0 : ((divW / 2) - (central_radius + margin)) / (max_expos + 1));
+								// var layerW = max_artists ? ((divW / 2) - (central_radius + margin)) / max_artists : 0;
 
-							if (layerW)
-								radius += layerW + layer_interval;
+								if (layerW)
+									real_layerW = layerW;
 
-							// filledArc : [ X Position, Y Position, Radius, Width, Angle, Rotation ]
-							var previous_filledArc = expo.filledArc;
-							expo.filledArc = [originX, originY, radius, layerW, a, rotation];
+								if (layerW)
+									radius += layerW + layer_interval;
 
-							if (expo.slice === null) {
-								if (previous_expo) {
-									new_filledArc = previous_expo_filledArc;
+								// filledArc : [ X Position, Y Position, Radius, Width, Angle, Rotation ]
+								var previous_filledArc = expo.filledArc;
+								expo.filledArc = [originX, originY, radius, layerW, a, rotation];
+
+								if (expo.slice === null) {
+									if (previous_expo) {
+										new_filledArc = previous_expo_filledArc;
+									} else {
+										new_filledArc = [originX, originY, central_radius, 0 /* layerW */ , a, country.rotation === undefined ? rotation : country.rotation];
+									}
+									var fill = expo_colors[expo.type];
+									if (expo.showtype == 'Solo') {
+										fill = "url(/arts-visuels/assets/images/stripe-" + (expo.type.replace(/expo-/, '')) + ".png)";
+									}
+									expo.slice = raphael.path().attr({
+										fill: fill,
+										'stroke-width': 0,
+										filledArc: new_filledArc
+									}).animate({
+										filledArc: expo.filledArc
+									}, animation_delay)
+										.hover(function() {
+											var expo_id = this.node.classList[2].replace(/expo-/, '');
+											$scope.showExpoPopup(expo_id);
+										}, function() {});
+
+									expo.slice.node.setAttribute('class', 'country-' + country_code + ' expo expo-' + expo_id);
+
 								} else {
-									new_filledArc = [originX, originY, central_radius, 0 /* layerW */ , a, country.rotation === undefined ? rotation : country.rotation];
+									expo.slice.animate({
+										filledArc: expo.filledArc
+									}, animation_delay, null, function() {
+										// console.log("animated");
+									});
 								}
-								var fill = expo_colors[expo.type];
-								if (expo.showtype == 'Solo') {
-									fill = "url(/arts-visuels/assets/images/stripe-" + (expo.type.replace(/expo-/, '')) + ".png)";
+
+								previous_expo_filledArc = previous_filledArc;
+
+							});
+
+							// Country Label
+							if (show_country_label) {
+								if (country.title_set) {
+									country.title_set.remove();
 								}
-								expo.slice = raphael.path().attr({
-									fill: fill,
-									'stroke-width': 0,
-									filledArc: new_filledArc
-								}).animate({
-									filledArc: expo.filledArc
-								}, animation_delay)
-									.hover(function() {
-										var expo_id = this.node.classList[2].replace(/expo-/, '');
-										$scope.showExpoPopup(expo_id);
-									}, function() {});
+								if (country.title_path) {
+									country.title_path.remove();
+								}
+								if (country.has_expos) {
+									(function(country, country_code, a, rotation) {
+										clearTimeout(timeouts[country_code]);
+										timeouts[country_code] = setTimeout(function() {
+											// var simpleArc = [originX, originY, a, divW / 2 - country_title_margin, rotation - a / 2];
+											var simpleArc = [originX, originY, divW / 2 - country_title_margin, a - a_interval, rotation];
+											country.title_path = raphael.path().attr({
+												stroke: "#0000FF",
+												'stroke-width': 0,
+												simpleArc: simpleArc,
+												opacity: 0
+											}).toBack();
 
-								expo.slice.node.setAttribute('class', 'country-' + country_code + ' expo expo-' + expo_id);
+											// var message = country_code.toUpperCase();
+											// var res = prepareText(country.country.fr.toUpperCase(), 12, 1, true, true, '00FF00', 'normal');
+											// message = (res.messageLength > country.title_path.getTotalLength() * 0.75) ? message : country.country.fr.toUpperCase();
+											if (nb_countries > 10) {
+												country.title_set = textOnPath(country_code.toUpperCase(), country.title_path, 10, 1, true, true, 0, '00FF00', 'normal', a, rotation);
+											} else {
+												country.title_set = textOnPath(country.country.fr.toUpperCase(), country.title_path, 12, 1, true, true, 0, '00FF00', 'normal', a, rotation);
+											}
 
-							} else {
-								expo.slice.animate({
-									filledArc: expo.filledArc
-								}, animation_delay, null, function() {
-									// console.log("animated");
-								});
+											delayed_display.push(country.title_path);
+
+										}, 150);
+									})(country, country_code, a, rotation);
+								}
 							}
 
-							previous_expo_filledArc = previous_filledArc;
+							rotation += country.has_expos ? (a + a_interval) : 0;
 
-						});
-
-						// Country Label
-						if (show_country_label) {
-							if (country.title_set) {
-								country.title_set.remove();
-							}
-							if (country.title_path) {
-								country.title_path.remove();
-							}
-							if (country.has_expos) {
-								(function(country, country_code, a, rotation) {
-									clearTimeout(timeouts[country_code]);
-									timeouts[country_code] = setTimeout(function() {
-										// var simpleArc = [originX, originY, a, divW / 2 - country_title_margin, rotation - a / 2];
-										var simpleArc = [originX, originY, divW / 2 - country_title_margin, a - a_interval, rotation];
-										country.title_path = raphael.path().attr({
-											stroke: "#0000FF",
-											'stroke-width': 0,
-											simpleArc: simpleArc,
-											opacity: 0
-										}).toBack();
-
-										// var message = country_code.toUpperCase();
-										// var res = prepareText(country.country.fr.toUpperCase(), 12, 1, true, true, '00FF00', 'normal');
-										// message = (res.messageLength > country.title_path.getTotalLength() * 0.75) ? message : country.country.fr.toUpperCase();
-										if (nb_countries > 10) {
-											country.title_set = textOnPath(country_code.toUpperCase(), country.title_path, 10, 1, true, true, 0, '00FF00', 'normal', a, rotation);
-										} else {
-											country.title_set = textOnPath(country.country.fr.toUpperCase(), country.title_path, 12, 1, true, true, 0, '00FF00', 'normal', a, rotation);
-										}
-
-										delayed_display.push(country.title_path);
-
-									}, 150);
-								})(country, country_code, a, rotation);
-							}
+							data.continents[continent_name].countries[country_code].rotation = country.rotation = rotation;
 						}
-
-						rotation += country.has_expos ? (a + a_interval) : 0;
-
-						data.continents[continent_name].countries[country_code].rotation = country.rotation = rotation;
 
 					});
 
@@ -594,7 +639,7 @@ define([], function() {
 			}
 
 			function textOnPath(message, path, fontSize, letterSpacing, kerning, geckoKerning, point, fontColor, fontWeight, a, rotation) {
-
+				// console.log("textOnPath(" + message);
 				var set = raphael.set();
 				delayed_display.push(set);
 
@@ -653,7 +698,7 @@ define([], function() {
 				}
 				textOnPathDone++;
 				if (textOnPathDone == nb_countries) {
-					console.log("all textOnPathDone");
+					// console.log("all textOnPathDone");
 					angular.forEach(delayed_display, function(item, idx) {
 						delete delayed_display[idx];
 						item.animate({
@@ -665,10 +710,9 @@ define([], function() {
 			}
 
 			$scope.showExpoPopup = function(expo_id, left) {
-				console.log("showExpoPopup(" + expo_id);
+				// console.log("showExpoPopup(" + expo_id);
 				var the_expo = all_expos[expo_id];
 				if (the_expo) {
-					console.log($scope.currentMousePos);
 					jQuery('#popup').attr('class', 'expo-' + the_expo.type).html(
 						'<p class="name">' + the_expo.name + '</p>' +
 						'<p class="period">Du ' + formatService.formatDate(the_expo.period[0]) +

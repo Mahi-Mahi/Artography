@@ -16,6 +16,12 @@
   "fairs-abroad": "10",
   "fairs-in-FR": "16",
   "fairs": {
+    "2005": [
+      {
+        "i": "5115-ArtParis 2005",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "5115-Photo London 2006",
@@ -30,6 +36,10 @@
         "c": "US",
         "n": "Works on Paper - 2007",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "5115-ArtParis 07",
+        "c": "FR"
       },
       {
         "i": "5115-Fine Art Fair Frankfurt 07",
@@ -58,6 +68,10 @@
         "ct": "New York City, NY"
       },
       {
+        "i": "5115-ArtParis 08",
+        "c": "FR"
+      },
+      {
         "i": "5115-Artparis-Shenzhen",
         "c": "CN",
         "n": "Artparis-Shenzhen",
@@ -76,14 +90,48 @@
         "c": "US",
         "n": "palmbeach3 - 2009",
         "ct": "West Palm Beach, FL"
+      },
+      {
+        "i": "5115-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "5115-SLICK Dessin 09",
+        "c": "FR"
+      },
+      {
+        "i": "5115-Docks Art Fair 2009",
+        "c": "FR"
+      },
+      {
+        "i": "5115-SLICK 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5115-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "5115-Salon du Dessin Contemporain 2010",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "5115-ArtParis 2011",
+        "c": "FR"
+      },
       {
         "i": "5115-Art Cologne 2011",
         "c": "DE",
         "n": "Art Cologne 2011",
         "ct": "Cologne"
+      },
+      {
+        "i": "5115-DocksArtFair 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -96,10 +144,18 @@
     ],
     "2013": [
       {
+        "i": "5115-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      },
+      {
         "i": "5115-Art Brussels 2013",
         "c": "BE",
         "n": "Art Brussels 2013",
         "ct": "Brussels"
+      },
+      {
+        "i": "5115-DocksArtFair 2013",
+        "c": "FR"
       },
       {
         "i": "5115-Artissima 2013",

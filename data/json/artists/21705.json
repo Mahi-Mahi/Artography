@@ -1,7 +1,7 @@
 {
   "id": "21705",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:12:11",
+  "timestamp": "2014-05-24 06:23:26",
   "name": "Yona Friedman",
   "surname": "Friedman",
   "nationality": "FR, HU",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Video, Architecture, Animation, Film",
-  "r00": "768",
-  "r01": "816",
-  "r02": "774",
-  "r03": "822",
-  "r04": "1058",
-  "r05": "1532",
-  "r06": "1587",
-  "r07": "1622",
-  "r08": "1680",
+  "r00": "622",
+  "r01": "596",
+  "r02": "663",
+  "r03": "584",
+  "r04": "592",
+  "r05": "784",
+  "r06": "1166",
+  "r07": "1445",
+  "r08": "1448",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "91",
+  "all-shows-total": "96",
   "2005-shows-biennials": "13",
   "2005-shows-galleries": "13",
-  "2005-shows-museums": "40",
-  "2005-countries-total": "France (25), Germany (8), USA (7), Italy (6), Austria (3), Canada (2), Hungary (2), Netherlands (2), Poland (2), Russia (2), Slovenia (2), Spain (2), China (1), Iceland (1), Israel (1), Liechtenstein (1), Mexico (1), Romania (1), Switzerland (1), United Kingdom (1)",
-  "2005-shows-with": "Yona Friedman (52), Dan Graham (9), Jimmie Durham (8), Berdaguer & Péjus (6), Jean-Baptiste Decavèle (6), Robert Filliou (6), Aurélien Froment (6), Vito Acconci (5), Pierre Bismuth (5), Monica Bonvicini (5), Cyprien Gaillard (5), Liam Gillick (5), Joseph Grigely (5), Gordon Matta-Clark (5), Gustav Metzger (5), François Morellet (5), Tomas Saraceno (5), Wolfgang Tillmans (5), Francis Alys (4), Fia Backström (4), Élisabeth Ballet (4), Yves Bélorgey (4), Geta Bratescu (4), Daniel Buren (4), Maurizio Cattelan (4), Jordi Colomer (4), Cerith Wyn Evans (4), Claire Fontaine (4), Carlos Garaicoa (4), Dora García (4), Isa Genzken (4), João Maria Gusmão & Pedro Paiva (4), Vincent Lamouroux (4), Moshekwa Langa (4), Claude Lévêque (4), Corey McCorkle (4), Cildo Meireles (4), Roman Ondák (4), Huang Yong Ping (4), Seth Price (4), Tobias Rehberger (4), Robert Smithson (4), Kristina Solomoukha (4), Tatiana Trouvé (4), Raphaël Zarka (4), Lida Abdul (3), Carl Andre (3), Julieta Aranda (3), Roy Ascott (3), Tauba A",
+  "2005-shows-museums": "44",
+  "2005-countries-total": "France (26), Germany (8), Italy (8), USA (7), Austria (3), Russia (3), Canada (2), Hungary (2), Mexico (2), Netherlands (2), Poland (2), Slovenia (2), Spain (2), China (1), Iceland (1), Israel (1), Liechtenstein (1), Romania (1), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Yona Friedman (55), Dan Graham (10), Jimmie Durham (8), Berdaguer & Péjus (6), Monica Bonvicini (6), Daniel Buren (6), Jean-Baptiste Decavèle (6), Robert Filliou (6), Aurélien Froment (6), Vito Acconci (5), Pierre Bismuth (5), Geta Bratescu (5), Cerith Wyn Evans (5), Claire Fontaine (5), Cyprien Gaillard (5), Liam Gillick (5), Joseph Grigely (5), Gordon Matta-Clark (5), Cildo Meireles (5), Gustav Metzger (5), François Morellet (5), Deimantas Narkevicius (5), Roman Ondák (5), Tobias Rehberger (5), Tomas Saraceno (5), Wolfgang Tillmans (5), Pawel Althamer (4), Francis Alys (4), Carl Andre (4), Fia Backström (4), Élisabeth Ballet (4), Yves Bélorgey (4), Alighiero Boëtti (4), Cao Fei (4), Maurizio Cattelan (4), Jordi Colomer (4), Carlos Garaicoa (4), Dora García (4), Isa Genzken (4), João Maria Gusmão & Pedro Paiva (4), Ilya Kabakov (4), Vincent Lamouroux (4), Moshekwa Langa (4), Claude Lévêque (4), Corey McCorkle (4), Jonas Mekas (4), Huang Yong Ping (4), Seth Price (4), Pedro Reyes (4), Anri Sala ",
   "representing-galleries": "Galerie Kamel Mennour (60 rue Mazarine, 75006 Paris, France); Rosascape (99 rue du Faubourg du Temple, 75010 Paris, France)",
   "collecting-museums": "Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); Muzeum Sztuki Nowoczesnej w Warszawie / Museum of Modern Art (ul. Pa&#324;ska  3, 00-124 Warsaw, Poland); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
   "first_name": "Yona",
@@ -58,6 +58,10 @@
         ]
       },
       {
+        "i": "21705-2219-2005-06-15",
+        "c": "FR"
+      },
+      {
         "i": "21705-7899-2005-06-09",
         "c": "IT",
         "n": "Yona Friedman",
@@ -72,6 +76,10 @@
       }
     ],
     "2006": [
+      {
+        "i": "21705-2219-2005-06-15",
+        "c": "FR"
+      },
       {
         "i": "21705-7130-2006-09-07",
         "c": "AT",
@@ -153,6 +161,14 @@
         ]
       },
       {
+        "i": "21705-2528-2007-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "21705-2528-2007-02-16",
+        "c": "FR"
+      },
+      {
         "i": "21705-3076-2007-02-24",
         "c": "US",
         "n": "Yona Friedman - About Cities",
@@ -164,6 +180,14 @@
           "2007-02-24",
           "2007-04-07"
         ]
+      },
+      {
+        "i": "21705-7999-2007-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "21705-7999-2007-06-04",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -220,6 +244,14 @@
         ]
       },
       {
+        "i": "21705-7491-2008-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "21705-7491-2008-05-16",
+        "c": "FR"
+      },
+      {
         "i": "21705-2309-2008-05-24",
         "c": "IT",
         "n": "Peripheral vision and collective body",
@@ -244,6 +276,14 @@
           "2008-09-01",
           "2008-09-07"
         ]
+      },
+      {
+        "i": "21705-1941-2008-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "21705-1941-2008-09-12",
+        "c": "FR"
       },
       {
         "i": "21705-11561-2008-10-09",
@@ -272,6 +312,22 @@
         ]
       },
       {
+        "i": "21705-11771-2008-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "21705-11771-2008-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "21705-11538-2008-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "21705-11538-2008-02-15",
+        "c": "FR"
+      },
+      {
         "i": "21705-3208-2008-03-21",
         "c": "DE",
         "n": "Yona Friedman",
@@ -286,6 +342,22 @@
       }
     ],
     "2009": [
+      {
+        "i": "21705-1372-2009-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "21705-1372-2009-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "21705-20082-2009-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "21705-20082-2009-06-05",
+        "c": "FR"
+      },
       {
         "i": "21705-2367-2009-06-07",
         "c": "IT",
@@ -312,6 +384,14 @@
         ]
       },
       {
+        "i": "21705-16191-2009-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "21705-16191-2009-07-05",
+        "c": "FR"
+      },
+      {
         "i": "21705-2417-2009-08-10",
         "c": "PL",
         "n": "Unusually rare events / Distribution of Noovantgarde",
@@ -323,6 +403,22 @@
           "2009-08-10",
           "2009-09-20"
         ]
+      },
+      {
+        "i": "21705-1941-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "21705-1941-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "21705-7999-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "21705-7999-2009-09-14",
+        "c": "FR"
       },
       {
         "i": "21705-2390-2009-10-02",
@@ -349,6 +445,34 @@
           "2009-12-12",
           "2010-02-21"
         ]
+      },
+      {
+        "i": "21705-1941-2009-01-06",
+        "c": "FR"
+      },
+      {
+        "i": "21705-1941-2009-01-06",
+        "c": "FR"
+      },
+      {
+        "i": "21705-1941-2009-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "21705-1941-2009-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "21705-1293-2009-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "21705-1293-2009-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "21705-10218-2009-10-04",
+        "c": "FR"
       },
       {
         "i": "21705-199-2009-10-31",
@@ -457,6 +581,14 @@
         ]
       },
       {
+        "i": "21705-8545-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "21705-8545-2010-04-10",
+        "c": "FR"
+      },
+      {
         "i": "21705-996-2010-04-16",
         "c": "AT",
         "n": "Eckhard Schulze-Fielitz und Yona Friedman",
@@ -468,6 +600,14 @@
           "2010-04-16",
           "2010-07-03"
         ]
+      },
+      {
+        "i": "21705-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "21705-21802-2010-04-30",
+        "c": "FR"
       },
       {
         "i": "21705-9333-2010-05-23",
@@ -547,6 +687,10 @@
         ]
       },
       {
+        "i": "21705-10218-2009-10-04",
+        "c": "FR"
+      },
+      {
         "i": "21705-199-2009-10-31",
         "c": "IT",
         "n": "Yona Friedman",
@@ -573,6 +717,14 @@
         ]
       },
       {
+        "i": "21705-10247-2010-01-24",
+        "c": "FR"
+      },
+      {
+        "i": "21705-10247-2010-01-24",
+        "c": "FR"
+      },
+      {
         "i": "21705-13751-2010-04-10",
         "c": "DE",
         "n": "Euro-city",
@@ -584,6 +736,14 @@
           "2010-04-10",
           "2010-05-30"
         ]
+      },
+      {
+        "i": "21705-1941-2010-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "21705-1941-2010-09-08",
+        "c": "FR"
       },
       {
         "i": "21705-15219-2010-09-16",
@@ -666,6 +826,26 @@
         ]
       },
       {
+        "i": "21705-1372-2011-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "21705-1372-2011-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "21705-21541-2011-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "21705-2493-2011-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "21705-2493-2011-09-15",
+        "c": "FR"
+      },
+      {
         "i": "21705-2625-2011-10-29",
         "c": "HU",
         "n": "Yona Friedman. Architecture without building",
@@ -680,6 +860,18 @@
       }
     ],
     "2012": [
+      {
+        "i": "21705-21541-2011-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "21705-11845-2012-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "21705-11845-2012-03-21",
+        "c": "FR"
+      },
       {
         "i": "21705-3123-2012-09-14",
         "c": "NL",
@@ -720,6 +912,14 @@
         ]
       },
       {
+        "i": "21705-7999-2012-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "21705-7999-2012-05-13",
+        "c": "FR"
+      },
+      {
         "i": "21705-18325-2012-06-28",
         "c": "DE",
         "n": "handbuch",
@@ -731,6 +931,14 @@
           "2012-06-28",
           "2012-07-14"
         ]
+      },
+      {
+        "i": "21705-7999-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "21705-7999-2012-06-28",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -759,6 +967,14 @@
           "2013-01-30",
           "2013-04-16"
         ]
+      },
+      {
+        "i": "21705-2351-2013-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "21705-2351-2013-02-26",
+        "c": "FR"
       },
       {
         "i": "21705-1203-2013-05-04",
@@ -822,6 +1038,14 @@
           "2013-09-20",
           "2013-10-20"
         ]
+      },
+      {
+        "i": "21705-8678-2013-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "21705-8678-2013-02-07",
+        "c": "FR"
       },
       {
         "i": "21705-2034-2013-04-24",

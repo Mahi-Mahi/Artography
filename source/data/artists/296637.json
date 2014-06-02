@@ -1,7 +1,7 @@
 {
   "id": "296637",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:01:17",
+  "timestamp": "2014-05-24 07:58:02",
   "name": "Edgar Morin",
   "surname": "Morin",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "30687",
-  "r01": "28832",
-  "r02": "26197",
-  "r03": "67655",
-  "r04": null,
+  "r00": "20678",
+  "r01": "25780",
+  "r02": "23261",
+  "r03": "20585",
+  "r04": "58711",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,12 +28,12 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "2",
+  "all-shows-total": "3",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (1), Switzerland (1)",
-  "2005-shows-with": "Ayreen Anastas (2), François Bucher (2), Rene Gabri (2), Edgar Morin (2), The Otolith Group (2)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "China (1), France (1), Switzerland (1)",
+  "2005-shows-with": "Edgar Morin (3), Ayreen Anastas (2), François Bucher (2), Rene Gabri (2), The Otolith Group (2), Jean Rouch (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Edgar",
@@ -71,6 +71,14 @@
           "2010-10-09",
           "2011-02-13"
         ]
+      },
+      {
+        "i": "296637-2493-2011-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "296637-2493-2011-09-15",
+        "c": "FR"
       }
     ]
   }

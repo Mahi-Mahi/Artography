@@ -16,12 +16,30 @@
   "fairs-abroad": "1",
   "fairs-in-FR": "3",
   "fairs": {
+    "2007": [
+      {
+        "i": "13699-SLICK 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "13699-SLICK 2008",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "13699-Art Athina 2009",
         "c": "GR",
         "n": "Art Athina 2009",
         "ct": "Athens"
+      }
+    ],
+    "2011": [
+      {
+        "i": "13699-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
       }
     ]
   }

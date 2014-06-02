@@ -16,5 +16,39 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "7",
   "fairs": {
+    "2011": [
+      {
+        "i": "24158-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "24158-Chic Art Fair 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "24158-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "24158-Chic Dessin 2012",
+        "c": "FR"
+      },
+      {
+        "i": "24158-Art Elysées 2012",
+        "c": "FR"
+      },
+      {
+        "i": "24158-Chic Artfair - À la Cité de la Mode et du Design 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "24158-Art Paris Art Fair 2013",
+        "c": "FR"
+      }
+    ]
   }
 }

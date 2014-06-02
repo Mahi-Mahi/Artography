@@ -16,5 +16,37 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "7",
   "fairs": {
+    "2012": [
+      {
+        "i": "26659-Chic Dessin 2012",
+        "c": "FR"
+      },
+      {
+        "i": "26659-Lille Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "26659-Art Elysées 2012",
+        "c": "FR"
+      },
+      {
+        "i": "26659-cutlog 2012",
+        "c": "FR"
+      },
+      {
+        "i": "26659-Chic Artfair - À la Cité de la Mode et du Design 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "26659-Lille Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "26659-Art Elysees 2013",
+        "c": "FR"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "2718",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:03:31",
+  "timestamp": "2014-05-24 06:15:52",
   "name": "Michel Nedjar",
   "surname": "Nedjar",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "6672",
-  "r01": "6539",
-  "r02": "6220",
-  "r03": "6547",
-  "r04": "5674",
-  "r05": "7435",
-  "r06": "7512",
-  "r07": "9056",
-  "r08": "10309",
+  "r00": "6542",
+  "r01": "5927",
+  "r02": "5591",
+  "r03": "5113",
+  "r04": "5271",
+  "r05": "4316",
+  "r06": "5577",
+  "r07": "5437",
+  "r08": "6221",
   "awards": null,
   "website": null,
   "all-shows-first": "1988",
-  "all-shows-total": "52",
-  "2005-shows-biennials": "11",
-  "2005-shows-galleries": "11",
+  "all-shows-total": "56",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
   "2005-shows-museums": "10",
-  "2005-countries-total": "France (6), Germany (5), USA (4), Netherlands (3), Austria (2), Switzerland (2), Japan (1), United Kingdom (1)",
-  "2005-shows-with": "Michel Nedjar (19), Chris Hipkiss (5), Sava Sekulic (5), Madge Gill (4), August Walla (4), Scottie Wilson (4), Anna Zemankova (4), Henry Darger (3), Willem van Genk (3), August André Bauchant (2), Anselme Boix-Vives (2), Ilija Bosilj (2), Herman Bossert (2), Ida Buchmann (2), François Burland (2), Aloïse Corbaz (2), Johann Fischer (2), Jochen Gerz (2), Jakob Greuter (2), Anton Henning (2), Franz Kernbeis (2), Rosemarie Koczy (2), Hans Krüsi (2), Jean-Pierre Nadau (2), Nikifor (2), Perifimou (2), Vasilij Romanenkov (2), Ody Saban (2), Friedrich Schröder-Sonnenstern (2), Christine Sefolosha (2), Gérard Sendrey (2), Bill Traylor (2), Oswald Tschirtner (2), Pascal Verbena (2), Henk Visch (2), Alfred Wallis (2), George Widener (2), Josef Wittlich (2), Adolf Wölfli (2)",
-  "representing-galleries": "Galerie du Fleuve (6 rue de Seine, 75006 Paris, France); Jean-Pierre Ritsch-Fisch Galerie (6, place de l'Homme-de-Fer, 67000 Strasbourg, France); FuoriNorma (Via Pigna 14, 37121  Verona, Italy); Galerie Hamer (Leliegracht 38, 1015 DH Amsterdam, Netherlands); Duflon&Racz Gallery (Gerechtigkeitsgasse 40, 3011 Bern, Switzerland); Galerie Susi Brunner (Spitalgasse 10, 8001 Zurich, Switzerland); Judy A Saslow Gallery (300 West Superior Street, 60610 Chicago, IL, USA); Galerie St. Etienne (24 West 57th Street, 10019 New York City, NY, USA)",
+  "2005-countries-total": "France (7), Germany (5), Austria (4), USA (4), Netherlands (3), Switzerland (2), Japan (1), United Kingdom (1)",
+  "2005-shows-with": "Michel Nedjar (21), Chris Hipkiss (6), Madge Gill (5), Sava Sekulic (5), August Walla (5), Scottie Wilson (5), Henry Darger (4), Willem van Genk (4), Anna Zemankova (4), Ilija Basicevic (3), François Burland (3), Aloïse Corbaz (3), Jean-Pierre Nadau (3), Ody Saban (3), Friedrich Schröder-Sonnenstern (3), Gérard Sendrey (3), Bill Traylor (3), Oswald Tschirtner (3), Pascal Verbena (3), George Widener (3), Adolf Wölfli (3), August André Bauchant (2), Anselme Boix-Vives (2), Herman Bossert (2), Eugene von Bruenchenhein (2), Ida Buchmann (2), Nek Chand (2), Johann Fischer (2), Jochen Gerz (2), Jakob Greuter (2), Johann Hauser (2), Anton Henning (2), Franz Kernbeis (2), Rosemarie Koczy (2), Hans Krüsi (2), Augustin Lesage (2), Albert Louden (2), Mr. Imagination (2), Nikifor (2), Perifimou (2), Martin Ramirez (2), André Robillard (2), Vasilij Romanenkov (2), Christine Sefolosha (2), Miroslav Tichy (2), Henk Visch (2), Alfred Wallis (2), Josef Wittlich (2)",
+  "representing-galleries": "Galerie der Künstler aus Gugging (Hauptstr. 2, 3400 Maria -Gugging, Austria); Galerie du Fleuve (6 rue de Seine, 75006 Paris, France); Jean-Pierre Ritsch-Fisch Galerie (6, place de l'Homme-de-Fer, 67000 Strasbourg, France); FuoriNorma (Via Pigna 14, 37121  Verona, Italy); Galerie Hamer (Leliegracht 38, 1015 DH Amsterdam, Netherlands); Duflon&Racz Gallery (Gerechtigkeitsgasse 40, 3011 Bern, Switzerland); Galerie Susi Brunner (Spitalgasse 10, 8001 Zurich, Switzerland); Judy A Saslow Gallery (300 West Superior Street, 60610 Chicago, IL, USA); Galerie St. Etienne (24 West 57th Street, 10019 New York City, NY, USA)",
   "collecting-museums": "Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); LaM - Lille Métropole musée d'art moderne, d'art contemporain et d'art brut (1 allée du musée, 59650 Villeneuve d'Ascq, France); Museum der Stadt Ratingen (Peter-Brüning-Platz 1, 40878 Ratingen, Germany)",
   "first_name": "Michel",
   "last_name": "Nedjar",
@@ -244,6 +244,30 @@
         ]
       },
       {
+        "i": "2718-16754-2007-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "2718-16754-2007-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "2718-2718-2007-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "2718-2718-2007-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "2718-16754-2007-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "2718-16754-2007-06-01",
+        "c": "FR"
+      },
+      {
         "i": "2718-2990-2007-06-05",
         "c": "US",
         "n": "Recent Acquisitions",
@@ -255,6 +279,14 @@
           "2007-06-05",
           "2007-09-28"
         ]
+      },
+      {
+        "i": "2718-16754-2007-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "2718-16754-2007-10-13",
+        "c": "FR"
       },
       {
         "i": "2718-746-2007-04-18",
@@ -271,6 +303,14 @@
       }
     ],
     "2009": [
+      {
+        "i": "2718-16754-2009-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "2718-16754-2009-05-05",
+        "c": "FR"
+      },
       {
         "i": "2718-2586-2009-06-11",
         "c": "DE",
@@ -309,6 +349,14 @@
           "2009-02-18",
           "2009-02-21"
         ]
+      },
+      {
+        "i": "2718-11828-2009-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "2718-11828-2009-03-03",
+        "c": "FR"
       },
       {
         "i": "2718-14614-2009-04-05",
@@ -350,9 +398,25 @@
           "2010-06-04",
           "2010-07-17"
         ]
+      },
+      {
+        "i": "2718-13240-2010-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "2718-13240-2010-09-16",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "2718-22692-2011-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "2718-22692-2011-01-17",
+        "c": "FR"
+      },
       {
         "i": "2718-7146-2011-02-27",
         "c": "DE",
@@ -488,6 +552,14 @@
         ]
       },
       {
+        "i": "2718-28403-2013-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "2718-28403-2013-04-27",
+        "c": "FR"
+      },
+      {
         "i": "2718-29951-2013-10-26",
         "c": "JP",
         "n": "The 40th Anniversary Exhibition - Playful Surrealism",
@@ -502,6 +574,14 @@
       }
     ],
     "2008": [
+      {
+        "i": "2718-16754-2008-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "2718-16754-2008-04-24",
+        "c": "FR"
+      },
       {
         "i": "2718-746-2008-05-09",
         "c": "AT",

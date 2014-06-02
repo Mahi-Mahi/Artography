@@ -1,7 +1,7 @@
 {
   "id": "19877",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:11:31",
+  "timestamp": "2014-05-24 06:22:48",
   "name": "Claude Weisbuch",
   "surname": "Weisbuch",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "52342",
-  "r01": "49631",
-  "r02": "95262",
-  "r03": "103021",
-  "r04": "97006",
-  "r05": "89846",
-  "r06": "90533",
-  "r07": "81535",
-  "r08": "71729",
+  "r00": "43138",
+  "r01": "43901",
+  "r02": "40788",
+  "r03": "90712",
+  "r04": "103052",
+  "r05": "96626",
+  "r06": "89125",
+  "r07": "92218",
+  "r08": "83100",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
@@ -34,7 +34,7 @@
   "2005-shows-museums": "2",
   "2005-countries-total": "France (7), Japan (1)",
   "2005-shows-with": "Claude Weisbuch (3)",
-  "representing-galleries": "Galerie Dautcourt (40 Dreve du Rembucher, 1170 Brussels, Belgium); Opera Gallery (20 Queen´s Road Central,  Hong Kong, SAR, China); Galerie Ducastel (9 Place Crillon 84000,  Avignon, France); Galerie Hénot (14 rue de Mora, 95880 Enghien les Bains, France); Opera Gallery (356, rue Saint-Honoré, 75001 Paris, France); L'Estampe (31, quai des Bâteliers, 67000 Strasbourg, France); Opera Gallery (Via XXII Marzo, San Marco 2288, 30124 Venice, Italy); Galerie Tamenaga - Osaka (1-4-1, Shiromi Chuo-Ku, Hotel New Otani, 540-001 Osaka, Japan); Galerie Tamenaga - Nakano-Shima (6-2-27, Nakano Shima, Kita-Ku,  Osaka, Japan); Galerie Tamenaga - Tokyo (7-5-4, Ginza Chuo-Ku, 104-0061 Tokyo, Japan); Opera Gallery (391 Orchard Road 02-12,  Singapore, Singapore); Opera Gallery (134 New Bond Street, W1S 2TF London (England), United Kingdom); Opera Gallery (9700 Collins Avenue, 33154 Bal Harbour, FL, USA)",
+  "representing-galleries": "Galerie Dautcourt (40 Dreve du Rembucher, 1170 Brussels, Belgium); Opera Gallery (20 Queen´s Road Central,  Hong Kong, SAR, China); Galerie Ducastel (9 Place Crillon 84000,  Avignon, France); Galerie Hénot (14 rue de Mora, 95880 Enghien les Bains, France); Opera Gallery (356, rue Saint-Honoré, 75001 Paris, France); L'Estampe (31, quai des Bâteliers, 67000 Strasbourg, France); Opera Gallery (Via XXII Marzo, San Marco 2288, 30124 Venice, Italy); Galerie Tamenaga - Osaka (1-4-1, Shiromi Chuo-Ku, Hotel New Otani, 540-001 Osaka, Japan); Galerie Tamenaga - Nakano-Shima (6-2-27, Nakano Shima, Kita-Ku,  Osaka, Japan); Galerie Tamenaga - Tokyo (7-5-4, Ginza Chuo-Ku, 104-0061 Tokyo, Japan); Opera Gallery (391 Orchard Road 02-12,  Singapore, Singapore); Opera Gallery (134 New Bond Street, W1S 2TF London, United Kingdom); Opera Gallery (9700 Collins Avenue, 33154 Bal Harbour, FL, USA)",
   "collecting-museums": null,
   "first_name": "Claude",
   "last_name": "Weisbuch",
@@ -43,6 +43,16 @@
   "age": 87,
   "age_range": "61-100",
   "expos": {
+    "2008": [
+      {
+        "i": "19877-23441-2008-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "19877-23441-2008-03-06",
+        "c": "FR"
+      }
+    ],
     "2012": [
       {
         "i": "19877-5182-2012-07-01",
@@ -56,6 +66,56 @@
           "2012-07-01",
           "2012-07-31"
         ]
+      },
+      {
+        "i": "19877-30132-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "19877-30132-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "19877-5095-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "19877-5095-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "19877-5095-2012-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "19877-5095-2012-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "19877-5095-2012-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "19877-5095-2012-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "19877-16305-2012-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "19877-16305-2012-09-15",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "19877-5095-2011-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "19877-5095-2011-04-17",
+        "c": "FR"
       }
     ]
   }

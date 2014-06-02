@@ -1,7 +1,7 @@
 {
   "id": "1794",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:02:45",
+  "timestamp": "2014-05-24 06:15:17",
   "name": "Patrick Faigenbaum",
   "surname": "Faigenbaum",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "1754",
-  "r01": "1902",
-  "r02": "1643",
-  "r03": "1431",
-  "r04": "1284",
-  "r05": "1363",
-  "r06": "1444",
-  "r07": "1535",
-  "r08": "1600",
+  "r00": "2188",
+  "r01": "2002",
+  "r02": "2225",
+  "r03": "1818",
+  "r04": "1480",
+  "r05": "1260",
+  "r06": "1399",
+  "r07": "1453",
+  "r08": "1575",
   "awards": null,
   "website": null,
   "all-shows-first": "1984",
-  "all-shows-total": "77",
+  "all-shows-total": "79",
   "2005-shows-biennials": "10",
   "2005-shows-galleries": "10",
-  "2005-shows-museums": "24",
-  "2005-countries-total": "France (18), Belgium (4), Canada (2), Italy (2), Slovakia (2), Spain (2), USA (2), China (1), Germany (1), Switzerland (1)",
-  "2005-shows-with": "Patrick Faigenbaum (27), Nan Goldin (6), Douglas Gordon (5), Sophie Calle (4), Jochen Gerz (4), Gilles Saussier (4), José Maria Sicilia (4), Art Keller (3), Martin Barré (3), Lynne Cohen (3), Hans-Peter Feldmann (3), Lee Friedlander (3), Joseph Grigely (3), William Klein (3), Elke Krystufek (3), Urs Lüthi (3), Jonas Mekas (3), Jean-Luc Moulène (3), Roman Ondák (3), Simon Patterson (3), Chloe Piene (3), Bernard Plossu (3), Jorge Queiroz (3), Fiona Rae (3), Lorna Simpson (3), Joana Vasconcelos (3), Andy Warhol (3), Lawrence Weiner (3), Rita Ackermann (2), Jean-Michel Albèrola (2), Lewis Baltz (2), Rina Banerjee (2), Miquel Barceló (2), Joze Barsi (2), Matei Bejenaru (2), Yves Bélorgey (2), Carole Benzaken (2), Huma Bhabha (2), Michel Blazy (2), Christian Boltanski (2), Vesna Bukovec (2), Jean-Marc Bustamante (2), André Cadere (2), Mircea Cantor (2), Ivan Cargo (2), Avgust Cernigoj (2), Florence Chevallier (2), Jagna Ciuchta (2), Robert Combas (2), John Coplans (2), Matali Crasset (2), Danica Dakic (2),",
+  "2005-shows-museums": "25",
+  "2005-countries-total": "France (18), Belgium (4), Canada (3), Italy (2), Slovakia (2), Spain (2), USA (2), China (1), Germany (1), Switzerland (1)",
+  "2005-shows-with": "Patrick Faigenbaum (28), Nan Goldin (7), Douglas Gordon (5), Sophie Calle (4), Jochen Gerz (4), Gilles Saussier (4), José Maria Sicilia (4), Art Keller (3), Martin Barré (3), Lynne Cohen (3), Hans-Peter Feldmann (3), Lee Friedlander (3), Joseph Grigely (3), William Klein (3), Elke Krystufek (3), Urs Lüthi (3), Jonas Mekas (3), Jean-Luc Moulène (3), Roman Ondák (3), Simon Patterson (3), Chloe Piene (3), Bernard Plossu (3), Jorge Queiroz (3), Fiona Rae (3), Cindy Sherman (3), Lorna Simpson (3), Joana Vasconcelos (3), Andy Warhol (3), Lawrence Weiner (3), Rita Ackermann (2), Jean-Michel Albèrola (2), Lewis Baltz (2), Rina Banerjee (2), Miquel Barceló (2), Joze Barsi (2), Matei Bejenaru (2), Yves Bélorgey (2), Carole Benzaken (2), Huma Bhabha (2), Michel Blazy (2), Christian Boltanski (2), Louise Bourgeois (2), Vesna Bukovec (2), Jean-Marc Bustamante (2), André Cadere (2), Mircea Cantor (2), Ivan Cargo (2), Avgust Cernigoj (2), Florence Chevallier (2), Jagna Ciuchta (2), Robert Combas (2), John Coplans (",
   "representing-galleries": "Galerie Nathalie Obadia - Bruxelles (Rue Charles Decoster 8, 1050 Brussels, Belgium); Galerie Nathalie Obadia - Paris (3, rue du Cloitre Saint-Merri, 75004 Paris, France); Barbara Mathes Gallery (41 East 57th Street, 10022 New York City, NY, USA)",
   "collecting-museums": "Oakville Galleries (120 Navy Street, L6J 2Z4 Oakville, ON, Canada); FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); 49 NORD 6 EST – Frac Lorraine (Rue des Trinitaires 1 bis, 57000 Metz, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); Musée d'Art moderne de Saint-Etienne (La Terrasse, 42000 Saint-Etienne, France); Musée Régional D'Art Contemporain Languedoc-Roussillon (146, avenue de la plage, 34 410 Sérignan, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France); The Art Institute of Chicago (South Michigan Avenue 111, IL 60603-6404 Chicago, IL, USA); The Metropolitan Museum of Art (1000 Fifth Avenue at 82nd Street, 10028-0198 New York City, NY, USA)",
   "first_name": "Patrick",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "1794-7491-2005-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "1794-7491-2005-02-11",
+        "c": "FR"
+      },
       {
         "i": "1794-1139-2005-06-11",
         "c": "DE",
@@ -69,6 +77,22 @@
           "2005-11-12",
           "2006-01-07"
         ]
+      },
+      {
+        "i": "1794-1405-2005-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "1794-1405-2005-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "1794-1405-2005-02-24",
+        "c": "FR"
+      },
+      {
+        "i": "1794-1405-2005-02-24",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -110,9 +134,33 @@
           "2006-05-13",
           "2006-07-02"
         ]
+      },
+      {
+        "i": "1794-10519-2006-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "1794-10519-2006-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "1794-2219-2006-09-27",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "1794-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "1794-10244-2007-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "1794-10244-2007-01-17",
+        "c": "FR"
+      },
       {
         "i": "1794-7423-2007-03-11",
         "c": "DE",
@@ -140,6 +188,10 @@
         ]
       },
       {
+        "i": "1794-2219-2007-11-07",
+        "c": "FR"
+      },
+      {
         "i": "1794-2338-2007-02-24",
         "c": "PT",
         "n": "Patrick Faigenbaum",
@@ -155,6 +207,10 @@
     ],
     "2008": [
       {
+        "i": "1794-2219-2007-11-07",
+        "c": "FR"
+      },
+      {
         "i": "1794-7950-2008-02-09",
         "c": "CA",
         "n": "What We Bring to the Table",
@@ -166,6 +222,14 @@
           "2008-02-09",
           "2008-06-06"
         ]
+      },
+      {
+        "i": "1794-27842-2008-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "1794-27842-2008-06-28",
+        "c": "FR"
       },
       {
         "i": "1794-18199-2008-09-20",
@@ -205,6 +269,34 @@
           "2008-10-23",
           "2009-01-06"
         ]
+      },
+      {
+        "i": "1794-1405-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "1794-27381-2008-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "1794-8554-2008-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "1794-8554-2008-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "1794-1955-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "1794-1955-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "1794-4975-2008-11-22",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -235,6 +327,30 @@
         ]
       },
       {
+        "i": "1794-1405-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "1794-27381-2008-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "1794-1293-2009-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "1794-1293-2009-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "1794-9344-2009-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "1794-9344-2009-06-07",
+        "c": "FR"
+      },
+      {
         "i": "1794-5777-2009-06-16",
         "c": "CH",
         "n": "Portraits",
@@ -261,6 +377,14 @@
         ]
       },
       {
+        "i": "1794-1955-2009-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "1794-1955-2009-06-20",
+        "c": "FR"
+      },
+      {
         "i": "1794-5433-2009-07-02",
         "c": "US",
         "n": "Inside-Out: Portrait Photographs from the Permanent Collection",
@@ -274,6 +398,14 @@
         ]
       },
       {
+        "i": "1794-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "1794-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
         "i": "1794-2030-2009-09-13",
         "c": "SK",
         "n": "Fleuves",
@@ -285,6 +417,22 @@
           "2009-09-13",
           "2009-12-17"
         ]
+      },
+      {
+        "i": "1794-7999-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "1794-7999-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "1794-27842-2009-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "1794-4975-2008-11-22",
+        "c": "FR"
       },
       {
         "i": "1794-7839-2009-06-03",
@@ -301,6 +449,10 @@
       }
     ],
     "2010": [
+      {
+        "i": "1794-27842-2009-10-01",
+        "c": "FR"
+      },
       {
         "i": "1794-18199-2010-09-11",
         "c": "BE",
@@ -328,6 +480,28 @@
         ]
       }
     ],
+    "2011": [
+      {
+        "i": "1794-8129-2011-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "1794-8129-2011-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "1794-14920-2011-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "1794-14920-2011-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "1794-27381-2011-10-23",
+        "c": "FR"
+      }
+    ],
     "2012": [
       {
         "i": "1794-18199-2012-01-20",
@@ -341,9 +515,37 @@
           "2012-01-20",
           "2012-02-25"
         ]
+      },
+      {
+        "i": "1794-10519-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "1794-10519-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "1794-27381-2011-10-23",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "1794-10522-2013-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "1794-10522-2013-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "1794-8129-2013-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "1794-8129-2013-02-16",
+        "c": "FR"
+      },
       {
         "i": "1794-27771-2013-03-07",
         "c": "BE",

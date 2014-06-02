@@ -16,7 +16,31 @@
   "fairs-abroad": "1",
   "fairs-in-FR": "5",
   "fairs": {
+    "2010": [
+      {
+        "i": "21876-Lille Art Fair 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "21876-Lille Art Fair 2011",
+        "c": "FR"
+      },
+      {
+        "i": "21876-cutlog 2011",
+        "c": "FR"
+      },
+      {
+        "i": "21876-fotofever",
+        "c": "FR"
+      }
+    ],
     "2013": [
+      {
+        "i": "21876-New Art Fair Paris",
+        "c": "FR"
+      },
       {
         "i": "21876-Art Stage Singapore 2013",
         "c": "SG",

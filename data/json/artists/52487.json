@@ -1,7 +1,7 @@
 {
   "id": "52487",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:25:06",
+  "timestamp": "2014-05-24 06:34:32",
   "name": "Erik Desmazieres",
   "surname": "Desmazieres",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Printmaking",
-  "r00": "23314",
-  "r01": "24761",
-  "r02": "32021",
-  "r03": "34525",
-  "r04": "30703",
-  "r05": "49220",
-  "r06": "44531",
-  "r07": "46676",
-  "r08": "68130",
+  "r00": "20868",
+  "r01": "20340",
+  "r02": "21055",
+  "r03": "27736",
+  "r04": "29723",
+  "r05": "25614",
+  "r06": "44196",
+  "r07": "39114",
+  "r08": "41740",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -34,7 +34,7 @@
   "2005-shows-museums": "8",
   "2005-countries-total": "USA (5), Switzerland (3), France (2), Canada (1), Germany (1), Italy (1), United Kingdom (1)",
   "2005-shows-with": "Erik Desmazieres (8), Zoran Music (3), Miklos Bokor (2), Frédéric Clot (2), Hélene Csech (2), Pierre Dmitrienko (2), Simon Edmondson (2), Yôzô Hamaguchi (2), Rolf Iseli (2), Ofer Lellouche (2), Marcel Mathys (2), Gérard de Palézieux (2), Irving Petlin (2), Pablo Picasso (2), Giovanni Battista Piranesi (2), Rembrandt van Rijn (2), François Rouan (2), Jacques Villon (2)",
-  "representing-galleries": "Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa (RI), Italy); Galerie Ditesheim & Maffei (8, rue du Château, 2000 Neuchâtel, Switzerland)",
+  "representing-galleries": "Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa, RI, Italy); Galerie Ditesheim & Maffei (8, rue du Château, 2000 Neuchâtel, Switzerland)",
   "collecting-museums": "Musée Jenisch (Av. de la Gare 2, 1800 Vevey, Switzerland)",
   "first_name": "Erik",
   "last_name": "Desmazieres",
@@ -44,6 +44,14 @@
   "age_range": "61-100",
   "expos": {
     "2008": [
+      {
+        "i": "52487-5082-2008-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "52487-5082-2008-01-30",
+        "c": "FR"
+      },
       {
         "i": "52487-4625-2008-07-05",
         "c": "US",
@@ -179,6 +187,14 @@
           "2012-10-02",
           "2012-10-26"
         ]
+      },
+      {
+        "i": "52487-11393-2012-10-09",
+        "c": "FR"
+      },
+      {
+        "i": "52487-11393-2012-10-09",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -235,9 +251,17 @@
           "2006-05-15",
           "2006-06-30"
         ]
+      },
+      {
+        "i": "52487-22360-2006-10-18",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "52487-22360-2006-10-18",
+        "c": "FR"
+      },
       {
         "i": "52487-7926-2007-06-15",
         "c": "CH",

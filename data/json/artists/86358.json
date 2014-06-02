@@ -1,7 +1,7 @@
 {
   "id": "86358",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:39:16",
+  "timestamp": "2014-05-24 06:46:29",
   "name": "Jerome Zonder",
   "surname": "Zonder",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "17206",
-  "r01": "21056",
-  "r02": "21059",
-  "r03": "44830",
-  "r04": "66526",
-  "r05": "68995",
-  "r06": "77498",
-  "r07": "71521",
-  "r08": null,
+  "r00": "9379",
+  "r01": "10250",
+  "r02": "14873",
+  "r03": "15559",
+  "r04": "36510",
+  "r05": "59238",
+  "r06": "61938",
+  "r07": "74962",
+  "r08": "69584",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
   "all-shows-total": "23",
   "2005-shows-biennials": "11",
   "2005-shows-galleries": "11",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (11), Germany (3), Belgium (1), Croatia (1), Slovakia (1), Slovenia (1), South Korea (1)",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (12), Germany (3), Belgium (1), Croatia (1), Slovakia (1), Slovenia (1), South Korea (1)",
   "2005-shows-with": "Jerome Zonder (14), Axel Pahlavi (6), Damien Deroubaix (5), Gilles Barbier (3), Katia Bourdarel (3), Damien Cadio (3), Nicolas Darrot (3), Gregory Forstner (3), Kosta Kulundzic (3), Audrey Nervi (3), Lionel Sabatté (3), Carlos Aires (2), Giulia Andreani (2), Iván Argote (2), Norbert Bisky (2), Wim Delvoye (2), Marc Desgrandchamps (2), Erik Dietman (2), John Isaacs (2), Oda Jaune (2), Youcef Korichi (2), Élodie Lesourd (2), Iris Levasseur (2), Liu Bolin (2), Frédérique Loutz (2), Myriam Mechita (2), Theo Mercier (2), Marléne Mocquet (2), Maël Nozahic (2), Laurent Pernot (2), Éric Pougeau (2), Claire Tabouret (2), Ida Tursic & Wilfried Mille (2), Fabien Verschaere (2), Duncan Wylie (2)",
   "representing-galleries": "Galerie Eva Hober (35 - 37, rue Chapon, 75003 Paris, France)",
   "collecting-museums": null,
@@ -44,6 +44,14 @@
   "age_range": "26-40",
   "expos": {
     "2006": [
+      {
+        "i": "86358-4179-2006-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "86358-4179-2006-06-10",
+        "c": "FR"
+      },
       {
         "i": "86358-5857-2006-11-17",
         "c": "KR",
@@ -58,7 +66,64 @@
         ]
       }
     ],
+    "2007": [
+      {
+        "i": "86358-4179-2007-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "86358-4179-2007-06-23",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "86358-18811-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "86358-7435-2009-12-17",
+        "c": "KR",
+        "n": "Guignol\\'s Dust",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Seoul",
+        "o": "ONE AND J. Gallery",
+        "d": [
+          "2009-12-17",
+          "2010-01-16"
+        ]
+      },
+      {
+        "i": "86358-4179-2010-01-09",
+        "c": "FR"
+      },
+      {
+        "i": "86358-4179-2010-01-09",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "86358-18811-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "86358-2090-2011-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "86358-2090-2011-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "86358-7811-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "86358-7811-2011-02-12",
+        "c": "FR"
+      },
       {
         "i": "86358-21930-2011-04-14",
         "c": "DE",
@@ -71,9 +136,33 @@
           "2011-04-14",
           "2011-05-28"
         ]
+      },
+      {
+        "i": "86358-26733-2011-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "86358-4179-2011-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "86358-4179-2011-10-18",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "86358-26733-2011-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "86358-4179-2012-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "86358-4179-2012-06-21",
+        "c": "FR"
+      },
       {
         "i": "86358-6148-2012-08-02",
         "c": "SI",
@@ -86,6 +175,14 @@
           "2012-08-02",
           "2012-09-09"
         ]
+      },
+      {
+        "i": "86358-4179-2012-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "86358-4179-2012-11-22",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -153,24 +250,37 @@
           "2013-06-21",
           "2013-07-20"
         ]
+      },
+      {
+        "i": "86358-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "86358-4179-2013-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "86358-4179-2013-10-17",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "86358-29739-2013-10-12",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "86358-4179-2008-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "86358-4179-2008-01-12",
+        "c": "FR"
       }
     ],
     "2009": [
-      {
-        "i": "86358-7435-2009-12-17",
-        "c": "KR",
-        "n": "Guignol\\'s Dust",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Seoul",
-        "o": "ONE AND J. Gallery",
-        "d": [
-          "2009-12-17",
-          "2010-01-16"
-        ]
-      }
-    ],
-    "2010": [
       {
         "i": "86358-7435-2009-12-17",
         "c": "KR",

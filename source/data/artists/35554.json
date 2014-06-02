@@ -1,7 +1,7 @@
 {
   "id": "35554",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:18:21",
+  "timestamp": "2014-05-24 06:28:28",
   "name": "Edouard Boyer",
   "surname": "Boyer",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "13796",
-  "r01": "12515",
-  "r02": "10990",
-  "r03": "10287",
-  "r04": "10008",
-  "r05": "9746",
-  "r06": "8562",
-  "r07": "6946",
-  "r08": "7027",
+  "r00": "16095",
+  "r01": "15924",
+  "r02": "12151",
+  "r03": "9244",
+  "r04": "7803",
+  "r05": "6992",
+  "r06": "6310",
+  "r07": "5212",
+  "r08": "4009",
   "awards": null,
-  "website": null,
+  "website": "www.boyeredouard.net",
   "all-shows-first": "1998",
-  "all-shows-total": "15",
+  "all-shows-total": "16",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "6",
-  "2005-countries-total": "France (5), Czech Republic (1), Switzerland (1)",
-  "2005-shows-with": "Edouard Boyer (6), David Brognon & Stéphanie Rollin (2), Sammy Engramer (2), Pierre Huyghe (2)",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (6), Czech Republic (1), Switzerland (1)",
+  "2005-shows-with": "Edouard Boyer (7), David Brognon & Stéphanie Rollin (2), Sammy Engramer (2), Pierre Huyghe (2)",
   "representing-galleries": "MARS (Köpenicker Str. 147, 10997 Berlin, Germany)",
   "collecting-museums": "CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France)",
   "first_name": "Edouard",
@@ -43,7 +43,61 @@
   "age": 48,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "35554-2585-2006-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "35554-2585-2006-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "35554-8678-2006-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "35554-8678-2006-02-09",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "35554-8996-2008-11-07",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "35554-8996-2008-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "35554-8996-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "35554-8996-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "35554-8647-2009-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "35554-8647-2009-02-06",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "35554-8996-2010-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "35554-8996-2010-01-22",
+        "c": "FR"
+      },
       {
         "i": "35554-6124-2010-05-06",
         "c": "CH",
@@ -60,6 +114,14 @@
     ],
     "2011": [
       {
+        "i": "35554-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "35554-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
         "i": "35554-9037-2011-08-10",
         "c": "CZ",
         "n": "Bread and Salt",
@@ -71,6 +133,24 @@
           "2011-08-10",
           "2011-09-11"
         ]
+      }
+    ],
+    "2005": [
+      {
+        "i": "35554-8282-2005-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "35554-8282-2005-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "35554-2303-2005-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "35554-2303-2005-03-11",
+        "c": "FR"
       }
     ]
   }

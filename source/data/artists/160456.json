@@ -1,7 +1,7 @@
 {
   "id": "160456",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:08:49",
+  "timestamp": "2014-05-24 07:11:24",
   "name": "Eunji Peignard Kim",
   "surname": "Peignard Kim",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "71151",
-  "r01": "66797",
-  "r02": "61335",
-  "r03": "55391",
-  "r04": "75712",
-  "r05": "67467",
-  "r06": "58956",
-  "r07": "52151",
-  "r08": "43934",
+  "r00": "72559",
+  "r01": "73311",
+  "r02": "69768",
+  "r03": "65547",
+  "r04": "60302",
+  "r05": "101354",
+  "r06": "85240",
+  "r07": "71445",
+  "r08": "61175",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "4",
-  "2005-shows-biennials": null,
-  "2005-shows-galleries": null,
+  "all-shows-total": "5",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (2)",
+  "2005-countries-total": "France (3)",
   "2005-shows-with": "Eunji Peignard Kim (2)",
   "representing-galleries": null,
   "collecting-museums": null,
@@ -43,5 +43,33 @@
   "age": 41,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "160456-29380-2007-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "160456-29380-2007-06-16",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "160456-20029-2010-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "160456-20029-2010-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "160456-19606-2010-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "160456-19606-2010-07-03",
+        "c": "FR"
+      }
+    ]
   }
 }

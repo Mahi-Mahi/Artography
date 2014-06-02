@@ -3,7 +3,7 @@
   "name": "Au-delà des Apparences",
   "street": "15 rue Filaterie",
   "zip": "7400",
-  "city": "Annecy\t",
+  "city": "Annecy",
   "country": "France",
   "foundation": null,
   "directeurs": "Christian Guex",
@@ -11,10 +11,52 @@
   "tel": "+33 (0)4 50 52 94 34",
   "email": "contact@galerie-audeladesapparences.com",
   "www": "www.galerie-audeladesapparences.com",
-  "map": "http://maps.google.com/maps?q=Annecy\t%2C%207400 %2C%20 %2C%2015 rue Filaterie %2C%20France",
+  "map": "http://maps.google.com/maps?q=Annecy%2C%207400 %2C%20 %2C%2015 rue Filaterie %2C%20France",
   "fairs-total": "8",
   "fairs-abroad": "0",
   "fairs-in-FR": "8",
   "fairs": {
+    "2007": [
+      {
+        "i": "14236-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "14236-ARTéNÎM Grenoble 2008",
+        "c": "FR"
+      },
+      {
+        "i": "14236-Lille Art Fair 08",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "14236-Lille Art Fair 09",
+        "c": "FR"
+      },
+      {
+        "i": "14236-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "14236-Lille Art Fair 2010",
+        "c": "FR"
+      },
+      {
+        "i": "14236-ST-ART 2010",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "14236-Lille Art Fair 2013",
+        "c": "FR"
+      }
+    ]
   }
 }

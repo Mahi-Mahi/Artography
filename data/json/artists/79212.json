@@ -1,7 +1,7 @@
 {
   "id": "79212",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:36:13",
+  "timestamp": "2014-05-24 06:43:59",
   "name": "Bertrand Planes",
   "surname": "Planes",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "18753",
-  "r01": "18077",
-  "r02": "20212",
-  "r03": "30569",
-  "r04": "31591",
-  "r05": "40360",
-  "r06": "38957",
-  "r07": "36778",
-  "r08": "30497",
+  "r00": "17009",
+  "r01": "16934",
+  "r02": "15758",
+  "r03": "17672",
+  "r04": "29412",
+  "r05": "31247",
+  "r06": "42214",
+  "r07": "40701",
+  "r08": "37857",
   "awards": null,
   "website": "www.bertrandplanes.com",
   "all-shows-first": "2002",
-  "all-shows-total": "21",
-  "2005-shows-biennials": "11",
-  "2005-shows-galleries": "11",
+  "all-shows-total": "23",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (10), Brazil (2), Denmark (2), Germany (1), Russia (1), USA (1)",
-  "2005-shows-with": "Bertrand Planes (13), Nathalie Brevet & Hughes Rochette (3), Matthieu Clainchard (2), Valérie Dantas Mota (2), Simon Nicaise (2)",
+  "2005-countries-total": "France (12), Brazil (2), Denmark (2), Germany (1), Russia (1), USA (1)",
+  "2005-shows-with": "Bertrand Planes (15), Guillaume Aubry (3), Elvire Bonduelle (3), Nathalie Brevet & Hughes Rochette (3), Cyril Gauthier (3), Cyril Aboucaya (2), Filomena Borecká (2), Matthieu Clainchard (2), Valérie Dantas Mota (2), Julie Genelin (2), charlotte guibe (2), Simon Nicaise (2)",
   "representing-galleries": "New Galerie (2 rue Borda, 75003 Paris, France)",
   "collecting-museums": "Espace Croisé (Grand Place, 59059 Roubaix, France)",
   "first_name": "Bertrand",
@@ -43,21 +43,41 @@
   "age": 39,
   "age_range": "26-40",
   "expos": {
-    "2009": [
+    "2008": [
       {
-        "i": "79212-20389-2009-08-08",
-        "c": "BR",
-        "n": "5a Bienal VentoSul - o mundo todo aqui, vai mexer com voce",
-        "st": "Group",
-        "ct": "Curitiba",
-        "o": "Curitiba Biennial",
-        "d": [
-          "2009-08-08",
-          "2009-10-11"
-        ]
+        "i": "79212-7711-2008-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "79212-7711-2008-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "79212-19804-2008-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "79212-20649-2008-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "79212-20649-2008-10-16",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "79212-19804-2008-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "79212-20649-2010-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "79212-20649-2010-01-30",
+        "c": "FR"
+      },
       {
         "i": "79212-22649-2010-06-10",
         "c": "DE",
@@ -70,9 +90,47 @@
           "2010-06-10",
           "2010-06-26"
         ]
+      },
+      {
+        "i": "79212-23511-2010-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "79212-23511-2010-06-24",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "79212-20389-2009-08-08",
+        "c": "BR",
+        "n": "5a Bienal VentoSul - o mundo todo aqui, vai mexer com voce",
+        "st": "Group",
+        "ct": "Curitiba",
+        "o": "Curitiba Biennial",
+        "d": [
+          "2009-08-08",
+          "2009-10-11"
+        ]
+      },
+      {
+        "i": "79212-23511-2009-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "79212-23511-2009-09-05",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "79212-19508-2011-01-01",
+        "c": "FR"
+      },
+      {
+        "i": "79212-19508-2011-01-01",
+        "c": "FR"
+      },
       {
         "i": "79212-20485-2011-04-16",
         "c": "DK",
@@ -100,6 +158,18 @@
         ]
       },
       {
+        "i": "79212-11581-2011-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "79212-23511-2011-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "79212-23511-2011-06-23",
+        "c": "FR"
+      },
+      {
         "i": "79212-20370-2011-11-04",
         "c": "RU",
         "n": "Bertrand Planes",
@@ -114,6 +184,10 @@
       }
     ],
     "2012": [
+      {
+        "i": "79212-11581-2011-09-23",
+        "c": "FR"
+      },
       {
         "i": "79212-3114-2012-06-23",
         "c": "DK",
@@ -139,6 +213,26 @@
           "2012-09-22",
           "2012-11-10"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "79212-11771-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "79212-11771-2013-02-15",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "79212-7711-2007-05-04",
+        "c": "FR"
+      },
+      {
+        "i": "79212-7711-2007-05-04",
+        "c": "FR"
       }
     ]
   }

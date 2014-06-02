@@ -16,12 +16,94 @@
   "fairs-abroad": "3",
   "fairs-in-FR": "25",
   "fairs": {
+    "2006": [
+      {
+        "i": "8132-ARTéNÎM 2006",
+        "c": "FR"
+      },
+      {
+        "i": "8132-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "8132-ARTéNÎM 2007",
+        "c": "FR"
+      },
+      {
+        "i": "8132-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "8132-Art Elysées 2008",
+        "c": "FR"
+      },
+      {
+        "i": "8132-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "8132-Lille Art Fair 09",
+        "c": "FR"
+      },
+      {
+        "i": "8132-Art Elysées 2009",
+        "c": "FR"
+      },
+      {
+        "i": "8132-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "8132-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "8132-Lille Art Fair 2010",
+        "c": "FR"
+      },
+      {
+        "i": "8132-ST-ART 2010",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "8132-Lille Art Fair 2011",
+        "c": "FR"
+      },
+      {
+        "i": "8132-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "8132-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "8132-DocksArtFair 2011",
+        "c": "FR"
+      },
+      {
+        "i": "8132-Art Elysées 2011",
+        "c": "FR"
+      },
       {
         "i": "8132-Kunst Zürich 2011",
         "c": "CH",
         "n": "Kunst Zürich 2011",
         "ct": "Zurich"
+      },
+      {
+        "i": "8132-St-Art 2011",
+        "c": "FR"
       },
       {
         "i": "8132-Lineart 2011",
@@ -30,12 +112,42 @@
         "ct": "Ghent"
       }
     ],
+    "2012": [
+      {
+        "i": "8132-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "8132-Art Elysées 2012",
+        "c": "FR"
+      },
+      {
+        "i": "8132-ST-ART  2012",
+        "c": "FR"
+      }
+    ],
     "2013": [
+      {
+        "i": "8132-Lille Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "8132-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
       {
         "i": "8132-ArtInternational Istanbul 2013",
         "c": "TR",
         "n": "ArtInternational Istanbul 2013",
         "ct": "Istanbul"
+      },
+      {
+        "i": "8132-Art Elysees 2013",
+        "c": "FR"
+      },
+      {
+        "i": "8132-St-art 2013",
+        "c": "FR"
       }
     ]
   }

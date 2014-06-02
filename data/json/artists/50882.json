@@ -1,7 +1,7 @@
 {
   "id": "50882",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:24:30",
+  "timestamp": "2014-05-24 06:33:58",
   "name": "Laurent Moriceau",
   "surname": "Moriceau",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "22696",
-  "r01": "20083",
-  "r02": "18462",
-  "r03": "17338",
-  "r04": "14648",
-  "r05": "12396",
-  "r06": "10166",
-  "r07": "9897",
-  "r08": "7857",
+  "r00": "53108",
+  "r01": "47891",
+  "r02": "37425",
+  "r03": "34004",
+  "r04": "29188",
+  "r05": "20474",
+  "r06": "14937",
+  "r07": "11164",
+  "r08": "10686",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "13",
-  "2005-shows-biennials": "1",
-  "2005-shows-galleries": "1",
+  "all-shows-total": "12",
+  "2005-shows-biennials": null,
+  "2005-shows-galleries": null,
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (3)",
-  "2005-shows-with": "Laurent Moriceau (3), Jean-François Courtilat (2), Béatrice Dacher (2), Michel Gerson (2)",
+  "2005-countries-total": "France (2)",
+  "2005-shows-with": "Laurent Moriceau (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France)",
   "first_name": "Laurent",
@@ -56,6 +56,42 @@
           "2007-03-31",
           "2007-06-17"
         ]
+      },
+      {
+        "i": "50882-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "50882-8548-2007-06-02",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "50882-16035-2011-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "50882-16035-2011-01-25",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "50882-22625-2012-04-15",
+        "c": "FR"
+      },
+      {
+        "i": "50882-22625-2012-04-15",
+        "c": "FR"
+      },
+      {
+        "i": "50882-19606-2012-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "50882-19606-2012-10-20",
+        "c": "FR"
       }
     ]
   }

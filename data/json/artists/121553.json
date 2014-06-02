@@ -1,7 +1,7 @@
 {
   "id": "121553",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:53:03",
+  "timestamp": "2014-05-24 06:58:19",
   "name": "Yann Sérandour",
   "surname": "Sérandour",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "3724",
-  "r01": "3730",
-  "r02": "3976",
-  "r03": "4443",
-  "r04": "5812",
-  "r05": "5756",
-  "r06": "7996",
-  "r07": "20279",
-  "r08": "51077",
+  "r00": "1681",
+  "r01": "2460",
+  "r02": "2801",
+  "r03": "3084",
+  "r04": "3477",
+  "r05": "4832",
+  "r06": "4726",
+  "r07": "6754",
+  "r08": "19136",
   "awards": "Les plus beaux livres Suisses 2009 (for the catalog Inside The White Cube. Overprinted Edition),Aide individuelle à l'installation, Ministère de la culture – DRAC Bretagne\r\n\r\nLauréat du Prix des Amis du Palais de Tokyo,Aide individuelle à la création, Ministère de la culture - DRAC Bretagne",
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "62",
+  "all-shows-total": "71",
   "2005-shows-biennials": "19",
   "2005-shows-galleries": "19",
-  "2005-shows-museums": "18",
-  "2005-countries-total": "France (32), Netherlands (3), Belgium (2), Spain (2), USA (2), Germany (1), Israel (1), Lithuania (1), Luxembourg (1), Romania (1), Slovenia (1)",
-  "2005-shows-with": "Yann Sérandour (44), Ryan Gander (10), Jonathan Monk (9), Mark Geffriaud (7), Jirí Kovanda (7), Pierre Bismuth (5), Claire Fontaine (5), Dora García (5), Olivier Mosset (5), Bruce Nauman (5), Julien Prévieux (5), A Constructed World (4), Saâdane Afif (4), Ceal Floyer (4), Julie-Christine Fortier (4), Angélique Lecaille (4), Pierre Leguillon (4), Briac Lepretre (4), Benoit-Marie Moriceau (4), Samir Mougas (4), Roman Ondák (4), Allen Ruppersberg (4), Ed Ruscha (4), Raphaël Zarka (4), Art & Language (3), Robert Barry (3), Michel Blazy (3), Nicolas Chardon (3), Claude Closky (3), Gérard Collin-Thiébaut (3), Eric Doeringer (3), Antoine Dorotte (3), Peter Downsbrough (3), Jean Dupuy (3), Elmgreen & Dragset (3), Hans-Peter Feldmann (3), Michel François (3), Aurélien Froment (3), Cyprien Gaillard (3), Mario Garcia Torres (3), Liam Gillick (3), Dan Graham (3), Rodney Graham (3), Joachim Koester (3), Bertrand Lavier (3), Christian Marclay (3), Bevis Martin & Charlie Youle (3), Véra Molnar (3), Armand Morin",
+  "2005-shows-museums": "29",
+  "2005-countries-total": "France (41), Belgium (3), Netherlands (3), USA (3), Spain (2), Germany (1), Israel (1), Lithuania (1), Luxembourg (1), Romania (1), Slovenia (1), Switzerland (1)",
+  "2005-shows-with": "Yann Sérandour (56), Ryan Gander (11), Jonathan Monk (11), Mark Geffriaud (9), Jirí Kovanda (9), Claude Closky (6), Hans-Peter Feldmann (6), Claire Fontaine (6), Dora García (6), Pierre Leguillon (6), Christian Marclay (6), Roman Ondák (6), Julien Prévieux (6), Allen Ruppersberg (6), Ed Ruscha (6), A Constructed World (5), Robert Barry (5), Pierre Bismuth (5), Julie-Christine Fortier (5), Bertrand Lavier (5), Olivier Mosset (5), Bruce Nauman (5), Anri Sala (5), Lawrence Weiner (5), Raphaël Zarka (5), Saâdane Afif (4), Berdaguer & Péjus (4), Marcel Broodthaers (4), Peter Downsbrough (4), Jean Dupuy (4), Céline Duval (4), Ceal Floyer (4), Mario Garcia Torres (4), Douglas Gordon (4), Dan Graham (4), Rodney Graham (4), Ben Kinmont (4), Louise Lawler (4), Angélique Lecaille (4), Jean Claude Lefèvre (4), Briac Lepretre (4), Sol LeWitt (4), Benoit-Marie Moriceau (4), Samir Mougas (4), Julien Nédélec (4), Philippe Parreno (4), Michalis Pichler (4), Claude Rutault (4), Xavier Veilhan (4), herman de vries ",
   "representing-galleries": "gb agency (18 rue des 4 Fils, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Yann",
@@ -43,7 +43,49 @@
   "age": 40,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "121553-2585-2006-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "121553-2585-2006-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "121553-9477-2006-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "121553-9477-2006-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "121553-8282-2006-10-03",
+        "c": "FR"
+      },
+      {
+        "i": "121553-8282-2006-10-03",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "121553-4186-2007-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4186-2007-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "121553-11859-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "121553-11859-2007-06-02",
+        "c": "FR"
+      },
       {
         "i": "121553-2500-2007-07-15",
         "c": "DE",
@@ -69,6 +111,38 @@
           "2007-11-09",
           "2008-01-06"
         ]
+      },
+      {
+        "i": "121553-8700-2007-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "121553-1596-2007-12-14",
+        "c": "FR"
+      },
+      {
+        "i": "121553-7999-2007-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "121553-7999-2007-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4194-2007-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4194-2007-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "121553-17165-2007-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "121553-17165-2007-06-08",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -86,6 +160,14 @@
         ]
       },
       {
+        "i": "121553-8700-2007-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "121553-1596-2007-12-14",
+        "c": "FR"
+      },
+      {
         "i": "121553-3737-2008-01-26",
         "c": "LU",
         "n": "P2P",
@@ -97,6 +179,22 @@
           "2008-01-26",
           "2008-04-06"
         ]
+      },
+      {
+        "i": "121553-20542-2008-02-01",
+        "c": "FR"
+      },
+      {
+        "i": "121553-20542-2008-02-01",
+        "c": "FR"
+      },
+      {
+        "i": "121553-18906-2008-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "121553-18906-2008-04-06",
+        "c": "FR"
       },
       {
         "i": "121553-17114-2008-05-23",
@@ -112,6 +210,14 @@
         ]
       },
       {
+        "i": "121553-17765-2008-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "121553-17765-2008-06-19",
+        "c": "FR"
+      },
+      {
         "i": "121553-7127-2008-09-03",
         "c": "RO",
         "n": "The Young Artists’ Biennial - Re-construction",
@@ -122,6 +228,14 @@
           "2008-09-03",
           "2009-03-31"
         ]
+      },
+      {
+        "i": "121553-8700-2008-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "121553-8700-2008-09-08",
+        "c": "FR"
       },
       {
         "i": "121553-18189-2008-09-24",
@@ -135,6 +249,10 @@
           "2008-09-24",
           "2008-10-23"
         ]
+      },
+      {
+        "i": "121553-4186-2008-11-15",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -175,6 +293,58 @@
           "2009-03-06",
           "2009-05-30"
         ]
+      },
+      {
+        "i": "121553-21098-2009-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "121553-21098-2009-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4186-2009-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4186-2009-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "121553-20789-2009-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "121553-20789-2009-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4186-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4186-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4186-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4186-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "121553-8542-2009-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "121553-8542-2009-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4186-2008-11-15",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -190,6 +360,30 @@
           "2010-01-09",
           "2010-03-24"
         ]
+      },
+      {
+        "i": "121553-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "121553-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "121553-22295-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "121553-22295-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "121553-1293-2010-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "121553-1293-2010-03-01",
+        "c": "FR"
       },
       {
         "i": "121553-5490-2010-06-09",
@@ -216,9 +410,33 @@
           "2010-08-01",
           "2010-08-21"
         ]
+      },
+      {
+        "i": "121553-18613-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "121553-18613-2010-06-05",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "121553-16207-2011-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "121553-16207-2011-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "121553-21128-2011-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "121553-21128-2011-02-03",
+        "c": "FR"
+      },
       {
         "i": "121553-2921-2011-02-24",
         "c": "US",
@@ -244,9 +462,73 @@
           "2011-03-11",
           "2011-04-03"
         ]
+      },
+      {
+        "i": "121553-19673-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "121553-19673-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "121553-20542-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "121553-20542-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "121553-2028-2011-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "121553-2028-2011-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "121553-20542-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "121553-20542-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4186-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4186-2011-05-07",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "121553-28278-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "121553-28278-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "121553-5517-2012-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "121553-5517-2012-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "121553-29900-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "121553-29900-2012-04-06",
+        "c": "FR"
+      },
       {
         "i": "121553-18685-2012-09-07",
         "c": "BE",
@@ -259,9 +541,41 @@
           "2012-09-07",
           "2012-10-27"
         ]
+      },
+      {
+        "i": "121553-21802-2012-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "121553-21802-2012-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "121553-7999-2012-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "121553-2303-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "121553-2303-2012-11-15",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "121553-7999-2012-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4186-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "121553-4186-2013-01-26",
+        "c": "FR"
+      },
       {
         "i": "121553-2267-2013-03-05",
         "c": "US",
@@ -287,6 +601,30 @@
           "2013-03-07",
           "2013-06-09"
         ]
+      },
+      {
+        "i": "121553-8520-2013-07-20",
+        "c": "FR"
+      },
+      {
+        "i": "121553-8520-2013-07-20",
+        "c": "FR"
+      },
+      {
+        "i": "121553-19085-2013-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "121553-19085-2013-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "121553-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "121553-10825-2013-09-21",
+        "c": "FR"
       },
       {
         "i": "121553-3289-2013-11-02",

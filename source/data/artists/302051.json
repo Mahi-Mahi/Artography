@@ -1,7 +1,7 @@
 {
   "id": "302051",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:03:28",
+  "timestamp": "2014-05-24 07:59:50",
   "name": "Maude Maris",
   "surname": "Maris",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting, Drawings",
-  "r00": "28758",
-  "r01": "42722",
-  "r02": "104966",
-  "r03": "101831",
-  "r04": null,
+  "r00": "17757",
+  "r01": "20225",
+  "r02": "31503",
+  "r03": "94310",
+  "r04": "99364",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,12 +28,12 @@
   "awards": "Prix de peinture de la ville de Vitry-sur-Seine",
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "12",
+  "all-shows-total": "13",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (11)",
-  "2005-shows-with": "Maude Maris (5), Guillaume Millet (2), Julien Pelloux (2), Laurent Rabier (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (14)",
+  "2005-shows-with": "Maude Maris (7), Steve Givernaud (2), Guillaume Millet (2), Julien Pelloux (2), Laurent Rabier (2)",
   "representing-galleries": "Galerie Isabelle Gounod (13, rue Chapon, 75003 Paris, France)",
   "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France)",
   "first_name": "Maude",
@@ -43,5 +43,101 @@
   "age": 34,
   "age_range": "26-40",
   "expos": {
+    "2011": [
+      {
+        "i": "302051-29391-2011-11-11",
+        "c": "FR"
+      },
+      {
+        "i": "302051-29391-2011-11-11",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "302051-26775-2012-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "302051-26775-2012-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "302051-27613-2012-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "302051-27613-2012-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "302051-11850-2012-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "302051-11850-2012-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "302051-8554-2012-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "302051-8554-2012-06-08",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "302051-27613-2013-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "302051-27613-2013-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "302051-29576-2013-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "302051-29576-2013-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "302051-7348-2013-11-09",
+        "c": "FR"
+      },
+      {
+        "i": "302051-7348-2013-11-09",
+        "c": "FR"
+      },
+      {
+        "i": "302051-11896-2013-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "302051-11896-2013-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "302051-11850-2013-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "302051-11850-2013-12-03",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "302051-24759-2010-05-01",
+        "c": "FR"
+      },
+      {
+        "i": "302051-24759-2010-05-01",
+        "c": "FR"
+      }
+    ]
   }
 }

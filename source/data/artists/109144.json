@@ -1,7 +1,7 @@
 {
   "id": "109144",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:48:05",
+  "timestamp": "2014-05-24 06:54:03",
   "name": "Philippe Chancel",
   "surname": "Chancel",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "6350",
-  "r01": "9724",
-  "r02": "11739",
-  "r03": "11486",
-  "r04": "18781",
-  "r05": "17256",
-  "r06": "19150",
-  "r07": null,
+  "r00": "4321",
+  "r01": "4531",
+  "r02": "7454",
+  "r03": "9234",
+  "r04": "9030",
+  "r05": "15473",
+  "r06": "13811",
+  "r07": "16067",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "34",
+  "all-shows-total": "35",
   "2005-shows-biennials": "11",
   "2005-shows-galleries": "11",
-  "2005-shows-museums": "15",
-  "2005-countries-total": "France (12), Belgium (3), Germany (2), Italy (2), Switzerland (2), Greece (1), Hungary (1), Ireland (Republic) (1), Israel (1), Lebanon (1), Netherlands (1), Turkey (1), United Kingdom (1), USA (1)",
-  "2005-shows-with": "Philippe Chancel (25), Daniel Beltrá (14), Mohamed Bourouissa (12), Edmund Clark (12), Luc Delahaye (12), Rena Effendi (12), Jacqueline Hassink (12), Carl de Keyzer (12), Joel Sternfeld (12), Guy Tillim (12), Robert Adams (11), An-My Lê (11), Kader Attia (4), Yto Barrada (3), Marie Aerts (2), Allora & Calzadilla (2), Fayçal Baghriche (2), Olivo Barbieri (2), Taysir Batniji (2), Lionel Bayol-Themines (2), Florence Chevallier (2), Stéphane Couturier (2), Frédéric Delangle (2), Marcel Dinahet (2), Julia Fullerton-Batten (2), Christiane Geoffroy (2), Camille Goujon (2), HEHE (2), Nick Laessing (2), Malik Nejmi (2), Lucy & Jorge Orta (2), Lise Sarfati (2), Zineb Sedira (2), Studio 21bis (2), Claire Tabouret (2), Barthélémy Toguo (2), Marie Velardi (2)",
-  "representing-galleries": "Galerie Pierre-Alain Challier (8, rue Debelleyme, 75003 Paris, France); Galerie LC (25, rue Jean Mermoz, 75008 Paris, France); Eric Franck Fine Art (7 Victoria Square,  London (England), United Kingdom)",
+  "2005-shows-museums": "16",
+  "2005-countries-total": "France (12), Belgium (3), Germany (2), Italy (2), Switzerland (2), USA (2), Greece (1), Hungary (1), Ireland (Republic) (1), Israel (1), Lebanon (1), Netherlands (1), Turkey (1), United Kingdom (1)",
+  "2005-shows-with": "Philippe Chancel (26), Daniel Beltrá (15), Mohamed Bourouissa (13), Edmund Clark (13), Luc Delahaye (13), Rena Effendi (13), Jacqueline Hassink (13), Carl de Keyzer (13), Joel Sternfeld (13), Guy Tillim (13), Robert Adams (12), An-My Lê (12), Kader Attia (4), Yto Barrada (3), Marie Aerts (2), Allora & Calzadilla (2), Fayçal Baghriche (2), Olivo Barbieri (2), Taysir Batniji (2), Lionel Bayol-Themines (2), Florence Chevallier (2), Stéphane Couturier (2), Frédéric Delangle (2), Marcel Dinahet (2), Julia Fullerton-Batten (2), Christiane Geoffroy (2), Camille Goujon (2), HEHE (2), Nick Laessing (2), Malik Nejmi (2), Lucy & Jorge Orta (2), Lise Sarfati (2), Zineb Sedira (2), Studio 21bis (2), Claire Tabouret (2), Barthélémy Toguo (2), Marie Velardi (2)",
+  "representing-galleries": "Galerie Pierre-Alain Challier (8, rue Debelleyme, 75003 Paris, France); Galerie LC (25, rue Jean Mermoz, 75008 Paris, France); East Wing (PO Box 5581, 00000 Doha, Qatar); Eric Franck Fine Art (7 Victoria Square,  London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "Philippe",
   "last_name": "Chancel",
@@ -69,6 +69,14 @@
           "2007-06-13",
           "2007-07-15"
         ]
+      },
+      {
+        "i": "109144-11778-2007-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "109144-11778-2007-05-03",
+        "c": "FR"
       },
       {
         "i": "109144-9306-2007-11-03",
@@ -138,9 +146,17 @@
           "2008-10-16",
           "2009-01-11"
         ]
+      },
+      {
+        "i": "109144-7949-2009-11-21",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "109144-7949-2009-11-21",
+        "c": "FR"
+      },
       {
         "i": "109144-18199-2010-03-25",
         "c": "BE",
@@ -153,6 +169,30 @@
           "2010-03-25",
           "2010-04-17"
         ]
+      },
+      {
+        "i": "109144-2219-2010-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "109144-2219-2010-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "109144-11778-2010-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "109144-11778-2010-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "109144-6757-2010-05-21",
+        "c": "FR"
+      },
+      {
+        "i": "109144-6757-2010-05-21",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -168,6 +208,14 @@
           "2011-08-31",
           "2012-01-02"
         ]
+      },
+      {
+        "i": "109144-6757-2011-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "109144-27975-2011-11-18",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -183,6 +231,14 @@
           "2011-08-31",
           "2012-01-02"
         ]
+      },
+      {
+        "i": "109144-6757-2011-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "109144-27975-2011-11-18",
+        "c": "FR"
       },
       {
         "i": "109144-21605-2012-02-12",
@@ -222,6 +278,38 @@
           "2012-10-25",
           "2012-11-09"
         ]
+      },
+      {
+        "i": "109144-3983-2012-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "109144-3983-2012-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "109144-6757-2012-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "109144-6757-2012-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "109144-6757-2012-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "109144-6757-2012-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "109144-6757-2012-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "109144-6757-2012-06-20",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -304,6 +392,14 @@
         ]
       },
       {
+        "i": "109144-8554-2013-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "109144-8554-2013-06-15",
+        "c": "FR"
+      },
+      {
         "i": "109144-9525-2013-08-13",
         "c": "GR",
         "n": "Power",
@@ -328,6 +424,14 @@
           "2013-08-30",
           "2013-09-30"
         ]
+      },
+      {
+        "i": "109144-8554-2013-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "109144-8554-2013-09-14",
+        "c": "FR"
       },
       {
         "i": "109144-28964-2013-11-01",

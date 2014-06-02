@@ -1,7 +1,7 @@
 {
   "id": "21978",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:12:19",
+  "timestamp": "2014-05-24 06:23:32",
   "name": "Jean-François Guiton",
   "surname": "Guiton",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Installation",
-  "r00": "9907",
-  "r01": "8808",
-  "r02": "7461",
-  "r03": "6381",
-  "r04": "5878",
-  "r05": "4808",
-  "r06": "5325",
-  "r07": "4227",
-  "r08": "3556",
+  "r00": "15600",
+  "r01": "15848",
+  "r02": "14257",
+  "r03": "11431",
+  "r04": "9240",
+  "r05": "8181",
+  "r06": "5966",
+  "r07": "6979",
+  "r08": "5021",
   "awards": null,
   "website": null,
   "all-shows-first": "1987",
-  "all-shows-total": "28",
+  "all-shows-total": "30",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "3",
-  "2005-countries-total": "Germany (2), France (1), Italy (1)",
-  "2005-shows-with": "Jean-François Guiton (3)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "Germany (2), Australia (1), France (1), Italy (1)",
+  "2005-shows-with": "Jean-François Guiton (4)",
   "representing-galleries": "Vidéochroniques (1 place de Lorette, 13002 Marseille, France)",
   "collecting-museums": " Centre for Contemporary Art Ujazdowski Castle (Zamek Ujazdowski Al. Ujazdowskie 6, 00-461 Warsaw, Poland)",
   "first_name": "Jean-François",
@@ -126,6 +126,14 @@
           "2013-05-04",
           "2013-10-05"
         ]
+      },
+      {
+        "i": "21978-30307-2013-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "21978-30307-2013-11-07",
+        "c": "FR"
       }
     ],
     "2008": [

@@ -1,12 +1,12 @@
 {
   "id": "271618",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:51:31",
+  "timestamp": "2014-05-24 07:49:30",
   "name": "Catherine Rüttimann",
   "surname": "Rüttimann",
   "nationality": "CH, FR",
   "nationality fr": "France, Suisse",
-  "birth location": null,
+  "birth location": "Zürich (CH)",
   "birth day": 1,
   "birth month": 1,
   "birth year": "1979",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": null,
   "media": "Photography",
-  "r00": "52413",
-  "r01": "49694",
-  "r02": "45870",
-  "r03": "62405",
-  "r04": null,
+  "r00": "41997",
+  "r01": "42094",
+  "r02": "38529",
+  "r03": "34676",
+  "r04": "50456",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -97,6 +97,14 @@
           "2011-01-21",
           "2011-03-17"
         ]
+      },
+      {
+        "i": "271618-27948-2011-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "271618-27948-2011-04-07",
+        "c": "FR"
       }
     ]
   }

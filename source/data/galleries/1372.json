@@ -18,6 +18,10 @@
   "fairs": {
     "2005": [
       {
+        "i": "1372-Fiac 2005",
+        "c": "FR"
+      },
+      {
         "i": "1372-Aqua Art Miami 2005",
         "c": "US",
         "n": "Aqua Art Miami 2005",
@@ -36,6 +40,10 @@
         "c": "ES",
         "n": "DFOTO 2006",
         "ct": "San Sebastián"
+      },
+      {
+        "i": "1372-Fiac 2006",
+        "c": "FR"
       },
       {
         "i": "1372-Pulse Miami 06",
@@ -58,6 +66,10 @@
         "ct": "London (England)"
       },
       {
+        "i": "1372-Fiac 2007",
+        "c": "FR"
+      },
+      {
         "i": "1372-PULSE Miami 07",
         "c": "US",
         "n": "PULSE Miami 07",
@@ -72,6 +84,10 @@
         "ct": "New York City, NY"
       },
       {
+        "i": "1372-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
         "i": "1372-NEXT 08",
         "c": "US",
         "n": "NEXT 08",
@@ -84,6 +100,10 @@
         "ct": "Basel"
       },
       {
+        "i": "1372-Fiac 2008",
+        "c": "FR"
+      },
+      {
         "i": "1372-PULSE Miami 08",
         "c": "US",
         "n": "PULSE Miami 08",
@@ -92,10 +112,28 @@
     ],
     "2009": [
       {
+        "i": "1372-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
         "i": "1372-VOLTAshow05",
         "c": "CH",
         "n": "VOLTAshow05",
         "ct": "Basel"
+      },
+      {
+        "i": "1372-Fiac 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1372-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "1372-Paris Photo 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -106,7 +144,29 @@
         "ct": "Mexico City"
       }
     ],
+    "2012": [
+      {
+        "i": "1372-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1372-Art-O-Rama 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1372-Paris Photo 2012",
+        "c": "FR"
+      }
+    ],
     "2013": [
+      {
+        "i": "1372-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1372-Yia Art Fair 2013",
+        "c": "FR"
+      },
       {
         "i": "1372-Untitled. 2013",
         "c": "US",

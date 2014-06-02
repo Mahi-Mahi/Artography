@@ -1,7 +1,7 @@
 {
   "id": "155446",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:06:46",
+  "timestamp": "2014-05-24 07:09:39",
   "name": "Vanessa Fanuele",
   "surname": "Fanuele",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "35340",
-  "r01": "33084",
-  "r02": "40428",
-  "r03": "36653",
-  "r04": "44579",
-  "r05": "59589",
-  "r06": "81367",
-  "r07": null,
+  "r00": "29650",
+  "r01": "29285",
+  "r02": "27816",
+  "r03": "35093",
+  "r04": "30996",
+  "r05": "39186",
+  "r06": "54366",
+  "r07": "80049",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "13",
+  "all-shows-total": "14",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (10), Germany (1)",
-  "2005-shows-with": "Vanessa Fanuele (10), Carole Benzaken (2), Andrew Gilbert (2), Marcel Hueppauff (2), Julie Lorinet (2), Orlando Mostyn-Owen (2), Humberto Poblete-Bustamante (2), Emmanuelle Renard (2), Raphaëlle Ricol (2), Eva Räder (2), Christine Sefolosha (2), Lucy Stein (2)",
+  "2005-countries-total": "France (11), Germany (1)",
+  "2005-shows-with": "Vanessa Fanuele (11), Carole Benzaken (2), Andrew Gilbert (2), Marcel Hueppauff (2), Julie Lorinet (2), Orlando Mostyn-Owen (2), Humberto Poblete-Bustamante (2), Emmanuelle Renard (2), Raphaëlle Ricol (2), Eva Räder (2), Christine Sefolosha (2), Lucy Stein (2)",
   "representing-galleries": "Galerie Van Der Stegen (1 rue Gustave Goublier, 75010 Paris, France)",
   "collecting-museums": null,
   "first_name": "Vanessa",
@@ -43,7 +43,85 @@
   "age": 43,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "155446-13364-2007-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "155446-13364-2007-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "155446-21200-2007-08-10",
+        "c": "FR"
+      },
+      {
+        "i": "155446-21200-2007-08-10",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "155446-13364-2008-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "155446-13364-2008-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "155446-13364-2008-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "155446-13364-2008-05-15",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "155446-20650-2009-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "155446-20650-2009-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "155446-7910-2009-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "155446-7910-2009-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "155446-16754-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "155446-16754-2009-06-18",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "155446-16754-2010-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "155446-16754-2010-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "155446-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "155446-7910-2010-03-13",
+        "c": "FR"
+      },
       {
         "i": "155446-20648-2010-06-04",
         "c": "DE",
@@ -56,6 +134,36 @@
           "2010-06-04",
           "2010-07-26"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "155446-10726-2012-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "155446-10726-2012-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "155446-23216-2012-07-11",
+        "c": "FR"
+      },
+      {
+        "i": "155446-23216-2012-07-11",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "155446-30302-2013-10-26",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "155446-30302-2013-10-26",
+        "c": "FR"
       }
     ]
   }

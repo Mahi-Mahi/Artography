@@ -1,7 +1,7 @@
 {
   "id": "26427",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:14:22",
+  "timestamp": "2014-05-24 06:25:08",
   "name": "Rainier Lericolais",
   "surname": "Lericolais",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "5430",
-  "r01": "5365",
-  "r02": "6493",
-  "r03": "6814",
-  "r04": "6952",
-  "r05": "7066",
-  "r06": "7503",
-  "r07": "8386",
-  "r08": "10992",
+  "r00": "4630",
+  "r01": "4684",
+  "r02": "4526",
+  "r03": "5553",
+  "r04": "5616",
+  "r05": "5372",
+  "r06": "5193",
+  "r07": "5204",
+  "r08": "5333",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "46",
-  "2005-shows-biennials": "12",
-  "2005-shows-galleries": "12",
-  "2005-shows-museums": "13",
-  "2005-countries-total": "France (23), Germany (3), Belgium (1), Netherlands (1)",
-  "2005-shows-with": "Rainier Lericolais (22), Saâdane Afif (4), Davide Balula (3), Michel Blazy (3), Mathieu Mercier (3), Richard Monnier (3), Martine Aballéa (2), John M Armleder (2), Michel Aubry (2), Carola Bark (2), Francis Baudevin (2), Matthias Beckmann (2), James Brooks (2), Angela Bulloch (2), Nicolas Chardon (2), Jeongmoon Choi (2), Matali Crasset (2), Valérie Dantas Mota (2), Philippe Decrauzat (2), Jeremy Deller (2), Motoko Dobashi (2), Andreas Dobler (2), Olivier Dollinger (2), Marcel Duchamp (2), Lionel Estève (2), Robert Filliou (2), Fischli & Weiss (2), Etienne de Fleurieu (2), Ceal Floyer (2), Michel François (2), Liam Gillick (2), Richard Hamilton (2), Lothar Hempel (2), Fabrice Hybert (2), Scott King (2), Jan Kopp (2), Corinne Laroche (2), Sol LeWitt (2), Christian Marclay (2), Michaela Melián (2), Philippe Meste (2), Anita Molinero (2), Matthias Männer (2), Hugo Pernet (2), Bernard Piffaretti (2), Man Ray (2), Hugues Reip (2), David Renaud (2), Ugo Rondinone (2), Bruno Rousselot (2), Allen Ruppersberg (2",
+  "all-shows-total": "48",
+  "2005-shows-biennials": "11",
+  "2005-shows-galleries": "11",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "France (24), Germany (2), Belgium (1), Netherlands (1)",
+  "2005-shows-with": "Rainier Lericolais (22), Saâdane Afif (4), Davide Balula (3), Michel Blazy (3), Mathieu Mercier (3), Richard Monnier (3), Martine Aballéa (2), John M Armleder (2), Michel Aubry (2), Francis Baudevin (2), Dominique Blais (2), Angela Bulloch (2), Nicolas Chardon (2), Philippe Decrauzat (2), Jeremy Deller (2), Andreas Dobler (2), Olivier Dollinger (2), Marcel Duchamp (2), Richard Fauguet (2), Robert Filliou (2), Fischli & Weiss (2), Ceal Floyer (2), Michel François (2), Liam Gillick (2), Richard Hamilton (2), Lothar Hempel (2), Fabrice Hybert (2), Scott King (2), Jan Kopp (2), Sol LeWitt (2), Benoît Maire (2), Christian Marclay (2), Philippe Meste (2), Duane Michals (2), Anita Molinero (2), Dennis Oppenheim (2), Hugo Pernet (2), Bernard Piffaretti (2), Julien Prévieux (2), Man Ray (2), Hugues Reip (2), David Renaud (2), Ugo Rondinone (2), Bruno Rousselot (2), Allen Ruppersberg (2), Yvan Salomone (2), Pierre Savatier (2), Daniel Schlier (2), Rirkrit Tiravanija (2), Kelley Walker (2), William Wegman (2), Jens",
   "representing-galleries": "Galerie Frank Elbaz (66, rue De Turenne, 75003 Paris, France)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France)",
   "first_name": "Rainier",
@@ -43,7 +43,25 @@
   "age": 44,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "26427-8996-2005-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "26427-8996-2005-06-16",
+        "c": "FR"
+      }
+    ],
     "2006": [
+      {
+        "i": "26427-4180-2006-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4180-2006-03-18",
+        "c": "FR"
+      },
       {
         "i": "26427-5725-2006-05-26",
         "c": "CN",
@@ -55,6 +73,69 @@
         "d": [
           "2006-05-26",
           "2006-06-05"
+        ]
+      },
+      {
+        "i": "26427-9344-2006-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "26427-9344-2006-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4180-2006-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4180-2006-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4042-2006-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4042-2006-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4252-2006-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4252-2006-10-13",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "26427-8282-2007-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "26427-8282-2007-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4180-2007-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4180-2007-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "26427-10177-2007-10-25",
+        "c": "BE",
+        "n": "Rainier Lericolais",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "GALERIE FREDERIC DESIMPEL",
+        "d": [
+          "2007-10-25",
+          "2007-11-24"
         ]
       }
     ],
@@ -84,9 +165,89 @@
           "2008-04-11",
           "2008-05-10"
         ]
+      },
+      {
+        "i": "26427-9344-2008-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "26427-9344-2008-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4184-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4184-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "26427-13364-2008-12-18",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "26427-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "26427-9344-2009-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "26427-9344-2009-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4180-2009-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4180-2009-03-14",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "26427-4184-2010-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4184-2010-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "26427-9344-2010-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "26427-21098-2010-10-24",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "26427-9344-2010-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "26427-8639-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "26427-8639-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "26427-25338-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "26427-25338-2011-03-15",
+        "c": "FR"
+      },
       {
         "i": "26427-17141-2011-03-16",
         "c": "DE",
@@ -99,9 +260,107 @@
           "2011-03-16",
           "2011-04-30"
         ]
+      },
+      {
+        "i": "26427-5115-2011-05-01",
+        "c": "FR"
+      },
+      {
+        "i": "26427-5115-2011-05-01",
+        "c": "FR"
+      },
+      {
+        "i": "26427-26377-2011-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "26427-26377-2011-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "26427-19670-2011-11-04",
+        "c": "FR"
+      },
+      {
+        "i": "26427-19670-2011-11-04",
+        "c": "FR"
+      },
+      {
+        "i": "26427-21098-2010-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "26427-7851-2011-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "26427-7851-2011-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4194-2011-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4194-2011-03-01",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "26427-8282-2012-09-04",
+        "c": "FR"
+      },
+      {
+        "i": "26427-8282-2012-09-04",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4180-2012-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4180-2012-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "26427-9344-2012-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "26427-9344-2012-03-23",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "26427-27216-2013-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "26427-27216-2013-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "26427-11771-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "26427-11771-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4180-2013-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "26427-4180-2013-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "26427-8996-2013-10-11",
+        "c": "FR"
+      },
       {
         "i": "26427-26075-2013-10-16",
         "c": "DE",
@@ -127,21 +386,20 @@
           "2013-11-16",
           "2013-12-14"
         ]
+      },
+      {
+        "i": "26427-8522-2013-11-16",
+        "c": "FR"
       }
     ],
-    "2007": [
+    "2014": [
       {
-        "i": "26427-10177-2007-10-25",
-        "c": "BE",
-        "n": "Rainier Lericolais",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Brussels",
-        "o": "GALERIE FREDERIC DESIMPEL",
-        "d": [
-          "2007-10-25",
-          "2007-11-24"
-        ]
+        "i": "26427-8996-2013-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "26427-8522-2013-11-16",
+        "c": "FR"
       }
     ]
   }

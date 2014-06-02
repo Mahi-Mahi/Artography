@@ -1,7 +1,7 @@
 {
   "id": "26870",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:14:33",
+  "timestamp": "2014-05-24 06:25:18",
   "name": "Jean-Michel Sanejouand",
   "surname": "Sanejouand",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Sculpture",
-  "r00": "3995",
-  "r01": "3807",
-  "r02": "4909",
-  "r03": "4260",
-  "r04": "3872",
-  "r05": "3808",
-  "r06": "3447",
-  "r07": "3749",
-  "r08": "3419",
+  "r00": "4092",
+  "r01": "3630",
+  "r02": "3441",
+  "r03": "4594",
+  "r04": "3605",
+  "r05": "3047",
+  "r06": "2831",
+  "r07": "2913",
+  "r08": "3040",
   "awards": null,
   "website": null,
   "all-shows-first": "1970",
-  "all-shows-total": "42",
+  "all-shows-total": "45",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "17",
-  "2005-countries-total": "France (17), USA (1)",
-  "2005-shows-with": "Jean-Michel Sanejouand (14), Bertrand Lavier (5), John M Armleder (3), Hans-Peter Feldmann (3), Raymond Hains (3), Ann Veronica Janssens (3), Gina Pane (3), Claude Rutault (3), Fred Sandback (3), Raphaël Zarka (3), Scoli Acosta (2), Richard Baquié (2), Martin Barré (2), Jean-Pierre Bertrand (2), Joseph Beuys (2), Jean Luc Blanc (2), Katinka Bock (2), Robert Combas (2), Melanie Counsell (2), Didier Courbot (2), Erik Dietman (2), Thea Djordjadze (2), Hubert Duprat (2), Jimmie Durham (2), Daniel Firman (2), Barry Flanagan (2), Roland Flexner (2), Jim Hodges (2), Douglas Huebler (2), Karen Knorr (2), Udo Koch (2), Gordon Matta-Clark (2), Vincent Mauger (2), Mathieu Mercier (2), Anita Molinero (2), François Morellet (2), Patrick Neu (2), Roman Opalka (2), Gabriel Orozco (2), Panamarenko (2), Bruno Peinado (2), Présence Panchounette (2), Hervé di Rosa (2), Yvan Salomone (2), Joe Scanlan (2), Richard Serra (2), Hervé Télémaque (2), Hervè Trioreau (2)",
+  "2005-shows-museums": "19",
+  "2005-countries-total": "France (19), USA (1)",
+  "2005-shows-with": "Jean-Michel Sanejouand (16), Bertrand Lavier (5), John M Armleder (4), Hans-Peter Feldmann (4), Raymond Hains (4), Etienne Bossut (3), Jimmie Durham (3), Daniel Firman (3), Ann Veronica Janssens (3), Mathieu Mercier (3), François Morellet (3), Gina Pane (3), Bruno Peinado (3), Claude Rutault (3), Yvan Salomone (3), Fred Sandback (3), Joe Scanlan (3), Raphaël Zarka (3), Scoli Acosta (2), Isabelle Arthuis (2), Richard Baquié (2), Martin Barré (2), Cécile Bart (2), Berdaguer & Péjus (2), Jean-Pierre Bertrand (2), Joseph Beuys (2), Jean Luc Blanc (2), Katinka Bock (2), Balthasar Burkhard (2), Florence Chevallier (2), Robert Combas (2), Melanie Counsell (2), Didier Courbot (2), François Curlet (2), Gérard Deschamps (2), Dewar & Gicquel (2), Erik Dietman (2), Marcel Dinahet (2), Thea Djordjadze (2), Hubert Duprat (2), Fischli & Weiss (2), Barry Flanagan (2), Roland Flexner (2), Claire Fontaine (2), Paul-Armand Gette (2), Mona Hatoum (2), Jim Hodges (2), Douglas Huebler (2), Karen Knorr (2), Udo Koch (2), Kr",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Musée de l´abbaye Sainte-Croix (Rue de Verdun, 85100 Les Sables d' Olonne, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France); LaM - Lille Métropole musée d'art moderne, d'art contemporain et d'art brut (1 allée du musée, 59650 Villeneuve d'Ascq, France)",
   "first_name": "Jean-Michel",
@@ -56,9 +56,37 @@
           "2005-02-03",
           "2005-05-22"
         ]
+      },
+      {
+        "i": "26870-2565-2005-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "26870-2565-2005-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "26870-2528-2005-10-07",
+        "c": "FR"
+      },
+      {
+        "i": "26870-2528-2005-10-07",
+        "c": "FR"
+      },
+      {
+        "i": "26870-7390-2005-12-15",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "26870-26765-2006-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "26870-26765-2006-05-10",
+        "c": "FR"
+      },
       {
         "i": "26870-6322-2006-06-12",
         "c": "DE",
@@ -71,9 +99,105 @@
           "2006-06-12",
           "2006-08-08"
         ]
+      },
+      {
+        "i": "26870-7390-2005-12-15",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "26870-2219-2007-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "26870-2219-2007-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "26870-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "26870-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "26870-16095-2007-10-06",
+        "c": "FR"
+      },
+      {
+        "i": "26870-16095-2007-10-06",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "26870-11586-2008-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "26870-11586-2008-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "26870-10221-2008-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "26870-10221-2008-01-26",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "26870-8293-2009-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "26870-8293-2009-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "26870-1293-2009-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "26870-1293-2009-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "26870-8542-2009-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "26870-8542-2009-10-23",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "26870-8548-2010-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "26870-8548-2010-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "26870-21128-2010-07-09",
+        "c": "FR"
+      },
+      {
+        "i": "26870-21128-2010-07-09",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "26870-26235-2012-04-29",
+        "c": "FR"
+      },
       {
         "i": "26870-2373-2012-05-27",
         "c": "US",
@@ -86,6 +210,86 @@
           "2012-05-27",
           "2012-09-03"
         ]
+      },
+      {
+        "i": "26870-1782-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "26870-11586-2012-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "26870-8548-2012-02-22",
+        "c": "FR"
+      },
+      {
+        "i": "26870-8548-2012-02-22",
+        "c": "FR"
+      },
+      {
+        "i": "26870-10239-2012-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "26870-10239-2012-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "26870-26235-2012-12-02",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "26870-26235-2012-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "26870-1782-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "26870-11586-2012-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "26870-28277-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "26870-28277-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "26870-29739-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "26870-29739-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "26870-8548-2013-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "26870-8548-2013-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "26870-20775-2013-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "26870-26235-2012-12-02",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "26870-20775-2013-10-20",
+        "c": "FR"
       }
     ]
   }

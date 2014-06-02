@@ -1,7 +1,7 @@
 {
   "id": "34930",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:18:07",
+  "timestamp": "2014-05-24 06:28:15",
   "name": "Valéry Grancher",
   "surname": "Grancher",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Video, Installation, Sculpture, Mail Art, Performance, Art theory, Digital photography, Conceptual photography, Net art, Poster Art, Light Sculpture, Interactive installation",
-  "r00": "16612",
-  "r01": "14866",
-  "r02": "12884",
-  "r03": "11165",
-  "r04": "9537",
-  "r05": "8463",
-  "r06": "8109",
-  "r07": "8946",
-  "r08": "7098",
+  "r00": "32700",
+  "r01": "25246",
+  "r02": "19098",
+  "r03": "14363",
+  "r04": "11247",
+  "r05": "8788",
+  "r06": "7255",
+  "r07": "6641",
+  "r08": "6911",
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
-  "all-shows-total": "12",
+  "all-shows-total": "14",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": "1",
@@ -45,6 +45,10 @@
   "expos": {
     "2007": [
       {
+        "i": "34930-10247-2007-07-02",
+        "c": "FR"
+      },
+      {
         "i": "34930-2459-2007-10-24",
         "c": "US",
         "n": "RIP.MIX.BURN.BAM.PFA",
@@ -60,6 +64,10 @@
     ],
     "2008": [
       {
+        "i": "34930-10247-2007-07-02",
+        "c": "FR"
+      },
+      {
         "i": "34930-2459-2007-10-24",
         "c": "US",
         "n": "RIP.MIX.BURN.BAM.PFA",
@@ -71,6 +79,34 @@
           "2007-10-24",
           "2008-03-02"
         ]
+      },
+      {
+        "i": "34930-10247-2008-06-29",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "34930-10247-2008-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "34930-12314-2009-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "34930-12314-2009-11-08",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "34930-1782-2005-09-01",
+        "c": "FR"
+      },
+      {
+        "i": "34930-1782-2005-09-01",
+        "c": "FR"
       }
     ]
   }

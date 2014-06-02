@@ -16,7 +16,17 @@
   "fairs-abroad": "4",
   "fairs-in-FR": "11",
   "fairs": {
+    "2006": [
+      {
+        "i": "5518-ArtParis 06",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "5518-ArtParis 07",
+        "c": "FR"
+      },
       {
         "i": "5518-ArtParis - AbuDhabi 2007",
         "c": "AE",
@@ -26,13 +36,31 @@
     ],
     "2008": [
       {
+        "i": "5518-ArtParis 08",
+        "c": "FR"
+      },
+      {
         "i": "5518-ArtParis - AbuDhabi 2008",
         "c": "AE",
         "n": "ArtParis - AbuDhabi 2008",
         "ct": "Abu Dhabi"
       }
     ],
+    "2009": [
+      {
+        "i": "5518-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "5518-Show Off Paris 2009",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "5518-ArtParis 2010",
+        "c": "FR"
+      },
       {
         "i": "5518-Menasart Fair",
         "c": "LB",
@@ -41,6 +69,10 @@
       }
     ],
     "2011": [
+      {
+        "i": "5518-ArtParis 2011",
+        "c": "FR"
+      },
       {
         "i": "5518-Art Fair Kyoto 2011",
         "c": "JP",
@@ -56,10 +88,18 @@
     ],
     "2012": [
       {
+        "i": "5518-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
         "i": "5518-Art Show Busan 2012",
         "c": "KR",
         "n": "Art Show Busan 2012",
         "ct": "Busan"
+      },
+      {
+        "i": "5518-Photo Off 2012",
+        "c": "FR"
       }
     ]
   }

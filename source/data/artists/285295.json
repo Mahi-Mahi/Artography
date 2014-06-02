@@ -1,7 +1,7 @@
 {
   "id": "285295",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:56:56",
+  "timestamp": "2014-05-24 07:54:11",
   "name": "Hervé Robbe",
   "surname": "Robbe",
   "nationality": "FR",
@@ -14,17 +14,17 @@
   "death day": null,
   "death month": null,
   "death year": null,
-  "attributes": null,
+  "attributes": "Male",
   "media": null,
-  "r00": "35198",
-  "r01": "31991",
-  "r02": "28612",
-  "r03": "25483",
-  "r04": "32779",
-  "r05": "28192",
-  "r06": "23944",
-  "r07": "19889",
-  "r08": "16189",
+  "r00": "53664",
+  "r01": "47639",
+  "r02": "40933",
+  "r03": "32921",
+  "r04": "27029",
+  "r05": "37555",
+  "r06": "30355",
+  "r07": "24223",
+  "r08": "19290",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
@@ -32,16 +32,26 @@
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": null,
-  "2005-countries-total": "France (1)",
-  "2005-shows-with": null,
+  "2005-countries-total": "France (2)",
+  "2005-shows-with": "Hervé Robbe (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Hervé",
   "last_name": "Robbe",
-  "genre": "c",
+  "genre": "m",
   "birthDate": "1961-01-01",
   "age": 53,
   "age_range": "41-60",
   "expos": {
+    "2010": [
+      {
+        "i": "285295-8568-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "285295-8568-2010-10-01",
+        "c": "FR"
+      }
+    ]
   }
 }

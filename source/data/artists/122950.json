@@ -1,7 +1,7 @@
 {
   "id": "122950",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:53:39",
+  "timestamp": "2014-05-24 06:58:48",
   "name": "Philippe Nuell",
   "surname": "Nuell",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "36168",
-  "r01": "33579",
-  "r02": "30354",
-  "r03": "29906",
-  "r04": "32451",
-  "r05": "31790",
-  "r06": "42518",
-  "r07": "44638",
-  "r08": "37644",
+  "r00": "39364",
+  "r01": "37021",
+  "r02": "33095",
+  "r03": "28416",
+  "r04": "27472",
+  "r05": "29956",
+  "r06": "29039",
+  "r07": "40217",
+  "r08": "42258",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "8",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (3), USA (2)",
-  "2005-shows-with": "Philippe Nuell (3)",
+  "2005-countries-total": "France (3), USA (3)",
+  "2005-shows-with": "Philippe Nuell (4), Ophir Agassi (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Philippe",
@@ -71,6 +71,49 @@
         ]
       }
     ],
+    "2008": [
+      {
+        "i": "122950-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "122950-181-2008-08-18",
+        "c": "FR"
+      },
+      {
+        "i": "122950-181-2008-08-18",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "122950-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "122950-12784-2009-04-02",
+        "c": "US",
+        "n": "Philippe Nuell",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "33 Bond Gallery",
+        "d": [
+          "2009-04-02",
+          "2009-05-09"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "122950-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "122950-7910-2010-03-13",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "122950-2102-2011-01-20",
@@ -86,19 +129,14 @@
         ]
       }
     ],
-    "2009": [
+    "2005": [
       {
-        "i": "122950-12784-2009-04-02",
-        "c": "US",
-        "n": "Philippe Nuell",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "New York City, NY",
-        "o": "33 Bond Gallery",
-        "d": [
-          "2009-04-02",
-          "2009-05-09"
-        ]
+        "i": "122950-181-2005-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "122950-181-2005-03-09",
+        "c": "FR"
       }
     ]
   }

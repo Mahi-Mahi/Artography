@@ -1,7 +1,7 @@
 {
   "id": "100983",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:44:51",
+  "timestamp": "2014-05-24 06:51:19",
   "name": "François Calvat",
   "surname": "Calvat",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "84988",
-  "r01": "82252",
-  "r02": "77217",
-  "r03": "92743",
-  "r04": "86097",
-  "r05": "79046",
-  "r06": "71116",
-  "r07": "69126",
-  "r08": "60119",
+  "r00": "84258",
+  "r01": "83852",
+  "r02": "79717",
+  "r03": "73762",
+  "r04": "91379",
+  "r05": "83754",
+  "r06": "75834",
+  "r07": "67360",
+  "r08": "66970",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -34,7 +34,7 @@
   "2005-shows-museums": "1",
   "2005-countries-total": "France (2)",
   "2005-shows-with": "François Calvat (2)",
-  "representing-galleries": null,
+  "representing-galleries": "Galerie Pascal Vanhoecke (14 bis rue du Docteur Gosselin, 94230 Cachan, France)",
   "collecting-museums": null,
   "first_name": "François",
   "last_name": "Calvat",
@@ -99,6 +99,24 @@
           "2007-12-01",
           "2008-01-20"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "100983-4472-2011-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "100983-4472-2011-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "100983-26673-2011-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "100983-26673-2011-06-02",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "167882",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:11:41",
+  "timestamp": "2014-05-24 07:13:59",
   "name": "Benjamin Swaim",
   "surname": "Swaim",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Drawings",
-  "r00": "13949",
-  "r01": "14395",
-  "r02": "13439",
-  "r03": "17077",
-  "r04": "17260",
-  "r05": "16371",
-  "r06": "13815",
-  "r07": "69573",
-  "r08": "60537",
+  "r00": "11610",
+  "r01": "12032",
+  "r02": "12120",
+  "r03": "10979",
+  "r04": "14418",
+  "r05": "14388",
+  "r06": "13163",
+  "r07": "10799",
+  "r08": "67627",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "18",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (10), United Kingdom (2), Belgium (1), Germany (1)",
-  "2005-shows-with": "Benjamin Swaim (13), Fabian Marti (3), Jay Chung & Q Takeki Maeda (2), Marcel Dinahet (2), Hubert Duprat (2), Sharon Kivland (2), Monica Majoli (2), Anne-Laure Sacriste (2), Josef Strau (2)",
+  "all-shows-total": "19",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (12), United Kingdom (2), Belgium (1), Germany (1)",
+  "2005-shows-with": "Benjamin Swaim (15), Fabian Marti (3), Jay Chung & Q Takeki Maeda (2), Marcel Dinahet (2), Hubert Duprat (2), Sharon Kivland (2), Monica Majoli (2), Anne-Laure Sacriste (2), Josef Strau (2)",
   "representing-galleries": "Galerie Jean Brolly (16, rue de Montmorency, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Benjamin",
@@ -43,6 +43,16 @@
   "age": 44,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "167882-28288-2005-04-23",
+        "c": "FR"
+      },
+      {
+        "i": "167882-28288-2005-04-23",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "167882-7913-2009-04-25",
@@ -71,6 +81,24 @@
         ]
       }
     ],
+    "2010": [
+      {
+        "i": "167882-8996-2010-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "167882-8996-2010-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "167882-4165-2010-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "167882-4165-2010-07-06",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "167882-27809-2011-05-08",
@@ -97,6 +125,94 @@
           "2011-06-11",
           "2011-09-25"
         ]
+      },
+      {
+        "i": "167882-28288-2011-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "167882-28288-2011-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "167882-893-2011-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "167882-893-2011-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "167882-4165-2011-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "167882-4165-2011-10-15",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "167882-4194-2012-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "167882-4194-2012-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "167882-29913-2012-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "167882-29913-2012-06-16",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "167882-28403-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "167882-28403-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "167882-893-2013-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "167882-893-2013-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "167882-20775-2013-10-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "167882-20775-2013-10-20",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "167882-27938-2007-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "167882-27938-2007-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "167882-7811-2007-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "167882-7811-2007-06-01",
+        "c": "FR"
       }
     ]
   }

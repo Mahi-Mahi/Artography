@@ -1,7 +1,7 @@
 {
   "id": "45753",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:22:30",
+  "timestamp": "2014-05-24 06:32:09",
   "name": "Dove Allouche",
   "surname": "Allouche",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Works on Paper",
-  "r00": "2210",
-  "r01": "4410",
-  "r02": "6231",
-  "r03": "7102",
-  "r04": "8391",
-  "r05": "17024",
-  "r06": "20633",
-  "r07": "29221",
-  "r08": "23938",
+  "r00": "1259",
+  "r01": "1397",
+  "r02": "3038",
+  "r03": "4619",
+  "r04": "5558",
+  "r05": "6582",
+  "r06": "14561",
+  "r07": "17682",
+  "r08": "26849",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "51",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
-  "2005-shows-museums": "31",
-  "2005-countries-total": "France (32), Germany (2), Italy (1), Luxembourg (1), Monaco (1), Netherlands (1), Spain (1), Switzerland (1), United Kingdom (1)",
-  "2005-shows-with": "Dove Allouche (31), Evariste Richer (8), Katinka Bock (6), Guillaume Leblon (6), Laurent Montaron (5), Raphaël Zarka (5), Ulla von Brandenburg (4), Lonnie van Brummelen (4), Isabelle Cornaro (4), Siebren de Haan (4), Jochen Lempert (4), Helen Mirra (4), François Morellet (4), David Renaud (4), Bojan Sarcevic (4), Tatiana Trouvé (4), Saâdane Afif (3), Gilles Aillaud (3), Vincent Beaurin (3), Stéphane Calais (3), Nicolas Chardon (3), Philippe Cognée (3), Damien Deroubaix (3), Dewar & Gicquel (3), Richard Fauguet (3), Roland Flexner (3), Geert Goiris (3), Laurent Grasso (3), Loris Gréaud (3), Joachim Koester (3), Emmanuel Lagarrigue (3), Isa Melsheimer (3), Mathieu Mercier (3), Mrzyk & Moriceau (3), Gabriel Orozco (3), Gyan Panchal (3), Giuseppe Penone (3), Éric Poitevin (3), Margaret Salmon (3), Kiki Smith (3), Nathalie Talec (3), Jean-Luc Verna (3), Martine Aballéa (2), Adel Abdessemed (2), Mathieu Kleyebe Abonnenc (2), Adam Adach (2), Pierre Alferi (2), Lara Almárcegui (2), Darren Almond (2), Pierre",
+  "all-shows-total": "54",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
+  "2005-shows-museums": "34",
+  "2005-countries-total": "France (35), Germany (2), USA (2), Italy (1), Luxembourg (1), Monaco (1), Netherlands (1), Spain (1), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Dove Allouche (36), Evariste Richer (8), Katinka Bock (6), Guillaume Leblon (6), Laurent Montaron (6), Ulla von Brandenburg (5), Raphaël Zarka (5), Lonnie van Brummelen (4), Isabelle Cornaro (4), Dewar & Gicquel (4), Laurent Grasso (4), Siebren de Haan (4), Jochen Lempert (4), Helen Mirra (4), François Morellet (4), Mrzyk & Moriceau (4), Éric Poitevin (4), David Renaud (4), Bojan Sarcevic (4), Tatiana Trouvé (4), Jean-Luc Verna (4), Saâdane Afif (3), Gilles Aillaud (3), Marc Bauer (3), Vincent Beaurin (3), Stéphane Calais (3), Nicolas Chardon (3), Claude Closky (3), Philippe Cognée (3), Tony Cragg (3), Philippe Decrauzat (3), Damien Deroubaix (3), Erik Dietman (3), Richard Fauguet (3), Roland Flexner (3), Vidya Gastaldon (3), Geert Goiris (3), Loris Gréaud (3), Joachim Koester (3), Emmanuel Lagarrigue (3), Isa Melsheimer (3), Mathieu Mercier (3), Gabriel Orozco (3), Gyan Panchal (3), Giuseppe Penone (3), Margaret Salmon (3), Kiki Smith (3), Nathalie Talec (3), Martine Aballéa (2), Adel Abdessemed (2)",
   "representing-galleries": "Gaudel de Stampa (3, rue de Vaucouleurs, 75011 Paris, France)",
   "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France)",
   "first_name": "Dove",
@@ -60,6 +60,14 @@
     ],
     "2007": [
       {
+        "i": "45753-9120-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "45753-9120-2007-03-10",
+        "c": "FR"
+      },
+      {
         "i": "45753-1014-2007-03-17",
         "c": "CH",
         "n": "Les roses de Jéricho",
@@ -71,9 +79,57 @@
           "2007-03-17",
           "2007-05-05"
         ]
+      },
+      {
+        "i": "45753-8285-2007-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "45753-8285-2007-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "45753-11492-2007-10-27",
+        "c": "FR"
+      },
+      {
+        "i": "45753-11492-2007-10-27",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "45753-8156-2009-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "45753-8156-2009-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "45753-8282-2009-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "45753-8282-2009-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "45753-10227-2009-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "45753-10227-2009-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "45753-1782-2009-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "45753-1782-2009-05-28",
+        "c": "FR"
+      },
       {
         "i": "45753-12818-2009-10-09",
         "c": "GB",
@@ -86,6 +142,18 @@
           "2009-10-09",
           "2009-11-15"
         ]
+      },
+      {
+        "i": "45753-9492-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "45753-14159-2009-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "45753-10227-2008-11-21",
+        "c": "FR"
       },
       {
         "i": "45753-3123-2009-07-04",
@@ -101,7 +169,70 @@
         ]
       }
     ],
+    "2010": [
+      {
+        "i": "45753-9492-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "45753-14159-2009-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "45753-8997-2010-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "45753-8997-2010-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "45753-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "45753-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "45753-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "45753-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "45753-3569-2010-01-15",
+        "c": "DE",
+        "n": "Dove Allouche - Zénith",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "Galerie Kamm",
+        "d": [
+          "2010-01-15",
+          "2010-02-27"
+        ]
+      },
+      {
+        "i": "45753-17012-2010-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "45753-17012-2010-09-09",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "45753-21128-2011-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "45753-21128-2011-04-21",
+        "c": "FR"
+      },
       {
         "i": "45753-13908-2011-06-11",
         "c": "DE",
@@ -114,9 +245,37 @@
           "2011-06-11",
           "2011-09-25"
         ]
+      },
+      {
+        "i": "45753-8997-2011-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "45753-8997-2011-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "45753-2565-2011-10-27",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "45753-7877-2012-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "45753-7877-2012-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "45753-8285-2012-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "45753-8285-2012-01-19",
+        "c": "FR"
+      },
       {
         "i": "45753-20654-2012-02-02",
         "c": "MC",
@@ -129,6 +288,50 @@
           "2012-02-02",
           "2012-04-03"
         ]
+      },
+      {
+        "i": "45753-11214-2012-02-29",
+        "c": "FR"
+      },
+      {
+        "i": "45753-11214-2012-02-29",
+        "c": "FR"
+      },
+      {
+        "i": "45753-1829-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "45753-1829-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "45753-26235-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "45753-26235-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "45753-21802-2012-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "45753-21802-2012-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "45753-1782-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "45753-9060-2012-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "45753-2565-2011-10-27",
+        "c": "FR"
       },
       {
         "i": "45753-9493-2012-03-17",
@@ -159,6 +362,30 @@
     ],
     "2013": [
       {
+        "i": "45753-1782-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "45753-9060-2012-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "45753-21541-2013-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "45753-21541-2013-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "45753-8997-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "45753-8997-2013-02-02",
+        "c": "FR"
+      },
+      {
         "i": "45753-6778-2013-02-22",
         "c": "ES",
         "n": "Réinventer le monde",
@@ -170,6 +397,22 @@
           "2013-02-22",
           "2013-05-05"
         ]
+      },
+      {
+        "i": "45753-2718-2013-02-22",
+        "c": "FR"
+      },
+      {
+        "i": "45753-2718-2013-02-22",
+        "c": "FR"
+      },
+      {
+        "i": "45753-7390-2013-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "45753-7390-2013-03-14",
+        "c": "FR"
       },
       {
         "i": "45753-2331-2013-03-23",
@@ -185,6 +428,26 @@
         ]
       },
       {
+        "i": "45753-7491-2013-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "45753-7491-2013-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "45753-2353-2013-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "45753-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "45753-2219-2013-10-16",
+        "c": "FR"
+      },
+      {
         "i": "45753-22370-2012-10-06",
         "c": "IT",
         "n": "Dove Allouche",
@@ -196,21 +459,42 @@
           "2012-10-06",
           "2013-01-10"
         ]
+      },
+      {
+        "i": "45753-2219-2013-06-26",
+        "c": "FR"
+      },
+      {
+        "i": "45753-2219-2013-06-26",
+        "c": "FR"
       }
     ],
-    "2010": [
+    "2014": [
       {
-        "i": "45753-3569-2010-01-15",
-        "c": "DE",
-        "n": "Dove Allouche - Zénith",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "Galerie Kamm",
-        "d": [
-          "2010-01-15",
-          "2010-02-27"
-        ]
+        "i": "45753-2353-2013-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "45753-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "45753-2219-2013-10-16",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "45753-17012-2008-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "45753-17012-2008-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "45753-10227-2008-11-21",
+        "c": "FR"
       }
     ]
   }

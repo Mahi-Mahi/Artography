@@ -18,13 +18,41 @@
   "fairs": {
     "2005": [
       {
+        "i": "2048-ArtParis 2005",
+        "c": "FR"
+      },
+      {
         "i": "2048-Art Brussels 2005 - 23rd Contemporary Art Fair",
         "c": "BE",
         "n": "Art Brussels 2005 - 23rd Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "2048-Fiac 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "2048-Fiac 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "2048-ArtParis 07",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "2048-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "2048-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
       {
         "i": "2048-Art Brussels 2008- 26th Contemporary Art Fair",
         "c": "BE",
@@ -58,6 +86,14 @@
     ],
     "2009": [
       {
+        "i": "2048-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "2048-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
         "i": "2048-Art Brussels 2009 - 27th Contemporary Art Fair",
         "c": "BE",
         "n": "Art Brussels 2009 - 27th Contemporary Art Fair",
@@ -82,6 +118,10 @@
         "c": "US",
         "n": "The Armory Show 2010",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "2048-ArtParis 2010",
+        "c": "FR"
       },
       {
         "i": "2048-Art Brussels 2010 - 28th Contemporary Art Fair",
@@ -128,6 +168,10 @@
         "ct": "Casablanca"
       },
       {
+        "i": "2048-SLICK 2011",
+        "c": "FR"
+      },
+      {
         "i": "2048-Art Miami 2011",
         "c": "US",
         "n": "Art Miami 2011",
@@ -140,6 +184,10 @@
         "c": "US",
         "n": "The Armory Show 2012",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "2048-Art Paris Art Fair 2012",
+        "c": "FR"
       },
       {
         "i": "2048-Art Miami 2012",
@@ -156,10 +204,18 @@
         "ct": "New York City, NY"
       },
       {
+        "i": "2048-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
         "i": "2048-Art Brussels 2013",
         "c": "BE",
         "n": "Art Brussels 2013",
         "ct": "Brussels"
+      },
+      {
+        "i": "2048-FIAC 2013",
+        "c": "FR"
       }
     ]
   }

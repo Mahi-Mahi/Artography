@@ -24,6 +24,12 @@
         "ct": "Berlin"
       }
     ],
+    "2006": [
+      {
+        "i": "3983-Show Off Paris 2006",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "3983-V|07 - Venice VideoArt Fair",
@@ -32,10 +38,20 @@
         "ct": "Venice"
       },
       {
+        "i": "3983-Show Off Paris 2007",
+        "c": "FR"
+      },
+      {
         "i": "3983-Photo Miami 2007",
         "c": "US",
         "n": "Photo Miami 2007",
         "ct": "Miami, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "3983-Show Off Paris 2008",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -46,10 +62,22 @@
         "ct": "New York City, NY"
       },
       {
+        "i": "3983-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
         "i": "3983-VOLTAshow05",
         "c": "CH",
         "n": "VOLTAshow05",
         "ct": "Basel"
+      },
+      {
+        "i": "3983-Docks Art Fair 2009",
+        "c": "FR"
+      },
+      {
+        "i": "3983-Show Off Paris 2009",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -58,6 +86,10 @@
         "c": "US",
         "n": "Volta NY 10",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "3983-Show Off Paris 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -66,9 +98,17 @@
         "c": "MX",
         "n": "Zona Maco Mexico 11",
         "ct": "Mexico City"
+      },
+      {
+        "i": "3983-Show Off Paris 2011",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "3983-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
       {
         "i": "3983-The Solo Project 2012",
         "c": "CH",
@@ -80,6 +120,12 @@
         "c": "NL",
         "n": "Unseen Photo Fair 2012",
         "ct": "Amsterdam"
+      }
+    ],
+    "2013": [
+      {
+        "i": "3983-Art Paris Art Fair 2013",
+        "c": "FR"
       }
     ]
   }

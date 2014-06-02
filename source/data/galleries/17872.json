@@ -16,6 +16,24 @@
   "fairs-abroad": "7",
   "fairs-in-FR": "6",
   "fairs": {
+    "2008": [
+      {
+        "i": "17872-SLICK 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "17872-SLICK 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "17872-Show Off Paris 2010",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "17872-photo l.a. + art la projects 2011",
@@ -28,6 +46,20 @@
         "c": "MA",
         "n": "Marrakech Art Fair",
         "ct": "Casablanca"
+      },
+      {
+        "i": "17872-Show Off Paris 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "17872-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "c": "FR"
+      },
+      {
+        "i": "17872-Slick Brussels 2012",
+        "c": "FR"
       }
     ],
     "2013": [

@@ -1,7 +1,7 @@
 {
   "id": "256837",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:45:42",
+  "timestamp": "2014-05-24 07:44:25",
   "name": "Fouad Bouchoucha",
   "surname": "Bouchoucha",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "26279",
-  "r01": "32197",
-  "r02": "36555",
-  "r03": "61767",
-  "r04": null,
+  "r00": "17305",
+  "r01": "18543",
+  "r02": "24923",
+  "r03": "29156",
+  "r04": "52895",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": "6",
-  "2005-countries-total": "France (8), Switzerland (1)",
-  "2005-shows-with": "Fouad Bouchoucha (8), Valère Chanceaulme de Sainte Croix (2), Stephanie Cherpin (2), Sandro Della Noce (2), Yann Gerstberger (2), Thomas Léon (2), Benjamin Marianne (2), Alice Planes (2), Geraldine Py (2), Bruno Sedan (2), Simon Starling (2), Roberto Verde (2)",
+  "2005-countries-total": "France (9), Switzerland (1)",
+  "2005-shows-with": "Fouad Bouchoucha (9), Kader Attia (2), Valère Chanceaulme de Sainte Croix (2), Stephanie Cherpin (2), Sandro Della Noce (2), Yann Gerstberger (2), Thomas Léon (2), Benjamin Marianne (2), Alice Planes (2), Geraldine Py (2), Moussa Sarr (2), Bruno Sedan (2), Simon Starling (2), Roberto Verde (2)",
   "representing-galleries": "Galerie Eric Dupont (138, rue du Temple, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Fouad",
@@ -44,6 +44,14 @@
   "age_range": "26-40",
   "expos": {
     "2010": [
+      {
+        "i": "256837-8647-2010-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "256837-8647-2010-04-09",
+        "c": "FR"
+      },
       {
         "i": "256837-3157-2010-11-20",
         "c": "CH",
@@ -71,6 +79,66 @@
           "2010-11-20",
           "2011-01-23"
         ]
+      },
+      {
+        "i": "256837-2013-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "256837-2013-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "256837-19085-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "256837-19085-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "256837-7491-2011-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "256837-7491-2011-09-14",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "256837-10870-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "256837-10870-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "256837-1876-2012-12-15",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "256837-10501-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "256837-10501-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "256837-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "256837-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "256837-1876-2012-12-15",
+        "c": "FR"
       }
     ]
   }

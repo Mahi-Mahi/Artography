@@ -1,7 +1,7 @@
 {
   "id": "192532",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:20:56",
+  "timestamp": "2014-05-24 07:22:25",
   "name": "Eric Stephany",
   "surname": "Stephany",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "50043",
-  "r01": "47152",
-  "r02": "44310",
-  "r03": "43086",
-  "r04": "62022",
-  "r05": "75426",
-  "r06": "80386",
-  "r07": null,
+  "r00": "40359",
+  "r01": "45192",
+  "r02": "41023",
+  "r03": "37588",
+  "r04": "36391",
+  "r05": "56167",
+  "r06": "71962",
+  "r07": "79256",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "13",
+  "all-shows-total": "14",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (6), Germany (3), USA (1)",
-  "2005-shows-with": "Eric Stephany (10), Rada Boukova (3), Matthieu Clainchard (3), Saâdane Afif (2), Jofroi Amaral (2), Elise Florenty (2), Ludovic Jecker (2), Pierre Joseph (2), Eléonore de Montesquiou (2), Santiago Reyes (2), Bettina Samson (2), Maxime Thieffine (2)",
+  "2005-countries-total": "France (6), Germany (3), Czech Republic (1), USA (1)",
+  "2005-shows-with": "Eric Stephany (11), Rada Boukova (3), Matthieu Clainchard (3), Saâdane Afif (2), Jofroi Amaral (2), Elise Florenty (2), Ludovic Jecker (2), Pierre Joseph (2), Djamel Kokene (2), Svätopluk Mikyta (2), Eléonore de Montesquiou (2), Nicolas Moulin (2), Santiago Reyes (2), Bettina Samson (2), Maxime Thieffine (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Eric",
@@ -43,6 +43,60 @@
   "age": 43,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "192532-17463-2007-05-21",
+        "c": "FR"
+      },
+      {
+        "i": "192532-23549-2007-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "192532-23549-2007-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "192532-23549-2007-11-04",
+        "c": "FR"
+      },
+      {
+        "i": "192532-23549-2007-11-04",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "192532-17463-2007-05-21",
+        "c": "FR"
+      },
+      {
+        "i": "192532-17463-2008-05-21",
+        "c": "FR"
+      },
+      {
+        "i": "192532-17463-2008-05-21",
+        "c": "FR"
+      },
+      {
+        "i": "192532-11890-2008-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "192532-11890-2008-09-13",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "192532-12314-2009-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "192532-12314-2009-11-08",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "192532-22137-2010-03-04",
@@ -82,9 +136,35 @@
           "2010-10-01",
           "2010-10-24"
         ]
+      },
+      {
+        "i": "192532-20132-2010-12-14",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "192532-20132-2010-12-14",
+        "c": "FR"
+      },
+      {
+        "i": "192532-1955-2011-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "192532-1955-2011-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "192532-23446-2011-11-19",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "192532-23446-2011-11-19",
+        "c": "FR"
+      },
       {
         "i": "192532-28575-2012-06-09",
         "c": "DE",

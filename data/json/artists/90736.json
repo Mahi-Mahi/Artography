@@ -1,7 +1,7 @@
 {
   "id": "90736",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:41:04",
+  "timestamp": "2014-05-24 06:48:01",
   "name": "Vincent Ganivet",
   "surname": "Ganivet",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "4751",
-  "r01": "4799",
-  "r02": "6763",
-  "r03": "10363",
-  "r04": "16604",
-  "r05": "26111",
-  "r06": "34153",
-  "r07": "33840",
-  "r08": "44522",
+  "r00": "2754",
+  "r01": "2840",
+  "r02": "3319",
+  "r03": "4833",
+  "r04": "8074",
+  "r05": "13888",
+  "r06": "24411",
+  "r07": "33401",
+  "r08": "32849",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "47",
-  "2005-shows-biennials": "8",
-  "2005-shows-galleries": "8",
-  "2005-shows-museums": "25",
-  "2005-countries-total": "France (32), Germany (2), Netherlands (2), Belgium (1), Czech Republic (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Vincent Ganivet (37), Simon Boudvin (6), Dewar & Gicquel (5), Nicolas Milhé (5), Matthieu Clainchard (4), Mathieu Mercier (4), Carlos Amorales (3), Fayçal Baghriche (3), Guillaume Constantin (3), Ryan Gander (3), Camille Henrot (3), Zilvinas Kempinas (3), Emmanuelle Lainé (3), Sol LeWitt (3), Vincent Mauger (3), Vik Muniz (3), Kristina Solomoukha (3), Oscar Tuazon (3), Adrien Vescovi (3), Lawrence Weiner (3), Dove Allouche (2), Francis Alys (2), Farah Atassi (2), Davide Balula (2), Miquel Barceló (2), Robert Barry (2), Jean Michel Basquiat (2), Eric Baudart (2), Michael Beutler (2), Katinka Bock (2), Christian Boltanski (2), Mohamed Bourouissa (2), Guillaume Bresson (2), Michel de Broin (2), Daniel Buren (2), André Cadere (2), Pierre-Laurent Cassière (2), Julien Chevy (2), John Cornu (2), Stéphane Dafflon (2), Philippe Decrauzat (2), Damien Deroubaix (2), Bertrand Dezoteux (2), Ida Ekblad (2), Pierre Fisher (2), Nan Goldin (2), Douglas Gordon (2), Loris Gréaud (2), Jenny Holzer (2), Roni Horn (2), Hed",
+  "all-shows-total": "50",
+  "2005-shows-biennials": "9",
+  "2005-shows-galleries": "9",
+  "2005-shows-museums": "26",
+  "2005-countries-total": "France (35), Germany (2), Netherlands (2), Belgium (1), Czech Republic (1), Switzerland (1), USA (1)",
+  "2005-shows-with": "Vincent Ganivet (38), Simon Boudvin (6), Dewar & Gicquel (5), Nicolas Milhé (5), Matthieu Clainchard (4), Mathieu Mercier (4), Carlos Amorales (3), Fayçal Baghriche (3), Guillaume Constantin (3), Ryan Gander (3), Camille Henrot (3), Zilvinas Kempinas (3), Emmanuelle Lainé (3), Sol LeWitt (3), Vincent Mauger (3), Vik Muniz (3), Kristina Solomoukha (3), Oscar Tuazon (3), Adrien Vescovi (3), Lawrence Weiner (3), Dove Allouche (2), Francis Alys (2), Farah Atassi (2), Davide Balula (2), Miquel Barceló (2), Robert Barry (2), Jean Michel Basquiat (2), Eric Baudart (2), Michael Beutler (2), Katinka Bock (2), Christian Boltanski (2), Mohamed Bourouissa (2), Guillaume Bresson (2), Michel de Broin (2), Daniel Buren (2), André Cadere (2), Pierre-Laurent Cassière (2), Julien Chevy (2), John Cornu (2), Stéphane Dafflon (2), Philippe Decrauzat (2), Damien Deroubaix (2), Bertrand Dezoteux (2), Ida Ekblad (2), Pierre Fisher (2), Nan Goldin (2), Douglas Gordon (2), Loris Gréaud (2), Jenny Holzer (2), Roni Horn (2), Hed",
   "representing-galleries": "Yvon Lambert - Paris (108, rue Vieille du Temple, 75003 Paris, France); West Den Haag (Groenewegje 136, 2515 LR The Hague, Netherlands)",
   "collecting-museums": null,
   "first_name": "Vincent",
@@ -58,7 +58,55 @@
         ]
       }
     ],
+    "2006": [
+      {
+        "i": "90736-7851-2006-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "90736-7851-2006-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "90736-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "90736-12314-2006-11-17",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "90736-9850-2007-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "90736-9850-2007-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "90736-18149-2007-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "90736-18149-2007-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "90736-11627-2007-12-15",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "90736-22624-2008-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "90736-22624-2008-05-17",
+        "c": "FR"
+      },
       {
         "i": "90736-3989-2008-06-07",
         "c": "NL",
@@ -71,9 +119,124 @@
           "2008-06-07",
           "2008-07-05"
         ]
+      },
+      {
+        "i": "90736-17765-2008-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "90736-17765-2008-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "90736-8700-2008-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "90736-8700-2008-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "90736-18613-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "90736-18613-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "90736-11627-2007-12-15",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "90736-8996-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "90736-8996-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "90736-8678-2009-03-26",
+        "c": "FR"
+      },
+      {
+        "i": "90736-8678-2009-03-26",
+        "c": "FR"
+      },
+      {
+        "i": "90736-20624-2009-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "90736-20624-2009-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "90736-11771-2009-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "90736-11771-2009-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "90736-8678-2009-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "90736-8678-2009-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "90736-7851-2009-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "90736-7851-2009-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "90736-8678-2009-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "90736-8678-2009-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "90736-3989-2009-10-17",
+        "c": "NL",
+        "n": "Vincent Ganivet",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "The Hague",
+        "o": "West Den Haag",
+        "d": [
+          "2009-10-17",
+          "2009-11-14"
+        ]
       }
     ],
     "2010": [
+      {
+        "i": "90736-12129-2010-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "90736-12129-2010-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "90736-20542-2010-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "90736-20542-2010-01-23",
+        "c": "FR"
+      },
       {
         "i": "90736-22407-2010-06-05",
         "c": "BE",
@@ -99,9 +262,57 @@
           "2010-06-10",
           "2010-06-26"
         ]
+      },
+      {
+        "i": "90736-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "90736-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "90736-20082-2010-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "90736-20082-2010-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "90736-8281-2010-12-12",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "90736-8281-2010-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "90736-741-2011-01-05",
+        "c": "FR"
+      },
+      {
+        "i": "90736-741-2011-01-05",
+        "c": "FR"
+      },
+      {
+        "i": "90736-741-2011-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "90736-741-2011-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "90736-26376-2011-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "90736-26376-2011-03-11",
+        "c": "FR"
+      },
       {
         "i": "90736-13908-2011-06-11",
         "c": "DE",
@@ -116,6 +327,14 @@
         ]
       },
       {
+        "i": "90736-9060-2011-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "90736-9060-2011-06-11",
+        "c": "FR"
+      },
+      {
         "i": "90736-7285-2011-12-13",
         "c": "CZ",
         "n": "Eleventh Hour",
@@ -127,6 +346,14 @@
           "2011-12-13",
           "2012-02-26"
         ]
+      },
+      {
+        "i": "90736-1596-2011-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "90736-1596-2011-09-10",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -157,6 +384,54 @@
         ]
       },
       {
+        "i": "90736-1782-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "90736-1782-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "90736-27825-2012-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "90736-27825-2012-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "90736-9059-2012-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "90736-9059-2012-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "90736-29576-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "90736-29576-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "90736-8281-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "90736-8281-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "90736-18800-2012-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "90736-7850-2012-11-16",
+        "c": "FR"
+      },
+      {
         "i": "90736-10777-2012-12-01",
         "c": "US",
         "n": "Lost (in La)",
@@ -172,6 +447,14 @@
     ],
     "2013": [
       {
+        "i": "90736-18800-2012-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "90736-7850-2012-11-16",
+        "c": "FR"
+      },
+      {
         "i": "90736-10777-2012-12-01",
         "c": "US",
         "n": "Lost (in La)",
@@ -183,21 +466,40 @@
           "2012-12-01",
           "2013-01-27"
         ]
+      },
+      {
+        "i": "90736-10247-2013-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "90736-10247-2013-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "90736-29251-2013-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "90736-29251-2013-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "90736-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "90736-22493-2013-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "90736-22493-2013-10-02",
+        "c": "FR"
       }
     ],
-    "2009": [
+    "2014": [
       {
-        "i": "90736-3989-2009-10-17",
-        "c": "NL",
-        "n": "Vincent Ganivet",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "The Hague",
-        "o": "West Den Haag",
-        "d": [
-          "2009-10-17",
-          "2009-11-14"
-        ]
+        "i": "90736-29739-2013-10-12",
+        "c": "FR"
       }
     ]
   }

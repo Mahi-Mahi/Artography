@@ -1,7 +1,7 @@
 {
   "id": "86791",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:39:27",
+  "timestamp": "2014-05-24 06:46:38",
   "name": "Fabien Giraud",
   "surname": "Giraud",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sculpture",
-  "r00": "4579",
-  "r01": "4162",
-  "r02": "4122",
-  "r03": "4154",
-  "r04": "4356",
-  "r05": "5100",
-  "r06": "8001",
-  "r07": "8583",
-  "r08": null,
+  "r00": "4584",
+  "r01": "4267",
+  "r02": "3542",
+  "r03": "3377",
+  "r04": "3340",
+  "r05": "3482",
+  "r06": "4093",
+  "r07": "6652",
+  "r08": "7057",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
@@ -33,7 +33,7 @@
   "2005-shows-galleries": "9",
   "2005-shows-museums": "13",
   "2005-countries-total": "France (11), Germany (2), Spain (2), Switzerland (2), United Kingdom (2), USA (2), Australia (1), Belgium (1), Bosnia and Herzegovina (1), Finland (1), Mexico (1), Russia (1), United Arab Emirates (1)",
-  "2005-shows-with": "Fabien Giraud (26), Raphaël Siboni (14), Mariana Vassileva (4), Jeremy Deller (3), Dewar & Gicquel (3), Lucía Antonini (2), Renaud Auguste-Dormeuil (2), Guy Ben-Ner (2), Katinka Bock (2), Gaëlle Boucand (2), Sébastian Caillat (2), Carles Congost (2), Julien Discrit (2), Hubert Duprat (2), Fischerspooner (2), Pauline Fondevila (2), Adrian García (2), le Gentil Garçon (2), Shaun Gladwell (2), Sebastián Gordín (2), Arnaud Labelle-Rojoux (2), Benoît Maire (2), Philippe Mayaux (2), Jacopo Miliani (2), Anita Molinero (2), Laurent Montaron (2), Antonio Ortega (2), Bruno Peinado (2), Andres Senra (2), Abdul Vas (2), Yang Fudong (2)",
+  "2005-shows-with": "Fabien Giraud (26), Raphaël Siboni (14), Mariana Vassileva (4), Jeremy Deller (3), Dewar & Gicquel (3), Lucía Antonini (2), Renaud Auguste-Dormeuil (2), Guy Ben-Ner (2), Katinka Bock (2), Gaëlle Boucand (2), Sébastian Caillat (2), Carles Congost (2), Julien Discrit (2), Hubert Duprat (2), Fischerspooner (2), Pauline Fondevila (2), Adrian García (2), le Gentil Garçon (2), Shaun Gladwell (2), Sebastián Gordín (2), Arnaud Labelle-Rojoux (2), Benoît Maire (2), Philippe Mayaux (2), Alex McQuilkin (2), Jacopo Miliani (2), Anita Molinero (2), Laurent Montaron (2), Antonio Ortega (2), Bruno Peinado (2), Andres Senra (2), Abdul Vas (2), Yang Fudong (2)",
   "representing-galleries": "Rosascape (99 rue du Faubourg du Temple, 75010 Paris, France)",
   "collecting-museums": null,
   "first_name": "Fabien",
@@ -55,6 +55,22 @@
           "2006-03-16",
           "2006-03-20"
         ]
+      },
+      {
+        "i": "86791-2709-2006-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "86791-2709-2006-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "86791-1782-2006-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "86791-1782-2006-09-14",
+        "c": "FR"
       },
       {
         "i": "86791-1825-2006-10-19",
@@ -85,6 +101,22 @@
         ]
       },
       {
+        "i": "86791-10870-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "86791-10870-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "86791-16191-2007-08-03",
+        "c": "FR"
+      },
+      {
+        "i": "86791-16191-2007-08-03",
+        "c": "FR"
+      },
+      {
         "i": "86791-3708-2007-09-15",
         "c": "FI",
         "n": "Tehdas",
@@ -96,9 +128,17 @@
           "2007-09-15",
           "2007-09-18"
         ]
+      },
+      {
+        "i": "86791-10726-2007-10-18",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "86791-10726-2007-10-18",
+        "c": "FR"
+      },
       {
         "i": "86791-1146-2008-01-19",
         "c": "DE",
@@ -137,6 +177,22 @@
           "2008-05-10",
           "2008-06-01"
         ]
+      },
+      {
+        "i": "86791-1782-2008-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "86791-1782-2008-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "86791-8128-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "86791-8128-2008-06-06",
+        "c": "FR"
       },
       {
         "i": "86791-5305-2008-06-22",
@@ -178,6 +234,22 @@
         ]
       },
       {
+        "i": "86791-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "86791-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "86791-4195-2009-06-26",
+        "c": "FR"
+      },
+      {
+        "i": "86791-4195-2009-06-26",
+        "c": "FR"
+      },
+      {
         "i": "86791-7990-2009-10-09",
         "c": "AU",
         "n": "Fabien Giraud & Raphaël Siboni",
@@ -189,6 +261,14 @@
           "2009-10-09",
           "2009-11-14"
         ]
+      },
+      {
+        "i": "86791-2709-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "86791-2709-2009-10-16",
+        "c": "FR"
       },
       {
         "i": "86791--2009-11-17",
@@ -284,6 +364,22 @@
         ]
       },
       {
+        "i": "86791-4195-2010-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "86791-4195-2010-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "86791-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "86791-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
         "i": "86791-8587-2010-09-07",
         "c": "RU",
         "n": "Res Publica",
@@ -323,6 +419,14 @@
           "2011-09-16",
           "2011-10-29"
         ]
+      },
+      {
+        "i": "86791-27966-2011-11-28",
+        "c": "FR"
+      },
+      {
+        "i": "86791-27966-2011-11-28",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -351,6 +455,30 @@
           "2012-02-11",
           "2012-03-17"
         ]
+      },
+      {
+        "i": "86791-25336-2012-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "86791-25336-2012-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "86791-27966-2012-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "86791-27966-2012-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "86791-16191-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "86791-16191-2012-07-08",
+        "c": "FR"
       },
       {
         "i": "86791-21789-2012-07-14",

@@ -1,7 +1,7 @@
 {
   "id": "9466",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:06:43",
+  "timestamp": "2014-05-24 06:18:42",
   "name": "Jean-Michel Wicker",
   "surname": "Wicker",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "9905",
-  "r01": "11807",
-  "r02": "10488",
-  "r03": "11160",
-  "r04": "17514",
-  "r05": "15943",
-  "r06": "16634",
-  "r07": "19345",
-  "r08": "16194",
+  "r00": "5983",
+  "r01": "8089",
+  "r02": "11536",
+  "r03": "9787",
+  "r04": "10750",
+  "r05": "21945",
+  "r06": "18559",
+  "r07": "19530",
+  "r08": "24529",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "22",
+  "all-shows-total": "24",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "Germany (4), France (3), Switzerland (2), United Kingdom (2), Denmark (1), USA (1)",
-  "2005-shows-with": "Jean-Michel Wicker (10), Nils Bech (2), Carina Brandes (2), Andreas Dobler (2), Christian Falsnaes (2), Jos de Gruyter & Harald Thys (2), Florian Hecker (2), Karl Holmqvist (2), Oscar Murillo (2), Noële Ody (2), Max Peintner (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "Germany (4), France (3), Switzerland (3), United Kingdom (3), Denmark (1), USA (1)",
+  "2005-shows-with": "Jean-Michel Wicker (12), Andreas Dobler (3), Karl Holmqvist (3), Nils Bech (2), Carina Brandes (2), Christian Falsnaes (2), Vidya Gastaldon (2), Jos de Gruyter & Harald Thys (2), Florian Hecker (2), Oscar Murillo (2), Noële Ody (2), Max Peintner (2)",
   "representing-galleries": "Sandy Brown (Goebenstrasse 7, 10783 Berlin, Germany); Galerie Sandra Buergel (Hedemannstr. 25, 10969 Berlin, Germany)",
   "collecting-museums": null,
   "first_name": "Jean-Michel",
@@ -56,6 +56,16 @@
           "2005-09-15",
           "2005-11-12"
         ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "9466-9120-2006-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "9466-9120-2006-02-25",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -100,6 +110,14 @@
       }
     ],
     "2008": [
+      {
+        "i": "9466-18906-2008-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "9466-18906-2008-05-24",
+        "c": "FR"
+      },
       {
         "i": "9466-7027-2008-07-02",
         "c": "GB",
@@ -253,6 +271,22 @@
       }
     ],
     "2013": [
+      {
+        "i": "9466-6620-2013-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "9466-6620-2013-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "9466-7912-2013-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "9466-7912-2013-02-17",
+        "c": "FR"
+      },
       {
         "i": "9466-6884-2013-06-30",
         "c": "US",

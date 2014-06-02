@@ -1,7 +1,7 @@
 {
   "id": "12727",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:08:15",
+  "timestamp": "2014-05-24 06:19:58",
   "name": "Stephane Steiner",
   "surname": "Steiner",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "21386",
-  "r01": "19590",
-  "r02": "16599",
-  "r03": "14903",
-  "r04": "12981",
-  "r05": "11622",
-  "r06": "9788",
-  "r07": "7767",
-  "r08": "6493",
+  "r00": "15952",
+  "r01": "35432",
+  "r02": "44606",
+  "r03": "33942",
+  "r04": "27355",
+  "r05": "19946",
+  "r06": "17170",
+  "r07": "12887",
+  "r08": "9216",
   "awards": null,
   "website": null,
   "all-shows-first": "1993",
-  "all-shows-total": "27",
-  "2005-shows-biennials": "12",
-  "2005-shows-galleries": "12",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (14)",
-  "2005-shows-with": "Stephane Steiner (11), Thierry Lagalla (7), Han Hoogerbrugge (5), Karine Rougier (5), Damien Berthier (4), Michel de Broin (4), Arnaud Labelle-Rojoux (4), Jerôme Robbe (4), Florent Mattei (3), Emmanuel Régent (3), Jean-Luc Verna (3), Caroline Bach (2), Olivier Leroi (2), Gérald Panighi (2), Stéphane Protic (2), Lionel Scoccimaro (2), Sabry Tchalgadjieff (2)",
-  "representing-galleries": "Le CABINET (62, Rue Saint Sabin, 75011 Paris, France)",
+  "all-shows-total": "31",
+  "2005-shows-biennials": "15",
+  "2005-shows-galleries": "15",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (17), Switzerland (1)",
+  "2005-shows-with": "Stephane Steiner (16), Thierry Lagalla (12), Han Hoogerbrugge (8), Emmanuel Régent (8), Karine Rougier (8), Arnaud Labelle-Rojoux (7), Stéphane Protic (7), Damien Berthier (6), Michel de Broin (6), Florent Mattei (6), Caroline Bach (5), Jerôme Robbe (5), Thierry Agnone (4), Gérald Panighi (4), Philippe Ramette (3), Ben Vautier (3), Jean-Luc Verna (3), Julien Blaine (2), Frédéric Clavère (2), Claire Dantzer (2), Isabelle Giovacchini (2), Olivier Leroi (2), Frédéric Malette (2), Lionel Scoccimaro (2), Sabry Tchalgadjieff (2), Cédric Teisseire (2)",
+  "representing-galleries": "Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France)",
   "collecting-museums": "FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Stephane",
   "last_name": "Steiner",
@@ -43,7 +43,25 @@
   "age": 51,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "12727-10518-2005-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "12727-10518-2005-09-16",
+        "c": "FR"
+      }
+    ],
     "2006": [
+      {
+        "i": "12727-7851-2006-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "12727-7851-2006-09-30",
+        "c": "FR"
+      },
       {
         "i": "12727-1248-2006-05-20",
         "c": "CH",
@@ -56,6 +74,130 @@
           "2006-05-20",
           "2006-07-09"
         ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "12727-5450-2008-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "12727-5450-2008-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "12727-16752-2008-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "12727-16752-2008-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "12727-19953-2008-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "12727-19953-2008-10-25",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "12727-17765-2009-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "12727-17765-2009-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "12727-19953-2009-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "12727-19953-2009-01-30",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "12727-16752-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "12727-16752-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "12727-19953-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "12727-19953-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "12727-16752-2010-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "12727-16752-2010-11-27",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "12727-16752-2011-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "12727-16752-2011-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "12727-16752-2011-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "12727-16752-2011-06-18",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "12727-16752-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "12727-16752-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "12727-28294-2013-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "12727-28294-2013-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "12727-28767-2013-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "12727-28767-2013-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "12727-28767-2013-12-12",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "12727-28767-2013-12-12",
+        "c": "FR"
       }
     ]
   }

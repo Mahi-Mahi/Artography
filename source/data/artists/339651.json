@@ -1,7 +1,7 @@
 {
   "id": "339651",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:17:39",
+  "timestamp": "2014-05-24 08:12:24",
   "name": "Claire Chesnier",
   "surname": "Chesnier",
   "nationality": "FR",
@@ -16,9 +16,9 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "34711",
-  "r01": "33687",
-  "r02": null,
+  "r00": "24772",
+  "r01": "26466",
+  "r02": "25238",
   "r03": null,
   "r04": null,
   "r05": null,
@@ -29,11 +29,11 @@
   "website": null,
   "all-shows-first": "2012",
   "all-shows-total": "10",
-  "2005-shows-biennials": "6",
-  "2005-shows-galleries": "6",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (8), Belgium (1)",
-  "2005-shows-with": "Claire Chesnier (8), John Cornu (3), Nicolas Chardon (2), Jennifer Douzenel (2), Vincent Dulom (2), Isabelle Ferreira (2), Olivier Filippi (2), Isabelle Giovacchini (2), Emmanuel Lagarrigue (2), Emmanuel van der Meulen (2), Adam Vackar (2)",
+  "2005-countries-total": "France (9), Belgium (1)",
+  "2005-shows-with": "Claire Chesnier (9), John Cornu (3), Vincent Dulom (3), Nicolas Chardon (2), Jennifer Douzenel (2), Isabelle Ferreira (2), Olivier Filippi (2), Isabelle Giovacchini (2), Emmanuel Lagarrigue (2), Emmanuel van der Meulen (2), Claire Tabouret (2), Adam Vackar (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Claire",
@@ -43,7 +43,57 @@
   "age": 28,
   "age_range": "26-40",
   "expos": {
+    "2012": [
+      {
+        "i": "339651-28142-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "339651-28142-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "339651-27613-2012-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "339651-27613-2012-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "339651-10247-2012-12-09",
+        "c": "FR"
+      },
+      {
+        "i": "339651-1894-2012-12-09",
+        "c": "FR"
+      },
+      {
+        "i": "339651-1829-2012-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "339651-1829-2012-01-20",
+        "c": "FR"
+      }
+    ],
     "2013": [
+      {
+        "i": "339651-10247-2012-12-09",
+        "c": "FR"
+      },
+      {
+        "i": "339651-1894-2012-12-09",
+        "c": "FR"
+      },
+      {
+        "i": "339651-26256-2013-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "339651-26256-2013-04-03",
+        "c": "FR"
+      },
       {
         "i": "339651-29403-2013-04-18",
         "c": "BE",
@@ -56,6 +106,22 @@
           "2013-04-18",
           "2013-04-21"
         ]
+      },
+      {
+        "i": "339651-26257-2013-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "339651-26257-2013-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "339651-7348-2013-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "339651-7348-2013-06-22",
+        "c": "FR"
       }
     ]
   }

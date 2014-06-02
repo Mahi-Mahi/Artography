@@ -1,7 +1,7 @@
 {
   "id": "115833",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:50:45",
+  "timestamp": "2014-05-24 06:56:21",
   "name": "Silvana Reggiardo",
   "surname": "Reggiardo",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "45548",
-  "r01": "41240",
-  "r02": "37176",
-  "r03": "32723",
-  "r04": "34688",
-  "r05": "29528",
-  "r06": "24874",
-  "r07": "20460",
-  "r08": "25524",
+  "r00": "49687",
+  "r01": "61852",
+  "r02": "55849",
+  "r03": "50365",
+  "r04": "44050",
+  "r05": "49009",
+  "r06": "39426",
+  "r07": "30477",
+  "r08": "23434",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "7",
+  "all-shows-total": "8",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (2)",
-  "2005-shows-with": "Isabelle Cornaro (2), Silvana Reggiardo (2)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (3)",
+  "2005-shows-with": "Silvana Reggiardo (3), Isabelle Cornaro (2), Mathieu Mercier (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Silvana",
@@ -43,5 +43,35 @@
   "age": 47,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "115833-2528-2006-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "115833-2528-2006-09-24",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "115833-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "115833-10227-2010-05-07",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "115833-28664-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "115833-28664-2012-07-06",
+        "c": "FR"
+      }
+    ]
   }
 }

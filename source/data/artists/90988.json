@@ -1,7 +1,7 @@
 {
   "id": "90988",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:41:09",
+  "timestamp": "2014-05-24 06:48:05",
   "name": "Daniel Perrier",
   "surname": "Perrier",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "24546",
-  "r01": "23043",
-  "r02": "20532",
-  "r03": "18134",
-  "r04": "20912",
-  "r05": "18611",
-  "r06": "15672",
-  "r07": "13495",
-  "r08": "12184",
+  "r00": "36659",
+  "r01": "30538",
+  "r02": "27231",
+  "r03": "21929",
+  "r04": "17972",
+  "r05": "21322",
+  "r06": "17964",
+  "r07": "14343",
+  "r08": "11941",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "9",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (4)",
-  "2005-shows-with": "Daniel Perrier (3), Olivier Nottellet (2)",
+  "2005-countries-total": "France (6)",
+  "2005-shows-with": "Daniel Perrier (4), Olivier Nottellet (2)",
   "representing-galleries": "Galerie Martine et Thibault de La Châtre (4 rue Saintonge, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Daniel",
@@ -71,6 +71,64 @@
           "2005-11-11",
           "2006-01-29"
         ]
+      },
+      {
+        "i": "90988-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "90988-12314-2006-11-17",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "90988-1746-2007-12-01",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "90988-1746-2007-12-01",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "90988-1746-2009-01-24",
+        "c": "FR"
+      },
+      {
+        "i": "90988-1746-2009-01-24",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "90988-1746-2010-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "90988-1746-2010-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "90988-1746-2010-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "90988-1746-2010-01-29",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "90988-10235-2013-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "90988-10235-2013-07-07",
+        "c": "FR"
       }
     ]
   }

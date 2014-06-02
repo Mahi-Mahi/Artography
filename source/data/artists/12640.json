@@ -1,7 +1,7 @@
 {
   "id": "12640",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:08:12",
+  "timestamp": "2014-05-24 06:19:56",
   "name": "Pierre Gonnord",
   "surname": "Gonnord",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "2395",
-  "r01": "2355",
-  "r02": "2164",
-  "r03": "2043",
-  "r04": "2219",
-  "r05": "2990",
-  "r06": "2908",
-  "r07": "4928",
-  "r08": "4762",
+  "r00": "2122",
+  "r01": "2243",
+  "r02": "2066",
+  "r03": "1775",
+  "r04": "1599",
+  "r05": "1780",
+  "r06": "2475",
+  "r07": "2346",
+  "r08": "4338",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "56",
+  "all-shows-total": "59",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "26",
-  "2005-countries-total": "Spain (16), France (6), USA (3), Argentina (2), Portugal (2), China (1), Finland (1), Italy (1), Norway (1), Russia (1), Slovakia (1), South Korea (1)",
-  "2005-shows-with": "Pierre Gonnord (26), Dionisio González (8), Ángel Marcos (8), Ignasi Aballí (7), Cristina Lucas (7), José Manuel Ballester (6), Gonzalo Puch (6), Eugenio Ampudia (5), Bleda y Rosa (5), Gregory Crewdson (5), Joan Fontcuberta (5), Aitor Ortiz (5), Thomas Ruff (5), Ana Laura Aláez (4), Manu Arregui (4), Manolo Bautista (4), Isidro Blasco (4), Cabello / Carceller (4), Daniel Canogar (4), Naia del Castillo (4), Toni Catany (4), Jordi Colomer (4), German Gómez (4), Alicia Martín (4), Marina Núñez (4), Sergio Prego (4), Miguel Rio Branco (4), MP & MP Rosado (4), Juan Uslé (4), Valentín Vallhonrat (4), Carlos Aires (3), Helena Almeida (3), Chema Alvargonzález (3), Aziz & Cucher (3), Eric Baudelaire (3), Francesc Català Roca (3), Stéphane Couturier (3), Victoria Diehl (3), Rineke Dijkstra (3), Jorge Galindo (3), Ruth Gómez (3), Paul Graham (3), Andreas Gursky (3), Chema Madoz (3), Anna Malagrida (3), José María Mellado (3), Yasumasa Morimura (3), Vik Muniz (3), Erwin Olaf (3), Carlos Pérez Siquier (3",
+  "2005-shows-museums": "29",
+  "2005-countries-total": "Spain (18), France (6), USA (3), Argentina (2), Portugal (2), China (1), Finland (1), Italy (1), Norway (1), Russia (1), Slovakia (1), South Korea (1), Sweden (1)",
+  "2005-shows-with": "Pierre Gonnord (29), Dionisio González (9), Ignasi Aballí (8), Ángel Marcos (8), Cristina Lucas (7), José Manuel Ballester (6), Joan Fontcuberta (6), Aitor Ortiz (6), Gonzalo Puch (6), Thomas Ruff (6), Eugenio Ampudia (5), Bleda y Rosa (5), Toni Catany (5), Gregory Crewdson (5), Marina Núñez (5), Sergio Prego (5), Miguel Rio Branco (5), Ana Laura Aláez (4), Pilar Albarracín (4), Helena Almeida (4), Chema Alvargonzález (4), Manu Arregui (4), Manolo Bautista (4), Isidro Blasco (4), Cabello / Carceller (4), Daniel Canogar (4), Naia del Castillo (4), Francesc Català Roca (4), Jordi Colomer (4), German Gómez (4), Alicia Martín (4), MP & MP Rosado (4), Montserrat Soto (4), Juan Uslé (4), Valentín Vallhonrat (4), Joana Vasconcelos (4), Marina Abramovic (3), Carlos Aires (3), Aziz & Cucher (3), Per Barclay (3), Eric Baudelaire (3), Stéphane Couturier (3), Victoria Diehl (3), Rineke Dijkstra (3), Jorge Galindo (3), Alberto García Alix (3), Ruth Gómez (3), Paul Graham (3), Andreas Gursky (3), Alfredo J",
   "representing-galleries": "Galería Juana de Aizpuru (Barquillo 44, 1°, 28004 Madrid, Spain); Hasted Kraeutler (537 West 24th Street, 10011 New York City, NY, USA)",
   "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Kadist Art Foundation (19 bis -21 rue Trois Fréres, 75018 Paris, France); Musac - Museo de Arte Contemporáneo de Castilla y León (Avenida de los Reyes Leoneses 24, 24008 Léon, Spain); Es Baluard Museu d’Art Modern (Plaça Porta de Santa Catalina, s/n, 07012 Palma de Mallorca, Spain); Museo de Arte Moderno y Contemporáneo de Santander (MAS) (C/Rubio 6, 39007 Santander, Spain); Patio Herreriano - Museo de Arte Contemporáneo Español (Calle Jorge Guillén 6, 47003 Valladolid, Spain); ARTIUM - Basque Museum Center of Contemporary Art (C/ Francia 24, 01002 Vitoria-Gasteiz, Spain)",
   "first_name": "Pierre",
@@ -82,6 +82,14 @@
           "2005-09-10",
           "2005-12-06"
         ]
+      },
+      {
+        "i": "12640-10516-2005-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "12640-10516-2005-02-23",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -125,6 +133,22 @@
           "2006-03-09",
           "2007-02-28"
         ]
+      },
+      {
+        "i": "12640-10244-2007-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "12640-10244-2007-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "12640-10516-2007-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "12640-10516-2007-06-13",
+        "c": "FR"
       },
       {
         "i": "12640-1586-2007-09-07",
@@ -285,6 +309,14 @@
         ]
       },
       {
+        "i": "12640-21359-2008-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "12640-21359-2008-07-08",
+        "c": "FR"
+      },
+      {
         "i": "12640-7708-2008-10-30",
         "c": "KR",
         "n": "Power of photography",
@@ -417,6 +449,14 @@
         ]
       },
       {
+        "i": "12640-8997-2009-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "12640-8997-2009-01-30",
+        "c": "FR"
+      },
+      {
         "i": "12640-6182-2009-10-16",
         "c": "IT",
         "n": "Testimoni/Testigos",
@@ -482,6 +522,14 @@
           "2010-01-23",
           "2010-03-21"
         ]
+      },
+      {
+        "i": "12640-8997-2010-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "12640-8997-2010-01-30",
+        "c": "FR"
       },
       {
         "i": "12640-18459-2010-02-05",
@@ -586,6 +634,14 @@
           "2010-04-17",
           "2010-05-19"
         ]
+      },
+      {
+        "i": "12640-10244-2010-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "12640-10244-2010-05-26",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -761,6 +817,14 @@
           "2013-09-14",
           "2014-03-16"
         ]
+      },
+      {
+        "i": "12640-8997-2013-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "12640-28414-2013-10-01",
+        "c": "FR"
       }
     ],
     "2014": [
@@ -776,6 +840,14 @@
           "2013-09-14",
           "2014-03-16"
         ]
+      },
+      {
+        "i": "12640-8997-2013-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "12640-28414-2013-10-01",
+        "c": "FR"
       }
     ]
   }

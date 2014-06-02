@@ -1,7 +1,7 @@
 {
   "id": "200196",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:23:51",
+  "timestamp": "2014-05-24 07:25:03",
   "name": "Frederic Vincent",
   "surname": "Vincent",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "30482",
-  "r01": "31561",
-  "r02": "28474",
-  "r03": "25745",
-  "r04": "25149",
-  "r05": "66974",
-  "r06": "72092",
-  "r07": "63895",
-  "r08": "57883",
+  "r00": "10454",
+  "r01": "13720",
+  "r02": "16184",
+  "r03": "19805",
+  "r04": "16810",
+  "r05": "20286",
+  "r06": "54662",
+  "r07": "54977",
+  "r08": "45214",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "8",
+  "all-shows-total": "10",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (6), Austria (1)",
-  "2005-shows-with": "Frederic Vincent (5), Cannelle Tanc (4), Michel Blazy (2), Louise Bourgeois (2), Henri Chopin (2), Arnaud Labelle-Rojoux (2), Andy Warhol (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (8), Austria (1)",
+  "2005-shows-with": "Frederic Vincent (7), Cannelle Tanc (5), Jean-Michel Albèrola (2), Joseph Beuys (2), Michel Blazy (2), Christian Boltanski (2), Louise Bourgeois (2), Henri Chopin (2), William Copley (2), Robert Filliou (2), Arnaud Labelle-Rojoux (2), Stephane Lecomte (2), Claude Rutault (2), Gérard Titus-Carmel (2), Andy Warhol (2), Dan Wynn (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Frederic",
@@ -71,6 +71,60 @@
           "2008-03-13",
           "2008-03-22"
         ]
+      },
+      {
+        "i": "200196-4252-2008-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "200196-4252-2008-09-17",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "200196-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "200196-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "200196-27918-2009-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "200196-27918-2009-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "200196-7030-2009-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "200196-7030-2009-04-16",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "200196-10825-2010-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "200196-10825-2010-10-08",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "200196-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "200196-10825-2013-09-21",
+        "c": "FR"
       }
     ]
   }

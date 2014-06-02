@@ -1,7 +1,7 @@
 {
   "id": "297498",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:01:38",
+  "timestamp": "2014-05-24 07:58:19",
   "name": "Philippe Colon",
   "surname": "Colon",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "76364",
-  "r01": "72199",
-  "r02": "83830",
-  "r03": "76868",
-  "r04": "69121",
-  "r05": "61321",
-  "r06": "53670",
-  "r07": "46075",
-  "r08": "38810",
+  "r00": "81847",
+  "r01": "84459",
+  "r02": "82329",
+  "r03": "111862",
+  "r04": "103626",
+  "r05": "87635",
+  "r06": "73910",
+  "r07": "61558",
+  "r08": "50891",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "4",
-  "2005-shows-biennials": null,
-  "2005-shows-galleries": null,
+  "all-shows-total": "5",
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (1)",
-  "2005-shows-with": null,
+  "2005-countries-total": "France (2)",
+  "2005-shows-with": "Philippe Colon (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Philippe",
@@ -43,5 +43,25 @@
   "age": 50,
   "age_range": "41-60",
   "expos": {
+    "2012": [
+      {
+        "i": "297498-11850-2012-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "297498-11850-2012-04-03",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "297498-11850-2006-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "297498-11850-2006-09-21",
+        "c": "FR"
+      }
+    ]
   }
 }

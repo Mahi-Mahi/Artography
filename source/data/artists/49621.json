@@ -1,7 +1,7 @@
 {
   "id": "49621",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:24:01",
+  "timestamp": "2014-05-24 06:33:31",
   "name": "Julien Audebert",
   "surname": "Audebert",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "8140",
-  "r01": "10753",
-  "r02": "13169",
-  "r03": "13806",
-  "r04": "12035",
-  "r05": "10956",
-  "r06": "17837",
-  "r07": "18632",
-  "r08": "24803",
+  "r00": "6217",
+  "r01": "6056",
+  "r02": "9046",
+  "r03": "11582",
+  "r04": "12817",
+  "r05": "10597",
+  "r06": "9423",
+  "r07": "16005",
+  "r08": "16540",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "25",
+  "all-shows-total": "26",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "12",
-  "2005-countries-total": "France (14), Germany (2), China (1), USA (1)",
-  "2005-shows-with": "Julien Audebert (14), Pierre Ardouvin (4), Claude Closky (3), Richard Fauguet (3), Camille Henrot (3), Claude Lévêque (3), Mathieu Kleyebe Abonnenc (2), Adam Adach (2), Francis Alys (2), Renaud Auguste-Dormeuil (2), Jean-Marc Bustamante (2), Philippe Cognée (2), Julien Crépieux (2), Johan Creten (2), Philippe Decrauzat (2), Marc Desgrandchamps (2), Eric Duyckaerts (2), Daniel Firman (2), Amy Granat (2), Laurent Grasso (2), Lothar Hempel (2), Edi Hila (2), Rachel Labastie (2), Natacha Lesueur (2), Loriot & Mélia (2), Olivier Masmonteil (2), Mathieu Mercier (2), Anita Molinero (2), Jonathan Monk (2), Laurent Montaron (2), François Morellet (2), Marylène Negro (2), Lucien Pelen (2), Bruno Perramant (2), Zineb Sedira (2), Patrick Tosani (2), Erwin Wurm (2)",
+  "2005-shows-museums": "13",
+  "2005-countries-total": "France (15), Germany (2), China (1), USA (1)",
+  "2005-shows-with": "Julien Audebert (15), Pierre Ardouvin (4), Claude Closky (3), Richard Fauguet (3), Camille Henrot (3), Claude Lévêque (3), Mathieu Kleyebe Abonnenc (2), Adam Adach (2), Francis Alys (2), Renaud Auguste-Dormeuil (2), Jean-Marc Bustamante (2), Philippe Cognée (2), Julien Crépieux (2), Johan Creten (2), Philippe Decrauzat (2), Marcelline Delbecq (2), Marc Desgrandchamps (2), Gino de Dominicis (2), Eric Duyckaerts (2), Daniel Firman (2), Ryan Gander (2), Amy Granat (2), Laurent Grasso (2), Lothar Hempel (2), Edi Hila (2), Rachel Labastie (2), Natacha Lesueur (2), Loriot & Mélia (2), Kris Martin (2), Olivier Masmonteil (2), Mathieu Mercier (2), Anita Molinero (2), Jonathan Monk (2), Laurent Montaron (2), François Morellet (2), Marylène Negro (2), Lucien Pelen (2), Bruno Perramant (2), Zineb Sedira (2), Hiroshi Sugimoto (2), Patrick Tosani (2), Erwin Wurm (2)",
   "representing-galleries": "Art:Concept (13 rue des Arquebusiers, 75003 Paris, France)",
   "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France)",
   "first_name": "Julien",
@@ -56,9 +56,53 @@
           "2005-10-01",
           "2005-12-04"
         ]
+      },
+      {
+        "i": "49621-8206-2005-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "49621-8206-2005-10-20",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "49621-9475-2006-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "49621-9475-2006-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "49621-9477-2006-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "49621-9477-2006-04-01",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "49621-8128-2007-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "49621-8128-2007-02-17",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "49621-8128-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "49621-8128-2008-06-06",
+        "c": "FR"
+      },
       {
         "i": "49621-3569-2008-10-25",
         "c": "DE",
@@ -71,6 +115,22 @@
           "2008-10-25",
           "2008-12-20"
         ]
+      },
+      {
+        "i": "49621-8241-2008-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "49621-8241-2008-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "49621-1797-2008-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "49621-1797-2008-03-15",
+        "c": "FR"
       },
       {
         "i": "49621-7269-2008-06-04",
@@ -99,7 +159,47 @@
         ]
       }
     ],
+    "2009": [
+      {
+        "i": "49621-21098-2009-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "49621-21098-2009-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "49621-22624-2009-12-17",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "49621-8548-2011-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "49621-8548-2011-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "49621-1797-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "49621-1797-2011-04-02",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "49621-10519-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "49621-10519-2012-01-28",
+        "c": "FR"
+      },
       {
         "i": "49621-814-2012-03-03",
         "c": "DE",
@@ -112,6 +212,64 @@
           "2012-03-03",
           "2012-04-15"
         ]
+      },
+      {
+        "i": "49621-2260-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "49621-2260-2012-09-07",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "49621-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "49621-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "49621-8997-2013-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "49621-8997-2013-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "49621-22704-2013-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "49621-22704-2013-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "49621-9475-2013-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "49621-9475-2013-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "49621-29739-2013-10-12",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "49621-29739-2013-10-12",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "49621-22624-2009-12-17",
+        "c": "FR"
       }
     ]
   }

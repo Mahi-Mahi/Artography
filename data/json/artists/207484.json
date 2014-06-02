@@ -1,7 +1,7 @@
 {
   "id": "207484",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:26:40",
+  "timestamp": "2014-05-24 07:27:32",
   "name": "Pauline Bastard",
   "surname": "Bastard",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "9080",
-  "r01": "9979",
-  "r02": "23729",
-  "r03": "27823",
-  "r04": "42660",
-  "r05": "80514",
-  "r06": null,
+  "r00": "6028",
+  "r01": "6093",
+  "r02": "6852",
+  "r03": "17705",
+  "r04": "21202",
+  "r05": "36254",
+  "r06": "75482",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "15",
   "2005-shows-galleries": "15",
   "2005-shows-museums": "12",
-  "2005-countries-total": "France (16), Germany (3), Switzerland (3), USA (3), Italy (2), Brazil (1), Colombia (1), Czech Republic (1), Netherlands (1), Spain (1), United Kingdom (1)",
-  "2005-shows-with": "Pauline Bastard (27), Iván Argote (10), Giulio Delvè (3), Dove Allouche (2), Victor Ash (2), Amina Bech (2), Thorbjørn Bechmann (2), Celesta Bufano (2), Enzo Calibè (2), Karim Charredib (2), Lucie Chaumont (2), Dionysis Christofilogiannis (2), John Cornu (2), Danilo Correale (2), Christian Costa (2), Stéphane Couturier (2), Raffaella Crispino (2), Soren Dahlgaard (2), Baptiste Debombourg (2), Maria Adele Del Vecchio (2), Kim Lien Desault (2), Sebastiano Deva (2), Stanislao Di Giugno (2), Valentino Diego (2), Guillaume Dimanche (2), Hans-Peter Feldmann (2), Angelo Ferrillo (2), Robert Filliou (2), Corrado Folinea (2), Frank Franzen (2), Anna Fusco (2), Helidon Gjergji (2), Sophie Hjerl (2), Roxy Inthebox (2), Emeric Lhuisset (2), Peter Lind (2), Federico Maddalozzo (2), Salvatore Manzi (2), David Marin (2), Raffaela Mariniello (2), Valentina Miorandi (2), Andrea Nacciarriti (2), Uriel Orlow (2), Roberto Paci Daló (2), Melina Pena (2), Walter Picardi (2), Daniela Politelli (2), Anja Puntari (2), Fatima Ra",
+  "2005-countries-total": "France (16), USA (4), Germany (3), Switzerland (3), Italy (2), Brazil (1), Colombia (1), Czech Republic (1), Netherlands (1), Spain (1), United Kingdom (1)",
+  "2005-shows-with": "Pauline Bastard (28), Iván Argote (11), Giulio Delvè (3), Dove Allouche (2), Victor Ash (2), Amina Bech (2), Thorbjørn Bechmann (2), Celesta Bufano (2), Enzo Calibè (2), Karim Charredib (2), Lucie Chaumont (2), Dionysis Christofilogiannis (2), John Cornu (2), Danilo Correale (2), Christian Costa (2), Stéphane Couturier (2), Raffaella Crispino (2), Soren Dahlgaard (2), Baptiste Debombourg (2), Maria Adele Del Vecchio (2), Kim Lien Desault (2), Sebastiano Deva (2), Stanislao Di Giugno (2), Valentino Diego (2), Guillaume Dimanche (2), Didier Faustino (2), Hans-Peter Feldmann (2), Angelo Ferrillo (2), Robert Filliou (2), Corrado Folinea (2), Frank Franzen (2), Anna Fusco (2), Helidon Gjergji (2), Sophie Hjerl (2), Roxy Inthebox (2), Emeric Lhuisset (2), Peter Lind (2), Federico Maddalozzo (2), Salvatore Manzi (2), David Marin (2), Raffaela Mariniello (2), Valentina Miorandi (2), Andrea Nacciarriti (2), Uriel Orlow (2), Roberto Paci Daló (2), Melina Pena (2), Walter Picardi (2), Daniela Politelli (2), Anja P",
   "representing-galleries": "Galerie Eva Hober (35 - 37, rue Chapon, 75003 Paris, France); Barbara Seiler Galerie (Anwandstrasse 67, 8004 Zurich, Switzerland)",
   "collecting-museums": null,
   "first_name": "Pauline",
@@ -112,6 +112,14 @@
         ]
       },
       {
+        "i": "207484-16728-2009-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "207484-16728-2009-06-25",
+        "c": "FR"
+      },
+      {
         "i": "207484-8346-2009-08-12",
         "c": "CO",
         "n": "Exposición Internacional",
@@ -123,9 +131,41 @@
           "2009-08-12",
           "2009-09-06"
         ]
+      },
+      {
+        "i": "207484-20624-2009-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "207484-20624-2009-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "207484-19611-2009-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "207484-19611-2009-11-13",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "207484-11771-2010-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "207484-11771-2010-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "207484-4184-2010-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "207484-4184-2010-04-03",
+        "c": "FR"
+      },
       {
         "i": "207484-15789-2010-04-09",
         "c": "CZ",
@@ -138,9 +178,41 @@
           "2010-04-09",
           "2010-05-25"
         ]
+      },
+      {
+        "i": "207484-18800-2010-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "207484-18800-2010-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "207484-22624-2010-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "207484-22624-2010-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "207484-11771-2010-11-09",
+        "c": "FR"
+      },
+      {
+        "i": "207484-11771-2010-11-09",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "207484-11771-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "207484-11771-2011-05-07",
+        "c": "FR"
+      },
       {
         "i": "207484-23668-2011-06-28",
         "c": "US",
@@ -166,9 +238,25 @@
           "2011-11-04",
           "2011-12-03"
         ]
+      },
+      {
+        "i": "207484-4179-2011-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "207484-4179-2011-05-07",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "207484-8285-2012-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "207484-8285-2012-01-19",
+        "c": "FR"
+      },
       {
         "i": "207484-12818-2012-01-20",
         "c": "GB",
@@ -181,6 +269,14 @@
           "2012-01-20",
           "2012-02-19"
         ]
+      },
+      {
+        "i": "207484-19768-2012-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "207484-19768-2012-02-09",
+        "c": "FR"
       },
       {
         "i": "207484-5476-2012-03-22",
@@ -222,6 +318,22 @@
         ]
       },
       {
+        "i": "207484-21098-2012-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "207484-21098-2012-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "207484-4179-2012-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "207484-4179-2012-06-21",
+        "c": "FR"
+      },
+      {
         "i": "207484-2549-2012-09-08",
         "c": "BR",
         "n": "30th São Paulo Biennial",
@@ -245,6 +357,14 @@
           "2012-11-02",
           "2012-12-15"
         ]
+      },
+      {
+        "i": "207484-10244-2012-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "207484-10244-2012-03-30",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -299,6 +419,14 @@
           "2013-04-20",
           "2013-06-01"
         ]
+      },
+      {
+        "i": "207484-4179-2013-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "207484-4179-2013-05-16",
+        "c": "FR"
       }
     ]
   }

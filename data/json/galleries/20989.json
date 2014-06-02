@@ -16,7 +16,33 @@
   "fairs-abroad": "1",
   "fairs-in-FR": "5",
   "fairs": {
+    "2009": [
+      {
+        "i": "20989-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "20989-Art Elysées 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "20989-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "20989-Art Elysées 2012",
+        "c": "FR"
+      }
+    ],
     "2013": [
+      {
+        "i": "20989-Art Elysees 2013",
+        "c": "FR"
+      },
       {
         "i": "20989-Scope Miami Beach 2013",
         "c": "US",

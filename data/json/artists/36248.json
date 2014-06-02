@@ -1,7 +1,7 @@
 {
   "id": "36248",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:18:37",
+  "timestamp": "2014-05-24 06:28:44",
   "name": "Patrick Saytour",
   "surname": "Saytour",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "15413",
-  "r01": "14159",
-  "r02": "14043",
-  "r03": "12562",
-  "r04": "11082",
-  "r05": "9835",
-  "r06": "8541",
-  "r07": "7851",
-  "r08": "8079",
+  "r00": "15185",
+  "r01": "17847",
+  "r02": "15024",
+  "r03": "14345",
+  "r04": "14227",
+  "r05": "11558",
+  "r06": "9446",
+  "r07": "7518",
+  "r08": "6462",
   "awards": null,
   "website": null,
   "all-shows-first": "1983",
-  "all-shows-total": "28",
-  "2005-shows-biennials": "9",
-  "2005-shows-galleries": "9",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (8), Luxembourg (3)",
-  "2005-shows-with": "Patrick Saytour (8), Claude Viallat (7), Daniel Dezeuze (4), Jean-Marc Cerino (3), Vincent Bioulès (2), Claude Caillol (2), Franck Chalendard (2), Jean-Michel Meurice (2), Bernard Pagès (2), Assan Smati (2), Claude Tétot (2), Anthony Verot (2), David Wolle (2)",
+  "all-shows-total": "31",
+  "2005-shows-biennials": "10",
+  "2005-shows-galleries": "10",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (10), Luxembourg (3)",
+  "2005-shows-with": "Patrick Saytour (9), Claude Viallat (8), Daniel Dezeuze (5), Jean-Marc Cerino (3), Bernard Pagès (3), Vincent Bioulès (2), Claude Caillol (2), Denis Castellas (2), Franck Chalendard (2), Erik Dietman (2), Noël Dolla (2), Jean-Michel Meurice (2), Assan Smati (2), Claude Tétot (2), Anthony Verot (2), David Wolle (2)",
   "representing-galleries": "Xin Dong Cheng - Beijing (Dashanzi Jiu Xian Qiao Lu N 4 - Chaoyang District, 100015 Beijing, China); Galerie Les Chantiers boîte noire (1 rue Carbonnerie, 3400 Montpellier, France); Galerie Chez Valentin (9, rue St Gilles, 75003 Paris, France); Xin Dong Cheng - Paris (38, boulevard Beaumarchais, 75011 Paris, France); Galerie Bernard Ceysson - Saint-Etienne (8 rue des Creuses, 42100 Saint-Etienne, France)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); Musée de l’Objet (6 rue Franciade, 41000 Blois, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); Musée Régional D'Art Contemporain Languedoc-Roussillon (146, avenue de la plage, 34 410 Sérignan, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
   "first_name": "Patrick",
@@ -58,7 +58,59 @@
         ]
       }
     ],
+    "2006": [
+      {
+        "i": "36248-8128-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "36248-8128-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "36248-2414-2006-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "36248-2414-2006-07-08",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "36248-8911-2007-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "36248-8911-2007-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "36248-12381-2007-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "36248-12381-2007-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "36248-27953-2007-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "36248-27953-2007-06-23",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "36248-8911-2008-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "36248-8911-2008-05-30",
+        "c": "FR"
+      },
       {
         "i": "36248-17359-2008-06-12",
         "c": "LU",
@@ -71,9 +123,17 @@
           "2008-06-12",
           "2008-07-27"
         ]
+      },
+      {
+        "i": "36248-17165-2008-11-23",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "36248-17165-2008-11-23",
+        "c": "FR"
+      },
       {
         "i": "36248-17359-2009-01-22",
         "c": "LU",
@@ -86,6 +146,60 @@
           "2009-01-22",
           "2009-03-02"
         ]
+      },
+      {
+        "i": "36248-8911-2009-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "36248-8911-2009-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "36248-22624-2009-10-29",
+        "c": "FR"
+      },
+      {
+        "i": "36248-22624-2009-10-29",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "36248-8911-2011-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "36248-8911-2011-03-24",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "36248-741-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "36248-741-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "36248-378-2012-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "36248-378-2012-06-07",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "36248-23359-2010-03-19",
+        "c": "FR"
+      },
+      {
+        "i": "36248-23359-2010-03-19",
+        "c": "FR"
       }
     ],
     "2013": [

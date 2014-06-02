@@ -1,7 +1,7 @@
 {
   "id": "90983",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:41:09",
+  "timestamp": "2014-05-24 06:48:05",
   "name": "Sammy Engramer",
   "surname": "Engramer",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "9696",
-  "r01": "9254",
-  "r02": "8368",
-  "r03": "8707",
-  "r04": "9605",
-  "r05": "9303",
-  "r06": "9976",
-  "r07": "11393",
-  "r08": "22274",
+  "r00": "9616",
+  "r01": "9944",
+  "r02": "9021",
+  "r03": "7523",
+  "r04": "7853",
+  "r05": "8745",
+  "r06": "8279",
+  "r07": "8834",
+  "r08": "10226",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "36",
+  "all-shows-total": "37",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
   "2005-shows-museums": "12",
-  "2005-countries-total": "France (19), Germany (5)",
-  "2005-shows-with": "Sammy Engramer (16), Ryuta Amae (3), Matze Görig (3), Fabian Hesse (3), Julien Prévieux (3), Denis Stepanovic (3), Saâdane Afif (2), Jérôme Allavena (2), Dove Allouche (2), Vincent Beaurin (2), Davide Bertocchi (2), Katinka Bock (2), Edouard Boyer (2), Matti Braun (2), Stéphane Calais (2), Mircea Cantor (2), Chow Chun-Fai (2), Claude Closky (2), Isabelle Cornaro (2), Pierre Coulibeuf (2), Isa Genzken (2), Geert Goiris (2), Mona Hatoum (2), Alexander Hick (2), Alain Huck (2), Pierre Huyghe (2), Cyrill Lachauer (2), Guillaume Leblon (2), Yuri Leiderman (2), Didier Marcel (2), Enzo Mari (2), Isa Melsheimer (2), Mathieu Mercier (2), Robert Morris (2), Mrzyk & Moriceau (2), Gabriel Orozco (2), Gyan Panchal (2), Éric Poitevin (2), Jérôme Poret (2), Didier Rittener (2), Bernhard Rüdiger (2), Bojan Sarcevic (2), Mathias Schweizer (2), Alain Séchas (2), Allan Sekula (2), Kiki Smith (2), Robert Stadler (2), Nathalie Talec (2), Julien Tiberi (2), Tatiana Trouvé (2), Ben Vautier (2), Fabien Verschaere (2), Je",
+  "2005-countries-total": "France (19), Germany (5), Belgium (1)",
+  "2005-shows-with": "Sammy Engramer (17), Ryuta Amae (3), Geert Goiris (3), Matze Görig (3), Fabian Hesse (3), Julien Prévieux (3), Denis Stepanovic (3), Jean-Luc Vilmouth (3), Saâdane Afif (2), Jérôme Allavena (2), Dove Allouche (2), Vincent Beaurin (2), Davide Bertocchi (2), Katinka Bock (2), Etienne Bossut (2), Edouard Boyer (2), Matti Braun (2), Stéphane Calais (2), Mircea Cantor (2), Chow Chun-Fai (2), Claude Closky (2), Isabelle Cornaro (2), Pierre Coulibeuf (2), Mounir Fatmi (2), Hans-Peter Feldmann (2), Isa Genzken (2), Mona Hatoum (2), Alexander Hick (2), Alain Huck (2), Pierre Huyghe (2), Kristof Kintera (2), Cyrill Lachauer (2), Guillaume Leblon (2), Yuri Leiderman (2), Didier Marcel (2), Enzo Mari (2), Isa Melsheimer (2), Mathieu Mercier (2), Robert Morris (2), Mrzyk & Moriceau (2), Gabriel Orozco (2), Gyan Panchal (2), Éric Poitevin (2), Jérôme Poret (2), Didier Rittener (2), Bernhard Rüdiger (2), Bojan Sarcevic (2), Mathias Schweizer (2), Alain Séchas (2), Allan Sekula (2), Kiki Smith (2), Robert Stadler ",
   "representing-galleries": "Galerie Claudine Papillon (13, rue Chapon, 75003 Paris, France)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France)",
   "first_name": "Sammy",
@@ -56,9 +56,59 @@
           "2006-09-23",
           "2006-11-12"
         ]
+      },
+      {
+        "i": "90983-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "90983-12314-2006-11-17",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "90983-16095-2007-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "90983-16095-2007-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "90983-8282-2007-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "90983-8282-2007-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "90983-1957-2007-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "90983-19673-2007-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "90983-4205-2007-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "90983-4205-2007-09-06",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "90983-1957-2007-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "90983-19673-2007-12-08",
+        "c": "FR"
+      },
       {
         "i": "90983-4331-2008-08-13",
         "c": "DE",
@@ -73,6 +123,18 @@
         ]
       },
       {
+        "i": "90983-17165-2008-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "90983-17165-2008-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "90983-8996-2008-11-07",
+        "c": "FR"
+      },
+      {
         "i": "90983-4331-2008-02-15",
         "c": "DE",
         "n": "Sammy Engramer - Space Limit",
@@ -84,9 +146,41 @@
           "2008-02-15",
           "2008-03-29"
         ]
+      },
+      {
+        "i": "90983-17165-2008-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "90983-17165-2008-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "90983-28278-2008-12-20",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "90983-8996-2008-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "90983-10227-2009-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "90983-10227-2009-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "90983-10239-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "90983-10239-2009-07-04",
+        "c": "FR"
+      },
       {
         "i": "90983-4331-2009-09-12",
         "c": "DE",
@@ -99,24 +193,61 @@
           "2009-09-12",
           "2009-10-31"
         ]
-      }
-    ],
-    "2011": [
+      },
       {
-        "i": "90983-4331-2011-12-14",
-        "c": "DE",
-        "n": "Accorachage",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Munich",
-        "o": "Galerie Traversée",
-        "d": [
-          "2011-12-14",
-          "2011-12-17"
-        ]
+        "i": "90983-20388-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "90983-28278-2008-12-20",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "90983-20388-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "90983-8996-2010-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "90983-8996-2010-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "90983-4184-2010-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "90983-4184-2010-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "90983-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "90983-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "90983-19611-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "90983-19611-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "90983-27938-2010-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "90983-27938-2010-01-08",
+        "c": "FR"
+      },
       {
         "i": "90983-4331-2010-03-05",
         "c": "DE",
@@ -129,6 +260,91 @@
           "2010-03-05",
           "2010-04-17"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "90983-28278-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "90983-28278-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "90983-4331-2011-12-14",
+        "c": "DE",
+        "n": "Accorachage",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Munich",
+        "o": "Galerie Traversée",
+        "d": [
+          "2011-12-14",
+          "2011-12-17"
+        ]
+      },
+      {
+        "i": "90983-20352-2011-03-25",
+        "c": "FR"
+      },
+      {
+        "i": "90983-20352-2011-03-25",
+        "c": "FR"
+      },
+      {
+        "i": "90983-4205-2011-11-12",
+        "c": "FR"
+      },
+      {
+        "i": "90983-4205-2011-11-12",
+        "c": "FR"
+      },
+      {
+        "i": "90983-1372-2011-11-19",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "90983-28278-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "90983-28278-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "90983-1372-2011-11-19",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "90983-4205-2013-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "90983-4205-2013-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "90983-29574-2013-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "90983-29574-2013-09-06",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "90983-19673-2005-05-21",
+        "c": "FR"
+      },
+      {
+        "i": "90983-19673-2005-05-21",
+        "c": "FR"
       }
     ]
   }

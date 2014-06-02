@@ -1,7 +1,7 @@
 {
   "id": "206445",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:26:16",
+  "timestamp": "2014-05-24 07:27:12",
   "name": "Claire Glorieux",
   "surname": "Glorieux",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "45064",
-  "r01": "42168",
-  "r02": "38698",
-  "r03": "35006",
-  "r04": "50401",
-  "r05": "64184",
-  "r06": null,
+  "r00": "39726",
+  "r01": "38976",
+  "r02": "34845",
+  "r03": "30714",
+  "r04": "27202",
+  "r05": "44651",
+  "r06": "59138",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "4",
+  "all-shows-total": "5",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (3), Germany (1)",
-  "2005-shows-with": "Claire Glorieux (4), Mario Brondo (2), Pierre-Edouard Dumora (2), Clorinde Durand (2), Kang Hyun-Wook (2), Kapwani Kiwanga (2), Jane Leblond (2), Brice Morel (2), Anna Phillips (2), Ramona Poenaru (2), Enrique Ramírez (2), Anthony Rousseau (2), Alexandre Del Torchio (2), Lorena Zilleruelo (2)",
+  "2005-countries-total": "France (4), Germany (1)",
+  "2005-shows-with": "Claire Glorieux (5), Cécile Beau (2), Mario Brondo (2), Pierre-Edouard Dumora (2), Clorinde Durand (2), Kang Hyun-Wook (2), Kapwani Kiwanga (2), Bertrand Lavier (2), Jane Leblond (2), Brice Morel (2), Anna Phillips (2), Ramona Poenaru (2), Enrique Ramírez (2), Anthony Rousseau (2), Alexandre Del Torchio (2), Lorena Zilleruelo (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Claire",
@@ -43,7 +43,25 @@
   "age": 31,
   "age_range": "26-40",
   "expos": {
+    "2008": [
+      {
+        "i": "206445-2709-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "206445-2709-2008-06-06",
+        "c": "FR"
+      }
+    ],
     "2009": [
+      {
+        "i": "206445-2709-2009-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "206445-2709-2009-06-12",
+        "c": "FR"
+      },
       {
         "i": "206445-6781-2009-11-11",
         "c": "DE",
@@ -56,6 +74,16 @@
           "2009-11-11",
           "2009-11-15"
         ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "206445-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "206445-2585-2010-02-05",
+        "c": "FR"
       }
     ]
   }

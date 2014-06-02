@@ -1,7 +1,7 @@
 {
   "id": "17309",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:21",
+  "timestamp": "2014-05-24 06:21:49",
   "name": "Bertrand Lamarche",
   "surname": "Lamarche",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation",
-  "r00": "3003",
-  "r01": "3778",
-  "r02": "4494",
-  "r03": "4685",
-  "r04": "5700",
-  "r05": "5005",
-  "r06": "4461",
-  "r07": "4518",
-  "r08": "5506",
+  "r00": "2484",
+  "r01": "2510",
+  "r02": "3438",
+  "r03": "4307",
+  "r04": "4618",
+  "r05": "6102",
+  "r06": "5044",
+  "r07": "4292",
+  "r08": "4383",
   "awards": null,
   "website": null,
   "all-shows-first": "1994",
-  "all-shows-total": "61",
-  "2005-shows-biennials": "9",
-  "2005-shows-galleries": "9",
-  "2005-shows-museums": "20",
-  "2005-countries-total": "France (30), USA (2), Belgium (1), Germany (1)",
-  "2005-shows-with": "Bertrand Lamarche (25), Dominique Furge (4), Sophie Ristelhueber (4), Kees Visser (4), Lida Abdul (3), Katinka Bock (3), Philippe Caurant (3), Jordi Colomer (3), Julien Crépieux (3), Vincent Lamouroux (3), Marylène Negro (3), Evariste Richer (3), Tatiana Trouvé (3), Raphaël Zarka (3), Pierre-Olivier Arnaud (2), Isabelle Arthuis (2), Élisabeth Ballet (2), Yves Bélorgey (2), Berdaguer & Péjus (2), Monica Bonvicini (2), Angela Bulloch (2), Cao Fei (2), Attila Csörgö (2), François Dallegret (2), Dewar & Gicquel (2), Peter Downsbrough (2), Philippe Durand (2), Jimmie Durham (2), Simon Faithfull (2), Robert Filliou (2), Elise Florenty (2), Yona Friedman (2), Vincent Ganivet (2), Dora García (2), Ben Hall (2), Camille Henrot (2), Severine Hubard (2), Pierre Huyghe (2), Remy Jacquier (2), Stefan Kern (2), Sachiko Kodama (2), Jochen Lempert (2), Richard Long (2), Didier Marcel (2), Anthony McCall (2), Wesley Meuris (2), Laurent Montaron (2), François Morellet (2), Sarah Morris (2), Juan Muñoz (2), Stephan",
-  "representing-galleries": "Galerie Jérôme Poggi (115/117 rue La Fayette, 75010 Paris, France)",
+  "all-shows-total": "62",
+  "2005-shows-biennials": "10",
+  "2005-shows-galleries": "10",
+  "2005-shows-museums": "21",
+  "2005-countries-total": "France (32), USA (2), Belgium (1), Germany (1)",
+  "2005-shows-with": "Bertrand Lamarche (27), Sophie Ristelhueber (5), Julien Crépieux (4), Dominique Furge (4), Kees Visser (4), Lida Abdul (3), Katinka Bock (3), Philippe Caurant (3), Jordi Colomer (3), Vincent Lamouroux (3), Wesley Meuris (3), Marylène Negro (3), Evariste Richer (3), Tatiana Trouvé (3), Raphaël Zarka (3), Pierre-Olivier Arnaud (2), Isabelle Arthuis (2), Élisabeth Ballet (2), Yves Bélorgey (2), Berdaguer & Péjus (2), Anna Eva Bergman (2), Monica Bonvicini (2), Juliana Borinski (2), Angela Bulloch (2), Cao Fei (2), Attila Csörgö (2), François Dallegret (2), Dewar & Gicquel (2), Peter Downsbrough (2), Philippe Durand (2), Jimmie Durham (2), Simon Faithfull (2), Larissa Fassler (2), Robert Filliou (2), Elise Florenty (2), Yona Friedman (2), Vincent Ganivet (2), Dora García (2), Ben Hall (2), Camille Henrot (2), Severine Hubard (2), Pierre Huyghe (2), Remy Jacquier (2), Ann Veronica Janssens (2), Stefan Kern (2), Sachiko Kodama (2), Jochen Lempert (2), Richard Long (2), Didier Marcel (2), Anthony McCall (",
+  "representing-galleries": "Galerie Jérôme Poggi (2 rue Beaubourg, 75004 Paris, France)",
   "collecting-museums": "FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); Musée des Beaux-Arts de Nantes (10, rue Georges Clemenceau, 44000  Nantes, France); FRAC - Centre (12 rue de la Tour Neuve, 45000 Orleans, France); Centre national des arts plastiques (Tour Atlantique 1, place de la Pyramide, 92911 Paris, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France); les Abattoirs de Toulouse (allées Charles-de-Fitte 76, 31300 Toulouse, France); CCC - Centre de Creation Contemporaine (53-55 rue Marcel-Tribut, 37000 Tours, France); Musée d´art contemporain du Val-de-Marne MAC/Val (Place de la Libération; Boîte postale 147, 94404 Vitry-sur-Seine, France)",
   "first_name": "Bertrand",
   "last_name": "Lamarche",
@@ -43,7 +43,161 @@
   "age": 48,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "17309-9344-2005-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "17309-9344-2005-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21103-2005-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21103-2005-10-15",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "17309-2024-2006-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "17309-2024-2006-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "17309-2718-2006-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "17309-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "17309-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "17309-12314-2006-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "17309-12314-2006-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "17309-2414-2006-11-17",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "17309-2718-2006-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "17309-741-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "17309-741-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "17309-2718-2007-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "17309-2718-2007-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "17309-10239-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "17309-10239-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "17309-10239-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "17309-10239-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "17309-8520-2007-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "17309-2414-2006-11-17",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "17309-8520-2007-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "17309-7657-2008-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "17309-7657-2008-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "17309-9120-2008-12-06",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "17309-20624-2009-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "17309-20624-2009-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "17309-18564-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "17309-18564-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "17309-12314-2009-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "17309-12314-2009-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "17309-9120-2008-12-06",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "17309-21639-2010-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21639-2010-01-07",
+        "c": "FR"
+      },
       {
         "i": "17309-9333-2010-05-23",
         "c": "US",
@@ -58,6 +212,14 @@
         ]
       },
       {
+        "i": "17309-21639-2010-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21639-2010-06-12",
+        "c": "FR"
+      },
+      {
         "i": "17309-9487-2010-09-10",
         "c": "US",
         "n": "Spatial City: An Architecture of Idealism",
@@ -69,24 +231,65 @@
           "2010-09-10",
           "2010-12-30"
         ]
-      }
-    ],
-    "2013": [
+      },
       {
-        "i": "17309-22613-2013-02-28",
-        "c": "BE",
-        "n": "Turbulences II",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "Villa Empain - Boghossian Foundation",
-        "d": [
-          "2013-02-28",
-          "2013-09-01"
-        ]
+        "i": "17309-23360-2010-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "17309-23360-2010-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "17309-1782-2010-12-03",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "17309-21639-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21639-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "17309-7851-2011-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "17309-7851-2011-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "17309-7850-2011-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "17309-7850-2011-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21639-2011-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21639-2011-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "17309-1782-2010-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21639-2011-04-15",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21639-2011-04-15",
+        "c": "FR"
+      },
       {
         "i": "17309-16431-2011-04-30",
         "c": "DE",
@@ -99,6 +302,151 @@
           "2011-04-30",
           "2011-06-11"
         ]
+      },
+      {
+        "i": "17309-11214-2011-10-07",
+        "c": "FR"
+      },
+      {
+        "i": "17309-11214-2011-10-07",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "17309-21461-2012-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21461-2012-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "17309-16191-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "17309-16191-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "17309-11214-2012-10-06",
+        "c": "FR"
+      },
+      {
+        "i": "17309-11214-2012-10-06",
+        "c": "FR"
+      },
+      {
+        "i": "17309-2219-2012-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "17309-7949-2012-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "17309-7949-2012-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "17309-9345-2012-03-02",
+        "c": "FR"
+      },
+      {
+        "i": "17309-9345-2012-03-02",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "17309-2219-2012-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21639-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21639-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "17309-741-2013-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "17309-741-2013-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "17309-22613-2013-02-28",
+        "c": "BE",
+        "n": "Turbulences II",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Villa Empain - Boghossian Foundation",
+        "d": [
+          "2013-02-28",
+          "2013-09-01"
+        ]
+      },
+      {
+        "i": "17309-22295-2013-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "17309-22295-2013-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "17309-7390-2013-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "17309-7390-2013-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "17309-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "17309-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "17309-10501-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "17309-10501-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21102-2013-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "17309-21102-2013-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "17309-10247-2013-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "17309-10247-2013-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "17309-11586-2013-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "17309-11586-2013-06-28",
+        "c": "FR"
       }
     ]
   }

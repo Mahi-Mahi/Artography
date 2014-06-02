@@ -1,7 +1,7 @@
 {
   "id": "16416",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:53",
+  "timestamp": "2014-05-24 06:21:27",
   "name": "Kolkoz",
   "surname": "Kolkoz",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male, Artist group",
   "media": "Video, Installation, Objects, Performance",
-  "r00": "3630",
-  "r01": "3252",
-  "r02": "3204",
-  "r03": "3183",
-  "r04": "2960",
-  "r05": "2463",
-  "r06": "2416",
-  "r07": "2285",
-  "r08": "3163",
+  "r00": "4973",
+  "r01": "4785",
+  "r02": "3780",
+  "r03": "3596",
+  "r04": "3479",
+  "r05": "3053",
+  "r06": "2365",
+  "r07": "2250",
+  "r08": "2080",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
   "all-shows-total": "42",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (4), USA (3), Austria (1), Belgium (1), China (1), Italy (1), Mexico (1), Spain (1), Switzerland (1)",
-  "2005-shows-with": "Kolkoz (11), Gregor Hildebrandt (3), Alicja Kwade (3), Iván Argote (2), Lionel Estève (2), Hermann Nitsch (2), Gabriel Orozco (2), Robin Rhode (2), Tom Sachs (2), Erwin Wurm (2)",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (5), USA (3), Austria (1), Belgium (1), China (1), Italy (1), Mexico (1), Spain (1), Switzerland (1)",
+  "2005-shows-with": "Kolkoz (12), Gregor Hildebrandt (3), Alicja Kwade (3), Iván Argote (2), Lionel Estève (2), Richard Fauguet (2), Hermann Nitsch (2), Gabriel Orozco (2), Julien Prévieux (2), Robin Rhode (2), Tom Sachs (2), Erwin Wurm (2)",
   "representing-galleries": "Galerie Emmanuel Perrotin - Paris (76, rue de Turenne, 75003 Paris, France); Galerie Emmanuel Perrotin - Miami (194 NW 30th Street, 33127 Miami, FL, USA)",
   "collecting-museums": "Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France)",
   "first_name": "Kolkoz",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "16416-1961-2005-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "16416-1961-2005-01-15",
+        "c": "FR"
+      },
       {
         "i": "16416-3104-2005-02-24",
         "c": "RO",
@@ -81,9 +89,41 @@
           "2005-10-07",
           "2005-10-28"
         ]
+      },
+      {
+        "i": "16416-26775-2005-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "16416-26775-2005-09-18",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "16416-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "16416-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "16416-8282-2006-03-25",
+        "c": "FR"
+      },
+      {
+        "i": "16416-8282-2006-03-25",
+        "c": "FR"
+      },
+      {
+        "i": "16416-7491-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "16416-7491-2006-06-17",
+        "c": "FR"
+      },
       {
         "i": "16416-19773-2006-06-29",
         "c": "US",
@@ -122,9 +162,41 @@
           "2006-10-17",
           "2006-12-17"
         ]
+      },
+      {
+        "i": "16416-1961-2006-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "16416-1961-2006-03-18",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "16416-20058-2007-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "16416-20058-2007-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "16416-10870-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "16416-10870-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "16416-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "16416-4975-2007-07-07",
+        "c": "FR"
+      },
       {
         "i": "16416-2666-2007-09-27",
         "c": "ES",
@@ -210,6 +282,14 @@
         ]
       },
       {
+        "i": "16416-22704-2010-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "16416-22704-2010-06-12",
+        "c": "FR"
+      },
+      {
         "i": "16416-5825-2010-05-15",
         "c": "US",
         "n": "Kolkoz",
@@ -224,6 +304,14 @@
       }
     ],
     "2011": [
+      {
+        "i": "16416-21267-2011-03-26",
+        "c": "FR"
+      },
+      {
+        "i": "16416-21267-2011-03-26",
+        "c": "FR"
+      },
       {
         "i": "16416-6177-2011-09-11",
         "c": "IT",
@@ -279,6 +367,14 @@
         ]
       },
       {
+        "i": "16416-1782-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "16416-1782-2012-09-28",
+        "c": "FR"
+      },
+      {
         "i": "16416-14394-2011-11-26",
         "c": "CN",
         "n": "Kolkoz",
@@ -293,6 +389,14 @@
       }
     ],
     "2013": [
+      {
+        "i": "16416-26251-2013-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "16416-26251-2013-01-11",
+        "c": "FR"
+      },
       {
         "i": "16416-7928-2013-03-14",
         "c": "CH",

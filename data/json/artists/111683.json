@@ -1,7 +1,7 @@
 {
   "id": "111683",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:49:06",
+  "timestamp": "2014-05-24 06:54:55",
   "name": "Guillaume Bruére",
   "surname": "Bruére",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "4607",
-  "r01": "5181",
-  "r02": "11893",
-  "r03": "13210",
-  "r04": "13080",
-  "r05": "15673",
-  "r06": "15762",
-  "r07": "15382",
-  "r08": "34518",
+  "r00": "3375",
+  "r01": "3368",
+  "r02": "3802",
+  "r03": "10438",
+  "r04": "11687",
+  "r05": "11428",
+  "r06": "13943",
+  "r07": "13727",
+  "r08": "13269",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "18",
   "2005-shows-galleries": "18",
   "2005-shows-museums": "9",
-  "2005-countries-total": "Germany (18), Austria (6), France (4), Belgium (2), Canada (1), Switzerland (1)",
-  "2005-shows-with": "Guillaume Bruére (17), Carola Ernst (6), Andrew Gilbert (6), Habima Fuchs (5), Marcel Hueppauff (5), Markus Selg (5), Jorinde Voigt (5), Rikke Aamann (4), Pablo Alonso (4), Andy Hope 1930 (4), Axel Anklam (4), Thomas Arnolds (4), Bara (4), Herbert Basilewski (4), Olivia Berckemeyer (4), Michael Biber (4), Louise Blicher (4), Fritz Bornstück (4), Madeleine Boschan (4), Sonja vom Brocke (4), Sarah M. Brokke (4), Joanna Buchowska (4), Jessica Buhlmann (4), André Butzer (4), Astrid Marie Christiansen (4), Björn Dahlem (4), Sven Drühl (4), Rose Eken (4), Valérie Favre (4), Shannon Finley (4), Tine Furler (4), Axel Heil (4), Thomas Helbig (4), Secundino Hernández (4), Mattias Hesselbacher (4), Klaus Jörres (4), Franka Kaßner (4), Isabel Kerkermeier (4), Christiane Klatt (4), Henning Kles (4), Erwin Kneihsl (4), Peter K. Koch (4), Peter Krauskopf (4), Maja Körner (4), Valentin Emil Lubberger (4), Robert Lucander (4), Stefan Mannel (4), Jonathan Meese (4), Jan Muche (4), Aribert von Ostrowski (4), Catalina ",
+  "2005-countries-total": "Germany (19), Austria (6), France (4), Belgium (2), Canada (1), Switzerland (1)",
+  "2005-shows-with": "Guillaume Bruére (18), Carola Ernst (6), Andrew Gilbert (6), Habima Fuchs (5), Marcel Hueppauff (5), Markus Selg (5), Andrea Stappert (5), Jorinde Voigt (5), Rikke Aamann (4), Pablo Alonso (4), Andy Hope 1930 (4), Axel Anklam (4), Thomas Arnolds (4), Bara (4), Herbert Basilewski (4), Olivia Berckemeyer (4), Michael Biber (4), Louise Blicher (4), Fritz Bornstück (4), Madeleine Boschan (4), Sonja vom Brocke (4), Sarah M. Brokke (4), Joanna Buchowska (4), Jessica Buhlmann (4), André Butzer (4), Astrid Marie Christiansen (4), Björn Dahlem (4), Sven Drühl (4), Rose Eken (4), Valérie Favre (4), Shannon Finley (4), Tine Furler (4), Axel Heil (4), Thomas Helbig (4), Secundino Hernández (4), Mattias Hesselbacher (4), Klaus Jörres (4), Franka Kaßner (4), Isabel Kerkermeier (4), Christiane Klatt (4), Henning Kles (4), Erwin Kneihsl (4), Peter K. Koch (4), Peter Krauskopf (4), Maja Körner (4), Valentin Emil Lubberger (4), Robert Lucander (4), Stefan Mannel (4), Jonathan Meese (4), Jan Muche (4), Aribert von Ost",
   "representing-galleries": "Galerie Heike Curtze - Wien (Seilerstätte 15-16, 1010 Vienna, Austria); Galerie Erna Hécey (1c, rue des Fabriques, 1000 Brussels, Belgium); Galerie Heike Curtze - Berlin (Friedrichstr. 210, 10969 Berlin, Germany); MARS (Köpenicker Str. 147, 10997 Berlin, Germany); Galerie Ruth Leuchter (Hermannstr. 36 / Ecke Lindenstr.., 40233 Dusseldorf, Germany)",
   "collecting-museums": null,
   "first_name": "Guillaume",
@@ -43,6 +43,29 @@
   "age": 38,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "111683-10726-2005-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "111683-10726-2005-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "111683-4036-2005-02-04",
+        "c": "DE",
+        "n": "Guillaume Bruère",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "Galerie 5213",
+        "d": [
+          "2005-02-04",
+          "2005-03-12"
+        ]
+      }
+    ],
     "2006": [
       {
         "i": "111683-2546-2006-09-23",
@@ -59,6 +82,14 @@
       }
     ],
     "2007": [
+      {
+        "i": "111683-8189-2007-01-16",
+        "c": "FR"
+      },
+      {
+        "i": "111683-8189-2007-01-16",
+        "c": "FR"
+      },
       {
         "i": "111683-11645-2007-09-16",
         "c": "DE",
@@ -84,6 +115,16 @@
           "2007-03-08",
           "2007-04-15"
         ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "111683-10726-2008-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "111683-10726-2008-02-26",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -194,6 +235,10 @@
         ]
       },
       {
+        "i": "111683-10726-2011-10-14",
+        "c": "FR"
+      },
+      {
         "i": "111683-17611-2011-02-12",
         "c": "DE",
         "n": "Guillaume Bruère - Tierisch Zeichen",
@@ -248,6 +293,10 @@
     ],
     "2012": [
       {
+        "i": "111683-10726-2011-10-14",
+        "c": "FR"
+      },
+      {
         "i": "111683-2077-2012-03-15",
         "c": "AT",
         "n": "Gold",
@@ -259,6 +308,22 @@
           "2012-03-15",
           "2012-06-17"
         ]
+      },
+      {
+        "i": "111683-8282-2012-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "111683-8282-2012-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "111683-10726-2012-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "111683-10726-2012-06-22",
+        "c": "FR"
       },
       {
         "i": "111683-20204-2012-09-21",
@@ -483,21 +548,6 @@
         "d": [
           "2013-12-08",
           "2014-01-31"
-        ]
-      }
-    ],
-    "2005": [
-      {
-        "i": "111683-4036-2005-02-04",
-        "c": "DE",
-        "n": "Guillaume Bruère",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "Galerie 5213",
-        "d": [
-          "2005-02-04",
-          "2005-03-12"
         ]
       }
     ],

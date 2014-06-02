@@ -1,7 +1,7 @@
 {
   "id": "7809",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:05:58",
+  "timestamp": "2014-05-24 06:18:04",
   "name": "Gilles Barbier",
   "surname": "Barbier",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sculpture",
-  "r00": "1331",
-  "r01": "1231",
-  "r02": "1055",
-  "r03": "1069",
-  "r04": "951",
-  "r05": "1024",
-  "r06": "860",
-  "r07": "742",
-  "r08": "651",
+  "r00": "1816",
+  "r01": "1685",
+  "r02": "1552",
+  "r03": "1302",
+  "r04": "1355",
+  "r05": "1155",
+  "r06": "1266",
+  "r07": "1090",
+  "r08": "859",
   "awards": null,
   "website": null,
   "all-shows-first": "1995",
-  "all-shows-total": "106",
+  "all-shows-total": "108",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
-  "2005-shows-museums": "20",
-  "2005-countries-total": "France (27), Germany (5), Belgium (1), Bulgaria (1), Canada (1), Japan (1), Spain (1), United Arab Emirates (1)",
-  "2005-shows-with": "Gilles Barbier (33), Damien Deroubaix (8), Julien Berthier (6), Philippe Mayaux (6), Richard Fauguet (5), Bertrand Lavier (5), Didier Marcel (5), Didier Mencoboni (5), Bruno Peinado (5), Éric Pougeau (5), Virginie Yassef (5), Pierre Ardouvin (4), Olivier Blanckart (4), Nicolas Darrot (4), Wim Delvoye (4), Claire Fontaine (4), Chris Hipkiss (4), Claude Lévêque (4), Theo Mercier (4), Dennis Oppenheim (4), Ernest T. (4), Wang Du (4), Adam Adach (3), Pilar Albarracín (3), Kader Attia (3), Renaud Auguste-Dormeuil (3), Virginie Barré (3), Julien Bismuth (3), Dominique Blais (3), Lilian Bourgeat (3), Céleste Boursier-Mougenot (3), Alain Bublex (3), Mircea Cantor (3), Claude Closky (3), Philippe Cognée (3), Erik Dietman (3), Eric Duyckaerts (3), Jan Fabre (3), Jean-Baptiste Ganne (3), Raymond Hains (3), Camille Henrot (3), John Isaacs (3), William Kentridge (3), Natacha Lesueur (3), Frédérique Loutz (3), Enrique Marty (3), Mathieu Mercier (3), Annette Messager (3), François Morellet (3), Vik Muniz (3), Laur",
+  "2005-shows-museums": "21",
+  "2005-countries-total": "France (29), Germany (5), Belgium (1), Bulgaria (1), Canada (1), Japan (1), Spain (1), United Arab Emirates (1)",
+  "2005-shows-with": "Gilles Barbier (35), Damien Deroubaix (8), Julien Berthier (6), Bertrand Lavier (6), Philippe Mayaux (6), Bruno Peinado (6), Richard Fauguet (5), Didier Marcel (5), Didier Mencoboni (5), Éric Pougeau (5), Virginie Yassef (5), Pierre Ardouvin (4), Olivier Blanckart (4), Nicolas Darrot (4), Wim Delvoye (4), Claire Fontaine (4), Raymond Hains (4), Chris Hipkiss (4), Claude Lévêque (4), Theo Mercier (4), Mathieu Mercier (4), Dennis Oppenheim (4), Ernest T. (4), Wang Du (4), Adam Adach (3), Pilar Albarracín (3), Kader Attia (3), Renaud Auguste-Dormeuil (3), Virginie Barré (3), Valérie Belin (3), Julien Bismuth (3), Dominique Blais (3), Lilian Bourgeat (3), Céleste Boursier-Mougenot (3), Alain Bublex (3), Stéphane Calais (3), Mircea Cantor (3), Claude Closky (3), Philippe Cognée (3), Erik Dietman (3), Eric Duyckaerts (3), Jan Fabre (3), Jean-Baptiste Ganne (3), Camille Henrot (3), John Isaacs (3), William Kentridge (3), Natacha Lesueur (3), Frédérique Loutz (3), Pierre Malphettes (3), Enrique Marty (3), ",
   "representing-galleries": "Taché-Lévy (74, rue Tenbosch, 1050 Brussels, Belgium); Twig Gallery (74, rue Tenbosch, 1050 Brussels, Belgium); Galerie Georges-Philippe & Nathalie Vallois (36 , rue de Seine, 75006 Paris, France)",
   "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France); The Margulies Collection (591 NW 27th Street, 33127 Miami, FL, USA)",
   "first_name": "Gilles",
@@ -44,6 +44,22 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "7809-2303-2005-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "7809-2303-2005-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "7809-2358-2005-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "7809-2358-2005-04-09",
+        "c": "FR"
+      },
       {
         "i": "7809-1715-2005-05-22",
         "c": "BE",
@@ -56,6 +72,14 @@
           "2005-05-22",
           "2005-07-31"
         ]
+      },
+      {
+        "i": "7809-2351-2005-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "7809-2351-2005-06-07",
+        "c": "FR"
       },
       {
         "i": "7809-7071-2005-10-02",
@@ -82,6 +106,14 @@
           "2005-10-29",
           "2006-01-15"
         ]
+      },
+      {
+        "i": "7809-1953-2005-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "7809-1953-2005-02-18",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -99,6 +131,14 @@
         ]
       },
       {
+        "i": "7809-10522-2006-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "7809-10522-2006-06-22",
+        "c": "FR"
+      },
+      {
         "i": "7809-1863-2006-07-13",
         "c": "US",
         "n": "Furnishing Assumptions",
@@ -110,9 +150,25 @@
           "2006-07-13",
           "2006-08-19"
         ]
+      },
+      {
+        "i": "7809-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "7809-2260-2006-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "7809-2260-2006-05-31",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "7809-2219-2006-09-27",
+        "c": "FR"
+      },
       {
         "i": "7809-2625-2007-01-19",
         "c": "HU",
@@ -138,9 +194,41 @@
           "2007-05-16",
           "2007-08-26"
         ]
+      },
+      {
+        "i": "7809-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "7809-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "7809-4651-2007-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "7809-1953-2007-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "7809-1953-2007-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "7809-1953-2007-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "7809-1953-2007-01-19",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "7809-4651-2007-10-04",
+        "c": "FR"
+      },
       {
         "i": "7809-6781-2008-03-09",
         "c": "DE",
@@ -155,6 +243,14 @@
         ]
       },
       {
+        "i": "7809-181-2008-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "7809-181-2008-03-12",
+        "c": "FR"
+      },
+      {
         "i": "7809-9101-2008-04-10",
         "c": "ES",
         "n": "Esculturismos",
@@ -166,6 +262,14 @@
           "2008-04-10",
           "2008-05-18"
         ]
+      },
+      {
+        "i": "7809-8700-2008-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "7809-8700-2008-05-31",
+        "c": "FR"
       },
       {
         "i": "7809-2633-2008-10-17",
@@ -183,6 +287,46 @@
     ],
     "2009": [
       {
+        "i": "7809-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "7809-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "7809-7811-2009-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "7809-7811-2009-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "7809-8282-2009-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "7809-8282-2009-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "7809-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "7809-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "7809-21096-2009-09-19",
+        "c": "FR"
+      },
+      {
+        "i": "7809-21096-2009-09-19",
+        "c": "FR"
+      },
+      {
         "i": "7809-3607-2009-11-28",
         "c": "JP",
         "n": "Medicine and Art: Imagining a Future for Life and Love",
@@ -194,6 +338,22 @@
           "2009-11-28",
           "2010-02-28"
         ]
+      },
+      {
+        "i": "7809-1953-2009-04-22",
+        "c": "FR"
+      },
+      {
+        "i": "7809-1953-2009-04-22",
+        "c": "FR"
+      },
+      {
+        "i": "7809-2585-2009-06-26",
+        "c": "FR"
+      },
+      {
+        "i": "7809-2585-2009-06-26",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -209,9 +369,49 @@
           "2009-11-28",
           "2010-02-28"
         ]
+      },
+      {
+        "i": "7809-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "7809-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "7809-9923-2010-10-28",
+        "c": "FR"
+      },
+      {
+        "i": "7809-9923-2010-10-28",
+        "c": "FR"
+      },
+      {
+        "i": "7809-2353-2010-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "7809-1953-2010-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "7809-1953-2010-05-28",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "7809-2353-2010-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "7809-7811-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "7809-7811-2011-02-12",
+        "c": "FR"
+      },
       {
         "i": "7809-6151-2011-05-01",
         "c": "CA",
@@ -251,6 +451,18 @@
         ]
       },
       {
+        "i": "7809-26733-2011-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "7809-11845-2011-07-13",
+        "c": "FR"
+      },
+      {
+        "i": "7809-11845-2011-07-13",
+        "c": "FR"
+      },
+      {
         "i": "7809-22253-2011-10-01",
         "c": "DE",
         "n": "My Paris, Collection Antoine de Galbert",
@@ -262,6 +474,14 @@
           "2011-10-01",
           "2012-01-08"
         ]
+      },
+      {
+        "i": "7809-9923-2011-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "7809-9923-2011-10-18",
+        "c": "FR"
       },
       {
         "i": "7809-27978-2011-11-07",
@@ -275,9 +495,25 @@
           "2011-11-07",
           "2013-01-06"
         ]
+      },
+      {
+        "i": "7809-1953-2011-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "7809-28278-2011-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "7809-28278-2011-06-17",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "7809-26733-2011-06-03",
+        "c": "FR"
+      },
       {
         "i": "7809-22253-2011-10-01",
         "c": "DE",
@@ -292,6 +528,10 @@
         ]
       },
       {
+        "i": "7809-1953-2011-12-02",
+        "c": "FR"
+      },
+      {
         "i": "7809-26843-2012-04-19",
         "c": "BE",
         "n": "Struggle(s)",
@@ -303,6 +543,10 @@
           "2012-04-19",
           "2012-06-30"
         ]
+      },
+      {
+        "i": "7809-14870-2012-06-08",
+        "c": "FR"
       },
       {
         "i": "7809-13879-2012-11-11",
@@ -333,6 +577,10 @@
         ]
       },
       {
+        "i": "7809-14870-2012-06-08",
+        "c": "FR"
+      },
+      {
         "i": "7809-13879-2012-11-11",
         "c": "DE",
         "n": "Liebe Tod und Teufel - Sammlung J+C Mairet",
@@ -344,6 +592,64 @@
           "2012-11-11",
           "2013-02-03"
         ]
+      },
+      {
+        "i": "7809-29568-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "7809-29568-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "7809-20857-2013-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "7809-20857-2013-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "7809-1953-2013-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "7809-1953-2013-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "7809-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "7809-29551-2013-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "7809-8293-2013-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "7809-1953-2013-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "7809-1953-2013-09-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "7809-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "7809-29551-2013-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "7809-8293-2013-11-22",
+        "c": "FR"
       }
     ]
   }

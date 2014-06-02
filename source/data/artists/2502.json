@@ -1,7 +1,7 @@
 {
   "id": "2502",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:03:21",
+  "timestamp": "2014-05-24 06:15:44",
   "name": "Jean-Michel Gasquet",
   "surname": "Gasquet",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "36161",
-  "r01": "32604",
-  "r02": "30608",
-  "r03": "26876",
-  "r04": "23267",
-  "r05": "21076",
-  "r06": "17654",
-  "r07": "17867",
-  "r08": "21701",
+  "r00": "56302",
+  "r01": "52335",
+  "r02": "45659",
+  "r03": "41310",
+  "r04": "33689",
+  "r05": "27489",
+  "r06": "23400",
+  "r07": "18156",
+  "r08": "18472",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
@@ -43,37 +43,25 @@
   "age": 85,
   "age_range": "61-100",
   "expos": {
-    "2007": [
+    "2005": [
       {
-        "i": "2502-7927-2007-05-05",
-        "c": "DE",
-        "n": "Bildertausch 2 - Neupräsentation der Sammlung Marli Hoppe-Ritter",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Waldenbuch",
-        "o": "Museum Ritter",
-        "d": [
-          "2007-05-05",
-          "2007-09-30"
-        ]
-      }
-    ],
-    "2009": [
-      {
-        "i": "2502-203-2009-04-04",
-        "c": "DE",
-        "n": "4 Positionen",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Heidelberg",
-        "o": "Galerie Uwe Sacksofsky",
-        "d": [
-          "2009-04-04",
-          "2009-06-13"
-        ]
+        "i": "2502-370-2005-12-03",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "2502-370-2005-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "2502-370-2006-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "2502-370-2006-11-25",
+        "c": "FR"
+      },
       {
         "i": "2502-203-2006-03-12",
         "c": "DE",
@@ -99,6 +87,54 @@
           "2006-05-12",
           "2006-06-17"
         ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "2502-7927-2007-05-05",
+        "c": "DE",
+        "n": "Bildertausch 2 - Neupräsentation der Sammlung Marli Hoppe-Ritter",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Waldenbuch",
+        "o": "Museum Ritter",
+        "d": [
+          "2007-05-05",
+          "2007-09-30"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "2502-370-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "2502-370-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "2502-203-2009-04-04",
+        "c": "DE",
+        "n": "4 Positionen",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Heidelberg",
+        "o": "Galerie Uwe Sacksofsky",
+        "d": [
+          "2009-04-04",
+          "2009-06-13"
+        ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "2502-370-2012-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "2502-370-2012-03-17",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "107855",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:47:33",
+  "timestamp": "2014-05-24 06:53:36",
   "name": "Jean-Baptiste Bruant",
   "surname": "Bruant",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "19984",
-  "r01": "18298",
-  "r02": "15958",
-  "r03": "15307",
-  "r04": "13430",
-  "r05": "11499",
-  "r06": "11774",
-  "r07": "11816",
-  "r08": "10567",
+  "r00": "31293",
+  "r01": "28294",
+  "r02": "26323",
+  "r03": "21286",
+  "r04": "20199",
+  "r05": "16323",
+  "r06": "13081",
+  "r07": "13863",
+  "r08": "14030",
   "awards": null,
   "website": null,
   "all-shows-first": "1992",
@@ -33,7 +33,7 @@
   "2005-shows-galleries": "5",
   "2005-shows-museums": "1",
   "2005-countries-total": "France (3), Luxembourg (3), Belgium (1)",
-  "2005-shows-with": "Jean-Baptiste Bruant (6), Nadine Hilbert & Gast Bouschet (2), Steve Kaspar (2), Jan van Oost (2), Maria Spangaro (2), Cathy Ward & Eric Wright (2)",
+  "2005-shows-with": "Jean-Baptiste Bruant (6), Nadine Hilbert & Gast Bouschet (2), Steve Kaspar (2), Jan van Oost (2), Maria Spangaro (2), Cathy Ward & Eric Wright (2)",
   "representing-galleries": "Toxic (2, rue de l'Eau, 1449 Luxembourg, Luxembourg)",
   "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
   "first_name": "Jean-Baptiste",
@@ -43,6 +43,26 @@
   "age": 53,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "107855-10239-2005-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "107855-10239-2005-09-17",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "107855-2365-2006-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "107855-2365-2006-06-16",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "107855-2389-2007-02-17",
@@ -56,6 +76,14 @@
           "2007-02-17",
           "2007-03-18"
         ]
+      },
+      {
+        "i": "107855-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "107855-8548-2007-06-02",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -71,6 +99,14 @@
           "2008-12-12",
           "2009-02-28"
         ]
+      },
+      {
+        "i": "107855-1829-2008-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "107855-1829-2008-05-28",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -127,6 +163,14 @@
           "2009-12-04",
           "2010-02-13"
         ]
+      },
+      {
+        "i": "107855-1829-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "107855-1829-2010-02-13",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -142,6 +186,18 @@
           "2011-06-26",
           "2011-10-02"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "107855-20775-2013-10-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "107855-20775-2013-10-20",
+        "c": "FR"
       }
     ]
   }

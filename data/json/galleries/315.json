@@ -18,10 +18,18 @@
   "fairs": {
     "2005": [
       {
+        "i": "315-ArtParis 2005",
+        "c": "FR"
+      },
+      {
         "i": "315-Art 36 Basel",
         "c": "CH",
         "n": "Art 36 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "315-Fiac 2005",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -30,6 +38,10 @@
         "c": "CH",
         "n": "Art 37 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "315-Fiac 2006",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -38,25 +50,49 @@
         "c": "CH",
         "n": "Art 38 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "315-Fiac 2007",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "315-ArtParis 08",
+        "c": "FR"
+      },
       {
         "i": "315-Art 39 Basel",
         "c": "CH",
         "n": "Art 39 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "315-Fiac 2008",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "315-ArtParis 09",
+        "c": "FR"
+      },
       {
         "i": "315-Art 40 Basel",
         "c": "CH",
         "n": "Art 40 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "315-Fiac 2009",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "315-ArtParis 2010",
+        "c": "FR"
+      },
       {
         "i": "315-Art 41 Basel",
         "c": "CH",
@@ -68,6 +104,10 @@
         "c": "MA",
         "n": "Marrakech Art Fair",
         "ct": "Marrakech"
+      },
+      {
+        "i": "315-Fiac 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -76,6 +116,10 @@
         "c": "CH",
         "n": "Art 42 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "315-Fiac 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -84,6 +128,10 @@
         "c": "CH",
         "n": "Art 43 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "315-Fiac 2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -92,6 +140,10 @@
         "c": "CH",
         "n": "Art Basel 2013",
         "ct": "Basel"
+      },
+      {
+        "i": "315-FIAC 2013",
+        "c": "FR"
       }
     ]
   }

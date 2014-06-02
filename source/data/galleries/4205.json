@@ -28,6 +28,10 @@
         "c": "BE",
         "n": "Art Brussels 2005 - 23rd Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "4205-Fiac 2005",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -42,6 +46,10 @@
         "c": "BE",
         "n": "Art Brussels 2006- 24th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "4205-Fiac 2006",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -52,10 +60,18 @@
         "ct": "New York City, NY"
       },
       {
+        "i": "4205-ArtParis 07",
+        "c": "FR"
+      },
+      {
         "i": "4205-Art Brussels 2007- 25th Contemporary Art Fair",
         "c": "BE",
         "n": "Art Brussels 2007- 25th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "4205-Fiac 2007",
+        "c": "FR"
       },
       {
         "i": "4205-Contemporary Istanbul Art Fair 2007",
@@ -66,18 +82,82 @@
     ],
     "2008": [
       {
+        "i": "4205-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
         "i": "4205-Art Brussels 2008- 26th Contemporary Art Fair",
         "c": "BE",
         "n": "Art Brussels 2008- 26th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "4205-Fiac 2008",
+        "c": "FR"
+      },
+      {
+        "i": "4205-SLICK 2008",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "4205-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "4205-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
       {
         "i": "4205-Art Brussels 2009 - 27th Contemporary Art Fair",
         "c": "BE",
         "n": "Art Brussels 2009 - 27th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "4205-Fiac 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "4205-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "4205-Fiac 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "4205-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "4205-Fiac 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "4205-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "c": "FR"
+      },
+      {
+        "i": "4205-Slick Brussels 2012",
+        "c": "FR"
+      },
+      {
+        "i": "4205-Fiac 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "4205-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
       }
     ]
   }

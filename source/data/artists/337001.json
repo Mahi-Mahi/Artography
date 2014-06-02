@@ -1,7 +1,7 @@
 {
   "id": "337001",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:16:37",
+  "timestamp": "2014-05-24 08:11:31",
   "name": "François-Xavier Gbré",
   "surname": "Gbré",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "75548",
-  "r01": "72799",
-  "r02": "101800",
-  "r03": "96957",
-  "r04": null,
+  "r00": "62407",
+  "r01": "63735",
+  "r02": "60700",
+  "r03": "97488",
+  "r04": "92526",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,10 +28,10 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "4",
+  "all-shows-total": "5",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "2",
+  "2005-shows-museums": "1",
   "2005-countries-total": "France (2), United Kingdom (2), Benin (1)",
   "2005-shows-with": "François-Xavier Gbré (5), Georges Adéagbo (2), Nestor Da (2), Baudouin Mouanda (2), Zanele Muholi (2), Uche Okpa-Iroha (2)",
   "representing-galleries": "Galerie Cécile Fakhoury (Boulevard Latrille, Cocody, 06 BP 6499 Abidjan, Ivory Coast)",
@@ -43,6 +43,26 @@
   "age": 36,
   "age_range": "26-40",
   "expos": {
+    "2010": [
+      {
+        "i": "337001-27777-2010-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "337001-27777-2010-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "337001-19410-2010-11-30",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "337001-19410-2010-11-30",
+        "c": "FR"
+      }
+    ],
     "2012": [
       {
         "i": "337001-30617-2012-02-02",

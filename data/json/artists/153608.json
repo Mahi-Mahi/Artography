@@ -1,7 +1,7 @@
 {
   "id": "153608",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:05:59",
+  "timestamp": "2014-05-24 07:09:00",
   "name": "Renaud Regnery",
   "surname": "Regnery",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "9035",
-  "r01": "9801",
-  "r02": "11605",
-  "r03": "17079",
-  "r04": "16565",
-  "r05": "26312",
-  "r06": "31602",
-  "r07": "30547",
-  "r08": "27388",
+  "r00": "7141",
+  "r01": "7058",
+  "r02": "8024",
+  "r03": "9798",
+  "r04": "15363",
+  "r05": "14445",
+  "r06": "23863",
+  "r07": "29103",
+  "r08": "30833",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "27",
+  "all-shows-total": "26",
   "2005-shows-biennials": "14",
   "2005-shows-galleries": "14",
   "2005-shows-museums": "2",
-  "2005-countries-total": "Germany (13), France (5), Belgium (3), Czech Republic (1), USA (1)",
-  "2005-shows-with": "Renaud Regnery (16), Anne Neukamp (7), Gregor Hildebrandt (5), Alicja Kwade (3), Lea Asja Pagenkemper (3), Hannu Prinz (3), Philippe Segond (3), Claudia Wieser (3), John M Armleder (2), Mark Barrow (2), Nina Beier (2), Stéphane Belzère (2), Nathalie Blès (2), Jan Brokof (2), Rick Buckley (2), Noël Dolla (2), Friederike Feldmann (2), Henriette Grahnert (2), Stef Heidhues (2), Olaf Holzapfel (2), Klaus Jörres (2), Jacob Kassay (2), Regine Kolle (2), Svenja Kreh (2), Kris Martin (2), Frank Nitsche (2), Emilie Pitoiset (2), Jenny Rosemeyer (2), Yvan Salomone (2), Adrian Sauer (2), Marion Tampon-Lajarriette (2), Hansa Wisskirchen (2)",
+  "2005-countries-total": "Germany (13), France (6), Belgium (3), Czech Republic (1), USA (1)",
+  "2005-shows-with": "Renaud Regnery (17), Anne Neukamp (8), Gregor Hildebrandt (5), Alicja Kwade (3), Lea Asja Pagenkemper (3), Hannu Prinz (3), Philippe Segond (3), Claudia Wieser (3), John M Armleder (2), Mark Barrow (2), Nina Beier (2), Stéphane Belzère (2), Nathalie Blès (2), Jan Brokof (2), Rick Buckley (2), Noël Dolla (2), Friederike Feldmann (2), Henriette Grahnert (2), Stef Heidhues (2), Olaf Holzapfel (2), Klaus Jörres (2), Jacob Kassay (2), Regine Kolle (2), Svenja Kreh (2), Kris Martin (2), Frank Nitsche (2), Emilie Pitoiset (2), Jenny Rosemeyer (2), Yvan Salomone (2), Adrian Sauer (2), Marion Tampon-Lajarriette (2), Hansa Wisskirchen (2)",
   "representing-galleries": "Sébastien Ricou Gallery (Rue Souveraine 54 Opperstraat, 1050 Brussels, Belgium); Klemm's Berlin (Brunnenstrasse 7, 10119 Berlin, Germany); Elizabeth Dee Gallery (545 West 20th street,, 10011 New York City, NY, USA)",
   "collecting-museums": null,
   "first_name": "Renaud",
@@ -58,7 +58,90 @@
         ]
       }
     ],
+    "2007": [
+      {
+        "i": "153608-19804-2007-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "153608-19804-2007-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "153608-20580-2007-10-26",
+        "c": "DE",
+        "n": "Die geheime Welt des Kasimir",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "Gallery Air Garten",
+        "d": [
+          "2007-10-26",
+          "2007-11-24"
+        ]
+      },
+      {
+        "i": "153608-17121-2007-12-21",
+        "c": "DE",
+        "n": "Das Büffett",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "Sox",
+        "d": [
+          "2007-12-21",
+          "2008-01-27"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "153608-8897-2008-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "153608-8897-2008-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "153608-7657-2008-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "153608-7657-2008-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "153608-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "153608-17121-2007-12-21",
+        "c": "DE",
+        "n": "Das Büffett",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "Sox",
+        "d": [
+          "2007-12-21",
+          "2008-01-27"
+        ]
+      }
+    ],
     "2009": [
+      {
+        "i": "153608-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "153608-5450-2009-02-19",
+        "c": "FR"
+      },
+      {
+        "i": "153608-5450-2009-02-19",
+        "c": "FR"
+      },
       {
         "i": "153608-10736-2009-02-20",
         "c": "DE",
@@ -301,6 +384,14 @@
         ]
       },
       {
+        "i": "153608-1961-2013-03-02",
+        "c": "FR"
+      },
+      {
+        "i": "153608-1961-2013-03-02",
+        "c": "FR"
+      },
+      {
         "i": "153608-26843-2013-04-18",
         "c": "BE",
         "n": "Inner Journeys",
@@ -337,49 +428,6 @@
         "d": [
           "2013-09-14",
           "2013-10-26"
-        ]
-      }
-    ],
-    "2007": [
-      {
-        "i": "153608-20580-2007-10-26",
-        "c": "DE",
-        "n": "Die geheime Welt des Kasimir",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "Gallery Air Garten",
-        "d": [
-          "2007-10-26",
-          "2007-11-24"
-        ]
-      },
-      {
-        "i": "153608-17121-2007-12-21",
-        "c": "DE",
-        "n": "Das Büffett",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "Sox",
-        "d": [
-          "2007-12-21",
-          "2008-01-27"
-        ]
-      }
-    ],
-    "2008": [
-      {
-        "i": "153608-17121-2007-12-21",
-        "c": "DE",
-        "n": "Das Büffett",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "Sox",
-        "d": [
-          "2007-12-21",
-          "2008-01-27"
         ]
       }
     ]

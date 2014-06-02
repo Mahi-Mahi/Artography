@@ -18,6 +18,10 @@
   "fairs": {
     "2005": [
       {
+        "i": "4241-ArtParis 2005",
+        "c": "FR"
+      },
+      {
         "i": "4241-art.fair 2005",
         "c": "DE",
         "n": "art.fair 2005",
@@ -44,6 +48,14 @@
         "c": "KR",
         "n": "KIAF 2007",
         "ct": "Seoul"
+      },
+      {
+        "i": "4241-ARTéNÎM 2007",
+        "c": "FR"
+      },
+      {
+        "i": "4241-Les Elysées de l'Art - 2007",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -54,10 +66,18 @@
         "ct": "Karlsruhe"
       },
       {
+        "i": "4241-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
         "i": "4241-KIAF 2008",
         "c": "KR",
         "n": "KIAF 2008",
         "ct": "Seoul"
+      },
+      {
+        "i": "4241-Art Elysées 2008",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -66,6 +86,14 @@
         "c": "DE",
         "n": "art KARLSRUHE 2009",
         "ct": "Karlsruhe"
+      },
+      {
+        "i": "4241-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
+        "i": "4241-Art Elysées 2009",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -74,6 +102,16 @@
         "c": "BE",
         "n": "ART on PAPER",
         "ct": "Brussels"
+      },
+      {
+        "i": "4241-Art Elysées 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "4241-Art Elysées 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -82,6 +120,16 @@
         "c": "BE",
         "n": "Art On Paper 2012",
         "ct": "Brussels"
+      },
+      {
+        "i": "4241-Art Elysées 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "4241-Art Elysees 2013",
+        "c": "FR"
       }
     ]
   }

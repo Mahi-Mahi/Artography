@@ -1,7 +1,7 @@
 {
   "id": "53270",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:25:27",
+  "timestamp": "2014-05-24 06:34:48",
   "name": "Roberto Martinez",
   "surname": "Martinez",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "21851",
-  "r01": "20617",
-  "r02": "17684",
-  "r03": "15769",
-  "r04": "13575",
-  "r05": "11415",
-  "r06": "9259",
-  "r07": "9980",
-  "r08": "7845",
+  "r00": "19687",
+  "r01": "24158",
+  "r02": "47537",
+  "r03": "41662",
+  "r04": "31464",
+  "r05": "22031",
+  "r06": "15408",
+  "r07": "11008",
+  "r08": "12001",
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
-  "all-shows-total": "14",
+  "all-shows-total": "16",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (4)",
-  "2005-shows-with": "Roberto Martinez (4), Alice Anderson (2), Douglas Gordon (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (6)",
+  "2005-shows-with": "Roberto Martinez (6), Alice Anderson (3), Claude Closky (3), Mark Dion (3), Hans-Peter Feldmann (3), Douglas Gordon (3), Jean Claude Lefèvre (3), Jonathan Monk (3), Hubert Renard (3), Yann Sérandour (3), herman de vries (3), Eric Watier (3), Christian Boltanski (2), George Brecht (2), Stanley Brouwn (2), Ludovic Burel (2), James Lee Byars (2), Pascal le Coq (2), Peter Downsbrough (2), Patrick Dubrac (2), Céline Duval (2), Robert Filliou (2), Hamish Fulton (2), Gilbert & George (2), Marie-Ange Guilleminot (2), Dick Higgins (2), Sol LeWitt (2), Richard Long (2), Jackson Mac Low (2), Annette Messager (2), Simon Morris (2), Maurizio Nannucci (2), Jean-Michel Othoniel (2), Simon Patterson (2), Tom Phillips (2), Michalis Pichler (2), Jack Pierson (2), Richard Prince (2), Sophie Ristelhueber (2), Dieter Roth (2), Allen Ruppersberg (2), Ed Ruscha (2), Claude Rutault (2), Anri Sala (2), Daniel Spoerri (2), Richard Tuttle (2), Erica Van Horn (2), Wolf Vostell (2), La Monte Young (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Roberto",
@@ -43,5 +43,73 @@
   "age": 58,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "53270-17766-2007-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "53270-17766-2007-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "53270-4651-2007-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "53270-1829-2007-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "53270-1829-2007-03-23",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "53270-4651-2007-10-04",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "53270-1829-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "53270-1829-2010-02-13",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "53270-27778-2011-10-15",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "53270-27778-2011-10-15",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "53270-29392-2013-03-02",
+        "c": "FR"
+      },
+      {
+        "i": "53270-29392-2013-03-02",
+        "c": "FR"
+      },
+      {
+        "i": "53270-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "53270-10825-2013-09-21",
+        "c": "FR"
+      }
+    ]
   }
 }

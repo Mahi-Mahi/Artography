@@ -16,5 +16,27 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "4",
   "fairs": {
+    "2006": [
+      {
+        "i": "8099-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "8099-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "8099-Lille Art Fair 08",
+        "c": "FR"
+      },
+      {
+        "i": "8099-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "121076",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:52:52",
+  "timestamp": "2014-05-24 06:58:09",
   "name": "Neil Beloufa",
   "surname": "Beloufa",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "1567",
-  "r01": "2970",
-  "r02": "4641",
-  "r03": "6018",
-  "r04": "9146",
-  "r05": "11101",
-  "r06": "31530",
-  "r07": null,
+  "r00": "693",
+  "r01": "952",
+  "r02": "2022",
+  "r03": "3194",
+  "r04": "4611",
+  "r05": "7276",
+  "r06": "8936",
+  "r07": "26616",
   "r08": null,
   "awards": null,
-  "website": null,
+  "website": "www.neilbeloufa.com",
   "all-shows-first": "2007",
-  "all-shows-total": "57",
-  "2005-shows-biennials": "14",
-  "2005-shows-galleries": "14",
-  "2005-shows-museums": "22",
-  "2005-countries-total": "USA (15), France (12), Austria (4), Germany (3), Italy (3), Switzerland (3), United Kingdom (3), Israel (2), Netherlands (2), Belgium (1), Canada (1), Czech Republic (1), Ivory Coast (1), Lithuania (1), Romania (1), Spain (1)",
-  "2005-shows-with": "Neil Beloufa (44), Camille Henrot (4), Bouchra Khalili (4), Liu Zhenchen (4), Mark Aerial Waller (3), Pawel Althamer (3), Ed Atkins (3), Heman Chong (3), Isabelle Cornaro (3), Jason Dodge (3), Jimmie Durham (3), Harun Farocki (3), Robert Gober (3), Johan Grimonprez (3), Louise Hervé & Chloé Maillet (3), Hassan Khan (3), Basim Magdy (3), Antoni Muntadas (3), Oliver Ressler (3), Hito Steyerl (3), Ryan Trecartin (3), Clemens von Wedemeyer (3), Apichatpong Weerasethakul (3), Mathieu Kleyebe Abonnenc (2), Romy Achituv (2), AES+F (2), Viktor Alimpiev (2), Yuri Ancarani (2), Jonathas de Andrade (2), Ziad Antar (2), Ei Arakawa (2), Tarek Atoui (2), Kader Attia (2), Miroslaw Balka (2), Guy Bar-Amotz (2), Eric Baudelaire (2), Guy Ben-Ner (2), Lene Berg (2), Ursula Biemann (2), The Blue Noses (2), John Bock (2), Antoine Boutet (2), Geta Bratescu (2), Nina Canell (2), Banu Cennetoglu (2), Filipa César (2), Lygia Clark (2), Ofri Cnaani (2), Marcus Coates (2), Colonel (2), Keren Cytter (2), Tom Dale (2), Oskar Dawicki (",
+  "all-shows-total": "65",
+  "2005-shows-biennials": "15",
+  "2005-shows-galleries": "15",
+  "2005-shows-museums": "26",
+  "2005-countries-total": "USA (17), France (14), Austria (4), Germany (4), Switzerland (4), United Kingdom (4), Italy (3), Canada (2), Israel (2), Netherlands (2), Belgium (1), Brazil (1), Czech Republic (1), Ivory Coast (1), Lithuania (1), Romania (1), Spain (1)",
+  "2005-shows-with": "Neil Beloufa (50), Bouchra Khalili (5), Jason Dodge (4), Camille Henrot (4), Liu Zhenchen (4), Mathieu Kleyebe Abonnenc (3), Mark Aerial Waller (3), Pawel Althamer (3), Ed Atkins (3), Kader Attia (3), Miroslaw Balka (3), Heman Chong (3), Isabelle Cornaro (3), Jimmie Durham (3), Harun Farocki (3), Mounir Fatmi (3), Robert Gober (3), Johan Grimonprez (3), João Maria Gusmão & Pedro Paiva (3), Louise Hervé & Chloé Maillet (3), Hassan Khan (3), Kiluanji Kia Henda (3), Basim Magdy (3), Antoni Muntadas (3), Paulo Nazareth (3), Oliver Ressler (3), Alexandre Singh (3), Hito Steyerl (3), Pascale Marthine Tayou (3), Ryan Trecartin (3), Stefanos Tsivopoulos (3), Clemens von Wedemeyer (3), Apichatpong Weerasethakul (3), Adel Abdessemed (2), Romy Achituv (2), AES+F (2), Ai Weiwei (2), Viktor Alimpiev (2), Basma Alsharif (2), Francis Alys (2), Yuri Ancarani (2), Jonathas de Andrade (2), Ziad Antar (2), Ei Arakawa (2), Tarek Atoui (2), Guy Bar-Amotz (2), Massimo Bartolini (2), Eric Baudelaire (2), Guy Ben-Ner (2), Lene B",
   "representing-galleries": "Galerie Balice Hertling (65 Rue Rebeval, 75019 Paris, France); Galerie LHK (6 rue Saint Claude, 75003 Paris, France); Zero (via Tadino 20, 20124 Milan, Italy); François Ghebaly Gallery (2600 La Cienega Blvd, CA 90034 Los Angeles, CA, USA)",
   "collecting-museums": "Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); Sammlung Goetz (Oberföhringer Str. 103, 81925 Munich, Germany)",
   "first_name": "Neil",
@@ -44,6 +44,14 @@
   "age_range": "26-40",
   "expos": {
     "2007": [
+      {
+        "i": "121076-1782-2007-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "121076-1782-2007-01-11",
+        "c": "FR"
+      },
       {
         "i": "121076-15774-2007-10-12",
         "c": "CH",
@@ -188,6 +196,30 @@
         ]
       },
       {
+        "i": "121076-10237-2009-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "121076-10237-2009-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "121076-18564-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "121076-18564-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "121076-18564-2009-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "121076-18564-2009-03-21",
+        "c": "FR"
+      },
+      {
         "i": "121076-7940-2009-09-09",
         "c": "US",
         "n": "Neil Beloufa - TECTONIC PLATES OR THE JURISDICTION OF SHAPES / Main Gallery",
@@ -216,6 +248,14 @@
     ],
     "2010": [
       {
+        "i": "121076-2709-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "121076-2709-2010-06-05",
+        "c": "FR"
+      },
+      {
         "i": "121076-8157-2010-07-05",
         "c": "CH",
         "n": "Actual Fears / Mixed Gaps & Vertigo",
@@ -240,6 +280,22 @@
           "2010-07-20",
           "2010-09-11"
         ]
+      },
+      {
+        "i": "121076-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "121076-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "121076-8282-2010-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "121076-8282-2010-09-21",
+        "c": "FR"
       },
       {
         "i": "121076-7127-2010-10-08",
@@ -306,6 +362,14 @@
         ]
       },
       {
+        "i": "121076-17012-2011-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "121076-17012-2011-01-29",
+        "c": "FR"
+      },
+      {
         "i": "121076-2943-2011-05-20",
         "c": "BE",
         "n": "Museum of Display",
@@ -317,6 +381,14 @@
           "2011-05-20",
           "2011-07-03"
         ]
+      },
+      {
+        "i": "121076-8282-2011-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "121076-8282-2011-06-07",
+        "c": "FR"
       },
       {
         "i": "121076-9134-2011-06-23",
@@ -371,6 +443,14 @@
         ]
       },
       {
+        "i": "121076-13443-2011-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "121076-13443-2011-09-12",
+        "c": "FR"
+      },
+      {
         "i": "121076-6160-2011-11-13",
         "c": "CH",
         "n": "NEIL BELOUFA - TOPICS VALUES",
@@ -410,6 +490,14 @@
           "2012-03-24",
           "2012-04-21"
         ]
+      },
+      {
+        "i": "121076-26765-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "121076-26765-2012-04-20",
+        "c": "FR"
       },
       {
         "i": "121076-18196-2012-06-14",
@@ -487,6 +575,10 @@
           "2012-05-02",
           "2012-06-16"
         ]
+      },
+      {
+        "i": "121076-1782-2012-10-17",
+        "c": "FR"
       },
       {
         "i": "121076-957-2012-11-13",
@@ -632,6 +724,14 @@
         ]
       },
       {
+        "i": "121076-2493-2013-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "121076-2493-2013-09-12",
+        "c": "FR"
+      },
+      {
         "i": "121076-29999-2013-10-10",
         "c": "US",
         "n": "Solar",
@@ -656,6 +756,10 @@
           "2013-10-18",
           "2014-01-26"
         ]
+      },
+      {
+        "i": "121076-1782-2012-10-17",
+        "c": "FR"
       },
       {
         "i": "121076-1785-2013-05-25",

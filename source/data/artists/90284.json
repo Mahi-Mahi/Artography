@@ -1,7 +1,7 @@
 {
   "id": "90284",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:40:53",
+  "timestamp": "2014-05-24 06:47:52",
   "name": "Hermine Anthoine",
   "surname": "Anthoine",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "18456",
-  "r01": "16770",
-  "r02": "16601",
-  "r03": "16536",
-  "r04": "16674",
-  "r05": "16025",
-  "r06": "16072",
-  "r07": "15073",
-  "r08": "15173",
+  "r00": "13679",
+  "r01": "21443",
+  "r02": "18557",
+  "r03": "18849",
+  "r04": "18784",
+  "r05": "18347",
+  "r06": "17123",
+  "r07": "16813",
+  "r08": "15341",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
   "all-shows-total": "21",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "Germany (10), France (3), Denmark (1)",
-  "2005-shows-with": "Hermine Anthoine (13), Liliana Basarab (4), Ins A Kromminga (4), Daniel Schürer (4), John von Bergen (3), Rolf Bergmeier (3), Baldur Burwitz (3), Brad Downey (3), Johannes Esper (3), Christiane Haase (3), Peter Pommerer (3), Karen Scheper (3), Michael Schmeichel (3), Nir Alon (2), Matthias Berthold (2), John Bock (2), BOXI (2), Laura Bruce (2), Nine Budde (2), Martin Durham (2), Henrik Eiben (2), Harald Finke (2), Gregor Gaida (2), Till Gerhard (2), Wiebke Groesch & Frank Metzger (2), Till F. E. Haupt (2), Mark Jenkins (2), Ella Klaschka (2), Toshiya Kobayashi (2), Reiner Maria Matysik (2), John McCracken (2), Karin Missy Paule (2), Marnie Moldenhauer (2), Mathias Mongin (2), Piotr Nathan (2), Bettina Pousttchi (2), Mirko Reisser (2), Ulrich Rückriem (2), Thorsten Tenberken (2), Dimitris Tzamouranis (2), Stefan Wewerka (2), Herbert Zangs (2)",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "Germany (11), France (3), Denmark (1)",
+  "2005-shows-with": "Hermine Anthoine (14), Liliana Basarab (4), Baldur Burwitz (4), Ins A Kromminga (4), Michael Schmeichel (4), Daniel Schürer (4), John von Bergen (3), Rolf Bergmeier (3), BOXI (3), Brad Downey (3), Henrik Eiben (3), Johannes Esper (3), Gregor Gaida (3), Christiane Haase (3), Toshiya Kobayashi (3), Peter Pommerer (3), Mirko Reisser (3), Karen Scheper (3), Dimitris Tzamouranis (3), Nir Alon (2), Miroslaw Balka (2), Matthias Berthold (2), John Bock (2), Laura Bruce (2), Nine Budde (2), Wim Delvoye (2), Madeleine Dietz (2), Martin Durham (2), Jimmie Durham (2), Robert Filliou (2), Harald Finke (2), Till Gerhard (2), Gregory Green (2), Wiebke Groesch & Frank Metzger (2), Till F. E. Haupt (2), Mark Jenkins (2), Wulf Kirschner (2), Ella Klaschka (2), Franticek Klossner (2), Ange Leccia (2), Daniel Man (2), Reiner Maria Matysik (2), John McCracken (2), Karin Missy Paule (2), Marnie Moldenhauer (2), Mathias Mongin (2), Piotr Nathan (2), Cady Noland (2), Tony Oursler (2), Wolfgang Petrick (2), Bettina Pousttchi (2), Ro",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Hermine",
@@ -140,9 +140,33 @@
           "2009-06-27",
           "2009-08-09"
         ]
+      },
+      {
+        "i": "90284-21710-2009-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "90284-20649-2009-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "90284-20649-2009-03-20",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "90284-21710-2009-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "90284-20649-2010-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "90284-20649-2010-01-30",
+        "c": "FR"
+      },
       {
         "i": "90284-2188-2010-05-08",
         "c": "DE",

@@ -24,6 +24,10 @@
         "ct": "Seoul"
       },
       {
+        "i": "5450-Show Off Paris 2006",
+        "c": "FR"
+      },
+      {
         "i": "5450-Art Cologne 2006",
         "c": "DE",
         "n": "Art Cologne 2006",
@@ -31,6 +35,10 @@
       }
     ],
     "2007": [
+      {
+        "i": "5450-ArtParis 07",
+        "c": "FR"
+      },
       {
         "i": "5450-KIAF 2007",
         "c": "KR",
@@ -44,6 +52,14 @@
         "ct": "London (England)"
       },
       {
+        "i": "5450-Docks Art Fair 2007",
+        "c": "FR"
+      },
+      {
+        "i": "5450-Show Off Paris 2007",
+        "c": "FR"
+      },
+      {
         "i": "5450-ArtParis - AbuDhabi 2007",
         "c": "AE",
         "n": "ArtParis - AbuDhabi 2007",
@@ -52,10 +68,22 @@
     ],
     "2008": [
       {
+        "i": "5450-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "5450-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
         "i": "5450-KIAF 2008",
         "c": "KR",
         "n": "KIAF 2008",
         "ct": "Seoul"
+      },
+      {
+        "i": "5450-Show Off Paris 2008",
+        "c": "FR"
       },
       {
         "i": "5450-ArtParis - AbuDhabi 2008",
@@ -64,12 +92,58 @@
         "ct": "Abu Dhabi"
       }
     ],
+    "2009": [
+      {
+        "i": "5450-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "5450-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
+        "i": "5450-Paris Photo 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5450-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "5450-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "5450-Paris Photo 2010",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "5450-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "5450-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "5450-Paris Photo 2011",
+        "c": "FR"
+      },
       {
         "i": "5450-Art Miami 2011",
         "c": "US",
         "n": "Art Miami 2011",
         "ct": "Miami, FL"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5450-Paris Photo 2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -78,6 +152,14 @@
         "c": "GB",
         "n": "Art13 London",
         "ct": "London (England)"
+      },
+      {
+        "i": "5450-DocksArtFair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "5450-Yia Art Fair 2013",
+        "c": "FR"
       }
     ]
   }

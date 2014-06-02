@@ -1,7 +1,7 @@
 {
   "id": "48165",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:23:26",
+  "timestamp": "2014-05-24 06:33:00",
   "name": "Ariane Michel",
   "surname": "Michel",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Film",
-  "r00": "7073",
-  "r01": "6456",
-  "r02": "9811",
-  "r03": "10718",
-  "r04": "16524",
-  "r05": "14238",
-  "r06": "12613",
-  "r07": "14401",
-  "r08": "11595",
+  "r00": "9493",
+  "r01": "8844",
+  "r02": "7414",
+  "r03": "8805",
+  "r04": "9642",
+  "r05": "16287",
+  "r06": "13173",
+  "r07": "11347",
+  "r08": "13002",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "23",
+  "all-shows-total": "22",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "10",
-  "2005-countries-total": "France (9), Canada (1), China (1), Germany (1), Portugal (1), USA (1)",
-  "2005-shows-with": "Ariane Michel (12), Karen Knorr (3), Kader Attia (2), Céleste Boursier-Mougenot (2), Marcelline Delbecq (2), Mark Dion (2), André Guedes (2), Camille Henrot (2), Louise Hervé & Chloé Maillet (2), Hsia-Fei Chang (2), Seulgi Lee (2), Jochen Lempert (2), Mrzyk & Moriceau (2), Jorge Pedro Núñez (2), Jean-Michel Pancin (2), Gerald Petit (2)",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (8), Canada (1), China (1), Germany (1), Portugal (1), USA (1)",
+  "2005-shows-with": "Ariane Michel (11), Kader Attia (2), Céleste Boursier-Mougenot (2), Marcelline Delbecq (2), Mark Dion (2), André Guedes (2), Camille Henrot (2), Louise Hervé & Chloé Maillet (2), Hsia-Fei Chang (2), Karen Knorr (2), Seulgi Lee (2), Jochen Lempert (2), Mrzyk & Moriceau (2), Jorge Pedro Núñez (2), Jean-Michel Pancin (2), Gerald Petit (2)",
   "representing-galleries": "Jousse Entreprise (6 Rue Saint-Claude, 75003 Paris, France)",
   "collecting-museums": "Espace Croisé (Grand Place, 59059 Roubaix, France)",
   "first_name": "Ariane",
@@ -45,6 +45,14 @@
   "expos": {
     "2005": [
       {
+        "i": "48165-8292-2005-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "48165-8292-2005-02-25",
+        "c": "FR"
+      },
+      {
         "i": "48165-6770-2005-10-06",
         "c": "CH",
         "n": "11ème Biennale de l’Image en Mouvement",
@@ -55,6 +63,14 @@
           "2005-10-06",
           "2006-01-15"
         ]
+      },
+      {
+        "i": "48165-2414-2005-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "48165-2414-2005-10-16",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -84,9 +100,33 @@
           "2007-02-03",
           "2007-02-04"
         ]
+      },
+      {
+        "i": "48165-20789-2007-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "48165-20789-2007-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "48165-1939-2007-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "48165-1939-2007-10-20",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "48165-4201-2008-05-08",
+        "c": "FR"
+      },
+      {
+        "i": "48165-4201-2008-05-08",
+        "c": "FR"
+      },
       {
         "i": "48165-12233-2008-09-07",
         "c": "DE",
@@ -142,6 +182,30 @@
           "2010-08-27",
           "2010-10-17"
         ]
+      },
+      {
+        "i": "48165-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "48165-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "48165-10237-2010-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "48165-10237-2010-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "48165-8282-2010-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "48165-8282-2010-04-07",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -170,6 +234,50 @@
           "2011-05-15",
           "2011-06-26"
         ]
+      },
+      {
+        "i": "48165-20164-2011-11-17",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "48165-20164-2011-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "48165-2219-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "48165-2219-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "48165-8282-2012-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "48165-8282-2012-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "48165-27825-2012-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "48165-27825-2012-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "48165-9344-2012-11-23",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "48165-9344-2012-11-23",
+        "c": "FR"
       }
     ]
   }

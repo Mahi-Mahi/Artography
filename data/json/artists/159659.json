@@ -1,7 +1,7 @@
 {
   "id": "159659",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:08:29",
+  "timestamp": "2014-05-24 07:11:06",
   "name": "Guillaume Bresson",
   "surname": "Bresson",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Drawings",
-  "r00": "16605",
-  "r01": "16140",
-  "r02": "18028",
-  "r03": "22822",
-  "r04": "55752",
-  "r05": "64980",
-  "r06": "79817",
-  "r07": null,
+  "r00": "12837",
+  "r01": "12774",
+  "r02": "12346",
+  "r03": "13669",
+  "r04": "17823",
+  "r05": "49184",
+  "r06": "60577",
+  "r07": "78515",
   "r08": null,
   "awards": null,
   "website": null,
@@ -34,7 +34,7 @@
   "2005-shows-museums": "3",
   "2005-countries-total": "France (5), Germany (2), Belgium (1), Brazil (1), Slovakia (1)",
   "2005-shows-with": "Guillaume Bresson (6), Duncan Wylie (4), Farah Atassi (2), Damien Deroubaix (2), Vincent Ganivet (2), Claire Tabouret (2)",
-  "representing-galleries": "Sorry, we’re closed (Rue de la Régence 65A, 1000 Brussels, Belgium); Galerie Nathalie Obadia - Paris (3, rue du Cloitre Saint-Merri, 75004 Paris, France); Bourouina Gallery (Charlottenstr. 1-2, 10969 Berlin, Germany)",
+  "representing-galleries": "Sorry, we’re closed (Rue de la Régence 65A, 1000 Brussels, Belgium); Galerie Nathalie Obadia - Paris (3, rue du Cloitre Saint-Merri, 75004 Paris, France)",
   "collecting-museums": null,
   "first_name": "Guillaume",
   "last_name": "Bresson",
@@ -43,7 +43,33 @@
   "age": 32,
   "age_range": "26-40",
   "expos": {
+    "2010": [
+      {
+        "i": "159659-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "159659-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "159659-1955-2010-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "159659-1955-2010-05-29",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "159659-1955-2011-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "159659-1955-2011-04-16",
+        "c": "FR"
+      },
       {
         "i": "159659-13908-2011-06-11",
         "c": "DE",
@@ -83,6 +109,26 @@
           "2013-06-13",
           "2013-07-26"
         ]
+      },
+      {
+        "i": "159659-21098-2013-11-30",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "159659-21098-2013-11-30",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "159659-13366-2007-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "159659-13366-2007-09-21",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -113,6 +159,16 @@
           "2009-09-01",
           "2009-10-31"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "159659-1955-2012-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "159659-1955-2012-05-31",
+        "c": "FR"
       }
     ]
   }

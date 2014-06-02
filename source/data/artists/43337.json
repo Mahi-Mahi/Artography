@@ -1,7 +1,7 @@
 {
   "id": "43337",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:21:32",
+  "timestamp": "2014-05-24 06:31:17",
   "name": "Alain Fleischer",
   "surname": "Fleischer",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Sculpture, Film",
-  "r00": "3082",
-  "r01": "2909",
-  "r02": "2846",
-  "r03": "3117",
-  "r04": "2647",
-  "r05": "2294",
-  "r06": "2322",
-  "r07": "2879",
-  "r08": "2560",
+  "r00": "3637",
+  "r01": "3384",
+  "r02": "3320",
+  "r03": "3307",
+  "r04": "4043",
+  "r05": "3158",
+  "r06": "2591",
+  "r07": "2752",
+  "r08": "3794",
   "awards": null,
   "website": null,
   "all-shows-first": "1980",
-  "all-shows-total": "58",
+  "all-shows-total": "57",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "19",
-  "2005-countries-total": "France (15), Germany (3), Brazil (1), Netherlands (1), Portugal (1), Singapore (1)",
+  "2005-shows-museums": "20",
+  "2005-countries-total": "France (15), Germany (3), Brazil (1), Canada (1), Netherlands (1), Portugal (1), Singapore (1)",
   "2005-shows-with": "Alain Fleischer (21), Christian Boltanski (4), Fischli & Weiss (4), George Brecht (3), Marcel Broodthaers (3), Martial Cherrier (3), Salvador Dalí (3), Guy Debord (3), Hans-Peter Feldmann (3), Raymond Hains (3), Ange Leccia (3), Orlan (3), Bernard Plossu (3), Francesc Abad (2), Ignasi Aballí (2), Peter Aerschmann (2), James Agee (2), Vyacheslav Akhunov (2), Josef Albers (2), Louis Aragon (2), Jean Arp (2), John Baldessari (2), Georges Bataille (2), Bernd & Hilla Becher (2), Ernst Benkard (2), Marc Bloch (2), Barbara Bloom (2), Karl Blossfeldt (2), Erwin Blumenfeld (2), Alighiero Boëtti (2), Jorge Luis Borges (2), Brassaï (2), Michel Bret (2), André Breton (2), Stanley Brouwn (2), Jacob Burckhardt (2), Victor Burgin (2), Daniel Burkhardt (2), David M. Burrows (2), André Cadere (2), Henri Cartier-Bresson (2), James Coleman (2), Pascal Convert (2), Edmond Couchot (2), Moyra Davey (2), Tacita Dean (2), Braco Dimitrijevic (2), Noël Dolla (2), Clorinde Durand (2), Max Ernst (2), Walker Evans (2), Harun Faroc",
   "representing-galleries": "Galerie Le Réverbère (38, rue Burdeau, 69001 Lyon, France)",
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France)",
@@ -98,6 +98,10 @@
         ]
       },
       {
+        "i": "43337-2219-2007-11-07",
+        "c": "FR"
+      },
+      {
         "i": "43337-7708-2006-11-23",
         "c": "KR",
         "n": "Alain Fleischer",
@@ -124,6 +128,14 @@
         ]
       },
       {
+        "i": "43337-10516-2007-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "43337-10516-2007-03-14",
+        "c": "FR"
+      },
+      {
         "i": "43337-10868-2007-09-28",
         "c": "MX",
         "n": "El marco y el reflejo",
@@ -139,6 +151,18 @@
     ],
     "2008": [
       {
+        "i": "43337-2219-2007-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "43337-17377-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "43337-17377-2008-04-11",
+        "c": "FR"
+      },
+      {
         "i": "43337-576-2008-10-15",
         "c": "DE",
         "n": "PERFORMING THE CITY - Kunst Aktionismus im Stadt Raum 60er und 70er Jahre",
@@ -150,6 +174,14 @@
           "2008-10-15",
           "2008-11-30"
         ]
+      },
+      {
+        "i": "43337-11845-2008-10-21",
+        "c": "FR"
+      },
+      {
+        "i": "43337-11845-2008-10-21",
+        "c": "FR"
       },
       {
         "i": "43337-3714-2008-06-21",
@@ -166,6 +198,14 @@
       }
     ],
     "2009": [
+      {
+        "i": "43337-12906-2009-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "43337-12906-2009-01-30",
+        "c": "FR"
+      },
       {
         "i": "43337-14381-2009-04-01",
         "c": "PT",
@@ -191,6 +231,32 @@
           "2009-04-25",
           "2009-05-12"
         ]
+      },
+      {
+        "i": "43337-23586-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "43337-23586-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "43337-18800-2009-09-19",
+        "c": "FR"
+      },
+      {
+        "i": "43337-18800-2009-09-19",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "43337-9961-2010-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "43337-9961-2010-11-10",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -232,6 +298,82 @@
           "2011-10-01",
           "2011-11-27"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "43337-10517-2012-01-09",
+        "c": "FR"
+      },
+      {
+        "i": "43337-10517-2012-01-09",
+        "c": "FR"
+      },
+      {
+        "i": "43337-28272-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "43337-28272-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "43337-8548-2012-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "43337-8548-2012-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "43337-22980-2012-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "43337-22980-2012-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "43337-10516-2012-11-14",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "43337-10516-2012-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "43337-10516-2013-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "43337-10516-2013-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "43337-20679-2013-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "43337-20679-2013-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "43337-1386-2013-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "43337-1386-2013-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "43337-30001-2013-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "43337-30001-2013-11-14",
+        "c": "FR"
       }
     ],
     "2006": [

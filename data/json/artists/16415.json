@@ -1,7 +1,7 @@
 {
   "id": "16415",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:53",
+  "timestamp": "2014-05-24 06:21:27",
   "name": "Jean-Pierre Khazem",
   "surname": "Khazem",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "11002",
-  "r01": "9585",
-  "r02": "8183",
-  "r03": "7143",
-  "r04": "5970",
-  "r05": "4952",
-  "r06": "4042",
-  "r07": "3240",
-  "r08": "2715",
+  "r00": "56430",
+  "r01": "35626",
+  "r02": "21244",
+  "r03": "13617",
+  "r04": "10081",
+  "r05": "7357",
+  "r06": "5445",
+  "r07": "4026",
+  "r08": "2975",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "20",
+  "all-shows-total": "21",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
   "2005-shows-museums": null,
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "16415-1961-2005-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "16415-1961-2005-01-15",
+        "c": "FR"
+      },
       {
         "i": "16415-3737-2005-10-01",
         "c": "LU",

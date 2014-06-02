@@ -1,7 +1,7 @@
 {
   "id": "295964",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:01:00",
+  "timestamp": "2014-05-24 07:57:49",
   "name": "Vincent J. Stoker",
   "surname": "Stoker",
   "nationality": "FR",
@@ -16,10 +16,10 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "44425",
-  "r01": "75668",
-  "r02": "73983",
-  "r03": null,
+  "r00": "23848",
+  "r01": "31142",
+  "r02": "60847",
+  "r03": "61606",
   "r04": null,
   "r05": null,
   "r06": null,
@@ -28,12 +28,12 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2011",
-  "all-shows-total": "7",
-  "2005-shows-biennials": "6",
-  "2005-shows-galleries": "6",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (7)",
-  "2005-shows-with": "Vincent J. Stoker (5), Véronique Ellena (4), Marléne Mocquet (3), Anita Molinero (2), Bernard Quesniaux (2)",
+  "2005-countries-total": "France (9)",
+  "2005-shows-with": "Vincent J. Stoker (6), Véronique Ellena (5), Marléne Mocquet (3), Anita Molinero (3), Bernard Quesniaux (3), Laurent Goumarre (2), Guillaume Linard-Osorio (2), Michael Roy (2)",
   "representing-galleries": "Galerie Alain Gutharc (7, Rue Saint-Claude, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Vincent",
@@ -43,5 +43,69 @@
   "age": 35,
   "age_range": "26-40",
   "expos": {
+    "2011": [
+      {
+        "i": "295964-2013-2011-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "295964-2013-2011-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "295964-2013-2011-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "295964-2013-2011-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "295964-2013-2011-09-10",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "295964-2013-2011-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "295964-2013-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "295964-2013-2012-07-07",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "295964-2013-2013-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "295964-2013-2013-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "295964-8997-2013-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "295964-2013-2013-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "295964-2013-2013-10-24",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "295964-8997-2013-10-05",
+        "c": "FR"
+      }
+    ]
   }
 }

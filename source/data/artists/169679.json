@@ -1,7 +1,7 @@
 {
   "id": "169679",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:12:22",
+  "timestamp": "2014-05-24 07:14:35",
   "name": "Colombe Marcasiano",
   "surname": "Marcasiano",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "22845",
-  "r01": "22327",
-  "r02": "24633",
-  "r03": "27796",
-  "r04": "52109",
-  "r05": "76626",
-  "r06": "68763",
-  "r07": "68131",
-  "r08": "59202",
+  "r00": "19013",
+  "r01": "19241",
+  "r02": "18104",
+  "r03": "20065",
+  "r04": "22727",
+  "r05": "47280",
+  "r06": "77267",
+  "r07": "68097",
+  "r08": "68849",
   "awards": null,
-  "website": null,
+  "website": "colombemarcasiano.blogspot.com",
   "all-shows-first": "2002",
-  "all-shows-total": "19",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "all-shows-total": "20",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (12), Belgium (3), Netherlands (1), Sweden (1)",
-  "2005-shows-with": "Colombe Marcasiano (15), Laurent Belloni (3), Francisco Da Mata (3), Hélène La Forge (3), Sofie Haesaerts (3), Guillaume Millet (3), Laurence   Papouin (3), Boris Raux (3), Cédric Teisseire (3), Fabienne Audeoud (2), Ismail Bahri (2), Taysir Batniji (2), Walead Beshty (2), Greet Billet (2), Lucie Bitunjac (2), Valérie Blin-Kaddour (2), Jean-Philippe Brunaud (2), Julie Chaumette (2), François Daireaux (2), Isabelle Ferreira (2), James Hyde (2), Marion Jannot (2), Bernhard Kahrmann (2), Jérémy Laffon (2), Vincent Mauger (2), Emmanuel van der Meulen (2), Joris van De Moortel (2), Richard Negre (2), Rose Nolan (2), Camila Oliveira Fairclough (2), Sébastien Pons (2), Paul Pouvreau (2), Perry Roberts (2), Anne-Marie Rognon (2), Régis Sénèque (2), Ingrid Maria Sinibaldi (2), Pieter Vermeersch (2), Cécile Wautelet (2), Sebastian Wickeroth (2), Carrie Yamaoka (2)",
+  "2005-countries-total": "France (14), Belgium (3), Netherlands (1), Sweden (1), Switzerland (1)",
+  "2005-shows-with": "Colombe Marcasiano (18), Francisco Da Mata (4), Guillaume Millet (4), Cédric Teisseire (4), Laurent Belloni (3), Greet Billet (3), Hélène La Forge (3), Sofie Haesaerts (3), Camila Oliveira Fairclough (3), Laurence   Papouin (3), Boris Raux (3), Ingrid Maria Sinibaldi (3), Sebastian Wickeroth (3), Carrie Yamaoka (3), Leonor Antunes (2), Fabienne Audeoud (2), Ismail Bahri (2), Massimiliano Baldassarri (2), Taysir Batniji (2), Jesus Alberto Benitez (2), Walead Beshty (2), Lucie Bitunjac (2), Valérie Blin-Kaddour (2), Roxane Borujerdi (2), Jean-Philippe Brunaud (2), Nicolas Chardon (2), Julie Chaumette (2), François Daireaux (2), Isabelle Ferreira (2), Hippolyte Hentgen (2), James Hyde (2), Marion Jannot (2), Raphaël Julliard (2), Bernhard Kahrmann (2), Jérémy Laffon (2), Pierre Leguillon (2), Christophe Lemaitre (2), Vincent Mauger (2), Emmanuel van der Meulen (2), Joris van De Moortel (2), Richard Negre (2), Rose Nolan (2), Sébastien Pons (2), Paul Pouvreau (2), Perry Roberts (2), Clément Rodzielski (",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Colombe",
@@ -43,7 +43,43 @@
   "age": 40,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "169679-1894-2007-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "169679-1894-2007-09-06",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "169679-16728-2009-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "169679-16728-2009-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "169679-11850-2009-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "169679-11850-2009-09-29",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "169679-20649-2010-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "169679-20649-2010-01-30",
+        "c": "FR"
+      },
       {
         "i": "169679-9296-2010-02-06",
         "c": "SE",
@@ -56,6 +92,22 @@
           "2010-02-06",
           "2010-03-14"
         ]
+      },
+      {
+        "i": "169679-12183-2010-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "169679-12183-2010-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "169679-11850-2010-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "169679-11850-2010-09-14",
+        "c": "FR"
       },
       {
         "i": "169679-12127-2010-11-07",
@@ -99,6 +151,14 @@
         ]
       },
       {
+        "i": "169679-1403-2011-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "169679-1403-2011-06-30",
+        "c": "FR"
+      },
+      {
         "i": "169679-17202-2011-09-09",
         "c": "BE",
         "n": "Influence I",
@@ -110,6 +170,58 @@
           "2011-09-09",
           "2011-10-15"
         ]
+      },
+      {
+        "i": "169679-11850-2011-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "169679-11850-2011-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "169679-25336-2011-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "169679-25336-2011-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "169679-22406-2011-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "169679-22406-2011-01-15",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "169679-11850-2012-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "169679-11850-2012-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "169679-8520-2012-11-23",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "169679-8520-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "169679-28288-2013-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "169679-28288-2013-06-22",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "65132",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:26",
+  "timestamp": "2014-05-24 06:39:02",
   "name": "Anita Molinero",
   "surname": "Molinero",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Installation",
-  "r00": "3188",
-  "r01": "3546",
-  "r02": "3969",
-  "r03": "3500",
-  "r04": "3254",
-  "r05": "3236",
-  "r06": "3285",
-  "r07": "4576",
-  "r08": "6803",
+  "r00": "2511",
+  "r01": "2850",
+  "r02": "3358",
+  "r03": "3940",
+  "r04": "3167",
+  "r05": "2964",
+  "r06": "2917",
+  "r07": "2949",
+  "r08": "4302",
   "awards": null,
   "website": null,
-  "all-shows-first": "1994",
-  "all-shows-total": "59",
-  "2005-shows-biennials": "13",
-  "2005-shows-galleries": "13",
-  "2005-shows-museums": "18",
-  "2005-countries-total": "France (29), Germany (3), Switzerland (2), Belgium (1), Croatia (1)",
-  "2005-shows-with": "Anita Molinero (31), Didier Marcel (8), Mathieu Mercier (6), Franz West (5), John M Armleder (4), Richard Fauguet (4), Pierre Ardouvin (3), Atelier van Lieshout (3), Sylvie Auvray (3), Madeleine Berkhemer (3), Etienne Bossut (3), Andrea Branzi (3), Tony Brown (3), Patrick van Caeckenbergh (3), Claude Closky (3), Patrice Gaillard & Claude (3), Jochen Gerner (3), Jan Kopp (3), Natacha Lesueur (3), Gordon Matta-Clark (3), Marléne Mocquet (3), Carlo Mollino (3), Laurent Perbos (3), Frédéric Platéus (3), Aldo Rossi (3), Ettore Sottsass (3), Bas Jan Ader (2), Wilfrid Almendra (2), Francis Alys (2), Carl Andre (2), Ron Arad (2), Farah Atassi (2), Julien Audebert (2), Fayçal Baghriche (2), Gilles Barbier (2), Michel Blazy (2), Katinka Bock (2), Mohamed Bourouissa (2), Pierre Charpin (2), David Chieppo (2), Johan Creten (2), Bill Culbert (2), François Curlet (2), Stéphane Dafflon (2), Simone Decker (2), Damien Deroubaix (2), Dewar & Gicquel (2), Marcel Dinahet (2), Olivier Dollinger (2), Lili Dujourie (2), Hube",
+  "all-shows-first": "1981",
+  "all-shows-total": "62",
+  "2005-shows-biennials": "14",
+  "2005-shows-galleries": "14",
+  "2005-shows-museums": "20",
+  "2005-countries-total": "France (31), Germany (3), Switzerland (3), Belgium (1), Croatia (1)",
+  "2005-shows-with": "Anita Molinero (34), Didier Marcel (8), Mathieu Mercier (6), John M Armleder (5), Franz West (5), Richard Fauguet (4), Pierre Ardouvin (3), Atelier van Lieshout (3), Sylvie Auvray (3), Madeleine Berkhemer (3), Katinka Bock (3), Etienne Bossut (3), Andrea Branzi (3), Tony Brown (3), Patrick van Caeckenbergh (3), Claude Closky (3), Patrice Gaillard & Claude (3), Vidya Gastaldon (3), Jochen Gerner (3), Jan Kopp (3), Natacha Lesueur (3), Gordon Matta-Clark (3), Marléne Mocquet (3), Carlo Mollino (3), Laurent Perbos (3), Frédéric Platéus (3), Bernard Quesniaux (3), Aldo Rossi (3), Ettore Sottsass (3), Vincent J. Stoker (3), Bas Jan Ader (2), Wilfrid Almendra (2), Francis Alys (2), Carl Andre (2), Ron Arad (2), Farah Atassi (2), Julien Audebert (2), Fayçal Baghriche (2), Gilles Barbier (2), Jean Luc Blanc (2), Michel Blazy (2), Mohamed Bourouissa (2), Pierre Charpin (2), David Chieppo (2), Johan Creten (2), Bill Culbert (2), François Curlet (2), Stéphane Dafflon (2), Simone Decker (2), Damien Deroubaix (2), ",
   "representing-galleries": "Galerie Alain Gutharc (7, Rue Saint-Claude, 75003 Paris, France)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France)",
   "first_name": "Anita",
@@ -43,7 +43,33 @@
   "age": 61,
   "age_range": "61-100",
   "expos": {
+    "2005": [
+      {
+        "i": "65132-378-2005-12-10",
+        "c": "FR"
+      }
+    ],
     "2006": [
+      {
+        "i": "65132-378-2005-12-10",
+        "c": "FR"
+      },
+      {
+        "i": "65132-12129-2006-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "65132-12129-2006-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "65132-9059-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "65132-9059-2006-01-21",
+        "c": "FR"
+      },
       {
         "i": "65132-9556-2006-04-23",
         "c": "NL",
@@ -73,6 +99,38 @@
     ],
     "2007": [
       {
+        "i": "65132-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "65132-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "65132-18612-2007-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "65132-18612-2007-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "65132-9344-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "65132-9344-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "65132-9344-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "65132-9344-2007-06-29",
+        "c": "FR"
+      },
+      {
         "i": "65132-3737-2007-07-07",
         "c": "LU",
         "n": "Capricci (possibilités d’autres mondes)",
@@ -86,6 +144,14 @@
         ]
       },
       {
+        "i": "65132-8128-2007-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "65132-8128-2007-11-23",
+        "c": "FR"
+      },
+      {
         "i": "65132-28587-2007-12-01",
         "c": "CH",
         "n": "Série Noire",
@@ -97,6 +163,26 @@
           "2007-12-01",
           "2008-01-20"
         ]
+      },
+      {
+        "i": "65132-8282-2007-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "65132-10239-2007-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "65132-10239-2007-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "65132-8647-2007-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "65132-8647-2007-09-16",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -114,6 +200,42 @@
         ]
       },
       {
+        "i": "65132-8282-2007-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "65132-2013-2008-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "65132-2013-2008-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "65132-17271-2008-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "65132-17271-2008-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "65132-8128-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "65132-8128-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "65132-8568-2008-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "65132-8568-2008-06-07",
+        "c": "FR"
+      },
+      {
         "i": "65132-948-2008-09-04",
         "c": "BE",
         "n": "Curiosität",
@@ -125,9 +247,119 @@
           "2008-09-04",
           "2008-10-25"
         ]
+      },
+      {
+        "i": "65132-9947-2008-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "65132-9947-2008-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "65132-2013-2008-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "65132-2013-2008-06-29",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "65132-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "65132-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "65132-10239-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "65132-10239-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "65132-10517-2009-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "65132-10517-2009-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "65132-7912-2009-11-13",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "65132-2303-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "65132-2303-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "65132-20082-2010-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "65132-20082-2010-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "65132-7912-2009-11-13",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "65132--2011-10-14",
+        "c": "FR"
+      },
+      {
+        "i": "65132--2011-10-14",
+        "c": "FR"
+      },
+      {
+        "i": "65132-2013-2011-11-26",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "65132-2013-2011-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "65132-7835-2012-01-02",
+        "c": "FR"
+      },
+      {
+        "i": "65132-7835-2012-01-02",
+        "c": "FR"
+      },
+      {
+        "i": "65132-26249-2012-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "65132-26249-2012-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "65132-7835-2012-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "65132-7835-2012-03-03",
+        "c": "FR"
+      },
       {
         "i": "65132-2631-2012-04-24",
         "c": "HR",
@@ -140,6 +372,14 @@
           "2012-04-24",
           "2012-06-17"
         ]
+      },
+      {
+        "i": "65132-29301-2012-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "65132-29301-2012-05-22",
+        "c": "FR"
       },
       {
         "i": "65132-28575-2012-06-09",
@@ -155,20 +395,25 @@
         ]
       },
       {
-        "i": "65132-1778-2012-10-17",
-        "c": "CH",
-        "n": "cycle L’Éternel Détour",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Geneva",
-        "o": "Mamco - musée d´art moderne et contemporain",
-        "d": [
-          "2012-10-17",
-          "2013-01-13"
-        ]
-      }
-    ],
-    "2013": [
+        "i": "65132-2013-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "65132-2013-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "65132-7835-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "65132-7835-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "65132-11581-2012-10-04",
+        "c": "FR"
+      },
       {
         "i": "65132-1778-2012-10-17",
         "c": "CH",
@@ -181,6 +426,57 @@
           "2012-10-17",
           "2013-01-13"
         ]
+      },
+      {
+        "i": "65132-10222-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "65132-10222-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "65132-2013-2012-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "65132-2013-2012-10-18",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "65132-11581-2012-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "65132-1778-2012-10-17",
+        "c": "CH",
+        "n": "cycle L’Éternel Détour",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2012-10-17",
+          "2013-01-13"
+        ]
+      },
+      {
+        "i": "65132-28278-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "65132-28278-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "65132-28277-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "65132-28277-2013-02-15",
+        "c": "FR"
       },
       {
         "i": "65132-1778-2013-02-20",
@@ -196,6 +492,22 @@
         ]
       },
       {
+        "i": "65132-16191-2013-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "65132-16191-2013-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "65132-9344-2013-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "65132-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
         "i": "65132-26075-2013-10-16",
         "c": "DE",
         "n": "Collage ou l\\'âge de la colle",
@@ -209,6 +521,10 @@
         ]
       },
       {
+        "i": "65132-20775-2013-10-20",
+        "c": "FR"
+      },
+      {
         "i": "65132-26075-2013-11-16",
         "c": "DE",
         "n": "Neues aus Frankreich",
@@ -220,6 +536,20 @@
           "2013-11-16",
           "2013-12-14"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "65132-9344-2013-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "65132-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "65132-20775-2013-10-20",
+        "c": "FR"
       }
     ]
   }

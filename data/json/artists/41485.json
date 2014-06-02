@@ -1,7 +1,7 @@
 {
   "id": "41485",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:20:44",
+  "timestamp": "2014-05-24 06:30:38",
   "name": "François Marie Banier",
   "surname": "Banier",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Painting",
-  "r00": "6308",
-  "r01": "5588",
-  "r02": "5314",
-  "r03": "4841",
-  "r04": "4062",
-  "r05": "3894",
-  "r06": "3843",
-  "r07": "3478",
-  "r08": "3139",
+  "r00": "8402",
+  "r01": "9641",
+  "r02": "7491",
+  "r03": "6963",
+  "r04": "5850",
+  "r05": "4454",
+  "r06": "4157",
+  "r07": "4057",
+  "r08": "3651",
   "awards": null,
   "website": null,
   "all-shows-first": "1991",
-  "all-shows-total": "22",
+  "all-shows-total": "24",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "6",
-  "2005-countries-total": "Germany (5), Poland (2), China (1), France (1), USA (1)",
-  "2005-shows-with": "François Marie Banier (7), William Klein (3), Vasco Ascolini (2), Thibaut Cuisset (2), Cédric Delsaux (2), Todd Eberle (2), Peter Knapp (2), Eric Lebrun (2), Peter Lindbergh (2), Bjarne Melgaard (2), Jean-Claude Palisse (2), Leszek Pekalski (2), Bettina Rheims (2), Willy Ronis (2), Georges Rousse (2), Denis Rouvre (2), Yan Tomaszewski (2), Sabine Weiss (2)",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "Germany (6), France (2), Poland (2), China (1), USA (1)",
+  "2005-shows-with": "François Marie Banier (9), William Klein (4), Vasco Ascolini (2), Richard Avedon (2), Matthew Buckingham (2), Thibaut Cuisset (2), Cédric Delsaux (2), Todd Eberle (2), Nezaket Ekici (2), Tamara Grcic (2), Peter Knapp (2), Eric Lebrun (2), Sekyung Lee (2), Peter Lindbergh (2), Bjarne Melgaard (2), Hans Op de Beeck (2), Jean-Claude Palisse (2), Leszek Pekalski (2), Bettina Rheims (2), Willy Ronis (2), Lars Rosenbohm (2), Georges Rousse (2), Denis Rouvre (2), Fernando Sánchez Castillo (2), Wilhelm Sasnal (2), Juergen Teller (2), Yan Tomaszewski (2), Susanne Tunn (2), Henk Visch (2), Sabine Weiss (2), Jens Wolf (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "François",
@@ -56,6 +56,14 @@
           "2005-05-07",
           "2005-08-21"
         ]
+      },
+      {
+        "i": "41485-10516-2005-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "41485-10516-2005-05-18",
+        "c": "FR"
       },
       {
         "i": "41485-7708-2005-11-09",
@@ -96,6 +104,29 @@
         "d": [
           "2006-05-30",
           "2006-08-27"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "41485-22594-2007-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "41485-22594-2007-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "41485-2268-2007-06-01",
+        "c": "US",
+        "n": "Francois-Marie Banier",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Beverly Hills, CA",
+        "o": "Gagosian Gallery",
+        "d": [
+          "2007-06-01",
+          "2007-08-10"
         ]
       }
     ],
@@ -179,6 +210,14 @@
           "2009-07-18",
           "2009-09-13"
         ]
+      },
+      {
+        "i": "41485-22980-2009-11-20",
+        "c": "FR"
+      },
+      {
+        "i": "41485-22980-2009-11-20",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -249,21 +288,6 @@
         "d": [
           "2013-11-15",
           "2014-01-24"
-        ]
-      }
-    ],
-    "2007": [
-      {
-        "i": "41485-2268-2007-06-01",
-        "c": "US",
-        "n": "Francois-Marie Banier",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Beverly Hills, CA",
-        "o": "Gagosian Gallery",
-        "d": [
-          "2007-06-01",
-          "2007-08-10"
         ]
       }
     ],

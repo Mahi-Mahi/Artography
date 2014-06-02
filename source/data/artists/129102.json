@@ -1,7 +1,7 @@
 {
   "id": "129102",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:55:57",
+  "timestamp": "2014-05-24 07:00:47",
   "name": "Karine Rougier",
   "surname": "Rougier",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "27681",
-  "r01": "26662",
-  "r02": "37556",
-  "r03": "40765",
-  "r04": "43489",
-  "r05": "42006",
-  "r06": "53446",
-  "r07": "51791",
-  "r08": null,
+  "r00": "16242",
+  "r01": "16092",
+  "r02": "18516",
+  "r03": "27284",
+  "r04": "31832",
+  "r05": "36153",
+  "r06": "34299",
+  "r07": "46505",
+  "r08": "45239",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "22",
-  "2005-shows-biennials": "12",
-  "2005-shows-galleries": "12",
+  "all-shows-total": "25",
+  "2005-shows-biennials": "15",
+  "2005-shows-galleries": "15",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (15), Macedonia (1)",
-  "2005-shows-with": "Karine Rougier (12), Thierry Lagalla (6), Han Hoogerbrugge (5), Arnaud Labelle-Rojoux (5), Emmanuel Régent (5), Stephane Steiner (5), Damien Berthier (4), Stéphane Protic (4), Michel de Broin (3), Frédéric Clavère (3), Claire Dantzer (3), Florent Mattei (3), Caroline Bach (2), Lionel Estève (2), Imi Knoebel (2), Gérald Panighi (2), Jerôme Robbe (2), Moussa Sarr (2), Lionel Scoccimaro (2), Sabry Tchalgadjieff (2)",
-  "representing-galleries": "Numéro Six (6 rue jaubert, 12100 Aix-en-Provence, France); Galerie Martagon (47 grand rue, 84340 Malaucène, France); Espace A Vendre (17 rue Smolett, 06300 Nice, France); Le CABINET (62, Rue Saint Sabin, 75011 Paris, France)",
+  "2005-countries-total": "France (18), Macedonia (1)",
+  "2005-shows-with": "Karine Rougier (15), Thierry Lagalla (9), Emmanuel Régent (8), Stephane Steiner (8), Han Hoogerbrugge (7), Arnaud Labelle-Rojoux (7), Stéphane Protic (7), Damien Berthier (5), Michel de Broin (5), Florent Mattei (5), Caroline Bach (4), Frédéric Clavère (4), Claire Dantzer (4), Jerôme Robbe (4), Thierry Agnone (3), Gérald Panighi (3), Lionel Scoccimaro (3), Sabry Tchalgadjieff (3), Julien Blaine (2), Lionel Estève (2), Isabelle Giovacchini (2), Imi Knoebel (2), Sylvie Réno (2), Moussa Sarr (2), Ben Vautier (2), Jean-Luc Verna (2)",
+  "representing-galleries": "Numéro Six (6 rue jaubert, 12100 Aix-en-Provence, France); Galerie Martagon (47 grand rue, 84340 Malaucène, France); Espace A Vendre (17 rue Smolett, 06300 Nice, France); Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France)",
   "collecting-museums": null,
   "first_name": "Karine",
   "last_name": "Rougier",
@@ -43,7 +43,93 @@
   "age": 32,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "129102-16752-2006-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2006-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2006-12-13",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2006-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2006-03-11",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "129102-16752-2006-12-13",
+        "c": "FR"
+      },
+      {
+        "i": "129102-10503-2007-03-31",
+        "c": "FR"
+      },
+      {
+        "i": "129102-10503-2007-03-31",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2007-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2007-09-12",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "129102-16752-2008-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2008-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "129102-19953-2008-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "129102-19953-2008-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2008-12-05",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2008-03-28",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2008-03-28",
+        "c": "FR"
+      }
+    ],
     "2009": [
+      {
+        "i": "129102-16752-2008-12-05",
+        "c": "FR"
+      },
       {
         "i": "129102-23341-2009-09-03",
         "c": "MK",
@@ -55,6 +141,104 @@
           "2009-09-03",
           "2009-09-12"
         ]
+      },
+      {
+        "i": "129102-22944-2009-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "129102-22944-2009-09-11",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "129102-16752-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2010-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2010-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "129102-19953-2010-03-26",
+        "c": "FR"
+      },
+      {
+        "i": "129102-19953-2010-03-26",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "129102-181-2011-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "129102-181-2011-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "129102-19953-2011-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "129102-19953-2011-10-15",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "129102-10247-2012-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "129102-10247-2012-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "129102-10870-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "129102-10870-2012-07-07",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "129102-16752-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "129102-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "129102-28767-2013-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "129102-28767-2013-09-06",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "129102-29739-2013-10-12",
+        "c": "FR"
       }
     ]
   }

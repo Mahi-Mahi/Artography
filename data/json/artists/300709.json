@@ -1,7 +1,7 @@
 {
   "id": "300709",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:02:54",
+  "timestamp": "2014-05-24 07:59:23",
   "name": "Dorothée Smith",
   "surname": "Smith",
   "nationality": "FR",
@@ -16,10 +16,10 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video",
-  "r00": "19226",
-  "r01": "20091",
-  "r02": "37633",
-  "r03": null,
+  "r00": "14636",
+  "r01": "14940",
+  "r02": "15305",
+  "r03": "30093",
   "r04": null,
   "r05": null,
   "r06": null,
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": "5",
-  "2005-countries-total": "France (4), Belgium (1), Luxembourg (1), Portugal (1), Spain (1)",
-  "2005-shows-with": "Dorothée Smith (5), Théodora Barat (2), Véronique Beland (2), Pierre-Yves Boisrame (2), Vincent Ciciliato (2), Maya Da-Rin (2), Ryoichi Kurokawa (2), Joachim Olender (2), Zahra Poonawala (2), David Rokeby (2)",
+  "2005-countries-total": "France (5), Belgium (1), Luxembourg (1), Portugal (1), Spain (1)",
+  "2005-shows-with": "Dorothée Smith (6), Théodora Barat (2), Véronique Beland (2), Pierre-Yves Boisrame (2), Anaïs Boudot (2), Vincent Ciciliato (2), Maya Da-Rin (2), Ryoichi Kurokawa (2), Joachim Olender (2), Zahra Poonawala (2), David Rokeby (2)",
   "representing-galleries": "Galerie les filles du calvaire - Paris (17, rue des Filles-du-calvaire, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Dorothée",
@@ -44,6 +44,22 @@
   "age_range": "26-40",
   "expos": {
     "2011": [
+      {
+        "i": "300709-8028-2011-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "300709-8028-2011-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "300709-20207-2011-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "300709-20207-2011-03-17",
+        "c": "FR"
+      },
       {
         "i": "300709-3737-2011-05-15",
         "c": "LU",
@@ -58,22 +74,23 @@
         ]
       }
     ],
-    "2013": [
-      {
-        "i": "300709-12042-2013-03-15",
-        "c": "ES",
-        "n": "Elastic Reality",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Gijón",
-        "o": "Laboral - Centro de Arte y Creación Industrial",
-        "d": [
-          "2013-03-15",
-          "2013-09-08"
-        ]
-      }
-    ],
     "2012": [
+      {
+        "i": "300709-2709-2012-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "300709-2709-2012-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "300709-1403-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "300709-1403-2012-01-27",
+        "c": "FR"
+      },
       {
         "i": "300709-2328-2012-01-27",
         "c": "BE",
@@ -98,6 +115,21 @@
         "d": [
           "2012-09-14",
           "2012-10-28"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "300709-12042-2013-03-15",
+        "c": "ES",
+        "n": "Elastic Reality",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2013-03-15",
+          "2013-09-08"
         ]
       }
     ]

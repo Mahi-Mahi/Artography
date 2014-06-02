@@ -1,7 +1,7 @@
 {
   "id": "26848",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:14:32",
+  "timestamp": "2014-05-24 06:25:17",
   "name": "Hedi Slimane",
   "surname": "Slimane",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Design",
-  "r00": "5343",
-  "r01": "4807",
-  "r02": "4692",
-  "r03": "5865",
-  "r04": "4966",
-  "r05": "4573",
-  "r06": "4706",
-  "r07": "5120",
-  "r08": "5685",
+  "r00": "7022",
+  "r01": "6761",
+  "r02": "5212",
+  "r03": "4507",
+  "r04": "5953",
+  "r05": "4697",
+  "r06": "4082",
+  "r07": "4196",
+  "r08": "4620",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
   "all-shows-total": "23",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "Belgium (2), Germany (2), USA (2), China (1), Mexico (1), Netherlands (1), Spain (1)",
-  "2005-shows-with": "Hedi Slimane (7), Nan Goldin (2), Joseph Kosuth (2), Ange Leccia (2), Peter Lindbergh (2), Taryn Simon (2), Juergen Teller (2), Franz West (2)",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "Belgium (2), Germany (2), USA (2), China (1), France (1), Mexico (1), Netherlands (1), Spain (1)",
+  "2005-shows-with": "Hedi Slimane (8), Adel Abdessemed (2), BLESS (2), Elina Brotherus (2), Tom Burr (2), Anne Collier (2), Robert Doisneau (2), Daan van Golden (2), Nan Goldin (2), Daiga Grantina (2), Annika von Hausswolff (2), Gerald van der Kaap (2), Anna Klamroth (2), Joseph Kosuth (2), Ange Leccia (2), Klara Liden (2), Erik van Lieshout (2), Peter Lindbergh (2), Ken Lum (2), LA Raeven (2), Torbjorn Rodland (2), Collier Schorr (2), Taryn Simon (2), Juergen Teller (2), Frederik Van Simaey (2), Mark Wallinger (2), Franz West (2), Margot Zanni (2)",
   "representing-galleries": "Almine Rech Gallery (20 rue de l´Abbaye, 1050 Brussels, Belgium); Galerie Berthet-Aittouarès (29, rue de Seine, 75006 Paris, France); Almine Rech Gallery (64 Rue de Turenne, 75003 Paris, France)",
   "collecting-museums": "21c Museum (702 West Main Street,  Louisville, KY, USA)",
   "first_name": "Hedi",
@@ -112,6 +112,14 @@
         ]
       },
       {
+        "i": "26848-1962-2006-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "26848-1962-2006-01-07",
+        "c": "FR"
+      },
+      {
         "i": "26848-6356-2006-09-22",
         "c": "CH",
         "n": "Hedi Slimane - Portrait of a Performer",
@@ -126,6 +134,14 @@
       }
     ],
     "2007": [
+      {
+        "i": "26848-1962-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "26848-1962-2007-03-10",
+        "c": "FR"
+      },
       {
         "i": "26848-143-2007-07-02",
         "c": "DE",
@@ -151,6 +167,10 @@
           "2007-07-15",
           "2007-09-12"
         ]
+      },
+      {
+        "i": "26848-1962-2007-11-29",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -179,6 +199,10 @@
           "2008-07-31",
           "2008-09-06"
         ]
+      },
+      {
+        "i": "26848-1962-2007-11-29",
+        "c": "FR"
       },
       {
         "i": "26848-5316-2008-05-17",

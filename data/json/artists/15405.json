@@ -1,7 +1,7 @@
 {
   "id": "15405",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:25",
+  "timestamp": "2014-05-24 06:21:02",
   "name": "Jean-Christian Bourcart",
   "surname": "Bourcart",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "10839",
-  "r01": "9857",
-  "r02": "8942",
-  "r03": "8540",
-  "r04": "8413",
-  "r05": "7751",
-  "r06": "6622",
-  "r07": "7740",
-  "r08": "6033",
+  "r00": "15303",
+  "r01": "14807",
+  "r02": "12906",
+  "r03": "11500",
+  "r04": "10970",
+  "r05": "11206",
+  "r06": "10065",
+  "r07": "7811",
+  "r08": "10054",
   "awards": "Gilles-Dusein Award,Jury Prize, Jeu de Paume, Paris,2nd Prize, Brooklyn Midnight Run,Honourable Mention, Philadelphia Film Festival,Jury Prize, Belfort Festival,World Press Awards, Art Category, Amsterdam,Polaroïd Prize",
   "website": null,
   "all-shows-first": "1996",
-  "all-shows-total": "37",
+  "all-shows-total": "38",
   "2005-shows-biennials": "9",
   "2005-shows-galleries": "9",
-  "2005-shows-museums": "7",
-  "2005-countries-total": "France (7), USA (4), China (2), Belgium (1), Cambodia (1), Germany (1), Italy (1), Luxembourg (1)",
-  "2005-shows-with": "Jean-Christian Bourcart (16), Nan Goldin (3), Nobuyoshi Araki (2), Richard Avedon (2), Marina Berio (2), Claudine Doury (2), Antoine D\\'Agata (2), Peter Lindbergh (2), Arno Minkkinen (2), Eduardo Paolozzi (2), Georges Rousse (2), Paolo Roversi (2), Lise Sarfati (2), Georges Tony Stoll (2), Hugues de Wurstemberger (2)",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (8), USA (4), China (2), Belgium (1), Cambodia (1), Germany (1), Italy (1), Luxembourg (1)",
+  "2005-shows-with": "Jean-Christian Bourcart (17), Nan Goldin (3), Nobuyoshi Araki (2), Richard Avedon (2), Marina Berio (2), Luc Delahaye (2), Claudine Doury (2), Antoine D\\'Agata (2), Peter Lindbergh (2), Arno Minkkinen (2), Eduardo Paolozzi (2), Georges Rousse (2), Paolo Roversi (2), Lise Sarfati (2), Georges Tony Stoll (2), Hugues de Wurstemberger (2)",
   "representing-galleries": "Galerie Confluence (14 quai de Versailles, 44000  Nantes, France); Galerie du Jour agnès b (44, rue Quincampoix, F-75004 Paris, France)",
   "collecting-museums": "Mamco - musée d´art moderne et contemporain (10 rue des Vieux-Grenadiers, CH-1205 Geneva, Switzerland); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
   "first_name": "Jean-Christian",
@@ -56,6 +56,14 @@
           "2007-01-25",
           "2007-02-24"
         ]
+      },
+      {
+        "i": "15405-2351-2007-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "15405-2351-2007-04-17",
+        "c": "FR"
       },
       {
         "i": "15405-11346-2007-06-14",
@@ -110,6 +118,14 @@
           "2008-02-14",
           "2008-04-20"
         ]
+      },
+      {
+        "i": "15405-21359-2008-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "15405-21359-2008-07-08",
+        "c": "FR"
       },
       {
         "i": "15405-14658-2008-11-06",
@@ -192,9 +208,33 @@
           "2010-02-17",
           "2010-04-07"
         ]
+      },
+      {
+        "i": "15405-8285-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "15405-8285-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "15405-10520-2010-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "15405-10520-2010-11-19",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "15405-23431-2011-03-31",
+        "c": "FR"
+      },
+      {
+        "i": "15405-23431-2011-03-31",
+        "c": "FR"
+      },
       {
         "i": "15405-17910-2011-09-07",
         "c": "CN",
@@ -220,6 +260,22 @@
           "2011-11-02",
           "2012-03-17"
         ]
+      },
+      {
+        "i": "15405-26349-2011-12-01",
+        "c": "FR"
+      },
+      {
+        "i": "15405-26349-2011-12-01",
+        "c": "FR"
+      },
+      {
+        "i": "15405-6354-2011-03-25",
+        "c": "FR"
+      },
+      {
+        "i": "15405-6354-2011-03-25",
+        "c": "FR"
       }
     ],
     "2100": [
@@ -263,6 +319,14 @@
           "2012-09-13",
           "2012-10-06"
         ]
+      },
+      {
+        "i": "15405-11778-2012-05-23",
+        "c": "FR"
+      },
+      {
+        "i": "15405-11778-2012-05-23",
+        "c": "FR"
       }
     ],
     "2013": [

@@ -1,7 +1,7 @@
 {
   "id": "44405",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:21:57",
+  "timestamp": "2014-05-24 06:31:41",
   "name": "Odile Decq",
   "surname": "Decq",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Female",
   "media": "Architecture",
-  "r00": "19341",
-  "r01": "21532",
-  "r02": "20273",
-  "r03": "23283",
-  "r04": "24044",
-  "r05": "20510",
-  "r06": "17257",
-  "r07": "14178",
-  "r08": "11393",
-  "awards": "GOLDEN LION - Venice  Architecture Biennale 10 national and international prizes for the B.P.O. in Rennes (Benedictus, AMO, Steel Construction, Eternit, Design Oscar …) \r\n,The Benedictus Award  for University buildings in Nantes,Premio « il Principe e l’Architetto » for Museum of Contemporary Art in Roma,Trophy from the Association of Construction Journalists,Chevalier Legion d’Honneur,Honorary member of the National Society of Architects – Tcheque Republic ,Commander Ordre des Arts et Lettres,American Architecture Award  - The Chicago Athenaeum, Illinois, USA pour L. Museum in Neuhaus",
+  "r00": "24843",
+  "r01": "23020",
+  "r02": "26366",
+  "r03": "22627",
+  "r04": "26658",
+  "r05": "27195",
+  "r06": "21373",
+  "r07": "16753",
+  "r08": "13016",
+  "awards": "GOLDEN LION - Venice  Architecture Biennale 10 national and international prizes for the B.P.O. in Rennes (Benedictus, AMO, Steel Construction, Eternit, Design Oscar …) \r\n,The Benedictus Award  for University buildings in Nantes,Premio « il Principe e l’Architetto » for Museum of Contemporary Art in Roma,Trophy from the Association of Construction Journalists,Chevalier Legion d’Honneur,Honorary member of the National Society of Architects – Tcheque Republic,Commander Ordre des Arts et Lettres,American Architecture Award  - The Chicago Athenaeum, Illinois, USA pour L. Museum in Neuhaus",
   "website": null,
-  "all-shows-first": "2003",
-  "all-shows-total": "8",
+  "all-shows-first": "1996",
+  "all-shows-total": "9",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
   "2005-shows-museums": "1",
@@ -43,5 +43,61 @@
   "age": 59,
   "age_range": "41-60",
   "expos": {
+    "2010": [
+      {
+        "i": "44405-18811-2010-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "44405-18811-2010-06-04",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "44405-26673-2013-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "44405-26673-2013-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "44405-16095-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "44405-1771-2013-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "44405-1771-2013-09-06",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "44405-2017-2011-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "44405-2017-2011-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "44405-1771-2011-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "44405-1771-2011-09-10",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "44405-16095-2012-11-23",
+        "c": "FR"
+      }
+    ]
   }
 }

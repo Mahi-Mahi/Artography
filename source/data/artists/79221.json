@@ -1,7 +1,7 @@
 {
   "id": "79221",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:36:13",
+  "timestamp": "2014-05-24 06:43:59",
   "name": "Marianne Maric",
   "surname": "Maric",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "48251",
-  "r01": "45071",
-  "r02": "40942",
-  "r03": "37061",
-  "r04": "37130",
-  "r05": "61677",
-  "r06": "56933",
-  "r07": "49603",
-  "r08": "42023",
+  "r00": "50571",
+  "r01": "52588",
+  "r02": "46013",
+  "r03": "39762",
+  "r04": "34451",
+  "r05": "34576",
+  "r06": "63912",
+  "r07": "58983",
+  "r08": "50046",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (4), China (2), Germany (1), Spain (1)",
-  "2005-shows-with": "Marianne Maric (8), Elodie Pong (3), Chloe Tallot (3), Botto & Bruno (2), P. Nicolas Ledoux (2), Mireille Loup (2), Erwin Olaf (2), Laurina Paperina (2), Jeanne Susplugas (2)",
+  "2005-countries-total": "France (6), China (2), Germany (1), Spain (1)",
+  "2005-shows-with": "Marianne Maric (10), Elodie Pong (3), Chloe Tallot (3), Botto & Bruno (2), Vincent Chevillon (2), Delphine Gatinois (2), Viola Korosi (2), P. Nicolas Ledoux (2), Mireille Loup (2), Erwin Olaf (2), Laurina Paperina (2), Marion Pedenon (2), Jeanne Susplugas (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Marianne",
@@ -44,6 +44,14 @@
   "age_range": "26-40",
   "expos": {
     "2008": [
+      {
+        "i": "79221-2090-2008-01-16",
+        "c": "FR"
+      },
+      {
+        "i": "79221-2090-2008-01-16",
+        "c": "FR"
+      },
       {
         "i": "79221-16698-2008-05-09",
         "c": "ES",
@@ -73,6 +81,14 @@
         ]
       },
       {
+        "i": "79221-7657-2009-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "79221-7657-2009-09-25",
+        "c": "FR"
+      },
+      {
         "i": "79221-13035-2009-11-28",
         "c": "DE",
         "n": "Regionale 10",
@@ -84,6 +100,10 @@
           "2009-11-28",
           "2010-01-10"
         ]
+      },
+      {
+        "i": "79221-10229-2009-12-05",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -101,6 +121,10 @@
         ]
       },
       {
+        "i": "79221-10229-2009-12-05",
+        "c": "FR"
+      },
+      {
         "i": "79221-21129-2010-09-08",
         "c": "CN",
         "n": "Faces Video Show",
@@ -112,6 +136,16 @@
           "2010-09-08",
           "2010-10-07"
         ]
+      },
+      {
+        "i": "79221-21128-2010-11-26",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "79221-21128-2010-11-26",
+        "c": "FR"
       }
     ]
   }

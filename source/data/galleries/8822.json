@@ -50,6 +50,10 @@
         "ct": "London (England)"
       },
       {
+        "i": "8822-Lille Art Fair 08",
+        "c": "FR"
+      },
+      {
         "i": "8822-Scope Miami 08",
         "c": "US",
         "n": "Scope Miami 08",
@@ -62,6 +66,14 @@
         "c": "GB",
         "n": "London Art Fair 2009",
         "ct": "London (England)"
+      },
+      {
+        "i": "8822-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "8822-Art Elysées 2009",
+        "c": "FR"
       },
       {
         "i": "8822-Art Miami 2009",
@@ -78,6 +90,14 @@
         "ct": "London (England)"
       },
       {
+        "i": "8822-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "8822-Art Elysées 2010",
+        "c": "FR"
+      },
+      {
         "i": "8822-Art Miami 2010",
         "c": "US",
         "n": "Art Miami 2010",
@@ -92,10 +112,18 @@
         "ct": "London (England)"
       },
       {
+        "i": "8822-ArtParis 2011",
+        "c": "FR"
+      },
+      {
         "i": "8822-Art Chicago 2011",
         "c": "US",
         "n": "Art Chicago 2011",
         "ct": "Chicago, IL"
+      },
+      {
+        "i": "8822-Art Elysées 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -110,6 +138,14 @@
         "c": "US",
         "n": "Art Wynwood - International Contemporary Art Fair 2012",
         "ct": "Miami, FL"
+      },
+      {
+        "i": "8822-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "8822-Art Elysées 2012",
+        "c": "FR"
       },
       {
         "i": "8822-Art Miami 2012",
@@ -148,6 +184,10 @@
         "c": "US",
         "n": "Texas Contemporary 2013",
         "ct": "Houston, TX"
+      },
+      {
+        "i": "8822-Art Elysees 2013",
+        "c": "FR"
       },
       {
         "i": "8822-Art Miami 2013",

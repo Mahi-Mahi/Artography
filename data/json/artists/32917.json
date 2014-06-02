@@ -1,7 +1,7 @@
 {
   "id": "32917",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:17:12",
+  "timestamp": "2014-05-24 06:27:31",
   "name": "Philippe Starck",
   "surname": "Starck",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Male",
   "media": "Design",
-  "r00": "8821",
-  "r01": "8802",
-  "r02": "7497",
-  "r03": "6634",
-  "r04": "5779",
-  "r05": "4747",
-  "r06": "4475",
-  "r07": "3931",
-  "r08": "3713",
+  "r00": "14833",
+  "r01": "12458",
+  "r02": "12405",
+  "r03": "9662",
+  "r04": "8026",
+  "r05": "6867",
+  "r06": "5383",
+  "r07": "5047",
+  "r08": "4145",
   "awards": null,
   "website": null,
   "all-shows-first": "1985",
-  "all-shows-total": "32",
+  "all-shows-total": "33",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
   "2005-shows-museums": "5",
   "2005-countries-total": "France (2), Germany (1), Iceland (1), Switzerland (1), USA (1)",
   "2005-shows-with": "Philippe Starck (5), Eero Aarnio (2), Ron Arad (2), Ronan & Erwan Bouroullec (2), Arne Jacobsen (2), Jasper Morrison (2)",
   "representing-galleries": null,
-  "collecting-museums": "FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France);  Centre for Contemporary Art Ujazdowski Castle (Zamek Ujazdowski Al. Ujazdowskie 6, 00-461 Warsaw, Poland); Brighton Museum and Art Gallery (Royal Pavilion Gardens, BN1 1EE Brighton (England), United Kingdom); Milwaukee Art Museum (700 N. Art Museum Drive, 53202 Milwaukee, WI, USA); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
+  "collecting-museums": "FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France);  Centre for Contemporary Art Ujazdowski Castle (Zamek Ujazdowski Al. Ujazdowskie 6, 00-461 Warsaw, Poland); Brighton Museum and Art Gallery (Royal Pavilion Gardens, BN1 1EE Brighton, United Kingdom); Milwaukee Art Museum (700 N. Art Museum Drive, 53202 Milwaukee, WI, USA); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
   "first_name": "Philippe",
   "last_name": "Starck",
   "genre": "m",
@@ -56,6 +56,10 @@
           "2005-05-07",
           "2005-08-21"
         ]
+      },
+      {
+        "i": "32917-2219-2005-06-15",
+        "c": "FR"
       },
       {
         "i": "32917-2472-2005-08-27",
@@ -85,6 +89,10 @@
       }
     ],
     "2006": [
+      {
+        "i": "32917-2219-2005-06-15",
+        "c": "FR"
+      },
       {
         "i": "32917-2472-2005-08-27",
         "c": "US",
@@ -125,6 +133,14 @@
         ]
       },
       {
+        "i": "32917-8522-2006-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "32917-8522-2006-04-07",
+        "c": "FR"
+      },
+      {
         "i": "32917-3679-2006-05-27",
         "c": "US",
         "n": "100 Years/100 Chairs - An Exhibition of the Vitra Design Museum",
@@ -151,7 +167,30 @@
         ]
       }
     ],
+    "2007": [
+      {
+        "i": "32917-2542-2007-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "32917-22494-2007-04-28",
+        "c": "BE",
+        "n": "Kitsch, Camp or Design?",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Ghent",
+        "o": "Design Museum Gent",
+        "d": [
+          "2007-04-28",
+          "2007-06-24"
+        ]
+      }
+    ],
     "2008": [
+      {
+        "i": "32917-2542-2007-09-26",
+        "c": "FR"
+      },
       {
         "i": "32917-3576-2008-11-29",
         "c": "DE",
@@ -209,6 +248,24 @@
         ]
       }
     ],
+    "2011": [
+      {
+        "i": "32917-21102-2011-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "32917-21102-2011-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "32917-16174-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "32917-16174-2011-11-19",
+        "c": "FR"
+      }
+    ],
     "2013": [
       {
         "i": "32917-2472-2013-02-03",
@@ -221,21 +278,6 @@
         "d": [
           "2013-02-03",
           "2013-05-05"
-        ]
-      }
-    ],
-    "2007": [
-      {
-        "i": "32917-22494-2007-04-28",
-        "c": "BE",
-        "n": "Kitsch, Camp or Design?",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Ghent",
-        "o": "Design Museum Gent",
-        "d": [
-          "2007-04-28",
-          "2007-06-24"
         ]
       }
     ]

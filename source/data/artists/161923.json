@@ -1,7 +1,7 @@
 {
   "id": "161923",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:09:22",
+  "timestamp": "2014-05-24 07:11:54",
   "name": "Pauline Curnier Jardin",
   "surname": "Curnier Jardin",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "12509",
-  "r01": "11849",
-  "r02": "14462",
-  "r03": "27578",
-  "r04": "62784",
-  "r05": "88523",
-  "r06": "80412",
-  "r07": null,
+  "r00": "6874",
+  "r01": "9672",
+  "r02": "8817",
+  "r03": "10966",
+  "r04": "21846",
+  "r05": "56666",
+  "r06": "87227",
+  "r07": "78877",
   "r08": null,
   "awards": null,
-  "website": null,
+  "website": "paulinecurnierjardin.net",
   "all-shows-first": "2007",
-  "all-shows-total": "19",
+  "all-shows-total": "21",
   "2005-shows-biennials": "9",
   "2005-shows-galleries": "9",
-  "2005-shows-museums": "6",
-  "2005-countries-total": "France (8), Germany (5), Austria (2), United Kingdom (2)",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (9), Germany (5), Austria (2), United Kingdom (2), USA (1)",
   "2005-shows-with": "Pauline Curnier Jardin (16), Nina Lassila (4), Linda Franke (3), Seulgi Lee (3), Catriona Shaw (3), Bani Abidi (2), Fred Bigot (2), Véronique Boudier (2), Elly Clarke (2), Hélène Delprat (2), Tatiana Echeverri Fernandez (2), Xavier Gautier (2), Anne Kathrin Greiner (2), Hippolyte Hentgen (2), Lisa Jugert (2), Elina Juopperi (2), Tellervo Kalleinen & Oliver Kochta Kalleinen (2), Anna Myga Kasten (2), Katja Kollowa (2), Michelle Letelier (2), Malve Lippmann (2), Sabine Marte (2), Mosh Mosh (2), Lätitia Norkeit (2), Jérôme Poret (2), Bettina Rave (2), Isabel Reiss (2), Karen Scheper (2), Niklas Schlechinger (2), Hank Schmidt in der Beek (2), Miriam Steinhauser (2), Michael Stevenson (2), Viola Thiele (2), Kym Ward (2)",
   "representing-galleries": null,
   "collecting-museums": null,
@@ -44,6 +44,14 @@
   "age_range": "26-40",
   "expos": {
     "2007": [
+      {
+        "i": "161923-19804-2007-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "161923-19804-2007-06-01",
+        "c": "FR"
+      },
       {
         "i": "161923-9311-2007-10-06",
         "c": "FI",
@@ -103,6 +111,14 @@
         ]
       },
       {
+        "i": "161923-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "161923-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
         "i": "161923-585-2010-11-20",
         "c": "DE",
         "n": "Goldrausch zu Gast bei Galerie Barbara Thumm / Schaulager",
@@ -131,6 +147,22 @@
     ],
     "2011": [
       {
+        "i": "161923-28001-2011-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "161923-28001-2011-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "161923-16207-2011-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "161923-16207-2011-04-28",
+        "c": "FR"
+      },
+      {
         "i": "161923-16824-2011-08-26",
         "c": "GB",
         "n": "Attempts To Get Inside The World",
@@ -155,6 +187,14 @@
           "2011-09-16",
           "2012-02-05"
         ]
+      },
+      {
+        "i": "161923-20132-2011-10-29",
+        "c": "FR"
+      },
+      {
+        "i": "161923-20132-2011-10-29",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -170,6 +210,22 @@
           "2011-09-16",
           "2012-02-05"
         ]
+      },
+      {
+        "i": "161923-9120-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "161923-9120-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "161923-25336-2012-10-27",
+        "c": "FR"
+      },
+      {
+        "i": "161923-25336-2012-10-27",
+        "c": "FR"
       },
       {
         "i": "161923-2586-2012-12-15",
@@ -224,6 +280,22 @@
           "2013-02-15",
           "2013-03-24"
         ]
+      },
+      {
+        "i": "161923-16207-2013-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "161923-16207-2013-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "161923-1372-2013-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "161923-1372-2013-06-22",
+        "c": "FR"
       },
       {
         "i": "161923-18953-2012-12-16",

@@ -16,12 +16,22 @@
   "fairs-abroad": "2",
   "fairs-in-FR": "2",
   "fairs": {
+    "2010": [
+      {
+        "i": "21877-Lille Art Fair 2010",
+        "c": "FR"
+      }
+    ],
     "2012": [
       {
         "i": "21877-contemporary art ruhr - the innovative art fair",
         "c": "DE",
         "n": "contemporary art ruhr - the innovative art fair",
         "ct": "Essen"
+      },
+      {
+        "i": "21877-ST-ART  2012",
+        "c": "FR"
       }
     ],
     "2013": [

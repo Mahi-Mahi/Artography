@@ -16,5 +16,23 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "4",
   "fairs": {
+    "2013": [
+      {
+        "i": "28263-Lille Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "28263-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "28263-DocksArtFair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "28263-Yia Art Fair 2013",
+        "c": "FR"
+      }
+    ]
   }
 }

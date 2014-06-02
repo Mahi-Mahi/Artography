@@ -16,12 +16,22 @@
   "fairs-abroad": "4",
   "fairs-in-FR": "10",
   "fairs": {
+    "2005": [
+      {
+        "i": "1829-Paris Photo 2005",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "1829-Photo London 2007",
         "c": "GB",
         "n": "Photo London 2007",
         "ct": "London (England)"
+      },
+      {
+        "i": "1829-Paris Photo 2007",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -30,6 +40,10 @@
         "c": "GB",
         "n": "So Feucking French (SoFF) 08",
         "ct": "London (England)"
+      },
+      {
+        "i": "1829-Paris Photo 2008",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -38,6 +52,46 @@
         "c": "ES",
         "n": "Madridfoto 09",
         "ct": "Madrid"
+      },
+      {
+        "i": "1829-Paris Photo 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1829-Paris Photo 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1829-Paris Photo 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1829-Slick Brussels 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1829-Paris Photo 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1829-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1829-Yia Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1829-Paris Photo 2013",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "24401",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:13:26",
+  "timestamp": "2014-05-24 06:24:26",
   "name": "Olivier Aubry",
   "surname": "Aubry",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "57365",
-  "r01": "53876",
-  "r02": "51094",
-  "r03": "46359",
-  "r04": "51458",
-  "r05": "45689",
-  "r06": "40557",
-  "r07": "34779",
-  "r08": "29640",
+  "r00": "69564",
+  "r01": "65142",
+  "r02": "58450",
+  "r03": "53622",
+  "r04": "46487",
+  "r05": "53147",
+  "r06": "45533",
+  "r07": "39450",
+  "r08": "32766",
   "awards": null,
   "website": null,
   "all-shows-first": "1993",
-  "all-shows-total": "14",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "all-shows-total": "15",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
   "2005-shows-museums": null,
-  "2005-countries-total": "Greece (3), France (2)",
-  "2005-shows-with": "Yannis Adamakis (3), Olivier Aubry (3), Venia Bechrakis (3), Christos Kechayioglou (3), Jenny Kodonidou (3), Golemas Miltos (3), Avgeros Yorgos (3), Diamantis Aidinis (2), Kostas Christopoulos (2), Christina Darras (2), Maria Filopoulou (2), Marina Karella (2), Harris Kondosphyris (2), Andreas Kontellis (2), Harry Lambert (2), Achilleas Papakostas (2), Myrto Stampoulou (2), Katerina Stefanidaki (2), Danae Stratou (2)",
+  "2005-countries-total": "Greece (3), France (2), Switzerland (1)",
+  "2005-shows-with": "Olivier Aubry (4), Yannis Adamakis (3), Venia Bechrakis (3), Christos Kechayioglou (3), Jenny Kodonidou (3), Golemas Miltos (3), Avgeros Yorgos (3), Diamantis Aidinis (2), Kostas Christopoulos (2), Christina Darras (2), Maria Filopoulou (2), Marina Karella (2), Harris Kondosphyris (2), Andreas Kontellis (2), Harry Lambert (2), Achilleas Papakostas (2), Myrto Stampoulou (2), Katerina Stefanidaki (2), Danae Stratou (2)",
   "representing-galleries": "Galerie Suty (Grande Rue 75, 60580 Coye-la-Forêt, France); Galerie Samy Kinge (54, rue de Verneuil, 75007 Paris, France); art/espace (1 Bis avenue Léman, 74200 Thonon-Les-Bains, France); Galerie Kandler (Rue Bayard 14, 31000 Toulouse, France)",
   "collecting-museums": null,
   "first_name": "Olivier",
@@ -56,9 +56,33 @@
           "2005-07-07",
           "2005-08-06"
         ]
+      },
+      {
+        "i": "24401-4193-2005-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "24401-4193-2005-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "24401-4241-2005-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "24401-4241-2005-11-18",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "24401-4225-2006-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "24401-4225-2006-01-15",
+        "c": "FR"
+      },
       {
         "i": "24401-16302-2006-06-29",
         "c": "GR",
@@ -71,6 +95,14 @@
           "2006-06-29",
           "2006-07-29"
         ]
+      },
+      {
+        "i": "24401-4241-2005-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "24401-4241-2005-11-18",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -129,6 +161,24 @@
           "2010-08-24",
           "2010-10-02"
         ]
+      },
+      {
+        "i": "24401-4241-2010-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "24401-4241-2010-03-03",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "24401-24014-2012-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "24401-24014-2012-03-29",
+        "c": "FR"
       }
     ]
   }

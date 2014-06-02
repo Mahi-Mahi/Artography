@@ -1,7 +1,7 @@
 {
   "id": "5536",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:04:58",
+  "timestamp": "2014-05-24 06:17:07",
   "name": "Denis Pondruel",
   "surname": "Pondruel",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "22171",
-  "r01": "19820",
-  "r02": "18317",
-  "r03": "16630",
-  "r04": "15264",
-  "r05": "13152",
-  "r06": "10933",
-  "r07": "15913",
-  "r08": "12613",
+  "r00": "32304",
+  "r01": "29758",
+  "r02": "24713",
+  "r03": "23355",
+  "r04": "20664",
+  "r05": "19438",
+  "r06": "15072",
+  "r07": "11652",
+  "r08": "20422",
   "awards": null,
   "website": null,
   "all-shows-first": "1995",
-  "all-shows-total": "18",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "all-shows-total": "19",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (3), Belgium (2), Germany (2)",
-  "2005-shows-with": "Denis Pondruel (6)",
+  "2005-countries-total": "France (3), Belgium (2), Germany (2), Italy (1)",
+  "2005-shows-with": "Denis Pondruel (7)",
   "representing-galleries": "Galerie Lahumière (17 Rue du Parc Royal, 75003 Paris, France); Galerie & Kunstkabinett Corona Unger (Georg-Gröning-Str. 14, 28209 Bremen, Germany)",
   "collecting-museums": "Villa Datris - Fondation pour la Sculpture Contemporaine (7, avenue des 4 Otages, 84800 L´Isle-sur-la-Sorgue, France)",
   "first_name": "Denis",
@@ -43,7 +43,45 @@
   "age": 65,
   "age_range": "61-100",
   "expos": {
+    "2005": [
+      {
+        "i": "5536-7910-2005-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "5536-7910-2005-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "5536-370-2005-12-03",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "5536-370-2005-12-03",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5536-370-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "5536-370-2009-01-17",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "5536-8189-2010-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "5536-8189-2010-01-18",
+        "c": "FR"
+      },
       {
         "i": "5536-12988-2010-09-11",
         "c": "BE",
@@ -75,6 +113,14 @@
     ],
     "2012": [
       {
+        "i": "5536-26673-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "5536-26673-2012-04-06",
+        "c": "FR"
+      },
+      {
         "i": "5536-29552-2012-09-14",
         "c": "DE",
         "n": "Denis Pondruel, Wolfgang Sümmermann - Die Tiefe des Raums",
@@ -89,6 +135,14 @@
       }
     ],
     "2007": [
+      {
+        "i": "5536-370-2007-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "5536-370-2007-01-18",
+        "c": "FR"
+      },
       {
         "i": "5536-821-2007-03-24",
         "c": "DE",

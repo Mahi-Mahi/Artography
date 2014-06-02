@@ -1,7 +1,7 @@
 {
   "id": "285462",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:57:00",
+  "timestamp": "2014-05-24 07:54:15",
   "name": "Stéphane Protic",
   "surname": "Protic",
   "nationality": "FR",
@@ -14,34 +14,126 @@
   "death day": null,
   "death month": null,
   "death year": null,
-  "attributes": null,
+  "attributes": "Male",
   "media": null,
-  "r00": "65269",
-  "r01": "64251",
-  "r02": "91801",
-  "r03": "86512",
-  "r04": "100941",
-  "r05": "95671",
-  "r06": "87440",
-  "r07": null,
+  "r00": "45212",
+  "r01": "45902",
+  "r02": "46196",
+  "r03": "79581",
+  "r04": "78952",
+  "r05": "100234",
+  "r06": "95200",
+  "r07": "86857",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "10",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
+  "all-shows-total": "13",
+  "2005-shows-biennials": "10",
+  "2005-shows-galleries": "10",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (9)",
-  "2005-shows-with": "Stéphane Protic (7), Thierry Lagalla (4), Emmanuel Régent (4), Karine Rougier (4), Frédéric Clavère (3), Han Hoogerbrugge (3), Damien Berthier (2), Claire Dantzer (2), Arnaud Labelle-Rojoux (2), Florent Mattei (2), Gérald Panighi (2), Stephane Steiner (2)",
-  "representing-galleries": "Numéro Six (6 rue jaubert, 12100 Aix-en-Provence, France); Le CABINET (62, Rue Saint Sabin, 75011 Paris, France)",
+  "2005-countries-total": "France (12)",
+  "2005-shows-with": "Stéphane Protic (10), Emmanuel Régent (8), Thierry Lagalla (7), Karine Rougier (7), Stephane Steiner (7), Thierry Agnone (5), Han Hoogerbrugge (5), Arnaud Labelle-Rojoux (5), Frédéric Clavère (4), Florent Mattei (4), Gérald Panighi (4), Caroline Bach (3), Damien Berthier (3), Michel de Broin (3), Claire Dantzer (3), Jerôme Robbe (3), Ben Vautier (3), Isabelle Giovacchini (2), Frédéric Malette (2), Philippe Ramette (2), Sylvie Réno (2), Lionel Scoccimaro (2), Jean-Luc Verna (2)",
+  "representing-galleries": "Numéro Six (6 rue jaubert, 12100 Aix-en-Provence, France); Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France)",
   "collecting-museums": null,
   "first_name": "Stéphane",
   "last_name": "Protic",
-  "genre": "c",
+  "genre": "m",
   "birthDate": "1982-01-01",
   "age": 32,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "285462-16752-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "285462-16752-2007-06-29",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "285462-22944-2009-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "285462-22944-2009-09-11",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "285462-16752-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "285462-16752-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "285462-27825-2010-12-16",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "285462-19953-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "285462-19953-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "285462-19953-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "285462-19953-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "285462-17457-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "285462-17457-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "285462-10870-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "285462-10870-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "285462-19953-2012-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "285462-19953-2012-05-10",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "285462-16752-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "285462-16752-2013-03-01",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "285462-27825-2010-12-16",
+        "c": "FR"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "253723",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:44:31",
+  "timestamp": "2014-05-24 07:43:22",
   "name": "Achraf Touloub",
   "surname": "Touloub",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "27863",
-  "r01": "26092",
-  "r02": "33285",
-  "r03": "49292",
-  "r04": "92320",
-  "r05": null,
+  "r00": "19883",
+  "r01": "21997",
+  "r02": "19805",
+  "r03": "25812",
+  "r04": "41753",
+  "r05": "88718",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2009",
-  "all-shows-total": "7",
+  "all-shows-total": "8",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": null,
-  "2005-countries-total": "France (6), Belgium (1)",
-  "2005-shows-with": "Achraf Touloub (5), Vlad Turco (2), Alina Turco (2)",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (7), Belgium (1)",
+  "2005-shows-with": "Achraf Touloub (6), Franck Scurti (2), Vlad Turco (2), Alina Turco (2)",
   "representing-galleries": "Galerie Albert Baronian (2 rue Isidore Verheyden, 1050 Brussels, Belgium)",
   "collecting-museums": null,
   "first_name": "Achraf",
@@ -43,7 +43,43 @@
   "age": 28,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "253723-1746-2009-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "253723-1746-2009-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "253723-1746-2009-12-05",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "253723-1746-2009-12-05",
+        "c": "FR"
+      },
+      {
+        "i": "253723-8568-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "253723-8568-2010-10-01",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "253723-1746-2011-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "253723-1746-2011-01-29",
+        "c": "FR"
+      },
       {
         "i": "253723-1912-2011-11-02",
         "c": "BE",
@@ -56,6 +92,26 @@
           "2011-11-02",
           "2011-01-08"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "253723-27825-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "253723-1746-2012-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "253723-1746-2012-09-06",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "253723-27825-2012-11-15",
+        "c": "FR"
       }
     ]
   }

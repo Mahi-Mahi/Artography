@@ -1,7 +1,7 @@
 {
   "id": "15717",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:33",
+  "timestamp": "2014-05-24 06:21:09",
   "name": "Guy Limone",
   "surname": "Limone",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation",
-  "r00": "5700",
-  "r01": "5889",
-  "r02": "6028",
-  "r03": "5119",
-  "r04": "4376",
-  "r05": "3660",
-  "r06": "3451",
-  "r07": "3061",
-  "r08": "3735",
+  "r00": "7572",
+  "r01": "7252",
+  "r02": "7831",
+  "r03": "8624",
+  "r04": "6648",
+  "r05": "5288",
+  "r06": "4172",
+  "r07": "3869",
+  "r08": "3327",
   "awards": null,
   "website": null,
   "all-shows-first": "1993",
-  "all-shows-total": "44",
+  "all-shows-total": "45",
   "2005-shows-biennials": "10",
   "2005-shows-galleries": "10",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (5), Greece (2), Morocco (2), Japan (1), Spain (1), Switzerland (1), USA (1)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (6), Greece (2), Morocco (2), Japan (1), Spain (1), Switzerland (1), USA (1)",
   "2005-shows-with": "Guy Limone (6), Wim Delvoye (2), Nan Goldin (2), Claude Lévêque (2), Henri Michaux (2), Samuel Rousseau (2)",
   "representing-galleries": "Galerie Emmanuel Perrotin - Paris (76, rue de Turenne, 75003 Paris, France); Rebecca M. Camhi Gallery (Sophokleous 23, 105 52 Athens, Greece); Galerie Fatma Jellal (4, rue de la réunion, quartier Bourgogne,  Casablanca, Morocco); Galería GACMA (Parque Empresarial Santa Bárbara. C/Fídias, 48-50, 29003 Málaga, Spain); Galerie Guy Bärtschi (Route des Jeunes 43, Allée G, 1227 Geneva, Switzerland); Michael Kohn Gallery (8071 Beverly Blvd., 90048 Los Angeles, CA, USA); Galerie Emmanuel Perrotin - Miami (194 NW 30th Street, 33127 Miami, FL, USA)",
   "collecting-museums": "FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France); CAC Centro de Arte Contemporáneo Málaga (Calle Alemania s/n, 29001 Málaga, Spain)",
@@ -44,6 +44,22 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "15717-1961-2005-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "15717-1961-2005-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "15717-7910-2005-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "15717-7910-2005-03-17",
+        "c": "FR"
+      },
       {
         "i": "15717-4070-2005-11-18",
         "c": "US",
@@ -86,6 +102,18 @@
         ]
       },
       {
+        "i": "15717-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "15717-8282-2006-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "15717-8282-2006-06-02",
+        "c": "FR"
+      },
+      {
         "i": "15717-11212-2006-11-21",
         "c": "JP",
         "n": "Guy Limone",
@@ -100,6 +128,10 @@
       }
     ],
     "2007": [
+      {
+        "i": "15717-2219-2006-09-27",
+        "c": "FR"
+      },
       {
         "i": "15717-896-2007-01-18",
         "c": "CH",
@@ -125,6 +157,14 @@
           "2007-03-09",
           "2007-04-14"
         ]
+      },
+      {
+        "i": "15717-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "15717-4975-2007-07-07",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -209,7 +249,66 @@
         ]
       }
     ],
+    "2011": [
+      {
+        "i": "15717-26733-2011-06-03",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "15717-26733-2011-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "15717-1866-2012-02-23",
+        "c": "GR",
+        "n": "Guy Limone",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Athens",
+        "o": "Rebecca M. Camhi Gallery",
+        "d": [
+          "2012-02-23",
+          "2012-04-28"
+        ]
+      },
+      {
+        "i": "15717-27781-2012-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "15717-27781-2012-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "15717-1961-2012-11-03",
+        "c": "FR"
+      },
+      {
+        "i": "15717-1961-2012-11-03",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "15717-7811-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "15717-7811-2013-02-15",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "15717-1961-2008-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "15717-1961-2008-05-06",
+        "c": "FR"
+      },
       {
         "i": "15717-11212-2008-07-29",
         "c": "JP",
@@ -234,21 +333,6 @@
         "d": [
           "2008-09-19",
           "2008-11-19"
-        ]
-      }
-    ],
-    "2012": [
-      {
-        "i": "15717-1866-2012-02-23",
-        "c": "GR",
-        "n": "Guy Limone",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Athens",
-        "o": "Rebecca M. Camhi Gallery",
-        "d": [
-          "2012-02-23",
-          "2012-04-28"
         ]
       }
     ]

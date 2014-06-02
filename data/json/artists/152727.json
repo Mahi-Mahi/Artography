@@ -1,7 +1,7 @@
 {
   "id": "152727",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:05:40",
+  "timestamp": "2014-05-24 07:08:43",
   "name": "Hugo Pernet",
   "surname": "Pernet",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "9282",
-  "r01": "9276",
-  "r02": "8808",
-  "r03": "8985",
-  "r04": "12154",
-  "r05": "37460",
-  "r06": "34869",
-  "r07": "60966",
-  "r08": "55831",
+  "r00": "5858",
+  "r01": "5694",
+  "r02": "6579",
+  "r03": "6010",
+  "r04": "6004",
+  "r05": "7952",
+  "r06": "33263",
+  "r07": "31021",
+  "r08": "59580",
   "awards": null,
-  "website": null,
+  "website": "hugopernet.com",
   "all-shows-first": "2004",
-  "all-shows-total": "21",
+  "all-shows-total": "23",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
-  "2005-shows-museums": "9",
-  "2005-countries-total": "France (18), Switzerland (1)",
-  "2005-shows-with": "Hugo Pernet (16), Hugo Schüwer-Boss (5), Francis Baudevin (4), John Tremblay (4), Mathieu Mercier (3), Olivier Mosset (3), Michael Scott (3), Olivier Babin (2), Mike Bidlo (2), Karina Bisch (2), Nicolas Chardon (2), Henry Codax (2), Stéphane Dafflon (2), Philippe Decrauzat (2), General Idea (2), Jeff Koons (2), Frank Kozik (2), Stéphane Kropf (2), Bertrand Lavier (2), Rainier Lericolais (2), Sherrie Levine (2), David Malek (2), Matthew McCaslin (2), Jonathan Monk (2), François Morellet (2), Steven Parrino (2), Delphine Reist (2), Christian Robert-Tissot (2), Reena Spaulings (2), Blair Thurman (2), Pierre Vadi (2), Dan Walsh (2), Raphaël Zarka (2)",
-  "representing-galleries": "Triple V (24 & 34 rue Louise Weiss, 75013 Paris, France)",
+  "2005-shows-museums": "11",
+  "2005-countries-total": "France (20), Switzerland (1)",
+  "2005-shows-with": "Hugo Pernet (18), Hugo Schüwer-Boss (6), Francis Baudevin (4), John Tremblay (4), Mathieu Mercier (3), Olivier Mosset (3), Michael Scott (3), Blair Thurman (3), John M Armleder (2), Olivier Babin (2), Mike Bidlo (2), Karina Bisch (2), Nicolas Chardon (2), Henry Codax (2), Stéphane Dafflon (2), Philippe Decrauzat (2), Franck Éon (2), Sylvie Fleury (2), Mario Garcia Torres (2), General Idea (2), Jeff Koons (2), Frank Kozik (2), Stéphane Kropf (2), Bertrand Lavier (2), Rainier Lericolais (2), Sherrie Levine (2), David Malek (2), Matthew McCaslin (2), Jonathan Monk (2), François Morellet (2), Steven Parrino (2), Delphine Reist (2), David Renaud (2), Christian Robert-Tissot (2), Reena Spaulings (2), Ernest T. (2), Pierre Vadi (2), Dan Walsh (2), Raphaël Zarka (2)",
+  "representing-galleries": "Triple V (24 rue Louise Weiss, 75013 Paris, France)",
   "collecting-museums": "FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France)",
   "first_name": "Hugo",
   "last_name": "Pernet",
@@ -43,7 +43,79 @@
   "age": 31,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "152727-4180-2006-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "152727-4180-2006-07-08",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "152727-2585-2007-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "152727-2585-2007-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "152727-4180-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "152727-4180-2007-03-10",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "152727-4180-2008-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "152727-4180-2008-05-24",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "152727-9120-2009-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "152727-9120-2009-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "152727-2304-2009-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "152727-1782-2009-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "152727-1782-2009-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "152727-14600-2009-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "152727-14600-2009-09-18",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "152727-2304-2009-10-11",
+        "c": "FR"
+      },
       {
         "i": "152727-3444-2010-02-14",
         "c": "CH",
@@ -56,6 +128,116 @@
           "2010-02-14",
           "2010-05-09"
         ]
+      },
+      {
+        "i": "152727-1293-2010-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "152727-1293-2010-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "152727-9344-2010-11-26",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "152727-9344-2010-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "152727--2011-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "152727--2011-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "152727-12083-2011-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "152727-12083-2011-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "152727-26377-2011-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "152727-26377-2011-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "152727-18549-2011-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "152727-18549-2011-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "152727-8241-2011-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "152727-14600-2011-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "152727-14600-2011-06-30",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "152727-8241-2011-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "152727-14600-2012-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "152727-14600-2012-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "152727-14600-2012-12-07",
+        "c": "FR"
+      },
+      {
+        "i": "152727-28288-2012-12-15",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "152727-14600-2012-12-07",
+        "c": "FR"
+      },
+      {
+        "i": "152727-28288-2012-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "152727-8285-2013-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "152727-8285-2013-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "152727-14600-2013-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "152727-14600-2013-09-14",
+        "c": "FR"
       }
     ]
   }

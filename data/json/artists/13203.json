@@ -1,7 +1,7 @@
 {
   "id": "13203",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:08:29",
+  "timestamp": "2014-05-24 06:20:10",
   "name": "Paul Thorel",
   "surname": "Thorel",
   "nationality": "IT, FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "27744",
-  "r01": "26175",
-  "r02": "32017",
-  "r03": "34065",
-  "r04": "53019",
-  "r05": "47089",
-  "r06": "41100",
-  "r07": "35176",
-  "r08": null,
+  "r00": "18858",
+  "r01": "18542",
+  "r02": "22268",
+  "r03": "28041",
+  "r04": "30315",
+  "r05": "51171",
+  "r06": "44384",
+  "r07": "37633",
+  "r08": "31673",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "6",
+  "all-shows-total": "7",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "Italy (4), France (1)",
-  "2005-shows-with": "Paul Thorel (4), Marina Abramovic (2), Vito Acconci (2), Jan Fabre (2), Paola Gandolfi (2), Shilpa Gupta (2), Mike Kelley (2), Katarzyna Kozyra (2), Lech Majewski (2), Masbedo (2), Nam June Paik (2), Zbigniew Rybczynski (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "Italy (5), France (1)",
+  "2005-shows-with": "Paul Thorel (5), Jan Fabre (3), Marina Abramovic (2), Vito Acconci (2), Paola Gandolfi (2), Shilpa Gupta (2), Mike Kelley (2), Katarzyna Kozyra (2), Lech Majewski (2), Masbedo (2), Nam June Paik (2), Zbigniew Rybczynski (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Paul",
@@ -43,6 +43,16 @@
   "age": 58,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "13203-10516-2006-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "13203-10516-2006-06-21",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "13203-6461-2010-12-03",
@@ -112,6 +122,16 @@
           "2012-11-15",
           "2012-12-16"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "13203-20679-2013-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "13203-20679-2013-04-27",
+        "c": "FR"
       }
     ]
   }

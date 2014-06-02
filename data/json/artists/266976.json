@@ -1,7 +1,7 @@
 {
   "id": "266976",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:49:45",
+  "timestamp": "2014-05-24 07:47:55",
   "name": "Denis Rouvre",
   "surname": "Rouvre",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "69334",
-  "r01": "66802",
-  "r02": "62098",
-  "r03": "62378",
-  "r04": "56412",
-  "r05": "53199",
-  "r06": "75825",
-  "r07": null,
+  "r00": "55793",
+  "r01": "55290",
+  "r02": "58602",
+  "r03": "55629",
+  "r04": "57371",
+  "r05": "50872",
+  "r06": "47826",
+  "r07": "73520",
   "r08": null,
   "awards": null,
   "website": "www.rouvre.com",
   "all-shows-first": "2008",
-  "all-shows-total": "7",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
+  "all-shows-total": "10",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
   "2005-shows-museums": "2",
-  "2005-countries-total": "Belgium (2), France (2), Poland (2), Italy (1)",
+  "2005-countries-total": "Netherlands (3), Belgium (2), France (2), Poland (2), Italy (1)",
   "2005-shows-with": "Denis Rouvre (6), Vasco Ascolini (2), François Marie Banier (2), Thibaut Cuisset (2), Cédric Delsaux (2), William Klein (2), Peter Knapp (2), Eric Lebrun (2), Peter Lindbergh (2), Jean-Claude Palisse (2), Leszek Pekalski (2), Bettina Rheims (2), Willy Ronis (2), Georges Rousse (2), Yan Tomaszewski (2), Sabine Weiss (2)",
-  "representing-galleries": "Galerie Helene Bailly (38, rue de Seine, 75006 Paris, France)",
+  "representing-galleries": "Galerie Helene Bailly (38, rue de Seine, 75006 Paris, France); Project 2.0 Gallery (Noordeinde 57, 2514 GC The Hague, Netherlands)",
   "collecting-museums": null,
   "first_name": "Denis",
   "last_name": "Rouvre",
@@ -43,6 +43,16 @@
   "age": 47,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "266976-22594-2007-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "266976-22594-2007-05-10",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "266976-19393-2008-02-02",
@@ -69,6 +79,16 @@
           "2008-02-02",
           "2008-03-02"
         ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "266976-10584-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "266976-10584-2009-03-13",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -125,6 +145,16 @@
           "2011-12-09",
           "2012-01-28"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "266976-28300-2013-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "266976-28300-2013-01-15",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "203562",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:25:09",
+  "timestamp": "2014-05-24 07:26:12",
   "name": "Maxime Thieffine",
   "surname": "Thieffine",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "42676",
-  "r01": "41015",
-  "r02": "47920",
-  "r03": "45393",
-  "r04": "55765",
-  "r05": "60694",
-  "r06": "62389",
-  "r07": "54587",
-  "r08": "46694",
+  "r00": "32385",
+  "r01": "37853",
+  "r02": "35097",
+  "r03": "42201",
+  "r04": "39175",
+  "r05": "48527",
+  "r06": "59843",
+  "r07": "62130",
+  "r08": "53680",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "12",
+  "all-shows-total": "13",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (9), Czech Republic (1), Germany (1)",
-  "2005-shows-with": "Maxime Thieffine (10), Marcelline Delbecq (3), Roxane Borujerdi (2), Rada Boukova (2), Stéphane Calais (2), Baptiste Debombourg (2), Frédérique Decombe (2), David Evrard (2), Cyprien Gaillard (2), Camille Henrot (2), Pierre Leguillon (2), Mathieu Mercier (2), Jean-Luc Moulène (2), Shanta Rao (2), Clément Rodzielski (2), Eric Stephany (2), Raphaël Zarka (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (10), Czech Republic (1), Germany (1)",
+  "2005-shows-with": "Maxime Thieffine (11), Marcelline Delbecq (3), Mathieu Mercier (3), Roxane Borujerdi (2), Rada Boukova (2), Stéphane Calais (2), Baptiste Debombourg (2), Frédérique Decombe (2), David Evrard (2), Cyprien Gaillard (2), Camille Henrot (2), Pierre Leguillon (2), Jean-Luc Moulène (2), Shanta Rao (2), Clément Rodzielski (2), Eric Stephany (2), Raphaël Zarka (2)",
   "representing-galleries": "La GAD - Galerie Arnaud Deschin (34 rue Espérandieu, 13001 Marseille, France)",
   "collecting-museums": null,
   "first_name": "Maxime",
@@ -43,6 +43,24 @@
   "age": 41,
   "age_range": "41-60",
   "expos": {
+    "2008": [
+      {
+        "i": "203562-16340-2008-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "203562-16340-2008-04-17",
+        "c": "FR"
+      },
+      {
+        "i": "203562-11890-2008-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "203562-11890-2008-09-13",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "203562-20000-2009-05-06",
@@ -56,9 +74,35 @@
           "2009-05-06",
           "2009-05-31"
         ]
+      },
+      {
+        "i": "203562-11771-2009-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "203562-11771-2009-11-29",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "203562-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "203562-22964-2010-09-10",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "203562-1955-2011-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "203562-1955-2011-04-16",
+        "c": "FR"
+      },
       {
         "i": "203562-19666-2011-07-01",
         "c": "DE",
@@ -71,6 +115,42 @@
           "2011-07-01",
           "2011-08-06"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "203562-28267-2012-08-30",
+        "c": "FR"
+      },
+      {
+        "i": "203562-28267-2012-08-30",
+        "c": "FR"
+      },
+      {
+        "i": "203562-19085-2012-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "203562-19508-2012-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "203562-19508-2012-06-09",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "203562-19085-2012-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "203562-27216-2013-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "203562-27216-2013-01-10",
+        "c": "FR"
       }
     ]
   }

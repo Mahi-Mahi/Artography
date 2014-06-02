@@ -1,7 +1,7 @@
 {
   "id": "197332",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:22:46",
+  "timestamp": "2014-05-24 07:24:04",
   "name": "Anne Marie Jugnet",
   "surname": "Jugnet",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "20110",
-  "r01": "18002",
-  "r02": "22689",
-  "r03": "28783",
-  "r04": "24149",
-  "r05": "20523",
-  "r06": "16832",
-  "r07": "13559",
-  "r08": "10633",
+  "r00": "10599",
+  "r01": "17625",
+  "r02": "15339",
+  "r03": "21003",
+  "r04": "34004",
+  "r05": "23009",
+  "r06": "16772",
+  "r07": "12246",
+  "r08": "8574",
   "awards": null,
   "website": null,
   "all-shows-first": "1992",
-  "all-shows-total": "14",
+  "all-shows-total": "19",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (5)",
-  "2005-shows-with": "Anne Marie Jugnet (5), Martine Aballéa (3), Adel Abdessemed (2), Pierre Alferi (2), Dove Allouche (2), Berdaguer & Péjus (2), Andrea Blum (2), Philippe Decrauzat (2), Julien Discrit (2), Dominique Gonzalez-Foerster (2), On Kawara (2), Charles Lopez (2), David Renaud (2), Heimo Zobernig (2)",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (6)",
+  "2005-shows-with": "Anne Marie Jugnet (6), Martine Aballéa (3), Adel Abdessemed (2), Pierre Alferi (2), Dove Allouche (2), Berdaguer & Péjus (2), Andrea Blum (2), Philippe Decrauzat (2), Julien Discrit (2), Chohreh Feyzdjou (2), Dominique Gonzalez-Foerster (2), Fabrice Hybert (2), On Kawara (2), Charles Lopez (2), David Renaud (2), Lili Reynaud Dewar (2), Georges Rousse (2), Johannes Vanderbeek (2), Heimo Zobernig (2)",
   "representing-galleries": null,
   "collecting-museums": "CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France)",
   "first_name": "Anne",
@@ -43,5 +43,51 @@
   "age": 56,
   "age_range": "41-60",
   "expos": {
+    "2009": [
+      {
+        "i": "197332-8156-2009-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "197332-8156-2009-01-21",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "197332-2303-2011-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "197332-2303-2011-02-10",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "197332-8285-2012-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "197332-8285-2012-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "197332-8548-2012-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "197332-8548-2012-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "197332-26235-2012-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "197332-26235-2012-07-08",
+        "c": "FR"
+      }
+    ]
   }
 }

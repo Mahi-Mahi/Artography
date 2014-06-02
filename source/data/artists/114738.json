@@ -1,7 +1,7 @@
 {
   "id": "114738",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:50:21",
+  "timestamp": "2014-05-24 06:55:58",
   "name": "Claude Gilli",
   "surname": "Gilli",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "19681",
-  "r01": "18233",
-  "r02": "22183",
-  "r03": "27733",
-  "r04": "24414",
-  "r05": "22447",
-  "r06": "36335",
-  "r07": "55048",
-  "r08": "46766",
+  "r00": "15663",
+  "r01": "15346",
+  "r02": "13294",
+  "r03": "15794",
+  "r04": "25608",
+  "r05": "21582",
+  "r06": "19289",
+  "r07": "33983",
+  "r08": "56267",
   "awards": null,
   "website": null,
   "all-shows-first": "1965",
-  "all-shows-total": "13",
+  "all-shows-total": "14",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (3), Germany (1), Monaco (1), United Kingdom (1), USA (1)",
-  "2005-shows-with": "Claude Gilli (7), Bernar Venet (4), Noël Dolla (3), Jean-Jacques Lebel (3), Jacques Lizène (3), Jean-Luc Verna (3), Marcel Alocco (2), Dominique Angel (2), Arman (2), Eleonore Bak (2), Julien Blaine (2), Marcel Broodthaers (2), Pol Bury (2), Anna Byskov (2), Cai Guo-Qiang (2), Gilbert Caty (2), Erik Dietman (2), Joël Ducorroy (2), Eric Duyckaerts (2), Kristof Everart (2), Jean-Claude Farhi (2), Daniel Farioli (2), Fred Forest (2), Jean-Baptiste Ganne (2), Nicolás García Uriburu (2), Paul-Armand Gette (2), Yoko Gunji (2), Raymond Hains (2), Raoul Hébréard (2), Michel Journiac (2), Peter Klasen (2), Virginie Le Touze (2), George Maciunas (2), Jean Mas (2), Florent Mattei (2), Paul McCarthy (2), Bruno Mendonça (2), Roland Miller (2), Patrick Moya (2), Frédérique Nalbandian (2), Serge Oldenbourg (2), Orlan (2), Gina Pane (2), Gilbert Pedinielli (2), Philippe Perrin (2), Pierre Pinoncelli (2), Charly van Rest (2), Mimmo Rotella (2), Niki de Saint Phalle (2), Sacha Sosno (2), Ben Vautier (2), Jacques Vill",
-  "representing-galleries": "The Mayor Gallery (22A Cork St., W1S 3NA London (England), United Kingdom)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (4), Germany (1), Monaco (1), United Kingdom (1), USA (1)",
+  "2005-shows-with": "Claude Gilli (8), Bernar Venet (5), Noël Dolla (4), Arman (3), Erik Dietman (3), Jean-Baptiste Ganne (3), Jean-Jacques Lebel (3), Jacques Lizène (3), Serge Oldenbourg (3), Pierre Pinoncelli (3), Mimmo Rotella (3), Niki de Saint Phalle (3), Jean-Luc Verna (3), Marcel Alocco (2), Dominique Angel (2), Eleonore Bak (2), Julien Blaine (2), Marcel Broodthaers (2), Pol Bury (2), Anna Byskov (2), Cai Guo-Qiang (2), Alexander Calder (2), Louis Cane (2), Gilbert Caty (2), César (2), Marc Chagall (2), Joël Ducorroy (2), Eric Duyckaerts (2), Max Ernst (2), Kristof Everart (2), Jean-Claude Farhi (2), Daniel Farioli (2), Fred Forest (2), Nicolás García Uriburu (2), Paul-Armand Gette (2), Yoko Gunji (2), Raymond Hains (2), Hans Hartung (2), Raoul Hébréard (2), Gottfried Honegger (2), Vivien Isnard (2), Michel Journiac (2), Peter Klasen (2), Virginie Le Touze (2), George Maciunas (2), Robert Malaval (2), Jean Mas (2), Florent Mattei (2), Paul McCarthy (2), Bruno Mendonça (2), Roland Miller (2), Patrick Moya (2), Fr",
+  "representing-galleries": "The Mayor Gallery (22A Cork St., W1S 3NA London, United Kingdom)",
   "collecting-museums": "CIAC - Centre International d'Art Contemporain de Carros (Place du château, 06510 Carros, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Claude",
   "last_name": "Gilli",
@@ -103,6 +103,14 @@
     ],
     "2011": [
       {
+        "i": "114738-2585-2011-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "114738-2585-2011-06-24",
+        "c": "FR"
+      },
+      {
         "i": "114738-26859-2011-09-15",
         "c": "US",
         "n": "Group Show",
@@ -129,6 +137,22 @@
           "2012-03-08",
           "2012-04-26"
         ]
+      },
+      {
+        "i": "114738-1385-2012-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "114738-1385-2012-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "114738-2585-2012-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "114738-2585-2012-06-29",
+        "c": "FR"
       }
     ]
   }

@@ -16,12 +16,28 @@
   "fairs-abroad": "3",
   "fairs-in-FR": "5",
   "fairs": {
+    "2008": [
+      {
+        "i": "18448-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "18448-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "18448-art KARLSRUHE 2011",
         "c": "DE",
         "n": "art KARLSRUHE 2011",
         "ct": "Karlsruhe"
+      },
+      {
+        "i": "18448-St-Art 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -30,6 +46,10 @@
         "c": "DE",
         "n": "Art Karlsruhe 2012",
         "ct": "Karlsruhe"
+      },
+      {
+        "i": "18448-ST-ART  2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -38,6 +58,10 @@
         "c": "DE",
         "n": "Art Karlsruhe 2013",
         "ct": "Karlsruhe"
+      },
+      {
+        "i": "18448-St-art 2013",
+        "c": "FR"
       }
     ]
   }

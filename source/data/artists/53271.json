@@ -1,7 +1,7 @@
 {
   "id": "53271",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:25:27",
+  "timestamp": "2014-05-24 06:34:48",
   "name": "Carole Rivalin",
   "surname": "Rivalin",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "83735",
-  "r01": "78989",
-  "r02": "73477",
-  "r03": "66876",
-  "r04": "61538",
-  "r05": "54544",
-  "r06": "48131",
-  "r07": "41072",
-  "r08": "50036",
+  "r00": "73461",
+  "r01": "95146",
+  "r02": "89916",
+  "r03": "83208",
+  "r04": "76421",
+  "r05": "71769",
+  "r06": "64110",
+  "r07": "54255",
+  "r08": "44705",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "7",
+  "all-shows-total": "8",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "Belgium (2), France (2)",
-  "2005-shows-with": "Carole Rivalin (4), Romain Boulay (2), John Cornu (2), Clement Laigle (2)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (3), Belgium (2)",
+  "2005-shows-with": "Carole Rivalin (5), Romain Boulay (2), John Cornu (2), Clement Laigle (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Carole",
@@ -43,6 +43,34 @@
   "age": 42,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "53271-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "53271-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "53271-24759-2006-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "53271-24759-2006-03-11",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "53271-17461-2008-07-09",
+        "c": "FR"
+      },
+      {
+        "i": "53271-17461-2008-07-09",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "53271-22407-2010-06-05",
@@ -56,6 +84,16 @@
           "2010-06-05",
           "2010-07-24"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "53271-22625-2012-04-15",
+        "c": "FR"
+      },
+      {
+        "i": "53271-22625-2012-04-15",
+        "c": "FR"
       }
     ],
     "2013": [

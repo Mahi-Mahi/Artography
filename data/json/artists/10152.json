@@ -1,7 +1,7 @@
 {
   "id": "10152",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:01",
+  "timestamp": "2014-05-24 06:18:58",
   "name": "Djamel Tatah",
   "surname": "Tatah",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "4906",
-  "r01": "5414",
-  "r02": "5739",
-  "r03": "5654",
-  "r04": "5304",
-  "r05": "4421",
-  "r06": "4425",
-  "r07": "3823",
-  "r08": "4497",
+  "r00": "3729",
+  "r01": "4810",
+  "r02": "5924",
+  "r03": "6565",
+  "r04": "6765",
+  "r05": "6239",
+  "r06": "4743",
+  "r07": "4788",
+  "r08": "3896",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
-  "all-shows-total": "42",
+  "all-shows-total": "45",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "12",
-  "2005-countries-total": "France (12), Italy (2), Spain (2), Algeria (1), Belgium (1), Germany (1), Luxembourg (1)",
-  "2005-shows-with": "Djamel Tatah (15), Mona Hatoum (5), Sigalit Landau (4), Adel Abdessemed (3), Kader Attia (3), Denis Castellas (3), Camille Henrot (3), Bouchra Khalili (3), Shirin Neshat (3), Zineb Sedira (3), Shen Yuan (3), Irene Andessner (2), Janine Antoni (2), Gilles Barbier (2), Yto Barrada (2), Taysir Batniji (2), Mohamed Bourouissa (2), Marie Bovo (2), Mircea Cantor (2), David Claerbout (2), Vincent Corpet (2), Chris Cunningham (2), Marc Desgrandchamps (2), Janieta Eyre (2), Claire Fontaine (2), Risk Hazekamp (2), Tom Hunter (2), Rachel Labastie (2), Rosemary Laing (2), Claude Lévêque (2), Laura Mosquera (2), Moataz Nasr (2), Jean-Michel Othoniel (2), Adrian Paci (2), Simon Periton (2), Elizabeth Peyton (2), Huang Yong Ping (2), Martial Raysse (2), Ulrike Rosenbach (2), Sarkís (2), Wael Shawky (2), Lorna Simpson (2), Assan Smati (2), Kerry Stewart (2), Barthélémy Toguo (2), Charlie White (2)",
+  "2005-shows-museums": "15",
+  "2005-countries-total": "France (15), Italy (2), Spain (2), Algeria (1), Belgium (1), Germany (1), Greece (1), Luxembourg (1)",
+  "2005-shows-with": "Djamel Tatah (18), Mona Hatoum (6), Kader Attia (4), Bouchra Khalili (4), Sigalit Landau (4), Shen Yuan (4), Adel Abdessemed (3), Taysir Batniji (3), Mohamed Bourouissa (3), Denis Castellas (3), Vincent Corpet (3), Marc Desgrandchamps (3), Claire Fontaine (3), Camille Henrot (3), Shirin Neshat (3), Zineb Sedira (3), Barthélémy Toguo (3), Irene Andessner (2), Janine Antoni (2), Gilles Barbier (2), Yto Barrada (2), Bruno Boudjelal (2), Marie Bovo (2), Mircea Cantor (2), Chen Zhen (2), David Claerbout (2), Chris Cunningham (2), Denis Darzacq (2), Ad van Denderen (2), Janieta Eyre (2), Ghazel (2), Risk Hazekamp (2), Tom Hunter (2), Karim Kal (2), Kimsooja (2), Rachel Labastie (2), Rosemary Laing (2), Claude Lévêque (2), Thomas Mailaender (2), Laura Mosquera (2), Moataz Nasr (2), Malik Nejmi (2), Rajak Ohanian (2), Melik Ohanian (2), Jean-Michel Othoniel (2), Adrian Paci (2), Simon Periton (2), Mathieu Pernot (2), Elizabeth Peyton (2), Huang Yong Ping (2), Martial Raysse (2), James Rielly (2), Bernardí Roig (",
   "representing-galleries": "Galerie Liliane & Michel Durand-Dessert (28, rue de Lappe, 75011 Paris, France); JGM. Galerie (8 bis, rue Jacques Callot, 75006 Paris, France); Gallery LM (565-18 Jasmi Building (BI) Shinsa-dong, Gangnam-gu, 135-120 Seoul, South Korea); Gallery LVS (565-18 Jasmi Building (BI) Shinsa-dong, Gangnam-gu, 135-120 Seoul, South Korea); Galerie Charlotte Moser (rue de l'Hôtel-de-Ville 16, 1204 Geneva, Switzerland)",
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); DA2 - Domus Artium 2002 (Avenida de la Aldehuela, s/n, 37003 Salamanca, Spain)",
   "first_name": "Djamel",
@@ -56,6 +56,14 @@
           "2005-06-10",
           "2005-07-24"
         ]
+      },
+      {
+        "i": "10152-2528-2005-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "10152-2528-2005-06-18",
+        "c": "FR"
       },
       {
         "i": "10152-2582-2005-12-22",
@@ -84,6 +92,14 @@
           "2005-12-22",
           "2006-07-30"
         ]
+      },
+      {
+        "i": "10152-26765-2006-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "10152-26765-2006-05-10",
+        "c": "FR"
       },
       {
         "i": "10152-18193-2006-05-22",
@@ -125,6 +141,32 @@
         ]
       }
     ],
+    "2007": [
+      {
+        "i": "10152-12083-2007-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "10152-12083-2007-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "10152-27775-2007-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "10152-27775-2007-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "10152-7850-2007-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "10152-7850-2007-06-19",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "10152-2488-2008-01-08",
@@ -151,6 +193,22 @@
           "2008-06-12",
           "2008-07-27"
         ]
+      },
+      {
+        "i": "10152-1941-2008-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "10152-1941-2008-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "10152-1941-2008-11-01",
+        "c": "FR"
+      },
+      {
+        "i": "10152-1941-2008-11-01",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -166,6 +224,14 @@
           "2010-03-30",
           "2010-06-06"
         ]
+      },
+      {
+        "i": "10152-10219-2010-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "10152-10219-2010-06-02",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -181,24 +247,37 @@
           "2011-01-29",
           "2011-03-05"
         ]
+      },
+      {
+        "i": "10152-10247-2011-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "10152-10247-2011-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "10152-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "10152-28272-2011-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "10152-28272-2011-05-15",
+        "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "10152-13879-2012-11-11",
-        "c": "DE",
-        "n": "Liebe Tod und Teufel - Sammlung J+C Mairet",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Wuppertal",
-        "o": "Von der Heydt Kunsthalle",
-        "d": [
-          "2012-11-11",
-          "2013-02-03"
-        ]
-      }
-    ],
-    "2013": [
+        "i": "10152-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "10152-27822-2012-10-13",
+        "c": "FR"
+      },
       {
         "i": "10152-13879-2012-11-11",
         "c": "DE",
@@ -213,6 +292,57 @@
         ]
       },
       {
+        "i": "10152-8555-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "10152-8555-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "10152-8281-2012-12-09",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "10152-27822-2012-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "10152-13879-2012-11-11",
+        "c": "DE",
+        "n": "Liebe Tod und Teufel - Sammlung J+C Mairet",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Wuppertal",
+        "o": "Von der Heydt Kunsthalle",
+        "d": [
+          "2012-11-11",
+          "2013-02-03"
+        ]
+      },
+      {
+        "i": "10152-8281-2012-12-09",
+        "c": "FR"
+      },
+      {
+        "i": "10152-29568-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "10152-29568-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "10152-17115-2013-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "10152-17115-2013-01-19",
+        "c": "FR"
+      },
+      {
         "i": "10152-2488-2013-02-28",
         "c": "ES",
         "n": "De madonna a Madonna. (De)construcciones de lo femenino en la sociedad contemporánea",
@@ -224,6 +354,14 @@
           "2013-02-28",
           "2013-05-05"
         ]
+      },
+      {
+        "i": "10152-22704-2013-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "10152-22704-2013-06-08",
+        "c": "FR"
       },
       {
         "i": "10152-15658-2013-09-21",

@@ -1,7 +1,7 @@
 {
   "id": "74003",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:33:54",
+  "timestamp": "2014-05-24 06:42:07",
   "name": "Stéphane Blanquet",
   "surname": "Blanquet",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "37624",
-  "r01": "36399",
-  "r02": "35375",
-  "r03": "31977",
-  "r04": "31597",
-  "r05": "43898",
-  "r06": "38316",
-  "r07": "39645",
-  "r08": "33032",
+  "r00": "31822",
+  "r01": "29352",
+  "r02": "26640",
+  "r03": "24224",
+  "r04": "20617",
+  "r05": "19247",
+  "r06": "23127",
+  "r07": "21921",
+  "r08": "36072",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "9",
+  "all-shows-total": "13",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (4), Germany (1)",
-  "2005-shows-with": "Stéphane Blanquet (4), Moolinex (3)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (4), Germany (1), United Kingdom (1)",
+  "2005-shows-with": "Stéphane Blanquet (5), Moolinex (3)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Stéphane",
@@ -71,6 +71,64 @@
           "2008-03-08",
           "2008-04-08"
         ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "74003-2528-2009-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "74003-2528-2009-02-13",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "74003-26235-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "74003-26235-2010-03-13",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "74003-10235-2013-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "74003-10235-2013-09-22",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "74003-10576-2007-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "74003-10576-2007-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "74003-17491-2007-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "74003-17491-2007-02-07",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "74003-13653-2012-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "74003-13653-2012-01-20",
+        "c": "FR"
       }
     ]
   }

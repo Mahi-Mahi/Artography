@@ -1,7 +1,7 @@
 {
   "id": "55364",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:26:18",
+  "timestamp": "2014-05-24 06:35:31",
   "name": "Elisabeth Lecourt",
   "surname": "Lecourt",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "35198",
-  "r01": "34668",
-  "r02": "39282",
-  "r03": "49820",
-  "r04": "46257",
-  "r05": "47201",
-  "r06": null,
+  "r00": "30737",
+  "r01": "30454",
+  "r02": "29196",
+  "r03": "33395",
+  "r04": "43762",
+  "r05": "39950",
+  "r06": "41054",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -34,7 +34,7 @@
   "2005-shows-museums": "1",
   "2005-countries-total": "United Kingdom (19), France (1)",
   "2005-shows-with": "Elisabeth Lecourt (16), Vanessa Stone (8), Beckie Reed (7), Kevin Safe (7), Lee Madgwick (6), Martha Winter (6), Chris Wood (6), Ann Winder Boyle (5), Jennifer Collier (5), David Rhys Jones (5), Felicity Keefe (5), Rebecca Merry (5), Garry Raymond Pereira (5), Claire Turner (5), Mandy Walden (5), Helen Brown (4), Colin Bygrave (4), Anthony and Di Edmonds (4), Rachel Edgar (4), Paul Hawdon (4), Victoria Hunt (4), Rita Kearton (4), Tom Marine (4), Elizabeth Morris (4), Christine Relton (4), Helaina Sharpley (4), David Begbie (3), Louise Bird (3), Joanne Cooke (3), Dennis Farrell (3), Debbie George (3), Anna Gillespie (3), George Grant (3), Gareth Hacon (3), David Anthony Hall (3), Lucy Kinsella (3), Susan Macarthur (3), Caroline Richmond (3), Zoë Rubens (3), Mark Smith (3), Craig Underhill (3), Camilla Ward (3), Carry Akroyd (2), Amanda Helen Atkins (2), Wendy Barlow (2), Eleanor Curtis (2), Richard Heeps (2), Waller Hewitt (2), Patrick Hughes (2), Hilary Kay (2), June Launder (2), Ian MacCulloch (2), Wendy Mc",
-  "representing-galleries": "K+Y gallery (24, rue Treilhard, 75008 Paris, France); Berendsen - Galerie voor eigentijdse Kunst (Hoogstraat 32, 3011 PR Rotterdam, Netherlands); Byard Art (4 St Mary's Passage, CB2 3PQ Cambridge, Cambridgeshire (England), United Kingdom); Foss Fine Art (113b Northcote Road, SW11 6PW London (England), United Kingdom); Eric Franck Fine Art (7 Victoria Square,  London (England), United Kingdom)",
+  "representing-galleries": "K+Y gallery (24, rue Treilhard, 75008 Paris, France); Berendsen - Galerie voor eigentijdse Kunst (Hoogstraat 32, 3011 PR Rotterdam, Netherlands); Byard Art (4 St Mary's Passage, CB2 3PQ Cambridge, Cambridgeshire, United Kingdom); Foss Fine Art (113b Northcote Road, SW11 6PW London, United Kingdom); Eric Franck Fine Art (7 Victoria Square,  London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "Elisabeth",
   "last_name": "Lecourt",
@@ -313,6 +313,14 @@
           "2013-12-07",
           "2013-12-24"
         ]
+      },
+      {
+        "i": "55364-29266-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "55364-29266-2013-01-26",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "269169",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:50:34",
+  "timestamp": "2014-05-24 07:48:40",
   "name": "Anne Colomes",
   "surname": "Colomes",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "57869",
-  "r01": "54835",
-  "r02": "50862",
-  "r03": "46871",
-  "r04": null,
+  "r00": "34719",
+  "r01": "34552",
+  "r02": "31098",
+  "r03": "29973",
+  "r04": "26899",
   "r05": null,
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
-  "website": null,
+  "website": "unlac@hotmail.com",
   "all-shows-first": "2010",
   "all-shows-total": "3",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (3)",
-  "2005-shows-with": "Anne Colomes (3), Laurent Le Deunff (2)",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (4), Switzerland (1)",
+  "2005-shows-with": "Anne Colomes (5), Laurent Le Deunff (3)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Anne",
@@ -43,5 +43,33 @@
   "age": 42,
   "age_range": "41-60",
   "expos": {
+    "2010": [
+      {
+        "i": "269169-2303-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "269169-2303-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "269169-21710-2010-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "269169-21710-2010-03-27",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "269169-20646-2011-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "269169-20646-2011-03-04",
+        "c": "FR"
+      }
+    ]
   }
 }

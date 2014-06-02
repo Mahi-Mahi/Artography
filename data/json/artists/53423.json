@@ -1,7 +1,7 @@
 {
   "id": "53423",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:25:30",
+  "timestamp": "2014-05-24 06:34:51",
   "name": "Rebecca Bournigault",
   "surname": "Bournigault",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video, Public Intervention",
-  "r00": "4513",
-  "r01": "3941",
-  "r02": "3406",
-  "r03": "3401",
-  "r04": "3432",
-  "r05": "3297",
-  "r06": "3416",
-  "r07": "3436",
-  "r08": "3133",
+  "r00": "6188",
+  "r01": "5573",
+  "r02": "4544",
+  "r03": "3732",
+  "r04": "3840",
+  "r05": "4029",
+  "r06": "3943",
+  "r07": "4403",
+  "r08": "4419",
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
-  "all-shows-total": "56",
-  "2005-shows-biennials": "12",
-  "2005-shows-galleries": "12",
+  "all-shows-total": "55",
+  "2005-shows-biennials": "11",
+  "2005-shows-galleries": "11",
   "2005-shows-museums": "15",
-  "2005-countries-total": "France (16), Switzerland (3), Germany (2), Spain (2), Austria (1), Canada (1), Finland (1), Russia (1), South Korea (1)",
-  "2005-shows-with": "Rebecca Bournigault (25), Claude Closky (5), Françoise Petrovitch (5), Hans-Peter Feldmann (4), Kevin Francis Gray (4), Barthélémy Toguo (4), Anne Brégeaut (3), François-Xavier Courrèges (3), Douglas Gordon (3), Thomas Hirschhorn (3), Michel Journiac (3), Jan Kopp (3), Melanie Manchot (3), Christodoulos Panayiotou (3), Cécile Paris (3), Jean-Luc Verna (3), Marina Abramovic (2), Bas Jan Ader (2), Saâdane Afif (2), David Altmejd (2), Iris Andraschek (2), Pierre Ardouvin (2), Kader Attia (2), Zbynek Baladran (2), Fiona Banner (2), Ruth Barabash (2), Massimo Bartolini (2), Frauke Boggasch (2), Christian Boltanski (2), Diane Borsato (2), Yves Bresson (2), Pascal Broccolichi (2), Michel de Broin (2), Maria Bussmann (2), KR Buxey (2), Sophie Calle (2), Davide Cantoni (2), Alice Cattaneo (2), Loris Cecchini (2), Lygia Clark (2), Damien Deroubaix (2), Barbara Eichhorn (2), Tracey Emin (2), Cerith Wyn Evans (2), Christelle Familiari (2), Roland Flexner (2), Andrea Fogli (2), Cyprien Gaillard (2), Thomas Galler ",
-  "representing-galleries": "GALERIE FREDERIC DESIMPEL (Rue Bosquet 4, 1060 Brussels, Belgium); von Bartha Collection (Schertlingasse 16, CH-4051 Basel, Switzerland); von Bartha Garage (Kannenfeldplatz 6, 4056 Basel, Switzerland)",
+  "2005-countries-total": "France (16), Switzerland (3), Spain (2), Austria (1), Canada (1), Finland (1), Germany (1), Russia (1), South Korea (1)",
+  "2005-shows-with": "Rebecca Bournigault (24), Claude Closky (5), Françoise Petrovitch (5), Hans-Peter Feldmann (4), Kevin Francis Gray (4), Barthélémy Toguo (4), Anne Brégeaut (3), François-Xavier Courrèges (3), Douglas Gordon (3), Thomas Hirschhorn (3), Michel Journiac (3), Jan Kopp (3), Melanie Manchot (3), Christodoulos Panayiotou (3), Cécile Paris (3), Jean-Luc Verna (3), Marina Abramovic (2), Bas Jan Ader (2), Saâdane Afif (2), David Altmejd (2), Iris Andraschek (2), Pierre Ardouvin (2), Kader Attia (2), Zbynek Baladran (2), Fiona Banner (2), Ruth Barabash (2), Massimo Bartolini (2), Frauke Boggasch (2), Christian Boltanski (2), Diane Borsato (2), Yves Bresson (2), Pascal Broccolichi (2), Michel de Broin (2), Maria Bussmann (2), KR Buxey (2), Sophie Calle (2), Davide Cantoni (2), Alice Cattaneo (2), Loris Cecchini (2), Lygia Clark (2), Damien Deroubaix (2), Barbara Eichhorn (2), Tracey Emin (2), Cerith Wyn Evans (2), Christelle Familiari (2), Roland Flexner (2), Andrea Fogli (2), Cyprien Gaillard (2), Thomas Galler ",
+  "representing-galleries": "GALERIE FREDERIC DESIMPEL (Rue Bosquet 4, 1060 Brussels, Belgium); von Bartha Garage (Kannenfeldplatz 6, 4056 Basel, Switzerland)",
   "collecting-museums": "FRAC - Limousin (impasse des Charentes, 87100 Limoges, France)",
   "first_name": "Rebecca",
   "last_name": "Bournigault",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2006": [
+      {
+        "i": "53423-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "53423-1782-2006-01-21",
+        "c": "FR"
+      },
       {
         "i": "53423-10177-2006-06-30",
         "c": "BE",
@@ -99,6 +107,10 @@
         ]
       },
       {
+        "i": "53423-1293-2007-10-20",
+        "c": "FR"
+      },
+      {
         "i": "53423-10177-2007-11-08",
         "c": "BE",
         "n": "vidéologie",
@@ -110,9 +122,21 @@
           "2007-11-08",
           "2007-12-08"
         ]
+      },
+      {
+        "i": "53423-1936-2007-01-06",
+        "c": "FR"
+      },
+      {
+        "i": "53423-1936-2007-01-06",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "53423-1293-2007-10-20",
+        "c": "FR"
+      },
       {
         "i": "53423-15871-2008-05-30",
         "c": "ES",
@@ -140,6 +164,30 @@
         ]
       },
       {
+        "i": "53423-1936-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "53423-1936-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "53423-3864-2008-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "53423-3864-2008-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "53423-1936-2008-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "53423-1936-2008-10-18",
+        "c": "FR"
+      },
+      {
         "i": "53423-21228-2008-12-12",
         "c": "CH",
         "n": "Rebecca Bournigault",
@@ -154,6 +202,30 @@
       }
     ],
     "2009": [
+      {
+        "i": "53423-3864-2009-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "53423-3864-2009-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "53423-17271-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "53423-17271-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "53423-1936-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "53423-1936-2009-07-04",
+        "c": "FR"
+      },
       {
         "i": "53423-7450-2009-09-19",
         "c": "CH",
@@ -261,6 +333,22 @@
         ]
       },
       {
+        "i": "53423-16207-2010-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "53423-16207-2010-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "53423-4651-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "53423-4651-2010-05-07",
+        "c": "FR"
+      },
+      {
         "i": "53423-8521-2010-06-11",
         "c": "FI",
         "n": "Why do we resist?",
@@ -285,9 +373,57 @@
           "2010-09-07",
           "2010-10-17"
         ]
+      },
+      {
+        "i": "53423-4651-2010-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "53423-2353-2010-11-06",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "53423-4651-2010-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "53423-2353-2010-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "53423-14159-2011-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "53423-14159-2011-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "53423-1936-2011-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "53423-1936-2011-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "53423-9475-2011-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "53423-9475-2011-03-04",
+        "c": "FR"
+      },
+      {
+        "i": "53423-2094-2011-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "53423-2094-2011-09-09",
+        "c": "FR"
+      },
       {
         "i": "53423-8157-2011-11-26",
         "c": "CH",
@@ -300,6 +436,24 @@
           "2011-11-26",
           "2011-12-22"
         ]
+      },
+      {
+        "i": "53423-2094-2011-11-26",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "53423-2094-2012-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "53423-2094-2012-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "53423-2094-2011-11-26",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -328,6 +482,16 @@
           "2013-06-13",
           "2013-08-31"
         ]
+      }
+    ],
+    "2005": [
+      {
+        "i": "53423-1782-2005-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "53423-1782-2005-10-08",
+        "c": "FR"
       }
     ]
   }

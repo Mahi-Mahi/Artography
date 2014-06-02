@@ -1,7 +1,7 @@
 {
   "id": "163239",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:09:54",
+  "timestamp": "2014-05-24 07:12:22",
   "name": "Danièle Gibrat",
   "surname": "Gibrat",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "54717",
-  "r01": "50006",
-  "r02": "44127",
-  "r03": "39136",
-  "r04": "33888",
-  "r05": "28868",
-  "r06": "27877",
-  "r07": "26644",
-  "r08": "21650",
+  "r00": "83405",
+  "r01": "80131",
+  "r02": "73661",
+  "r03": "66229",
+  "r04": "59215",
+  "r05": "45534",
+  "r06": "35643",
+  "r07": "33499",
+  "r08": "31826",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "5",
+  "all-shows-total": "6",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (1)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (2)",
   "2005-shows-with": null,
   "representing-galleries": null,
   "collecting-museums": null,
@@ -43,5 +43,43 @@
   "age": 57,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "163239-20029-2005-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "163239-20029-2005-06-30",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "163239-20789-2007-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "163239-20789-2007-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "163239-23441-2007-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "163239-23441-2007-12-18",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "163239-20789-2008-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "163239-20789-2008-01-21",
+        "c": "FR"
+      }
+    ]
   }
 }

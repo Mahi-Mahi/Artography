@@ -221,6 +221,19 @@ define([], function() {
 				});
 			};
 
+			function showActus() {
+				var the_fair = $scope.galleries.fairs.today[0];
+				if (the_fair) {
+					console.log(the_fair);
+					jQuery('.news-block li').html(the_fair.n + '<br />' +
+						'Du ' + formatService.formatDate(the_fair.d[0]) +
+						(the_fair.d[1] ? (' Au ' + formatService.formatDate(the_fair.d[1])) : '') + '<br />' +
+						the_fair.o + ' / @' + the_fair.ct + ',' + the_fair.c);
+				}
+			}
+
+			// showActus();
+
 			$scope.$apply();
 
 			function parseData() {

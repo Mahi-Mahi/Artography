@@ -1,7 +1,7 @@
 {
   "id": "116162",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:50:53",
+  "timestamp": "2014-05-24 06:56:28",
   "name": "Julien Crépieux",
   "surname": "Crépieux",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "9540",
-  "r01": "14402",
-  "r02": "21228",
-  "r03": "41035",
-  "r04": "95264",
-  "r05": "88076",
-  "r06": "86856",
-  "r07": "78072",
-  "r08": "71068",
+  "r00": "5106",
+  "r01": "5673",
+  "r02": "10436",
+  "r03": "16251",
+  "r04": "34253",
+  "r05": "94311",
+  "r06": "86821",
+  "r07": "87139",
+  "r08": "78261",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "22",
-  "2005-shows-biennials": "6",
-  "2005-shows-galleries": "6",
-  "2005-shows-museums": "13",
-  "2005-countries-total": "France (16), Canada (1), Italy (1), Netherlands (1), Russia (1)",
-  "2005-shows-with": "Julien Crépieux (18), Mark Geffriaud (6), Bruno Persat (5), Raphaël Zarka (5), Isabelle Cornaro (4), Ryan Gander (4), Pierre Ardouvin (3), Juliana Borinski (3), Aurélien Froment (3), Bertrand Lamarche (3), Benoît Maire (3), Francis Alys (2), Julien Audebert (2), Ulla von Brandenburg (2), Cedrick Eymenier (2), Richard Fauguet (2), Laurent Grasso (2), Camille Henrot (2), Olivier Leroi (2), Claude Lévêque (2), Cyrille Maillot (2), Laurent Montaron (2), Benoit-Marie Moriceau (2), Chloé Quenum (2), Florian & Michael Quistrebert (2), Clément Rodzielski (2), Stéphane Thidet (2)",
-  "representing-galleries": "Galerie Jérôme Poggi (115/117 rue La Fayette, 75010 Paris, France)",
+  "all-shows-total": "25",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "France (19), Canada (1), Egypt (1), Italy (1), Netherlands (1), Russia (1)",
+  "2005-shows-with": "Julien Crépieux (21), Mark Geffriaud (6), Ryan Gander (5), Bruno Persat (5), Raphaël Zarka (5), Juliana Borinski (4), Isabelle Cornaro (4), Aurélien Froment (4), Bertrand Lamarche (4), Francis Alys (3), Pierre Ardouvin (3), Ulla von Brandenburg (3), Benoît Maire (3), Laurent Montaron (3), Chloé Quenum (3), Julien Audebert (2), Anna Eva Bergman (2), Cedrick Eymenier (2), Richard Fauguet (2), Laurent Grasso (2), Camille Henrot (2), Olivier Leroi (2), Claude Lévêque (2), Cyrille Maillot (2), Wesley Meuris (2), Benoit-Marie Moriceau (2), Florian & Michael Quistrebert (2), Clément Rodzielski (2), Vittorio Santoro (2), Société Réaliste (2), Georges Tony Stoll (2), Stéphane Thidet (2)",
+  "representing-galleries": "Galerie Jérôme Poggi (2 rue Beaubourg, 75004 Paris, France)",
   "collecting-museums": "FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Kadist Art Foundation (19 bis -21 rue Trois Fréres, 75018 Paris, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France); GAMeC - Galleria d´Arte Moderna e Contemporanea di Bergamo (Via San Tomaso 53, 24121 Bergamo, Italy)",
   "first_name": "Julien",
   "last_name": "Crépieux",
@@ -43,6 +43,36 @@
   "age": 35,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "116162-8206-2005-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "116162-8206-2005-10-20",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "116162-9477-2006-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "116162-9477-2006-04-01",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "116162-11492-2008-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "116162-11492-2008-06-13",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "116162-3749-2010-06-09",
@@ -56,6 +86,14 @@
           "2010-06-09",
           "2010-07-25"
         ]
+      },
+      {
+        "i": "116162-25336-2010-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "116162-25336-2010-06-17",
+        "c": "FR"
       },
       {
         "i": "116162-6130-2010-07-03",
@@ -73,6 +111,14 @@
     ],
     "2011": [
       {
+        "i": "116162-21639-2011-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "116162-21639-2011-01-19",
+        "c": "FR"
+      },
+      {
         "i": "116162-3276-2011-09-09",
         "c": "NL",
         "n": "Livret III",
@@ -84,9 +130,49 @@
           "2011-09-09",
           "2011-10-29"
         ]
+      },
+      {
+        "i": "116162-10247-2011-12-11",
+        "c": "FR"
+      },
+      {
+        "i": "116162-7390-2011-12-15",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "116162-10247-2011-12-11",
+        "c": "FR"
+      },
+      {
+        "i": "116162-7390-2011-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "116162-2414-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "116162-2414-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "116162-10221-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "116162-10221-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "116162-19670-2012-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "116162-19670-2012-02-14",
+        "c": "FR"
+      },
       {
         "i": "116162-8030-2012-09-14",
         "c": "CA",
@@ -99,6 +185,74 @@
           "2012-09-14",
           "2012-10-20"
         ]
+      },
+      {
+        "i": "116162-21639-2012-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "116162-21639-2012-02-15",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "116162-21639-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "116162-21639-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "116162-30270-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "116162-30270-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "116162-741-2013-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "116162-741-2013-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "116162-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "116162-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "116162-12129-2013-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "116162-12129-2013-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "116162-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "116162-2260-2013-11-07",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "116162-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "116162-2260-2013-11-07",
+        "c": "FR"
       }
     ]
   }

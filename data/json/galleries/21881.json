@@ -16,5 +16,23 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "3",
   "fairs": {
+    "2010": [
+      {
+        "i": "21881-Lille Art Fair 2010",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "21881-Lille Art Fair 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "21881-Lille Art Fair 2013",
+        "c": "FR"
+      }
+    ]
   }
 }

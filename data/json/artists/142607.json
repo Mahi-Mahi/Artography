@@ -1,7 +1,7 @@
 {
   "id": "142607",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:01:28",
+  "timestamp": "2014-05-24 07:05:15",
   "name": "Julie Vayssière",
   "surname": "Vayssière",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "41790",
-  "r01": "39276",
-  "r02": "54595",
-  "r03": "84573",
-  "r04": "78695",
-  "r05": "83660",
-  "r06": "90974",
-  "r07": null,
+  "r00": "29576",
+  "r01": "29815",
+  "r02": "29089",
+  "r03": "42851",
+  "r04": "76082",
+  "r05": "69927",
+  "r06": "80692",
+  "r07": "91297",
   "r08": null,
   "awards": null,
   "website": null,
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (5), Germany (1)",
-  "2005-shows-with": "Julie Vayssière (4), Fayçal Baghriche (3), Julien Chevy (2), Pierre Fisher (2), Vincent Ganivet (2), MA Leledy (2), Nicolas Muller (2), Simon Nicaise (2), Elisa Pône (2), Bojan Stojic (2), Adrien Vescovi (2)",
+  "2005-countries-total": "France (5), Germany (1), USA (1)",
+  "2005-shows-with": "Julie Vayssière (5), Fayçal Baghriche (3), Pauline Bastard (2), Julien Chevy (2), Pierre Fisher (2), Vincent Ganivet (2), MA Leledy (2), Nicolas Muller (2), Simon Nicaise (2), Elisa Pône (2), Bojan Stojic (2), Adrien Vescovi (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Julie",
@@ -43,6 +43,36 @@
   "age": 35,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "142607-9850-2007-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "142607-9850-2007-02-28",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "142607-17765-2008-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "142607-17765-2008-06-19",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "142607-11771-2009-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "142607-11771-2009-04-18",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "142607-22649-2010-06-10",
@@ -56,6 +86,34 @@
           "2010-06-10",
           "2010-06-26"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "142607-19768-2012-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "142607-19768-2012-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "142607-10221-2011-11-12",
+        "c": "FR"
+      },
+      {
+        "i": "142607-10221-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "142607-10221-2012-01-28",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "142607-10221-2011-11-12",
+        "c": "FR"
       }
     ]
   }

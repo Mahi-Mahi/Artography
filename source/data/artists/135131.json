@@ -1,7 +1,7 @@
 {
   "id": "135131",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:58:33",
+  "timestamp": "2014-05-24 07:02:47",
   "name": "Bertrand Dezoteux",
   "surname": "Dezoteux",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "7072",
-  "r01": "7138",
-  "r02": "12831",
-  "r03": "11389",
-  "r04": "37291",
-  "r05": "35317",
-  "r06": "40226",
-  "r07": null,
+  "r00": "7041",
+  "r01": "6929",
+  "r02": "7000",
+  "r03": "10007",
+  "r04": "8587",
+  "r05": "33811",
+  "r06": "31377",
+  "r07": "36102",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "14",
+  "all-shows-total": "13",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "10",
-  "2005-countries-total": "France (9), Chile (1), Spain (1), USA (1)",
-  "2005-shows-with": "Bertrand Dezoteux (9), Gabriel  Abrantes (3), Benjamin Crotty (3), Florian Pugnaire (3), Bertille Bak (2), Dewar & Gicquel (2), Clorinde Durand (2), Vincent Ganivet (2), Camille Henrot (2), Laurent Le Deunff (2), Jeanne Moynot (2), Enrique Ramírez (2), Jean-Xavier Renaud (2), Alexandre Singh (2), Oscar Tuazon (2)",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (8), Chile (1), Spain (1), USA (1)",
+  "2005-shows-with": "Bertrand Dezoteux (8), Gabriel  Abrantes (3), Benjamin Crotty (3), Florian Pugnaire (3), Bertille Bak (2), Dewar & Gicquel (2), Clorinde Durand (2), Vincent Ganivet (2), Camille Henrot (2), Laurent Le Deunff (2), Enrique Ramírez (2), Jean-Xavier Renaud (2), Alexandre Singh (2), Oscar Tuazon (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Bertrand",
@@ -43,6 +43,34 @@
   "age": 32,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "135131-2709-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "135131-2709-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "135131-10237-2007-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "135131-10237-2007-10-13",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "135131-2709-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "135131-2709-2008-06-06",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "135131-6147-2009-08-20",
@@ -57,7 +85,57 @@
         ]
       }
     ],
+    "2010": [
+      {
+        "i": "135131-8282-2010-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "135131-8282-2010-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "135131-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "135131-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "135131-20646-2010-11-09",
+        "c": "FR"
+      },
+      {
+        "i": "135131-20646-2010-11-09",
+        "c": "FR"
+      },
+      {
+        "i": "135131-1782-2010-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "135131-1782-2010-01-08",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "135131-2219-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "135131-2219-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "135131-17313-2012-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "135131-17313-2012-03-07",
+        "c": "FR"
+      },
       {
         "i": "135131-10777-2012-12-01",
         "c": "US",
@@ -83,6 +161,14 @@
           "2012-08-28",
           "2012-09-30"
         ]
+      },
+      {
+        "i": "135131-8285-2012-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "135131-8285-2012-10-04",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -98,6 +184,16 @@
           "2012-12-01",
           "2013-01-27"
         ]
+      },
+      {
+        "i": "135131-2585-2013-11-24",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "135131-2585-2013-11-24",
+        "c": "FR"
       }
     ]
   }

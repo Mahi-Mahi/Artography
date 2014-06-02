@@ -1,7 +1,7 @@
 {
   "id": "103753",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:45:56",
+  "timestamp": "2014-05-24 06:52:11",
   "name": "Clément Rodzielski",
   "surname": "Rodzielski",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "4157",
-  "r01": "4437",
-  "r02": "4447",
-  "r03": "5385",
-  "r04": "12280",
-  "r05": "20704",
-  "r06": "35769",
-  "r07": "48257",
-  "r08": null,
+  "r00": "2849",
+  "r01": "2996",
+  "r02": "3267",
+  "r03": "3188",
+  "r04": "4067",
+  "r05": "9955",
+  "r06": "17487",
+  "r07": "31885",
+  "r08": "44915",
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "48",
-  "2005-shows-biennials": "23",
-  "2005-shows-galleries": "23",
-  "2005-shows-museums": "15",
-  "2005-countries-total": "France (28), Italy (4), Germany (3), United Kingdom (3), USA (3), Austria (2), Belgium (1), Netherlands (1)",
-  "2005-shows-with": "Clément Rodzielski (37), Isabelle Cornaro (6), Mark Geffriaud (6), Pierre Leguillon (6), Raphaël Zarka (6), Karina Bisch (5), Nicolas Chardon (5), Benoît Maire (5), Davide Balula (4), Sophie Bueno-Boutellier (4), Claire Fontaine (4), Aurélien Froment (4), Cyprien Gaillard (4), Ryan Gander (4), Mathieu Mercier (4), Olivier Mosset (4), Jean-Luc Moulène (4), Michael Riedel (4), Saâdane Afif (3), Etienne Chambaud (3), Aurélien Mole (3), Gyan Panchal (3), Emilie Pitoiset (3), Seth Price (3), Lili Reynaud Dewar (3), Julien Tiberi (3), Oscar Tuazon (3), Mathieu Kleyebe Abonnenc (2), Scoli Acosta (2), Dove Allouche (2), Wilfrid Almendra (2), Can Altay (2), Salvatore Arancio (2), Fayçal Baghriche (2), Richard Baquié (2), Francesco Barocco (2), Vanessa Billy (2), Pierre Bismuth (2), Michel Blazy (2), Katinka Bock (2), Roxane Borujerdi (2), Rada Boukova (2), Peggy Buth (2), Andrea Büttner (2), Damien Cadio (2), Stéphane Calais (2), Felice Casorati (2), Maurizio Cattelan (2), Steven Claydon (2), Julien Crépie",
-  "representing-galleries": "Galerie Carlos Cardenas (43, rue Quincampoix, 75004 Paris, France); Galerie Chantal Crousel (10, rue Charlot, 75003 Paris, France); Federico Bianchi Contemporary Art - Milano (via Imbonati 12, 20159 Milan, Italy); CAMPOLI PRESTI (223 CAMBRIDGE HEATH ROAD, E2 0EL London (England), United Kingdom)",
+  "all-shows-total": "50",
+  "2005-shows-biennials": "24",
+  "2005-shows-galleries": "24",
+  "2005-shows-museums": "17",
+  "2005-countries-total": "France (31), Italy (4), USA (4), Germany (3), United Kingdom (3), Austria (2), Netherlands (1)",
+  "2005-shows-with": "Clément Rodzielski (38), Pierre Leguillon (7), Nicolas Chardon (6), Isabelle Cornaro (6), Mark Geffriaud (6), Raphaël Zarka (6), Karina Bisch (5), Aurélien Froment (5), Benoît Maire (5), Davide Balula (4), Sophie Bueno-Boutellier (4), Claire Fontaine (4), Cyprien Gaillard (4), Ryan Gander (4), Mathieu Mercier (4), Olivier Mosset (4), Jean-Luc Moulène (4), Michael Riedel (4), Julien Tiberi (4), Saâdane Afif (3), Roxane Borujerdi (3), Etienne Chambaud (3), Hippolyte Hentgen (3), Aurélien Mole (3), Gyan Panchal (3), Emilie Pitoiset (3), Seth Price (3), Lili Reynaud Dewar (3), Niels Trannois (3), Oscar Tuazon (3), Mathieu Kleyebe Abonnenc (2), Scoli Acosta (2), Dove Allouche (2), Wilfrid Almendra (2), Can Altay (2), Leonor Antunes (2), Salvatore Arancio (2), Fayçal Baghriche (2), Richard Baquié (2), Francesco Barocco (2), Jesus Alberto Benitez (2), Vanessa Billy (2), Pierre Bismuth (2), Michel Blazy (2), Katinka Bock (2), Rada Boukova (2), Peggy Buth (2), Andrea Büttner (2), Damien Cadio (2), Stéphane ",
+  "representing-galleries": "Galerie Carlos Cardenas (43, rue Quincampoix, 75004 Paris, France); Galerie Chantal Crousel (10, rue Charlot, 75003 Paris, France); Federico Bianchi Contemporary Art - Milano (via Imbonati 12, 20159 Milan, Italy); Campoli Presti - London (223 Cambridge Heath Rd, E2 0EL London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "Clément",
   "last_name": "Rodzielski",
@@ -43,7 +43,25 @@
   "age": 35,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "103753-7657-2006-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "103753-7657-2006-09-22",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "103753-4166-2007-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "103753-4166-2007-04-06",
+        "c": "FR"
+      },
       {
         "i": "103753-3289-2007-11-10",
         "c": "NL",
@@ -56,9 +74,25 @@
           "2007-11-10",
           "2007-11-24"
         ]
+      },
+      {
+        "i": "103753-8700-2007-11-17",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "103753-8700-2007-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "103753-10522-2008-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "103753-10522-2008-03-29",
+        "c": "FR"
+      },
       {
         "i": "103753-14115-2008-05-01",
         "c": "US",
@@ -71,9 +105,41 @@
           "2008-05-01",
           "2008-05-31"
         ]
+      },
+      {
+        "i": "103753-17765-2008-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "103753-17765-2008-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "103753-14159-2008-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "103753-17463-2008-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "103753-17463-2008-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "103753-4166-2008-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "103753-4166-2008-02-23",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "103753-14159-2008-10-11",
+        "c": "FR"
+      },
       {
         "i": "103753-319-2009-06-18",
         "c": "IT",
@@ -101,6 +167,30 @@
         ]
       },
       {
+        "i": "103753-893-2009-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "103753-8282-2009-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "103753-8282-2009-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "103753-14159-2009-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "103753-19673-2009-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "103753-19673-2009-11-26",
+        "c": "FR"
+      },
+      {
         "i": "103753-8122-2009-03-07",
         "c": "IT",
         "n": "Clément Rodzielski - Spector",
@@ -115,6 +205,30 @@
       }
     ],
     "2010": [
+      {
+        "i": "103753-893-2009-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "103753-14159-2009-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "103753-946-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "103753-946-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "103753-1293-2010-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "103753-1293-2010-03-01",
+        "c": "FR"
+      },
       {
         "i": "103753-22137-2010-03-04",
         "c": "DE",
@@ -142,6 +256,22 @@
         ]
       },
       {
+        "i": "103753-14678-2010-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "103753-14678-2010-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "103753-8282-2010-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "103753-8282-2010-05-26",
+        "c": "FR"
+      },
+      {
         "i": "103753-3749-2010-06-09",
         "c": "IT",
         "n": "Premio lorenzo bonaldi per l’arte – enterprize, v edizione",
@@ -153,6 +283,14 @@
           "2010-06-09",
           "2010-07-25"
         ]
+      },
+      {
+        "i": "103753-1522-2010-06-26",
+        "c": "FR"
+      },
+      {
+        "i": "103753-1522-2010-06-26",
+        "c": "FR"
       },
       {
         "i": "103753-21685-2010-06-30",
@@ -181,6 +319,14 @@
         ]
       },
       {
+        "i": "103753-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "103753-22964-2010-09-10",
+        "c": "FR"
+      },
+      {
         "i": "103753-3123-2010-09-17",
         "c": "NL",
         "n": "Beyond the Dust - Artists\\' Documents Today",
@@ -192,6 +338,14 @@
           "2010-09-17",
           "2010-12-12"
         ]
+      },
+      {
+        "i": "103753-8548-2010-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "103753-8548-2010-09-20",
+        "c": "FR"
       },
       {
         "i": "103753-9946-2010-11-13",
@@ -231,6 +385,14 @@
           "2010-01-15",
           "2010-01-23"
         ]
+      },
+      {
+        "i": "103753-4166-2010-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "103753-4166-2010-02-12",
+        "c": "FR"
       },
       {
         "i": "103753-3511-2010-09-16",
@@ -274,6 +436,30 @@
         ]
       },
       {
+        "i": "103753-8282-2011-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "103753-8282-2011-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "103753-7851-2011-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "103753-7851-2011-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "103753-14678-2011-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "103753-14678-2011-05-20",
+        "c": "FR"
+      },
+      {
         "i": "103753--2011-10-06",
         "c": "GB",
         "n": "The Rise And Fall Of Matter",
@@ -298,9 +484,33 @@
           "2011-11-30",
           "2011-12-04"
         ]
+      },
+      {
+        "i": "103753-7390-2011-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "103753-1522-2011-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "103753-1522-2011-05-19",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "103753-7390-2011-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "103753-7999-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "103753-7999-2012-01-07",
+        "c": "FR"
+      },
       {
         "i": "103753-4196-2012-09-20",
         "c": "AT",
@@ -313,6 +523,48 @@
           "2012-09-20",
           "2012-11-10"
         ]
+      },
+      {
+        "i": "103753-8520-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "103753-19085-2012-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "103753-19673-2012-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "103753-19673-2012-05-11",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "103753-8520-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "103753-19085-2012-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "103753-1522-2013-02-22",
+        "c": "FR"
+      },
+      {
+        "i": "103753-1522-2013-02-22",
+        "c": "FR"
+      },
+      {
+        "i": "103753-1522-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "103753-1522-2013-01-26",
+        "c": "FR"
       }
     ]
   }

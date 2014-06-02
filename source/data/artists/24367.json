@@ -1,7 +1,7 @@
 {
   "id": "24367",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:13:25",
+  "timestamp": "2014-05-24 06:24:26",
   "name": "le Gentil Garçon",
   "surname": "Gentil Garçon",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation, Sculpture",
-  "r00": "8490",
-  "r01": "8423",
-  "r02": "7384",
-  "r03": "6779",
-  "r04": "6340",
-  "r05": "6384",
-  "r06": "6946",
-  "r07": "8512",
-  "r08": "6970",
+  "r00": "11435",
+  "r01": "10907",
+  "r02": "9853",
+  "r03": "7676",
+  "r04": "6515",
+  "r05": "5870",
+  "r06": "5756",
+  "r07": "6296",
+  "r08": "7862",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "31",
+  "all-shows-total": "33",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "7",
+  "2005-shows-museums": "6",
   "2005-countries-total": "France (9), Switzerland (3), Japan (1)",
-  "2005-shows-with": "le Gentil Garçon (9), Delphine Reist (3), Mathieu Kleyebe Abonnenc (2), Renaud Auguste-Dormeuil (2), Olivier Babin (2), Alain Benoit (2), Etienne Bossut (2), Valentin Carron (2), Robert Combas (2), Geneviève Favre (2), Fabien Giraud (2), Grout/Mazeas (2), Vincent Kohler (2), Didier Marcel (2), Anita Molinero (2), Bruno Peinado (2), Laurent Perbos (2), Lionel Scoccimaro (2), Raphaël Siboni (2), Ida Tursic & Wilfried Mille (2), Stéphane Zaech (2)",
+  "2005-shows-with": "le Gentil Garçon (9), Delphine Reist (3), Mathieu Kleyebe Abonnenc (2), Renaud Auguste-Dormeuil (2), Olivier Babin (2), Alain Benoit (2), Etienne Bossut (2), Valentin Carron (2), Robert Combas (2), Geneviève Favre (2), Fabien Giraud (2), Grout/Mazeas (2), Vincent Kohler (2), Didier Marcel (2), Christian Marclay (2), Anita Molinero (2), Bruno Peinado (2), Laurent Perbos (2), Lionel Scoccimaro (2), Raphaël Siboni (2), Ida Tursic & Wilfried Mille (2)",
   "representing-galleries": "Galerie Métropolis (6 passage des Gravilliers, 75003 Paris, France)",
   "collecting-museums": "Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France)",
   "first_name": "le",
@@ -44,6 +44,22 @@
   "age_range": "26-40",
   "expos": {
     "2005": [
+      {
+        "i": "24367-1936-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "24367-1936-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "24367-20542-2005-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "24367-20542-2005-04-08",
+        "c": "FR"
+      },
       {
         "i": "24367-28587-2005-05-21",
         "c": "CH",
@@ -82,6 +98,14 @@
           "2005-11-11",
           "2006-01-29"
         ]
+      },
+      {
+        "i": "24367-11776-2005-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "24367-11776-2005-03-10",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -114,6 +138,38 @@
     ],
     "2007": [
       {
+        "i": "24367-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "24367-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "24367-22295-2007-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "24367-22295-2007-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "24367-7851-2007-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "24367-7851-2007-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "24367-18800-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "24367-18800-2007-09-15",
+        "c": "FR"
+      },
+      {
         "i": "24367-13839-2007-09-22",
         "c": "ES",
         "n": "whatever?",
@@ -125,6 +181,82 @@
           "2007-09-22",
           "2007-10-13"
         ]
+      },
+      {
+        "i": "24367-12314-2007-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "24367-12314-2007-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "24367-13618-2007-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "24367-13618-2007-06-23",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "24367-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "24367-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "24367-8128-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "24367-8128-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "24367-27953-2008-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "24367-27953-2008-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "24367-16505-2008-11-14",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "24367-16752-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "24367-16752-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "24367-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "24367-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "24367-10576-2009-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "24367-10576-2009-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "24367-16505-2008-11-14",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -140,6 +272,14 @@
           "2010-03-06",
           "2010-04-18"
         ]
+      },
+      {
+        "i": "24367-8540-2010-02-27",
+        "c": "FR"
+      },
+      {
+        "i": "24367-8540-2010-02-27",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -182,6 +322,14 @@
           "2013-05-22",
           "2013-07-17"
         ]
+      },
+      {
+        "i": "24367-22373-2013-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "24367-22373-2013-06-15",
+        "c": "FR"
       }
     ]
   }

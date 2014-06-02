@@ -1,7 +1,7 @@
 {
   "id": "94354",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:42:27",
+  "timestamp": "2014-05-24 06:49:14",
   "name": "Agnès Geoffray",
   "surname": "Geoffray",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "6659",
-  "r01": "8230",
-  "r02": "8353",
-  "r03": "10103",
-  "r04": "11907",
-  "r05": "19968",
-  "r06": "21631",
-  "r07": "17782",
-  "r08": "23602",
+  "r00": "4797",
+  "r01": "4926",
+  "r02": "7004",
+  "r03": "6994",
+  "r04": "8870",
+  "r05": "11103",
+  "r06": "22180",
+  "r07": "24490",
+  "r08": "18870",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "30",
+  "all-shows-total": "31",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
-  "2005-shows-museums": "11",
-  "2005-countries-total": "Belgium (8), France (5), Germany (4), Austria (1), Italy (1), Luxembourg (1), Netherlands (1), Poland (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Agnès Geoffray (23), Michel François (4), Kader Attia (3), Pierre Bismuth (3), Corinne May Botz (3), Edith Dekyndt (3), Denicolai & Provoost (3), Stan Douglas (3), Thomas Hirschhorn (3), Gabriel Kuri (3), Philippe Parreno (3), Fiona Tan (3), Vito Acconci (2), Saâdane Afif (2), Jason Ajemian (2), Lucas Ajemian (2), Lara Almárcegui (2), Juan Arata (2), Sam Ashley (2), Wojtek Bakowski (2), John Baldessari (2), Miroslaw Balka (2), Charlotte Beaudry (2), Aline Bouvy & John Gillis (2), Lucia Bru (2), Liudvikas Buklys (2), Erik Bünger (2), Damien Cadio (2), Sophie Calle (2), Jacques Charlier (2), Ludovic Chemarin (2), Keren Cytter (2), Michael Dans (2), Koenraad Dedobbeleer (2), Messieurs Delmotte (2), Danny Devos (2), Peter Downsbrough (2), Nina Fischer & Maroan el Sani (2), Gerlach en Koop (2), Liam Gillick (2), Jos de Gruyter & Harald Thys (2), Kathrin Günter (2), Sofie Haesaerts (2), Carl Michael von Hausswolff (2), Tim Hecker (2), Saskia Holmkvist (2), Hedwig Houben (2), Martin Howse (2), Thomas Huber (2)",
+  "2005-shows-museums": "12",
+  "2005-countries-total": "Belgium (8), France (6), Germany (4), Austria (1), Italy (1), Luxembourg (1), Netherlands (1), Poland (1), Switzerland (1), USA (1)",
+  "2005-shows-with": "Agnès Geoffray (24), Michel François (4), Kader Attia (3), Pierre Bismuth (3), Corinne May Botz (3), Edith Dekyndt (3), Denicolai & Provoost (3), Stan Douglas (3), Thomas Hirschhorn (3), Gabriel Kuri (3), Philippe Parreno (3), Fiona Tan (3), Vito Acconci (2), Saâdane Afif (2), Jason Ajemian (2), Lucas Ajemian (2), Lara Almárcegui (2), Juan Arata (2), Sam Ashley (2), Wojtek Bakowski (2), John Baldessari (2), Miroslaw Balka (2), Charlotte Beaudry (2), Aline Bouvy & John Gillis (2), Lucia Bru (2), Liudvikas Buklys (2), Erik Bünger (2), Damien Cadio (2), Sophie Calle (2), Jacques Charlier (2), Ludovic Chemarin (2), Keren Cytter (2), Michael Dans (2), Koenraad Dedobbeleer (2), Messieurs Delmotte (2), Danny Devos (2), Peter Downsbrough (2), Nina Fischer & Maroan el Sani (2), Gerlach en Koop (2), Liam Gillick (2), Nicolas Giraud (2), Jos de Gruyter & Harald Thys (2), Kathrin Günter (2), Sofie Haesaerts (2), Carl Michael von Hausswolff (2), Tim Hecker (2), Saskia Holmkvist (2), Hedwig Houben (2), Martin Howse (",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Agnès",
@@ -56,6 +56,14 @@
           "2006-11-25",
           "2007-01-20"
         ]
+      },
+      {
+        "i": "94354-8647-2006-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "94354-8647-2006-02-17",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -168,6 +176,14 @@
           "2009-12-04",
           "2010-03-14"
         ]
+      },
+      {
+        "i": "94354-1403-2010-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "94354-1403-2010-02-04",
+        "c": "FR"
       },
       {
         "i": "94354-15771-2010-02-28",
@@ -316,6 +332,14 @@
         ]
       },
       {
+        "i": "94354-28954-2012-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "94354-28954-2012-04-14",
+        "c": "FR"
+      },
+      {
         "i": "94354-1296-2012-09-10",
         "c": "DE",
         "n": "4. Fotofestival Mannheim_Ludwigshafen_Heidelberg",
@@ -370,6 +394,14 @@
         ]
       },
       {
+        "i": "94354-4179-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "94354-4179-2013-01-12",
+        "c": "FR"
+      },
+      {
         "i": "94354-12812-2013-06-05",
         "c": "CH",
         "n": "fALSEfAKES",
@@ -383,6 +415,14 @@
         ]
       },
       {
+        "i": "94354-19747-2013-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "94354-19747-2013-06-20",
+        "c": "FR"
+      },
+      {
         "i": "94354-2097-2013-09-06",
         "c": "AT",
         "n": "Salon der Angst",
@@ -394,6 +434,14 @@
           "2013-09-06",
           "2014-01-12"
         ]
+      },
+      {
+        "i": "94354-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "94354-10825-2013-09-21",
+        "c": "FR"
       }
     ],
     "2014": [

@@ -1,7 +1,7 @@
 {
   "id": "113275",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:49:49",
+  "timestamp": "2014-05-24 06:55:29",
   "name": "Marie-Jeanne Hoffner",
   "surname": "Hoffner",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "34941",
-  "r01": "37440",
-  "r02": "38860",
-  "r03": "43527",
-  "r04": "50007",
-  "r05": "47480",
-  "r06": "45180",
-  "r07": "38715",
-  "r08": "32190",
+  "r00": "33560",
+  "r01": "32942",
+  "r02": "36039",
+  "r03": "37652",
+  "r04": "43327",
+  "r05": "51743",
+  "r06": "48984",
+  "r07": "46249",
+  "r08": "38516",
   "awards": null,
   "website": "www.mariejeannehoffner.org",
   "all-shows-first": "2001",
   "all-shows-total": "17",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
   "2005-shows-museums": "5",
-  "2005-countries-total": "France (8), Australia (1), Germany (1), Sweden (1), United Kingdom (1)",
-  "2005-shows-with": "Marie-Jeanne Hoffner (10), Chloé Dugit-Gros (3), Laetitia Badaut (2), Nathalie Elémento (2), Stephen Garrett (2), Fleur Noguera (2)",
+  "2005-countries-total": "France (8), Australia (2), Germany (1), Sweden (1), United Kingdom (1)",
+  "2005-shows-with": "Marie-Jeanne Hoffner (11), Chloé Dugit-Gros (3), Laetitia Badaut (2), Nathalie Elémento (2), Stephen Garrett (2), Fleur Noguera (2)",
   "representing-galleries": "Galerie Dohyang Lee (73-75, rue Quincampoix, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Marie-Jeanne",
@@ -43,6 +43,24 @@
   "age": 40,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "113275-9316-2005-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "113275-9316-2005-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "113275-8189-2005-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "113275-8189-2005-06-05",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "113275-23619-2008-05-09",
@@ -60,6 +78,14 @@
     ],
     "2009": [
       {
+        "i": "113275-17463-2009-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "113275-17463-2009-04-29",
+        "c": "FR"
+      },
+      {
         "i": "113275-16684-2009-10-10",
         "c": "AU",
         "n": "After the Goldrush",
@@ -71,6 +97,32 @@
           "2009-10-10",
           "2009-11-07"
         ]
+      },
+      {
+        "i": "113275-28299-2009-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "113275-28299-2009-11-26",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "113275-946-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "113275-946-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "113275-27842-2010-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "113275-27842-2010-02-14",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -88,6 +140,22 @@
         ]
       },
       {
+        "i": "113275-21710-2011-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "113275-21710-2011-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "113275-12129-2011-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "113275-12129-2011-04-27",
+        "c": "FR"
+      },
+      {
         "i": "113275-22863-2011-11-04",
         "c": "GB",
         "n": "Your Garden Is Looking A Mess Could You Please Tidy It Up",
@@ -99,6 +167,26 @@
           "2011-11-04",
           "2011-12-17"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "113275-21710-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "113275-21710-2012-05-12",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "113275-7912-2013-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "113275-7912-2013-05-02",
+        "c": "FR"
       }
     ]
   }

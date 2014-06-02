@@ -1,7 +1,7 @@
 {
   "id": "271594",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:51:30",
+  "timestamp": "2014-05-24 07:49:29",
   "name": "Sophie T. Lvoff",
   "surname": "Lvoff",
   "nationality": "FR, US",
@@ -14,13 +14,13 @@
   "death day": null,
   "death month": null,
   "death year": null,
-  "attributes": null,
+  "attributes": "Female",
   "media": "Photography",
-  "r00": "27789",
-  "r01": "26164",
-  "r02": "27122",
-  "r03": "62405",
-  "r04": null,
+  "r00": "21101",
+  "r01": "21100",
+  "r02": "19015",
+  "r03": "19554",
+  "r04": "50456",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,17 +28,17 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "8",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "10",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
   "2005-shows-museums": "4",
-  "2005-countries-total": "USA (4), France (2), Italy (1), Switzerland (1)",
-  "2005-shows-with": "Sophie T. Lvoff (8), Yann Amstutz (4), George Awde (4), Kristoffer Axén (4), Benjamin Beker (4), Joshua Bilton (4), Bogdan Andrei Bordeianu (4), Maxime Brygo (4), Chang Kyun Kim (4), Tehila Cohen (4), Jen Davis (4), David De Beyter (4), Nicolas Delaroche (4), Sylvia Doebelt (4), Dru Donovan (4), David Favrod (4), Daniela Friebel (4), Matthieu Gafsou (4), Anne Golaz (4), Lena Gomon (4), Nick Graham (4), Audrey Guiraud (4), Claudia Hanimann (4), Florian Joye (4), Kalle Kataila (4), Daniel Kaufmann (4), Ani Kington (4), Markus Klingenhäger (4), Richard Kolker (4), Sylwia Kowalczyk (4), Ania Krupiakov (4), Ivar Kvaal (4), Elisa Larvego (4), Shane Lavalette (4), SungHee Lee (4), Jacinthe Lessard-L. (4), Liu Di (4), Agata Madejska (4), David Molander (4), Ágnes Éva Molnar (4), Richard Mosse (4), Milo Newman (4), Yusuke Nishimura (4), Ya\\'ara Oren (4), Anna Orlowska (4), Jennifer Osborne (4), Margo Ovcharenko (4), Nelli Palomäki (4), Augustin Rebetez (4), Andrea Star Reese (4), Nicole Robson (4), Simone Rosenba",
+  "2005-countries-total": "USA (6), France (2), Italy (1), Switzerland (1)",
+  "2005-shows-with": "Sophie T. Lvoff (10), Yann Amstutz (4), George Awde (4), Kristoffer Axén (4), Benjamin Beker (4), Joshua Bilton (4), Bogdan Andrei Bordeianu (4), Maxime Brygo (4), Chang Kyun Kim (4), Tehila Cohen (4), Jen Davis (4), David De Beyter (4), Nicolas Delaroche (4), Sylvia Doebelt (4), Dru Donovan (4), David Favrod (4), Daniela Friebel (4), Matthieu Gafsou (4), Anne Golaz (4), Lena Gomon (4), Nick Graham (4), Audrey Guiraud (4), Claudia Hanimann (4), Florian Joye (4), Kalle Kataila (4), Daniel Kaufmann (4), Ani Kington (4), Markus Klingenhäger (4), Richard Kolker (4), Sylwia Kowalczyk (4), Ania Krupiakov (4), Ivar Kvaal (4), Elisa Larvego (4), Shane Lavalette (4), SungHee Lee (4), Jacinthe Lessard-L. (4), Liu Di (4), Agata Madejska (4), David Molander (4), Ágnes Éva Molnar (4), Richard Mosse (4), Milo Newman (4), Yusuke Nishimura (4), Ya\\'ara Oren (4), Anna Orlowska (4), Jennifer Osborne (4), Margo Ovcharenko (4), Nelli Palomäki (4), Augustin Rebetez (4), Andrea Star Reese (4), Nicole Robson (4), Simone Rosenb",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Sophie",
   "last_name": "T.",
-  "genre": "c",
+  "genre": "f",
   "birthDate": "1986-01-01",
   "age": 28,
   "age_range": "26-40",
@@ -97,6 +97,22 @@
           "2011-01-21",
           "2011-03-17"
         ]
+      },
+      {
+        "i": "271594-27948-2011-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "271594-27948-2011-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "271594-7491-2011-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "271594-7491-2011-09-14",
+        "c": "FR"
       },
       {
         "i": "271594-8278-2011-10-01",

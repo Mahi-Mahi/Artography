@@ -1,7 +1,7 @@
 {
   "id": "4066",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:04:12",
+  "timestamp": "2014-05-24 06:16:28",
   "name": "Serge Comte",
   "surname": "Comte",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "9683",
-  "r01": "9057",
-  "r02": "8682",
-  "r03": "7339",
-  "r04": "6295",
-  "r05": "5236",
-  "r06": "4367",
-  "r07": "3781",
-  "r08": "3042",
+  "r00": "15581",
+  "r01": "13348",
+  "r02": "12784",
+  "r03": "16586",
+  "r04": "12158",
+  "r05": "8999",
+  "r06": "6501",
+  "r07": "4886",
+  "r08": "3975",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
-  "all-shows-total": "32",
+  "all-shows-total": "35",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (8)",
-  "2005-shows-with": "Serge Comte (8), Claude Closky (3), Harry Callahan (2), Clôde Coulpier (2), Stéphane Déplan (2), Gérard Gasiorowski (2), Séverine Gorlier (2), Pierre Jahan (2), Jacob Kassay (2), On Kawara (2), David Lefebvre (2), Joachim Mogarra (2), Juan Muñoz (2), Jim Shaw (2)",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (10)",
+  "2005-shows-with": "Serge Comte (10), Claude Closky (3), Harry Callahan (2), Clôde Coulpier (2), Stéphane Déplan (2), Robert Filliou (2), Gérard Gasiorowski (2), Séverine Gorlier (2), Pierre Jahan (2), Jacob Kassay (2), On Kawara (2), Laurent Kropf (2), David Lefebvre (2), Joachim Mogarra (2), Juan Muñoz (2), Dennis Oppenheim (2), Jim Shaw (2), Roman Signer (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Musée d'Art moderne de Saint-Etienne (La Terrasse, 42000 Saint-Etienne, France)",
   "first_name": "Serge",
@@ -56,6 +56,14 @@
           "2006-04-08",
           "2006-04-30"
         ]
+      },
+      {
+        "i": "4066-17271-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "4066-17271-2006-09-09",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -71,6 +79,100 @@
           "2007-03-03",
           "2007-03-25"
         ]
+      },
+      {
+        "i": "4066-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "4066-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "4066-18906-2007-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "4066-18906-2007-09-08",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "4066-18906-2008-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "4066-18906-2008-05-24",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "4066-17765-2009-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "4066-17765-2009-04-03",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "4066-18906-2010-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "4066-18906-2010-02-14",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "4066-1829-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "4066-1829-2011-01-28",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "4066-8996-2012-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "4066-8996-2012-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "4066-8285-2012-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "4066-8285-2012-05-11",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "4066-8285-2013-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "4066-8285-2013-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "4066-11893-2013-11-09",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "4066-11893-2013-11-09",
+        "c": "FR"
       }
     ]
   }

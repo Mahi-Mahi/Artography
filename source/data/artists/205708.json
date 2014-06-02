@@ -1,7 +1,7 @@
 {
   "id": "205708",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:25:58",
+  "timestamp": "2014-05-24 07:26:56",
   "name": "Benjamin Seror",
   "surname": "Seror",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "11741",
-  "r01": "16787",
-  "r02": "21477",
-  "r03": "44526",
-  "r04": "39860",
-  "r05": "39412",
-  "r06": "46105",
-  "r07": "51904",
-  "r08": null,
+  "r00": "7269",
+  "r01": "8951",
+  "r02": "13515",
+  "r03": "17852",
+  "r04": "41336",
+  "r05": "35859",
+  "r06": "35341",
+  "r07": "41988",
+  "r08": "48356",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "18",
+  "all-shows-total": "20",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (9), Austria (1), Lithuania (1), Netherlands (1), Spain (1), USA (1)",
-  "2005-shows-with": "Benjamin Seror (14), Matthieu Clainchard (2), Yona Friedman (2), Aurélien Froment (2), Jeremie Gindre (2), Morten Norbye Halvorsen (2), Danièle Huillet (2), David Lamelas (2), Nicholas Matranga (2), Deimantas Narkevicius (2), Sophie Nys (2), Amilcar Packer (2), Julia Rometti & Victor Costales (2), Kristina Solomoukha (2), Jean-Marie Straub (2)",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (11), Austria (1), Lithuania (1), Netherlands (1), Spain (1), USA (1)",
+  "2005-shows-with": "Benjamin Seror (16), Matthieu Clainchard (2), Yona Friedman (2), Aurélien Froment (2), Jeremie Gindre (2), Morten Norbye Halvorsen (2), Danièle Huillet (2), David Lamelas (2), Nicholas Matranga (2), Deimantas Narkevicius (2), Sophie Nys (2), Amilcar Packer (2), Julia Rometti & Victor Costales (2), Kristina Solomoukha (2), Jean-Marie Straub (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Benjamin",
@@ -56,6 +56,68 @@
           "2006-04-28",
           "2006-05-21"
         ]
+      },
+      {
+        "i": "205708-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "205708-12314-2006-11-17",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "205708-18549-2007-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "205708-18549-2007-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "205708-18549-2007-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "205708-18549-2007-10-18",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "205708-19804-2008-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "205708-19804-2008-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "205708-18906-2008-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "205708-18906-2008-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "205708-8678-2008-10-30",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "205708-8678-2008-10-30",
+        "c": "FR"
+      },
+      {
+        "i": "205708-8678-2009-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "205708-8678-2009-05-28",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -71,9 +133,25 @@
           "2011-05-13",
           "2011-06-18"
         ]
+      },
+      {
+        "i": "205708-2493-2011-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "205708-2493-2011-09-15",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "205708-21128-2012-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "205708-21128-2012-02-16",
+        "c": "FR"
+      },
       {
         "i": "205708-4251-2012-08-24",
         "c": "LT",
@@ -152,6 +230,30 @@
           "2013-01-16",
           "2013-03-03"
         ]
+      },
+      {
+        "i": "205708-2351-2013-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "205708-2351-2013-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "205708-6620-2013-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "205708-6620-2013-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "205708-7912-2013-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "205708-7912-2013-06-13",
+        "c": "FR"
       }
     ]
   }

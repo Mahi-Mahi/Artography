@@ -1,7 +1,7 @@
 {
   "id": "65696",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:38",
+  "timestamp": "2014-05-24 06:39:14",
   "name": "Cécile le Talec",
   "surname": "Talec",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "58844",
-  "r01": "54780",
-  "r02": "59063",
-  "r03": "64262",
-  "r04": "56996",
-  "r05": "50479",
-  "r06": "50563",
-  "r07": "43522",
-  "r08": "36255",
+  "r00": "42433",
+  "r01": "64917",
+  "r02": "61437",
+  "r03": "73594",
+  "r04": "84161",
+  "r05": "70501",
+  "r06": "58993",
+  "r07": "59428",
+  "r08": "48757",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "6",
+  "all-shows-total": "7",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (3)",
+  "2005-countries-total": "France (3), Belgium (1)",
   "2005-shows-with": null,
   "representing-galleries": null,
   "collecting-museums": "FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France)",
@@ -43,5 +43,35 @@
   "age": 52,
   "age_range": "41-60",
   "expos": {
+    "2008": [
+      {
+        "i": "65696-17165-2008-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "65696-17165-2008-02-28",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "65696-17457-2011-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "65696-17457-2011-04-06",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "65696-17457-2012-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "65696-17457-2012-01-31",
+        "c": "FR"
+      }
+    ]
   }
 }

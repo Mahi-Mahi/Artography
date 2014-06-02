@@ -1,7 +1,7 @@
 {
   "id": "64535",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:10",
+  "timestamp": "2014-05-24 06:38:48",
   "name": "Carlos Ginzburg",
   "surname": "Ginzburg",
   "nationality": "FR, AR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "17335",
-  "r01": "20791",
-  "r02": "22246",
-  "r03": "24466",
-  "r04": "20943",
-  "r05": "23486",
-  "r06": "19482",
-  "r07": "15945",
-  "r08": "17841",
+  "r00": "15563",
+  "r01": "15461",
+  "r02": "22968",
+  "r03": "26438",
+  "r04": "31525",
+  "r05": "25599",
+  "r06": "33069",
+  "r07": "25645",
+  "r08": "18963",
   "awards": null,
   "website": null,
   "all-shows-first": "1974",
-  "all-shows-total": "13",
+  "all-shows-total": "15",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": "3",
-  "2005-countries-total": "Argentina (1), France (1), Germany (1), USA (1)",
-  "2005-shows-with": "Carlos Ginzburg (4), Guillermo Deisler (3), Luis Pazos (3), Juan Carlos Romero (3), Carlos Altamirano (2), John Baldessari (2), Artur Barrio (2), Joseph Beuys (2), Graciela Carnevale (2), Ulises Carrión (2), Eugenio Dittborn (2), Juan Downey (2), Nicolás García Uriburu (2), Douglas Huebler (2), Antoni Muntadas (2), Leticia Parente (2), Claudio Perna (2), Herbert Rodríguez (2), Lotty Rosenfeld (2), Robert Smithson (2), Edgardo Vigo (2), Horacio Zabala (2)",
-  "representing-galleries": "3ème rue galerie - Marseille (Cité Radieuse Le Corbusier (3e étage), 280 bd Michelet, 13008 Marseille, France); 3ème rue galerie - Paris (164 rue Saint Martin, 75003 Paris, France); Galerie Coullaud & Koulinsky (12 rue de Picardie, 75003 Paris, France); Lina Davidov (210, Boulevard Saint-Germain, 75007 Paris, France); Henrique Faria Fine Art (805 Madison Ave. Suite 3B, NY 10021 New York City, NY, USA)",
+  "2005-countries-total": "Argentina (2), France (1), Germany (1), USA (1)",
+  "2005-shows-with": "Carlos Ginzburg (5), Luis Pazos (4), Juan Carlos Romero (4), Guillermo Deisler (3), Nicolás García Uriburu (3), Edgardo Vigo (3), Horacio Zabala (3), Carlos Altamirano (2), John Baldessari (2), Artur Barrio (2), Luis Benedit (2), Joseph Beuys (2), Graciela Carnevale (2), Ulises Carrión (2), Jaime Davidovich (2), Mirtha Dermisache (2), Eugenio Dittborn (2), Juan Downey (2), Victor Grippo (2), Douglas Huebler (2), Leandro Katz (2), David Lamelas (2), Leopoldo Maler (2), Antoni Muntadas (2), Leticia Parente (2), Claudio Perna (2), Alfredo Portillos (2), Herbert Rodríguez (2), Osvaldo Romberg (2), Lotty Rosenfeld (2), Robert Smithson (2)",
+  "representing-galleries": "3ème rue galerie - Marseille (Cité Radieuse Le Corbusier (3e étage), 280 bd Michelet, 13008 Marseille, France); 3ème rue galerie - Paris (164 rue Saint Martin, 75003 Paris, France); Galerie Coullaud & Koulinsky (12 rue de Picardie, 75003 Paris, France); Lina Davidov (210, Boulevard Saint-Germain, 75007 Paris, France); Henrique Faria Fine Art - New York (805 Madison Ave. Suite 3B, NY 10021 New York City, NY, USA)",
   "collecting-museums": null,
   "first_name": "Carlos",
   "last_name": "Ginzburg",
@@ -56,6 +56,14 @@
           "2006-01-28",
           "2006-03-20"
         ]
+      },
+      {
+        "i": "64535-5341-2006-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "64535-5341-2006-01-12",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -116,6 +124,16 @@
           "2013-07-25",
           "2013-10-05"
         ]
+      },
+      {
+        "i": "64535-2342-2013-11-19",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "64535-2342-2013-11-19",
+        "c": "FR"
       }
     ]
   }

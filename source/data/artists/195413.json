@@ -1,7 +1,7 @@
 {
   "id": "195413",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:22:02",
+  "timestamp": "2014-05-24 07:23:24",
   "name": "Olivier Kosta-Théfaine",
   "surname": "Kosta-Théfaine",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "19646",
-  "r01": "21597",
-  "r02": "26615",
-  "r03": "28929",
-  "r04": "27641",
-  "r05": "61100",
-  "r06": "56902",
-  "r07": "59742",
-  "r08": null,
+  "r00": "15711",
+  "r01": "15756",
+  "r02": "17343",
+  "r03": "22570",
+  "r04": "24484",
+  "r05": "23132",
+  "r06": "57669",
+  "r07": "53295",
+  "r08": "57293",
   "awards": null,
   "website": "www.olivierkostathefaine.com",
   "all-shows-first": "2006",
-  "all-shows-total": "23",
-  "2005-shows-biennials": "14",
-  "2005-shows-galleries": "14",
+  "all-shows-total": "25",
+  "2005-shows-biennials": "16",
+  "2005-shows-galleries": "16",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (10), Belgium (3), Sweden (3), Luxembourg (1), United Kingdom (1)",
-  "2005-shows-with": "Olivier Kosta-Théfaine (11), Samuel François (3), Barry McGee (3), Delta (2), Renato Leotta (2), Justin Morin (2), Jon Naar (2), Nug (2), Stephen Powers (2), Sixeart (2), Aurélie Slonina (2)",
+  "2005-countries-total": "France (12), Belgium (3), Sweden (3), Luxembourg (1), United Kingdom (1)",
+  "2005-shows-with": "Olivier Kosta-Théfaine (13), Samuel François (5), Barry McGee (3), Justin Morin (3), Delta (2), Renato Leotta (2), Jon Naar (2), Nug (2), Stephen Powers (2), Sixeart (2), Aurélie Slonina (2)",
   "representing-galleries": "Alice Gallery (182, rue Antoine Dansaert - Antoine Dansaertstraat, 1000 Brussels, Belgium); Galerie Jeanroch Dard (13 Rue des Arquebusiers, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Olivier",
@@ -43,6 +43,32 @@
   "age": 42,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "195413-17868-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "195413-17868-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "195413-18102-2006-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "195413-18102-2006-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "195413-17868-2006-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "195413-17868-2006-10-24",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "195413-19395-2007-11-15",
@@ -71,6 +97,16 @@
         ]
       }
     ],
+    "2008": [
+      {
+        "i": "195413-13545-2008-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "195413-13545-2008-06-17",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "195413-21278-2009-03-19",
@@ -97,9 +133,67 @@
           "2009-04-24",
           "2009-05-23"
         ]
+      },
+      {
+        "i": "195413-2342-2009-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "195413-2342-2009-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "195413-13545-2009-07-09",
+        "c": "FR"
+      },
+      {
+        "i": "195413-13545-2009-07-09",
+        "c": "FR"
+      },
+      {
+        "i": "195413-24759-2009-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "195413-24759-2009-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "195413-11817-2009-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "195413-11817-2009-09-05",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "195413-21143-2011-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "195413-21143-2011-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "195413-21143-2011-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "195413-21143-2011-10-24",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "195413-21098-2012-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "195413-21098-2012-05-13",
+        "c": "FR"
+      },
       {
         "i": "195413-8530-2012-06-14",
         "c": "SE",
@@ -112,6 +206,14 @@
           "2012-06-14",
           "2012-10-07"
         ]
+      },
+      {
+        "i": "195413-21143-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "195413-21143-2012-09-08",
+        "c": "FR"
       },
       {
         "i": "195413-3540-2012-11-15",
@@ -179,6 +281,14 @@
           "2013-03-21",
           "2013-04-30"
         ]
+      },
+      {
+        "i": "195413-21143-2013-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "195413-21143-2013-10-19",
+        "c": "FR"
       }
     ],
     "2010": [

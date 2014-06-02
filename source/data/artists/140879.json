@@ -1,7 +1,7 @@
 {
   "id": "140879",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:00:48",
+  "timestamp": "2014-05-24 07:04:41",
   "name": "Rachel Labastie",
   "surname": "Labastie",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "26933",
-  "r01": "32048",
-  "r02": "46038",
-  "r03": "41939",
-  "r04": "46592",
-  "r05": "78125",
-  "r06": "83087",
-  "r07": null,
+  "r00": "18713",
+  "r01": "18760",
+  "r02": "23042",
+  "r03": "39397",
+  "r04": "35073",
+  "r05": "40622",
+  "r06": "74300",
+  "r07": "81330",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "13",
+  "all-shows-total": "14",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": "10",
-  "2005-countries-total": "France (11), Belgium (1)",
-  "2005-shows-with": "Rachel Labastie (9), Johan Creten (3), Nicolas Delprat (3), Mathieu Mercier (3), Martial Raysse (3), Jean-Louis Aroldo (2), Michel Aubry (2), Julien Audebert (2), Mircea Cantor (2), Philippe Cognée (2), George Condo (2), Wim Delvoye (2), Camille Henrot (2), Sigalit Landau (2), Fabrice Lauterjung (2), Claude Lévêque (2), Jean-Michel Othoniel (2), Bruno Perramant (2), Djamel Tatah (2)",
+  "2005-countries-total": "France (12), Belgium (1)",
+  "2005-shows-with": "Rachel Labastie (10), Johan Creten (3), Nicolas Delprat (3), Mathieu Mercier (3), Martial Raysse (3), Jean-Louis Aroldo (2), Michel Aubry (2), Julien Audebert (2), Mircea Cantor (2), Philippe Cognée (2), George Condo (2), Wim Delvoye (2), Camille Henrot (2), Sigalit Landau (2), Fabrice Lauterjung (2), Claude Lévêque (2), Jean-Michel Othoniel (2), Bruno Perramant (2), Djamel Tatah (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Rachel",
@@ -43,7 +43,93 @@
   "age": 36,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "140879-11859-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "140879-11859-2007-06-02",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "140879-27918-2008-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "140879-27918-2008-09-12",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "140879-17091-2009-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "140879-17091-2009-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "140879-20651-2009-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "140879-20651-2009-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "140879-27918-2009-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "140879-27918-2009-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "140879-7030-2009-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "140879-7030-2009-04-16",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "140879-25308-2010-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "140879-27918-2010-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "140879-27918-2010-10-18",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "140879-25308-2010-09-17",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "140879-20857-2012-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "140879-20857-2012-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "140879-27822-2012-10-13",
+        "c": "FR"
+      },
       {
         "i": "140879-27772-2012-09-28",
         "c": "BE",
@@ -56,6 +142,28 @@
           "2012-09-28",
           "2012-10-20"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "140879-27822-2012-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "140879-8997-2013-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "140879-8997-2013-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "140879-22704-2013-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "140879-22704-2013-06-08",
+        "c": "FR"
       }
     ]
   }

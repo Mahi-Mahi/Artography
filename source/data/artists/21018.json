@@ -1,7 +1,7 @@
 {
   "id": "21018",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:11:57",
+  "timestamp": "2014-05-24 06:23:14",
   "name": "Mathieu Pernot",
   "surname": "Pernot",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "7550",
-  "r01": "7919",
-  "r02": "8278",
-  "r03": "9537",
-  "r04": "10029",
-  "r05": "8783",
-  "r06": "9679",
-  "r07": "9405",
-  "r08": "17280",
+  "r00": "3446",
+  "r01": "6254",
+  "r02": "6956",
+  "r03": "7174",
+  "r04": "8767",
+  "r05": "9265",
+  "r06": "7770",
+  "r07": "8571",
+  "r08": "8321",
   "awards": null,
   "website": "www.mathieupernot.com",
   "all-shows-first": "2000",
-  "all-shows-total": "33",
+  "all-shows-total": "35",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "12",
-  "2005-countries-total": "France (14), Switzerland (3), Germany (2), Cambodia (1), Netherlands (1), Portugal (1), Spain (1)",
-  "2005-shows-with": "Mathieu Pernot (19), Claire Fontaine (5), Barthélémy Toguo (5), Gilles Barbier (3), Mohamed Bourouissa (3), Mircea Cantor (3), Damien Deroubaix (3), Antoine D\\'Agata (3), Richard Fauguet (3), Laurent Grasso (3), Mona Hatoum (3), Bouchra Khalili (3), Theo Mercier (3), François Morellet (3), Éric Pougeau (3), Stéphane Thidet (3), Ida Tursic & Wilfried Mille (3), Francis Alys (2), Carlos Amorales (2), Kader Attia (2), Taysir Batniji (2), Mathieu Bernard-Reymond (2), Julien Berthier (2), Ursula Biemann (2), Olivier Blanckart (2), Pierre-Yves Bohm (2), Christian Boltanski (2), Bruno Boudjelal (2), Christophe Bourguedieu (2), Céleste Boursier-Mougenot (2), Matthias Bruggmann (2), Juan Manuel Castro Prieto (2), Chen Zhen (2), Nicolas Darrot (2), Denis Darzacq (2), John Davies (2), Luc Delahaye (2), Ad van Denderen (2), Philippe Dereux (2), Didier Faustino (2), Valérie Favre (2), Dominique Figarella (2), Charles Fréger (2), Ghazel (2), Joana Hadjithomas & Khalil Joreige (2), Elika Hedayat (2), Camille Henrot ",
+  "2005-shows-museums": "16",
+  "2005-countries-total": "France (18), Switzerland (3), Germany (2), Cambodia (1), Netherlands (1), Portugal (1), Spain (1)",
+  "2005-shows-with": "Mathieu Pernot (22), Claire Fontaine (7), Barthélémy Toguo (6), Mona Hatoum (5), Kader Attia (4), Mohamed Bourouissa (4), Mircea Cantor (4), Chen Zhen (4), Bouchra Khalili (4), Kimsooja (4), Francis Alys (3), Gilles Barbier (3), Taysir Batniji (3), Christian Boltanski (3), Bruno Boudjelal (3), Denis Darzacq (3), Ad van Denderen (3), Damien Deroubaix (3), Antoine D\\'Agata (3), Richard Fauguet (3), Ghazel (3), Laurent Grasso (3), Karim Kal (3), Bertrand Lavier (3), Thomas Mailaender (3), Theo Mercier (3), François Morellet (3), Malik Nejmi (3), Melik Ohanian (3), Éric Pougeau (3), Walid Raad (3), Bruno Serralongue (3), Shen Yuan (3), Stéphane Thidet (3), Ida Tursic & Wilfried Mille (3), Andy Warhol (3), Carlos Amorales (2), Philippe Artières (2), Roger Ballen (2), Yael Bartana (2), Jean Michel Basquiat (2), Mathieu Bernard-Reymond (2), Julien Berthier (2), Ursula Biemann (2), Olivier Blanckart (2), Pierre-Yves Bohm (2), Christophe Bourguedieu (2), Céleste Boursier-Mougenot (2), Matthias Bruggmann (2), Ju",
   "representing-galleries": "Galerie Eric Dupont (138, rue du Temple, 75003 Paris, France); Galerie VU (Saint-Lazare Rue 58, 75009 Paris, France)",
   "collecting-museums": null,
   "first_name": "Mathieu",
@@ -43,7 +43,47 @@
   "age": 44,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "21018-20789-2006-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "21018-20789-2006-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "21018-2219-2006-09-27",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "21018-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "21018-8129-2007-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "21018-8129-2007-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "21018-14920-2007-10-25",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "21018-8129-2008-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "21018-8129-2008-03-01",
+        "c": "FR"
+      },
       {
         "i": "21018-12330-2008-05-29",
         "c": "PT",
@@ -56,9 +96,47 @@
           "2008-05-29",
           "2008-07-27"
         ]
+      },
+      {
+        "i": "21018-20789-2008-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "21018-20789-2008-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "21018-27381-2008-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "21018-14920-2007-10-25",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "21018-27381-2008-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "21018-24709-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "21018-24709-2009-09-12",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "21018-10244-2010-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "21018-10244-2010-03-20",
+        "c": "FR"
+      },
       {
         "i": "21018-21428-2010-03-26",
         "c": "NL",
@@ -97,6 +175,14 @@
           "2010-11-28",
           "2010-12-05"
         ]
+      },
+      {
+        "i": "21018-6354-2010-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "21018-6354-2010-01-29",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -114,6 +200,22 @@
         ]
       },
       {
+        "i": "21018-30157-2011-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "21018-30157-2011-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "21018-20341-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "21018-20341-2011-06-25",
+        "c": "FR"
+      },
+      {
         "i": "21018-22253-2011-10-01",
         "c": "DE",
         "n": "My Paris, Collection Antoine de Galbert",
@@ -125,6 +227,10 @@
           "2011-10-01",
           "2012-01-08"
         ]
+      },
+      {
+        "i": "21018-26372-2011-11-16",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -140,6 +246,10 @@
           "2011-10-01",
           "2012-01-08"
         ]
+      },
+      {
+        "i": "21018-26372-2011-11-16",
+        "c": "FR"
       },
       {
         "i": "21018-9073-2012-02-17",
@@ -166,24 +276,37 @@
           "2012-05-11",
           "2012-06-30"
         ]
+      },
+      {
+        "i": "21018-20207-2012-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "21018-20207-2012-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "21018-1876-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "21018-1876-2012-09-08",
+        "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "21018-12812-2013-11-01",
-        "c": "CH",
-        "n": "L’asile Des Photographies",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Geneva",
-        "o": "Centre de la photographie",
-        "d": [
-          "2013-11-01",
-          "2014-01-12"
-        ]
-      }
-    ],
-    "2014": [
+        "i": "21018-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "21018-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "21018-29739-2013-10-12",
+        "c": "FR"
+      },
       {
         "i": "21018-12812-2013-11-01",
         "c": "CH",
@@ -196,6 +319,51 @@
           "2013-11-01",
           "2014-01-12"
         ]
+      },
+      {
+        "i": "21018-21098-2013-11-30",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "21018-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "21018-12812-2013-11-01",
+        "c": "CH",
+        "n": "L’asile Des Photographies",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Centre de la photographie",
+        "d": [
+          "2013-11-01",
+          "2014-01-12"
+        ]
+      },
+      {
+        "i": "21018-21098-2013-11-30",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "21018-6354-2005-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "21018-6354-2005-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "21018-11778-2005-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "21018-11778-2005-06-09",
+        "c": "FR"
       }
     ]
   }

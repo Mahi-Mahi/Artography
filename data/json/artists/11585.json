@@ -1,7 +1,7 @@
 {
   "id": "11585",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:43",
+  "timestamp": "2014-05-24 06:19:34",
   "name": "François Boisrond",
   "surname": "Boisrond",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Works on Paper, Painting",
-  "r00": "6499",
-  "r01": "5883",
-  "r02": "5945",
-  "r03": "5736",
-  "r04": "5479",
-  "r05": "6150",
-  "r06": "5247",
-  "r07": "6440",
-  "r08": "9609",
+  "r00": "5571",
+  "r01": "6838",
+  "r02": "5532",
+  "r03": "5535",
+  "r04": "5229",
+  "r05": "5377",
+  "r06": "6322",
+  "r07": "5275",
+  "r08": "6863",
   "awards": null,
   "website": null,
   "all-shows-first": "1983",
-  "all-shows-total": "41",
+  "all-shows-total": "44",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "7",
-  "2005-countries-total": "France (10), Spain (1)",
-  "2005-shows-with": "François Boisrond (8), Robert Combas (6), Hervé di Rosa (6), Jean Charles Blais (5), Rémi Blanchard (4), Gérard Garouste (3), Loïc le Groumellec (3), Louis Jammes (3), Jean-Michel Albèrola (2), Miquel Barceló (2), Jean Degottex (2), Daniel Dezeuze (2), Noël Dolla (2), Philippe Favier (2), Fabrice Hybert (2), On Kawara (2), Georges Rousse (2), Richard Serra (2), Hervé Télémaque (2), Carmelo Zagari (2)",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (11), Spain (1)",
+  "2005-shows-with": "François Boisrond (9), Robert Combas (7), Hervé di Rosa (7), Jean Charles Blais (6), Rémi Blanchard (4), Louis Jammes (4), Miquel Barceló (3), Gérard Garouste (3), Loïc le Groumellec (3), Fabrice Hybert (3), Georges Rousse (3), Jean-Michel Albèrola (2), Pierre Buraglio (2), Jean Degottex (2), Daniel Dezeuze (2), Noël Dolla (2), Philippe Favier (2), Chohreh Feyzdjou (2), On Kawara (2), Mario Merz (2), Jean-Pierre Raynaud (2), Lili Reynaud Dewar (2), Richard Serra (2), Hervé Télémaque (2), Jean-Paul Thibeau (2), Carmelo Zagari (2)",
   "representing-galleries": "AD Galerie (40 Allée Giacometti, 34000 Montpellier, France); Galerie Hambursin-Boisanté (15, Bd du jeu de Paume, 34000 Montpellier, France); Galerie Louis Carré & Cie (10, avenue de Messine, 75008 Paris, France); Galerie Nathalie Gaillard (112 avenue Kléber, 75016 Paris, France); Galerie Keza (37 rue des Mathurins, FR-75008 Paris, France); Galerie Laurent Strouk (8 bis/16 rue Jacques Callot, 75006 Paris, France); Galerie Beaubourg (Château Notre Dame des Fleurs, 6140 Vence, France)",
   "collecting-museums": "CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France); 49 NORD 6 EST – Frac Lorraine (Rue des Trinitaires 1 bis, 57000 Metz, France); MAMAC - Musee d´Art Moderne et d`Art Contemporain Nice (Promenade des Arts, 06300 Nice, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); Musée d'Art moderne de Saint-Etienne (La Terrasse, 42000 Saint-Etienne, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France); Ludwig Museum im Deutschherrenhaus (Danziger Freiheit 1, 56068 Koblenz, Germany); Ludwig Museum - Museum of Contemporary Art - Budapest (Komor Marcell u. 1. (in Palace of Arts), H-1095 Budapest, Hungary); MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg)",
   "first_name": "François",
@@ -45,6 +45,14 @@
   "expos": {
     "2005": [
       {
+        "i": "11585-2303-2005-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "11585-2303-2005-06-30",
+        "c": "FR"
+      },
+      {
         "i": "11585-3899-2005-09-20",
         "c": "CN",
         "n": "The Second Beijing International Art Biennale 2005",
@@ -55,6 +63,22 @@
           "2005-09-20",
           "2005-10-20"
         ]
+      },
+      {
+        "i": "11585-10576-2005-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "11585-10576-2005-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "11585-29101-2005-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "11585-29101-2005-01-07",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -85,22 +109,15 @@
         ]
       }
     ],
-    "2012": [
-      {
-        "i": "11585-27894-2012-07-04",
-        "c": "ES",
-        "n": "De Paso En La Tierra",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Sevilla",
-        "o": "Cicus - Centro de Iniciativas Culturales de la Universidad de Sevilla",
-        "d": [
-          "2012-07-04",
-          "2012-09-03"
-        ]
-      }
-    ],
     "2007": [
+      {
+        "i": "11585-9475-2007-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "11585-9475-2007-03-11",
+        "c": "FR"
+      },
       {
         "i": "11585-2331-2007-10-12",
         "c": "LU",
@@ -113,6 +130,109 @@
           "2007-10-12",
           "2007-11-26"
         ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "11585-27827-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "11585-27827-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "11585-5097-2008-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "11585-5097-2008-03-27",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "11585-1293-2009-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "11585-1293-2009-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "11585-8281-2009-10-24",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "11585-8281-2009-10-24",
+        "c": "FR"
+      },
+      {
+        "i": "11585-2303-2010-08-22",
+        "c": "FR"
+      },
+      {
+        "i": "11585-2303-2010-08-22",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "11585-9344-2011-11-18",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "11585-9344-2011-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "11585-14218-2012-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "11585-14218-2012-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "11585-20982-2012-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "11585-20982-2012-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "11585-27894-2012-07-04",
+        "c": "ES",
+        "n": "De Paso En La Tierra",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Sevilla",
+        "o": "Cicus - Centro de Iniciativas Culturales de la Universidad de Sevilla",
+        "d": [
+          "2012-07-04",
+          "2012-09-03"
+        ]
+      },
+      {
+        "i": "11585-26235-2012-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "11585-26235-2012-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "11585-2009-2012-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "11585-2009-2012-05-11",
+        "c": "FR"
       }
     ]
   }

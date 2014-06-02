@@ -1,7 +1,7 @@
 {
   "id": "126249",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:54:49",
+  "timestamp": "2014-05-24 06:59:49",
   "name": "Hervé Beurel",
   "surname": "Beurel",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "73141",
-  "r01": "69442",
-  "r02": "64427",
-  "r03": "58904",
-  "r04": "53096",
-  "r05": "48805",
-  "r06": "42636",
-  "r07": "38748",
-  "r08": null,
+  "r00": "84470",
+  "r01": "80544",
+  "r02": "73414",
+  "r03": "65555",
+  "r04": "58223",
+  "r05": "50893",
+  "r06": "45959",
+  "r07": "39191",
+  "r08": "35302",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "3",
-  "2005-shows-biennials": "1",
-  "2005-shows-galleries": "1",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (1)",
-  "2005-shows-with": null,
+  "2005-countries-total": "France (2)",
+  "2005-shows-with": "Hervé Beurel (2), Jean-Yves Brélivet (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Hervé",
@@ -56,6 +56,26 @@
           "2007-09-07",
           "2007-10-13"
         ]
+      },
+      {
+        "i": "126249-10227-2006-11-17",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "126249-10584-2009-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "126249-10584-2009-01-10",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "126249-10227-2006-11-17",
+        "c": "FR"
       }
     ]
   }

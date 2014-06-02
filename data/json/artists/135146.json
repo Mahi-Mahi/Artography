@@ -1,7 +1,7 @@
 {
   "id": "135146",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:58:34",
+  "timestamp": "2014-05-24 07:02:48",
   "name": "Florian Pugnaire",
   "surname": "Pugnaire",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "8577",
-  "r01": "8854",
-  "r02": "9499",
-  "r03": "11574",
-  "r04": "32715",
-  "r05": "46549",
-  "r06": "58170",
-  "r07": null,
+  "r00": "6139",
+  "r01": "6242",
+  "r02": "6285",
+  "r03": "6904",
+  "r04": "8654",
+  "r05": "27903",
+  "r06": "41837",
+  "r07": "54038",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "24",
+  "all-shows-total": "25",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
   "2005-shows-museums": "17",
-  "2005-countries-total": "France (19), Germany (1), Hungary (1), Spain (1), Switzerland (1)",
-  "2005-shows-with": "Florian Pugnaire (22), David Raffini (11), Gabriel  Abrantes (3), Bertille Bak (3), Benjamin Crotty (3), Bertrand Dezoteux (3), Joachim Mogarra (3), Cédric Teisseire (3), Absalon (2), Michel Blazy (2), Céleste Boursier-Mougenot (2), Harry Callahan (2), Denis Castellas (2), Paul Chazal (2), Hervé Coqueret (2), Dewar & Gicquel (2), Bernard Faucon (2), Katharina Fritsch (2), Alexandra Guillot (2), Imi Knoebel (2), Jeff Koons (2), Ludovic Lignon (2), Mathieu Mercier (2), Thierry Mouillé (2), Roman Opalka (2), Philippe Ramette (2), Thomas Ruff (2), Damien Sorrentino (2), Tatiana Trouvé (2)",
+  "2005-countries-total": "France (19), Czech Republic (1), Germany (1), Hungary (1), Spain (1), Switzerland (1)",
+  "2005-shows-with": "Florian Pugnaire (23), David Raffini (12), Gabriel  Abrantes (3), Bertille Bak (3), Benjamin Crotty (3), Bertrand Dezoteux (3), Joachim Mogarra (3), Cédric Teisseire (3), Absalon (2), Michel Blazy (2), Céleste Boursier-Mougenot (2), Harry Callahan (2), Denis Castellas (2), Paul Chazal (2), Hervé Coqueret (2), Dewar & Gicquel (2), Bernard Faucon (2), Katharina Fritsch (2), Alexandra Guillot (2), Imi Knoebel (2), Jeff Koons (2), Ludovic Lignon (2), Mathieu Mercier (2), Thierry Mouillé (2), Roman Opalka (2), Philippe Ramette (2), Thomas Ruff (2), Damien Sorrentino (2), Tatiana Trouvé (2)",
   "representing-galleries": "TORRI (7, rue Saint-Claude, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Florian",
@@ -43,7 +43,77 @@
   "age": 34,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "135146-2709-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "135146-2709-2007-06-02",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "135146-2709-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "135146-2709-2008-06-06",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "135146-2585-2009-06-26",
+        "c": "FR"
+      },
+      {
+        "i": "135146-2585-2009-06-26",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "135146-8282-2010-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "135146-8282-2010-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "135146-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "135146-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "135146-1782-2010-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "135146-1782-2010-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "135146-4205-2010-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "135146-4205-2010-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "135146-22295-2010-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "135146-23446-2010-11-27",
+        "c": "FR"
+      },
       {
         "i": "135146-15877-2010-12-08",
         "c": "HU",
@@ -60,6 +130,14 @@
     ],
     "2011": [
       {
+        "i": "135146-22295-2010-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "135146-23446-2010-11-27",
+        "c": "FR"
+      },
+      {
         "i": "135146-15877-2010-12-08",
         "c": "HU",
         "n": "500 N",
@@ -73,6 +151,14 @@
         ]
       },
       {
+        "i": "135146-8285-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "135146-8285-2011-01-28",
+        "c": "FR"
+      },
+      {
         "i": "135146-8157-2011-04-30",
         "c": "CH",
         "n": "Que sera, sera…",
@@ -84,9 +170,41 @@
           "2011-04-30",
           "2011-05-29"
         ]
+      },
+      {
+        "i": "135146-11886-2011-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "135146-11886-2011-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "135146-10247-2011-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "135146-10247-2011-06-22",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "135146-21696-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "135146-21696-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "135146-8285-2012-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "135146-8285-2012-05-11",
+        "c": "FR"
+      },
       {
         "i": "135146-19666-2012-06-29",
         "c": "DE",
@@ -99,9 +217,41 @@
           "2012-06-29",
           "2012-07-28"
         ]
+      },
+      {
+        "i": "135146-741-2012-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "135146-741-2012-06-30",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "135146-11886-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "135146-11886-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "135146-23446-2013-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "135146-23446-2013-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "135146-28278-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "135146-28278-2013-01-26",
+        "c": "FR"
+      },
       {
         "i": "135146-6778-2013-02-22",
         "c": "ES",
@@ -114,6 +264,22 @@
           "2013-02-22",
           "2013-05-05"
         ]
+      },
+      {
+        "i": "135146-28294-2013-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "135146-28294-2013-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "135146-23091-2013-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "135146-23091-2013-02-10",
+        "c": "FR"
       }
     ]
   }

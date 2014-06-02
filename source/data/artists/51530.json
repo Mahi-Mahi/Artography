@@ -1,7 +1,7 @@
 {
   "id": "51530",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:24:45",
+  "timestamp": "2014-05-24 06:34:11",
   "name": "Samuel Rousseau",
   "surname": "Rousseau",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video installation",
-  "r00": "3581",
-  "r01": "3605",
-  "r02": "3814",
-  "r03": "4487",
-  "r04": "4263",
-  "r05": "5378",
-  "r06": "6870",
-  "r07": "7927",
-  "r08": "9200",
+  "r00": "3084",
+  "r01": "2952",
+  "r02": "2917",
+  "r03": "3138",
+  "r04": "3891",
+  "r05": "3573",
+  "r06": "4654",
+  "r07": "6101",
+  "r08": "7009",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "70",
-  "2005-shows-biennials": "22",
-  "2005-shows-galleries": "22",
+  "all-shows-total": "71",
+  "2005-shows-biennials": "23",
+  "2005-shows-galleries": "23",
   "2005-shows-museums": "21",
   "2005-countries-total": "France (27), Switzerland (6), Belgium (5), USA (4), Australia (1), Brazil (1), Canada (1), Italy (1), Netherlands (1), Spain (1)",
-  "2005-shows-with": "Samuel Rousseau (37), Wim Delvoye (6), John Isaacs (6), Jan Fabre (5), Andrés Serrano (5), Stephen J. Shanabrook (5), Carlos Aires (4), Olivier Blanckart (4), Daniele Buetti (4), Ronald Ophuis (4), Giuseppe Penone (4), Éric Pougeau (4), Georges Rousse (4), Franck Scurti (4), Marina Abramovic (3), Vincent Bergerat (3), Pascal Bernier (3), Marco Brambilla (3), Ronald Dagonnier (3), Jimi Dams (3), Shadi Ghadirian (3), Bernard Gigounon (3), Jason Glasser (3), Robert Gligorov (3), Frances Goodman (3), Hervé Graumann (3), Dominic McGill (3), Not Vital (3), Yoshua Okon (3), Nam June Paik (3), Javier Pérez (3), Laurent Pernot (3), Ernest Pignon Ernest (3), Éric Poitevin (3), Tere Recarens (3), Antoine Roegiers (3), Mike Rogers (3), Roman Signer (3), André Stas (3), Cédric Tanguy (3), Gavin Turk (3), Ryuta Amae (2), Dieter Appelt (2), Art & Language (2), Omar Bâ (2), Gilles Barbier (2), Per Barclay (2), Beatriz Barral (2), Thomas Bayrle (2), John Bjerklie (2), Delphine Boël (2), Guy van Bossche (2), Céleste ",
+  "2005-shows-with": "Samuel Rousseau (37), Wim Delvoye (6), John Isaacs (6), Jan Fabre (5), Carlos Aires (4), Olivier Blanckart (4), Daniele Buetti (4), Ronald Ophuis (4), Giuseppe Penone (4), Georges Rousse (4), Franck Scurti (4), Andrés Serrano (4), Stephen J. Shanabrook (4), Marina Abramovic (3), Ryuta Amae (3), Vincent Bergerat (3), Pascal Bernier (3), Charley Case (3), Ronald Dagonnier (3), Jimi Dams (3), Shadi Ghadirian (3), Bernard Gigounon (3), Jason Glasser (3), Robert Gligorov (3), Frances Goodman (3), Hervé Graumann (3), Kahn & Selesnick (3), Gerard Malanga (3), Dominic McGill (3), Not Vital (3), Nam June Paik (3), Javier Pérez (3), Laurent Pernot (3), Ernest Pignon Ernest (3), Éric Poitevin (3), Éric Pougeau (3), Léopold Rabus (3), Tere Recarens (3), Antoine Roegiers (3), Mike Rogers (3), Roman Signer (3), Pierrick Sorin (3), Cédric Tanguy (3), Gavin Turk (3), Dieter Appelt (2), Omar Bâ (2), Gilles Barbier (2), Per Barclay (2), Beatriz Barral (2), Thomas Bayrle (2), John Bjerklie (2), Delphine Boël (2), Chris",
   "representing-galleries": "AEROPLASTICS contemporary (32 rue Blanche straat, B-1060 Brussels, Belgium); Galerie Domi Nostrae (39, Cours de la Liberté, 69003 Lyon, France); Vidéochroniques (1 place de Lorette, 13002 Marseille, France); Art-netart (66 bis, avenue Jean-Moulin, 75014 Paris, France); 1000 Eventi (Via Porro Lambertenghi 3, 20159 Milan, Italy); Galerie Guy Bärtschi (Route des Jeunes 43, Allée G, 1227 Geneva, Switzerland); Parker´s Box (193 Grand Street, 11211 New York City, NY, USA)",
   "collecting-museums": "Domaine de Chaumont-sur-Loire - Centre d’Arts et de Nature (, 41150 Chaumont-sur-Loire, France)",
   "first_name": "Samuel",
@@ -82,6 +82,14 @@
           "2006-09-14",
           "2006-11-04"
         ]
+      },
+      {
+        "i": "51530-5458-2006-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "51530-5458-2006-03-09",
+        "c": "FR"
       },
       {
         "i": "51530-3365-2006-05-25",
@@ -164,6 +172,14 @@
         ]
       },
       {
+        "i": "51530-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "51530-4975-2007-07-07",
+        "c": "FR"
+      },
+      {
         "i": "51530-1354-2007-09-21",
         "c": "IT",
         "n": "24 fps",
@@ -175,6 +191,18 @@
           "2007-09-21",
           "2007-11-30"
         ]
+      },
+      {
+        "i": "51530-12992-2007-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "51530-12992-2007-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "51530-27819-2007-11-10",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -192,6 +220,14 @@
         ]
       },
       {
+        "i": "51530-27775-2008-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "51530-27775-2008-04-03",
+        "c": "FR"
+      },
+      {
         "i": "51530-10857-2008-06-01",
         "c": "CA",
         "n": "Biennale de Quebec, Manif d'Art 4",
@@ -202,6 +238,22 @@
           "2008-06-01",
           "2008-06-15"
         ]
+      },
+      {
+        "i": "51530-9851-2008-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "51530-9851-2008-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "51530-16174-2008-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "51530-27819-2007-11-10",
+        "c": "FR"
       },
       {
         "i": "51530-1715-2008-04-19",
@@ -215,9 +267,61 @@
           "2008-04-19",
           "2008-05-31"
         ]
+      },
+      {
+        "i": "51530-1771-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "51530-1771-2008-09-06",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "51530-16174-2008-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "51530-4467-2009-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "51530-4467-2009-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "51530-9851-2009-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "51530-9851-2009-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "51530-18800-2009-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "51530-18800-2009-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "51530-20341-2009-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "51530-20341-2009-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "51530-9851-2009-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "51530-9851-2009-09-24",
+        "c": "FR"
+      },
       {
         "i": "51530-17760-2009-10-09",
         "c": "ES",
@@ -375,6 +479,14 @@
           "2010-12-10",
           "2011-01-14"
         ]
+      },
+      {
+        "i": "51530-7910-2010-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "51530-7910-2010-07-10",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -405,6 +517,10 @@
         ]
       },
       {
+        "i": "51530-26733-2011-06-03",
+        "c": "FR"
+      },
+      {
         "i": "51530-2750-2011-06-08",
         "c": "CH",
         "n": "Car Fetish. I drive, therefore I am.",
@@ -418,6 +534,14 @@
         ]
       },
       {
+        "i": "51530-2565-2011-07-12",
+        "c": "FR"
+      },
+      {
+        "i": "51530-2565-2011-07-12",
+        "c": "FR"
+      },
+      {
         "i": "51530-22613-2011-10-07",
         "c": "BE",
         "n": "A Dream of Eternity: The Artist Long Time East",
@@ -431,6 +555,14 @@
         ]
       },
       {
+        "i": "51530-5458-2011-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "51530-5458-2011-03-17",
+        "c": "FR"
+      },
+      {
         "i": "51530-2102-2011-09-22",
         "c": "US",
         "n": "Samuel Rousseau",
@@ -442,9 +574,17 @@
           "2011-09-22",
           "2011-10-30"
         ]
+      },
+      {
+        "i": "51530-11889-2011-11-25",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "51530-26733-2011-06-03",
+        "c": "FR"
+      },
       {
         "i": "51530-22613-2011-10-07",
         "c": "BE",
@@ -457,6 +597,14 @@
           "2011-10-07",
           "2012-02-26"
         ]
+      },
+      {
+        "i": "51530-9851-2012-01-05",
+        "c": "FR"
+      },
+      {
+        "i": "51530-9851-2012-01-05",
+        "c": "FR"
       },
       {
         "i": "51530-3096-2012-03-17",
@@ -472,6 +620,34 @@
         ]
       },
       {
+        "i": "51530-25217-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "51530-25217-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "51530-8293-2012-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "51530-8293-2012-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "51530-14870-2012-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "51530-11889-2012-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "51530-11889-2012-06-16",
+        "c": "FR"
+      },
+      {
         "i": "51530-896-2012-06-26",
         "c": "CH",
         "n": "Exposition collective",
@@ -483,9 +659,33 @@
           "2012-06-26",
           "2012-08-31"
         ]
+      },
+      {
+        "i": "51530-2090-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "51530-2090-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "51530-11889-2011-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "51530-10219-2012-10-03",
+        "c": "FR"
+      },
+      {
+        "i": "51530-5458-2012-10-03",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "51530-14870-2012-06-08",
+        "c": "FR"
+      },
       {
         "i": "51530-27991-2013-01-01",
         "c": "BE",
@@ -513,6 +713,50 @@
         ]
       },
       {
+        "i": "51530-5458-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "51530-5458-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "51530-29986-2013-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "51530-29986-2013-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "51530-12220-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "51530-12220-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "51530-29111-2013-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "51530-29111-2013-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "51530-30302-2013-10-26",
+        "c": "FR"
+      },
+      {
+        "i": "51530-10219-2012-10-03",
+        "c": "FR"
+      },
+      {
+        "i": "51530-5458-2012-10-03",
+        "c": "FR"
+      },
+      {
         "i": "51530-1715-2013-04-19",
         "c": "BE",
         "n": "Samuel Rousseau - Les soubresauts du monde / Convulsions of the world",
@@ -524,6 +768,12 @@
           "2013-04-19",
           "2013-05-25"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "51530-30302-2013-10-26",
+        "c": "FR"
       }
     ],
     "2005": [

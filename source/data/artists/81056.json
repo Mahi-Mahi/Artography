@@ -1,7 +1,7 @@
 {
   "id": "81056",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:36:59",
+  "timestamp": "2014-05-24 06:44:38",
   "name": "Alain Kirili",
   "surname": "Kirili",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "9078",
-  "r01": "8208",
-  "r02": "9210",
-  "r03": "12899",
-  "r04": "13763",
-  "r05": "16750",
-  "r06": "15205",
-  "r07": "12618",
-  "r08": "11100",
+  "r00": "8434",
+  "r01": "8801",
+  "r02": "7643",
+  "r03": "9217",
+  "r04": "15890",
+  "r05": "18391",
+  "r06": "25490",
+  "r07": "21148",
+  "r08": "15815",
   "awards": null,
   "website": null,
   "all-shows-first": "1976",
-  "all-shows-total": "45",
+  "all-shows-total": "48",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
-  "2005-shows-museums": "10",
-  "2005-countries-total": "USA (11), France (7), Argentina (1), Germany (1)",
-  "2005-shows-with": "Alain Kirili (16), Robert Barry (4), Charles Clough (4), Richard Francisco (4), Jene Highstein (4), Steve Keister (4), Michael Lucero (4), Joseph Nechvatal (4), Lucio Pozzi (4), Edda Renouf (4), Richard Serra (4), Daryl Trivieri (4), Richard Tuttle (4), Lynda Benglis (3), John Chamberlain (3), Ron Gorchov (3), Don Hazlitt (3), Bryan Hunt (3), Bill Jensen (3), Elizabeth King (3), Richard Nonas (3), Larry Poons (3), Judy Rifka (3), Joël Shapiro (3), Theresa Chong (2), Emily Eveleth (2), Fischli & Weiss (2), Margaret Garrett (2), Sid Garrison (2), Valerie Giles (2), Tom Goldenberg (2), April Gornik (2), Dimitri Hadzi (2), Andy Harper (2), Amanda Hughen (2), Warren Isensee (2), Donald Judd (2), Craig Kauffman (2), Mark Kostabi (2), Barry Le Va (2), Wendy Lehman (2), Robert Lobe (2), Matthias Meyer (2), Gerard Mossé (2), John Newman (2), Carlton Newton (2), Judy Pfaff (2), Bruce Robbins (2), Karen Schiff (2), Barbara Schwartz (2), Stephanie Snider (2), John Spinks (2), Frank Stella (2), Hadi Tabatabai (2), Ruth ",
+  "2005-shows-museums": "11",
+  "2005-countries-total": "USA (11), France (8), Argentina (1), Germany (1)",
+  "2005-shows-with": "Alain Kirili (17), Robert Barry (4), Charles Clough (4), Richard Francisco (4), Jene Highstein (4), Steve Keister (4), Michael Lucero (4), Joseph Nechvatal (4), Lucio Pozzi (4), Edda Renouf (4), Richard Serra (4), Daryl Trivieri (4), Richard Tuttle (4), Lynda Benglis (3), John Chamberlain (3), Ron Gorchov (3), Don Hazlitt (3), Bryan Hunt (3), Bill Jensen (3), Elizabeth King (3), Richard Nonas (3), Larry Poons (3), Judy Rifka (3), Joël Shapiro (3), Theresa Chong (2), Emily Eveleth (2), Fischli & Weiss (2), Margaret Garrett (2), Sid Garrison (2), Valerie Giles (2), Tom Goldenberg (2), April Gornik (2), Dimitri Hadzi (2), Andy Harper (2), Amanda Hughen (2), Warren Isensee (2), Donald Judd (2), Craig Kauffman (2), Mark Kostabi (2), Barry Le Va (2), Wendy Lehman (2), Robert Lobe (2), Matthias Meyer (2), Gerard Mossé (2), John Newman (2), Carlton Newton (2), Judy Pfaff (2), Bruce Robbins (2), Karen Schiff (2), Barbara Schwartz (2), Stephanie Snider (2), John Spinks (2), Frank Stella (2), Hadi Tabatabai (2), Ruth ",
   "representing-galleries": "Galerie Richard (74 rue de Turenne, 75003 Paris, France)",
   "collecting-museums": "Kiasma - Museum of Contemporary Art (Mannerheiminaukio 2, 00100 Helsinki, Finland); Musée des Beaux-arts d'Angers (, 49100 Angers, France); FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); Musée d'Art moderne de Saint-Etienne (La Terrasse, 42000 Saint-Etienne, France); MMCA Macedonian Museum of Contemporary Art (Egnatia St. (International Fair grounds) 154, 546 36 Thessaloniki, Greece); Nasher Sculpture Center (2001 Flora St., 75201 Dallas, TX, USA); The Margulies Collection (591 NW 27th Street, 33127 Miami, FL, USA); David Winton Bell Gallery (64 College Street, 02912 Providence, RI, USA)",
   "first_name": "Alain",
@@ -43,6 +43,26 @@
   "age": 67,
   "age_range": "61-100",
   "expos": {
+    "2006": [
+      {
+        "i": "81056-10649-2006-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "81056-10649-2006-01-31",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "81056-8553-2008-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "81056-8553-2008-05-17",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "81056-2976-2009-04-24",
@@ -58,6 +78,14 @@
         ]
       },
       {
+        "i": "81056-3152-2009-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "81056-3152-2009-04-30",
+        "c": "FR"
+      },
+      {
         "i": "81056-11278-2009-06-07",
         "c": "US",
         "n": "Dialogue: Sculpture, Alain Kirili, and Painting, Frank Olt",
@@ -69,6 +97,14 @@
           "2009-06-07",
           "2009-09-07"
         ]
+      },
+      {
+        "i": "81056-3152-2009-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "81056-3152-2009-10-20",
+        "c": "FR"
       },
       {
         "i": "81056-14102-2009-10-23",
@@ -123,6 +159,14 @@
           "2010-01-22",
           "2010-05-09"
         ]
+      },
+      {
+        "i": "81056-3152-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "81056-3152-2010-03-13",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -176,9 +220,29 @@
           "2011-10-01",
           "2011-11-30"
         ]
+      },
+      {
+        "i": "81056-4975-2011-05-14",
+        "c": "FR"
+      },
+      {
+        "i": "81056-4975-2011-05-14",
+        "c": "FR"
+      },
+      {
+        "i": "81056-8553-2011-09-14",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "81056-27843-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "81056-27843-2012-02-25",
+        "c": "FR"
+      },
       {
         "i": "81056-3883-2012-06-10",
         "c": "US",
@@ -206,6 +270,10 @@
         ]
       },
       {
+        "i": "81056-8553-2011-09-14",
+        "c": "FR"
+      },
+      {
         "i": "81056-2957-2012-01-01",
         "c": "US",
         "n": "Alain Kirili\tThe Drawing Show",
@@ -230,6 +298,16 @@
           "2012-09-08",
           "2012-10-27"
         ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "81056-2360-2007-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "81056-2360-2007-05-16",
+        "c": "FR"
       }
     ]
   }

@@ -18,6 +18,10 @@
   "fairs": {
     "2010": [
       {
+        "i": "21875-Lille Art Fair 2010",
+        "c": "FR"
+      },
+      {
         "i": "21875-Lineart 2010",
         "c": "BE",
         "n": "Lineart 2010",
@@ -30,6 +34,10 @@
         "c": "MC",
         "n": "Artmonaco 2011",
         "ct": "Monaco"
+      },
+      {
+        "i": "21875-St-Art 2011",
+        "c": "FR"
       },
       {
         "i": "21875-Lineart 2011",
@@ -46,6 +54,10 @@
         "ct": "Monaco"
       },
       {
+        "i": "21875-ST-ART  2012",
+        "c": "FR"
+      },
+      {
         "i": "21875-Art Gent 2012",
         "c": "BE",
         "n": "Art Gent 2012",
@@ -58,6 +70,10 @@
         "c": "MC",
         "n": "Art Monaco 2013",
         "ct": "Monaco"
+      },
+      {
+        "i": "21875-St-art 2013",
+        "c": "FR"
       }
     ]
   }

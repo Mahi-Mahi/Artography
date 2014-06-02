@@ -1,12 +1,12 @@
 {
   "id": "182784",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:17:19",
+  "timestamp": "2014-05-24 07:19:07",
   "name": "Laurent Duthion",
   "surname": "Duthion",
   "nationality": "FR",
   "nationality fr": "France",
-  "birth location": null,
+  "birth location": "",
   "birth day": 1,
   "birth month": 1,
   "birth year": "1972",
@@ -15,27 +15,27 @@
   "death month": null,
   "death year": null,
   "attributes": "Male",
-  "media": null,
-  "r00": "45350",
-  "r01": "42265",
-  "r02": "38812",
-  "r03": "34955",
-  "r04": "40732",
-  "r05": "35915",
-  "r06": null,
-  "r07": null,
-  "r08": null,
-  "awards": null,
+  "media": "Installation, Sculpture, Performance",
+  "r00": "12816",
+  "r01": "12866",
+  "r02": "13189",
+  "r03": "31672",
+  "r04": "28053",
+  "r05": "35246",
+  "r06": "30489",
+  "r07": "90344",
+  "r08": "84300",
+  "awards": "Aide individuelle à la création, DRAC Bretagne",
   "website": "www.duthion.net",
-  "all-shows-first": "2008",
-  "all-shows-total": "3",
-  "2005-shows-biennials": null,
-  "2005-shows-galleries": null,
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (3)",
-  "2005-shows-with": "Laurent Duthion (2)",
+  "all-shows-first": "2005",
+  "all-shows-total": "16",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (12), Italy (1), Poland (1)",
+  "2005-shows-with": "Laurent Duthion (10), Jocelyn Cottencin (3), Berdaguer & Péjus (2), Muriel Bordier (2), Jean-Yves Brélivet (2), Martin Caminiti (2), Kevin Cyr (2), Alain Delorme (2), Hubert Duprat (2), Anne Durez (2), Joshua Frankel (2), Raymond Hains (2), Max Knight (2), Natacha Lesueur (2), Benoit-Marie Moriceau (2), Bruno Peinado (2), Régis Perray (2), Yann R\\'Cycle (2), Philip Symonds (2), the pit (2), Cedric Viollet (2)",
   "representing-galleries": null,
-  "collecting-museums": null,
+  "collecting-museums": "FRAC - Bretagne (3 rue de Noyal, 35410 Châteaugiron, France); Château d´Oiron (, 79100 Oiron, France)",
   "first_name": "Laurent",
   "last_name": "Duthion",
   "genre": "m",
@@ -43,5 +43,33 @@
   "age": 42,
   "age_range": "41-60",
   "expos": {
+    "2008": [
+      {
+        "i": "182784-8128-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "182784-8128-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "182784-8542-2008-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "182784-8542-2008-03-14",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "182784-21802-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "182784-21802-2010-04-30",
+        "c": "FR"
+      }
+    ]
   }
 }

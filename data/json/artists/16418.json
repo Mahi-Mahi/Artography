@@ -1,7 +1,7 @@
 {
   "id": "16418",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:53",
+  "timestamp": "2014-05-24 06:21:27",
   "name": "Nicole Tran Ba Vang",
   "surname": "Tran Ba Vang",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography, Installation",
-  "r00": "11842",
-  "r01": "10402",
-  "r02": "9021",
-  "r03": "7939",
-  "r04": "6655",
-  "r05": "5851",
-  "r06": "4964",
-  "r07": "4864",
-  "r08": "5459",
+  "r00": "27307",
+  "r01": "22029",
+  "r02": "16900",
+  "r03": "13156",
+  "r04": "10354",
+  "r05": "7614",
+  "r06": "6161",
+  "r07": "5057",
+  "r08": "4833",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "28",
+  "all-shows-total": "29",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (2), Italy (2), Germany (1), Luxembourg (1), Sweden (1)",
-  "2005-shows-with": "Nicole Tran Ba Vang (7), Karin Andersen (2), Franko B. (2), Pietruccia Bassu (2), Vanessa Beecroft (2), Daniele Buetti (2), Christine Gallmetzer (2), Robert Gligorov (2), Yumi Karasumaru (2), Karen Knorr (2), David LaChapelle (2), Urs Lüthi (2), Yasumasa Morimura (2), Maël Nozahic (2), Orlan (2), Cecilia Paredes (2), Adriano Persiani (2), Sandy Skoglund (2), Aldo Tagliaferro (2), Miwa Yanagi (2)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (2), Italy (2), Sweden (2), Germany (1), Luxembourg (1)",
+  "2005-shows-with": "Nicole Tran Ba Vang (8), Karin Andersen (2), Franko B. (2), Pietruccia Bassu (2), Vanessa Beecroft (2), Daniele Buetti (2), Christine Gallmetzer (2), Robert Gligorov (2), Yumi Karasumaru (2), Karen Knorr (2), David LaChapelle (2), Urs Lüthi (2), Yasumasa Morimura (2), Maël Nozahic (2), Orlan (2), Cecilia Paredes (2), Adriano Persiani (2), Sandy Skoglund (2), Aldo Tagliaferro (2), Miwa Yanagi (2)",
   "representing-galleries": "Galerie Erna Hécey (1c, rue des Fabriques, 1000 Brussels, Belgium); Taché-Lévy (74, rue Tenbosch, 1050 Brussels, Belgium); Emmeotto (Via Margutta 8, 00187 Rome, Italy)",
   "collecting-museums": null,
   "first_name": "Nicole",
@@ -99,6 +99,10 @@
         ]
       },
       {
+        "i": "16418-7811-2006-10-29",
+        "c": "FR"
+      },
+      {
         "i": "16418-4217-2006-06-08",
         "c": "BE",
         "n": "Nicole Tran Ba Vang",
@@ -114,6 +118,10 @@
     ],
     "2007": [
       {
+        "i": "16418-7811-2006-10-29",
+        "c": "FR"
+      },
+      {
         "i": "16418-8278-2007-01-13",
         "c": "US",
         "n": "The Eclectic Eye - Selections of Fantasy and Illusion",
@@ -125,6 +133,32 @@
           "2007-01-13",
           "2007-04-08"
         ]
+      },
+      {
+        "i": "16418-3864-2007-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "16418-3864-2007-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "16418-7949-2007-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "16418-7949-2007-03-17",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "16418-9923-2008-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "16418-9923-2008-05-29",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -166,6 +200,14 @@
           "2009-06-06",
           "2009-10-04"
         ]
+      },
+      {
+        "i": "16418-16728-2009-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "16418-16728-2009-06-25",
+        "c": "FR"
       }
     ],
     "2011": [

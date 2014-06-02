@@ -1,7 +1,7 @@
 {
   "id": "90266",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:40:53",
+  "timestamp": "2014-05-24 06:47:51",
   "name": "Bernard Descamps",
   "surname": "Descamps",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "32754",
-  "r01": "30501",
-  "r02": "27076",
-  "r03": "35548",
-  "r04": "31579",
-  "r05": "30805",
-  "r06": "25942",
-  "r07": "22564",
-  "r08": "18691",
+  "r00": "27602",
+  "r01": "37944",
+  "r02": "35258",
+  "r03": "30201",
+  "r04": "46417",
+  "r05": "39221",
+  "r06": "37799",
+  "r07": "29605",
+  "r08": "24520",
   "awards": null,
   "website": null,
   "all-shows-first": "1975",
   "all-shows-total": "21",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (4), Belgium (1)",
-  "2005-shows-with": "Bernard Descamps (3), Mohamed Camara (2), Bernard Faucon (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (4), Belgium (1), Netherlands (1)",
+  "2005-shows-with": "Bernard Descamps (4), Mohamed Camara (2), Bernard Faucon (2), Mario Giacomelli (2)",
   "representing-galleries": "Galerie Brun L'église (51, rue de Bourgogne, 75007 Paris, France)",
-  "collecting-museums": "FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); UMMA - The University of Michigan Museum of Art (915 E. Washington St., 48109-1070 Ann Arbor, MI\t, USA)",
+  "collecting-museums": "FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); UMMA - The University of Michigan Museum of Art (915 E. Washington St., 48109-1070 Ann Arbor, MI, USA)",
   "first_name": "Bernard",
   "last_name": "Descamps",
   "genre": "m",
@@ -43,6 +43,72 @@
   "age": 67,
   "age_range": "61-100",
   "expos": {
+    "2006": [
+      {
+        "i": "90266-10584-2006-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "90266-10584-2006-12-03",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "90266-20789-2009-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "90266-20789-2009-11-13",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "90266-24174-2010-10-28",
+        "c": "FR"
+      },
+      {
+        "i": "90266-24174-2010-10-28",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "90266-20679-2013-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "90266-20679-2013-04-27",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "90266-21460-2005-01-05",
+        "c": "FR"
+      },
+      {
+        "i": "90266-21460-2005-01-05",
+        "c": "FR"
+      },
+      {
+        "i": "90266-11847-2005-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "90266-11847-2005-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "90266-5176-2005-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "90266-5176-2005-06-08",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "90266-20742-2007-09-11",
@@ -71,6 +137,14 @@
           "2011-02-02",
           "2011-03-13"
         ]
+      },
+      {
+        "i": "90266-5176-2011-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "90266-5176-2011-05-12",
+        "c": "FR"
       }
     ]
   }

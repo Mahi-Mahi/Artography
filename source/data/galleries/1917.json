@@ -18,6 +18,10 @@
   "fairs": {
     "2005": [
       {
+        "i": "1917-Fiac 2005",
+        "c": "FR"
+      },
+      {
         "i": "1917-Art Cologne 2005",
         "c": "DE",
         "n": "Art Cologne 2005",
@@ -36,6 +40,10 @@
         "c": "ES",
         "n": "Loop - The Video Art Fair",
         "ct": "Barcelona"
+      },
+      {
+        "i": "1917-Fiac 2006",
+        "c": "FR"
       },
       {
         "i": "1917-Art Cologne 2006",
@@ -62,6 +70,10 @@
         "c": "DE",
         "n": "12. Art Forum Berlin",
         "ct": "Berlin"
+      },
+      {
+        "i": "1917-Fiac 2007",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -76,6 +88,10 @@
         "c": "AT",
         "n": "Viennafair 2008",
         "ct": "Vienna"
+      },
+      {
+        "i": "1917-Fiac 2008",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -96,6 +112,10 @@
         "c": "AT",
         "n": "Viennafair 2009",
         "ct": "Vienna"
+      },
+      {
+        "i": "1917-Fiac 2009",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -104,6 +124,10 @@
         "c": "BE",
         "n": "Art Brussels 2010 - 28th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "1917-Fiac 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -112,6 +136,10 @@
         "c": "BE",
         "n": "Art Brussels 2011",
         "ct": "Brussels"
+      },
+      {
+        "i": "1917-Fiac 2011",
+        "c": "FR"
       },
       {
         "i": "1917-Artissima 18",
@@ -126,6 +154,10 @@
         "c": "BE",
         "n": "Art Brussels 2012",
         "ct": "Brussels"
+      },
+      {
+        "i": "1917-Fiac 2012",
+        "c": "FR"
       },
       {
         "i": "1917-Art Basel Miami Beach 2012",
@@ -152,6 +184,14 @@
         "c": "DE",
         "n": "abc art berlin contemporary 2013",
         "ct": "Berlin"
+      },
+      {
+        "i": "1917-Yia Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1917-FIAC 2013",
+        "c": "FR"
       }
     ]
   }

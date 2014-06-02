@@ -22,6 +22,10 @@
         "c": "US",
         "n": "Scope New York 2005",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "2090-Fiac 2005",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -44,6 +48,10 @@
         "ct": "New York City, NY"
       },
       {
+        "i": "2090-Show Off Paris 2006",
+        "c": "FR"
+      },
+      {
         "i": "2090-Scope Miami 2006",
         "c": "US",
         "n": "Scope Miami 2006",
@@ -56,6 +64,10 @@
         "c": "IT",
         "n": "Arte Fiera 2007",
         "ct": "Bologna"
+      },
+      {
+        "i": "2090-Show Off Paris 2007",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -70,6 +82,14 @@
         "c": "US",
         "n": "Pulse New York 08",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "2090-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
+        "i": "2090-Show Off Paris 2008",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -78,6 +98,22 @@
         "c": "IT",
         "n": "Arte Fiera 2009",
         "ct": "Bologna"
+      },
+      {
+        "i": "2090-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "2090-Paris Photo 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "2090-Paris Photo 2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -86,6 +122,10 @@
         "c": "GB",
         "n": "Art13 London",
         "ct": "London (England)"
+      },
+      {
+        "i": "2090-Paris Photo 2013",
+        "c": "FR"
       }
     ]
   }

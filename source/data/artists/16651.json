@@ -1,7 +1,7 @@
 {
   "id": "16651",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:01",
+  "timestamp": "2014-05-24 06:21:33",
   "name": "Guillaume Millet",
   "surname": "Millet",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "19888",
-  "r01": "19042",
-  "r02": "17826",
-  "r03": "17249",
-  "r04": "22615",
-  "r05": "23620",
-  "r06": "37260",
-  "r07": "31786",
-  "r08": "26043",
+  "r00": "20449",
+  "r01": "19877",
+  "r02": "17798",
+  "r03": "16223",
+  "r04": "15308",
+  "r05": "20646",
+  "r06": "21973",
+  "r07": "37641",
+  "r08": "30885",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "15",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "16",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (9), Belgium (2), Netherlands (2), Switzerland (1)",
-  "2005-shows-with": "Guillaume Millet (9), Francisco Da Mata (4), Colombe Marcasiano (3), Camila Oliveira Fairclough (3), Ingrid Maria Sinibaldi (3), Cédric Teisseire (3), Massimiliano Baldassarri (2), Greet Billet (2), Maude Maris (2), Emmanuel van der Meulen (2), Rose Nolan (2), Perry Roberts (2), Wilson Trouvé (2), Pieter Vermeersch (2), Sebastian Wickeroth (2), Carrie Yamaoka (2)",
+  "2005-countries-total": "France (10), Belgium (2), Netherlands (2), Switzerland (2)",
+  "2005-shows-with": "Guillaume Millet (11), Francisco Da Mata (5), Colombe Marcasiano (4), Camila Oliveira Fairclough (4), Ingrid Maria Sinibaldi (4), Cédric Teisseire (4), Massimiliano Baldassarri (3), Greet Billet (3), Sebastian Wickeroth (3), Carrie Yamaoka (3), John Beech (2), Michelle Grabner (2), Clemens Hollerer (2), Kyle Jenkins (2), Maude Maris (2), Emmanuel van der Meulen (2), Rose Nolan (2), Laurent Rabier (2), Perry Roberts (2), Tilman (2), Wilson Trouvé (2), Pieter Vermeersch (2), Emmanuelle Villard (2), Jan Maarten Voskuil (2), Lars Wolter (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); Dublin City Gallery The Hugh Lane (Parnell Square North, Dublin 1 Dublin, Ireland (Republic))",
   "first_name": "Guillaume",
@@ -43,7 +43,41 @@
   "age": 44,
   "age_range": "41-60",
   "expos": {
+    "2009": [
+      {
+        "i": "16651-28288-2009-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "16651-1937-2009-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "16651-1937-2009-10-10",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "16651-28288-2009-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "16651-22295-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "16651-22295-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "16651-12183-2010-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "16651-12183-2010-07-10",
+        "c": "FR"
+      },
       {
         "i": "16651-12130-2010-11-07",
         "c": "BE",
@@ -84,9 +118,61 @@
           "2011-09-11",
           "2011-10-09"
         ]
+      },
+      {
+        "i": "16651-22625-2011-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "16651-22625-2011-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "16651-29391-2011-11-11",
+        "c": "FR"
+      },
+      {
+        "i": "16651-29391-2011-11-11",
+        "c": "FR"
+      },
+      {
+        "i": "16651-10282-2011-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "16651-10282-2011-03-12",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16651-29576-2013-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "16651-29576-2013-07-05",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "16651-28954-2005-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "16651-28954-2005-01-22",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "16651-11895-2008-04-26",
+        "c": "FR"
+      },
+      {
+        "i": "16651-11895-2008-04-26",
+        "c": "FR"
+      },
       {
         "i": "16651-12130-2008-09-25",
         "c": "BE",

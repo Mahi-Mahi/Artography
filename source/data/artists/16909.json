@@ -1,7 +1,7 @@
 {
   "id": "16909",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:10",
+  "timestamp": "2014-05-24 06:21:39",
   "name": "Bernard Quesniaux",
   "surname": "Quesniaux",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "18971",
-  "r01": "24262",
-  "r02": "25529",
-  "r03": "24395",
-  "r04": "27449",
-  "r05": "41826",
-  "r06": "40102",
-  "r07": "34466",
-  "r08": "30437",
+  "r00": "15796",
+  "r01": "15434",
+  "r02": "20565",
+  "r03": "21826",
+  "r04": "21078",
+  "r05": "23953",
+  "r06": "38887",
+  "r07": "36627",
+  "r08": "30571",
   "awards": null,
   "website": null,
   "all-shows-first": "1990",
-  "all-shows-total": "14",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
+  "all-shows-total": "15",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
   "2005-shows-museums": "5",
-  "2005-countries-total": "France (9), Germany (1)",
-  "2005-shows-with": "Bernard Quesniaux (5), Ziad Antar (2), John M Armleder (2), François Bouillon (2), Damien Cabanes (2), Henri Cueco (2), Marinette Cueco (2), Véronique Ellena (2), Philippe Favier (2), Daniel Firman (2), Valérie Jouve (2), Olivier Masmonteil (2), Philippe Mayaux (2), Anita Molinero (2), Vincent J. Stoker (2), Jean-Pierre Uhlen (2), Erwin Wurm (2)",
+  "2005-countries-total": "France (10), Germany (1)",
+  "2005-shows-with": "Bernard Quesniaux (6), Véronique Ellena (3), Anita Molinero (3), Vincent J. Stoker (3), Ziad Antar (2), John M Armleder (2), Joël Bartoloméo (2), François Bouillon (2), Damien Cabanes (2), Henri Cueco (2), Marinette Cueco (2), Philippe Favier (2), Daniel Firman (2), Laurent Goumarre (2), Valérie Jouve (2), Olivier Masmonteil (2), Philippe Mayaux (2), Michael Roy (2), Jean-Pierre Uhlen (2), Erwin Wurm (2)",
   "representing-galleries": "Monos Gallery (rue Henri Blès 39, 4000 Liège, Belgium); Galerie La Navire (4, Boulevard Clémenceau, 71144-29221 Brest, France); Galerie Alain Gutharc (7, Rue Saint-Claude, 75003 Paris, France); Galerie La Cité (1, rue Louvigny (1er étage), 1946 Luxembourg, Luxembourg)",
   "collecting-museums": "FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France)",
   "first_name": "Bernard",
@@ -56,9 +56,35 @@
           "2005-04-22",
           "2005-05-29"
         ]
+      },
+      {
+        "i": "16909-9344-2005-11-18",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "16909-9344-2005-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "16909-10282-2006-08-05",
+        "c": "FR"
+      },
+      {
+        "i": "16909-10282-2006-08-05",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "16909-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "16909-9475-2009-07-04",
+        "c": "FR"
+      },
       {
         "i": "16909-11382-2009-04-24",
         "c": "DE",
@@ -71,6 +97,82 @@
           "2009-04-24",
           "2009-06-19"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "16909-2013-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "16909-2013-2012-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "16909-2013-2012-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "16909-2013-2012-05-05",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16909-2013-2013-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "16909-2013-2013-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "16909-9475-2013-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "16909-9475-2013-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "16909-20775-2013-10-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "16909-20775-2013-10-20",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "16909-17875-2008-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "16909-17875-2008-02-09",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "16909-10517-2010-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "16909-10517-2010-09-18",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "16909-10235-2011-10-09",
+        "c": "FR"
+      },
+      {
+        "i": "16909-10235-2011-10-09",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "161324",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:09:08",
+  "timestamp": "2014-05-24 07:11:41",
   "name": "Aurelie Godard",
   "surname": "Godard",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "12560",
-  "r01": "13784",
-  "r02": "15491",
-  "r03": "24384",
-  "r04": "43373",
-  "r05": "48148",
-  "r06": "53549",
-  "r07": "64012",
-  "r08": null,
+  "r00": "8573",
+  "r01": "8684",
+  "r02": "9270",
+  "r03": "11998",
+  "r04": "19503",
+  "r05": "37909",
+  "r06": "42179",
+  "r07": "47695",
+  "r08": "59305",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "19",
+  "all-shows-total": "20",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (15), Belgium (1)",
-  "2005-shows-with": "Aurelie Godard (14), Chloé Dugit-Gros (5), Julien Prévieux (3), Dominique Blais (2), Nicolas Chardon (2), Jean Dupuy (2), Mark Geffriaud (2), Ann Veronica Janssens (2), Martin Laborde (2), Guillaume Leblon (2), Pierre Leguillon (2), Vincent Madame (2), Didier Marcel (2), Olivier Mosset (2), Camila Oliveira Fairclough (2), Alain Séchas (2), Kristina Solomoukha (2), Emmanuelle Villard (2), Raphaël Zarka (2)",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (16), Belgium (1)",
+  "2005-shows-with": "Aurelie Godard (15), Chloé Dugit-Gros (5), Dominique Blais (3), Jean Dupuy (3), Mark Geffriaud (3), Pierre Leguillon (3), Julien Prévieux (3), Raphaël Zarka (3), A Constructed World (2), Robert Barry (2), Berdaguer & Péjus (2), Joianne Bittle (2), Hugo Brégeau (2), Alejandro Cesarco (2), Nicolas Chardon (2), Victor Delestre (2), Julie-Christine Fortier (2), Ryan Gander (2), Dora García (2), Jérémie Gaulin (2), Joseph Grigely (2), Ann Veronica Janssens (2), Ben Kinmont (2), Nicholas Knight (2), Alison Knowles (2), Silvia Kolbowski (2), Jirí Kovanda (2), Martin Laborde (2), Jennifer Lacey (2), Louise Lawler (2), Guillaume Leblon (2), Maria Loboda (2), Vincent Madame (2), Didier Marcel (2), John Miller (2), Olivier Mosset (2), Camila Oliveira Fairclough (2), Emilie Parendeau (2), John Perreault (2), Will Potter (2), Fabrice Reymond (2), Alain Séchas (2), Yann Sérandour (2), Kristina Solomoukha (2), Mierle-Laderman Ukeles (2), Emmanuelle Villard (2)",
   "representing-galleries": "Galerie Dohyang Lee (73-75, rue Quincampoix, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Aurelie",
@@ -43,7 +43,85 @@
   "age": 35,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "161324-22295-2007-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "161324-22295-2007-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "161324-11247-2007-12-06",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "161324-11247-2007-12-06",
+        "c": "FR"
+      },
+      {
+        "i": "161324-11247-2008-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "161324-11247-2008-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "161324-19611-2008-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "161324-19611-2008-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "161324-11247-2008-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "161324-11247-2008-04-20",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "161324-12314-2009-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "161324-12314-2009-11-08",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "161324-22295-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "161324-22295-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "161324-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "161324-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "161324-25336-2010-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "161324-25336-2010-06-17",
+        "c": "FR"
+      },
       {
         "i": "161324-11482-2010-08-20",
         "c": "BE",
@@ -56,6 +134,88 @@
           "2010-08-20",
           "2010-09-12"
         ]
+      },
+      {
+        "i": "161324-10221-2010-12-04",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "161324-10221-2010-12-04",
+        "c": "FR"
+      },
+      {
+        "i": "161324-10247-2011-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "161324-10247-2011-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "161324-6620-2011-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "161324-6620-2011-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "161324-10679-2011-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "161324-10679-2011-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "161324-21710-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "161324-21710-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "161324-21710-2011-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "161324-21710-2011-05-28",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "161324-2303-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "161324-2303-2012-11-15",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "161324-9344-2013-09-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "161324-9344-2013-09-20",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "161324-4179-2006-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "161324-4179-2006-04-29",
+        "c": "FR"
       }
     ]
   }

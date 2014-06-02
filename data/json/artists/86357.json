@@ -1,7 +1,7 @@
 {
   "id": "86357",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:39:16",
+  "timestamp": "2014-05-24 06:46:29",
   "name": "Julien Sirjacq",
   "surname": "Sirjacq",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "83951",
-  "r01": "81177",
-  "r02": "80490",
-  "r03": "75111",
-  "r04": "68599",
-  "r05": "76763",
-  "r06": "68983",
-  "r07": null,
+  "r00": "64884",
+  "r01": "77976",
+  "r02": "73560",
+  "r03": "72601",
+  "r04": "66461",
+  "r05": "59644",
+  "r06": "70932",
+  "r07": "62954",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "4",
+  "all-shows-total": "5",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (2)",
-  "2005-shows-with": null,
+  "2005-countries-total": "France (2), Czech Republic (1)",
+  "2005-shows-with": "Emilie Benoist (2), Julien Sirjacq (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Julien",
@@ -43,5 +43,43 @@
   "age": 40,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "86357-4179-2007-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "86357-4179-2007-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "86357-4179-2007-01-06",
+        "c": "FR"
+      },
+      {
+        "i": "86357-4179-2007-01-06",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "86357-17457-2012-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "86357-17457-2012-01-20",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "86357-4179-2009-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "86357-4179-2009-05-16",
+        "c": "FR"
+      }
+    ]
   }
 }

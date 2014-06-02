@@ -16,5 +16,17 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "2",
   "fairs": {
+    "2012": [
+      {
+        "i": "27252-Art Elysées 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "27252-Art Elysees 2013",
+        "c": "FR"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "125725",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:54:37",
+  "timestamp": "2014-05-24 06:59:39",
   "name": "Jacques Halbert",
   "surname": "Halbert",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "55878",
-  "r01": "60509",
-  "r02": "55505",
-  "r03": "50953",
-  "r04": "48136",
-  "r05": "42521",
-  "r06": "36778",
-  "r07": "31348",
-  "r08": "33339",
+  "r00": "47033",
+  "r01": "62657",
+  "r02": "67507",
+  "r03": "57855",
+  "r04": "50626",
+  "r05": "46264",
+  "r06": "39287",
+  "r07": "32711",
+  "r08": "27011",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "6",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (3)",
+  "2005-countries-total": "France (3), Belgium (1)",
   "2005-shows-with": "Jacques Halbert (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France)",
@@ -43,5 +43,57 @@
   "age": 59,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "125725-8997-2005-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "125725-8997-2005-09-29",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "125725-22446-2011-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "125725-22446-2011-01-08",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "125725-10239-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "125725-10239-2013-04-06",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "125725-7949-2006-11-24",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "125725-7949-2006-11-24",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "125725-22446-2010-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "125725-22446-2010-11-05",
+        "c": "FR"
+      }
+    ]
   }
 }

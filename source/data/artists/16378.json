@@ -1,7 +1,7 @@
 {
   "id": "16378",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:52",
+  "timestamp": "2014-05-24 06:21:26",
   "name": "Carole Benzaken",
   "surname": "Benzaken",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting",
-  "r00": "5212",
-  "r01": "4940",
-  "r02": "4463",
-  "r03": "3917",
-  "r04": "3596",
-  "r05": "3240",
-  "r06": "2663",
-  "r07": "2278",
-  "r08": "2221",
+  "r00": "9924",
+  "r01": "9476",
+  "r02": "8697",
+  "r03": "6429",
+  "r04": "5102",
+  "r05": "4366",
+  "r06": "3541",
+  "r07": "2608",
+  "r08": "2062",
   "awards": null,
   "website": null,
   "all-shows-first": "1994",
-  "all-shows-total": "39",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (12), Belgium (3)",
-  "2005-shows-with": "Carole Benzaken (12), Fiona Rae (3), Rina Banerjee (2), Martin Barré (2), Valérie Belin (2), Céline Berger (2), Huma Bhabha (2), Damien Cadio (2), Juliano Caldeira (2), Philippe Cognée (2), Stéphane Couturier (2), Michael DeLucia (2), Patrick Faigenbaum (2), Vanessa Fanuele (2), Richard Fauguet (2), Gérard Fromanger (2), Hervé Ic (2), Claude Lévêque (2), Mathieu Mercier (2), Axel Pahlavi (2), Bruno Perramant (2), Chloe Piene (2), Pascal Pinaud (2), Lorna Simpson (2), Jessica Stockholder (2), Joana Vasconcelos (2)",
+  "all-shows-total": "40",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (13), Belgium (4)",
+  "2005-shows-with": "Carole Benzaken (13), Hervé Ic (3), Fiona Rae (3), Rina Banerjee (2), Martin Barré (2), Valérie Belin (2), Céline Berger (2), Huma Bhabha (2), Damien Cadio (2), Juliano Caldeira (2), Philippe Cognée (2), Stéphane Couturier (2), Sébastien Delire (2), Michael DeLucia (2), Patrick Faigenbaum (2), Vanessa Fanuele (2), Richard Fauguet (2), Gregory Forstner (2), Gérard Fromanger (2), Claude Lévêque (2), Olivier Masmonteil (2), Mathieu Mercier (2), Axel Pahlavi (2), Bruno Perramant (2), Françoise Petrovitch (2), Chloe Piene (2), Pascal Pinaud (2), Lorna Simpson (2), Jessica Stockholder (2), Joana Vasconcelos (2)",
   "representing-galleries": "Galerie Nathalie Obadia - Bruxelles (Rue Charles Decoster 8, 1050 Brussels, Belgium); Galerie Hambursin-Boisanté (15, Bd du jeu de Paume, 34000 Montpellier, France); Galerie Nathalie Obadia - Paris (3, rue du Cloitre Saint-Merri, 75004 Paris, France); Apama Mackey Gallery (5111 Center Street, 77007 Houston, TX, USA)",
   "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); FRAC - Alsace (1, espace Gilbert Estève, 67601 Sélestat, France); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
   "first_name": "Carole",
@@ -43,7 +43,25 @@
   "age": 50,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "16378-7910-2005-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "16378-7910-2005-03-17",
+        "c": "FR"
+      }
+    ],
     "2006": [
+      {
+        "i": "16378-7912-2006-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "16378-7912-2006-09-16",
+        "c": "FR"
+      },
       {
         "i": "16378-2546-2006-09-23",
         "c": "DE",
@@ -56,9 +74,25 @@
           "2006-09-23",
           "2006-11-12"
         ]
+      },
+      {
+        "i": "16378-1955-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "16378-1955-2006-09-09",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "16378-7877-2007-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "16378-7877-2007-01-10",
+        "c": "FR"
+      },
       {
         "i": "16378-15644-2007-10-20",
         "c": "US",
@@ -88,6 +122,40 @@
         ]
       }
     ],
+    "2009": [
+      {
+        "i": "16378-19790-2009-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "16378-19790-2009-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "16378-17091-2009-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "16378-17091-2009-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "16378-13364-2009-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "16378-13364-2009-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "16378-1955-2009-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "16378-1955-2009-09-05",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "16378-18199-2010-01-22",
@@ -101,6 +169,28 @@
           "2010-01-22",
           "2010-04-17"
         ]
+      },
+      {
+        "i": "16378-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "16378-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "16378-2353-2010-11-06",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "16378-2353-2010-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "16378-11828-2011-10-12",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -116,6 +206,54 @@
           "2012-01-20",
           "2012-02-25"
         ]
+      },
+      {
+        "i": "16378-8678-2012-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "16378-8678-2012-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "16378-7392-2012-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "16378-7392-2012-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "16378-11828-2011-10-12",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16378-28273-2013-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "16378-28273-2013-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "16378-30302-2013-10-26",
+        "c": "FR"
+      },
+      {
+        "i": "16378-1955-2013-11-14",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "16378-30302-2013-10-26",
+        "c": "FR"
+      },
+      {
+        "i": "16378-1955-2013-11-14",
+        "c": "FR"
       }
     ]
   }

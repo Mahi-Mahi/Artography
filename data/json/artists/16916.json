@@ -1,7 +1,7 @@
 {
   "id": "16916",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:10",
+  "timestamp": "2014-05-24 06:21:40",
   "name": "Nicolas Alquin",
   "surname": "Alquin",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sculpture",
-  "r00": "93161",
-  "r01": "94758",
-  "r02": "90235",
-  "r03": "85006",
-  "r04": "83390",
-  "r05": "102393",
-  "r06": "94166",
+  "r00": "69856",
+  "r01": "71166",
+  "r02": "89784",
+  "r03": "84859",
+  "r04": "79510",
+  "r05": "78784",
+  "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
@@ -34,7 +34,7 @@
   "2005-shows-museums": "2",
   "2005-countries-total": "France (5)",
   "2005-shows-with": "Nicolas Alquin (2)",
-  "representing-galleries": "Galerie Fred Lanzenberg (9, avenue des Klauwaerts, 1050 Brussels, Belgium); Galerie Pascal Retelet (2, Rue de Villers, 1000 Brussels, Belgium); Galerie Michèle Broutta (31 rue des Bergers, 75015 Paris, France); Pascal Retelet Fine Art (1, Place de Gaulle, 06570 Saint-Paul de Vence, France); Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa (RI), Italy)",
+  "representing-galleries": "Galerie Fred Lanzenberg (9, avenue des Klauwaerts, 1050 Brussels, Belgium); Galerie Pascal Retelet (2, Rue de Villers, 1000 Brussels, Belgium); Galerie Michèle Broutta (31 rue des Bergers, 75015 Paris, France); Pascal Retelet Fine Art (1, Place de Gaulle, 06570 Saint-Paul de Vence, France); Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa, RI, Italy)",
   "collecting-museums": null,
   "first_name": "Nicolas",
   "last_name": "Alquin",
@@ -43,5 +43,61 @@
   "age": 56,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "16916-23441-2007-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "16916-23441-2007-12-18",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "16916-11827-2010-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "16916-11827-2010-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "16916-11827-2010-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "16916-11827-2010-05-06",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "16916-11827-2009-09-29",
+        "c": "FR"
+      },
+      {
+        "i": "16916-11827-2009-09-29",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16916-28276-2013-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "16916-28276-2013-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "16916-29551-2013-05-04",
+        "c": "FR"
+      },
+      {
+        "i": "16916-29551-2013-05-04",
+        "c": "FR"
+      }
+    ]
   }
 }

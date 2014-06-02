@@ -1,7 +1,7 @@
 {
   "id": "7037",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:05:36",
+  "timestamp": "2014-05-24 06:17:44",
   "name": "Jerôme Basserode",
   "surname": "Basserode",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation, Sculpture",
-  "r00": "4769",
-  "r01": "4647",
-  "r02": "4234",
-  "r03": "3771",
-  "r04": "3368",
-  "r05": "3195",
-  "r06": "2916",
-  "r07": "2531",
-  "r08": "2059",
+  "r00": "6449",
+  "r01": "6449",
+  "r02": "7341",
+  "r03": "6036",
+  "r04": "4830",
+  "r05": "4063",
+  "r06": "3736",
+  "r07": "3204",
+  "r08": "2650",
   "awards": null,
   "website": null,
   "all-shows-first": "1992",
-  "all-shows-total": "50",
+  "all-shows-total": "51",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "8",
-  "2005-countries-total": "France (12), Belgium (1), Czech Republic (1)",
-  "2005-shows-with": "Jerôme Basserode (11), Sophie Calle (4), Angela Bulloch (3), Philippe Cazal (3), Jean Degottex (3), Bertrand Lavier (3), Roman Signer (3), Marina Abramovic (2), John M Armleder (2), Art & Language (2), Joël Bartoloméo (2), Julien Blaine (2), Christian Boltanski (2), Pol Bury (2), Claude Closky (2), Robert Combas (2), Patrick Corillon (2), Henri Cueco (2), Jean Daviot (2), Mark Dion (2), Peter Downsbrough (2), François Dufrêne (2), Jean Dupuy (2), Erró (2), Daniel Firman (2), Jean le Gac (2), Jochen Gerz (2), Paul-Armand Gette (2), Marie-Ange Guilleminot (2), Raymond Hains (2), Jenny Holzer (2), Peter Klasen (2), Yves Klein (2), Natacha Lesueur (2), Annette Messager (2), Jacques Monory (2), Tania Mouraud (2), Orlan (2), Jean-Michel Othoniel (2), A. R. Penck (2), Dieter Roth (2), Thomas Ruff (2), Haim Steinbach (2), Ernest T. (2), Wolfgang Tillmans (2), Pierre Tilman (2), David Tremlett (2), Ben Vautier (2), Jacques Villeglé (2), Jorinde Voigt (2), Erwin Wurm (2)",
+  "2005-countries-total": "France (13), Belgium (1), Czech Republic (1)",
+  "2005-shows-with": "Jerôme Basserode (12), Sophie Calle (4), Angela Bulloch (3), Philippe Cazal (3), Jean Degottex (3), Bertrand Lavier (3), Roman Signer (3), Marina Abramovic (2), John M Armleder (2), Art & Language (2), Art Orienté Objet (2), Joël Bartoloméo (2), Julien Blaine (2), Christian Boltanski (2), Pol Bury (2), Claude Closky (2), Robert Combas (2), Patrick Corillon (2), Henri Cueco (2), Jean Daviot (2), Damien Deroubaix (2), Mark Dion (2), Peter Downsbrough (2), François Dufrêne (2), Jean Dupuy (2), Erró (2), Daniel Firman (2), Jean le Gac (2), Jochen Gerz (2), Paul-Armand Gette (2), Marie-Ange Guilleminot (2), Raymond Hains (2), Siobhán Hapaska (2), Jenny Holzer (2), Peter Klasen (2), Yves Klein (2), Natacha Lesueur (2), Annette Messager (2), Jacques Monory (2), Tania Mouraud (2), Orlan (2), Jean-Michel Othoniel (2), A. R. Penck (2), Dieter Roth (2), Thomas Ruff (2), Haim Steinbach (2), Ernest T. (2), Wolfgang Tillmans (2), Pierre Tilman (2), David Tremlett (2), Ben Vautier (2), Jacques Villeglé (2), Jorinde",
   "representing-galleries": "Galerie Martine et Thibault de La Châtre (4 rue Saintonge, 75003 Paris, France)",
   "collecting-museums": "FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); 49 NORD 6 EST – Frac Lorraine (Rue des Trinitaires 1 bis, 57000 Metz, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
   "first_name": "Jerôme",
@@ -69,6 +69,136 @@
           "2005-03-09",
           "2005-04-30"
         ]
+      },
+      {
+        "i": "7037-29574-2005-05-09",
+        "c": "FR"
+      },
+      {
+        "i": "7037-29574-2005-05-09",
+        "c": "FR"
+      },
+      {
+        "i": "7037-1746-2005-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "7037-1746-2005-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "7037-7850-2005-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "7037-7850-2005-06-30",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "7037-2718-2006-11-10",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "7037-2718-2006-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "7037-29574-2007-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "7037-29574-2007-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "7037-8647-2007-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "7037-8647-2007-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "7037-7978-2007-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "7037-7978-2007-05-12",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "7037-2718-2008-05-23",
+        "c": "FR"
+      },
+      {
+        "i": "7037-2718-2008-05-23",
+        "c": "FR"
+      },
+      {
+        "i": "7037-10235-2008-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "7037-10235-2008-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "7037-1746-2008-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "7037-1746-2008-03-08",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "7037-27775-2009-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "7037-27775-2009-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "7037-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "7037-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "7037-3864-2009-09-14",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "7037-3864-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "7037-8189-2010-08-25",
+        "c": "FR"
+      },
+      {
+        "i": "7037-8189-2010-08-25",
+        "c": "FR"
+      },
+      {
+        "i": "7037-11681-2010-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "7037-11681-2010-03-18",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -99,6 +229,14 @@
           "2011-12-13",
           "2012-02-26"
         ]
+      },
+      {
+        "i": "7037-1746-2012-10-06",
+        "c": "FR"
+      },
+      {
+        "i": "7037-1746-2012-10-06",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -114,6 +252,30 @@
           "2013-02-28",
           "2013-09-01"
         ]
+      },
+      {
+        "i": "7037-18800-2013-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "7037-18800-2013-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "7037-29574-2013-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "7037-29574-2013-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "7037-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "7037-10825-2013-09-21",
+        "c": "FR"
       }
     ]
   }

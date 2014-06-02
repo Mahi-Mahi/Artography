@@ -1,7 +1,7 @@
 {
   "id": "41244",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:20:39",
+  "timestamp": "2014-05-24 06:30:33",
   "name": "Denis Darzacq",
   "surname": "Darzacq",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "6239",
-  "r01": "5944",
-  "r02": "7545",
-  "r03": "7631",
-  "r04": "8507",
-  "r05": "11299",
-  "r06": "14902",
-  "r07": "15962",
-  "r08": "21883",
+  "r00": "5227",
+  "r01": "5392",
+  "r02": "4898",
+  "r03": "6431",
+  "r04": "6520",
+  "r05": "7308",
+  "r06": "10196",
+  "r07": "13735",
+  "r08": "14649",
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
-  "all-shows-total": "50",
-  "2005-shows-biennials": "15",
-  "2005-shows-galleries": "15",
-  "2005-shows-museums": "17",
-  "2005-countries-total": "France (14), USA (8), Australia (3), Germany (3), Switzerland (2), Argentina (1), Austria (1), Canada (1), Italy (1), Luxembourg (1), Netherlands (1), South Korea (1)",
-  "2005-shows-with": "Denis Darzacq (28), Stéphane Couturier (7), Peter Bialobrzeski (4), Kader Attia (3), Taysir Batniji (3), Bruno Boudjelal (3), Mohamed Bourouissa (3), Antoine D\\'Agata (3), Ray Metzker (3), Bruno Serralongue (3), Michael Ackerman (2), AES+F (2), Tom Alberts (2), Andreas Amrhein (2), Jessica Backhaus (2), José Ramón Bas (2), Lars Borges (2), Martin Brand (2), Sergey Bratkov (2), Cao Fei (2), Juan Manuel Castro Prieto (2), Chen Zhen (2), Florence Chevallier (2), Kimberly Clark (2), Serge Clément (2), Thibaut Cuisset (2), Raphael Dallaporta (2), Ad van Denderen (2), Gabriel Desplanque (2), Richard Dumas (2), Véronique Ellena (2), Bernard Faucon (2), Matthias Fritsch (2), Daniel & Geo Fuchs (2), Gao Bo (2), Nan Goldin (2), Cosima Hanebeck (2), Fred Herzog (2), Chris Jordan (2), André Kertész (2), Bouchra Khalili (2), William Klein (2), Laurence Leblanc (2), Helen Levitt (2), Loretta Lux (2), Corinne Mercadier (2), DoDo Jin Ming (2), Isabel Muñoz (2), Max Pam (2), Mathieu Pernot (2), Anders Petersen (2), Ma",
+  "all-shows-total": "52",
+  "2005-shows-biennials": "16",
+  "2005-shows-galleries": "16",
+  "2005-shows-museums": "19",
+  "2005-countries-total": "France (16), USA (9), Australia (3), Germany (3), Switzerland (2), Argentina (1), Austria (1), Canada (1), Italy (1), Luxembourg (1), Netherlands (1), South Korea (1)",
+  "2005-shows-with": "Denis Darzacq (30), Stéphane Couturier (7), Peter Bialobrzeski (5), Kader Attia (4), Taysir Batniji (4), Bruno Boudjelal (4), Mohamed Bourouissa (4), Ray Metzker (4), Bruno Serralongue (4), Chen Zhen (3), Ad van Denderen (3), Antoine D\\'Agata (3), Fred Herzog (3), Bouchra Khalili (3), Helen Levitt (3), Mathieu Pernot (3), Barthélémy Toguo (3), Burk Uzzle (3), Michael Ackerman (2), AES+F (2), Tom Alberts (2), Andreas Amrhein (2), Jessica Backhaus (2), José Ramón Bas (2), Lars Borges (2), Martin Brand (2), Sergey Bratkov (2), Larry Burrows (2), Luca Campigotto (2), Cao Fei (2), Juan Manuel Castro Prieto (2), Florence Chevallier (2), Kimberly Clark (2), Serge Clément (2), Thibaut Cuisset (2), Raphael Dallaporta (2), Gabriel Desplanque (2), Richard Dumas (2), Véronique Ellena (2), Bernard Faucon (2), Claire Fontaine (2), Matthias Fritsch (2), Daniel & Geo Fuchs (2), Gao Bo (2), Ghazel (2), Nan Goldin (2), Cosima Hanebeck (2), Mona Hatoum (2), Chris Jordan (2), Karim Kal (2), Peter Keetman (2), André Kert",
   "representing-galleries": "Galerie VU (Saint-Lazare Rue 58, 75009 Paris, France); De Soto Gallery (2635 Fairfax Avenue, 90232 Culver City, CA, USA)",
   "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France)",
   "first_name": "Denis",
@@ -43,6 +43,16 @@
   "age": 53,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "41244-21359-2005-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "41244-21359-2005-07-05",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "41244-10177-2006-01-20",
@@ -56,9 +66,33 @@
           "2006-01-20",
           "2006-02-18"
         ]
+      },
+      {
+        "i": "41244-8554-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "41244-8554-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "41244-2528-2006-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "41244-2528-2006-09-24",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "41244-10244-2007-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "41244-10244-2007-01-17",
+        "c": "FR"
+      },
       {
         "i": "41244-2233-2007-01-18",
         "c": "CH",
@@ -71,9 +105,25 @@
           "2007-01-18",
           "2007-03-03"
         ]
+      },
+      {
+        "i": "41244-6354-2007-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "41244-6354-2007-03-16",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "41244-10244-2008-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "41244-10244-2008-01-23",
+        "c": "FR"
+      },
       {
         "i": "41244-7820-2008-03-08",
         "c": "US",
@@ -127,6 +177,10 @@
         ]
       },
       {
+        "i": "41244-17313-2008-10-08",
+        "c": "FR"
+      },
+      {
         "i": "41244-7708-2008-10-30",
         "c": "KR",
         "n": "Power of photography",
@@ -140,6 +194,14 @@
         ]
       },
       {
+        "i": "41244-20789-2008-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "41244-20789-2008-11-14",
+        "c": "FR"
+      },
+      {
         "i": "41244-18101-2008-11-14",
         "c": "IT",
         "n": "Arte, Prezzo e Valore",
@@ -151,9 +213,21 @@
           "2008-11-14",
           "2009-01-11"
         ]
+      },
+      {
+        "i": "41244-21460-2008-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "41244-21460-2008-02-21",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "41244-17313-2008-10-08",
+        "c": "FR"
+      },
       {
         "i": "41244-7708-2008-10-30",
         "c": "KR",
@@ -194,6 +268,14 @@
         ]
       },
       {
+        "i": "41244-20789-2009-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "41244-20789-2009-11-13",
+        "c": "FR"
+      },
+      {
         "i": "41244-1838-2009-12-23",
         "c": "AU",
         "n": "Summer",
@@ -205,6 +287,14 @@
           "2009-12-23",
           "2010-02-20"
         ]
+      },
+      {
+        "i": "41244-8028-2009-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "41244-8028-2009-02-04",
+        "c": "FR"
       },
       {
         "i": "41244-3806-2009-03-13",
@@ -315,6 +405,14 @@
     ],
     "2011": [
       {
+        "i": "41244-26739-2011-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "41244-26739-2011-03-24",
+        "c": "FR"
+      },
+      {
         "i": "41244-1727-2011-06-06",
         "c": "US",
         "n": "Past (present) Future Iii",
@@ -328,6 +426,10 @@
         ]
       },
       {
+        "i": "41244-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
         "i": "41244-1727-2011-11-16",
         "c": "US",
         "n": "The City Seen and Unseen",
@@ -339,9 +441,33 @@
           "2011-11-16",
           "2011-12-22"
         ]
+      },
+      {
+        "i": "41244-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "41244-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "41244-6354-2011-11-04",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "41244-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "41244-16577-2012-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "41244-16577-2012-03-16",
+        "c": "FR"
+      },
       {
         "i": "41244-1727-2012-03-29",
         "c": "US",
@@ -382,6 +508,14 @@
         ]
       },
       {
+        "i": "41244-2013-2012-12-08",
+        "c": "FR"
+      },
+      {
+        "i": "41244-6354-2011-11-04",
+        "c": "FR"
+      },
+      {
         "i": "41244-1727-2012-04-12",
         "c": "US",
         "n": "Denis Darzacq",
@@ -406,9 +540,17 @@
           "2012-09-07",
           "2012-11-06"
         ]
+      },
+      {
+        "i": "41244-21460-2012-11-23",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "41244-2013-2012-12-08",
+        "c": "FR"
+      },
       {
         "i": "41244-7538-2013-04-06",
         "c": "DE",
@@ -434,6 +576,18 @@
           "2013-06-08",
           "2013-08-24"
         ]
+      },
+      {
+        "i": "41244-10220-2013-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "41244-10220-2013-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "41244-21460-2012-11-23",
+        "c": "FR"
       }
     ]
   }

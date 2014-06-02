@@ -1,7 +1,7 @@
 {
   "id": "170246",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:12:34",
+  "timestamp": "2014-05-24 07:14:47",
   "name": "Eric Herbin",
   "surname": "Herbin",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "44940",
-  "r01": "41963",
-  "r02": "63762",
-  "r03": "58289",
-  "r04": "54663",
-  "r05": "48707",
-  "r06": "43517",
-  "r07": "54587",
-  "r08": "46694",
+  "r00": "40204",
+  "r01": "39139",
+  "r02": "34756",
+  "r03": "66568",
+  "r04": "58875",
+  "r05": "53997",
+  "r06": "46885",
+  "r07": "41142",
+  "r08": "53680",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (3), Denmark (1), Poland (1)",
-  "2005-shows-with": "Cléa Coudsi (5), Eric Herbin (5)",
+  "2005-countries-total": "France (4), Denmark (1), Poland (1)",
+  "2005-shows-with": "Cléa Coudsi (6), Eric Herbin (6)",
   "representing-galleries": "Galerie Schirman & de Beaucé (rue du Perche 7 bis, 9, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Eric",
@@ -43,7 +43,17 @@
   "age": 35,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "170246-2709-2007-10-18",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "170246-2709-2007-10-18",
+        "c": "FR"
+      },
       {
         "i": "170246-17203-2008-05-14",
         "c": "PL",
@@ -56,9 +66,37 @@
           "2008-05-14",
           "2008-06-03"
         ]
+      },
+      {
+        "i": "170246-7713-2008-11-18",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "170246-7713-2008-11-18",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "170246-7713-2010-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "170246-7713-2010-01-12",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "170246-27794-2012-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "170246-27794-2012-05-27",
+        "c": "FR"
+      },
       {
         "i": "170246-3114-2012-06-09",
         "c": "DK",

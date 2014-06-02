@@ -1,7 +1,7 @@
 {
   "id": "277465",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:53:47",
+  "timestamp": "2014-05-24 07:51:30",
   "name": "Laurent Dufour",
   "surname": "Dufour",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "93370",
-  "r01": "90830",
-  "r02": "86438",
-  "r03": "80951",
-  "r04": null,
+  "r00": "83215",
+  "r01": "84537",
+  "r02": "81666",
+  "r03": "76880",
+  "r04": "71587",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,12 +28,12 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "3",
+  "all-shows-total": "4",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (2), Germany (1)",
-  "2005-shows-with": "Laurent Dufour (2), Marit Kathriner (2)",
+  "2005-countries-total": "France (3), Germany (1)",
+  "2005-shows-with": "Laurent Dufour (3), Marit Kathriner (2), Françoise Mussel (2)",
   "representing-galleries": "Galerie d´art Ka&Nao (6 rue Aubert Dubayet, 38000 Grenoble, France)",
   "collecting-museums": null,
   "first_name": "Laurent",
@@ -56,6 +56,24 @@
           "2010-03-05",
           "2010-03-21"
         ]
+      },
+      {
+        "i": "277465-25308-2010-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "277465-25327-2010-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "277465-25327-2010-01-28",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "277465-25308-2010-09-17",
+        "c": "FR"
       }
     ]
   }

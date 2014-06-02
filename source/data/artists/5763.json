@@ -1,7 +1,7 @@
 {
   "id": "5763",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:05:05",
+  "timestamp": "2014-05-24 06:17:14",
   "name": "Claude Rutault",
   "surname": "Rutault",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "1541",
-  "r01": "1716",
-  "r02": "1603",
-  "r03": "1493",
-  "r04": "1379",
-  "r05": "1360",
-  "r06": "1254",
-  "r07": "1131",
-  "r08": "1348",
+  "r00": "1514",
+  "r01": "1445",
+  "r02": "1879",
+  "r03": "1888",
+  "r04": "1703",
+  "r05": "1497",
+  "r06": "1529",
+  "r07": "1336",
+  "r08": "1156",
   "awards": null,
   "website": null,
   "all-shows-first": "1977",
-  "all-shows-total": "110",
+  "all-shows-total": "114",
   "2005-shows-biennials": "14",
   "2005-shows-galleries": "14",
-  "2005-shows-museums": "24",
-  "2005-countries-total": "France (34), Belgium (2), Switzerland (2), Australia (1), Croatia (1), Luxembourg (1), Russia (1)",
-  "2005-shows-with": "Claude Rutault (36), John M Armleder (8), François Morellet (7), Erwin Wurm (7), Bertrand Lavier (6), Sol LeWitt (6), Annette Messager (6), Olivier Mosset (6), Cécile Bart (5), Francis Baudevin (5), Christian Boltanski (5), John Cornu (5), Erró (5), Louise Lawler (5), Gordon Matta-Clark (5), Andy Warhol (5), Michel Blazy (4), Etienne Bossut (4), Daniel Buren (4), Claude Closky (4), Wim Delvoye (4), Erik Dietman (4), Hans-Peter Feldmann (4), Thomas Hirschhorn (4), Yves Klein (4), Allan McCollum (4), Jonathan Monk (4), Sarkís (4), Adrian Schiess (4), Ben Vautier (4), Jacques Villeglé (4), Marina Abramovic (3), Carl Andre (3), Jean Michel Basquiat (3), Joseph Beuys (3), Katinka Bock (3), Stefan Brüggemann (3), Sophie Calle (3), Christophe Cuzin (3), Philippe Decrauzat (3), Sylvie Fleury (3), Claire Fontaine (3), Gloria Friedmann (3), General Idea (3), Dan Graham (3), Marcia Hafif (3), Raymond Hains (3), Damien Hirst (3), IFP (3), Alain Jacquet (3), Allan Kaprow (3), Zilvinas Kempinas (3), Ben Kinmont (3), ",
+  "2005-shows-museums": "28",
+  "2005-countries-total": "France (37), Switzerland (3), Belgium (2), Australia (1), Croatia (1), Luxembourg (1), Russia (1)",
+  "2005-shows-with": "Claude Rutault (40), John M Armleder (9), Sol LeWitt (8), Francis Baudevin (7), Christian Boltanski (7), Annette Messager (7), François Morellet (7), Erwin Wurm (7), Bertrand Lavier (6), Louise Lawler (6), Olivier Mosset (6), Cécile Bart (5), Daniel Buren (5), Claude Closky (5), John Cornu (5), Erró (5), Hans-Peter Feldmann (5), Gordon Matta-Clark (5), Allan McCollum (5), Jonathan Monk (5), Adrian Schiess (5), Andy Warhol (5), Carl Andre (4), Michel Blazy (4), Etienne Bossut (4), Wim Delvoye (4), Erik Dietman (4), Robert Filliou (4), Sylvie Fleury (4), Marcia Hafif (4), Thomas Hirschhorn (4), IFP (4), Allan Kaprow (4), Ben Kinmont (4), Yves Klein (4), Joseph Kosuth (4), Sherrie Levine (4), Christian Marclay (4), Cady Noland (4), Steven Parrino (4), Richard Prince (4), Christian Robert-Tissot (4), Gerwald Rockenschaub (4), Allen Ruppersberg (4), Sarkís (4), Yann Sérandour (4), Ben Vautier (4), Jacques Villeglé (4), Collectif 1m3 (3), Marina Abramovic (3), Jean-Michel Albèrola (3), Donald Alberti (3), Ri",
   "representing-galleries": "Galerie Martine et Thibault de La Châtre (4 rue Saintonge, 75003 Paris, France); Galerie Emmanuel Perrotin - Paris (76, rue de Turenne, 75003 Paris, France); Galerie Catherine Issert (2, route des Serres, 6570 Saint-Paul de Vence, France)",
   "collecting-museums": "SMAK Stedelijk Museum voor Actuele Kunst (Citadelpark, 9000 Ghent, Belgium); FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Bretagne (3 rue de Noyal, 35410 Châteaugiron, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Le Consortium (16 rue Quentin, 21000 Dijon, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); 49 NORD 6 EST – Frac Lorraine (Rue des Trinitaires 1 bis, 57000 Metz, France); Espace de l’art concret (Château de Mouans - Mouans-Sartoux, 06370 Mouans Sartoux, France); Musée des Beaux-Arts de Nantes (10, rue Georges Clemenceau, 44000  Nantes, France); Château d´Oiron (, 79100 Oiron, France); Musée d´Art Moderne de la Ville de Paris - MAM/ARC (11 avenue du Président Wilson, 75 016 Paris, ",
   "first_name": "Claude",
@@ -44,6 +44,22 @@
   "age_range": "61-100",
   "expos": {
     "2005": [
+      {
+        "i": "5763-2303-2005-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "5763-2303-2005-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "5763-11882-2005-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "5763-11882-2005-05-28",
+        "c": "FR"
+      },
       {
         "i": "5763-8291-2005-06-14",
         "c": "CH",
@@ -56,9 +72,41 @@
           "2005-06-14",
           "2005-09-11"
         ]
+      },
+      {
+        "i": "5763-2219-2005-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "5763-12992-2005-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "5763-12992-2005-09-17",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "5763-2219-2005-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "5763-19876-2006-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "5763-19876-2006-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "5763-26765-2006-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "5763-26765-2006-05-10",
+        "c": "FR"
+      },
       {
         "i": "5763-7032-2006-06-21",
         "c": "GB",
@@ -71,6 +119,14 @@
           "2006-06-21",
           "2006-09-02"
         ]
+      },
+      {
+        "i": "5763-2014-2006-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "5763-2014-2006-06-30",
+        "c": "FR"
       },
       {
         "i": "5763-2546-2006-09-23",
@@ -97,6 +153,18 @@
           "2006-02-22",
           "2006-05-07"
         ]
+      },
+      {
+        "i": "5763-2014-2006-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "5763-2014-2006-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "5763-4651-2006-10-13",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -114,6 +182,22 @@
         ]
       },
       {
+        "i": "5763-2219-2007-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "5763-2219-2007-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "5763-11882-2007-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "5763-11882-2007-05-26",
+        "c": "FR"
+      },
+      {
         "i": "5763-16706-2007-06-09",
         "c": "IT",
         "n": "ARTEMPO - Where Times Becomes Art",
@@ -125,6 +209,18 @@
           "2007-06-09",
           "2007-10-07"
         ]
+      },
+      {
+        "i": "5763-4651-2006-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "5763-5115-2007-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "5763-5115-2007-10-16",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -142,6 +238,22 @@
         ]
       },
       {
+        "i": "5763-7390-2008-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "5763-7390-2008-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "5763-11586-2008-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "5763-11586-2008-06-27",
+        "c": "FR"
+      },
+      {
         "i": "5763-2194-2008-10-03",
         "c": "BE",
         "n": "RUPTURES ET HERITAGES (les années 70)",
@@ -153,6 +265,14 @@
           "2008-10-03",
           "2009-01-18"
         ]
+      },
+      {
+        "i": "5763-21426-2008-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "5763-21426-2008-07-01",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -170,6 +290,46 @@
         ]
       },
       {
+        "i": "5763-4165-2009-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "5763-4165-2009-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "5763-4165-2009-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "5763-4165-2009-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "5763-12220-2009-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "5763-12220-2009-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "5763-19804-2009-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "5763-19804-2009-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "5763-5115-2009-07-18",
+        "c": "FR"
+      },
+      {
+        "i": "5763-5115-2009-07-18",
+        "c": "FR"
+      },
+      {
         "i": "5763-2918-2009-09-24",
         "c": "RU",
         "n": "3rd Moscow Biennale of Contemporary Art",
@@ -180,9 +340,53 @@
           "2009-09-24",
           "2009-10-22"
         ]
+      },
+      {
+        "i": "5763-2304-2009-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "5763-10247-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "5763-10219-2009-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "5763-10219-2009-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "5763-17875-2009-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "5763-17875-2009-09-05",
+        "c": "FR"
+      },
+      {
+        "i": "5763-5115-2009-12-05",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "5763-2304-2009-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "5763-10247-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "5763-7999-2010-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "5763-7999-2010-02-09",
+        "c": "FR"
+      },
       {
         "i": "5763-5638-2010-03-21",
         "c": "CH",
@@ -197,6 +401,38 @@
         ]
       },
       {
+        "i": "5763-4184-2010-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "5763-4184-2010-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "5763-8548-2010-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "5763-8548-2010-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "5763-1961-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "5763-1961-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "5763-28954-2010-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "5763-5115-2009-12-05",
+        "c": "FR"
+      },
+      {
         "i": "5763-969-2010-03-26",
         "c": "BE",
         "n": "Ponctualité",
@@ -208,6 +444,44 @@
           "2010-03-26",
           "2010-06-26"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "5763-28954-2010-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "5763-16207-2011-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "5763-16207-2011-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "5763-11882-2011-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "5763-11882-2011-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "5763-8121-2011-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "5763-8121-2011-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "5763-1961-2011-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "5763-1961-2011-01-08",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -225,6 +499,14 @@
         ]
       },
       {
+        "i": "5763-2303-2012-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "5763-2303-2012-02-09",
+        "c": "FR"
+      },
+      {
         "i": "5763-2631-2012-04-24",
         "c": "HR",
         "n": "L\\'amour du Risque",
@@ -236,6 +518,34 @@
           "2012-04-24",
           "2012-06-17"
         ]
+      },
+      {
+        "i": "5763-2024-2012-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "5763-2024-2012-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "5763-7851-2012-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "5763-7851-2012-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "5763-29913-2012-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "5763-29913-2012-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "5763-11586-2012-10-19",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -253,20 +563,41 @@
         ]
       },
       {
-        "i": "5763-1778-2013-10-16",
-        "c": "CH",
-        "n": "cycle Des histoires sans fin, séquence automne-hiver 2013-2014",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Geneva",
-        "o": "Mamco - musée d´art moderne et contemporain",
-        "d": [
-          "2013-10-16",
-          "2014-01-12"
-        ]
-      }
-    ],
-    "2014": [
+        "i": "5763-11586-2012-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "5763-20789-2013-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "5763-20789-2013-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "5763-741-2013-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "5763-741-2013-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "5763-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "5763-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "5763-8996-2013-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "5763-29739-2013-10-12",
+        "c": "FR"
+      },
       {
         "i": "5763-1778-2013-10-16",
         "c": "CH",
@@ -279,6 +610,45 @@
           "2013-10-16",
           "2014-01-12"
         ]
+      },
+      {
+        "i": "5763-7811-2013-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "5763-11845-2013-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "5763-11845-2013-10-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "5763-8996-2013-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "5763-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "5763-1778-2013-10-16",
+        "c": "CH",
+        "n": "cycle Des histoires sans fin, séquence automne-hiver 2013-2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2013-10-16",
+          "2014-01-12"
+        ]
+      },
+      {
+        "i": "5763-7811-2013-10-19",
+        "c": "FR"
       }
     ]
   }

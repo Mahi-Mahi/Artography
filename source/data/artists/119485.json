@@ -1,7 +1,7 @@
 {
   "id": "119485",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:52:13",
+  "timestamp": "2014-05-24 06:57:35",
   "name": "Gaëlle Boucand",
   "surname": "Boucand",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "17311",
-  "r01": "19029",
-  "r02": "21792",
-  "r03": "19498",
-  "r04": "28070",
-  "r05": "28892",
-  "r06": "32640",
-  "r07": "29050",
-  "r08": "23817",
+  "r00": "15250",
+  "r01": "14872",
+  "r02": "16164",
+  "r03": "18300",
+  "r04": "15620",
+  "r05": "25364",
+  "r06": "25982",
+  "r07": "29382",
+  "r08": "25517",
   "awards": null,
   "website": "www.gaelleboucand.com",
   "all-shows-first": "2005",
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "7",
-  "2005-countries-total": "France (5), Germany (5), United Kingdom (1)",
-  "2005-shows-with": "Gaëlle Boucand (10), Meris Angioletti (2), Jose Arnaud Bello (2), Joan Braun (2), Fabien Giraud (2), Niklas Goldbach (2), k.g. Guttman (2), Louise Hervé & Chloé Maillet (2), Benoît Maire (2), Nicolas Milhé (2), Charlotte Moth (2), Jorge Pedro Núñez (2), Emilie Pitoiset (2), Jorge Satorre (2), Stephane Vigny (2)",
+  "2005-countries-total": "France (5), Germany (5), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Gaëlle Boucand (11), Meris Angioletti (2), Jose Arnaud Bello (2), Joan Braun (2), Fabien Giraud (2), Niklas Goldbach (2), k.g. Guttman (2), Louise Hervé & Chloé Maillet (2), Benoît Maire (2), Nicolas Milhé (2), Charlotte Moth (2), Jorge Pedro Núñez (2), Emilie Pitoiset (2), Jorge Satorre (2), Stephane Vigny (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Gaëlle",
@@ -43,6 +43,16 @@
   "age": 34,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "119485-11845-2005-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "119485-11845-2005-09-09",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "119485-12449-2007-07-13",
@@ -60,6 +70,14 @@
     ],
     "2008": [
       {
+        "i": "119485-29884-2008-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "119485-29884-2008-01-17",
+        "c": "FR"
+      },
+      {
         "i": "119485-7016-2008-05-10",
         "c": "GB",
         "n": "Bass Diffusion Model",
@@ -71,6 +89,14 @@
           "2008-05-10",
           "2008-06-01"
         ]
+      },
+      {
+        "i": "119485-21101-2008-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "119485-21101-2008-06-14",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -86,6 +112,14 @@
           "2009-05-03",
           "2009-05-22"
         ]
+      },
+      {
+        "i": "119485-12129-2009-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "119485-12129-2009-09-30",
+        "c": "FR"
       },
       {
         "i": "119485-7600-2009-12-05",
@@ -116,6 +150,14 @@
         ]
       },
       {
+        "i": "119485-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "119485-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
         "i": "119485-23471-2010-10-02",
         "c": "DE",
         "n": "4D UNCHARTED",
@@ -140,6 +182,16 @@
           "2010-03-14",
           "2010-04-18"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "119485-8282-2012-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "119485-8282-2012-04-11",
+        "c": "FR"
       }
     ],
     "2013": [

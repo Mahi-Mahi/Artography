@@ -1,7 +1,7 @@
 {
   "id": "269547",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:50:42",
+  "timestamp": "2014-05-24 07:48:47",
   "name": "Cécile Colle",
   "surname": "Colle",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "50595",
-  "r01": "46744",
-  "r02": "42848",
-  "r03": "46816",
-  "r04": "43456",
-  "r05": "62799",
-  "r06": "54346",
-  "r07": "46804",
-  "r08": "38946",
+  "r00": "48742",
+  "r01": "48545",
+  "r02": "44501",
+  "r03": "41040",
+  "r04": "52310",
+  "r05": "49938",
+  "r06": "87215",
+  "r07": "70925",
+  "r08": "57561",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "7",
+  "all-shows-total": "8",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (2), Germany (2), Poland (1), Slovenia (1), United Kingdom (1)",
-  "2005-shows-with": "Cécile Colle (7), Ralf Nuhn (7), Mihai Grecu (2), Joanna Hoffmann (2)",
+  "2005-countries-total": "France (2), Germany (2), Belgium (1), Poland (1), Slovenia (1), United Kingdom (1)",
+  "2005-shows-with": "Cécile Colle (8), Ralf Nuhn (8), Mihai Grecu (2), Joanna Hoffmann (2)",
   "representing-galleries": null,
   "collecting-museums": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe (Lorenzstr. 19, 76135 Karlsruhe, Germany)",
   "first_name": "Cécile",
@@ -44,6 +44,14 @@
   "age_range": "26-40",
   "expos": {
     "2009": [
+      {
+        "i": "269547-27832-2009-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "269547-27832-2009-02-12",
+        "c": "FR"
+      },
       {
         "i": "269547-7869-2009-08-09",
         "c": "DE",
@@ -56,6 +64,14 @@
           "2009-08-09",
           "2009-08-30"
         ]
+      },
+      {
+        "i": "269547-12314-2009-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "269547-12314-2009-11-08",
+        "c": "FR"
       }
     ],
     "2010": [

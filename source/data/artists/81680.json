@@ -1,7 +1,7 @@
 {
   "id": "81680",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:37:14",
+  "timestamp": "2014-05-24 06:44:51",
   "name": "Stéphane Bérard",
   "surname": "Bérard",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "11669",
-  "r01": "12056",
-  "r02": "13022",
-  "r03": "13034",
-  "r04": "14798",
-  "r05": "15368",
-  "r06": "17934",
-  "r07": "14993",
-  "r08": "17071",
+  "r00": "10117",
+  "r01": "9405",
+  "r02": "9217",
+  "r03": "9580",
+  "r04": "9143",
+  "r05": "9833",
+  "r06": "9552",
+  "r07": "18003",
+  "r08": "14311",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "27",
-  "2005-shows-biennials": "11",
-  "2005-shows-galleries": "11",
-  "2005-shows-museums": "7",
-  "2005-countries-total": "France (17), Austria (1), Germany (1)",
-  "2005-shows-with": "Stéphane Bérard (14), Jean Dupuy (4), Arnaud Labelle-Rojoux (4), Michel Aubry (3), Robert Filliou (3), Raymond Hains (3), Alain  Arias Misson (2), George Brecht (2), Marcel Broodthaers (2), Werner Büttner (2), John Cornu (2), Noël Dolla (2), Eric Duyckaerts (2), Michel François (2), Jean-Baptiste Ganne (2), Alexandre Gérard (2), Joël Hubaut (2), Carsten Höller (2), Jan Kopp (2), Thierry Lagalla (2), Jacques Lizène (2), George Maciunas (2), Philippe Mayaux (2), Jonathan Monk (2), Thierry Mouillé (2), Jean-Luc Moulène (2), Philippe Parreno (2), Till Roeskens (2), Claude Rutault (2), Ben Vautier (2), Jean-Luc Verna (2)",
+  "all-shows-total": "28",
+  "2005-shows-biennials": "12",
+  "2005-shows-galleries": "12",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (18), Austria (1), Germany (1), Switzerland (1)",
+  "2005-shows-with": "Stéphane Bérard (16), Jean Dupuy (4), Arnaud Labelle-Rojoux (4), Michel Aubry (3), Robert Filliou (3), Raymond Hains (3), Philippe Mayaux (3), Philippe Parreno (3), Jean-Luc Verna (3), A Constructed World (2), Alain  Arias Misson (2), Art & Language (2), George Brecht (2), Marcel Broodthaers (2), Werner Büttner (2), Patrick van Caeckenbergh (2), John Cornu (2), François Curlet (2), Noël Dolla (2), Eric Duyckaerts (2), Daniel Firman (2), Michel François (2), Jean-Baptiste Ganne (2), Alexandre Gérard (2), Joël Hubaut (2), Carsten Höller (2), Jan Kopp (2), Thierry Lagalla (2), Jacques Lizène (2), George Maciunas (2), Paul McCarthy (2), Nicolas Milhé (2), Jonathan Monk (2), Thierry Mouillé (2), Jean-Luc Moulène (2), Till Roeskens (2), Claude Rutault (2), Taroop & Glabel (2), Ben Vautier (2)",
   "representing-galleries": "Marion Meyer Contemporain (3 rue des Trois Portes, 75005 Paris, France); Marion Meyer Contemporain (Eichendorffstr.  70A, D-60320 Frankfurt/Main, Germany)",
   "collecting-museums": "FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Stéphane",
@@ -43,6 +43,60 @@
   "age": 48,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "81680-8282-2006-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "81680-8282-2006-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "81680-7623-2006-04-15",
+        "c": "FR"
+      },
+      {
+        "i": "81680-7623-2006-04-15",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "81680-9850-2007-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "81680-9850-2007-02-28",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "81680-8292-2008-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "81680-8292-2008-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "81680-13317-2008-04-04",
+        "c": "FR"
+      },
+      {
+        "i": "81680-13317-2008-04-04",
+        "c": "FR"
+      },
+      {
+        "i": "81680-5115-2008-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "81680-5115-2008-09-09",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "81680-7506-2009-04-08",
@@ -56,9 +110,83 @@
           "2009-04-08",
           "2009-06-06"
         ]
+      },
+      {
+        "i": "81680-21426-2009-05-09",
+        "c": "FR"
+      },
+      {
+        "i": "81680-21426-2009-05-09",
+        "c": "FR"
+      },
+      {
+        "i": "81680-19804-2009-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "81680-19804-2009-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "81680-21213-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "81680-21213-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "81680-5115-2009-07-18",
+        "c": "FR"
+      },
+      {
+        "i": "81680-5115-2009-07-18",
+        "c": "FR"
+      },
+      {
+        "i": "81680-5115-2009-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "81680-5115-2009-10-10",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "81680-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "81680-2585-2010-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "81680-21213-2010-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "81680-21213-2010-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "81680-27842-2010-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "81680-27842-2010-06-20",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "81680-2585-2012-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "81680-2585-2012-07-01",
+        "c": "FR"
+      },
       {
         "i": "81680-26075-2012-09-01",
         "c": "DE",
@@ -71,6 +199,50 @@
           "2012-09-01",
           "2012-09-29"
         ]
+      },
+      {
+        "i": "81680-25336-2012-10-27",
+        "c": "FR"
+      },
+      {
+        "i": "81680-25336-2012-10-27",
+        "c": "FR"
+      },
+      {
+        "i": "81680-5115-2012-12-11",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "81680-5115-2012-12-11",
+        "c": "FR"
+      },
+      {
+        "i": "81680-5115-2013-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "81680-5115-2013-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "81680-11627-2013-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "81680-11627-2013-04-27",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "81680-5115-2011-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "81680-5115-2011-03-11",
+        "c": "FR"
       }
     ]
   }

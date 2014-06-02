@@ -1,7 +1,7 @@
 {
   "id": "16914",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:10",
+  "timestamp": "2014-05-24 06:21:40",
   "name": "Bernard Pagès",
   "surname": "Pagès",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sculpture",
-  "r00": "9141",
-  "r01": "8123",
-  "r02": "7697",
-  "r03": "7813",
-  "r04": "6876",
-  "r05": "7898",
-  "r06": "6668",
-  "r07": "5474",
-  "r08": "5337",
+  "r00": "10224",
+  "r01": "10039",
+  "r02": "8049",
+  "r03": "7189",
+  "r04": "8277",
+  "r05": "6982",
+  "r06": "8193",
+  "r07": "6337",
+  "r08": "4695",
   "awards": null,
   "website": null,
   "all-shows-first": "1975",
-  "all-shows-total": "41",
+  "all-shows-total": "49",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "6",
-  "2005-countries-total": "France (6), Luxembourg (1), USA (1)",
-  "2005-shows-with": "Bernard Pagès (6), Daniel Dezeuze (4), Claude Viallat (4), Christian Jaccard (3), Vincent Bioulès (2), Louis Cane (2), Noël Dolla (2), Marlene Dumas (2), Max Ernst (2), Toni Grand (2), Georges Mathieu (2), Roberto Matta (2), Jean-Michel Meurice (2), Gina Pane (2), Pablo Picasso (2), Bernard Rancillac (2), Patrick Saytour (2), Cindy Sherman (2), James Turrell (2)",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (8), Luxembourg (1), USA (1)",
+  "2005-shows-with": "Bernard Pagès (8), Daniel Dezeuze (6), Claude Viallat (6), Noël Dolla (4), Louis Cane (3), Max Ernst (3), Christian Jaccard (3), Yves Klein (3), Pablo Picasso (3), Patrick Saytour (3), Arman (2), Vincent Bioulès (2), Jean Charles Blais (2), Alexander Calder (2), Denis Castellas (2), César (2), Marc Chagall (2), Robert Combas (2), Raoul Dufy (2), Marlene Dumas (2), Roland Flexner (2), Toni Grand (2), Ellsworth Kelly (2), Fernand Léger (2), Georges Mathieu (2), Henri Matisse (2), Roberto Matta (2), Jean-Michel Meurice (2), Gina Pane (2), Jaume Plensa (2), Bernard Rancillac (2), Mimmo Rotella (2), Cindy Sherman (2), James Turrell (2)",
   "representing-galleries": "Galerie Hambursin-Boisanté (15, Bd du jeu de Paume, 34000 Montpellier, France); Galerie Sapone (25, boulevard Victor Hugo, 6000 Nice, France); Galerie Catherine Issert (2, route des Serres, 6570 Saint-Paul de Vence, France); galerie Jacques Girard (20 rue des Blanchers, 31000 Toulouse, France)",
-  "collecting-museums": "MuHKA Museum voor Hedendaagse Kunst Antwerpen (Leuvenstraat 32, 2000 Antwerp, Belgium); FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); LAAC - Lieu d'Art et Action Contemporaine de Dunkerque (Pont Lucien Lefol, 59140 Dunkerque, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); MAMAC - Musee d´Art Moderne et d`Art Contemporain Nice (Promenade des Arts, 06300 Nice, France); Carré d´art - Musée d´art contemporain de Nîmes (Place de la Maison Carrée, 30031 Nîmes, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); Musée des beaux-arts Denys-Puech (Place Clémenceau, 12000 Rodez, France); les Abattoirs de Toulouse (",
+  "collecting-museums": "MuHKA Museum voor Hedendaagse Kunst Antwerpen (Leuvenstraat 32, 2000 Antwerp, Belgium); FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); LAAC - Lieu d'Art et Action Contemporaine de Dunkerque (Pont Lucien Lefol, 59140 Dunkerque, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); MAMAC - Musee d´Art Moderne et d`Art Contemporain Nice (Promenade des Arts, 06300 Nice, France); Carré d´art - Musée d´art contemporain de Nîmes (Place de la Maison Carrée, 30031 Nîmes, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); Musée Denys-Puech (Place Clémenceau, 12000 Rodez, France); les Abattoirs de Toulouse (allées Charles-",
   "first_name": "Bernard",
   "last_name": "Pagès",
   "genre": "m",
@@ -44,6 +44,22 @@
   "age_range": "61-100",
   "expos": {
     "2005": [
+      {
+        "i": "16914-8996-2005-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "16914-8996-2005-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "16914-4603-2005-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "16914-4603-2005-06-24",
+        "c": "FR"
+      },
       {
         "i": "16914-1594-2005-08-27",
         "c": "BE",
@@ -58,7 +74,59 @@
         ]
       }
     ],
+    "2006": [
+      {
+        "i": "16914-2014-2006-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "16914-2014-2006-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "16914-2014-2006-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "16914-741-2006-10-20",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "16914-2014-2006-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "16914-8911-2007-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "16914-8911-2007-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "16914-741-2006-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "16914-10282-2007-07-15",
+        "c": "FR"
+      },
+      {
+        "i": "16914-10282-2007-07-15",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "16914-8911-2008-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "16914-8911-2008-05-30",
+        "c": "FR"
+      },
       {
         "i": "16914-17359-2008-06-12",
         "c": "LU",
@@ -74,6 +142,14 @@
       }
     ],
     "2009": [
+      {
+        "i": "16914-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "16914-9475-2009-07-04",
+        "c": "FR"
+      },
       {
         "i": "16914-2372-2009-11-15",
         "c": "US",
@@ -101,6 +177,42 @@
           "2009-11-15",
           "2010-05-03"
         ]
+      },
+      {
+        "i": "16914-8545-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "16914-8545-2010-04-10",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "16914-4603-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "16914-4603-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "16914-27953-2012-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "16914-27953-2012-01-13",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "16914-741-2011-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "16914-741-2011-01-22",
+        "c": "FR"
       }
     ]
   }

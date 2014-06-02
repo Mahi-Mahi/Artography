@@ -1,7 +1,7 @@
 {
   "id": "57267",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:12",
+  "timestamp": "2014-05-24 06:36:13",
   "name": "Myriam Mechita",
   "surname": "Mechita",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "6082",
-  "r01": "6023",
-  "r02": "5979",
-  "r03": "8112",
-  "r04": "7966",
-  "r05": "8147",
-  "r06": "12385",
-  "r07": "15743",
-  "r08": "25143",
+  "r00": "4601",
+  "r01": "5239",
+  "r02": "4963",
+  "r03": "4840",
+  "r04": "6708",
+  "r05": "6366",
+  "r06": "6433",
+  "r07": "10053",
+  "r08": "12907",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "41",
+  "all-shows-total": "44",
   "2005-shows-biennials": "11",
   "2005-shows-galleries": "11",
-  "2005-shows-museums": "14",
-  "2005-countries-total": "France (18), Germany (4), Australia (2), Luxembourg (2), USA (2), Netherlands (1), United Kingdom (1)",
-  "2005-shows-with": "Myriam Mechita (18), Nicole Bianchet (3), Damien Deroubaix (3), Alighiero Boëtti (2), Isabelle Boinot (2), Chris Bors (2), Elaine Bradford (2), Barbara Breitenfellner (2), Patrice Carré (2), Orly Cogan (2), Robert Combas (2), Eric Corne (2), Gaston Damag (2), Martin Dammann (2), Andrea Dezsö (2), Noël Dolla (2), Fredox (2), Gloria Friedmann (2), Doro Fullmano (2), Sylvette Galmiche (2), Jean-François Gavoty (2), René-Francois Grégogna (2), Catherine Haddouche (2), Jenny Hart (2), Rodolphe Huguet (2), Takashi Iwasaki (2), Danielle Jacqui (2), Cecile Jarsaillon (2), Isabelle Jousset (2), Aya Kakeda (2), Armelle Kerouas (2), Jim Lambie (2), Langlands & Bell (2), Micha Laury (2), Delaine Le Bas (2), Joep van Liefland (2), Marie-Rose Lortet (2), Corinne Marchetti (2), Raymond Materson (2), Philippe Mayaux (2), Stu Mead (2), David Mecalco (2), Moolinex (2), Frank Möllersten (2), Mark Newport (2), Maël Nozahic (2), Manuel Ocampo (2), Axel Pahlavi (2), Sandrine Pelletier (2), Frédérico Perimon (2), Bruno P",
+  "2005-shows-museums": "15",
+  "2005-countries-total": "France (20), Germany (5), Australia (2), Luxembourg (2), USA (2), Netherlands (1), United Kingdom (1)",
+  "2005-shows-with": "Myriam Mechita (21), Damien Deroubaix (4), Nicole Bianchet (3), Rina Banerjee (2), Alighiero Boëtti (2), Isabelle Boinot (2), Chris Bors (2), Elaine Bradford (2), Barbara Breitenfellner (2), Alain Bublex (2), Patrice Carré (2), Orly Cogan (2), Robert Combas (2), Eric Corne (2), Gaston Damag (2), Martin Dammann (2), Andrea Dezsö (2), Noël Dolla (2), Fredox (2), Gloria Friedmann (2), Doro Fullmano (2), Sylvette Galmiche (2), Jean-François Gavoty (2), René-Francois Grégogna (2), Catherine Haddouche (2), Jenny Hart (2), Rodolphe Huguet (2), Takashi Iwasaki (2), Danielle Jacqui (2), Cecile Jarsaillon (2), Isabelle Jousset (2), Aya Kakeda (2), Armelle Kerouas (2), Jim Lambie (2), Langlands & Bell (2), Micha Laury (2), Delaine Le Bas (2), Joep van Liefland (2), Marie-Rose Lortet (2), Corinne Marchetti (2), Raymond Materson (2), Philippe Mayaux (2), Stu Mead (2), David Mecalco (2), Moolinex (2), Frank Möllersten (2), Mark Newport (2), Maël Nozahic (2), Manuel Ocampo (2), Axel Pahlavi (2), Sandrine Pelletier ",
   "representing-galleries": "Galerie Eva Hober (35 - 37, rue Chapon, 75003 Paris, France)",
   "collecting-museums": "Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France)",
   "first_name": "Myriam",
@@ -43,7 +43,75 @@
   "age": 40,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "57267-2718-2006-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "57267-18150-2006-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "57267-18150-2006-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "57267-1876-2006-11-04",
+        "c": "FR"
+      },
+      {
+        "i": "57267-1876-2006-11-04",
+        "c": "FR"
+      },
+      {
+        "i": "57267-9120-2006-12-09",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "57267-2718-2006-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "57267-2718-2007-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "57267-2718-2007-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "57267-1876-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "57267-1876-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "57267-2718-2007-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "57267-2718-2007-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "57267-9120-2006-12-09",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "57267-1876-2008-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "57267-1876-2008-03-08",
+        "c": "FR"
+      },
       {
         "i": "57267-16201-2008-11-28",
         "c": "DE",
@@ -69,6 +137,14 @@
           "2008-12-13",
           "2009-01-11"
         ]
+      },
+      {
+        "i": "57267-10517-2008-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "57267-10517-2008-05-31",
+        "c": "FR"
       },
       {
         "i": "57267-3540-2008-06-12",
@@ -138,20 +214,17 @@
         ]
       },
       {
-        "i": "57267-7146-2009-12-13",
-        "c": "DE",
-        "n": "Family Jewels",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Esslingen",
-        "o": "Villa Merkel - Galerien der Stadt Esslingen",
-        "d": [
-          "2009-12-13",
-          "2010-01-31"
-        ]
-      }
-    ],
-    "2010": [
+        "i": "57267-26732-2009-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "57267-17377-2009-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "57267-26733-2009-12-12",
+        "c": "FR"
+      },
       {
         "i": "57267-7146-2009-12-13",
         "c": "DE",
@@ -164,6 +237,49 @@
           "2009-12-13",
           "2010-01-31"
         ]
+      },
+      {
+        "i": "57267-13652-2009-12-17",
+        "c": "FR"
+      },
+      {
+        "i": "57267-20082-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "57267-20082-2009-03-13",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "57267-26732-2009-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "57267-17377-2009-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "57267-26733-2009-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "57267-7146-2009-12-13",
+        "c": "DE",
+        "n": "Family Jewels",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Esslingen",
+        "o": "Villa Merkel - Galerien der Stadt Esslingen",
+        "d": [
+          "2009-12-13",
+          "2010-01-31"
+        ]
+      },
+      {
+        "i": "57267-13652-2009-12-17",
+        "c": "FR"
       },
       {
         "i": "57267-2102-2010-05-27",
@@ -177,52 +293,33 @@
           "2010-05-27",
           "2010-05-30"
         ]
-      }
-    ],
-    "2012": [
-      {
-        "i": "57267-3918-2012-01-17",
-        "c": "DE",
-        "n": "Rosarot mit Spitze - Über Klischees weiblicher Kunst",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Nuremberg",
-        "o": "Galerie Sima",
-        "d": [
-          "2012-01-17",
-          "2012-03-03"
-        ]
       },
       {
-        "i": "57267-3540-2012-03-08",
-        "c": "LU",
-        "n": "Myriam Mechita",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Luxembourg",
-        "o": "Nosbaum&Reding",
-        "d": [
-          "2012-03-08",
-          "2012-04-28"
-        ]
-      }
-    ],
-    "2005": [
+        "i": "57267-26731-2010-09-15",
+        "c": "FR"
+      },
       {
-        "i": "57267-3540-2005-10-22",
-        "c": "LU",
-        "n": "Myriam Mechita",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Luxembourg",
-        "o": "Nosbaum&Reding",
-        "d": [
-          "2005-10-22",
-          "2005-12-03"
-        ]
+        "i": "57267-7850-2010-11-18",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "57267-26731-2010-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "57267-10517-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "57267-10517-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "57267-7850-2010-11-18",
+        "c": "FR"
+      },
       {
         "i": "57267-11485-2011-01-10",
         "c": "GB",
@@ -247,6 +344,131 @@
         "d": [
           "2011-05-21",
           "2011-06-18"
+        ]
+      },
+      {
+        "i": "57267-26731-2011-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "57267-26731-2011-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "57267-27944-2011-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "57267-27944-2011-11-18",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "57267-10517-2012-01-09",
+        "c": "FR"
+      },
+      {
+        "i": "57267-10517-2012-01-09",
+        "c": "FR"
+      },
+      {
+        "i": "57267-3918-2012-01-17",
+        "c": "DE",
+        "n": "Rosarot mit Spitze - Über Klischees weiblicher Kunst",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Nuremberg",
+        "o": "Galerie Sima",
+        "d": [
+          "2012-01-17",
+          "2012-03-03"
+        ]
+      },
+      {
+        "i": "57267-4179-2012-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "57267-4179-2012-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "57267-4179-2012-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "57267-4179-2012-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "57267-3540-2012-03-08",
+        "c": "LU",
+        "n": "Myriam Mechita",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Luxembourg",
+        "o": "Nosbaum&Reding",
+        "d": [
+          "2012-03-08",
+          "2012-04-28"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "57267-26673-2013-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "57267-26673-2013-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "57267-14159-2013-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "57267-14159-2013-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "57267-4179-2013-03-28",
+        "c": "FR"
+      },
+      {
+        "i": "57267-4179-2013-03-28",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "57267-1876-2005-03-31",
+        "c": "FR"
+      },
+      {
+        "i": "57267-1876-2005-03-31",
+        "c": "FR"
+      },
+      {
+        "i": "57267-5317-2005-07-09",
+        "c": "FR"
+      },
+      {
+        "i": "57267-5317-2005-07-09",
+        "c": "FR"
+      },
+      {
+        "i": "57267-3540-2005-10-22",
+        "c": "LU",
+        "n": "Myriam Mechita",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Luxembourg",
+        "o": "Nosbaum&Reding",
+        "d": [
+          "2005-10-22",
+          "2005-12-03"
         ]
       }
     ]

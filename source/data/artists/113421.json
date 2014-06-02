@@ -1,7 +1,7 @@
 {
   "id": "113421",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:49:52",
+  "timestamp": "2014-05-24 06:55:32",
   "name": "Naji Kamouche",
   "surname": "Kamouche",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "33539",
-  "r01": "32253",
-  "r02": "32541",
-  "r03": "32000",
-  "r04": "31641",
-  "r05": "29971",
-  "r06": "30644",
-  "r07": "25491",
-  "r08": "23514",
+  "r00": "32274",
+  "r01": "38378",
+  "r02": "40060",
+  "r03": "39445",
+  "r04": "37629",
+  "r05": "35660",
+  "r06": "32983",
+  "r07": "32730",
+  "r08": "25979",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
   "all-shows-total": "15",
   "2005-shows-biennials": "9",
   "2005-shows-galleries": "9",
-  "2005-shows-museums": null,
-  "2005-countries-total": "France (8), Germany (1), United Arab Emirates (1), USA (1)",
-  "2005-shows-with": "Naji Kamouche (7), Joakim Eneroth (3), Emmanuel Régent (3), Manuel Acevedo (2), Gino de Dominicis (2), Jean Pierre Giovanelli (2), Robert Gligorov (2), Igor Josifov (2), noha kader (2), Adam Parker Smith (2), navid azimi sadjadi (2), Sonny Sanjay Vadgama (2)",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (9), Germany (1), United Arab Emirates (1), USA (1)",
+  "2005-shows-with": "Naji Kamouche (8), Joakim Eneroth (3), Emmanuel Régent (3), Manuel Acevedo (2), Gino de Dominicis (2), Jean Pierre Giovanelli (2), Robert Gligorov (2), Igor Josifov (2), noha kader (2), Adam Parker Smith (2), navid azimi sadjadi (2), Sonny Sanjay Vadgama (2)",
   "representing-galleries": "School Gallery Paris (81 rue du Temple, 75003 Paris, France); Galerie Perpétuel (Oppenheimer Str. 39, 60594 Frankfurt/Main, Germany)",
   "collecting-museums": "Musée des Beaux-Arts Mulhouse (4 place Guillaume Tell, 68100 Mulhouse, France)",
   "first_name": "Naji",
@@ -43,6 +43,67 @@
   "age": 46,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "113421-8555-2006-11-18",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "113421-8555-2006-11-18",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "113421-17457-2008-03-25",
+        "c": "FR"
+      },
+      {
+        "i": "113421-17457-2008-03-25",
+        "c": "FR"
+      },
+      {
+        "i": "113421-17457-2008-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "113421-17457-2008-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "113421-17457-2008-01-22",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "113421-17457-2008-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "113421-17457-2009-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "113421-17457-2009-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "113421-9953-2009-01-22",
+        "c": "DE",
+        "n": "A Bas Les Cieux",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Frankfurt/Main",
+        "o": "Galerie Perpétuel",
+        "d": [
+          "2009-01-22",
+          "2009-02-28"
+        ]
+      }
+    ],
     "2011": [
       {
         "i": "113421-22052-2011-03-15",
@@ -71,19 +132,44 @@
         ]
       }
     ],
-    "2009": [
+    "2012": [
       {
-        "i": "113421-9953-2009-01-22",
-        "c": "DE",
-        "n": "A Bas Les Cieux",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Frankfurt/Main",
-        "o": "Galerie Perpétuel",
-        "d": [
-          "2009-01-22",
-          "2009-02-28"
-        ]
+        "i": "113421-17457-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "113421-17457-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "113421-17457-2012-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "113421-17457-2012-03-30",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "113421-20775-2013-10-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "113421-20775-2013-10-20",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "113421-17457-2010-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "113421-17457-2010-09-09",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "29284",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:15:38",
+  "timestamp": "2014-05-24 06:26:10",
   "name": "Amande In",
   "surname": "In",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "13766",
-  "r01": "12599",
-  "r02": "17406",
-  "r03": "18575",
-  "r04": "17894",
-  "r05": "15647",
-  "r06": "24217",
-  "r07": "21015",
-  "r08": "24804",
+  "r00": "13008",
+  "r01": "12677",
+  "r02": "11584",
+  "r03": "18167",
+  "r04": "18761",
+  "r05": "17348",
+  "r06": "14514",
+  "r07": "23778",
+  "r08": "20100",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "21",
+  "all-shows-total": "23",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "Czech Republic (7), France (1), Hungary (1), Italy (1), Slovakia (1)",
-  "2005-shows-with": "Amande In (8), Dominik Lang (2), Eugenio Percossi (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "Czech Republic (7), Slovakia (2), France (1), Hungary (1), Italy (1), USA (1)",
+  "2005-shows-with": "Amande In (9), Eugenio Percossi (3), Silvina Arismendi (2), Cristina David (2), Dominik Lang (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Amande",
@@ -43,6 +43,24 @@
   "age": 32,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "29284-1936-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "29284-1936-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "29284-1936-2005-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "29284-1936-2005-09-10",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "29284-5765-2006-05-03",
@@ -71,6 +89,22 @@
         ]
       },
       {
+        "i": "29284-946-2006-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "29284-946-2006-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "29284-1936-2006-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "29284-1936-2006-11-25",
+        "c": "FR"
+      },
+      {
         "i": "29284-9037-2006-09-07",
         "c": "CZ",
         "n": "The best memories are the ones we forgot",
@@ -97,6 +131,14 @@
           "2007-01-20",
           "2007-02-04"
         ]
+      },
+      {
+        "i": "29284-28142-2007-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "29284-28142-2007-06-09",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -250,6 +292,14 @@
           "2012-01-24",
           "2012-02-29"
         ]
+      },
+      {
+        "i": "29284-11845-2012-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "29284-11845-2012-03-21",
+        "c": "FR"
       },
       {
         "i": "29284-7285-2012-12-11",

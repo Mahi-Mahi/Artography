@@ -18,10 +18,18 @@
   "fairs": {
     "2010": [
       {
+        "i": "7391-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
         "i": "7391-Zona Maco Mexico 10",
         "c": "MX",
         "n": "Zona Maco Mexico 10",
         "ct": "Mexico City"
+      },
+      {
+        "i": "7391-Fiac 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -44,6 +52,10 @@
         "c": "MX",
         "n": "Zona Maco Mexico 2012",
         "ct": "Mexico City"
+      },
+      {
+        "i": "7391-Art-O-Rama 2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -52,6 +64,10 @@
         "c": "US",
         "n": "Art Los Angeles Contemporary 2013",
         "ct": "Los Angeles, CA"
+      },
+      {
+        "i": "7391-Art-O-Rama 2013",
+        "c": "FR"
       },
       {
         "i": "7391-abc art berlin contemporary 2013",

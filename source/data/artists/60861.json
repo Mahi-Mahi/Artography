@@ -1,7 +1,7 @@
 {
   "id": "60861",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:28:41",
+  "timestamp": "2014-05-24 06:37:29",
   "name": "Isabelle Cornaro",
   "surname": "Cornaro",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Installation, Sculpture",
-  "r00": "2200",
-  "r01": "2406",
-  "r02": "2964",
-  "r03": "3697",
-  "r04": "5627",
-  "r05": "13060",
-  "r06": "37920",
-  "r07": "36234",
-  "r08": "44168",
+  "r00": "1246",
+  "r01": "1314",
+  "r02": "1609",
+  "r03": "2049",
+  "r04": "2552",
+  "r05": "4313",
+  "r06": "10679",
+  "r07": "33320",
+  "r08": "31139",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "84",
-  "2005-shows-biennials": "24",
-  "2005-shows-galleries": "24",
-  "2005-shows-museums": "40",
-  "2005-countries-total": "France (39), Italy (11), Germany (6), Switzerland (6), USA (6), United Kingdom (3), China (2), Belgium (1), Canada (1), Czech Republic (1), Russia (1), Sweden (1)",
-  "2005-shows-with": "Isabelle Cornaro (68), Mark Geffriaud (7), Benoît Maire (6), Clément Rodzielski (6), Claire Fontaine (5), Ryan Gander (5), Bruno Persat (5), Falke Pisano (5), Dove Allouche (4), Katinka Bock (4), Ulla von Brandenburg (4), Kerstin Brätsch (4), Claude Closky (4), Julien Crépieux (4), Dewar & Gicquel (4), Nikolas Gambaroff (4), Jorge Pedro Núñez (4), Karthik Pandian (4), Markus Schinwald (4), Marie Voignier (4), Raphaël Zarka (4), Fanny Adler (3), Rosa Barba (3), Neil Beloufa (3), Dominique Blais (3), John Bock (3), Etienne Bossut (3), Andrea Büttner (3), Mircea Cantor (3), Steven Claydon (3), Marcelline Delbecq (3), Nathalie Djurberg (3), Jason Dodge (3), Luca Frei (3), Peter Friedl (3), Aurélien Froment (3), Christian Frosi (3), Isa Genzken (3), Liam Gillick (3), Mona Hatoum (3), Guillaume Leblon (3), Didier Marcel (3), Mathieu Mercier (3), Jonathan Monk (3), Gyan Panchal (3), Julien Prévieux (3), Seth Price (3), Lili Reynaud Dewar (3), Evariste Richer (3), Bojan Sarcevic (3), Jorge Satorre (3), Deni",
+  "all-shows-total": "90",
+  "2005-shows-biennials": "27",
+  "2005-shows-galleries": "27",
+  "2005-shows-museums": "43",
+  "2005-countries-total": "France (41), Italy (11), USA (8), Switzerland (7), Germany (6), United Kingdom (3), Belgium (2), China (2), Brazil (1), Canada (1), Czech Republic (1), Russia (1), Sweden (1)",
+  "2005-shows-with": "Isabelle Cornaro (72), Mark Geffriaud (7), Ryan Gander (6), Benoît Maire (6), Clément Rodzielski (6), Claude Closky (5), Dewar & Gicquel (5), Claire Fontaine (5), Bruno Persat (5), Falke Pisano (5), Dove Allouche (4), Katinka Bock (4), Ulla von Brandenburg (4), Kerstin Brätsch (4), Julien Crépieux (4), Nikolas Gambaroff (4), Jorge Pedro Núñez (4), Karthik Pandian (4), Markus Schinwald (4), Marie Voignier (4), Raphaël Zarka (4), Fanny Adler (3), Leonor Antunes (3), John M Armleder (3), Rosa Barba (3), Neil Beloufa (3), Dominique Blais (3), John Bock (3), Kim Seob Boninsegni (3), Etienne Bossut (3), Andrea Büttner (3), Mircea Cantor (3), Steven Claydon (3), Marcelline Delbecq (3), Nathalie Djurberg (3), Jason Dodge (3), Luca Frei (3), Peter Friedl (3), Aurélien Froment (3), Christian Frosi (3), Isa Genzken (3), Liam Gillick (3), Mona Hatoum (3), Guillaume Leblon (3), Didier Marcel (3), Mathieu Mercier (3), Jonathan Monk (3), Gyan Panchal (3), Mai-Thu Perret (3), Julien Prévieux (3), Seth Price (3), Fl",
   "representing-galleries": "Galerie Balice Hertling (65 Rue Rebeval, 75019 Paris, France)",
   "collecting-museums": null,
   "first_name": "Isabelle",
@@ -44,6 +44,14 @@
   "age_range": "26-40",
   "expos": {
     "2006": [
+      {
+        "i": "60861-8292-2006-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8292-2006-01-12",
+        "c": "FR"
+      },
       {
         "i": "60861-965-2006-02-17",
         "c": "BE",
@@ -71,6 +79,14 @@
           "2007-01-18",
           "2007-03-03"
         ]
+      },
+      {
+        "i": "60861-7347-2007-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "60861-7347-2007-05-26",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -86,6 +102,22 @@
           "2008-02-22",
           "2008-03-27"
         ]
+      },
+      {
+        "i": "60861-10237-2008-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "60861-10237-2008-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "60861-10237-2008-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "60861-10237-2008-02-26",
+        "c": "FR"
       },
       {
         "i": "60861-16472-2008-05-07",
@@ -114,6 +146,54 @@
         ]
       },
       {
+        "i": "60861-18149-2008-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "60861-18149-2008-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "60861-11890-2008-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "60861-11890-2008-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "60861-11492-2008-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "60861-11492-2008-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "60861-1977-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "60861-1977-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "60861-4184-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "60861-4184-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "60861-11890-2008-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "60861-11890-2008-09-13",
+        "c": "FR"
+      },
+      {
         "i": "60861-18249-2008-09-25",
         "c": "CZ",
         "n": "TINA B. – The Prague Contemporary Art Festival 08",
@@ -125,6 +205,14 @@
           "2008-09-25",
           "2008-10-15"
         ]
+      },
+      {
+        "i": "60861-20451-2008-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "60861-20451-2008-10-15",
+        "c": "FR"
       },
       {
         "i": "60861-8020-2008-12-13",
@@ -155,6 +243,62 @@
         ]
       },
       {
+        "i": "60861-12129-2009-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "60861-12129-2009-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8282-2009-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8282-2009-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "60861-10227-2009-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "60861-10227-2009-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "60861-1522-2009-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "60861-1522-2009-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "60861-13443-2009-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "60861-13443-2009-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8282-2009-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8282-2009-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8282-2009-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8282-2009-06-03",
+        "c": "FR"
+      },
+      {
         "i": "60861-319-2009-06-18",
         "c": "IT",
         "n": "I giovani che visitano le nostre rovine non vi vedono che uno stile",
@@ -179,6 +323,18 @@
           "2009-06-25",
           "2009-08-30"
         ]
+      },
+      {
+        "i": "60861-23549-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "60861-23549-2009-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "60861-14159-2009-10-20",
+        "c": "FR"
       },
       {
         "i": "60861-2230-2009-02-07",
@@ -208,6 +364,10 @@
       }
     ],
     "2010": [
+      {
+        "i": "60861-14159-2009-10-20",
+        "c": "FR"
+      },
       {
         "i": "60861-17877-2010-01-15",
         "c": "DE",
@@ -248,6 +408,22 @@
         ]
       },
       {
+        "i": "60861-946-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "60861-946-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "60861-7390-2010-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "60861-7390-2010-03-11",
+        "c": "FR"
+      },
+      {
         "i": "60861-3751-2010-04-09",
         "c": "IT",
         "n": "sette piccoli errori / seven little mistakes",
@@ -259,6 +435,14 @@
           "2010-04-09",
           "2010-06-19"
         ]
+      },
+      {
+        "i": "60861-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "60861-10227-2010-05-07",
+        "c": "FR"
       },
       {
         "i": "60861-6130-2010-05-18",
@@ -287,6 +471,14 @@
         ]
       },
       {
+        "i": "60861-20789-2010-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "60861-20789-2010-06-03",
+        "c": "FR"
+      },
+      {
         "i": "60861-3749-2010-06-09",
         "c": "IT",
         "n": "Premio lorenzo bonaldi per l’arte – enterprize, v edizione",
@@ -298,6 +490,38 @@
           "2010-06-09",
           "2010-07-25"
         ]
+      },
+      {
+        "i": "60861-2303-2010-08-22",
+        "c": "FR"
+      },
+      {
+        "i": "60861-2303-2010-08-22",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8282-2010-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8282-2010-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "60861-13443-2010-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "60861-13443-2010-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "60861-10222-2010-05-21",
+        "c": "FR"
+      },
+      {
+        "i": "60861-10222-2010-05-21",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -365,6 +589,14 @@
           "2011-05-20",
           "2011-07-03"
         ]
+      },
+      {
+        "i": "60861-26775-2011-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "60861-26775-2011-05-25",
+        "c": "FR"
       },
       {
         "i": "60861-19750-2011-05-28",
@@ -445,6 +677,14 @@
         ]
       },
       {
+        "i": "60861-8520-2011-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "60861-7390-2011-12-15",
+        "c": "FR"
+      },
+      {
         "i": "60861-13458-2011-02-04",
         "c": "CH",
         "n": "le vertige de la moraine, strate I",
@@ -456,6 +696,14 @@
           "2011-02-04",
           "2011-03-18"
         ]
+      },
+      {
+        "i": "60861-28277-2011-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "60861-28277-2011-05-05",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -486,6 +734,14 @@
         ]
       },
       {
+        "i": "60861-8520-2011-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "60861-7390-2011-12-15",
+        "c": "FR"
+      },
+      {
         "i": "60861-2099-2012-01-05",
         "c": "US",
         "n": "Rotary Connection",
@@ -499,6 +755,38 @@
         ]
       },
       {
+        "i": "60861-8282-2012-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8282-2012-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "60861-13443-2012-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "60861-13443-2012-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "60861-26765-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "60861-26765-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8520-2012-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8520-2012-06-22",
+        "c": "FR"
+      },
+      {
         "i": "60861-7794-2012-06-29",
         "c": "US",
         "n": "Synesthesia",
@@ -510,6 +798,14 @@
           "2012-06-29",
           "2012-08-31"
         ]
+      },
+      {
+        "i": "60861-28664-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "60861-28664-2012-07-06",
+        "c": "FR"
       },
       {
         "i": "60861-8030-2012-09-14",
@@ -536,6 +832,22 @@
           "2012-10-20",
           "2012-11-17"
         ]
+      },
+      {
+        "i": "60861-2304-2012-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "60861-2304-2012-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8285-2012-10-03",
+        "c": "FR"
+      },
+      {
+        "i": "60861-8285-2012-10-03",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -551,6 +863,14 @@
           "2013-01-01",
           "2013-01-01"
         ]
+      },
+      {
+        "i": "60861-10221-2013-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "60861-10221-2013-01-19",
+        "c": "FR"
       },
       {
         "i": "60861-19750-2013-03-07",
@@ -629,6 +949,14 @@
           "2013-02-01",
           "2013-03-24"
         ]
+      },
+      {
+        "i": "60861-13443-2013-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "60861-13443-2013-03-29",
+        "c": "FR"
       }
     ],
     "2014": [

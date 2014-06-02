@@ -1,7 +1,7 @@
 {
   "id": "81993",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:37:23",
+  "timestamp": "2014-05-24 06:44:58",
   "name": "Lionel Guibout",
   "surname": "Guibout",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "68757",
-  "r01": "65222",
-  "r02": "62612",
-  "r03": "71260",
-  "r04": "68455",
-  "r05": "61621",
-  "r06": "54020",
-  "r07": "51405",
-  "r08": "43604",
+  "r00": "73064",
+  "r01": "74030",
+  "r02": "66964",
+  "r03": "63004",
+  "r04": "76009",
+  "r05": "72911",
+  "r06": "63682",
+  "r07": "54552",
+  "r08": "51966",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
@@ -34,7 +34,7 @@
   "2005-shows-museums": null,
   "2005-countries-total": "France (5)",
   "2005-shows-with": "Lionel Guibout (4), Ken Denning (2)",
-  "representing-galleries": "Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa (RI), Italy); Licht Feld (Dornacherstrasse 192, 4053 Basel, Switzerland)",
+  "representing-galleries": "Galleria del Leone (Loc. Fontecarmine Via della Fonte s.n., 02031 Castelnuovo di Farfa, RI, Italy); Licht Feld (Dornacherstrasse 192, 4053 Basel, Switzerland)",
   "collecting-museums": null,
   "first_name": "Lionel",
   "last_name": "Guibout",
@@ -43,5 +43,69 @@
   "age": 55,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "81993-16754-2007-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "81993-16754-2007-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "81993-16754-2007-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "81993-16754-2007-10-13",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "81993-20984-2010-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "81993-20984-2010-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "81993-20984-2010-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "81993-20984-2010-09-09",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "81993-20984-2011-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "81993-20984-2011-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "81993-20984-2011-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "81993-20984-2011-02-17",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "81993-18406-2012-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "81993-18406-2012-03-01",
+        "c": "FR"
+      }
+    ]
   }
 }

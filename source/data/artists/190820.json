@@ -1,7 +1,7 @@
 {
   "id": "190820",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:20:17",
+  "timestamp": "2014-05-24 07:21:50",
   "name": "Mohamed Bourouissa",
   "surname": "Bourouissa",
   "nationality": "FR, DZ",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "2056",
-  "r01": "2753",
-  "r02": "3393",
-  "r03": "5544",
-  "r04": "13044",
-  "r05": "22714",
-  "r06": null,
+  "r00": "1048",
+  "r01": "1266",
+  "r02": "1881",
+  "r03": "2371",
+  "r04": "4071",
+  "r05": "10295",
+  "r06": "18882",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "63",
+  "all-shows-total": "68",
   "2005-shows-biennials": "13",
   "2005-shows-galleries": "13",
-  "2005-shows-museums": "38",
-  "2005-countries-total": "France (26), United Kingdom (5), USA (5), Germany (4), Italy (4), Switzerland (3), Denmark (2), Greece (2), Netherlands (2), Austria (1), Canada (1), Finland (1), Hungary (1), Ireland (Republic) (1), Israel (1), Lebanon (1), Poland (1), Turkey (1)",
-  "2005-shows-with": "Mohamed Bourouissa (52), Luc Delahaye (13), Joel Sternfeld (13), Guy Tillim (13), Daniel Beltrá (12), Philippe Chancel (12), Edmund Clark (12), Rena Effendi (12), Jacqueline Hassink (12), Carl de Keyzer (12), Robert Adams (11), An-My Lê (11), Taysir Batniji (8), Bouchra Khalili (6), Adrian Paci (6), Kader Attia (5), Michel François (5), Joana Hadjithomas & Khalil Joreige (5), Zineb Sedira (5), Bruno Serralongue (5), Bruno Boudjelal (4), Stéphane Couturier (4), Ad van Denderen (4), Claire Fontaine (4), Mona Hatoum (4), Jules Spinatsch (4), Oscar Tuazon (4), Marina Abramovic (3), Yto Barrada (3), Yael Bartana (3), James Casebere (3), Chen Zhen (3), Denis Darzacq (3), Philippe Durand (3), Mounir Fatmi (3), Ryan Gander (3), Ghazel (3), Loris Gréaud (3), Camille Henrot (3), Chourouk Hriech (3), François Morellet (3), Roman Ondák (3), Yazid Oulab (3), Mathieu Pernot (3), Barthélémy Toguo (3), Akram Zaatari (3), Shirin Abu Shaqra (2), Saâdane Afif (2), Allora & Calzadilla (2), Francis Alys (2), Carlos Amor",
+  "2005-shows-museums": "41",
+  "2005-countries-total": "France (27), USA (7), Germany (5), United Kingdom (5), Italy (4), Switzerland (3), Denmark (2), Greece (2), Netherlands (2), Austria (1), Canada (1), Finland (1), Hungary (1), Ireland (Republic) (1), Israel (1), Lebanon (1), Poland (1), Senegal (1), Spain (1), Turkey (1)",
+  "2005-shows-with": "Mohamed Bourouissa (58), Luc Delahaye (15), Guy Tillim (15), Joel Sternfeld (14), Daniel Beltrá (13), Philippe Chancel (13), Edmund Clark (13), Rena Effendi (13), Jacqueline Hassink (13), Carl de Keyzer (13), Robert Adams (12), An-My Lê (12), Taysir Batniji (9), Kader Attia (8), Bouchra Khalili (7), Adrian Paci (6), Bruno Serralongue (6), Bruno Boudjelal (5), Ad van Denderen (5), Claire Fontaine (5), Michel François (5), Joana Hadjithomas & Khalil Joreige (5), Mona Hatoum (5), Zineb Sedira (5), Chen Zhen (4), Stéphane Couturier (4), Denis Darzacq (4), Ghazel (4), Camille Henrot (4), Mathieu Pernot (4), Jules Spinatsch (4), Barthélémy Toguo (4), Oscar Tuazon (4), Marina Abramovic (3), Fayçal Baghriche (3), Yto Barrada (3), Yael Bartana (3), Eric Baudelaire (3), James Casebere (3), Philippe Durand (3), Mounir Fatmi (3), Ryan Gander (3), Loris Gréaud (3), Chourouk Hriech (3), Karim Kal (3), Mouna Karray (3), Kimsooja (3), Shai Kremer (3), Thomas Mailaender (3), François Morellet (3), Baudouin Mouanda (3",
   "representing-galleries": "Galerie Les filles du calvaire - Bruxelles (Boulevard Barthélémy, Kanal 20, 1000 Brussels, Belgium); Galerie Kamel Mennour (60 rue Mazarine, 75006 Paris, France); Yossi Milo Gallery (245 Tenth Ave., 10001 New York City, NY, USA)",
   "collecting-museums": null,
   "first_name": "Mohamed",
@@ -43,7 +43,54 @@
   "age": 36,
   "age_range": "26-40",
   "expos": {
+    "2008": [
+      {
+        "i": "190820-17313-2008-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "190820-1403-2008-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "190820-1403-2008-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "190820-8028-2008-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "190820-8028-2008-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "190820-7411-2008-06-28",
+        "c": "GB",
+        "n": "Mohamed Bourouissa",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Sheffield",
+        "o": "Site Gallery",
+        "d": [
+          "2008-06-28",
+          "2008-08-09"
+        ]
+      },
+      {
+        "i": "190820-1403-2008-10-30",
+        "c": "FR"
+      },
+      {
+        "i": "190820-1403-2008-10-30",
+        "c": "FR"
+      }
+    ],
     "2009": [
+      {
+        "i": "190820-17313-2008-10-08",
+        "c": "FR"
+      },
       {
         "i": "190820-12517-2009-01-22",
         "c": "FI",
@@ -69,6 +116,22 @@
           "2009-04-08",
           "2009-07-05"
         ]
+      },
+      {
+        "i": "190820-2709-2009-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "190820-2709-2009-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "190820-19804-2009-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "190820-19804-2009-07-03",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -84,6 +147,22 @@
           "2010-05-01",
           "2010-05-29"
         ]
+      },
+      {
+        "i": "190820-2709-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "190820-2709-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "190820-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "190820-1782-2010-06-11",
+        "c": "FR"
       },
       {
         "i": "190820-2554-2010-06-11",
@@ -123,6 +202,14 @@
         ]
       },
       {
+        "i": "190820-19410-2010-11-30",
+        "c": "FR"
+      },
+      {
+        "i": "190820-10351-2010-12-02",
+        "c": "FR"
+      },
+      {
         "i": "190820-3091-2010-04-22",
         "c": "US",
         "n": "Périphéries",
@@ -134,9 +221,33 @@
           "2010-04-22",
           "2010-06-19"
         ]
+      },
+      {
+        "i": "190820-1941-2010-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "190820-1941-2010-09-08",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "190820-19410-2010-11-30",
+        "c": "FR"
+      },
+      {
+        "i": "190820-10351-2010-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "190820-28739-2011-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "190820-28739-2011-01-21",
+        "c": "FR"
+      },
       {
         "i": "190820-3589-2011-01-22",
         "c": "NL",
@@ -151,6 +262,14 @@
         ]
       },
       {
+        "i": "190820-2414-2011-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "190820-2414-2011-02-25",
+        "c": "FR"
+      },
+      {
         "i": "190820-4331-2011-03-25",
         "c": "DE",
         "n": "Performing the Document",
@@ -162,6 +281,14 @@
           "2011-03-25",
           "2011-05-08"
         ]
+      },
+      {
+        "i": "190820-2414-2011-04-22",
+        "c": "FR"
+      },
+      {
+        "i": "190820-2414-2011-04-22",
+        "c": "FR"
       },
       {
         "i": "190820-2367-2011-06-04",
@@ -187,6 +314,26 @@
           "2011-09-17",
           "2012-01-08"
         ]
+      },
+      {
+        "i": "190820-27825-2011-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "190820-27825-2011-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "190820-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "190820-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "190820-26372-2011-11-16",
+        "c": "FR"
       },
       {
         "i": "190820-3525-2011-11-18",
@@ -230,6 +377,10 @@
         ]
       },
       {
+        "i": "190820-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
         "i": "190820-3769-2012-02-16",
         "c": "IT",
         "n": "Peripheral Stages. Mohamed Bourouissa e Tobias Zielony",
@@ -241,6 +392,14 @@
           "2012-02-16",
           "2012-03-27"
         ]
+      },
+      {
+        "i": "190820-1941-2012-03-26",
+        "c": "FR"
+      },
+      {
+        "i": "190820-1941-2012-03-26",
+        "c": "FR"
       },
       {
         "i": "190820-3149-2012-08-24",
@@ -321,6 +480,14 @@
         ]
       },
       {
+        "i": "190820-3983-2012-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "190820-3983-2012-11-16",
+        "c": "FR"
+      },
+      {
         "i": "190820-27921-2012-02-04",
         "c": "US",
         "n": "Mohamed Bourouissa  Le Miroir (the Mirror)",
@@ -332,6 +499,22 @@
           "2012-02-04",
           "2012-05-06"
         ]
+      },
+      {
+        "i": "190820-27825-2012-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "190820-27825-2012-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "190820-28414-2012-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "190820-28414-2012-09-10",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -347,6 +530,14 @@
           "2012-08-30",
           "2013-01-13"
         ]
+      },
+      {
+        "i": "190820-29568-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "190820-29568-2013-01-12",
+        "c": "FR"
       },
       {
         "i": "190820-16949-2013-01-16",
@@ -427,6 +618,14 @@
         ]
       },
       {
+        "i": "190820-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "190820-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
         "i": "190820-12812-2013-06-05",
         "c": "CH",
         "n": "fALSEfAKES",
@@ -504,6 +703,14 @@
         ]
       },
       {
+        "i": "190820-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "190820-12540-2013-10-26",
+        "c": "FR"
+      },
+      {
         "i": "190820-28964-2013-11-01",
         "c": "IL",
         "n": "Power",
@@ -528,6 +735,14 @@
           "2013-12-05",
           "2014-01-30"
         ]
+      },
+      {
+        "i": "190820-11587-2013-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "190820-11587-2013-10-05",
+        "c": "FR"
       }
     ],
     "2014": [
@@ -544,6 +759,14 @@
         ]
       },
       {
+        "i": "190820-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "190820-12540-2013-10-26",
+        "c": "FR"
+      },
+      {
         "i": "190820-7778-2013-12-05",
         "c": "US",
         "n": "Power",
@@ -554,21 +777,6 @@
         "d": [
           "2013-12-05",
           "2014-01-30"
-        ]
-      }
-    ],
-    "2008": [
-      {
-        "i": "190820-7411-2008-06-28",
-        "c": "GB",
-        "n": "Mohamed Bourouissa",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Sheffield",
-        "o": "Site Gallery",
-        "d": [
-          "2008-06-28",
-          "2008-08-09"
         ]
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "28957",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:15:28",
+  "timestamp": "2014-05-24 06:26:03",
   "name": "Frédéric Sanchez",
   "surname": "Sanchez",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "26345",
-  "r01": "24390",
-  "r02": "22651",
-  "r03": "20285",
-  "r04": "24583",
-  "r05": "30033",
-  "r06": "29049",
-  "r07": "35270",
-  "r08": null,
+  "r00": "29019",
+  "r01": "27163",
+  "r02": "23294",
+  "r03": "20524",
+  "r04": "17725",
+  "r05": "21761",
+  "r06": "27179",
+  "r07": "25955",
+  "r08": "31841",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
@@ -33,7 +33,7 @@
   "2005-shows-galleries": "1",
   "2005-shows-museums": "6",
   "2005-countries-total": "France (4), Germany (2), Czech Republic (1), USA (1)",
-  "2005-shows-with": "Frédéric Sanchez (8), Dan Graham (3), John M Armleder (2), Fia Backström (2), Francis Baudevin (2), Alexandre Bianchini (2), Mike Bidlo (2), Laura Bruce (2), Robert Colescott (2), Jáchym Fleig (2), Sylvie Fleury (2), Amy Granat (2), Nicole Hassler (2), Drew Heitzler (2), Yves Klein (2), Louise Lawler (2), Renée Lévi (2), Sherrie Levine (2), Jackie McAllister (2), Haley Mellin (2), Mathieu Mercier (2), Jonathan Monk (2), Chuck Nanney (2), John Nixon (2), Dimitry Orlac (2), Virginia Overton (2), Steven Parrino (2), Emma Perrochon (2), Christian Robert-Tissot (2), Howard Smith (2), Vincent Szarek (2), Dan Walsh (2), Joan Waltemath (2), Andy Warhol (2), Peter Young (2), Michael Zahn (2)",
+  "2005-shows-with": "Frédéric Sanchez (8), Dan Graham (3), John M Armleder (2), Fia Backström (2), Francis Baudevin (2), Alexandre Bianchini (2), Mike Bidlo (2), Laura Bruce (2), Robert Colescott (2), Catherine Eyde (2), Jáchym Fleig (2), Sylvie Fleury (2), Amy Granat (2), Nicole Hassler (2), Drew Heitzler (2), Yves Klein (2), Louise Lawler (2), Renée Lévi (2), Sherrie Levine (2), Jackie McAllister (2), Haley Mellin (2), Mathieu Mercier (2), Jonathan Monk (2), Chuck Nanney (2), John Nixon (2), Dimitry Orlac (2), Virginia Overton (2), Steven Parrino (2), Emma Perrochon (2), Christian Robert-Tissot (2), Howard Smith (2), Vincent Szarek (2), Dan Walsh (2), Joan Waltemath (2), Andy Warhol (2), Peter Young (2), Michael Zahn (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Frédéric",
@@ -60,6 +60,14 @@
     ],
     "2008": [
       {
+        "i": "28957-8993-2008-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "28957-8993-2008-02-23",
+        "c": "FR"
+      },
+      {
         "i": "28957-10095-2008-08-02",
         "c": "CZ",
         "n": "Start Point 2008",
@@ -73,7 +81,25 @@
         ]
       }
     ],
+    "2009": [
+      {
+        "i": "28957-2304-2009-10-11",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "28957-2304-2009-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "28957-28954-2010-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "28957-28954-2010-05-28",
+        "c": "FR"
+      },
       {
         "i": "28957-8557-2010-08-06",
         "c": "DE",
@@ -140,6 +166,26 @@
           "2010-11-20",
           "2011-01-16"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "28957-29900-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "28957-29900-2012-04-06",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "28957-1923-2007-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "28957-1923-2007-05-12",
+        "c": "FR"
       }
     ]
   }

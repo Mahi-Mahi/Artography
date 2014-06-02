@@ -16,5 +16,31 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "5",
   "fairs": {
+    "2005": [
+      {
+        "i": "5092-ArtParis 2005",
+        "c": "FR"
+      },
+      {
+        "i": "5092-Paris Photo 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "5092-ArtParis 06",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5092-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "5092-Les Elysées de l'Art - 2007",
+        "c": "FR"
+      }
+    ]
   }
 }

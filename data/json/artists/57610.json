@@ -1,7 +1,7 @@
 {
   "id": "57610",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:21",
+  "timestamp": "2014-05-24 06:36:20",
   "name": "Anne Deleporte",
   "surname": "Deleporte",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Works on Paper",
-  "r00": "5573",
-  "r01": "4927",
-  "r02": "4688",
-  "r03": "4558",
-  "r04": "4520",
-  "r05": "3753",
-  "r06": "3760",
-  "r07": "2972",
-  "r08": "3099",
+  "r00": "8338",
+  "r01": "7316",
+  "r02": "6025",
+  "r03": "5621",
+  "r04": "5664",
+  "r05": "5583",
+  "r06": "4341",
+  "r07": "4442",
+  "r08": "3274",
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
-  "all-shows-total": "38",
+  "all-shows-total": "40",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
-  "2005-shows-museums": "10",
-  "2005-countries-total": "France (7), USA (5), Austria (1), Brazil (1), Italy (1), Switzerland (1)",
-  "2005-shows-with": "Anne Deleporte (14), Stephen Dean (5), Martine Aballéa (2), Richard Artschwager (2), Taysir Batniji (2), Vincent Beaurin (2), Laurence Bonvin (2), Mohamed Bourouissa (2), James Casebere (2), Kurt Caviezel (2), Stéphane Couturier (2), Mark Dion (2), Philippe Durand (2), Michel François (2), Rico Gatson (2), Christian Gonzenbach (2), Andreas Gursky (2), Joana Hadjithomas & Khalil Joreige (2), Armin Linke (2), Santu Mofokeng (2), Jürgen Nefzger (2), Shirin Neshat (2), Pierre et Gilles (2), Paul Pouvreau (2), Navin Rawanchaikul (2), Jules Spinatsch (2), Andy Warhol (2), Jeannie Weissglass (2)",
+  "2005-shows-museums": "11",
+  "2005-countries-total": "France (8), USA (5), Austria (1), Brazil (1), Italy (1), Switzerland (1)",
+  "2005-shows-with": "Anne Deleporte (15), Stephen Dean (5), Philippe Durand (3), Martine Aballéa (2), Ghada Amer (2), Richard Artschwager (2), Taysir Batniji (2), Vincent Beaurin (2), Laurence Bonvin (2), Mohamed Bourouissa (2), James Casebere (2), Kurt Caviezel (2), Stéphane Couturier (2), Elie Cristiani (2), Mark Dion (2), Michel François (2), Rico Gatson (2), Christian Gonzenbach (2), Andreas Gursky (2), Joana Hadjithomas & Khalil Joreige (2), Armin Linke (2), Santu Mofokeng (2), Jürgen Nefzger (2), Marylène Negro (2), Shirin Neshat (2), Pierre et Gilles (2), Abraham Poincheval (2), Paul Pouvreau (2), Navin Rawanchaikul (2), Alain Séchas (2), Bruno Serralongue (2), Jules Spinatsch (2), Jacques Villeglé (2), Andy Warhol (2), Jeannie Weissglass (2)",
   "representing-galleries": "Laura Marsiaj Arte Contemporânea (Rua Teixera de Melo 31c, 22410-010 Rio de Janeiro, RJ, Brazil)",
   "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France)",
   "first_name": "Anne",
@@ -43,6 +43,16 @@
   "age": 54,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "57610-10518-2005-09-16",
+        "c": "FR"
+      },
+      {
+        "i": "57610-10518-2005-09-16",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "57610-5519-2006-01-21",
@@ -56,6 +66,16 @@
           "2006-01-21",
           "2006-04-22"
         ]
+      },
+      {
+        "i": "57610-2219-2006-09-27",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "57610-2219-2006-09-27",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -83,6 +103,14 @@
           "2008-11-01",
           "2009-01-18"
         ]
+      },
+      {
+        "i": "57610-2414-2008-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "57610-2414-2008-01-18",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -140,6 +168,14 @@
         ]
       },
       {
+        "i": "57610-20164-2010-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "57610-20164-2010-03-23",
+        "c": "FR"
+      },
+      {
         "i": "57610-9286-2010-09-18",
         "c": "US",
         "n": "The Jewel Thief",
@@ -168,6 +204,22 @@
         ]
       },
       {
+        "i": "57610-2414-2011-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "57610-2414-2011-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "57610-2414-2011-04-22",
+        "c": "FR"
+      },
+      {
+        "i": "57610-2414-2011-04-22",
+        "c": "FR"
+      },
+      {
         "i": "57610-27236-2011-10-29",
         "c": "US",
         "n": "Stephen Dean, Anne Deleporte & Jeannie Weissglass - Mary Poppins Is A Junkie",
@@ -179,9 +231,17 @@
           "2011-10-29",
           "2011-12-18"
         ]
+      },
+      {
+        "i": "57610-20164-2011-11-17",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "57610-20164-2011-11-17",
+        "c": "FR"
+      },
       {
         "i": "57610-9073-2012-02-17",
         "c": "CH",
@@ -194,9 +254,25 @@
           "2012-02-17",
           "2012-05-20"
         ]
+      },
+      {
+        "i": "57610-20164-2012-12-21",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "57610-20164-2012-12-21",
+        "c": "FR"
+      },
+      {
+        "i": "57610-10584-2013-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "57610-10584-2013-01-19",
+        "c": "FR"
+      },
       {
         "i": "57610-24707-2013-06-03",
         "c": "AT",

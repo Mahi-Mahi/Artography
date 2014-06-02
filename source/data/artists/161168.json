@@ -1,7 +1,7 @@
 {
   "id": "161168",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:09:04",
+  "timestamp": "2014-05-24 07:11:38",
   "name": "Stéphane Barbier-Bouvet",
   "surname": "Barbier-Bouvet",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "34088",
-  "r01": "96587",
-  "r02": "92161",
-  "r03": "95239",
-  "r04": "91957",
-  "r05": "91390",
-  "r06": "89750",
-  "r07": null,
+  "r00": "24607",
+  "r01": "25276",
+  "r02": "85176",
+  "r03": "86170",
+  "r04": "91434",
+  "r05": "88708",
+  "r06": "89579",
+  "r07": "90095",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "8",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (3), Austria (1), Italy (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Stéphane Barbier-Bouvet (7), Benjamin Valenza (2)",
+  "2005-countries-total": "France (3), Switzerland (2), Austria (1), Italy (1), USA (1)",
+  "2005-shows-with": "Stéphane Barbier-Bouvet (8), Benjamin Valenza (3), Delphine Coindet (2), Vidya Gastaldon (2), Jerszy Seymour (2)",
   "representing-galleries": "Graff Mourge d'Algue (7 Boulevard d\\\\\\'Yvoy, 1205 Geneva, Switzerland)",
   "collecting-museums": null,
   "first_name": "Stéphane",
@@ -118,6 +118,14 @@
     ],
     "2011": [
       {
+        "i": "161168-16095-2011-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "161168-16095-2011-04-01",
+        "c": "FR"
+      },
+      {
         "i": "161168-8723-2011-10-01",
         "c": "AT",
         "n": "Totem and Taboo",
@@ -129,6 +137,24 @@
           "2011-10-01",
           "2011-10-20"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "161168-7390-2013-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "161168-7390-2013-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "161168-8282-2013-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "161168-8282-2013-09-06",
+        "c": "FR"
       }
     ]
   }

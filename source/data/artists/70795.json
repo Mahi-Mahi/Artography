@@ -1,7 +1,7 @@
 {
   "id": "70795",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:32:40",
+  "timestamp": "2014-05-24 06:41:01",
   "name": "Jean François Bory",
   "surname": "Bory",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "58190",
-  "r01": "63787",
-  "r02": "57826",
-  "r03": "51413",
-  "r04": "46252",
-  "r05": "40310",
-  "r06": "34897",
-  "r07": "29351",
-  "r08": "30582",
+  "r00": "40071",
+  "r01": "40489",
+  "r02": "91628",
+  "r03": "85202",
+  "r04": "71316",
+  "r05": "61520",
+  "r06": "49211",
+  "r07": "40231",
+  "r08": "31857",
   "awards": null,
   "website": null,
   "all-shows-first": "1989",
@@ -35,7 +35,7 @@
   "2005-countries-total": "France (2), Italy (1)",
   "2005-shows-with": "Jean François Bory (3), Man Ray (2)",
   "representing-galleries": null,
-  "collecting-museums": "Carleton University Art Gallery (Colonel by drive 1125, K1S 5B6 Ottawa, ON, Canada); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); Musée d'Art moderne de Saint-Etienne (La Terrasse, 42000 Saint-Etienne, France); Ca´la Ghironda - Museo d´Arte Classica, Moderna e Contemporanea (via Leonardo da Vinci 19, 40069 Zola Predosa (BO), Italy); Galeria Labirynt - BWA Lublin (ul.Grodzka 5a, 20-112 Lublin, Poland)",
+  "collecting-museums": "Carleton University Art Gallery (Colonel by drive 1125, K1S 5B6 Ottawa, ON, Canada); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); Musée d'Art moderne de Saint-Etienne (La Terrasse, 42000 Saint-Etienne, France); Ca´la Ghironda - Museo d´Arte Classica, Moderna e Contemporanea (via Leonardo da Vinci 19, 40069 Zola Predosa, BO, Italy); Galeria Labirynt - BWA Lublin (ul.Grodzka 5a, 20-112 Lublin, Poland)",
   "first_name": "Jean",
   "last_name": "François",
   "genre": "m",
@@ -56,6 +56,10 @@
           "2006-03-04",
           "2006-04-18"
         ]
+      },
+      {
+        "i": "70795-15274-2006-12-08",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -71,6 +75,34 @@
           "2008-03-28",
           "2008-05-15"
         ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "70795-4706-2010-12-23",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "70795-4706-2010-12-23",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "70795-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "70795-10825-2013-09-21",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "70795-15274-2006-12-08",
+        "c": "FR"
       }
     ]
   }

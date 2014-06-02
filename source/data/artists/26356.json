@@ -1,7 +1,7 @@
 {
   "id": "26356",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:14:19",
+  "timestamp": "2014-05-24 06:25:07",
   "name": "Matthew Pillsbury",
   "surname": "Pillsbury",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "12432",
-  "r01": "11447",
-  "r02": "11515",
-  "r03": "10966",
-  "r04": "10321",
-  "r05": "10092",
-  "r06": "10290",
-  "r07": "18905",
-  "r08": "18700",
+  "r00": "10637",
+  "r01": "14156",
+  "r02": "11769",
+  "r03": "11488",
+  "r04": "10488",
+  "r05": "9596",
+  "r06": "9341",
+  "r07": "9432",
+  "r08": "17004",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -32,9 +32,9 @@
   "2005-shows-biennials": "14",
   "2005-shows-galleries": "14",
   "2005-shows-museums": null,
-  "2005-countries-total": "USA (9), Belgium (2), Netherlands (2), Germany (1), United Kingdom (1)",
+  "2005-countries-total": "USA (10), Belgium (2), Netherlands (2), Germany (1), United Kingdom (1)",
   "2005-shows-with": "Matthew Pillsbury (11), Abelardo Morell (4), Daniel Bauer (2), Amy Elkins (2), Barry Frydlender (2), Tom Hunter (2), Candida Höfer (2)",
-  "representing-galleries": "Galerie Hiltawsky (Tucholskystraße 41, 10117 Berlin, Germany); Galerie Negulesco (Gabelsbergerstr. 19, 80333  Munich, Germany); Michael Hoppen Gallery (3 Jubilee Place, SW3 3TD London (England), United Kingdom); Bonni Benrubi Gallery (52 East 76th Street, 10021 New York City, NY, USA)",
+  "representing-galleries": "Galerie Hiltawsky (Tucholskystraße 41, 10117 Berlin, Germany); Galerie Negulesco (Gabelsbergerstr. 19, 80333  Munich, Germany); Michael Hoppen Gallery (3 Jubilee Place, SW3 3TD London, United Kingdom); Bonni Benrubi Gallery (52 East 76th Street, 10021 New York City, NY, USA)",
   "collecting-museums": null,
   "first_name": "Matthew",
   "last_name": "Pillsbury",
@@ -204,6 +204,10 @@
         ]
       },
       {
+        "i": "26356-21459-2007-12-04",
+        "c": "FR"
+      },
+      {
         "i": "26356-11804-2006-11-09",
         "c": "DE",
         "n": "Matthew Pillsbury",
@@ -244,6 +248,10 @@
       }
     ],
     "2008": [
+      {
+        "i": "26356-21459-2007-12-04",
+        "c": "FR"
+      },
       {
         "i": "26356-6083-2008-01-11",
         "c": "US",

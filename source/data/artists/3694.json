@@ -1,7 +1,7 @@
 {
   "id": "3694",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:04:02",
+  "timestamp": "2014-05-24 06:16:20",
   "name": "Véronique Rizzo",
   "surname": "Rizzo",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "19648",
-  "r01": "17807",
-  "r02": "20580",
-  "r03": "18122",
-  "r04": "15737",
-  "r05": "17781",
-  "r06": "18136",
-  "r07": "15399",
-  "r08": "13959",
+  "r00": "25250",
+  "r01": "24609",
+  "r02": "19937",
+  "r03": "25462",
+  "r04": "20554",
+  "r05": "16750",
+  "r06": "19622",
+  "r07": "20042",
+  "r08": "15866",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "14",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "15",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (8)",
-  "2005-shows-with": "Véronique Rizzo (6), Nicolas Floc\\'h (2)",
+  "2005-countries-total": "France (9)",
+  "2005-shows-with": "Véronique Rizzo (7), Nicolas Floc\\'h (2)",
   "representing-galleries": "La GAD - Galerie Arnaud Deschin (34 rue Espérandieu, 13001 Marseille, France); Vidéochroniques (1 place de Lorette, 13002 Marseille, France); Galerie Sycomore Art (7 bis Rue Geoffroy Marie, 75009 Paris, France)",
   "collecting-museums": "Espace Croisé (Grand Place, 59059 Roubaix, France)",
   "first_name": "Véronique",
@@ -43,7 +43,25 @@
   "age": 51,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "3694-12314-2006-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "3694-12314-2006-11-17",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "3694-16095-2007-03-30",
+        "c": "FR"
+      },
+      {
+        "i": "3694-16095-2007-03-30",
+        "c": "FR"
+      },
       {
         "i": "3694-28587-2007-12-01",
         "c": "CH",
@@ -71,6 +89,78 @@
           "2007-12-01",
           "2008-01-20"
         ]
+      },
+      {
+        "i": "3694-7850-2008-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "3694-7850-2008-04-10",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "3694-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "3694-9475-2009-07-04",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "3694-21807-2010-07-15",
+        "c": "FR"
+      },
+      {
+        "i": "3694-21807-2010-07-15",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "3694-28267-2012-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "3694-28267-2012-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "3694-9344-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "3694-14887-2012-03-05",
+        "c": "FR"
+      },
+      {
+        "i": "3694-14887-2012-03-05",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "3694-9344-2012-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "3694-28736-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "3694-28736-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "3694--2013-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "3694--2013-05-15",
+        "c": "FR"
       }
     ]
   }

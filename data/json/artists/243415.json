@@ -1,7 +1,7 @@
 {
   "id": "243415",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:40:24",
+  "timestamp": "2014-05-24 07:39:50",
   "name": "Grégoire Alexandre",
   "surname": "Alexandre",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "47218",
-  "r01": "70889",
-  "r02": "66165",
-  "r03": "61085",
-  "r04": "66285",
-  "r05": "84039",
-  "r06": null,
+  "r00": "38833",
+  "r01": "39198",
+  "r02": "62844",
+  "r03": "57427",
+  "r04": "52185",
+  "r05": "57717",
+  "r06": "76823",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2009",
-  "all-shows-total": "5",
-  "2005-shows-biennials": "1",
-  "2005-shows-galleries": "1",
+  "all-shows-total": "6",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (4), Finland (1), USA (1)",
-  "2005-shows-with": "Grégoire Alexandre (3)",
+  "2005-countries-total": "France (4), USA (2), Finland (1)",
+  "2005-shows-with": "Grégoire Alexandre (4)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Grégoire",
@@ -43,6 +43,16 @@
   "age": 42,
   "age_range": "41-60",
   "expos": {
+    "2008": [
+      {
+        "i": "243415-21359-2008-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "243415-21359-2008-07-08",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "243415-11114-2010-03-27",
@@ -58,6 +68,10 @@
         ]
       },
       {
+        "i": "243415-29027-2010-10-07",
+        "c": "FR"
+      },
+      {
         "i": "243415-18916-2010-08-14",
         "c": "FI",
         "n": "Grégoire Alexandre, Works in Progress",
@@ -69,6 +83,32 @@
           "2010-08-14",
           "2010-09-19"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "243415-29027-2010-10-07",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "243415-22980-2009-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "243415-22980-2009-09-17",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "243415-8028-2013-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "243415-8028-2013-09-11",
+        "c": "FR"
       }
     ]
   }

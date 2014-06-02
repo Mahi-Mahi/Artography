@@ -1,7 +1,7 @@
 {
   "id": "203927",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:25:17",
+  "timestamp": "2014-05-24 07:26:19",
   "name": "Benjamin Gaulon",
   "surname": "Gaulon",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "37484",
-  "r01": "35670",
-  "r02": "59126",
-  "r03": "54173",
-  "r04": "48545",
-  "r05": "46049",
-  "r06": "40016",
-  "r07": "48339",
-  "r08": "61626",
+  "r00": "30720",
+  "r01": "32911",
+  "r02": "29949",
+  "r03": "57216",
+  "r04": "52136",
+  "r05": "45409",
+  "r06": "42349",
+  "r07": "35907",
+  "r08": "44605",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "8",
+  "all-shows-total": "11",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (2), Ireland (Republic) (1), United Kingdom (1), USA (1)",
-  "2005-shows-with": "Benjamin Gaulon (3)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "France (3), Ireland (Republic) (2), United Kingdom (1), USA (1)",
+  "2005-shows-with": "Benjamin Gaulon (4)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Benjamin",
@@ -73,6 +73,14 @@
       }
     ],
     "2007": [
+      {
+        "i": "203927-15174-2007-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "203927-15174-2007-10-19",
+        "c": "FR"
+      },
       {
         "i": "203927-7991-2007-12-13",
         "c": "IE",
@@ -130,6 +138,24 @@
           "2013-06-08",
           "2013-07-28"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "203927-12129-2012-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "203927-12129-2012-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "203927-12129-2012-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "203927-12129-2012-06-19",
+        "c": "FR"
       }
     ]
   }

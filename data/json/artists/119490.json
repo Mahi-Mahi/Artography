@@ -1,7 +1,7 @@
 {
   "id": "119490",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:52:13",
+  "timestamp": "2014-05-24 06:57:35",
   "name": "Julia Boix-Vives",
   "surname": "Boix-Vives",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "80202",
-  "r01": "76349",
-  "r02": "70571",
-  "r03": "64978",
-  "r04": "58335",
-  "r05": "52259",
-  "r06": "45491",
-  "r07": "52650",
-  "r08": "46278",
+  "r00": "96507",
+  "r01": "95759",
+  "r02": "87236",
+  "r03": "77610",
+  "r04": "68665",
+  "r05": "59760",
+  "r06": "51855",
+  "r07": "44001",
+  "r08": "52903",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
   "all-shows-total": "5",
-  "2005-shows-biennials": null,
-  "2005-shows-galleries": null,
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
   "2005-shows-museums": null,
-  "2005-countries-total": null,
+  "2005-countries-total": "Netherlands (1)",
   "2005-shows-with": null,
   "representing-galleries": "Vidéochroniques (1 place de Lorette, 13002 Marseille, France)",
   "collecting-museums": "Espace Croisé (Grand Place, 59059 Roubaix, France)",
@@ -71,6 +71,14 @@
           "2007-03-24",
           "2007-04-22"
         ]
+      },
+      {
+        "i": "119490-10237-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "119490-10237-2007-09-15",
+        "c": "FR"
       }
     ]
   }

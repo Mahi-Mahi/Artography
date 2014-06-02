@@ -1,7 +1,7 @@
 {
   "id": "155443",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:06:46",
+  "timestamp": "2014-05-24 07:09:38",
   "name": "Gwenaël Salaün",
   "surname": "Salaün",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "58418",
-  "r01": "61175",
-  "r02": "59856",
-  "r03": "54874",
-  "r04": "49316",
-  "r05": "48303",
-  "r06": "59660",
-  "r07": null,
+  "r00": "55301",
+  "r01": "54346",
+  "r02": "57474",
+  "r03": "56257",
+  "r04": "50431",
+  "r05": "44388",
+  "r06": "43351",
+  "r07": "55360",
   "r08": null,
   "awards": null,
   "website": null,
@@ -34,7 +34,7 @@
   "2005-shows-museums": null,
   "2005-countries-total": "France (6), United Kingdom (2)",
   "2005-shows-with": "Gwenaël Salaün (2)",
-  "representing-galleries": "Galerie Defrost (7, rue du Vertbois, 75003 Paris, France); Galerie Gabriel et Gabriel (68 rue du Vertbois, 75003 Paris, France); The French Art Studio (121 Sulgrave Road, W6 7QH London (England), United Kingdom)",
+  "representing-galleries": "Galerie Defrost (7, rue du Vertbois, 75003 Paris, France); Galerie Gabriel et Gabriel (68 rue du Vertbois, 75003 Paris, France); The French Art Studio (121 Sulgrave Road, W6 7QH London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "Gwenaël",
   "last_name": "Salaün",
@@ -43,6 +43,24 @@
   "age": 54,
   "age_range": "41-60",
   "expos": {
+    "2009": [
+      {
+        "i": "155443-17869-2009-11-20",
+        "c": "FR"
+      },
+      {
+        "i": "155443-17869-2009-11-20",
+        "c": "FR"
+      },
+      {
+        "i": "155443-17869-2009-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "155443-17869-2009-02-21",
+        "c": "FR"
+      }
+    ],
     "2012": [
       {
         "i": "155443-14748-2012-10-03",
@@ -56,9 +74,53 @@
           "2012-10-03",
           "2012-11-01"
         ]
+      },
+      {
+        "i": "155443-27180-2012-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "155443-27180-2012-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "155443-28266-2012-10-26",
+        "c": "FR"
+      },
+      {
+        "i": "155443-28266-2012-10-26",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "155443-13364-2007-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "155443-13364-2007-03-29",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "155443-13364-2008-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "155443-13364-2008-09-11",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "155443-27180-2013-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "155443-27180-2013-03-14",
+        "c": "FR"
+      },
       {
         "i": "155443-14748-2013-05-23",
         "c": "GB",

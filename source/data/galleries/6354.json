@@ -16,12 +16,22 @@
   "fairs-abroad": "7",
   "fairs-in-FR": "11",
   "fairs": {
+    "2005": [
+      {
+        "i": "6354-Paris Photo 2005",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "6354-DFOTO 2006",
         "c": "ES",
         "n": "DFOTO 2006",
         "ct": "San Sebastián"
+      },
+      {
+        "i": "6354-Paris Photo 2006",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -30,6 +40,16 @@
         "c": "ES",
         "n": "DFOTO 2007",
         "ct": "San Sebastián"
+      },
+      {
+        "i": "6354-Paris Photo 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "6354-Paris Photo 2008",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -38,9 +58,17 @@
         "c": "ES",
         "n": "Madridfoto 09",
         "ct": "Madrid"
+      },
+      {
+        "i": "6354-Paris Photo 2009",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "6354-ArtParis 2010",
+        "c": "FR"
+      },
       {
         "i": "6354-Art Brussels 2010 - 28th Contemporary Art Fair",
         "c": "BE",
@@ -52,6 +80,10 @@
         "c": "ES",
         "n": "Madridfoto 2010",
         "ct": "Madrid"
+      },
+      {
+        "i": "6354-Paris Photo 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -60,14 +92,32 @@
         "c": "ES",
         "n": "Madridfoto 2011",
         "ct": "Madrid"
+      },
+      {
+        "i": "6354-Paris Photo 2011",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "6354-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
       {
         "i": "6354-Unseen Photo Fair 2012",
         "c": "NL",
         "n": "Unseen Photo Fair 2012",
         "ct": "Amsterdam"
+      },
+      {
+        "i": "6354-Paris Photo 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "6354-Art Paris Art Fair 2013",
+        "c": "FR"
       }
     ]
   }

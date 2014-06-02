@@ -1,7 +1,7 @@
 {
   "id": "1984",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:02:54",
+  "timestamp": "2014-05-24 06:15:24",
   "name": "Albert Bitran",
   "surname": "Bitran",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Sculpture, Engraving",
-  "r00": "32141",
-  "r01": "29168",
-  "r02": "26830",
-  "r03": "38145",
-  "r04": "55902",
-  "r05": "48073",
-  "r06": "47776",
-  "r07": "39752",
-  "r08": "32209",
+  "r00": "29929",
+  "r01": "29815",
+  "r02": "26806",
+  "r03": "24748",
+  "r04": "41453",
+  "r05": "81067",
+  "r06": "73755",
+  "r07": "88325",
+  "r08": "64436",
   "awards": null,
   "website": null,
   "all-shows-first": "1954",
@@ -34,8 +34,8 @@
   "2005-shows-museums": "2",
   "2005-countries-total": "United Kingdom (3), France (2), Turkey (2)",
   "2005-shows-with": "Albert Bitran (3), Nejad Devrim (2), &#304;lhan Koman (2), Fikret Mualla (2), Mübin Orhon (2), Ömer Uluc (2)",
-  "representing-galleries": "Galerie Louis Carré & Cie (10, avenue de Messine, 75008 Paris, France); Grosvenor Gallery (21 Ryder Street, SW1Y 6PX London (England), United Kingdom)",
-  "collecting-museums": "KUNSTEN Museum of Modern Art Aalborg (former Nordjyllands Kunstmuseum) (Kong Christians Alle 50, 9000 Aalborg, Denmark); Randers kunstmuseum (Stemannsgade 2, 8900 Randers, Denmark); Centraal Museum (Nicolaaskerkhof 10, T 0031 Utrecht, Netherlands); Henie Onstad Art Centre (Sonja Henies vei 31, NO-1311 Høvikodden, Norway)",
+  "representing-galleries": "Galerie Louis Carré & Cie (10, avenue de Messine, 75008 Paris, France); Grosvenor Gallery (21 Ryder Street, SW1Y 6PX London, United Kingdom)",
+  "collecting-museums": "KUNSTEN Museum of Modern Art (Kong Christians Alle 50, 9000 Aalborg, Denmark); Randers kunstmuseum (Stemannsgade 2, 8900 Randers, Denmark); Centraal Museum (Nicolaaskerkhof 10, T 0031 Utrecht, Netherlands); Henie Onstad Art Centre (Sonja Henies vei 31, NO-1311 Høvikodden, Norway)",
   "first_name": "Albert",
   "last_name": "Bitran",
   "genre": "m",
@@ -43,6 +43,29 @@
   "age": 85,
   "age_range": "61-100",
   "expos": {
+    "2010": [
+      {
+        "i": "1984-29884-2010-05-09",
+        "c": "FR"
+      },
+      {
+        "i": "1984-29884-2010-05-09",
+        "c": "FR"
+      },
+      {
+        "i": "1984-3627-2010-02-03",
+        "c": "GB",
+        "n": "Albert Bitran: Obliques",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "London (England)",
+        "o": "Grosvenor Gallery",
+        "d": [
+          "2010-02-03",
+          "2010-04-16"
+        ]
+      }
+    ],
     "2011": [
       {
         "i": "1984-12856-2011-03-11",
@@ -84,6 +107,14 @@
           "2012-04-23",
           "2012-04-27"
         ]
+      },
+      {
+        "i": "1984-8117-2012-10-04",
+        "c": "FR"
+      },
+      {
+        "i": "1984-8117-2012-10-04",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -98,21 +129,6 @@
         "d": [
           "2008-02-08",
           "2008-03-18"
-        ]
-      }
-    ],
-    "2010": [
-      {
-        "i": "1984-3627-2010-02-03",
-        "c": "GB",
-        "n": "Albert Bitran: Obliques",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "London (England)",
-        "o": "Grosvenor Gallery",
-        "d": [
-          "2010-02-03",
-          "2010-04-16"
         ]
       }
     ]

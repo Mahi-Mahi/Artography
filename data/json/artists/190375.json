@@ -1,7 +1,7 @@
 {
   "id": "190375",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:20:06",
+  "timestamp": "2014-05-24 07:21:40",
   "name": "Patricia Dreyfus",
   "surname": "Dreyfus",
   "nationality": "CH, FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "56800",
-  "r01": "53830",
-  "r02": "53730",
-  "r03": "55051",
-  "r04": "54508",
-  "r05": "48668",
-  "r06": null,
+  "r00": "39530",
+  "r01": "38243",
+  "r02": "35117",
+  "r03": "33198",
+  "r04": "32445",
+  "r05": "30270",
+  "r06": "25901",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "5",
+  "all-shows-total": "6",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "3",
-  "2005-countries-total": "Germany (3), France (2), Switzerland (1)",
-  "2005-shows-with": "Patricia Dreyfus (5), Karin Aeschlimann (2), Claudia Eichenberger (2), GANZBLUM (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "Germany (3), France (2), Switzerland (2)",
+  "2005-shows-with": "Patricia Dreyfus (6), Karin Aeschlimann (3), Claudia Eichenberger (3), GANZBLUM (3), Regula Abraham (2), Céline Adamo (2), Puntes Sierra Aloha (2), Ariane Andereggen (2), Gabriela de Antuñano (2), Stefan Armbruster (2), Catherine Arnaud (2), Chris Aschwanden (2), Beatrice Bader (2), Peter Baer (2), Jörg Baier (2), Mia Bailey (2), Robin Ballard (2), Sonia Bamert (2), Susanne Banholzer (2), Dennis Bannert (2), Tina Barth (2), Philippe-Didier Beck (2), Daniela Beck (2), Evelyn Beckmann (2), Florian Bendele (2), Boris Berber (2), Andreas Berde (2), Elisabeth Bereznicki (2), Stefan Bergmann (2), Sarah Bernauer (2), Kaspar Berner (2), Volker Bessel (2), Andreas Blank (2), Charles Blockey (2), Petra Blocksdorf (2), Reinhard Bombsch (2), Ralph Bürgin (2), Christine Camenisch (2), Clement Cogitore (2), Damien Comment (2), Colette Couleau (2), Kilian Dellers (2), Erik Dettwiler (2), Krassimira Drenska (2), Matthias Dämpfle (2), Caroline Ebner (2), Marga Ebner (2), Tobias Eder (2), Christine Fausten (2), Sibylle Fe",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Patricia",
@@ -73,7 +73,27 @@
         ]
       }
     ],
+    "2010": [
+      {
+        "i": "190375-19790-2010-11-28",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "190375-19790-2010-11-28",
+        "c": "FR"
+      },
+      {
+        "i": "190375-21128-2011-11-25",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "190375-21128-2011-11-25",
+        "c": "FR"
+      },
       {
         "i": "190375-12995-2012-04-29",
         "c": "DE",

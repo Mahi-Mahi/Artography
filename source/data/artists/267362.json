@@ -1,7 +1,7 @@
 {
   "id": "267362",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:49:53",
+  "timestamp": "2014-05-24 07:48:03",
   "name": "Nicolas Puyjalon",
   "surname": "Puyjalon",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "98948",
-  "r01": "96548",
-  "r02": "92352",
-  "r03": "87086",
-  "r04": null,
+  "r00": "90061",
+  "r01": "91699",
+  "r02": "89141",
+  "r03": "84473",
+  "r04": "79341",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,12 +28,12 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "3",
-  "2005-shows-biennials": "1",
-  "2005-shows-galleries": "1",
+  "all-shows-total": "4",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
   "2005-shows-museums": "1",
-  "2005-countries-total": "Germany (2), France (1)",
-  "2005-shows-with": "Nicolas Puyjalon (3)",
+  "2005-countries-total": "Germany (3), France (1)",
+  "2005-shows-with": "Nicolas Puyjalon (4)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Nicolas",
@@ -43,6 +43,16 @@
   "age": 31,
   "age_range": "26-40",
   "expos": {
+    "2010": [
+      {
+        "i": "267362-12129-2010-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "267362-12129-2010-04-07",
+        "c": "FR"
+      }
+    ],
     "2012": [
       {
         "i": "267362-26771-2012-08-22",

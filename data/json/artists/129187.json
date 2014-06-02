@@ -1,7 +1,7 @@
 {
   "id": "129187",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:55:59",
+  "timestamp": "2014-05-24 07:00:48",
   "name": "Thomas Fougeirol",
   "surname": "Fougeirol",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "14013",
-  "r01": "21107",
-  "r02": "18950",
-  "r03": "23600",
-  "r04": "22117",
-  "r05": "26249",
-  "r06": "37563",
-  "r07": "32900",
-  "r08": "27269",
+  "r00": "11858",
+  "r01": "11723",
+  "r02": "19197",
+  "r03": "17184",
+  "r04": "22096",
+  "r05": "19967",
+  "r06": "24397",
+  "r07": "36781",
+  "r08": "31454",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
   "all-shows-total": "16",
-  "2005-shows-biennials": "11",
-  "2005-shows-galleries": "11",
+  "2005-shows-biennials": "12",
+  "2005-shows-galleries": "12",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (8), Germany (2), Belgium (1), USA (1)",
-  "2005-shows-with": "Thomas Fougeirol (6), Philippe Decrauzat (2), Julian Hoeber (2), Esther Kläs (2)",
+  "2005-countries-total": "France (8), Belgium (2), Germany (2), Italy (1), USA (1)",
+  "2005-shows-with": "Thomas Fougeirol (8), Philippe Decrauzat (2), Julian Hoeber (2), Esther Kläs (2)",
   "representing-galleries": "Galerie Guigon (39, rue de Charenton, 75012 Paris, France); Galerie Praz-Delavallade - Paris (5, Rue Des Haudriettes, 75003  Paris, France)",
   "collecting-museums": null,
   "first_name": "Thomas",
@@ -43,6 +43,74 @@
   "age": 49,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "129187-16754-2007-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "129187-16754-2007-10-13",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "129187-11827-2009-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "129187-11827-2009-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "129187-2021-2009-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "129187-2021-2009-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "129187-2021-2008-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "129187-14700-2009-02-21",
+        "c": "DE",
+        "n": "Thomas Fougeirol",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "Galerie Praz-Delavallade - Berlin",
+        "d": [
+          "2009-02-21",
+          "2009-04-04"
+        ]
+      },
+      {
+        "i": "129187-14230-2009-04-04",
+        "c": "DE",
+        "n": "Thomas Fougeirol",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "Susanne Vielmetter Berlin Projects",
+        "d": [
+          "2009-04-04",
+          "2009-04-21"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "129187-2021-2010-01-09",
+        "c": "FR"
+      },
+      {
+        "i": "129187-2021-2010-01-09",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "129187-27287-2011-04-09",
@@ -69,34 +137,56 @@
           "2011-04-09",
           "2011-05-16"
         ]
-      }
-    ],
-    "2009": [
-      {
-        "i": "129187-14700-2009-02-21",
-        "c": "DE",
-        "n": "Thomas Fougeirol",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "Galerie Praz-Delavallade - Berlin",
-        "d": [
-          "2009-02-21",
-          "2009-04-04"
-        ]
       },
       {
-        "i": "129187-14230-2009-04-04",
-        "c": "DE",
-        "n": "Thomas Fougeirol",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "Susanne Vielmetter Berlin Projects",
-        "d": [
-          "2009-04-04",
-          "2009-04-21"
-        ]
+        "i": "129187-2021-2011-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "129187-2021-2011-04-02",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "129187-28277-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "129187-28277-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "129187-2021-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "129187-2021-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "129187-2021-2013-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "129187-2021-2013-04-20",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "129187-11827-2005-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "129187-11827-2005-11-05",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "129187-2021-2008-11-15",
+        "c": "FR"
       }
     ]
   }

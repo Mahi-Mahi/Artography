@@ -1,7 +1,7 @@
 {
   "id": "240994",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:39:33",
+  "timestamp": "2014-05-24 07:39:01",
   "name": "Sylvain Baumann",
   "surname": "Baumann",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "30484",
-  "r01": "28705",
-  "r02": "27878",
-  "r03": "45063",
-  "r04": "65986",
-  "r05": null,
+  "r00": "24449",
+  "r01": "24365",
+  "r02": "21971",
+  "r03": "20873",
+  "r04": "37042",
+  "r05": "58900",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2009",
-  "all-shows-total": "13",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "all-shows-total": "12",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (4), Switzerland (4), Canada (2), Germany (2), Taiwan (1)",
-  "2005-shows-with": "Sylvain Baumann (11), Florine  Leoni (6), Clare Kenny (3), Dominique Ghesquiere (2), Philippe Grandrieux (2), Claire Guerrier (2), Sarah Ritter (2)",
+  "2005-countries-total": "Switzerland (4), France (3), Canada (2), Germany (2), Taiwan (1)",
+  "2005-shows-with": "Sylvain Baumann (10), Florine  Leoni (6), Clare Kenny (3), Claire Guerrier (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Sylvain",
@@ -203,9 +203,41 @@
           "2012-05-18",
           "2012-05-27"
         ]
+      },
+      {
+        "i": "240994-19953-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "240994-19953-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "240994-28767-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "240994-28767-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "240994-16752-2012-12-07",
+        "c": "FR"
+      },
+      {
+        "i": "240994-27857-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "240994-27857-2012-09-07",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "240994-16752-2012-12-07",
+        "c": "FR"
+      },
       {
         "i": "240994-21363-2013-11-30",
         "c": "CH",

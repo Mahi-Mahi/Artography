@@ -1,7 +1,7 @@
 {
   "id": "172541",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:13:30",
+  "timestamp": "2014-05-24 07:15:34",
   "name": "Renaud Jerez",
   "surname": "Jerez",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "48963",
-  "r01": "47616",
-  "r02": "53783",
-  "r03": "53027",
-  "r04": "62697",
-  "r05": "56424",
-  "r06": "65037",
-  "r07": null,
+  "r00": "23483",
+  "r01": "33933",
+  "r02": "41757",
+  "r03": "47884",
+  "r04": "47230",
+  "r05": "57101",
+  "r06": "50661",
+  "r07": "60280",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "14",
+  "all-shows-total": "15",
   "2005-shows-biennials": "10",
   "2005-shows-galleries": "10",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (5), Germany (4), Belgium (2), United Kingdom (1)",
-  "2005-shows-with": "Renaud Jerez (11), Joachim Blank (2), Natalie Czech (2), David Douard (2), Wolfgang Ellenrieder (2), Arnd Kaestner (2), Clément Rodzielski (2), Thomas Steinert (2), Niels Trannois (2)",
+  "2005-countries-total": "France (5), Germany (4), Belgium (2), United Kingdom (2), Italy (1)",
+  "2005-shows-with": "Renaud Jerez (13), David Douard (4), Joachim Blank (2), Natalie Czech (2), Wolfgang Ellenrieder (2), Arnd Kaestner (2), Marlie Mul (2), Clément Rodzielski (2), Thomas Steinert (2), Niels Trannois (2)",
   "representing-galleries": "Galerie Crèvecoeur (4, rue Jouye-Rouve, 75020 Paris, France); Filipp Rosbach Galerie (Spinnereistraße 7, Halle 20. D, PF 508, 04179 Leipzig, Germany)",
   "collecting-museums": null,
   "first_name": "Renaud",
@@ -44,6 +44,14 @@
   "age_range": "26-40",
   "expos": {
     "2008": [
+      {
+        "i": "172541-10219-2008-03-02",
+        "c": "FR"
+      },
+      {
+        "i": "172541-10219-2008-03-02",
+        "c": "FR"
+      },
       {
         "i": "172541-13061-2008-06-21",
         "c": "DE",
@@ -110,9 +118,35 @@
           "2010-04-15",
           "2010-04-25"
         ]
+      },
+      {
+        "i": "172541-378-2010-06-26",
+        "c": "FR"
+      },
+      {
+        "i": "172541-378-2010-06-26",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "172541-14678-2011-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "172541-14678-2011-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "172541-378-2011-11-19",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "172541-378-2011-11-19",
+        "c": "FR"
+      },
       {
         "i": "172541-10625-2012-06-08",
         "c": "GB",
@@ -151,6 +185,16 @@
           "2012-01-28",
           "2012-03-17"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "172541-20451-2013-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "172541-20451-2013-03-21",
+        "c": "FR"
       }
     ],
     "2007": [

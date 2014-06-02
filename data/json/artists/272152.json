@@ -1,7 +1,7 @@
 {
   "id": "272152",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:51:43",
+  "timestamp": "2014-05-24 07:49:41",
   "name": "Emmanuel Berry",
   "surname": "Berry",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "34078",
-  "r01": "40034",
-  "r02": "36672",
-  "r03": "40325",
-  "r04": "56827",
-  "r05": "57872",
-  "r06": "76535",
-  "r07": null,
+  "r00": "28610",
+  "r01": "28386",
+  "r02": "34524",
+  "r03": "30475",
+  "r04": "33989",
+  "r05": "50341",
+  "r06": "51991",
+  "r07": "73200",
   "r08": null,
   "awards": null,
   "website": null,
@@ -34,7 +34,7 @@
   "2005-shows-museums": "1",
   "2005-countries-total": "France (6), Germany (2), Belgium (1)",
   "2005-shows-with": "Emmanuel Berry (2), Camille Bonnefoi (2)",
-  "representing-galleries": "Läkemäker (Schwedter Straße 17, 10119 Berlin, Germany); Wilson Stephens & Jones (71 Westbourne Park Road, W2 5QH London (England), United Kingdom)",
+  "representing-galleries": "Läkemäker (Schwedter Straße 17, 10119 Berlin, Germany); Wilson Stephens & Jones (71 Westbourne Park Road, W2 5QH London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "Emmanuel",
   "last_name": "Berry",
@@ -43,7 +43,53 @@
   "age": 43,
   "age_range": "41-60",
   "expos": {
+    "2007": [
+      {
+        "i": "272152-28288-2007-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "272152-28288-2007-01-13",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "272152-28288-2009-08-29",
+        "c": "FR"
+      },
+      {
+        "i": "272152-28288-2009-08-29",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "272152-28288-2011-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "272152-28288-2011-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "272152-23216-2011-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "272152-23216-2011-01-15",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "272152-23216-2008-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "272152-23216-2008-02-15",
+        "c": "FR"
+      },
       {
         "i": "272152-22694-2008-04-05",
         "c": "DE",
@@ -84,6 +130,24 @@
           "2010-08-03",
           "2010-09-11"
         ]
+      },
+      {
+        "i": "272152-23216-2010-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "272152-23216-2010-09-23",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "272152-8554-2013-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "272152-8554-2013-01-11",
+        "c": "FR"
       }
     ]
   }

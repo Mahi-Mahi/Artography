@@ -1,7 +1,7 @@
 {
   "id": "315184",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:08:17",
+  "timestamp": "2014-05-24 08:04:13",
   "name": "Eric Decastro",
   "surname": "Decastro",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Painting, Installation",
-  "r00": "31207",
-  "r01": "32758",
-  "r02": "63772",
-  "r03": "68565",
-  "r04": null,
+  "r00": "17012",
+  "r01": "20160",
+  "r02": "22710",
+  "r03": "47241",
+  "r04": "56099",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,13 +28,13 @@
   "awards": null,
   "website": "www.decatro-art.com",
   "all-shows-first": "2010",
-  "all-shows-total": "25",
-  "2005-shows-biennials": "21",
-  "2005-shows-galleries": "21",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "Germany (19), USA (3), France (1), Philippines (1)",
-  "2005-shows-with": "Eric Decastro (17), Anke Röhrscheid (7), Sandra Mann (6), DeDe Handon (5), Florian Heinke (4), Sofi Zezmer (4), Deniz Alt (3), Thomas Draschan (3), Nikolaj Dudek (3), Nadine Fecht (3), Jutta Heun (3), Simone van de Loo (3), Manfred Peckl (3), Nora Schattauer (3), Marcus Sendlinger (3), Klaus-Martin Treder (3), Pio Abad (2), Christian Achenbach (2), Sanell Aggenbach (2), Pablo Alonso (2), Axel Anklam (2), Nina Ansari (2), Salvatore Arancio (2), Alexandra Baumgartner (2), Matthias Beckmann (2), April Behnke (2), Marc Bijl (2), Zander Blom (2), Heiner Blumenthal (2), Armin Boehm (2), Jan-Henri Booyens (2), Christoph Borowiak (2), Wim Botha (2), Jonathan Bragdon (2), Monika Brandmeier (2), Lutz Braun (2), Reuben Breslar (2), Stuart Cairns (2), Ellen Cantor (2), Jessica Cebra (2), Ben Cottrell (2), Keith Coventry (2), Jos Diegel (2), Ulrich Diezmann (2), Sven Drühl (2), Peter Duka (2), Niels Ebert (2), Benjamin Edmiston (2), Annegret Emrich (2), Elisophie Eulenburg (2), Heiner Franzen (2), Jonathan Garnham (2), ",
-  "representing-galleries": "Galerie Younique (63-65 rue Pascal, 75013 Paris, France); Kunstraum Dreieich (Daimlerstrasse 1 K, 63303 Dreieich-Dreieichenhain, Germany); Galerie Schütte (Hauptsr. 4, Seiteneingang, 45219 Essen, Germany); Galerie Schrade - Schloss Mochental (bei Ehingen / Donau, 89584 Schloß Mochental, Germany); Galerie Rigassi (Münstergasse 62, 3011 Bern, Switzerland)",
+  "all-shows-total": "26",
+  "2005-shows-biennials": "22",
+  "2005-shows-galleries": "22",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "Germany (20), USA (3), France (2), Philippines (1), Slovenia (1)",
+  "2005-shows-with": "Eric Decastro (20), Anke Röhrscheid (9), Sandra Mann (7), DeDe Handon (5), Florian Heinke (5), Deniz Alt (4), Thomas Draschan (4), Simone van de Loo (4), Manfred Peckl (4), Marcus Sendlinger (4), Klaus-Martin Treder (4), Sofi Zezmer (4), Pio Abad (3), Christian Achenbach (3), Sanell Aggenbach (3), Pablo Alonso (3), Axel Anklam (3), Nina Ansari (3), Salvatore Arancio (3), Alexandra Baumgartner (3), Matthias Beckmann (3), Marc Bijl (3), Zander Blom (3), Armin Boehm (3), Jan-Henri Booyens (3), Wim Botha (3), Lutz Braun (3), Stuart Cairns (3), Ellen Cantor (3), Ben Cottrell (3), Keith Coventry (3), Jos Diegel (3), Ulrich Diezmann (3), Sven Drühl (3), Nikolaj Dudek (3), Peter Duka (3), Niels Ebert (3), Elisophie Eulenburg (3), Nadine Fecht (3), Heiner Franzen (3), Jonathan Garnham (3), Stephen Gibson (3), Andrew Gilbert (3), Georgina Gratrix (3), Liza Grobler (3), Ian Grose (3), Trasi Henen (3), Mike Hentz (3), Lori Hersberger (3), Jutta Heun (3), Gregor Hildebrandt (3), Stefan Hirsig (3), Johannes Hüppi (3), B",
+  "representing-galleries": "Galerie Younique (63-65 rue Pascal, 75013 Paris, France); Kunstraum Dreieich (Daimlerstrasse 1 K, 63303 Dreieich-Dreieichenhain, Germany); Galerie Schütte (Hauptsr. 4, 45219 Essen, Germany); Galerie Schrade - Schloss Mochental (bei Ehingen / Donau, 89584 Schloß Mochental, Germany)",
   "collecting-museums": null,
   "first_name": "Eric",
   "last_name": "Decastro",
@@ -400,6 +400,14 @@
           "2013-12-07",
           "2014-01-11"
         ]
+      },
+      {
+        "i": "315184-28221-2013-04-04",
+        "c": "FR"
+      },
+      {
+        "i": "315184-28221-2013-04-04",
+        "c": "FR"
       }
     ],
     "2014": [

@@ -16,7 +16,17 @@
   "fairs-abroad": "10",
   "fairs-in-FR": "9",
   "fairs": {
+    "2005": [
+      {
+        "i": "4176-Fiac 2005",
+        "c": "FR"
+      }
+    ],
     "2006": [
+      {
+        "i": "4176-Fiac 2006",
+        "c": "FR"
+      },
       {
         "i": "4176-Design Miami 2006",
         "c": "US",
@@ -38,6 +48,10 @@
         "ct": "London (England)"
       },
       {
+        "i": "4176-Fiac 2007",
+        "c": "FR"
+      },
+      {
         "i": "4176-Design Miami 2007",
         "c": "US",
         "n": "Design Miami 2007",
@@ -56,6 +70,10 @@
         "c": "CH",
         "n": "Design Miami/ Basel 2008",
         "ct": "Basel"
+      },
+      {
+        "i": "4176-Fiac 2008",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -64,6 +82,10 @@
         "c": "NL",
         "n": "TEFAF Maastricht 2009",
         "ct": "Maastricht"
+      },
+      {
+        "i": "4176-Fiac 2009",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -72,6 +94,10 @@
         "c": "NL",
         "n": "TEFAF Maastricht 2010",
         "ct": "Maastricht"
+      },
+      {
+        "i": "4176-ArtParis 2010",
+        "c": "FR"
       },
       {
         "i": "4176-Design Miami/Basel 2010",
@@ -95,6 +121,10 @@
       }
     ],
     "2012": [
+      {
+        "i": "4176-Pavilion of Art & Design 2012",
+        "c": "FR"
+      },
       {
         "i": "4176-Design Miami",
         "c": "US",

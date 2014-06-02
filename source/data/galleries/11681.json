@@ -16,5 +16,29 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "4",
   "fairs": {
+    "2007": [
+      {
+        "i": "11681-Docks Art Fair 2007",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "11681-Docks Art Fair 2009",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "11681-DocksArtFair 2011",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "11681-DocksArtFair 2013",
+        "c": "FR"
+      }
+    ]
   }
 }

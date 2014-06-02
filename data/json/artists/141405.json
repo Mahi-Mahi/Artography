@@ -1,7 +1,7 @@
 {
   "id": "141405",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:01:00",
+  "timestamp": "2014-05-24 07:04:50",
   "name": "Cathryn Boch",
   "surname": "Boch",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "10691",
-  "r01": "15052",
-  "r02": "14744",
-  "r03": "13439",
-  "r04": "22371",
-  "r05": "51123",
-  "r06": "66115",
-  "r07": "58203",
-  "r08": "59903",
+  "r00": "8002",
+  "r01": "8028",
+  "r02": "12335",
+  "r03": "11846",
+  "r04": "10422",
+  "r05": "18160",
+  "r06": "47937",
+  "r07": "66405",
+  "r08": "57626",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "12",
+  "all-shows-total": "13",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (7), Switzerland (3)",
-  "2005-shows-with": "Cathryn Boch (8), Aïcha Hamu (3), Marc Bauer (2), Santiago Borja (2), Angelo Filomeno (2), Piero Gilardi (2), Kimsooja (2), Julie Legrand (2), Patrick Neu (2), Javier Pérez (2), Miguel Rothschild (2), Eduardo Sarabia (2), Gregg Smith (2)",
-  "representing-galleries": "Galerie Sébastien Bertrand (16 rue du Simplon, 1207 Geneva, Switzerland)",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (8), Switzerland (3)",
+  "2005-shows-with": "Cathryn Boch (9), Marc Bauer (3), Aïcha Hamu (3), Javier Pérez (3), Dove Allouche (2), Rina Banerjee (2), Santiago Borja (2), Erik Dietman (2), Marcel Dzama (2), Philippe Favier (2), Angelo Filomeno (2), Vidya Gastaldon (2), Piero Gilardi (2), Leiko Ikemura (2), Kimsooja (2), Julie Legrand (2), Robert Longo (2), Fabien Mérelle (2), Patrick Neu (2), Tony Oursler (2), Pavel Pepperstein (2), Miguel Rothschild (2), Eduardo Sarabia (2), Anne-Marie Schneider (2), Gregg Smith (2), Gert & Uwe Tobias (2)",
+  "representing-galleries": "Galerie Sébastien Bertrand (Rue du Simplon 16, 1207 Geneva, Switzerland); Galerie Sébastien Bertrand (Rue Etienne Dumont 14, 1204 Geneva, Switzerland)",
   "collecting-museums": null,
   "first_name": "Cathryn",
   "last_name": "Boch",
@@ -43,7 +43,43 @@
   "age": 46,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "141405-1963-2006-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "141405-1963-2006-11-06",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "141405-14159-2008-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "141405-14159-2008-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "141405-1963-2008-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "141405-1963-2008-07-05",
+        "c": "FR"
+      }
+    ],
     "2009": [
+      {
+        "i": "141405-20029-2009-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "141405-20029-2009-01-08",
+        "c": "FR"
+      },
       {
         "i": "141405-1778-2009-10-28",
         "c": "CH",
@@ -84,6 +120,44 @@
           "2010-06-02",
           "2010-09-19"
         ]
+      },
+      {
+        "i": "141405-1963-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "141405-1963-2010-06-05",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "141405-1963-2011-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "141405-1963-2011-10-20",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "141405-29986-2013-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "141405-29986-2013-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "141405-2219-2013-10-16",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "141405-2219-2013-10-16",
+        "c": "FR"
       }
     ],
     "2012": [

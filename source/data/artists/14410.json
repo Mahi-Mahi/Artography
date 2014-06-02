@@ -1,7 +1,7 @@
 {
   "id": "14410",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:00",
+  "timestamp": "2014-05-24 06:20:39",
   "name": "Stéphane Pencreach",
   "surname": "Pencreach",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Sculpture",
-  "r00": "5072",
-  "r01": "5079",
-  "r02": "4823",
-  "r03": "4345",
-  "r04": "4338",
-  "r05": "4088",
-  "r06": "4148",
-  "r07": "3754",
-  "r08": "4377",
+  "r00": "6591",
+  "r01": "5856",
+  "r02": "5863",
+  "r03": "5208",
+  "r04": "4487",
+  "r05": "4360",
+  "r06": "3948",
+  "r07": "4004",
+  "r08": "3504",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
-  "all-shows-total": "52",
+  "all-shows-total": "53",
   "2005-shows-biennials": "15",
   "2005-shows-galleries": "15",
-  "2005-shows-museums": "12",
-  "2005-countries-total": "France (18), Germany (7), Belgium (1), Croatia (1), Luxembourg (1), Switzerland (1)",
+  "2005-shows-museums": "13",
+  "2005-countries-total": "France (19), Germany (7), Belgium (1), Croatia (1), Luxembourg (1), Switzerland (1)",
   "2005-shows-with": "Stéphane Pencreach (23), Marc Desgrandchamps (4), John Isaacs (4), Denis Castellas (3), Robert Combas (3), Christof Kohlhöfer (3), Kosta Kulundzic (3), Ronald Ophuis (3), Tim Roda (3), Pat Andréa (2), Karel Appel (2), Ronan Barrot (2), Mathieu Boisadan (2), Dineo Bopape (2), Olaf Breuning (2), Marc Chagall (2), Philippe Cognée (2), Vincent Corpet (2), Corey D\\'Augustine (2), Max Ernst (2), Christian Ertel (2), Stelios Faitakis (2), Valérie Favre (2), Gregory Forstner (2), Wolfgang Ganter (2), Andrew Gilbert (2), Samara Golden (2), Michel Gouéry (2), David Hardy (2), Axel Heil (2), Kaori Kinoshita (2), Schirin Kretschmann (2), Bernhard Martin (2), Dirk Meinzer (2), Dawn Mellor (2), Alain della Negra (2), Axel Pahlavi (2), Jürgen Palmtag (2), Simon Pasieka (2), Wolf Pehlke (2), Pablo Picasso (2), Ernest Pignon Ernest (2), David Porchy (2), Léopold Rabus (2), Gilad Ratman (2), Marko Velk (2), Vuk Vidor (2), Alun Williams (2)",
-  "representing-galleries": "Galerie Hambursin-Boisanté (15, Bd du jeu de Paume, 34000 Montpellier, France); Trafic Galerie (13 Cité de L’ameublement, 75011 Paris, France); Galerie Anne de Villepoix (43, rue de Montmorency, 75003 Paris, France); Frisch (Halle am Wasser - Invalidenstrasse 50-51, 10557 Berlin, Germany); Ferenbalm-Gurbrü Station (,  Karlsruhe, Germany)",
+  "representing-galleries": "Galerie Hambursin-Boisanté (15, Bd du jeu de Paume, 34000 Montpellier, France); Trafic Galerie (13 Cité de L’ameublement, 75011 Paris, France); Galerie Anne de Villepoix (43, rue de Montmorency, 75003 Paris, France); Frisch (Halle am Wasser - Invalidenstrasse 50-51, 10557 Berlin, Germany)",
   "collecting-museums": "FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Musée Régional D'Art Contemporain Languedoc-Roussillon (146, avenue de la plage, 34 410 Sérignan, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France)",
   "first_name": "Stéphane",
   "last_name": "Pencreach",
@@ -58,6 +58,14 @@
         ]
       },
       {
+        "i": "14410-2528-2005-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "14410-2528-2005-06-18",
+        "c": "FR"
+      },
+      {
         "i": "14410-2582-2005-12-14",
         "c": "GR",
         "n": "The Frissiras Museum Contemporary European Painting Award",
@@ -69,6 +77,14 @@
           "2005-12-14",
           "2006-02-12"
         ]
+      },
+      {
+        "i": "14410-1963-2005-04-21",
+        "c": "FR"
+      },
+      {
+        "i": "14410-1963-2005-04-21",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -84,6 +100,14 @@
           "2005-12-14",
           "2006-02-12"
         ]
+      },
+      {
+        "i": "14410-26765-2006-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "14410-26765-2006-05-10",
+        "c": "FR"
       },
       {
         "i": "14410-2546-2006-09-23",
@@ -138,9 +162,25 @@
           "2007-10-26",
           "2007-12-06"
         ]
+      },
+      {
+        "i": "14410-1963-2007-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "14410-1963-2007-06-23",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "14410-27842-2008-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "14410-27842-2008-01-12",
+        "c": "FR"
+      },
       {
         "i": "14410-3737-2008-04-19",
         "c": "LU",
@@ -166,9 +206,33 @@
           "2008-06-15",
           "2008-07-27"
         ]
+      },
+      {
+        "i": "14410-741-2008-12-06",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "14410-741-2008-12-06",
+        "c": "FR"
+      },
+      {
+        "i": "14410-16752-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "14410-16752-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "14410-7910-2009-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "14410-7910-2009-03-14",
+        "c": "FR"
+      },
       {
         "i": "14410-11343-2009-07-10",
         "c": "DE",
@@ -220,6 +284,14 @@
           "2009-06-20",
           "2009-08-01"
         ]
+      },
+      {
+        "i": "14410-27973-2009-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "14410-27973-2009-07-03",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -237,6 +309,38 @@
         ]
       },
       {
+        "i": "14410-2090-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "14410-2090-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "14410-4179-2010-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "14410-4179-2010-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "14410-8545-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "14410-8545-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "14410-26536-2010-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "14410-26536-2010-05-28",
+        "c": "FR"
+      },
+      {
         "i": "14410-1023-2010-11-12",
         "c": "CH",
         "n": "A vos papiers",
@@ -248,6 +352,22 @@
           "2010-11-12",
           "2011-01-18"
         ]
+      },
+      {
+        "i": "14410-1963-2010-01-16",
+        "c": "FR"
+      },
+      {
+        "i": "14410-1963-2010-01-16",
+        "c": "FR"
+      },
+      {
+        "i": "14410-27953-2010-03-26",
+        "c": "FR"
+      },
+      {
+        "i": "14410-27953-2010-03-26",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -265,6 +385,14 @@
         ]
       },
       {
+        "i": "14410-4467-2011-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "14410-4467-2011-02-17",
+        "c": "FR"
+      },
+      {
         "i": "14410-17611-2011-07-09",
         "c": "DE",
         "n": "Sommer Hängung",
@@ -276,9 +404,25 @@
           "2011-07-09",
           "2011-09-03"
         ]
+      },
+      {
+        "i": "14410-26373-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "14410-27973-2011-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "14410-27973-2011-07-01",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "14410-26373-2011-11-19",
+        "c": "FR"
+      },
       {
         "i": "14410-1715-2012-09-07",
         "c": "BE",
@@ -291,9 +435,33 @@
           "2012-09-07",
           "2012-10-27"
         ]
+      },
+      {
+        "i": "14410-1963-2012-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "14410-1963-2012-05-12",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "14410-27953-2013-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "14410-27953-2013-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "14410-17115-2013-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "14410-17115-2013-01-19",
+        "c": "FR"
+      },
       {
         "i": "14410-5313-2013-01-25",
         "c": "HR",
@@ -306,6 +474,14 @@
           "2013-01-25",
           "2013-03-16"
         ]
+      },
+      {
+        "i": "14410-5458-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "14410-5458-2013-02-02",
+        "c": "FR"
       },
       {
         "i": "14410-4963-2013-06-17",
@@ -322,21 +498,6 @@
       }
     ],
     "2014": [
-      {
-        "i": "14410-4963-2013-06-17",
-        "c": "DE",
-        "n": "Menagerie - Tierschau aus der Sammlung Würth",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Schwäbisch Hall\t",
-        "o": "Kunsthalle Würth",
-        "d": [
-          "2013-06-17",
-          "2014-05-11"
-        ]
-      }
-    ],
-    "today": [
       {
         "i": "14410-4963-2013-06-17",
         "c": "DE",

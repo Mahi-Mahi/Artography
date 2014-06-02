@@ -1,7 +1,7 @@
 {
   "id": "36196",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:18:36",
+  "timestamp": "2014-05-24 06:28:43",
   "name": "Miguel Egaña",
   "surname": "Egaña",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "20106",
-  "r01": "32042",
-  "r02": "27667",
-  "r03": "24387",
-  "r04": "21759",
-  "r05": "19808",
-  "r06": "16389",
-  "r07": "13385",
-  "r08": "10615",
+  "r00": "22670",
+  "r01": "24751",
+  "r02": "61456",
+  "r03": "45061",
+  "r04": "34296",
+  "r05": "28998",
+  "r06": "25297",
+  "r07": "18816",
+  "r08": "14036",
   "awards": null,
   "website": null,
   "all-shows-first": "1990",
-  "all-shows-total": "8",
+  "all-shows-total": "9",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (5)",
-  "2005-shows-with": "Miguel Egaña (5), Léa Bénétou (2), Pierre Budet (2), Yvan Le Bozec (2), Joachim Monvoisin (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (6)",
+  "2005-shows-with": "Miguel Egaña (6), Léa Bénétou (2), Pierre Budet (2), Yvan Le Bozec (2), Joachim Monvoisin (2)",
   "representing-galleries": null,
   "collecting-museums": "Musée de l’Objet (6 rue Franciade, 41000 Blois, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); Mamco - musée d´art moderne et contemporain (10 rue des Vieux-Grenadiers, CH-1205 Geneva, Switzerland)",
   "first_name": "Miguel",
@@ -43,5 +43,53 @@
   "age": 62,
   "age_range": "61-100",
   "expos": {
+    "2009": [
+      {
+        "i": "36196-21098-2009-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "36196-21098-2009-07-05",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "36196-22952-2010-12-02",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "36196-22952-2010-12-02",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "36196-7811-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "36196-7811-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "36196-27178-2013-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "36196-27178-2013-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "36196-27178-2013-07-11",
+        "c": "FR"
+      },
+      {
+        "i": "36196-27178-2013-07-11",
+        "c": "FR"
+      }
+    ]
   }
 }

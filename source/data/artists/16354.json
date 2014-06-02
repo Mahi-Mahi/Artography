@@ -1,7 +1,7 @@
 {
   "id": "16354",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:51",
+  "timestamp": "2014-05-24 06:21:25",
   "name": "Denis Monfleur",
   "surname": "Monfleur",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "49330",
-  "r01": "69927",
-  "r02": "64947",
-  "r03": "72861",
-  "r04": "66263",
-  "r05": "59738",
-  "r06": "65381",
-  "r07": "61105",
-  "r08": "52726",
+  "r00": "44222",
+  "r01": "43988",
+  "r02": "68040",
+  "r03": "61645",
+  "r04": "71636",
+  "r05": "64014",
+  "r06": "56642",
+  "r07": "63506",
+  "r08": "59224",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
@@ -35,7 +35,7 @@
   "2005-countries-total": "France (4)",
   "2005-shows-with": "Ronan Barrot (2), Denis Monfleur (2)",
   "representing-galleries": "Galerie Nathalie Gaillard (112 avenue Kléber, 75016 Paris, France); Galerie Guigon (39, rue de Charenton, 75012 Paris, France)",
-  "collecting-museums": "Creator Vesevo (,  Ercolano (NA), Italy)",
+  "collecting-museums": "Creator Vesevo (,  Ercolano, NA, Italy)",
   "first_name": "Denis",
   "last_name": "Monfleur",
   "genre": "m",
@@ -56,6 +56,62 @@
           "2005-08-01",
           "2005-10-29"
         ]
+      },
+      {
+        "i": "16354-11827-2005-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "16354-11827-2005-09-17",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "16354-23441-2007-09-01",
+        "c": "FR"
+      },
+      {
+        "i": "16354-23441-2007-09-01",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "16354-2007-2011-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "16354-2007-2011-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "16354-2007-2011-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "16354-2007-2011-10-13",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "16354-11827-2008-01-16",
+        "c": "FR"
+      },
+      {
+        "i": "16354-11827-2008-01-16",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16354-2007-2013-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "16354-2007-2013-04-24",
+        "c": "FR"
       }
     ]
   }

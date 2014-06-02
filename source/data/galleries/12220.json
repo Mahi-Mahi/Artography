@@ -24,7 +24,31 @@
         "ct": "Zurich"
       }
     ],
+    "2008": [
+      {
+        "i": "12220-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
+        "i": "12220-Show Off Paris 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "12220-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
+        "i": "12220-Docks Art Fair 2009",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "12220-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
       {
         "i": "12220-Loop Barcelona 2010",
         "c": "ES",
@@ -34,18 +58,48 @@
     ],
     "2011": [
       {
+        "i": "12220-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
         "i": "12220-Loop - The Video Art Fair 2011",
         "c": "ES",
         "n": "Loop - The Video Art Fair 2011",
         "ct": "Barcelona"
+      },
+      {
+        "i": "12220-DocksArtFair 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "12220-Slick Brussels 2012",
+        "c": "FR"
+      },
+      {
+        "i": "12220-Paris Photo 2012",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "12220-Lille Art Fair 2013",
+        "c": "FR"
+      },
       {
         "i": "12220-Art Brussels 2013",
         "c": "BE",
         "n": "Art Brussels 2013",
         "ct": "Brussels"
+      },
+      {
+        "i": "12220-Yia Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "12220-Paris Photo 2013",
+        "c": "FR"
       }
     ]
   }

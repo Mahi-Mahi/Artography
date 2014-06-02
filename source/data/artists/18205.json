@@ -1,7 +1,7 @@
 {
   "id": "18205",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:46",
+  "timestamp": "2014-05-24 06:22:10",
   "name": "Karina Bisch",
   "surname": "Bisch",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "6639",
-  "r01": "6376",
-  "r02": "5803",
-  "r03": "5742",
-  "r04": "6089",
-  "r05": "6805",
-  "r06": "8101",
-  "r07": "8523",
-  "r08": "11071",
+  "r00": "6570",
+  "r01": "6044",
+  "r02": "5791",
+  "r03": "4958",
+  "r04": "4870",
+  "r05": "5154",
+  "r06": "5982",
+  "r07": "7412",
+  "r08": "7628",
   "awards": null,
-  "website": null,
+  "website": "karina.bisch.free.fr",
   "all-shows-first": "1999",
-  "all-shows-total": "46",
-  "2005-shows-biennials": "10",
-  "2005-shows-galleries": "10",
+  "all-shows-total": "47",
+  "2005-shows-biennials": "11",
+  "2005-shows-galleries": "11",
   "2005-shows-museums": "14",
-  "2005-countries-total": "France (18), Italy (2), Belgium (1), Hungary (1), Luxembourg (1), Netherlands (1), Switzerland (1), United Kingdom (1), USA (1)",
+  "2005-countries-total": "France (18), Italy (2), United Kingdom (2), Belgium (1), Hungary (1), Luxembourg (1), Netherlands (1), Switzerland (1), USA (1)",
   "2005-shows-with": "Karina Bisch (25), Nicolas Chardon (10), Mathieu Mercier (5), Olivier Mosset (5), Clément Rodzielski (5), Raphaël Zarka (5), Gyan Panchal (4), Evariste Richer (4), Heimo Zobernig (4), Stéphane Dafflon (3), Seth Price (3), Reena Spaulings (3), Pierre Vadi (3), Saâdane Afif (2), Justin Andrews (2), John M Armleder (2), Katinka Bock (2), Ulla von Brandenburg (2), Harry Callahan (2), Claude Closky (2), Isabelle Cornaro (2), Dewar & Gicquel (2), Florence Doléac (2), Sylvie Fanchon (2), Katharina Fritsch (2), Wade Guyton (2), Terry Haggerty (2), Thomas Hirschhorn (2), On Kawara (2), Emil Michael Klein (2), Imi Knoebel (2), Jeff Koons (2), Pierre Labat (2), Pierre Leguillon (2), Renée Lévi (2), Benoît Maire (2), Enzo Mari (2), Genêt Mayor (2), Joachim Mogarra (2), Laurent Montaron (2), François Morellet (2), Simon Nicaise (2), Hugo Pernet (2), Falke Pisano (2), Hugues Reip (2), Thomas Ruff (2), Tatiana Trouvé (2), Jessica Warboys (2), Jens Wolf (2)",
-  "representing-galleries": "Dépendance (Rue du marché aux porcs 4, 1000 Brussels, Belgium); fluxia (via ciro menotti 9, 20129 Milan, Italy)",
+  "representing-galleries": "fluxia (via ciro menotti 9, 20129 Milan, Italy); Hilary Crisp Gallery (2nd Floor, 33 White Church Lane, E1 7QR London, United Kingdom)",
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC Aquitaine (Hangar G2, Bassin à flot n°1, Quai Armand Lalande, 33300 Bordeaux, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); The West Collection (SEI Investments Company,  Oaks, PA, USA)",
   "first_name": "Karina",
   "last_name": "Bisch",
@@ -43,7 +43,46 @@
   "age": 40,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "18205-9316-2005-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "18205-9316-2005-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "18205-10227-2005-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "18205-10227-2005-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "18205-5256-2005-10-15",
+        "c": "BE",
+        "n": "amours modernes",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "Dépendance",
+        "d": [
+          "2005-10-15",
+          "2005-11-15"
+        ]
+      }
+    ],
     "2006": [
+      {
+        "i": "18205-19804-2006-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "18205-19804-2006-02-25",
+        "c": "FR"
+      },
       {
         "i": "18205-12128-2006-07-15",
         "c": "NL",
@@ -56,6 +95,14 @@
           "2006-07-15",
           "2006-07-23"
         ]
+      },
+      {
+        "i": "18205-12129-2006-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "18205-12129-2006-09-24",
+        "c": "FR"
       },
       {
         "i": "18205-3540-2006-03-11",
@@ -112,6 +159,14 @@
         ]
       },
       {
+        "i": "18205-10229-2007-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "18205-10229-2007-10-11",
+        "c": "FR"
+      },
+      {
         "i": "18205-14037-2007-10-27",
         "c": "PT",
         "n": "utopomorfias / utopomorphies",
@@ -166,6 +221,54 @@
         ]
       },
       {
+        "i": "18205-8285-2008-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "18205-8285-2008-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "18205-10522-2008-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "18205-10522-2008-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "18205-16035-2008-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "18205-16035-2008-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "18205-11627-2008-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "18205-11627-2008-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "18205-11627-2008-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "18205-11627-2008-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "18205-11586-2008-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "18205-11586-2008-05-16",
+        "c": "FR"
+      },
+      {
         "i": "18205-12130-2008-12-05",
         "c": "BE",
         "n": "YO, MO’ MODERNISM 2",
@@ -194,6 +297,14 @@
         ]
       },
       {
+        "i": "18205-8285-2009-01-16",
+        "c": "FR"
+      },
+      {
+        "i": "18205-8285-2009-01-16",
+        "c": "FR"
+      },
+      {
         "i": "18205-9367-2009-01-17",
         "c": "NL",
         "n": "PS 1999 - 2009",
@@ -220,6 +331,18 @@
         ]
       },
       {
+        "i": "18205-8282-2009-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "18205-8282-2009-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "18205-21696-2009-11-14",
+        "c": "FR"
+      },
+      {
         "i": "18205-22002-2009-12-03",
         "c": "IT",
         "n": "Chiaro di luna",
@@ -234,6 +357,42 @@
       }
     ],
     "2010": [
+      {
+        "i": "18205-21696-2009-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "18205-1293-2010-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "18205-1293-2010-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "18205-20082-2010-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "18205-20082-2010-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "18205-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "18205-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "18205-1522-2010-06-26",
+        "c": "FR"
+      },
+      {
+        "i": "18205-1522-2010-06-26",
+        "c": "FR"
+      },
       {
         "i": "18205-21685-2010-06-30",
         "c": "IT",
@@ -263,6 +422,14 @@
     ],
     "2011": [
       {
+        "i": "18205-8285-2011-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "18205-8285-2011-01-28",
+        "c": "FR"
+      },
+      {
         "i": "18205-11558-2011-11-05",
         "c": "US",
         "n": "Historia Mysteria",
@@ -291,6 +458,14 @@
     ],
     "2012": [
       {
+        "i": "18205-9120-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "18205-9120-2012-02-25",
+        "c": "FR"
+      },
+      {
         "i": "18205-18196-2012-09-08",
         "c": "GB",
         "n": "Karina Bisch, Yelena Popova, Mary Simpson",
@@ -317,19 +492,30 @@
         ]
       }
     ],
-    "2005": [
+    "2013": [
       {
-        "i": "18205-5256-2005-10-15",
-        "c": "BE",
-        "n": "amours modernes",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Brussels",
-        "o": "Dépendance",
-        "d": [
-          "2005-10-15",
-          "2005-11-15"
-        ]
+        "i": "18205-29077-2013-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "18205-29077-2013-03-29",
+        "c": "FR"
+      },
+      {
+        "i": "18205-8285-2013-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "18205-8285-2013-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "18205-29251-2013-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "18205-29251-2013-05-24",
+        "c": "FR"
       }
     ]
   }

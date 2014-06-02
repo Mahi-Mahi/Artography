@@ -1,7 +1,7 @@
 {
   "id": "49623",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:24:01",
+  "timestamp": "2014-05-24 06:33:31",
   "name": "Loîc Raguénès",
   "surname": "Raguénès",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "4491",
-  "r01": "4148",
-  "r02": "3802",
-  "r03": "3988",
-  "r04": "4121",
-  "r05": "4590",
-  "r06": "4989",
-  "r07": "6861",
-  "r08": "8109",
+  "r00": "4750",
+  "r01": "4679",
+  "r02": "3979",
+  "r03": "3387",
+  "r04": "3524",
+  "r05": "3595",
+  "r06": "3981",
+  "r07": "4383",
+  "r08": "6367",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "48",
-  "2005-shows-biennials": "11",
-  "2005-shows-galleries": "11",
+  "all-shows-total": "49",
+  "2005-shows-biennials": "12",
+  "2005-shows-galleries": "12",
   "2005-shows-museums": "13",
-  "2005-countries-total": "France (19), Belgium (3), Austria (2), Switzerland (2), Germany (1), Netherlands (1), USA (1)",
-  "2005-shows-with": "Loîc Raguénès (18), Olivier Babin (3), Jean-Luc Moerman (3), Raymond Pettibon (3), Philippe Ramette (3), Alain Séchas (3), Ida Tursic & Wilfried Mille (3), Yves Bélorgey (2), Julien Beneyton (2), Nina Childress (2), Claude Closky (2), Robert Combas (2), Isabelle Cornaro (2), Vincent Corpet (2), Philippe Decrauzat (2), Katharina Fritsch (2), Cyprien Gaillard (2), Philippe Gronon (2), Corentin Grossmann (2), Richard Hamilton (2), Armand Jalut (2), Mathieu Mercier (2), Bruno Peinado (2), Bernard Piffaretti (2), Hugues Reip (2), Ugo Rondinone (2), Thomas Ruff (2), Hans Schabus (2), Gregor Schneider (2), Nathalie Talec (2), Rémy Zaugg (2)",
+  "2005-countries-total": "France (21), Belgium (3), Austria (2), Switzerland (2), Germany (1), Netherlands (1), USA (1)",
+  "2005-shows-with": "Loîc Raguénès (19), Olivier Babin (3), Jean-Luc Moerman (3), Bruno Peinado (3), Raymond Pettibon (3), Philippe Ramette (3), Alain Séchas (3), Ida Tursic & Wilfried Mille (3), Yves Bélorgey (2), Julien Beneyton (2), Nina Childress (2), Claude Closky (2), Robert Combas (2), Isabelle Cornaro (2), Vincent Corpet (2), Philippe Decrauzat (2), Katharina Fritsch (2), Cyprien Gaillard (2), Philippe Gronon (2), Corentin Grossmann (2), Richard Hamilton (2), Armand Jalut (2), Mathieu Mercier (2), Bernard Piffaretti (2), Hugues Reip (2), Ugo Rondinone (2), Thomas Ruff (2), Hans Schabus (2), Gregor Schneider (2), Nathalie Talec (2), Rémy Zaugg (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France)",
   "first_name": "Loîc",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "49623-10218-2005-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "49623-10218-2005-03-12",
+        "c": "FR"
+      },
       {
         "i": "49623-3737-2005-10-01",
         "c": "LU",
@@ -56,6 +64,10 @@
           "2005-10-01",
           "2005-12-04"
         ]
+      },
+      {
+        "i": "49623-8128-2005-04-23",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -71,9 +83,83 @@
           "2006-02-25",
           "2006-04-23"
         ]
+      },
+      {
+        "i": "49623-11581-2006-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "49623-11581-2006-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8128-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8128-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8128-2006-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8128-2006-06-25",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "49623-2585-2007-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "49623-2585-2007-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8128-2007-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8128-2007-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "49623-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "49623-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8285-2007-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8285-2007-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8282-2007-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "49623-7390-2007-12-13",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "49623-8282-2007-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "49623-7390-2007-12-13",
+        "c": "FR"
+      },
       {
         "i": "49623-11599-2008-07-05",
         "c": "AT",
@@ -101,6 +187,14 @@
         ]
       },
       {
+        "i": "49623-1977-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "49623-1977-2008-09-06",
+        "c": "FR"
+      },
+      {
         "i": "49623-285-2008-10-04",
         "c": "AT",
         "n": "Landscope",
@@ -112,9 +206,57 @@
           "2008-10-04",
           "2008-11-15"
         ]
+      },
+      {
+        "i": "49623-8700-2008-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8700-2008-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "49623-11247-2008-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "49623-11247-2008-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "49623-14600-2008-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "49623-14600-2008-09-11",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "49623-9475-2009-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "49623-9475-2009-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "49623-16752-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "49623-16752-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "49623-28534-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "49623-28534-2009-06-18",
+        "c": "FR"
+      },
       {
         "i": "49623-1023-2009-09-18",
         "c": "CH",
@@ -127,6 +269,26 @@
           "2009-09-18",
           "2009-10-30"
         ]
+      },
+      {
+        "i": "49623-21159-2009-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "49623-9947-2009-04-25",
+        "c": "FR"
+      },
+      {
+        "i": "49623-9947-2009-04-25",
+        "c": "FR"
+      },
+      {
+        "i": "49623-11883-2009-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "49623-11883-2009-06-19",
+        "c": "FR"
       },
       {
         "i": "49623-9493-2009-10-31",
@@ -142,7 +304,97 @@
         ]
       }
     ],
+    "2010": [
+      {
+        "i": "49623-21159-2009-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "49623-9344-2010-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "49623-9947-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "49623-9947-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "49623-4184-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "49623-4184-2010-06-05",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "49623-9344-2010-11-26",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8282-2011-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8282-2011-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8520-2011-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8121-2011-12-21",
+        "c": "FR"
+      },
+      {
+        "i": "49623-27214-2011-05-27",
+        "c": "BE",
+        "n": "Loïc Raguénès.",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "CLEARING - Brussels",
+        "d": [
+          "2011-05-27",
+          "2011-08-29"
+        ]
+      },
+      {
+        "i": "49623-27287-2011-05-27",
+        "c": "US",
+        "n": "Pierre Brossolette",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "CLEARING - New York",
+        "d": [
+          "2011-05-27",
+          "2011-08-29"
+        ]
+      }
+    ],
     "2012": [
+      {
+        "i": "49623-8520-2011-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "49623-8121-2011-12-21",
+        "c": "FR"
+      },
+      {
+        "i": "49623-21696-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "49623-21696-2012-01-27",
+        "c": "FR"
+      },
       {
         "i": "49623-10220-2012-06-06",
         "c": "DE",
@@ -155,6 +407,14 @@
           "2012-06-06",
           "2012-09-16"
         ]
+      },
+      {
+        "i": "49623-16505-2012-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "49623-16505-2012-06-11",
+        "c": "FR"
       },
       {
         "i": "49623-27214-2012-10-13",
@@ -183,34 +443,14 @@
           "2013-01-26",
           "2013-03-23"
         ]
-      }
-    ],
-    "2011": [
-      {
-        "i": "49623-27214-2011-05-27",
-        "c": "BE",
-        "n": "Loïc Raguénès.",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Brussels",
-        "o": "CLEARING - Brussels",
-        "d": [
-          "2011-05-27",
-          "2011-08-29"
-        ]
       },
       {
-        "i": "49623-27287-2011-05-27",
-        "c": "US",
-        "n": "Pierre Brossolette",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "New York City, NY",
-        "o": "CLEARING - New York",
-        "d": [
-          "2011-05-27",
-          "2011-08-29"
-        ]
+        "i": "49623-20542-2013-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "49623-20542-2013-02-16",
+        "c": "FR"
       }
     ]
   }

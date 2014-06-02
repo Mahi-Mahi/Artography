@@ -1,7 +1,7 @@
 {
   "id": "188379",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:19:23",
+  "timestamp": "2014-05-24 07:21:00",
   "name": "Muriel Rodolosse",
   "surname": "Rodolosse",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "29258",
-  "r01": "27325",
-  "r02": "39718",
-  "r03": "66493",
-  "r04": "66995",
-  "r05": "60356",
-  "r06": "85289",
-  "r07": "76466",
-  "r08": "66949",
+  "r00": "17608",
+  "r01": "17680",
+  "r02": "15872",
+  "r03": "28033",
+  "r04": "55505",
+  "r05": "57093",
+  "r06": "50593",
+  "r07": "87275",
+  "r08": "77971",
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
@@ -32,8 +32,8 @@
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (4)",
-  "2005-shows-with": "Muriel Rodolosse (3)",
+  "2005-countries-total": "France (5)",
+  "2005-shows-with": "Muriel Rodolosse (4)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Muriel",
@@ -43,5 +43,45 @@
   "age": 50,
   "age_range": "41-60",
   "expos": {
+    "2008": [
+      {
+        "i": "188379-8285-2008-05-23",
+        "c": "FR"
+      },
+      {
+        "i": "188379-8285-2008-05-23",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "188379-10679-2010-10-23",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "188379-10679-2010-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "188379-8285-2011-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "188379-8285-2011-06-09",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "188379-2303-2012-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "188379-2303-2012-03-06",
+        "c": "FR"
+      }
+    ]
   }
 }

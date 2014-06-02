@@ -16,5 +16,21 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "3",
   "fairs": {
+    "2007": [
+      {
+        "i": "13891-Les Elysées de l'Art - 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "13891-Art Elysées 2008",
+        "c": "FR"
+      },
+      {
+        "i": "13891-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ]
   }
 }

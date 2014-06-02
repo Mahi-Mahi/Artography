@@ -1,7 +1,7 @@
 {
   "id": "108281",
-  "mergedIDs": "436432,370866",
-  "timestamp": "2014-02-22 06:47:43",
+  "mergedIDs": "441050,436691,436432,370866",
+  "timestamp": "2014-05-24 06:53:45",
   "name": "JR",
   "surname": "JR",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "4956",
-  "r01": "6013",
-  "r02": "6702",
-  "r03": "8921",
-  "r04": "12683",
-  "r05": "12160",
-  "r06": "13514",
-  "r07": "25689",
-  "r08": "31139",
+  "r00": "2843",
+  "r01": "3462",
+  "r02": "4428",
+  "r03": "4894",
+  "r04": "6993",
+  "r05": "11110",
+  "r06": "11129",
+  "r07": "12674",
+  "r08": "30113",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
-  "all-shows-total": "40",
-  "2005-shows-biennials": "15",
-  "2005-shows-galleries": "15",
-  "2005-shows-museums": "11",
-  "2005-countries-total": "France (6), USA (6), United Kingdom (5), Germany (4), China (3), Japan (2), Austria (1), Cambodia (1), Cuba (1), Italy (1)",
-  "2005-shows-with": "JR (22), Blu (5), Os Gemeos (5), David Choe (4), FAILE (4), Conor Harrington (4), Invader (4), Lucy McLauchlan (4), Antony Micallef (4), Jonathan Yeo (4), Shepard Fairey (3), Charlie Isoe (3), Todd James (3), Barry McGee (3), Swoon (3), Claire Adelfang (2), Ai Weiwei (2), Martha Cooper (2), Miranda Donovan (2), Dzine (2), David Ellis (2), Carlos Garaicoa (2), Camille Henrot (2), Zhang Huan (2), Paul Insect (2), Claude Lévêque (2), MadeIn (2), Maleonn (2), Nicolas Milhé (2), Mode 2 (2), Polly Morgan (2), Takashi Murakami (2), Jean-Michel Othoniel (2), José Parla (2), Martin Parr (2), Huang Yong Ping (2), Shen Yuan (2), Rudolf Stingel (2), Agnes Varda (2), Lolo Veleko (2), Massimo Vitali (2), Word To Mother (2), ZEVS (2)",
-  "representing-galleries": "Galerie Magda Danysz (78, rue Amelot, 75013 Paris, France); Galerie Emmanuel Perrotin - Paris (76, rue de Turenne, 75003 Paris, France); GALERIE HENRIK SPRINGMANN (Mühlengasse 3, 40213 Dusseldorf, Germany); Lazarides Gallery (11 Rathbone Place, W1T 1HR London (England), United Kingdom); Found.Gallery (1903 Hyperion Ave., 90027  Los Angeles, CA, USA)",
+  "all-shows-total": "45",
+  "2005-shows-biennials": "18",
+  "2005-shows-galleries": "18",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "France (7), Germany (7), USA (7), United Kingdom (6), China (3), Italy (2), Japan (2), Austria (1), Cambodia (1), Cuba (1), Norway (1)",
+  "2005-shows-with": "JR (27), Vhils (8), Blu (7), Os Gemeos (7), Conor Harrington (6), David Choe (5), Invader (5), Lucy McLauchlan (5), Antony Micallef (5), Swoon (5), FAILE (4), Shepard Fairey (4), Mark Jenkins (4), Barry McGee (4), Jonathan Yeo (4), Martha Cooper (3), EINE (3), David Ellis (3), Charlie Isoe (3), Todd James (3), Claude Lévêque (3), José Parla (3), Shen Yuan (3), Word To Mother (3), Claire Adelfang (2), Ai Weiwei (2), Banksy (2), The Date Farmers (2), Marc Desgrandchamps (2), DOLK (2), Miranda Donovan (2), Brad Downey (2), Dzine (2), Ericailcane (2), ESCIF (2), Carlos Garaicoa (2), Camille Henrot (2), Boris Hoppek (2), Zhang Huan (2), Paul Insect (2), KAWS (2), MadeIn (2), Benoît Maire (2), Maleonn (2), Nicolas Milhé (2), Mode 2 (2), Polly Morgan (2), Takashi Murakami (2), Jean-Michel Othoniel (2), Martin Parr (2), Huang Yong Ping (2), Martial Raysse (2), RETNA (2), SAM3 (2), Slinkachu (2), Pierre Soulages (2), Rudolf Stingel (2), Judith Supine (2), Ed Templeton (2), Agnes Varda (2), Lolo Veleko (2), Massim",
+  "representing-galleries": "Galerie Magda Danysz (78, rue Amelot, 75013 Paris, France); Galerie Emmanuel Perrotin - Paris (76, rue de Turenne, 75003 Paris, France); Galerie Henrik Springmann (Mühlengasse 3, 40213 Dusseldorf, Germany); Lazarides Gallery (11 Rathbone Place, W1T 1HR London, United Kingdom); Found.Gallery (1903 Hyperion Ave., 90027  Los Angeles, CA, USA)",
   "collecting-museums": null,
   "first_name": "JR",
   "last_name": "",
@@ -246,6 +246,14 @@
           "2009-06-11",
           "2009-07-04"
         ]
+      },
+      {
+        "i": "108281-1961-2009-07-17",
+        "c": "FR"
+      },
+      {
+        "i": "108281-1961-2009-07-17",
+        "c": "FR"
       },
       {
         "i": "108281-23340-2009-09-19",
@@ -484,6 +492,10 @@
         ]
       },
       {
+        "i": "108281-1961-2011-11-19",
+        "c": "FR"
+      },
+      {
         "i": "108281-6564-2011-11-29",
         "c": "US",
         "n": "Wall & Paper",
@@ -512,6 +524,14 @@
         ]
       },
       {
+        "i": "108281-27822-2012-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "108281-27822-2012-04-07",
+        "c": "FR"
+      },
+      {
         "i": "108281-4342-2012-05-11",
         "c": "CU",
         "n": "11th Havana Biennial",
@@ -522,6 +542,14 @@
           "2012-05-11",
           "2012-06-11"
         ]
+      },
+      {
+        "i": "108281-24181-2012-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "108281-24181-2012-05-22",
+        "c": "FR"
       },
       {
         "i": "108281-21129-2012-06-15",
@@ -535,9 +563,29 @@
           "2012-06-15",
           "2012-07-15"
         ]
+      },
+      {
+        "i": "108281-1961-2011-11-19",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "108281-27822-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "108281-27822-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "108281-22704-2013-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "108281-22704-2013-06-08",
+        "c": "FR"
+      },
       {
         "i": "108281-14020-2013-02-10",
         "c": "JP",

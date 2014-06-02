@@ -1,7 +1,7 @@
 {
   "id": "160616",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:08:52",
+  "timestamp": "2014-05-24 07:11:27",
   "name": "Jean-Christophe Nourisson",
   "surname": "Nourisson",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "87881",
-  "r01": "82007",
-  "r02": "77031",
-  "r03": "69533",
-  "r04": "61171",
-  "r05": "53747",
-  "r06": "45957",
-  "r07": "38717",
-  "r08": "33432",
+  "r00": "79290",
+  "r01": "104370",
+  "r02": "99492",
+  "r03": "100477",
+  "r04": "93213",
+  "r05": "84942",
+  "r06": "76609",
+  "r07": "61842",
+  "r08": "48641",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
-  "all-shows-total": "6",
+  "all-shows-total": "7",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
   "2005-shows-museums": null,
-  "2005-countries-total": "Belgium (1)",
+  "2005-countries-total": "Belgium (1), France (1)",
   "2005-shows-with": null,
   "representing-galleries": "Joye Gallery (Chaussée de Vleurgat 125, 1000 Brussels, Belgium); Imagine Gallery (Feijacun, Cuigezhang, Lai Guang Ying Dong Lu, Chao, 100103 Beijing, China); Galerie Georges Verney-Carron (45 quai Rambaud, 69002 Lyon, France); Galerie Anne Voss (Gerberstrasse, 44125  Dortmund, Germany)",
   "collecting-museums": null,
@@ -43,6 +43,16 @@
   "age": 52,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "160616-11681-2005-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "160616-11681-2005-09-12",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "160616-3412-2006-09-15",

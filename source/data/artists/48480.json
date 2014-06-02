@@ -1,7 +1,7 @@
 {
   "id": "48480",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:23:35",
+  "timestamp": "2014-05-24 06:33:06",
   "name": "Ivan Fayard",
   "surname": "Fayard",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "12745",
-  "r01": "11381",
-  "r02": "10214",
-  "r03": "8869",
-  "r04": "8087",
-  "r05": "7101",
-  "r06": "7189",
-  "r07": "7731",
-  "r08": "6126",
+  "r00": "26335",
+  "r01": "22763",
+  "r02": "17441",
+  "r03": "13242",
+  "r04": "10071",
+  "r05": "8579",
+  "r06": "7086",
+  "r07": "7034",
+  "r08": "7638",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "23",
+  "all-shows-total": "25",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (7), Germany (2), Canada (1)",
+  "2005-countries-total": "France (8), Germany (2), Canada (1)",
   "2005-shows-with": "Ivan Fayard (6), Philippe Decrauzat (4), Steven Parrino (4), John Tremblay (4), Sylvie Fanchon (3), Véronique Joumard (3), Blair Thurman (3), Alex Brown (2), Claude Closky (2), Delphine Coindet (2), Stephen Felton (2), Fischli & Weiss (2), Mona Hatoum (2), Vincent Lamouroux (2), Didier Marcel (2), Mathieu Mercier (2), Mrzyk & Moriceau (2), Bruno Peinado (2), Benoit Platéus (2), Éric Poitevin (2), Hugues Reip (2), Peter Saul (2), Michael Scott (2), Jim Shaw (2), Dan Walsh (2), Raphaël Zarka (2)",
   "representing-galleries": "Galerie Domi Nostrae (39, Cours de la Liberté, 69003 Lyon, France); Galerie Houg (43 Rue Auguste Comte, 69002 Lyon, France); BFA Gallery (Barrierweg 60, 5298 LT Liempde, Netherlands)",
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France)",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "48480-1403-2005-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "48480-1403-2005-03-12",
+        "c": "FR"
+      },
       {
         "i": "48480-2328-2005-05-26",
         "c": "BE",
@@ -71,6 +79,14 @@
         ]
       },
       {
+        "i": "48480-4166-2005-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "48480-4166-2005-03-10",
+        "c": "FR"
+      },
+      {
         "i": "48480-14427-2005-04-16",
         "c": "NL",
         "n": "Ivan Fayard",
@@ -82,6 +98,24 @@
           "2005-04-16",
           "2005-05-29"
         ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "48480-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "48480-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "48480-8121-2007-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "48480-8121-2007-09-27",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -99,6 +133,14 @@
         ]
       },
       {
+        "i": "48480-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "48480-2528-2008-04-11",
+        "c": "FR"
+      },
+      {
         "i": "48480-14700-2008-05-24",
         "c": "DE",
         "n": "Deformalismes",
@@ -110,9 +152,41 @@
           "2008-05-24",
           "2008-07-19"
         ]
+      },
+      {
+        "i": "48480-2021-2008-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "48480-2021-2008-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "48480-1718-2008-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "48480-1718-2008-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "48480-1718-2008-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "48480-1718-2008-06-13",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "48480-28534-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "48480-28534-2009-06-18",
+        "c": "FR"
+      },
       {
         "i": "48480-21416-2009-11-27",
         "c": "DE",
@@ -125,6 +199,26 @@
           "2009-11-27",
           "2009-12-20"
         ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "48480-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "48480-10227-2010-05-07",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "48480-1718-2012-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "48480-1718-2012-09-26",
+        "c": "FR"
       }
     ]
   }

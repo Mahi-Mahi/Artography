@@ -1,7 +1,7 @@
 {
   "id": "17048",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:13",
+  "timestamp": "2014-05-24 06:21:43",
   "name": "Didier Trénet",
   "surname": "Trénet",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sculpture",
-  "r00": "7839",
-  "r01": "6913",
-  "r02": "6096",
-  "r03": "5162",
-  "r04": "4750",
-  "r05": "4014",
-  "r06": "3246",
-  "r07": "3276",
-  "r08": "2858",
+  "r00": "16682",
+  "r01": "13800",
+  "r02": "11005",
+  "r03": "9219",
+  "r04": "7249",
+  "r05": "6584",
+  "r06": "5402",
+  "r07": "4040",
+  "r08": "4100",
   "awards": null,
   "website": null,
   "all-shows-first": "1991",
-  "all-shows-total": "36",
+  "all-shows-total": "37",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "5",
   "2005-countries-total": "France (7), Netherlands (1)",
-  "2005-shows-with": "Didier Trénet (6), Frédérique Loutz (2), Piet Moget (2), Mrzyk & Moriceau (2)",
+  "2005-shows-with": "Didier Trénet (6), Erik Dietman (2), Frédérique Loutz (2), Piet Moget (2), Mrzyk & Moriceau (2)",
   "representing-galleries": "Galerie Georges Verney-Carron (45 quai Rambaud, 69002 Lyon, France); Galerie Claudine Papillon (13, rue Chapon, 75003 Paris, France); Galerie Aline Vidal (70, rue Bonaparte, 75006 Paris, France)",
   "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
   "first_name": "Didier",
@@ -43,7 +43,41 @@
   "age": 49,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "17048-1936-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "17048-1936-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "17048-27940-2005-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "17048-27940-2005-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "17048-2024-2005-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "17048-2024-2005-04-01",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "17048-12129-2007-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "17048-12129-2007-01-23",
+        "c": "FR"
+      },
       {
         "i": "17048-17449-2007-03-31",
         "c": "TH",
@@ -56,9 +90,51 @@
           "2007-03-31",
           "2007-06-17"
         ]
+      },
+      {
+        "i": "17048-7877-2007-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "17048-7877-2007-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "17048-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "17048-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "17048-7390-2007-12-13",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "17048-7390-2007-12-13",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "17048-8545-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "17048-8545-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "17048-8128-2010-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "17048-8128-2010-06-19",
+        "c": "FR"
+      },
       {
         "i": "17048-17155-2010-09-04",
         "c": "NL",
@@ -71,6 +147,64 @@
           "2010-09-04",
           "2010-10-10"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "17048-28742-2011-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "17048-28742-2011-04-01",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "17048-16505-2013-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "17048-16505-2013-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "17048-4205-2013-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "17048-4205-2013-06-06",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "17048-8548-2006-04-23",
+        "c": "FR"
+      },
+      {
+        "i": "17048-8548-2006-04-23",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "17048-4205-2009-05-14",
+        "c": "FR"
+      },
+      {
+        "i": "17048-4205-2009-05-14",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "17048-4205-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "17048-4205-2012-01-07",
+        "c": "FR"
       }
     ]
   }

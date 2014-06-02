@@ -1,7 +1,7 @@
 {
   "id": "36641",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:18:47",
+  "timestamp": "2014-05-24 06:28:52",
   "name": "Erwan Mahéo",
   "surname": "Mahéo",
   "nationality": "FR",
@@ -16,21 +16,21 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "10071",
-  "r01": "9338",
-  "r02": "10149",
-  "r03": "9311",
-  "r04": "8793",
-  "r05": "8639",
-  "r06": "11473",
-  "r07": "12771",
-  "r08": "16076",
+  "r00": "10849",
+  "r01": "10128",
+  "r02": "8721",
+  "r03": "9409",
+  "r04": "8042",
+  "r05": "7328",
+  "r06": "7563",
+  "r07": "10723",
+  "r08": "12842",
   "awards": null,
   "website": null,
   "all-shows-first": "1994",
   "all-shows-total": "31",
-  "2005-shows-biennials": "8",
-  "2005-shows-galleries": "8",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
   "2005-shows-museums": "10",
   "2005-countries-total": "Belgium (9), France (3), Greece (2), Netherlands (2), Germany (1), Sweden (1), United Kingdom (1)",
   "2005-shows-with": "Erwan Mahéo (17), Michel François (6), Xavier Noiret-Thomé (6), Emilio Lopez-Menchero (5), Christophe Terlinden (4), Pieter Vermeersch (4), Michael van den Abeele (3), Isabelle Arthuis (3), Guillaume Bijl (3), Leo Copers (3), Edith Dekyndt (3), Lionel Estève (3), Jos de Gruyter & Harald Thys (3), Ann Veronica Janssens (3), Sophie Nys (3), Sébastien Reuzé (3), Robert Suermondt (3), Danai Anesiadou (2), Laurette Atrux-Tallau (2), Sven Augustijnen (2), Lucile Bertrand (2), Michaël Borremans (2), Ricardo Brey (2), Paul Carter (2), Wim Catrysse (2), Jacques Charlier (2), Franck Christen (2), Vaast Colson (2), François Curlet (2), Anne Daems (2), Denicolai & Provoost (2), David Evrard (2), Jan Fabre (2), Amy Granat (2), Harald Hund (2), Simon Kentgens (2), Jacques Lizène (2), Bernd Lohaus (2), Sheena Macrae (2), Kate MccGwire (2), Miks Mitrevics (2), Johan Muyle (2), Benoit Platéus (2), Gwendoline Robin (2), Guy Rombouts (2), Léopoldine Roux (2), Kurt Ryslavy (2), Mira Sanders (2), Felix Schramm (2), Wal",
@@ -110,9 +110,17 @@
           "2007-05-25",
           "2007-07-29"
         ]
+      },
+      {
+        "i": "36641-1957-2007-11-08",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "36641-1957-2007-11-08",
+        "c": "FR"
+      },
       {
         "i": "36641-2354-2008-03-05",
         "c": "GR",
@@ -298,6 +306,14 @@
           "2010-02-06",
           "2010-03-14"
         ]
+      },
+      {
+        "i": "36641-2709-2010-10-09",
+        "c": "FR"
+      },
+      {
+        "i": "36641-2709-2010-10-09",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -313,6 +329,14 @@
           "2011-03-05",
           "2011-04-16"
         ]
+      },
+      {
+        "i": "36641-23295-2011-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "36641-23295-2011-06-16",
+        "c": "FR"
       },
       {
         "i": "36641-24388-2011-06-10",
@@ -354,6 +378,16 @@
           "2012-06-02",
           "2012-07-15"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "36641-19085-2013-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "36641-19085-2013-09-18",
+        "c": "FR"
       }
     ]
   }

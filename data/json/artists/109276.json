@@ -1,7 +1,7 @@
 {
   "id": "109276",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:48:09",
+  "timestamp": "2014-05-24 06:54:06",
   "name": "Jérémie Grandsenne",
   "surname": "Grandsenne",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "41583",
-  "r01": "38481",
-  "r02": "41033",
-  "r03": "36789",
-  "r04": "32593",
-  "r05": "28282",
-  "r06": "24153",
-  "r07": "32498",
-  "r08": "53828",
+  "r00": "28866",
+  "r01": "27754",
+  "r02": "24253",
+  "r03": "43727",
+  "r04": "36979",
+  "r05": "31143",
+  "r06": "25986",
+  "r07": "21375",
+  "r08": "29991",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "6",
+  "all-shows-total": "7",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (1)",
-  "2005-shows-with": null,
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (2)",
+  "2005-shows-with": "Jérémie Grandsenne (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Jérémie",
@@ -43,5 +43,51 @@
   "age": 37,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "109276-2585-2006-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "109276-2585-2006-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "109276-10576-2006-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "109276-10576-2006-11-25",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "109276-2585-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "109276-2585-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "109276-16752-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "109276-16752-2007-06-29",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "109276-8520-2012-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "109276-8520-2012-02-17",
+        "c": "FR"
+      }
+    ]
   }
 }

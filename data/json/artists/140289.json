@@ -1,7 +1,7 @@
 {
   "id": "140289",
   "mergedIDs": "274941",
-  "timestamp": "2014-02-22 07:00:32",
+  "timestamp": "2014-05-24 07:04:31",
   "name": "L\\'Atlas",
   "surname": "L\\'Atlas",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": "Graffiti, Calligraphy",
-  "r00": "28245",
-  "r01": "37012",
-  "r02": "67151",
-  "r03": "63105",
-  "r04": "74985",
-  "r05": "71650",
-  "r06": "67657",
-  "r07": null,
+  "r00": "20163",
+  "r01": "20299",
+  "r02": "27222",
+  "r03": "61445",
+  "r04": "57042",
+  "r05": "70842",
+  "r06": "67724",
+  "r07": "64182",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "17",
-  "2005-shows-biennials": "12",
-  "2005-shows-galleries": "12",
+  "all-shows-total": "0",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (8), United Kingdom (2), Germany (1), Italy (1), Lebanon (1), Russia (1), Switzerland (1)",
-  "2005-shows-with": "L\\'Atlas (13), Sun7 (4), TANC (4), Jef Aerosol (3), Victor Ash (3), Babou (3), Dem189 (3), Invader (3), AES+F (2), Jean Faucheur (2), Futura2000 (2), Parole (2), Seth (2), Teurk (2)",
-  "representing-galleries": "Lebenson Gallery (56 rue Chapon, 75003 Paris, France); Carhartt Gallery (Schusterinsel 9, 79576 Weil am Rhein, Germany); Galleria Il Trifoglio Nero (Piazza Matteotti 80r, 16123 Genoa, Italy); David Bloch Gallery (8 bis rue des Vieux Marrakchis, 40000 Marrakech, Morocco); The French Art Studio (121 Sulgrave Road, W6 7QH London (England), United Kingdom)",
+  "2005-countries-total": "France (9), United Kingdom (2), Germany (1), Italy (1), Lebanon (1), Russia (1), Switzerland (1)",
+  "2005-shows-with": "L\\'Atlas (14), Invader (4), Sun7 (4), TANC (4), Jef Aerosol (3), Victor Ash (3), Babou (3), Dem189 (3), AES+F (2), Jean Faucheur (2), Futura2000 (2), Christian Guémy (2), Ludo (2), Parole (2), Seth (2), Teurk (2), Vhils (2)",
+  "representing-galleries": "Lebenson Gallery (56 rue Chapon, 75003 Paris, France); Carhartt Gallery (Schusterinsel 9, 79576 Weil am Rhein, Germany); Galleria Il Trifoglio Nero (Piazza Matteotti 80r, 16123 Genoa, Italy); David Bloch Gallery (8 bis rue des Vieux Marrakchis, 40000 Marrakech, Morocco); The French Art Studio (121 Sulgrave Road, W6 7QH London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "L\\'Atlas",
   "last_name": "",
@@ -43,6 +43,42 @@
   "age": 36,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "140289-11817-2007-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "140289-11817-2007-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "140289-11817-2007-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "140289-11817-2007-03-09",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "140289-29199-2009-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "140289-29199-2009-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "140289-1829-2009-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "140289-1829-2009-09-08",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "140289-22828-2010-04-30",
@@ -56,6 +92,22 @@
           "2010-04-30",
           "2010-05-28"
         ]
+      },
+      {
+        "i": "140289-23441-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "140289-23441-2010-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "140289-17868-2010-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "140289-17868-2010-10-16",
+        "c": "FR"
       },
       {
         "i": "140289-20865-2010-11-17",
@@ -114,6 +166,14 @@
         ]
       },
       {
+        "i": "140289-2718-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "140289-2718-2012-09-28",
+        "c": "FR"
+      },
+      {
         "i": "140289-14748-2012-10-03",
         "c": "GB",
         "n": "Paris street art!",
@@ -125,6 +185,32 @@
           "2012-10-03",
           "2012-11-01"
         ]
+      },
+      {
+        "i": "140289-4706-2012-12-18",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "140289-4706-2012-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "140289-2090-2013-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "140289-2090-2013-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "140289-2090-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "140289-2090-2013-10-12",
+        "c": "FR"
       }
     ],
     "2008": [

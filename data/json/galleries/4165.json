@@ -30,6 +30,10 @@
         "ct": "Seoul"
       },
       {
+        "i": "4165-Fiac 2005",
+        "c": "FR"
+      },
+      {
         "i": "4165-Art Cologne 2005",
         "c": "DE",
         "n": "Art Cologne 2005",
@@ -37,6 +41,10 @@
       }
     ],
     "2006": [
+      {
+        "i": "4165-ArtParis 06",
+        "c": "FR"
+      },
       {
         "i": "4165-Art Brussels 2006- 24th Contemporary Art Fair",
         "c": "BE",
@@ -48,6 +56,10 @@
         "c": "KR",
         "n": "KIAF 2006",
         "ct": "Seoul"
+      },
+      {
+        "i": "4165-Show Off Paris 2006",
+        "c": "FR"
       },
       {
         "i": "4165-Art Cologne 2006",
@@ -62,6 +74,10 @@
         "c": "US",
         "n": "Scope New York 2007",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "4165-ArtParis 07",
+        "c": "FR"
       },
       {
         "i": "4165-Art Brussels 2007- 25th Contemporary Art Fair",
@@ -90,6 +106,14 @@
         "ct": "Bologna"
       },
       {
+        "i": "4165-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "4165-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
         "i": "4165-Art Brussels 2008- 26th Contemporary Art Fair",
         "c": "BE",
         "n": "Art Brussels 2008- 26th Contemporary Art Fair",
@@ -116,13 +140,33 @@
     ],
     "2009": [
       {
+        "i": "4165-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "4165-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
         "i": "4165-Art Brussels 2009 - 27th Contemporary Art Fair",
         "c": "BE",
         "n": "Art Brussels 2009 - 27th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "4165-Fiac 2009",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "4165-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "4165-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
       {
         "i": "4165-Art Brussels 2010 - 28th Contemporary Art Fair",
         "c": "BE",
@@ -138,6 +182,14 @@
     ],
     "2011": [
       {
+        "i": "4165-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "4165-ArtParis 2011",
+        "c": "FR"
+      },
+      {
         "i": "4165-Art Brussels 2011",
         "c": "BE",
         "n": "Art Brussels 2011",
@@ -148,17 +200,45 @@
         "c": "MA",
         "n": "Marrakech Art Fair",
         "ct": "Casablanca"
+      },
+      {
+        "i": "4165-Paris Photo 2011",
+        "c": "FR"
+      },
+      {
+        "i": "4165-St-Art 2011",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "4165-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
       {
         "i": "4165-Art Brussels 2012",
         "c": "BE",
         "n": "Art Brussels 2012",
         "ct": "Brussels"
+      },
+      {
+        "i": "4165-ST-ART  2012",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "4165-Lille Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "4165-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "4165-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      },
       {
         "i": "4165-Art Brussels 2013",
         "c": "BE",
@@ -176,6 +256,14 @@
         "c": "NL",
         "n": "Amsterdam Drawing",
         "ct": "Amsterdam"
+      },
+      {
+        "i": "4165-Yia Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "4165-St-art 2013",
+        "c": "FR"
       }
     ]
   }

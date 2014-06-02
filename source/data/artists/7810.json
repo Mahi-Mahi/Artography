@@ -1,7 +1,7 @@
 {
   "id": "7810",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:05:59",
+  "timestamp": "2014-05-24 06:18:04",
   "name": "Alain Bublex",
   "surname": "Bublex",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Works on Paper, Photography",
-  "r00": "2194",
-  "r01": "2010",
-  "r02": "1769",
-  "r03": "1683",
-  "r04": "1577",
-  "r05": "1750",
-  "r06": "1553",
-  "r07": "1411",
-  "r08": "1474",
+  "r00": "2929",
+  "r01": "2863",
+  "r02": "2446",
+  "r03": "2042",
+  "r04": "1871",
+  "r05": "1722",
+  "r06": "2028",
+  "r07": "1720",
+  "r08": "1556",
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
-  "all-shows-total": "83",
+  "all-shows-total": "84",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "25",
-  "2005-countries-total": "France (26), Spain (2), Greece (1), Netherlands (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Alain Bublex (26), Vincent Lamouroux (6), Didier Marcel (5), Etienne Bossut (4), Stéphane Couturier (4), Pierre Huyghe (4), Gianni Motti (4), John M Armleder (3), Lewis Baltz (3), Gilles Barbier (3), Bernd & Hilla Becher (3), Valérie Belin (3), Julien Berthier (3), Frank Breuer (3), Philippe Decrauzat (3), Thomas Demand (3), Robert Filliou (3), Sylvie Fleury (3), Gordon Matta-Clark (3), Mathieu Mercier (3), Jonathan Monk (3), Régis Perray (3), Thomas Ruff (3), Denis Savary (3), Thomas Struth (3), Jean-Luc Vilmouth (3), Raphaël Zarka (3), Berenice Abbott (2), Adel Abdessemed (2), Boris Achour (2), Manuel Álvarez-Bravo (2), Luc Andrié (2), Miriam Backstrom (2), Herbert Bayer (2), Katinka Bock (2), Monica Bonvicini (2), Robert Breer (2), Jeff Brouws (2), Bernard Brunon (2), James Casebere (2), Claude Closky (2), Gregory Crewdson (2), Tacita Dean (2), Luc Delahaye (2), Dewar & Gicquel (2), Mike Disfarmer (2), Stan Douglas (2), William Eggleston (2), Walker Evans (2), Claire Fontaine (2), Lee Friedlander (2)",
+  "2005-shows-museums": "26",
+  "2005-countries-total": "France (27), Spain (2), Greece (1), Netherlands (1), Switzerland (1), USA (1)",
+  "2005-shows-with": "Alain Bublex (27), Vincent Lamouroux (6), Didier Marcel (5), Etienne Bossut (4), Stéphane Couturier (4), Pierre Huyghe (4), Gianni Motti (4), Raphaël Zarka (4), John M Armleder (3), Lewis Baltz (3), Gilles Barbier (3), Bernd & Hilla Becher (3), Valérie Belin (3), Julien Berthier (3), Frank Breuer (3), Philippe Decrauzat (3), Thomas Demand (3), Robert Filliou (3), Sylvie Fleury (3), Gordon Matta-Clark (3), Mathieu Mercier (3), Jonathan Monk (3), Régis Perray (3), Thomas Ruff (3), Denis Savary (3), Thomas Struth (3), Jean-Luc Vilmouth (3), Berenice Abbott (2), Adel Abdessemed (2), Boris Achour (2), Manuel Álvarez-Bravo (2), Luc Andrié (2), Miriam Backstrom (2), Herbert Bayer (2), Katinka Bock (2), Monica Bonvicini (2), Robert Breer (2), Jeff Brouws (2), Bernard Brunon (2), James Casebere (2), Claude Closky (2), Gregory Crewdson (2), Tacita Dean (2), Luc Delahaye (2), Dewar & Gicquel (2), Mike Disfarmer (2), Stan Douglas (2), William Eggleston (2), Walker Evans (2), Laurent Faulon (2), Claire Fontaine (2),",
   "representing-galleries": "Galerie Deneulin (200 Grande Rue, 38530 Barraux, France); Galerie Georges-Philippe & Nathalie Vallois (36 , rue de Seine, 75006 Paris, France)",
   "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
   "first_name": "Alain",
@@ -112,6 +112,10 @@
         ]
       },
       {
+        "i": "7810-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
         "i": "7810-5307-2006-10-10",
         "c": "AM",
         "n": "Face à Faces",
@@ -123,9 +127,21 @@
           "2006-10-10",
           "2006-11-18"
         ]
+      },
+      {
+        "i": "7810-1953-2006-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "7810-1953-2006-09-22",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "7810-2219-2006-09-27",
+        "c": "FR"
+      },
       {
         "i": "7810-7975-2007-03-10",
         "c": "IS",
@@ -138,6 +154,14 @@
           "2007-03-10",
           "2007-04-29"
         ]
+      },
+      {
+        "i": "7810-10351-2007-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "7810-10351-2007-03-15",
+        "c": "FR"
       },
       {
         "i": "7810-3104-2007-03-28",
@@ -164,6 +188,14 @@
           "2007-10-31",
           "2008-01-27"
         ]
+      },
+      {
+        "i": "7810-1953-2007-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "7810-1953-2007-11-23",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -179,9 +211,61 @@
           "2007-10-31",
           "2008-01-27"
         ]
+      },
+      {
+        "i": "7810-18800-2008-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "7810-18800-2008-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "7810-13901-2008-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "7810-13901-2008-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "7810-4184-2008-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "7810-4184-2008-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "7810-7657-2008-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "7810-7657-2008-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "7810-2718-2008-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "7810-8555-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "7810-29108-2009-11-27",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "7810-2718-2008-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "7810-8555-2008-12-18",
+        "c": "FR"
+      },
       {
         "i": "7810-18895-2009-02-25",
         "c": "US",
@@ -194,6 +278,30 @@
           "2009-02-25",
           "2009-04-25"
         ]
+      },
+      {
+        "i": "7810-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "7810-26765-2009-04-24",
+        "c": "FR"
+      },
+      {
+        "i": "7810-8639-2009-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "7810-8639-2009-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "7810-8282-2009-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "7810-8282-2009-06-03",
+        "c": "FR"
       },
       {
         "i": "7810-9525-2009-07-15",
@@ -209,6 +317,14 @@
         ]
       },
       {
+        "i": "7810-2718-2009-09-25",
+        "c": "FR"
+      },
+      {
+        "i": "7810-2718-2009-09-25",
+        "c": "FR"
+      },
+      {
         "i": "7810-17760-2009-10-09",
         "c": "ES",
         "n": "Auto. Sueño y materia",
@@ -220,6 +336,34 @@
           "2009-10-09",
           "2010-01-10"
         ]
+      },
+      {
+        "i": "7810-17377-2009-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "7810-7949-2009-11-21",
+        "c": "FR"
+      },
+      {
+        "i": "7810-29108-2009-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "7810-4651-2009-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "7810-4651-2009-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "7810-1953-2009-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "7810-1953-2009-10-16",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -237,6 +381,14 @@
         ]
       },
       {
+        "i": "7810-17377-2009-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "7810-7949-2009-11-21",
+        "c": "FR"
+      },
+      {
         "i": "7810-1778-2010-06-02",
         "c": "CH",
         "n": "Modèles modèles 2",
@@ -248,9 +400,41 @@
           "2010-06-02",
           "2010-09-19"
         ]
+      },
+      {
+        "i": "7810-9060-2010-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "7810-9060-2010-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "7810-10501-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "7810-10501-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "7810-11581-2010-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "7810-7949-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "7810-7949-2010-03-13",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "7810-11581-2010-09-15",
+        "c": "FR"
+      },
       {
         "i": "7810-6126-2011-02-22",
         "c": "ES",
@@ -263,9 +447,33 @@
           "2011-02-22",
           "2011-06-16"
         ]
+      },
+      {
+        "i": "7810-1953-2011-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "7810-9060-2011-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "7810-9060-2011-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "7810-1953-2011-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "7810-1953-2011-10-17",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "7810-1953-2011-12-02",
+        "c": "FR"
+      },
       {
         "i": "7810-21268-2012-09-22",
         "c": "NL",
@@ -278,6 +486,10 @@
           "2012-09-22",
           "2013-01-06"
         ]
+      },
+      {
+        "i": "7810-11586-2012-10-19",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -293,6 +505,34 @@
           "2012-09-22",
           "2013-01-06"
         ]
+      },
+      {
+        "i": "7810-11586-2012-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "7810-7912-2013-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "7810-7912-2013-01-29",
+        "c": "FR"
+      },
+      {
+        "i": "7810-11587-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "7810-11587-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "7810-10517-2013-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "7810-10517-2013-02-23",
+        "c": "FR"
       }
     ]
   }

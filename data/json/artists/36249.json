@@ -1,7 +1,7 @@
 {
   "id": "36249",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:18:37",
+  "timestamp": "2014-05-24 06:28:44",
   "name": "Thierry Agnone",
   "surname": "Agnone",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "47119",
-  "r01": "44092",
-  "r02": "43298",
-  "r03": "42750",
-  "r04": "37860",
-  "r05": "38186",
-  "r06": "36799",
-  "r07": "66604",
-  "r08": "62372",
+  "r00": "47168",
+  "r01": "45452",
+  "r02": "42180",
+  "r03": "40657",
+  "r04": "41391",
+  "r05": "35987",
+  "r06": "36342",
+  "r07": "34683",
+  "r08": "70459",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "12",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "all-shows-total": "15",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (6), Monaco (1)",
-  "2005-shows-with": "Thierry Agnone (6), Thierry Lagalla (2), Lionel Scoccimaro (2)",
-  "representing-galleries": "Numéro Six (6 rue jaubert, 12100 Aix-en-Provence, France); Le CABINET (62, Rue Saint Sabin, 75011 Paris, France); Art & Rapy - Contemporary Art Gallery (11, Avenue Princesse Grace, 98000 Monaco, Monaco)",
+  "2005-countries-total": "France (9), Monaco (1)",
+  "2005-shows-with": "Thierry Agnone (9), Thierry Lagalla (6), Stéphane Protic (5), Emmanuel Régent (4), Stephane Steiner (4), Caroline Bach (3), Han Hoogerbrugge (3), Arnaud Labelle-Rojoux (3), Florent Mattei (3), Philippe Ramette (3), Karine Rougier (3), Lionel Scoccimaro (3), Damien Berthier (2), Michel de Broin (2), Frédéric Clavère (2), Claire Dantzer (2), Jerôme Robbe (2), Ben Vautier (2), Jean-Luc Verna (2)",
+  "representing-galleries": "Numéro Six (6 rue jaubert, 12100 Aix-en-Provence, France); Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France); Art & Rapy - Contemporary Art Gallery (11, Avenue Princesse Grace, 98000 Monaco, Monaco)",
   "collecting-museums": "Musée d'art moderne de Céret (Bd. Marï¿½chal Joffre 8, BP 60413, 66403  Céret, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Thierry",
   "last_name": "Agnone",
@@ -43,6 +43,16 @@
   "age": 50,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "36249-2094-2006-06-09",
+        "c": "FR"
+      },
+      {
+        "i": "36249-2094-2006-06-09",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "36249-10736-2007-05-18",
@@ -56,6 +66,78 @@
           "2007-05-18",
           "2007-06-23"
         ]
+      },
+      {
+        "i": "36249-11817-2007-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "36249-11817-2007-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "36249-27918-2007-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "36249-27918-2007-01-12",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "36249-16752-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "36249-16752-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "36249-27918-2009-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "36249-27918-2009-05-02",
+        "c": "FR"
+      },
+      {
+        "i": "36249-22944-2009-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "36249-22944-2009-09-11",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "36249-27918-2011-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "36249-27918-2011-05-24",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "36249-16752-2012-01-06",
+        "c": "FR"
+      },
+      {
+        "i": "36249-16752-2012-01-06",
+        "c": "FR"
+      },
+      {
+        "i": "36249-19953-2012-12-14",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "36249-19953-2012-12-14",
+        "c": "FR"
       }
     ],
     "2008": [

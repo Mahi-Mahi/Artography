@@ -1,7 +1,7 @@
 {
   "id": "68006",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:31:30",
+  "timestamp": "2014-05-24 06:40:02",
   "name": "Laura Henno",
   "surname": "Henno",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "13634",
-  "r01": "13439",
-  "r02": "15672",
-  "r03": "18108",
-  "r04": "16364",
-  "r05": "19324",
-  "r06": "19930",
-  "r07": "17101",
-  "r08": "49940",
+  "r00": "11526",
+  "r01": "11117",
+  "r02": "10341",
+  "r03": "11961",
+  "r04": "15397",
+  "r05": "13757",
+  "r06": "17513",
+  "r07": "17996",
+  "r08": "15013",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "19",
+  "all-shows-total": "21",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
-  "2005-shows-museums": "7",
-  "2005-countries-total": "France (12), Belgium (2), USA (1)",
-  "2005-shows-with": "Laura Henno (8), Philippe Ramette (2)",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (15), Belgium (3), USA (1)",
+  "2005-shows-with": "Laura Henno (10), Philippe Bazin (2), Maurizio Cattelan (2), Philippe Ramette (2)",
   "representing-galleries": "Galerie Les filles du calvaire - Bruxelles (Boulevard Barthélémy, Kanal 20, 1000 Brussels, Belgium); Galerie les filles du calvaire - Paris (17, rue des Filles-du-calvaire, 75003 Paris, France); EXPRMNTL Galerie (Rue de la bourse 18,  31000 Toulouse, France)",
   "collecting-museums": null,
   "first_name": "Laura",
@@ -43,6 +43,16 @@
   "age": 38,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "68006-12129-2005-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "68006-12129-2005-01-08",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "68006-15487-2007-05-11",
@@ -56,9 +66,84 @@
           "2007-05-11",
           "2007-07-21"
         ]
+      },
+      {
+        "i": "68006-11895-2007-09-19",
+        "c": "FR"
+      },
+      {
+        "i": "68006-11895-2007-09-19",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "68006-1403-2008-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "68006-1403-2008-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "68006-1372-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "68006-1372-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "68006-2328-2008-02-08",
+        "c": "BE",
+        "n": "Laura Henno - Summer Crossing",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "Galerie Les filles du calvaire - Bruxelles",
+        "d": [
+          "2008-02-08",
+          "2008-03-15"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "68006-9475-2009-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "68006-9475-2009-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "68006-20081-2009-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "68006-20081-2009-05-05",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "68006-10679-2010-10-23",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "68006-10679-2010-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "68006-8028-2011-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "68006-8028-2011-01-26",
+        "c": "FR"
+      },
       {
         "i": "68006-14528-2011-12-15",
         "c": "US",
@@ -71,6 +156,30 @@
           "2011-12-15",
           "2012-01-21"
         ]
+      },
+      {
+        "i": "68006-26374-2011-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "68006-26374-2011-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "68006-26374-2011-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "68006-26374-2011-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "68006-10244-2011-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "68006-10244-2011-09-09",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -99,6 +208,41 @@
           "2012-12-06",
           "2013-01-19"
         ]
+      },
+      {
+        "i": "68006-1403-2012-12-06",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "68006-10220-2013-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "68006-10220-2013-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "68006-2328-2012-12-06",
+        "c": "BE",
+        "n": "Laura Henno",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "Galerie Les filles du calvaire - Bruxelles",
+        "d": [
+          "2012-12-06",
+          "2013-01-19"
+        ]
+      },
+      {
+        "i": "68006-1403-2012-12-06",
+        "c": "FR"
+      },
+      {
+        "i": "68006-10515-2013-10-05",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -116,34 +260,10 @@
         ]
       }
     ],
-    "2008": [
+    "2014": [
       {
-        "i": "68006-2328-2008-02-08",
-        "c": "BE",
-        "n": "Laura Henno - Summer Crossing",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Brussels",
-        "o": "Galerie Les filles du calvaire - Bruxelles",
-        "d": [
-          "2008-02-08",
-          "2008-03-15"
-        ]
-      }
-    ],
-    "2013": [
-      {
-        "i": "68006-2328-2012-12-06",
-        "c": "BE",
-        "n": "Laura Henno",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Brussels",
-        "o": "Galerie Les filles du calvaire - Bruxelles",
-        "d": [
-          "2012-12-06",
-          "2013-01-19"
-        ]
+        "i": "68006-10515-2013-10-05",
+        "c": "FR"
       }
     ]
   }

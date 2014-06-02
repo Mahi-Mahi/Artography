@@ -1,7 +1,7 @@
 {
   "id": "64248",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:03",
+  "timestamp": "2014-05-24 06:38:43",
   "name": "Marion Poussier",
   "surname": "Poussier",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "21458",
-  "r01": "19990",
-  "r02": "25096",
-  "r03": "22566",
-  "r04": "24300",
-  "r05": "21568",
-  "r06": "24582",
-  "r07": "50178",
-  "r08": "42683",
+  "r00": "21495",
+  "r01": "20330",
+  "r02": "17613",
+  "r03": "22829",
+  "r04": "19473",
+  "r05": "21113",
+  "r06": "18172",
+  "r07": "21559",
+  "r08": "46877",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "9",
+  "all-shows-total": "10",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (3), Austria (1), Cambodia (1), Germany (1), Italy (1), Switzerland (1)",
-  "2005-shows-with": "Marion Poussier (8), AES+F (2), Andreas Amrhein (2), Evan Baden (2), Lars Borges (2), Martin Brand (2), Sergey Bratkov (2), Cao Fei (2), Kimberly Clark (2), Denis Darzacq (2), Matthias Fritsch (2), Daniel & Geo Fuchs (2), Nan Goldin (2), Wolfram Hahn (2), Cosima Hanebeck (2), Loretta Lux (2), Jussi Puikkonen (2), LA Raeven (2), Birgit Richard (2), Römer + Römer (2), Nicolas Savary (2), Oliver Sieber (2), Sauli Sirviö (2), Slinkachu (2), Cornelia Sollfrank (2), Juergen Teller (2), Albrecht Tübke (2), Ellie Uyttenbroek  & Ari Versluis (2), Charlie White (2), Tobias Zielony (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (4), Austria (1), Cambodia (1), Germany (1), Italy (1), Switzerland (1)",
+  "2005-shows-with": "Marion Poussier (9), AES+F (3), Nan Goldin (3), Andreas Amrhein (2), Evan Baden (2), Lars Borges (2), Martin Brand (2), Sergey Bratkov (2), Cao Fei (2), Kimberly Clark (2), Denis Darzacq (2), Matthias Fritsch (2), Daniel & Geo Fuchs (2), Wolfram Hahn (2), Cosima Hanebeck (2), Loretta Lux (2), Jussi Puikkonen (2), LA Raeven (2), Birgit Richard (2), Römer + Römer (2), Nicolas Savary (2), Oliver Sieber (2), Sauli Sirviö (2), Slinkachu (2), Cornelia Sollfrank (2), Juergen Teller (2), Albrecht Tübke (2), Ellie Uyttenbroek  & Ari Versluis (2), Charlie White (2), Tobias Zielony (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Marion",
@@ -86,6 +86,16 @@
         ]
       }
     ],
+    "2009": [
+      {
+        "i": "64248-1829-2009-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "64248-1829-2009-11-19",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "64248-18728-2010-03-20",
@@ -127,6 +137,24 @@
           "2012-06-15",
           "2012-10-07"
         ]
+      },
+      {
+        "i": "64248-1829-2012-11-09",
+        "c": "FR"
+      },
+      {
+        "i": "64248-1829-2012-11-09",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "64248-11778-2013-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "64248-11778-2013-02-07",
+        "c": "FR"
       }
     ],
     "2007": [

@@ -1,7 +1,7 @@
 {
   "id": "57608",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:21",
+  "timestamp": "2014-05-24 06:36:20",
   "name": "Stéphane Belzère",
   "surname": "Belzère",
   "nationality": "CH, FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "25728",
-  "r01": "25781",
-  "r02": "22936",
-  "r03": "20416",
-  "r04": "19376",
-  "r05": "22592",
-  "r06": "19918",
-  "r07": "19914",
-  "r08": "16165",
+  "r00": "28901",
+  "r01": "28626",
+  "r02": "30363",
+  "r03": "24472",
+  "r04": "20119",
+  "r05": "18422",
+  "r06": "22330",
+  "r07": "19014",
+  "r08": "18660",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "18",
+  "all-shows-total": "20",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (6), Germany (2), Switzerland (1)",
-  "2005-shows-with": "Stéphane Belzère (5), Regine Kolle (2), Anne Neukamp (2), Renaud Regnery (2), Philippe Segond (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (9), Germany (2), Switzerland (1)",
+  "2005-shows-with": "Stéphane Belzère (7), Marc Desgrandchamps (2), Sylvie Fajfrowska (2), Regine Kolle (2), Anne Neukamp (2), Renaud Regnery (2), Philippe Segond (2)",
   "representing-galleries": "Galerie Alexandre Cadain (76 Rue Quincampoix, 75003 Paris, France); Galerie RX (6, avenue Delcassé, 75008 Paris, France)",
   "collecting-museums": "FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France)",
   "first_name": "Stéphane",
@@ -43,6 +43,104 @@
   "age": 51,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "57608-5450-2005-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "57608-5450-2005-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "57608-5450-2005-03-01",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "57608-5450-2005-11-23",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "57608-20789-2007-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "57608-20789-2007-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "57608-5450-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "57608-5450-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "57608-5450-2007-12-06",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "57608-5450-2007-12-06",
+        "c": "FR"
+      },
+      {
+        "i": "57608-21426-2008-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "57608-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "57608-23145-2008-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "57608-23145-2008-03-12",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "57608-21426-2008-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "57608-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "57608-23329-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "57608-23329-2009-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "57608-5450-2009-02-19",
+        "c": "FR"
+      },
+      {
+        "i": "57608-5450-2009-02-19",
+        "c": "FR"
+      },
+      {
+        "i": "57608-5450-2009-02-19",
+        "c": "FR"
+      },
+      {
+        "i": "57608-5450-2009-02-19",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "57608-69-2010-06-12",

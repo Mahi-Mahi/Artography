@@ -1,7 +1,7 @@
 {
   "id": "129266",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:56:01",
+  "timestamp": "2014-05-24 07:00:50",
   "name": "Olivier Mirguet",
   "surname": "Mirguet",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "29810",
-  "r01": "27534",
-  "r02": "24456",
-  "r03": "21963",
-  "r04": "19049",
-  "r05": "20884",
-  "r06": "17585",
-  "r07": "20363",
-  "r08": "16578",
+  "r00": "22134",
+  "r01": "39307",
+  "r02": "31813",
+  "r03": "26010",
+  "r04": "21656",
+  "r05": "17861",
+  "r06": "19550",
+  "r07": "15889",
+  "r08": "18436",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "3",
+  "all-shows-total": "4",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (1)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (2)",
   "2005-shows-with": null,
   "representing-galleries": null,
   "collecting-museums": null,
@@ -43,6 +43,24 @@
   "age": 41,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "129266-22594-2005-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "129266-22594-2005-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "129266-10516-2005-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "129266-10516-2005-02-23",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "129266-2601-2007-08-18",
@@ -56,6 +74,16 @@
           "2007-08-18",
           "2007-09-23"
         ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "129266-8028-2009-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "129266-8028-2009-02-04",
+        "c": "FR"
       }
     ]
   }

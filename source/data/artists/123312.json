@@ -1,7 +1,7 @@
 {
   "id": "123312",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:53:46",
+  "timestamp": "2014-05-24 06:58:55",
   "name": "Camille Virot",
   "surname": "Virot",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "72686",
-  "r01": "78853",
-  "r02": "73974",
-  "r03": "94634",
-  "r04": "88163",
-  "r05": "81276",
-  "r06": "73322",
-  "r07": null,
+  "r00": "53224",
+  "r01": "53994",
+  "r02": "71496",
+  "r03": "66299",
+  "r04": "93103",
+  "r05": "86133",
+  "r06": "78763",
+  "r07": "70559",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "1995",
-  "all-shows-total": "5",
+  "all-shows-total": "6",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (1), Switzerland (1), United Kingdom (1)",
-  "2005-shows-with": "Camille Virot (3)",
-  "representing-galleries": "Hart Gallery (113 Upper St - Islington, N1 1QN London (England), United Kingdom)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (1), Germany (1), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Camille Virot (4), Claude Champy (2)",
+  "representing-galleries": "Hart Gallery (113 Upper St - Islington, N1 1QN London, United Kingdom)",
   "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); Sèvres - Cité de la céramique (2 Place de la Manufacture, 92310 Sevres, France)",
   "first_name": "Camille",
   "last_name": "Virot",
@@ -56,6 +56,14 @@
           "2011-06-23",
           "2011-09-03"
         ]
+      },
+      {
+        "i": "123312-10517-2011-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "123312-10517-2011-06-25",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -71,6 +79,16 @@
           "2013-03-28",
           "2013-08-18"
         ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "123312-14278-2007-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "123312-14278-2007-06-19",
+        "c": "FR"
       }
     ]
   }

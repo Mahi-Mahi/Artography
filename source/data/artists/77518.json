@@ -1,7 +1,7 @@
 {
   "id": "77518",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:35:31",
+  "timestamp": "2014-05-24 06:43:22",
   "name": "Laurent Faulon",
   "surname": "Faulon",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "16123",
-  "r01": "19242",
-  "r02": "17180",
-  "r03": "15429",
-  "r04": "13760",
-  "r05": "12014",
-  "r06": "12433",
-  "r07": "10135",
-  "r08": "39657",
+  "r00": "14420",
+  "r01": "17591",
+  "r02": "22320",
+  "r03": "17886",
+  "r04": "15067",
+  "r05": "12639",
+  "r06": "10620",
+  "r07": "10608",
+  "r08": "8376",
   "awards": null,
   "website": null,
   "all-shows-first": "1992",
   "all-shows-total": "16",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "Germany (5), France (4), Italy (1), Switzerland (1)",
-  "2005-shows-with": "Laurent Faulon (11), Delphine Reist (8), Botto & Bruno (2), Sada Tangara (2)",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (5), Germany (5), Italy (1), Switzerland (1)",
+  "2005-shows-with": "Laurent Faulon (12), Delphine Reist (8), Botto & Bruno (2), Alain Bublex (2), Luc Mattenberger (2), Lionel Scoccimaro (2), Sada Tangara (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Laurent",
@@ -71,6 +71,24 @@
         ]
       }
     ],
+    "2008": [
+      {
+        "i": "77518-7657-2008-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "77518-7657-2008-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "77518-20029-2008-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "77518-20029-2008-09-26",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "77518-28587-2009-09-05",
@@ -84,9 +102,17 @@
           "2009-09-05",
           "2009-10-10"
         ]
+      },
+      {
+        "i": "77518-20388-2009-09-14",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "77518-20388-2009-09-14",
+        "c": "FR"
+      },
       {
         "i": "77518-20294-2010-04-22",
         "c": "DE",
@@ -170,6 +196,16 @@
           "2013-09-21",
           "2013-11-17"
         ]
+      },
+      {
+        "i": "77518-2585-2013-11-24",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "77518-2585-2013-11-24",
+        "c": "FR"
       }
     ]
   }

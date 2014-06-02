@@ -1,7 +1,7 @@
 {
   "id": "167627",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:11:36",
+  "timestamp": "2014-05-24 07:13:54",
   "name": "Lucien Pelen",
   "surname": "Pelen",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "12139",
-  "r01": "12088",
-  "r02": "12719",
-  "r03": "11676",
-  "r04": "16145",
-  "r05": "14680",
-  "r06": "19521",
-  "r07": "39930",
-  "r08": "57722",
+  "r00": "9975",
+  "r01": "10712",
+  "r02": "10156",
+  "r03": "10778",
+  "r04": "9524",
+  "r05": "13507",
+  "r06": "12409",
+  "r07": "16842",
+  "r08": "36306",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "23",
+  "all-shows-total": "24",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
   "2005-shows-museums": "8",
-  "2005-countries-total": "France (15), Croatia (1), Germany (1)",
-  "2005-shows-with": "Lucien Pelen (14), Bas Jan Ader (3), Renaud Auguste-Dormeuil (3), Natacha Lesueur (3), François Morellet (3), Honoré d´ O (3), Stéphane Thidet (3), Jean-Luc Vilmouth (3), Mathieu Kleyebe Abonnenc (2), Francis Alys (2), Julien Audebert (2), Abdelkader Benchamma (2), Marcel Broodthaers (2), Patrick Everaert (2), Elika Hedayat (2), Pierre Joseph (2), Manuela Marques (2), Paul McCarthy (2), Anita Molinero (2), Jonathan Monk (2), Erwin Wurm (2), Carmelo Zagari (2)",
+  "2005-countries-total": "France (15), Belgium (1), Croatia (1), Germany (1)",
+  "2005-shows-with": "Lucien Pelen (15), Stéphane Thidet (4), Jean-Luc Vilmouth (4), Bas Jan Ader (3), Renaud Auguste-Dormeuil (3), Natacha Lesueur (3), François Morellet (3), Honoré d´ O (3), Erwin Wurm (3), Mathieu Kleyebe Abonnenc (2), Francis Alys (2), Julien Audebert (2), Abdelkader Benchamma (2), Marcel Broodthaers (2), Patrick Everaert (2), Geert Goiris (2), Elika Hedayat (2), Pierre Joseph (2), Manuela Marques (2), Paul McCarthy (2), Anita Molinero (2), Jonathan Monk (2), Carmelo Zagari (2)",
   "representing-galleries": "Galerie Les Chantiers boîte noire (1 rue Carbonnerie, 3400 Montpellier, France); Galerie Aline Vidal (70, rue Bonaparte, 75006 Paris, France)",
   "collecting-museums": null,
   "first_name": "Lucien",
@@ -43,7 +43,75 @@
   "age": 36,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "167627-8128-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "167627-8128-2006-06-17",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "167627-12381-2007-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "167627-12381-2007-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "167627-8128-2007-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "167627-8128-2007-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "167627-2024-2007-02-01",
+        "c": "FR"
+      },
+      {
+        "i": "167627-2024-2007-02-01",
+        "c": "FR"
+      },
+      {
+        "i": "167627-12381-2007-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "167627-12381-2007-04-27",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "167627-10244-2008-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "167627-10244-2008-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "167627-8128-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "167627-8128-2008-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "167627-2024-2008-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "167627-2024-2008-07-01",
+        "c": "FR"
+      },
       {
         "i": "167627-475-2008-11-22",
         "c": "DE",
@@ -71,6 +139,66 @@
           "2008-11-22",
           "2009-01-11"
         ]
+      },
+      {
+        "i": "167627-10501-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "167627-10501-2009-09-12",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "167627-8545-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "167627-8545-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "167627-10519-2010-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "167627-10519-2010-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "167627-2024-2010-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "167627-2024-2010-11-06",
+        "c": "FR"
+      },
+      {
+        "i": "167627-12381-2010-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "167627-12381-2010-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "167627-2024-2010-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "167627-2024-2010-02-11",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "167627-2024-2011-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "167627-2024-2011-01-12",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -86,6 +214,60 @@
           "2012-04-24",
           "2012-06-17"
         ]
+      },
+      {
+        "i": "167627-2260-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "167627-2260-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "167627-12381-2012-11-15",
+        "c": "FR"
+      },
+      {
+        "i": "167627-12381-2012-11-15",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "167627-12381-2013-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "167627-12381-2013-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "167627-21098-2013-11-30",
+        "c": "FR"
+      },
+      {
+        "i": "167627-12381-2013-05-09",
+        "c": "FR"
+      },
+      {
+        "i": "167627-12381-2013-05-09",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "167627-21098-2013-11-30",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "167627-12381-2005-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "167627-12381-2005-06-06",
+        "c": "FR"
       }
     ]
   }

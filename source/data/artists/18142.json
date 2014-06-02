@@ -1,7 +1,7 @@
 {
   "id": "18142",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:45",
+  "timestamp": "2014-05-24 06:22:08",
   "name": "Daniel Pontoreau",
   "surname": "Pontoreau",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "71119",
-  "r01": "75883",
-  "r02": "70093",
-  "r03": "64017",
-  "r04": "72891",
-  "r05": "65259",
-  "r06": "57542",
-  "r07": "49798",
-  "r08": "42321",
+  "r00": "75303",
+  "r01": "76849",
+  "r02": "89506",
+  "r03": "78977",
+  "r04": "69338",
+  "r05": "82016",
+  "r06": "71168",
+  "r07": "60855",
+  "r08": "51398",
   "awards": null,
   "website": null,
-  "all-shows-first": "2002",
-  "all-shows-total": "3",
+  "all-shows-first": "1981",
+  "all-shows-total": "4",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": "2",
@@ -43,6 +43,18 @@
   "age": 67,
   "age_range": "61-100",
   "expos": {
+    "2010": [
+      {
+        "i": "18142-26731-2010-09-15",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "18142-26731-2010-09-15",
+        "c": "FR"
+      }
+    ],
     "2013": [
       {
         "i": "18142-22679-2013-03-28",

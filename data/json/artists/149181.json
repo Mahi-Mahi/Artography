@@ -1,7 +1,7 @@
 {
   "id": "149181",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:04:11",
+  "timestamp": "2014-05-24 07:07:29",
   "name": "Perrine Lievens",
   "surname": "Lievens",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "18829",
-  "r01": "17833",
-  "r02": "16217",
-  "r03": "17196",
-  "r04": "17705",
-  "r05": "28157",
-  "r06": "24029",
-  "r07": null,
+  "r00": "15628",
+  "r01": "16291",
+  "r02": "15813",
+  "r03": "13766",
+  "r04": "14377",
+  "r05": "14629",
+  "r06": "23689",
+  "r07": "19753",
   "r08": null,
   "awards": "Hiscox Start Award,13th LVMH Young Artists’ Award,Japan Traffic Award, 26th International Takefuji Art Award",
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "14",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (5), Switzerland (4), Belgium (1)",
-  "2005-shows-with": "Perrine Lievens (9), Karim Noureldin (4), Magnus Thierfelder (4), Beat Zoderer (4), Benjamin Cottam (3), Terry Haggerty (3), Daniel Robert Hunziker (3), Alvar Aalto (2), Andrew Bick (2), Frédéric Cordier (2), Frederic Dedelley (2), Camille Graeser (2), Gerhard von Graevenitz (2), Brion Gysin (2), Paul Harrison (2), Auguste Herbin (2), Alfredo Häberli (2), Konrad Klapheck (2), Robertson Käppeli (2), Yves Laloy (2), Nicolas Le Moigne (2), Henri Matisse (2), László Moholy-Nagy (2), Ernst Müller (2), Aurélie Nemours (2), Max Sauze (2), Victor Vasarely (2), Franz West (2), John Wood (2)",
-  "representing-galleries": "Super Window Project (385-10 Motoyama Kamigamo Kita-Ku, 603-8047 Kyoto, Japan); von Bartha Garage (Kannenfeldplatz 6, 4056 Basel, Switzerland)",
+  "all-shows-total": "15",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (6), Switzerland (5), Belgium (1)",
+  "2005-shows-with": "Perrine Lievens (10), Karim Noureldin (4), Magnus Thierfelder (4), Beat Zoderer (4), Benjamin Cottam (3), Terry Haggerty (3), Daniel Robert Hunziker (3), Alvar Aalto (2), Andrew Bick (2), Frédéric Cordier (2), Frederic Dedelley (2), Camille Graeser (2), Gerhard von Graevenitz (2), Brion Gysin (2), Auguste Herbin (2), Alfredo Häberli (2), Konrad Klapheck (2), Robertson Käppeli (2), Yves Laloy (2), Nicolas Le Moigne (2), Henri Matisse (2), László Moholy-Nagy (2), Ernst Müller (2), Aurélie Nemours (2), Max Sauze (2), Victor Vasarely (2), Franz West (2), Wood & Harrison (2)",
+  "representing-galleries": "Super Window Project (385-10 Motoyama Kamigamo Kita-Ku, 603-8047 Kyoto, Japan); von Bartha Collection (Schertlingasse 16, CH-4051 Basel, Switzerland); von Bartha Garage (Kannenfeldplatz 6, 4056 Basel, Switzerland)",
   "collecting-museums": null,
   "first_name": "Perrine",
   "last_name": "Lievens",
@@ -43,7 +43,59 @@
   "age": 33,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "149181-11845-2007-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "149181-11845-2007-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "149181-12811-2007-07-12",
+        "c": "CA",
+        "n": "Perrine Lievens",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Montreal, QC",
+        "o": "Darling Foundry",
+        "d": [
+          "2007-07-12",
+          "2007-08-26"
+        ]
+      },
+      {
+        "i": "149181-17380-2007-12-22",
+        "c": "JP",
+        "n": "Perrine Lievens - Escapade",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Kyoto",
+        "o": "Super Window Project",
+        "d": [
+          "2007-12-22",
+          "2008-02-27"
+        ]
+      }
+    ],
     "2009": [
+      {
+        "i": "149181-6620-2009-02-08",
+        "c": "FR"
+      },
+      {
+        "i": "149181-6620-2009-02-08",
+        "c": "FR"
+      },
+      {
+        "i": "149181-8282-2009-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "149181-8282-2009-06-03",
+        "c": "FR"
+      },
       {
         "i": "149181-21228-2009-06-06",
         "c": "CH",
@@ -56,6 +108,24 @@
           "2009-06-06",
           "2009-08-15"
         ]
+      },
+      {
+        "i": "149181-23091-2009-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "149181-23091-2009-10-18",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "149181-8128-2010-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "149181-8128-2010-04-03",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -84,6 +154,14 @@
           "2011-03-05",
           "2011-03-14"
         ]
+      },
+      {
+        "i": "149181-8128-2011-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "149181-8128-2011-06-18",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -98,34 +176,6 @@
         "d": [
           "2012-06-02",
           "2012-07-14"
-        ]
-      }
-    ],
-    "2007": [
-      {
-        "i": "149181-12811-2007-07-12",
-        "c": "CA",
-        "n": "Perrine Lievens",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Montreal, QC",
-        "o": "Darling Foundry",
-        "d": [
-          "2007-07-12",
-          "2007-08-26"
-        ]
-      },
-      {
-        "i": "149181-17380-2007-12-22",
-        "c": "JP",
-        "n": "Perrine Lievens - Escapade",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Kyoto",
-        "o": "Super Window Project",
-        "d": [
-          "2007-12-22",
-          "2008-02-27"
         ]
       }
     ],

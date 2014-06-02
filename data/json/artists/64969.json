@@ -1,7 +1,7 @@
 {
   "id": "64969",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:22",
+  "timestamp": "2014-05-24 06:38:58",
   "name": "Gaël Davrinche",
   "surname": "Davrinche",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": "Painting",
-  "r00": "13410",
-  "r01": "13456",
-  "r02": "14374",
-  "r03": "20328",
-  "r04": "21270",
-  "r05": "23122",
-  "r06": "24916",
-  "r07": "26106",
-  "r08": "22326",
+  "r00": "12110",
+  "r01": "12021",
+  "r02": "11928",
+  "r03": "13102",
+  "r04": "20693",
+  "r05": "21247",
+  "r06": "23340",
+  "r07": "25347",
+  "r08": "26388",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "17",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
+  "all-shows-total": "18",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": "7",
-  "2005-countries-total": "France (12), Indonesia (1)",
-  "2005-shows-with": "Gaël Davrinche (10), Iris Levasseur (4), Françoise Petrovitch (4), Philippe Cognée (3), Gregory Forstner (3), P. Nicolas Ledoux (3), Isabelle Levenez (3), Christian Lhopital (3), Jeanne Susplugas (3), Barthélémy Toguo (3), Pierre Ardouvin (2), Julien Beneyton (2), Damien Cabanes (2), Erik Dietman (2), Gérard Garouste (2), Fabrice Hybert (2), Ji-Yeon Sung (2), Olivier Leroi (2), Pascal Lièvre (2), Peter Martensen (2), Olivier Masmonteil (2), Joàn Miró (2), Vik Muniz (2), Axel Pahlavi (2), Javier Pérez (2), Ernest Pignon Ernest (2), Jorge Queiroz (2), Man Ray (2), Anne-Marie Schneider (2), Duncan Wylie (2)",
+  "2005-countries-total": "France (12), Indonesia (1), Italy (1)",
+  "2005-shows-with": "Gaël Davrinche (11), Iris Levasseur (4), Françoise Petrovitch (4), Philippe Cognée (3), Gregory Forstner (3), P. Nicolas Ledoux (3), Isabelle Levenez (3), Christian Lhopital (3), Jeanne Susplugas (3), Barthélémy Toguo (3), Pierre Ardouvin (2), Julien Beneyton (2), Damien Cabanes (2), Erik Dietman (2), Gérard Garouste (2), Fabrice Hybert (2), Ji-Yeon Sung (2), Carolin Jörg (2), Olivier Leroi (2), Pascal Lièvre (2), Peter Martensen (2), Olivier Masmonteil (2), Joàn Miró (2), Vik Muniz (2), Axel Pahlavi (2), Javier Pérez (2), Ernest Pignon Ernest (2), Jorge Queiroz (2), Man Ray (2), Anne-Marie Schneider (2), Duncan Wylie (2)",
   "representing-galleries": "Galerie Magda Danysz (78, rue Amelot, 75013 Paris, France)",
   "collecting-museums": null,
   "first_name": "Gaël",
@@ -43,6 +43,124 @@
   "age": 43,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "64969-26775-2005-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "64969-26775-2005-01-23",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "64969-5122-2006-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "64969-5122-2006-02-23",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "64969-7910-2007-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "64969-7910-2007-03-11",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "64969-23586-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "64969-23586-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "64969-12992-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "64969-10519-2009-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "64969-10519-2009-10-17",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "64969-12992-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "64969-2090-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "64969-2090-2010-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "64969-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "64969-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "64969-27829-2010-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "64969-27829-2010-05-05",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "64969-10519-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "64969-10519-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "64969-11845-2011-07-13",
+        "c": "FR"
+      },
+      {
+        "i": "64969-11845-2011-07-13",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "64969-27843-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "64969-27843-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "64969-2090-2012-05-05",
+        "c": "FR"
+      },
+      {
+        "i": "64969-2090-2012-05-05",
+        "c": "FR"
+      }
+    ],
     "2013": [
       {
         "i": "64969-30093-2013-12-04",
@@ -56,6 +174,14 @@
           "2013-12-04",
           "2014-02-15"
         ]
+      },
+      {
+        "i": "64969-10222-2013-09-02",
+        "c": "FR"
+      },
+      {
+        "i": "64969-10222-2013-09-02",
+        "c": "FR"
       }
     ],
     "2014": [
@@ -71,6 +197,16 @@
           "2013-12-04",
           "2014-02-15"
         ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "64969-26775-2008-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "64969-26775-2008-01-12",
+        "c": "FR"
       }
     ]
   }

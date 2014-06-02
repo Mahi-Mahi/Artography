@@ -1,7 +1,7 @@
 {
   "id": "5571",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:04:59",
+  "timestamp": "2014-05-24 06:17:08",
   "name": "Sam Szafran",
   "surname": "Szafran",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "35892",
-  "r01": "36055",
-  "r02": "47316",
-  "r03": "53767",
-  "r04": "57086",
-  "r05": "55944",
-  "r06": "64184",
-  "r07": "56480",
-  "r08": "48175",
+  "r00": "29154",
+  "r01": "28892",
+  "r02": "28298",
+  "r03": "37970",
+  "r04": "52037",
+  "r05": "56785",
+  "r06": "55376",
+  "r07": "66007",
+  "r08": "57021",
   "awards": null,
   "website": null,
   "all-shows-first": "1982",
@@ -34,7 +34,7 @@
   "2005-shows-museums": "4",
   "2005-countries-total": "France (5), Switzerland (2), Germany (1), United Kingdom (1)",
   "2005-shows-with": "Sam Szafran (5), Maurice Estève (3), Paul Rebeyrolle (3), Ronan Barrot (2), Julius Bissier (2), Leonardo Cremonini (2), Tibor Csernus (2), Jean Degottex (2), Pierre Edouard (2), Gao Xingjian (2), Eugène Leroy (2), Roberto Matta (2), Henri Michaux (2), Zoran Music (2), Antonio Seguí (2), Jacques Truphémus (2)",
-  "representing-galleries": "Galerie Claude Bernard (7-9 rue des Beaux Arts, 75006 Paris, France); Galerie Fleury (36, avenue de Matignon, 75008 Paris, France); Galerie Alain Le Gaillard (19, rue Mazarine, 75006 Paris, France); Galerie Hopkins (avenue Matignon 2, 75008 Paris, France); Galerie Natalie Seroussi (34, rue de Seine, 75006 Paris, France); Faggionato Fine Arts (49 Albemarle Street, W1S 4JR London (England), United Kingdom)",
+  "representing-galleries": "Galerie Claude Bernard (7-9 rue des Beaux Arts, 75006 Paris, France); Galerie Fleury (36, avenue de Matignon, 75008 Paris, France); Galerie Alain Le Gaillard (19, rue Mazarine, 75006 Paris, France); Galerie Hopkins (avenue Matignon 2, 75008 Paris, France); Galerie Natalie Seroussi (34, rue de Seine, 75006 Paris, France); Faggionato Fine Arts (49 Albemarle Street, W1S 4JR London, United Kingdom)",
   "collecting-museums": "Frissiras Museum (3  Monis Asteriou,  Plaka Athens, Greece); Musée jurassien des Arts (Rue Centrale 4, 2740 Moutier, Switzerland)",
   "first_name": "Sam",
   "last_name": "Szafran",
@@ -56,6 +56,34 @@
           "2005-01-22",
           "2005-03-05"
         ]
+      },
+      {
+        "i": "5571-2007-2005-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "5571-2007-2005-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "5571-2007-2005-12-23",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "5571-2007-2005-12-23",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5571-2007-2009-09-01",
+        "c": "FR"
+      },
+      {
+        "i": "5571-2007-2009-09-01",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -101,6 +129,18 @@
         ]
       },
       {
+        "i": "5571-2007-2011-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "5571-2007-2011-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "5571-17115-2011-12-17",
+        "c": "FR"
+      },
+      {
         "i": "5571-3879-2010-11-07",
         "c": "DE",
         "n": "Sam Szafran – Zeichnungen, Pastelle, Aquarelle",
@@ -116,6 +156,18 @@
     ],
     "2012": [
       {
+        "i": "5571-17115-2011-12-17",
+        "c": "FR"
+      },
+      {
+        "i": "5571-6428-2012-10-18",
+        "c": "FR"
+      },
+      {
+        "i": "5571-6428-2012-10-18",
+        "c": "FR"
+      },
+      {
         "i": "5571-13491-2012-01-05",
         "c": "GB",
         "n": "Sam Szafran",
@@ -127,6 +179,16 @@
           "2012-01-05",
           "2012-03-02"
         ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "5571-4407-2008-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "5571-4407-2008-04-02",
+        "c": "FR"
       }
     ],
     "2013": [

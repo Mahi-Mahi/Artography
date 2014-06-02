@@ -1,7 +1,7 @@
 {
   "id": "54201",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:25:49",
+  "timestamp": "2014-05-24 06:35:07",
   "name": "Laure Prouvost",
   "surname": "Prouvost",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "3287",
-  "r01": "4598",
-  "r02": "6543",
-  "r03": "10214",
-  "r04": "30835",
-  "r05": "84760",
-  "r06": "76529",
-  "r07": "69045",
-  "r08": "59957",
+  "r00": "1315",
+  "r01": "2209",
+  "r02": "3072",
+  "r03": "4722",
+  "r04": "7576",
+  "r05": "25631",
+  "r06": "86215",
+  "r07": "77098",
+  "r08": "69172",
   "awards": null,
-  "website": null,
+  "website": "www.laureprouvost.com",
   "all-shows-first": "2003",
-  "all-shows-total": "48",
+  "all-shows-total": "55",
   "2005-shows-biennials": "12",
   "2005-shows-galleries": "12",
-  "2005-shows-museums": "17",
-  "2005-countries-total": "United Kingdom (19), Germany (11), France (3), Sweden (2), Switzerland (2), USA (2), Austria (1), Belgium (1), Italy (1), Norway (1), Russia (1)",
-  "2005-shows-with": "Laure Prouvost (38), Ed Atkins (7), Andrea Büttner (4), Rosalind Nashashibi (4), Johann Arens (3), Vanessa Billy (3), Steven Claydon (3), Patrick Coyle (3), Rowena Harris (3), Ian Homerston (3), Hilary Koob-Sassen (3), Slavs and Tatars (3), Cara Tolmie (3), AIDS-3D (2), Bernard Akoi-Jackson (2), John Akomfrah (2), Richard Aldrich (2), Dragan Aleksic (2), Greta Alfaro (2), Emil Anderfuhren (2), Meris Angioletti (2), Holly Antrum (2), Caline Aoun (2), John M Armleder (2), Omar Bâ (2), Trisha Baga (2), Nick Bailey (2), Alex Baladi (2), Nathan Barlex (2), Francis Baudevin (2), Pierre Belouin (2), Jacob Benjama (2), Donatella Bernardi (2), Sophie Caroline Bernhard (2), Hagen Betzwieser (2), Vanessa Bianchini (2), Alexandre Bianchini (2), Christian Billi (2), Pierre Bismuth (2), Jean Luc Blanc (2), Michel Blazy (2), Simone Bogner (2), Amie Bolissian (2), Kim Seob Boninsegni (2), Jacques Bonnard (2), Thomas Bonny (2), Laurence Bonvin (2), Ian Bourn (2), Olaf Breuning (2), Tarramo Broennimann (2), Alice Browne (2),",
-  "representing-galleries": "MOT International (8 Andrews Road, E8 4QN London (England), United Kingdom)",
-  "collecting-museums": "The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London (England), United Kingdom)",
+  "2005-shows-museums": "22",
+  "2005-countries-total": "United Kingdom (21), Germany (12), Belgium (4), France (4), USA (4), Sweden (2), Switzerland (2), Austria (1), Italy (1), Norway (1), Russia (1)",
+  "2005-shows-with": "Laure Prouvost (43), Ed Atkins (8), Andrea Büttner (5), Rosalind Nashashibi (4), Johann Arens (3), John M Armleder (3), Vanessa Billy (3), Edwin Burdis (3), Steven Claydon (3), Patrick Coyle (3), Michael Dean (3), Rowena Harris (3), Emma Hart (3), Ian Homerston (3), David Hominal (3), Hilary Koob-Sassen (3), Slavs and Tatars (3), Cara Tolmie (3), AIDS-3D (2), Bernard Akoi-Jackson (2), John Akomfrah (2), Richard Aldrich (2), Dragan Aleksic (2), Greta Alfaro (2), Emil Anderfuhren (2), Meris Angioletti (2), Holly Antrum (2), Caline Aoun (2), Omar Bâ (2), Trisha Baga (2), Nick Bailey (2), Alex Baladi (2), Nathan Barlex (2), Matthew Barney (2), Francis Baudevin (2), Pierre Belouin (2), Jacob Benjama (2), Donatella Bernardi (2), Sophie Caroline Bernhard (2), Hagen Betzwieser (2), Vanessa Bianchini (2), Alexandre Bianchini (2), Christian Billi (2), Pierre Bismuth (2), Jean Luc Blanc (2), Michel Blazy (2), Simone Bogner (2), Amie Bolissian (2), Kim Seob Boninsegni (2), Jacques Bonnard (2), Thomas Bonny (2), Laurenc",
+  "representing-galleries": "MOT International (8 Andrews Road, E8 4QN London, United Kingdom)",
+  "collecting-museums": "The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London, United Kingdom)",
   "first_name": "Laure",
   "last_name": "Prouvost",
   "genre": "f",
@@ -71,6 +71,14 @@
           "2009-05-01",
           "2009-05-30"
         ]
+      },
+      {
+        "i": "54201-11771-2009-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "54201-11771-2009-06-16",
+        "c": "FR"
       },
       {
         "i": "54201-15160-2009-06-18",
@@ -600,6 +608,18 @@
         ]
       },
       {
+        "i": "54201-2493-2013-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "54201-2493-2013-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "54201-28781-2013-10-12",
+        "c": "FR"
+      },
+      {
         "i": "54201-2235-2013-11-23",
         "c": "GB",
         "n": "Assembly: A survey of recent artists&#8217; film and video in Britain 2008&#8211;2013",
@@ -627,6 +647,10 @@
       }
     ],
     "2014": [
+      {
+        "i": "54201-28781-2013-10-12",
+        "c": "FR"
+      },
       {
         "i": "54201-2235-2013-11-23",
         "c": "GB",

@@ -1,7 +1,7 @@
 {
   "id": "297581",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 08:01:41",
+  "timestamp": "2014-05-24 07:58:20",
   "name": "Emmanuelle Samson",
   "surname": "Samson",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "60814",
-  "r01": "57904",
-  "r02": "53272",
-  "r03": "59489",
-  "r04": "53557",
-  "r05": "60064",
-  "r06": "52926",
-  "r07": null,
+  "r00": "56498",
+  "r01": "55456",
+  "r02": "52838",
+  "r03": "47340",
+  "r04": "54139",
+  "r05": "47788",
+  "r06": "54808",
+  "r07": "47542",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "3",
+  "all-shows-total": "4",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": null,
-  "2005-countries-total": "France (2)",
+  "2005-countries-total": "France (3)",
   "2005-shows-with": "Lucie Bitunjac (2), Vincent Bullat (2), Estelle Contamin (2), Flavie Cournil (2), Olivier de Coux (2), Margaret  Dearing (2), Richard Negre (2), Anne-Marie Rognon (2), Emmanuelle Samson (2)",
   "representing-galleries": null,
   "collecting-museums": null,
@@ -43,5 +43,35 @@
   "age": 43,
   "age_range": "41-60",
   "expos": {
+    "2009": [
+      {
+        "i": "297581-11850-2009-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "297581-11850-2009-09-15",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "297581-11850-2011-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "297581-11850-2011-02-05",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "297581-11850-2007-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "297581-11850-2007-11-08",
+        "c": "FR"
+      }
+    ]
   }
 }

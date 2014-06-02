@@ -1,7 +1,7 @@
 {
   "id": "16284",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:50",
+  "timestamp": "2014-05-24 06:21:24",
   "name": "Sylvie Fanchon",
   "surname": "Fanchon",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "8314",
-  "r01": "7945",
-  "r02": "8181",
-  "r03": "7581",
-  "r04": "8139",
-  "r05": "8621",
-  "r06": "8145",
-  "r07": "9039",
-  "r08": "16048",
+  "r00": "8606",
+  "r01": "8843",
+  "r02": "7921",
+  "r03": "7767",
+  "r04": "6885",
+  "r05": "7436",
+  "r06": "7963",
+  "r07": "7338",
+  "r08": "8209",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "25",
+  "all-shows-total": "28",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "10",
-  "2005-countries-total": "France (13), Austria (1), Germany (1), Switzerland (1)",
-  "2005-shows-with": "Sylvie Fanchon (12), John M Armleder (3), Nicolas Chardon (3), Philippe Decrauzat (3), Ivan Fayard (3), Olivier Mosset (3), Gyan Panchal (3), Steven Parrino (3), Alain Séchas (3), Blair Thurman (3), John Tremblay (3), Adam Adach (2), Hugues Allamargot (2), Dove Allouche (2), Ziad Antar (2), Richard Artschwager (2), Karina Bisch (2), Etienne Bossut (2), Alex Brown (2), Pierre Buraglio (2), Stéphane Calais (2), Nina Childress (2), Philippe Cognée (2), Delphine Coindet (2), Henri Cueco (2), Christophe Cuzin (2), Noël Dolla (2), Helmut Dorner (2), Sylvie Fajfrowska (2), Stephen Felton (2), Philippe Gronon (2), Raymond Hains (2), Peter Halley (2), Shirley Jaffe (2), Bertrand Lavier (2), Renée Lévi (2), Didier Marcel (2), Olivier Masmonteil (2), Philippe Mayaux (2), Allan McCollum (2), Mathieu Mercier (2), Richard Monnier (2), Miquel Mont (2), Laurent Montaron (2), François Morellet (2), Gabriel Orozco (2), Florence Paradeis (2), Bruno Peinado (2), A. R. Penck (2), Benoit Platéus (2), Philippe Ramette (2), ",
+  "2005-shows-museums": "12",
+  "2005-countries-total": "France (15), Austria (1), Germany (1), Switzerland (1)",
+  "2005-shows-with": "Sylvie Fanchon (14), John M Armleder (3), Nicolas Chardon (3), Philippe Decrauzat (3), Ivan Fayard (3), Olivier Mosset (3), Gyan Panchal (3), Steven Parrino (3), Alain Séchas (3), Blair Thurman (3), John Tremblay (3), Adam Adach (2), Hugues Allamargot (2), Dove Allouche (2), Ziad Antar (2), Richard Artschwager (2), Karina Bisch (2), Etienne Bossut (2), Alex Brown (2), Pierre Buraglio (2), Stéphane Calais (2), Chen Zhen (2), Nina Childress (2), Philippe Cognée (2), Delphine Coindet (2), Henri Cueco (2), Christophe Cuzin (2), Noël Dolla (2), Helmut Dorner (2), Sylvie Fajfrowska (2), Stephen Felton (2), Philippe Gronon (2), Raymond Hains (2), Peter Halley (2), Shirley Jaffe (2), Bertrand Lavier (2), Renée Lévi (2), Didier Marcel (2), Olivier Masmonteil (2), Philippe Mayaux (2), Allan McCollum (2), Mathieu Mercier (2), Richard Monnier (2), Miquel Mont (2), Laurent Montaron (2), François Morellet (2), Gabriel Orozco (2), Florence Paradeis (2), Bruno Peinado (2), A. R. Penck (2), Benoit Platéus (2), Philipp",
   "representing-galleries": "Galerie Bernard Jordan - Paris (77, rue Charlot, 75003 Paris, France); Galerie Bernard Jordan - Zürich (Zwinglistrasse 33, 8004 Zurich, Switzerland)",
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Maison d’art contemporain Chaillioux - MACC (5 rue Julien Chaillioux, 94260 Fresnes, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Sylvie",
@@ -71,7 +71,41 @@
         ]
       }
     ],
+    "2007": [
+      {
+        "i": "16284-10517-2007-10-06",
+        "c": "FR"
+      },
+      {
+        "i": "16284-10517-2007-10-06",
+        "c": "FR"
+      },
+      {
+        "i": "16284-7390-2007-12-13",
+        "c": "FR"
+      },
+      {
+        "i": "16284-1937-2007-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "16284-1937-2007-01-12",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "16284-7390-2007-12-13",
+        "c": "FR"
+      },
+      {
+        "i": "16284-16035-2008-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "16284-16035-2008-04-10",
+        "c": "FR"
+      },
       {
         "i": "16284-14700-2008-05-24",
         "c": "DE",
@@ -84,6 +118,14 @@
           "2008-05-24",
           "2008-07-19"
         ]
+      },
+      {
+        "i": "16284-2021-2008-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "16284-2021-2008-05-24",
+        "c": "FR"
       },
       {
         "i": "16284-11599-2008-07-05",
@@ -101,6 +143,30 @@
     ],
     "2009": [
       {
+        "i": "16284-29113-2009-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "16284-29113-2009-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "16284-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "16284-9475-2009-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "16284-10282-2009-03-02",
+        "c": "FR"
+      },
+      {
+        "i": "16284-10282-2009-03-02",
+        "c": "FR"
+      },
+      {
         "i": "16284-17610-2009-08-26",
         "c": "CH",
         "n": "Sylvie Fanchon",
@@ -112,6 +178,80 @@
           "2009-08-26",
           "2009-10-10"
         ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "16284-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "16284-10227-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "16284-27842-2010-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "16284-27842-2010-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "16284-9344-2010-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "16284-9344-2010-06-25",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "16284-26377-2011-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "16284-26377-2011-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "16284-1937-2011-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "16284-1937-2011-01-08",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "16284-2414-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "16284-2414-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "16284-11883-2012-10-13",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16284-2353-2013-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "16284-11883-2012-10-13",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "16284-2353-2013-10-05",
+        "c": "FR"
       }
     ]
   }

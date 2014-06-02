@@ -1,7 +1,7 @@
 {
   "id": "58653",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:48",
+  "timestamp": "2014-05-24 06:36:43",
   "name": "Louidgi Beltrame",
   "surname": "Beltrame",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "7276",
-  "r01": "6662",
-  "r02": "8337",
-  "r03": "8389",
-  "r04": "12214",
-  "r05": "10476",
-  "r06": "15647",
-  "r07": "19747",
-  "r08": "74755",
+  "r00": "5950",
+  "r01": "6281",
+  "r02": "5333",
+  "r03": "6828",
+  "r04": "6892",
+  "r05": "10466",
+  "r06": "8687",
+  "r07": "13084",
+  "r08": "16729",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "20",
+  "all-shows-total": "22",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (7), Spain (2), Austria (1), Czech Republic (1), Japan (1), Singapore (1), United Arab Emirates (1)",
-  "2005-shows-with": "Louidgi Beltrame (10), Christelle Lheureux (3), Apichatpong Weerasethakul (3), Fanny Adler (2), Meris Angioletti (2), Alex Cecchetti (2), Isabelle Cornaro (2), Adriana Garcia Galan (2), Ge Jin (2), Marisa González (2), Dan Graham (2), Alice Guareschi (2), André Guedes (2), Chris Marker (2), Adrian Melis (2), María Ruido (2), Adam Vackar (2)",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (7), Spain (3), Czech Republic (2), Austria (1), Japan (1), Singapore (1), United Arab Emirates (1)",
+  "2005-shows-with": "Louidgi Beltrame (12), Christelle Lheureux (3), Adrian Melis (3), Adam Vackar (3), Apichatpong Weerasethakul (3), Fanny Adler (2), Lara Almárcegui (2), Meris Angioletti (2), Alex Cecchetti (2), Isabelle Cornaro (2), Adriana Garcia Galan (2), Ge Jin (2), Marisa González (2), Dan Graham (2), Alice Guareschi (2), André Guedes (2), Liu Zhenchen (2), Chris Marker (2), María Ruido (2)",
   "representing-galleries": "Jousse Entreprise (6 Rue Saint-Claude, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Louidgi",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2006": [
+      {
+        "i": "58653-1782-2006-01-20",
+        "c": "FR"
+      },
+      {
+        "i": "58653-1782-2006-01-20",
+        "c": "FR"
+      },
       {
         "i": "58653-4341-2006-07-23",
         "c": "JP",
@@ -58,6 +66,22 @@
       }
     ],
     "2007": [
+      {
+        "i": "58653-8282-2007-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "58653-8282-2007-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "58653-20789-2007-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "58653-20789-2007-04-05",
+        "c": "FR"
+      },
       {
         "i": "58653-4336-2007-06-03",
         "c": "US",
@@ -84,9 +108,43 @@
           "2008-06-03",
           "2008-09-14"
         ]
+      },
+      {
+        "i": "58653-2353-2008-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "58653-1939-2008-11-15",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "58653-7390-2010-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "58653-7390-2010-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "58653-8700-2010-10-09",
+        "c": "FR"
+      },
+      {
+        "i": "58653-8282-2010-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "58653-8282-2010-11-16",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "58653-8700-2010-10-09",
+        "c": "FR"
+      },
       {
         "i": "58653-23945-2011-02-17",
         "c": "ES",
@@ -170,6 +228,14 @@
     ],
     "2012": [
       {
+        "i": "58653-8282-2012-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "58653-8282-2012-04-11",
+        "c": "FR"
+      },
+      {
         "i": "58653-2278-2012-06-29",
         "c": "AT",
         "n": "Mutatis Mutandis",
@@ -181,6 +247,24 @@
           "2012-06-29",
           "2012-09-02"
         ]
+      },
+      {
+        "i": "58653-1939-2012-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "58653-1939-2012-01-14",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "58653-2353-2008-10-17",
+        "c": "FR"
+      },
+      {
+        "i": "58653-1939-2008-11-15",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "18025",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:42",
+  "timestamp": "2014-05-24 06:22:06",
   "name": "Christine Rebet",
   "surname": "Rebet",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "6391",
-  "r01": "6140",
-  "r02": "6484",
-  "r03": "7145",
-  "r04": "8531",
-  "r05": "7903",
-  "r06": "7282",
-  "r07": "10620",
-  "r08": "15518",
+  "r00": "6512",
+  "r01": "6070",
+  "r02": "5395",
+  "r03": "5768",
+  "r04": "6342",
+  "r05": "7693",
+  "r06": "6954",
+  "r07": "6241",
+  "r08": "9361",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "31",
+  "all-shows-total": "32",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
   "2005-shows-museums": "6",
-  "2005-countries-total": "USA (10), France (2), Germany (1), United Kingdom (1)",
-  "2005-shows-with": "Christine Rebet (13), Robert Breer (3), Brent Green (3), William Kentridge (3), Avish Khebrehzadeh (3), Robin Rhode (3), Cindy Sherman (3), Kara Walker (3), Marie Bovo (2), Ernesto Caivano (2), Paul Chan (2), Martha Colburn (2), Benjamin Degen (2), Thomas Demand (2), Adriana Farmiga (2), Eric Fertman (2), Daniele Frazier (2), Max Galyon (2), Amy Gartrell (2), George Griffin (2), Johan Grimonprez (2), Camille Henrot (2), Ezra Johnson (2), Bill T. Jones (2), Mary Reid Kelley (2), Laleh Khorramian (2), Maria Lassnig (2), Claude Lévêque (2), Pierre Malphettes (2), Yuri Masnyj (2), Jennifer & Kevin McCoy (2), Joshua Mosley (2), Oscar Muñoz (2), Daniel Newman (2), Jacco Olivier (2), Raymond Pettibon (2), Robert A. Pruitt (2), Lotte Reiniger (2), Hiraki Sawa (2), Berni Searle (2), Michael Shea (2), Federico Solmi (2), Dziga Vertov (2), Dustin Yellin (2)",
+  "2005-countries-total": "USA (10), France (2), Germany (1), Norway (1), United Kingdom (1)",
+  "2005-shows-with": "Christine Rebet (14), Robert Breer (3), Brent Green (3), William Kentridge (3), Avish Khebrehzadeh (3), Robin Rhode (3), Cindy Sherman (3), Kara Walker (3), Marie Bovo (2), Ernesto Caivano (2), Paul Chan (2), Martha Colburn (2), Benjamin Degen (2), Thomas Demand (2), Adriana Farmiga (2), Eric Fertman (2), Daniele Frazier (2), Max Galyon (2), Amy Gartrell (2), George Griffin (2), Johan Grimonprez (2), Camille Henrot (2), Ezra Johnson (2), Bill T. Jones (2), Laleh Khorramian (2), Maria Lassnig (2), Claude Lévêque (2), Pierre Malphettes (2), Yuri Masnyj (2), Jennifer & Kevin McCoy (2), Joshua Mosley (2), Oscar Muñoz (2), Daniel Newman (2), Jacco Olivier (2), Raymond Pettibon (2), Robert A. Pruitt (2), Mary Reid Kelley (2), Lotte Reiniger (2), Hiraki Sawa (2), Berni Searle (2), Michael Shea (2), Federico Solmi (2), Dziga Vertov (2), Dustin Yellin (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Christine",
@@ -69,6 +69,14 @@
           "2005-10-14",
           "2005-11-19"
         ]
+      },
+      {
+        "i": "18025-1941-2005-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "18025-1941-2005-04-01",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -110,9 +118,21 @@
           "2006-10-17",
           "2006-12-17"
         ]
+      },
+      {
+        "i": "18025-2014-2006-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "18025-1941-2006-11-17",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "18025-2014-2006-12-15",
+        "c": "FR"
+      },
       {
         "i": "18025-14614-2007-02-18",
         "c": "CH",
@@ -140,6 +160,14 @@
         ]
       },
       {
+        "i": "18025-2528-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "18025-2528-2007-09-15",
+        "c": "FR"
+      },
+      {
         "i": "18025-2726-2007-09-15",
         "c": "US",
         "n": "In Wonderland: Animations by Christine Rebet, Hiraki Sawa and Shahzia Sikander",
@@ -153,6 +181,14 @@
         ]
       },
       {
+        "i": "18025-13514-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "18025-13514-2007-09-15",
+        "c": "FR"
+      },
+      {
         "i": "18025-7066-2007-12-04",
         "c": "US",
         "n": "French Kissing in the U.S.A.",
@@ -164,6 +200,10 @@
           "2007-12-04",
           "2008-03-08"
         ]
+      },
+      {
+        "i": "18025-1941-2006-11-17",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -233,6 +273,22 @@
           "2009-02-05",
           "2009-02-08"
         ]
+      },
+      {
+        "i": "18025-27842-2009-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "18025-27842-2009-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "18025-1941-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "18025-1941-2009-09-12",
+        "c": "FR"
       }
     ],
     "2010": [

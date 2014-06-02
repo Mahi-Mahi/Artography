@@ -1,7 +1,7 @@
 {
   "id": "274944",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:52:45",
+  "timestamp": "2014-05-24 07:50:38",
   "name": "TANC",
   "surname": "TANC",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "68125",
-  "r01": "70535",
-  "r02": "95138",
-  "r03": "94688",
-  "r04": "103028",
-  "r05": null,
+  "r00": "51359",
+  "r01": "52435",
+  "r02": "54437",
+  "r03": "88968",
+  "r04": "89851",
+  "r05": "102586",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -34,7 +34,7 @@
   "2005-shows-museums": null,
   "2005-countries-total": "France (6), Germany (2), Lebanon (1), Morocco (1), United Kingdom (1)",
   "2005-shows-with": "TANC (10), Jef Aerosol (4), JonOne (4), L\\'Atlas (4), Olivier Rizzo (4), Invader (3), Mist (3), Sun7 (3), Futura2000 (2), Augustine Kofie (2), Psyckoze (2), RESO (2)",
-  "representing-galleries": "Lebenson Gallery (56 rue Chapon, 75003 Paris, France); David Bloch Gallery (8 bis rue des Vieux Marrakchis, 40000 Marrakech, Morocco); The French Art Studio (121 Sulgrave Road, W6 7QH London (England), United Kingdom)",
+  "representing-galleries": "Lebenson Gallery (56 rue Chapon, 75003 Paris, France); David Bloch Gallery (8 bis rue des Vieux Marrakchis, 40000 Marrakech, Morocco); The French Art Studio (121 Sulgrave Road, W6 7QH London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "TANC",
   "last_name": "",
@@ -43,6 +43,16 @@
   "age": 35,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "274944-1829-2009-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "274944-1829-2009-09-08",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "274944-22828-2010-04-30",
@@ -56,9 +66,35 @@
           "2010-04-30",
           "2010-05-28"
         ]
+      },
+      {
+        "i": "274944-24181-2010-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "274944-24181-2010-10-15",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "274944-24181-2011-09-01",
+        "c": "FR"
+      },
+      {
+        "i": "274944-24181-2011-09-01",
+        "c": "FR"
+      },
+      {
+        "i": "274944-29199-2011-12-03",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "274944-29199-2011-12-03",
+        "c": "FR"
+      },
       {
         "i": "274944-23060-2012-03-15",
         "c": "MA",
@@ -71,6 +107,22 @@
           "2012-03-15",
           "2012-06-30"
         ]
+      },
+      {
+        "i": "274944-24181-2012-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "274944-24181-2012-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "274944-24181-2012-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "274944-24181-2012-07-03",
+        "c": "FR"
       },
       {
         "i": "274944-19516-2012-09-06",

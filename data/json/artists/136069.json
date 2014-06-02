@@ -1,7 +1,7 @@
 {
   "id": "136069",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:58:55",
+  "timestamp": "2014-05-24 07:03:06",
   "name": "Ramuntcho Matta",
   "surname": "Matta",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "34131",
-  "r01": "35561",
-  "r02": "32228",
-  "r03": "35058",
-  "r04": "31786",
-  "r05": "36614",
-  "r06": "42125",
-  "r07": "36006",
-  "r08": "43559",
+  "r00": "24649",
+  "r01": "24404",
+  "r02": "35678",
+  "r03": "30442",
+  "r04": "33563",
+  "r05": "29293",
+  "r06": "34485",
+  "r07": "40542",
+  "r08": "33761",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
   "all-shows-total": "12",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (3), Italy (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Ramuntcho Matta (4)",
+  "2005-countries-total": "France (4), Italy (1), Switzerland (1), USA (1)",
+  "2005-shows-with": "Ramuntcho Matta (5), John Cage (2), Robert Filliou (2)",
   "representing-galleries": "Galeria Ana Maria Stagno - Marlborough Gallery Chile (Avenida Nueva Costanera 3723, Vitacura,  Santiago, Chile); Galerie Anne Barrault (22, rue Saint-Claude, 75003 Paris, France); Haydeé Rovirosa Gallery (529 West 20th Street, 7th Floor, 10011 New York City, NY, USA)",
   "collecting-museums": null,
   "first_name": "Ramuntcho",
@@ -43,6 +43,24 @@
   "age": 54,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "136069-1372-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "136069-1372-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "136069-1372-2006-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "136069-1372-2006-02-25",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "136069-5891-2008-11-27",
@@ -56,6 +74,14 @@
           "2008-11-27",
           "2008-12-20"
         ]
+      },
+      {
+        "i": "136069-1372-2008-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "136069-1372-2008-04-19",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -86,6 +112,26 @@
           "2010-10-13",
           "2010-10-23"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "136069-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "136069-10825-2013-09-21",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "136069-1372-2011-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "136069-1372-2011-02-26",
+        "c": "FR"
       }
     ]
   }

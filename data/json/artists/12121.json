@@ -1,7 +1,7 @@
 {
   "id": "12121",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:57",
+  "timestamp": "2014-05-24 06:19:46",
   "name": "Paul Pouvreau",
   "surname": "Pouvreau",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "8788",
-  "r01": "9281",
-  "r02": "8254",
-  "r03": "9552",
-  "r04": "8304",
-  "r05": "7184",
-  "r06": "6562",
-  "r07": "5685",
-  "r08": "7087",
+  "r00": "9316",
+  "r01": "9416",
+  "r02": "11517",
+  "r03": "9639",
+  "r04": "12415",
+  "r05": "10053",
+  "r06": "8387",
+  "r07": "7327",
+  "r08": "6055",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "35",
+  "all-shows-total": "37",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (14), Belgium (3)",
-  "2005-shows-with": "Paul Pouvreau (12), Taysir Batniji (4), François Daireaux (3), Hugues Reip (3), Martine Aballéa (2), Ismail Bahri (2), Walead Beshty (2), Laurence Bonvin (2), Mohamed Bourouissa (2), Anne Brégeaut (2), James Casebere (2), Kurt Caviezel (2), Julie Chaumette (2), Stéphane Couturier (2), Edith Dekyndt (2), Anne Deleporte (2), Philippe Durand (2), Isabelle Ferreira (2), Michel François (2), Charles Fréger (2), Cyprien Gaillard (2), Andreas Gursky (2), Joana Hadjithomas & Khalil Joreige (2), James Hyde (2), Bernhard Kahrmann (2), Stephanie Kiwitt (2), Jérémy Laffon (2), Armin Linke (2), Colombe Marcasiano (2), Vincent Mauger (2), Santu Mofokeng (2), Joris van De Moortel (2), Jürgen Nefzger (2), Françoise Petrovitch (2), Bruno Serralongue (2), Jules Spinatsch (2), Yves Tremorin (2)",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (15), Belgium (3), United Kingdom (1)",
+  "2005-shows-with": "Paul Pouvreau (13), Taysir Batniji (4), François Daireaux (3), Hugues Reip (3), Martine Aballéa (2), Ismail Bahri (2), Walead Beshty (2), Laurence Bonvin (2), Mohamed Bourouissa (2), Anne Brégeaut (2), James Casebere (2), Kurt Caviezel (2), Julie Chaumette (2), Stéphane Couturier (2), Edith Dekyndt (2), Anne Deleporte (2), Philippe Durand (2), Isabelle Ferreira (2), Michel François (2), Charles Fréger (2), Cyprien Gaillard (2), Andreas Gursky (2), Joana Hadjithomas & Khalil Joreige (2), James Hyde (2), Bernhard Kahrmann (2), Stephanie Kiwitt (2), Jérémy Laffon (2), Armin Linke (2), Colombe Marcasiano (2), Vincent Mauger (2), Santu Mofokeng (2), Joris van De Moortel (2), Jürgen Nefzger (2), Françoise Petrovitch (2), Bruno Serralongue (2), Jules Spinatsch (2), Yves Tremorin (2)",
   "representing-galleries": "Galerie Les filles du calvaire - Bruxelles (Boulevard Barthélémy, Kanal 20, 1000 Brussels, Belgium)",
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France)",
   "first_name": "Paul",
@@ -58,6 +58,60 @@
         ]
       }
     ],
+    "2006": [
+      {
+        "i": "12121-11587-2006-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "12121-11587-2006-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "12121-2219-2006-09-27",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "12121-2219-2006-09-27",
+        "c": "FR"
+      },
+      {
+        "i": "12121-10244-2007-04-04",
+        "c": "FR"
+      },
+      {
+        "i": "12121-10244-2007-04-04",
+        "c": "FR"
+      },
+      {
+        "i": "12121-8520-2007-11-23",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "12121-8520-2007-11-23",
+        "c": "FR"
+      },
+      {
+        "i": "12121-11893-2008-07-19",
+        "c": "FR"
+      },
+      {
+        "i": "12121-11893-2008-07-19",
+        "c": "FR"
+      },
+      {
+        "i": "12121-8520-2008-09-26",
+        "c": "FR"
+      },
+      {
+        "i": "12121-8520-2008-09-26",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "12121-2328-2009-05-28",
@@ -71,6 +125,14 @@
           "2009-05-28",
           "2009-07-11"
         ]
+      },
+      {
+        "i": "12121-28534-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "12121-28534-2009-06-18",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -86,9 +148,49 @@
           "2010-01-15",
           "2010-03-06"
         ]
+      },
+      {
+        "i": "12121-28270-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "12121-28270-2010-09-11",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "12121-10519-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "12121-10519-2011-02-12",
+        "c": "FR"
+      },
+      {
+        "i": "12121-2414-2011-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "12121-2414-2011-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "12121-2414-2011-04-22",
+        "c": "FR"
+      },
+      {
+        "i": "12121-2414-2011-04-22",
+        "c": "FR"
+      },
+      {
+        "i": "12121-1403-2011-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "12121-1403-2011-06-30",
+        "c": "FR"
+      },
       {
         "i": "12121-2328-2011-06-30",
         "c": "BE",
@@ -101,6 +203,58 @@
           "2011-06-30",
           "2011-07-23"
         ]
+      },
+      {
+        "i": "12121-22625-2011-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "12121-22625-2011-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "12121-16577-2011-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "12121-16577-2011-05-13",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "12121-22373-2012-05-09",
+        "c": "FR"
+      },
+      {
+        "i": "12121-22373-2012-05-09",
+        "c": "FR"
+      },
+      {
+        "i": "12121-28664-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "12121-28664-2012-07-06",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "12121-2414-2013-02-08",
+        "c": "FR"
+      },
+      {
+        "i": "12121-2414-2013-02-08",
+        "c": "FR"
+      },
+      {
+        "i": "12121-28799-2013-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "12121-28799-2013-11-14",
+        "c": "FR"
       }
     ]
   }

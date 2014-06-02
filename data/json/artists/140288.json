@@ -1,7 +1,7 @@
 {
   "id": "140288",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:00:32",
+  "timestamp": "2014-05-24 07:04:31",
   "name": "Koralie",
   "surname": "Koralie",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "41850",
-  "r01": "78218",
-  "r02": "73209",
-  "r03": "67990",
-  "r04": "63302",
-  "r05": "72013",
-  "r06": "67657",
-  "r07": null,
+  "r00": "34651",
+  "r01": "35054",
+  "r02": "74527",
+  "r03": "68523",
+  "r04": "62511",
+  "r05": "58234",
+  "r06": "68169",
+  "r07": "64182",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "8",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "all-shows-total": "0",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (3), USA (2), Austria (1)",
-  "2005-shows-with": "Koralie (5), AJ Fosik (3)",
+  "2005-countries-total": "France (3), USA (3), Austria (1)",
+  "2005-shows-with": "Koralie (6), AJ Fosik (3), AIKO (2)",
   "representing-galleries": "Galerie L.J. (12 rue Commines, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Koralie",
@@ -43,6 +43,24 @@
   "age": 37,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "140288-11817-2007-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "140288-11817-2007-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "140288-11817-2007-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "140288-11817-2007-04-05",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "140288-18473-2008-04-11",
@@ -56,6 +74,14 @@
           "2008-04-11",
           "2008-05-10"
         ]
+      },
+      {
+        "i": "140288-11817-2008-07-17",
+        "c": "FR"
+      },
+      {
+        "i": "140288-11817-2008-07-17",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -71,6 +97,24 @@
           "2009-03-21",
           "2009-04-04"
         ]
+      },
+      {
+        "i": "140288-11817-2009-12-03",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "140288-11817-2010-07-02",
+        "c": "FR"
+      },
+      {
+        "i": "140288-11817-2010-07-02",
+        "c": "FR"
+      },
+      {
+        "i": "140288-11817-2009-12-03",
+        "c": "FR"
       }
     ],
     "2013": [

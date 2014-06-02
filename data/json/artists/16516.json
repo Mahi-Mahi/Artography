@@ -1,7 +1,7 @@
 {
   "id": "16516",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:56",
+  "timestamp": "2014-05-24 06:21:30",
   "name": "Bruno Rousselot",
   "surname": "Rousselot",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "19140",
-  "r01": "18972",
-  "r02": "18146",
-  "r03": "18173",
-  "r04": "22594",
-  "r05": "22768",
-  "r06": "26800",
-  "r07": "25766",
-  "r08": "23773",
+  "r00": "18801",
+  "r01": "18891",
+  "r02": "17991",
+  "r03": "16787",
+  "r04": "16988",
+  "r05": "22474",
+  "r06": "22793",
+  "r07": "29747",
+  "r08": "28173",
   "awards": null,
   "website": null,
   "all-shows-first": "1992",
-  "all-shows-total": "37",
-  "2005-shows-biennials": "13",
-  "2005-shows-galleries": "13",
+  "all-shows-total": "38",
+  "2005-shows-biennials": "14",
+  "2005-shows-galleries": "14",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (14), Luxembourg (3), Germany (1), Switzerland (1)",
-  "2005-shows-with": "Bruno Rousselot (16), Franck Chalendard (3), Christophe Cuzin (3), Miquel Mont (3), Bernard Piffaretti (3), Claude Tétot (3), Claude Viallat (3), Vincent Barré (2), Janos Ber (2), Christian Bonnefoi (2), Didier Demozay (2), Noël Dolla (2), Sylvie Fanchon (2), Bernard Frize (2), Olivier Gourvil (2), Peter Halley (2), Jane Harris (2), Imi Knoebel (2), Claudie Laks (2), Rainier Lericolais (2), Pierre Moignard (2), Olivier Mosset (2), Françoise Petrovitch (2), Pascal Pinaud (2), Baptiste Roux (2), Hugo Schüwer-Boss (2)",
+  "2005-countries-total": "France (15), Luxembourg (3), Germany (1), Switzerland (1)",
+  "2005-shows-with": "Bruno Rousselot (17), Franck Chalendard (3), Christophe Cuzin (3), Jane Harris (3), Miquel Mont (3), Bernard Piffaretti (3), Claude Tétot (3), Claude Viallat (3), Vincent Barré (2), Janos Ber (2), Christian Bonnefoi (2), Didier Demozay (2), Noël Dolla (2), Sylvie Fanchon (2), Bernard Frize (2), Olivier Gourvil (2), Peter Halley (2), Imi Knoebel (2), Claudie Laks (2), Rainier Lericolais (2), Pierre Moignard (2), Olivier Mosset (2), Françoise Petrovitch (2), Pascal Pinaud (2), Baptiste Roux (2), Hugo Schüwer-Boss (2)",
   "representing-galleries": "Galerie Sémiose (3 rue de Montiboeufs, 75020 Paris, France); Galerie Jordan Seydoux (Auguststrasse 22, 10117 Berlin, Germany)",
   "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France)",
   "first_name": "Bruno",
@@ -43,7 +43,65 @@
   "age": 57,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "16516-11882-2005-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "16516-11882-2005-05-28",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "16516-29576-2006-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "16516-29576-2006-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "16516-7129-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "16516-7129-2006-09-08",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "16516-11882-2007-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "16516-11882-2007-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "16516-29576-2007-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "16516-29576-2007-06-30",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "16516-11882-2008-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "16516-28288-2008-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "16516-28288-2008-09-13",
+        "c": "FR"
+      },
       {
         "i": "16516-17611-2008-10-31",
         "c": "DE",
@@ -56,10 +114,26 @@
           "2008-10-31",
           "2009-01-21"
         ]
+      },
+      {
+        "i": "16516-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "16516-7816-2008-10-03",
+        "c": "FR"
+      },
+      {
+        "i": "16516-7816-2008-10-03",
+        "c": "FR"
       }
     ],
     "2009": [
       {
+        "i": "16516-11882-2008-05-24",
+        "c": "FR"
+      },
+      {
         "i": "16516-17611-2008-10-31",
         "c": "DE",
         "n": "Out of the grey - Druckgraphik & Multiples",
@@ -71,6 +145,22 @@
           "2008-10-31",
           "2009-01-21"
         ]
+      },
+      {
+        "i": "16516-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "16516-8678-2009-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "16516-8678-2009-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "16516-28288-2009-11-14",
+        "c": "FR"
       },
       {
         "i": "16516-17359-2009-12-06",
@@ -88,6 +178,10 @@
     ],
     "2010": [
       {
+        "i": "16516-28288-2009-11-14",
+        "c": "FR"
+      },
+      {
         "i": "16516-17359-2009-12-06",
         "c": "LU",
         "n": "Thema 4 : Abstraction(s)",
@@ -101,6 +195,18 @@
         ]
       },
       {
+        "i": "16516-11882-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "16516-9344-2010-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "16516-9344-2010-06-25",
+        "c": "FR"
+      },
+      {
         "i": "16516-17359-2010-01-14",
         "c": "LU",
         "n": "Bruno Rousselot",
@@ -112,6 +218,36 @@
           "2010-01-14",
           "2010-02-26"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "16516-11882-2010-04-10",
+        "c": "FR"
+      },
+      {
+        "i": "16516-11882-2011-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "16516-11882-2011-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "16516-26377-2011-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "16516-26377-2011-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "16516-7816-2011-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "16516-7816-2011-03-12",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -129,6 +265,14 @@
         ]
       },
       {
+        "i": "16516-7816-2012-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "16516-7816-2012-02-18",
+        "c": "FR"
+      },
+      {
         "i": "16516-17359-2012-06-30",
         "c": "LU",
         "n": "La ligne passée",
@@ -140,6 +284,24 @@
           "2012-06-30",
           "2012-09-16"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "16516-21159-2013-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "16516-21159-2013-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "16516-8555-2013-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "16516-8555-2013-09-28",
+        "c": "FR"
       }
     ]
   }

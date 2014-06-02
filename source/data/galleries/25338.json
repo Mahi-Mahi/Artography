@@ -16,12 +16,26 @@
   "fairs-abroad": "2",
   "fairs-in-FR": "2",
   "fairs": {
+    "2012": [
+      {
+        "i": "25338-Slick Brussels 2012",
+        "c": "FR"
+      },
+      {
+        "i": "25338-SLICK 2012",
+        "c": "FR"
+      }
+    ],
     "2013": [
       {
         "i": "25338-Slick Brussels 2013",
         "c": "BE",
         "n": "Slick Brussels 2013",
         "ct": "Brussels"
+      },
+      {
+        "i": "25338-Slick Paris 2013",
+        "c": "FR"
       }
     ]
   }

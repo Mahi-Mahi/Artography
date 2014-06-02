@@ -1,7 +1,7 @@
 {
   "id": "57041",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:04",
+  "timestamp": "2014-05-24 06:36:07",
   "name": "Denis Castellas",
   "surname": "Castellas",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "8567",
-  "r01": "8163",
-  "r02": "7791",
-  "r03": "7667",
-  "r04": "8036",
-  "r05": "7530",
-  "r06": "7184",
-  "r07": "8318",
-  "r08": "9207",
+  "r00": "8561",
+  "r01": "8023",
+  "r02": "7764",
+  "r03": "7020",
+  "r04": "7692",
+  "r05": "8494",
+  "r06": "7714",
+  "r07": "7247",
+  "r08": "8779",
   "awards": null,
   "website": null,
   "all-shows-first": "1989",
-  "all-shows-total": "35",
-  "2005-shows-biennials": "8",
-  "2005-shows-galleries": "8",
-  "2005-shows-museums": "9",
-  "2005-countries-total": "France (10), Luxembourg (3), USA (3), Switzerland (1)",
-  "2005-shows-with": "Denis Castellas (13), Stéphane Pencreach (3), Djamel Tatah (3), Beatriz Barral (2), Virginie Barré (2), Ronan Barrot (2), John Bjerklie (2), Jean Luc Blanc (2), Steven Brower (2), Louis Cane (2), Franck Chalendard (2), Vincent Corpet (2), Marc Desgrandchamps (2), Simon Faithfull (2), Valérie Favre (2), Philippe Gronon (2), Robert Janitz (2), Guillaume Leblon (2), Florian Pugnaire (2), David Raffini (2), Assan Smati (2), Claude Tétot (2), Claude Viallat (2), Gerard Williams (2), Alun Williams (2)",
+  "all-shows-total": "37",
+  "2005-shows-biennials": "9",
+  "2005-shows-galleries": "9",
+  "2005-shows-museums": "10",
+  "2005-countries-total": "France (11), USA (4), Luxembourg (3), Switzerland (1)",
+  "2005-shows-with": "Denis Castellas (15), Beatriz Barral (3), Virginie Barré (3), John Bjerklie (3), Steven Brower (3), Louis Cane (3), Stéphane Pencreach (3), Djamel Tatah (3), Claude Viallat (3), Ophir Agassi (2), Ronan Barrot (2), Jean Luc Blanc (2), Franck Chalendard (2), Vincent Corpet (2), Marc Desgrandchamps (2), Daniel Dezeuze (2), Noël Dolla (2), Simon Faithfull (2), Valérie Favre (2), Jason Glasser (2), Philippe Gronon (2), Robert Janitz (2), Guillaume Leblon (2), Arnaud Maguet (2), Patrick Martinez (2), Bernard Pagès (2), Bruno Peinado (2), Pascal Pinaud (2), Florian Pugnaire (2), David Raffini (2), Mike Rogers (2), Patrick Saytour (2), Adrian Schiess (2), Stefan Sehler (2), Assan Smati (2), Joshua Stern (2), Cédric Teisseire (2), Claude Tétot (2), Gerard Williams (2), Alun Williams (2)",
   "representing-galleries": "Galerie Catherine Issert (2, route des Serres, 6570 Saint-Paul de Vence, France)",
   "collecting-museums": "Musée Picasso - Château Grimaldi (, 06600  Antibes, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France)",
   "first_name": "Denis",
@@ -44,6 +44,22 @@
   "age_range": "61-100",
   "expos": {
     "2005": [
+      {
+        "i": "57041-2014-2005-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "57041-2014-2005-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "57041-1403-2005-03-12",
+        "c": "FR"
+      },
+      {
+        "i": "57041-1403-2005-03-12",
+        "c": "FR"
+      },
       {
         "i": "57041-2328-2005-05-26",
         "c": "BE",
@@ -56,9 +72,81 @@
           "2005-05-26",
           "2005-07-09"
         ]
+      },
+      {
+        "i": "57041-16035-2005-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "57041-16035-2005-05-12",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "57041-8128-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "57041-8128-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "57041-2014-2006-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "57041-2014-2006-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "57041-2014-2006-04-14",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "57041-2014-2006-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "57041-8128-2007-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "57041-8128-2007-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "57041-7978-2007-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "57041-7978-2007-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "57041-7392-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "57041-7392-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "57041-27953-2007-12-21",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "57041-27842-2008-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "57041-27842-2008-01-12",
+        "c": "FR"
+      },
       {
         "i": "57041-17359-2008-06-12",
         "c": "LU",
@@ -71,9 +159,37 @@
           "2008-06-12",
           "2008-07-27"
         ]
+      },
+      {
+        "i": "57041-741-2008-12-06",
+        "c": "FR"
+      },
+      {
+        "i": "57041-27953-2007-12-21",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "57041-741-2008-12-06",
+        "c": "FR"
+      },
+      {
+        "i": "57041-10227-2009-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "57041-10227-2009-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "57041-20590-2009-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "57041-20590-2009-06-06",
+        "c": "FR"
+      },
       {
         "i": "57041-17359-2009-12-06",
         "c": "LU",
@@ -114,6 +230,10 @@
           "2009-12-06",
           "2010-01-11"
         ]
+      },
+      {
+        "i": "57041-741-2010-10-05",
+        "c": "FR"
       },
       {
         "i": "57041-2102-2010-12-10",
@@ -157,6 +277,10 @@
     ],
     "2011": [
       {
+        "i": "57041-741-2010-10-05",
+        "c": "FR"
+      },
+      {
         "i": "57041-2102-2010-12-10",
         "c": "US",
         "n": "WNTRSLN",
@@ -168,6 +292,14 @@
           "2010-12-10",
           "2011-01-14"
         ]
+      },
+      {
+        "i": "57041-10247-2011-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "57041-10247-2011-06-22",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -183,9 +315,41 @@
           "2012-02-10",
           "2012-02-26"
         ]
+      },
+      {
+        "i": "57041-8545-2012-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "57041-8545-2012-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "57041-23359-2012-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "57041-23359-2012-02-10",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "57041-17115-2013-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "57041-17115-2013-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "57041-28294-2013-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "57041-28294-2013-05-03",
+        "c": "FR"
+      },
       {
         "i": "57041-28275-2013-03-14",
         "c": "CH",

@@ -16,7 +16,17 @@
   "fairs-abroad": "12",
   "fairs-in-FR": "8",
   "fairs": {
+    "2008": [
+      {
+        "i": "23511-Fiac 2008",
+        "c": "FR"
+      }
+    ],
     "2009": [
+      {
+        "i": "23511-Fiac 2009",
+        "c": "FR"
+      },
       {
         "i": "23511-Artissima 16",
         "c": "IT",
@@ -36,6 +46,10 @@
         "c": "BE",
         "n": "Art Brussels 2010 - 28th Contemporary Art Fair",
         "ct": "Brussels"
+      },
+      {
+        "i": "23511-Fiac 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -44,6 +58,14 @@
         "c": "GB",
         "n": "Sunday London 2011",
         "ct": "London (England)"
+      },
+      {
+        "i": "23511-Fiac 2011",
+        "c": "FR"
+      },
+      {
+        "i": "23511-SLICK 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -58,6 +80,10 @@
         "c": "US",
         "n": "The Nada Art Fair New York 2012",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "23511-Fiac 2012",
+        "c": "FR"
       },
       {
         "i": "23511-The NADA Art Fair Miami 2012",
@@ -92,10 +118,18 @@
         "ct": "New York City, NY"
       },
       {
+        "i": "23511-Art-O-Rama 2013",
+        "c": "FR"
+      },
+      {
         "i": "23511-abc art berlin contemporary 2013",
         "c": "DE",
         "n": "abc art berlin contemporary 2013",
         "ct": "Berlin"
+      },
+      {
+        "i": "23511-FIAC 2013",
+        "c": "FR"
       }
     ]
   }

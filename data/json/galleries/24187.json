@@ -26,6 +26,10 @@
     ],
     "2011": [
       {
+        "i": "24187-Lille Art Fair 2011",
+        "c": "FR"
+      },
+      {
         "i": "24187-Lineart 2011",
         "c": "BE",
         "n": "Lineart 2011",
@@ -40,10 +44,32 @@
         "ct": "Brussels"
       },
       {
+        "i": "24187-Lille Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "24187-ST-ART  2012",
+        "c": "FR"
+      },
+      {
         "i": "24187-Art Gent 2012",
         "c": "BE",
         "n": "Art Gent 2012",
         "ct": "Ghent"
+      }
+    ],
+    "2013": [
+      {
+        "i": "24187-New Art Fair Paris",
+        "c": "FR"
+      },
+      {
+        "i": "24187-Lille Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "24187-St-art 2013",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "113295",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:49:49",
+  "timestamp": "2014-05-24 06:55:29",
   "name": "Tom de Pékin",
   "surname": "Pékin",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "45391",
-  "r01": "78571",
-  "r02": "73635",
-  "r03": "68432",
-  "r04": "62212",
-  "r05": "57244",
-  "r06": "61029",
-  "r07": "55401",
-  "r08": "71005",
+  "r00": "38639",
+  "r01": "39105",
+  "r02": "78719",
+  "r03": "71678",
+  "r04": "65431",
+  "r05": "58060",
+  "r06": "53051",
+  "r07": "57773",
+  "r08": "52113",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (6), Netherlands (1)",
-  "2005-shows-with": "Tom de Pékin (7), Daniel Johnston (4), Charles Burns (3), Ludovic Debeurme (3), Moolinex (3), Bernard Granger (2), Pierre La Police (2), Julien Langendorff (2), Hervé di Rosa (2), Danny Steve (2)",
+  "2005-countries-total": "France (7), Netherlands (1)",
+  "2005-shows-with": "Tom de Pékin (8), Daniel Johnston (4), Charles Burns (3), Ludovic Debeurme (3), Moolinex (3), Bernard Granger (2), Pierre La Police (2), Julien Langendorff (2), Hervé di Rosa (2), Danny Steve (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Tom",
@@ -43,6 +43,24 @@
   "age": 51,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "113295-8542-2006-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "113295-8542-2006-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "113295-10576-2006-11-25",
+        "c": "FR"
+      },
+      {
+        "i": "113295-10576-2006-11-25",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "113295-7520-2007-03-18",
@@ -58,7 +76,61 @@
         ]
       }
     ],
+    "2008": [
+      {
+        "i": "113295-10576-2008-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "113295-10576-2008-04-08",
+        "c": "FR"
+      },
+      {
+        "i": "113295-10576-2008-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "113295-10576-2008-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "113295-26733-2008-12-13",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "113295-26733-2008-12-13",
+        "c": "FR"
+      },
+      {
+        "i": "113295-10576-2009-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "113295-10576-2009-04-29",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "113295-10576-2011-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "113295-10576-2011-09-20",
+        "c": "FR"
+      }
+    ],
     "2013": [
+      {
+        "i": "113295-16752-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "113295-16752-2013-03-01",
+        "c": "FR"
+      },
       {
         "i": "113295-2427-2013-09-05",
         "c": "NL",

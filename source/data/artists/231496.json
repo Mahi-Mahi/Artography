@@ -1,7 +1,7 @@
 {
   "id": "231496",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:36:01",
+  "timestamp": "2014-05-24 07:35:46",
   "name": "Angélique Lecaille",
   "surname": "Lecaille",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "65431",
-  "r01": "62573",
-  "r02": "59951",
-  "r03": "74894",
-  "r04": "68484",
-  "r05": "86689",
-  "r06": "78717",
-  "r07": "70345",
-  "r08": null,
+  "r00": "37055",
+  "r01": "57346",
+  "r02": "53196",
+  "r03": "50111",
+  "r04": "68377",
+  "r05": "61639",
+  "r06": "83555",
+  "r07": "75196",
+  "r08": "66763",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "8",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (6)",
-  "2005-shows-with": "Angélique Lecaille (5), Benoit-Marie Moriceau (4), Yann Sérandour (4), Antoine Dorotte (3), Briac Lepretre (3), Bevis Martin & Charlie Youle (3), Armand Morin (3), Samir Mougas (3), Julien Nédélec (3), Blaise Parmentier (3), Ernesto Sartori (3), Mélanie Vincent (3)",
+  "all-shows-total": "9",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (9)",
+  "2005-shows-with": "Angélique Lecaille (8), Benoit-Marie Moriceau (4), Yann Sérandour (4), Antoine Dorotte (3), Briac Lepretre (3), Bevis Martin & Charlie Youle (3), Armand Morin (3), Samir Mougas (3), Julien Nédélec (3), Blaise Parmentier (3), Ernesto Sartori (3), Mélanie Vincent (3), Nikolas Foure (2), Marc Loyon (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Angélique",
@@ -43,5 +43,69 @@
   "age": 39,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "231496-20542-2006-09-30",
+        "c": "FR"
+      },
+      {
+        "i": "231496-20542-2006-09-30",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "231496-8542-2009-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "231496-8542-2009-10-23",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "231496-20542-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "231496-20542-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "231496-19673-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "231496-19673-2011-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "231496-20542-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "231496-20542-2011-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "231496-24759-2011-05-14",
+        "c": "FR"
+      },
+      {
+        "i": "231496-24759-2011-05-14",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "231496-23298-2012-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "231496-23298-2012-06-01",
+        "c": "FR"
+      }
+    ]
   }
 }

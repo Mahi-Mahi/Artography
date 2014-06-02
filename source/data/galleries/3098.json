@@ -24,18 +24,34 @@
         "ct": "New York City, NY"
       },
       {
+        "i": "3098-Fiac 2005",
+        "c": "FR"
+      },
+      {
         "i": "3098-Art Cologne 2005",
         "c": "DE",
         "n": "Art Cologne 2005",
         "ct": "Cologne"
+      },
+      {
+        "i": "3098-Paris Photo 2005",
+        "c": "FR"
       }
     ],
     "2006": [
+      {
+        "i": "3098-ArtParis 06",
+        "c": "FR"
+      },
       {
         "i": "3098-Art Cologne 2006",
         "c": "DE",
         "n": "Art Cologne 2006",
         "ct": "Cologne"
+      },
+      {
+        "i": "3098-Paris Photo 2006",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -46,13 +62,29 @@
         "ct": "Santa Monica, CA"
       },
       {
+        "i": "3098-ArtParis 07",
+        "c": "FR"
+      },
+      {
         "i": "3098-Art Cologne 2007",
         "c": "DE",
         "n": "Art Cologne 2007",
         "ct": "Cologne"
+      },
+      {
+        "i": "3098-Les Elysées de l'Art - 2007",
+        "c": "FR"
+      },
+      {
+        "i": "3098-Paris Photo 2007",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "3098-ArtParis 08",
+        "c": "FR"
+      },
       {
         "i": "3098-The AIPAD Photography Show New York 2008",
         "c": "US",
@@ -66,10 +98,24 @@
         "ct": "Cologne"
       },
       {
+        "i": "3098-Paris Photo 2008",
+        "c": "FR"
+      },
+      {
         "i": "3098-Photo Miami 2008",
         "c": "US",
         "n": "Photo Miami 2008",
         "ct": "Miami, FL"
+      }
+    ],
+    "2009": [
+      {
+        "i": "3098-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "3098-Paris Photo 2009",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -78,6 +124,10 @@
         "c": "IT",
         "n": "MiArt 2010",
         "ct": "Milan"
+      },
+      {
+        "i": "3098-Paris Photo 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -92,9 +142,17 @@
         "c": "IT",
         "n": "MIA - Milan Image Art Fair 2011",
         "ct": "Milan"
+      },
+      {
+        "i": "3098-Paris Photo 2011",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "3098-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
       {
         "i": "3098-Mia - Milan Image Art Fair 2012",
         "c": "IT",
@@ -106,14 +164,26 @@
         "c": "ES",
         "n": "Madridfoto 2012",
         "ct": "Madrid"
+      },
+      {
+        "i": "3098-Paris Photo 2012",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "3098-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
       {
         "i": "3098-Paris Photo Los Angeles 2013",
         "c": "US",
         "n": "Paris Photo Los Angeles 2013",
         "ct": "Los Angeles, CA"
+      },
+      {
+        "i": "3098-Paris Photo 2013",
+        "c": "FR"
       }
     ]
   }

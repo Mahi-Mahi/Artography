@@ -1,7 +1,7 @@
 {
   "id": "49177",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:23:52",
+  "timestamp": "2014-05-24 06:33:21",
   "name": "William Ropp",
   "surname": "Ropp",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "9497",
-  "r01": "8678",
-  "r02": "12582",
-  "r03": "14052",
-  "r04": "12819",
-  "r05": "12262",
-  "r06": "13739",
-  "r07": "11533",
-  "r08": "11641",
+  "r00": "9611",
+  "r01": "9150",
+  "r02": "7837",
+  "r03": "12901",
+  "r04": "14784",
+  "r05": "12861",
+  "r06": "12124",
+  "r07": "13917",
+  "r08": "11153",
   "awards": null,
   "website": null,
   "all-shows-first": "1991",
@@ -33,7 +33,7 @@
   "2005-shows-galleries": "11",
   "2005-shows-museums": "5",
   "2005-countries-total": "France (5), Belgium (4), Germany (3), Switzerland (2), Italy (1), Japan (1), Norway (1), USA (1)",
-  "2005-shows-with": "William Ropp (6), Jan Saudek (4), Willy Ronis (3), Edouard Boubat (2), Larry Clark (2), Lucien Clergue (2), Bernard Faucon (2), Mario Giacomelli (2), David Goldblatt (2), Johan van der Keuken (2), William Klein (2), Will McBride (2), Pierrot Men (2), Isabel Muñoz (2), Kok Nam (2), Max Pam (2), Marc Riboud (2), Sérgio Santimano (2), Jürgen Schadeberg (2), Arthur Tress (2), Joël-Peter Witkin (2)",
+  "2005-shows-with": "William Ropp (6), Jan Saudek (4), Willy Ronis (3), Edouard Boubat (2), Larry Clark (2), Lucien Clergue (2), Bernard Faucon (2), Mario Giacomelli (2), David Goldblatt (2), Johan van der Keuken (2), William Klein (2), Will McBride (2), Pierrot Men (2), Isabel Muñoz (2), Kok Nam (2), Max Pam (2), Marc Riboud (2), Sérgio Santimano (2), Jürgen Schadeberg (2), Arthur Tress (2), Joel-Peter Witkin (2)",
   "representing-galleries": "Jiro Miura Gallery (Ishikura bld. 4F, Nihombashi-Odenmacho, Chuo-ku, 103-0011 Tokyo, Japan); Krisal Galerie (25 rue de Pont-Neuf, 1227 Geneva, Switzerland); Donna Rogers Fine Art (,  Houston, TX, USA); Farmani Gallery (550 N. Larchmont Boulevard Suite 100, 90004 Los Angeles, CA, USA)",
   "collecting-museums": null,
   "first_name": "William",
@@ -219,6 +219,55 @@
         ]
       }
     ],
+    "2009": [
+      {
+        "i": "49177-20789-2009-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "49177-20789-2009-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "49177-21660-2008-12-14",
+        "c": "BE",
+        "n": "Twenty Years of Photography",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Antwerp",
+        "o": "Galeri Baudelaire",
+        "d": [
+          "2008-12-14",
+          "2009-01-31"
+        ]
+      },
+      {
+        "i": "49177-22700-2009-03-06",
+        "c": "BE",
+        "n": "William Ropp",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Liège",
+        "o": "Monos Gallery",
+        "d": [
+          "2009-03-06",
+          "2009-04-26"
+        ]
+      },
+      {
+        "i": "49177-7210-2009-08-07",
+        "c": "US",
+        "n": "William Ropp",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Woodstock, NY\t",
+        "o": "galerie bmg",
+        "d": [
+          "2009-08-07",
+          "2009-09-07"
+        ]
+      }
+    ],
     "2010": [
       {
         "i": "49177-986-2010-01-16",
@@ -275,48 +324,31 @@
         ]
       }
     ],
-    "2009": [
-      {
-        "i": "49177-21660-2008-12-14",
-        "c": "BE",
-        "n": "Twenty Years of Photography",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Antwerp",
-        "o": "Galeri Baudelaire",
-        "d": [
-          "2008-12-14",
-          "2009-01-31"
-        ]
-      },
-      {
-        "i": "49177-22700-2009-03-06",
-        "c": "BE",
-        "n": "William Ropp",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Liège",
-        "o": "Monos Gallery",
-        "d": [
-          "2009-03-06",
-          "2009-04-26"
-        ]
-      },
-      {
-        "i": "49177-7210-2009-08-07",
-        "c": "US",
-        "n": "William Ropp",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Woodstock, NY\t",
-        "o": "galerie bmg",
-        "d": [
-          "2009-08-07",
-          "2009-09-07"
-        ]
-      }
-    ],
     "2012": [
+      {
+        "i": "49177-8028-2012-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "49177-8028-2012-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "49177-10516-2012-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "49177-10516-2012-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "49177-23216-2012-01-24",
+        "c": "FR"
+      },
+      {
+        "i": "49177-23216-2012-01-24",
+        "c": "FR"
+      },
       {
         "i": "49177-27591-2012-08-11",
         "c": "JP",
@@ -370,6 +402,14 @@
           "2012-11-25",
           "2013-01-12"
         ]
+      },
+      {
+        "i": "49177-13244-2013-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "49177-13244-2013-04-05",
+        "c": "FR"
       }
     ]
   }

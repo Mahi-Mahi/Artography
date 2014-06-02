@@ -16,12 +16,32 @@
   "fairs-abroad": "5",
   "fairs-in-FR": "7",
   "fairs": {
+    "2005": [
+      {
+        "i": "5109-ArtParis 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "5109-ArtParis 06",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "5109-ArtParis 07",
+        "c": "FR"
+      },
       {
         "i": "5109-MiArt 2007 - 12th international modern and contemporary art fair",
         "c": "IT",
         "n": "MiArt 2007 - 12th international modern and contemporary art fair",
         "ct": "Milan"
+      },
+      {
+        "i": "5109-Les Elysées de l'Art - 2007",
+        "c": "FR"
       },
       {
         "i": "5109-ArtParis - AbuDhabi 2007",
@@ -32,6 +52,10 @@
     ],
     "2008": [
       {
+        "i": "5109-ArtParis 08",
+        "c": "FR"
+      },
+      {
         "i": "5109-ACAF NY 2008",
         "c": "US",
         "n": "ACAF NY 2008",
@@ -39,6 +63,10 @@
       }
     ],
     "2009": [
+      {
+        "i": "5109-ArtParis 09",
+        "c": "FR"
+      },
       {
         "i": "5109-MiArt 2009 - 12th international modern and contemporary art fair",
         "c": "IT",

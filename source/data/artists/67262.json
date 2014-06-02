@@ -1,7 +1,7 @@
 {
   "id": "67262",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:31:12",
+  "timestamp": "2014-05-24 06:39:46",
   "name": "Ingrid Maria Sinibaldi",
   "surname": "Sinibaldi",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "22942",
-  "r01": "21087",
-  "r02": "19631",
-  "r03": "17450",
-  "r04": "22355",
-  "r05": "19320",
-  "r06": "26824",
-  "r07": "32471",
-  "r08": "26853",
+  "r00": "26691",
+  "r01": "24677",
+  "r02": "20713",
+  "r03": "18149",
+  "r04": "15412",
+  "r05": "20272",
+  "r06": "16794",
+  "r07": "24241",
+  "r08": "30049",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "10",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "all-shows-total": "11",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": "1",
-  "2005-countries-total": "Belgium (2), France (2), Monaco (1), Netherlands (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Ingrid Maria Sinibaldi (7), Camila Oliveira Fairclough (4), Lars Wolter (4), Francisco Da Mata (3), Delphine Deguislage (3), Clemens Hollerer (3), Emmanuel van der Meulen (3), Guillaume Millet (3), Jan van der Ploeg (3), Cédric Teisseire (3), Tilman (3), Jan Maarten Voskuil (3), Massimiliano Baldassarri (2), Julian Dashper (2), Ward Denys (2), Sacha Goerg (2), Michelle Grabner (2), Andrew Huston (2), Kyle Jenkins (2), Colombe Marcasiano (2), Léopoldine Roux (2), Michal Skoda (2), Wilson Trouvé (2), Pieter Vermeersch (2), Carrie Yamaoka (2)",
+  "2005-countries-total": "Belgium (2), France (2), Switzerland (2), Monaco (1), Netherlands (1), USA (1)",
+  "2005-shows-with": "Ingrid Maria Sinibaldi (8), Camila Oliveira Fairclough (5), Lars Wolter (5), Francisco Da Mata (4), Clemens Hollerer (4), Guillaume Millet (4), Cédric Teisseire (4), Tilman (4), Jan Maarten Voskuil (4), Massimiliano Baldassarri (3), Delphine Deguislage (3), Michelle Grabner (3), Kyle Jenkins (3), Colombe Marcasiano (3), Emmanuel van der Meulen (3), Jan van der Ploeg (3), Carrie Yamaoka (3), John Beech (2), Greet Billet (2), Julian Dashper (2), Ward Denys (2), Sacha Goerg (2), Daniel Göttin (2), Atsuo Hukuda (2), Andrew Huston (2), Léopoldine Roux (2), Michal Skoda (2), Wilson Trouvé (2), Pieter Vermeersch (2), Emmanuelle Villard (2), Sebastian Wickeroth (2), Beat Zoderer (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Ingrid",
@@ -43,7 +43,27 @@
   "age": 39,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "67262-2585-2005-06-26",
+        "c": "FR"
+      },
+      {
+        "i": "67262-2585-2005-06-26",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "67262-8548-2007-11-11",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "67262-8548-2007-11-11",
+        "c": "FR"
+      },
       {
         "i": "67262-13269-2008-08-31",
         "c": "BE",
@@ -86,6 +106,14 @@
         ]
       },
       {
+        "i": "67262-22295-2010-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "67262-22295-2010-04-30",
+        "c": "FR"
+      },
+      {
         "i": "67262-16822-2010-06-26",
         "c": "US",
         "n": "30/30 – Image Archive Project (IAP)",
@@ -97,6 +125,14 @@
           "2010-06-26",
           "2010-07-31"
         ]
+      },
+      {
+        "i": "67262-12183-2010-07-10",
+        "c": "FR"
+      },
+      {
+        "i": "67262-12183-2010-07-10",
+        "c": "FR"
       },
       {
         "i": "67262-12127-2010-11-07",

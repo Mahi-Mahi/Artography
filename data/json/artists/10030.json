@@ -1,7 +1,7 @@
 {
   "id": "10030",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:06:58",
+  "timestamp": "2014-05-24 06:18:56",
   "name": "Yves Chaudouët",
   "surname": "Chaudouët",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "11026",
-  "r01": "10498",
-  "r02": "10629",
-  "r03": "10107",
-  "r04": "9134",
-  "r05": "8467",
-  "r06": "9782",
-  "r07": "7863",
-  "r08": "8572",
+  "r00": "11330",
+  "r01": "11053",
+  "r02": "13274",
+  "r03": "13662",
+  "r04": "12292",
+  "r05": "10172",
+  "r06": "9127",
+  "r07": "11265",
+  "r08": "8379",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "18",
+  "all-shows-total": "19",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": "7",
-  "2005-countries-total": "France (10)",
-  "2005-shows-with": "Yves Chaudouët (6), Claude Closky (2), David Cousinard & Sarah Fauguet (2), Joël Ducorroy (2), Christian Marclay (2), Baptiste Roux (2)",
-  "representing-galleries": "Christophe Daviet-Thery (10, rue Duchefdelaville, 75013 Paris, France); Editions Atelier Clot, Bramsen & Georges (19, rue Vieille du Temple, 75004 Paris, France); Emmanuel von Baeyer (130-132 Hamilton Terrace, NW8 9UU London (England), United Kingdom)",
+  "2005-shows-museums": "8",
+  "2005-countries-total": "France (11)",
+  "2005-shows-with": "Yves Chaudouët (7), Claude Closky (2), David Cousinard & Sarah Fauguet (2), Joël Ducorroy (2), Paul-Armand Gette (2), Richard Hamilton (2), Christian Marclay (2), Bruno Peinado (2), Baptiste Roux (2), Yvan Salomone (2), Sarkís (2), Yann Sérandour (2), Jacques Villeglé (2), herman de vries (2)",
+  "representing-galleries": "Christophe Daviet-Thery (10, rue Duchefdelaville, 75013 Paris, France); Editions Atelier Clot, Bramsen & Georges (19, rue Vieille du Temple, 75004 Paris, France); Emmanuel von Baeyer (130-132 Hamilton Terrace, NW8 9UU London, United Kingdom)",
   "collecting-museums": "Albertina (Albertinaplatz 1, 1010 Vienna, Austria); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France)",
   "first_name": "Yves",
   "last_name": "Chaudouët",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2006": [
+      {
+        "i": "10030-4252-2006-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "10030-4252-2006-02-03",
+        "c": "FR"
+      },
       {
         "i": "10030-12976-2006-06-23",
         "c": "SI",
@@ -55,6 +63,98 @@
           "2006-06-23",
           "2006-10-02"
         ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "10030-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "10030-9344-2008-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "10030-9344-2008-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "10030-14232-2008-10-08",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "10030-13364-2008-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "10030-6620-2009-02-08",
+        "c": "FR"
+      },
+      {
+        "i": "10030-6620-2009-02-08",
+        "c": "FR"
+      },
+      {
+        "i": "10030-14232-2008-10-08",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "10030-16577-2010-03-05",
+        "c": "FR"
+      },
+      {
+        "i": "10030-16577-2010-03-05",
+        "c": "FR"
+      },
+      {
+        "i": "10030-28001-2010-05-08",
+        "c": "FR"
+      },
+      {
+        "i": "10030-28001-2010-05-08",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "10030-9344-2012-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "10030-9344-2012-06-22",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "10030-29576-2013-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "10030-29576-2013-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "10030-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "10030-10825-2013-09-21",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "10030-5517-2011-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "10030-5517-2011-04-06",
+        "c": "FR"
       }
     ]
   }

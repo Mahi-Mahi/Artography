@@ -24,6 +24,10 @@
         "ct": "Basel"
       },
       {
+        "i": "893-Fiac 2005",
+        "c": "FR"
+      },
+      {
         "i": "893-Frieze Art Fair 2005",
         "c": "GB",
         "n": "Frieze Art Fair 2005",
@@ -50,6 +54,10 @@
         "ct": "London (England)"
       },
       {
+        "i": "893-Fiac 2006",
+        "c": "FR"
+      },
+      {
         "i": "893-Art Basel Miami Beach 2006",
         "c": "US",
         "n": "Art Basel Miami Beach 2006",
@@ -74,6 +82,10 @@
         "c": "GB",
         "n": "Frieze Art Fair 2007",
         "ct": "London (England)"
+      },
+      {
+        "i": "893-Fiac 2007",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -90,6 +102,10 @@
         "ct": "Basel"
       },
       {
+        "i": "893-Fiac 2008",
+        "c": "FR"
+      },
+      {
         "i": "893-Art Basel Miami Beach 2008",
         "c": "US",
         "n": "Art Basel Miami Beach 2008",
@@ -98,10 +114,18 @@
     ],
     "2009": [
       {
+        "i": "893-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
         "i": "893-Art 40 Basel",
         "c": "CH",
         "n": "Art 40 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "893-Fiac 2009",
+        "c": "FR"
       },
       {
         "i": "893-Art Basel Miami Beach 2009",
@@ -124,6 +148,10 @@
         "ct": "Basel"
       },
       {
+        "i": "893-Fiac 2010",
+        "c": "FR"
+      },
+      {
         "i": "893-Artissima 17",
         "c": "IT",
         "n": "Artissima 17",
@@ -144,6 +172,10 @@
         "ct": "Basel"
       },
       {
+        "i": "893-Fiac 2011",
+        "c": "FR"
+      },
+      {
         "i": "893-Art Basel Miami Beach 2011",
         "c": "US",
         "n": "Art Basel Miami Beach 2011",
@@ -162,6 +194,10 @@
         "c": "CH",
         "n": "Art 43 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "893-Fiac 2012",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -182,6 +218,10 @@
         "c": "CH",
         "n": "Art Basel 2013",
         "ct": "Basel"
+      },
+      {
+        "i": "893-FIAC 2013",
+        "c": "FR"
       }
     ]
   }

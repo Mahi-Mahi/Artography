@@ -1,7 +1,7 @@
 {
   "id": "19695",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:11:27",
+  "timestamp": "2014-05-24 06:22:44",
   "name": "Pierre Granoux",
   "surname": "Granoux",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "20386",
-  "r01": "22685",
-  "r02": "20960",
-  "r03": "22606",
-  "r04": "44604",
-  "r05": "41525",
-  "r06": "42356",
-  "r07": "36408",
-  "r08": "30307",
+  "r00": "15299",
+  "r01": "14985",
+  "r02": "16437",
+  "r03": "17582",
+  "r04": "18922",
+  "r05": "42885",
+  "r06": "39271",
+  "r07": "40925",
+  "r08": "34108",
   "awards": null,
   "website": null,
   "all-shows-first": "1989",
-  "all-shows-total": "27",
+  "all-shows-total": "28",
   "2005-shows-biennials": "13",
   "2005-shows-galleries": "13",
-  "2005-shows-museums": "4",
-  "2005-countries-total": "Germany (15), France (3), Luxembourg (1), United Kingdom (1)",
-  "2005-shows-with": "Pierre Granoux (20), Jofroi Amaral (5), Tony Cragg (4), Françoise Petrovitch (4), Imi Knoebel (3), Hans Georg Koehler (3), Maryna Baranovska (2), Almuth Baumfalk (2), Glen Baxter (2), Pierre Buraglio (2), Alexine Chanel (2), Paul Cox (2), Marcel Duchamp (2), Claude Faure (2), Tom Früchtl (2), Roland Fuhrmann (2), Johannes Gerard (2), John Giorno (2), Julien Grenier (2), Sam Grigorian (2), Sabine Groß (2), Rocco Hettwer (2), Falko Hettwer (2), Patrick Huber (2), Irène Hug (2), Thomas Jocher (2), Buffy Klama (2), Simone Lanzenstiel (2), Jean Francois Le Scour (2), Ute Lindner (2), Catherine Lorent (2), Frédérique Loutz (2), Ralf Michna (2), Claudia Mitzinneck (2), François Morellet (2), Yvonne Paul (2), Marcel Prüfert (2), Carola Rümper (2), Nora Schattauer (2), Heidi Sill (2), Sibylle Springer (2), Eva Teppe (2), Maria Unverricht (2), Anke Westermann (2), Maja Weyermann (2), Birgit Maria Wolf (2), Shingo Yoshida (2), Yun-Ting Hung (2), Otto Zitko (2)",
+  "2005-shows-museums": "5",
+  "2005-countries-total": "Germany (16), France (3), Luxembourg (1), United Kingdom (1)",
+  "2005-shows-with": "Pierre Granoux (21), Jofroi Amaral (5), Tony Cragg (4), Françoise Petrovitch (4), Marcel Duchamp (3), Imi Knoebel (3), Hans Georg Koehler (3), Sibylle Springer (3), Claudia Angelmaier (2), Maryna Baranovska (2), Almuth Baumfalk (2), Glen Baxter (2), Hubert Becker (2), Joseph Beuys (2), Mike Bidlo (2), François Boucher (2), Adolphe Braun (2), Pieter Brueghel the Younger (2), Pierre Buraglio (2), Johann Friedrich Bury (2), Alexine Chanel (2), Giorgio de Chirico (2), Hannah Cooke (2), Lovis Corinth (2), Gustave Courbet (2), Paul Cox (2), Lucas Cranach the Younger (2), John Scarlett Davis (2), Edgar Degas (2), Eugène Delacroix (2), Gilles Demarteau (2), Abraham Jansz. van Diepenbeeck (2), Albrecht Dürer (2), Richard Earlom (2), Marie Ellenrieder (2), Henri Fantin-Latour (2), Claude Faure (2), Anselm Feuerbach (2), Florian Freier (2), Tom Früchtl (2), Roland Fuhrmann (2), Katharina Gaenssler (2), Johannes Gerard (2), Théodore Géricault (2), John Giorno (2), Vincent van Gogh (2), Francisco de Goya (2), Julie",
   "representing-galleries": "Galerie Andrieu (Christburger Str. 25, 10405 Berlin, Germany); Galerie Peter Herrmann (Brunnenstr. 154, 10115 Berlin, Germany); Galerie Jordan Seydoux (Auguststrasse 22, 10117 Berlin, Germany)",
   "collecting-museums": null,
   "first_name": "Pierre",
@@ -84,6 +84,22 @@
           "2008-03-28",
           "2008-05-03"
         ]
+      },
+      {
+        "i": "19695-23212-2008-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "19695-23212-2008-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "19695-7881-2008-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "19695-7881-2008-06-01",
+        "c": "FR"
       },
       {
         "i": "19695-17611-2008-07-10",
@@ -192,6 +208,14 @@
           "2010-10-09",
           "2011-01-30"
         ]
+      },
+      {
+        "i": "19695-23212-2010-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "19695-23212-2010-10-16",
+        "c": "FR"
       }
     ],
     "2011": [

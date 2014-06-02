@@ -1,7 +1,7 @@
 {
   "id": "2370",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:03:14",
+  "timestamp": "2014-05-24 06:15:39",
   "name": "Pierre et Gilles",
   "surname": "Pierre et Gilles",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male, Artist couple",
   "media": "Photography, Painting",
-  "r00": "1379",
-  "r01": "1299",
-  "r02": "1407",
-  "r03": "1369",
-  "r04": "1298",
-  "r05": "1303",
-  "r06": "1116",
-  "r07": "1068",
-  "r08": "1085",
+  "r00": "1479",
+  "r01": "1575",
+  "r02": "1450",
+  "r03": "1700",
+  "r04": "1627",
+  "r05": "1489",
+  "r06": "1507",
+  "r07": "1197",
+  "r08": "1079",
   "awards": null,
   "website": null,
   "all-shows-first": "1986",
-  "all-shows-total": "91",
+  "all-shows-total": "97",
   "2005-shows-biennials": "9",
   "2005-shows-galleries": "9",
-  "2005-shows-museums": "20",
-  "2005-countries-total": "France (17), USA (4), Austria (2), Germany (2), Spain (2), Bulgaria (1), Canada (1), Czech Republic (1), Denmark (1), Hungary (1), Switzerland (1), United Kingdom (1)",
-  "2005-shows-with": "Pierre et Gilles (31), Andy Warhol (9), McDermott & McGough (8), Felix Gonzalez-Torres (7), Nan Goldin (6), Robert Mapplethorpe (6), Shirin Neshat (5), Cindy Sherman (5), Dieter Appelt (4), Louise Bourgeois (4), Sophie Calle (4), Jake & Dinos Chapman (4), Marlene Dumas (4), Gilbert & George (4), Douglas Gordon (4), Mona Hatoum (4), Damien Hirst (4), David Hockney (4), Jürgen Klauke (4), Jeff Koons (4), David LaChapelle (4), Marina Abramovic (3), Richard Avedon (3), Matthew Barney (3), Georg Baselitz (3), Valérie Belin (3), Maurizio Cattelan (3), Francesco Clemente (3), Jean Cocteau (3), George Condo (3), Tracey Emin (3), Wilhelm von Gloeden (3), Anthony Goicolea (3), Ion Grigorescu (3), Keith Haring (3), Anna Jermolaewa (3), Isaac Julien (3), Jesper Just (3), Anselm Kiefer (3), Katarzyna Kozyra (3), Elke Krystufek (3), Urs Lüthi (3), Yasumasa Morimura (3), Vik Muniz (3), Bruce Nauman (3), Catherine Opie (3), Pablo Picasso (3), Arnulf Rainer (3), Egon Schiele (3), Andrés Serrano (3), Sam Taylor-Wood (3), S",
+  "2005-shows-museums": "25",
+  "2005-countries-total": "France (19), USA (4), Austria (2), Germany (2), Spain (2), United Kingdom (2), Bulgaria (1), Canada (1), Czech Republic (1), Denmark (1), Hungary (1), Netherlands (1), Sweden (1), Switzerland (1)",
+  "2005-shows-with": "Pierre et Gilles (36), Andy Warhol (10), McDermott & McGough (8), Nan Goldin (7), Felix Gonzalez-Torres (7), Robert Mapplethorpe (6), Cindy Sherman (6), Marlene Dumas (5), David LaChapelle (5), Shirin Neshat (5), Dieter Appelt (4), Louise Bourgeois (4), Sophie Calle (4), Jake & Dinos Chapman (4), Gilbert & George (4), Douglas Gordon (4), Mona Hatoum (4), Damien Hirst (4), David Hockney (4), Isaac Julien (4), Jürgen Klauke (4), Jeff Koons (4), Sam Taylor-Wood (4), Marina Abramovic (3), AES+F (3), Richard Avedon (3), Matthew Barney (3), Georg Baselitz (3), Valérie Belin (3), Maurizio Cattelan (3), Francesco Clemente (3), Jean Cocteau (3), George Condo (3), John Coplans (3), Tracey Emin (3), Wilhelm von Gloeden (3), Anthony Goicolea (3), Ion Grigorescu (3), Keith Haring (3), Anna Jermolaewa (3), Jesper Just (3), Anselm Kiefer (3), Katarzyna Kozyra (3), Elke Krystufek (3), Ange Leccia (3), Urs Lüthi (3), Paul McCarthy (3), Yasumasa Morimura (3), Vik Muniz (3), Bruce Nauman (3), Erwin Olaf (3), Catherine Opie (",
   "representing-galleries": "Galerie Jérôme de Noirmont (38, avenue Matignon, 75008 Paris, France); Galeri Artist - Berlin (Fasanenstr. 68, 10719 Berlin, Germany); Weisspollack Galleries (521-531 West 25th Street Ground Floor #9, 10011 New York City, NY, USA)",
   "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); Fondation Cartier pour l'art contemporain (boulevard Raspail 261, 75014 Paris, France); Musée du sourire (34, rue des Dames, 75017 Paris, France)",
   "first_name": "Pierre",
@@ -138,6 +138,14 @@
         ]
       },
       {
+        "i": "2370-26765-2006-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "2370-26765-2006-05-10",
+        "c": "FR"
+      },
+      {
         "i": "2370-4976-2006-05-26",
         "c": "IT",
         "n": "Good Vibrations - Le arti visive e il Rock",
@@ -164,6 +172,14 @@
         ]
       },
       {
+        "i": "2370-8281-2006-07-08",
+        "c": "FR"
+      },
+      {
+        "i": "2370-8281-2006-07-08",
+        "c": "FR"
+      },
+      {
         "i": "2370-8530-2006-10-08",
         "c": "SE",
         "n": "Revelation (Uppenbar(a)t)",
@@ -175,6 +191,10 @@
           "2006-10-08",
           "2007-01-07"
         ]
+      },
+      {
+        "i": "2370-1407-2006-11-10",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -205,6 +225,22 @@
         ]
       },
       {
+        "i": "2370-10649-2007-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "2370-10649-2007-02-20",
+        "c": "FR"
+      },
+      {
+        "i": "2370-1407-2007-05-23",
+        "c": "FR"
+      },
+      {
+        "i": "2370-1407-2007-05-23",
+        "c": "FR"
+      },
+      {
         "i": "2370-6327-2007-05-30",
         "c": "ES",
         "n": "PHotoEspaña 07",
@@ -216,6 +252,14 @@
           "2007-05-30",
           "2007-07-22"
         ]
+      },
+      {
+        "i": "2370-8281-2007-10-28",
+        "c": "FR"
+      },
+      {
+        "i": "2370-1407-2006-11-10",
+        "c": "FR"
       },
       {
         "i": "2370-8888-2007-01-19",
@@ -242,9 +286,21 @@
           "2007-02-22",
           "2007-04-06"
         ]
+      },
+      {
+        "i": "2370-2351-2007-06-26",
+        "c": "FR"
+      },
+      {
+        "i": "2370-2351-2007-06-26",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "2370-8281-2007-10-28",
+        "c": "FR"
+      },
       {
         "i": "2370-16680-2008-11-01",
         "c": "US",
@@ -283,6 +339,14 @@
           "2008-11-01",
           "2009-01-18"
         ]
+      },
+      {
+        "i": "2370-1407-2009-02-06",
+        "c": "FR"
+      },
+      {
+        "i": "2370-1407-2009-02-06",
+        "c": "FR"
       },
       {
         "i": "2370-2721-2009-04-09",
@@ -337,6 +401,10 @@
         ]
       },
       {
+        "i": "2370-3100-2009-10-10",
+        "c": "FR"
+      },
+      {
         "i": "2370-2552-2009-07-25",
         "c": "DE",
         "n": "Pierre et Gilles . Retrospektive",
@@ -348,6 +416,10 @@
           "2009-07-25",
           "2009-10-04"
         ]
+      },
+      {
+        "i": "2370-1407-2009-11-27",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -363,6 +435,10 @@
           "2009-09-24",
           "2010-01-11"
         ]
+      },
+      {
+        "i": "2370-3100-2009-10-10",
+        "c": "FR"
       },
       {
         "i": "2370-1599-2010-03-27",
@@ -391,6 +467,22 @@
         ]
       },
       {
+        "i": "2370-4651-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "2370-4651-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "2370-22704-2010-06-12",
+        "c": "FR"
+      },
+      {
+        "i": "2370-22704-2010-06-12",
+        "c": "FR"
+      },
+      {
         "i": "2370-2578-2010-09-30",
         "c": "CZ",
         "n": "Decadence Now! Visions of Excess",
@@ -402,6 +494,14 @@
           "2010-09-30",
           "2011-01-02"
         ]
+      },
+      {
+        "i": "2370-10516-2010-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "2370-1407-2009-11-27",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -419,6 +519,10 @@
         ]
       },
       {
+        "i": "2370-10516-2010-11-10",
+        "c": "FR"
+      },
+      {
         "i": "2370-29635-2011-01-19",
         "c": "ES",
         "n": "De lo sagrado y lo profano.Un imaginario contemporáneo.",
@@ -430,6 +534,26 @@
           "2011-01-19",
           "2011-03-27"
         ]
+      },
+      {
+        "i": "2370-1407-2011-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "2370-1407-2011-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "2370-11845-2011-07-13",
+        "c": "FR"
+      },
+      {
+        "i": "2370-11845-2011-07-13",
+        "c": "FR"
+      },
+      {
+        "i": "2370-7811-2011-10-22",
+        "c": "FR"
       },
       {
         "i": "2370-14528-2011-12-15",
@@ -446,6 +570,10 @@
       }
     ],
     "2012": [
+      {
+        "i": "2370-7811-2011-10-22",
+        "c": "FR"
+      },
       {
         "i": "2370-14528-2011-12-15",
         "c": "US",
@@ -471,6 +599,38 @@
           "2012-02-04",
           "2012-05-19"
         ]
+      },
+      {
+        "i": "2370-1407-2012-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "2370-1407-2012-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "2370-1407-2012-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "2370-1407-2012-06-16",
+        "c": "FR"
+      },
+      {
+        "i": "2370-1407-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "2370-1407-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "2370-2718-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "2370-2718-2012-09-28",
+        "c": "FR"
       },
       {
         "i": "2370-2495-2012-10-07",
@@ -510,6 +670,14 @@
           "2012-10-26",
           "2013-02-17"
         ]
+      },
+      {
+        "i": "2370-8281-2012-12-09",
+        "c": "FR"
+      },
+      {
+        "i": "2370-20164-2012-12-21",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -540,6 +708,22 @@
         ]
       },
       {
+        "i": "2370-8281-2012-12-09",
+        "c": "FR"
+      },
+      {
+        "i": "2370-20164-2012-12-21",
+        "c": "FR"
+      },
+      {
+        "i": "2370-1407-2013-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "2370-1407-2013-03-22",
+        "c": "FR"
+      },
+      {
         "i": "2370-2625-2013-03-23",
         "c": "HU",
         "n": "The Naked Man",
@@ -551,6 +735,14 @@
           "2013-03-23",
           "2013-06-30"
         ]
+      },
+      {
+        "i": "2370-17115-2013-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "2370-17115-2013-06-29",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "17081",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:14",
+  "timestamp": "2014-05-24 06:21:43",
   "name": "Jean-Claude Loubières",
   "surname": "Loubières",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "27415",
-  "r01": "26779",
-  "r02": "23353",
-  "r03": "21183",
-  "r04": "18631",
-  "r05": "17869",
-  "r06": "15116",
-  "r07": "18959",
-  "r08": "15276",
+  "r00": "28962",
+  "r01": "35962",
+  "r02": "34023",
+  "r03": "28121",
+  "r04": "24576",
+  "r05": "21053",
+  "r06": "20519",
+  "r07": "16313",
+  "r08": "22273",
   "awards": null,
   "website": null,
   "all-shows-first": "1989",
-  "all-shows-total": "29",
+  "all-shows-total": "30",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (4), Belgium (3)",
-  "2005-shows-with": "Jean-Claude Loubières (5), Laurent Sfar (3), Gianfranco Baruchello (2), Glen Baxter (2), Roland Breucker (2), Marcel Broodthaers (2), Jan Carlier (2), Jacques Charlier (2), Anna Christina (2), François de Coninck (2), Philippe De Gobert (2), Guillaume Dendeau (2), Erik Dietman (2), Christian Dotremont (2), Laurent d’Ursel (2), Luc Fierens (2), Jerry Frantz (2), Jean le Gac (2), Joël Gaillard (2), Myriam Hornard (2), Pierre Lecrenier (2), Olivier Leloup (2), Jacques van Lennep (2), Marcel van Maele (2), Frank Maieu (2), Marcel Mariën (2), Jean-Claude Mattrat (2), Raymond Minnen (2), Pol Pierart (2), Éric Pougeau (2), Angelo Ricciardi (2), André Stas (2), Vincent Strebell (2), Toon Tersas (2), Thierry Tillier (2), Jean-Pierre Verheggen (2), Christian Zeimert (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (5), Belgium (3)",
+  "2005-shows-with": "Jean-Claude Loubières (6), Laurent Sfar (4), Gianfranco Baruchello (2), Glen Baxter (2), Roland Breucker (2), Marcel Broodthaers (2), Jan Carlier (2), Jacques Charlier (2), Anna Christina (2), François de Coninck (2), Philippe De Gobert (2), Guillaume Dendeau (2), Erik Dietman (2), Christian Dotremont (2), Laurent d’Ursel (2), Luc Fierens (2), Jerry Frantz (2), Jean le Gac (2), Joël Gaillard (2), Eric Hattan (2), Myriam Hornard (2), Pierre Lecrenier (2), Olivier Leloup (2), Jacques Lennep (2), Marcel van Maele (2), Frank Maieu (2), Marcel Mariën (2), Jean-Claude Mattrat (2), Raymond Minnen (2), Pol Pierart (2), Éric Pougeau (2), Angelo Ricciardi (2), Yvan Salomone (2), André Stas (2), Vincent Strebell (2), Toon Tersas (2), Thierry Tillier (2), Jean-Pierre Verheggen (2), Christian Ziemert (2)",
   "representing-galleries": "Art Attitude Hervé Bize (17-19 rue Gambetta, 54000 Nancy, France)",
   "collecting-museums": "FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France)",
   "first_name": "Jean-Claude",
@@ -43,6 +43,42 @@
   "age": 67,
   "age_range": "61-100",
   "expos": {
+    "2005": [
+      {
+        "i": "17081-29576-2005-07-02",
+        "c": "FR"
+      },
+      {
+        "i": "17081-29576-2005-07-02",
+        "c": "FR"
+      },
+      {
+        "i": "17081-2028-2005-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "17081-2028-2005-04-14",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "17081-2028-2007-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "17081-2028-2007-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "17081-2028-2007-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "17081-2028-2007-02-07",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "17081-14263-2008-04-27",
@@ -56,9 +92,17 @@
           "2008-04-27",
           "2008-08-17"
         ]
+      },
+      {
+        "i": "17081-13364-2008-12-18",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "17081-13364-2008-12-18",
+        "c": "FR"
+      },
       {
         "i": "17081-21901-2009-03-13",
         "c": "BE",
@@ -84,6 +128,36 @@
           "2009-09-16",
           "2009-10-17"
         ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "17081-2028-2010-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "17081-2028-2010-01-07",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "17081-15873-2011-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "17081-15873-2011-10-16",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "17081-28278-2013-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "17081-28278-2013-01-15",
+        "c": "FR"
       }
     ]
   }

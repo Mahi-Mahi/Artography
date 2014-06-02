@@ -1,7 +1,7 @@
 {
   "id": "191616",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:20:37",
+  "timestamp": "2014-05-24 07:22:06",
   "name": "Guillaume Leingre",
   "surname": "Leingre",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "42274",
-  "r01": "41388",
-  "r02": "38015",
-  "r03": "34287",
-  "r04": "76538",
-  "r05": "72808",
-  "r06": "75283",
-  "r07": "67014",
-  "r08": "58171",
+  "r00": "20243",
+  "r01": "37980",
+  "r02": "36207",
+  "r03": "31863",
+  "r04": "28201",
+  "r05": "73137",
+  "r06": "69381",
+  "r07": "73058",
+  "r08": "64321",
   "awards": "Villa Kujoyama, Kyoto, Japan\r\nBlack and white prize, Ilford,Black and white prize, Ilford",
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "7",
+  "all-shows-total": "8",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (2), Japan (2), Italy (1), USA (1)",
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (3), Japan (2), Italy (1), USA (1)",
   "2005-shows-with": "Guillaume Leingre (4), Mathieu Mercier (2)",
   "representing-galleries": "Super Window Project (385-10 Motoyama Kamigamo Kita-Ku, 603-8047 Kyoto, Japan)",
   "collecting-museums": "Maison Européenne de la Photographie (5/7 rue de Fourcy, 75004 Paris, France)",
@@ -73,6 +73,14 @@
         ]
       },
       {
+        "i": "191616-1293-2010-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "191616-1293-2010-03-01",
+        "c": "FR"
+      },
+      {
         "i": "191616-14658-2010-06-29",
         "c": "US",
         "n": "day to day",
@@ -84,6 +92,14 @@
           "2010-06-29",
           "2010-07-30"
         ]
+      },
+      {
+        "i": "191616-19341-2010-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "191616-19341-2010-06-15",
+        "c": "FR"
       }
     ],
     "2013": [

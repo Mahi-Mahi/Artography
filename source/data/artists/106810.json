@@ -1,7 +1,7 @@
 {
   "id": "106810",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:47:09",
+  "timestamp": "2014-05-24 06:53:14",
   "name": "Emmanuel Régent",
   "surname": "Régent",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "10028",
-  "r01": "12448",
-  "r02": "17449",
-  "r03": "34344",
-  "r04": "35265",
-  "r05": "31314",
-  "r06": "35521",
-  "r07": "41625",
-  "r08": "37420",
+  "r00": "4992",
+  "r01": "5016",
+  "r02": "6190",
+  "r03": "10049",
+  "r04": "21650",
+  "r05": "25257",
+  "r06": "21776",
+  "r07": "23007",
+  "r08": "25595",
   "awards": null,
   "website": "www.emmanuelregent.fr",
   "all-shows-first": "2003",
-  "all-shows-total": "40",
-  "2005-shows-biennials": "21",
-  "2005-shows-galleries": "21",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (28), Austria (1), Monaco (1), Switzerland (1), United Arab Emirates (1), USA (1)",
-  "2005-shows-with": "Emmanuel Régent (21), Han Hoogerbrugge (6), Thierry Lagalla (6), Arnaud Labelle-Rojoux (5), Karine Rougier (5), Florent Mattei (4), Gérald Panighi (4), Stéphane Protic (4), Naji Kamouche (3), Olivier Masmonteil (3), Stephane Steiner (3), Jeanne Susplugas (3), Ben Vautier (3), Jean-Luc Verna (3), Manuel Acevedo (2), Caroline Bach (2), Abdelkader Benchamma (2), Julien Beneyton (2), Katia Bourdarel (2), Michel de Broin (2), Anne-James Chaton (2), Nina Childress (2), Frédéric Clavère (2), Claude Closky (2), Philippe Cognée (2), Gino de Dominicis (2), Jean Dupuy (2), Richard Fauguet (2), Vincent Ganivet (2), Jean Pierre Giovanelli (2), Robert Gligorov (2), Igor Josifov (2), noha kader (2), Olivier Leroi (2), Iris Levasseur (2), Christian Lhopital (2), Robert Longo (2), Pascal Navarro (2), Adam Parker Smith (2), Giuseppe Penone (2), Laurent Pernot (2), Jerôme Robbe (2), Benjamin Sabatier (2), Anne-Laure Sacriste (2), navid azimi sadjadi (2), Lionel Scoccimaro (2), Veit Stratmann (2), Sabry Tchalgadjieff (2)",
-  "representing-galleries": "Espace A Vendre (17 rue Smolett, 06300 Nice, France); Le CABINET (62, Rue Saint Sabin, 75011 Paris, France); Analix Forever (rue de l’Arquebuse 25, CH-1204 Geneva, Switzerland)",
+  "all-shows-total": "47",
+  "2005-shows-biennials": "23",
+  "2005-shows-galleries": "23",
+  "2005-shows-museums": "10",
+  "2005-countries-total": "France (33), Switzerland (2), Austria (1), Italy (1), Monaco (1), United Arab Emirates (1), USA (1)",
+  "2005-shows-with": "Emmanuel Régent (29), Thierry Lagalla (10), Han Hoogerbrugge (9), Arnaud Labelle-Rojoux (8), Stéphane Protic (8), Karine Rougier (8), Stephane Steiner (8), Florent Mattei (7), Gérald Panighi (7), Caroline Bach (5), Ben Vautier (5), Thierry Agnone (4), Michel de Broin (4), Frédéric Clavère (4), Jerôme Robbe (4), Jean-Luc Verna (4), Damien Berthier (3), Noël Dolla (3), Naji Kamouche (3), Frédéric Malette (3), Olivier Masmonteil (3), Philippe Ramette (3), Lionel Scoccimaro (3), Jeanne Susplugas (3), Sabry Tchalgadjieff (3), Cédric Teisseire (3), Bernar Venet (3), Manuel Acevedo (2), Arman (2), Abdelkader Benchamma (2), Julien Beneyton (2), Julien Blaine (2), Katia Bourdarel (2), Louis Cane (2), César (2), Anne-James Chaton (2), Marc Chevalier (2), Nina Childress (2), Claude Closky (2), Philippe Cognée (2), Erik Dietman (2), Gino de Dominicis (2), Jean Dupuy (2), Richard Fauguet (2), Robert Filliou (2), Jacqueline Gainon (2), Vincent Ganivet (2), Karim Ghelloussi (2), Claude Gilli (2), Isabelle Giova",
+  "representing-galleries": "Espace A Vendre (17 rue Smolett, 06300 Nice, France); Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France); Analix Forever (rue de l’Arquebuse 25, CH-1204 Geneva, Switzerland)",
   "collecting-museums": null,
   "first_name": "Emmanuel",
   "last_name": "Régent",
@@ -43,7 +43,59 @@
   "age": 40,
   "age_range": "26-40",
   "expos": {
+    "2006": [
+      {
+        "i": "106810-7700-2006-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "106810-7700-2006-07-04",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2006-12-13",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "106810-16752-2006-12-13",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2007-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2007-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2007-11-30",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2007-11-30",
+        "c": "FR"
+      }
+    ],
     "2008": [
+      {
+        "i": "106810-7713-2008-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "106810-7713-2008-05-06",
+        "c": "FR"
+      },
       {
         "i": "106810-11599-2008-07-05",
         "c": "AT",
@@ -56,6 +108,66 @@
           "2008-07-05",
           "2008-08-31"
         ]
+      },
+      {
+        "i": "106810-16752-2008-12-05",
+        "c": "FR"
+      },
+      {
+        "i": "106810-19953-2008-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "106810-24759-2008-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "106810-24759-2008-06-28",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "106810-16752-2008-12-05",
+        "c": "FR"
+      },
+      {
+        "i": "106810-19953-2008-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "106810-11861-2009-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "106810-11861-2009-09-15",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "106810-16752-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2010-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2010-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2010-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "106810-19953-2010-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "106810-19953-2010-10-16",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -84,9 +196,41 @@
           "2011-07-10",
           "2011-09-15"
         ]
+      },
+      {
+        "i": "106810-22625-2011-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "106810-22625-2011-11-05",
+        "c": "FR"
+      },
+      {
+        "i": "106810-2585-2011-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "106810-2585-2011-06-24",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2011-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2011-09-03",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "106810-27843-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "106810-27843-2012-02-25",
+        "c": "FR"
+      },
       {
         "i": "106810-6361-2012-03-08",
         "c": "MC",
@@ -99,9 +243,121 @@
           "2012-03-08",
           "2012-04-26"
         ]
+      },
+      {
+        "i": "106810-19953-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "106810-19953-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "106810-17457-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "106810-17457-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2012-12-07",
+        "c": "FR"
+      },
+      {
+        "i": "106810-28449-2012-04-22",
+        "c": "FR"
+      },
+      {
+        "i": "106810-28449-2012-04-22",
+        "c": "FR"
+      },
+      {
+        "i": "106810-10282-2012-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "106810-10282-2012-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "106810-13618-2012-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "106810-13618-2012-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "106810-741-2012-10-13",
+        "c": "FR"
+      },
+      {
+        "i": "106810-28767-2012-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "106810-28767-2012-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "106810-19953-2012-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "106810-19953-2012-10-19",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "106810-16752-2012-12-07",
+        "c": "FR"
+      },
+      {
+        "i": "106810-27613-2013-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "106810-27613-2013-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "106810-28450-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "106810-28450-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "106810-16752-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "106810-10247-2013-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "106810-10247-2013-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "106810-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "106810-30302-2013-10-26",
+        "c": "FR"
+      },
+      {
+        "i": "106810-741-2012-10-13",
+        "c": "FR"
+      },
       {
         "i": "106810-895-2013-03-14",
         "c": "CH",
@@ -114,6 +370,24 @@
           "2013-03-14",
           "2013-04-27"
         ]
+      },
+      {
+        "i": "106810-28767-2013-08-17",
+        "c": "FR"
+      },
+      {
+        "i": "106810-28767-2013-08-17",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "106810-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "106810-30302-2013-10-26",
+        "c": "FR"
       }
     ]
   }

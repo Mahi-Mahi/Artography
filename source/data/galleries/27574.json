@@ -16,5 +16,21 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "3",
   "fairs": {
+    "2012": [
+      {
+        "i": "27574-ST-ART  2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "27574-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      },
+      {
+        "i": "27574-Slick Paris 2013",
+        "c": "FR"
+      }
+    ]
   }
 }

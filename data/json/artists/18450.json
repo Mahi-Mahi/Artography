@@ -1,7 +1,7 @@
 {
   "id": "18450",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:53",
+  "timestamp": "2014-05-24 06:22:16",
   "name": "Mathilde Rosier",
   "surname": "Rosier",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video, Performance",
-  "r00": "4992",
-  "r01": "4530",
+  "r00": "5117",
+  "r01": "4952",
   "r02": "4092",
-  "r03": "5231",
-  "r04": "6874",
-  "r05": "7482",
-  "r06": "6483",
-  "r07": "8101",
-  "r08": "9003",
+  "r03": "3457",
+  "r04": "4667",
+  "r05": "6424",
+  "r06": "6943",
+  "r07": "5691",
+  "r08": "7132",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
   "all-shows-total": "38",
-  "2005-shows-biennials": "6",
-  "2005-shows-galleries": "6",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
   "2005-shows-museums": "12",
-  "2005-countries-total": "Germany (9), France (4), United Kingdom (3), Italy (2), Poland (1), USA (1)",
+  "2005-countries-total": "Germany (10), France (4), United Kingdom (3), Italy (2), Poland (1), USA (1)",
   "2005-shows-with": "Mathilde Rosier (13), Ivan Bazak (7), Dominique Ghesquiere (7), Thomas Mohren (7), Roseline Rannoch (7), Jürgen Stollhans (7), Julien Bismuth (6), Régis Perray (6), Elsa Tomkowiak (6), Cecile Desvignes (5), Freya Hattenberger (5), Christian Jendreiko (5), Karolin Meunier (5), Antoine Petitprez (5), Jaroslaw Bauc (2), Elka Krajewska (2), Nina Könnemann (2), Ken Okiishi (2), Paulina Olowska (2), Cindy Sherman (2), Catherine Sullivan (2), Cathy Wilkes (2), Katharina Wulff (2), Jakub Julian Ziolkowski (2)",
   "representing-galleries": "Galerie Zürcher - Paris (56, rue Chapon, 75003 Paris, France); Galerie Kadel Willborn - Düsseldorf (Birkenstrasse 3, 40233 Dusseldorf, Germany); Galerie Kadel Willborn - Karlsruhe (Hirschstraße 45, 76133 Karlsruhe, Germany); Galleria Raffaella Cortese (Via A. Stradella 7, 20129 Milan, Italy); Galerie Zürcher - New York (33 Bleecker Street, 10012 New York City, NY, USA)",
   "collecting-museums": "Kadist Art Foundation (19 bis -21 rue Trois Fréres, 75018 Paris, France)",
@@ -99,6 +99,18 @@
         ]
       },
       {
+        "i": "18450-5358-2007-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "18450-5358-2007-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "18450-5358-2007-11-13",
+        "c": "FR"
+      },
+      {
         "i": "18450-1173-2007-11-30",
         "c": "GB",
         "n": "Ballet Mécanique",
@@ -110,9 +122,29 @@
           "2007-11-30",
           "2008-01-05"
         ]
+      },
+      {
+        "i": "18450-5358-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "18450-5358-2007-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "18450-8028-2007-09-22",
+        "c": "FR"
+      },
+      {
+        "i": "18450-8028-2007-09-22",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "18450-5358-2007-11-13",
+        "c": "FR"
+      },
       {
         "i": "18450-1173-2007-11-30",
         "c": "GB",
@@ -313,6 +345,14 @@
         ]
       },
       {
+        "i": "18450-2351-2010-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "18450-2351-2010-02-09",
+        "c": "FR"
+      },
+      {
         "i": "18450-3524-2010-09-17",
         "c": "DE",
         "n": "The Oceanic Feeling",
@@ -352,6 +392,30 @@
           "2010-11-27",
           "2011-01-23"
         ]
+      },
+      {
+        "i": "18450-11586-2011-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "18450-11586-2011-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "18450-7978-2011-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "18450-7978-2011-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "18450-10726-2011-05-14",
+        "c": "FR"
+      },
+      {
+        "i": "18450-10726-2011-05-14",
+        "c": "FR"
       },
       {
         "i": "18450-9028-2011-04-08",

@@ -1,7 +1,7 @@
 {
   "id": "19185",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:11:13",
+  "timestamp": "2014-05-24 06:22:33",
   "name": "Eric Liot",
   "surname": "Liot",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "14572",
-  "r01": "14091",
-  "r02": "12946",
-  "r03": "12300",
-  "r04": "15039",
-  "r05": "19140",
-  "r06": "17369",
-  "r07": "24193",
-  "r08": "23432",
+  "r00": "15200",
+  "r01": "14292",
+  "r02": "13081",
+  "r03": "11656",
+  "r04": "10682",
+  "r05": "13440",
+  "r06": "17622",
+  "r07": "15598",
+  "r08": "22703",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "23",
-  "2005-shows-biennials": "13",
-  "2005-shows-galleries": "13",
+  "all-shows-total": "24",
+  "2005-shows-biennials": "14",
+  "2005-shows-galleries": "14",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (9), Belgium (3), Germany (1), USA (1)",
+  "2005-countries-total": "France (9), Belgium (3), Germany (1), Netherlands (1), USA (1)",
   "2005-shows-with": "Eric Liot (7), Erró (3), Peter Klasen (3), Philippe Pasqua (3), Gerard Schlosser (3), Antonio Seguí (3), FC Sofia (3), Valerio Adami (2), Robert Combas (2), Pavlos Dionysopoulos (2), Keith Haring (2), Ivan Messac (2), Jacques Monory (2), Bernard Rancillac (2), Jean-Pierre Raynaud (2), Niki de Saint Phalle (2), Thierry Trives (2), Ben Vautier (2), Andy Warhol (2)",
   "representing-galleries": "Gallery Copenhagen (St. Kongensgade 76, 1264 Copenhagen, Denmark); Galerie Bayart (17 cours Guynemer, 60200 Compiègne, France); Galerie Suty (Grande Rue 75, 60580 Coye-la-Forêt, France); AD Galerie (40 Allée Giacometti, 34000 Montpellier, France); Galerie Keza (37 rue des Mathurins, FR-75008 Paris, France); Galerie Laurent Strouk (8 bis/16 rue Jacques Callot, 75006 Paris, France); Galerie Raphaël 12 (Braubachstr. 12, 60311 Frankfurt/Main, Germany); Fabien Castanier Gallery (12196 Ventura Blvd, 91604 Studio City, CA, USA)",
   "collecting-museums": null,
@@ -43,7 +43,41 @@
   "age": 50,
   "age_range": "41-60",
   "expos": {
+    "2006": [
+      {
+        "i": "19185-4225-2006-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "19185-4225-2006-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "19185-4225-2006-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "19185-4225-2006-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "19185-29101-2006-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "19185-29101-2006-04-28",
+        "c": "FR"
+      }
+    ],
     "2007": [
+      {
+        "i": "19185-5458-2007-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "19185-5458-2007-06-07",
+        "c": "FR"
+      },
       {
         "i": "19185-14112-2007-06-21",
         "c": "ES",
@@ -56,6 +90,14 @@
           "2007-06-21",
           "2007-08-04"
         ]
+      },
+      {
+        "i": "19185-5131-2007-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "19185-5131-2007-05-31",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -71,6 +113,66 @@
           "2009-05-16",
           "2009-06-28"
         ]
+      },
+      {
+        "i": "19185-5131-2009-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "19185-5131-2009-04-02",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "19185-4225-2010-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "19185-4225-2010-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "19185-5131-2010-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "19185-5131-2010-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "19185-18402-2010-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "19185-18402-2010-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "19185-5131-2010-12-02",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "19185-5131-2011-01-06",
+        "c": "FR"
+      },
+      {
+        "i": "19185-5131-2011-01-06",
+        "c": "FR"
+      },
+      {
+        "i": "19185-5131-2011-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "19185-5131-2011-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "19185-5131-2010-12-02",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -127,6 +229,34 @@
           "2013-12-20",
           "2013-01-27"
         ]
+      },
+      {
+        "i": "19185-18402-2013-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "19185-18402-2013-01-31",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "19185-5131-2005-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "19185-5131-2005-11-10",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "19185-18402-2008-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "19185-18402-2008-01-12",
+        "c": "FR"
       }
     ]
   }

@@ -1,12 +1,12 @@
 {
   "id": "12751",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:08:16",
+  "timestamp": "2014-05-24 06:19:59",
   "name": "Bernard Plossu",
   "surname": "Plossu",
   "nationality": "FR",
   "nationality fr": "France",
-  "birth location": "Dalat (FR/VN)",
+  "birth location": "Dalat (VN)",
   "birth day": "26",
   "birth month": "2",
   "birth year": "1945",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "3489",
-  "r01": "3180",
-  "r02": "3462",
-  "r03": "3234",
-  "r04": "3293",
-  "r05": "3461",
-  "r06": "3146",
-  "r07": "4591",
-  "r08": "4926",
+  "r00": "3488",
+  "r01": "3289",
+  "r02": "2865",
+  "r03": "3325",
+  "r04": "3039",
+  "r05": "3293",
+  "r06": "3659",
+  "r07": "3295",
+  "r08": "5756",
   "awards": null,
-  "website": null,
+  "website": "www.plossu.com",
   "all-shows-first": "1976",
   "all-shows-total": "85",
-  "2005-shows-biennials": "14",
-  "2005-shows-galleries": "14",
+  "2005-shows-biennials": "15",
+  "2005-shows-galleries": "15",
   "2005-shows-museums": "24",
-  "2005-countries-total": "France (23), Spain (7), Switzerland (3), Italy (2), Belgium (1), Canada (1), China (1), Portugal (1), Romania (1)",
-  "2005-shows-with": "Bernard Plossu (28), Raymond Depardon (4), Lee Friedlander (4), Frank Horvat (4), Marc Riboud (4), Manuel Álvarez-Bravo (3), Javier Campano (3), Henri Cartier-Bresson (3), Florence Chevallier (3), Patrick Faigenbaum (3), Bernard Faucon (3), Alain Fleischer (3), Robert Frank (3), Gary Hill (3), William Klein (3), Jacques-Henri Lartigue (3), Ange Leccia (3), Sarah Moon (3), Helmut Newton (3), Bettina Rheims (3), Robin Rhode (3), Willy Ronis (3), Georges Rousse (3), Thomas Ruff (3), Josef Sudek (3), Hiroshi Sugimoto (3), Patrick Tosani (3), Bram van Velde (3), Cuno Amiet (2), Balthus (2), Lewis Baltz (2), Daniele Barbaro (2), Paolo Antonio Barbieri (2), Gabriele Basilico (2), Philippe Bazin (2), Umberto Boccioni (2), Mel Bochner (2), Pierre Bonnard (2), Ambrosius Bosschaert (2), Edouard Boubat (2), Marilyn Bridges (2), Marcel Broodthaers (2), Elina Brotherus (2), Rafal Bujnowski (2), Angela Bulloch (2), Rudy Burckhardt (2), Daniel Buren (2), Johann Rudolf Bys (2), Pedro Cabrita Reis (2), Sophie Calle (2), Carl ",
+  "2005-countries-total": "France (25), Spain (8), Switzerland (3), Italy (2), Morocco (2), Belgium (1), Canada (1), China (1), Portugal (1), Romania (1)",
+  "2005-shows-with": "Bernard Plossu (30), Raymond Depardon (4), Lee Friedlander (4), Frank Horvat (4), Marc Riboud (4), Manuel Álvarez-Bravo (3), Javier Campano (3), Henri Cartier-Bresson (3), Florence Chevallier (3), Patrick Faigenbaum (3), Bernard Faucon (3), Alain Fleischer (3), Robert Frank (3), Gary Hill (3), William Klein (3), Jacques-Henri Lartigue (3), Ange Leccia (3), Sarah Moon (3), Helmut Newton (3), Bettina Rheims (3), Robin Rhode (3), Willy Ronis (3), Georges Rousse (3), Thomas Ruff (3), Josef Sudek (3), Hiroshi Sugimoto (3), Patrick Tosani (3), Bram van Velde (3), Cuno Amiet (2), Balthus (2), Lewis Baltz (2), Daniele Barbaro (2), Paolo Antonio Barbieri (2), Gabriele Basilico (2), Philippe Bazin (2), Umberto Boccioni (2), Mel Bochner (2), Pierre Bonnard (2), Ambrosius Bosschaert (2), Edouard Boubat (2), Marilyn Bridges (2), Marcel Broodthaers (2), Elina Brotherus (2), Rafal Bujnowski (2), Angela Bulloch (2), Rudy Burckhardt (2), Daniel Buren (2), Johann Rudolf Bys (2), Pedro Cabrita Reis (2), Sophie Calle (2), Carl ",
   "representing-galleries": "Galerie Le Réverbère (38, rue Burdeau, 69001 Lyon, France); Galerie Michèle Chomette (24, rue Beaubourg, 75003 Paris, France); Gallery OUT of PLACE (32-2 Imazushi-cho Nara-shi, 630-8243 Nara, Japan); Galeria Vilaseco Hauser (Padre Feijoó 5 1º, 15004 A Coruña, Spain); Kowasa Gallery (Mallorca, 235, 08008 Barcelona, Spain); Forvm (dels Cavallers 4, 43003 Tarragona, Spain); Gallery 19/21 (9 Little Harbor Rd, 06437 Guilford, CT, USA); Eaton Fine Art (435 Gardenia Street, 33401 West Palm Beach, FL, USA)",
   "collecting-museums": "Musée Gassendi (64, boulevard Gassendi, 04000 Digne-les-Bains, France); Maison Européenne de la Photographie (5/7 rue de Fourcy, 75004 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France); Maison de la Photographie (Rue Nicolas Laugier - Place du globe, 83000  Toulon, France); MMCA Macedonian Museum of Contemporary Art (Egnatia St. (International Fair grounds) 154, 546 36 Thessaloniki, Greece); Museo Fotografia Contemporanea (Villa Ghirlanda, via Frova 10, 20092 Cinisello Balsamo, MI, Italy)",
   "first_name": "Bernard",
@@ -99,6 +99,14 @@
         ]
       },
       {
+        "i": "12751-10244-2006-01-04",
+        "c": "FR"
+      },
+      {
+        "i": "12751-10244-2006-01-04",
+        "c": "FR"
+      },
+      {
         "i": "12751-5826-2006-03-01",
         "c": "DO",
         "n": "El retrato en la colección de fotografía del IVAM",
@@ -123,6 +131,14 @@
           "2006-03-26",
           "2006-09-24"
         ]
+      },
+      {
+        "i": "12751-5176-2006-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "12751-5176-2006-05-11",
+        "c": "FR"
       },
       {
         "i": "12751-18852-2006-05-24",
@@ -255,9 +271,33 @@
           "2007-06-14",
           "2007-07-10"
         ]
+      },
+      {
+        "i": "12751-2219-2007-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "12751-10519-2007-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "12751-10519-2007-01-19",
+        "c": "FR"
+      },
+      {
+        "i": "12751-2353-2007-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "12751-2353-2007-02-16",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "12751-2219-2007-11-07",
+        "c": "FR"
+      },
       {
         "i": "12751-3104-2008-02-14",
         "c": "RO",
@@ -270,6 +310,14 @@
           "2008-02-14",
           "2008-03-20"
         ]
+      },
+      {
+        "i": "12751-26671-2008-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "12751-26671-2008-03-21",
+        "c": "FR"
       },
       {
         "i": "12751-18382-2008-06-05",
@@ -296,6 +344,22 @@
           "2008-06-18",
           "2008-10-13"
         ]
+      },
+      {
+        "i": "12751-21460-2008-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "12751-21460-2008-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "12751-10584-2008-10-08",
+        "c": "FR"
+      },
+      {
+        "i": "12751-10584-2008-10-08",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -311,6 +375,14 @@
           "2009-04-01",
           "2009-10-01"
         ]
+      },
+      {
+        "i": "12751-1293-2009-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "12751-1293-2009-05-29",
+        "c": "FR"
       },
       {
         "i": "12751-14394-2009-06-19",
@@ -380,6 +452,22 @@
         ]
       },
       {
+        "i": "12751-5176-2010-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "12751-5176-2010-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "12751-10519-2010-05-29",
+        "c": "FR"
+      },
+      {
+        "i": "12751-10519-2010-05-29",
+        "c": "FR"
+      },
+      {
         "i": "12751-5214-2010-06-12",
         "c": "ES",
         "n": "20 years: the collection",
@@ -404,6 +492,64 @@
           "2010-09-02",
           "2010-10-03"
         ]
+      },
+      {
+        "i": "12751-10501-2010-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "12751-10501-2010-01-22",
+        "c": "FR"
+      },
+      {
+        "i": "12751-11742-2010-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "12751-11742-2010-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "12751-21459-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "12751-21459-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "12751-10584-2010-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "12751-10584-2010-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "12751-26671-2010-12-03",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "12751-6620-2011-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "12751-6620-2011-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "12751-26671-2010-12-03",
+        "c": "FR"
+      },
+      {
+        "i": "12751-5176-2011-11-02",
+        "c": "FR"
+      },
+      {
+        "i": "12751-5176-2011-11-02",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -473,6 +619,14 @@
         ]
       },
       {
+        "i": "12751-5176-2012-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "12751-5176-2012-10-19",
+        "c": "FR"
+      },
+      {
         "i": "12751-29066-2012-11-07",
         "c": "IT",
         "n": "Di fronte e di schiena",
@@ -484,6 +638,30 @@
           "2012-11-07",
           "2012-12-10"
         ]
+      },
+      {
+        "i": "12751-10516-2012-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "12751-10679-2012-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "12751-6629-2012-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "12751-6629-2012-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "12751-20679-2012-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "12751-20679-2012-06-15",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -512,6 +690,56 @@
           "2012-09-16",
           "2013-01-06"
         ]
+      },
+      {
+        "i": "12751-10516-2012-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "12751-10679-2012-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "12751-25327-2013-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "12751-25327-2013-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "12751-8129-2013-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "12751-8129-2013-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "12751-20679-2013-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "12751-20679-2013-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "12751-21459-2013-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "12751-21459-2013-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "12751-11263-2013-09-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "12751-11263-2013-09-20",
+        "c": "FR"
       }
     ]
   }

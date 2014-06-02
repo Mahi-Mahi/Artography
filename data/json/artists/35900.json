@@ -1,7 +1,7 @@
 {
   "id": "35900",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:18:29",
+  "timestamp": "2014-05-24 06:28:36",
   "name": "André Villers",
   "surname": "Villers",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "20235",
-  "r01": "18744",
-  "r02": "17252",
-  "r03": "24646",
-  "r04": "27602",
-  "r05": "24180",
-  "r06": "26151",
-  "r07": "57590",
-  "r08": "49168",
+  "r00": "19904",
+  "r01": "19033",
+  "r02": "16466",
+  "r03": "14603",
+  "r04": "21718",
+  "r05": "24311",
+  "r06": "20674",
+  "r07": "22332",
+  "r08": "61596",
   "awards": null,
   "website": null,
   "all-shows-first": "1980",
@@ -34,7 +34,7 @@
   "2005-shows-museums": "2",
   "2005-countries-total": "Australia (2), France (2), Germany (1), Hungary (1), South Africa (1)",
   "2005-shows-with": "André Villers (5), Arman (2), Peter Klasen (2), Roy Lichtenstein (2)",
-  "representing-galleries": "Galerie Laurent Strouk (8 bis/16 rue Jacques Callot, 75006 Paris, France); Galerie Remarque (2 Place de l'Hôtel de ville,  Trans-en Provence, France); Galerie der Moderne - Stefan Vogdt (Kurfürstenstrasse 5, 80799 Munich, Germany); Galleria Patrizia Poggi (Via Argentario 21, 48100 Ravenna, Italy); Focus Contemporary (2 long street, 8001 Cape Town, South Africa); Michael Hoppen Gallery (3 Jubilee Place, SW3 3TD London (England), United Kingdom)",
+  "representing-galleries": "Galerie Laurent Strouk (8 bis/16 rue Jacques Callot, 75006 Paris, France); Galerie Remarque (2 Place de l'Hôtel de ville,  Trans-en Provence, France); Galerie der Moderne - Stefan Vogdt (Kurfürstenstrasse 5, 80799 Munich, Germany); Galleria Patrizia Poggi (Via Argentario 21, 48100 Ravenna, Italy); Focus Contemporary (2 long street, 8001 Cape Town, South Africa); Michael Hoppen Gallery (3 Jubilee Place, SW3 3TD London, United Kingdom)",
   "collecting-museums": "Queensland Art Gallery / Gallery of Modern Art (Stanley Place, South Bank,  Brisbane, QLD, Australia); CIAC - Centre International d'Art Contemporain de Carros (Place du château, 06510 Carros, France); Museum DKM (Philosophenweg 17A, 47051 Duisburg, Germany)",
   "first_name": "André",
   "last_name": "Villers",
@@ -172,6 +172,14 @@
     ],
     "2011": [
       {
+        "i": "35900-5131-2011-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "35900-5131-2011-05-20",
+        "c": "FR"
+      },
+      {
         "i": "35900-344-2011-09-24",
         "c": "DE",
         "n": "Ichundichundich Memyselfandi - Picasso im Fotoporträt",
@@ -211,6 +219,16 @@
           "2011-09-24",
           "2012-01-15"
         ]
+      },
+      {
+        "i": "35900-23869-2012-10-27",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "35900-23869-2012-10-27",
+        "c": "FR"
       }
     ]
   }

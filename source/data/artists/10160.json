@@ -1,7 +1,7 @@
 {
   "id": "10160",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:02",
+  "timestamp": "2014-05-24 06:18:59",
   "name": "Paul Raguénès",
   "surname": "Raguénès",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "20197",
-  "r01": "18988",
-  "r02": "18461",
-  "r03": "21411",
-  "r04": "22326",
-  "r05": "19167",
-  "r06": "20724",
-  "r07": "17214",
-  "r08": "26634",
+  "r00": "22263",
+  "r01": "20878",
+  "r02": "18700",
+  "r03": "17754",
+  "r04": "20962",
+  "r05": "21447",
+  "r06": "17500",
+  "r07": "19135",
+  "r08": "15289",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "27",
-  "2005-shows-biennials": "11",
-  "2005-shows-galleries": "11",
+  "all-shows-total": "28",
+  "2005-shows-biennials": "12",
+  "2005-shows-galleries": "12",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (6), Australia (3), Netherlands (3), Germany (2), Switzerland (1), USA (1)",
-  "2005-shows-with": "Paul Raguénès (11), Richard van der Aa (2), Jakob Gasteiger (2), Jus Juchtmans (2), Sarah Keighery (2), Danielle Lescot (2), Frank Piasta (2), Regine Schumann (2), Bogumila Strojna (2)",
+  "2005-countries-total": "France (6), Australia (3), Netherlands (3), Germany (2), Switzerland (2), USA (1)",
+  "2005-shows-with": "Paul Raguénès (12), Sarah Keighery (3), Bogumila Strojna (3), Richard van der Aa (2), Justin Andrews (2), Christine Boiry (2), Jakob Gasteiger (2), Daniel Göttin (2), Terry Haggerty (2), Tony Harding (2), Clemens Hollerer (2), Kyle Jenkins (2), Jus Juchtmans (2), Danielle Lescot (2), Roland Orépük (2), Frank Piasta (2), Jacek Przybyszewski (2), Regine Schumann (2), Jan Maarten Voskuil (2), Beat Zoderer (2)",
   "representing-galleries": "Galerie Métropolis (6 passage des Gravilliers, 75003 Paris, France); Auden Galerie (Audenstr. 6, 61348 Bad Homburg, Germany); Galerie Pimm van der Donk (Poolstrasse 8, 20355 Hamburg, Germany); Galerie Nanky de Vreeze (Lange Leidsedwarsstraat 198–200, 1017 Amsterdam, Netherlands); Galerie Guy Bärtschi (Route des Jeunes 43, Allée G, 1227 Geneva, Switzerland)",
   "collecting-museums": "Till Richter Museum (Straße des Friedens 6, 17440 Buggenhagen, Germany)",
   "first_name": "Paul",
@@ -192,6 +192,30 @@
           "2010-05-20",
           "2010-07-16"
         ]
+      },
+      {
+        "i": "10160-19508-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "10160-19508-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "10160-5484-2010-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "10160-5484-2010-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "10160-5484-2010-06-05",
+        "c": "FR"
+      },
+      {
+        "i": "10160-5484-2010-06-05",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -250,6 +274,22 @@
         ]
       },
       {
+        "i": "10160-27775-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "10160-27775-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "10160-8647-2012-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "10160-8647-2012-06-08",
+        "c": "FR"
+      },
+      {
         "i": "10160-27551-2012-07-25",
         "c": "AU",
         "n": "Paul Raguenes",
@@ -276,6 +316,14 @@
           "2013-07-24",
           "2013-08-03"
         ]
+      },
+      {
+        "i": "10160-19508-2013-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "10160-19508-2013-09-12",
+        "c": "FR"
       },
       {
         "i": "10160-30139-2013-11-23",

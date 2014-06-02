@@ -1,7 +1,7 @@
 {
   "id": "33706",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:17:34",
+  "timestamp": "2014-05-24 06:27:49",
   "name": "Jules de Balincourt",
   "surname": "Balincourt",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "2709",
-  "r01": "2729",
-  "r02": "2429",
-  "r03": "2328",
-  "r04": "2529",
-  "r05": "2693",
-  "r06": "2604",
-  "r07": "3956",
-  "r08": "9271",
+  "r00": "2647",
+  "r01": "2581",
+  "r02": "2443",
+  "r03": "2054",
+  "r04": "1890",
+  "r05": "2058",
+  "r06": "2189",
+  "r07": "2071",
+  "r08": "3222",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "67",
-  "2005-shows-biennials": "17",
-  "2005-shows-galleries": "17",
-  "2005-shows-museums": "13",
-  "2005-countries-total": "USA (18), Italy (4), France (3), Germany (2), Switzerland (2), United Kingdom (2), Japan (1), Russia (1), Slovakia (1)",
+  "all-shows-total": "69",
+  "2005-shows-biennials": "18",
+  "2005-shows-galleries": "18",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "USA (19), France (4), Italy (4), Germany (2), Switzerland (2), United Kingdom (2), Japan (1), Russia (1), Slovakia (1)",
   "2005-shows-with": "Jules de Balincourt (30), Eddie Martinez (5), Joe Bradley (4), Rosson Crow (4), Wayne Gonzales (4), Taylor McKimens (4), Dana Schutz (4), Richard Aldrich (3), Ali Banisadr (3), Huma Bhabha (3), Mat Brinkman (3), Dan Colen (3), Tomory Dodge (3), Barnaby Furnas (3), Ry Fyan (3), Tomoo Gokita (3), Evan Gruzis (3), Daniel Hesidence (3), Ben Jones (3), Robert Longo (3), Nate Lowman (3), David Malek (3), Ryan McGinley (3), Keegan McHargue (3), Takeshi Murata (3), Sterling Ruby (3), Aurel Schmidt (3), Dash Snow (3), Francine Spiegel (3), Banks Violette (3), Kelley Walker (3), Cory Arcangel (2), John M Armleder (2), Barry X. Ball (2), Davide Balula (2), Tim Barber (2), Lisa Beck (2), Katherine Bernhardt (2), Aaron Bondaroff (2), Ralph Borland (2), Lizzi Bougatsos (2), Cecily Brown (2), Graham Caldwell (2), Michael Cline (2), Verne Dawson (2), Dearraindrop (2), Benjamin Degen (2), Francesca DiMattio (2), Jim Drain (2), Gardar Eide Einarsson (2), Claire Fontaine (2), Martha Friedman (2), Patrick Griffin (2), Joe Grillo",
-  "representing-galleries": "Galerie Thaddaeus Ropac - Salzburg (Mirabellplatz 2, 5020 Salzburg, Austria); Galerie Thaddaeus Ropac - Paris (7, rue Debelleyme, 75003 Paris, France); Victoria Miro Gallery (16 Wharf Road, N1 7RW London (England), United Kingdom); Salon 94 (12 East 94th Street, 10128 New York City, NY, USA)",
-  "collecting-museums": "Collezione Maramotti (via fratelli cervi 66, 42100 Reggio Emilia, Italy); The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London (England), United Kingdom); MOCA Grand Avenue (250 South Grand Avenue, 90012 Los Angeles, CA, USA)",
+  "representing-galleries": "Galerie Thaddaeus Ropac - Salzburg (Mirabellplatz 2, 5020 Salzburg, Austria); Galerie Thaddaeus Ropac - Paris (7, rue Debelleyme, 75003 Paris, France); Victoria Miro Gallery (16 Wharf Road, N1 7RW London, United Kingdom); Salon 94 (12 East 94th Street, 10128 New York City, NY, USA)",
+  "collecting-museums": "Collezione Maramotti (via fratelli cervi 66, 42100 Reggio Emilia, Italy); The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London, United Kingdom); MOCA Grand Avenue (250 South Grand Avenue, 90012 Los Angeles, CA, USA)",
   "first_name": "Jules",
   "last_name": "de",
   "genre": "m",
@@ -72,6 +72,14 @@
       }
     ],
     "2006": [
+      {
+        "i": "33706-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "33706-1782-2006-01-21",
+        "c": "FR"
+      },
       {
         "i": "33706-2722-2006-01-25",
         "c": "GB",
@@ -559,6 +567,14 @@
         ]
       },
       {
+        "i": "33706-1961-2009-07-17",
+        "c": "FR"
+      },
+      {
+        "i": "33706-1961-2009-07-17",
+        "c": "FR"
+      },
+      {
         "i": "33706-10446-2009-09-09",
         "c": "IT",
         "n": "Contemporary and Modern Works",
@@ -743,6 +759,14 @@
           "2011-09-29",
           "2011-12-10"
         ]
+      },
+      {
+        "i": "33706-946-2011-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "33706-946-2011-06-08",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -786,6 +810,14 @@
           "2013-01-27",
           "2013-11-17"
         ]
+      },
+      {
+        "i": "33706-946-2013-03-03",
+        "c": "FR"
+      },
+      {
+        "i": "33706-946-2013-03-03",
+        "c": "FR"
       },
       {
         "i": "33706-23610-2013-03-06",

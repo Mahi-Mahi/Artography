@@ -1,7 +1,7 @@
 {
   "id": "25165",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:13:48",
+  "timestamp": "2014-05-24 06:24:41",
   "name": "Gerard Uferas",
   "surname": "Uferas",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "21647",
-  "r01": "19753",
-  "r02": "20458",
-  "r03": "18420",
-  "r04": "15913",
-  "r05": "27534",
-  "r06": "23202",
-  "r07": "19075",
-  "r08": "17441",
+  "r00": "27404",
+  "r01": "26705",
+  "r02": "23540",
+  "r03": "24828",
+  "r04": "21235",
+  "r05": "17393",
+  "r06": "42474",
+  "r07": "34090",
+  "r08": "27339",
   "awards": null,
   "website": null,
   "all-shows-first": "1993",
-  "all-shows-total": "8",
+  "all-shows-total": "7",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "1",
   "2005-countries-total": "France (4)",
   "2005-shows-with": "Derek Hudson (2), Jean Marie Périer (2), Gerard Uferas (2)",
   "representing-galleries": "Faguo Club Gallery (14, avenue Émile Deschanel, 75007 Paris, France)",
-  "collecting-museums": "Moscow House of Photography (Ostojenka Str. 16, 119034 Moscow, Russia)",
+  "collecting-museums": null,
   "first_name": "Gerard",
   "last_name": "Uferas",
   "genre": "m",
@@ -56,6 +56,44 @@
           "2006-08-19",
           "2006-09-30"
         ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "25165-19170-2009-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "25165-19170-2009-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "25165-10516-2009-04-15",
+        "c": "FR"
+      },
+      {
+        "i": "25165-10516-2009-04-15",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "25165-19170-2011-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "25165-19170-2011-02-18",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "25165-19170-2012-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "25165-19170-2012-02-16",
+        "c": "FR"
       }
     ]
   }

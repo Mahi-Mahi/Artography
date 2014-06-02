@@ -1,7 +1,7 @@
 {
   "id": "126352",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:54:51",
+  "timestamp": "2014-05-24 06:59:51",
   "name": "Daniel Challe",
   "surname": "Challe",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "60194",
-  "r01": "56556",
-  "r02": "52057",
-  "r03": "47248",
-  "r04": "42321",
-  "r05": "37293",
-  "r06": "43574",
-  "r07": "43852",
-  "r08": "67199",
+  "r00": "42840",
+  "r01": "65306",
+  "r02": "58210",
+  "r03": "51169",
+  "r04": "44915",
+  "r05": "38913",
+  "r06": "33458",
+  "r07": "39568",
+  "r08": "39823",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
   "all-shows-total": "8",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (2)",
-  "2005-shows-with": null,
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (3)",
+  "2005-shows-with": "Daniel Challe (2)",
   "representing-galleries": null,
   "collecting-museums": "IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
   "first_name": "Daniel",
@@ -43,5 +43,69 @@
   "age": 53,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "126352-10584-2005-12-02",
+        "c": "FR"
+      },
+      {
+        "i": "126352-10584-2005-12-02",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "126352-10244-2006-01-04",
+        "c": "FR"
+      },
+      {
+        "i": "126352-10244-2006-01-04",
+        "c": "FR"
+      },
+      {
+        "i": "126352-20789-2006-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "126352-20789-2006-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "126352-7129-2006-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "126352-7129-2006-09-08",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "126352-19606-2008-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "126352-19606-2008-10-25",
+        "c": "FR"
+      },
+      {
+        "i": "126352-11888-2008-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "126352-11888-2008-03-22",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "126352-11778-2007-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "126352-11778-2007-09-14",
+        "c": "FR"
+      }
+    ]
   }
 }

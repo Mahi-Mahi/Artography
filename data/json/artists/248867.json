@@ -1,7 +1,7 @@
 {
   "id": "248867",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:42:33",
+  "timestamp": "2014-05-24 07:41:42",
   "name": "Thierry Costesèque",
   "surname": "Costesèque",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "64827",
-  "r01": "62014",
-  "r02": "87161",
-  "r03": "81886",
-  "r04": "75372",
-  "r05": null,
+  "r00": "46736",
+  "r01": "53811",
+  "r02": "50362",
+  "r03": "79314",
+  "r04": "73763",
+  "r05": "67135",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -32,7 +32,7 @@
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (3)",
+  "2005-countries-total": "France (4)",
   "2005-shows-with": null,
   "representing-galleries": "Galerie Eric Dupont (138, rue du Temple, 75003 Paris, France)",
   "collecting-museums": null,
@@ -43,5 +43,33 @@
   "age": 44,
   "age_range": "41-60",
   "expos": {
+    "2012": [
+      {
+        "i": "248867-29576-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "248867-29576-2012-07-06",
+        "c": "FR"
+      },
+      {
+        "i": "248867-1876-2012-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "248867-1876-2012-06-07",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "248867-1876-2009-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "248867-1876-2009-03-14",
+        "c": "FR"
+      }
+    ]
   }
 }

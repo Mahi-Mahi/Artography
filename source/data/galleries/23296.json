@@ -16,12 +16,22 @@
   "fairs-abroad": "3",
   "fairs-in-FR": "5",
   "fairs": {
+    "2010": [
+      {
+        "i": "23296-Chic Art Fair 2010",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "23296-SWAB 2011",
         "c": "ES",
         "n": "SWAB 2011",
         "ct": "Barcelona"
+      },
+      {
+        "i": "23296-Chic Art Fair 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -30,6 +40,18 @@
         "c": "US",
         "n": "Scope New York 2012",
         "ct": "New York City, NY"
+      },
+      {
+        "i": "23296-Chic Dessin 2012",
+        "c": "FR"
+      },
+      {
+        "i": "23296-cutlog 2012",
+        "c": "FR"
+      },
+      {
+        "i": "23296-Chic Artfair - À la Cité de la Mode et du Design 2012",
+        "c": "FR"
       }
     ],
     "2013": [

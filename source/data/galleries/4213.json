@@ -16,6 +16,18 @@
   "fairs-abroad": "8",
   "fairs-in-FR": "6",
   "fairs": {
+    "2005": [
+      {
+        "i": "4213-Fiac 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "4213-Fiac 2006",
+        "c": "FR"
+      }
+    ],
     "2007": [
       {
         "i": "4213-Design Miami / Basel 2007",
@@ -30,6 +42,10 @@
         "ct": "London (England)"
       },
       {
+        "i": "4213-Fiac 2007",
+        "c": "FR"
+      },
+      {
         "i": "4213-Design Miami 2007",
         "c": "US",
         "n": "Design Miami 2007",
@@ -42,9 +58,17 @@
         "c": "CH",
         "n": "Design Miami/ Basel 2008",
         "ct": "Basel"
+      },
+      {
+        "i": "4213-Fiac 2008",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "4213-Fiac 2009",
+        "c": "FR"
+      },
       {
         "i": "4213-Art Abu Dhabi 2009",
         "c": "AE",

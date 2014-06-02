@@ -30,9 +30,17 @@
         "c": "CH",
         "n": "Art 37 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "5267-Fiac 2006",
+        "c": "FR"
       }
     ],
     "2007": [
+      {
+        "i": "5267-ArtParis 07",
+        "c": "FR"
+      },
       {
         "i": "5267-Art Brussels 2007- 25th Contemporary Art Fair",
         "c": "BE",
@@ -46,6 +54,10 @@
         "ct": "Basel"
       },
       {
+        "i": "5267-Fiac 2007",
+        "c": "FR"
+      },
+      {
         "i": "5267-ArtParis - AbuDhabi 2007",
         "c": "AE",
         "n": "ArtParis - AbuDhabi 2007",
@@ -53,6 +65,10 @@
       }
     ],
     "2008": [
+      {
+        "i": "5267-ArtParis 08",
+        "c": "FR"
+      },
       {
         "i": "5267-Art Brussels 2008- 26th Contemporary Art Fair",
         "c": "BE",
@@ -64,9 +80,17 @@
         "c": "CH",
         "n": "Art 39 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "5267-Fiac 2008",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "5267-ArtParis 09",
+        "c": "FR"
+      },
       {
         "i": "5267-Art Brussels 2009 - 27th Contemporary Art Fair",
         "c": "BE",
@@ -78,6 +102,14 @@
         "c": "CH",
         "n": "Art 40 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "5267-Fiac 2009",
+        "c": "FR"
+      },
+      {
+        "i": "5267-Paris Photo 2009",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -92,6 +124,14 @@
         "c": "CH",
         "n": "Art 41 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "5267-Fiac 2010",
+        "c": "FR"
+      },
+      {
+        "i": "5267-Paris Photo 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -106,6 +146,14 @@
         "c": "CH",
         "n": "Art 42 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "5267-Fiac 2011",
+        "c": "FR"
+      },
+      {
+        "i": "5267-Paris Photo 2011",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -120,6 +168,24 @@
         "c": "CH",
         "n": "Art 43 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "5267-Fiac 2012",
+        "c": "FR"
+      },
+      {
+        "i": "5267-Paris Photo 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5267-FIAC 2013",
+        "c": "FR"
+      },
+      {
+        "i": "5267-Paris Photo 2013",
+        "c": "FR"
       }
     ]
   }

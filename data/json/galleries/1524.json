@@ -24,10 +24,18 @@
         "ct": "Bologna"
       },
       {
+        "i": "1524-ArtParis 2005",
+        "c": "FR"
+      },
+      {
         "i": "1524-Art 36 Basel",
         "c": "CH",
         "n": "Art 36 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "1524-Fiac 2005",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -38,10 +46,18 @@
         "ct": "Bologna"
       },
       {
+        "i": "1524-ArtParis 06",
+        "c": "FR"
+      },
+      {
         "i": "1524-Art 37 Basel",
         "c": "CH",
         "n": "Art 37 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "1524-Fiac 2006",
+        "c": "FR"
       }
     ],
     "2007": [
@@ -52,10 +68,18 @@
         "ct": "Bologna"
       },
       {
+        "i": "1524-ArtParis 07",
+        "c": "FR"
+      },
+      {
         "i": "1524-Art 38 Basel",
         "c": "CH",
         "n": "Art 38 Basel",
         "ct": "Basel"
+      },
+      {
+        "i": "1524-Fiac 2007",
+        "c": "FR"
       }
     ],
     "2008": [
@@ -64,6 +88,14 @@
         "c": "IT",
         "n": "Arte Fiera 2008",
         "ct": "Bologna"
+      },
+      {
+        "i": "1524-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "1524-Fiac 2008",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -72,6 +104,10 @@
         "c": "IT",
         "n": "Arte Fiera 2009",
         "ct": "Bologna"
+      },
+      {
+        "i": "1524-Fiac 2009",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -86,6 +122,10 @@
         "c": "MA",
         "n": "Marrakech Art Fair",
         "ct": "Marrakech"
+      },
+      {
+        "i": "1524-Fiac 2010",
+        "c": "FR"
       }
     ],
     "2011": [

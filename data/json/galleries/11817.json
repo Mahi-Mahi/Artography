@@ -18,6 +18,10 @@
   "fairs": {
     "2008": [
       {
+        "i": "11817-Art Elysées 2008",
+        "c": "FR"
+      },
+      {
         "i": "11817-Preview Berlin - the emerging art fair - 2008",
         "c": "DE",
         "n": "Preview Berlin - the emerging art fair - 2008",
@@ -36,6 +40,16 @@
         "c": "CH",
         "n": "Scope Basel 2009",
         "ct": "Basel"
+      },
+      {
+        "i": "11817-SLICK 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "11817-Salon du Dessin Contemporain 2010",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -44,6 +58,20 @@
         "c": "AE",
         "n": "Art Dubai 2011",
         "ct": "Dubai"
+      },
+      {
+        "i": "11817-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "11817-Art Elysées 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "11817-Slick Brussels 2012",
+        "c": "FR"
       }
     ]
   }

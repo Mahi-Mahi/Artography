@@ -1,7 +1,7 @@
 {
   "id": "12064",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:55",
+  "timestamp": "2014-05-24 06:19:44",
   "name": "Robert Cahen",
   "surname": "Cahen",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video",
-  "r00": "4656",
-  "r01": "4724",
-  "r02": "4367",
-  "r03": "7144",
-  "r04": "6156",
-  "r05": "5342",
-  "r06": "5894",
-  "r07": "5428",
-  "r08": "4609",
+  "r00": "5066",
+  "r01": "4771",
+  "r02": "4722",
+  "r03": "4143",
+  "r04": "8157",
+  "r05": "6457",
+  "r06": "5235",
+  "r07": "5856",
+  "r08": "5292",
   "awards": null,
   "website": null,
   "all-shows-first": "1977",
-  "all-shows-total": "43",
+  "all-shows-total": "46",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "12",
-  "2005-countries-total": "France (5), China (2), Germany (2), Poland (2), USA (2), Brazil (1), Italy (1), Japan (1), Switzerland (1), United Kingdom (1)",
-  "2005-shows-with": "Robert Cahen (13), Gary Hill (3), Steina & Woody Vasulka (3), Cécile Babiole (2), Skip Blumberg (2), Klaus vom Bruch (2), Mihai Grecu (2), Nan Hoover (2), INCITE/ (2), Sanja Ivekovic (2), Pawel Janicki (2), Karl Heinz Jeron (2), Jaroslaw Kapuscinski (2), Igor Krenz (2), Justyna Misiuk (2), Marcel Odenbach (2), Krists Pudzens (2), Marek Ranis (2), Eric Siu (2), Bill Viola (2)",
+  "2005-shows-museums": "13",
+  "2005-countries-total": "France (6), Germany (3), China (2), Poland (2), USA (2), Brazil (1), Italy (1), Japan (1), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Robert Cahen (15), Gary Hill (3), Steina & Woody Vasulka (3), Cécile Babiole (2), Skip Blumberg (2), Klaus vom Bruch (2), Mihai Grecu (2), Nan Hoover (2), INCITE/ (2), Sanja Ivekovic (2), Pawel Janicki (2), Karl Heinz Jeron (2), Jaroslaw Kapuscinski (2), Igor Krenz (2), Justyna Misiuk (2), Marcel Odenbach (2), Krists Pudzens (2), Marek Ranis (2), Eric Siu (2), Bill Viola (2)",
   "representing-galleries": "Galerie Evelyne Canus (St. Alban-Anlage 67, 4052 Basel, Switzerland)",
   "collecting-museums": "Queensland Art Gallery / Gallery of Modern Art (Stanley Place, South Bank,  Brisbane, QLD, Australia); Espace Croisé (Grand Place, 59059 Roubaix, France); Espace d’Art Contemporain ( les halles ) (rue pierre péquignat 9, 2900 Porrentruy, Switzerland); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
   "first_name": "Robert",
@@ -217,6 +217,10 @@
         ]
       },
       {
+        "i": "12064-27819-2008-11-22",
+        "c": "FR"
+      },
+      {
         "i": "12064-3158-2008-01-17",
         "c": "CH",
         "n": "Robert Cahen",
@@ -227,6 +231,25 @@
         "d": [
           "2008-01-17",
           "2008-03-16"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "12064-27819-2008-11-22",
+        "c": "FR"
+      },
+      {
+        "i": "12064-20587-2009-01-17",
+        "c": "GB",
+        "n": "Robert Cahen: Passage",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Preston, Lancashire (England)",
+        "o": "Harris Museum and Art Gallery",
+        "d": [
+          "2009-01-17",
+          "2009-03-14"
         ]
       }
     ],
@@ -243,6 +266,14 @@
           "2010-11-12",
           "2010-12-03"
         ]
+      },
+      {
+        "i": "12064-14914-2010-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "12064-14914-2010-09-14",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -283,6 +314,10 @@
           "2011-10-07",
           "2012-02-12"
         ]
+      },
+      {
+        "i": "12064-11729-2011-10-12",
+        "c": "FR"
       },
       {
         "i": "12064-2259-2011-01-29",
@@ -326,6 +361,10 @@
         ]
       },
       {
+        "i": "12064-11729-2011-10-12",
+        "c": "FR"
+      },
+      {
         "i": "12064-13702-2012-04-28",
         "c": "DE",
         "n": "Bilder gegen die Dunkelheit - Videokunst aus dem Archiv des imai im KIT",
@@ -366,6 +405,14 @@
         ]
       },
       {
+        "i": "12064-11889-2013-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "12064-11889-2013-06-28",
+        "c": "FR"
+      },
+      {
         "i": "12064-2382-2013-10-05",
         "c": "IT",
         "n": "The Other Portrait",
@@ -377,6 +424,14 @@
           "2013-10-05",
           "2014-01-12"
         ]
+      },
+      {
+        "i": "12064-30307-2013-11-07",
+        "c": "FR"
+      },
+      {
+        "i": "12064-30307-2013-11-07",
+        "c": "FR"
       }
     ],
     "2014": [
@@ -391,21 +446,6 @@
         "d": [
           "2013-10-05",
           "2014-01-12"
-        ]
-      }
-    ],
-    "2009": [
-      {
-        "i": "12064-20587-2009-01-17",
-        "c": "GB",
-        "n": "Robert Cahen: Passage",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Preston, Lancashire (England)",
-        "o": "Harris Museum and Art Gallery",
-        "d": [
-          "2009-01-17",
-          "2009-03-14"
         ]
       }
     ]

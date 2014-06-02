@@ -1,7 +1,7 @@
 {
   "id": "225649",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:33:47",
+  "timestamp": "2014-05-24 07:33:46",
   "name": "David Raffini",
   "surname": "Raffini",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "17074",
-  "r01": "16530",
-  "r02": "15009",
-  "r03": "19601",
-  "r04": "52368",
-  "r05": null,
+  "r00": "12989",
+  "r01": "13510",
+  "r02": "12721",
+  "r03": "11244",
+  "r04": "14742",
+  "r05": "44910",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2009",
-  "all-shows-total": "12",
+  "all-shows-total": "13",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "9",
-  "2005-countries-total": "France (9), Belgium (1), Germany (1), Switzerland (1)",
-  "2005-shows-with": "Florian Pugnaire (11), David Raffini (11), Denis Castellas (2), Cédric Teisseire (2)",
+  "2005-countries-total": "France (9), Belgium (1), Czech Republic (1), Germany (1), Switzerland (1)",
+  "2005-shows-with": "Florian Pugnaire (12), David Raffini (12), Denis Castellas (2), Cédric Teisseire (2)",
   "representing-galleries": "TORRI (7, rue Saint-Claude, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "David",
@@ -43,7 +43,43 @@
   "age": 32,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "225649-2585-2009-06-26",
+        "c": "FR"
+      },
+      {
+        "i": "225649-2585-2009-06-26",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "225649-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "225649-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "225649-1782-2010-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "225649-1782-2010-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "225649-23446-2010-11-27",
+        "c": "FR"
+      }
+    ],
     "2011": [
+      {
+        "i": "225649-23446-2010-11-27",
+        "c": "FR"
+      },
       {
         "i": "225649-8157-2011-04-30",
         "c": "CH",
@@ -56,6 +92,22 @@
           "2011-04-30",
           "2011-05-29"
         ]
+      },
+      {
+        "i": "225649-11886-2011-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "225649-11886-2011-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "225649-10247-2011-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "225649-10247-2011-06-22",
+        "c": "FR"
       },
       {
         "i": "225649-27637-2011-10-13",
@@ -84,6 +136,32 @@
           "2012-06-29",
           "2012-07-28"
         ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "225649-11886-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "225649-11886-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "225649-28278-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "225649-28278-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "225649-28294-2013-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "225649-28294-2013-05-03",
+        "c": "FR"
       }
     ]
   }

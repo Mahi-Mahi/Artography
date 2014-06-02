@@ -1,7 +1,7 @@
 {
   "id": "17082",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:14",
+  "timestamp": "2014-05-24 06:21:44",
   "name": "Bruno Perramant",
   "surname": "Perramant",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "3241",
-  "r01": "3115",
-  "r02": "2806",
-  "r03": "2660",
-  "r04": "2537",
-  "r05": "2333",
-  "r06": "3089",
-  "r07": "2601",
-  "r08": "2554",
+  "r00": "3996",
+  "r01": "4053",
+  "r02": "3848",
+  "r03": "3057",
+  "r04": "2762",
+  "r05": "2551",
+  "r06": "2275",
+  "r07": "3107",
+  "r08": "2462",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "61",
-  "2005-shows-biennials": "10",
-  "2005-shows-galleries": "10",
-  "2005-shows-museums": "13",
-  "2005-countries-total": "France (14), Germany (4), Belgium (3), Italy (1), Portugal (1), Slovakia (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Bruno Perramant (17), Damien Deroubaix (6), Manuel Ocampo (4), Philippe Cognée (3), Eric Corne (3), Fabrice Lauterjung (3), Laurent Montaron (3), Jean-Michel Albèrola (2), Darren Almond (2), Jean-Louis Aroldo (2), Michel Aubry (2), Julien Audebert (2), Francis Bacon (2), Georg Baselitz (2), Eric Baudelaire (2), Marc Bauer (2), Max Beckmann (2), Carole Benzaken (2), Nicole Bianchet (2), Chris Bors (2), Barbara Breitenfellner (2), Damien Cadio (2), Stéphane Couturier (2), Gaston Damag (2), Martin Dammann (2), Nicolas Delprat (2), Maurice Denis (2), Marc Desgrandchamps (2), Richard Fauguet (2), Rainer Fetting (2), Fredox (2), Jean-François Gavoty (2), Damien Hirst (2), Jörg Immendorff (2), Alain Jacquet (2), Alain Josseau (2), Raoul de Keyser (2), Rachel Labastie (2), Emmanuel Lagarrigue (2), Denis Laget (2), Eugène Leroy (2), Joep van Liefland (2), Stu Mead (2), Myriam Mechita (2), Mathieu Mercier (2), Yan Pei Ming (2), Pierre Molinier (2), Frank Möllersten (2), Maël Nozahic (2), Axel Pahlavi (2), João",
+  "all-shows-total": "64",
+  "2005-shows-biennials": "12",
+  "2005-shows-galleries": "12",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "France (16), Belgium (4), Germany (4), Italy (1), Portugal (1), Slovakia (1), Switzerland (1), USA (1)",
+  "2005-shows-with": "Bruno Perramant (19), Damien Deroubaix (6), Manuel Ocampo (4), Philippe Cognée (3), Eric Corne (3), Fabrice Lauterjung (3), Laurent Montaron (3), Ignasi Aballí (2), Jean-Michel Albèrola (2), Darren Almond (2), Jean-Louis Aroldo (2), Michel Aubry (2), Julien Audebert (2), Francis Bacon (2), Rina Banerjee (2), Georg Baselitz (2), Eric Baudelaire (2), Marc Bauer (2), Max Beckmann (2), Carole Benzaken (2), Nicole Bianchet (2), Chris Bors (2), Barbara Breitenfellner (2), Damien Cadio (2), Stéphane Couturier (2), Gaston Damag (2), Martin Dammann (2), Nicolas Delprat (2), Maurice Denis (2), Marc Desgrandchamps (2), Richard Fauguet (2), Rainer Fetting (2), Fredox (2), Hreinn Fridfinnsson (2), Jean-François Gavoty (2), Damien Hirst (2), Jörg Immendorff (2), Alain Jacquet (2), Alain Josseau (2), Raoul de Keyser (2), Rachel Labastie (2), Emmanuel Lagarrigue (2), Denis Laget (2), Eugène Leroy (2), Joep van Liefland (2), Stu Mead (2), Myriam Mechita (2), Mathieu Mercier (2), Yan Pei Ming (2), Pierre Molinier (2), F",
   "representing-galleries": "Meessen De Clercq (Abdijstraat 2 Rue de l'Abbaye, 1000 Brussels, Belgium); in SITU/Fabienne Leclerc (10, rue Duchefdelaville, 75013 Paris, France); Hengesbach Gallery (Charlottenstr. 1, 10969 Berlin, Germany)",
   "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France); FRAC - Alsace (1, espace Gilbert Estève, 67601 Sélestat, France); Musée d´art contemporain du Val-de-Marne MAC/Val (Place de la Libération; Boîte postale 147, 94404 Vitry-sur-Seine, France)",
   "first_name": "Bruno",
@@ -44,6 +44,14 @@
   "age_range": "41-60",
   "expos": {
     "2005": [
+      {
+        "i": "17082-8282-2005-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "17082-8282-2005-04-30",
+        "c": "FR"
+      },
       {
         "i": "17082-3312-2005-09-03",
         "c": "NL",
@@ -97,6 +105,14 @@
           "2006-01-02",
           "2007-02-12"
         ]
+      },
+      {
+        "i": "17082-8997-2006-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "17082-8997-2006-03-24",
+        "c": "FR"
       },
       {
         "i": "17082-3312-2006-06-16",
@@ -229,9 +245,33 @@
           "2007-09-08",
           "2007-10-13"
         ]
+      },
+      {
+        "i": "17082-2037-2007-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "17082-2037-2007-01-27",
+        "c": "FR"
       }
     ],
     "2008": [
+      {
+        "i": "17082-27842-2008-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "17082-27842-2008-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "17082-2219-2008-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "17082-2219-2008-05-07",
+        "c": "FR"
+      },
       {
         "i": "17082-12330-2008-09-15",
         "c": "PT",
@@ -296,6 +336,14 @@
           "2008-04-05",
           "2008-04-20"
         ]
+      },
+      {
+        "i": "17082-2037-2008-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "17082-2037-2008-09-09",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -324,6 +372,38 @@
           "2008-11-07",
           "2009-01-04"
         ]
+      },
+      {
+        "i": "17082-2037-2009-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "17082-2037-2009-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "17082-19790-2009-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "17082-19790-2009-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "17082-17091-2009-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "17082-17091-2009-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "17082-10222-2009-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "17082-10222-2009-09-18",
+        "c": "FR"
       },
       {
         "i": "17082-7146-2009-12-13",
@@ -367,6 +447,22 @@
         ]
       },
       {
+        "i": "17082-8997-2010-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "17082-8997-2010-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "17082-8282-2010-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "17082-8282-2010-05-26",
+        "c": "FR"
+      },
+      {
         "i": "17082-18685-2010-09-10",
         "c": "BE",
         "n": "Objects are like they appear",
@@ -378,6 +474,14 @@
           "2010-09-10",
           "2010-10-23"
         ]
+      },
+      {
+        "i": "17082-2037-2010-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "17082-2037-2010-09-09",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -406,9 +510,29 @@
           "2011-12-09",
           "2012-01-14"
         ]
+      },
+      {
+        "i": "17082-28277-2012-11-09",
+        "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "17082-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "17082-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "17082-8997-2013-06-01",
+        "c": "FR"
+      },
+      {
+        "i": "17082-8997-2013-06-01",
+        "c": "FR"
+      },
       {
         "i": "17082-29109-2013-06-13",
         "c": "SK",
@@ -421,6 +545,10 @@
           "2013-06-13",
           "2013-07-26"
         ]
+      },
+      {
+        "i": "17082-28277-2012-11-09",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -436,6 +564,14 @@
           "2011-04-30",
           "2011-07-09"
         ]
+      },
+      {
+        "i": "17082-2037-2011-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "17082-2037-2011-09-08",
+        "c": "FR"
       },
       {
         "i": "17082-18685-2011-12-09",

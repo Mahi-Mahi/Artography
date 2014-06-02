@@ -1,7 +1,7 @@
 {
   "id": "123034",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:53:40",
+  "timestamp": "2014-05-24 06:58:50",
   "name": "Yann Arthus-Bertrand",
   "surname": "Arthus-Bertrand",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": "Photography",
-  "r00": "25340",
-  "r01": "23427",
-  "r02": "20822",
-  "r03": "24020",
-  "r04": "23596",
-  "r05": "32125",
-  "r06": "33338",
-  "r07": "39187",
-  "r08": "32419",
+  "r00": "22502",
+  "r01": "22316",
+  "r02": "19574",
+  "r03": "17080",
+  "r04": "22711",
+  "r05": "21377",
+  "r06": "35415",
+  "r07": "35865",
+  "r08": "43962",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "11",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (4), South Korea (2), Germany (1), Italy (1), Switzerland (1)",
-  "2005-shows-with": "Yann Arthus-Bertrand (4)",
+  "all-shows-total": "13",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (4), South Korea (2), Germany (1), Italy (1), Luxembourg (1), Switzerland (1)",
+  "2005-shows-with": "Yann Arthus-Bertrand (5)",
   "representing-galleries": "Galerie Louis Carré & Cie (10, avenue de Messine, 75008 Paris, France)",
   "collecting-museums": null,
   "first_name": "Yann",
@@ -70,6 +70,10 @@
           "2008-10-30",
           "2009-01-11"
         ]
+      },
+      {
+        "i": "123034-2009-2007-12-13",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -87,6 +91,22 @@
         ]
       },
       {
+        "i": "123034-19410-2009-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "123034-19410-2009-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "123034-27975-2009-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "123034-27975-2009-07-03",
+        "c": "FR"
+      },
+      {
         "i": "123034-3773-2009-12-09",
         "c": "IT",
         "n": "Salva/guardala! …La terra è sotto i tuoi occhi e nelle tue mani",
@@ -97,6 +117,50 @@
         "d": [
           "2009-12-09",
           "2010-02-28"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "123034-26348-2010-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "123034-26348-2010-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "123034-3983-2010-09-04",
+        "c": "FR"
+      },
+      {
+        "i": "123034-3983-2010-09-04",
+        "c": "FR"
+      },
+      {
+        "i": "123034-3773-2009-12-09",
+        "c": "IT",
+        "n": "Salva/guardala! …La terra è sotto i tuoi occhi e nelle tue mani",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Venice",
+        "o": "Fondazione Querini Stampalia ONLUS",
+        "d": [
+          "2009-12-09",
+          "2010-02-28"
+        ]
+      },
+      {
+        "i": "123034-11355-2010-03-06",
+        "c": "CH",
+        "n": "Yann Arthus Bertrand",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Geneva",
+        "o": "Krisal Galerie",
+        "d": [
+          "2010-03-06",
+          "2010-04-04"
         ]
       }
     ],
@@ -156,32 +220,10 @@
         ]
       }
     ],
-    "2010": [
+    "2007": [
       {
-        "i": "123034-3773-2009-12-09",
-        "c": "IT",
-        "n": "Salva/guardala! …La terra è sotto i tuoi occhi e nelle tue mani",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Venice",
-        "o": "Fondazione Querini Stampalia ONLUS",
-        "d": [
-          "2009-12-09",
-          "2010-02-28"
-        ]
-      },
-      {
-        "i": "123034-11355-2010-03-06",
-        "c": "CH",
-        "n": "Yann Arthus Bertrand",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Geneva",
-        "o": "Krisal Galerie",
-        "d": [
-          "2010-03-06",
-          "2010-04-04"
-        ]
+        "i": "123034-2009-2007-12-13",
+        "c": "FR"
       }
     ]
   }

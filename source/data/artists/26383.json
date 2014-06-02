@@ -1,7 +1,7 @@
 {
   "id": "26383",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:14:21",
+  "timestamp": "2014-05-24 06:25:07",
   "name": "Jean-Pascal Flavien",
   "surname": "Flavien",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "5102",
-  "r01": "5520",
-  "r02": "5438",
-  "r03": "7840",
-  "r04": "7846",
-  "r05": "7231",
-  "r06": "12873",
-  "r07": "26502",
-  "r08": "21714",
+  "r00": "4000",
+  "r01": "4312",
+  "r02": "4563",
+  "r03": "4460",
+  "r04": "6703",
+  "r05": "6607",
+  "r06": "6013",
+  "r07": "11368",
+  "r08": "25426",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "39",
-  "2005-shows-biennials": "13",
-  "2005-shows-galleries": "13",
-  "2005-shows-museums": "12",
-  "2005-countries-total": "France (13), Germany (8), Belgium (3), USA (2), Austria (1), Israel (1), Netherlands (1), Spain (1), United Kingdom (1)",
-  "2005-shows-with": "Jean-Pascal Flavien (25), Julien Bismuth (8), Saâdane Afif (7), Alicja Kwade (4), Cyprien Gaillard (3), Gregor Hildebrandt (3), Catherine Sullivan (3), Claudia Wieser (3), Leonor Antunes (2), John Baldessari (2), Dirk Bell (2), John Bock (2), Monica Bonvicini (2), Ulla von Brandenburg (2), Guy de Cointet (2), Keren Cytter (2), Natalie Czech (2), Jeremy Deller (2), Agathe Fleury (2), Elise Florenty (2), Dora García (2), Geert Goiris (2), Rodney Graham (2), Katharina Grosse (2), Mathew Hale (2), Sejla Kameric (2), Kirsten Mosher (2), Bruce Nauman (2), Hannu Prinz (2), Thomas Rentmeister (2), Jimmy Robert (2), Gerwald Rockenschaub (2), Bojan Sarcevic (2), Josh Smith (2), Sophie-Therese Trenka-Dalton (2), Jeronimo Voss (2), Alexander Wagner (2), Kelley Walker (2), Jessica Warboys (2), Lawrence Weiner (2)",
+  "all-shows-total": "41",
+  "2005-shows-biennials": "14",
+  "2005-shows-galleries": "14",
+  "2005-shows-museums": "13",
+  "2005-countries-total": "France (14), Germany (9), Belgium (4), USA (2), Austria (1), Israel (1), Netherlands (1), Spain (1), United Kingdom (1)",
+  "2005-shows-with": "Jean-Pascal Flavien (27), Julien Bismuth (9), Saâdane Afif (7), Alicja Kwade (4), Cyprien Gaillard (3), Gregor Hildebrandt (3), Jimmy Robert (3), Catherine Sullivan (3), Claudia Wieser (3), Leonor Antunes (2), Vasco Aráujo (2), John Baldessari (2), Dirk Bell (2), Michael Beutler (2), John Bock (2), Monica Bonvicini (2), Ulla von Brandenburg (2), Guy de Cointet (2), Keren Cytter (2), Natalie Czech (2), Jeremy Deller (2), Agathe Fleury (2), Elise Florenty (2), Dora García (2), Geert Goiris (2), Rodney Graham (2), Katharina Grosse (2), Mathew Hale (2), Sejla Kameric (2), Kirsten Mosher (2), Deimantas Narkevicius (2), Bruce Nauman (2), Hannu Prinz (2), Thomas Rentmeister (2), Gerwald Rockenschaub (2), Bojan Sarcevic (2), Miri Segal (2), Josh Smith (2), Sophie-Therese Trenka-Dalton (2), Jeronimo Voss (2), Alexander Wagner (2), Kelley Walker (2), Jessica Warboys (2), Lawrence Weiner (2)",
   "representing-galleries": "Galerie Catherine Bastide (Rue Vandenbrandenstraat 1, 1000 Brussels, Belgium); Esther Schipper (Schöneberger Ufer 65, 10785 Berlin, Germany)",
-  "collecting-museums": "Hiscox Art Projects (1 Great St Helen\\'s, EC3A 6HX London (England), United Kingdom)",
+  "collecting-museums": "Hiscox Art Projects (1 Great St Helen\\'s, EC3A 6HX London, United Kingdom)",
   "first_name": "Jean-Pascal",
   "last_name": "Flavien",
   "genre": "m",
@@ -58,6 +58,10 @@
         ]
       },
       {
+        "i": "26383-8678-2005-12-15",
+        "c": "FR"
+      },
+      {
         "i": "26383-3487-2005-11-11",
         "c": "BE",
         "n": "Jean-Pascal Flavien - A propos des dinosaures...",
@@ -71,7 +75,49 @@
         ]
       }
     ],
+    "2006": [
+      {
+        "i": "26383-8678-2005-12-15",
+        "c": "FR"
+      },
+      {
+        "i": "26383-3487-2005-11-11",
+        "c": "BE",
+        "n": "Jean-Pascal Flavien - A propos des dinosaures...",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "Galerie Catherine Bastide",
+        "d": [
+          "2005-11-11",
+          "2006-01-11"
+        ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "26383-2493-2007-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "26383-3487-2007-10-26",
+        "c": "BE",
+        "n": "Jean-Pascal Flavien - Viewer in Maricá",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "Galerie Catherine Bastide",
+        "d": [
+          "2007-10-26",
+          "2007-12-22"
+        ]
+      }
+    ],
     "2008": [
+      {
+        "i": "26383-2493-2007-09-17",
+        "c": "FR"
+      },
       {
         "i": "26383-255-2008-02-09",
         "c": "US",
@@ -86,6 +132,14 @@
         ]
       },
       {
+        "i": "26383-2585-2008-02-29",
+        "c": "FR"
+      },
+      {
+        "i": "26383-2585-2008-02-29",
+        "c": "FR"
+      },
+      {
         "i": "26383-18189-2008-09-24",
         "c": "IL",
         "n": "Art Focus Jerusalem 2008",
@@ -97,9 +151,41 @@
           "2008-09-24",
           "2008-10-23"
         ]
+      },
+      {
+        "i": "26383-23295-2008-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "26383-23295-2008-10-16",
+        "c": "FR"
+      },
+      {
+        "i": "26383-8282-2008-12-01",
+        "c": "FR"
+      },
+      {
+        "i": "26383-7390-2008-12-11",
+        "c": "FR"
+      },
+      {
+        "i": "26383-11214-2008-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "26383-11214-2008-03-01",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "26383-8282-2008-12-01",
+        "c": "FR"
+      },
+      {
+        "i": "26383-7390-2008-12-11",
+        "c": "FR"
+      },
       {
         "i": "26383-5421-2009-09-25",
         "c": "DE",
@@ -112,9 +198,17 @@
           "2009-09-25",
           "2009-11-07"
         ]
+      },
+      {
+        "i": "26383-2260-2009-10-13",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "26383-2260-2009-10-13",
+        "c": "FR"
+      },
       {
         "i": "26383-22137-2010-03-04",
         "c": "DE",
@@ -129,6 +223,14 @@
         ]
       },
       {
+        "i": "26383-4194-2010-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "26383-4194-2010-09-03",
+        "c": "FR"
+      },
+      {
         "i": "26383-3487-2010-09-11",
         "c": "BE",
         "n": "2000-2010 a celebration of 10 year for the gallery",
@@ -140,6 +242,14 @@
           "2010-09-11",
           "2010-10-30"
         ]
+      },
+      {
+        "i": "26383-1917-2010-09-04",
+        "c": "FR"
+      },
+      {
+        "i": "26383-1917-2010-09-04",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -235,6 +345,10 @@
         ]
       },
       {
+        "i": "26383-6620-2011-12-04",
+        "c": "FR"
+      },
+      {
         "i": "26383-3487-2011-06-10",
         "c": "BE",
         "n": "Jean-Pascal Flavien - night house at daytime",
@@ -263,6 +377,10 @@
         ]
       },
       {
+        "i": "26383-6620-2011-12-04",
+        "c": "FR"
+      },
+      {
         "i": "26383-2087-2012-01-20",
         "c": "DE",
         "n": "The Poster Show",
@@ -276,6 +394,14 @@
         ]
       },
       {
+        "i": "26383-11894-2012-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "26383-11894-2012-03-24",
+        "c": "FR"
+      },
+      {
         "i": "26383-10762-2012-04-22",
         "c": "DE",
         "n": "Jean-Pascal Flavien",
@@ -287,6 +413,14 @@
           "2012-04-22",
           "2012-06-10"
         ]
+      },
+      {
+        "i": "26383-9060-2012-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "26383-9060-2012-06-30",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -302,6 +436,14 @@
           "2013-01-16",
           "2013-03-03"
         ]
+      },
+      {
+        "i": "26383-2718-2013-03-28",
+        "c": "FR"
+      },
+      {
+        "i": "26383-2718-2013-03-28",
+        "c": "FR"
       },
       {
         "i": "26383-8110-2013-04-20",
@@ -328,36 +470,14 @@
           "2013-07-05",
           "2013-08-02"
         ]
-      }
-    ],
-    "2006": [
+      },
       {
-        "i": "26383-3487-2005-11-11",
-        "c": "BE",
-        "n": "Jean-Pascal Flavien - A propos des dinosaures...",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Brussels",
-        "o": "Galerie Catherine Bastide",
-        "d": [
-          "2005-11-11",
-          "2006-01-11"
-        ]
-      }
-    ],
-    "2007": [
+        "i": "26383-21426-2013-10-09",
+        "c": "FR"
+      },
       {
-        "i": "26383-3487-2007-10-26",
-        "c": "BE",
-        "n": "Jean-Pascal Flavien - Viewer in Maricá",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Brussels",
-        "o": "Galerie Catherine Bastide",
-        "d": [
-          "2007-10-26",
-          "2007-12-22"
-        ]
+        "i": "26383-21426-2013-10-09",
+        "c": "FR"
       }
     ]
   }

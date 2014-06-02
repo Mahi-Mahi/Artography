@@ -1,7 +1,7 @@
 {
   "id": "158004",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:07:47",
+  "timestamp": "2014-05-24 07:10:32",
   "name": "Sandra Lorenzi",
   "surname": "Lorenzi",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "16285",
-  "r01": "22886",
-  "r02": "20676",
-  "r03": "36812",
-  "r04": "54027",
-  "r05": "50160",
-  "r06": "43764",
-  "r07": null,
+  "r00": "10957",
+  "r01": "12758",
+  "r02": "18599",
+  "r03": "16342",
+  "r04": "31285",
+  "r05": "49304",
+  "r06": "44955",
+  "r07": "38502",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "8",
+  "all-shows-total": "9",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (6), Germany (1)",
-  "2005-shows-with": "Sandra Lorenzi (5), Lorraine Châteaux (2), Esméralda Da Costa (2)",
+  "2005-countries-total": "France (6), Czech Republic (1), Germany (1)",
+  "2005-shows-with": "Sandra Lorenzi (6), Lorraine Châteaux (2), Esméralda Da Costa (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Sandra",
@@ -43,6 +43,16 @@
   "age": 31,
   "age_range": "26-40",
   "expos": {
+    "2007": [
+      {
+        "i": "158004-2585-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "158004-2585-2007-06-29",
+        "c": "FR"
+      }
+    ],
     "2009": [
       {
         "i": "158004-15472-2009-12-05",
@@ -71,6 +81,60 @@
           "2009-12-05",
           "2010-01-04"
         ]
+      },
+      {
+        "i": "158004-2585-2010-11-19",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "158004-2585-2010-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "158004-10247-2011-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "158004-10247-2011-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "158004-7491-2011-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "158004-7491-2011-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "158004-11868-2011-08-05",
+        "c": "FR"
+      },
+      {
+        "i": "158004-11868-2011-08-05",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "158004-2585-2013-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "158004-1746-2013-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "158004-1746-2013-11-08",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "158004-2585-2013-11-24",
+        "c": "FR"
       }
     ]
   }

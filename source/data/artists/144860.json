@@ -1,7 +1,7 @@
 {
   "id": "144860",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:02:18",
+  "timestamp": "2014-05-24 07:06:00",
   "name": "Benoît Laffiché",
   "surname": "Laffiché",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "37027",
-  "r01": "34729",
-  "r02": "31636",
-  "r03": "40379",
-  "r04": "42316",
-  "r05": "53065",
-  "r06": null,
+  "r00": "22750",
+  "r01": "29245",
+  "r02": "30195",
+  "r03": "26626",
+  "r04": "35251",
+  "r05": "37071",
+  "r06": "47882",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "6",
+  "all-shows-total": "8",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (5), Japan (1)",
-  "2005-shows-with": "Benoît Laffiché (5), Jean-Luc Vilmouth (3), Marie Voignier (3), Adel Abdessemed (2), accès local (2), Boris Achour (2), Ghada Amer (2), Sandy Amério (2), Istvan Balogh (2), Iain Baxter (2), Damien Beguet (2), Alain Bernardini (2), Samuel Bianchini (2), Jean-Marc Chapoulie (2), Chen Chieh-Jen (2), Claude Closky (2), Collectif 1.0.3 (2), Delphine Doukhan (2), Pieter Engels (2), Harun Farocki (2), Hans-Peter Feldmann (2), Robert Filliou (2), Daniel Firman (2), Nicolas Floc\\'h (2), Claire Fontaine (2), Julie-Christine Fortier (2), Raphaël Grisey (2), Eric Hattan (2), Pierre Huyghe (2), Olga Kisseleva (2), Martin Le Chevallier (2), Nadia Lichtig (2), Gilles Mahé (2), Charles Mazé (2), Mathieu Mercier (2), Francis Morandini (2), Gianni Motti (2), Jean-Luc Moulène (2), Frédéric Ollereau (2), Régis Perray (2), Giuseppe Pinot-Gallizio (2), Michelangelo Pistoletto (2), Julien Prévieux (2), Noëlle Pujol (2), Marie Reinert (2), Pascal Rivet (2), Kristina Solomoukha (2), Simon Starling (2), Claudia Triozzi (2",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (7), Japan (1)",
+  "2005-shows-with": "Benoît Laffiché (6), Ghada Amer (3), Nicolas Floc\\'h (3), Jean-Luc Vilmouth (3), Marie Voignier (3), Adel Abdessemed (2), accès local (2), Boris Achour (2), Yuna Amand (2), Sandy Amério (2), Istvan Balogh (2), Iain Baxter (2), Damien Beguet (2), Alain Bernardini (2), Samuel Bianchini (2), Jean-Marc Chapoulie (2), Chen Chieh-Jen (2), Claude Closky (2), Collectif 1.0.3 (2), Delphine Doukhan (2), Pieter Engels (2), Harun Farocki (2), Hans-Peter Feldmann (2), Robert Filliou (2), Daniel Firman (2), Claire Fontaine (2), Julie-Christine Fortier (2), Raphaël Grisey (2), Eric Hattan (2), Pierre Huyghe (2), Olga Kisseleva (2), Martin Le Chevallier (2), Nadia Lichtig (2), Gilles Mahé (2), Charles Mazé (2), Mathieu Mercier (2), Francis Morandini (2), Gianni Motti (2), Jean-Luc Moulène (2), Frédéric Ollereau (2), Régis Perray (2), Giuseppe Pinot-Gallizio (2), Michelangelo Pistoletto (2), Julien Prévieux (2), Noëlle Pujol (2), Marie Reinert (2), Pascal Rivet (2), Allan Sekula (2), Kristina Solomoukha (2), Simo",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Benoît",
@@ -43,6 +43,44 @@
   "age": 44,
   "age_range": "41-60",
   "expos": {
+    "2008": [
+      {
+        "i": "144860-13901-2008-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "144860-13901-2008-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "144860-21802-2008-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "144860-21802-2008-05-16",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "144860-10522-2009-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "144860-10522-2009-05-15",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "144860-10244-2010-10-09",
+        "c": "FR"
+      },
+      {
+        "i": "144860-10244-2010-10-09",
+        "c": "FR"
+      }
+    ],
     "2013": [
       {
         "i": "144860-30037-2013-07-27",
@@ -56,6 +94,16 @@
           "2013-07-27",
           "2013-09-23"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "144860-8542-2011-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "144860-8542-2011-09-09",
+        "c": "FR"
       }
     ]
   }

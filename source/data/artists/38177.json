@@ -1,7 +1,7 @@
 {
   "id": "38177",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:19:24",
+  "timestamp": "2014-05-24 06:29:25",
   "name": "Ludovic Burel",
   "surname": "Burel",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "39850",
-  "r01": "36291",
-  "r02": "32520",
-  "r03": "28866",
-  "r04": "28499",
-  "r05": "27030",
-  "r06": "29259",
-  "r07": "24292",
-  "r08": "19837",
+  "r00": "33062",
+  "r01": "42538",
+  "r02": "45888",
+  "r03": "38328",
+  "r04": "32241",
+  "r05": "30794",
+  "r06": "28331",
+  "r07": "30435",
+  "r08": "24000",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "10",
+  "all-shows-total": "12",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (4)",
-  "2005-shows-with": "Ludovic Burel (4), Nadia Lichtig (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (6)",
+  "2005-shows-with": "Ludovic Burel (6), Claude Closky (3), Céline Duval (3), Hans-Peter Feldmann (3), Jean Claude Lefèvre (3), Jonathan Monk (3), Mark Dion (2), Patrick Dubrac (2), Robert Filliou (2), Marie-Ange Guilleminot (2), Eric Hattan (2), Nadia Lichtig (2), Roberto Martinez (2), Simon Morris (2), Michalis Pichler (2), Julien Prévieux (2), Hubert Renard (2), Yann Sérandour (2), herman de vries (2), Eric Watier (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Ludovic",
@@ -43,5 +43,43 @@
   "age": 56,
   "age_range": "41-60",
   "expos": {
+    "2008": [
+      {
+        "i": "38177-21802-2008-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "38177-21802-2008-05-16",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "38177-18906-2009-05-03",
+        "c": "FR"
+      },
+      {
+        "i": "38177-18906-2009-05-03",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "38177-10244-2010-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "38177-10244-2010-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "38177-19048-2010-10-02",
+        "c": "FR"
+      },
+      {
+        "i": "38177-19048-2010-10-02",
+        "c": "FR"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "113270",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:49:49",
+  "timestamp": "2014-05-24 06:55:28",
   "name": "Françoise Janicot",
   "surname": "Janicot",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "29302",
-  "r01": "29010",
-  "r02": "38830",
-  "r03": "33590",
-  "r04": "28983",
-  "r05": "24499",
-  "r06": "36767",
-  "r07": "30412",
-  "r08": "24870",
+  "r00": "17915",
+  "r01": "17973",
+  "r02": "23660",
+  "r03": "48947",
+  "r04": "42460",
+  "r05": "36487",
+  "r06": "30218",
+  "r07": "65041",
+  "r08": "51025",
   "awards": null,
   "website": null,
   "all-shows-first": "1961",
-  "all-shows-total": "11",
+  "all-shows-total": "13",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "4",
-  "2005-countries-total": "France (2), Denmark (1), Germany (1), Spain (1)",
-  "2005-shows-with": "Françoise Janicot (5), Yoko Ono (5), Orlan (5), Marina Abramovic (4), Maja Bajevic (4), Valie  Export (4), Sanja Ivekovic (4), Joan Jonas (4), Ana Mendieta (4), Charlotte Moorman (4), Martha Rosler (4), Carolee Schneemann (4), Hannah Wilke (4), Nil Yalter (4), Helena Almeida (3), Eleanor Antin (3), Oreet Ashery (3), Renate Bertlmann (3), Nancy Buchanan (3), Theresa Hak Kyung Cha (3), Laura Cottingham (3), Disband (3), Orsolya Drozdik (3), Factory of Found Clothes (3), Esther Ferrer (3), Simone Forti (3), (e.) Twin Gabriel (3), Ghazel (3), Kate Gilmore (3), Mona Hatoum (3), Nan Hoover (3), Tina Keane (3), Verica Kova&#269;evska (3), Elena Kovylina (3), Katarzyna Kozyra (3), Christina Kubisch (3), Verena Kyselka (3), Leslie Labowitz (3), Suzanne Lacy (3), Sigalit Landau (3), Marta Minujín (3), Fina Miralles (3), Linda Montano (3), Tanja Ostojic (3), Gina Pane (3), Ewa Partum (3), Jillian Peña (3), Howardena Pindell (3), Ulrike Rosenbach (3), Boryana Rossa (3), Christine Schlegel (3), Cornelia Schleime (3), B",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (3), Croatia (1), Denmark (1), Germany (1), Spain (1)",
+  "2005-shows-with": "Françoise Janicot (7), Yoko Ono (6), Orlan (6), Marina Abramovic (5), Maja Bajevic (5), Valie  Export (5), Sanja Ivekovic (5), Joan Jonas (5), Ana Mendieta (5), Charlotte Moorman (5), Martha Rosler (5), Carolee Schneemann (5), Hannah Wilke (5), Nil Yalter (5), Helena Almeida (4), Eleanor Antin (4), Oreet Ashery (4), Renate Bertlmann (4), Theresa Hak Kyung Cha (4), Laura Cottingham (4), Disband (4), Orshi Drozdik (4), Factory of Found Clothes (4), Esther Ferrer (4), Simone Forti (4), (e.) Twin Gabriel (4), Ghazel (4), Kate Gilmore (4), Mona Hatoum (4), Nan Hoover (4), Tina Keane (4), Verica Kova&#269;evska (4), Elena Kovylina (4), Katarzyna Kozyra (4), Christina Kubisch (4), Verena Kyselka (4), Leslie Labowitz (4), Suzanne Lacy (4), Sigalit Landau (4), Marta Minujín (4), Fina Miralles (4), Linda Montano (4), Tanja Ostojic (4), Gina Pane (4), Ewa Partum (4), Jillian Peña (4), Howardena Pindell (4), Ulrike Rosenbach (4), Boryana Rossa (4), Christine Schlegel (4), Cornelia Schleime (4), Bonnie Sherk (4), Corne",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France)",
   "first_name": "Françoise",
@@ -43,6 +43,16 @@
   "age": 85,
   "age_range": "61-100",
   "expos": {
+    "2006": [
+      {
+        "i": "113270-4218-2006-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "113270-4218-2006-09-21",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "113270-2300-2008-12-13",
@@ -71,6 +81,16 @@
           "2008-12-13",
           "2009-02-08"
         ]
+      },
+      {
+        "i": "113270-2219-2009-05-27",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "113270-2219-2009-05-27",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -114,6 +134,14 @@
           "2012-11-16",
           "2013-02-17"
         ]
+      },
+      {
+        "i": "113270-10825-2013-09-21",
+        "c": "FR"
+      },
+      {
+        "i": "113270-10825-2013-09-21",
+        "c": "FR"
       }
     ]
   }

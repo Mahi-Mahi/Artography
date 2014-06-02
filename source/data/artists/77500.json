@@ -1,7 +1,7 @@
 {
   "id": "77500",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:35:31",
+  "timestamp": "2014-05-24 06:43:21",
   "name": "Olga Boldyreff",
   "surname": "Boldyreff",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "16163",
-  "r01": "14411",
-  "r02": "16770",
-  "r03": "14620",
-  "r04": "12374",
-  "r05": "10752",
-  "r06": "9208",
-  "r07": "10514",
-  "r08": "8319",
+  "r00": "19855",
+  "r01": "21618",
+  "r02": "18381",
+  "r03": "28010",
+  "r04": "22305",
+  "r05": "16922",
+  "r06": "13641",
+  "r07": "10781",
+  "r08": "13203",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "18",
+  "all-shows-total": "19",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (4)",
-  "2005-shows-with": "Olga Boldyreff (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (4), United Kingdom (1)",
+  "2005-shows-with": "Olga Boldyreff (3)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France)",
   "first_name": "Olga",
@@ -43,6 +43,29 @@
   "age": 57,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "77500-29576-2005-07-02",
+        "c": "FR"
+      },
+      {
+        "i": "77500-29576-2005-07-02",
+        "c": "FR"
+      },
+      {
+        "i": "77500-24752-2005-09-09",
+        "c": "BE",
+        "n": "Les Clandestines",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Hasselt",
+        "o": "CIAP",
+        "d": [
+          "2005-09-09",
+          "2005-11-13"
+        ]
+      }
+    ],
     "2007": [
       {
         "i": "77500-2625-2007-01-19",
@@ -110,21 +133,44 @@
           "2007-10-12",
           "2008-01-31"
         ]
+      },
+      {
+        "i": "77500-10679-2008-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "77500-10679-2008-03-15",
+        "c": "FR"
       }
     ],
-    "2005": [
+    "2011": [
       {
-        "i": "77500-24752-2005-09-09",
-        "c": "BE",
-        "n": "Les Clandestines",
-        "t": "Autre",
-        "st": "Solo",
-        "ct": "Hasselt",
-        "o": "CIAP",
-        "d": [
-          "2005-09-09",
-          "2005-11-13"
-        ]
+        "i": "77500-28742-2011-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "77500-28742-2011-04-01",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "77500-11845-2012-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "77500-11845-2012-03-21",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "77500-17085-2009-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "77500-17085-2009-03-07",
+        "c": "FR"
       }
     ]
   }

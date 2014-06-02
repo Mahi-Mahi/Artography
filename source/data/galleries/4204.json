@@ -22,6 +22,10 @@
         "c": "RU",
         "n": "Art Moscow 2005",
         "ct": "Moscow"
+      },
+      {
+        "i": "4204-Fiac 2005",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -33,6 +37,10 @@
       }
     ],
     "2007": [
+      {
+        "i": "4204-ArtParis 07",
+        "c": "FR"
+      },
       {
         "i": "4204-SWAB 2007",
         "c": "ES",
@@ -54,6 +62,14 @@
     ],
     "2008": [
       {
+        "i": "4204-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "4204-Show Off Paris 2008",
+        "c": "FR"
+      },
+      {
         "i": "4204-ArtParis - AbuDhabi 2008",
         "c": "AE",
         "n": "ArtParis - AbuDhabi 2008",
@@ -66,6 +82,12 @@
         "ct": "Miami, FL"
       }
     ],
+    "2009": [
+      {
+        "i": "4204-ArtParis 09",
+        "c": "FR"
+      }
+    ],
     "2010": [
       {
         "i": "4204-ARCOmadrid  2010",
@@ -74,13 +96,35 @@
         "ct": "Madrid"
       },
       {
+        "i": "4204-ArtParis 2010",
+        "c": "FR"
+      },
+      {
         "i": "4204-Marrakech Art Fair",
         "c": "MA",
         "n": "Marrakech Art Fair",
         "ct": "Marrakech"
       }
     ],
+    "2011": [
+      {
+        "i": "4204-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "4204-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "4204-DocksArtFair 2011",
+        "c": "FR"
+      }
+    ],
     "2012": [
+      {
+        "i": "4204-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
       {
         "i": "4204-Cologne Paper Art 2012",
         "c": "DE",
@@ -92,6 +136,12 @@
         "c": "AT",
         "n": "Viennafair 2012",
         "ct": "Vienna"
+      }
+    ],
+    "2013": [
+      {
+        "i": "4204-Art Paris Art Fair 2013",
+        "c": "FR"
       }
     ]
   }

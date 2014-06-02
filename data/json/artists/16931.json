@@ -1,7 +1,7 @@
 {
   "id": "16931",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:10:11",
+  "timestamp": "2014-05-24 06:21:40",
   "name": "Claude Bellegarde",
   "surname": "Bellegarde",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "42895",
-  "r01": "41879",
-  "r02": "38060",
-  "r03": "34344",
-  "r04": "44796",
-  "r05": "40190",
-  "r06": "34569",
-  "r07": "63787",
-  "r08": "55126",
+  "r00": "43556",
+  "r01": "43768",
+  "r02": "42209",
+  "r03": "36600",
+  "r04": "31704",
+  "r05": "42902",
+  "r06": "37349",
+  "r07": "31414",
+  "r08": "63533",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
   "all-shows-total": "6",
-  "2005-shows-biennials": "1",
-  "2005-shows-galleries": "1",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
   "2005-shows-museums": "2",
-  "2005-countries-total": "Italy (2), France (1)",
+  "2005-countries-total": "France (2), Italy (2)",
   "2005-shows-with": "Claude Bellegarde (3), Karel Appel (2), Mattia Moreni (2), Emilio Scanavino (2), Antoni Tàpies (2), Emilio Vedova (2)",
-  "representing-galleries": "ARTEMPER (11 rue Boulard, 75014 Paris, France); Galerie Larock-Granoff (13, quai de Conti, 75006 Paris, France); Riff Art Projects (Firuza&#287;a Mh. Defterdar Yoku&#351;u 1,  Istanbul, Turkey); Hanina Gallery (180 Westbourne Grove, W11 2RH London (England), United Kingdom)",
-  "collecting-museums": "National Gallery of Canada - Musée des beaux-arts du Canada (Sussex Drive 380, K1N 9N4 Ottawa, ON, Canada); Tate Britain (Millbank, SW1P 4RG London (England), United Kingdom)",
+  "representing-galleries": "ARTEMPER (11 rue Boulard, 75014 Paris, France); Galerie Larock-Granoff (13, quai de Conti, 75006 Paris, France); Riff Art Projects (Firuza&#287;a Mh. Defterdar Yoku&#351;u 1,  Istanbul, Turkey); Hanina Gallery (180 Westbourne Grove, W11 2RH London, United Kingdom)",
+  "collecting-museums": "National Gallery of Canada - Musée des beaux-arts du Canada (Sussex Drive 380, K1N 9N4 Ottawa, ON, Canada); Tate Britain (Millbank, SW1P 4RG London, United Kingdom)",
   "first_name": "Claude",
   "last_name": "Bellegarde",
   "genre": "m",
@@ -58,7 +58,17 @@
         ]
       }
     ],
+    "2009": [
+      {
+        "i": "16931-23221-2009-12-04",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "16931-23221-2009-12-04",
+        "c": "FR"
+      },
       {
         "i": "16931-6610-2010-12-11",
         "c": "IT",

@@ -1,7 +1,7 @@
 {
   "id": "221711",
   "mergedIDs": "95673",
-  "timestamp": "2014-02-22 07:32:16",
+  "timestamp": "2014-05-24 07:32:26",
   "name": "Michel Castaignet",
   "surname": "Castaignet",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "28089",
-  "r01": "28355",
-  "r02": "27422",
-  "r03": "32674",
-  "r04": "39112",
-  "r05": "43096",
-  "r06": "48161",
-  "r07": "53706",
-  "r08": null,
+  "r00": "25369",
+  "r01": "24683",
+  "r02": "24762",
+  "r03": "23302",
+  "r04": "28030",
+  "r05": "33820",
+  "r06": "37170",
+  "r07": "44368",
+  "r08": "50474",
   "awards": null,
   "website": "michelcastaignet.free.fr",
   "all-shows-first": "2006",
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "16",
   "2005-shows-galleries": "16",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (14), Russia (3), Latvia (2), Belgium (1), China (1), Spain (1), United Kingdom (1)",
-  "2005-shows-with": "Michel Castaignet (17), Joseph Choi (6), Hervé Ic (6), Cyril Hatt (5), John Cornu (4), Nataliya Lyakh (4), Guillaume Constantin (2), Federico G. Granell (2), Xavier de Maisonneuve (2), Julien Mijangos (2), Julie Perin (2), Claude Rutault (2), Nathalie Tacheau (2)",
+  "2005-countries-total": "France (15), Russia (3), Latvia (2), Belgium (1), China (1), Spain (1), United Kingdom (1)",
+  "2005-shows-with": "Michel Castaignet (18), Joseph Choi (6), Hervé Ic (6), Cyril Hatt (5), John Cornu (4), Nataliya Lyakh (4), Benjamin Bozonnet (2), Guillaume Constantin (2), Federico G. Granell (2), Xavier de Maisonneuve (2), Julien Mijangos (2), Julie Perin (2), Claude Rutault (2), Nathalie Tacheau (2)",
   "representing-galleries": "Galerie Nivet-Carzon (40, rue Mazarine, 75006 Paris, France); Maksla XO Gallery (Sk&#257;r&#326;u 8,  Riga, Latvia)",
   "collecting-museums": null,
   "first_name": "Michel",
@@ -55,9 +55,93 @@
           "2006-09-21",
           "2006-10-10"
         ]
+      },
+      {
+        "i": "221711-5739-2006-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "221711-5739-2006-11-14",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "221711-16728-2008-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2008-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2008-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2008-03-27",
+        "c": "FR"
+      },
+      {
+        "i": "221711-29391-2008-04-27",
+        "c": "FR"
+      },
+      {
+        "i": "221711-29391-2008-04-27",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "221711-13364-2009-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "221711-13364-2009-05-19",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2009-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2009-06-25",
+        "c": "FR"
+      },
+      {
+        "i": "221711-19804-2009-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "221711-19804-2009-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2009-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2009-04-03",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "221711-7999-2010-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "221711-7999-2010-02-09",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2010-10-07",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2010-10-07",
+        "c": "FR"
+      },
       {
         "i": "221711-8588-2010-10-07",
         "c": "RU",
@@ -98,6 +182,45 @@
         ]
       }
     ],
+    "2011": [
+      {
+        "i": "221711-16728-2011-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2011-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2011-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2011-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "221711-20044-2011-03-10",
+        "c": "LV",
+        "n": "Michel Castaignet - In Memoriam Europe",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Riga",
+        "o": "Maksla XO Gallery",
+        "d": [
+          "2011-03-10",
+          "2011-04-05"
+        ]
+      },
+      {
+        "i": "221711-16728-2011-11-17",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2011-11-17",
+        "c": "FR"
+      }
+    ],
     "2012": [
       {
         "i": "221711-20044-2012-06-28",
@@ -127,6 +250,22 @@
       }
     ],
     "2013": [
+      {
+        "i": "221711-29392-2013-03-02",
+        "c": "FR"
+      },
+      {
+        "i": "221711-29392-2013-03-02",
+        "c": "FR"
+      },
+      {
+        "i": "221711-29392-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "221711-29392-2013-04-06",
+        "c": "FR"
+      },
       {
         "i": "221711-29403-2013-04-18",
         "c": "BE",
@@ -180,19 +319,14 @@
         ]
       }
     ],
-    "2011": [
+    "2007": [
       {
-        "i": "221711-20044-2011-03-10",
-        "c": "LV",
-        "n": "Michel Castaignet - In Memoriam Europe",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Riga",
-        "o": "Maksla XO Gallery",
-        "d": [
-          "2011-03-10",
-          "2011-04-05"
-        ]
+        "i": "221711-16728-2007-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "221711-16728-2007-04-05",
+        "c": "FR"
       }
     ]
   }

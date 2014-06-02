@@ -1,7 +1,7 @@
 {
   "id": "60981",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:28:44",
+  "timestamp": "2014-05-24 06:37:32",
   "name": "Xavier Escribà",
   "surname": "Escribà",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "36323",
-  "r01": "33449",
-  "r02": "29966",
-  "r03": "30506",
-  "r04": "26893",
-  "r05": "32795",
-  "r06": "28617",
-  "r07": "23887",
-  "r08": "29740",
+  "r00": "39905",
+  "r01": "44643",
+  "r02": "38366",
+  "r03": "31649",
+  "r04": "31804",
+  "r05": "26470",
+  "r06": "33973",
+  "r07": "28400",
+  "r08": "22908",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "9",
+  "all-shows-total": "10",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "Spain (3), France (2)",
-  "2005-shows-with": null,
+  "2005-shows-museums": "2",
+  "2005-countries-total": "France (3), Spain (3)",
+  "2005-shows-with": "Xavier Escribà (2)",
   "representing-galleries": "Galería Marita Segovia (Calle Lagasca 7, 28016 Madrid, Spain)",
   "collecting-museums": null,
   "first_name": "Xavier",
@@ -43,6 +43,16 @@
   "age": 45,
   "age_range": "41-60",
   "expos": {
+    "2008": [
+      {
+        "i": "60981-1531-2008-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "60981-1531-2008-07-03",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "60981-11404-2006-02-02",
@@ -56,6 +66,14 @@
           "2006-02-02",
           "2006-03-04"
         ]
+      },
+      {
+        "i": "60981-1531-2006-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "60981-1531-2006-10-05",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -71,6 +89,14 @@
           "2009-01-12",
           "2009-02-28"
         ]
+      },
+      {
+        "i": "60981-1531-2009-02-19",
+        "c": "FR"
+      },
+      {
+        "i": "60981-1531-2009-02-19",
+        "c": "FR"
       }
     ],
     "2011": [

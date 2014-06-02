@@ -1,7 +1,7 @@
 {
   "id": "217808",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:30:44",
+  "timestamp": "2014-05-24 07:31:06",
   "name": "Roselyne Titaud",
   "surname": "Titaud",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "42347",
-  "r01": "38965",
-  "r02": "35356",
-  "r03": "31619",
-  "r04": "40534",
-  "r05": "41026",
-  "r06": "35371",
-  "r07": "29892",
-  "r08": "30409",
+  "r00": "33905",
+  "r01": "50097",
+  "r02": "42829",
+  "r03": "36310",
+  "r04": "30881",
+  "r05": "41772",
+  "r06": "42368",
+  "r07": "35069",
+  "r08": "28951",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
   "all-shows-total": "8",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
-  "2005-shows-museums": null,
-  "2005-countries-total": "France (2), Germany (1), Spain (1)",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (2), Germany (2), Spain (1)",
   "2005-shows-with": "Roselyne Titaud (2)",
   "representing-galleries": null,
   "collecting-museums": null,
@@ -43,7 +43,25 @@
   "age": 37,
   "age_range": "26-40",
   "expos": {
+    "2009": [
+      {
+        "i": "217808-8911-2009-09-24",
+        "c": "FR"
+      },
+      {
+        "i": "217808-11778-2009-02-27",
+        "c": "FR"
+      },
+      {
+        "i": "217808-11778-2009-02-27",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "217808-8911-2009-09-24",
+        "c": "FR"
+      },
       {
         "i": "217808-12652-2010-06-27",
         "c": "DE",
@@ -68,6 +86,16 @@
           "2010-11-17",
           "2011-01-28"
         ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "217808-27918-2006-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "217808-27918-2006-09-15",
+        "c": "FR"
       }
     ],
     "2011": [

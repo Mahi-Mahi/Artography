@@ -1,7 +1,7 @@
 {
   "id": "106909",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:47:11",
+  "timestamp": "2014-05-24 06:53:16",
   "name": "Eric Michel",
   "surname": "Michel",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "18482",
-  "r01": "17957",
-  "r02": "37614",
-  "r03": "38532",
-  "r04": "40558",
-  "r05": "92474",
-  "r06": "84219",
-  "r07": "85070",
+  "r00": "11819",
+  "r01": "11966",
+  "r02": "11214",
+  "r03": "21409",
+  "r04": "29962",
+  "r05": "31105",
+  "r06": "91864",
+  "r07": "83459",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "15",
+  "all-shows-total": "16",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (8), Austria (2), USA (2), Germany (1), United Kingdom (1)",
-  "2005-shows-with": "Eric Michel (10), Heidulf Gerngross (3), Manfred Kielnhofer (3), Christoph Luckeneder (3), Alexandre Murucci (3), Peter Sandbichler (3), Martina Schettina (3), Karin Sulimma (3), Mounty R. P. Zentara (3), Alfredo Jaar (2), Manfred Koutek (2), Pomodoro Bolzano (2), Manabu Shimada (2), Nitram Martin Stockinger (2), Karina Wellmer-Schnell (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (9), Austria (2), USA (2), Germany (1), United Kingdom (1)",
+  "2005-shows-with": "Eric Michel (11), Heidulf Gerngross (3), Manfred Kielnhofer (3), Christoph Luckeneder (3), Alexandre Murucci (3), Peter Sandbichler (3), Martina Schettina (3), Karin Sulimma (3), Mounty R. P. Zentara (3), Alfredo Jaar (2), Manfred Koutek (2), Pomodoro Bolzano (2), Martial Raysse (2), Manabu Shimada (2), Nitram Martin Stockinger (2), Karina Wellmer-Schnell (2)",
   "representing-galleries": null,
   "collecting-museums": "Borusan Contemporary (Baltaliman&#305; Hisar Street, Perili Kö&#351;k No:5, 34470 Rumelihisar&#305;, Sariyer,  Istanbul, Turkey)",
   "first_name": "Eric",
@@ -58,7 +58,25 @@
         ]
       }
     ],
+    "2007": [
+      {
+        "i": "106909-5739-2007-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "106909-5739-2007-05-12",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "106909-29884-2010-03-26",
+        "c": "FR"
+      },
+      {
+        "i": "106909-29884-2010-03-26",
+        "c": "FR"
+      },
       {
         "i": "106909-12518-2010-09-01",
         "c": "AT",
@@ -113,6 +131,14 @@
     ],
     "2011": [
       {
+        "i": "106909-21757-2011-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "106909-21757-2011-09-09",
+        "c": "FR"
+      },
+      {
         "i": "106909-29939-2011-11-18",
         "c": "US",
         "n": "Light Fiction",
@@ -139,6 +165,46 @@
           "2011-11-18",
           "2012-02-28"
         ]
+      },
+      {
+        "i": "106909-7811-2012-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "106909-7811-2012-02-17",
+        "c": "FR"
+      },
+      {
+        "i": "106909-12220-2012-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "106909-12220-2012-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "106909-21757-2012-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "106909-21757-2012-03-17",
+        "c": "FR"
+      },
+      {
+        "i": "106909-21757-2012-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "106909-21757-2012-06-08",
+        "c": "FR"
+      },
+      {
+        "i": "106909-21757-2012-07-29",
+        "c": "FR"
+      },
+      {
+        "i": "106909-21757-2012-07-29",
+        "c": "FR"
       }
     ],
     "2013": [
@@ -169,6 +235,16 @@
           "2013-10-17",
           "2014-01-31"
         ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "106909-741-2009-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "106909-741-2009-04-11",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "53228",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:25:26",
+  "timestamp": "2014-05-24 06:34:47",
   "name": "Damir Radovic",
   "surname": "Radovic",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "28401",
-  "r01": "29881",
-  "r02": "30937",
-  "r03": "41756",
-  "r04": "41859",
-  "r05": "37140",
-  "r06": "33946",
-  "r07": "29004",
-  "r08": "32367",
+  "r00": "28313",
+  "r01": "27094",
+  "r02": "27554",
+  "r03": "27956",
+  "r04": "40697",
+  "r05": "41259",
+  "r06": "35358",
+  "r07": "31665",
+  "r08": "26439",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -33,7 +33,7 @@
   "2005-shows-galleries": "4",
   "2005-shows-museums": "3",
   "2005-countries-total": "Germany (5), France (3), Bosnia and Herzegovina (1)",
-  "2005-shows-with": "Damir Radovic (6), Adela Jusic (2)",
+  "2005-shows-with": "Damir Radovic (6), Baptiste Debombourg (2), Adela Jusic (2)",
   "representing-galleries": "Krupic Kersting Galerie - kuk (Jülicher Strasse  14, 50674 Cologne, Germany)",
   "collecting-museums": null,
   "first_name": "Damir",
@@ -43,6 +43,16 @@
   "age": 38,
   "age_range": "26-40",
   "expos": {
+    "2005": [
+      {
+        "i": "53228-2528-2005-10-07",
+        "c": "FR"
+      },
+      {
+        "i": "53228-2528-2005-10-07",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "53228-8441-2006-09-20",
@@ -74,6 +84,14 @@
       }
     ],
     "2008": [
+      {
+        "i": "53228-8993-2008-02-23",
+        "c": "FR"
+      },
+      {
+        "i": "53228-8993-2008-02-23",
+        "c": "FR"
+      },
       {
         "i": "53228-17316-2008-04-16",
         "c": "DE",
@@ -146,6 +164,14 @@
           "2013-01-15",
           "2013-02-16"
         ]
+      },
+      {
+        "i": "53228-27918-2013-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "53228-27918-2013-01-25",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -161,6 +187,14 @@
           "2012-03-31",
           "2012-05-25"
         ]
+      },
+      {
+        "i": "53228-22373-2012-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "53228-22373-2012-06-30",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "285291",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:56:56",
+  "timestamp": "2014-05-24 07:54:11",
   "name": "Winshluss",
   "surname": "Winshluss",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Film Director",
-  "r00": "22623",
-  "r01": "21334",
-  "r02": "32730",
-  "r03": "29651",
-  "r04": "41421",
-  "r05": "89109",
-  "r06": null,
+  "r00": "18939",
+  "r01": "18810",
+  "r02": "16972",
+  "r03": "27664",
+  "r04": "24371",
+  "r05": "35098",
+  "r06": "87480",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "6",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (5), Spain (1)",
-  "2005-shows-with": "Winshluss (3)",
+  "2005-countries-total": "France (6), Spain (1)",
+  "2005-shows-with": "Winshluss (4), Eric Duyckaerts (2)",
   "representing-galleries": "Galerie Georges-Philippe & Nathalie Vallois (36 , rue de Seine, 75006 Paris, France)",
   "collecting-museums": null,
   "first_name": "Winshluss",
@@ -43,6 +43,16 @@
   "age": 44,
   "age_range": "41-60",
   "expos": {
+    "2010": [
+      {
+        "i": "285291-8568-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "285291-8568-2010-10-01",
+        "c": "FR"
+      }
+    ],
     "2012": [
       {
         "i": "285291-18338-2012-06-28",
@@ -56,6 +66,44 @@
           "2012-06-28",
           "2012-09-02"
         ]
+      },
+      {
+        "i": "285291-1953-2012-03-09",
+        "c": "FR"
+      },
+      {
+        "i": "285291-1953-2012-03-09",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "285291-16752-2013-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "285291-16752-2013-03-01",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "285291-19738-2008-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "285291-19738-2008-11-08",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "285291-1953-2009-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "285291-1953-2009-09-11",
+        "c": "FR"
       }
     ]
   }

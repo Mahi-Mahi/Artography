@@ -1,7 +1,7 @@
 {
   "id": "185498",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:18:19",
+  "timestamp": "2014-05-24 07:20:00",
   "name": "Vincent Michea",
   "surname": "Michea",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "77736",
-  "r01": "75932",
-  "r02": "84138",
-  "r03": "78640",
-  "r04": "72036",
-  "r05": "75444",
-  "r06": "67802",
-  "r07": "74881",
-  "r08": null,
+  "r00": "63741",
+  "r01": "63809",
+  "r02": "63934",
+  "r03": "78847",
+  "r04": "72605",
+  "r05": "65484",
+  "r06": "70914",
+  "r07": "62881",
+  "r08": "74143",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
@@ -34,7 +34,7 @@
   "2005-shows-museums": null,
   "2005-countries-total": "Germany (1), Ivory Coast (1), Senegal (1), United Kingdom (1)",
   "2005-shows-with": null,
-  "representing-galleries": "Sebastian Brandl (Brüsseler Str. 4, 50674 Cologne, Germany); Galerie Cécile Fakhoury (Boulevard Latrille, Cocody, 06 BP 6499 Abidjan, Ivory Coast); Jack Bell Gallery (13 Masons Yard, St James\\\\\\'s, SW1Y 6BU London (England), United Kingdom)",
+  "representing-galleries": "Sebastian Brandl (Brüsseler Str. 4, 50674 Cologne, Germany); Galerie Cécile Fakhoury (Boulevard Latrille, Cocody, 06 BP 6499 Abidjan, Ivory Coast); Jack Bell Gallery (13 Masons Yard, St James\\\\\\'s, SW1Y 6BU London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "Vincent",
   "last_name": "Michea",
@@ -71,6 +71,14 @@
           "2006-10-26",
           "2007-02-11"
         ]
+      },
+      {
+        "i": "185498-29550-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "185498-29550-2007-09-15",
+        "c": "FR"
       },
       {
         "i": "185498-16740-2007-12-08",

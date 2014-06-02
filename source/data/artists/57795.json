@@ -1,7 +1,7 @@
 {
   "id": "57795",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:25",
+  "timestamp": "2014-05-24 06:36:24",
   "name": "Gabriel Anastassios",
   "surname": "Anastassios",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "68970",
-  "r01": "65873",
-  "r02": "60725",
-  "r03": "55764",
-  "r04": "49903",
-  "r05": "44597",
-  "r06": "38639",
-  "r07": "78264",
-  "r08": "68634",
+  "r00": "75875",
+  "r01": "72627",
+  "r02": "66187",
+  "r03": "59052",
+  "r04": "52551",
+  "r05": "45944",
+  "r06": "39868",
+  "r07": "33896",
+  "r08": "78615",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
@@ -34,7 +34,7 @@
   "2005-shows-museums": null,
   "2005-countries-total": null,
   "2005-shows-with": null,
-  "representing-galleries": "Opera Gallery (356, rue Saint-Honoré, 75001 Paris, France); Opera Gallery (Via XXII Marzo, San Marco 2288, 30124 Venice, Italy); Opera Gallery (391 Orchard Road 02-12,  Singapore, Singapore); Opera Gallery (134 New Bond Street, W1S 2TF London (England), United Kingdom); Opera Gallery (9700 Collins Avenue, 33154 Bal Harbour, FL, USA)",
+  "representing-galleries": "Opera Gallery (356, rue Saint-Honoré, 75001 Paris, France); Opera Gallery (Via XXII Marzo, San Marco 2288, 30124 Venice, Italy); Opera Gallery (391 Orchard Road 02-12,  Singapore, Singapore); Opera Gallery (134 New Bond Street, W1S 2TF London, United Kingdom); Opera Gallery (9700 Collins Avenue, 33154 Bal Harbour, FL, USA)",
   "collecting-museums": null,
   "first_name": "Gabriel",
   "last_name": "Anastassios",
@@ -43,5 +43,33 @@
   "age": 62,
   "age_range": "61-100",
   "expos": {
+    "2005": [
+      {
+        "i": "57795-5466-2005-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "57795-5466-2005-05-27",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "57795-9475-2007-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "57795-9475-2007-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "57795-7709-2007-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "57795-7709-2007-06-14",
+        "c": "FR"
+      }
+    ]
   }
 }

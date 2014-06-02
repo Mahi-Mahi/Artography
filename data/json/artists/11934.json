@@ -1,7 +1,7 @@
 {
   "id": "11934",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:07:52",
+  "timestamp": "2014-05-24 06:19:41",
   "name": "Caroline Bach",
   "surname": "Bach",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "49306",
-  "r01": "55523",
-  "r02": "52120",
-  "r03": "54455",
-  "r04": "50116",
-  "r05": "44408",
-  "r06": "41282",
-  "r07": "48713",
-  "r08": "42865",
+  "r00": "42363",
+  "r01": "40715",
+  "r02": "46959",
+  "r03": "43469",
+  "r04": "51317",
+  "r05": "45600",
+  "r06": "38933",
+  "r07": "35751",
+  "r08": "45034",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "15",
-  "2005-shows-biennials": "6",
-  "2005-shows-galleries": "6",
+  "all-shows-total": "17",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (7)",
-  "2005-shows-with": "Caroline Bach (6), Han Hoogerbrugge (4), Damien Berthier (3), Thierry Lagalla (3), Florent Mattei (3), Emmanuel Régent (2), Karine Rougier (2), Stephane Steiner (2)",
-  "representing-galleries": "Espace A Vendre (17 rue Smolett, 06300 Nice, France); Le CABINET (62, Rue Saint Sabin, 75011 Paris, France)",
+  "2005-countries-total": "France (9)",
+  "2005-shows-with": "Caroline Bach (8), Han Hoogerbrugge (6), Thierry Lagalla (5), Florent Mattei (5), Emmanuel Régent (5), Stephane Steiner (5), Damien Berthier (4), Arnaud Labelle-Rojoux (4), Karine Rougier (4), Thierry Agnone (3), Michel de Broin (3), Stéphane Protic (3), Jerôme Robbe (3), Julien Blaine (2), Claire Dantzer (2), Lionel Scoccimaro (2), Sabry Tchalgadjieff (2)",
+  "representing-galleries": "Espace A Vendre (17 rue Smolett, 06300 Nice, France); Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France)",
   "collecting-museums": null,
   "first_name": "Caroline",
   "last_name": "Bach",
@@ -43,5 +43,111 @@
   "age": 46,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "11934-16752-2005-04-14",
+        "c": "FR"
+      },
+      {
+        "i": "11934-16752-2005-04-14",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "11934-16752-2006-02-04",
+        "c": "FR"
+      },
+      {
+        "i": "11934-16752-2006-02-04",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "11934-16752-2007-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "11934-16752-2007-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "11934-16752-2007-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "11934-16752-2007-01-26",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "11934-16752-2008-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "11934-16752-2008-05-30",
+        "c": "FR"
+      },
+      {
+        "i": "11934-19953-2008-12-12",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "11934-19953-2008-12-12",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "11934-16752-2010-11-27",
+        "c": "FR"
+      },
+      {
+        "i": "11934-16752-2010-11-27",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "11934-19953-2012-01-27",
+        "c": "FR"
+      },
+      {
+        "i": "11934-19953-2012-01-27",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "11934-10244-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "11934-10244-2013-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "11934-28767-2013-11-02",
+        "c": "FR"
+      },
+      {
+        "i": "11934-28767-2013-11-02",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "11934-19953-2011-09-10",
+        "c": "FR"
+      },
+      {
+        "i": "11934-19953-2011-09-10",
+        "c": "FR"
+      }
+    ]
   }
 }

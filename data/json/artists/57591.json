@@ -1,7 +1,7 @@
 {
   "id": "57591",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:20",
+  "timestamp": "2014-05-24 06:36:20",
   "name": "Philippe Huart",
   "surname": "Huart",
   "nationality": "FR",
@@ -16,25 +16,25 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "33314",
-  "r01": "31239",
-  "r02": "29240",
-  "r03": "27451",
-  "r04": "25154",
-  "r05": "22205",
-  "r06": "19326",
-  "r07": "16548",
-  "r08": "13559",
+  "r00": "53004",
+  "r01": "49732",
+  "r02": "46461",
+  "r03": "42706",
+  "r04": "39291",
+  "r05": "32391",
+  "r06": "25968",
+  "r07": "20914",
+  "r08": "16751",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "14",
-  "2005-shows-biennials": "6",
-  "2005-shows-galleries": "6",
+  "all-shows-total": "15",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (6), Sweden (1)",
-  "2005-shows-with": "Philippe Huart (3)",
-  "representing-galleries": "Gallery Copenhagen (St. Kongensgade 76, 1264 Copenhagen, Denmark); Galleri Nørballe (Vestergade 19, Strib, 5500 Middelfart, Denmark); AD Galerie (40 Allée Giacometti, 34000 Montpellier, France); Galerie Salvador (16, rue Dauphine, 75006 Paris, France); Galerie Jane Griffiths (rue Principale, 73150 Val d'Isère, France); Guy Hepner Contemporary (300 N Robertson Blvd, 90048 West Hollywood, CA, USA)",
+  "2005-countries-total": "France (6), South Korea (1), Sweden (1)",
+  "2005-shows-with": "Philippe Huart (4)",
+  "representing-galleries": "Gallery Copenhagen (St. Kongensgade 76, 1264 Copenhagen, Denmark); Galleri Nørballe (Vestergade 19, Strib, 5500 Middelfart, Denmark); AD Galerie (40 Allée Giacometti, 34000 Montpellier, France); Galerie Salvador (16, rue Dauphine, 75006 Paris, France); Galerie Jane Griffiths (rue Principale, 73150 Val d'Isère, France); Insa Gallery (29-23, Gwanhun-dong, Jongno-gu, 110-300 Seoul, South Korea); Guy Hepner Contemporary (300 N Robertson Blvd, 90048 West Hollywood, CA, USA)",
   "collecting-museums": null,
   "first_name": "Philippe",
   "last_name": "Huart",
@@ -43,6 +43,26 @@
   "age": 61,
   "age_range": "61-100",
   "expos": {
+    "2006": [
+      {
+        "i": "57591-4225-2006-04-02",
+        "c": "FR"
+      },
+      {
+        "i": "57591-4225-2006-04-02",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "57591-5458-2007-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "57591-5458-2007-06-07",
+        "c": "FR"
+      }
+    ],
     "2008": [
       {
         "i": "57591-19067-2008-03-08",
@@ -56,6 +76,64 @@
           "2008-03-08",
           "2008-04-06"
         ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "57591-2090-2011-12-10",
+        "c": "FR"
+      },
+      {
+        "i": "57591-8132-2011-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "57591-8132-2011-05-27",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "57591-2090-2011-12-10",
+        "c": "FR"
+      },
+      {
+        "i": "57591-8822-2012-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "57591-8822-2012-05-31",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "57591-5458-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "57591-5458-2013-02-02",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "57591-8132-2009-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "57591-8132-2009-05-15",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "57591-8822-2010-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "57591-8822-2010-09-08",
+        "c": "FR"
       }
     ]
   }

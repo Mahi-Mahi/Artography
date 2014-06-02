@@ -1,7 +1,7 @@
 {
   "id": "64298",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:05",
+  "timestamp": "2014-05-24 06:38:44",
   "name": "Elvire Bonduelle",
   "surname": "Bonduelle",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Sculpture",
-  "r00": "21815",
-  "r01": "23343",
-  "r02": "27629",
-  "r03": "25810",
-  "r04": "24837",
-  "r05": "23175",
-  "r06": "19517",
-  "r07": "29050",
-  "r08": "23817",
+  "r00": "14011",
+  "r01": "13480",
+  "r02": "13392",
+  "r03": "25116",
+  "r04": "22381",
+  "r05": "22317",
+  "r06": "20214",
+  "r07": "16487",
+  "r08": "25517",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "15",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "all-shows-total": "19",
+  "2005-shows-biennials": "9",
+  "2005-shows-galleries": "9",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (10), Netherlands (1), Spain (1)",
-  "2005-shows-with": "Elvire Bonduelle (9), Jérémy Laffon (3), Saâdane Afif (2), Julien Prévieux (2), Michaële-Andréa Schatt (2)",
+  "2005-countries-total": "France (14), Netherlands (1), Spain (1)",
+  "2005-shows-with": "Elvire Bonduelle (12), Guillaume Aubry (3), Filomena Borecká (3), Cyril Gauthier (3), Jérémy Laffon (3), Bertrand Planes (3), Saâdane Afif (2), Aldo Caredda (2), Marc del Piano (2), Julie Genelin (2), Tristam Malbunka (2), Christel Mortier (2), Estefania Peñafiel Loaiza (2), Julien Prévieux (2), Michaële-Andréa Schatt (2), Philippe Soussan (2)",
   "representing-galleries": "galerie ColletPark (203bis rue saint martin, 75003 Paris, France); Galeria Sabrina Amrani (Madera 23, 28004 Madrid, Spain)",
   "collecting-museums": null,
   "first_name": "Elvire",
@@ -43,22 +43,79 @@
   "age": 33,
   "age_range": "26-40",
   "expos": {
-    "2012": [
+    "2005": [
       {
-        "i": "64298-2937-2012-09-01",
-        "c": "NL",
-        "n": "To make a show it takes a thought and more than one word / Part II",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Amsterdam",
-        "o": "Galerie van Gelder",
-        "d": [
-          "2012-09-01",
-          "2012-10-13"
-        ]
+        "i": "64298-11845-2005-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "64298-11845-2005-09-09",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "64298-1782-2007-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "64298-1782-2007-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "64298-7713-2007-11-14",
+        "c": "FR"
+      },
+      {
+        "i": "64298-7713-2007-11-14",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "64298-19611-2009-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "64298-19611-2009-02-18",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "64298-22493-2010-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "64298-22493-2010-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "64298-22493-2010-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "64298-22493-2010-04-28",
+        "c": "FR"
+      },
+      {
+        "i": "64298-7348-2010-09-03",
+        "c": "FR"
+      },
+      {
+        "i": "64298-7348-2010-09-03",
+        "c": "FR"
       }
     ],
     "2011": [
+      {
+        "i": "64298-7348-2011-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "64298-7348-2011-06-23",
+        "c": "FR"
+      },
       {
         "i": "64298-27571-2011-09-21",
         "c": "ES",
@@ -71,6 +128,63 @@
           "2011-09-21",
           "2011-11-05"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "64298-28278-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "64298-28278-2012-01-28",
+        "c": "FR"
+      },
+      {
+        "i": "64298-2937-2012-09-01",
+        "c": "NL",
+        "n": "To make a show it takes a thought and more than one word / Part II",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Amsterdam",
+        "o": "Galerie van Gelder",
+        "d": [
+          "2012-09-01",
+          "2012-10-13"
+        ]
+      },
+      {
+        "i": "64298-10825-2012-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "64298-10825-2012-06-07",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "64298-4184-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "64298-4184-2013-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "64298-11771-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "64298-11771-2013-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "64298-25338-2013-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "64298-25338-2013-06-06",
+        "c": "FR"
       }
     ]
   }

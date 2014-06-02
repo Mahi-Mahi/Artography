@@ -1,7 +1,7 @@
 {
   "id": "212862",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:28:47",
+  "timestamp": "2014-05-24 07:29:24",
   "name": "Romain Kronenberg",
   "surname": "Kronenberg",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "53255",
-  "r01": "50603",
-  "r02": "46443",
-  "r03": "55958",
-  "r04": "51953",
-  "r05": "90014",
-  "r06": null,
+  "r00": "38474",
+  "r01": "38385",
+  "r02": "42209",
+  "r03": "37916",
+  "r04": "48068",
+  "r05": "44182",
+  "r06": "88489",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
-  "all-shows-total": "6",
+  "all-shows-total": "7",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (5), Germany (1)",
-  "2005-shows-with": "Romain Kronenberg (5)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (5), Germany (1), Singapore (1)",
+  "2005-shows-with": "Romain Kronenberg (6), Masayo Kajimura (2), Marylène Negro (2), Alexander Schellow (2)",
   "representing-galleries": "Galerie Alexandre Cadain (76 Rue Quincampoix, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Romain",
@@ -43,6 +43,52 @@
   "age": 39,
   "age_range": "26-40",
   "expos": {
+    "2008": [
+      {
+        "i": "212862-21101-2008-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "212862-21101-2008-06-14",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "212862-20624-2009-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "212862-20624-2009-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "212862-23329-2009-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "212862-23329-2009-10-15",
+        "c": "FR"
+      },
+      {
+        "i": "212862-4159-2009-04-25",
+        "c": "FR"
+      },
+      {
+        "i": "212862-4159-2009-04-25",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "212862-23329-2010-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "212862-23329-2010-09-08",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "212862-13702-2011-06-11",

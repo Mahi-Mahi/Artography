@@ -1,12 +1,12 @@
 {
   "id": "250447",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:43:11",
+  "timestamp": "2014-05-24 07:42:14",
   "name": "Claire Tabouret",
   "surname": "Tabouret",
   "nationality": "FR",
   "nationality fr": "France",
-  "birth location": " (FR)",
+  "birth location": "",
   "birth day": "25",
   "birth month": "9",
   "birth year": "1981",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "40018",
-  "r01": "71461",
-  "r02": "89757",
-  "r03": "86702",
-  "r04": null,
+  "r00": "16981",
+  "r01": "22374",
+  "r02": "57989",
+  "r03": "78586",
+  "r04": "79495",
   "r05": null,
   "r06": null,
   "r07": null,
   "r08": null,
-  "awards": "Prix jeune créateur décerné par la ville de Pontault Combault,Lauréate du 1er Prix Antoine Marin.,Lauréate du Prix Yishu 8. ,Lauréate du Prix SJ Berwin, remis à l’ ENSBA le 20 septembre, Paris.",
+  "awards": "Prix jeune créateur décerné par la ville de Pontault Combault,Lauréate du 1er Prix Antoine Marin.,Lauréate du Prix Yishu 8.,Lauréate du Prix SJ Berwin, remis à l’ ENSBA le 20 septembre, Paris.",
   "website": "www.clairetabouret.com",
   "all-shows-first": "2010",
-  "all-shows-total": "15",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (11), Belgium (1), China (1), Slovakia (1)",
-  "2005-shows-with": "Claire Tabouret (10), Taysir Batniji (3), Zineb Sedira (3), Marie Velardi (3), Duncan Wylie (3), Marie Aerts (2), Allora & Calzadilla (2), Giulia Andreani (2), Iván Argote (2), Kader Attia (2), Fayçal Baghriche (2), Yto Barrada (2), Lionel Bayol-Themines (2), Daniel Beltrá (2), Guillaume Bresson (2), Philippe Chancel (2), Florence Chevallier (2), Damien Deroubaix (2), Marc Desgrandchamps (2), Marcel Dinahet (2), Gregory Forstner (2), Christiane Geoffroy (2), Camille Goujon (2), Laurent Grasso (2), HEHE (2), Frederic Houvert (2), Bouchra Khalili (2), Nick Laessing (2), Mathieu Mercier (2), Malik Nejmi (2), Lucy & Jorge Orta (2), Mathieu Pernot (2), Lionel Sabatté (2), Studio 21bis (2), Barthélémy Toguo (2), Tatiana Trouvé (2), Jerome Zonder (2)",
+  "all-shows-total": "18",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (16), Belgium (1), China (1), Slovakia (1)",
+  "2005-shows-with": "Claire Tabouret (14), Taysir Batniji (3), Zineb Sedira (3), Marie Velardi (3), Duncan Wylie (3), Marie Aerts (2), Allora & Calzadilla (2), Giulia Andreani (2), Iván Argote (2), Kader Attia (2), Fayçal Baghriche (2), Gilles Barbier (2), Yto Barrada (2), Lionel Bayol-Themines (2), Daniel Beltrá (2), Katia Bourdarel (2), Guillaume Bresson (2), Philippe Chancel (2), Claire Chesnier (2), Florence Chevallier (2), Damien Deroubaix (2), Marc Desgrandchamps (2), Marcel Dinahet (2), Vincent Dulom (2), Patrick Everaert (2), Gregory Forstner (2), Christiane Geoffroy (2), Camille Goujon (2), Laurent Grasso (2), HEHE (2), Frederic Houvert (2), Bouchra Khalili (2), Nick Laessing (2), Mathieu Mercier (2), Malik Nejmi (2), Lucy & Jorge Orta (2), Mathieu Pernot (2), Lionel Sabatté (2), Studio 21bis (2), Barthélémy Toguo (2), Tatiana Trouvé (2), Raphaël Zarka (2), Jerome Zonder (2)",
   "representing-galleries": "Galerie Isabelle Gounod (13, rue Chapon, 75003 Paris, France)",
   "collecting-museums": "Fondation pour L'Art Contemporain, Claudine et Jean-Marc Salomon (château d’Arenthon, 74290 Alex, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France)",
   "first_name": "Claire",
@@ -43,6 +43,16 @@
   "age": 32,
   "age_range": "26-40",
   "expos": {
+    "2011": [
+      {
+        "i": "250447-7348-2011-06-23",
+        "c": "FR"
+      },
+      {
+        "i": "250447-7348-2011-06-23",
+        "c": "FR"
+      }
+    ],
     "2013": [
       {
         "i": "250447-29403-2013-04-18",
@@ -58,6 +68,30 @@
         ]
       },
       {
+        "i": "250447-24759-2013-05-04",
+        "c": "FR"
+      },
+      {
+        "i": "250447-24759-2013-05-04",
+        "c": "FR"
+      },
+      {
+        "i": "250447-24758-2013-05-04",
+        "c": "FR"
+      },
+      {
+        "i": "250447-24758-2013-05-04",
+        "c": "FR"
+      },
+      {
+        "i": "250447-30001-2013-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "250447-30001-2013-05-15",
+        "c": "FR"
+      },
+      {
         "i": "250447-29109-2013-06-13",
         "c": "SK",
         "n": "La Belle Peinture II",
@@ -69,9 +103,69 @@
           "2013-06-13",
           "2013-07-26"
         ]
+      },
+      {
+        "i": "250447-8554-2013-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "250447-8554-2013-06-15",
+        "c": "FR"
+      },
+      {
+        "i": "250447-8554-2013-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "250447-8554-2013-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "250447-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "250447-21098-2013-11-30",
+        "c": "FR"
+      },
+      {
+        "i": "250447-7348-2013-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "250447-7348-2013-09-07",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "250447-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "250447-21098-2013-11-30",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "250447-7348-2010-01-09",
+        "c": "FR"
+      },
+      {
+        "i": "250447-7348-2010-01-09",
+        "c": "FR"
       }
     ],
     "2012": [
+      {
+        "i": "250447-7348-2012-01-07",
+        "c": "FR"
+      },
+      {
+        "i": "250447-7348-2012-01-07",
+        "c": "FR"
+      },
       {
         "i": "250447-27741-2012-06-02",
         "c": "CN",

@@ -1,7 +1,7 @@
 {
   "id": "128657",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:55:45",
+  "timestamp": "2014-05-24 07:00:38",
   "name": "Gregoire Eloy",
   "surname": "Eloy",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "88729",
-  "r01": "91747",
-  "r02": "87187",
-  "r03": "87419",
-  "r04": "89134",
-  "r05": null,
+  "r00": "73533",
+  "r01": "74845",
+  "r02": "84609",
+  "r03": "79843",
+  "r04": "81833",
+  "r05": "85460",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "3",
+  "all-shows-total": "4",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (4)",
+  "2005-countries-total": "France (4), Slovenia (1)",
   "2005-shows-with": "Gregoire Eloy (2), Stanley Greene (2)",
   "representing-galleries": "Galerie La Petite Poule Noire (12 bd des Filles du Calvaire, 75011 Paris, France); Wanted Paris gallery (23, rue du roi de Sicile, 75004 Paris, France)",
   "collecting-museums": null,
@@ -43,5 +43,45 @@
   "age": 43,
   "age_range": "41-60",
   "expos": {
+    "2009": [
+      {
+        "i": "128657-22594-2009-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "128657-22594-2009-05-13",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "128657-19170-2010-11-19",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "128657-19170-2010-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "128657-28291-2011-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "128657-28291-2011-05-27",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "128657-28291-2013-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "128657-28291-2013-05-31",
+        "c": "FR"
+      }
+    ]
   }
 }

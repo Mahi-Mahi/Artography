@@ -1,7 +1,7 @@
 {
   "id": "96537",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:43:21",
+  "timestamp": "2014-05-24 06:49:56",
   "name": "Gilbert Portanier",
   "surname": "Portanier",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "94812",
-  "r01": "92285",
-  "r02": "87943",
-  "r03": "82551",
-  "r04": "100677",
-  "r05": null,
+  "r00": "69831",
+  "r01": "71211",
+  "r02": "86016",
+  "r03": "81290",
+  "r04": "76020",
+  "r05": "99876",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2009",
-  "all-shows-total": "2",
+  "all-shows-total": "3",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "2",
-  "2005-countries-total": "Germany (2), France (1)",
-  "2005-shows-with": "Gilbert Portanier (2)",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "Germany (3), France (1)",
+  "2005-shows-with": "Gilbert Portanier (3), Anne Bulliot (2), Claude Champy (2), Daphné Corregan (2), Jean-François Fouilhoux (2), Haguiko Fukuyama (2), Karl Fulle (2), Michelle Gardelle (2), Hervé Rousseau (2), Gilles Suffren (2), Jean Pierre Viot (2)",
   "representing-galleries": "Galerie b15 (Baaderstr. 15, 80469 Munich, Germany)",
   "collecting-museums": "Sèvres - Cité de la céramique (2 Place de la Manufacture, 92310 Sevres, France)",
   "first_name": "Gilbert",
@@ -69,6 +69,18 @@
           "2009-05-15",
           "2009-07-26"
         ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "96537-26731-2010-09-15",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "96537-26731-2010-09-15",
+        "c": "FR"
       }
     ]
   }

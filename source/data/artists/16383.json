@@ -1,7 +1,7 @@
 {
   "id": "16383",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:09:52",
+  "timestamp": "2014-05-24 06:21:26",
   "name": "Serge Kliaving",
   "surname": "Kliaving",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "28585",
-  "r01": "25944",
-  "r02": "24049",
-  "r03": "21234",
-  "r04": "20900",
-  "r05": "23931",
-  "r06": "20046",
-  "r07": "19063",
-  "r08": "15498",
+  "r00": "40137",
+  "r01": "35064",
+  "r02": "28643",
+  "r03": "25250",
+  "r04": "21031",
+  "r05": "22624",
+  "r06": "27759",
+  "r07": "21479",
+  "r08": "20197",
   "awards": null,
   "website": null,
   "all-shows-first": "1988",
-  "all-shows-total": "14",
+  "all-shows-total": "15",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "2",
-  "2005-countries-total": "France (4), Switzerland (1)",
-  "2005-shows-with": "Serge Kliaving (4), Collectif 1m3 (2), Donald Alberti (2), Carl Andre (2), Janine Antoni (2), John M Armleder (2), Richard Artschwager (2), Francis Baudevin (2), Lisa Beck (2), Ford Beckman (2), Joseph Beuys (2), Alexandre Bianchini (2), Dike Blair (2), Gavin Brown (2), Neil Campbell (2), Michael Corris (2), Mark Dagley (2), Steve DiBenedetto (2), John Dogg (2), Gretchen Faust (2), Helmut Federle (2), Sylvie Fleury (2), Roland Flexner (2), Christian Floquet (2), Antoine Gamard (2), Fritz Glarner (2), Janine Gordon (2), Dan Graham (2), Amy Granat (2), GRAPHIC SURGERY (2), Timothy Greenfield-Sanders (2), Marcia Hafif (2), Peter Halley (2), Nicole Hassler (2), IFP (2), Jana & JS (2), Michael Jenkins (2), Kyle Jenkins (2), Kim Jones (2), Donald Judd (2), Allan Kaprow (2), KATRE (2), Ben Kinmont (2), Yves Klein (2), Joseph Kosuth (2), Stéphane Kropf (2), Alix Lambert (2), Lang/Baumann (2), Louise Lawler (2), Ange Leccia (2), Sherrie Levine (2), Sol LeWitt (2), Christian Marclay (2), Matthew McCaslin (2), Allan Mc",
+  "2005-shows-museums": "3",
+  "2005-countries-total": "France (4), Switzerland (2)",
+  "2005-shows-with": "Serge Kliaving (5), Collectif 1m3 (3), Donald Alberti (3), Carl Andre (3), John M Armleder (3), Richard Artschwager (3), Francis Baudevin (3), Ford Beckman (3), Alexandre Bianchini (3), Dike Blair (3), Gavin Brown (3), Neil Campbell (3), Michael Corris (3), Mark Dagley (3), Steve DiBenedetto (3), John Dogg (3), George Dupin (3), Gretchen Faust (3), Helmut Federle (3), Sylvie Fleury (3), Roland Flexner (3), Christian Floquet (3), Fritz Glarner (3), Janine Gordon (3), Amy Granat (3), Timothy Greenfield-Sanders (3), Marcia Hafif (3), Peter Halley (3), Nicole Hassler (3), IFP (3), Michael Jenkins (3), Kyle Jenkins (3), Donald Judd (3), Allan Kaprow (3), Ben Kinmont (3), Joseph Kosuth (3), Stéphane Kropf (3), Alix Lambert (3), Louise Lawler (3), Ange Leccia (3), Sherrie Levine (3), Sol LeWitt (3), Christian Marclay (3), Matthew McCaslin (3), Allan McCollum (3), Cady Noland (3), Not Vital (3), Steven Parrino (3), Laurie Parsons (3), Gilles Porret (3), Christian Robert-Tissot (3), Gerwald Rockenschaub (3), Claude R",
   "representing-galleries": "Galerie Celal (45, Rue St Honore, 75001 Paris, France); Galerie Favre artactuel (20A, route de l´Etraz, 1260 Nyon, Switzerland)",
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France)",
   "first_name": "Serge",
@@ -58,7 +58,17 @@
         ]
       }
     ],
+    "2009": [
+      {
+        "i": "16383-2304-2009-10-11",
+        "c": "FR"
+      }
+    ],
     "2010": [
+      {
+        "i": "16383-2304-2009-10-11",
+        "c": "FR"
+      },
       {
         "i": "16383-5638-2010-03-21",
         "c": "CH",
@@ -71,6 +81,34 @@
           "2010-03-21",
           "2010-09-12"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "16383-29199-2012-10-03",
+        "c": "FR"
+      },
+      {
+        "i": "16383-29199-2012-12-06",
+        "c": "FR"
+      },
+      {
+        "i": "16383-29199-2012-09-08",
+        "c": "FR"
+      },
+      {
+        "i": "16383-29199-2012-09-08",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16383-29199-2012-10-03",
+        "c": "FR"
+      },
+      {
+        "i": "16383-29199-2012-12-06",
+        "c": "FR"
       }
     ],
     "2005": [

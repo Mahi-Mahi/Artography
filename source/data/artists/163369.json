@@ -1,7 +1,7 @@
 {
   "id": "163369",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:09:57",
+  "timestamp": "2014-05-24 07:12:24",
   "name": "Emmanuelle Rapin",
   "surname": "Rapin",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "48701",
-  "r01": "45391",
-  "r02": "40970",
-  "r03": "39468",
-  "r04": "34794",
-  "r05": "30356",
-  "r06": "25975",
-  "r07": "24082",
-  "r08": "23574",
+  "r00": "56209",
+  "r01": "50176",
+  "r02": "42383",
+  "r03": "35725",
+  "r04": "32930",
+  "r05": "34998",
+  "r06": "29289",
+  "r07": "24145",
+  "r08": "21900",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "6",
+  "all-shows-total": "7",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (1), Germany (1)",
-  "2005-shows-with": "Emmanuelle Rapin (2)",
+  "2005-countries-total": "Germany (2), France (1)",
+  "2005-shows-with": "Emmanuelle Rapin (3), Andreas Burger (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Emmanuelle",
@@ -55,6 +55,14 @@
           "2005-10-07",
           "2005-10-28"
         ]
+      },
+      {
+        "i": "163369-8282-2005-11-03",
+        "c": "FR"
+      },
+      {
+        "i": "163369-8282-2005-11-03",
+        "c": "FR"
       }
     ],
     "2006": [
@@ -72,6 +80,16 @@
         ]
       }
     ],
+    "2008": [
+      {
+        "i": "163369-4201-2008-05-08",
+        "c": "FR"
+      },
+      {
+        "i": "163369-4201-2008-05-08",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "163369-30232-2011-06-09",
@@ -85,6 +103,16 @@
           "2011-06-09",
           "2011-09-02"
         ]
+      }
+    ],
+    "2007": [
+      {
+        "i": "163369-28001-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "163369-28001-2007-06-29",
+        "c": "FR"
       }
     ]
   }

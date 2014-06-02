@@ -1,7 +1,7 @@
 {
   "id": "66506",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:55",
+  "timestamp": "2014-05-24 06:39:30",
   "name": "Jean-Xavier Renaud",
   "surname": "Renaud",
   "nationality": "FR",
@@ -16,26 +16,26 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "17394",
-  "r01": "17513",
-  "r02": "16192",
-  "r03": "15198",
-  "r04": "21390",
-  "r05": "26847",
-  "r06": "42117",
-  "r07": "55117",
-  "r08": null,
+  "r00": "16123",
+  "r01": "15603",
+  "r02": "15218",
+  "r03": "13404",
+  "r04": "12248",
+  "r05": "17563",
+  "r06": "22406",
+  "r07": "36367",
+  "r08": "50166",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "15",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (5), Belgium (2), Portugal (2), Germany (1)",
+  "all-shows-total": "18",
+  "2005-shows-biennials": "7",
+  "2005-shows-galleries": "7",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (7), Belgium (2), Portugal (2), Germany (1), Switzerland (1)",
   "2005-shows-with": "Jean-Xavier Renaud (8), Rodolfo Bispo (2), Miguel Branco (2), Bertrand Dezoteux (2), Armand Jalut (2), Kaori Kinoshita (2), Alain della Negra (2), Françoise Petrovitch (2), Raphaëlle Ricol (2), Duncan Wylie (2)",
-  "representing-galleries": "Elaine Levy Project (Rue Fourmois 9, 1050 Brussels, Belgium); Galerie Françoise Besson (10, rue de Crimée, 69001 Lyon, France); Caroline Pagès Gallery (Rua Tenente Ferreira Durão, 12 – 1° Dto. [Campo de Ourique], 1350-315 Lisbon, Portugal); Galerie Guillaume Daeppen (Müllheimerstrasse 144, 4057 Basel, Switzerland)",
-  "collecting-museums": "Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France)",
+  "representing-galleries": "Elaine Levy Project (Rue Fourmois 9, 1050 Brussels, Belgium); Galerie Françoise Besson (10, rue de Crimée, 69001 Lyon, France); Galerie Dukan (24, rue Pastourelle, 75003 Paris, France); Galerie Dukan (Spinnereistraße 7 - Halle 4.B, 04179 Leipzig, Germany); Caroline Pagès Gallery (Rua Tenente Ferreira Durão, 12 – 1° Dto. [Campo de Ourique], 1350-315 Lisbon, Portugal); Galerie Guillaume Daeppen (Müllheimerstrasse 144, 4057 Basel, Switzerland)",
+  "collecting-museums": "Fondation pour L'Art Contemporain, Claudine et Jean-Marc Salomon (château d’Arenthon, 74290 Alex, France); Centre national des arts plastiques (Tour Atlantique 1, place de la Pyramide, 92911 Paris, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France); MAH - Musée d'art et d'histoire (Rue Charles-Galland 2, 1206 Geneva, Switzerland)",
   "first_name": "Jean-Xavier",
   "last_name": "Renaud",
   "genre": "m",
@@ -84,6 +84,14 @@
           "2007-01-25",
           "2007-02-24"
         ]
+      },
+      {
+        "i": "66506-8999-2007-07-21",
+        "c": "FR"
+      },
+      {
+        "i": "66506-8999-2007-07-21",
+        "c": "FR"
       },
       {
         "i": "66506-7425-2007-05-24",
@@ -153,9 +161,33 @@
           "2009-02-07",
           "2009-03-07"
         ]
+      },
+      {
+        "i": "66506-7491-2009-12-18",
+        "c": "FR"
       }
     ],
     "2010": [
+      {
+        "i": "66506-7491-2009-12-18",
+        "c": "FR"
+      },
+      {
+        "i": "66506-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "66506-7910-2010-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "66506-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "66506-1782-2010-06-11",
+        "c": "FR"
+      },
       {
         "i": "66506-10763-2010-09-29",
         "c": "PT",
@@ -168,6 +200,26 @@
           "2010-09-29",
           "2010-11-06"
         ]
+      }
+    ],
+    "2012": [
+      {
+        "i": "66506-17313-2012-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "66506-17313-2012-03-07",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "66506-8999-2011-09-17",
+        "c": "FR"
+      },
+      {
+        "i": "66506-8999-2011-09-17",
+        "c": "FR"
       }
     ],
     "2013": [

@@ -1,7 +1,7 @@
 {
   "id": "65153",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:30:26",
+  "timestamp": "2014-05-24 06:39:02",
   "name": "Julien Mijangos",
   "surname": "Mijangos",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "85287",
-  "r01": "82390",
-  "r02": "77474",
-  "r03": "72085",
-  "r04": "72700",
-  "r05": "84371",
-  "r06": "76375",
-  "r07": "68131",
-  "r08": null,
+  "r00": "63729",
+  "r01": "81041",
+  "r02": "76864",
+  "r03": "71103",
+  "r04": "65219",
+  "r05": "66311",
+  "r06": "83252",
+  "r07": "74877",
+  "r08": "66436",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
   "all-shows-total": "7",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": null,
-  "2005-countries-total": "France (3), Belgium (2)",
-  "2005-shows-with": "John Cornu (4), Julien Mijangos (4), Claude Rutault (3), Cédric Alby (2), Michel Castaignet (2), Guillaume Constantin (2), Isabelle Lartault (2), Michel Verjux (2)",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (4), Belgium (2)",
+  "2005-shows-with": "Julien Mijangos (5), John Cornu (4), Claude Rutault (3), Cédric Alby (2), Romain Boulay (2), Michel Castaignet (2), Guillaume Constantin (2), Isabelle Lartault (2), Michel Verjux (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Julien",
@@ -43,22 +43,33 @@
   "age": 37,
   "age_range": "26-40",
   "expos": {
-    "2013": [
+    "2006": [
       {
-        "i": "65153-29403-2013-04-18",
-        "c": "BE",
-        "n": "La rime et la raison",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "l'Escaut",
-        "d": [
-          "2013-04-18",
-          "2013-04-21"
-        ]
+        "i": "65153-2014-2006-05-26",
+        "c": "FR"
+      },
+      {
+        "i": "65153-2014-2006-05-26",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "65153-12220-2009-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "65153-12220-2009-06-20",
+        "c": "FR"
+      },
+      {
+        "i": "65153-19804-2009-07-03",
+        "c": "FR"
+      },
+      {
+        "i": "65153-19804-2009-07-03",
+        "c": "FR"
+      },
       {
         "i": "65153-22407-2009-10-02",
         "c": "BE",
@@ -75,6 +86,14 @@
     ],
     "2010": [
       {
+        "i": "65153-4184-2010-04-03",
+        "c": "FR"
+      },
+      {
+        "i": "65153-4184-2010-04-03",
+        "c": "FR"
+      },
+      {
         "i": "65153-22407-2009-10-02",
         "c": "BE",
         "n": "Elastic straps and drawings",
@@ -85,6 +104,21 @@
         "d": [
           "2009-10-02",
           "2010-01-14"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "65153-29403-2013-04-18",
+        "c": "BE",
+        "n": "La rime et la raison",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "l'Escaut",
+        "d": [
+          "2013-04-18",
+          "2013-04-21"
         ]
       }
     ]

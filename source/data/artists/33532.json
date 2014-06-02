@@ -1,7 +1,7 @@
 {
   "id": "33532",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:17:28",
+  "timestamp": "2014-05-24 06:27:45",
   "name": "Antoine Petitprez",
   "surname": "Petitprez",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "20891",
-  "r01": "19354",
-  "r02": "17570",
-  "r03": "27034",
-  "r04": "43687",
-  "r05": "39907",
-  "r06": "50938",
-  "r07": "44054",
-  "r08": "37521",
+  "r00": "17192",
+  "r01": "16668",
+  "r02": "14614",
+  "r03": "12738",
+  "r04": "19736",
+  "r05": "36368",
+  "r06": "32461",
+  "r07": "53409",
+  "r08": "44809",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
   "all-shows-total": "12",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (6), Germany (3)",
-  "2005-shows-with": "Antoine Petitprez (9), Cecile Desvignes (6), Dominique Ghesquiere (6), Freya Hattenberger (6), Christian Jendreiko (6), Régis Perray (6), Ivan Bazak (5), Julien Bismuth (5), Karolin Meunier (5), Thomas Mohren (5), Roseline Rannoch (5), Mathilde Rosier (5), Jürgen Stollhans (5), Elsa Tomkowiak (5), Stéphane Couturier (2), Yuki Onodera (2)",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (7), Germany (3), Belgium (1)",
+  "2005-shows-with": "Antoine Petitprez (11), Cecile Desvignes (6), Dominique Ghesquiere (6), Freya Hattenberger (6), Christian Jendreiko (6), Régis Perray (6), Ivan Bazak (5), Julien Bismuth (5), Karolin Meunier (5), Thomas Mohren (5), Roseline Rannoch (5), Mathilde Rosier (5), Jürgen Stollhans (5), Elsa Tomkowiak (5), Stéphane Couturier (2), Yuki Onodera (2)",
   "representing-galleries": null,
   "collecting-museums": "MUba Eugène Leroy (2, rue Paul Doumer, 59200 Tourcoing, France)",
   "first_name": "Antoine",
@@ -56,6 +56,26 @@
           "2006-10-13",
           "2006-11-26"
         ]
+      }
+    ],
+    "2008": [
+      {
+        "i": "33532-10726-2008-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "33532-10726-2008-02-26",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "33532-15039-2009-07-07",
+        "c": "FR"
+      },
+      {
+        "i": "33532-15039-2009-07-07",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -125,6 +145,30 @@
           "2010-11-27",
           "2011-01-23"
         ]
+      },
+      {
+        "i": "33532-11586-2011-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "33532-11586-2011-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "33532-7978-2011-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "33532-7978-2011-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "33532-10726-2011-05-14",
+        "c": "FR"
+      },
+      {
+        "i": "33532-10726-2011-05-14",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -140,6 +184,24 @@
           "2010-11-27",
           "2012-01-23"
         ]
+      },
+      {
+        "i": "33532-5267-2012-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "33532-5267-2012-05-15",
+        "c": "FR"
+      }
+    ],
+    "2005": [
+      {
+        "i": "33532-3098-2005-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "33532-3098-2005-02-10",
+        "c": "FR"
       }
     ]
   }

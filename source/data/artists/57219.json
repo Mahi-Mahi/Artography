@@ -1,7 +1,7 @@
 {
   "id": "57219",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:27:11",
+  "timestamp": "2014-05-24 06:36:11",
   "name": "Pauline Fondevila",
   "surname": "Fondevila",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "5304",
-  "r01": "5387",
-  "r02": "4876",
-  "r03": "5318",
-  "r04": "5824",
-  "r05": "5659",
-  "r06": "4860",
-  "r07": "4685",
-  "r08": "11556",
+  "r00": "6142",
+  "r01": "5456",
+  "r02": "5218",
+  "r03": "4399",
+  "r04": "4806",
+  "r05": "5186",
+  "r06": "4909",
+  "r07": "4053",
+  "r08": "3889",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
@@ -33,7 +33,7 @@
   "2005-shows-galleries": "6",
   "2005-shows-museums": "8",
   "2005-countries-total": "Spain (10), France (7), Argentina (1)",
-  "2005-shows-with": "Pauline Fondevila (14), Francesc Ruiz (6), Ignasi Aballí (5), Martí Anson (5), Bestué / Vives (4), Carles Congost (4), Ruben Grilo (4), Antonio Ortega (4), Abdelkader Benchamma (3), Luz Broto (3), Fran Meana (3), Jordi Mitjà (3), Guillaume Pinard (3), Xavier Ristol (3), Ignacio Uriarte (3), Serafín Álvarez (2), Efren Alvarez (2), Lucía Antonini (2), Virginie Barré (2), Luis Bezeta (2), Rafael G. Bianchi (2), Luis Bisbe (2), Christophe Blanc (2), Sergio Botella (2), Armelle Caron (2), Javier Codesal (2), Jordi Colomer (2), Fito Conesa (2), Fischerspooner (2), Adrian García (2), Dora García (2), Ana García-Pineda (2), Jochen Gerner (2), Fabien Giraud (2), Sebastián Gordín (2), Núria Güell (2), José Antonio Hernández-Diez (2), Hippolyte Hentgen (2), Daniel Jacoby (2), Jeleton (2), Tamara Kuselman (2), Thomas Locher (2), Jacopo Miliani (2), Jonathan Millan (2), Momu & No Es (2), Mariona Moncunill (2), Julia Montilla (2), Joan Morey (2), Marc Navarro & Pol Esteve (2), Miguel Noguera (2), Carlos Pa",
+  "2005-shows-with": "Pauline Fondevila (14), Francesc Ruiz (6), Ignasi Aballí (5), Martí Anson (5), Bestué & Vives (4), Carles Congost (4), Ruben Grilo (4), Antonio Ortega (4), Abdelkader Benchamma (3), Luz Broto (3), Fran Meana (3), Jordi Mitjà (3), Guillaume Pinard (3), Xavier Ristol (3), Ignacio Uriarte (3), Serafín Álvarez (2), Efren Alvarez (2), Lucía Antonini (2), Virginie Barré (2), Luis Bezeta (2), Rafael G. Bianchi (2), Luis Bisbe (2), Christophe Blanc (2), Sergio Botella (2), Armelle Caron (2), Javier Codesal (2), Jordi Colomer (2), Fito Conesa (2), Fischerspooner (2), Adrian García (2), Dora García (2), Ana García-Pineda (2), Jochen Gerner (2), Fabien Giraud (2), Sebastián Gordín (2), Núria Güell (2), José Antonio Hernández-Diez (2), Hippolyte Hentgen (2), Daniel Jacoby (2), Jeleton (2), Tamara Kuselman (2), Thomas Locher (2), Alex McQuilkin (2), Jacopo Miliani (2), Jonathan Millan (2), Momu & No Es (2), Mariona Moncunill (2), Julia Montilla (2), Joan Morey (2), Marc Navarro & Pol Esteve (2), Miguel No",
   "representing-galleries": "Galería Estrany - De La Mota (Passatge Mercader 18, 08008 Barcelona, Spain)",
   "collecting-museums": "Cal Cego - Colleccion de Arte Contemporaneo (121 Escalera A Entresuelo 3, 08008  Barcelona, Spain); CGAC - Centro Galego de Arte Contemporánea (Valle Inclán s/n, 15704 Santiago de Compostela, Spain)",
   "first_name": "Pauline",
@@ -43,7 +43,57 @@
   "age": 42,
   "age_range": "41-60",
   "expos": {
+    "2005": [
+      {
+        "i": "57219-1936-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "57219-1936-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "57219-9477-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "57219-9477-2005-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "57219-2414-2005-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "57219-2414-2005-05-07",
+        "c": "FR"
+      },
+      {
+        "i": "57219-181-2005-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "57219-181-2005-05-20",
+        "c": "FR"
+      },
+      {
+        "i": "57219-7491-2005-06-10",
+        "c": "FR"
+      },
+      {
+        "i": "57219-7491-2005-06-10",
+        "c": "FR"
+      }
+    ],
     "2006": [
+      {
+        "i": "57219-7491-2006-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "57219-7491-2006-06-17",
+        "c": "FR"
+      },
       {
         "i": "57219-1586-2006-09-14",
         "c": "ES",
@@ -71,6 +121,14 @@
         ]
       },
       {
+        "i": "57219-181-2006-03-31",
+        "c": "FR"
+      },
+      {
+        "i": "57219-181-2006-03-31",
+        "c": "FR"
+      },
+      {
         "i": "57219-1730-2006-06-02",
         "c": "ES",
         "n": "Una extrana manana de febrero en Gijon",
@@ -86,6 +144,14 @@
     ],
     "2007": [
       {
+        "i": "57219-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "57219-16095-2007-05-11",
+        "c": "FR"
+      },
+      {
         "i": "57219-7874-2007-06-21",
         "c": "ES",
         "n": "Paperback. Ediciones baratas",
@@ -97,6 +163,18 @@
           "2007-06-21",
           "2007-09-16"
         ]
+      },
+      {
+        "i": "57219-23145-2007-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "57219-23145-2007-07-05",
+        "c": "FR"
+      },
+      {
+        "i": "57219-8282-2007-12-12",
+        "c": "FR"
       },
       {
         "i": "57219-7195-2007-04-19",
@@ -114,6 +192,10 @@
     ],
     "2008": [
       {
+        "i": "57219-8282-2007-12-12",
+        "c": "FR"
+      },
+      {
         "i": "57219-12230-2008-04-29",
         "c": "ES",
         "n": "6a Biennal d’art Leandre Cristòfol",
@@ -127,6 +209,22 @@
       }
     ],
     "2009": [
+      {
+        "i": "57219-27842-2009-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "57219-27842-2009-04-11",
+        "c": "FR"
+      },
+      {
+        "i": "57219-17765-2009-11-13",
+        "c": "FR"
+      },
+      {
+        "i": "57219-17765-2009-11-13",
+        "c": "FR"
+      },
       {
         "i": "57219--2009-11-17",
         "c": "ES",
@@ -152,6 +250,10 @@
           "2009-11-17",
           "2010-01-10"
         ]
+      },
+      {
+        "i": "57219-181-2009-11-07",
+        "c": "FR"
       }
     ],
     "2010": [
@@ -195,6 +297,18 @@
         ]
       },
       {
+        "i": "57219-5122-2010-03-11",
+        "c": "FR"
+      },
+      {
+        "i": "57219-12083-2010-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "57219-12083-2010-05-12",
+        "c": "FR"
+      },
+      {
         "i": "57219-5490-2010-06-09",
         "c": "ES",
         "n": "89 Km. Colección CGAC",
@@ -206,6 +320,24 @@
           "2010-06-09",
           "2010-09-19"
         ]
+      },
+      {
+        "i": "57219-8568-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "57219-8568-2010-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "57219-181-2009-11-07",
+        "c": "FR"
+      }
+    ],
+    "2100": [
+      {
+        "i": "57219-5122-2010-03-11",
+        "c": "FR"
       }
     ],
     "2011": [
@@ -303,6 +435,14 @@
           "2013-04-10",
           "2013-04-23"
         ]
+      },
+      {
+        "i": "57219-2414-2013-02-08",
+        "c": "FR"
+      },
+      {
+        "i": "57219-2414-2013-02-08",
+        "c": "FR"
       }
     ]
   }

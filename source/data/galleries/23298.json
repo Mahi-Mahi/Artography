@@ -16,5 +16,45 @@
   "fairs-abroad": "0",
   "fairs-in-FR": "8",
   "fairs": {
+    "2010": [
+      {
+        "i": "23298-Chic Art Fair 2010",
+        "c": "FR"
+      },
+      {
+        "i": "23298-Paris Photo 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "23298-Paris Photo 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "23298-Paris Photo 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "23298-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "23298-DocksArtFair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "23298-Yia Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "23298-Paris Photo 2013",
+        "c": "FR"
+      }
+    ]
   }
 }

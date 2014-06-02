@@ -16,6 +16,12 @@
   "fairs-abroad": "6",
   "fairs-in-FR": "5",
   "fairs": {
+    "2005": [
+      {
+        "i": "4190-Fiac 2005",
+        "c": "FR"
+      }
+    ],
     "2006": [
       {
         "i": "4190-Art Brussels 2006- 24th Contemporary Art Fair",
@@ -44,10 +50,26 @@
         "ct": "London (England)"
       },
       {
+        "i": "4190-Fiac 2007",
+        "c": "FR"
+      },
+      {
         "i": "4190-Design Miami 2007",
         "c": "US",
         "n": "Design Miami 2007",
         "ct": "Miami, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "4190-Fiac 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "4190-Fiac 2009",
+        "c": "FR"
       }
     ],
     "2010": [

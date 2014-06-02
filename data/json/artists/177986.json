@@ -1,7 +1,7 @@
 {
   "id": "177986",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 07:15:33",
+  "timestamp": "2014-05-24 07:17:27",
   "name": "Raphael Dallaporta",
   "surname": "Dallaporta",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "8561",
-  "r01": "8511",
-  "r02": "10395",
-  "r03": "10881",
-  "r04": "29464",
-  "r05": "25455",
-  "r06": "22972",
-  "r07": "19886",
-  "r08": "30930",
+  "r00": "6311",
+  "r01": "6882",
+  "r02": "6704",
+  "r03": "8533",
+  "r04": "8891",
+  "r05": "34309",
+  "r06": "28672",
+  "r07": "25456",
+  "r08": "21728",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
   "all-shows-total": "29",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
-  "2005-shows-museums": "14",
-  "2005-countries-total": "France (9), USA (4), Switzerland (3), Netherlands (2), Austria (1), Belgium (1), Cambodia (1), Canada (1), Germany (1), Luxembourg (1), Spain (1)",
+  "2005-shows-museums": "15",
+  "2005-countries-total": "France (9), USA (4), Switzerland (3), Netherlands (2), Austria (1), Belgium (1), Cambodia (1), Canada (1), Germany (1), Ireland (Republic) (1), Luxembourg (1), Spain (1)",
   "2005-shows-with": "Raphael Dallaporta (17), Bruno Serralongue (3), Olivia Arthur (2), Richard Avedon (2), Yto Barrada (2), Taysir Batniji (2), Valérie Belin (2), Laurence Bonvin (2), Mohamed Bourouissa (2), Stéphane Couturier (2), Denis Darzacq (2), Philip-Lorca diCorcia (2), Nan Goldin (2), Andreas Gursky (2), Julika Rudelius (2), Sebastião Salgado (2), Andrés Serrano (2), Cindy Sherman (2), Jules Spinatsch (2), Shomei Tomatsu (2)",
   "representing-galleries": "Tasneem Gallery (Calle Castellnou, 51 Les Tres Torres, 08017 Barcelona, Spain); L. Parker Stephenson Photographs (764 Madison Avenue, 10065 New York City, NY, USA)",
   "collecting-museums": null,
@@ -140,9 +140,17 @@
           "2008-09-06",
           "2008-10-11"
         ]
+      },
+      {
+        "i": "177986-17313-2008-10-08",
+        "c": "FR"
       }
     ],
     "2009": [
+      {
+        "i": "177986-17313-2008-10-08",
+        "c": "FR"
+      },
       {
         "i": "177986-6418-2009-02-24",
         "c": "CH",
@@ -198,6 +206,10 @@
         ]
       },
       {
+        "i": "177986-10516-2010-11-10",
+        "c": "FR"
+      },
+      {
         "i": "177986-23519-2010-11-28",
         "c": "KH",
         "n": "PhotoPhnomPenh 2010",
@@ -222,6 +234,14 @@
           "2010-02-17",
           "2010-03-31"
         ]
+      },
+      {
+        "i": "177986-23298-2010-03-05",
+        "c": "FR"
+      },
+      {
+        "i": "177986-23298-2010-03-05",
+        "c": "FR"
       },
       {
         "i": "177986-9073-2010-06-18",
@@ -250,6 +270,18 @@
           "2010-09-11",
           "2011-05-08"
         ]
+      },
+      {
+        "i": "177986-10516-2010-11-10",
+        "c": "FR"
+      },
+      {
+        "i": "177986-2414-2011-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "177986-2414-2011-02-25",
+        "c": "FR"
       },
       {
         "i": "177986-15124-2011-09-30",
@@ -289,6 +321,14 @@
           "2011-03-04",
           "2011-05-07"
         ]
+      },
+      {
+        "i": "177986-30157-2011-09-02",
+        "c": "FR"
+      },
+      {
+        "i": "177986-30157-2011-09-02",
+        "c": "FR"
       }
     ],
     "2012": [
@@ -319,6 +359,14 @@
         ]
       },
       {
+        "i": "177986-16577-2012-03-16",
+        "c": "FR"
+      },
+      {
+        "i": "177986-16577-2012-03-16",
+        "c": "FR"
+      },
+      {
         "i": "177986-7812-2012-03-30",
         "c": "DE",
         "n": "Observationen",
@@ -345,6 +393,22 @@
         ]
       },
       {
+        "i": "177986-28664-2012-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "177986-28664-2012-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "177986-8129-2012-02-18",
+        "c": "FR"
+      },
+      {
+        "i": "177986-8129-2012-02-18",
+        "c": "FR"
+      },
+      {
         "i": "177986-21744-2012-06-02",
         "c": "LU",
         "n": "Raphaël Dallaporta : Observation",
@@ -360,6 +424,10 @@
     ],
     "2013": [
       {
+        "i": "177986-8997-2013-10-05",
+        "c": "FR"
+      },
+      {
         "i": "177986-16146-2013-09-07",
         "c": "CA",
         "n": "Raphaël Dallaporta",
@@ -371,6 +439,12 @@
           "2013-09-07",
           "2013-10-05"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "177986-8997-2013-10-05",
+        "c": "FR"
       }
     ]
   }

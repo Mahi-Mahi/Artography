@@ -1,12 +1,12 @@
 {
   "id": "136761",
   "mergedIDs": null,
-  "timestamp": "2014-02-22 06:59:12",
+  "timestamp": "2014-05-24 07:03:20",
   "name": "Flore Sigrist",
   "surname": "Sigrist",
   "nationality": "CH, FR",
   "nationality fr": "France, Suisse",
-  "birth location": null,
+  "birth location": "Strasbourg (FR)",
   "birth day": "7",
   "birth month": "4",
   "birth year": "1985",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting",
-  "r00": "31091",
-  "r01": "28968",
-  "r02": "45013",
-  "r03": "40839",
-  "r04": "40239",
-  "r05": "35544",
-  "r06": "30529",
-  "r07": "68864",
-  "r08": null,
+  "r00": "29762",
+  "r01": "28893",
+  "r02": "25431",
+  "r03": "43748",
+  "r04": "38169",
+  "r05": "37255",
+  "r06": "31909",
+  "r07": "26899",
+  "r08": "67377",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
@@ -84,6 +84,16 @@
           "2010-10-14",
           "2010-11-27"
         ]
+      }
+    ],
+    "2006": [
+      {
+        "i": "136761-16265-2006-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "136761-16265-2006-01-17",
+        "c": "FR"
       }
     ],
     "2012": [
