@@ -776,7 +776,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 .nav-language {
-	display: none;
+	// display: none;
 	margin: 0;
 	padding: 0 0 1em 0;
 	text-align: center;
@@ -810,6 +810,19 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	border:1px solid #000;
 }
 
+.about {
+	position:fixed;
+	right:40px;
+	bottom:10px;
+	width:100px;
+	z-index:10;
+}
+
+.about-inner {
+	display: none;
+}
+
+
 // NAV LANGUAGE
 
 .nav-language-item {
@@ -820,9 +833,9 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	a {
 		padding:0 .25em;
 	}
-	.active {
-		color:#939597 !important;
-	}
+}
+body.lang-fr .nav-language-item .fr, body.lang-en .nav-language-item .en {
+	color:#939597 !important;
 }
 
 #canvas {
@@ -895,3 +908,4 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		color:#8cc63e;
 	}
 }
+
