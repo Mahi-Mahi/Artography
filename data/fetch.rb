@@ -91,12 +91,19 @@ years = []
 fairs = {2014 => []}
 galleries = {}
 
+today_expos = []
+today_fairs = {
+	countries: {},
+	galleries: {}
+}
+
 af_galleries = fetch('/v0/gallery/list')
 
 pp "#{af_galleries.length} galleries"
 
+nb_datas = 50
 
-af_galleries.shuffle.slice(0,5000).each do |gallery|
+af_galleries.shuffle.slice(0, nb_datas).each do |gallery|
 
 	print '.'
 
@@ -149,6 +156,14 @@ af_galleries.shuffle.slice(0,5000).each do |gallery|
 					gallery[:fairs][af_fair['year']] << {i: fair_detail[:i], c: 'FR'}
 				else
 					gallery[:fairs][af_fair['year']] << fair_detail unless gallery[:fairs][af_fair['year']].include?(fair_detail)
+
+					p af_fair['year']
+
+					if af_fair['year'] == Date.today.year
+						p fair
+						today_fairs[:countries] << fair_detail[:c] unless today_fairs[:countries].include?(fair_detail[:c])
+						today_fairs[:galleries] << fair[:i] unless today_fairs[:galleries].include?(fair[:i])
+					end
 				end
 
 			end
@@ -163,12 +178,16 @@ af_galleries.shuffle.slice(0,5000).each do |gallery|
 
 end
 
+p today_fairs
+
+p "in #{Date.today.year}, #{today_fairs[:galleries].length} exposent dans #{today_fairs[:countries].length}"
+
 
 af_artists = fetch('/v0/artist/list')
 
 pp "#{af_artists.length} artists"
 
-af_artists.shuffle.slice(0,5000).each do |artist|
+af_artists.shuffle.slice(0, nb_datas).each do |artist|
 
 	print '.'
 
