@@ -85,8 +85,8 @@ define([], function() {
 			// 	counter: 123
 			// }];
 			var expo_colors = {
-				'Galerie-priv-e': '#00a79d',
-				'Institution-publique': '#ef4036',
+				'Galerie-priv-e': '#ef4036',
+				'Institution-publique': '#00a79d',
 				'Non-profit-organization': '#9e1e62',
 				'': '#8cc63e',
 				'Autre': '#8cc63e'
@@ -193,7 +193,14 @@ define([], function() {
 				logo_margin = 22,
 				logo_width = central_radius + logo_margin,
 				logo_height = (central_radius * logo_ratio) + logo_margin;
-			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height).toBack();
+
+			raphael.circle(originX, originY, central_radius).attr({
+				fill: '#FFF',
+				opacity: 1,
+				'stroke-width': 0
+			}).toFront();
+
+			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
 
 			// create continents/countries container
 			var data = {
@@ -252,8 +259,9 @@ define([], function() {
 					$scope.artist_news = [];
 					if (the_expo) {
 						jQuery('.news-block li').html(the_expo.n + '<br />' +
-							'Du ' + formatService.formatDate(the_expo.d[0]) +
-							(the_expo.d[1] ? (' Au ' + formatService.formatDate(the_expo.d[1])) : '') + '<br />' +
+							(the_expo.d ? (
+								'Du ' + formatService.formatDate(the_expo.d[0]) +
+								(the_expo.d[1] ? (' Au ' + formatService.formatDate(the_expo.d[1])) : '') + '<br />') : '') +
 							the_expo.o + ' / @' + the_expo.ct + ',' + the_expo.c).show();
 					} else {
 						jQuery('.news-block').hide();
@@ -308,16 +316,16 @@ define([], function() {
 								expos[expo.i] = {
 									slice: null,
 									iteration: 0,
-									showtype: expo.st.replace(/[^\w]+/g, '-').replace(/-$/, ''),
+									showtype: expo.st ? expo.st.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
 									type: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
 								};
 								all_expos[expo.i] = {
 									id: expo.i,
-									showtype: expo.st.replace(/[^\w]+/g, '-').replace(/-$/, ''),
+									showtype: expo.st ? expo.st.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
 									type: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
 									period: expo.d,
 									organizer: expo.o,
-									name: expo.n,
+									name: expo.n ? expo.n.replace(/\\/g, '') : '',
 									city: expo.ct,
 									country: country,
 									enabled: 'enabled'
@@ -366,7 +374,9 @@ define([], function() {
 
 				console.log(data.continents['Europe'].countries['FR'].nb_expos, Object.keys(expos).length);
 
-				jQuery('.content-footer strong').text(Math.round(data.continents['Europe'].countries['FR'].nb_expos / Object.keys(expos).length * 100) + '%');
+				var pct = data.continents['Europe'].countries['FR'].nb_expos ? Math.round(data.continents['Europe'].countries['FR'].nb_expos / Object.keys(expos).length * 100) : 100;
+
+				jQuery('.content-footer strong').text(pct + '%');
 
 				nb_countries = $scope.countries.length;
 
@@ -470,7 +480,7 @@ define([], function() {
 										fill: fill,
 										'stroke-width': 0,
 										filledArc: new_filledArc
-									}).animate({
+									}).toBack().animate({
 										filledArc: expo.filledArc
 									}, animation_delay)
 										.hover(function() {
@@ -713,6 +723,7 @@ define([], function() {
 				// console.log("showExpoPopup(" + expo_id);
 				var the_expo = all_expos[expo_id];
 				if (the_expo) {
+					console.log(the_expo.type);
 					jQuery('#popup').attr('class', 'expo-' + the_expo.type).html(
 						'<p class="name">' + the_expo.name + '</p>' +
 						'<p class="period">Du ' + formatService.formatDate(the_expo.period[0]) +

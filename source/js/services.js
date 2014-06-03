@@ -20,6 +20,28 @@ define(['angular'], function(angular) {
 		return formatService;
 	})
 
+	.factory('langService', function($rootScope) {
+
+		var langService = {};
+
+		langService.init = function() {
+			if (!jQuery.cookie('lang')) {
+				this.setLang('fr');
+			} else {
+				this.setLang(jQuery.cookie('lang'));
+			}
+		};
+
+		langService.setLang = function(lang) {
+			jQuery.cookie('lang', lang);
+			$rootScope.lang = lang;
+			jQuery('body').removeClass('lang-fr').removeClass('lang-en');
+			jQuery('body').addClass('lang-' + $rootScope.lang);
+		};
+
+		return langService;
+	})
+
 	.factory('dataService', function($rootScope, $http, $q, localStorageService) {
 
 		var dataService = {};
@@ -55,10 +77,16 @@ define(['angular'], function(angular) {
 
 			// return dataService.getYears().then(function() {
 			// return dataService.getCountries().then(function() {
-			if (type == 'gallery') {
-				return dataService.getGallery('names');
-			} else {
-				return dataService.getArtist('names');
+			switch (type) {
+				case 'today':
+					return dataService.getToday();
+					break;
+				case 'gallery':
+					return dataService.getGallery('names');
+					break;
+				case 'artist':
+					return dataService.getArtist('names');
+					break;
 			}
 			// });
 			// });
@@ -163,6 +191,10 @@ define(['angular'], function(angular) {
 
 		dataService.getYears = function() {
 			return dataService.get('years');
+		};
+
+		dataService.getToday = function() {
+			return dataService.get('today');
 		};
 
 		return dataService;

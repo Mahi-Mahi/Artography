@@ -27,6 +27,8 @@
     "selectivizr": "~1.0.2",
     "stratos": "https://github.com/toddmotto/stratos.git#~1.4.0",
     "angular-sanitize": "~1.2.15",
-    "jquery-smartresize": "*"
+    "jquery-smartresize": "*",
+    "jquery-cookie": "~1.4.1",
+    "angular-gettext": "~0.2.9"
   }
 }

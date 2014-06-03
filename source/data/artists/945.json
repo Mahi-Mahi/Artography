@@ -1674,7 +1674,7 @@
       {
         "i": "945-8097-2008-12-04",
         "c": "CA",
-        "n": "C\\'est arrivé près de chez vous L\\'art actuel à Québe",
+        "n": "C'est arrivé près de chez vous L'art actuel à Québe",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Quebec City",
@@ -1766,7 +1766,7 @@
       {
         "i": "945-8097-2008-12-04",
         "c": "CA",
-        "n": "C\\'est arrivé près de chez vous L\\'art actuel à Québe",
+        "n": "C'est arrivé près de chez vous L'art actuel à Québe",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Quebec City",
@@ -1792,7 +1792,7 @@
       {
         "i": "945-19335-2009-02-22",
         "c": "IT",
-        "n": "COSTANTI del classico nell\\'arte del XX e XXI secolo",
+        "n": "COSTANTI del classico nell'arte del XX e XXI secolo",
         "t": "Autre",
         "st": "Group",
         "ct": "Catania, CT",
@@ -2093,7 +2093,7 @@
       {
         "i": "945-21520-2009-11-28",
         "c": "IT",
-        "n": "Twentysix Gasoline Stations ed altri libri d\\'Artista - Una collezione",
+        "n": "Twentysix Gasoline Stations ed altri libri d'Artista - Una collezione",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Messina",
@@ -2268,7 +2268,7 @@
       {
         "i": "945-21520-2009-11-28",
         "c": "IT",
-        "n": "Twentysix Gasoline Stations ed altri libri d\\'Artista - Una collezione",
+        "n": "Twentysix Gasoline Stations ed altri libri d'Artista - Una collezione",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Messina",
@@ -2896,7 +2896,7 @@
       {
         "i": "945-18034-2011-09-15",
         "c": "SG",
-        "n": "It\\'s a Wonderful Life",
+        "n": "It's a Wonderful Life",
         "t": "Galerie privée",
         "st": "Group",
         "ct": "Singapore",
@@ -3319,7 +3319,7 @@
       {
         "i": "945-2331-2012-03-21",
         "c": "LU",
-        "n": "Les Détours De L\\'abstraction",
+        "n": "Les Détours De L'abstraction",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Luxembourg",
@@ -3489,7 +3489,7 @@
       {
         "i": "945-2217-2012-09-14",
         "c": "US",
-        "n": "Materializing \\\"Six Years\\\": Lucy R. Lippard and the Emergence of Conceptual Art",
+        "n": "Materializing \"Six Years\": Lucy R. Lippard and the Emergence of Conceptual Art",
         "t": "Institution publique",
         "st": "Group",
         "ct": "New York City, NY",
@@ -3658,7 +3658,7 @@
       {
         "i": "945-2217-2012-09-14",
         "c": "US",
-        "n": "Materializing \\\"Six Years\\\": Lucy R. Lippard and the Emergence of Conceptual Art",
+        "n": "Materializing \"Six Years\": Lucy R. Lippard and the Emergence of Conceptual Art",
         "t": "Institution publique",
         "st": "Group",
         "ct": "New York City, NY",
@@ -4056,7 +4056,7 @@
       {
         "i": "945-2530-2013-12-17",
         "c": "IT",
-        "n": "Anni \\'70. Arte a Roma",
+        "n": "Anni '70. Arte a Roma",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Rome",
@@ -4136,7 +4136,7 @@
       {
         "i": "945-2530-2013-12-17",
         "c": "IT",
-        "n": "Anni \\'70. Arte a Roma",
+        "n": "Anni '70. Arte a Roma",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Rome",
@@ -4144,6 +4144,46 @@
         "d": [
           "2013-12-17",
           "2014-03-02"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "945",
+        "c": "IT",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "945-2309-2013-11-23",
+        "c": "IT",
+        "n": "When Now is Minimal. The Unknown Side of the Sammlung Goetz",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bolzano",
+        "o": "MUSEION - Museum für moderne und zeitgenössische Kunst ",
+        "d": [
+          "2013-11-23",
+          "2014-10-05"
+        ]
+      },
+      {
+        "i": "945",
+        "c": "DE",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "945-2096-2013-11-29",
+        "c": "DE",
+        "n": "Wall Works",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Hamburger Bahnhof - Museum für Gegenwart",
+        "d": [
+          "2013-11-29",
+          "2014-08-31"
         ]
       }
     ]

@@ -9,6 +9,7 @@ require.config({
 		angularSanitize: '/arts-visuels/vendor/angular-sanitize/angular-sanitize',
 		angularResource: '/arts-visuels/vendor/angular-resource/angular-resource',
 		angularLocalStorage: '/arts-visuels/vendor/angular-local-storage/angular-local-storage',
+		// angularGettext: '/arts-visuels/vendor/angular-gettext/dist/angular-gettext',
 		// ngProgress: '/arts-visuels/vendor/ngprogress/build/ngProgress',
 		raphael: '/arts-visuels/vendor/raphael/raphael',
 		jquery: '/arts-visuels/vendor/jquery/dist/jquery',
@@ -16,7 +17,9 @@ require.config({
 		// angularAnimate: '/vendor/angular-animate/angular-animate',
 		// angularMocks: '/vendor/angular-mocks/angular-mocks',
 		text: '/arts-visuels/vendor/requirejs-text/text',
-		'jquery-smartresize': '/arts-visuels/vendor/jquery-smartresize/jquery.debouncedresize'
+		'jquery-smartresize': '/arts-visuels/vendor/jquery-smartresize/jquery.debouncedresize',
+		'jquery-cookie': '/arts-visuels/vendor/jquery-cookie/jquery.cookie',
+		translations: '/arts-visuels/js/translations'
 	},
 	shim: {
 		'angular': {
@@ -26,6 +29,7 @@ require.config({
 		'angularSanitize': ['angular'],
 		'angularResource': ['angular'],
 		'angularLocalStorage': ['angular'],
+		// 'angularGettext': ['angular'],
 		// 'ngProgress': ['angular'],
 		// 'angularAnimate': ['angular'],
 		'angularMocks': {
@@ -36,6 +40,9 @@ require.config({
 			deps: ['jquery']
 		},
 		'jquery-colorbox': {
+			deps: ['jquery']
+		},
+		'jquery-cookie': {
 			deps: ['jquery']
 		}
 	},

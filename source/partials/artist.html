@@ -9,7 +9,7 @@
 			</ul>
 		</nav><!-- .main-nav -->
 		<p class="go-back">
-			<a href="#" ng-click="goBack();">Retour</a>
+			<a href="/arts-visuels/artistes">Retour</a>
 		</p>
 		<div class="entry-content">
 		</div><!-- .entry-content -->
@@ -26,7 +26,7 @@
 				<div class="entry-meta clearfix">
 					{{labels.genre[artist.genre]}} - {{artist.age}} ans
 					<ul class="unstyled" ng-if="artist.website">
-						<li class="entry-meta-item"><a href="http://{{artist.website}}" target="_blank">{{artist.website}}</a></li>
+						<li class="entry-meta-item"><a href="http://{{artist.website}}" target="_blank" translate>site internet</a></li>
 					</ul>
 				</div>
 			</section>
@@ -108,10 +108,4 @@
 
 </div><!-- .wrapper -->
 
-	<div class="credits" ng-include="'/arts-visuels/partials/credits.html'"></div><!-- .credits -->
-	<div class="nav-language">
-		<ul class="unstyled">
-			<li class="nav-language-item"><a href="#" class="active">Version française</a> | </li>
-			<li class="nav-language-item"><a href="#">English version</a></li>
-		</ul>
-	</div><!-- .nav-language -->
+<div class="credits" ng-include="'/arts-visuels/partials/footer.html'"></div><!-- .credits -->

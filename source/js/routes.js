@@ -10,17 +10,24 @@ define(['angular', 'app'], function(angular, app) {
 		}
 	]);
 
+	/*
+	app.run(function(gettextCatalog) {
+		gettextCatalog.currentLanguage = 'fr';
+		gettextCatalog.debug = true;
+	});
+	*/
+
 	return app.config(['$routeProvider',
 		function($routeProvider) {
 			console.log("routes");
 			$routeProvider.when('/', {
 				templateUrl: '/arts-visuels/partials/home.html',
-				controller: 'homeController'
-			});
-
-			$routeProvider.when('/test/', {
-				templateUrl: '/arts-visuels/partials/artist.html',
-				controller: 'artistController'
+				controller: 'homeController',
+				resolve: {
+					datasets: function(dataService) {
+						return dataService.init('today');
+					}
+				}
 			});
 
 			// ARTISTES

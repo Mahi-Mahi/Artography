@@ -1,5 +1,15 @@
 {
   "Africa": {
+    "AO": {
+      "fr": "Angola",
+      "fr_prefix": "en",
+      "en": "Angola"
+    },
+    "BJ": {
+      "fr": "Bénin",
+      "fr_prefix": "au",
+      "en": "Benin"
+    },
     "CI": {
       "fr": "Côte D'Ivoire",
       "fr_prefix": "en",
@@ -30,6 +40,11 @@
       "fr_prefix": "au",
       "en": "Morocco"
     },
+    "ML": {
+      "fr": "Mali",
+      "fr_prefix": "au",
+      "en": "Mali"
+    },
     "RE": {
       "fr": "Réunion",
       "fr_prefix": "à la",
@@ -39,6 +54,11 @@
       "fr": "Sénégal",
       "fr_prefix": "au",
       "en": "Senegal"
+    },
+    "TN": {
+      "fr": "Tunisie",
+      "fr_prefix": "en",
+      "en": "Tunisia"
     },
     "ZA": {
       "fr": "Afrique du Sud",
@@ -56,6 +76,11 @@
       "fr": "Arménie",
       "fr_prefix": "en",
       "en": "Armenia"
+    },
+    "AZ": {
+      "fr": "Azerbaïdjan",
+      "fr_prefix": "en",
+      "en": "Azerbaijan"
     },
     "CN": {
       "fr": "Chine",
@@ -112,6 +137,11 @@
       "fr_prefix": "en",
       "en": "Korea (South)"
     },
+    "KW": {
+      "fr": "Koweït",
+      "fr_prefix": "au",
+      "en": "Kuwait"
+    },
     "LB": {
       "fr": "Liban",
       "fr_prefix": "au",
@@ -121,6 +151,11 @@
       "fr": "Philippines",
       "fr_prefix": "aux",
       "en": "Philippines"
+    },
+    "PS": {
+      "fr": "Palestina",
+      "fr_prefix": "en",
+      "en": "Palestine"
     },
     "QA": {
       "fr": "Qatar",
@@ -146,6 +181,11 @@
       "fr": "Taïwan",
       "fr_prefix": "à",
       "en": "Taiwan"
+    },
+    "VN": {
+      "fr": "Viêt Nam",
+      "fr_prefix": "au",
+      "en": "Vietnam"
     }
   },
   "Australia": {
@@ -161,6 +201,11 @@
     }
   },
   "Europe": {
+    "AL": {
+      "fr": "Albanie",
+      "fr_prefix": "en",
+      "en": "Albania"
+    },
     "AT": {
       "fr": "Autriche",
       "fr_prefix": "en",
@@ -271,10 +316,20 @@
       "fr_prefix": "au",
       "en": "Luxembourg"
     },
+    "LV": {
+      "fr": "Lettonie",
+      "fr_prefix": "en",
+      "en": "Latvia"
+    },
     "MC": {
       "fr": "Monaco",
       "fr_prefix": "à",
       "en": "Monaco"
+    },
+    "MD": {
+      "fr": "Moldavie",
+      "fr_prefix": "",
+      "en": "Moldova"
     },
     "ME": {
       "fr": "Monténégro",
@@ -358,10 +413,20 @@
       "fr_prefix": "au",
       "en": "Canada"
     },
+    "CR": {
+      "fr": "Costa Rica",
+      "fr_prefix": "au",
+      "en": "Costa Rica"
+    },
     "CU": {
       "fr": "Cuba",
       "fr_prefix": "à",
       "en": "Cuba"
+    },
+    "DO": {
+      "fr": "République Dominicaine",
+      "fr_prefix": "en",
+      "en": "Dominican Republic"
     },
     "GT": {
       "fr": "Guatemala",
@@ -410,6 +475,16 @@
       "fr_prefix": "en",
       "en": "Colombia"
     },
+    "EC": {
+      "fr": "Équateur",
+      "fr_prefix": "en",
+      "en": "Ecuador"
+    },
+    "PE": {
+      "fr": "Pérou",
+      "fr_prefix": "au",
+      "en": "Peru"
+    },
     "PY": {
       "fr": "Paraguay",
       "fr_prefix": "au",
@@ -419,6 +494,11 @@
       "fr": "Uruguay",
       "fr_prefix": "en",
       "en": "Uruguay"
+    },
+    "VE": {
+      "fr": "Venezuela",
+      "fr_prefix": "au",
+      "en": "Venezuela"
     }
   }
 }

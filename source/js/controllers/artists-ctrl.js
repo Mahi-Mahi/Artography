@@ -61,7 +61,7 @@ define([], function() {
 			// default period
 			$scope.filters = {
 				artist: '',
-				period: 2013,
+				period: 2014,
 				genres: ['m', 'f', 'c'],
 				ages: ['0-25', '26-40', '41-60', '61-100']
 			};
@@ -256,6 +256,12 @@ define([], function() {
 				logo_margin = 22,
 				logo_width = central_radius + logo_margin,
 				logo_height = (central_radius * logo_ratio) + logo_margin;
+
+		raphael.circle(originX, originY, central_radius).attr({
+			fill: '#FFF',
+			opacity: 1,
+			'stroke-width': 0
+		}).toFront();
 			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
 			// var circle_mark_incr = 12;
 			// var circle_mark_angle = 0;
@@ -511,7 +517,7 @@ define([], function() {
 										stroke: '#FFFFFF',
 										'stroke-width': 0,
 										filledArc: [originX, originY, central_radius, 0, a - a_interval, rotation]
-									}).animate({
+									}).toBack().animate({
 										filledArc: filledArc
 									}, animation_delay)
 										.hover(function() {
@@ -698,6 +704,8 @@ define([], function() {
 						fill: fontColor,
 						'font-weight': fontWeight
 					});
+					// TODO
+					// .node.setAttributes
 					var character = letter.attr('text'),
 						kern = 0;
 					letters.push(letter);

@@ -964,7 +964,7 @@
       {
         "i": "1452-4597-2009-12-12",
         "c": "IT",
-        "n": "L\\'arte è una parola",
+        "n": "L'arte è una parola",
         "t": "Galerie privée",
         "st": "Group",
         "ct": "Florence",
@@ -1445,7 +1445,7 @@
       {
         "i": "1452-5827-2011-11-09",
         "c": "US",
-        "n": "Tour de France/Florida: Contemporary Artists from France in Florida\\'s Private Collections",
+        "n": "Tour de France/Florida: Contemporary Artists from France in Florida's Private Collections",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Miami, FL",
@@ -1563,7 +1563,7 @@
       {
         "i": "1452-4597-2009-12-12",
         "c": "IT",
-        "n": "L\\'arte è una parola",
+        "n": "L'arte è una parola",
         "t": "Galerie privée",
         "st": "Group",
         "ct": "Florence",
@@ -1745,7 +1745,7 @@
       {
         "i": "1452-2217-2012-09-14",
         "c": "US",
-        "n": "Materializing \\\"Six Years\\\": Lucy R. Lippard and the Emergence of Conceptual Art",
+        "n": "Materializing \"Six Years\": Lucy R. Lippard and the Emergence of Conceptual Art",
         "t": "Institution publique",
         "st": "Group",
         "ct": "New York City, NY",
@@ -1952,7 +1952,7 @@
       {
         "i": "1452-5827-2011-11-09",
         "c": "US",
-        "n": "Tour de France/Florida: Contemporary Artists from France in Florida\\'s Private Collections",
+        "n": "Tour de France/Florida: Contemporary Artists from France in Florida's Private Collections",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Miami, FL",
@@ -2155,7 +2155,7 @@
       {
         "i": "1452-2217-2012-09-14",
         "c": "US",
-        "n": "Materializing \\\"Six Years\\\": Lucy R. Lippard and the Emergence of Conceptual Art",
+        "n": "Materializing \"Six Years\": Lucy R. Lippard and the Emergence of Conceptual Art",
         "t": "Institution publique",
         "st": "Group",
         "ct": "New York City, NY",
@@ -2396,6 +2396,27 @@
       }
     ],
     "2015": [
+      {
+        "i": "1452-12218-2013-05-05",
+        "c": "DE",
+        "n": "KoelnSkulptur #7",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Cologne",
+        "o": "Skulpturenpark Köln",
+        "d": [
+          "2013-05-05",
+          "2015-03-01"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "1452",
+        "c": "DE",
+        "g": "m",
+        "a": "61-100"
+      },
       {
         "i": "1452-12218-2013-05-05",
         "c": "DE",

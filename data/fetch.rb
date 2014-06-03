@@ -4,7 +4,6 @@
 Encoding.default_external = Encoding::UTF_8
 Encoding.default_internal = Encoding::UTF_8
 
-
 require 'csv'
 require 'json'
 require 'pp'
@@ -16,6 +15,8 @@ require 'countries'
 # require 'curb'
 require 'httpi'
 require 'time_diff'
+
+I18n.enforce_available_locales = false
 
 production = false
 
@@ -78,6 +79,10 @@ JSON.parse(open("country_prepositions.json").read).each do |c|
 	country_prepositions[c['code']] = c['french_preposition'].downcase
 end
 
+
+nb_datas = 5000
+
+
 artists = {}
 continents = {}
 expo_types = []
@@ -91,17 +96,21 @@ years = []
 fairs = {2014 => []}
 galleries = {}
 
-today_expos = []
-today_fairs = {
-	countries: {},
-	galleries: {}
+today = {
+	:expos => {
+		:countries => [],
+		:artists => []
+	},
+	:fairs => {
+		:countries => [],
+		:galleries => []
+	}
 }
 
 af_galleries = fetch('/v0/gallery/list')
 
 pp "#{af_galleries.length} galleries"
 
-nb_datas = 50
 
 af_galleries.shuffle.slice(0, nb_datas).each do |gallery|
 
@@ -141,8 +150,9 @@ af_galleries.shuffle.slice(0, nb_datas).each do |gallery|
 				rescue
 				end
 
-				fair_detail[:n] = af_fair['title'].gsub(/\\/, '')
+				fair_detail[:n] = af_fair['title'].nil? ? '' : af_fair['title'].gsub(/\\/, '')
 				fair_detail[:ct] = af_fair['city']
+
 
 				af_fair['year'] = af_fair['year'].to_i
 
@@ -157,12 +167,9 @@ af_galleries.shuffle.slice(0, nb_datas).each do |gallery|
 				else
 					gallery[:fairs][af_fair['year']] << fair_detail unless gallery[:fairs][af_fair['year']].include?(fair_detail)
 
-					p af_fair['year']
-
-					if af_fair['year'] == Date.today.year
-						p fair
-						today_fairs[:countries] << fair_detail[:c] unless today_fairs[:countries].include?(fair_detail[:c])
-						today_fairs[:galleries] << fair[:i] unless today_fairs[:galleries].include?(fair[:i])
+					if af_fair['year'] == 2013 # Date.today.year
+						today[:fairs][:countries] << fair_detail[:c] unless today[:fairs][:countries].include?(fair_detail[:c])
+						today[:fairs][:galleries] << fair[:i] unless today[:fairs][:galleries].include?(fair[:i])
 					end
 				end
 
@@ -178,10 +185,7 @@ af_galleries.shuffle.slice(0, nb_datas).each do |gallery|
 
 end
 
-p today_fairs
-
-p "in #{Date.today.year}, #{today_fairs[:galleries].length} exposent dans #{today_fairs[:countries].length}"
-
+pp "in #{Date.today.year}, #{today[:fairs][:galleries].length} galeries exposent dans #{today[:fairs][:countries].length} pays"
 
 af_artists = fetch('/v0/artist/list')
 
@@ -261,7 +265,7 @@ af_artists.shuffle.slice(0, nb_datas).each do |artist|
 					expo[:g] = artist[:genre]
 					expo[:a] = artist[:age_range]
 
-					expo_detail[:n] = af_expo['Title']
+					expo_detail[:n] = af_expo['Title'].nil? ? '' : af_expo['Title'].gsub(/\\/, '')
 
 					case af_expo['type']
 					when "Public Institution"
@@ -277,7 +281,7 @@ af_artists.shuffle.slice(0, nb_datas).each do |artist|
 
 					expo_detail[:st] = af_expo['show-type']
 					expo_detail[:ct] = af_expo['city']
-					expo_detail[:o] = af_expo['organizer']
+					expo_detail[:o] = af_expo['organizer'].nil? ? '' : af_expo['organizer'].gsub(/\\/, '')
 					expo_detail[:d] = [af_expo['BeginDate'], af_expo['EndDate']]
 
 					expo_types << af_expo['type'] unless af_expo['type'].nil? #expo_types.include?(af_expo['type'])
@@ -308,10 +312,18 @@ af_artists.shuffle.slice(0, nb_datas).each do |artist|
 						end
 					end
 
+					expo_begin = Date.today
+					expo_end = Date.today
 					begin
-						if Date.strptime(af_expo['BeginDate'], '%Y-%m-%d') < Date.today && Date.strptime(af_expo['EndDate'], '%Y-%m-%d') > Date.today
-							expos[:today] = [] if expos[:today].nil?
-							expos[:today] << expo unless expos[:today].include?(expo)
+						expo_begin = Date.strptime(af_expo['BeginDate'], '%Y-%m-%d')
+						expo_end = Date.strptime(af_expo['EndDate'], '%Y-%m-%d')
+					rescue
+					end
+
+					# begin
+						if expo_begin < Date.today && expo_end > Date.today
+							artist[:expos][:today] = [] if artist[:expos][:today].nil?
+							artist[:expos][:today] << expo unless artist[:expos][:today].include?(expo)
 
 							if af_expo['country'] == 'France'
 								artist[:expos][:today] << {i: expo_detail[:i], c: 'FR'}
@@ -319,9 +331,16 @@ af_artists.shuffle.slice(0, nb_datas).each do |artist|
 								artist[:expos][:today] << expo_detail unless artist[:expos][:today].include?(expo_detail)
 							end
 
+							p 'TODAY'
+
+							today[:expos][:countries] << expo_detail[:c] unless today[:expos][:countries].include?(expo_detail[:c])
+							today[:expos][:artists] << expo[:i] unless today[:expos][:artists].include?(expo[:i])
+
 						end
-					rescue
-					end
+					# rescue
+					# 	p 'bug'
+					# 	p af_expo
+					# end
 
 				end
 			end
@@ -336,9 +355,19 @@ af_artists.shuffle.slice(0, nb_datas).each do |artist|
 
 end
 
+pp today[:fairs]
+
+pp "Aujourd'hui, #{today[:expos][:artists].length} artistes exposent dans #{today[:expos][:countries].length} pays"
+
 
 
 FileUtils.rm_rf("json/.", secure: true)
+
+# Today
+filename = "json/today.json"
+content = production ? today.to_json : JSON.pretty_generate(today)
+File.open(filename, 'w') { |file| file.write content }
+
 
 years.uniq!.sort!.reverse!
 # Years
@@ -427,6 +456,7 @@ FileUtils.rm_rf("../source/data", secure: true)
 FileUtils.mkdir_p "../source/data"
 FileUtils.cp("json/years.json", "../source/data/years.json")
 FileUtils.cp("json/countries.json", "../source/data/countries.json")
+FileUtils.cp("json/today.json", "../source/data/today.json")
 FileUtils.cp_r("json/expos", "../source/data/expos")
 FileUtils.cp_r("json/artists", "../source/data/artists")
 FileUtils.cp_r("json/fairs", "../source/data/fairs")

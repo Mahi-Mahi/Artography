@@ -8,11 +8,13 @@ define([
 	'angularResource',
 	'angularLocalStorage',
 	'angularSanitize',
+	// 'angularGettext',
 	// 'ngProgress',
 	'raphael',
 	'jquery',
 	'jquery-smartresize',
-	'jquery-colorbox'
+	'jquery-colorbox',
+	'jquery-cookie'
 	// 'angularAnimate',
 ], function(angular, filters, services, directives, controllers) {
 	'use strict';
@@ -25,6 +27,7 @@ define([
 		'ngRoute',
 		'ngResource',
 		'ngSanitize',
+		// 'gettext',
 		// 'ngProgress',
 		// 'ngAnimate',
 		'myApp.controllers',

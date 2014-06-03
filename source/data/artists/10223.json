@@ -729,7 +729,7 @@
       {
         "i": "10223-8882-2012-06-23",
         "c": "US",
-        "n": "Lucien Clergue - A Master\\'s Eye",
+        "n": "Lucien Clergue - A Master's Eye",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "West Hollywood, CA",
@@ -841,6 +841,18 @@
       }
     ],
     "2014": [
+      {
+        "i": "10223-23875-2013-12-06",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "10223",
+        "c": "FR",
+        "g": "m",
+        "a": "61-100"
+      },
       {
         "i": "10223-23875-2013-12-06",
         "c": "FR"

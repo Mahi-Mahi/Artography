@@ -161,15 +161,17 @@ define([], function() {
 
 			var central_radius = divW / 12;
 
-			raphael.circle(originX, originY, central_radius - 5).attr({
-				'stroke': '#333',
-				'stroke-width': 1
-			});
-
 			var logo_ratio = 168 / 288,
 				logo_margin = 12,
 				logo_width = central_radius + logo_margin,
 				logo_height = (central_radius * logo_ratio) + logo_margin;
+
+			raphael.circle(originX, originY, central_radius).attr({
+				fill: '#FFF',
+				opacity: 1,
+				'stroke-width': 0
+			}).toFront();
+
 			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
 
 			// create continents/countries container
@@ -400,7 +402,7 @@ define([], function() {
 									fill: '#000',
 									'stroke-width': 0,
 									filledArc: new_filledArc
-								}).animate({
+								}).toBack().animate({
 									filledArc: fair.filledArc
 								}, animation_delay)
 									.hover(function() {
