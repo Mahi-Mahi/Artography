@@ -11,7 +11,8 @@ define([
 	// 'ngProgress',
 	'raphael',
 	'jquery',
-	'jquery-smartresize'
+	'jquery-smartresize',
+	'jquery-colorbox'
 	// 'angularAnimate',
 ], function(angular, filters, services, directives, controllers) {
 	'use strict';

@@ -12,6 +12,7 @@ require.config({
 		// ngProgress: '/arts-visuels/vendor/ngprogress/build/ngProgress',
 		raphael: '/arts-visuels/vendor/raphael/raphael',
 		jquery: '/arts-visuels/vendor/jquery/dist/jquery',
+		'jquery-colorbox': '/arts-visuels/vendor/jquery-colorbox/jquery.colorbox',
 		// angularAnimate: '/vendor/angular-animate/angular-animate',
 		// angularMocks: '/vendor/angular-mocks/angular-mocks',
 		text: '/arts-visuels/vendor/requirejs-text/text',
@@ -32,6 +33,9 @@ require.config({
 			'exports': 'angular.mock'
 		},
 		'jquery-smartresize': {
+			deps: ['jquery']
+		},
+		'jquery-colorbox': {
 			deps: ['jquery']
 		}
 	},
