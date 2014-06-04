@@ -42,7 +42,7 @@ define([], function() {
 			$scope.periods = [];
 			angular.forEach($scope.artist.expos, function(expos, year) {
 				var has_expos = false;
-				angular.forEach(expos, function(expo, idx) {
+				angular.forEach(expos, function(expo) {
 					if (expo.c !== 'FR')
 						has_expos = true;
 				});
@@ -69,7 +69,6 @@ define([], function() {
 			});
 
 			var all_expos = {};
-			var french_expos = {};
 
 			var expo_types = [];
 
@@ -79,7 +78,6 @@ define([], function() {
 			// Countries list
 			$scope.countries = [];
 			$scope.organizers = {};
-			$scope.artist_news = [];
 			// $scope.organizers_list = [{
 			// 	name: 'TOTO',
 			// 	counter: 123
@@ -255,19 +253,19 @@ define([], function() {
 
 			function showActus() {
 				if ($scope.artist.expos.today) {
-					var the_expo = $scope.artist.expos.today[0];
-					$scope.artist_news = [];
-					if (the_expo) {
-						jQuery('.news-block li').html(the_expo.n + '<br />' +
-							(the_expo.d ? (
-								'Du ' + formatService.formatDate(the_expo.d[0]) +
-								(the_expo.d[1] ? (' Au ' + formatService.formatDate(the_expo.d[1])) : '') + '<br />') : '') +
-							the_expo.o + ' / @' + the_expo.ct + ',' + the_expo.c).show();
-					} else {
-						jQuery('.news-block').hide();
-					}
+					angular.forEach($scope.artist.expos.today, function(the_expo) {
+						jQuery('.news-block')
+							.html('<li class="news-block-item">' + the_expo.n + '<br />' +
+								(the_expo.d ? ('Du ' + formatService.formatDate(the_expo.d[0]) + (the_expo.d[1] ? (' Au ' + formatService.formatDate(the_expo.d[1])) : '') + '<br />') : '') +
+								the_expo.o + ' / @' + the_expo.ct + ',' + the_expo.c + '</li>')
+							.show();
+						adaptSidebarFormHeight();
+						return;
+					});
+				} else {
+					jQuery('.news-block').hide();
+					adaptSidebarFormHeight();
 				}
-				jQuery('.news-block').hide();
 			}
 
 			showActus();
@@ -372,7 +370,7 @@ define([], function() {
 					}
 				});
 
-				console.log(data.continents['Europe'].countries['FR'].nb_expos, Object.keys(expos).length);
+				// console.log(data.continents['Europe'].countries['FR'].nb_expos, Object.keys(expos).length);
 
 				var pct = data.continents['Europe'].countries['FR'].nb_expos ? Math.round(data.continents['Europe'].countries['FR'].nb_expos / Object.keys(expos).length * 100) : 100;
 
@@ -743,21 +741,22 @@ define([], function() {
 						jQuery(this).stop().fadeOut();
 					});
 				}
-			}
+			};
 
 			jQuery('.expandable').on('click', function() {
 				jQuery(this).toggleClass('expandable-close');
 				jQuery(this).parent().find('.js-expandable').slideToggle('slow');
 			});
 
-			var adaptSidebarFormHeight = function() {
-				var sidebarLeftFormHeight = jQuery(window).height() - (jQuery('.entry-header').height() + jQuery('.left-sidebar > section').height() + 170);
-				var sidebarRightFormHeight = jQuery(window).height() - (jQuery('.entry-description').height() + 100) - (jQuery('.news-block').height() + 100);
+			function adaptSidebarFormHeight() {
+				var sidebarLeftFormHeight = jQuery(window).height() - (jQuery('.entry-header').outerHeight() + jQuery('.left-sidebar > section').outerHeight());
+				var sidebarRightFormHeight = jQuery(window).height() - (jQuery('.entry-description').outerHeight() + 100) - (jQuery('.about').outerHeight() + 10) - (jQuery('.news-block li').length ? jQuery('.news-block').outerHeight() + 10 : 0);
 				jQuery('.sidebar-form').css('height', sidebarLeftFormHeight);
 				jQuery('.sidebar-form-right').find('ul').css('height', sidebarRightFormHeight);
-			};
+			}
 
 			adaptSidebarFormHeight();
+
 		}
 
 	];

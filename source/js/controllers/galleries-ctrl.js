@@ -708,8 +708,8 @@ define([], function() {
 			});
 
 			var adaptSidebarFormHeight = function() {
-				var sidebarLeftFormHeight = jQuery(window).height() - (jQuery('.entry-header').height() + jQuery('.left-sidebar > section').height() + 170);
-				var sidebarRightFormHeight = jQuery(window).height() - (jQuery('.entry-description').height() + 100);
+				var sidebarLeftFormHeight = jQuery(window).height() - (jQuery('.entry-header').outerHeight() + jQuery('.left-sidebar > section').outerHeight() + 170);
+				var sidebarRightFormHeight = jQuery(window).height() - (jQuery('.entry-description').outerHeight() + 100) - (jQuery('.about').outerHeight() + 10);
 				jQuery('.sidebar-form').css('height', sidebarLeftFormHeight);
 				jQuery('.sidebar-form-right').find('ul').css('height', sidebarRightFormHeight);
 			};

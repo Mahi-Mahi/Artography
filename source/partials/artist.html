@@ -91,7 +91,7 @@
 			<form class="sidebar-form-right">
 				<input type="text" value="" class="input-sidebar" placeholder="Rechercher une exposition..." ng-model="searchText" ng-change="searchExpos();" />
 				<ul class="unstyled">
-					<li ng-repeat="expo in expos_list"  class="exposition-item {{expo.enabled}} {{expo.type}}" ng-click="showExpoPopup(expo.id, true)">{{expo.name}}</li>
+					<li ng-repeat="expo in expos_list"  class="exposition-item {{expo.enabled}} {{expo.type}}" ng-click="showExpoPopup(expo.id, true)" ng-if="expo.name">{{expo.name}}</li>
 				</ul>
 			</form>
 

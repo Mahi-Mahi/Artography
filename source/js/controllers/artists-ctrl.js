@@ -257,11 +257,11 @@ define([], function() {
 				logo_width = central_radius + logo_margin,
 				logo_height = (central_radius * logo_ratio) + logo_margin;
 
-		raphael.circle(originX, originY, central_radius).attr({
-			fill: '#FFF',
-			opacity: 1,
-			'stroke-width': 0
-		}).toFront();
+			raphael.circle(originX, originY, central_radius).attr({
+				fill: '#FFF',
+				opacity: 1,
+				'stroke-width': 0
+			}).toFront();
 			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
 			// var circle_mark_incr = 12;
 			// var circle_mark_angle = 0;
@@ -849,14 +849,13 @@ define([], function() {
 			});
 
 			var adaptSidebarFormHeight = function() {
-				var sidebarLeftFormHeight = jQuery(window).height() - (jQuery('.entry-header').height() + jQuery('.left-sidebar > section').height() + 170);
-				var sidebarRightFormHeight = jQuery(window).height() - (jQuery('.entry-description').height() + 100);
+				var sidebarLeftFormHeight = jQuery(window).height() - (jQuery('.entry-header').outerHeight() + jQuery('.left-sidebar > section').outerHeight() + 170);
+				var sidebarRightFormHeight = jQuery(window).height() - (jQuery('.entry-description').outerHeight() + 100) - (jQuery('.about').outerHeight() + 10);
 				jQuery('.sidebar-form').css('height', sidebarLeftFormHeight);
 				jQuery('.sidebar-form-right').find('ul').css('height', sidebarRightFormHeight);
 			};
 
 			adaptSidebarFormHeight();
-
 		}
 
 	];

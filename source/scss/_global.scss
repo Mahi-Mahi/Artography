@@ -640,7 +640,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	border-radius:8px;
 	color:#fff;
 	font-size:em(24px);
-	margin: 0 40px 0 0;
+	margin: 10px 40px 0 0;
 	padding:16px;
 	h2 {
 		display: block;
@@ -776,7 +776,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 }
 
 .nav-language {
-	// display: none;
+	display: none;
 	margin: 0;
 	padding: 0 0 1em 0;
 	text-align: center;
@@ -794,7 +794,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 .credits {
 	position:fixed;
 	left:40px;
-	bottom:40px;
+	bottom:10px;
 	width:300px;
 	z-index:10;
 }
