@@ -34,7 +34,7 @@
   "2005-shows-museums": "8",
   "2005-countries-total": "France (8), Belgium (6), Switzerland (3), Germany (2), USA (2), Taiwan (1)",
   "2005-shows-with": "Olivier Blanckart (20), Claire Fontaine (5), Carlos Aires (4), Gilles Barbier (4), Wim Delvoye (4), Richard Fauguet (4), Gottfried Helnwein (4), John Isaacs (4), Bertrand Lavier (4), Ronald Ophuis (4), Bruno Peinado (4), Samuel Rousseau (4), Ernest T. (4), Gavin Turk (4), Céleste Boursier-Mougenot (3), Ronald Dagonnier (3), Jimi Dams (3), Damien Deroubaix (3), Al Farrow (3), Shadi Ghadirian (3), Frances Goodman (3), Dennis Kardon (3), Arnaud Labelle-Rojoux (3), Jacques Lizène (3), Philippe Mayaux (3), Dominic McGill (3), David Nicholson (3), Yoshua Okon (3), Éric Pougeau (3), Léopold Rabus (3), Markus Raetz (3), Kurt Treeby (3), Marina Abramovic (2), Saâdane Afif (2), Ryuta Amae (2), Ghada Amer (2), Per Barclay (2), Julien Berthier (2), Amanda Besl (2), Pierre Bismuth (2), Michel Blazy (2), Delphine Boël (2), Pierre-Yves Bohm (2), Christian Boltanski (2), Daniele Buetti (2), Stéphane Calais (2), Mircea Cantor (2), Charley Case (2), Colin Cook (2), Nicolas Darrot (2), Luc Delahaye (2), Philippe Dereux (",
-  "representing-galleries": "AEROPLASTICS contemporary (32 rue Blanche straat, B-1060 Brussels, Belgium); Galerie Loevenbruck (6,rue Jacques Callot, 75006 Paris, France); Galerie Guy Bärtschi (Route des Jeunes 43, Allée G, 1227 Geneva, Switzerland)",
+  "representing-galleries": "Galerie Loevenbruck (6,rue Jacques Callot, 75006 Paris, France); Galerie Guy Bärtschi (Route des Jeunes 43, Allée G, 1227 Geneva, Switzerland)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC Aquitaine (Hangar G2, Bassin à flot n°1, Quai Armand Lalande, 33300 Bordeaux, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France); Proje4L - Elgiz Museum of Contemporary Art (Meydan Sokak, Beybi Giz Plaza B Blok, 34398 Istanbul, Turkey)",
   "first_name": "Olivier",
   "last_name": "Blanckart",
@@ -129,7 +129,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Istanbul",
-        "o": "Proje4L/Elgiz Museum of Contemporary Art",
+        "o": "Proje4L - Elgiz Museum of Contemporary Art",
         "d": [
           "2007-09-06",
           "2007-12-01"
@@ -422,19 +422,6 @@
     ],
     "2013": [
       {
-        "i": "10294-27991-2013-01-01",
-        "c": "BE",
-        "n": "That´s all Folks!",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Bruges",
-        "o": "Stadshallen",
-        "d": [
-          "2013-01-01",
-          "2013-01-01"
-        ]
-      },
-      {
         "i": "10294-2028-2013-02-07",
         "c": "FR"
       },
@@ -445,7 +432,7 @@
       {
         "i": "10294-27771-2013-03-07",
         "c": "BE",
-        "n": "Collection Centre national des arts plastiques",
+        "n": "L&#8217;ORIGINE DES CHOSES - Collection Centre national des arts plastiques",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Brussels",

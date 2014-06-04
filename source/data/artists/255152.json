@@ -96,6 +96,14 @@
         ]
       },
       {
+        "i": "255152-30491-2011-06-17",
+        "c": "FR"
+      },
+      {
+        "i": "255152-30491-2011-06-17",
+        "c": "FR"
+      },
+      {
         "i": "255152-6778-2011-07-05",
         "c": "ES",
         "n": "Alain Delorme - Totems",
@@ -126,6 +134,19 @@
       {
         "i": "255152-2090-2011-12-10",
         "c": "FR"
+      },
+      {
+        "i": "255152-19035-2012-04-30",
+        "c": "PL",
+        "n": "Free ride art space / bicycle exhibition",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Wroclaw",
+        "o": "BWA Wroclaw - Gallery of Contemporary Art ",
+        "d": [
+          "2012-04-30",
+          "2012-06-17"
+        ]
       },
       {
         "i": "255152-26782-2012-05-30",
@@ -167,6 +188,19 @@
         ]
       },
       {
+        "i": "255152-30093-2012-12-14",
+        "c": "IT",
+        "n": "Old Story / New Twists",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Bari",
+        "o": "Doppelgaenger",
+        "d": [
+          "2012-12-14",
+          "2013-02-23"
+        ]
+      },
+      {
         "i": "255152-18982-2011-11-18",
         "c": "DE",
         "n": "Totems",
@@ -186,6 +220,47 @@
       {
         "i": "255152-24164-2012-04-19",
         "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "255152-30093-2012-12-14",
+        "c": "IT",
+        "n": "Old Story / New Twists",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Bari",
+        "o": "Doppelgaenger",
+        "d": [
+          "2012-12-14",
+          "2013-02-23"
+        ]
+      },
+      {
+        "i": "255152-5239-2013-07-10",
+        "c": "IT",
+        "n": "Free ride art space",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Milan",
+        "o": "Careof – Fabbrica del Vapore",
+        "d": [
+          "2013-07-10",
+          "2013-09-30"
+        ]
+      },
+      {
+        "i": "255152-18982-2013-09-21",
+        "c": "DE",
+        "n": "Alain Delorme  - Murmurations",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "taubert contemporary",
+        "d": [
+          "2013-09-21",
+          "2013-11-09"
+        ]
       }
     ],
     "2006": [
@@ -221,21 +296,6 @@
       {
         "i": "255152-2090-2010-09-04",
         "c": "FR"
-      }
-    ],
-    "2013": [
-      {
-        "i": "255152-18982-2013-09-21",
-        "c": "DE",
-        "n": "Alain Delorme  - Murmurations",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "taubert contemporary",
-        "d": [
-          "2013-09-21",
-          "2013-11-09"
-        ]
       }
     ]
   }

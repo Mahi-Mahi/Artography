@@ -33,7 +33,7 @@
   "2005-shows-galleries": "6",
   "2005-shows-museums": "16",
   "2005-countries-total": "France (8), Germany (4), Israel (4), Turkey (3), Austria (2), Brazil (2), Spain (2), USA (2), Russia (1), United Kingdom (1)",
-  "2005-shows-with": "Brice Dellsperger (23), Jean Luc Blanc (3), Laurent Grasso (3), Eva Grubinger (3), Gabriël Lester (3), Fabian Marti (3), Seza Paker (3), Jim Shaw (3), Jean-Luc Verna (3), Wang Du (3), Art & Language (2), Dan Attoe (2), Abel Auer (2), Avner Ben Gal (2), Mareike Bernien (2), Armin Boehm (2), Pauline Boudry & Renate Lorenz (2), Ulla von Brandenburg (2), Cris Brodahl (2), Christoph Büchel (2), Nina Canell (2), Steven Claydon (2), Claude Closky (2), Aaron Curry (2), Enrico David (2), Kaye Donachie (2), Michael Esposito (2), Cerith Wyn Evans (2), Nir Evron (2), Matias Faldbakken (2), Gretchen Faust (2), Simone Gilges (2), Liam Gillick (2), Goldin + Senneby (2), Zvi Goldstein (2), Fabrice Gygi (2), Julian Göthe (2), Carl Michael von Hausswolff (2), Michal Helfman (2), Lothar Hempel (2), Uwe Henneken (2), Benedikt Hipp (2), Karl Holmqvist (2), Jenny Holzer (2), Jonathan Horowitz (2), Rashid Johnson (2), Edward Kay (2), Mike Kelley (2), Joachim Koester (2), Terence Koh (2), Koo Dong-Hee (2), Jan Kopp (2), Bernd Kra",
+  "2005-shows-with": "Brice Dellsperger (23), Jean Luc Blanc (3), Laurent Grasso (3), Eva Grubinger (3), Gabriël Lester (3), Fabian Marti (3), Seza Paker (3), Jim Shaw (3), Jean-Luc Verna (3), Wang Du (3), Art & Language (2), Dan Attoe (2), Abel Auer (2), Avner Ben Gal (2), Mareike Bernien (2), Armin Boehm (2), Ulla von Brandenburg (2), Cris Brodahl (2), Christoph Büchel (2), Nina Canell (2), Steven Claydon (2), Claude Closky (2), Aaron Curry (2), Enrico David (2), Kaye Donachie (2), Michael Esposito (2), Cerith Wyn Evans (2), Nir Evron (2), Matias Faldbakken (2), Gretchen Faust (2), Simone Gilges (2), Liam Gillick (2), Goldin + Senneby (2), Zvi Goldstein (2), Fabrice Gygi (2), Julian Göthe (2), Carl Michael von Hausswolff (2), Michal Helfman (2), Lothar Hempel (2), Uwe Henneken (2), Benedikt Hipp (2), Karl Holmqvist (2), Jenny Holzer (2), Jonathan Horowitz (2), Rashid Johnson (2), Edward Kay (2), Mike Kelley (2), Joachim Koester (2), Terence Koh (2), Koo Dong-Hee (2), Jan Kopp (2), Bernd Krauß (2), Skafte Kuhn (2), Elad Lassr",
   "representing-galleries": "Air de Paris (32, rue Louise Weiss, 75013 Paris, France); Art-netart (66 bis, avenue Jean-Moulin, 75014 Paris, France); team (gallery, inc.) (83 Grand Street, 10013 New York City, NY, USA)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Brice",
@@ -84,18 +84,6 @@
         ]
       },
       {
-        "i": "5298-4251-2005-09-23",
-        "c": "LT",
-        "n": "The IX Baltic Triennial of International Art - BMW",
-        "st": "Group",
-        "ct": "Vilnius",
-        "o": "The Baltic Triennial of International Art",
-        "d": [
-          "2005-09-23",
-          "2005-11-20"
-        ]
-      },
-      {
         "i": "5298-2589-2005-09-23",
         "c": "LT",
         "n": "BMW",
@@ -103,6 +91,18 @@
         "st": "Group",
         "ct": "Vilnius",
         "o": "Contemporary Art Centre (CAC)",
+        "d": [
+          "2005-09-23",
+          "2005-11-20"
+        ]
+      },
+      {
+        "i": "5298-4251-2005-09-23",
+        "c": "LT",
+        "n": "The IX Baltic Triennial of International Art - BMW",
+        "st": "Group",
+        "ct": "Vilnius",
+        "o": "The Baltic Triennial of International Art",
         "d": [
           "2005-09-23",
           "2005-11-20"
@@ -228,7 +228,7 @@
         "n": "No, future",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Bloomberg Space",
         "d": [
           "2007-09-29",
@@ -568,7 +568,7 @@
         "n": "Interiority Complex",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "CUBITT",
         "d": [
           "2012-09-06",

@@ -43,50 +43,6 @@
   "age": 68,
   "age_range": "61-100",
   "expos": {
-    "2013": [
-      {
-        "i": "2500-30580-2013-04-19",
-        "c": "CH",
-        "n": "Jean-François Dubreuil, Les nouvelles sont bonnes",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Fribourg",
-        "o": "La Vitrine",
-        "d": [
-          "2013-04-19",
-          "2013-06-22"
-        ]
-      },
-      {
-        "i": "2500-27666-2012-12-01",
-        "c": "DE",
-        "n": "Concrete: The Small Format",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Saarbrücken",
-        "o": "Galerie St. Johann",
-        "d": [
-          "2012-12-01",
-          "2013-01-26"
-        ]
-      },
-      {
-        "i": "2500-10247-2012-12-21",
-        "c": "FR"
-      },
-      {
-        "i": "2500-21159-2013-06-13",
-        "c": "FR"
-      },
-      {
-        "i": "2500-21159-2013-06-13",
-        "c": "FR"
-      },
-      {
-        "i": "2500-10247-2013-12-11",
-        "c": "FR"
-      }
-    ],
     "2005": [
       {
         "i": "2500-525-2005-11-19",
@@ -237,10 +193,10 @@
         ]
       },
       {
-        "i": "2500-27666-2009-12-10",
+        "i": "2500-19507-2009-12-10",
         "c": "DE",
-        "n": "Works on Papers",
-        "t": "Autre",
+        "n": "Arbeiten auf Papier – konkret. 40 Jahre Galerie St. Johann",
+        "t": "Galerie privée",
         "st": "Group",
         "ct": "Saarbrücken",
         "o": "Galerie St. Johann",
@@ -250,10 +206,10 @@
         ]
       },
       {
-        "i": "2500-19507-2009-12-10",
+        "i": "2500-27666-2009-12-10",
         "c": "DE",
-        "n": "Arbeiten auf Papier – konkret. 40 Jahre Galerie St. Johann",
-        "t": "Galerie privée",
+        "n": "Works on Papers",
+        "t": "Autre",
         "st": "Group",
         "ct": "Saarbrücken",
         "o": "Galerie St. Johann",
@@ -282,10 +238,10 @@
         ]
       },
       {
-        "i": "2500-27666-2009-12-10",
+        "i": "2500-19507-2009-12-10",
         "c": "DE",
-        "n": "Works on Papers",
-        "t": "Autre",
+        "n": "Arbeiten auf Papier – konkret. 40 Jahre Galerie St. Johann",
+        "t": "Galerie privée",
         "st": "Group",
         "ct": "Saarbrücken",
         "o": "Galerie St. Johann",
@@ -295,10 +251,10 @@
         ]
       },
       {
-        "i": "2500-19507-2009-12-10",
+        "i": "2500-27666-2009-12-10",
         "c": "DE",
-        "n": "Arbeiten auf Papier – konkret. 40 Jahre Galerie St. Johann",
-        "t": "Galerie privée",
+        "n": "Works on Papers",
+        "t": "Autre",
         "st": "Group",
         "ct": "Saarbrücken",
         "o": "Galerie St. Johann",
@@ -321,7 +277,7 @@
         "n": "Couleur et Geometrie",
         "t": "Autre",
         "st": "Group",
-        "ct": "Halle (Saale)",
+        "ct": "Halle, Saale",
         "o": "Kunstverein Talstrasse e.V.",
         "d": [
           "2010-09-03",
@@ -513,6 +469,50 @@
       {
         "i": "2500-10247-2012-12-21",
         "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "2500-27666-2012-12-01",
+        "c": "DE",
+        "n": "Concrete: The Small Format",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Saarbrücken",
+        "o": "Galerie St. Johann",
+        "d": [
+          "2012-12-01",
+          "2013-01-26"
+        ]
+      },
+      {
+        "i": "2500-10247-2012-12-21",
+        "c": "FR"
+      },
+      {
+        "i": "2500-21159-2013-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "2500-21159-2013-06-13",
+        "c": "FR"
+      },
+      {
+        "i": "2500-10247-2013-12-11",
+        "c": "FR"
+      },
+      {
+        "i": "2500-30580-2013-04-19",
+        "c": "CH",
+        "n": "Jean-François Dubreuil - Les nouvelles sont bonnes",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Fribourg",
+        "o": "La Vitrine",
+        "d": [
+          "2013-04-19",
+          "2013-06-22"
+        ]
       }
     ],
     "2014": [

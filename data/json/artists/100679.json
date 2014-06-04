@@ -94,14 +94,6 @@
         ]
       },
       {
-        "i": "100679-893-2006-06-08",
-        "c": "FR"
-      },
-      {
-        "i": "100679-893-2006-06-08",
-        "c": "FR"
-      },
-      {
         "i": "100679-15478-2006-06-08",
         "c": "NZ",
         "n": "Upping the Anti",
@@ -115,11 +107,11 @@
         ]
       },
       {
-        "i": "100679-7949-2006-09-15",
+        "i": "100679-893-2006-06-08",
         "c": "FR"
       },
       {
-        "i": "100679-7949-2006-09-15",
+        "i": "100679-893-2006-06-08",
         "c": "FR"
       },
       {
@@ -134,6 +126,14 @@
           "2006-09-15",
           "2007-01-07"
         ]
+      },
+      {
+        "i": "100679-7949-2006-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "100679-7949-2006-09-15",
+        "c": "FR"
       },
       {
         "i": "100679-13209-2006-09-28",
@@ -188,14 +188,6 @@
         "c": "FR"
       },
       {
-        "i": "100679-6818-2007-01-13",
-        "c": "FR"
-      },
-      {
-        "i": "100679-6818-2007-01-13",
-        "c": "FR"
-      },
-      {
         "i": "100679-878-2007-01-13",
         "c": "DE",
         "n": "Massiv Analog Academy",
@@ -207,6 +199,14 @@
           "2007-01-13",
           "2007-03-03"
         ]
+      },
+      {
+        "i": "100679-6818-2007-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "100679-6818-2007-01-13",
+        "c": "FR"
       },
       {
         "i": "100679-2287-2007-01-26",
@@ -342,7 +342,7 @@
         "n": "poetical political",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Simon Lee Gallery",
         "d": [
           "2007-08-29",
@@ -371,7 +371,7 @@
         "n": "The Irresistible force",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Modern",
         "d": [
           "2007-09-20",
@@ -553,7 +553,7 @@
         "n": "THE OBJECT IS THE MIRROR (PART II)",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Wilkinson Gallery",
         "d": [
           "2008-01-17",
@@ -613,7 +613,7 @@
         "n": "Records played backwards",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Glasgow (Scotland)",
+        "ct": "Glasgow, Scotland",
         "o": "The Modern Institute",
         "d": [
           "2008-04-12",
@@ -702,19 +702,6 @@
         ]
       },
       {
-        "i": "100679-2288-2008-06-06",
-        "c": "CH",
-        "n": "Shifting Identities – (Schweizer) Kunst heute",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Zurich",
-        "o": "Kunsthaus Zürich",
-        "d": [
-          "2008-06-06",
-          "2008-08-31"
-        ]
-      },
-      {
         "i": "100679-1136-2008-06-06",
         "c": "DE",
         "n": "The Great Transformation - Kunst und taktische Magie",
@@ -728,12 +715,25 @@
         ]
       },
       {
+        "i": "100679-2288-2008-06-06",
+        "c": "CH",
+        "n": "Shifting Identities – (Schweizer) Kunst heute",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Kunsthaus Zürich",
+        "d": [
+          "2008-06-06",
+          "2008-08-31"
+        ]
+      },
+      {
         "i": "100679-190-2008-06-13",
         "c": "GB",
         "n": "PERPLEXED -IN PUBLIC-",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Lisson Gallery",
         "d": [
           "2008-06-13",
@@ -749,6 +749,14 @@
         "c": "FR"
       },
       {
+        "i": "100679-7390-2008-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "100679-7390-2008-06-18",
+        "c": "FR"
+      },
+      {
         "i": "100679-4081-2008-06-18",
         "c": "AU",
         "n": "16th Biennale of Sydney",
@@ -759,14 +767,6 @@
           "2008-06-18",
           "2008-09-07"
         ]
-      },
-      {
-        "i": "100679-7390-2008-06-18",
-        "c": "FR"
-      },
-      {
-        "i": "100679-7390-2008-06-18",
-        "c": "FR"
       },
       {
         "i": "100679-20437-2008-07-07",
@@ -795,7 +795,7 @@
         "n": "A Modest Proposal",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Sunderland (England)",
+        "ct": "Sunderland",
         "o": "Northern Gallery for Contemporary Art",
         "d": [
           "2008-07-11",
@@ -867,19 +867,19 @@
         ]
       },
       {
-        "i": "100679-8548-2008-09-13",
-        "c": "FR"
-      },
-      {
-        "i": "100679-8548-2008-09-13",
-        "c": "FR"
-      },
-      {
         "i": "100679-11890-2008-09-13",
         "c": "FR"
       },
       {
         "i": "100679-11890-2008-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "100679-8548-2008-09-13",
+        "c": "FR"
+      },
+      {
+        "i": "100679-8548-2008-09-13",
         "c": "FR"
       },
       {
@@ -930,6 +930,19 @@
         ]
       },
       {
+        "i": "100679-11684-2008-10-04",
+        "c": "GB",
+        "n": "Constructs for Illumination",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "London",
+        "o": "Allsopp Contemporary",
+        "d": [
+          "2008-10-04",
+          "2008-10-05"
+        ]
+      },
+      {
         "i": "100679-12098-2008-10-04",
         "c": "HR",
         "n": "Salon of the Revolution",
@@ -940,19 +953,6 @@
         "d": [
           "2008-10-04",
           "2008-10-26"
-        ]
-      },
-      {
-        "i": "100679-11684-2008-10-04",
-        "c": "GB",
-        "n": "Constructs for Illumination",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "London (England)",
-        "o": "Allsopp Contemporary",
-        "d": [
-          "2008-10-04",
-          "2008-10-05"
         ]
       },
       {
@@ -1521,7 +1521,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Miami, FL",
-        "o": "Museum of Contemporary Art - North Miami (MOCA)",
+        "o": "Museum of Contemporary Art North Miami (MOCA)",
         "d": [
           "2009-09-25",
           "2009-11-08"
@@ -2364,9 +2364,22 @@
         "t": "Institution publique",
         "st": "Solo",
         "ct": "Miami, FL",
-        "o": "Museum of Contemporary Art - North Miami (MOCA)",
+        "o": "Museum of Contemporary Art North Miami (MOCA)",
         "d": [
           "2010-06-02",
+          "2010-08-22"
+        ]
+      },
+      {
+        "i": "100679-12798-2010-06-03",
+        "c": "US",
+        "n": "Claire Fontaine",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Miami, FL",
+        "o": "MOCA at Goldman Warehouse",
+        "d": [
+          "2010-06-03",
           "2010-08-22"
         ]
       },
@@ -2563,19 +2576,6 @@
         ]
       },
       {
-        "i": "100679-4423-2011-06-23",
-        "c": "US",
-        "n": "New Age End Of The World",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "New York City, NY",
-        "o": "Taxter & Spengemann",
-        "d": [
-          "2011-06-23",
-          "2011-08-05"
-        ]
-      },
-      {
         "i": "100679-9134-2011-06-23",
         "c": "CA",
         "n": "The Normal Condition of Any Communication",
@@ -2586,6 +2586,19 @@
         "d": [
           "2011-06-23",
           "2011-07-30"
+        ]
+      },
+      {
+        "i": "100679-4423-2011-06-23",
+        "c": "US",
+        "n": "New Age End Of The World",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Taxter & Spengemann",
+        "d": [
+          "2011-06-23",
+          "2011-08-05"
         ]
       },
       {
@@ -2607,7 +2620,7 @@
         "n": "The pavement and the beach",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Paradise Row",
         "d": [
           "2011-07-08",
@@ -2725,6 +2738,10 @@
         "c": "FR"
       },
       {
+        "i": "100679-30968-2011-11-16",
+        "c": "FR"
+      },
+      {
         "i": "100679-15399-2011-01-20",
         "c": "MX",
         "n": "Arando el mar / Ploughing the sea",
@@ -2743,7 +2760,7 @@
         "n": "FIGHTING GRAVITY",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "REGINAGALLERY",
         "d": [
           "2011-01-28",
@@ -2860,6 +2877,10 @@
         "c": "FR"
       },
       {
+        "i": "100679-30968-2011-11-16",
+        "c": "FR"
+      },
+      {
         "i": "100679-22923-2012-01-14",
         "c": "CN",
         "n": "Kadist: Pathways Into A Collection",
@@ -2970,19 +2991,6 @@
         "c": "FR"
       },
       {
-        "i": "100679-21418-2012-04-07",
-        "c": "DE",
-        "n": "Collaborations & Interventions",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Nymphius Projekte Berlin",
-        "d": [
-          "2012-04-07",
-          "2012-09-01"
-        ]
-      },
-      {
         "i": "100679-9335-2012-04-07",
         "c": "ES",
         "n": "Collaborations & Interventions",
@@ -2993,6 +3001,19 @@
         "d": [
           "2012-04-07",
           "2012-09-23"
+        ]
+      },
+      {
+        "i": "100679-21418-2012-04-07",
+        "c": "DE",
+        "n": "Collaborations & Interventions",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Nymphius Projekte Berlin",
+        "d": [
+          "2012-04-07",
+          "2012-09-01"
         ]
       },
       {
@@ -3295,19 +3316,6 @@
         ]
       },
       {
-        "i": "100679-3535-2012-03-17",
-        "c": "IT",
-        "n": "Ma l’amor mio non muore",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Naples",
-        "o": "T293",
-        "d": [
-          "2012-03-17",
-          "2012-05-12"
-        ]
-      },
-      {
         "i": "100679-23263-2012-03-17",
         "c": "IT",
         "n": "Claire Fontaine",
@@ -3315,6 +3323,19 @@
         "st": "Solo",
         "ct": "Rome",
         "o": "T293 - Rome",
+        "d": [
+          "2012-03-17",
+          "2012-05-12"
+        ]
+      },
+      {
+        "i": "100679-3535-2012-03-17",
+        "c": "IT",
+        "n": "Ma l’amor mio non muore",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Naples",
+        "o": "T293",
         "d": [
           "2012-03-17",
           "2012-05-12"
@@ -3404,19 +3425,6 @@
         "c": "FR"
       },
       {
-        "i": "100679-27991-2013-01-01",
-        "c": "BE",
-        "n": "That´s all Folks!",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Bruges",
-        "o": "Stadshallen",
-        "d": [
-          "2013-01-01",
-          "2013-01-01"
-        ]
-      },
-      {
         "i": "100679-9487-2013-02-01",
         "c": "US",
         "n": "When Attitudes Became Form Become Attitudes",
@@ -3443,14 +3451,6 @@
         ]
       },
       {
-        "i": "100679-1522-2013-02-22",
-        "c": "FR"
-      },
-      {
-        "i": "100679-1522-2013-02-22",
-        "c": "FR"
-      },
-      {
         "i": "100679-6778-2013-02-22",
         "c": "ES",
         "n": "Réinventer le monde",
@@ -3464,6 +3464,14 @@
         ]
       },
       {
+        "i": "100679-1522-2013-02-22",
+        "c": "FR"
+      },
+      {
+        "i": "100679-1522-2013-02-22",
+        "c": "FR"
+      },
+      {
         "i": "100679-29739-2013-03-01",
         "c": "FR"
       },
@@ -3474,7 +3482,7 @@
       {
         "i": "100679-27771-2013-03-07",
         "c": "BE",
-        "n": "Collection Centre national des arts plastiques",
+        "n": "L&#8217;ORIGINE DES CHOSES - Collection Centre national des arts plastiques",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Brussels",
@@ -3523,19 +3531,19 @@
         ]
       },
       {
-        "i": "100679-26377-2013-05-25",
-        "c": "FR"
-      },
-      {
-        "i": "100679-26377-2013-05-25",
-        "c": "FR"
-      },
-      {
         "i": "100679-2358-2013-05-25",
         "c": "FR"
       },
       {
         "i": "100679-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "100679-26377-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "100679-26377-2013-05-25",
         "c": "FR"
       },
       {
@@ -3654,7 +3662,7 @@
         "n": "Women&#8217;S Art Society",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Llandudno (Wales)",
+        "ct": "Llandudno, Wales",
         "o": "Oriel Mostyn Gallery",
         "d": [
           "2013-10-26",
@@ -3724,7 +3732,7 @@
         "n": "Women&#8217;S Art Society",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Llandudno (Wales)",
+        "ct": "Llandudno, Wales",
         "o": "Oriel Mostyn Gallery",
         "d": [
           "2013-10-26",

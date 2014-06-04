@@ -86,19 +86,6 @@
         ]
       },
       {
-        "i": "6026-881-2006-07-19",
-        "c": "DE",
-        "n": "Sammeln und Entdecken",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Karlsruhe",
-        "o": "Galerie Schrade & Blashofer",
-        "d": [
-          "2006-07-19",
-          "2006-09-16"
-        ]
-      },
-      {
         "i": "6026-20517-2006-07-19",
         "c": "DE",
         "n": "SAMMELN UND ENTDECKEN",
@@ -106,6 +93,19 @@
         "st": "Group",
         "ct": "Karlsruhe",
         "o": "Galerie Schrade - Karlsruhe",
+        "d": [
+          "2006-07-19",
+          "2006-09-16"
+        ]
+      },
+      {
+        "i": "6026-881-2006-07-19",
+        "c": "DE",
+        "n": "Sammeln und Entdecken",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "Galerie Schrade & Blashofer",
         "d": [
           "2006-07-19",
           "2006-09-16"
@@ -266,7 +266,7 @@
         "t": "Galerie privée",
         "st": "Group",
         "ct": "Oldenburg",
-        "o": "Galerie Kunststück",
+        "o": "Galerie Kunstück",
         "d": [
           "2011-11-12",
           "2011-12-17"
@@ -304,21 +304,6 @@
         "d": [
           "2011-07-23",
           "2011-09-11"
-        ]
-      }
-    ],
-    "2013": [
-      {
-        "i": "6026-22218-2013-06-02",
-        "c": "DE",
-        "n": "Sommerausstellung 2013",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Oldenburg",
-        "o": "Galerie Kunststück",
-        "d": [
-          "2013-06-02",
-          "2013-08-10"
         ]
       }
     ]

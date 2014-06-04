@@ -116,7 +116,7 @@
         "n": "Ballet Mécanique",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Timothy Taylor Gallery",
         "d": [
           "2007-11-30",
@@ -151,7 +151,7 @@
         "n": "Ballet Mécanique",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Timothy Taylor Gallery",
         "d": [
           "2007-11-30",
@@ -192,7 +192,7 @@
         "n": "Head-Wig (Portrait of an exhibition): Selected by Paulina Olowska",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Camden Arts Centre",
         "d": [
           "2009-01-01",
@@ -218,7 +218,7 @@
         "n": "Head-Wig (Portrait of an exhibition): Selected by Paulina Olowska",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Camden Arts Centre",
         "d": [
           "2009-09-25",
@@ -280,19 +280,6 @@
         ]
       },
       {
-        "i": "18450-2298-2010-11-21",
-        "c": "DE",
-        "n": "Am Anfang war ich am Ende / Au début j'étais au bout",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Mönchengladbach",
-        "o": "Städtisches Museum Abteiberg",
-        "d": [
-          "2010-11-21",
-          "2010-02-20"
-        ]
-      },
-      {
         "i": "18450-7467-2010-11-21",
         "c": "DE",
         "n": "Transfer France - NRW: Metamorphosen – Verwandlungen",
@@ -306,16 +293,16 @@
         ]
       },
       {
-        "i": "18450-2298-2010-11-27",
+        "i": "18450-2298-2010-11-21",
         "c": "DE",
-        "n": "Transfer France-nrw",
+        "n": "Am Anfang war ich am Ende / Au début j'étais au bout",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Mönchengladbach",
         "o": "Städtisches Museum Abteiberg",
         "d": [
-          "2010-11-27",
-          "2011-01-23"
+          "2010-11-21",
+          "2010-02-20"
         ]
       },
       {
@@ -329,6 +316,19 @@
         "d": [
           "2010-11-27",
           "2012-01-23"
+        ]
+      },
+      {
+        "i": "18450-2298-2010-11-27",
+        "c": "DE",
+        "n": "Transfer France-nrw",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Mönchengladbach",
+        "o": "Städtisches Museum Abteiberg",
+        "d": [
+          "2010-11-27",
+          "2011-01-23"
         ]
       },
       {
@@ -436,7 +436,7 @@
         "n": "Mathilde Rosier: Necklace of Fake Teeth",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Camden Arts Centre",
         "d": [
           "2011-07-22",

@@ -512,7 +512,7 @@
         "n": "Paradise Now! Essential French Avant-garde Cinema, 1890–2008",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Modern",
         "d": [
           "2008-03-14",
@@ -759,6 +759,19 @@
         ]
       },
       {
+        "i": "15036-2702-2010-10-13",
+        "c": "GR",
+        "n": "Politics of Art",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Athens",
+        "o": "National Museum of Contemporary Art - EMST",
+        "d": [
+          "2010-10-13",
+          "2011-01-30"
+        ]
+      },
+      {
         "i": "15036-12492-2010-10-21",
         "c": "US",
         "n": "The Image In Question. War – Media – Art",
@@ -786,6 +799,19 @@
       }
     ],
     "2011": [
+      {
+        "i": "15036-2702-2010-10-13",
+        "c": "GR",
+        "n": "Politics of Art",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Athens",
+        "o": "National Museum of Contemporary Art - EMST",
+        "d": [
+          "2010-10-13",
+          "2011-01-30"
+        ]
+      },
       {
         "i": "15036-1811-2010-11-05",
         "c": "ES",
@@ -905,7 +931,7 @@
         "t": "Galerie privée",
         "st": "Group",
         "ct": "New York City, NY",
-        "o": "Gladstone Gallery - New York - 24th Street",
+        "o": "Gladstone Gallery - New York",
         "d": [
           "2011-06-24",
           "2011-07-29"
@@ -1017,7 +1043,7 @@
         "n": "Autumn Almanac - The voice and the Lens",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Birmingham (England)",
+        "ct": "Birmingham",
         "o": "Ikon Gallery",
         "d": [
           "2012-11-08",
@@ -1089,6 +1115,34 @@
         "d": [
           "2013-09-18",
           "2013-11-10"
+        ]
+      },
+      {
+        "i": "15036-5306-2013-10-17",
+        "c": "IL",
+        "n": "See Under:Actor",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Petach Tikva",
+        "o": "The Petach Tikva Museum of Art",
+        "d": [
+          "2013-10-17",
+          "2014-01-04"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "15036-5306-2013-10-17",
+        "c": "IL",
+        "n": "See Under:Actor",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Petach Tikva",
+        "o": "The Petach Tikva Museum of Art",
+        "d": [
+          "2013-10-17",
+          "2014-01-04"
         ]
       }
     ]

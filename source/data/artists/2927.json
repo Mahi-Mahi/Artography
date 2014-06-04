@@ -68,7 +68,7 @@
         "n": "Face a Faces",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Edinburgh (Scotland)",
+        "ct": "Edinburgh, Scotland",
         "o": "City Art Centre",
         "d": [
           "2006-02-11",
@@ -163,7 +163,7 @@
         "n": "Street & Studio: an urban history of photography",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Modern",
         "d": [
           "2008-05-22",
@@ -254,6 +254,19 @@
         "c": "FR"
       },
       {
+        "i": "2927-965-2011-02-17",
+        "c": "BE",
+        "n": "Situation Comedy",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "Galerie Erna Hécey",
+        "d": [
+          "2011-02-17",
+          "2011-05-22"
+        ]
+      },
+      {
         "i": "2927-2331-2011-02-17",
         "c": "LU",
         "n": "Situation Comedy",
@@ -277,19 +290,6 @@
         "d": [
           "2011-02-17",
           "2011-09-30"
-        ]
-      },
-      {
-        "i": "2927-965-2011-02-17",
-        "c": "BE",
-        "n": "Situation Comedy",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Brussels",
-        "o": "Galerie Erna Hécey",
-        "d": [
-          "2011-02-17",
-          "2011-05-22"
         ]
       }
     ],

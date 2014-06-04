@@ -317,7 +317,7 @@
         "n": "The young people visiting our ruins see nothing but a style",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "FormContent project space",
         "d": [
           "2009-06-25",
@@ -463,7 +463,7 @@
         "n": "Unto This Last",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Raven Row",
         "d": [
           "2010-05-20",
@@ -612,19 +612,6 @@
         ]
       },
       {
-        "i": "60861-3536-2011-05-30",
-        "c": "IT",
-        "n": "segalega",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Milan",
-        "o": "Zero",
-        "d": [
-          "2011-05-30",
-          "2011-07-22"
-        ]
-      },
-      {
         "i": "60861-1349-2011-05-30",
         "c": "IT",
         "n": "Segalega",
@@ -651,6 +638,19 @@
         ]
       },
       {
+        "i": "60861-3536-2011-05-30",
+        "c": "IT",
+        "n": "segalega",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Milan",
+        "o": "Zero",
+        "d": [
+          "2011-05-30",
+          "2011-07-22"
+        ]
+      },
+      {
         "i": "60861-13458-2011-06-26",
         "c": "CH",
         "n": "Le Vertige De La Moraine, Strate Iii",
@@ -664,12 +664,25 @@
         ]
       },
       {
+        "i": "60861-27968-2011-11-17",
+        "c": "CH",
+        "n": "Mr. C.",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Graff Mourge d'Algue",
+        "d": [
+          "2011-11-17",
+          "2012-01-07"
+        ]
+      },
+      {
         "i": "60861-4483-2011-11-25",
         "c": "GB",
         "n": "chain, chain, chain",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Bischoff/Weiss",
         "d": [
           "2011-11-25",
@@ -721,12 +734,25 @@
         ]
       },
       {
+        "i": "60861-27968-2011-11-17",
+        "c": "CH",
+        "n": "Mr. C.",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Graff Mourge d'Algue",
+        "d": [
+          "2011-11-17",
+          "2012-01-07"
+        ]
+      },
+      {
         "i": "60861-4483-2011-11-25",
         "c": "GB",
         "n": "chain, chain, chain",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Bischoff/Weiss",
         "d": [
           "2011-11-25",
@@ -899,6 +925,14 @@
         ]
       },
       {
+        "i": "60861-1782-2013-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "60861-1782-2013-06-02",
+        "c": "FR"
+      },
+      {
         "i": "60861-22370-2013-06-18",
         "c": "IT",
         "n": "AB, a project by Gabriele De Santis",
@@ -910,6 +944,10 @@
           "2013-06-18",
           "2013-09-20"
         ]
+      },
+      {
+        "i": "60861-1293-2013-10-11",
+        "c": "FR"
       },
       {
         "i": "60861-1717-2013-10-16",
@@ -960,6 +998,10 @@
       }
     ],
     "2014": [
+      {
+        "i": "60861-1293-2013-10-11",
+        "c": "FR"
+      },
       {
         "i": "60861-9946-2013-11-08",
         "c": "DE",

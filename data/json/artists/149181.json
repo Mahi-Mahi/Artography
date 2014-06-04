@@ -130,19 +130,6 @@
     ],
     "2011": [
       {
-        "i": "149181-21228-2011-03-05",
-        "c": "CH",
-        "n": "I Do Like Drawings",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Basel",
-        "o": "von Bartha Garage",
-        "d": [
-          "2011-03-05",
-          "2011-05-14"
-        ]
-      },
-      {
         "i": "149181-1469-2011-03-05",
         "c": "CH",
         "n": "I Do Like Drawings",
@@ -153,6 +140,19 @@
         "d": [
           "2011-03-05",
           "2011-03-14"
+        ]
+      },
+      {
+        "i": "149181-21228-2011-03-05",
+        "c": "CH",
+        "n": "I Do Like Drawings",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Basel",
+        "o": "von Bartha Garage",
+        "d": [
+          "2011-03-05",
+          "2011-05-14"
         ]
       },
       {
@@ -168,7 +168,7 @@
       {
         "i": "149181-21228-2012-06-02",
         "c": "CH",
-        "n": "Off The Beaten Track",
+        "n": "Off the Beaten Track",
         "t": "Galerie privée",
         "st": "Group",
         "ct": "Basel",
@@ -207,6 +207,19 @@
           "2013-12-15",
           "2014-02-16"
         ]
+      },
+      {
+        "i": "149181-21266-2013-12-28",
+        "c": "CH",
+        "n": "Perrine Lievens",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "S-chanf",
+        "o": "von Bartha Chesa",
+        "d": [
+          "2013-12-28",
+          "2014-01-25"
+        ]
       }
     ],
     "2014": [
@@ -221,6 +234,19 @@
         "d": [
           "2013-12-15",
           "2014-02-16"
+        ]
+      },
+      {
+        "i": "149181-21266-2013-12-28",
+        "c": "CH",
+        "n": "Perrine Lievens",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "S-chanf",
+        "o": "von Bartha Chesa",
+        "d": [
+          "2013-12-28",
+          "2014-01-25"
         ]
       }
     ]

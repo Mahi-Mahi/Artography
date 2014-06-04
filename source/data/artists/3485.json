@@ -45,14 +45,6 @@
   "expos": {
     "2005": [
       {
-        "i": "3485-2303-2005-01-17",
-        "c": "FR"
-      },
-      {
-        "i": "3485-2303-2005-01-17",
-        "c": "FR"
-      },
-      {
         "i": "3485-2918-2005-01-28",
         "c": "RU",
         "n": "1 Moscow Biennale of Contemporary Art",
@@ -142,6 +134,14 @@
       }
     ],
     "2007": [
+      {
+        "i": "3485-2585-2007-02-10",
+        "c": "FR"
+      },
+      {
+        "i": "3485-2585-2007-02-10",
+        "c": "FR"
+      },
       {
         "i": "3485-9850-2007-02-28",
         "c": "FR"
@@ -411,7 +411,7 @@
         "n": "Ha Ha Road",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Derby (England)",
+        "ct": "Derby",
         "o": "QUAD Gallery",
         "d": [
           "2011-08-12",
@@ -428,7 +428,7 @@
         "n": "Ha Ha Road",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Llandudno (Wales)",
+        "ct": "Llandudno, Wales",
         "o": "Oriel Mostyn Gallery",
         "d": [
           "2011-12-03",
@@ -447,7 +447,7 @@
         "n": "Ha Ha Road",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Llandudno (Wales)",
+        "ct": "Llandudno, Wales",
         "o": "Oriel Mostyn Gallery",
         "d": [
           "2011-12-03",

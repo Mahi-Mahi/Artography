@@ -86,19 +86,6 @@
         ]
       },
       {
-        "i": "230000-4019-2010-04-23",
-        "c": "DE",
-        "n": "They Go Round and Round",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Projekt 0047",
-        "d": [
-          "2010-04-23",
-          "2010-05-23"
-        ]
-      },
-      {
         "i": "230000-20851-2010-04-23",
         "c": "NO",
         "n": "They go round and round",
@@ -106,6 +93,19 @@
         "st": "Group",
         "ct": "Oslo",
         "o": "0047",
+        "d": [
+          "2010-04-23",
+          "2010-05-23"
+        ]
+      },
+      {
+        "i": "230000-4019-2010-04-23",
+        "c": "DE",
+        "n": "They Go Round and Round",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Projekt 0047",
         "d": [
           "2010-04-23",
           "2010-05-23"
@@ -169,7 +169,7 @@
         "i": "230000-17121-2009-02-07",
         "c": "DE",
         "n": "PODROSTOK",
-        "t": "Galerie privée",
+        "t": "Autre",
         "st": "Group",
         "ct": "Berlin",
         "o": "Sox",

@@ -103,6 +103,19 @@
         ]
       },
       {
+        "i": "215577-14667-2012-10-19",
+        "c": "CA",
+        "n": "Montréal/Brooklyn. Vidéozones",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Montreal, QC",
+        "o": "Galerie de l’UQAM",
+        "d": [
+          "2012-10-19",
+          "2012-12-08"
+        ]
+      },
+      {
         "i": "215577-3771-2012-11-22",
         "c": "IT",
         "n": "Videozoom: Québec. L’entre-images",
@@ -113,6 +126,34 @@
         "d": [
           "2012-11-22",
           "2012-12-22"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "215577-14667-2013-05-25",
+        "c": "CA",
+        "n": "Vidéozoom. L&#8217;entre-images",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Montreal, QC",
+        "o": "Galerie de l’UQAM",
+        "d": [
+          "2013-05-25",
+          "2013-09-15"
+        ]
+      },
+      {
+        "i": "215577-8159-2013-01-12",
+        "c": "US",
+        "n": "Aude Moreau - Sugar Carpet",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Smack Mellon",
+        "d": [
+          "2013-01-12",
+          "2013-02-24"
         ]
       }
     ],
@@ -128,21 +169,6 @@
         "d": [
           "2009-03-28",
           "2009-06-14"
-        ]
-      }
-    ],
-    "2013": [
-      {
-        "i": "215577-8159-2013-01-12",
-        "c": "US",
-        "n": "Aude Moreau - Sugar Carpet",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "New York City, NY",
-        "o": "Smack Mellon",
-        "d": [
-          "2013-01-12",
-          "2013-02-24"
         ]
       }
     ]

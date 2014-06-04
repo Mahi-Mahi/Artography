@@ -84,7 +84,7 @@
         "n": "Whimsy",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Westport, CT\t",
+        "ct": "Westport, CT",
         "o": "Amy Simon Fine Art",
         "d": [
           "2005-03-12",
@@ -396,7 +396,7 @@
         "n": "Christo and Jeanne-Claude - Work in Progress Over the River, Project for the Ark",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Annely Juda Fine Art",
         "d": [
           "2005-10-19",
@@ -747,7 +747,7 @@
         "i": "659-6969-2006-09-07",
         "c": "US",
         "n": "Fall 2006 : New Acquisitions",
-        "t": "Galerie privée",
+        "t": "Autre",
         "st": "Group",
         "ct": "Santa Monica, CA",
         "o": "IKON Ltd",
@@ -856,19 +856,6 @@
         ]
       },
       {
-        "i": "659-10745-2006-02-03",
-        "c": "DE",
-        "n": "Zukünftige Projekte und Foto-Editionen",
-        "t": "Autre",
-        "st": "Solo",
-        "ct": "Dusseldorf",
-        "o": "Art Edition Fils",
-        "d": [
-          "2006-02-03",
-          "2006-03-03"
-        ]
-      },
-      {
         "i": "659-6481-2006-02-03",
         "c": "DE",
         "n": "Christo & Jeanne-Claude - Zukünftige Projekte und Fotoeditionen",
@@ -876,6 +863,19 @@
         "st": "Solo",
         "ct": "Dusseldorf",
         "o": "anders galerie im stilwerk",
+        "d": [
+          "2006-02-03",
+          "2006-03-03"
+        ]
+      },
+      {
+        "i": "659-10745-2006-02-03",
+        "c": "DE",
+        "n": "Zukünftige Projekte und Foto-Editionen",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Dusseldorf",
+        "o": "Art Edition Fils",
         "d": [
           "2006-02-03",
           "2006-03-03"
@@ -1230,7 +1230,7 @@
         "n": "Annely juda - A Celebration",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Annely Juda Fine Art",
         "d": [
           "2007-05-25",
@@ -1316,6 +1316,19 @@
         ]
       },
       {
+        "i": "659-7820-2007-08-04",
+        "c": "US",
+        "n": "Landscapes of Colorado",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Denver, CO",
+        "o": "Robischon Gallery",
+        "d": [
+          "2007-08-04",
+          "2007-09-01"
+        ]
+      },
+      {
         "i": "659-15783-2007-08-04",
         "c": "US",
         "n": "Landscapes of Colorado",
@@ -1342,19 +1355,6 @@
         ]
       },
       {
-        "i": "659-7820-2007-08-04",
-        "c": "US",
-        "n": "Landscapes of Colorado",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Denver, CO",
-        "o": "Robischon Gallery",
-        "d": [
-          "2007-08-04",
-          "2007-09-01"
-        ]
-      },
-      {
         "i": "659-13492-2007-09-06",
         "c": "SK",
         "n": "OUT OF THE CITY. Land art",
@@ -1374,7 +1374,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Aalborg",
-        "o": "KUNSTEN Museum of Modern Art Aalborg (former Nordjyllands Kunstmuseum)",
+        "o": "KUNSTEN Museum of Modern Art",
         "d": [
           "2007-09-15",
           "2007-11-25"
@@ -1412,7 +1412,7 @@
         "n": "Master Prints",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Mobile, AL\t",
+        "ct": "Mobile, AL",
         "o": "Mobile Museum of Art",
         "d": [
           "2007-10-12",
@@ -1446,19 +1446,6 @@
         ]
       },
       {
-        "i": "659-6828-2007-11-16",
-        "c": "US",
-        "n": "Green is the New Black",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Chicago, IL",
-        "o": "Melanee Cooper Gallery",
-        "d": [
-          "2007-11-16",
-          "2008-01-19"
-        ]
-      },
-      {
         "i": "659-4988-2007-11-16",
         "c": "DE",
         "n": "Wenn Handlungen Form werden - Ein neuer Realismus in der Kunst seit den fünfziger Jahren",
@@ -1469,6 +1456,19 @@
         "d": [
           "2007-11-16",
           "2008-03-30"
+        ]
+      },
+      {
+        "i": "659-6828-2007-11-16",
+        "c": "US",
+        "n": "Green is the New Black",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Chicago, IL",
+        "o": "Melanee Cooper Gallery",
+        "d": [
+          "2007-11-16",
+          "2008-01-19"
         ]
       },
       {
@@ -1596,7 +1596,7 @@
         "n": "Master Prints",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Mobile, AL\t",
+        "ct": "Mobile, AL",
         "o": "Mobile Museum of Art",
         "d": [
           "2007-10-12",
@@ -1617,19 +1617,6 @@
         ]
       },
       {
-        "i": "659-6828-2007-11-16",
-        "c": "US",
-        "n": "Green is the New Black",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Chicago, IL",
-        "o": "Melanee Cooper Gallery",
-        "d": [
-          "2007-11-16",
-          "2008-01-19"
-        ]
-      },
-      {
         "i": "659-4988-2007-11-16",
         "c": "DE",
         "n": "Wenn Handlungen Form werden - Ein neuer Realismus in der Kunst seit den fünfziger Jahren",
@@ -1640,6 +1627,19 @@
         "d": [
           "2007-11-16",
           "2008-03-30"
+        ]
+      },
+      {
+        "i": "659-6828-2007-11-16",
+        "c": "US",
+        "n": "Green is the New Black",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Chicago, IL",
+        "o": "Melanee Cooper Gallery",
+        "d": [
+          "2007-11-16",
+          "2008-01-19"
         ]
       },
       {
@@ -1734,19 +1734,6 @@
         ]
       },
       {
-        "i": "659-7809-2008-02-10",
-        "c": "BE",
-        "n": "The Ikob Collection",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Eupen",
-        "o": "IKOB – Museum für Zeitgenössische Kunst Eupen",
-        "d": [
-          "2008-02-10",
-          "2008-06-20"
-        ]
-      },
-      {
         "i": "659-3660-2008-02-10",
         "c": "DE",
         "n": "Konkret! Mappenwerke aus vier Jahrzehnten",
@@ -1760,12 +1747,25 @@
         ]
       },
       {
+        "i": "659-7809-2008-02-10",
+        "c": "BE",
+        "n": "The Ikob Collection",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Eupen",
+        "o": "IKOB – Museum für Zeitgenössische Kunst Eupen",
+        "d": [
+          "2008-02-10",
+          "2008-06-20"
+        ]
+      },
+      {
         "i": "659-2407-2008-03-06",
         "c": "GB",
         "n": "Martian Museum of Terrestrial Art",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Barbican Art Gallery",
         "d": [
           "2008-03-06",
@@ -1851,19 +1851,6 @@
         ]
       },
       {
-        "i": "659-20873-2008-07-07",
-        "c": "CH",
-        "n": "Amerikanische Kunst & Pop Art",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Zurich",
-        "o": "Galerie Wild - Zürich",
-        "d": [
-          "2008-07-07",
-          "2008-09-23"
-        ]
-      },
-      {
         "i": "659-489-2008-07-07",
         "c": "DE",
         "n": "Amerikanische Kunst & Pop Art",
@@ -1871,6 +1858,19 @@
         "st": "Group",
         "ct": "Frankfurt/Main",
         "o": "Galerie Wild - Frankfurt/Main",
+        "d": [
+          "2008-07-07",
+          "2008-09-23"
+        ]
+      },
+      {
+        "i": "659-20873-2008-07-07",
+        "c": "CH",
+        "n": "Amerikanische Kunst & Pop Art",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Galerie Wild - Zürich",
         "d": [
           "2008-07-07",
           "2008-09-23"
@@ -2337,7 +2337,7 @@
         "i": "659-6969-2009-09-09",
         "c": "US",
         "n": "Assembled Realities and Small Treasures",
-        "t": "Galerie privée",
+        "t": "Autre",
         "st": "Group",
         "ct": "Santa Monica, CA",
         "o": "IKON Ltd",
@@ -2438,19 +2438,6 @@
         ]
       },
       {
-        "i": "659-8990-2009-10-25",
-        "c": "DE",
-        "n": "RÜCKSCHAU IN DIE MODERNE - Grafik und Malerei im 20. Jahrhundert aus der Sammlung Richard H. Mayer",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Frankfurt / Oder",
-        "o": "Museum Junge Kunst",
-        "d": [
-          "2009-10-25",
-          "2010-01-03"
-        ]
-      },
-      {
         "i": "659-1097-2009-10-25",
         "c": "DE",
         "n": "25 Jahre Fischerplatz Galerie",
@@ -2461,6 +2448,32 @@
         "d": [
           "2009-10-25",
           "2009-11-28"
+        ]
+      },
+      {
+        "i": "659-8990-2009-10-25",
+        "c": "DE",
+        "n": "RÜCKSCHAU IN DIE MODERNE - Grafik und Malerei im 20. Jahrhundert aus der Sammlung Richard H. Mayer",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Frankfurt/Oder",
+        "o": "Museum Junge Kunst",
+        "d": [
+          "2009-10-25",
+          "2010-01-03"
+        ]
+      },
+      {
+        "i": "659-16344-2009-11-12",
+        "c": "IT",
+        "n": "Art of Live - for 5 000 &#8364;",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Milan",
+        "o": "La Triennale di Milano. Design Museum",
+        "d": [
+          "2009-11-12",
+          "2009-11-19"
         ]
       },
       {
@@ -2692,7 +2705,7 @@
         "n": "RÜCKSCHAU IN DIE MODERNE - Grafik und Malerei im 20. Jahrhundert aus der Sammlung Richard H. Mayer",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Frankfurt / Oder",
+        "ct": "Frankfurt/Oder",
         "o": "Museum Junge Kunst",
         "d": [
           "2009-10-25",
@@ -3121,7 +3134,7 @@
         "n": "Cosa fa la mia anima mentre sto lavorando?",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Gallarte (VA)",
+        "ct": "Gallarte, VA",
         "o": "Museo MAGA",
         "d": [
           "2010-11-14",
@@ -3151,7 +3164,7 @@
         "n": "Christo und Jeanne-Claude in der Sammlung Würth",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Schwäbisch Hall\t",
+        "ct": "Schwäbisch Hall",
         "o": "Kunsthalle Würth",
         "d": [
           "2010-05-13",
@@ -3195,6 +3208,19 @@
         "d": [
           "2010-08-07",
           "2010-08-30"
+        ]
+      },
+      {
+        "i": "659-16914-2010-09-21",
+        "c": "US",
+        "n": "Christo and Jeanne-Claude: The Tom Golden Collection",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Burlington, VT",
+        "o": "Robert Hull Fleming Museum",
+        "d": [
+          "2010-09-21",
+          "2010-12-18"
         ]
       },
       {
@@ -3283,7 +3309,7 @@
         "n": "Cosa fa la mia anima mentre sto lavorando?",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Gallarte (VA)",
+        "ct": "Gallarte, VA",
         "o": "Museo MAGA",
         "d": [
           "2010-11-14",
@@ -3321,6 +3347,19 @@
         ]
       },
       {
+        "i": "659-8521-2011-02-04",
+        "c": "FI",
+        "n": "Eco-Art",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Pori",
+        "o": "Pori Taidemuseo / Pori Art Museum",
+        "d": [
+          "2011-02-04",
+          "2011-05-29"
+        ]
+      },
+      {
         "i": "659-70-2011-02-04",
         "c": "DE",
         "n": "Selected Prints",
@@ -3347,19 +3386,6 @@
         ]
       },
       {
-        "i": "659-8521-2011-02-04",
-        "c": "FI",
-        "n": "Eco-Art",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Pori",
-        "o": "Pori Taidemuseo / Pori Art Museum",
-        "d": [
-          "2011-02-04",
-          "2011-05-29"
-        ]
-      },
-      {
         "i": "659-2288-2011-02-25",
         "c": "CH",
         "n": "The Original Copy: Photography of Sculpture, 1839 to Today ",
@@ -3378,7 +3404,7 @@
         "n": "Totentanz",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Frankfurt / Oder",
+        "ct": "Frankfurt/Oder",
         "o": "Museum Junge Kunst",
         "d": [
           "2011-03-06",
@@ -3495,7 +3521,7 @@
         "n": "An Exhibition of European Art 1850-2010",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Waterhouse & Dodd",
         "d": [
           "2011-06-29",
@@ -3681,7 +3707,7 @@
         "n": "Christo And Jeanne-claude",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Westport, CT\t",
+        "ct": "Westport, CT",
         "o": "Westport Arts Center",
         "d": [
           "2011-06-30",
@@ -3720,7 +3746,7 @@
         "n": "Christo & Jeanne-Claude",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Annely Juda Fine Art",
         "d": [
           "2011-09-15",
@@ -3903,19 +3929,6 @@
         ]
       },
       {
-        "i": "659-3705-2012-03-16",
-        "c": "JP",
-        "n": "2012-1 Building: Art in Relation to Architecture",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Hiroshima",
-        "o": "Hiroshima City Museum of Contemporary Art",
-        "d": [
-          "2012-03-16",
-          "2012-06-24"
-        ]
-      },
-      {
         "i": "659-2309-2012-03-16",
         "c": "IT",
         "n": "Art = Life = Art | Dada > Fluxus",
@@ -3926,6 +3939,19 @@
         "d": [
           "2012-03-16",
           "2013-02-24"
+        ]
+      },
+      {
+        "i": "659-3705-2012-03-16",
+        "c": "JP",
+        "n": "2012-1 Building: Art in Relation to Architecture",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Hiroshima",
+        "o": "Hiroshima City Museum of Contemporary Art",
+        "d": [
+          "2012-03-16",
+          "2012-06-24"
         ]
       },
       {
@@ -3973,7 +3999,7 @@
         "n": "The Artists’ Postcard Show",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Spike Island",
         "d": [
           "2012-04-06",
@@ -4007,19 +4033,6 @@
         ]
       },
       {
-        "i": "659-23332-2012-05-05",
-        "c": "US",
-        "n": "Flashing Eternity",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Chicago, IL",
-        "o": "Museum of Modern Art Chicago (MoMAc)",
-        "d": [
-          "2012-05-05",
-          "2012-06-02"
-        ]
-      },
-      {
         "i": "659-8659-2012-05-05",
         "c": "DE",
         "n": "Auf Augenhöhe: Meisterwerke aus Mittelalter und Moderne",
@@ -4030,6 +4043,19 @@
         "d": [
           "2012-05-05",
           "2013-01-06"
+        ]
+      },
+      {
+        "i": "659-23332-2012-05-05",
+        "c": "US",
+        "n": "Flashing Eternity",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Chicago, IL",
+        "o": "Museum of Modern Art Chicago (MoMAc)",
+        "d": [
+          "2012-05-05",
+          "2012-06-02"
         ]
       },
       {
@@ -4214,7 +4240,7 @@
         "n": "Von Kopf bis Fuß - Porträts und Menschenbilder in der Sammlung Würth",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Schwäbisch Hall\t",
+        "ct": "Schwäbisch Hall",
         "o": "Kunsthalle Würth",
         "d": [
           "2012-09-28",
@@ -4402,7 +4428,7 @@
         "n": "Von Kopf bis Fuß - Porträts und Menschenbilder in der Sammlung Würth",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Schwäbisch Hall\t",
+        "ct": "Schwäbisch Hall",
         "o": "Kunsthalle Würth",
         "d": [
           "2012-09-28",
@@ -4578,6 +4604,19 @@
         ]
       },
       {
+        "i": "659-8933-2013-03-29",
+        "c": "DE",
+        "n": "From Page to Space / Vom Blatt zum Raum",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Kaufbeuren",
+        "o": "Kunsthaus Kaufbeuren",
+        "d": [
+          "2013-03-29",
+          "2013-06-23"
+        ]
+      },
+      {
         "i": "659-2293-2013-04-20",
         "c": "DE",
         "n": "Stadt in Sicht - Werke aus der Sammlung Deutsche Bank. Von Feininger bis Gursky",
@@ -4635,7 +4674,7 @@
         "n": "Menagerie - Tierschau aus der Sammlung Würth",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Schwäbisch Hall\t",
+        "ct": "Schwäbisch Hall",
         "o": "Kunsthalle Würth",
         "d": [
           "2013-06-17",
@@ -4721,12 +4760,12 @@
         ]
       },
       {
-        "i": "659-24710-2013-09-20",
+        "i": "659-20152-2013-09-20",
         "c": "GB",
         "n": "Re-View: Onnasch Collection",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hauser & Wirth",
         "d": [
           "2013-09-20",
@@ -4734,12 +4773,12 @@
         ]
       },
       {
-        "i": "659-20152-2013-09-20",
+        "i": "659-24710-2013-09-20",
         "c": "GB",
         "n": "Re-View: Onnasch Collection",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hauser & Wirth",
         "d": [
           "2013-09-20",
@@ -4757,6 +4796,27 @@
         "d": [
           "2013-10-03",
           "2013-12-14"
+        ]
+      },
+      {
+        "i": "659-19458-2013-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "659-19458-2013-10-10",
+        "c": "FR"
+      },
+      {
+        "i": "659-11637-2013-10-20",
+        "c": "IT",
+        "n": "La Grande Magia. Opere scelte dalla Collezione UniCredit",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bologna",
+        "o": "MAMbo - Galleria d'Arte Moderna di Bologna",
+        "d": [
+          "2013-10-20",
+          "2014-02-16"
         ]
       },
       {
@@ -4799,19 +4859,6 @@
         ]
       },
       {
-        "i": "659-9483-2013-03-16",
-        "c": "DE",
-        "n": "Christo - Big Air Package",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Oberhausen",
-        "o": "Ludwig Galerie - Schloß Oberhausen",
-        "d": [
-          "2013-03-16",
-          "2013-12-30"
-        ]
-      },
-      {
         "i": "659-2413-2013-03-16",
         "c": "DE",
         "n": "Christo - Big Air Package",
@@ -4825,16 +4872,16 @@
         ]
       },
       {
-        "i": "659-1097-2013-03-21",
+        "i": "659-9483-2013-03-16",
         "c": "DE",
-        "n": "Christo und Jeanne-Cloude - Ideen und Realisierung",
-        "t": "Galerie privée",
+        "n": "Christo - Big Air Package",
+        "t": "Institution publique",
         "st": "Solo",
-        "ct": "Ulm",
-        "o": "Fischerplatz Galerie | BEGE Galerien",
+        "ct": "Oberhausen",
+        "o": "Ludwig Galerie - Schloß Oberhausen",
         "d": [
-          "2013-03-21",
-          "2013-05-11"
+          "2013-03-16",
+          "2013-12-30"
         ]
       },
       {
@@ -4845,6 +4892,19 @@
         "st": "Solo",
         "ct": "Neu-Ulm",
         "o": "Galerie im Venet-Haus Neu-Ulm",
+        "d": [
+          "2013-03-21",
+          "2013-05-11"
+        ]
+      },
+      {
+        "i": "659-1097-2013-03-21",
+        "c": "DE",
+        "n": "Christo und Jeanne-Cloude - Ideen und Realisierung",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Ulm",
+        "o": "Fischerplatz Galerie | BEGE Galerien",
         "d": [
           "2013-03-21",
           "2013-05-11"
@@ -4871,11 +4931,24 @@
         "n": "Menagerie - Tierschau aus der Sammlung Würth",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Schwäbisch Hall\t",
+        "ct": "Schwäbisch Hall",
         "o": "Kunsthalle Würth",
         "d": [
           "2013-06-17",
           "2014-05-11"
+        ]
+      },
+      {
+        "i": "659-11637-2013-10-20",
+        "c": "IT",
+        "n": "La Grande Magia. Opere scelte dalla Collezione UniCredit",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bologna",
+        "o": "MAMbo - Galleria d'Arte Moderna di Bologna",
+        "d": [
+          "2013-10-20",
+          "2014-02-16"
         ]
       }
     ]

@@ -117,7 +117,7 @@
         "n": "The Cans Festival",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Cans Festival",
         "d": [
           "2008-05-03",
@@ -145,7 +145,7 @@
         "n": "Green Day Presents: The Art of Rock Curated By Logan Hicks",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Stolenspace Gallery",
         "d": [
           "2009-10-23",
@@ -184,7 +184,7 @@
         "n": "Shoeshiners",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Signal Gallery  ",
         "d": [
           "2009-06-01",
@@ -199,7 +199,7 @@
         "n": "Never Judge...?",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Stolenspace Gallery",
         "d": [
           "2010-12-03",
@@ -212,7 +212,7 @@
         "n": "Midnight Dreams",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Signal Gallery  ",
         "d": [
           "2010-07-01",
@@ -252,7 +252,7 @@
         "n": "Borderline",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Signal Gallery  ",
         "d": [
           "2011-07-03",
@@ -297,11 +297,28 @@
         "n": "Pandamonium",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Signal Gallery  ",
         "d": [
           "2012-06-01",
           "2012-06-16"
+        ]
+      },
+      {
+        "i": "258428-30709-2012-11-28",
+        "c": "FR"
+      },
+      {
+        "i": "258428-12265-2012-12-04",
+        "c": "US",
+        "n": "Scope Miami 2012",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "San Francisco, CA",
+        "o": "White Walls Gallery",
+        "d": [
+          "2012-12-04",
+          "2012-12-09"
         ]
       },
       {
@@ -320,12 +337,63 @@
     ],
     "2013": [
       {
+        "i": "258428-30709-2012-11-28",
+        "c": "FR"
+      },
+      {
+        "i": "258428-12265-2013-03-09",
+        "c": "US",
+        "n": "10 Year Anniversary Show",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "San Francisco, CA",
+        "o": "White Walls Gallery",
+        "d": [
+          "2013-03-09",
+          "2013-04-06"
+        ]
+      },
+      {
         "i": "258428-2090-2013-06-22",
         "c": "FR"
       },
       {
         "i": "258428-2090-2013-06-22",
         "c": "FR"
+      },
+      {
+        "i": "258428-30701-2013-09-07",
+        "c": "NO",
+        "n": "NuArt Festival 2013",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Stavanger",
+        "o": "NuArt Festival",
+        "d": [
+          "2013-09-07",
+          "2013-10-20"
+        ]
+      },
+      {
+        "i": "258428-20983-2013-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "258428-20983-2013-10-01",
+        "c": "FR"
+      },
+      {
+        "i": "258428-19724-2013-03-23",
+        "c": "IT",
+        "n": "Christian Guémy - C215: Mae Culpa",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Rome",
+        "o": "Wunderkammern",
+        "d": [
+          "2013-03-23",
+          "2013-05-24"
+        ]
       }
     ]
   }

@@ -119,7 +119,7 @@
         "n": "EASTInternational 2007",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Norwich (England)",
+        "ct": "Norwich",
         "o": "The Gallery at Norwich University ",
         "d": [
           "2007-07-14",
@@ -305,7 +305,7 @@
         "n": "The Object of The Attack",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The David Roberts Art Foundation",
         "d": [
           "2009-10-02",
@@ -444,14 +444,6 @@
         ]
       },
       {
-        "i": "63787-1782-2010-06-11",
-        "c": "FR"
-      },
-      {
-        "i": "63787-1782-2010-06-11",
-        "c": "FR"
-      },
-      {
         "i": "63787-2112-2010-06-11",
         "c": "US",
         "n": "Acts Are For Actors",
@@ -463,6 +455,14 @@
           "2010-06-11",
           "2010-07-18"
         ]
+      },
+      {
+        "i": "63787-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "63787-1782-2010-06-11",
+        "c": "FR"
       },
       {
         "i": "63787-24117-2010-08-12",
@@ -514,19 +514,6 @@
           "2010-12-12",
           "2011-04-04"
         ]
-      },
-      {
-        "i": "63787-2500-2010-10-30",
-        "c": "DE",
-        "n": "Performance",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Berlin",
-        "o": "Johann König",
-        "d": [
-          "2010-10-30",
-          "2010-10-30"
-        ]
       }
     ],
     "2011": [
@@ -574,7 +561,7 @@
         "n": "Session_16",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Am Nuden Da",
         "d": [
           "2011-05-15",
@@ -722,7 +709,7 @@
         "n": "Weighted Words",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Zabludowicz Collection London",
         "d": [
           "2012-03-01",
@@ -889,7 +876,7 @@
       {
         "i": "63787-27771-2013-03-07",
         "c": "BE",
-        "n": "Collection Centre national des arts plastiques",
+        "n": "L&#8217;ORIGINE DES CHOSES - Collection Centre national des arts plastiques",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Brussels",
@@ -959,6 +946,19 @@
         "d": [
           "2012-04-26",
           "2013-01-06"
+        ]
+      },
+      {
+        "i": "63787-3076-2013-01-17",
+        "c": "US",
+        "n": "Alexandre Singh - The Pledge",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "The Drawing Center",
+        "d": [
+          "2013-01-17",
+          "2013-03-13"
         ]
       },
       {

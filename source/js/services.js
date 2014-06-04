@@ -17,6 +17,23 @@ define(['angular'], function(angular) {
 			return d;
 		};
 
+		formatService.formatLongDate = function(d) {
+			d = new Date(Date.parse(d));
+			d = d.getDate() + ' ' + formatService.locale.fr.month_names[d.getMonth()] + ' ' + d.getFullYear();
+			return d;
+		};
+
+		formatService.locale = {
+			fr: {
+				month_names: ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre'],
+				month_names_short: ['Jan', 'Fev', 'Mar', 'Avr', 'Mai', 'Jun', 'Jul', 'Aou', 'Sep', 'Oct', 'Nov', 'Dec']
+			},
+			en: {
+				month_names: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+				month_names_short: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+			}
+		};
+
 		return formatService;
 	})
 

@@ -45,6 +45,19 @@
   "expos": {
     "2005": [
       {
+        "i": "2718-4979-2005-02-19",
+        "c": "DE",
+        "n": "Im Rausch der Kunst - Jean Dubuffet und Art Brut",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Dusseldorf",
+        "o": "Museum Kunstpalast",
+        "d": [
+          "2005-02-19",
+          "2005-05-29"
+        ]
+      },
+      {
         "i": "2718-2323-2005-05-14",
         "c": "FI",
         "n": "In Another World",
@@ -76,7 +89,7 @@
         "n": "Outsider Art",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Britain",
         "d": [
           "2005-09-13",
@@ -91,7 +104,7 @@
         "n": "Outsider Art",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Britain",
         "d": [
           "2005-09-13",
@@ -436,11 +449,24 @@
         "n": "A Life in Art: Monika Kinley",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Plymouth (England)",
+        "ct": "Plymouth",
         "o": "Plymouth Arts Centre",
         "d": [
           "2011-03-12",
           "2011-05-13"
+        ]
+      },
+      {
+        "i": "2718-10404-2011-03-25",
+        "c": "AT",
+        "n": "vive la france!",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Maria -Gugging",
+        "o": "Galerie der Künstler aus Gugging",
+        "d": [
+          "2011-03-25",
+          "2011-10-02"
         ]
       },
       {
@@ -560,6 +586,10 @@
         "c": "FR"
       },
       {
+        "i": "2718-22692-2013-09-18",
+        "c": "FR"
+      },
+      {
         "i": "2718-29951-2013-10-26",
         "c": "JP",
         "n": "The 40th Anniversary Exhibition - Playful Surrealism",
@@ -571,6 +601,37 @@
           "2013-10-26",
           "2013-11-17"
         ]
+      },
+      {
+        "i": "2718-10404-2013-06-05",
+        "c": "AT",
+        "n": "Michel Nedjar",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Maria -Gugging",
+        "o": "Galerie der Künstler aus Gugging",
+        "d": [
+          "2013-06-05",
+          "2013-11-03"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "2718-22692-2013-09-18",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "2718",
+        "c": "FR",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "2718-22692-2013-09-18",
+        "c": "FR"
       }
     ],
     "2008": [

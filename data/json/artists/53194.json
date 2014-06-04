@@ -136,7 +136,7 @@
         "n": "May the Twelfth",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Store Gallery",
         "d": [
           "2007-01-25",
@@ -178,7 +178,7 @@
         "n": "Of any actual person, living or dead",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Store Gallery",
         "d": [
           "2007-07-14",
@@ -313,7 +313,7 @@
         "n": "Seven Types of Ambiguity",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Store Gallery",
         "d": [
           "2008-07-15",
@@ -376,7 +376,7 @@
         "n": "Three BY Three (3)",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Guest Projects",
         "d": [
           "2008-12-16",
@@ -481,7 +481,7 @@
         "n": "Three BY Three (3)",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Guest Projects",
         "d": [
           "2008-12-16",
@@ -520,7 +520,7 @@
         "n": "It’s not for reading. It’s for making",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "FormContent project space",
         "d": [
           "2009-02-12",
@@ -694,7 +694,7 @@
         "n": "Froebel Suite",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Gasworks",
         "d": [
           "2009-07-09",
@@ -845,7 +845,7 @@
         "n": "The Little shop on Hoxton Street",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Limoncello",
         "d": [
           "2010-05-07",
@@ -920,6 +920,14 @@
         ]
       },
       {
+        "i": "53194-24747-2010-09-18",
+        "c": "FR"
+      },
+      {
+        "i": "53194-24747-2010-09-18",
+        "c": "FR"
+      },
+      {
         "i": "53194-3276-2010-09-18",
         "c": "NL",
         "n": "Langue maternelle Langue étrangère Seconde langue",
@@ -931,14 +939,6 @@
           "2010-09-18",
           "2010-11-05"
         ]
-      },
-      {
-        "i": "53194-24747-2010-09-18",
-        "c": "FR"
-      },
-      {
-        "i": "53194-24747-2010-09-18",
-        "c": "FR"
       }
     ],
     "2011": [
@@ -1325,7 +1325,7 @@
       {
         "i": "53194-27771-2013-03-07",
         "c": "BE",
-        "n": "Collection Centre national des arts plastiques",
+        "n": "L&#8217;ORIGINE DES CHOSES - Collection Centre national des arts plastiques",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Brussels",
@@ -1349,7 +1349,7 @@
         "n": "You",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Llandudno (Wales)",
+        "ct": "Llandudno, Wales",
         "o": "Oriel Mostyn Gallery",
         "d": [
           "2013-04-27",
@@ -1413,7 +1413,7 @@
         "n": "You Only Fall Twice",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Derry (Northern Ireland)",
+        "ct": "Derry, Northern Ireland",
         "o": "Centre for Contemporary Art - CCA Derry",
         "d": [
           "2013-07-13",
@@ -1434,6 +1434,19 @@
         ]
       },
       {
+        "i": "53194-30819-2013-09-28",
+        "c": "GB",
+        "n": "Curiosity: Art And The Pleasures Of Knowing",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Norwich",
+        "o": "Norwich Castle Museum & Art Gallery",
+        "d": [
+          "2013-09-28",
+          "2014-01-05"
+        ]
+      },
+      {
         "i": "53194-29739-2013-10-12",
         "c": "FR"
       },
@@ -1443,7 +1456,7 @@
         "n": "Assembly: A survey of recent artists&#8217; film and video in Britain 2008&#8211;2013",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Britain",
         "d": [
           "2013-11-23",
@@ -1466,6 +1479,19 @@
     ],
     "2014": [
       {
+        "i": "53194-30819-2013-09-28",
+        "c": "GB",
+        "n": "Curiosity: Art And The Pleasures Of Knowing",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Norwich",
+        "o": "Norwich Castle Museum & Art Gallery",
+        "d": [
+          "2013-09-28",
+          "2014-01-05"
+        ]
+      },
+      {
         "i": "53194-29739-2013-10-12",
         "c": "FR"
       },
@@ -1475,7 +1501,7 @@
         "n": "Assembly: A survey of recent artists&#8217; film and video in Britain 2008&#8211;2013",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Britain",
         "d": [
           "2013-11-23",

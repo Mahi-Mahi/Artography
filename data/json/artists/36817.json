@@ -229,7 +229,7 @@
         "n": "Whitechapel Laboratory - Pablo Pijnappel",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Whitechapel Art Gallery",
         "d": [
           "2007-06-09",
@@ -252,19 +252,6 @@
     ],
     "2008": [
       {
-        "i": "36817-3598-2008-03-15",
-        "c": "NL",
-        "n": "Five portraits",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Haarlem",
-        "o": "De Hallen",
-        "d": [
-          "2008-03-15",
-          "2008-06-09"
-        ]
-      },
-      {
         "i": "36817-6801-2008-03-15",
         "c": "DE",
         "n": "MÄNNERFANTASIEN II",
@@ -275,6 +262,19 @@
         "d": [
           "2008-03-15",
           "2008-04-28"
+        ]
+      },
+      {
+        "i": "36817-3598-2008-03-15",
+        "c": "NL",
+        "n": "Five portraits",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Haarlem",
+        "o": "De Hallen",
+        "d": [
+          "2008-03-15",
+          "2008-06-09"
         ]
       },
       {
@@ -448,12 +448,12 @@
         ]
       },
       {
-        "i": "36817-19893-2011-08-10",
+        "i": "36817-30958-2011-08-10",
         "c": "US",
-        "n": "will be home…",
+        "n": "Will Be Home&#8230;",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Seattle, WA",
+        "ct": "Los Angeles, CA",
         "o": "Ambach & Rice",
         "d": [
           "2011-08-10",
@@ -493,7 +493,7 @@
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "Seattle, WA",
-        "o": "Ambach & Rice",
+        "o": "Ambach & Rice - Seattle",
         "d": [
           "2011-02-26",
           "2011-03-27"
@@ -558,7 +558,7 @@
         "n": "Fontenay-aux-roses By Pablo Pijnappel",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Seventeen Gallery",
         "d": [
           "2012-03-02",
@@ -566,12 +566,12 @@
         ]
       },
       {
-        "i": "36817-19893-2012-10-20",
+        "i": "36817-30958-2012-10-20",
         "c": "US",
-        "n": "Pablo Pijnappel, Mise-en-abÎme",
+        "n": "Pablo Pijnappel - Mise-En-Abîme",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "Seattle, WA",
+        "ct": "Los Angeles, CA",
         "o": "Ambach & Rice",
         "d": [
           "2012-10-20",
@@ -630,6 +630,18 @@
         "d": [
           "2013-04-23",
           "2013-05-11"
+        ]
+      },
+      {
+        "i": "36817-7271-2013-08-24",
+        "c": "BE",
+        "n": "Contour 2013 - 6th Biennial of Moving Image",
+        "st": "Group",
+        "ct": "Mechelen",
+        "o": "Contour - Biennial for Video Art",
+        "d": [
+          "2013-08-24",
+          "2013-11-03"
         ]
       },
       {

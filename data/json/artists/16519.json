@@ -348,7 +348,7 @@
         "n": "THANK YOU FOR THE MUSIC (London Beat)",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Sprüth Magers London",
         "d": [
           "2006-06-29",
@@ -592,6 +592,10 @@
         "c": "FR"
       },
       {
+        "i": "16519-2303-2007-09-14",
+        "c": "FR"
+      },
+      {
         "i": "16519-5316-2007-09-21",
         "c": "ES",
         "n": "Existencias",
@@ -676,6 +680,10 @@
     ],
     "2008": [
       {
+        "i": "16519-2303-2007-09-14",
+        "c": "FR"
+      },
+      {
         "i": "16519-5316-2007-09-21",
         "c": "ES",
         "n": "Existencias",
@@ -744,7 +752,7 @@
         "n": "Constructs for Illumination",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Allsopp Contemporary",
         "d": [
           "2008-10-04",
@@ -837,14 +845,6 @@
         "c": "FR"
       },
       {
-        "i": "16519-2718-2009-05-15",
-        "c": "FR"
-      },
-      {
-        "i": "16519-2718-2009-05-15",
-        "c": "FR"
-      },
-      {
         "i": "16519-12042-2009-05-15",
         "c": "ES",
         "n": "AUTO. SUEÑO Y MATERIA",
@@ -856,6 +856,14 @@
           "2009-05-15",
           "2009-09-21"
         ]
+      },
+      {
+        "i": "16519-2718-2009-05-15",
+        "c": "FR"
+      },
+      {
+        "i": "16519-2718-2009-05-15",
+        "c": "FR"
       },
       {
         "i": "16519-16797-2009-08-27",
@@ -1102,7 +1110,7 @@
         "n": "Xavier Veilhan",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Kenny Schachter / ROVE Projects LLP",
         "d": [
           "2010-10-15",
@@ -1385,7 +1393,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Istanbul",
-        "o": "Proje4L/Elgiz Museum of Contemporary Art",
+        "o": "Proje4L - Elgiz Museum of Contemporary Art",
         "d": [
           "2013-01-22",
           "2013-05-03"

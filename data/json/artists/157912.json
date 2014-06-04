@@ -85,19 +85,6 @@
         "c": "FR"
       },
       {
-        "i": "157912-2298-2010-11-27",
-        "c": "DE",
-        "n": "Transfer France-nrw",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Mönchengladbach",
-        "o": "Städtisches Museum Abteiberg",
-        "d": [
-          "2010-11-27",
-          "2011-01-23"
-        ]
-      },
-      {
         "i": "157912-2293-2010-11-27",
         "c": "DE",
         "n": "Passage",
@@ -122,9 +109,7 @@
           "2010-11-27",
           "2012-01-23"
         ]
-      }
-    ],
-    "2011": [
+      },
       {
         "i": "157912-2298-2010-11-27",
         "c": "DE",
@@ -137,7 +122,9 @@
           "2010-11-27",
           "2011-01-23"
         ]
-      },
+      }
+    ],
+    "2011": [
       {
         "i": "157912-2293-2010-11-27",
         "c": "DE",
@@ -146,6 +133,19 @@
         "st": "Group",
         "ct": "Dortmund",
         "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2010-11-27",
+          "2011-01-23"
+        ]
+      },
+      {
+        "i": "157912-2298-2010-11-27",
+        "c": "DE",
+        "n": "Transfer France-nrw",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Mönchengladbach",
+        "o": "Städtisches Museum Abteiberg",
         "d": [
           "2010-11-27",
           "2011-01-23"

@@ -157,14 +157,6 @@
         "c": "FR"
       },
       {
-        "i": "190820-1782-2010-06-11",
-        "c": "FR"
-      },
-      {
-        "i": "190820-1782-2010-06-11",
-        "c": "FR"
-      },
-      {
         "i": "190820-2554-2010-06-11",
         "c": "DE",
         "n": "6. berlin biennale für zeitgenössische kunst",
@@ -177,12 +169,20 @@
         ]
       },
       {
+        "i": "190820-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
+        "i": "190820-1782-2010-06-11",
+        "c": "FR"
+      },
+      {
         "i": "190820-3853-2010-10-01",
         "c": "GB",
         "n": "Metropolis",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Walsall, West Midlands (England)",
+        "ct": "Walsall, West Midlands",
         "o": "The New Art Gallery Walsall",
         "d": [
           "2010-10-01",
@@ -194,7 +194,7 @@
         "c": "GB",
         "n": "Brighton Photo Biennial 2010",
         "st": "Group",
-        "ct": "Brighton (England)",
+        "ct": "Brighton",
         "o": "Brighton Photo Biennial",
         "d": [
           "2010-10-02",
@@ -336,6 +336,10 @@
         "c": "FR"
       },
       {
+        "i": "190820-30968-2011-11-16",
+        "c": "FR"
+      },
+      {
         "i": "190820-3525-2011-11-18",
         "c": "DE",
         "n": "Momentaufnahmen einer Generation / Snapshots of a Generation",
@@ -378,6 +382,10 @@
       },
       {
         "i": "190820-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "190820-30968-2011-11-16",
         "c": "FR"
       },
       {
@@ -459,7 +467,7 @@
         "n": "The Prix Pictet - Power Exhibition",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Saatchi Gallery",
         "d": [
           "2012-10-10",
@@ -592,19 +600,6 @@
         ]
       },
       {
-        "i": "190820-3709-2013-03-22",
-        "c": "IE",
-        "n": "Prix Pictet - Power",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Dublin",
-        "o": "Gallery of Photography",
-        "d": [
-          "2013-03-22",
-          "2013-04-28"
-        ]
-      },
-      {
         "i": "190820-3593-2013-03-22",
         "c": "NL",
         "n": "Power - Prix Pictet",
@@ -615,6 +610,19 @@
         "d": [
           "2013-03-22",
           "2013-06-16"
+        ]
+      },
+      {
+        "i": "190820-3709-2013-03-22",
+        "c": "IE",
+        "n": "Prix Pictet - Power",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Dublin",
+        "o": "Gallery of Photography",
+        "d": [
+          "2013-03-22",
+          "2013-04-28"
         ]
       },
       {

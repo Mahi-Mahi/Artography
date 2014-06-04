@@ -183,7 +183,7 @@
         "n": "Face a Faces",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Edinburgh (Scotland)",
+        "ct": "Edinburgh, Scotland",
         "o": "City Art Centre",
         "d": [
           "2006-02-11",
@@ -340,19 +340,6 @@
         ]
       },
       {
-        "i": "8965-2606-2007-04-12",
-        "c": "RU",
-        "n": "Mutations I",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Moscow",
-        "o": "Moscow House of Photography",
-        "d": [
-          "2007-04-12",
-          "2007-05-04"
-        ]
-      },
-      {
         "i": "8965-5313-2007-05-10",
         "c": "HR",
         "n": "Body as Spectacle",
@@ -414,7 +401,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Vienna",
-        "o": "MUSA - Museum auf Abruf",
+        "o": "MUSA - Museum Startgalerie Artothek",
         "d": [
           "2007-09-07",
           "2007-10-06"
@@ -466,6 +453,14 @@
           "2008-04-18",
           "2008-04-20"
         ]
+      },
+      {
+        "i": "8965-2303-2008-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "8965-2303-2008-06-14",
+        "c": "FR"
       },
       {
         "i": "8965-434-2008-06-19",
@@ -643,6 +638,19 @@
         "c": "FR"
       },
       {
+        "i": "8965-31159-2009-09-26",
+        "c": "BE",
+        "n": "Faux-Semblants",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Namur",
+        "o": "Maison de la Culture Namur",
+        "d": [
+          "2009-09-26",
+          "2009-12-27"
+        ]
+      },
+      {
         "i": "8965-2335-2009-11-13",
         "c": "BR",
         "n": "Um Mundo Sem Medidas",
@@ -766,6 +774,14 @@
         "c": "FR"
       },
       {
+        "i": "8965-16752-2011-04-09",
+        "c": "FR"
+      },
+      {
+        "i": "8965-16752-2011-04-09",
+        "c": "FR"
+      },
+      {
         "i": "8965-13055-2011-06-25",
         "c": "NL",
         "n": "Out of Storage: Provisoire & Définitif",
@@ -797,6 +813,19 @@
         "d": [
           "2011-07-26",
           "2011-10-16"
+        ]
+      },
+      {
+        "i": "8965-28555-2011-09-15",
+        "c": "CH",
+        "n": "Look",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Galerie Xippas Switzerland",
+        "d": [
+          "2011-09-15",
+          "2011-11-12"
         ]
       },
       {
@@ -878,6 +907,19 @@
         "c": "FR"
       },
       {
+        "i": "8965-28555-2013-01-17",
+        "c": "CH",
+        "n": "vertigo",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Galerie Xippas Switzerland",
+        "d": [
+          "2013-01-17",
+          "2013-03-09"
+        ]
+      },
+      {
         "i": "8965-6778-2013-02-22",
         "c": "ES",
         "n": "Réinventer le monde",
@@ -930,6 +972,16 @@
           "2013-08-10",
           "2013-10-27"
         ]
+      },
+      {
+        "i": "8965-16752-2013-12-07",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "8965-16752-2013-12-07",
+        "c": "FR"
       }
     ]
   }

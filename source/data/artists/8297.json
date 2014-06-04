@@ -654,7 +654,7 @@
         "n": "Mimmo Rotella & Jacques Villeglé",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Mayor Gallery",
         "d": [
           "2008-09-22",
@@ -790,7 +790,7 @@
         "n": "Artists from the 60s",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Mayor Gallery",
         "d": [
           "2009-01-09",
@@ -903,7 +903,7 @@
         "n": "COLLAGE, LONDON/NEW YORK",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Fred [London] Ltd.",
         "d": [
           "2009-08-06",
@@ -1117,7 +1117,7 @@
         "n": "Nikolas Gambaroff - Raymond Hains - Jacques Villeglé",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Stuart Shave / Modern Art",
         "d": [
           "2011-02-25",
@@ -1215,7 +1215,7 @@
         "n": "Jacques Villeglé: Trajectoire Urbaine",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Alexia Goethe Gallery",
         "d": [
           "2011-02-11",
@@ -1241,7 +1241,7 @@
         "n": "testimone del suo tempo",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "Chiari (Bs)",
+        "ct": "Chiari, Bs",
         "o": "Galleria L'Incontro",
         "d": [
           "2011-10-08",
@@ -1453,7 +1453,7 @@
         "n": "Collective Dis/Illusions",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Mayor Gallery",
         "d": [
           "2013-04-11",
@@ -1466,7 +1466,7 @@
         "n": "Poesia - Werke Sammlung Rik Reinking",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Delmenhorst ",
+        "ct": "Delmenhorst",
         "o": "Städtische Galerie Delmenhorst",
         "d": [
           "2013-04-13",
@@ -1474,6 +1474,14 @@
         ]
       },
       {
+        "i": "8297-8541-2013-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "8297-8541-2013-05-17",
+        "c": "FR"
+      },
+      {
         "i": "8297-8997-2013-06-01",
         "c": "FR"
       },
@@ -1512,19 +1520,6 @@
       {
         "i": "8297-10825-2013-09-21",
         "c": "FR"
-      },
-      {
-        "i": "8297-6417-2013-09-28",
-        "c": "DE",
-        "n": "Ruhe-Störung - Streifzüge durch die Welten der Collage",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Herford",
-        "o": "MARTa Herford",
-        "d": [
-          "2013-09-28",
-          "2014-01-26"
-        ]
       },
       {
         "i": "8297-9629-2013-09-28",
@@ -1534,6 +1529,19 @@
         "st": "Group",
         "ct": "Ahlen",
         "o": "Kunstmuseum Ahlen",
+        "d": [
+          "2013-09-28",
+          "2014-01-26"
+        ]
+      },
+      {
+        "i": "8297-6417-2013-09-28",
+        "c": "DE",
+        "n": "Ruhe-Störung - Streifzüge durch die Welten der Collage",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Herford",
+        "o": "MARTa Herford",
         "d": [
           "2013-09-28",
           "2014-01-26"
@@ -1550,19 +1558,6 @@
     ],
     "2014": [
       {
-        "i": "8297-6417-2013-09-28",
-        "c": "DE",
-        "n": "Ruhe-Störung - Streifzüge durch die Welten der Collage",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Herford",
-        "o": "MARTa Herford",
-        "d": [
-          "2013-09-28",
-          "2014-01-26"
-        ]
-      },
-      {
         "i": "8297-9629-2013-09-28",
         "c": "DE",
         "n": "Ruhestörung - Streifzüge durch die Welt der Collage",
@@ -1570,6 +1565,19 @@
         "st": "Group",
         "ct": "Ahlen",
         "o": "Kunstmuseum Ahlen",
+        "d": [
+          "2013-09-28",
+          "2014-01-26"
+        ]
+      },
+      {
+        "i": "8297-6417-2013-09-28",
+        "c": "DE",
+        "n": "Ruhe-Störung - Streifzüge durch die Welten der Collage",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Herford",
+        "o": "MARTa Herford",
         "d": [
           "2013-09-28",
           "2014-01-26"

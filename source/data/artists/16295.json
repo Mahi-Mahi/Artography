@@ -50,7 +50,7 @@
         "n": "Citizens",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "PM Gallery & House",
         "d": [
           "2005-01-21",
@@ -166,7 +166,7 @@
         "n": "Citizens",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Newtown, Powys (Wales)",
+        "ct": "Newtown, Powys, Wales",
         "o": "Oriel Davies Gallery",
         "d": [
           "2005-08-23",
@@ -384,19 +384,6 @@
         "c": "FR"
       },
       {
-        "i": "16295-2403-2006-04-29",
-        "c": "TW",
-        "n": "NEW MEDIA 1965-2005 Selected works from Centre",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Taipei",
-        "o": "Taipei Fine Arts Museum",
-        "d": [
-          "2006-04-29",
-          "2006-07-23"
-        ]
-      },
-      {
         "i": "16295-6448-2006-04-29",
         "c": "PR",
         "n": "Globalización: indicaciones/ efectos secundarios/ advertencias",
@@ -407,6 +394,19 @@
         "d": [
           "2006-04-29",
           "2007-05-05"
+        ]
+      },
+      {
+        "i": "16295-2403-2006-04-29",
+        "c": "TW",
+        "n": "NEW MEDIA 1965-2005 Selected works from Centre",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Taipei",
+        "o": "Taipei Fine Arts Museum",
+        "d": [
+          "2006-04-29",
+          "2006-07-23"
         ]
       },
       {
@@ -513,7 +513,7 @@
         "n": "Let's Make Lots of Money",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Blow de la Barra",
         "d": [
           "2006-04-01",
@@ -885,7 +885,7 @@
         "n": "Matthieu Laurette - Exhibition Non Stop - A one year solo show",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Blow de la Barra",
         "d": [
           "2008-01-01",
@@ -1034,6 +1034,19 @@
       }
     ],
     "2012": [
+      {
+        "i": "16295-9150-2012-06-02",
+        "c": "BE",
+        "n": "Mind the System, Find the Gap",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Hasselt",
+        "o": "Z33",
+        "d": [
+          "2012-06-02",
+          "2012-09-30"
+        ]
+      },
       {
         "i": "16295-4651-2012-06-30",
         "c": "FR"

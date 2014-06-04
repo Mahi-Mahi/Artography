@@ -159,7 +159,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Aalborg",
-        "o": "KUNSTEN Museum of Modern Art Aalborg (former Nordjyllands Kunstmuseum)",
+        "o": "KUNSTEN Museum of Modern Art",
         "d": [
           "2007-06-15",
           "2007-08-26"
@@ -613,19 +613,6 @@
         ]
       },
       {
-        "i": "34966-2601-2012-05-14",
-        "c": "PL",
-        "n": "Wonderful Life",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Gdansk",
-        "o": "LAZNIA - Centre for Contemporary Art",
-        "d": [
-          "2012-05-14",
-          "2012-06-24"
-        ]
-      },
-      {
         "i": "34966-19390-2012-05-14",
         "c": "PL",
         "n": "Wonderful Life",
@@ -633,6 +620,19 @@
         "st": "Solo",
         "ct": "Warsaw",
         "o": "Austrian Cultural Forum Warsaw",
+        "d": [
+          "2012-05-14",
+          "2012-06-24"
+        ]
+      },
+      {
+        "i": "34966-2601-2012-05-14",
+        "c": "PL",
+        "n": "Wonderful Life",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Gdansk",
+        "o": "LAZNIA - Centre for Contemporary Art",
         "d": [
           "2012-05-14",
           "2012-06-24"
@@ -664,6 +664,19 @@
         "d": [
           "2013-06-18",
           "2013-07-27"
+        ]
+      },
+      {
+        "i": "34966-29336-2013-11-29",
+        "c": "PT",
+        "n": "Inter[In]Venção",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Évora",
+        "o": "Fórum Eugénio de Almeida",
+        "d": [
+          "2013-11-29",
+          "2013-03-09"
         ]
       }
     ]

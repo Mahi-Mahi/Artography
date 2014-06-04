@@ -86,7 +86,7 @@
         "n": "Paranoia",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Leeds (England)",
+        "ct": "Leeds",
         "o": "Leeds Art Gallery",
         "d": [
           "2006-06-29",
@@ -111,7 +111,7 @@
         "n": "paranoia",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Southend-on-Sea, Essex (England)",
+        "ct": "Southend-on-Sea, Essex",
         "o": "Focal Point Gallery",
         "d": [
           "2006-11-04",
@@ -126,7 +126,7 @@
         "n": "Paranoia",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Freud Museum",
         "d": [
           "2007-01-10",
@@ -230,7 +230,7 @@
         "n": "Margate Rocks 08",
         "t": "Autre",
         "st": "Group",
-        "ct": "Margate (England)",
+        "ct": "Margate",
         "o": "Margate Rocks",
         "d": [
           "2008-05-02",
@@ -243,7 +243,7 @@
         "n": "Visions in the Nunnery",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Nunnery Gallery",
         "d": [
           "2008-06-06",
@@ -291,12 +291,25 @@
         ]
       },
       {
+        "i": "95642-20293-2009-01-15",
+        "c": "PL",
+        "n": "Video-Box",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Olsztyn",
+        "o": "haloGaleria MOK",
+        "d": [
+          "2009-01-15",
+          "2009-03-18"
+        ]
+      },
+      {
         "i": "95642-12990-2009-05-08",
         "c": "GB",
         "n": "What You Can't See",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Belfast (Northern Ireland)",
+        "ct": "Belfast, Northern Ireland",
         "o": "Belfast Exposed",
         "d": [
           "2009-05-08",

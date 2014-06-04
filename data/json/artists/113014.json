@@ -33,7 +33,7 @@
   "2005-shows-galleries": "14",
   "2005-shows-museums": "21",
   "2005-countries-total": "France (21), Spain (6), Germany (4), United Kingdom (4), China (1), Luxembourg (1), Netherlands (1), Portugal (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Mathieu Kleyebe Abonnenc (30), Renaud Auguste-Dormeuil (4), Danh Vo (4), Saâdane Afif (3), Yto Barrada (3), Neil Beloufa (3), Pauline Boudry & Renate Lorenz (3), Claire Fontaine (3), Peter Friedl (3), Mario Garcia Torres (3), Camille Henrot (3), Bouchra Khalili (3), Ian Kiaer (3), Jochen Lempert (3), Christodoulos Panayiotou (3), Walid Raad (3), Marie Voignier (3), Georges Adéagbo (2), Allora & Calzadilla (2), Dove Allouche (2), María Thereza Alves (2), Carlos Amorales (2), Tarek Atoui (2), Julien Audebert (2), Babi Badalov (2), Fayçal Baghriche (2), Zbynek Baladran (2), Eric Baudelaire (2), Alain Benoit (2), Lonnie van Brummelen (2), Carolina Caycedo (2), Nicolas Chardon (2), Claude Closky (2), Isabelle Cornaro (2), Tacita Dean (2), Gabriele Di Matteo (2), Jimmie Durham (2), Mounir Fatmi (2), Ryan Gander (2), Dora García (2), General Idea (2), le Gentil Garçon (2), Felix Gonzalez-Torres (2), Laurent Grasso (2), Siebren de Haan (2), Joana Hadjithomas & Khalil Joreige (2), Louise Hervé & Chloé Maillet ",
+  "2005-shows-with": "Mathieu Kleyebe Abonnenc (30), Renaud Auguste-Dormeuil (4), Danh Vo (4), Saâdane Afif (3), Yto Barrada (3), Neil Beloufa (3), Claire Fontaine (3), Peter Friedl (3), Mario Garcia Torres (3), Camille Henrot (3), Bouchra Khalili (3), Ian Kiaer (3), Jochen Lempert (3), Christodoulos Panayiotou (3), Walid Raad (3), Marie Voignier (3), Georges Adéagbo (2), Allora & Calzadilla (2), Dove Allouche (2), María Thereza Alves (2), Carlos Amorales (2), Tarek Atoui (2), Julien Audebert (2), Babi Badalov (2), Fayçal Baghriche (2), Zbynek Baladran (2), Eric Baudelaire (2), Alain Benoit (2), Lonnie van Brummelen (2), Carolina Caycedo (2), Nicolas Chardon (2), Claude Closky (2), Isabelle Cornaro (2), Tacita Dean (2), Gabriele Di Matteo (2), Jimmie Durham (2), Mounir Fatmi (2), Ryan Gander (2), Dora García (2), General Idea (2), le Gentil Garçon (2), Felix Gonzalez-Torres (2), Laurent Grasso (2), Siebren de Haan (2), Joana Hadjithomas & Khalil Joreige (2), Louise Hervé & Chloé Maillet (2), Ralf Homann (2), Alfredo Jaar (",
   "representing-galleries": "Galerie Hussenot (5 bis, rue des Haudriettes, 75003 Paris, France); Marcelle Alix (4 rue Jouye-Rouve, 75020 Paris, France); Galerie De Expeditie (Leliegracht 47, 1016 GT Amsterdam, Netherlands)",
   "collecting-museums": null,
   "first_name": "Mathieu",
@@ -212,7 +212,7 @@
         "n": "Hydrarchy: Power and Resistance at Sea",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Gasworks",
         "d": [
           "2010-09-18",
@@ -293,7 +293,7 @@
         "n": "Part 2 - Mathieu K. Abonnenc, Graham Hudson",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hilary Crisp Gallery",
         "d": [
           "2011-09-28",
@@ -301,25 +301,25 @@
         ]
       },
       {
-        "i": "113014-24747-2011-02-26",
-        "c": "FR"
-      },
-      {
-        "i": "113014-24747-2011-02-26",
-        "c": "FR"
-      },
-      {
         "i": "113014-7275-2011-02-26",
         "c": "GB",
         "n": "Guns for Banta",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Gasworks",
         "d": [
           "2011-02-26",
           "2011-04-17"
         ]
+      },
+      {
+        "i": "113014-24747-2011-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "113014-24747-2011-02-26",
+        "c": "FR"
       },
       {
         "i": "113014-24747-2011-05-28",
@@ -353,19 +353,19 @@
         ]
       },
       {
-        "i": "113014-26765-2012-04-20",
-        "c": "FR"
-      },
-      {
-        "i": "113014-26765-2012-04-20",
-        "c": "FR"
-      },
-      {
         "i": "113014-24747-2012-04-20",
         "c": "FR"
       },
       {
         "i": "113014-24747-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "113014-26765-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "113014-26765-2012-04-20",
         "c": "FR"
       },
       {
@@ -466,7 +466,7 @@
         "n": "Anguish and Enthusiasm: What Do You Do With Your Revolution Once You’ve Got It",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Manchester (England)",
+        "ct": "Manchester",
         "o": "Cornerhouse",
         "d": [
           "2013-04-13",

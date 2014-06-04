@@ -50,7 +50,7 @@
         "n": "An Aside - Selected by Tacita Dean",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Camden Arts Centre",
         "d": [
           "2005-02-18",
@@ -76,7 +76,7 @@
         "n": "An Aside - Selected by Tacita Dean",
         "t": "Autre",
         "st": "Group",
-        "ct": "Edinburgh (Scotland)",
+        "ct": "Edinburgh, Scotland",
         "o": "Fruitmarket Gallery",
         "d": [
           "2005-05-14",
@@ -353,6 +353,19 @@
         "c": "FR"
       },
       {
+        "i": "16065-31159-2011-01-22",
+        "c": "BE",
+        "n": "Mise A L'eau - Aquarelles Contemporaines",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Namur",
+        "o": "Maison de la Culture Namur",
+        "d": [
+          "2011-01-22",
+          "2011-03-06"
+        ]
+      },
+      {
         "i": "16065-3104-2011-01-24",
         "c": "RO",
         "n": "Architecture Dessins Utopies",
@@ -366,10 +379,23 @@
         ]
       },
       {
+        "i": "16065-28555-2011-09-15",
+        "c": "CH",
+        "n": "Look",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Galerie Xippas Switzerland",
+        "d": [
+          "2011-09-15",
+          "2011-11-12"
+        ]
+      },
+      {
         "i": "16065-11869-2011-01-26",
         "c": "IT",
         "n": "Rear View Mirror",
-        "t": "Institution publique",
+        "t": "Autre",
         "st": "Solo",
         "ct": "Milan",
         "o": "Galleria Gruppo Credito Valtellinese",
@@ -457,6 +483,14 @@
           "2013-02-20",
           "2013-05-05"
         ]
+      },
+      {
+        "i": "16065-8541-2013-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "16065-8541-2013-05-17",
+        "c": "FR"
       },
       {
         "i": "16065--2013-06-07",

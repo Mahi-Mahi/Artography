@@ -87,14 +87,6 @@
         ]
       },
       {
-        "i": "2408-2303-2005-06-30",
-        "c": "FR"
-      },
-      {
-        "i": "2408-2303-2005-06-30",
-        "c": "FR"
-      },
-      {
         "i": "2408-373-2005-09-15",
         "c": "ES",
         "n": "Miradas  y conceptos en la Colección Helga de Alvear",
@@ -286,7 +278,7 @@
         "n": "Jean-Marc Bustamante",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Timothy Taylor Gallery",
         "d": [
           "2006-09-06",
@@ -350,6 +342,14 @@
           "2006-12-21",
           "2007-02-16"
         ]
+      },
+      {
+        "i": "2408-30491-2007-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "2408-30491-2007-02-02",
+        "c": "FR"
       },
       {
         "i": "2408-228-2007-03-03",
@@ -594,19 +594,6 @@
         ]
       },
       {
-        "i": "2408-1730-2008-07-01",
-        "c": "ES",
-        "n": "INTERLUDI",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Barcelona",
-        "o": "Galería Estrany - De La Mota",
-        "d": [
-          "2008-07-01",
-          "2008-09-30"
-        ]
-      },
-      {
         "i": "2408-13467-2008-07-01",
         "c": "JP",
         "n": "Dear Stieglitz",
@@ -620,12 +607,25 @@
         ]
       },
       {
+        "i": "2408-1730-2008-07-01",
+        "c": "ES",
+        "n": "INTERLUDI",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Barcelona",
+        "o": "Galería Estrany - De La Mota",
+        "d": [
+          "2008-07-01",
+          "2008-09-30"
+        ]
+      },
+      {
         "i": "2408-1173-2008-07-09",
         "c": "GB",
         "n": "Summer Show",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Timothy Taylor Gallery",
         "d": [
           "2008-07-09",
@@ -1062,19 +1062,6 @@
         "c": "FR"
       },
       {
-        "i": "2408-11290-2010-10-02",
-        "c": "ES",
-        "n": "Medianoche en la Ciudad",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Lleida",
-        "o": "Centre d’Art la Panera",
-        "d": [
-          "2010-10-02",
-          "2011-01-09"
-        ]
-      },
-      {
         "i": "2408-23502-2010-10-02",
         "c": "PT",
         "n": "Look Up! Natural Porto Art Show",
@@ -1085,6 +1072,19 @@
         "d": [
           "2010-10-02",
           "2010-12-19"
+        ]
+      },
+      {
+        "i": "2408-11290-2010-10-02",
+        "c": "ES",
+        "n": "Medianoche en la Ciudad",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Lleida",
+        "o": "Centre d’Art la Panera",
+        "d": [
+          "2010-10-02",
+          "2011-01-09"
         ]
       },
       {
@@ -1210,7 +1210,7 @@
         "n": "Dead Calm",
         "t": "Autre",
         "st": "Solo",
-        "ct": "Edinburgh (Scotland)",
+        "ct": "Edinburgh, Scotland",
         "o": "Fruitmarket Gallery",
         "d": [
           "2011-02-04",
@@ -1223,7 +1223,7 @@
         "n": "Jean-Marc Bustamante: Take Something Hot and Cool it Down",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Timothy Taylor Gallery",
         "d": [
           "2011-04-20",
@@ -1236,7 +1236,7 @@
         "n": "Jean-Marc Bustamante: Dead Calm",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Leeds (England)",
+        "ct": "Leeds",
         "o": "Henry Moore Institute",
         "d": [
           "2011-04-21",
@@ -1432,6 +1432,19 @@
       {
         "i": "2408-20775-2013-10-20",
         "c": "FR"
+      },
+      {
+        "i": "2408-28577-2013-12-14",
+        "c": "NL",
+        "n": "Facing Nature, collectie De Heus-Zomer",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Heerenveen",
+        "o": "Museum Belvédère",
+        "d": [
+          "2013-12-14",
+          "2014-03-30"
+        ]
       }
     ],
     "2014": [
@@ -1455,6 +1468,19 @@
       {
         "i": "2408-20775-2013-10-20",
         "c": "FR"
+      },
+      {
+        "i": "2408-28577-2013-12-14",
+        "c": "NL",
+        "n": "Facing Nature, collectie De Heus-Zomer",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Heerenveen",
+        "o": "Museum Belvédère",
+        "d": [
+          "2013-12-14",
+          "2014-03-30"
+        ]
       }
     ]
   }

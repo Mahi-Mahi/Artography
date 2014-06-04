@@ -169,7 +169,7 @@
         "n": "Face a Faces",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Edinburgh (Scotland)",
+        "ct": "Edinburgh, Scotland",
         "o": "City Art Centre",
         "d": [
           "2006-02-11",
@@ -200,19 +200,6 @@
       {
         "i": "11787-3124-2006-06-01",
         "c": "ES",
-        "n": "Orlan - DS.1 / R. Liaño - P.G.O.U. - DS.2",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Madrid",
-        "o": "Galería Dolores de Sierra",
-        "d": [
-          "2006-06-01",
-          "2006-07-01"
-        ]
-      },
-      {
-        "i": "11787-3124-2006-06-01",
-        "c": "ES",
         "n": "Photo España 2006",
         "t": "Galerie privée",
         "st": "Group",
@@ -221,6 +208,19 @@
         "d": [
           "2006-06-01",
           "2006-07-22"
+        ]
+      },
+      {
+        "i": "11787-3124-2006-06-01",
+        "c": "ES",
+        "n": "Orlan - DS.1 / R. Liaño - P.G.O.U. - DS.2",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Madrid",
+        "o": "Galería Dolores de Sierra",
+        "d": [
+          "2006-06-01",
+          "2006-07-01"
         ]
       },
       {
@@ -397,7 +397,7 @@
       {
         "i": "11787-22993-2007-03-01",
         "c": "US",
-        "n": "Imago: The Drama of Self-Portraiture in Recent Photography",
+        "n": "Flickering Self: Video Shorts by Andrew Demirjian, Orlan, and Martin C. de Waal",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Newark, NJ",
@@ -410,7 +410,7 @@
       {
         "i": "11787-22993-2007-03-01",
         "c": "US",
-        "n": "Flickering Self: Video Shorts by Andrew Demirjian, Orlan, and Martin C. de Waal",
+        "n": "Imago: The Drama of Self-Portraiture in Recent Photography",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Newark, NJ",
@@ -469,7 +469,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Venice",
-        "o": "Museo Fortuny",
+        "o": "Palazzo Fortuny",
         "d": [
           "2007-06-09",
           "2007-10-07"
@@ -589,7 +589,7 @@
         "n": "SK-Interfaces",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Liverpool (England)",
+        "ct": "Liverpool",
         "o": "FACT (Foundation for Art and Creative Technology)",
         "d": [
           "2008-02-01",
@@ -784,19 +784,6 @@
         "c": "FR"
       },
       {
-        "i": "11787-1594-2009-03-21",
-        "c": "BE",
-        "n": "All that is solid melts into air",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Antwerp",
-        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
-        "d": [
-          "2009-03-21",
-          "2009-06-21"
-        ]
-      },
-      {
         "i": "11787-13764-2009-03-21",
         "c": "DE",
         "n": "bildschön. Schönheitskult in der aktuellen Kunst",
@@ -807,6 +794,19 @@
         "d": [
           "2009-03-21",
           "2009-06-07"
+        ]
+      },
+      {
+        "i": "11787-1594-2009-03-21",
+        "c": "BE",
+        "n": "All that is solid melts into air",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Antwerp",
+        "o": "MuHKA Museum voor Hedendaagse Kunst Antwerpen",
+        "d": [
+          "2009-03-21",
+          "2009-06-21"
         ]
       },
       {
@@ -1044,7 +1044,7 @@
         "n": "In View",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Belfast (Northern Ireland)",
+        "ct": "Belfast, Northern Ireland",
         "o": "Golden Thread Gallery",
         "d": [
           "2010-12-10",
@@ -1354,7 +1354,7 @@
         "n": "In View",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Belfast (Northern Ireland)",
+        "ct": "Belfast, Northern Ireland",
         "o": "Golden Thread Gallery",
         "d": [
           "2010-12-10",
@@ -1442,7 +1442,7 @@
         "n": "perfect is no body",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Halle (Saale)",
+        "ct": "Halle, Saale",
         "o": "Projektgalerie Raum HELLROT",
         "d": [
           "2012-04-19",
@@ -1460,6 +1460,19 @@
         "d": [
           "2012-04-24",
           "2012-06-17"
+        ]
+      },
+      {
+        "i": "11787-10727-2012-05-05",
+        "c": "HR",
+        "n": "re.act.feminism 2 - a performing archive",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Zagreb",
+        "o": "Galerija Miroslav Kraljevic",
+        "d": [
+          "2012-05-05",
+          "2012-05-26"
         ]
       },
       {

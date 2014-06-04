@@ -33,7 +33,7 @@
   "2005-shows-galleries": "8",
   "2005-shows-museums": "13",
   "2005-countries-total": "France (21), Belgium (2), Switzerland (2), Austria (1), Canada (1), Germany (1), Portugal (1), United Kingdom (1), USA (1)",
-  "2005-shows-with": "Louise Hervé & Chloé Maillet (21), Jorge Pedro Núñez (4), Neil Beloufa (3), Camille Henrot (3), Benoît Maire (3), Benoit-Marie Moriceau (3), Jean-Luc Moulène (3), Alexandre Singh (3), Mathieu Kleyebe Abonnenc (2), Wilfrid Almendra (2), Meris Angioletti (2), Giles Bailey (2), Bertille Bak (2), Gerry Bibby (2), Pierre Bismuth (2), Gaëlle Boucand (2), Pauline Boudry & Renate Lorenz (2), Daniel Buren (2), Antoine Catala (2), Etienne Chambaud (2), Mathis Collins (2), Isabelle Cornaro (2), Edith Dekyndt (2), Marcelline Delbecq (2), Jason Dodge (2), Harun Farocki (2), Peter Friedl (2), André Guedes (2), Raymond Hains (2), Emmanuelle Lainé (2), Louise Lawler (2), Laurent Le Deunff (2), Seulgi Lee (2), Jochen Lempert (2), Ariane Michel (2), Nicolas Milhé (2), Roman Ondák (2), Gerald Petit (2), Lili Reynaud Dewar (2), Jorge Satorre (2), Denis Savary (2), Julien Tiberi (2), Marie Voignier (2), Peter Wächtler (2), Virginie Yassef (2)",
+  "2005-shows-with": "Louise Hervé & Chloé Maillet (21), Jorge Pedro Núñez (4), Neil Beloufa (3), Camille Henrot (3), Benoît Maire (3), Benoit-Marie Moriceau (3), Jean-Luc Moulène (3), Alexandre Singh (3), Mathieu Kleyebe Abonnenc (2), Wilfrid Almendra (2), Meris Angioletti (2), Giles Bailey (2), Bertille Bak (2), Gerry Bibby (2), Pierre Bismuth (2), Gaëlle Boucand (2), Daniel Buren (2), Antoine Catala (2), Etienne Chambaud (2), Mathis Collins (2), Isabelle Cornaro (2), Edith Dekyndt (2), Marcelline Delbecq (2), Jason Dodge (2), Harun Farocki (2), Peter Friedl (2), André Guedes (2), Raymond Hains (2), Emmanuelle Lainé (2), Louise Lawler (2), Laurent Le Deunff (2), Seulgi Lee (2), Jochen Lempert (2), Ariane Michel (2), Nicolas Milhé (2), Roman Ondák (2), Gerald Petit (2), Lili Reynaud Dewar (2), Jorge Satorre (2), Denis Savary (2), Julien Tiberi (2), Marie Voignier (2), Peter Wächtler (2), Virginie Yassef (2)",
   "representing-galleries": "Marcelle Alix (4 rue Jouye-Rouve, 75020 Paris, France)",
   "collecting-museums": null,
   "first_name": "Louise",
@@ -149,7 +149,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Geneva",
-        "o": "Centre d´Art Contemporain Geneve",
+        "o": "Centre d'Art Contemporain Geneve",
         "d": [
           "2011-11-25",
           "2012-01-22"
@@ -197,7 +197,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Geneva",
-        "o": "Centre d´Art Contemporain Geneve",
+        "o": "Centre d'Art Contemporain Geneve",
         "d": [
           "2011-11-25",
           "2012-01-22"
@@ -212,19 +212,19 @@
         "c": "FR"
       },
       {
-        "i": "214418-24747-2012-04-20",
-        "c": "FR"
-      },
-      {
-        "i": "214418-24747-2012-04-20",
-        "c": "FR"
-      },
-      {
         "i": "214418-26765-2012-04-20",
         "c": "FR"
       },
       {
         "i": "214418-26765-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "214418-24747-2012-04-20",
+        "c": "FR"
+      },
+      {
+        "i": "214418-24747-2012-04-20",
         "c": "FR"
       },
       {
@@ -249,19 +249,19 @@
         ]
       },
       {
-        "i": "214418-10218-2012-02-25",
-        "c": "FR"
-      },
-      {
-        "i": "214418-10218-2012-02-25",
-        "c": "FR"
-      },
-      {
         "i": "214418-24747-2012-02-25",
         "c": "FR"
       },
       {
         "i": "214418-24747-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "214418-10218-2012-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "214418-10218-2012-02-25",
         "c": "FR"
       },
       {
@@ -306,7 +306,7 @@
         "n": "Version Control",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Arnolfini",
         "d": [
           "2013-02-02",
@@ -316,7 +316,7 @@
       {
         "i": "214418-27771-2013-03-07",
         "c": "BE",
-        "n": "Collection Centre national des arts plastiques",
+        "n": "L&#8217;ORIGINE DES CHOSES - Collection Centre national des arts plastiques",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Brussels",
@@ -324,6 +324,18 @@
         "d": [
           "2013-03-07",
           "2013-06-09"
+        ]
+      },
+      {
+        "i": "214418-7271-2013-08-24",
+        "c": "BE",
+        "n": "Contour 2013 - 6th Biennial of Moving Image",
+        "st": "Group",
+        "ct": "Mechelen",
+        "o": "Contour - Biennial for Video Art",
+        "d": [
+          "2013-08-24",
+          "2013-11-03"
         ]
       },
       {

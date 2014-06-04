@@ -223,7 +223,7 @@
         "n": "Where Language Stops",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Wilkinson Gallery",
         "d": [
           "2011-07-15",
@@ -236,7 +236,7 @@
         "n": "Rhododendron (II)",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "SPACE",
         "d": [
           "2011-09-02",
@@ -257,6 +257,32 @@
         ]
       },
       {
+        "i": "267485-30720-2011-10-29",
+        "c": "SE",
+        "n": "Edge of Glory",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Malmö",
+        "o": "CEO Gallery",
+        "d": [
+          "2011-10-29",
+          "2011-11-12"
+        ]
+      },
+      {
+        "i": "267485-30720-2011-12-21",
+        "c": "SE",
+        "n": "twothousandtwelve",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Malmö",
+        "o": "CEO Gallery",
+        "d": [
+          "2011-12-21",
+          "2012-01-22"
+        ]
+      },
+      {
         "i": "267485-18703-2011-11-11",
         "c": "DE",
         "n": "Juliette Bonneviot - Pink Pink Stink Nice Drink",
@@ -272,6 +298,19 @@
     ],
     "2012": [
       {
+        "i": "267485-30720-2011-12-21",
+        "c": "SE",
+        "n": "twothousandtwelve",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Malmö",
+        "o": "CEO Gallery",
+        "d": [
+          "2011-12-21",
+          "2012-01-22"
+        ]
+      },
+      {
         "i": "267485-7991-2012-04-13",
         "c": "IE",
         "n": "entrance, entrance",
@@ -282,6 +321,19 @@
         "d": [
           "2012-04-13",
           "2012-06-02"
+        ]
+      },
+      {
+        "i": "267485-30720-2012-06-03",
+        "c": "SE",
+        "n": "July",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Malmö",
+        "o": "CEO Gallery",
+        "d": [
+          "2012-06-03",
+          "2012-07-20"
         ]
       },
       {
@@ -324,12 +376,25 @@
         ]
       },
       {
+        "i": "267485-30720-2012-03-31",
+        "c": "SE",
+        "n": "Pumping Dancers",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Malmö",
+        "o": "CEO Gallery",
+        "d": [
+          "2012-03-31",
+          "2012-04-15"
+        ]
+      },
+      {
         "i": "267485-1721-2012-09-07",
         "c": "GB",
         "n": "Shanghai Gesture 2",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Wilkinson Gallery",
         "d": [
           "2012-09-07",
@@ -362,6 +427,19 @@
         "d": [
           "2013-04-12",
           "2013-06-01"
+        ]
+      },
+      {
+        "i": "267485-30720-2013-04-27",
+        "c": "SE",
+        "n": "4.",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Malmö",
+        "o": "CEO Gallery",
+        "d": [
+          "2013-04-27",
+          "2013-05-20"
         ]
       },
       {

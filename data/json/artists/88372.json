@@ -127,19 +127,6 @@
     ],
     "2008": [
       {
-        "i": "88372-4014-2008-10-18",
-        "c": "DE",
-        "n": "Tales of Flames",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Kunstraum Kreuzberg / Bethanien",
-        "d": [
-          "2008-10-18",
-          "2008-11-02"
-        ]
-      },
-      {
         "i": "88372-1783-2008-10-18",
         "c": "DE",
         "n": "Tales of Flames",
@@ -147,6 +134,19 @@
         "st": "Group",
         "ct": "Berlin",
         "o": "Künstlerhaus Bethanien",
+        "d": [
+          "2008-10-18",
+          "2008-11-02"
+        ]
+      },
+      {
+        "i": "88372-4014-2008-10-18",
+        "c": "DE",
+        "n": "Tales of Flames",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Kunstraum Kreuzberg / Bethanien",
         "d": [
           "2008-10-18",
           "2008-11-02"
@@ -330,6 +330,32 @@
           "2013-06-07",
           "2013-07-19"
         ]
+      },
+      {
+        "i": "88372-17392-2013-09-14",
+        "c": "CH",
+        "n": "Jérôme Chazeix - Ursprung der Berge",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Kreuzlingen",
+        "o": "Kunstraum Kreuzlingen",
+        "d": [
+          "2013-09-14",
+          "2013-10-13"
+        ]
+      },
+      {
+        "i": "88372-26666-2013-12-16",
+        "c": "CH",
+        "n": "Jerome Chazeix - Zeix Desire",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Guemligen",
+        "o": "5 Pieces Gallery",
+        "d": [
+          "2013-12-16",
+          "2014-01-15"
+        ]
       }
     ],
     "2005": [
@@ -344,6 +370,21 @@
         "d": [
           "2005-04-09",
           "2005-05-14"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "88372-26666-2013-12-16",
+        "c": "CH",
+        "n": "Jerome Chazeix - Zeix Desire",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Guemligen",
+        "o": "5 Pieces Gallery",
+        "d": [
+          "2013-12-16",
+          "2014-01-15"
         ]
       }
     ]

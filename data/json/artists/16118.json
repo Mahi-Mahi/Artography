@@ -119,6 +119,18 @@
         "c": "FR"
       },
       {
+        "i": "16118-5312-2005-11-11",
+        "c": "IT",
+        "n": "T1 Torino Triennale Tremusei",
+        "st": "Group",
+        "ct": "Turin",
+        "o": "Torino Trienniale",
+        "d": [
+          "2005-11-11",
+          "2006-03-19"
+        ]
+      },
+      {
         "i": "16118-727-2005-11-11",
         "c": "DE",
         "n": "thank you for the music",
@@ -129,18 +141,6 @@
         "d": [
           "2005-11-11",
           "2006-02-11"
-        ]
-      },
-      {
-        "i": "16118-5312-2005-11-11",
-        "c": "IT",
-        "n": "T1 Torino Triennale Tremusei",
-        "st": "Group",
-        "ct": "Turin",
-        "o": "Torino Trienniale",
-        "d": [
-          "2005-11-11",
-          "2006-03-19"
         ]
       },
       {
@@ -183,6 +183,18 @@
     ],
     "2006": [
       {
+        "i": "16118-5312-2005-11-11",
+        "c": "IT",
+        "n": "T1 Torino Triennale Tremusei",
+        "st": "Group",
+        "ct": "Turin",
+        "o": "Torino Trienniale",
+        "d": [
+          "2005-11-11",
+          "2006-03-19"
+        ]
+      },
+      {
         "i": "16118-727-2005-11-11",
         "c": "DE",
         "n": "thank you for the music",
@@ -193,18 +205,6 @@
         "d": [
           "2005-11-11",
           "2006-02-11"
-        ]
-      },
-      {
-        "i": "16118-5312-2005-11-11",
-        "c": "IT",
-        "n": "T1 Torino Triennale Tremusei",
-        "st": "Group",
-        "ct": "Turin",
-        "o": "Torino Trienniale",
-        "d": [
-          "2005-11-11",
-          "2006-03-19"
         ]
       },
       {
@@ -305,7 +305,7 @@
         "n": "THANK YOU FOR THE MUSIC (London Beat)",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Sprüth Magers London",
         "d": [
           "2006-06-29",
@@ -318,7 +318,7 @@
         "n": "Thank you for the music (London beat)",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Simon Lee Gallery",
         "d": [
           "2006-06-30",
@@ -499,7 +499,7 @@
         "n": "Learn to Read",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Modern",
         "d": [
           "2007-06-19",
@@ -525,7 +525,7 @@
         "n": "Handsome Young Doctor: A Show About Trust",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "CUBITT",
         "d": [
           "2007-07-06",
@@ -721,7 +721,7 @@
         "n": "Past-Forward",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Zabludowicz Collection London",
         "d": [
           "2008-05-15",
@@ -755,14 +755,6 @@
         ]
       },
       {
-        "i": "16118-1596-2008-06-27",
-        "c": "FR"
-      },
-      {
-        "i": "16118-1596-2008-06-27",
-        "c": "FR"
-      },
-      {
         "i": "16118-10736-2008-06-27",
         "c": "DE",
         "n": "Simple exploding man",
@@ -774,6 +766,14 @@
           "2008-06-27",
           "2008-07-20"
         ]
+      },
+      {
+        "i": "16118-1596-2008-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "16118-1596-2008-06-27",
+        "c": "FR"
       },
       {
         "i": "16118-592-2008-09-05",
@@ -802,10 +802,6 @@
         ]
       },
       {
-        "i": "16118-8292-2008-10-10",
-        "c": "FR"
-      },
-      {
         "i": "16118-2488-2008-10-10",
         "c": "ES",
         "n": "Rock My Religion 1",
@@ -817,6 +813,10 @@
           "2008-10-10",
           "2009-01-04"
         ]
+      },
+      {
+        "i": "16118-8292-2008-10-10",
+        "c": "FR"
       },
       {
         "i": "16118-14159-2008-10-11",
@@ -858,10 +858,6 @@
     ],
     "2009": [
       {
-        "i": "16118-8292-2008-10-10",
-        "c": "FR"
-      },
-      {
         "i": "16118-2488-2008-10-10",
         "c": "ES",
         "n": "Rock My Religion 1",
@@ -873,6 +869,10 @@
           "2008-10-10",
           "2009-01-04"
         ]
+      },
+      {
+        "i": "16118-8292-2008-10-10",
+        "c": "FR"
       },
       {
         "i": "16118-14159-2008-10-11",
@@ -1016,19 +1016,19 @@
         ]
       },
       {
-        "i": "16118-1917-2009-10-22",
-        "c": "FR"
-      },
-      {
-        "i": "16118-1917-2009-10-22",
-        "c": "FR"
-      },
-      {
         "i": "16118-4184-2009-10-22",
         "c": "FR"
       },
       {
         "i": "16118-4184-2009-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "16118-1917-2009-10-22",
+        "c": "FR"
+      },
+      {
+        "i": "16118-1917-2009-10-22",
         "c": "FR"
       }
     ],
@@ -1185,7 +1185,7 @@
         "n": "Art Below | Art Barter Collaboration | June / July 2010",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "ArtBelow",
         "d": [
           "2010-06-21",
@@ -1237,7 +1237,7 @@
         "n": "The Moon is an Arrant Thief",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The David Roberts Art Foundation",
         "d": [
           "2010-07-23",
@@ -1285,19 +1285,6 @@
       {
         "i": "16118-2353-2010-11-06",
         "c": "FR"
-      },
-      {
-        "i": "16118-18417-2010-12-05",
-        "c": "DE",
-        "n": "Zeigen. Eine Audiotour durch Berlin von Karin Sander,",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Temporäre Kunsthalle Berlin",
-        "d": [
-          "2010-12-05",
-          "2011-01-10"
-        ]
       },
       {
         "i": "16118-4417-2010-12-10",
@@ -1390,19 +1377,6 @@
       {
         "i": "16118-2353-2010-11-06",
         "c": "FR"
-      },
-      {
-        "i": "16118-18417-2010-12-05",
-        "c": "DE",
-        "n": "Zeigen. Eine Audiotour durch Berlin von Karin Sander,",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Temporäre Kunsthalle Berlin",
-        "d": [
-          "2010-12-05",
-          "2011-01-10"
-        ]
       },
       {
         "i": "16118-4417-2010-12-10",
@@ -1938,7 +1912,7 @@
       {
         "i": "16118-27771-2013-03-07",
         "c": "BE",
-        "n": "Collection Centre national des arts plastiques",
+        "n": "L&#8217;ORIGINE DES CHOSES - Collection Centre national des arts plastiques",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Brussels",

@@ -55,19 +55,6 @@
     ],
     "2009": [
       {
-        "i": "58358-18510-2009-09-17",
-        "c": "US",
-        "n": "Sophie Delaporte - Early Fashion Work",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "New York City, NY",
-        "o": "Sous Les Etoils Gallery",
-        "d": [
-          "2009-09-17",
-          "2009-11-08"
-        ]
-      },
-      {
         "i": "58358-21766-2009-09-17",
         "c": "US",
         "n": "Early Fashion Work",
@@ -79,22 +66,22 @@
           "2009-09-17",
           "2009-11-08"
         ]
-      }
-    ],
-    "2011": [
+      },
       {
-        "i": "58358-21766-2011-09-22",
+        "i": "58358-18510-2009-09-17",
         "c": "US",
-        "n": "Nudes",
+        "n": "Sophie Delaporte - Early Fashion Work",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "New York City, NY",
-        "o": "Sous Etoiles Gallery",
+        "o": "Sous Les Etoils Gallery",
         "d": [
-          "2011-09-22",
-          "2011-11-25"
+          "2009-09-17",
+          "2009-11-08"
         ]
-      },
+      }
+    ],
+    "2011": [
       {
         "i": "58358-18510-2011-09-22",
         "c": "US",
@@ -103,6 +90,19 @@
         "st": "Solo",
         "ct": "New York City, NY",
         "o": "Sous Les Etoils Gallery",
+        "d": [
+          "2011-09-22",
+          "2011-11-25"
+        ]
+      },
+      {
+        "i": "58358-21766-2011-09-22",
+        "c": "US",
+        "n": "Nudes",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Sous Etoiles Gallery",
         "d": [
           "2011-09-22",
           "2011-11-25"

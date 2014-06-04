@@ -119,19 +119,6 @@
         "c": "FR"
       },
       {
-        "i": "161923-585-2010-11-20",
-        "c": "DE",
-        "n": "Goldrausch zu Gast bei Galerie Barbara Thumm / Schaulager",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Galerie Barbara Thumm",
-        "d": [
-          "2010-11-20",
-          "2010-12-18"
-        ]
-      },
-      {
         "i": "161923-6906-2010-11-20",
         "c": "DE",
         "n": "Glas Crash Feeling - Goldrausch 2010",
@@ -139,6 +126,19 @@
         "st": "Group",
         "ct": "Berlin",
         "o": "goldrausch Künstlerinnenprojekt art IT",
+        "d": [
+          "2010-11-20",
+          "2010-12-18"
+        ]
+      },
+      {
+        "i": "161923-585-2010-11-20",
+        "c": "DE",
+        "n": "Goldrausch zu Gast bei Galerie Barbara Thumm / Schaulager",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Galerie Barbara Thumm",
         "d": [
           "2010-11-20",
           "2010-12-18"
@@ -168,7 +168,7 @@
         "n": "Attempts To Get Inside The World",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Lewisham Arthouse",
         "d": [
           "2011-08-26",
@@ -274,7 +274,7 @@
         "n": "Once upon a time there were two knights",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Nettie Horn",
         "d": [
           "2013-02-15",

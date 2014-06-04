@@ -159,7 +159,7 @@
         "n": "The young people visiting our ruins see nothing but a style",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "FormContent project space",
         "d": [
           "2009-06-25",
@@ -400,7 +400,7 @@
         "n": "Bring Home the Oranges",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Sutton Lane - London",
         "d": [
           "2010-09-16",
@@ -465,24 +465,11 @@
         "n": "The Rise And Fall Of Matter",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "",
         "d": [
           "2011-10-06",
           "2011-11-06"
-        ]
-      },
-      {
-        "i": "103753-20861-2011-11-30",
-        "c": "BE",
-        "n": "Group exhibition",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "Sutton Lane - Brussels",
-        "d": [
-          "2011-11-30",
-          "2011-12-04"
         ]
       },
       {
@@ -559,11 +546,32 @@
         "c": "FR"
       },
       {
+        "i": "103753-26469-2013-06-21",
+        "c": "US",
+        "n": "Avant De Rentrer, Il Faut Incendier La Maison",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Los Angeles, CA",
+        "o": "Thomas Duncan Gallery",
+        "d": [
+          "2013-06-21",
+          "2013-08-31"
+        ]
+      },
+      {
         "i": "103753-1522-2013-01-26",
         "c": "FR"
       },
       {
         "i": "103753-1522-2013-01-26",
+        "c": "FR"
+      },
+      {
+        "i": "103753-20789-2013-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "103753-20789-2013-06-06",
         "c": "FR"
       }
     ]

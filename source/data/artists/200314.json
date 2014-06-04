@@ -43,6 +43,36 @@
   "age": 39,
   "age_range": "26-40",
   "expos": {
+    "2008": [
+      {
+        "i": "200314-21011-2008-09-01",
+        "c": "US",
+        "n": "Plaf – Autonomous Mechanisms",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Anonymous Gallery",
+        "d": [
+          "2008-09-01",
+          "2009-10-10"
+        ]
+      }
+    ],
+    "2009": [
+      {
+        "i": "200314-21011-2008-09-01",
+        "c": "US",
+        "n": "Plaf – Autonomous Mechanisms",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Anonymous Gallery",
+        "d": [
+          "2008-09-01",
+          "2009-10-10"
+        ]
+      }
+    ],
     "2010": [
       {
         "i": "200314-1825-2010-02-19",
@@ -111,6 +141,34 @@
         "d": [
           "2012-07-06",
           "2012-09-02"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "200314-30093-2013-06-25",
+        "c": "IT",
+        "n": "Fresh Flaneurs",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Bari",
+        "o": "Doppelgaenger",
+        "d": [
+          "2013-06-25",
+          "2013-09-15"
+        ]
+      },
+      {
+        "i": "200314-30703-2013-07-12",
+        "c": "PT",
+        "n": "Walk & Talk Festival 2013",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Arrifes",
+        "o": "walk and talk festival",
+        "d": [
+          "2013-07-12",
+          "2013-07-27"
         ]
       }
     ]

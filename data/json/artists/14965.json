@@ -234,19 +234,6 @@
         "c": "FR"
       },
       {
-        "i": "14965-8157-2007-05-13",
-        "c": "CH",
-        "n": "Acceleration",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Neuchâtel",
-        "o": "CAN - Centre d'Art Neuchâtel",
-        "d": [
-          "2007-05-13",
-          "2007-06-30"
-        ]
-      },
-      {
         "i": "14965-11825-2007-05-13",
         "c": "CH",
         "n": "Acceleration",
@@ -254,6 +241,19 @@
         "st": "Group",
         "ct": "Neuchâtel",
         "o": "Kunstart",
+        "d": [
+          "2007-05-13",
+          "2007-06-30"
+        ]
+      },
+      {
+        "i": "14965-8157-2007-05-13",
+        "c": "CH",
+        "n": "Acceleration",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Neuchâtel",
+        "o": "CAN - Centre d'Art Neuchâtel",
         "d": [
           "2007-05-13",
           "2007-06-30"
@@ -381,7 +381,7 @@
         "n": "Kader Attia",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Gateshead (England)",
+        "ct": "Gateshead",
         "o": "BALTIC Centre for Contemporary Art",
         "d": [
           "2007-09-21",
@@ -567,7 +567,7 @@
         "n": "Kader Attia",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Gateshead (England)",
+        "ct": "Gateshead",
         "o": "BALTIC Centre for Contemporary Art",
         "d": [
           "2007-09-21",
@@ -705,7 +705,7 @@
         "n": "Unveiled: New Art from the Middle East",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Saatchi Gallery",
         "d": [
           "2009-01-30",
@@ -773,19 +773,6 @@
         ]
       },
       {
-        "i": "14965-2229-2009-05-22",
-        "c": "US",
-        "n": "Time Out of Joint: Recall and Evocation in Recent Art",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "New York City, NY",
-        "o": "Whitney Museum of American Art",
-        "d": [
-          "2009-05-22",
-          "2009-06-13"
-        ]
-      },
-      {
         "i": "14965-5724-2009-05-22",
         "c": "CN",
         "n": "Louis Vuitton: A Passion for Creation",
@@ -796,6 +783,19 @@
         "d": [
           "2009-05-22",
           "2009-08-09"
+        ]
+      },
+      {
+        "i": "14965-2229-2009-05-22",
+        "c": "US",
+        "n": "Time Out of Joint: Recall and Evocation in Recent Art",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Whitney Museum of American Art",
+        "d": [
+          "2009-05-22",
+          "2009-06-13"
         ]
       },
       {
@@ -811,19 +811,6 @@
         ]
       },
       {
-        "i": "14965-1735-2009-05-28",
-        "c": "US",
-        "n": "Signs Taken For Wonders",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "New York City, NY",
-        "o": "Jack Shainman Gallery",
-        "d": [
-          "2009-05-28",
-          "2009-07-03"
-        ]
-      },
-      {
         "i": "14965-3485-2009-05-28",
         "c": "ZA",
         "n": "Nation State",
@@ -834,6 +821,19 @@
         "d": [
           "2009-05-28",
           "2009-06-20"
+        ]
+      },
+      {
+        "i": "14965-1735-2009-05-28",
+        "c": "US",
+        "n": "Signs Taken For Wonders",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Jack Shainman Gallery",
+        "d": [
+          "2009-05-28",
+          "2009-07-03"
         ]
       },
       {
@@ -874,6 +874,10 @@
           "2009-10-08",
           "2010-01-17"
         ]
+      },
+      {
+        "i": "14965-18639-2009-10-24",
+        "c": "FR"
       },
       {
         "i": "14965-12089-2009-11-13",
@@ -975,6 +979,10 @@
           "2009-10-08",
           "2010-01-17"
         ]
+      },
+      {
+        "i": "14965-18639-2009-10-24",
+        "c": "FR"
       },
       {
         "i": "14965-12089-2009-11-13",
@@ -1154,19 +1162,6 @@
         ]
       },
       {
-        "i": "14965-23764-2010-09-24",
-        "c": "AT",
-        "n": "Utopie und Monument II",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Graz",
-        "o": "Steirischer Herbst",
-        "d": [
-          "2010-09-24",
-          "2010-11-02"
-        ]
-      },
-      {
         "i": "14965-12181-2010-09-24",
         "c": "IT",
         "n": "FotoGrafia Festival Internazionale di Roma (IX Edizione)",
@@ -1177,6 +1172,19 @@
         "d": [
           "2010-09-24",
           "2010-10-24"
+        ]
+      },
+      {
+        "i": "14965-23764-2010-09-24",
+        "c": "AT",
+        "n": "Utopie und Monument II",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Graz",
+        "o": "Steirischer Herbst",
+        "d": [
+          "2010-09-24",
+          "2010-11-02"
         ]
       },
       {
@@ -1383,7 +1391,7 @@
         "n": "Level 2 Gallery: Contested Terrains",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Modern",
         "d": [
           "2011-07-29",
@@ -1480,6 +1488,10 @@
         "c": "FR"
       },
       {
+        "i": "14965-30968-2011-11-16",
+        "c": "FR"
+      },
+      {
         "i": "14965-26372-2011-11-16",
         "c": "FR"
       },
@@ -1566,6 +1578,10 @@
           "2011-10-27",
           "2012-01-15"
         ]
+      },
+      {
+        "i": "14965-30968-2011-11-16",
+        "c": "FR"
       },
       {
         "i": "14965-26372-2011-11-16",
@@ -1705,7 +1721,7 @@
         "n": "Thresholds",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Liverpool (England)",
+        "ct": "Liverpool",
         "o": "Tate Liverpool",
         "d": [
           "2012-09-15",
@@ -1728,7 +1744,7 @@
       {
         "i": "14965-21901-2012-10-06",
         "c": "BE",
-        "n": "Glissement de terrain",
+        "n": "Glissement de terrain : Impertinence-Résistance-Survivance",
         "t": "Institution publique",
         "st": "Group",
         "ct": "La Louvière",
@@ -1744,16 +1760,12 @@
         "n": "#cometogether",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Edge of Arabia",
         "d": [
           "2012-10-07",
           "2012-10-28"
         ]
-      },
-      {
-        "i": "14965-2219-2012-10-17",
-        "c": "FR"
       },
       {
         "i": "14965-8658-2012-10-17",
@@ -1767,6 +1779,10 @@
           "2012-10-17",
           "2013-04-27"
         ]
+      },
+      {
+        "i": "14965-2219-2012-10-17",
+        "c": "FR"
       },
       {
         "i": "14965-2071-2012-10-19",
@@ -1818,7 +1834,7 @@
         "n": "Thresholds",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Liverpool (England)",
+        "ct": "Liverpool",
         "o": "Tate Liverpool",
         "d": [
           "2012-09-15",
@@ -1839,10 +1855,6 @@
         ]
       },
       {
-        "i": "14965-2219-2012-10-17",
-        "c": "FR"
-      },
-      {
         "i": "14965-8658-2012-10-17",
         "c": "US",
         "n": "The Margulies Collection - Group Show",
@@ -1854,6 +1866,10 @@
           "2012-10-17",
           "2013-04-27"
         ]
+      },
+      {
+        "i": "14965-2219-2012-10-17",
+        "c": "FR"
       },
       {
         "i": "14965-2071-2012-10-19",

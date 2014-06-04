@@ -528,7 +528,7 @@
         "n": "Very Abstract and Hyper Figurative",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Thomas Dane Gallery",
         "d": [
           "2007-03-15",
@@ -557,7 +557,7 @@
         "n": "A Summer Selection",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Crane Kalman Gallery",
         "d": [
           "2007-06-07",
@@ -584,6 +584,19 @@
       {
         "i": "2976-4975-2007-07-07",
         "c": "FR"
+      },
+      {
+        "i": "2976-31028-2007-09-06",
+        "c": "BE",
+        "n": "Vanaf nu!..",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Antwerp",
+        "o": "LLS 387",
+        "d": [
+          "2007-09-06",
+          "2007-12-01"
+        ]
       },
       {
         "i": "2976-2938-2007-09-12",
@@ -646,7 +659,7 @@
         "n": "Bernard Frize",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Simon Lee Gallery",
         "d": [
           "2007-10-10",
@@ -716,7 +729,7 @@
         "n": "35% Vrai 60% Faux",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Simon Lee Gallery",
         "d": [
           "2008-04-03",
@@ -766,12 +779,20 @@
         ]
       },
       {
+        "i": "2976-2303-2008-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "2976-2303-2008-06-14",
+        "c": "FR"
+      },
+      {
         "i": "2976-18467-2008-06-18",
         "c": "GB",
         "n": "A Colour Box",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Arcade Fine Arts",
         "d": [
           "2008-06-18",
@@ -864,7 +885,7 @@
         "n": "Obsession for Collection",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Cheltenham Spa, Gloucestershire (England)",
+        "ct": "Cheltenham Spa, Gloucestershire",
         "o": "Summerfield Gallery - University of Gloucestershire",
         "d": [
           "2009-04-20",
@@ -980,19 +1001,6 @@
       {
         "i": "2976-13954-2009-03-04",
         "c": "KR",
-        "n": "Developpement",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Seoul",
-        "o": "Hakgojae - Sokyuk",
-        "d": [
-          "2009-03-04",
-          "2009-04-29"
-        ]
-      },
-      {
-        "i": "2976-13954-2009-03-04",
-        "c": "KR",
         "n": "Bernard Frize",
         "t": "Galerie privée",
         "st": "Solo",
@@ -1001,6 +1009,19 @@
         "d": [
           "2009-03-04",
           "2009-03-26"
+        ]
+      },
+      {
+        "i": "2976-13954-2009-03-04",
+        "c": "KR",
+        "n": "Developpement",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Seoul",
+        "o": "Hakgojae - Sokyuk",
+        "d": [
+          "2009-03-04",
+          "2009-04-29"
         ]
       },
       {
@@ -1075,19 +1096,6 @@
         ]
       },
       {
-        "i": "2976-21750-2010-04-03",
-        "c": "IT",
-        "n": "It Must Be Abstract",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Pietrasanta (LU)",
-        "o": "Galleria Cardi - Pietrasanta",
-        "d": [
-          "2010-04-03",
-          "2010-05-30"
-        ]
-      },
-      {
         "i": "2976-139-2010-04-03",
         "c": "IT",
         "n": "It must be abstract",
@@ -1095,6 +1103,19 @@
         "st": "Group",
         "ct": "Milan",
         "o": "Galleria Cardi - Milano",
+        "d": [
+          "2010-04-03",
+          "2010-05-30"
+        ]
+      },
+      {
+        "i": "2976-21750-2010-04-03",
+        "c": "IT",
+        "n": "It Must Be Abstract",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Pietrasanta, LU",
+        "o": "Galleria Cardi - Pietrasanta",
         "d": [
           "2010-04-03",
           "2010-05-30"
@@ -1215,19 +1236,6 @@
         ]
       },
       {
-        "i": "2976-18417-2010-12-05",
-        "c": "DE",
-        "n": "Zeigen. Eine Audiotour durch Berlin von Karin Sander,",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Temporäre Kunsthalle Berlin",
-        "d": [
-          "2010-12-05",
-          "2011-01-10"
-        ]
-      },
-      {
         "i": "2976-277-2009-11-13",
         "c": "AT",
         "n": "Bernard Frize - Foggy Days",
@@ -1259,7 +1267,7 @@
         "n": "Red, Yellow and Blue",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Simon Lee Gallery",
         "d": [
           "2010-02-10",
@@ -1323,19 +1331,6 @@
       {
         "i": "2976-2353-2010-11-06",
         "c": "FR"
-      },
-      {
-        "i": "2976-18417-2010-12-05",
-        "c": "DE",
-        "n": "Zeigen. Eine Audiotour durch Berlin von Karin Sander,",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Temporäre Kunsthalle Berlin",
-        "d": [
-          "2010-12-05",
-          "2011-01-10"
-        ]
       },
       {
         "i": "2976-1607-2011-01-07",
@@ -1437,19 +1432,6 @@
         ]
       },
       {
-        "i": "2976-2188-2011-09-10",
-        "c": "DE",
-        "n": "Farbe im Fluß",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Bremen",
-        "o": "Weserburg | Museum für moderne Kunst",
-        "d": [
-          "2011-09-10",
-          "2012-01-29"
-        ]
-      },
-      {
         "i": "2976-15971-2011-09-19",
         "c": "GR",
         "n": "Within / Beyond Borders",
@@ -1468,7 +1450,7 @@
         "n": "The Indiscipline of Painting: International abstraction from the 1960s to now",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "St. Ives, Cornwall (England)",
+        "ct": "St. Ives, Cornwall",
         "o": "Tate St. Ives",
         "d": [
           "2011-10-08",
@@ -1551,25 +1533,12 @@
         ]
       },
       {
-        "i": "2976-2188-2011-09-10",
-        "c": "DE",
-        "n": "Farbe im Fluß",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Bremen",
-        "o": "Weserburg | Museum für moderne Kunst",
-        "d": [
-          "2011-09-10",
-          "2012-01-29"
-        ]
-      },
-      {
         "i": "2976-2205-2011-10-08",
         "c": "GB",
         "n": "The Indiscipline of Painting: International abstraction from the 1960s to now",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "St. Ives, Cornwall (England)",
+        "ct": "St. Ives, Cornwall",
         "o": "Tate St. Ives",
         "d": [
           "2011-10-08",
@@ -1582,7 +1551,7 @@
         "n": "The Indiscipline of Painting",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Coventry (England)",
+        "ct": "Coventry",
         "o": "Mead Gallery - Warwick Arts Centre",
         "d": [
           "2012-01-14",
@@ -1598,19 +1567,6 @@
         "c": "FR"
       },
       {
-        "i": "2976-21507-2012-05-17",
-        "c": "NL",
-        "n": "voor eeuwig de jouwe",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Heerlen",
-        "o": "SCHUNCK* ",
-        "d": [
-          "2012-05-17",
-          "2012-08-12"
-        ]
-      },
-      {
         "i": "2976-10020-2012-05-17",
         "c": "NL",
         "n": "voor eeuwig de jouwe",
@@ -1618,6 +1574,19 @@
         "st": "Group",
         "ct": "Heerlen",
         "o": "Stadsgalerij Heerlen",
+        "d": [
+          "2012-05-17",
+          "2012-08-12"
+        ]
+      },
+      {
+        "i": "2976-21507-2012-05-17",
+        "c": "NL",
+        "n": "voor eeuwig de jouwe",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Heerlen",
+        "o": "SCHUNCK* ",
         "d": [
           "2012-05-17",
           "2012-08-12"
@@ -1685,6 +1654,19 @@
           "2012-10-26",
           "2013-05-05"
         ]
+      },
+      {
+        "i": "2976-30759-2012-11-24",
+        "c": "CN",
+        "n": "Bernard Frize",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Hong Kong, SAR",
+        "o": "Simon Lee Gallery - Hong Kong",
+        "d": [
+          "2012-11-24",
+          "2013-01-15"
+        ]
       }
     ],
     "2013": [
@@ -1699,6 +1681,19 @@
         "d": [
           "2012-10-26",
           "2013-05-05"
+        ]
+      },
+      {
+        "i": "2976-4980-2013-03-06",
+        "c": "DE",
+        "n": "Give me five",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Frankfurt/Main",
+        "o": "Städel Museum",
+        "d": [
+          "2013-03-06",
+          "2013-06-23"
         ]
       },
       {
@@ -1785,6 +1780,19 @@
         "d": [
           "2013-08-30",
           "2013-10-11"
+        ]
+      },
+      {
+        "i": "2976-30759-2012-11-24",
+        "c": "CN",
+        "n": "Bernard Frize",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Hong Kong, SAR",
+        "o": "Simon Lee Gallery - Hong Kong",
+        "d": [
+          "2012-11-24",
+          "2013-01-15"
         ]
       },
       {

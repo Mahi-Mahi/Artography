@@ -50,7 +50,7 @@
         "n": "Loose Booty",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Vegas Gallery",
         "d": [
           "2008-01-24",
@@ -63,7 +63,7 @@
         "n": "space Now",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "SPACE",
         "d": [
           "2008-06-13",
@@ -76,7 +76,7 @@
         "n": "Pascal Rousson - THE HOUSE OF PAIN",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Vegas Gallery",
         "d": [
           "2008-08-21",
@@ -91,7 +91,7 @@
         "n": "I Am By Birth A Genevese - Group Exhibition",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Vegas Gallery",
         "d": [
           "2009-06-18",
@@ -119,7 +119,7 @@
         "n": "In Case We Don’t Die - Group Exhibition",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Vegas Gallery",
         "d": [
           "2010-07-23",
@@ -134,7 +134,7 @@
         "n": "Roulette",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Vegas Gallery",
         "d": [
           "2011-03-10",
@@ -147,7 +147,7 @@
         "n": "Pascal Rousson - Very Ape",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Vegas Gallery",
         "d": [
           "2011-01-27",
@@ -162,7 +162,7 @@
         "n": "Mad March Hares",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Vegas Gallery",
         "d": [
           "2012-03-30",
@@ -193,6 +193,21 @@
         "d": [
           "2012-04-13",
           "2012-06-18"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "184278-11420-2013-05-14",
+        "c": "NO",
+        "n": "An Artist Collecting Art",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Vestfossen",
+        "o": "Vestfossen Kunstlaboratorium",
+        "d": [
+          "2013-05-14",
+          "2013-10-10"
         ]
       }
     ]

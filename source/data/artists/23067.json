@@ -50,7 +50,7 @@
         "n": "La Dolce Crisi",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Codroipo (UD)",
+        "ct": "Codroipo, UD",
         "o": "Villa Manin. Centro d'arte contemporanea",
         "d": [
           "2005-12-11",
@@ -65,7 +65,7 @@
         "n": "La Dolce Crisi",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Codroipo (UD)",
+        "ct": "Codroipo, UD",
         "o": "Villa Manin. Centro d'arte contemporanea",
         "d": [
           "2005-12-11",
@@ -108,11 +108,41 @@
         "n": "TERZO PAESAGGIO (THIRD LANDSCAPE)",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Gallarte (VA)",
+        "ct": "Gallarte, VA",
         "o": "Museo MAGA",
         "d": [
           "2009-03-07",
           "2009-07-04"
+        ]
+      }
+    ],
+    "2010": [
+      {
+        "i": "23067-15411-2010-12-03",
+        "c": "TW",
+        "n": "Italian Genius now",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Kaohsiung City",
+        "o": "Kaohsiung Museum of Fine Art",
+        "d": [
+          "2010-12-03",
+          "2011-02-07"
+        ]
+      }
+    ],
+    "2011": [
+      {
+        "i": "23067-15411-2010-12-03",
+        "c": "TW",
+        "n": "Italian Genius now",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Kaohsiung City",
+        "o": "Kaohsiung Museum of Fine Art",
+        "d": [
+          "2010-12-03",
+          "2011-02-07"
         ]
       }
     ]

@@ -63,7 +63,7 @@
         "n": "Africa Remix – Contemporary Art of a Continent",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hayward Gallery",
         "d": [
           "2005-02-10",
@@ -76,7 +76,7 @@
         "n": "Lightsilver",
         "t": "Autre",
         "st": "Group",
-        "ct": "Beaconsfield (England)",
+        "ct": "Beaconsfield",
         "o": "Beaconsfield",
         "d": [
           "2005-02-24",
@@ -123,7 +123,7 @@
         "n": "British Art Show 6",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Gateshead (England)",
+        "ct": "Gateshead",
         "o": "BALTIC Centre for Contemporary Art",
         "d": [
           "2005-09-24",
@@ -163,7 +163,7 @@
         "n": "British Art Show 6",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Gateshead (England)",
+        "ct": "Gateshead",
         "o": "BALTIC Centre for Contemporary Art",
         "d": [
           "2005-09-24",
@@ -189,7 +189,7 @@
         "n": "East Wing Collection No 7 Culture Bound",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Courtauld Institute of Art",
         "d": [
           "2006-01-20",
@@ -202,24 +202,11 @@
         "n": "Entangled Tongues",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Nunnery Gallery",
         "d": [
           "2006-04-21",
           "2006-06-04"
-        ]
-      },
-      {
-        "i": "14849-2247-2006-05-24",
-        "c": "GB",
-        "n": "Around the World in Eighty Days",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "London (England)",
-        "o": "ICA - Institute of Contemporary Arts London",
-        "d": [
-          "2006-05-24",
-          "2006-07-16"
         ]
       },
       {
@@ -228,8 +215,21 @@
         "n": "Around the World in Eighty Days",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "SLG South London Gallery",
+        "d": [
+          "2006-05-24",
+          "2006-07-16"
+        ]
+      },
+      {
+        "i": "14849-2247-2006-05-24",
+        "c": "GB",
+        "n": "Around the World in Eighty Days",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "London",
+        "o": "ICA - Institute of Contemporary Arts London",
         "d": [
           "2006-05-24",
           "2006-07-16"
@@ -355,7 +355,7 @@
         "n": "East Wing Collection No 7 Culture Bound",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Courtauld Institute of Art",
         "d": [
           "2006-01-20",
@@ -421,7 +421,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Geneva",
-        "o": "Centre d´Art Contemporain Geneve",
+        "o": "Centre d'Art Contemporain Geneve",
         "d": [
           "2007-03-27",
           "2007-04-08"
@@ -509,7 +509,7 @@
         "n": "Port City: On Mobility and Exchange",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Arnolfini",
         "d": [
           "2007-09-15",
@@ -556,7 +556,7 @@
         "n": "Port City",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Southampton (England)",
+        "ct": "Southampton",
         "o": "John Hansard Gallery",
         "d": [
           "2007-11-27",
@@ -605,7 +605,7 @@
         "n": "Port City",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Southampton (England)",
+        "ct": "Southampton",
         "o": "John Hansard Gallery",
         "d": [
           "2007-11-27",
@@ -644,7 +644,7 @@
         "n": "ARTfutures 2008",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Bloomberg Space",
         "d": [
           "2008-03-06",
@@ -670,7 +670,7 @@
         "n": "Port City",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Liverpool (England)",
+        "ct": "Liverpool",
         "o": "A Foundation - Liverpool",
         "d": [
           "2008-06-26",
@@ -831,7 +831,7 @@
         "n": "Floating Coffins",
         "t": "Autre",
         "st": "Solo",
-        "ct": "Nottingham (England)",
+        "ct": "Nottingham",
         "o": "New Art Exchange",
         "d": [
           "2009-02-07",
@@ -844,7 +844,7 @@
         "n": "Currents of Time: New Work by Zineb Sedira",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Institute of International Visual Arts - iniva",
         "d": [
           "2009-05-21",
@@ -883,7 +883,7 @@
         "n": "Zineb Sedira",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Southampton (England)",
+        "ct": "Southampton",
         "o": "John Hansard Gallery",
         "d": [
           "2009-09-22",
@@ -941,7 +941,7 @@
         "n": "A Sense of Perspective",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Liverpool (England)",
+        "ct": "Liverpool",
         "o": "Tate Liverpool",
         "d": [
           "2011-04-01",
@@ -953,7 +953,7 @@
         "c": "GB",
         "n": "Folkstone Triennial 2011",
         "st": "Group",
-        "ct": "Folkestone (England)",
+        "ct": "Folkestone",
         "o": "Folkestone Triennial",
         "d": [
           "2011-06-25",
@@ -1077,6 +1077,19 @@
         ]
       },
       {
+        "i": "14849-31036-2010-01-18",
+        "c": "GB",
+        "n": "Dislocated Journeys",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Colchester",
+        "o": "Art Exchange",
+        "d": [
+          "2010-01-18",
+          "2010-02-20"
+        ]
+      },
+      {
         "i": "14849-11290-2010-01-26",
         "c": "ES",
         "n": "Voz entre líneas",
@@ -1095,7 +1108,7 @@
         "n": "Journeys With No Return",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "A Foundation - London",
         "d": [
           "2010-02-18",
@@ -1142,19 +1155,6 @@
         ]
       },
       {
-        "i": "14849-25199-2010-11-05",
-        "c": "AT",
-        "n": "Living Across: Spaces of Migration",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Vienna",
-        "o": "Kupferstichkabinett der Akademie der bildenden Künste Wien",
-        "d": [
-          "2010-11-05",
-          "2010-12-05"
-        ]
-      },
-      {
         "i": "14849-8908-2010-11-05",
         "c": "AT",
         "n": "Living Across | Spaces of Migration",
@@ -1162,6 +1162,19 @@
         "st": "Group",
         "ct": "Vienna",
         "o": "xhibit - Ausstellungsräume der Akademie der bildenden Künste Wien",
+        "d": [
+          "2010-11-05",
+          "2010-12-05"
+        ]
+      },
+      {
+        "i": "14849-25199-2010-11-05",
+        "c": "AT",
+        "n": "Living Across: Spaces of Migration",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Vienna",
+        "o": "Kupferstichkabinett der Akademie der bildenden Künste Wien",
         "d": [
           "2010-11-05",
           "2010-12-05"
@@ -1248,7 +1261,7 @@
         "n": "Migrations - Journeys into British Art",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Britain",
         "d": [
           "2012-01-31",
@@ -1410,6 +1423,19 @@
       {
         "i": "14849-29739-2013-10-12",
         "c": "FR"
+      },
+      {
+        "i": "14849-23514-2013-11-01",
+        "c": "PK",
+        "n": "Homelands",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Karachi",
+        "o": "V.M. Art Gallery",
+        "d": [
+          "2013-11-01",
+          "2013-11-20"
+        ]
       },
       {
         "i": "14849-7534-2013-10-05",

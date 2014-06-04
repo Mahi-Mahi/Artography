@@ -101,7 +101,7 @@
         "n": "Records played backwards",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Glasgow (Scotland)",
+        "ct": "Glasgow, Scotland",
         "o": "The Modern Institute",
         "d": [
           "2008-04-12",
@@ -122,7 +122,7 @@
         "n": "On Edge",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Edinburgh (Scotland)",
+        "ct": "Edinburgh, Scotland",
         "o": "The Travelling Gallery",
         "d": [
           "2008-08-23",
@@ -283,13 +283,21 @@
       {
         "i": "81515-7816-2012-06-23",
         "c": "FR"
+      },
+      {
+        "i": "81515-31058-2012-10-23",
+        "c": "FR"
+      },
+      {
+        "i": "81515-31058-2012-10-23",
+        "c": "FR"
       }
     ],
     "2013": [
       {
         "i": "81515-27771-2013-03-07",
         "c": "BE",
-        "n": "Collection Centre national des arts plastiques",
+        "n": "L&#8217;ORIGINE DES CHOSES - Collection Centre national des arts plastiques",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Brussels",
@@ -298,6 +306,14 @@
           "2013-03-07",
           "2013-06-09"
         ]
+      },
+      {
+        "i": "81515-10501-2013-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "81515-10501-2013-03-24",
+        "c": "FR"
       }
     ]
   }

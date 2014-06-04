@@ -63,7 +63,7 @@
         "n": "Threshold",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Max Wigram Gallery, New Bond Street",
         "d": [
           "2005-07-08",
@@ -76,7 +76,7 @@
         "n": "A Certain Tendency in Representation",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Thomas Dane Gallery",
         "d": [
           "2005-09-19",
@@ -89,7 +89,7 @@
         "n": "British Art Show 6",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Gateshead (England)",
+        "ct": "Gateshead",
         "o": "BALTIC Centre for Contemporary Art",
         "d": [
           "2005-09-24",
@@ -114,7 +114,7 @@
         "n": "Marine Hugonnier",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Max Wigram Gallery, New Bond Street",
         "d": [
           "2005-01-27",
@@ -129,7 +129,7 @@
         "n": "British Art Show 6",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Gateshead (England)",
+        "ct": "Gateshead",
         "o": "BALTIC Centre for Contemporary Art",
         "d": [
           "2005-09-24",
@@ -154,12 +154,20 @@
         "n": "East Wing Collection No 7 Culture Bound",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Courtauld Institute of Art",
         "d": [
           "2006-01-20",
           "2007-07-01"
         ]
+      },
+      {
+        "i": "13122-9492-2006-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "13122-9492-2006-02-11",
+        "c": "FR"
       },
       {
         "i": "13122-2382-2006-02-11",
@@ -173,14 +181,6 @@
           "2006-02-11",
           "2006-05-14"
         ]
-      },
-      {
-        "i": "13122-9492-2006-02-11",
-        "c": "FR"
-      },
-      {
-        "i": "13122-9492-2006-02-11",
-        "c": "FR"
       },
       {
         "i": "13122-2283-2006-08-19",
@@ -251,7 +251,7 @@
         "n": "Marine Hugonnier - Restoration Project",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Max Wigram Gallery, New Bond Street",
         "d": [
           "2006-06-07",
@@ -266,7 +266,7 @@
         "n": "East Wing Collection No 7 Culture Bound",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Courtauld Institute of Art",
         "d": [
           "2006-01-20",
@@ -368,7 +368,7 @@
         "n": "Invisible",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Max Wigram Gallery, New Bond Street",
         "d": [
           "2007-07-17",
@@ -407,7 +407,7 @@
         "n": "Marine Hugonnier & Matthias Fayos",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Edinburgh (Scotland)",
+        "ct": "Edinburgh, Scotland",
         "o": "Ingleby Gallery",
         "d": [
           "2007-12-01",
@@ -547,6 +547,19 @@
         ]
       },
       {
+        "i": "13122-19984-2008-03-01",
+        "c": "GB",
+        "n": "Always Begins By Degrees&#8232;",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Glasgow, Scotland",
+        "o": "The Common Guild",
+        "d": [
+          "2008-03-01",
+          "2008-03-29"
+        ]
+      },
+      {
         "i": "13122-5490-2008-03-07",
         "c": "ES",
         "n": "Paraisos Indomitos",
@@ -560,19 +573,6 @@
         ]
       },
       {
-        "i": "13122-7872-2008-03-29",
-        "c": "NL",
-        "n": "Field Work - part 1",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Amsterdam",
-        "o": "Smart Project Space",
-        "d": [
-          "2008-03-29",
-          "2008-05-17"
-        ]
-      },
-      {
         "i": "13122-8198-2008-03-29",
         "c": "NL",
         "n": "Territorial Phantom",
@@ -583,6 +583,19 @@
         "d": [
           "2008-03-29",
           "2008-05-12"
+        ]
+      },
+      {
+        "i": "13122-7872-2008-03-29",
+        "c": "NL",
+        "n": "Field Work - part 1",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Amsterdam",
+        "o": "Smart Project Space",
+        "d": [
+          "2008-03-29",
+          "2008-05-17"
         ]
       },
       {
@@ -682,7 +695,7 @@
         "n": "Marine Hugonnier",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Max Wigram Gallery, New Bond Street",
         "d": [
           "2008-06-12",
@@ -723,24 +736,11 @@
         "n": "Obsession for Collection",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Cheltenham Spa, Gloucestershire (England)",
+        "ct": "Cheltenham Spa, Gloucestershire",
         "o": "Summerfield Gallery - University of Gloucestershire",
         "d": [
           "2009-04-20",
           "2009-05-08"
-        ]
-      },
-      {
-        "i": "13122-8601-2009-04-24",
-        "c": "AT",
-        "n": "Then the work takes place",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Graz",
-        "o": "Camera Austria",
-        "d": [
-          "2009-04-24",
-          "2009-06-28"
         ]
       },
       {
@@ -754,6 +754,19 @@
         "d": [
           "2009-04-24",
           "2009-06-21"
+        ]
+      },
+      {
+        "i": "13122-8601-2009-04-24",
+        "c": "AT",
+        "n": "Then the work takes place",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Graz",
+        "o": "Camera Austria",
+        "d": [
+          "2009-04-24",
+          "2009-06-28"
         ]
       },
       {
@@ -988,7 +1001,7 @@
         "n": "Group Show",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Max Wigram Gallery, New Bond Street",
         "d": [
           "2010-07-21",
@@ -1005,7 +1018,7 @@
         "n": "Marine Hugonnier - \"Works on Paper\"",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Max Wigram Gallery, New Bond Street",
         "d": [
           "2010-03-18",
@@ -1046,7 +1059,7 @@
         "n": "We Will Live, We Will See",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Zabludowicz Collection London",
         "d": [
           "2011-07-07",
@@ -1072,7 +1085,7 @@
         "n": "WITH AND WITHOUT PAINTING",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Max Wigram Gallery, New Bond Street",
         "d": [
           "2011-07-18",
@@ -1178,7 +1191,7 @@
         "n": "Not surprisingly, he is wearing gloves",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "FormContent project space",
         "d": [
           "2012-05-25",
@@ -1191,7 +1204,7 @@
         "n": "FormContent. It’s moving from I to It ",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Birmingham (England)",
+        "ct": "Birmingham",
         "o": "Eastside Projects",
         "d": [
           "2012-05-26",
@@ -1308,6 +1321,18 @@
         ]
       },
       {
+        "i": "13122-7271-2013-08-24",
+        "c": "BE",
+        "n": "Contour 2013 - 6th Biennial of Moving Image",
+        "st": "Group",
+        "ct": "Mechelen",
+        "o": "Contour - Biennial for Video Art",
+        "d": [
+          "2013-08-24",
+          "2013-11-03"
+        ]
+      },
+      {
         "i": "13122-4408-2013-09-05",
         "c": "IS",
         "n": "Works on Paper",
@@ -1318,6 +1343,19 @@
         "d": [
           "2013-09-05",
           "2013-10-19"
+        ]
+      },
+      {
+        "i": "13122-7255-2013-09-28",
+        "c": "SE",
+        "n": "Counter-Production (Part 2)",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Stockholm",
+        "o": "Index - The Swedish Contemporary Art Foundation",
+        "d": [
+          "2013-09-28",
+          "2013-11-30"
         ]
       },
       {
@@ -1339,7 +1377,7 @@
         "n": "Marine Hugonnier - New Billboard for Edinburgh",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "Edinburgh (Scotland)",
+        "ct": "Edinburgh, Scotland",
         "o": "Ingleby Gallery",
         "d": [
           "2013-04-30",

@@ -47,7 +47,7 @@
       {
         "i": "19695-16107-2005-07-01",
         "c": "DE",
-        "n": "Kunstlandschaft : Garten",
+        "n": "Kunstlandschaft Garten",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Berlin",
@@ -60,7 +60,7 @@
       {
         "i": "19695-16107-2005-07-01",
         "c": "DE",
-        "n": "Kunstlandschaft Garten",
+        "n": "Kunstlandschaft : Garten",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Berlin",
@@ -292,11 +292,24 @@
         "n": "Interplanetary Revolution",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Belfast (Northern Ireland)",
+        "ct": "Belfast, Northern Ireland",
         "o": "Golden Thread Gallery",
         "d": [
           "2012-02-16",
           "2012-03-24"
+        ]
+      },
+      {
+        "i": "19695-13908-2012-04-21",
+        "c": "DE",
+        "n": "Déjà-vu? Die Kunst der Wiederholung von Dürer bis YouTube",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "Staatliche Kunsthalle Karlsruhe",
+        "d": [
+          "2012-04-21",
+          "2012-08-05"
         ]
       },
       {

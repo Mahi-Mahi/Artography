@@ -121,13 +121,26 @@
         "i": "16513-15589-2008-01-26",
         "c": "BE",
         "n": "Le Centre du Monde",
-        "t": "Galerie privée",
+        "t": "Autre",
         "st": "Group",
         "ct": "Brussels",
-        "o": "Etablissement d´en face projects",
+        "o": "Etablissement d'acen face projects",
         "d": [
           "2008-01-26",
           "2008-03-01"
+        ]
+      },
+      {
+        "i": "16513-4418-2008-11-25",
+        "c": "BR",
+        "n": "Silêncio!",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "São Paulo",
+        "o": "Galeria Vermelho",
+        "d": [
+          "2008-11-25",
+          "2009-01-17"
         ]
       },
       {
@@ -137,10 +150,23 @@
     ],
     "2009": [
       {
+        "i": "16513-4418-2008-11-25",
+        "c": "BR",
+        "n": "Silêncio!",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "São Paulo",
+        "o": "Galeria Vermelho",
+        "d": [
+          "2008-11-25",
+          "2009-01-17"
+        ]
+      },
+      {
         "i": "16513-8641-2009-02-19",
         "c": "MA",
         "n": "This is now 2",
-        "t": "Galerie privée",
+        "t": "Autre",
         "st": "Group",
         "ct": "Rabat",
         "o": "L’appartement 22",
@@ -162,11 +188,29 @@
     ],
     "2012": [
       {
+        "i": "16513-30787-2012-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "16513-30787-2012-02-11",
+        "c": "FR"
+      },
+      {
         "i": "16513-8555-2012-11-15",
         "c": "FR"
       },
       {
         "i": "16513-8555-2012-11-15",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16513-8541-2013-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "16513-8541-2013-05-17",
         "c": "FR"
       }
     ]

@@ -182,7 +182,7 @@
         "n": "Die zweite Avantgarde",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Halle (Saale)",
+        "ct": "Halle, Saale",
         "o": "Stiftung Moritzburg - Kunstmuseum des Landes Sachsen-Anhalt",
         "d": [
           "2007-07-08",
@@ -486,6 +486,19 @@
         ]
       },
       {
+        "i": "2658-16344-2009-11-12",
+        "c": "IT",
+        "n": "Art of Live - for 5 000 &#8364;",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Milan",
+        "o": "La Triennale di Milano. Design Museum",
+        "d": [
+          "2009-11-12",
+          "2009-11-19"
+        ]
+      },
+      {
         "i": "2658-4027-2009-11-26",
         "c": "IT",
         "n": "Paesaggi verbali",
@@ -550,6 +563,19 @@
         "d": [
           "2009-12-10",
           "2010-02-13"
+        ]
+      },
+      {
+        "i": "2658-4594-2010-05-15",
+        "c": "IT",
+        "n": "Archeologie Del Contemporaneo",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Saronno, VA",
+        "o": "Galleria Il Chiostro Arte Contemporanea",
+        "d": [
+          "2010-05-15",
+          "2010-06-26"
         ]
       },
       {
@@ -796,6 +822,32 @@
         ]
       },
       {
+        "i": "2658-8933-2013-03-29",
+        "c": "DE",
+        "n": "From Page to Space / Vom Blatt zum Raum",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Kaufbeuren",
+        "o": "Kunsthaus Kaufbeuren",
+        "d": [
+          "2013-03-29",
+          "2013-06-23"
+        ]
+      },
+      {
+        "i": "2658-4594-2013-05-05",
+        "c": "IT",
+        "n": "Arte E Antropologia: Opere Ed Esperienze Negli Anni Settanta",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Saronno, VA",
+        "o": "Galleria Il Chiostro Arte Contemporanea",
+        "d": [
+          "2013-05-05",
+          "2013-06-16"
+        ]
+      },
+      {
         "i": "2658-16263-2013-05-25",
         "c": "DE",
         "n": "Back to Earth. Die Wiederentdeckung der Keramik in der Kunst.",
@@ -806,6 +858,19 @@
         "d": [
           "2013-05-25",
           "2013-10-27"
+        ]
+      },
+      {
+        "i": "2658-285-2013-11-23",
+        "c": "AT",
+        "n": "Charity Exhibition",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Salzburg",
+        "o": "Galerie Thaddaeus Ropac - Salzburg",
+        "d": [
+          "2013-11-23",
+          "2013-12-21"
         ]
       }
     ]

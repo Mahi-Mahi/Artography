@@ -45,14 +45,6 @@
   "expos": {
     "2005": [
       {
-        "i": "2613-2303-2005-01-17",
-        "c": "FR"
-      },
-      {
-        "i": "2613-2303-2005-01-17",
-        "c": "FR"
-      },
-      {
         "i": "2613-255-2005-01-21",
         "c": "US",
         "n": "Present Perfect",
@@ -493,7 +485,7 @@
         "n": "again for tomorow",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Royal College of Art Galleries",
         "d": [
           "2006-03-17",
@@ -595,7 +587,7 @@
         "n": "THANK YOU FOR THE MUSIC (London Beat)",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Sprüth Magers London",
         "d": [
           "2006-06-29",
@@ -620,7 +612,7 @@
         "c": "GB",
         "n": "Liverpool Biennial 2006",
         "st": "Group",
-        "ct": "Liverpool (England)",
+        "ct": "Liverpool",
         "o": "Liverpool Biennial of Contemporary Art",
         "d": [
           "2006-09-16",
@@ -781,7 +773,7 @@
         "n": "Slash Fiction",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Gasworks",
         "d": [
           "2007-04-05",
@@ -840,7 +832,7 @@
         "n": "Learn to Read",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Modern",
         "d": [
           "2007-06-19",
@@ -939,7 +931,7 @@
         "n": "Philippe Parreno",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Haunch of Venison - London",
         "d": [
           "2007-04-05",
@@ -1100,6 +1092,19 @@
         "c": "FR"
       },
       {
+        "i": "2613-19984-2008-03-01",
+        "c": "GB",
+        "n": "Always Begins By Degrees&#8232;",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Glasgow, Scotland",
+        "o": "The Common Guild",
+        "d": [
+          "2008-03-01",
+          "2008-03-29"
+        ]
+      },
+      {
         "i": "2613-12798-2008-03-21",
         "c": "US",
         "n": "Pivot Points (Part 1)",
@@ -1191,6 +1196,14 @@
         ]
       },
       {
+        "i": "2613-2303-2008-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "2613-2303-2008-06-14",
+        "c": "FR"
+      },
+      {
         "i": "2613-2726-2008-06-14",
         "c": "US",
         "n": "Branded and On Display",
@@ -1222,7 +1235,7 @@
         "n": "Far West",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Arnolfini",
         "d": [
           "2008-06-28",
@@ -1281,7 +1294,7 @@
         "n": "Far West Metro",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Liverpool (England)",
+        "ct": "Liverpool",
         "o": "A Foundation - Liverpool",
         "d": [
           "2008-09-20",
@@ -1294,7 +1307,7 @@
         "n": "Fade In / Fade Out",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Bloomberg Space",
         "d": [
           "2008-10-15",
@@ -1320,7 +1333,7 @@
         "n": "Supertoys",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Arnolfini",
         "d": [
           "2008-11-22",
@@ -1359,7 +1372,7 @@
         "n": "Philippe Parreno - October",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Pilar Corrias Gallery",
         "d": [
           "2008-10-16",
@@ -1387,7 +1400,7 @@
         "n": "Supertoys",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Arnolfini",
         "d": [
           "2008-11-22",
@@ -1408,19 +1421,6 @@
         ]
       },
       {
-        "i": "2613-2506-2009-01-17",
-        "c": "US",
-        "n": "Mind the Step",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Los Angeles, CA",
-        "o": "1301PE",
-        "d": [
-          "2009-01-17",
-          "2009-02-28"
-        ]
-      },
-      {
         "i": "2613-2214-2009-01-17",
         "c": "US",
         "n": "The Puppet Show",
@@ -1431,6 +1431,19 @@
         "d": [
           "2009-01-17",
           "2009-04-12"
+        ]
+      },
+      {
+        "i": "2613-2506-2009-01-17",
+        "c": "US",
+        "n": "Mind the Step",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Los Angeles, CA",
+        "o": "1301PE",
+        "d": [
+          "2009-01-17",
+          "2009-02-28"
         ]
       },
       {
@@ -1533,7 +1546,7 @@
         "n": "It's fine as long as you draw but Don't film",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Pilar Corrias Gallery",
         "d": [
           "2009-05-22",
@@ -1935,7 +1948,7 @@
         "n": "Philippe Parreno - Uncle Neaw, Pilar, Rirkrit Then Me",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Pilar Corrias Gallery",
         "d": [
           "2010-12-08",
@@ -2090,7 +2103,7 @@
         "n": "Philippe Parreno - Uncle Neaw, Pilar, Rirkrit Then Me",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Pilar Corrias Gallery",
         "d": [
           "2010-12-08",
@@ -2364,11 +2377,24 @@
         "n": "Light Show",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hayward Gallery",
         "d": [
           "2013-01-30",
           "2013-05-06"
+        ]
+      },
+      {
+        "i": "2613-14667-2013-02-28",
+        "c": "CA",
+        "n": "Zidane, Un Portrait Du 21E Siècle",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Montreal, QC",
+        "o": "Galerie de l’UQAM",
+        "d": [
+          "2013-02-28",
+          "2013-04-14"
         ]
       },
       {
@@ -2424,7 +2450,7 @@
         "n": "Collection Sandretto Re Rebaudengo: Have you seen me before?",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Whitechapel Art Gallery",
         "d": [
           "2013-06-18",

@@ -340,7 +340,7 @@
         "n": "Prison",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Bloomberg Space",
         "d": [
           "2007-03-31",
@@ -1122,7 +1122,7 @@
         "n": "Nicole Eisenman",
         "t": "Autre",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Studio Voltaire",
         "d": [
           "2012-09-29",
@@ -1171,19 +1171,6 @@
         ]
       },
       {
-        "i": "6548-9086-2013-02-13",
-        "c": "US",
-        "n": "Catch as Catch Can",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Philadelphia, PA",
-        "o": "Locks Gallery",
-        "d": [
-          "2013-02-13",
-          "2013-03-30"
-        ]
-      },
-      {
         "i": "6548-1203-2013-02-13",
         "c": "US",
         "n": "Nyc 1993: Experimental Jet Set, Trash And No Star",
@@ -1194,6 +1181,19 @@
         "d": [
           "2013-02-13",
           "2013-05-26"
+        ]
+      },
+      {
+        "i": "6548-9086-2013-02-13",
+        "c": "US",
+        "n": "Catch as Catch Can",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Philadelphia, PA",
+        "o": "Locks Gallery",
+        "d": [
+          "2013-02-13",
+          "2013-03-30"
         ]
       },
       {
@@ -1220,6 +1220,19 @@
         "d": [
           "2013-07-05",
           "2013-07-28"
+        ]
+      },
+      {
+        "i": "6548-4046-2013-07-13",
+        "c": "US",
+        "n": "Summer Viewing Rooms",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Culver City, CA",
+        "o": "Susanne Vielmetter Los Angeles Projects",
+        "d": [
+          "2013-07-13",
+          "2013-08-24"
         ]
       },
       {
@@ -1254,7 +1267,7 @@
         "n": "Body Language",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Saatchi Gallery",
         "d": [
           "2013-11-20",
@@ -1267,7 +1280,7 @@
         "n": "Nicole Eisenman",
         "t": "Autre",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Studio Voltaire",
         "d": [
           "2012-09-29",

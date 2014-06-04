@@ -112,19 +112,6 @@
         ]
       },
       {
-        "i": "9110-2606-2006-03-23",
-        "c": "RU",
-        "n": "The Sixth International Photography Month in Moscow: Photobiennale 2006",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Moscow",
-        "o": "Moscow House of Photography",
-        "d": [
-          "2006-03-23",
-          "2006-05-14"
-        ]
-      },
-      {
         "i": "9110-5847-2006-06-09",
         "c": "AT",
         "n": "Körper, Gesicht und Seele; Vom 16. bis zum 21. Jahrhundert",
@@ -138,19 +125,6 @@
         ]
       },
       {
-        "i": "9110-8530-2006-10-08",
-        "c": "SE",
-        "n": "Revelation (Uppenbar(a)t)",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Stockholm",
-        "o": "Kulturhuset Stockholm",
-        "d": [
-          "2006-10-08",
-          "2007-01-07"
-        ]
-      },
-      {
         "i": "9110-2203-2006-10-08",
         "c": "CH",
         "n": "EROS in der Kunst der Moderne",
@@ -161,6 +135,19 @@
         "d": [
           "2006-10-08",
           "2007-02-18"
+        ]
+      },
+      {
+        "i": "9110-8530-2006-10-08",
+        "c": "SE",
+        "n": "Revelation (Uppenbar(a)t)",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Stockholm",
+        "o": "Kulturhuset Stockholm",
+        "d": [
+          "2006-10-08",
+          "2007-01-07"
         ]
       },
       {
@@ -208,19 +195,6 @@
     ],
     "2007": [
       {
-        "i": "9110-8530-2006-10-08",
-        "c": "SE",
-        "n": "Revelation (Uppenbar(a)t)",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Stockholm",
-        "o": "Kulturhuset Stockholm",
-        "d": [
-          "2006-10-08",
-          "2007-01-07"
-        ]
-      },
-      {
         "i": "9110-2203-2006-10-08",
         "c": "CH",
         "n": "EROS in der Kunst der Moderne",
@@ -231,6 +205,19 @@
         "d": [
           "2006-10-08",
           "2007-02-18"
+        ]
+      },
+      {
+        "i": "9110-8530-2006-10-08",
+        "c": "SE",
+        "n": "Revelation (Uppenbar(a)t)",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Stockholm",
+        "o": "Kulturhuset Stockholm",
+        "d": [
+          "2006-10-08",
+          "2007-01-07"
         ]
       },
       {
@@ -360,7 +347,7 @@
         "n": "Gallery Selections",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hamiltons Gallery",
         "d": [
           "2008-07-10",
@@ -720,10 +707,10 @@
       {
         "i": "9110-1981-2013-01-26",
         "c": "GB",
-        "n": "Gender Studies",
+        "n": "Bettina Rheims - Gender Studies",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hamiltons Gallery",
         "d": [
           "2013-01-26",
@@ -737,7 +724,7 @@
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "Knokke-Heist",
-        "o": "Maruani & Noirhomme",
+        "o": "Maruani & Mercier Gallery",
         "d": [
           "2013-02-20",
           "2013-04-08"
@@ -750,7 +737,7 @@
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "Brussels",
-        "o": "Maruani & Noirhomme Gallery",
+        "o": "Maruani & Mercier Gallery",
         "d": [
           "2013-02-20",
           "2013-04-08"

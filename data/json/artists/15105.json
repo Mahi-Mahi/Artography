@@ -68,19 +68,6 @@
       {
         "i": "15105-2287-2005-11-12",
         "c": "CH",
-        "n": "As time goes by",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Zurich",
-        "o": "Kunsthalle Zürich",
-        "d": [
-          "2005-11-12",
-          "2005-11-27"
-        ]
-      },
-      {
-        "i": "15105-2287-2005-11-12",
-        "c": "CH",
         "n": "Bekanntmachungen",
         "t": "Institution publique",
         "st": "Group",
@@ -89,6 +76,19 @@
         "d": [
           "2005-11-12",
           "2006-01-08"
+        ]
+      },
+      {
+        "i": "15105-2287-2005-11-12",
+        "c": "CH",
+        "n": "As time goes by",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Kunsthalle Zürich",
+        "d": [
+          "2005-11-12",
+          "2005-11-27"
         ]
       },
       {
@@ -274,7 +274,7 @@
         "i": "15105-13375-2006-10-08",
         "c": "DE",
         "n": "Annelise Coste - Lingener Kunstpreis",
-        "t": "Institution publique",
+        "t": "Autre",
         "st": "Solo",
         "ct": "Lingen",
         "o": "Kunsthalle Lingen",
@@ -330,7 +330,7 @@
         "n": "Learn to Read",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Modern",
         "d": [
           "2007-06-19",
@@ -757,19 +757,6 @@
         ]
       },
       {
-        "i": "15105-11559-2011-02-19",
-        "c": "CH",
-        "n": "Hysteria, Laughter and a Sense of Seriousness",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Zurich",
-        "o": "Karma International",
-        "d": [
-          "2011-02-19",
-          "2011-03-26"
-        ]
-      },
-      {
         "i": "15105-24232-2011-02-19",
         "c": "CH",
         "n": "Hysteria, Laughter And A Sense Of Seriousness",
@@ -777,6 +764,19 @@
         "st": "Group",
         "ct": "Zurich",
         "o": "Galerie Gregor Staiger",
+        "d": [
+          "2011-02-19",
+          "2011-03-26"
+        ]
+      },
+      {
+        "i": "15105-11559-2011-02-19",
+        "c": "CH",
+        "n": "Hysteria, Laughter and a Sense of Seriousness",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Karma International",
         "d": [
           "2011-02-19",
           "2011-03-26"
@@ -931,6 +931,19 @@
         "c": "FR"
       },
       {
+        "i": "15105-20863-2012-06-22",
+        "c": "US",
+        "n": "Buy My Bananas",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Kate Werble Gallery",
+        "d": [
+          "2012-06-22",
+          "2012-08-02"
+        ]
+      },
+      {
         "i": "15105-3289-2012-07-07",
         "c": "NL",
         "n": "30 Days of Peace Love and Painting - Summer Painting Show",
@@ -947,7 +960,7 @@
         "i": "15105-13375-2012-09-16",
         "c": "DE",
         "n": "Zehn aus Zwanzig: Lingener Kunstpreis 1983 bis 2012",
-        "t": "Institution publique",
+        "t": "Autre",
         "st": "Group",
         "ct": "Lingen",
         "o": "Kunsthalle Lingen",
@@ -1050,6 +1063,19 @@
         ]
       },
       {
+        "i": "15105-30131-2013-06-14",
+        "c": "CH",
+        "n": "I´m Your Neigh­bour! - Ein­blick in das junge Schwei­zer Kunst­schaf­fen",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Rogg­wil-Kal­ten­her­berg",
+        "o": "Bromer Art Collection BAC",
+        "d": [
+          "2013-06-14",
+          "2013-07-21"
+        ]
+      },
+      {
         "i": "15105-28060-2013-06-14",
         "c": "CH",
         "n": "I&#8217;m Your Neighbour! Einblick in das junge Schweizer Kunstschaffen",
@@ -1070,19 +1096,6 @@
         "st": "Group",
         "ct": "Rogg­wil-Kal­ten­her­berg",
         "o": "Bro­mer Art Collec­tion (BAC)",
-        "d": [
-          "2013-06-14",
-          "2013-07-21"
-        ]
-      },
-      {
-        "i": "15105-30131-2013-06-14",
-        "c": "CH",
-        "n": "I´m Your Neigh­bour! - Ein­blick in das junge Schwei­zer Kunst­schaf­fen",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Rogg­wil-Kal­ten­her­berg",
-        "o": "Bromer Art Collection BAC",
         "d": [
           "2013-06-14",
           "2013-07-21"

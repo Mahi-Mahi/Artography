@@ -88,19 +88,6 @@
       {
         "i": "19912-3149-2006-04-08",
         "c": "DK",
-        "n": "Time",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Copenhagen",
-        "o": "Kunsthallen Nikolaj",
-        "d": [
-          "2006-04-08",
-          "2006-06-05"
-        ]
-      },
-      {
-        "i": "19912-3149-2006-04-08",
-        "c": "DK",
         "n": "Emergency Room",
         "t": "Institution publique",
         "st": "Group",
@@ -109,6 +96,19 @@
         "d": [
           "2006-04-08",
           "2006-06-04"
+        ]
+      },
+      {
+        "i": "19912-3149-2006-04-08",
+        "c": "DK",
+        "n": "Time",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Copenhagen",
+        "o": "Kunsthallen Nikolaj",
+        "d": [
+          "2006-04-08",
+          "2006-06-05"
         ]
       },
       {
@@ -471,7 +471,7 @@
         "n": "Socle du Monde 2010 - Between Cultures",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Herning\t",
+        "ct": "Herning",
         "o": "HEART - Herning Museum of Contemporary Art",
         "d": [
           "2010-11-06",
@@ -511,7 +511,7 @@
         "n": "Socle du Monde 2010 - Between Cultures",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Herning\t",
+        "ct": "Herning",
         "o": "HEART - Herning Museum of Contemporary Art",
         "d": [
           "2010-11-06",
@@ -584,6 +584,34 @@
         "d": [
           "2013-06-01",
           "2013-11-24"
+        ]
+      },
+      {
+        "i": "19912-25757-2013-11-16",
+        "c": "DK",
+        "n": "Thierry Geoffroy: Can Art Be In Advance Of The Broken Arm?",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Copenhagen",
+        "o": "Marianne Friis Gallery",
+        "d": [
+          "2013-11-16",
+          "2014-01-02"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "19912-25757-2013-11-16",
+        "c": "DK",
+        "n": "Thierry Geoffroy: Can Art Be In Advance Of The Broken Arm?",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Copenhagen",
+        "o": "Marianne Friis Gallery",
+        "d": [
+          "2013-11-16",
+          "2014-01-02"
         ]
       }
     ]

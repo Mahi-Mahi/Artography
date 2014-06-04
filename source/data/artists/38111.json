@@ -71,18 +71,6 @@
         ]
       },
       {
-        "i": "38111-4251-2005-09-23",
-        "c": "LT",
-        "n": "The IX Baltic Triennial of International Art - BMW",
-        "st": "Group",
-        "ct": "Vilnius",
-        "o": "The Baltic Triennial of International Art",
-        "d": [
-          "2005-09-23",
-          "2005-11-20"
-        ]
-      },
-      {
         "i": "38111-2589-2005-09-23",
         "c": "LT",
         "n": "BMW",
@@ -90,6 +78,18 @@
         "st": "Group",
         "ct": "Vilnius",
         "o": "Contemporary Art Centre (CAC)",
+        "d": [
+          "2005-09-23",
+          "2005-11-20"
+        ]
+      },
+      {
+        "i": "38111-4251-2005-09-23",
+        "c": "LT",
+        "n": "The IX Baltic Triennial of International Art - BMW",
+        "st": "Group",
+        "ct": "Vilnius",
+        "o": "The Baltic Triennial of International Art",
         "d": [
           "2005-09-23",
           "2005-11-20"
@@ -195,7 +195,7 @@
         "t": "Galerie privée",
         "st": "Group",
         "ct": "Bologna",
-        "o": "Neon Campobase",
+        "o": "neon>campobase",
         "d": [
           "2007-01-25",
           "2007-02-03"
@@ -204,7 +204,7 @@
       {
         "i": "38111-4418-2007-07-20",
         "c": "BR",
-        "n": "Comunismo da Forma",
+        "n": "The Communism of Forms: Sound + Image + Time - The Strategy of Music Videos ",
         "t": "Galerie privée",
         "st": "Group",
         "ct": "São Paulo",
@@ -303,7 +303,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Geneva",
-        "o": "Centre d´Art Contemporain Geneve",
+        "o": "Centre d'Art Contemporain Geneve",
         "d": [
           "2009-12-11",
           "2010-02-07"
@@ -318,7 +318,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Geneva",
-        "o": "Centre d´Art Contemporain Geneve",
+        "o": "Centre d'Art Contemporain Geneve",
         "d": [
           "2009-12-11",
           "2010-02-07"

@@ -195,14 +195,6 @@
         "c": "FR"
       },
       {
-        "i": "945-2303-2005-06-30",
-        "c": "FR"
-      },
-      {
-        "i": "945-2303-2005-06-30",
-        "c": "FR"
-      },
-      {
         "i": "945-2565-2005-07-10",
         "c": "FR"
       },
@@ -250,7 +242,7 @@
         "n": "Geometry Sequence Repetition",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Albion - London",
         "d": [
           "2005-09-13",
@@ -518,7 +510,7 @@
         "n": "Robert Barry, Daniel Buren, Sol LeWitt - Wall Drawings",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Albion - London",
         "d": [
           "2006-01-19",
@@ -823,7 +815,7 @@
         "n": "Daniel Buren",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Oxford (England)",
+        "ct": "Oxford",
         "o": "Modern Art Oxford",
         "d": [
           "2006-11-04",
@@ -1042,7 +1034,7 @@
         "n": "13",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Birmingham (England)",
+        "ct": "Birmingham",
         "o": "International Project Space",
         "d": [
           "2007-07-05",
@@ -1201,7 +1193,7 @@
         "n": "Daniel Buren",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Oxford (England)",
+        "ct": "Oxford",
         "o": "Modern Art Oxford",
         "d": [
           "2006-11-04",
@@ -1235,7 +1227,7 @@
         "n": "Daniel Buren",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Lisson Gallery",
         "d": [
           "2007-05-18",
@@ -1430,7 +1422,7 @@
         "n": "Andrew Grassie & Daniel Buren",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Edinburgh (Scotland)",
+        "ct": "Edinburgh, Scotland",
         "o": "Ingleby Gallery",
         "d": [
           "2008-04-05",
@@ -1443,7 +1435,7 @@
         "n": "Blood on Paper - the Art of the Book",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Victoria & Albert Museum - V&A",
         "d": [
           "2008-04-15",
@@ -1855,7 +1847,7 @@
         "n": "Dematerialised: Jack Wendler Gallery 1971 to 1974",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Chelsea space - Chelsea College of Art and Design",
         "d": [
           "2009-05-13",
@@ -1954,7 +1946,7 @@
         "n": "Boule to Braid",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Lisson Gallery",
         "d": [
           "2009-06-24",
@@ -2083,7 +2075,7 @@
         "n": "Lisson Presents 7 / Bell Street",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Lisson Gallery",
         "d": [
           "2009-11-25",
@@ -2258,7 +2250,7 @@
         "n": "Lisson Presents 7 / Bell Street",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Lisson Gallery",
         "d": [
           "2009-11-25",
@@ -2331,6 +2323,19 @@
         ]
       },
       {
+        "i": "945-30898-2010-03-21",
+        "c": "CH",
+        "n": "Portrait De L&#8217;Ártiste En Motocycliste, Le Magasin Cnac, Grenoble",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "La Chaux-de-Fonds",
+        "o": "Musée des beaux-arts La Chaux-de-Fonds",
+        "d": [
+          "2010-03-21",
+          "2010-09-12"
+        ]
+      },
+      {
         "i": "945-2277-2010-03-26",
         "c": "AT",
         "n": "Bilder über Bilder",
@@ -2359,14 +2364,27 @@
       {
         "i": "945-2423-2010-04-10",
         "c": "NL",
-        "n": "In-between Minimalisms & Free Sol Lewitt",
+        "n": "In-between Minimalisms - Play Van Abbe, Part 2: Time Machines",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Eindhoven",
         "o": "Stedelijk Van Abbemuseum",
         "d": [
           "2010-04-10",
-          "2010-09-05"
+          "2010-09-12"
+        ]
+      },
+      {
+        "i": "945-2423-2010-04-10",
+        "c": "NL",
+        "n": "Free Sol Lewitt",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2010-04-10",
+          "2010-09-12"
         ]
       },
       {
@@ -2385,27 +2403,14 @@
       {
         "i": "945-2423-2010-04-10",
         "c": "NL",
-        "n": "Free Sol Lewitt",
+        "n": "In-between Minimalisms & Free Sol Lewitt",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Eindhoven",
         "o": "Stedelijk Van Abbemuseum",
         "d": [
           "2010-04-10",
-          "2010-09-12"
-        ]
-      },
-      {
-        "i": "945-2423-2010-04-10",
-        "c": "NL",
-        "n": "In-between Minimalisms - Play Van Abbe, Part 2: Time Machines",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Eindhoven",
-        "o": "Stedelijk Van Abbemuseum",
-        "d": [
-          "2010-04-10",
-          "2010-09-12"
+          "2010-09-05"
         ]
       },
       {
@@ -2490,19 +2495,6 @@
         ]
       },
       {
-        "i": "945-255-2010-09-09",
-        "c": "US",
-        "n": "The space between reference and regret",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "New York City, NY",
-        "o": "Friedrich Petzel Gallery",
-        "d": [
-          "2010-09-09",
-          "2010-10-23"
-        ]
-      },
-      {
         "i": "945-267-2010-09-09",
         "c": "BE",
         "n": "Group Exhibition",
@@ -2510,6 +2502,19 @@
         "st": "Group",
         "ct": "Brussels",
         "o": "Xavier  Hufkens",
+        "d": [
+          "2010-09-09",
+          "2010-10-23"
+        ]
+      },
+      {
+        "i": "945-255-2010-09-09",
+        "c": "US",
+        "n": "The space between reference and regret",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Friedrich Petzel Gallery",
         "d": [
           "2010-09-09",
           "2010-10-23"
@@ -2568,7 +2573,7 @@
         "n": "Cosa fa la mia anima mentre sto lavorando?",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Gallarte (VA)",
+        "ct": "Gallarte, VA",
         "o": "Museo MAGA",
         "d": [
           "2010-11-14",
@@ -2578,19 +2583,6 @@
       {
         "i": "945-2585-2010-11-19",
         "c": "FR"
-      },
-      {
-        "i": "945-17351-2010-12-01",
-        "c": "ES",
-        "n": "TEN FOR CHRISTMAS - group show",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Barcelona",
-        "o": "Black Cube Gallery - Sant Antoni Maria Claret",
-        "d": [
-          "2010-12-01",
-          "2010-12-30"
-        ]
       },
       {
         "i": "945-269-2010-12-05",
@@ -2750,7 +2742,7 @@
         "n": "Cosa fa la mia anima mentre sto lavorando?",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Gallarte (VA)",
+        "ct": "Gallarte, VA",
         "o": "Museo MAGA",
         "d": [
           "2010-11-14",
@@ -2873,6 +2865,19 @@
         ]
       },
       {
+        "i": "945-2423-2011-09-03",
+        "c": "NL",
+        "n": "The Collectors Show Part Of Vanuit Hier - Out Of Here",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2011-09-03",
+          "2012-01-29"
+        ]
+      },
+      {
         "i": "945-3123-2011-09-10",
         "c": "NL",
         "n": "In Deed: Certificates of Authenticity in Art",
@@ -2977,7 +2982,7 @@
         "n": "The Indiscipline of Painting: International abstraction from the 1960s to now",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "St. Ives, Cornwall (England)",
+        "ct": "St. Ives, Cornwall",
         "o": "Tate St. Ives",
         "d": [
           "2011-10-08",
@@ -3022,6 +3027,19 @@
         "i": "945-8687-2011-11-05",
         "c": "DE",
         "n": "Besides Reproduction",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Lüneburg",
+        "o": "Kunstraum der Leuphana Universität Lüneburg",
+        "d": [
+          "2011-11-05",
+          "2011-12-22"
+        ]
+      },
+      {
+        "i": "945-8687-2011-11-05",
+        "c": "DE",
+        "n": "Demanding Supplies &#8211; Nachfragende Angebote.           Phase 3: Besides Reproduction ",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Lüneburg",
@@ -3157,7 +3175,7 @@
         "n": "Daniel Buren - One thing to another - Situated works / 29 Bell Street",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Lisson Gallery",
         "d": [
           "2011-11-23",
@@ -3166,6 +3184,19 @@
       }
     ],
     "2012": [
+      {
+        "i": "945-2423-2011-09-03",
+        "c": "NL",
+        "n": "The Collectors Show Part Of Vanuit Hier - Out Of Here",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2011-09-03",
+          "2012-01-29"
+        ]
+      },
       {
         "i": "945-3733-2011-09-17",
         "c": "BE",
@@ -3198,7 +3229,7 @@
         "n": "The Indiscipline of Painting: International abstraction from the 1960s to now",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "St. Ives, Cornwall (England)",
+        "ct": "St. Ives, Cornwall",
         "o": "Tate St. Ives",
         "d": [
           "2011-10-08",
@@ -3249,7 +3280,7 @@
         "n": "The Indiscipline of Painting",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Coventry (England)",
+        "ct": "Coventry",
         "o": "Mead Gallery - Warwick Arts Centre",
         "d": [
           "2012-01-14",
@@ -3406,19 +3437,6 @@
         ]
       },
       {
-        "i": "945-23280-2012-06-27",
-        "c": "CA",
-        "n": "GALERIE DIVISION & GALERIE RENÉ BLOUIN à L'ARSENAL TORONTO",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Westmount, PQ",
-        "o": "Galerie Division",
-        "d": [
-          "2012-06-27",
-          "2012-10-27"
-        ]
-      },
-      {
         "i": "945-286-2012-06-27",
         "c": "DE",
         "n": "Daniel Buren / Tony Cragg / Tatsuo Miyajima",
@@ -3429,6 +3447,19 @@
         "d": [
           "2012-06-27",
           "2012-08-04"
+        ]
+      },
+      {
+        "i": "945-23280-2012-06-27",
+        "c": "CA",
+        "n": "GALERIE DIVISION & GALERIE RENÉ BLOUIN à L'ARSENAL TORONTO",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Westmount, PQ",
+        "o": "Galerie Division",
+        "d": [
+          "2012-06-27",
+          "2012-10-27"
         ]
       },
       {
@@ -3617,7 +3648,7 @@
         "n": "Daniel Buren - One thing to another - Situated works / 29 Bell Street",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Lisson Gallery",
         "d": [
           "2011-11-23",
@@ -3793,6 +3824,19 @@
         "c": "FR"
       },
       {
+        "i": "945-8933-2013-03-29",
+        "c": "DE",
+        "n": "From Page to Space / Vom Blatt zum Raum",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Kaufbeuren",
+        "o": "Kunsthaus Kaufbeuren",
+        "d": [
+          "2013-03-29",
+          "2013-06-23"
+        ]
+      },
+      {
         "i": "945-16429-2013-04-05",
         "c": "BE",
         "n": "Via the Virtual",
@@ -3819,19 +3863,6 @@
         ]
       },
       {
-        "i": "945-28329-2013-04-18",
-        "c": "GB",
-        "n": "A Brief History Of Spots, Stripes And Holes",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "London (England)",
-        "o": "Carlson Gallery",
-        "d": [
-          "2013-04-18",
-          "2013-06-01"
-        ]
-      },
-      {
         "i": "945-19516-2013-04-18",
         "c": "LB",
         "n": "Video Vintage 1963-1983",
@@ -3842,6 +3873,19 @@
         "d": [
           "2013-04-18",
           "2013-06-27"
+        ]
+      },
+      {
+        "i": "945-28329-2013-04-18",
+        "c": "GB",
+        "n": "A Brief History Of Spots, Stripes And Holes",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "London",
+        "o": "Carlson Gallery",
+        "d": [
+          "2013-04-18",
+          "2013-06-01"
         ]
       },
       {
@@ -3999,7 +4043,7 @@
         "n": "Re-View: Onnasch Collection",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hauser & Wirth",
         "d": [
           "2013-09-20",
@@ -4012,7 +4056,7 @@
         "n": "Re-View: Onnasch Collection",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hauser & Wirth",
         "d": [
           "2013-09-20",
@@ -4028,6 +4072,45 @@
         "c": "FR"
       },
       {
+        "i": "945-1612-2013-10-10",
+        "c": "US",
+        "n": "According To Plan",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Barbara Mathes Gallery",
+        "d": [
+          "2013-10-10",
+          "2013-12-21"
+        ]
+      },
+      {
+        "i": "945-30011-2013-11-18",
+        "c": "PL",
+        "n": "With A Probability Of Being Seen. Works, Projects And Documents In The Collection And The Archives Of The Foksal Gallery",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Warsaw",
+        "o": "Foksal Gallery",
+        "d": [
+          "2013-11-18",
+          "2014-01-03"
+        ]
+      },
+      {
+        "i": "945-16344-2013-11-19",
+        "c": "IT",
+        "n": "Quarantanni d",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Milan",
+        "o": "La Triennale di Milano. Design Museum",
+        "d": [
+          "2013-11-19",
+          "2014-02-02"
+        ]
+      },
+      {
         "i": "945-2309-2013-11-23",
         "c": "IT",
         "n": "When Now is Minimal. The Unknown Side of the Sammlung Goetz",
@@ -4038,7 +4121,9 @@
         "d": [
           "2013-11-23",
           "2014-10-05"
-        ]
+        ],
+        "a": "945",
+        "an": "Daniel Buren"
       },
       {
         "i": "945-2096-2013-11-29",
@@ -4051,7 +4136,9 @@
         "d": [
           "2013-11-29",
           "2014-08-31"
-        ]
+        ],
+        "a": "945",
+        "an": "Daniel Buren"
       },
       {
         "i": "945-2530-2013-12-17",
@@ -4108,6 +4195,32 @@
     ],
     "2014": [
       {
+        "i": "945-30011-2013-11-18",
+        "c": "PL",
+        "n": "With A Probability Of Being Seen. Works, Projects And Documents In The Collection And The Archives Of The Foksal Gallery",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Warsaw",
+        "o": "Foksal Gallery",
+        "d": [
+          "2013-11-18",
+          "2014-01-03"
+        ]
+      },
+      {
+        "i": "945-16344-2013-11-19",
+        "c": "IT",
+        "n": "Quarantanni d",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Milan",
+        "o": "La Triennale di Milano. Design Museum",
+        "d": [
+          "2013-11-19",
+          "2014-02-02"
+        ]
+      },
+      {
         "i": "945-2309-2013-11-23",
         "c": "IT",
         "n": "When Now is Minimal. The Unknown Side of the Sammlung Goetz",
@@ -4118,7 +4231,9 @@
         "d": [
           "2013-11-23",
           "2014-10-05"
-        ]
+        ],
+        "a": "945",
+        "an": "Daniel Buren"
       },
       {
         "i": "945-2096-2013-11-29",
@@ -4131,7 +4246,9 @@
         "d": [
           "2013-11-29",
           "2014-08-31"
-        ]
+        ],
+        "a": "945",
+        "an": "Daniel Buren"
       },
       {
         "i": "945-2530-2013-12-17",
@@ -4165,7 +4282,9 @@
         "d": [
           "2013-11-23",
           "2014-10-05"
-        ]
+        ],
+        "a": "945",
+        "an": "Daniel Buren"
       },
       {
         "i": "945",
@@ -4184,7 +4303,9 @@
         "d": [
           "2013-11-29",
           "2014-08-31"
-        ]
+        ],
+        "a": "945",
+        "an": "Daniel Buren"
       }
     ]
   }

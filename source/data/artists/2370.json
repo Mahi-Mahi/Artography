@@ -258,6 +258,19 @@
         "c": "FR"
       },
       {
+        "i": "2370-8501-2007-10-28",
+        "c": "IT",
+        "n": "il velo",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Caraglio",
+        "o": "Cesac - Centro Sperimentale per le Arti Contemporanee",
+        "d": [
+          "2007-10-28",
+          "2008-02-24"
+        ]
+      },
+      {
         "i": "2370-1407-2006-11-10",
         "c": "FR"
       },
@@ -275,19 +288,6 @@
         ]
       },
       {
-        "i": "2370-2606-2007-02-22",
-        "c": "RU",
-        "n": "Pierre and Gilles",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Moscow",
-        "o": "Moscow House of Photography",
-        "d": [
-          "2007-02-22",
-          "2007-04-06"
-        ]
-      },
-      {
         "i": "2370-2351-2007-06-26",
         "c": "FR"
       },
@@ -300,6 +300,19 @@
       {
         "i": "2370-8281-2007-10-28",
         "c": "FR"
+      },
+      {
+        "i": "2370-8501-2007-10-28",
+        "c": "IT",
+        "n": "il velo",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Caraglio",
+        "o": "Cesac - Centro Sperimentale per le Arti Contemporanee",
+        "d": [
+          "2007-10-28",
+          "2008-02-24"
+        ]
       },
       {
         "i": "2370-16680-2008-11-01",
@@ -354,7 +367,7 @@
         "n": "sh[OUT]: Contemporary art and human rights",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Glasgow (Scotland)",
+        "ct": "Glasgow, Scotland",
         "o": "GoMA - Gallery of Modern Art",
         "d": [
           "2009-04-09",
@@ -743,6 +756,34 @@
       {
         "i": "2370-17115-2013-06-29",
         "c": "FR"
+      },
+      {
+        "i": "2370-3589-2013-09-14",
+        "c": "NL",
+        "n": "White - Photography, Art, Design, Fashion, Film",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rotterdam",
+        "o": "Nederlands Fotomuseum",
+        "d": [
+          "2013-09-14",
+          "2014-01-05"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "2370-3589-2013-09-14",
+        "c": "NL",
+        "n": "White - Photography, Art, Design, Fashion, Film",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rotterdam",
+        "o": "Nederlands Fotomuseum",
+        "d": [
+          "2013-09-14",
+          "2014-01-05"
+        ]
       }
     ]
   }

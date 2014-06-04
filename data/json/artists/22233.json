@@ -50,7 +50,7 @@
         "n": "London and its painters",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Purdy Hicks Gallery",
         "d": [
           "2005-09-09",
@@ -213,6 +213,19 @@
         ]
       },
       {
+        "i": "22233-28577-2013-12-14",
+        "c": "NL",
+        "n": "Facing Nature, collectie De Heus-Zomer",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Heerenveen",
+        "o": "Museum Belvédère",
+        "d": [
+          "2013-12-14",
+          "2014-03-30"
+        ]
+      },
+      {
         "i": "22233-7809-2013-06-02",
         "c": "BE",
         "n": "Benjamin Moravec. Les Jeux de l'Effroi - Le Royaume - Part IV",
@@ -223,6 +236,21 @@
         "d": [
           "2013-06-02",
           "2013-08-18"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "22233-28577-2013-12-14",
+        "c": "NL",
+        "n": "Facing Nature, collectie De Heus-Zomer",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Heerenveen",
+        "o": "Museum Belvédère",
+        "d": [
+          "2013-12-14",
+          "2014-03-30"
         ]
       }
     ],

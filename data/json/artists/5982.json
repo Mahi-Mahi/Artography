@@ -231,7 +231,7 @@
         "n": "Manifesto Marathon",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Serpentine Gallery",
         "d": [
           "2008-10-18",
@@ -246,7 +246,7 @@
         "n": "Artists from the 60s",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Mayor Gallery",
         "d": [
           "2009-01-09",
@@ -458,6 +458,19 @@
         ]
       },
       {
+        "i": "5982-31159-2012-09-22",
+        "c": "BE",
+        "n": "Pulsion(S° - Artistes Sous Influences",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Namur",
+        "o": "Maison de la Culture Namur",
+        "d": [
+          "2012-09-22",
+          "2013-01-06"
+        ]
+      },
+      {
         "i": "5982-2009-2012-03-16",
         "c": "FR"
       },
@@ -471,6 +484,19 @@
       }
     ],
     "2013": [
+      {
+        "i": "5982-31159-2012-09-22",
+        "c": "BE",
+        "n": "Pulsion(S° - Artistes Sous Influences",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Namur",
+        "o": "Maison de la Culture Namur",
+        "d": [
+          "2012-09-22",
+          "2013-01-06"
+        ]
+      },
       {
         "i": "5982-7811-2013-02-15",
         "c": "FR"

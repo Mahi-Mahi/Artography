@@ -244,19 +244,6 @@
         ]
       },
       {
-        "i": "5570-28980-2011-07-02",
-        "c": "KR",
-        "n": "Philippe Pasqua",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Busan",
-        "o": "Gallery 604",
-        "d": [
-          "2011-07-02",
-          "2011-07-30"
-        ]
-      },
-      {
         "i": "5570-14162-2011-07-02",
         "c": "BE",
         "n": "Philippe Pasqua",
@@ -267,6 +254,19 @@
         "d": [
           "2011-07-02",
           "2011-07-31"
+        ]
+      },
+      {
+        "i": "5570-28980-2011-07-02",
+        "c": "KR",
+        "n": "Philippe Pasqua",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Busan",
+        "o": "Gallery 604",
+        "d": [
+          "2011-07-02",
+          "2011-07-30"
         ]
       },
       {
@@ -343,7 +343,7 @@
         "n": "Philippe Pasqua in London",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Opera Gallery",
         "d": [
           "2012-01-26",

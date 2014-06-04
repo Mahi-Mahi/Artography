@@ -651,9 +651,6 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		text-transform: uppercase;
 	}
 }
-.home .news-block {
-	display: none;
-}
 
 .news-block-item {
 	background:#939597;
@@ -686,14 +683,22 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 		top:0;
 		right:0;
 		width:281px;
-		z-index:12;
+		z-index:22;
 	}
 	.news-block {
-		position:absolute;
-		right:40px;
-		top:40px;
-		width:315px;
-		z-index:10;
+		background: rgba(88, 88, 91, 0.9);
+		position: absolute;
+		right: 20px;
+		top: 40px;
+		width: 315px;
+		z-index: 20;
+		.news-block-item {
+			background: rgba(147, 149, 151, 0.3);
+			span {
+				color: #f21c79;
+				display: block;
+			}
+		}
 	}
 }
 

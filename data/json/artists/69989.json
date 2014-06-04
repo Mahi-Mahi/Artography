@@ -153,7 +153,7 @@
         "n": "Overbite/Underbite",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Ritter/Zamet",
         "d": [
           "2007-05-11",
@@ -376,7 +376,7 @@
         "n": "Invisible Adversaries",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Sunderland (England)",
+        "ct": "Sunderland",
         "o": "Northern Gallery for Contemporary Art",
         "d": [
           "2009-02-27",
@@ -402,7 +402,7 @@
         "n": "ABSTRACT AMERICA: NEW PAINTING AND SCULPTURE",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Saatchi Gallery",
         "d": [
           "2009-05-29",
@@ -550,7 +550,7 @@
         "n": "ABSTRACT AMERICA: NEW PAINTING AND SCULPTURE",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Saatchi Gallery",
         "d": [
           "2009-05-29",
@@ -641,7 +641,7 @@
         "n": "The Coke Factory",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Ritter/Zamet",
         "d": [
           "2010-09-09",
@@ -802,6 +802,19 @@
     ],
     "2013": [
       {
+        "i": "69989-2293-2013-04-20",
+        "c": "DE",
+        "n": "Stadt in Sicht - Werke aus der Sammlung Deutsche Bank. Von Feininger bis Gursky",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2013-04-20",
+          "2013-08-04"
+        ]
+      },
+      {
         "i": "69989-15912-2013-07-16",
         "c": "US",
         "n": "And those who were seen dancing were thought to be insane by those who could not hear the music",
@@ -812,6 +825,19 @@
         "d": [
           "2013-07-16",
           "2013-08-17"
+        ]
+      },
+      {
+        "i": "69989-30717-2013-07-23",
+        "c": "US",
+        "n": "Dead Inside",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Bleecker Street Arts Club",
+        "d": [
+          "2013-07-23",
+          "2013-08-31"
         ]
       },
       {

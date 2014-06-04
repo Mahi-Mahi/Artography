@@ -266,7 +266,7 @@
         "n": "Jean-Luc Moulène",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Thomas Dane Gallery",
         "d": [
           "2006-06-08",
@@ -398,7 +398,7 @@
         "n": "Jean-Luc Moulène",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Thomas Dane Gallery",
         "d": [
           "2007-09-03",
@@ -869,7 +869,7 @@
         "n": "The Moment Pleasantly Frightful",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Laura Bartlett Gallery",
         "d": [
           "2011-07-08",
@@ -1093,7 +1093,7 @@
       {
         "i": "5380-21901-2012-10-06",
         "c": "BE",
-        "n": "Glissement de terrain",
+        "n": "Glissement de terrain : Impertinence-Résistance-Survivance",
         "t": "Institution publique",
         "st": "Group",
         "ct": "La Louvière",
@@ -1147,7 +1147,7 @@
         "n": "Jean-Luc Moule&#768;ne",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Oxford (England)",
+        "ct": "Oxford",
         "o": "Modern Art Oxford",
         "d": [
           "2012-09-29",
@@ -1160,11 +1160,24 @@
         "n": "Jean-Luc Moulène: New Work",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Thomas Dane Gallery",
         "d": [
           "2012-11-22",
           "2013-02-16"
+        ]
+      },
+      {
+        "i": "5380-2216-2012-12-17",
+        "c": "US",
+        "n": "Jean-Luc Moulène - Opus + One",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Dia Art Foundation: Chelsea",
+        "d": [
+          "2012-12-17",
+          "2012-12-31"
         ]
       }
     ],
@@ -1261,6 +1274,14 @@
         "c": "FR"
       },
       {
+        "i": "5380-30531-2013-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "5380-30531-2013-06-04",
+        "c": "FR"
+      },
+      {
         "i": "5380-13055-2013-06-16",
         "c": "NL",
         "n": "de Verzamelaar: Il faut que le masque ait dansé",
@@ -1282,6 +1303,14 @@
         "c": "FR"
       },
       {
+        "i": "5380-5464-2013-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "5380-5464-2013-06-28",
+        "c": "FR"
+      },
+      {
         "i": "5380-11350-2013-06-28",
         "c": "US",
         "n": "Conscious Unusable",
@@ -1293,14 +1322,6 @@
           "2013-06-28",
           "2013-08-17"
         ]
-      },
-      {
-        "i": "5380-5464-2013-06-28",
-        "c": "FR"
-      },
-      {
-        "i": "5380-5464-2013-06-28",
-        "c": "FR"
       },
       {
         "i": "5380-10825-2013-09-21",
@@ -1329,7 +1350,7 @@
         "n": "Jean-Luc Moulène: New Work",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Thomas Dane Gallery",
         "d": [
           "2012-11-22",

@@ -219,7 +219,7 @@
         "n": "China Power Station: Part I",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Serpentine Gallery",
         "d": [
           "2006-10-08",
@@ -408,7 +408,7 @@
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "New York City, NY",
-        "o": "Gladstone Gallery - New York - 24th Street",
+        "o": "Gladstone Gallery - New York",
         "d": [
           "2007-02-17",
           "2007-03-17"
@@ -461,7 +461,7 @@
         "n": "God & Goods",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Codroipo (UD)",
+        "ct": "Codroipo, UD",
         "o": "Villa Manin. Centro d'arte contemporanea",
         "d": [
           "2008-04-20",
@@ -624,7 +624,7 @@
         "n": "Huang Yong Ping - Frolic",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Barbican Art Gallery",
         "d": [
           "2008-06-25",
@@ -811,13 +811,13 @@
         "c": "FR"
       },
       {
-        "i": "43125-18920-2009-05-01",
+        "i": "43125-1558-2009-05-01",
         "c": "US",
         "n": "Huang Yong Ping",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "New York City, NY",
-        "o": "Gladstone Gallery - New York - 21st Street",
+        "o": "Gladstone Gallery - New York",
         "d": [
           "2009-05-01",
           "2009-07-31"
@@ -973,6 +973,18 @@
         ]
       },
       {
+        "i": "43125-30697-2011-09-20",
+        "c": "CN",
+        "n": "1st CAFAM Biennial 2011 - Super-Organism",
+        "st": "Group",
+        "ct": "Beijing",
+        "o": "CAFAM Biennal",
+        "d": [
+          "2011-09-20",
+          "2011-10-30"
+        ]
+      },
+      {
         "i": "43125-10726-2011-10-14",
         "c": "FR"
       },
@@ -990,7 +1002,7 @@
         "n": "Huang Yong Ping",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Nottingham (England)",
+        "ct": "Nottingham",
         "o": "Nottingham Contemporary",
         "d": [
           "2011-04-15",
@@ -1088,13 +1100,13 @@
         ]
       },
       {
-        "i": "43125-18920-2012-11-13",
+        "i": "43125-1558-2012-11-13",
         "c": "US",
         "n": "Huang Yong Ping - Circus",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "New York City, NY",
-        "o": "Gladstone Gallery - New York - 21st Street",
+        "o": "Gladstone Gallery - New York",
         "d": [
           "2012-11-13",
           "2013-01-19"
@@ -1145,6 +1157,27 @@
         ]
       },
       {
+        "i": "43125-8933-2013-03-29",
+        "c": "DE",
+        "n": "From Page to Space / Vom Blatt zum Raum",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Kaufbeuren",
+        "o": "Kunsthaus Kaufbeuren",
+        "d": [
+          "2013-03-29",
+          "2013-06-23"
+        ]
+      },
+      {
+        "i": "43125-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "43125-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
         "i": "43125-16263-2013-05-25",
         "c": "DE",
         "n": "Back to Earth. Die Wiederentdeckung der Keramik in der Kunst.",
@@ -1156,14 +1189,6 @@
           "2013-05-25",
           "2013-10-27"
         ]
-      },
-      {
-        "i": "43125-2358-2013-05-25",
-        "c": "FR"
-      },
-      {
-        "i": "43125-2358-2013-05-25",
-        "c": "FR"
       },
       {
         "i": "43125-22704-2013-06-08",
@@ -1186,13 +1211,13 @@
         "c": "FR"
       },
       {
-        "i": "43125-18920-2012-11-13",
+        "i": "43125-1558-2012-11-13",
         "c": "US",
         "n": "Huang Yong Ping - Circus",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "New York City, NY",
-        "o": "Gladstone Gallery - New York - 21st Street",
+        "o": "Gladstone Gallery - New York",
         "d": [
           "2012-11-13",
           "2013-01-19"

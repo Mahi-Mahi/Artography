@@ -66,7 +66,35 @@
         "c": "FR"
       }
     ],
+    "2007": [
+      {
+        "i": "12120-8501-2007-10-28",
+        "c": "IT",
+        "n": "il velo",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Caraglio",
+        "o": "Cesac - Centro Sperimentale per le Arti Contemporanee",
+        "d": [
+          "2007-10-28",
+          "2008-02-24"
+        ]
+      }
+    ],
     "2008": [
+      {
+        "i": "12120-8501-2007-10-28",
+        "c": "IT",
+        "n": "il velo",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Caraglio",
+        "o": "Cesac - Centro Sperimentale per le Arti Contemporanee",
+        "d": [
+          "2007-10-28",
+          "2008-02-24"
+        ]
+      },
       {
         "i": "12120-17313-2008-10-08",
         "c": "FR"
@@ -148,7 +176,7 @@
         "i": "12120-8641-2011-10-10",
         "c": "MA",
         "n": "Travaux pour le changement (Working For Change)",
-        "t": "Galerie privée",
+        "t": "Autre",
         "st": "Group",
         "ct": "Rabat",
         "o": "L’appartement 22",
@@ -170,6 +198,19 @@
         "d": [
           "2012-03-17",
           "2012-07-22"
+        ]
+      },
+      {
+        "i": "12120-8641-2012-08-24",
+        "c": "MA",
+        "n": "JF_JH Libertés",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Rabat",
+        "o": "L’appartement 22",
+        "d": [
+          "2012-08-24",
+          "2012-10-10"
         ]
       },
       {

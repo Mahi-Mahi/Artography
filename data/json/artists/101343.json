@@ -64,14 +64,6 @@
       {
         "i": "101343-19953-2012-09-08",
         "c": "FR"
-      },
-      {
-        "i": "101343-28767-2012-09-08",
-        "c": "FR"
-      },
-      {
-        "i": "101343-28767-2012-09-08",
-        "c": "FR"
       }
     ],
     "2013": [
@@ -86,6 +78,34 @@
         "d": [
           "2013-03-09",
           "2013-04-28"
+        ]
+      },
+      {
+        "i": "101343-3589-2013-09-14",
+        "c": "NL",
+        "n": "White - Photography, Art, Design, Fashion, Film",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rotterdam",
+        "o": "Nederlands Fotomuseum",
+        "d": [
+          "2013-09-14",
+          "2014-01-05"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "101343-3589-2013-09-14",
+        "c": "NL",
+        "n": "White - Photography, Art, Design, Fashion, Film",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rotterdam",
+        "o": "Nederlands Fotomuseum",
+        "d": [
+          "2013-09-14",
+          "2014-01-05"
         ]
       }
     ]

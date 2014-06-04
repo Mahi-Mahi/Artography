@@ -110,19 +110,6 @@
         ]
       },
       {
-        "i": "7561-1586-2005-04-01",
-        "c": "ES",
-        "n": "Point of View",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Santiago de Compostela",
-        "o": "CGAC - Centro Galego de Arte Contemporánea",
-        "d": [
-          "2005-04-01",
-          "2005-05-29"
-        ]
-      },
-      {
         "i": "7561-5316-2005-04-01",
         "c": "ES",
         "n": "Emergencies",
@@ -133,6 +120,19 @@
         "d": [
           "2005-04-01",
           "2005-08-21"
+        ]
+      },
+      {
+        "i": "7561-1586-2005-04-01",
+        "c": "ES",
+        "n": "Point of View",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Santiago de Compostela",
+        "o": "CGAC - Centro Galego de Arte Contemporánea",
+        "d": [
+          "2005-04-01",
+          "2005-05-29"
         ]
       },
       {
@@ -255,7 +255,7 @@
         "n": "Universalism At Stake",
         "t": "Autre",
         "st": "Group",
-        "ct": "Exeter (England)\t",
+        "ct": "Exeter",
         "o": "Spacex",
         "d": [
           "2005-07-26",
@@ -323,19 +323,6 @@
         ]
       },
       {
-        "i": "7561-2423-2005-10-01",
-        "c": "NL",
-        "n": "EindhovenIstanbul",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Eindhoven",
-        "o": "Stedelijk Van Abbemuseum",
-        "d": [
-          "2005-10-01",
-          "2006-01-29"
-        ]
-      },
-      {
         "i": "7561-8648-2005-10-01",
         "c": "DE",
         "n": "Projekt Migartion",
@@ -346,6 +333,19 @@
         "d": [
           "2005-10-01",
           "2006-01-15"
+        ]
+      },
+      {
+        "i": "7561-2423-2005-10-01",
+        "c": "NL",
+        "n": "EindhovenIstanbul",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2005-10-01",
+          "2006-01-29"
         ]
       },
       {
@@ -502,19 +502,6 @@
     ],
     "2006": [
       {
-        "i": "7561-2423-2005-10-01",
-        "c": "NL",
-        "n": "EindhovenIstanbul",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Eindhoven",
-        "o": "Stedelijk Van Abbemuseum",
-        "d": [
-          "2005-10-01",
-          "2006-01-29"
-        ]
-      },
-      {
         "i": "7561-8648-2005-10-01",
         "c": "DE",
         "n": "Projekt Migartion",
@@ -525,6 +512,19 @@
         "d": [
           "2005-10-01",
           "2006-01-15"
+        ]
+      },
+      {
+        "i": "7561-2423-2005-10-01",
+        "c": "NL",
+        "n": "EindhovenIstanbul",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Eindhoven",
+        "o": "Stedelijk Van Abbemuseum",
+        "d": [
+          "2005-10-01",
+          "2006-01-29"
         ]
       },
       {
@@ -606,19 +606,6 @@
         ]
       },
       {
-        "i": "7561-2694-2006-01-01",
-        "c": "US",
-        "n": "Mixed Doubles",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Pittsburg, PA",
-        "o": "Carnegie Museum of Art",
-        "d": [
-          "2006-01-01",
-          "2006-01-29"
-        ]
-      },
-      {
         "i": "7561-2681-2006-01-01",
         "c": "US",
         "n": "Mixed Doubles",
@@ -626,6 +613,19 @@
         "st": "Group",
         "ct": "Raleigh, NC",
         "o": "Contemporary Art  Museum, Raleigh",
+        "d": [
+          "2006-01-01",
+          "2006-01-29"
+        ]
+      },
+      {
+        "i": "7561-2694-2006-01-01",
+        "c": "US",
+        "n": "Mixed Doubles",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Pittsburg, PA",
+        "o": "Carnegie Museum of Art",
         "d": [
           "2006-01-01",
           "2006-01-29"
@@ -688,7 +688,7 @@
         "n": "Infinite Painting - Contemporary Painting and Global Realism",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Codroipo (UD)",
+        "ct": "Codroipo, UD",
         "o": "Villa Manin. Centro d'arte contemporanea",
         "d": [
           "2006-04-09",
@@ -872,7 +872,7 @@
         "n": "The Secret Theory of Drawing",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Drawing Room",
         "d": [
           "2006-10-05",
@@ -901,6 +901,18 @@
         "c": "FR"
       },
       {
+        "i": "7561-8789-2006-11-29",
+        "c": "IL",
+        "n": "Videozone 3",
+        "st": "Group",
+        "ct": "Tel Aviv",
+        "o": "Videozone - International Video-Art Biennial",
+        "d": [
+          "2006-11-29",
+          "2006-12-04"
+        ]
+      },
+      {
         "i": "7561-8813-2006-11-29",
         "c": "IL",
         "n": "Moments Of Doubt: Works From The Cgac-arco Collections",
@@ -911,18 +923,6 @@
         "d": [
           "2006-11-29",
           "2007-01-24"
-        ]
-      },
-      {
-        "i": "7561-8789-2006-11-29",
-        "c": "IL",
-        "n": "Videozone 3",
-        "st": "Group",
-        "ct": "Tel Aviv",
-        "o": "Videozone - International Video-Art Biennial",
-        "d": [
-          "2006-11-29",
-          "2006-12-04"
         ]
       },
       {
@@ -1028,7 +1028,7 @@
         "t": "Galerie privée",
         "st": "Group",
         "ct": "Bologna",
-        "o": "Neon Campobase",
+        "o": "neon>campobase",
         "d": [
           "2007-01-25",
           "2007-02-03"
@@ -1177,7 +1177,7 @@
         "n": "The Shadow",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Compton Verney, Warwickshire (England)",
+        "ct": "Compton Verney, Warwickshire",
         "o": "Compton Verney",
         "d": [
           "2007-06-30",
@@ -1396,7 +1396,7 @@
         "n": "Anri Sala - A Second Look",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hauser & Wirth",
         "d": [
           "2007-11-09",
@@ -1584,7 +1584,7 @@
         "n": "God & Goods",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Codroipo (UD)",
+        "ct": "Codroipo, UD",
         "o": "Villa Manin. Centro d'arte contemporanea",
         "d": [
           "2008-04-20",
@@ -1696,7 +1696,7 @@
         "n": "LATE AT TATE - BRILLIANT NOISE",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Britain",
         "d": [
           "2008-08-01",
@@ -1782,19 +1782,6 @@
         ]
       },
       {
-        "i": "7561-27771-2008-10-16",
-        "c": "BE",
-        "n": "Thinking the world",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "CENTRALE for contemporary art",
-        "d": [
-          "2008-10-16",
-          "2009-01-11"
-        ]
-      },
-      {
         "i": "7561-18808-2008-10-16",
         "c": "US",
         "n": "OURS: Democracy in the Age of Branding",
@@ -1805,6 +1792,19 @@
         "d": [
           "2008-10-16",
           "2009-02-01"
+        ]
+      },
+      {
+        "i": "7561-27771-2008-10-16",
+        "c": "BE",
+        "n": "Thinking the world",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "CENTRALE for contemporary art",
+        "d": [
+          "2008-10-16",
+          "2009-01-11"
         ]
       },
       {
@@ -1941,13 +1941,26 @@
         ]
       },
       {
+        "i": "7561-12798-2008-12-03",
+        "c": "US",
+        "n": "Anri Sala - Purchase Not By Moonlight",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Miami, FL",
+        "o": "MOCA at Goldman Warehouse",
+        "d": [
+          "2008-12-03",
+          "2009-03-01"
+        ]
+      },
+      {
         "i": "7561-4256-2008-12-03",
         "c": "US",
         "n": "Anri Sala: Purchase Not by Moonlight",
         "t": "Institution publique",
         "st": "Solo",
         "ct": "Miami, FL",
-        "o": "Museum of Contemporary Art - North Miami (MOCA)",
+        "o": "Museum of Contemporary Art North Miami (MOCA)",
         "d": [
           "2008-12-03",
           "2009-02-01"
@@ -1969,19 +1982,6 @@
         ]
       },
       {
-        "i": "7561-27771-2008-10-16",
-        "c": "BE",
-        "n": "Thinking the world",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "CENTRALE for contemporary art",
-        "d": [
-          "2008-10-16",
-          "2009-01-11"
-        ]
-      },
-      {
         "i": "7561-18808-2008-10-16",
         "c": "US",
         "n": "OURS: Democracy in the Age of Branding",
@@ -1992,6 +1992,19 @@
         "d": [
           "2008-10-16",
           "2009-02-01"
+        ]
+      },
+      {
+        "i": "7561-27771-2008-10-16",
+        "c": "BE",
+        "n": "Thinking the world",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "CENTRALE for contemporary art",
+        "d": [
+          "2008-10-16",
+          "2009-01-11"
         ]
       },
       {
@@ -2364,13 +2377,26 @@
         ]
       },
       {
+        "i": "7561-12798-2008-12-03",
+        "c": "US",
+        "n": "Anri Sala - Purchase Not By Moonlight",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Miami, FL",
+        "o": "MOCA at Goldman Warehouse",
+        "d": [
+          "2008-12-03",
+          "2009-03-01"
+        ]
+      },
+      {
         "i": "7561-4256-2008-12-03",
         "c": "US",
         "n": "Anri Sala: Purchase Not by Moonlight",
         "t": "Institution publique",
         "st": "Solo",
         "ct": "Miami, FL",
-        "o": "Museum of Contemporary Art - North Miami (MOCA)",
+        "o": "Museum of Contemporary Art North Miami (MOCA)",
         "d": [
           "2008-12-03",
           "2009-02-01"
@@ -2527,7 +2553,7 @@
         "n": "Photo I, Photo You",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Calvert22",
         "d": [
           "2010-01-28",
@@ -2939,7 +2965,7 @@
         "n": "Tate St Ives Summer Exhibition 2011",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "St. Ives, Cornwall (England)",
+        "ct": "St. Ives, Cornwall",
         "o": "Tate St. Ives",
         "d": [
           "2011-05-14",
@@ -3038,19 +3064,6 @@
         ]
       },
       {
-        "i": "7561-1943-2011-07-14",
-        "c": "US",
-        "n": "Distant Star",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Los Angeles, CA",
-        "o": "Regen Projects",
-        "d": [
-          "2011-07-14",
-          "2011-08-20"
-        ]
-      },
-      {
         "i": "7561-1203-2011-07-14",
         "c": "US",
         "n": "Ostalgia",
@@ -3064,12 +3077,25 @@
         ]
       },
       {
+        "i": "7561-1943-2011-07-14",
+        "c": "US",
+        "n": "Distant Star",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Los Angeles, CA",
+        "o": "Regen Projects",
+        "d": [
+          "2011-07-14",
+          "2011-08-20"
+        ]
+      },
+      {
         "i": "7561-22775-2011-07-19",
         "c": "GB",
         "n": "Festivela",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Gallery Vela",
         "d": [
           "2011-07-19",
@@ -3108,7 +3134,7 @@
         "n": "1395 Days Without Red",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Artangel",
         "d": [
           "2011-09-29",
@@ -3236,7 +3262,7 @@
         "n": "Anri Sala",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Serpentine Gallery",
         "d": [
           "2011-10-01",
@@ -3263,7 +3289,7 @@
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "Tokyo",
-        "o": "Kaikai Kiki Gallery Tokyo",
+        "o": "Kaikai Kiki Gallery",
         "d": [
           "2011-10-14",
           "2011-11-10"
@@ -3410,7 +3436,7 @@
         "n": "Weighted Words",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Zabludowicz Collection London",
         "d": [
           "2012-03-01",
@@ -3457,6 +3483,19 @@
         ]
       },
       {
+        "i": "7561-8097-2012-03-15",
+        "c": "CA",
+        "n": "Open Air",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Quebec City",
+        "o": "Musée national des beaux-arts du Québec",
+        "d": [
+          "2012-03-15",
+          "2012-06-25"
+        ]
+      },
+      {
         "i": "7561-11889-2012-03-16",
         "c": "FR"
       },
@@ -3491,6 +3530,14 @@
         ]
       },
       {
+        "i": "7561-20082-2012-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "7561-20082-2012-04-05",
+        "c": "FR"
+      },
+      {
         "i": "7561-2096-2012-04-05",
         "c": "DE",
         "n": "Architektonika 2",
@@ -3501,27 +3548,6 @@
         "d": [
           "2012-04-05",
           "2013-01-13"
-        ]
-      },
-      {
-        "i": "7561-20082-2012-04-05",
-        "c": "FR"
-      },
-      {
-        "i": "7561-20082-2012-04-05",
-        "c": "FR"
-      },
-      {
-        "i": "7561-574-2012-04-13",
-        "c": "DE",
-        "n": "Resonance And Silence",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Munich",
-        "o": "Sammlung Goetz",
-        "d": [
-          "2012-04-13",
-          "2012-09-09"
         ]
       },
       {
@@ -3538,6 +3564,19 @@
         ]
       },
       {
+        "i": "7561-574-2012-04-13",
+        "c": "DE",
+        "n": "Resonance And Silence",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Munich",
+        "o": "Sammlung Goetz",
+        "d": [
+          "2012-04-13",
+          "2012-09-09"
+        ]
+      },
+      {
         "i": "7561-4757-2012-04-26",
         "c": "CR",
         "n": "Esa vara. Modernidad y emplazamiento",
@@ -3548,6 +3587,19 @@
         "d": [
           "2012-04-26",
           "2012-05-26"
+        ]
+      },
+      {
+        "i": "7561-31174-2012-05-13",
+        "c": "DE",
+        "n": "A House Full of Music",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Darmstadt",
+        "o": "Matthildenhöhe Darmstadt",
+        "d": [
+          "2012-05-13",
+          "2012-09-09"
         ]
       },
       {
@@ -3675,19 +3727,6 @@
         ]
       },
       {
-        "i": "7561-6464-2012-09-16",
-        "c": "CH",
-        "n": "A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Lugano",
-        "o": "Museo Cantonale d´Arte Lugano",
-        "d": [
-          "2012-09-16",
-          "2013-01-06"
-        ]
-      },
-      {
         "i": "7561-6455-2012-09-16",
         "c": "CH",
         "n": "Una finestra sul mondo - Da Dürer a Mondrian e oltre",
@@ -3695,6 +3734,19 @@
         "st": "Group",
         "ct": "Lugano",
         "o": "Museo d'Arte di Lugano",
+        "d": [
+          "2012-09-16",
+          "2013-01-06"
+        ]
+      },
+      {
+        "i": "7561-6464-2012-09-16",
+        "c": "CH",
+        "n": "A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Lugano",
+        "o": "Museo Cantonale d´Arte Lugano",
         "d": [
           "2012-09-16",
           "2013-01-06"
@@ -3908,19 +3960,6 @@
         ]
       },
       {
-        "i": "7561-6464-2012-09-16",
-        "c": "CH",
-        "n": "A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Lugano",
-        "o": "Museo Cantonale d´Arte Lugano",
-        "d": [
-          "2012-09-16",
-          "2013-01-06"
-        ]
-      },
-      {
         "i": "7561-6455-2012-09-16",
         "c": "CH",
         "n": "Una finestra sul mondo - Da Dürer a Mondrian e oltre",
@@ -3928,6 +3967,19 @@
         "st": "Group",
         "ct": "Lugano",
         "o": "Museo d'Arte di Lugano",
+        "d": [
+          "2012-09-16",
+          "2013-01-06"
+        ]
+      },
+      {
+        "i": "7561-6464-2012-09-16",
+        "c": "CH",
+        "n": "A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Lugano",
+        "o": "Museo Cantonale d´Arte Lugano",
         "d": [
           "2012-09-16",
           "2013-01-06"
@@ -4330,6 +4382,31 @@
         "c": "FR"
       },
       {
+        "i": "7561-8291-2013-10-18",
+        "c": "CH",
+        "n": "Making Space",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Lausanne",
+        "o": "Musée cantonal des Beaux-Arts",
+        "d": [
+          "2013-10-18",
+          "2014-01-05"
+        ]
+      },
+      {
+        "i": "7561-30668-2013-11-07",
+        "c": "CO",
+        "n": "La Otra Bienal De Arte 2013",
+        "st": "Group",
+        "ct": "Bogota",
+        "o": "La Otra Bienal",
+        "d": [
+          "2013-11-07",
+          "2013-11-30"
+        ]
+      },
+      {
         "i": "7561-2369-2013-11-09",
         "c": "US",
         "n": "The Way of the Shovel: Art as Archaeology",
@@ -4370,6 +4447,19 @@
       }
     ],
     "2014": [
+      {
+        "i": "7561-8291-2013-10-18",
+        "c": "CH",
+        "n": "Making Space",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Lausanne",
+        "o": "Musée cantonal des Beaux-Arts",
+        "d": [
+          "2013-10-18",
+          "2014-01-05"
+        ]
+      },
       {
         "i": "7561-2369-2013-11-09",
         "c": "US",

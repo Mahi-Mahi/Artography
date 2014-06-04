@@ -321,7 +321,7 @@
         "n": "Michel Auder",
         "t": "Autre",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "CUBITT",
         "d": [
           "2009-05-27",
@@ -360,7 +360,7 @@
         "i": "2433-22518-2010-06-20",
         "c": "US",
         "n": "The Salt Mine",
-        "t": "Galerie privée",
+        "t": "Autre",
         "st": "Group",
         "ct": "New York City, NY",
         "o": "Primetime",
@@ -409,19 +409,6 @@
         ]
       },
       {
-        "i": "2433-4453-2010-06-24",
-        "c": "US",
-        "n": "Keeping Busy: An inaccurate survey of Michel Auder",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "New York City, NY",
-        "o": "Newman Popiashvili Gallery",
-        "d": [
-          "2010-06-24",
-          "2010-08-13"
-        ]
-      },
-      {
         "i": "2433-1729-2010-06-24",
         "c": "US",
         "n": "Michel  Auder - Keeping Busy: An Inaccurate Survey",
@@ -429,6 +416,19 @@
         "st": "Solo",
         "ct": "New York City, NY",
         "o": "Zach Feuer Gallery (LFL)",
+        "d": [
+          "2010-06-24",
+          "2010-08-13"
+        ]
+      },
+      {
+        "i": "2433-4453-2010-06-24",
+        "c": "US",
+        "n": "Keeping Busy: An inaccurate survey of Michel Auder",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Newman Popiashvili Gallery",
         "d": [
           "2010-06-24",
           "2010-08-13"

@@ -135,19 +135,6 @@
     ],
     "2007": [
       {
-        "i": "21705-13056-2007-06-23",
-        "c": "CH",
-        "n": "Habitat / Variations",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Geneva",
-        "o": "Bac - Bâtiment d’art contemporain",
-        "d": [
-          "2007-06-23",
-          "2007-09-02"
-        ]
-      },
-      {
         "i": "21705-5631-2007-06-23",
         "c": "CH",
         "n": "Habitat / variations",
@@ -155,6 +142,19 @@
         "st": "Group",
         "ct": "Geneva",
         "o": "CECCH - Centre d'édition contemporaine - Genève",
+        "d": [
+          "2007-06-23",
+          "2007-09-02"
+        ]
+      },
+      {
+        "i": "21705-13056-2007-06-23",
+        "c": "CH",
+        "n": "Habitat / Variations",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Bac - Bâtiment d’art contemporain",
         "d": [
           "2007-06-23",
           "2007-09-02"
@@ -304,7 +304,7 @@
         "n": "Manifesto Marathon",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Serpentine Gallery",
         "d": [
           "2008-10-18",
@@ -325,6 +325,14 @@
       },
       {
         "i": "21705-11538-2008-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "21705-2303-2008-02-16",
+        "c": "FR"
+      },
+      {
+        "i": "21705-2303-2008-02-16",
         "c": "FR"
       },
       {
@@ -920,6 +928,14 @@
         "c": "FR"
       },
       {
+        "i": "21705-7999-2012-06-28",
+        "c": "FR"
+      },
+      {
+        "i": "21705-7999-2012-06-28",
+        "c": "FR"
+      },
+      {
         "i": "21705-18325-2012-06-28",
         "c": "DE",
         "n": "handbuch",
@@ -931,14 +947,6 @@
           "2012-06-28",
           "2012-07-14"
         ]
-      },
-      {
-        "i": "21705-7999-2012-06-28",
-        "c": "FR"
-      },
-      {
-        "i": "21705-7999-2012-06-28",
-        "c": "FR"
       }
     ],
     "2013": [
@@ -1040,6 +1048,32 @@
         ]
       },
       {
+        "i": "21705-16344-2013-11-19",
+        "c": "IT",
+        "n": "Quarantanni d",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Milan",
+        "o": "La Triennale di Milano. Design Museum",
+        "d": [
+          "2013-11-19",
+          "2014-02-02"
+        ]
+      },
+      {
+        "i": "21705-18693-2013-01-26",
+        "c": "MX",
+        "n": "Yona Friedman - Arquitectura sin construcción",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Mexico City",
+        "o": "Museo Universitario de Arte Contemporáneo - MUAC",
+        "d": [
+          "2013-01-26",
+          "2013-06-02"
+        ]
+      },
+      {
         "i": "21705-8678-2013-02-07",
         "c": "FR"
       },
@@ -1072,6 +1106,19 @@
         "o": "The Southern Alberta Art Gallery - SAAG",
         "d": [
           "2013-09-07",
+          "2014-02-02"
+        ]
+      },
+      {
+        "i": "21705-16344-2013-11-19",
+        "c": "IT",
+        "n": "Quarantanni d",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Milan",
+        "o": "La Triennale di Milano. Design Museum",
+        "d": [
+          "2013-11-19",
           "2014-02-02"
         ]
       }

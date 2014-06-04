@@ -74,6 +74,14 @@
         "c": "FR"
       },
       {
+        "i": "25054-1293-2005-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "25054-1293-2005-04-07",
+        "c": "FR"
+      },
+      {
         "i": "25054-2343-2005-04-07",
         "c": "MX",
         "n": "li still believe in miracles",
@@ -85,14 +93,6 @@
           "2005-04-07",
           "2005-05-07"
         ]
-      },
-      {
-        "i": "25054-1293-2005-04-07",
-        "c": "FR"
-      },
-      {
-        "i": "25054-1293-2005-04-07",
-        "c": "FR"
       },
       {
         "i": "25054-2589-2005-04-08",
@@ -108,6 +108,14 @@
         ]
       },
       {
+        "i": "25054-1829-2005-04-16",
+        "c": "FR"
+      },
+      {
+        "i": "25054-1829-2005-04-16",
+        "c": "FR"
+      },
+      {
         "i": "25054-3446-2005-04-16",
         "c": "NO",
         "n": "Populism",
@@ -119,14 +127,6 @@
           "2005-04-16",
           "2005-09-04"
         ]
-      },
-      {
-        "i": "25054-1829-2005-04-16",
-        "c": "FR"
-      },
-      {
-        "i": "25054-1829-2005-04-16",
-        "c": "FR"
       },
       {
         "i": "25054-2332-2005-04-30",
@@ -194,6 +194,18 @@
         ]
       },
       {
+        "i": "25054-4251-2005-09-23",
+        "c": "LT",
+        "n": "The IX Baltic Triennial of International Art - BMW",
+        "st": "Group",
+        "ct": "Vilnius",
+        "o": "The Baltic Triennial of International Art",
+        "d": [
+          "2005-09-23",
+          "2005-11-20"
+        ]
+      },
+      {
         "i": "25054-2589-2005-09-23",
         "c": "LT",
         "n": "BMW",
@@ -201,18 +213,6 @@
         "st": "Group",
         "ct": "Vilnius",
         "o": "Contemporary Art Centre (CAC)",
-        "d": [
-          "2005-09-23",
-          "2005-11-20"
-        ]
-      },
-      {
-        "i": "25054-4251-2005-09-23",
-        "c": "LT",
-        "n": "The IX Baltic Triennial of International Art - BMW",
-        "st": "Group",
-        "ct": "Vilnius",
-        "o": "The Baltic Triennial of International Art",
         "d": [
           "2005-09-23",
           "2005-11-20"
@@ -675,7 +675,7 @@
         "n": "Quantum of solace",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Ritter/Zamet",
         "d": [
           "2008-04-30",
@@ -784,7 +784,7 @@
         "n": "The Dandie’s Ball",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Ritter/Zamet",
         "d": [
           "2010-12-04",
@@ -799,7 +799,7 @@
         "n": "The Dandie’s Ball",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Ritter/Zamet",
         "d": [
           "2010-12-04",
@@ -915,6 +915,19 @@
         "c": "FR"
       },
       {
+        "i": "25054-2259-2013-10-16",
+        "c": "DE",
+        "n": "Typemotion",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2013-10-16",
+          "2014-01-12"
+        ]
+      },
+      {
         "i": "25054-11845-2013-10-20",
         "c": "FR"
       },
@@ -940,6 +953,19 @@
       {
         "i": "25054-29739-2013-10-12",
         "c": "FR"
+      },
+      {
+        "i": "25054-2259-2013-10-16",
+        "c": "DE",
+        "n": "Typemotion",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2013-10-16",
+          "2014-01-12"
+        ]
       }
     ]
   }

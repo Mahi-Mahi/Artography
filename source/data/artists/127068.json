@@ -66,7 +66,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Brno",
-        "o": "The Brno House of Arts - Central Building",
+        "o": "The Brno House of Arts",
         "d": [
           "2008-06-19",
           "2008-07-13"
@@ -298,19 +298,6 @@
         "c": "FR"
       },
       {
-        "i": "127068-14516-2011-03-11",
-        "c": "NL",
-        "n": "Hermitage, the Modernists",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Amsterdam",
-        "o": "2x2projects",
-        "d": [
-          "2011-03-11",
-          "2011-04-29"
-        ]
-      },
-      {
         "i": "127068-78-2011-03-11",
         "c": "NL",
         "n": "laurence aëgerter - Hermitage, The Modernists",
@@ -321,6 +308,19 @@
         "d": [
           "2011-03-11",
           "2011-04-16"
+        ]
+      },
+      {
+        "i": "127068-14516-2011-03-11",
+        "c": "NL",
+        "n": "Hermitage, the Modernists",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Amsterdam",
+        "o": "2x2projects",
+        "d": [
+          "2011-03-11",
+          "2011-04-29"
         ]
       },
       {

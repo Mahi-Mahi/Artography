@@ -79,19 +79,6 @@
         "c": "FR"
       },
       {
-        "i": "16651-12130-2010-11-07",
-        "c": "BE",
-        "n": "30/30 Image Archive Project 2",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "CCNOA - Center for Contemporary Non-Objective Art",
-        "d": [
-          "2010-11-07",
-          "2010-11-21"
-        ]
-      },
-      {
         "i": "16651-12127-2010-11-07",
         "c": "NL",
         "n": "30/30 Image Archive Project 2",
@@ -99,6 +86,19 @@
         "st": "Group",
         "ct": "Amsterdam",
         "o": "PS - Project Space",
+        "d": [
+          "2010-11-07",
+          "2010-11-21"
+        ]
+      },
+      {
+        "i": "16651-12130-2010-11-07",
+        "c": "BE",
+        "n": "30/30 Image Archive Project 2",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "CCNOA - Center for Contemporary Non-Objective Art",
         "d": [
           "2010-11-07",
           "2010-11-21"
@@ -144,6 +144,29 @@
         "c": "FR"
       }
     ],
+    "2012": [
+      {
+        "i": "16651-29391-2012-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "16651-29391-2012-04-29",
+        "c": "FR"
+      },
+      {
+        "i": "16651-17610-2012-01-20",
+        "c": "CH",
+        "n": "Guillaume Millet",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Zurich",
+        "o": "Galerie Bernard Jordan - Zürich",
+        "d": [
+          "2012-01-20",
+          "2012-03-17"
+        ]
+      }
+    ],
     "2013": [
       {
         "i": "16651-29576-2013-07-05",
@@ -184,21 +207,6 @@
         "d": [
           "2008-09-25",
           "2008-10-25"
-        ]
-      }
-    ],
-    "2012": [
-      {
-        "i": "16651-17610-2012-01-20",
-        "c": "CH",
-        "n": "Guillaume Millet",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Zurich",
-        "o": "Galerie Bernard Jordan - Zürich",
-        "d": [
-          "2012-01-20",
-          "2012-03-17"
         ]
       }
     ]

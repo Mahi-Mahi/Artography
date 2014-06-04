@@ -53,14 +53,6 @@
         "c": "FR"
       },
       {
-        "i": "2066-2303-2005-01-17",
-        "c": "FR"
-      },
-      {
-        "i": "2066-2303-2005-01-17",
-        "c": "FR"
-      },
-      {
         "i": "2066-2459-2005-01-26",
         "c": "US",
         "n": "Blind At The Museum",
@@ -74,19 +66,6 @@
         ]
       },
       {
-        "i": "2066-1289-2005-01-29",
-        "c": "NL",
-        "n": "On Patrol",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Amsterdam",
-        "o": "de Appel arts centre",
-        "d": [
-          "2005-01-29",
-          "2005-03-20"
-        ]
-      },
-      {
         "i": "2066-2424-2005-01-29",
         "c": "SE",
         "n": "Whatever happened to social democracy?",
@@ -97,6 +76,19 @@
         "d": [
           "2005-01-29",
           "2005-04-10"
+        ]
+      },
+      {
+        "i": "2066-1289-2005-01-29",
+        "c": "NL",
+        "n": "On Patrol",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Amsterdam",
+        "o": "de Appel arts centre",
+        "d": [
+          "2005-01-29",
+          "2005-03-20"
         ]
       },
       {
@@ -196,7 +188,7 @@
         "n": "Spoilt Rotten: Young Curators 2005",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Newtown, Powys (Wales)",
+        "ct": "Newtown, Powys, Wales",
         "o": "Oriel Davies Gallery",
         "d": [
           "2005-06-25",
@@ -238,7 +230,7 @@
         "n": "Balance and Power - Performance and Surveillance in Video Art",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Champaign, IL\t",
+        "ct": "Champaign, IL",
         "o": "Krannert Art Museum",
         "d": [
           "2005-10-22",
@@ -412,6 +404,19 @@
         ]
       },
       {
+        "i": "2066-8566-2008-11-22",
+        "c": "GB",
+        "n": "The Cover of a Book is the Beginning of a Journey",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bristol",
+        "o": "Arnolfini",
+        "d": [
+          "2008-11-22",
+          "2009-01-18"
+        ]
+      },
+      {
         "i": "2066-5306-2008-11-22",
         "c": "IL",
         "n": "Insomnia",
@@ -422,19 +427,6 @@
         "d": [
           "2008-11-22",
           "2009-03-07"
-        ]
-      },
-      {
-        "i": "2066-8566-2008-11-22",
-        "c": "GB",
-        "n": "The Cover of a Book is the Beginning of a Journey",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Bristol (England)",
-        "o": "Arnolfini",
-        "d": [
-          "2008-11-22",
-          "2009-01-18"
         ]
       },
       {
@@ -495,7 +487,7 @@
         "n": "Damaged Romanticism: A Mirror of Modern Emotion",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Southampton, NY\t",
+        "ct": "Southampton, NY",
         "o": "Parrish Art Museum",
         "d": [
           "2009-02-08",
@@ -547,7 +539,7 @@
         "n": "Mythologies",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Haunch of Venison - London",
         "d": [
           "2009-03-12",
@@ -835,7 +827,7 @@
         "n": "Sophie Calle: Talking to Strangers",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Whitechapel Art Gallery",
         "d": [
           "2009-10-16",
@@ -897,19 +889,6 @@
         ]
       },
       {
-        "i": "2066-3796-2006-01-08",
-        "c": "JP",
-        "n": "10th Anniversary Show: Vision II: 1995-2005 Collection Of The Museum",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Toyota Aichi",
-        "o": "Toyota Municipal Museum of Art",
-        "d": [
-          "2006-01-08",
-          "2006-04-02"
-        ]
-      },
-      {
         "i": "2066-2188-2006-01-08",
         "c": "DE",
         "n": "Die 90er - Vom Künstlerbuch zur CD-ROM",
@@ -920,6 +899,19 @@
         "d": [
           "2006-01-08",
           "2006-03-19"
+        ]
+      },
+      {
+        "i": "2066-3796-2006-01-08",
+        "c": "JP",
+        "n": "10th Anniversary Show: Vision II: 1995-2005 Collection Of The Museum",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Toyota Aichi",
+        "o": "Toyota Municipal Museum of Art",
+        "d": [
+          "2006-01-08",
+          "2006-04-02"
         ]
       },
       {
@@ -1077,7 +1069,7 @@
         "n": "DEFINING THE CONTEMPORARY",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Whitechapel Art Gallery",
         "d": [
           "2006-10-01",
@@ -1139,7 +1131,7 @@
         "n": "A Secret Service - Art, Compulsion, Concealment",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bexhill on Sea (England)",
+        "ct": "Bexhill on Sea",
         "o": "De La Warr Pavilion",
         "d": [
           "2007-01-27",
@@ -1266,6 +1258,14 @@
         "c": "FR"
       },
       {
+        "i": "2066-2718-2007-06-29",
+        "c": "FR"
+      },
+      {
+        "i": "2066-2718-2007-06-29",
+        "c": "FR"
+      },
+      {
         "i": "2066-1535-2007-06-29",
         "c": "US",
         "n": "Role Exchange",
@@ -1277,14 +1277,6 @@
           "2007-06-29",
           "2007-08-03"
         ]
-      },
-      {
-        "i": "2066-2718-2007-06-29",
-        "c": "FR"
-      },
-      {
-        "i": "2066-2718-2007-06-29",
-        "c": "FR"
       },
       {
         "i": "2066-4975-2007-07-07",
@@ -1456,19 +1448,6 @@
         ]
       },
       {
-        "i": "2066-17682-2008-01-12",
-        "c": "CA",
-        "n": "Art Metropole: The Top 100",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Halifax, NS",
-        "o": "MSVU Art Gallery",
-        "d": [
-          "2008-01-12",
-          "2008-03-22"
-        ]
-      },
-      {
         "i": "2066-7465-2008-01-12",
         "c": "DE",
         "n": "Lügen.nirgends",
@@ -1479,6 +1458,19 @@
         "d": [
           "2008-01-12",
           "2008-03-30"
+        ]
+      },
+      {
+        "i": "2066-17682-2008-01-12",
+        "c": "CA",
+        "n": "Art Metropole: The Top 100",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Halifax, NS",
+        "o": "MSVU Art Gallery",
+        "d": [
+          "2008-01-12",
+          "2008-03-22"
         ]
       },
       {
@@ -1637,7 +1629,7 @@
         "n": "Ales ist in Ordnung",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Auto Italia South East",
         "d": [
           "2008-06-20",
@@ -1679,19 +1671,6 @@
         ]
       },
       {
-        "i": "2066-8659-2008-09-14",
-        "c": "DE",
-        "n": "Liebe, Love, Paare: Von Munch bis Warhol",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Ulm",
-        "o": "Ulmer Museum",
-        "d": [
-          "2008-09-14",
-          "2008-11-23"
-        ]
-      },
-      {
         "i": "2066-9998-2008-09-14",
         "c": "US",
         "n": "Street Art, Street Life",
@@ -1702,6 +1681,19 @@
         "d": [
           "2008-09-14",
           "2009-01-25"
+        ]
+      },
+      {
+        "i": "2066-8659-2008-09-14",
+        "c": "DE",
+        "n": "Liebe, Love, Paare: Von Munch bis Warhol",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Ulm",
+        "o": "Ulmer Museum",
+        "d": [
+          "2008-09-14",
+          "2008-11-23"
         ]
       },
       {
@@ -1803,6 +1795,19 @@
         "c": "FR"
       },
       {
+        "i": "2066-8566-2008-11-22",
+        "c": "GB",
+        "n": "The Cover of a Book is the Beginning of a Journey",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bristol",
+        "o": "Arnolfini",
+        "d": [
+          "2008-11-22",
+          "2009-01-18"
+        ]
+      },
+      {
         "i": "2066-5306-2008-11-22",
         "c": "IL",
         "n": "Insomnia",
@@ -1813,19 +1818,6 @@
         "d": [
           "2008-11-22",
           "2009-03-07"
-        ]
-      },
-      {
-        "i": "2066-8566-2008-11-22",
-        "c": "GB",
-        "n": "The Cover of a Book is the Beginning of a Journey",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Bristol (England)",
-        "o": "Arnolfini",
-        "d": [
-          "2008-11-22",
-          "2009-01-18"
         ]
       },
       {
@@ -2409,19 +2401,6 @@
         ]
       },
       {
-        "i": "2066-3796-2010-04-10",
-        "c": "JP",
-        "n": "Collection Exhibition First Term",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Toyota Aichi",
-        "o": "Toyota Municipal Museum of Art",
-        "d": [
-          "2010-04-10",
-          "2010-06-13"
-        ]
-      },
-      {
         "i": "2066-2224-2010-04-10",
         "c": "US",
         "n": "The Talent Show",
@@ -2432,6 +2411,19 @@
         "d": [
           "2010-04-10",
           "2010-08-15"
+        ]
+      },
+      {
+        "i": "2066-3796-2010-04-10",
+        "c": "JP",
+        "n": "Collection Exhibition First Term",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Toyota Aichi",
+        "o": "Toyota Municipal Museum of Art",
+        "d": [
+          "2010-04-10",
+          "2010-06-13"
         ]
       },
       {
@@ -2547,19 +2539,6 @@
         ]
       },
       {
-        "i": "2066-2379-2010-06-25",
-        "c": "US",
-        "n": "Calder to Warhol: Introducing the Fisher Collection",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "San Francisco, CA",
-        "o": "San Francisco Museum of Modern Art - SFMOMA",
-        "d": [
-          "2010-06-25",
-          "2010-09-19"
-        ]
-      },
-      {
         "i": "2066-2097-2010-06-25",
         "c": "AT",
         "n": "Street and Studio - Von Basquiat bis Séripop",
@@ -2570,6 +2549,19 @@
         "d": [
           "2010-06-25",
           "2010-10-10"
+        ]
+      },
+      {
+        "i": "2066-2379-2010-06-25",
+        "c": "US",
+        "n": "Calder to Warhol: Introducing the Fisher Collection",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "San Francisco, CA",
+        "o": "San Francisco Museum of Modern Art - SFMOMA",
+        "d": [
+          "2010-06-25",
+          "2010-09-19"
         ]
       },
       {
@@ -2630,7 +2622,7 @@
         "n": "Memory",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Westport, CT\t",
+        "ct": "Westport, CT",
         "o": "Westport Arts Center",
         "d": [
           "2010-09-24",
@@ -2669,7 +2661,7 @@
         "n": "Sophie Calle: Talking to Strangers",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Whitechapel Art Gallery",
         "d": [
           "2009-10-16",
@@ -2865,7 +2857,7 @@
         "n": "The Artists’ Postcard Show",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Spike Island",
         "d": [
           "2012-04-06",
@@ -2886,6 +2878,14 @@
         ]
       },
       {
+        "i": "2066-8285-2012-05-11",
+        "c": "FR"
+      },
+      {
+        "i": "2066-8285-2012-05-11",
+        "c": "FR"
+      },
+      {
         "i": "2066-3734-2012-05-11",
         "c": "CU",
         "n": "Una Mirada Múltiple: Selecciones de la Colección Ella Fontanals-Cisneros",
@@ -2897,14 +2897,6 @@
           "2012-05-11",
           "2012-08-20"
         ]
-      },
-      {
-        "i": "2066-8285-2012-05-11",
-        "c": "FR"
-      },
-      {
-        "i": "2066-8285-2012-05-11",
-        "c": "FR"
       },
       {
         "i": "2066-2199-2012-05-12",
@@ -2990,7 +2982,7 @@
         "n": "Thresholds",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Liverpool (England)",
+        "ct": "Liverpool",
         "o": "Tate Liverpool",
         "d": [
           "2012-09-15",
@@ -3007,6 +2999,19 @@
         "d": [
           "2012-10-02",
           "2013-03-31"
+        ]
+      },
+      {
+        "i": "2066-8693-2012-10-11",
+        "c": "AU",
+        "n": "Ourselves",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Melbourne, VIC",
+        "o": "ACCA - Australian Centre for Contemporary Art",
+        "d": [
+          "2012-10-11",
+          "2012-11-25"
         ]
       },
       {
@@ -3036,16 +3041,16 @@
         ]
       },
       {
-        "i": "2066-8693-2012-10-11",
-        "c": "AU",
-        "n": "Ourselves",
+        "i": "2066-2685-2012-10-11",
+        "c": "US",
+        "n": "Elles: Pompidou",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Melbourne, VIC",
-        "o": "ACCA - Australian Centre for Contemporary Art",
+        "ct": "Seattle, WA",
+        "o": "Seattle Art Museum",
         "d": [
           "2012-10-11",
-          "2012-11-25"
+          "2013-01-13"
         ]
       },
       {
@@ -3062,19 +3067,6 @@
         ]
       },
       {
-        "i": "2066-2247-2012-11-15",
-        "c": "GB",
-        "n": "This Will Have Been: Art, Love & Politics in the 1980s",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "London (England)",
-        "o": "ICA - Institute of Contemporary Arts London",
-        "d": [
-          "2012-11-15",
-          "2013-03-03"
-        ]
-      },
-      {
         "i": "2066-2368-2012-11-15",
         "c": "US",
         "n": "This Will Have Been: Art, Love & Politics in the 1980s",
@@ -3082,6 +3074,19 @@
         "st": "Group",
         "ct": "Boston, MA",
         "o": "ICA - Institute of Contemporary ArtBoston",
+        "d": [
+          "2012-11-15",
+          "2013-03-03"
+        ]
+      },
+      {
+        "i": "2066-2247-2012-11-15",
+        "c": "GB",
+        "n": "This Will Have Been: Art, Love & Politics in the 1980s",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "London",
+        "o": "ICA - Institute of Contemporary Arts London",
         "d": [
           "2012-11-15",
           "2013-03-03"
@@ -3168,7 +3173,7 @@
         "n": "Thresholds",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Liverpool (England)",
+        "ct": "Liverpool",
         "o": "Tate Liverpool",
         "d": [
           "2012-09-15",
@@ -3214,6 +3219,19 @@
         ]
       },
       {
+        "i": "2066-2685-2012-10-11",
+        "c": "US",
+        "n": "Elles: Pompidou",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Seattle, WA",
+        "o": "Seattle Art Museum",
+        "d": [
+          "2012-10-11",
+          "2013-01-13"
+        ]
+      },
+      {
         "i": "2066-2555-2012-11-01",
         "c": "DE",
         "n": "Privat",
@@ -3227,19 +3245,6 @@
         ]
       },
       {
-        "i": "2066-2247-2012-11-15",
-        "c": "GB",
-        "n": "This Will Have Been: Art, Love & Politics in the 1980s",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "London (England)",
-        "o": "ICA - Institute of Contemporary Arts London",
-        "d": [
-          "2012-11-15",
-          "2013-03-03"
-        ]
-      },
-      {
         "i": "2066-2368-2012-11-15",
         "c": "US",
         "n": "This Will Have Been: Art, Love & Politics in the 1980s",
@@ -3247,6 +3252,19 @@
         "st": "Group",
         "ct": "Boston, MA",
         "o": "ICA - Institute of Contemporary ArtBoston",
+        "d": [
+          "2012-11-15",
+          "2013-03-03"
+        ]
+      },
+      {
+        "i": "2066-2247-2012-11-15",
+        "c": "GB",
+        "n": "This Will Have Been: Art, Love & Politics in the 1980s",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "London",
+        "o": "ICA - Institute of Contemporary Arts London",
         "d": [
           "2012-11-15",
           "2013-03-03"
@@ -3321,12 +3339,38 @@
         "c": "FR"
       },
       {
+        "i": "2066-8933-2013-03-29",
+        "c": "DE",
+        "n": "From Page to Space / Vom Blatt zum Raum",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Kaufbeuren",
+        "o": "Kunsthaus Kaufbeuren",
+        "d": [
+          "2013-03-29",
+          "2013-06-23"
+        ]
+      },
+      {
         "i": "2066-18800-2013-04-07",
         "c": "FR"
       },
       {
         "i": "2066-18800-2013-04-07",
         "c": "FR"
+      },
+      {
+        "i": "2066-21495-2013-04-07",
+        "c": "CZ",
+        "n": "IMAGES FOR IMAGES, Artists for Tichy &#8211; Tichy for Artists",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Kutná Hora",
+        "o": "GASK - Galerie St&#345;edo&#269;eského kraje",
+        "d": [
+          "2013-04-07",
+          "2013-07-31"
+        ]
       },
       {
         "i": "2066-26843-2013-04-18",
@@ -3368,12 +3412,25 @@
         ]
       },
       {
+        "i": "2066-10360-2013-05-24",
+        "c": "BR",
+        "n": "Elles: Mulheres Artistas Na Coleção Do Centro Pompidou",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rio de Janeiro, RJ",
+        "o": "Centro Cultural Banco do Brasil - CCBB - Rio de Janeiro",
+        "d": [
+          "2013-05-24",
+          "2013-07-14"
+        ]
+      },
+      {
         "i": "2066-6120-2013-06-01",
         "c": "GB",
         "n": "Walk On - 40 years of art walking from Richard Long to Janet Cardiff",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Sunderland (England)",
+        "ct": "Sunderland",
         "o": "Northern Gallery for Contemporary Art",
         "d": [
           "2013-06-01",
@@ -3549,6 +3606,19 @@
           "2013-03-20",
           "2013-06-30"
         ]
+      },
+      {
+        "i": "2066-2456-2013-10-23",
+        "c": "US",
+        "n": "Sophie Calle - Last Seen",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Boston, MA",
+        "o": "Isabella Stewart Gardner Museum",
+        "d": [
+          "2013-10-23",
+          "2014-03-03"
+        ]
       }
     ],
     "2014": [
@@ -3623,6 +3693,19 @@
         "d": [
           "2013-11-16",
           "2014-02-16"
+        ]
+      },
+      {
+        "i": "2066-2456-2013-10-23",
+        "c": "US",
+        "n": "Sophie Calle - Last Seen",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Boston, MA",
+        "o": "Isabella Stewart Gardner Museum",
+        "d": [
+          "2013-10-23",
+          "2014-03-03"
         ]
       }
     ]

@@ -99,7 +99,7 @@
         "n": "Welcome to My World",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Alexandre Pollazzon Ltd",
         "d": [
           "2007-07-12",
@@ -455,7 +455,7 @@
         "n": "COMMA 29 - Julien Bismuth",
         "t": "Autre",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Bloomberg Space",
         "d": [
           "2010-10-13",
@@ -838,6 +838,19 @@
       {
         "i": "41778-1953-2013-05-17",
         "c": "FR"
+      },
+      {
+        "i": "41778-4196-2013-09-07",
+        "c": "AT",
+        "n": "Julien Bismuth - Smoke Screen",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Vienna",
+        "o": "Galerie Emanuel Layr",
+        "d": [
+          "2013-09-07",
+          "2013-10-05"
+        ]
       }
     ]
   }

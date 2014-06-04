@@ -94,6 +94,14 @@
         ]
       },
       {
+        "i": "2119-8522-2006-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "2119-8522-2006-04-07",
+        "c": "FR"
+      },
+      {
         "i": "2119-814-2006-04-07",
         "c": "DE",
         "n": "Sexy Mythos - Selbst- und Fremdbilder von KünstlerInnen",
@@ -105,14 +113,6 @@
           "2006-04-07",
           "2006-05-21"
         ]
-      },
-      {
-        "i": "2119-8522-2006-04-07",
-        "c": "FR"
-      },
-      {
-        "i": "2119-8522-2006-04-07",
-        "c": "FR"
       },
       {
         "i": "2119-12976-2006-06-23",
@@ -135,19 +135,6 @@
         "c": "FR"
       },
       {
-        "i": "2119-20517-2006-07-19",
-        "c": "DE",
-        "n": "SAMMELN UND ENTDECKEN",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Karlsruhe",
-        "o": "Galerie Schrade - Karlsruhe",
-        "d": [
-          "2006-07-19",
-          "2006-09-16"
-        ]
-      },
-      {
         "i": "2119-881-2006-07-19",
         "c": "DE",
         "n": "Sammeln und Entdecken",
@@ -155,6 +142,19 @@
         "st": "Group",
         "ct": "Karlsruhe",
         "o": "Galerie Schrade & Blashofer",
+        "d": [
+          "2006-07-19",
+          "2006-09-16"
+        ]
+      },
+      {
+        "i": "2119-20517-2006-07-19",
+        "c": "DE",
+        "n": "SAMMELN UND ENTDECKEN",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "Galerie Schrade - Karlsruhe",
         "d": [
           "2006-07-19",
           "2006-09-16"
@@ -342,7 +342,7 @@
         "n": "Die zweite Avantgarde",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Halle (Saale)",
+        "ct": "Halle, Saale",
         "o": "Stiftung Moritzburg - Kunstmuseum des Landes Sachsen-Anhalt",
         "d": [
           "2007-07-08",

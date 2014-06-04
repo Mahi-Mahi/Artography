@@ -2,8 +2,8 @@
 "use strict";
 
 define([], function() {
-	return ['$scope', '$rootScope', '$location', '$route', 'dataService', 'langService',
-		function($scope, $rootScope, $location, $route, dataService, langService) {
+	return ['$scope', '$rootScope', '$location', '$route', 'dataService', 'langService', 'formatService',
+		function($scope, $rootScope, $location, $route, dataService, langService, formatService) {
 
 			jQuery('body').addClass('home');
 
@@ -75,6 +75,23 @@ define([], function() {
 				var text = '<strong>' + period + '</strong> <br /><strong>' + galleries + '  ' + verb + '<br />' + (dataService.data.today.fairs.galleries.length ? ' ' + ($rootScope.lang === 'fr' ? 'dans' : 'in') + ' <strong>' + countries + '.</strong>' : '') + '';
 
 				jQuery('.home-galerie h2').html(text);
+
+				// Actus
+
+				console.log(dataService.data.today);
+				if (dataService.data.today.events.length) {
+					var the_event = dataService.data.today.events[Math.ceil(Math.random() * dataService.data.today.events.length)];
+					if (the_event.a) {
+						text = '<li class="news-block-item"><a href="/arts-visuels/artistes/' + the_event.a + '/"><strong><span>' + the_event.an + '</span>' + the_event.n + '</strong> @' + the_event.ct + ' -  ' + the_event.c + ' / ' + (the_event.d ? (formatService.formatLongDate(the_event.d[0]) + (the_event.d[1] ? (' - ' + formatService.formatLongDate(the_event.d[1])) : '')) : '') + ' </a></li>';
+						jQuery('.news-block ul').html(text);
+						jQuery('.news-block').show();
+					} else {
+						jQuery('.news-block').hide();
+					}
+				} else {
+					jQuery('.news-block').hide();
+				}
+
 			}
 
 			updateStatus();

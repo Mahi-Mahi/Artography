@@ -130,7 +130,7 @@
         "n": "Grange Garden Sculpture Commission",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Galerie8",
         "d": [
           "2011-03-11",
@@ -179,7 +179,7 @@
         "n": "Paris street art!",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The French Art Studio",
         "d": [
           "2012-10-03",
@@ -187,11 +187,19 @@
         ]
       },
       {
+        "i": "140289-30709-2012-11-28",
+        "c": "FR"
+      },
+      {
         "i": "140289-4706-2012-12-18",
         "c": "FR"
       }
     ],
     "2013": [
+      {
+        "i": "140289-30709-2012-11-28",
+        "c": "FR"
+      },
       {
         "i": "140289-4706-2012-12-18",
         "c": "FR"

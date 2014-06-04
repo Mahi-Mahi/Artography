@@ -84,19 +84,6 @@
         ]
       },
       {
-        "i": "6486-2606-2005-03-17",
-        "c": "RU",
-        "n": "Mark Riboud",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Moscow",
-        "o": "Moscow House of Photography",
-        "d": [
-          "2005-03-17",
-          "2005-04-10"
-        ]
-      },
-      {
         "i": "6486-5513-2005-04-05",
         "c": "FR"
       },
@@ -397,7 +384,7 @@
         "n": "Marc Riboud",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "HackelBury Fine Art Limited",
         "d": [
           "2009-01-16",
@@ -463,11 +450,24 @@
         "n": "Faces of our Times",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Atlas Gallery",
         "d": [
           "2010-04-29",
           "2010-05-29"
+        ]
+      },
+      {
+        "i": "6486-19952-2010-05-30",
+        "c": "DE",
+        "n": "Magnum's First",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Saarlouis",
+        "o": "Museum Haus Ludwig",
+        "d": [
+          "2010-05-30",
+          "2010-09-05"
         ]
       },
       {
@@ -535,26 +535,13 @@
         ]
       },
       {
-        "i": "6486-2606-2010-12-11",
-        "c": "RU",
-        "n": "Alexander Budberg’s Photo Album",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Moscow",
-        "o": "Moscow House of Photography",
-        "d": [
-          "2010-12-11",
-          "2011-01-20"
-        ]
-      },
-      {
         "i": "6486-22526-2010-04-23",
         "c": "CN",
         "n": "The Instinctive Moment&#65306;A Marc Riboud Retrospective",
         "t": "Institution publique",
         "st": "Solo",
         "ct": "Beijing",
-        "o": "CAFA Art Museum - China Central Academy of Fine Arts",
+        "o": "CAFA Art Museum",
         "d": [
           "2010-04-23",
           "2010-06-06"
@@ -626,19 +613,6 @@
         ]
       },
       {
-        "i": "6486-2606-2010-12-11",
-        "c": "RU",
-        "n": "Alexander Budberg’s Photo Album",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Moscow",
-        "o": "Moscow House of Photography",
-        "d": [
-          "2010-12-11",
-          "2011-01-20"
-        ]
-      },
-      {
         "i": "6486-19170-2011-03-04",
         "c": "FR"
       },
@@ -673,7 +647,7 @@
         "n": "Moments of our Time",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Atlas Gallery",
         "d": [
           "2011-04-21",
@@ -698,7 +672,7 @@
         "n": "Salon Style",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Atlas Gallery",
         "d": [
           "2011-12-07",
@@ -788,7 +762,7 @@
         "n": "Salon Style",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Atlas Gallery",
         "d": [
           "2011-12-07",
@@ -895,25 +869,25 @@
         ]
       },
       {
-        "i": "6486-5513-2012-05-10",
-        "c": "FR"
-      },
-      {
-        "i": "6486-5513-2012-05-10",
-        "c": "FR"
-      },
-      {
         "i": "6486-30132-2012-05-10",
         "c": "FR"
       },
       {
         "i": "6486-30132-2012-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "6486-5513-2012-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "6486-5513-2012-05-10",
         "c": "FR"
       },
       {
         "i": "6486-2142-2012-12-15",
         "c": "US",
-        "n": "The Eye of the Traveler",
+        "n": "Marc Riboud The Eye of the Traveler",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "Santa Monica, CA",
@@ -926,7 +900,7 @@
       {
         "i": "6486-2142-2012-12-15",
         "c": "US",
-        "n": "Marc Riboud The Eye of the Traveler",
+        "n": "The Eye of the Traveler",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "Santa Monica, CA",
@@ -1027,7 +1001,7 @@
       {
         "i": "6486-2142-2012-12-15",
         "c": "US",
-        "n": "The Eye of the Traveler",
+        "n": "Marc Riboud The Eye of the Traveler",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "Santa Monica, CA",
@@ -1040,7 +1014,7 @@
       {
         "i": "6486-2142-2012-12-15",
         "c": "US",
-        "n": "Marc Riboud The Eye of the Traveler",
+        "n": "The Eye of the Traveler",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "Santa Monica, CA",

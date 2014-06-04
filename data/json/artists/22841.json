@@ -84,7 +84,7 @@
         "n": "A Life Full of Holes: The Strait Project",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Coventry (England)",
+        "ct": "Coventry",
         "o": "Mead Gallery - Warwick Arts Centre",
         "d": [
           "2005-09-26",
@@ -112,7 +112,7 @@
         "n": "Deutsche Börse Photography Prize 2006",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Photographers' Gallery",
         "d": [
           "2006-02-17",
@@ -207,7 +207,7 @@
         "n": "the living is easy",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Flowers Galleries - Kingsland Road",
         "d": [
           "2006-08-11",
@@ -338,7 +338,7 @@
         "n": "Uneven Geographies - Uneven Geographies",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Nottingham (England)",
+        "ct": "Nottingham",
         "o": "Nottingham Contemporary",
         "d": [
           "2010-05-09",
@@ -447,7 +447,7 @@
         "i": "22841-25199-2010-11-05",
         "c": "AT",
         "n": "Living Across: Spaces of Migration",
-        "t": "Autre",
+        "t": "Institution publique",
         "st": "Group",
         "ct": "Vienna",
         "o": "Kupferstichkabinett der Akademie der bildenden Künste Wien",
@@ -486,7 +486,7 @@
         "i": "22841-8641-2010-01-15",
         "c": "MA",
         "n": "Une proposition modeste",
-        "t": "Galerie privée",
+        "t": "Autre",
         "st": "Solo",
         "ct": "Rabat",
         "o": "L’appartement 22",
@@ -571,7 +571,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Geneva",
-        "o": "Centre d´Art Contemporain Geneve",
+        "o": "Centre d'Art Contemporain Geneve",
         "d": [
           "2007-02-24",
           "2007-04-22"
@@ -608,7 +608,7 @@
         "n": "Port City: On Mobility and Exchange",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Arnolfini",
         "d": [
           "2007-09-15",
@@ -647,7 +647,7 @@
         "n": "Port City",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Southampton (England)",
+        "ct": "Southampton",
         "o": "John Hansard Gallery",
         "d": [
           "2007-11-27",
@@ -704,7 +704,7 @@
         "n": "Port City",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Southampton (England)",
+        "ct": "Southampton",
         "o": "John Hansard Gallery",
         "d": [
           "2007-11-27",
@@ -769,7 +769,7 @@
         "n": "port city",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Liverpool (England)",
+        "ct": "Liverpool",
         "o": "A Foundation - Liverpool",
         "d": [
           "2008-06-25",
@@ -782,7 +782,7 @@
         "n": "Port City",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Liverpool (England)",
+        "ct": "Liverpool",
         "o": "A Foundation - Liverpool",
         "d": [
           "2008-06-26",
@@ -912,7 +912,7 @@
         "n": "Transmission Interrupted",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Oxford (England)",
+        "ct": "Oxford",
         "o": "Modern Art Oxford",
         "d": [
           "2009-04-18",
@@ -1272,6 +1272,19 @@
         ]
       },
       {
+        "i": "22841-30837-2012-03-15",
+        "c": "US",
+        "n": "African Photography: For Whose Eyes?",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Schenectady, NY",
+        "o": "Mandeville Gallery",
+        "d": [
+          "2012-03-15",
+          "2012-05-13"
+        ]
+      },
+      {
         "i": "22841-2583-2012-04-13",
         "c": "US",
         "n": "Survival Techniques: Narratives of Resistance",
@@ -1291,6 +1304,19 @@
       {
         "i": "22841-26765-2012-04-20",
         "c": "FR"
+      },
+      {
+        "i": "22841-9150-2012-06-02",
+        "c": "BE",
+        "n": "Mind the System, Find the Gap",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Hasselt",
+        "o": "Z33",
+        "d": [
+          "2012-06-02",
+          "2012-09-30"
+        ]
       },
       {
         "i": "22841-3143-2012-08-24",
@@ -1319,19 +1345,6 @@
         ]
       },
       {
-        "i": "22841-2379-2012-09-15",
-        "c": "US",
-        "n": "Six Lines Of Flight",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "San Francisco, CA",
-        "o": "San Francisco Museum of Modern Art - SFMOMA",
-        "d": [
-          "2012-09-15",
-          "2012-12-31"
-        ]
-      },
-      {
         "i": "22841-3158-2012-09-15",
         "c": "CH",
         "n": "Schlagwörter und Sprachgewalten",
@@ -1345,8 +1358,34 @@
         ]
       },
       {
+        "i": "22841-2379-2012-09-15",
+        "c": "US",
+        "n": "Six Lines Of Flight",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "San Francisco, CA",
+        "o": "San Francisco Museum of Modern Art - SFMOMA",
+        "d": [
+          "2012-09-15",
+          "2012-12-31"
+        ]
+      },
+      {
         "i": "22841-2219-2012-10-17",
         "c": "FR"
+      },
+      {
+        "i": "22841-2412-2012-11-13",
+        "c": "GB",
+        "n": "Light from the Middle East: About the Exhibition",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "London",
+        "o": "Victoria & Albert Museum - V&A",
+        "d": [
+          "2012-11-13",
+          "2013-04-07"
+        ]
       },
       {
         "i": "22841-8281-2012-12-09",
@@ -1358,7 +1397,7 @@
         "n": "No Borders",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Arnolfini",
         "d": [
           "2012-12-15",
@@ -1384,11 +1423,24 @@
         "n": "Riffs. Deutsche Bank´s Artist Of The Year 2011",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Birmingham (England)",
+        "ct": "Birmingham",
         "o": "Ikon Gallery",
         "d": [
           "2012-05-16",
           "2012-07-08"
+        ]
+      },
+      {
+        "i": "22841-31043-2012-05-23",
+        "c": "GB",
+        "n": "Yto Barrada - Mobilier Urbain",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "London",
+        "o": "Pace London",
+        "d": [
+          "2012-05-23",
+          "2012-07-13"
         ]
       },
       {
@@ -1424,6 +1476,19 @@
         "c": "FR"
       },
       {
+        "i": "22841-2412-2012-11-13",
+        "c": "GB",
+        "n": "Light from the Middle East: About the Exhibition",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "London",
+        "o": "Victoria & Albert Museum - V&A",
+        "d": [
+          "2012-11-13",
+          "2013-04-07"
+        ]
+      },
+      {
         "i": "22841-8281-2012-12-09",
         "c": "FR"
       },
@@ -1433,7 +1498,7 @@
         "n": "No Borders",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Arnolfini",
         "d": [
           "2012-12-15",
@@ -1485,6 +1550,19 @@
         "d": [
           "2013-04-19",
           "2013-09-15"
+        ]
+      },
+      {
+        "i": "22841-2293-2013-04-20",
+        "c": "DE",
+        "n": "Stadt in Sicht - Werke aus der Sammlung Deutsche Bank. Von Feininger bis Gursky",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2013-04-20",
+          "2013-08-04"
         ]
       },
       {
@@ -1576,12 +1654,20 @@
         "n": "The Spirit of Utopia",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Whitechapel Art Gallery",
         "d": [
           "2013-07-04",
           "2013-09-05"
         ]
+      },
+      {
+        "i": "22841-8554-2013-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "22841-8554-2013-09-14",
+        "c": "FR"
       },
       {
         "i": "22841-3933-2013-09-14",
@@ -1594,14 +1680,6 @@
           "2013-09-14",
           "2013-10-20"
         ]
-      },
-      {
-        "i": "22841-8554-2013-09-14",
-        "c": "FR"
-      },
-      {
-        "i": "22841-8554-2013-09-14",
-        "c": "FR"
       },
       {
         "i": "22841-8997-2013-10-05",

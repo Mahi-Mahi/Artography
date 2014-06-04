@@ -50,7 +50,7 @@
         "n": "Wintry",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Monika Bobinska (former Lounge Gallery)",
         "d": [
           "2007-11-02",
@@ -86,7 +86,7 @@
         "n": "I Am By Birth A Genevese - Group Exhibition",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Vegas Gallery",
         "d": [
           "2009-06-18",
@@ -99,7 +99,7 @@
         "n": "A Work A Day",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "MOT International",
         "d": [
           "2009-06-27",
@@ -112,7 +112,7 @@
         "n": "East International 09",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Norwich (England)",
+        "ct": "Norwich",
         "o": "The Gallery at Norwich University ",
         "d": [
           "2009-07-12",
@@ -138,7 +138,7 @@
         "n": "The Filmic Conventions",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "FormContent project space",
         "d": [
           "2009-10-02",
@@ -166,7 +166,7 @@
         "n": "New Contemporaries 2010",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Liverpool (England)",
+        "ct": "Liverpool",
         "o": "A Foundation - Liverpool",
         "d": [
           "2010-09-18",
@@ -179,7 +179,7 @@
         "n": "Now Then _____",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "E:vent",
         "d": [
           "2010-10-09",
@@ -192,7 +192,7 @@
         "n": "More Pricks Than Kicks",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The David Roberts Art Foundation",
         "d": [
           "2010-10-13",
@@ -205,7 +205,7 @@
         "n": "New Contemporaries 2010",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "ICA - Institute of Contemporary Arts London",
         "d": [
           "2010-11-26",
@@ -218,7 +218,7 @@
         "n": "Art Now Lightbox: Laure Prouvost: It, heat, hit (2010)",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Britain",
         "d": [
           "2010-03-06",
@@ -233,7 +233,7 @@
         "n": "New Contemporaries 2010",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "ICA - Institute of Contemporary Arts London",
         "d": [
           "2010-11-26",
@@ -298,7 +298,7 @@
         "n": "Young London",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "V22",
         "d": [
           "2011-05-28",
@@ -311,7 +311,7 @@
         "n": "Again, A Time Machine",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Spike Island",
         "d": [
           "2011-09-16",
@@ -337,7 +337,7 @@
         "n": "A Darkness More Than Night",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Derby (England)",
+        "ct": "Derby",
         "o": "QUAD Gallery",
         "d": [
           "2011-11-11",
@@ -350,7 +350,7 @@
         "n": "Laure Prouvost",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "MOT International",
         "d": [
           "2011-04-09",
@@ -376,7 +376,7 @@
         "n": "Laure Prouvost",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Birmingham (England)",
+        "ct": "Birmingham",
         "o": "International Project Space",
         "d": [
           "2011-09-28",
@@ -391,7 +391,7 @@
         "n": "A Darkness More Than Night",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Derby (England)",
+        "ct": "Derby",
         "o": "QUAD Gallery",
         "d": [
           "2011-11-11",
@@ -417,7 +417,7 @@
         "n": "The Starry Rubric Set",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Cambridge, Cambridgeshire (England)",
+        "ct": "Cambridge, Cambridgeshire",
         "o": "Wysing Arts Centre",
         "d": [
           "2012-02-04",
@@ -495,7 +495,7 @@
         "n": "Soundworks",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "ICA - Institute of Contemporary Arts London",
         "d": [
           "2012-06-19",
@@ -567,12 +567,25 @@
         ]
       },
       {
+        "i": "54201-31036-2012-01-18",
+        "c": "GB",
+        "n": "Laure Prouvost: The Wanderer (Betty Drunk)",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Colchester",
+        "o": "Art Exchange",
+        "d": [
+          "2012-01-18",
+          "2012-02-23"
+        ]
+      },
+      {
         "i": "54201-10625-2012-10-10",
         "c": "GB",
         "n": "Laure Prouvost",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "MOT International",
         "d": [
           "2012-10-10",
@@ -625,7 +638,7 @@
         "n": "Assembly: A survey of recent artists&#8217; film and video in Britain 2008&#8211;2013",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Britain",
         "d": [
           "2013-11-23",
@@ -638,7 +651,7 @@
         "n": "Max Mara Art Prize for Women: Laure Prouvost",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Whitechapel Art Gallery",
         "d": [
           "2013-03-20",
@@ -657,7 +670,7 @@
         "n": "Assembly: A survey of recent artists&#8217; film and video in Britain 2008&#8211;2013",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Britain",
         "d": [
           "2013-11-23",

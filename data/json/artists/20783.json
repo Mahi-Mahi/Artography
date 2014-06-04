@@ -176,7 +176,7 @@
         "n": "Insomnia",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Photographers' Gallery",
         "d": [
           "2007-11-23",
@@ -237,7 +237,7 @@
         "n": "Insomnia",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Photographers' Gallery",
         "d": [
           "2007-11-23",
@@ -258,19 +258,6 @@
         ]
       },
       {
-        "i": "20783-20557-2008-05-16",
-        "c": "RU",
-        "n": "ANTOINE D’AGATA",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Moscow",
-        "o": "Photographer.ru",
-        "d": [
-          "2008-05-16",
-          "2008-07-01"
-        ]
-      },
-      {
         "i": "20783-27168-2008-05-16",
         "c": "RU",
         "n": "Antoine D&#8217;Agata",
@@ -278,6 +265,19 @@
         "st": "Solo",
         "ct": "Moscow",
         "o": "Grinberg Gallery",
+        "d": [
+          "2008-05-16",
+          "2008-07-01"
+        ]
+      },
+      {
+        "i": "20783-20557-2008-05-16",
+        "c": "RU",
+        "n": "ANTOINE D’AGATA",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Moscow",
+        "o": "Photographer.ru",
         "d": [
           "2008-05-16",
           "2008-07-01"

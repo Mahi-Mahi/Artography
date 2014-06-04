@@ -110,18 +110,6 @@
         "c": "FR"
       },
       {
-        "i": "9258-7015-2006-09-14",
-        "c": "US",
-        "n": "Ecotopia - The Second ICP Triennial of Photographie and Video",
-        "st": "Group",
-        "ct": "New York City, NY",
-        "o": "The ICP Triennial of Photography and Video",
-        "d": [
-          "2006-09-14",
-          "2007-01-07"
-        ]
-      },
-      {
         "i": "9258-2455-2006-09-14",
         "c": "US",
         "n": "Ecotopia - The Second ICP Triennial of Photographie and Video",
@@ -129,6 +117,18 @@
         "st": "Group",
         "ct": "New York City, NY",
         "o": "ICP - International Center of Photography",
+        "d": [
+          "2006-09-14",
+          "2007-01-07"
+        ]
+      },
+      {
+        "i": "9258-7015-2006-09-14",
+        "c": "US",
+        "n": "Ecotopia - The Second ICP Triennial of Photographie and Video",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "The ICP Triennial of Photography and Video",
         "d": [
           "2006-09-14",
           "2007-01-07"
@@ -157,18 +157,6 @@
     ],
     "2007": [
       {
-        "i": "9258-7015-2006-09-14",
-        "c": "US",
-        "n": "Ecotopia - The Second ICP Triennial of Photographie and Video",
-        "st": "Group",
-        "ct": "New York City, NY",
-        "o": "The ICP Triennial of Photography and Video",
-        "d": [
-          "2006-09-14",
-          "2007-01-07"
-        ]
-      },
-      {
         "i": "9258-2455-2006-09-14",
         "c": "US",
         "n": "Ecotopia - The Second ICP Triennial of Photographie and Video",
@@ -176,6 +164,18 @@
         "st": "Group",
         "ct": "New York City, NY",
         "o": "ICP - International Center of Photography",
+        "d": [
+          "2006-09-14",
+          "2007-01-07"
+        ]
+      },
+      {
+        "i": "9258-7015-2006-09-14",
+        "c": "US",
+        "n": "Ecotopia - The Second ICP Triennial of Photographie and Video",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "The ICP Triennial of Photography and Video",
         "d": [
           "2006-09-14",
           "2007-01-07"
@@ -491,7 +491,7 @@
         "n": "Deutsche Börse Photography Prize 2010",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Photographers' Gallery",
         "d": [
           "2010-02-12",
@@ -582,7 +582,7 @@
       {
         "i": "9258-21901-2012-10-06",
         "c": "BE",
-        "n": "Glissement de terrain",
+        "n": "Glissement de terrain : Impertinence-Résistance-Survivance",
         "t": "Institution publique",
         "st": "Group",
         "ct": "La Louvière",
@@ -633,7 +633,7 @@
         "n": "Thresholds",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Belfast (Northern Ireland)",
+        "ct": "Belfast, Northern Ireland",
         "o": "Belfast Exposed",
         "d": [
           "2013-03-15",
@@ -661,6 +661,10 @@
         "c": "FR"
       },
       {
+        "i": "9258-21639-2013-11-29",
+        "c": "FR"
+      },
+      {
         "i": "9258-3508-2013-01-19",
         "c": "FR"
       },
@@ -680,6 +684,10 @@
       },
       {
         "i": "9258-12540-2013-10-26",
+        "c": "FR"
+      },
+      {
+        "i": "9258-21639-2013-11-29",
         "c": "FR"
       }
     ]

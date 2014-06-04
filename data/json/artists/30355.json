@@ -75,6 +75,18 @@
     ],
     "2008": [
       {
+        "i": "30355-2731-2008-10-02",
+        "c": "ES",
+        "n": "Biacs 3",
+        "st": "Group",
+        "ct": "Sevilla",
+        "o": "BIACS - Fundación Bienal Internacional de Arte Contemporáneo de Sevilla",
+        "d": [
+          "2008-10-02",
+          "2009-01-11"
+        ]
+      },
+      {
         "i": "30355-2666-2008-10-02",
         "c": "ES",
         "n": "Youniverse, 3rd International Bienniale Of Contemporary Art",
@@ -82,18 +94,6 @@
         "st": "Group",
         "ct": "Sevilla",
         "o": "Centro Andaluz de Arte Contemporáneo (CAAC)",
-        "d": [
-          "2008-10-02",
-          "2009-01-11"
-        ]
-      },
-      {
-        "i": "30355-2731-2008-10-02",
-        "c": "ES",
-        "n": "Biacs 3",
-        "st": "Group",
-        "ct": "Sevilla",
-        "o": "BIACS - Fundación Bienal Internacional de Arte Contemporáneo de Sevilla",
         "d": [
           "2008-10-02",
           "2009-01-11"
@@ -102,6 +102,18 @@
     ],
     "2009": [
       {
+        "i": "30355-2731-2008-10-02",
+        "c": "ES",
+        "n": "Biacs 3",
+        "st": "Group",
+        "ct": "Sevilla",
+        "o": "BIACS - Fundación Bienal Internacional de Arte Contemporáneo de Sevilla",
+        "d": [
+          "2008-10-02",
+          "2009-01-11"
+        ]
+      },
+      {
         "i": "30355-2666-2008-10-02",
         "c": "ES",
         "n": "Youniverse, 3rd International Bienniale Of Contemporary Art",
@@ -109,18 +121,6 @@
         "st": "Group",
         "ct": "Sevilla",
         "o": "Centro Andaluz de Arte Contemporáneo (CAAC)",
-        "d": [
-          "2008-10-02",
-          "2009-01-11"
-        ]
-      },
-      {
-        "i": "30355-2731-2008-10-02",
-        "c": "ES",
-        "n": "Biacs 3",
-        "st": "Group",
-        "ct": "Sevilla",
-        "o": "BIACS - Fundación Bienal Internacional de Arte Contemporáneo de Sevilla",
         "d": [
           "2008-10-02",
           "2009-01-11"
@@ -175,7 +175,7 @@
         "n": "The Universal Adressability of Dumb Thngs",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Nottingham (England)",
+        "ct": "Nottingham",
         "o": "Nottingham Contemporary",
         "d": [
           "2013-05-07",
@@ -185,26 +185,26 @@
     ],
     "2011": [
       {
-        "i": "30355-9616-2011-11-05",
+        "i": "30355-28521-2011-11-05",
         "c": "GB",
-        "n": "God & Co: François Dallegret - Beyond the Bubble",
-        "t": "Autre",
+        "n": "God & Co: Francois Dallegret Beyond The Bubble",
+        "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
-        "o": "Architectural Association School (AA)",
+        "ct": "London",
+        "o": "AA Gallery - AA School of Architecture",
         "d": [
           "2011-11-05",
           "2011-12-14"
         ]
       },
       {
-        "i": "30355-28521-2011-11-05",
+        "i": "30355-9616-2011-11-05",
         "c": "GB",
-        "n": "God & Co: Francois Dallegret Beyond The Bubble",
-        "t": "Institution publique",
+        "n": "God & Co: François Dallegret - Beyond the Bubble",
+        "t": "Autre",
         "st": "Solo",
-        "ct": "London (England)",
-        "o": "AA Gallery - AA School of Architecture",
+        "ct": "London",
+        "o": "Architectural Association School (AA)",
         "d": [
           "2011-11-05",
           "2011-12-14"

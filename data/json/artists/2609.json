@@ -87,7 +87,7 @@
         "i": "2609-10123-2005-04-14",
         "c": "ES",
         "n": "mira como se mueven",
-        "t": "Institution publique",
+        "t": "Autre",
         "st": "Group",
         "ct": "Madrid",
         "o": "Fundación Telefónica",
@@ -266,7 +266,7 @@
         "n": "Group Exhibition",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Corvi-Mora",
         "d": [
           "2006-09-15",
@@ -279,7 +279,7 @@
         "n": "The Secret Theory of Drawing",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Drawing Room",
         "d": [
           "2006-10-05",
@@ -443,7 +443,7 @@
       {
         "i": "2609-4418-2007-07-20",
         "c": "BR",
-        "n": "Comunismo da Forma",
+        "n": "The Communism of Forms: Sound + Image + Time - The Strategy of Music Videos ",
         "t": "Galerie privée",
         "st": "Group",
         "ct": "São Paulo",
@@ -466,6 +466,10 @@
         ]
       },
       {
+        "i": "2609-2303-2007-09-14",
+        "c": "FR"
+      },
+      {
         "i": "2609-14870-2007-10-19",
         "c": "FR"
       },
@@ -479,7 +483,7 @@
         "n": "The World as a Stage",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Modern",
         "d": [
           "2007-10-24",
@@ -510,12 +514,16 @@
     ],
     "2008": [
       {
+        "i": "2609-2303-2007-09-14",
+        "c": "FR"
+      },
+      {
         "i": "2609-2234-2007-10-24",
         "c": "GB",
         "n": "The World as a Stage",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Modern",
         "d": [
           "2007-10-24",
@@ -588,7 +596,7 @@
         "n": "Paradise Now! Essential French Avant-garde Cinema, 1890–2008",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Modern",
         "d": [
           "2008-03-14",
@@ -640,7 +648,7 @@
         "n": "A History of two Mountains II",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Auto Italia South East",
         "d": [
           "2008-07-24",
@@ -718,7 +726,7 @@
         "n": "The Unilever Series: Dominique Gonzalez-Foerster",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Modern",
         "d": [
           "2008-10-14",
@@ -857,7 +865,7 @@
         "n": "The New Monumentality: Dominique Gonzalez-Foerster, Gerard Byrne and Dorit Margreiter",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Leeds (England)",
+        "ct": "Leeds",
         "o": "Henry Moore Institute",
         "d": [
           "2009-05-31",
@@ -915,7 +923,7 @@
         "n": "The Unilever Series: Dominique Gonzalez-Foerster",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Modern",
         "d": [
           "2008-10-14",
@@ -998,19 +1006,6 @@
         ]
       },
       {
-        "i": "2609-1943-2011-07-14",
-        "c": "US",
-        "n": "Distant Star",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Los Angeles, CA",
-        "o": "Regen Projects",
-        "d": [
-          "2011-07-14",
-          "2011-08-20"
-        ]
-      },
-      {
         "i": "2609-2512-2011-07-14",
         "c": "MX",
         "n": "Distant Star",
@@ -1018,6 +1013,19 @@
         "st": "Group",
         "ct": "Mexico City",
         "o": "kurimanzutto",
+        "d": [
+          "2011-07-14",
+          "2011-08-20"
+        ]
+      },
+      {
+        "i": "2609-1943-2011-07-14",
+        "c": "US",
+        "n": "Distant Star",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Los Angeles, CA",
+        "o": "Regen Projects",
         "d": [
           "2011-07-14",
           "2011-08-20"
@@ -1228,7 +1236,7 @@
         "n": "Dominique Gonzalez-Foerster - De Novo",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Corvi-Mora",
         "d": [
           "2010-04-20",
@@ -1567,7 +1575,7 @@
         "n": "Group Exhibition",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Corvi-Mora",
         "d": [
           "2013-06-20",
@@ -1624,6 +1632,19 @@
         "d": [
           "2013-10-05",
           "2013-12-15"
+        ]
+      },
+      {
+        "i": "2609-20192-2013-09-01",
+        "c": "BE",
+        "n": "Dominique Gonzalez-Foerster - Et La Chambre Orange",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Waregem",
+        "o": "BE-PART - Platform voor actuele kunst",
+        "d": [
+          "2013-09-01",
+          "2013-10-31"
         ]
       }
     ]

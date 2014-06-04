@@ -58,19 +58,6 @@
         ]
       },
       {
-        "i": "5966-881-2006-07-19",
-        "c": "DE",
-        "n": "Sammeln und Entdecken",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Karlsruhe",
-        "o": "Galerie Schrade & Blashofer",
-        "d": [
-          "2006-07-19",
-          "2006-09-16"
-        ]
-      },
-      {
         "i": "5966-20517-2006-07-19",
         "c": "DE",
         "n": "SAMMELN UND ENTDECKEN",
@@ -78,6 +65,19 @@
         "st": "Group",
         "ct": "Karlsruhe",
         "o": "Galerie Schrade - Karlsruhe",
+        "d": [
+          "2006-07-19",
+          "2006-09-16"
+        ]
+      },
+      {
+        "i": "5966-881-2006-07-19",
+        "c": "DE",
+        "n": "Sammeln und Entdecken",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "Galerie Schrade & Blashofer",
         "d": [
           "2006-07-19",
           "2006-09-16"
@@ -215,7 +215,7 @@
         "n": "RÜCKSCHAU IN DIE MODERNE - Grafik und Malerei im 20. Jahrhundert aus der Sammlung Richard H. Mayer",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Frankfurt / Oder",
+        "ct": "Frankfurt/Oder",
         "o": "Museum Junge Kunst",
         "d": [
           "2009-10-25",
@@ -295,7 +295,7 @@
         "n": "RÜCKSCHAU IN DIE MODERNE - Grafik und Malerei im 20. Jahrhundert aus der Sammlung Richard H. Mayer",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Frankfurt / Oder",
+        "ct": "Frankfurt/Oder",
         "o": "Museum Junge Kunst",
         "d": [
           "2009-10-25",
@@ -321,7 +321,7 @@
         "n": "Tomi Ungerer. EKLIPS",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Schwäbisch Hall\t",
+        "ct": "Schwäbisch Hall",
         "o": "Kunsthalle Würth",
         "d": [
           "2010-05-13",
@@ -350,7 +350,7 @@
         "n": "Menagerie - Tierschau aus der Sammlung Würth",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Schwäbisch Hall\t",
+        "ct": "Schwäbisch Hall",
         "o": "Kunsthalle Würth",
         "d": [
           "2013-06-17",
@@ -369,7 +369,7 @@
         "n": "Menagerie - Tierschau aus der Sammlung Würth",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Schwäbisch Hall\t",
+        "ct": "Schwäbisch Hall",
         "o": "Kunsthalle Würth",
         "d": [
           "2013-06-17",

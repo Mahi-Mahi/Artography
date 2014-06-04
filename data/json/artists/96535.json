@@ -49,19 +49,19 @@
         "c": "FR"
       },
       {
-        "i": "96535-26731-2010-03-10",
-        "c": "FR"
-      },
-      {
-        "i": "96535-26731-2010-03-10",
-        "c": "FR"
-      },
-      {
         "i": "96535-27944-2010-03-10",
         "c": "FR"
       },
       {
         "i": "96535-27944-2010-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "96535-26731-2010-03-10",
+        "c": "FR"
+      },
+      {
+        "i": "96535-26731-2010-03-10",
         "c": "FR"
       }
     ],
@@ -96,6 +96,34 @@
         "d": [
           "2013-03-28",
           "2013-08-18"
+        ]
+      },
+      {
+        "i": "96535-20380-2013-11-17",
+        "c": "DE",
+        "n": "Gefäss / Skulptur 2. Deutsche Und Internationale Keramik Seit 1946",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Leipzig",
+        "o": "Grassi Museum für Angewandte Kunst",
+        "d": [
+          "2013-11-17",
+          "2014-03-23"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "96535-20380-2013-11-17",
+        "c": "DE",
+        "n": "Gefäss / Skulptur 2. Deutsche Und Internationale Keramik Seit 1946",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Leipzig",
+        "o": "Grassi Museum für Angewandte Kunst",
+        "d": [
+          "2013-11-17",
+          "2014-03-23"
         ]
       }
     ],

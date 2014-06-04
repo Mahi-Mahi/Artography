@@ -486,9 +486,9 @@
         "i": "75057-19047-2009-07-02",
         "c": "GB",
         "n": "Transitioners: London View",
-        "t": "Galerie privée",
+        "t": "Autre",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hold & Freight",
         "d": [
           "2009-07-02",
@@ -634,19 +634,6 @@
         ]
       },
       {
-        "i": "75057-2724-2010-09-17",
-        "c": "PL",
-        "n": "Hostipitality. Receiving Strangers",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Lodz",
-        "o": "ms - Muzeum Sztuki Lodz",
-        "d": [
-          "2010-09-17",
-          "2010-10-17"
-        ]
-      },
-      {
         "i": "75057-22659-2010-09-17",
         "c": "PL",
         "n": "Hostipitality. Receiving Strangers",
@@ -660,12 +647,25 @@
         ]
       },
       {
+        "i": "75057-2724-2010-09-17",
+        "c": "PL",
+        "n": "Hostipitality. Receiving Strangers",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Lodz",
+        "o": "ms - Muzeum Sztuki Lodz",
+        "d": [
+          "2010-09-17",
+          "2010-10-17"
+        ]
+      },
+      {
         "i": "75057-7530-2010-10-09",
         "c": "GB",
         "n": "Wealth of Nations",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Spike Island",
         "d": [
           "2010-10-09",
@@ -1111,6 +1111,19 @@
         ]
       },
       {
+        "i": "75057-4602-2013-04-10",
+        "c": "IT",
+        "n": "Arte: Affari, Lavoro O Perditempo",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Rome",
+        "o": "Furini Arte Contemporanea",
+        "d": [
+          "2013-04-10",
+          "2013-05-31"
+        ]
+      },
+      {
         "i": "75057-2622-2013-04-25",
         "c": "HU",
         "n": "By Any Means Necessary",
@@ -1158,6 +1171,10 @@
         "c": "FR"
       },
       {
+        "i": "75057-21639-2013-11-29",
+        "c": "FR"
+      },
+      {
         "i": "75057-21639-2013-06-21",
         "c": "FR"
       },
@@ -1177,6 +1194,12 @@
           "2013-09-05",
           "2013-10-27"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "75057-21639-2013-11-29",
+        "c": "FR"
       }
     ]
   }

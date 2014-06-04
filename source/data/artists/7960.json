@@ -269,19 +269,6 @@
         ]
       },
       {
-        "i": "7960-23930-2009-07-24",
-        "c": "DE",
-        "n": "Sommerfrische",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Dusseldorf",
-        "o": "Galerie Maulberger & Becker",
-        "d": [
-          "2009-07-24",
-          "2009-08-28"
-        ]
-      },
-      {
         "i": "7960-451-2009-07-24",
         "c": "DE",
         "n": "Sommerfrische",
@@ -289,6 +276,19 @@
         "st": "Group",
         "ct": "Munich",
         "o": "Galerie Maulberger",
+        "d": [
+          "2009-07-24",
+          "2009-08-28"
+        ]
+      },
+      {
+        "i": "7960-23930-2009-07-24",
+        "c": "DE",
+        "n": "Sommerfrische",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Dusseldorf",
+        "o": "Galerie Maulberger & Becker",
         "d": [
           "2009-07-24",
           "2009-08-28"
@@ -416,7 +416,7 @@
       {
         "i": "7960-4580-2010-03-05",
         "c": "US",
-        "n": "Jean Miotte: The Gesture Within",
+        "n": "Jean Miotte - The Conductor’s Body",
         "t": "Institution publique",
         "st": "Solo",
         "ct": "New York City, NY",
@@ -429,7 +429,7 @@
       {
         "i": "7960-4580-2010-03-05",
         "c": "US",
-        "n": "Jean Miotte - The Conductor’s Body",
+        "n": "Jean Miotte: The Gesture Within",
         "t": "Institution publique",
         "st": "Solo",
         "ct": "New York City, NY",

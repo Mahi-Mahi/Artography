@@ -326,7 +326,7 @@
         "n": "Uneven Geographies - Uneven Geographies",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Nottingham (England)",
+        "ct": "Nottingham",
         "o": "Nottingham Contemporary",
         "d": [
           "2010-05-09",
@@ -435,6 +435,19 @@
         ]
       },
       {
+        "i": "42987-9150-2011-10-02",
+        "c": "BE",
+        "n": "Architecture of Fear",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Hasselt",
+        "o": "Z33",
+        "d": [
+          "2011-10-02",
+          "2011-12-31"
+        ]
+      },
+      {
         "i": "42987-8146-2011-11-12",
         "c": "DE",
         "n": "The Oil Show",
@@ -489,19 +502,6 @@
         ]
       },
       {
-        "i": "42987-2687-2012-11-21",
-        "c": "ES",
-        "n": "Cartografías contemporáneas. Dibujando el pensamiento",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Madrid",
-        "o": "CaixaForum Madrid",
-        "d": [
-          "2012-11-21",
-          "2013-02-24"
-        ]
-      },
-      {
         "i": "42987-2660-2012-11-21",
         "c": "ES",
         "n": "Cartografías contemporáneas",
@@ -509,6 +509,19 @@
         "st": "Group",
         "ct": "Barcelona",
         "o": "CaixaForum Barcelona",
+        "d": [
+          "2012-11-21",
+          "2013-02-24"
+        ]
+      },
+      {
+        "i": "42987-2687-2012-11-21",
+        "c": "ES",
+        "n": "Cartografías contemporáneas. Dibujando el pensamiento",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Madrid",
+        "o": "CaixaForum Madrid",
         "d": [
           "2012-11-21",
           "2013-02-24"
@@ -517,19 +530,6 @@
     ],
     "2013": [
       {
-        "i": "42987-2687-2012-11-21",
-        "c": "ES",
-        "n": "Cartografías contemporáneas. Dibujando el pensamiento",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Madrid",
-        "o": "CaixaForum Madrid",
-        "d": [
-          "2012-11-21",
-          "2013-02-24"
-        ]
-      },
-      {
         "i": "42987-2660-2012-11-21",
         "c": "ES",
         "n": "Cartografías contemporáneas",
@@ -543,12 +543,38 @@
         ]
       },
       {
+        "i": "42987-2687-2012-11-21",
+        "c": "ES",
+        "n": "Cartografías contemporáneas. Dibujando el pensamiento",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Madrid",
+        "o": "CaixaForum Madrid",
+        "d": [
+          "2012-11-21",
+          "2013-02-24"
+        ]
+      },
+      {
         "i": "42987-17612-2013-06-30",
         "c": "FR"
       },
       {
         "i": "42987-17612-2013-06-30",
         "c": "FR"
+      },
+      {
+        "i": "42987-9450-2013-09-21",
+        "c": "DE",
+        "n": "The Politics and Pleasures of Food",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Leipzig",
+        "o": "Halle 14",
+        "d": [
+          "2013-09-21",
+          "2013-11-17"
+        ]
       },
       {
         "i": "42987-7977-2013-10-19",

@@ -45,6 +45,19 @@
   "expos": {
     "2007": [
       {
+        "i": "116395-30701-2007-09-06",
+        "c": "NO",
+        "n": "NuArt Festival 2007",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Stavanger",
+        "o": "NuArt Festival",
+        "d": [
+          "2007-09-06",
+          "2007-11-04"
+        ]
+      },
+      {
         "i": "116395-4492-2007-12-01",
         "c": "US",
         "n": "The Streets Of Europe",
@@ -65,7 +78,7 @@
         "n": "The Cans Festival",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Cans Festival",
         "d": [
           "2008-05-03",
@@ -83,6 +96,19 @@
         "d": [
           "2008-08-09",
           "2008-08-30"
+        ]
+      },
+      {
+        "i": "116395-30701-2008-09-04",
+        "c": "NO",
+        "n": "NuArt Festival 2008",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Stavanger",
+        "o": "NuArt Festival",
+        "d": [
+          "2008-09-04",
+          "2008-10-05"
         ]
       },
       {
@@ -158,7 +184,7 @@
         "n": "The Northern Art Fair",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Harrogate, North Yorkshire (England)",
+        "ct": "Harrogate, North Yorkshire",
         "o": "108 Fineart",
         "d": [
           "2009-11-13",
@@ -171,7 +197,7 @@
         "n": "108 Christmas Exhibition - Little Pictures – Great Art",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Harrogate, North Yorkshire (England)",
+        "ct": "Harrogate, North Yorkshire",
         "o": "108 Fineart",
         "d": [
           "2009-11-14",
@@ -212,7 +238,7 @@
         "n": "108 Christmas Exhibition - Little Pictures – Great Art",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Harrogate, North Yorkshire (England)",
+        "ct": "Harrogate, North Yorkshire",
         "o": "108 Fineart",
         "d": [
           "2009-11-14",
@@ -246,19 +272,6 @@
         ]
       },
       {
-        "i": "116395-15401-2010-05-01",
-        "c": "GB",
-        "n": "Girls, Girls, Girls",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "London (England)",
-        "o": "Signal Gallery  ",
-        "d": [
-          "2010-05-01",
-          "2010-05-30"
-        ]
-      },
-      {
         "i": "116395-12265-2010-05-01",
         "c": "US",
         "n": "Blek le Rat & Above",
@@ -272,12 +285,25 @@
         ]
       },
       {
+        "i": "116395-15401-2010-05-01",
+        "c": "GB",
+        "n": "Girls, Girls, Girls",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "London",
+        "o": "Signal Gallery  ",
+        "d": [
+          "2010-05-01",
+          "2010-05-30"
+        ]
+      },
+      {
         "i": "116395-9580-2010-05-09",
         "c": "GB",
         "n": "Fourth Element II",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Aberfeldy, Perthshire (Scotland)",
+        "ct": "Aberfeldy, Perthshire, Scotland",
         "o": "The Watermill",
         "d": [
           "2010-05-09",
@@ -311,12 +337,25 @@
         ]
       },
       {
+        "i": "116395-30854-2010-08-07",
+        "c": "US",
+        "n": "Friends with Knives",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Los Angeles, CA",
+        "o": "Crewest Gallery",
+        "d": [
+          "2010-08-07",
+          "2010-08-29"
+        ]
+      },
+      {
         "i": "116395-16520-2010-12-03",
         "c": "GB",
         "n": "Never Judge...?",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Stolenspace Gallery",
         "d": [
           "2010-12-03",
@@ -373,12 +412,25 @@
         "c": "FR"
       },
       {
+        "i": "116395-30714-2011-07-01",
+        "c": "NO",
+        "n": "Outside In",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Stavanger",
+        "o": "Reed Projects gallery",
+        "d": [
+          "2011-07-01",
+          "2011-08-07"
+        ]
+      },
+      {
         "i": "116395-4807-2011-08-20",
         "c": "GB",
         "n": "Urban Art Show 2011",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "St. Ives, Cornwall (England)",
+        "ct": "St. Ives, Cornwall",
         "o": "Belgrave Gallery St Ives",
         "d": [
           "2011-08-20",
@@ -500,7 +552,7 @@
         "n": "Blek le Rat",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Opera Gallery",
         "d": [
           "2012-04-27",
@@ -515,11 +567,24 @@
         "n": "America's Finest (and Others)",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "St. Ives, Cornwall (England)",
+        "ct": "St. Ives, Cornwall",
         "o": "Belgrave Gallery St Ives",
         "d": [
           "2013-03-29",
           "2013-04-22"
+        ]
+      },
+      {
+        "i": "116395-31159-2013-10-08",
+        "c": "BE",
+        "n": "Street Art",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Namur",
+        "o": "Maison de la Culture Namur",
+        "d": [
+          "2013-10-08",
+          "2013-10-27"
         ]
       },
       {

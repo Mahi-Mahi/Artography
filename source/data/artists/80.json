@@ -66,6 +66,14 @@
         ]
       },
       {
+        "i": "80-2303-2005-02-03",
+        "c": "FR"
+      },
+      {
+        "i": "80-2303-2005-02-03",
+        "c": "FR"
+      },
+      {
         "i": "80-2657-2005-02-03",
         "c": "ES",
         "n": "El estado de las cosas - El objeto en el arte desde 1960 hasta nuestros días",
@@ -77,14 +85,6 @@
           "2005-02-03",
           "2005-05-22"
         ]
-      },
-      {
-        "i": "80-2303-2005-02-03",
-        "c": "FR"
-      },
-      {
-        "i": "80-2303-2005-02-03",
-        "c": "FR"
       },
       {
         "i": "80-62-2005-02-23",
@@ -208,19 +208,6 @@
         "c": "FR"
       },
       {
-        "i": "80-1588-2005-09-17",
-        "c": "AT",
-        "n": "Support 3 - Die Neue Galerie als Sammlung",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Graz",
-        "o": "Neue Galerie Graz - Universalmuseum Joanneum",
-        "d": [
-          "2005-09-17",
-          "2006-10-15"
-        ]
-      },
-      {
         "i": "80-821-2005-09-17",
         "c": "DE",
         "n": "In neuer Frische - Neupräsentation der Sammlung",
@@ -231,6 +218,19 @@
         "d": [
           "2005-09-17",
           "2005-12-31"
+        ]
+      },
+      {
+        "i": "80-1588-2005-09-17",
+        "c": "AT",
+        "n": "Support 3 - Die Neue Galerie als Sammlung",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Graz",
+        "o": "Neue Galerie Graz - Universalmuseum Joanneum",
+        "d": [
+          "2005-09-17",
+          "2006-10-15"
         ]
       },
       {
@@ -348,6 +348,14 @@
           "2005-12-10",
           "2006-02-19"
         ]
+      },
+      {
+        "i": "80-2303-2006-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "80-2303-2006-02-02",
+        "c": "FR"
       },
       {
         "i": "80-8257-2006-02-03",
@@ -674,7 +682,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Brno",
-        "o": "The Brno House of Arts - Central Building",
+        "o": "The Brno House of Arts",
         "d": [
           "2007-01-23",
           "2007-04-01"
@@ -725,7 +733,7 @@
         "n": "Artisti, parole, immagini dal 1960 al 1968",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Ciriè (TO)",
+        "ct": "Ciriè, TO",
         "o": "Fondazione Sandretto Re Rebaudengo - Ciriè",
         "d": [
           "2007-03-18",
@@ -814,7 +822,7 @@
         "n": "summer sushi",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Gallery Yujiro",
         "d": [
           "2007-06-29",
@@ -1078,7 +1086,7 @@
         "n": "Paradise Now! Essential French Avant-garde Cinema, 1890–2008",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Tate Modern",
         "d": [
           "2008-03-14",
@@ -1229,7 +1237,7 @@
         "n": "Manifesto Marathon",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Serpentine Gallery",
         "d": [
           "2008-10-18",
@@ -1585,19 +1593,6 @@
         ]
       },
       {
-        "i": "80-2231-2009-11-28",
-        "c": "DE",
-        "n": "Eating the Universe. Vom Essen in der Kunst",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Dusseldorf",
-        "o": "Kunsthalle Düsseldorf",
-        "d": [
-          "2009-11-28",
-          "2010-02-28"
-        ]
-      },
-      {
         "i": "80-21520-2009-11-28",
         "c": "IT",
         "n": "Twentysix Gasoline Stations ed altri libri d'Artista - Una collezione",
@@ -1608,6 +1603,19 @@
         "d": [
           "2009-11-28",
           "2010-01-10"
+        ]
+      },
+      {
+        "i": "80-2231-2009-11-28",
+        "c": "DE",
+        "n": "Eating the Universe. Vom Essen in der Kunst",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Dusseldorf",
+        "o": "Kunsthalle Düsseldorf",
+        "d": [
+          "2009-11-28",
+          "2010-02-28"
         ]
       },
       {
@@ -1702,19 +1710,6 @@
         ]
       },
       {
-        "i": "80-2231-2009-11-28",
-        "c": "DE",
-        "n": "Eating the Universe. Vom Essen in der Kunst",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Dusseldorf",
-        "o": "Kunsthalle Düsseldorf",
-        "d": [
-          "2009-11-28",
-          "2010-02-28"
-        ]
-      },
-      {
         "i": "80-21520-2009-11-28",
         "c": "IT",
         "n": "Twentysix Gasoline Stations ed altri libri d'Artista - Una collezione",
@@ -1725,6 +1720,19 @@
         "d": [
           "2009-11-28",
           "2010-01-10"
+        ]
+      },
+      {
+        "i": "80-2231-2009-11-28",
+        "c": "DE",
+        "n": "Eating the Universe. Vom Essen in der Kunst",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Dusseldorf",
+        "o": "Kunsthalle Düsseldorf",
+        "d": [
+          "2009-11-28",
+          "2010-02-28"
         ]
       },
       {
@@ -1947,19 +1955,6 @@
         ]
       },
       {
-        "i": "80-4989-2010-09-18",
-        "c": "DE",
-        "n": "EAT ART. Vom Essen in der Kunst",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Stuttgart",
-        "o": "Kunstmuseum Stuttgart",
-        "d": [
-          "2010-09-18",
-          "2011-01-09"
-        ]
-      },
-      {
         "i": "80-2564-2010-09-18",
         "c": "DE",
         "n": "Happy End",
@@ -1970,6 +1965,19 @@
         "d": [
           "2010-09-18",
           "2010-11-14"
+        ]
+      },
+      {
+        "i": "80-4989-2010-09-18",
+        "c": "DE",
+        "n": "EAT ART. Vom Essen in der Kunst",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Stuttgart",
+        "o": "Kunstmuseum Stuttgart",
+        "d": [
+          "2010-09-18",
+          "2011-01-09"
         ]
       },
       {
@@ -2211,25 +2219,25 @@
         ]
       },
       {
+        "i": "80-26673-2012-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "80-26673-2012-04-06",
+        "c": "FR"
+      },
+      {
         "i": "80-7530-2012-04-06",
         "c": "GB",
         "n": "The Artists’ Postcard Show",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Spike Island",
         "d": [
           "2012-04-06",
           "2012-06-17"
         ]
-      },
-      {
-        "i": "80-26673-2012-04-06",
-        "c": "FR"
-      },
-      {
-        "i": "80-26673-2012-04-06",
-        "c": "FR"
       },
       {
         "i": "80-15491-2012-04-11",
@@ -2412,7 +2420,7 @@
         "n": "Londinium: A London Pageant",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Rebecca Hossack Gallery",
         "d": [
           "2012-07-19",
@@ -3012,6 +3020,19 @@
         ]
       },
       {
+        "i": "80-19089-2013-04-24",
+        "c": "IT",
+        "n": "L'Arte è un romanzo",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Perugia",
+        "o": "Palazzo della Penna",
+        "d": [
+          "2013-04-24",
+          "2013-09-01"
+        ]
+      },
+      {
         "i": "80-25358-2013-06-01",
         "c": "IT",
         "n": "Personal Structures - 55th Venice Biennale Of Art, Collateral Event",
@@ -3085,6 +3106,19 @@
         ]
       },
       {
+        "i": "80-18676-2013-06-27",
+        "c": "KR",
+        "n": "Learning Machine",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Yongin-si",
+        "o": "Nam June Paik Art Center",
+        "d": [
+          "2013-06-27",
+          "2013-10-16"
+        ]
+      },
+      {
         "i": "80-29574-2013-09-06",
         "c": "FR"
       },
@@ -3120,6 +3154,23 @@
           "2013-11-03",
           "2014-03-16"
         ]
+      },
+      {
+        "i": "80-30011-2013-11-18",
+        "c": "PL",
+        "n": "With A Probability Of Being Seen. Works, Projects And Documents In The Collection And The Archives Of The Foksal Gallery",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Warsaw",
+        "o": "Foksal Gallery",
+        "d": [
+          "2013-11-18",
+          "2014-01-03"
+        ]
+      },
+      {
+        "i": "80-16752-2013-12-07",
+        "c": "FR"
       },
       {
         "i": "80-4218-2012-12-15",
@@ -3152,6 +3203,23 @@
           "2013-11-03",
           "2014-03-16"
         ]
+      },
+      {
+        "i": "80-30011-2013-11-18",
+        "c": "PL",
+        "n": "With A Probability Of Being Seen. Works, Projects And Documents In The Collection And The Archives Of The Foksal Gallery",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Warsaw",
+        "o": "Foksal Gallery",
+        "d": [
+          "2013-11-18",
+          "2014-01-03"
+        ]
+      },
+      {
+        "i": "80-16752-2013-12-07",
+        "c": "FR"
       },
       {
         "i": "80-6361-2013-12-05",

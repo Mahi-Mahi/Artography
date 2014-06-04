@@ -34,7 +34,7 @@
   "2005-shows-museums": "3",
   "2005-countries-total": "Spain (9), France (1)",
   "2005-shows-with": "Francoise Vanneraud (7), Ignacio Bautista (3), Abdul Vas (3), Carlos Aires (2), José Díaz (2), Julio Falagan (2), Theo Firmo (2), Fernando Martín Godoy (2), Almudena Lobera (2), Jordi Ribes (2), Avelino Sala (2), Nacho Martín Silva (2), Luis Úrculo (2)",
-  "representing-galleries": "Galeria Raquel Ponce (C/ Alameda 5, 28014 Madrid, Spain)",
+  "representing-galleries": "Galeria Raquel Ponce (C/ Alameda 5, 28014 Madrid, Spain); Ponce + Robles (c/ Alameda 5, 28014 Madrid, Spain)",
   "collecting-museums": null,
   "first_name": "Francoise",
   "last_name": "Vanneraud",
@@ -43,6 +43,29 @@
   "age": 30,
   "age_range": "26-40",
   "expos": {
+    "2010": [
+      {
+        "i": "316201-18501-2010-10-01",
+        "c": "ES",
+        "n": "Todo disfraz",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Madrid",
+        "o": "OTR espacio de arte",
+        "d": [
+          "2010-10-01",
+          "2010-12-18"
+        ]
+      },
+      {
+        "i": "316201-30878-2010-11-19",
+        "c": "FR"
+      },
+      {
+        "i": "316201-30878-2010-11-19",
+        "c": "FR"
+      }
+    ],
     "2011": [
       {
         "i": "316201-3236-2011-02-10",

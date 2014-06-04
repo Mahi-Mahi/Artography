@@ -28,7 +28,18 @@ def fetch(path)
 
 	content_file = "#{@cache_path}#{path}"
 
-	unless File.exists?(content_file)
+	cached = false
+
+	if File.exists?(content_file)
+		age = (Time.now - File.mtime(content_file)).to_i
+		if age < 3600 * 24
+			cached = true
+		end
+	end
+
+	unless cached
+
+		p path
 
 		HTTPI.adapter = :curb
 
@@ -104,7 +115,8 @@ today = {
 	:fairs => {
 		:countries => [],
 		:galleries => []
-	}
+	},
+	:events => []
 }
 
 af_galleries = fetch('/v0/gallery/list')
@@ -167,7 +179,7 @@ af_galleries.shuffle.slice(0, nb_datas).each do |gallery|
 				else
 					gallery[:fairs][af_fair['year']] << fair_detail unless gallery[:fairs][af_fair['year']].include?(fair_detail)
 
-					if af_fair['year'] == 2013 # Date.today.year
+					if af_fair['year'] == Date.today.year
 						today[:fairs][:countries] << fair_detail[:c] unless today[:fairs][:countries].include?(fair_detail[:c])
 						today[:fairs][:galleries] << fair[:i] unless today[:fairs][:galleries].include?(fair[:i])
 					end
@@ -336,6 +348,10 @@ af_artists.shuffle.slice(0, nb_datas).each do |artist|
 							today[:expos][:countries] << expo_detail[:c] unless today[:expos][:countries].include?(expo_detail[:c])
 							today[:expos][:artists] << expo[:i] unless today[:expos][:artists].include?(expo[:i])
 
+							expo_detail[:a] = expo[:i]
+							expo_detail[:an] = artist['name']
+							today[:events] << expo_detail
+
 						end
 					# rescue
 					# 	p 'bug'
@@ -358,8 +374,6 @@ end
 pp today[:fairs]
 
 pp "Aujourd'hui, #{today[:expos][:artists].length} artistes exposent dans #{today[:expos][:countries].length} pays"
-
-
 
 FileUtils.rm_rf("json/.", secure: true)
 

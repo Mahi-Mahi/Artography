@@ -117,7 +117,7 @@
         "n": "Group Show",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "greengrassi",
         "d": [
           "2005-07-02",
@@ -197,7 +197,7 @@
         "n": "At the same time somewhere else...",
         "t": "Autre",
         "st": "Group",
-        "ct": "Edinburgh (Scotland)",
+        "ct": "Edinburgh, Scotland",
         "o": "Fruitmarket Gallery",
         "d": [
           "2005-12-17",
@@ -251,7 +251,7 @@
         "n": "At the same time somewhere else...",
         "t": "Autre",
         "st": "Group",
-        "ct": "Edinburgh (Scotland)",
+        "ct": "Edinburgh, Scotland",
         "o": "Fruitmarket Gallery",
         "d": [
           "2005-12-17",
@@ -370,7 +370,7 @@
         "n": "Melik Ohanian: Seven Minutes Before",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "SLG South London Gallery",
         "d": [
           "2006-11-16",
@@ -520,7 +520,7 @@
         "n": "Melik Ohanian: Seven Minutes Before",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "SLG South London Gallery",
         "d": [
           "2006-11-16",
@@ -941,7 +941,7 @@
         "n": "Magical Consciousness",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Arnolfini",
         "d": [
           "2011-05-12",
@@ -966,6 +966,10 @@
         "c": "FR"
       },
       {
+        "i": "13124-30968-2011-11-16",
+        "c": "FR"
+      },
+      {
         "i": "13124-1522-2011-09-10",
         "c": "FR"
       },
@@ -977,6 +981,10 @@
     "2012": [
       {
         "i": "13124-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "13124-30968-2011-11-16",
         "c": "FR"
       },
       {

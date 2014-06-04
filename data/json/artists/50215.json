@@ -141,7 +141,7 @@
         "n": "Marina Abramovi&#263; Presents…",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Manchester (England)",
+        "ct": "Manchester",
         "o": "Whitworth Art Gallery",
         "d": [
           "2009-07-03",
@@ -162,7 +162,7 @@
         "n": "Marie Cool Fabio Balducci: Untitled 2006-2009",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "SLG South London Gallery",
         "d": [
           "2009-05-15",
@@ -330,6 +330,10 @@
         ]
       },
       {
+        "i": "50215-2353-2013-10-05",
+        "c": "FR"
+      },
+      {
         "i": "50215-2331-2013-10-05",
         "c": "LU",
         "n": "J&#8217;ouvre les yeux et tu es là",
@@ -341,10 +345,6 @@
           "2013-10-05",
           "2014-01-19"
         ]
-      },
-      {
-        "i": "50215-2353-2013-10-05",
-        "c": "FR"
       },
       {
         "i": "50215-10218-2012-10-26",
@@ -373,6 +373,10 @@
     ],
     "2014": [
       {
+        "i": "50215-2353-2013-10-05",
+        "c": "FR"
+      },
+      {
         "i": "50215-2331-2013-10-05",
         "c": "LU",
         "n": "J&#8217;ouvre les yeux et tu es là",
@@ -384,10 +388,6 @@
           "2013-10-05",
           "2014-01-19"
         ]
-      },
-      {
-        "i": "50215-2353-2013-10-05",
-        "c": "FR"
       }
     ]
   }

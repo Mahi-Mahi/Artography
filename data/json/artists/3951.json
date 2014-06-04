@@ -399,6 +399,14 @@
         "c": "FR"
       },
       {
+        "i": "3951-29133-2012-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "3951-29133-2012-05-10",
+        "c": "FR"
+      },
+      {
         "i": "3951-29913-2012-06-16",
         "c": "FR"
       },
@@ -482,6 +490,21 @@
       {
         "i": "3951-1797-2013-10-24",
         "c": "FR"
+      },
+      {
+        "i": "3951-24720-2013-12-07",
+        "c": "AU",
+        "n": "Hubert Duprat",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Hobart, TAS",
+        "o": "Mona - Museum of Old and New Art",
+        "d": [
+          "2013-12-07",
+          "2014-07-28"
+        ],
+        "a": "3951",
+        "an": "Hubert Duprat"
       }
     ],
     "2014": [
@@ -501,6 +524,44 @@
       {
         "i": "3951-20775-2013-10-20",
         "c": "FR"
+      },
+      {
+        "i": "3951-24720-2013-12-07",
+        "c": "AU",
+        "n": "Hubert Duprat",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Hobart, TAS",
+        "o": "Mona - Museum of Old and New Art",
+        "d": [
+          "2013-12-07",
+          "2014-07-28"
+        ],
+        "a": "3951",
+        "an": "Hubert Duprat"
+      }
+    ],
+    "today": [
+      {
+        "i": "3951",
+        "c": "AU",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "3951-24720-2013-12-07",
+        "c": "AU",
+        "n": "Hubert Duprat",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Hobart, TAS",
+        "o": "Mona - Museum of Old and New Art",
+        "d": [
+          "2013-12-07",
+          "2014-07-28"
+        ],
+        "a": "3951",
+        "an": "Hubert Duprat"
       }
     ]
   }

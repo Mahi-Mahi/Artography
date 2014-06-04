@@ -50,7 +50,7 @@
         "n": "Only Make-Believe: Ways of Playing",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Compton Verney, Warwickshire (England)",
+        "ct": "Compton Verney, Warwickshire",
         "o": "Compton Verney",
         "d": [
           "2005-03-25",
@@ -530,7 +530,7 @@
         "n": "Martian Museum of Terrestrial Art",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Barbican Art Gallery",
         "d": [
           "2008-03-06",
@@ -629,7 +629,7 @@
         "c": "GB",
         "n": "Liverpool Biennial 2008",
         "st": "Group",
-        "ct": "Liverpool (England)",
+        "ct": "Liverpool",
         "o": "Liverpool Biennial of Contemporary Art",
         "d": [
           "2008-09-20",
@@ -902,7 +902,7 @@
         "n": "Parades and Processions: Here comes everybody",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Parasol unit",
         "d": [
           "2009-05-28",
@@ -923,6 +923,14 @@
         ]
       },
       {
+        "i": "4528-28534-2009-06-18",
+        "c": "FR"
+      },
+      {
+        "i": "4528-28534-2009-06-18",
+        "c": "FR"
+      },
+      {
         "i": "4528-3798-2009-06-18",
         "c": "NZ",
         "n": "For Keeps: Sampling Recent Acquisitions 2006 - 2009",
@@ -934,14 +942,6 @@
           "2009-06-18",
           "2009-07-12"
         ]
-      },
-      {
-        "i": "4528-28534-2009-06-18",
-        "c": "FR"
-      },
-      {
-        "i": "4528-28534-2009-06-18",
-        "c": "FR"
       },
       {
         "i": "4528-20667-2009-06-24",
@@ -1054,7 +1054,7 @@
         "n": "Annette Messager",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hayward Gallery",
         "d": [
           "2009-03-04",
@@ -1094,7 +1094,7 @@
         "n": "Cosa fa la mia anima mentre sto lavorando?",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Gallarte (VA)",
+        "ct": "Gallarte, VA",
         "o": "Museo MAGA",
         "d": [
           "2010-11-14",
@@ -1200,7 +1200,7 @@
         "n": "Donne Donne Donne",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Camogli (GE)",
+        "ct": "Camogli, GE",
         "o": "Fondazione Pierluigi e Natalina Remotti",
         "d": [
           "2011-11-26",
@@ -1361,7 +1361,7 @@
         "n": "Barbaric Freedom",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Simon Lee Gallery",
         "d": [
           "2010-07-09",
@@ -1399,7 +1399,7 @@
         "n": "Cosa fa la mia anima mentre sto lavorando?",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Gallarte (VA)",
+        "ct": "Gallarte, VA",
         "o": "Museo MAGA",
         "d": [
           "2010-11-14",
@@ -1504,7 +1504,7 @@
         "n": "Donne Donne Donne",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "Camogli (GE)",
+        "ct": "Camogli, GE",
         "o": "Fondazione Pierluigi e Natalina Remotti",
         "d": [
           "2011-11-26",
@@ -1645,7 +1645,7 @@
         "n": "This Will Have Been: Art, Love & Politics in the 1980s",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "ICA - Institute of Contemporary Arts London",
         "d": [
           "2012-11-15",
@@ -1703,7 +1703,7 @@
         "n": "This Will Have Been: Art, Love & Politics in the 1980s",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "ICA - Institute of Contemporary Arts London",
         "d": [
           "2012-11-15",
@@ -1745,14 +1745,6 @@
         "c": "FR"
       },
       {
-        "i": "4528-30270-2013-02-02",
-        "c": "FR"
-      },
-      {
-        "i": "4528-30270-2013-02-02",
-        "c": "FR"
-      },
-      {
         "i": "4528-1405-2013-02-02",
         "c": "FR"
       },
@@ -1761,11 +1753,15 @@
         "c": "FR"
       },
       {
-        "i": "4528-1522-2013-02-22",
+        "i": "4528-30270-2013-02-02",
         "c": "FR"
       },
       {
-        "i": "4528-1522-2013-02-22",
+        "i": "4528-30270-2013-02-02",
+        "c": "FR"
+      },
+      {
+        "i": "4528-2718-2013-02-22",
         "c": "FR"
       },
       {
@@ -1773,7 +1769,11 @@
         "c": "FR"
       },
       {
-        "i": "4528-2718-2013-02-22",
+        "i": "4528-1522-2013-02-22",
+        "c": "FR"
+      },
+      {
+        "i": "4528-1522-2013-02-22",
         "c": "FR"
       },
       {
@@ -1790,6 +1790,14 @@
       },
       {
         "i": "4528-20857-2013-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "4528-10501-2013-03-24",
+        "c": "FR"
+      },
+      {
+        "i": "4528-10501-2013-03-24",
         "c": "FR"
       },
       {
@@ -1815,6 +1823,19 @@
       {
         "i": "4528-11845-2013-10-20",
         "c": "FR"
+      },
+      {
+        "i": "4528-2391-2013-12-04",
+        "c": "IL",
+        "n": "Out of Body - Fragmentation in Art",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Jerusalem",
+        "o": "The Israel Museum",
+        "d": [
+          "2013-12-04",
+          "2014-04-05"
+        ]
       },
       {
         "i": "4528-2353-2012-10-13",
@@ -1843,6 +1864,19 @@
       }
     ],
     "2014": [
+      {
+        "i": "4528-2391-2013-12-04",
+        "c": "IL",
+        "n": "Out of Body - Fragmentation in Art",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Jerusalem",
+        "o": "The Israel Museum",
+        "d": [
+          "2013-12-04",
+          "2014-04-05"
+        ]
+      },
       {
         "i": "4528-1470-2013-11-21",
         "c": "GR",

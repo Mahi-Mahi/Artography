@@ -182,19 +182,6 @@
         ]
       },
       {
-        "i": "2508-14167-2007-11-02",
-        "c": "HU",
-        "n": "Exemplifizieren wird Kunst",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Budapest",
-        "o": "Vasarely Museum",
-        "d": [
-          "2007-11-02",
-          "2008-01-06"
-        ]
-      },
-      {
         "i": "2508-10367-2007-11-02",
         "c": "HU",
         "n": "Exemplification as Art",
@@ -202,6 +189,19 @@
         "st": "Group",
         "ct": "Budapest",
         "o": "Museum of Fine Arts - Budapest",
+        "d": [
+          "2007-11-02",
+          "2008-01-06"
+        ]
+      },
+      {
+        "i": "2508-14167-2007-11-02",
+        "c": "HU",
+        "n": "Exemplifizieren wird Kunst",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Budapest",
+        "o": "Vasarely Museum",
         "d": [
           "2007-11-02",
           "2008-01-06"
@@ -223,19 +223,6 @@
     ],
     "2008": [
       {
-        "i": "2508-14167-2007-11-02",
-        "c": "HU",
-        "n": "Exemplifizieren wird Kunst",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Budapest",
-        "o": "Vasarely Museum",
-        "d": [
-          "2007-11-02",
-          "2008-01-06"
-        ]
-      },
-      {
         "i": "2508-10367-2007-11-02",
         "c": "HU",
         "n": "Exemplification as Art",
@@ -243,6 +230,19 @@
         "st": "Group",
         "ct": "Budapest",
         "o": "Museum of Fine Arts - Budapest",
+        "d": [
+          "2007-11-02",
+          "2008-01-06"
+        ]
+      },
+      {
+        "i": "2508-14167-2007-11-02",
+        "c": "HU",
+        "n": "Exemplifizieren wird Kunst",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Budapest",
+        "o": "Vasarely Museum",
         "d": [
           "2007-11-02",
           "2008-01-06"
@@ -371,10 +371,10 @@
         ]
       },
       {
-        "i": "2508-19507-2009-12-10",
+        "i": "2508-27666-2009-12-10",
         "c": "DE",
-        "n": "Arbeiten auf Papier – konkret. 40 Jahre Galerie St. Johann",
-        "t": "Galerie privée",
+        "n": "Works on Papers",
+        "t": "Autre",
         "st": "Group",
         "ct": "Saarbrücken",
         "o": "Galerie St. Johann",
@@ -384,10 +384,10 @@
         ]
       },
       {
-        "i": "2508-27666-2009-12-10",
+        "i": "2508-19507-2009-12-10",
         "c": "DE",
-        "n": "Works on Papers",
-        "t": "Autre",
+        "n": "Arbeiten auf Papier – konkret. 40 Jahre Galerie St. Johann",
+        "t": "Galerie privée",
         "st": "Group",
         "ct": "Saarbrücken",
         "o": "Galerie St. Johann",
@@ -412,10 +412,10 @@
         ]
       },
       {
-        "i": "2508-19507-2009-12-10",
+        "i": "2508-27666-2009-12-10",
         "c": "DE",
-        "n": "Arbeiten auf Papier – konkret. 40 Jahre Galerie St. Johann",
-        "t": "Galerie privée",
+        "n": "Works on Papers",
+        "t": "Autre",
         "st": "Group",
         "ct": "Saarbrücken",
         "o": "Galerie St. Johann",
@@ -425,10 +425,10 @@
         ]
       },
       {
-        "i": "2508-27666-2009-12-10",
+        "i": "2508-19507-2009-12-10",
         "c": "DE",
-        "n": "Works on Papers",
-        "t": "Autre",
+        "n": "Arbeiten auf Papier – konkret. 40 Jahre Galerie St. Johann",
+        "t": "Galerie privée",
         "st": "Group",
         "ct": "Saarbrücken",
         "o": "Galerie St. Johann",
@@ -464,7 +464,7 @@
         "n": "Couleur et Geometrie",
         "t": "Autre",
         "st": "Group",
-        "ct": "Halle (Saale)",
+        "ct": "Halle, Saale",
         "o": "Kunstverein Talstrasse e.V.",
         "d": [
           "2010-09-03",

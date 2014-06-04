@@ -270,7 +270,7 @@
         "n": "Absent Without Leave",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Victoria Miro Gallery",
         "d": [
           "2007-02-17",
@@ -362,7 +362,7 @@
         "n": "Martian Museum of Terrestrial Art",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Barbican Art Gallery",
         "d": [
           "2008-03-06",
@@ -468,7 +468,7 @@
         "n": "Loris Geraud - CELLAR DOOR (once is always twice)",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "ICA - Institute of Contemporary Arts London",
         "d": [
           "2008-04-25",
@@ -637,7 +637,7 @@
         "n": "Crash",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Gagosian Gallery",
         "d": [
           "2010-02-11",
@@ -676,7 +676,7 @@
         "n": "Hey, We're Closed!",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hayward Gallery",
         "d": [
           "2010-04-06",
@@ -937,7 +937,7 @@
         "n": "Dear Portrait",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Llandudno (Wales)",
+        "ct": "Llandudno, Wales",
         "o": "Oriel Mostyn Gallery",
         "d": [
           "2013-07-20",
@@ -962,6 +962,14 @@
       },
       {
         "i": "45769-2219-2013-06-19",
+        "c": "FR"
+      },
+      {
+        "i": "45769-1596-2013-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "45769-1596-2013-06-21",
         "c": "FR"
       }
     ],

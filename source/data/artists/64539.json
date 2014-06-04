@@ -154,26 +154,26 @@
         ]
       },
       {
-        "i": "64539--2008-09-04",
+        "i": "64539-13773-2008-09-04",
         "c": "GB",
-        "n": "Group Exhibitions",
+        "n": "Beck´s Fusion",
         "t": "Autre",
         "st": "Group",
-        "ct": "Manchester (England)",
-        "o": "",
+        "ct": "Manchester",
+        "o": "Castlefield Gallery",
         "d": [
           "2008-09-04",
           "2008-09-06"
         ]
       },
       {
-        "i": "64539-13773-2008-09-04",
+        "i": "64539--2008-09-04",
         "c": "GB",
-        "n": "Beck´s Fusion",
+        "n": "Group Exhibitions",
         "t": "Autre",
         "st": "Group",
-        "ct": "Manchester (England)",
-        "o": "Castlefield Gallery",
+        "ct": "Manchester",
+        "o": "",
         "d": [
           "2008-09-04",
           "2008-09-06"
@@ -198,7 +198,7 @@
         "n": "Outsiders",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Walsall, West Midlands (England)",
+        "ct": "Walsall, West Midlands",
         "o": "The New Art Gallery Walsall",
         "d": [
           "2008-12-05",
@@ -239,7 +239,7 @@
         "n": "Outsiders",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Walsall, West Midlands (England)",
+        "ct": "Walsall, West Midlands",
         "o": "The New Art Gallery Walsall",
         "d": [
           "2008-12-05",
@@ -260,7 +260,7 @@
         "n": "Grow Up",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Lazarides Gallery",
         "d": [
           "2009-05-15",
@@ -426,12 +426,25 @@
         ]
       },
       {
+        "i": "64539-10665-2011-07-28",
+        "c": "US",
+        "n": "European Bailout show",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Venice, CA",
+        "o": "Lazarides Gallery",
+        "d": [
+          "2011-07-28",
+          "2011-08-28"
+        ]
+      },
+      {
         "i": "64539-10665-2011-10-11",
         "c": "GB",
         "n": "The Minotaur",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Lazarides Gallery",
         "d": [
           "2011-10-11",
@@ -539,7 +552,7 @@
         "n": "Poesia - Werke Sammlung Rik Reinking",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Delmenhorst ",
+        "ct": "Delmenhorst",
         "o": "Städtische Galerie Delmenhorst",
         "d": [
           "2013-04-13",
@@ -552,7 +565,7 @@
         "n": "Cultural Hijack",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "AA Gallery - AA School of Architecture",
         "d": [
           "2013-04-26",
@@ -570,6 +583,19 @@
         "d": [
           "2013-07-08",
           "2013-08-30"
+        ]
+      },
+      {
+        "i": "64539-30714-2013-12-14",
+        "c": "NO",
+        "n": "Work, Buy, Consume, Die",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Stavanger",
+        "o": "Reed Projects gallery",
+        "d": [
+          "2013-12-14",
+          "2013-12-31"
         ]
       }
     ],

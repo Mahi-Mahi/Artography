@@ -86,7 +86,7 @@
         "n": "‘The Triumph of Painting’ from the Saatchi collection",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Leeds (England)",
+        "ct": "Leeds",
         "o": "Leeds Art Gallery",
         "d": [
           "2006-01-25",
@@ -125,7 +125,7 @@
         "n": "The Triumph of Painting - Part 4",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Saatchi Gallery",
         "d": [
           "2006-02-10",
@@ -177,7 +177,7 @@
         "n": "USA Today",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Royal Academy of Arts",
         "d": [
           "2006-10-07",
@@ -282,7 +282,7 @@
         "n": "When We Build, Let Us Think That We Build Forever",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Gateshead (England)",
+        "ct": "Gateshead",
         "o": "BALTIC Centre for Contemporary Art",
         "d": [
           "2007-09-21",
@@ -303,19 +303,6 @@
         ]
       },
       {
-        "i": "33706-2553-2007-10-24",
-        "c": "GB",
-        "n": "USA Today",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "London (England)",
-        "o": "The Saatchi Gallery",
-        "d": [
-          "2007-10-24",
-          "2008-01-13"
-        ]
-      },
-      {
         "i": "33706-10790-2007-10-24",
         "c": "RU",
         "n": "USA Today: New American Art from The Saatchi Gallery",
@@ -323,6 +310,19 @@
         "st": "Group",
         "ct": "St. Petersburg",
         "o": "The State Hermitage Museum",
+        "d": [
+          "2007-10-24",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "33706-2553-2007-10-24",
+        "c": "GB",
+        "n": "USA Today",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "London",
+        "o": "The Saatchi Gallery",
         "d": [
           "2007-10-24",
           "2008-01-13"
@@ -362,7 +362,7 @@
         "n": "When We Build, Let Us Think That We Build Forever",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Gateshead (England)",
+        "ct": "Gateshead",
         "o": "BALTIC Centre for Contemporary Art",
         "d": [
           "2007-09-21",
@@ -383,19 +383,6 @@
         ]
       },
       {
-        "i": "33706-2553-2007-10-24",
-        "c": "GB",
-        "n": "USA Today",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "London (England)",
-        "o": "The Saatchi Gallery",
-        "d": [
-          "2007-10-24",
-          "2008-01-13"
-        ]
-      },
-      {
         "i": "33706-10790-2007-10-24",
         "c": "RU",
         "n": "USA Today: New American Art from The Saatchi Gallery",
@@ -403,6 +390,19 @@
         "st": "Group",
         "ct": "St. Petersburg",
         "o": "The State Hermitage Museum",
+        "d": [
+          "2007-10-24",
+          "2008-01-13"
+        ]
+      },
+      {
+        "i": "33706-2553-2007-10-24",
+        "c": "GB",
+        "n": "USA Today",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "London",
+        "o": "The Saatchi Gallery",
         "d": [
           "2007-10-24",
           "2008-01-13"
@@ -466,7 +466,7 @@
         "n": "Mail Order Monsters",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Max Wigram Gallery, New Bond Street",
         "d": [
           "2008-09-20",
@@ -619,7 +619,7 @@
         "n": "Futurescape",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Storrs, CT\t",
+        "ct": "Storrs, CT",
         "o": "Contemporary Art Galleies - UConn School of Fine Arts",
         "d": [
           "2009-10-26",
@@ -661,7 +661,7 @@
         "t": "Galerie privée",
         "st": "Group",
         "ct": "Gstaad",
-        "o": "PATRICIA LOW CONTEMPORARY",
+        "o": "Patricia Low Contemporary",
         "d": [
           "2010-06-30",
           "2010-07-28"
@@ -795,6 +795,19 @@
           "2012-08-16",
           "2012-09-22"
         ]
+      },
+      {
+        "i": "33706-23328-2012-10-26",
+        "c": "US",
+        "n": "Jules De Balincourt - Ecstatic Contact",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Salon 94 Bowery",
+        "d": [
+          "2012-10-26",
+          "2013-01-13"
+        ]
       }
     ],
     "2013": [
@@ -838,7 +851,7 @@
         "n": "Painting at the Edge of Reality",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Victoria Miro Gallery",
         "d": [
           "2013-06-01",
@@ -869,6 +882,19 @@
         "d": [
           "2013-07-10",
           "2013-09-07"
+        ]
+      },
+      {
+        "i": "33706-23328-2012-10-26",
+        "c": "US",
+        "n": "Jules De Balincourt - Ecstatic Contact",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Salon 94 Bowery",
+        "d": [
+          "2012-10-26",
+          "2013-01-13"
         ]
       }
     ]

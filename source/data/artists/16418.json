@@ -159,20 +159,33 @@
       {
         "i": "16418-9923-2008-05-29",
         "c": "FR"
+      },
+      {
+        "i": "16418-15484-2008-09-01",
+        "c": "SE",
+        "n": "The Deluded Eye",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Stockholm",
+        "o": "Nationalmuseum",
+        "d": [
+          "2008-09-01",
+          "2009-01-11"
+        ]
       }
     ],
     "2009": [
       {
-        "i": "16418-20448-2009-05-16",
-        "c": "IT",
-        "n": "Second Skin",
+        "i": "16418-15484-2008-09-01",
+        "c": "SE",
+        "n": "The Deluded Eye",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Treviso",
-        "o": "Spazio Paraggi",
+        "ct": "Stockholm",
+        "o": "Nationalmuseum",
         "d": [
-          "2009-05-16",
-          "2009-06-27"
+          "2008-09-01",
+          "2009-01-11"
         ]
       },
       {
@@ -183,6 +196,19 @@
         "st": "Group",
         "ct": "Treviso",
         "o": "Associazione TRA - Treviso Ricerca Arte",
+        "d": [
+          "2009-05-16",
+          "2009-06-27"
+        ]
+      },
+      {
+        "i": "16418-20448-2009-05-16",
+        "c": "IT",
+        "n": "Second Skin",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Treviso",
+        "o": "Spazio Paraggi",
         "d": [
           "2009-05-16",
           "2009-06-27"

@@ -289,7 +289,7 @@
         "n": "Valérie Belin - Pallette & Chips",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Michael Hoppen Contemporary",
         "d": [
           "2006-08-15",
@@ -427,7 +427,7 @@
         "n": "Valérie Belin - Pallette & Chips",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Michael Hoppen Contemporary",
         "d": [
           "2006-08-15",
@@ -444,7 +444,7 @@
         "n": "Valerie Belin",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Michael Hoppen Contemporary",
         "d": [
           "2007-06-21",
@@ -481,6 +481,14 @@
           "2008-05-30",
           "2008-08-30"
         ]
+      },
+      {
+        "i": "6643-2303-2008-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "6643-2303-2008-06-14",
+        "c": "FR"
       },
       {
         "i": "6643-169-2008-08-30",
@@ -560,10 +568,6 @@
         "c": "FR"
       },
       {
-        "i": "6643-1407-2008-11-07",
-        "c": "FR"
-      },
-      {
         "i": "6643-9073-2008-11-07",
         "c": "CH",
         "n": "Valérie Belin - Rétrospective",
@@ -575,6 +579,10 @@
           "2008-11-07",
           "2009-01-18"
         ]
+      },
+      {
+        "i": "6643-1407-2008-11-07",
+        "c": "FR"
       }
     ],
     "2009": [
@@ -762,16 +770,12 @@
         "n": "C O L O U R - Group Show",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Michael Hoppen Contemporary",
         "d": [
           "2009-11-25",
           "2010-01-09"
         ]
-      },
-      {
-        "i": "6643-1407-2008-11-07",
-        "c": "FR"
       },
       {
         "i": "6643-9073-2008-11-07",
@@ -785,6 +789,10 @@
           "2008-11-07",
           "2009-01-18"
         ]
+      },
+      {
+        "i": "6643-1407-2008-11-07",
+        "c": "FR"
       },
       {
         "i": "6643-5735-2009-10-17",
@@ -865,19 +873,19 @@
         ]
       },
       {
-        "i": "6643-24709-2011-05-13",
-        "c": "FR"
-      },
-      {
-        "i": "6643-24709-2011-05-13",
-        "c": "FR"
-      },
-      {
         "i": "6643-24711-2011-05-13",
         "c": "FR"
       },
       {
         "i": "6643-24711-2011-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "6643-24709-2011-05-13",
+        "c": "FR"
+      },
+      {
+        "i": "6643-24709-2011-05-13",
         "c": "FR"
       },
       {
@@ -904,6 +912,19 @@
         "d": [
           "2011-08-16",
           "2011-10-16"
+        ]
+      },
+      {
+        "i": "6643-617-2011-10-09",
+        "c": "DE",
+        "n": "Photography Calling! - The Sound of Downloading Makes Me Want to Upload",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Hannover",
+        "o": "Sprengel Museum Hannover",
+        "d": [
+          "2011-10-09",
+          "2012-01-15"
         ]
       },
       {
@@ -960,7 +981,7 @@
         "n": "C O L O U R - Group Show",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Michael Hoppen Contemporary",
         "d": [
           "2009-11-25",
@@ -1059,6 +1080,19 @@
     ],
     "2012": [
       {
+        "i": "6643-617-2011-10-09",
+        "c": "DE",
+        "n": "Photography Calling! - The Sound of Downloading Makes Me Want to Upload",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Hannover",
+        "o": "Sprengel Museum Hannover",
+        "d": [
+          "2011-10-09",
+          "2012-01-15"
+        ]
+      },
+      {
         "i": "6643-6505-2012-09-07",
         "c": "DE",
         "n": "Verlangsamte Performance",
@@ -1094,7 +1128,7 @@
         "n": "Yohoho",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Michael Hoppen Contemporary",
         "d": [
           "2012-05-30",
@@ -1155,19 +1189,6 @@
         "d": [
           "2013-02-21",
           "2013-03-30"
-        ]
-      },
-      {
-        "i": "6643-2606-2013-02-27",
-        "c": "RU",
-        "n": "The Illusions Of Life",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Moscow",
-        "o": "Moscow House of Photography",
-        "d": [
-          "2013-02-27",
-          "2013-03-31"
         ]
       }
     ],

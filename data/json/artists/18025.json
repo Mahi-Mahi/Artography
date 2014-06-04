@@ -87,7 +87,7 @@
         "t": "Galerie privée",
         "st": "Group",
         "ct": "Ljubljana",
-        "o": "Galerija Gregor Podnar - Ljubljana",
+        "o": "Project Space Galerija Gregor Podnar – Ljubljana",
         "d": [
           "2006-03-17",
           "2006-04-15"
@@ -152,12 +152,20 @@
         "n": "Momentary Momentum",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Parasol unit",
         "d": [
           "2007-03-03",
           "2007-05-12"
         ]
+      },
+      {
+        "i": "18025-13514-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "18025-13514-2007-09-15",
+        "c": "FR"
       },
       {
         "i": "18025-2528-2007-09-15",
@@ -179,14 +187,6 @@
           "2007-09-15",
           "2008-01-20"
         ]
-      },
-      {
-        "i": "18025-13514-2007-09-15",
-        "c": "FR"
-      },
-      {
-        "i": "18025-13514-2007-09-15",
-        "c": "FR"
       },
       {
         "i": "18025-7066-2007-12-04",
@@ -239,7 +239,7 @@
         "n": "momentary momentum",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Cambridge, Cambridgeshire (England)",
+        "ct": "Cambridge, Cambridgeshire",
         "o": "Kettle's Yard",
         "d": [
           "2008-01-29",
@@ -311,7 +311,7 @@
         "n": "SITE Santa Fe Biennial 2010 - The Dissolve",
         "st": "Group",
         "ct": "Santa Fe, NM",
-        "o": "SITE Santa Fe Biennial",
+        "o": "SITElines",
         "d": [
           "2010-06-20",
           "2011-01-02"
@@ -338,7 +338,7 @@
         "n": "SITE Santa Fe Biennial 2010 - The Dissolve",
         "st": "Group",
         "ct": "Santa Fe, NM",
-        "o": "SITE Santa Fe Biennial",
+        "o": "SITElines",
         "d": [
           "2010-06-20",
           "2011-01-02"
@@ -434,6 +434,19 @@
         "d": [
           "2012-02-29",
           "2012-04-20"
+        ]
+      },
+      {
+        "i": "18025-9469-2012-10-19",
+        "c": "NO",
+        "n": "Nothing is Forgotten, Some Things Considered",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Oslo",
+        "o": "The Young Artists Society - Unge Kunstneres Samfund (UKS) ",
+        "d": [
+          "2012-10-19",
+          "2012-12-02"
         ]
       }
     ],

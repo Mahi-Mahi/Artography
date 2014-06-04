@@ -195,7 +195,7 @@
         "n": "Open-Ended",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Thomas Dane Gallery",
         "d": [
           "2005-12-08",
@@ -266,7 +266,7 @@
         "n": "Open-Ended",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Thomas Dane Gallery",
         "d": [
           "2005-12-08",
@@ -357,7 +357,7 @@
         "n": "Entangled Tongues",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Nunnery Gallery",
         "d": [
           "2006-04-21",
@@ -394,19 +394,6 @@
         "c": "FR"
       },
       {
-        "i": "11235-2125-2006-06-29",
-        "c": "US",
-        "n": "Pierre Bismuth, Ryan Gander, Karl Haendel, T. Kelly Mason",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "New York City, NY",
-        "o": "Cohan and Leslie",
-        "d": [
-          "2006-06-29",
-          "2006-08-18"
-        ]
-      },
-      {
         "i": "11235-6461-2006-06-29",
         "c": "IT",
         "n": "People",
@@ -417,6 +404,19 @@
         "d": [
           "2006-06-29",
           "2006-08-28"
+        ]
+      },
+      {
+        "i": "11235-2125-2006-06-29",
+        "c": "US",
+        "n": "Pierre Bismuth, Ryan Gander, Karl Haendel, T. Kelly Mason",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Cohan and Leslie",
+        "d": [
+          "2006-06-29",
+          "2006-08-18"
         ]
       },
       {
@@ -742,7 +742,7 @@
         "n": "Invisible",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Max Wigram Gallery, New Bond Street",
         "d": [
           "2007-07-17",
@@ -1002,7 +1002,7 @@
         "n": "Yours, Mine, Ours",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Colchester (England)",
+        "ct": "Colchester",
         "o": "University Gallery - University of Essex",
         "d": [
           "2008-04-21",
@@ -1080,7 +1080,7 @@
         "n": "The All-Seeing Eye (The Hardcore-Techno Version)",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "BFI - British Film Institute Southbank Gallery",
         "d": [
           "2008-09-12",
@@ -1237,7 +1237,7 @@
         "n": "Talk Show",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "ICA - Institute of Contemporary Arts London",
         "d": [
           "2009-05-06",
@@ -1289,7 +1289,7 @@
         "n": "I Am By Birth A Genevese - Group Exhibition",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Vegas Gallery",
         "d": [
           "2009-06-18",
@@ -1340,7 +1340,7 @@
         "c": "ES",
         "n": "IV Bienal de Jafre",
         "st": "Group",
-        "ct": "Jafre (Girona)",
+        "ct": "Jafre, Girona",
         "o": "Bienal de Jafre",
         "d": [
           "2009-08-08",
@@ -1366,7 +1366,7 @@
         "n": "Pete and Repeat - Works from the Zabludowicz Collection",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Zabludowicz Collection London",
         "d": [
           "2009-09-17",
@@ -1803,19 +1803,6 @@
         ]
       },
       {
-        "i": "11235-2293-2010-12-18",
-        "c": "DE",
-        "n": "Bild für Bild - Film und zeitgenössische Kunst",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Dortmund",
-        "o": "Museum Ostwall im Dortmunder U",
-        "d": [
-          "2010-12-18",
-          "2011-04-25"
-        ]
-      },
-      {
         "i": "11235-3807-2010-12-18",
         "c": "AU",
         "n": "21st Century: Art in the First Decade",
@@ -1823,6 +1810,19 @@
         "st": "Group",
         "ct": "Brisbane, QLD",
         "o": "Queensland Art Gallery / Gallery of Modern Art",
+        "d": [
+          "2010-12-18",
+          "2011-04-25"
+        ]
+      },
+      {
+        "i": "11235-2293-2010-12-18",
+        "c": "DE",
+        "n": "Bild für Bild - Film und zeitgenössische Kunst",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
         "d": [
           "2010-12-18",
           "2011-04-25"
@@ -1916,19 +1916,6 @@
         ]
       },
       {
-        "i": "11235-2293-2010-12-18",
-        "c": "DE",
-        "n": "Bild für Bild - Film und zeitgenössische Kunst",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Dortmund",
-        "o": "Museum Ostwall im Dortmunder U",
-        "d": [
-          "2010-12-18",
-          "2011-04-25"
-        ]
-      },
-      {
         "i": "11235-3807-2010-12-18",
         "c": "AU",
         "n": "21st Century: Art in the First Decade",
@@ -1936,6 +1923,19 @@
         "st": "Group",
         "ct": "Brisbane, QLD",
         "o": "Queensland Art Gallery / Gallery of Modern Art",
+        "d": [
+          "2010-12-18",
+          "2011-04-25"
+        ]
+      },
+      {
+        "i": "11235-2293-2010-12-18",
+        "c": "DE",
+        "n": "Bild für Bild - Film und zeitgenössische Kunst",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
         "d": [
           "2010-12-18",
           "2011-04-25"
@@ -2100,19 +2100,6 @@
         ]
       },
       {
-        "i": "11235-3737-2011-10-01",
-        "c": "LU",
-        "n": "Found in Translation - Chapter L",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Luxembourg",
-        "o": "Casino Luxembourg - Forum d'art contemporain",
-        "d": [
-          "2011-10-01",
-          "2012-01-08"
-        ]
-      },
-      {
         "i": "11235-10361-2011-10-01",
         "c": "BE",
         "n": "Found In Translation, Chapter L",
@@ -2120,6 +2107,19 @@
         "st": "Group",
         "ct": "Brussels",
         "o": "Maison Grégoire",
+        "d": [
+          "2011-10-01",
+          "2012-01-08"
+        ]
+      },
+      {
+        "i": "11235-3737-2011-10-01",
+        "c": "LU",
+        "n": "Found in Translation - Chapter L",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
         "d": [
           "2011-10-01",
           "2012-01-08"
@@ -2167,19 +2167,6 @@
     ],
     "2012": [
       {
-        "i": "11235-3737-2011-10-01",
-        "c": "LU",
-        "n": "Found in Translation - Chapter L",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Luxembourg",
-        "o": "Casino Luxembourg - Forum d'art contemporain",
-        "d": [
-          "2011-10-01",
-          "2012-01-08"
-        ]
-      },
-      {
         "i": "11235-10361-2011-10-01",
         "c": "BE",
         "n": "Found In Translation, Chapter L",
@@ -2187,6 +2174,19 @@
         "st": "Group",
         "ct": "Brussels",
         "o": "Maison Grégoire",
+        "d": [
+          "2011-10-01",
+          "2012-01-08"
+        ]
+      },
+      {
+        "i": "11235-3737-2011-10-01",
+        "c": "LU",
+        "n": "Found in Translation - Chapter L",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
         "d": [
           "2011-10-01",
           "2012-01-08"
@@ -2248,7 +2248,7 @@
         "n": "The Artists’ Postcard Show",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Bristol (England)",
+        "ct": "Bristol",
         "o": "Spike Island",
         "d": [
           "2012-04-06",
@@ -2287,7 +2287,7 @@
         "n": "Graphology",
         "t": "Autre",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Drawing Room",
         "d": [
           "2012-05-10",
@@ -2407,6 +2407,19 @@
         ]
       },
       {
+        "i": "11235-31036-2012-10-01",
+        "c": "GB",
+        "n": "Graphology",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Colchester",
+        "o": "Art Exchange",
+        "d": [
+          "2012-10-01",
+          "2012-11-03"
+        ]
+      },
+      {
         "i": "11235-5433-2012-10-17",
         "c": "US",
         "n": "Now Here is also Nowhere: Part I",
@@ -2498,7 +2511,7 @@
         "i": "11235-6969-2013-03-02",
         "c": "US",
         "n": "Pinups & Portraits",
-        "t": "Galerie privée",
+        "t": "Autre",
         "st": "Group",
         "ct": "Santa Monica, CA",
         "o": "IKON Ltd",
@@ -2510,7 +2523,7 @@
       {
         "i": "11235-27771-2013-03-07",
         "c": "BE",
-        "n": "Collection Centre national des arts plastiques",
+        "n": "L&#8217;ORIGINE DES CHOSES - Collection Centre national des arts plastiques",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Brussels",
@@ -2573,7 +2586,7 @@
         "n": "Dear Portrait",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Llandudno (Wales)",
+        "ct": "Llandudno, Wales",
         "o": "Oriel Mostyn Gallery",
         "d": [
           "2013-07-20",

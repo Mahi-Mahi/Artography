@@ -243,6 +243,10 @@
         ]
       },
       {
+        "i": "119-4184-2005-12-01",
+        "c": "FR"
+      },
+      {
         "i": "119-1938-2005-12-01",
         "c": "CH",
         "n": "Peintures et Sculptures",
@@ -254,10 +258,6 @@
           "2005-12-01",
           "2005-12-23"
         ]
-      },
-      {
-        "i": "119-4184-2005-12-01",
-        "c": "FR"
       },
       {
         "i": "119-821-2005-12-10",
@@ -458,7 +458,7 @@
         "n": "Täuschungsmanöver - Optische Irritationen und visuelle Manipulationen",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Schwäbisch Hall\t",
+        "ct": "Schwäbisch Hall",
         "o": "Kunsthalle Würth",
         "d": [
           "2006-05-03",
@@ -466,19 +466,19 @@
         ]
       },
       {
-        "i": "119-2028-2006-05-10",
-        "c": "FR"
-      },
-      {
-        "i": "119-2028-2006-05-10",
-        "c": "FR"
-      },
-      {
         "i": "119-26765-2006-05-10",
         "c": "FR"
       },
       {
         "i": "119-26765-2006-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "119-2028-2006-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "119-2028-2006-05-10",
         "c": "FR"
       },
       {
@@ -565,15 +565,15 @@
         "c": "FR"
       },
       {
-        "i": "119-2014-2006-06-30",
-        "c": "FR"
-      },
-      {
-        "i": "119-2014-2006-06-30",
-        "c": "FR"
-      },
-      {
         "i": "119-13652-2006-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "119-2014-2006-06-30",
+        "c": "FR"
+      },
+      {
+        "i": "119-2014-2006-06-30",
         "c": "FR"
       },
       {
@@ -637,15 +637,23 @@
         "c": "FR"
       },
       {
+        "i": "119-4706-2006-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "119-4706-2006-09-15",
+        "c": "FR"
+      },
+      {
         "i": "119-3864-2006-09-15",
         "c": "FR"
       },
       {
-        "i": "119-4706-2006-09-15",
+        "i": "119-2028-2006-09-23",
         "c": "FR"
       },
       {
-        "i": "119-4706-2006-09-15",
+        "i": "119-2028-2006-09-23",
         "c": "FR"
       },
       {
@@ -660,14 +668,6 @@
           "2006-09-23",
           "2006-11-12"
         ]
-      },
-      {
-        "i": "119-2028-2006-09-23",
-        "c": "FR"
-      },
-      {
-        "i": "119-2028-2006-09-23",
-        "c": "FR"
       },
       {
         "i": "119-7423-2006-09-24",
@@ -1120,6 +1120,14 @@
         ]
       },
       {
+        "i": "119-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "119-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
         "i": "119-97-2007-06-02",
         "c": "CH",
         "n": "Isa Melsheimer - tiefes rauschen",
@@ -1131,14 +1139,6 @@
           "2007-06-02",
           "2007-07-21"
         ]
-      },
-      {
-        "i": "119-8548-2007-06-02",
-        "c": "FR"
-      },
-      {
-        "i": "119-8548-2007-06-02",
-        "c": "FR"
       },
       {
         "i": "119-2028-2007-06-03",
@@ -1321,19 +1321,6 @@
         ]
       },
       {
-        "i": "119-2181-2007-11-08",
-        "c": "DE",
-        "n": "Die aufregende Kunst des 20. Jahrhunderts",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Neue Nationalgalerie",
-        "d": [
-          "2007-11-08",
-          "2008-06-08"
-        ]
-      },
-      {
         "i": "119-7923-2007-11-08",
         "c": "US",
         "n": "INDICA",
@@ -1344,6 +1331,19 @@
         "d": [
           "2007-11-08",
           "2007-12-22"
+        ]
+      },
+      {
+        "i": "119-2181-2007-11-08",
+        "c": "DE",
+        "n": "Die aufregende Kunst des 20. Jahrhunderts",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Neue Nationalgalerie",
+        "d": [
+          "2007-11-08",
+          "2008-06-08"
         ]
       },
       {
@@ -1435,19 +1435,19 @@
         ]
       },
       {
-        "i": "119-2028-2007-06-06",
-        "c": "FR"
-      },
-      {
-        "i": "119-2028-2007-06-06",
-        "c": "FR"
-      },
-      {
         "i": "119-2528-2007-06-06",
         "c": "FR"
       },
       {
         "i": "119-2528-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "119-2028-2007-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "119-2028-2007-06-06",
         "c": "FR"
       },
       {
@@ -1530,19 +1530,6 @@
         "c": "FR"
       },
       {
-        "i": "119-21266-2007-12-29",
-        "c": "CH",
-        "n": "Francois Morellet",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "S-chanf",
-        "o": "von Bartha Chesa",
-        "d": [
-          "2007-12-29",
-          "2008-01-31"
-        ]
-      },
-      {
         "i": "119-21228-2007-12-29",
         "c": "CH",
         "n": "Francois Morellet",
@@ -1550,6 +1537,19 @@
         "st": "Solo",
         "ct": "Basel",
         "o": "von Bartha Garage",
+        "d": [
+          "2007-12-29",
+          "2008-01-31"
+        ]
+      },
+      {
+        "i": "119-21266-2007-12-29",
+        "c": "CH",
+        "n": "Francois Morellet",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "S-chanf",
+        "o": "von Bartha Chesa",
         "d": [
           "2007-12-29",
           "2008-01-31"
@@ -1776,6 +1776,19 @@
         ]
       },
       {
+        "i": "119-29362-2008-05-24",
+        "c": "IT",
+        "n": "Non Ho Parole",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Cremona",
+        "o": "CRAC Centro Ricerca Arte Contemporanea",
+        "d": [
+          "2008-05-24",
+          "2008-06-08"
+        ]
+      },
+      {
         "i": "119-1715-2008-06-13",
         "c": "BE",
         "n": "DIFFRACTED SOLSTICE - Group Exhibition",
@@ -1929,19 +1942,6 @@
         "c": "FR"
       },
       {
-        "i": "119-4315-2008-10-23",
-        "c": "CH",
-        "n": "Linie und Raum",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Bern",
-        "o": "Galerie Margit Haldemann",
-        "d": [
-          "2008-10-23",
-          "2008-12-06"
-        ]
-      },
-      {
         "i": "119-8401-2008-10-23",
         "c": "ES",
         "n": "Diagonal",
@@ -1952,6 +1952,19 @@
         "d": [
           "2008-10-23",
           "2008-11-29"
+        ]
+      },
+      {
+        "i": "119-4315-2008-10-23",
+        "c": "CH",
+        "n": "Linie und Raum",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Bern",
+        "o": "Galerie Margit Haldemann",
+        "d": [
+          "2008-10-23",
+          "2008-12-06"
         ]
       },
       {
@@ -2014,19 +2027,6 @@
         "c": "FR"
       },
       {
-        "i": "119-3714-2008-11-27",
-        "c": "SG",
-        "n": "is it tomorrow yet?",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Singapore",
-        "o": "Singapore Art Museum",
-        "d": [
-          "2008-11-27",
-          "2009-03-01"
-        ]
-      },
-      {
         "i": "119-4325-2008-11-27",
         "c": "CH",
         "n": "Licht & Gold",
@@ -2037,6 +2037,19 @@
         "d": [
           "2008-11-27",
           "2009-01-31"
+        ]
+      },
+      {
+        "i": "119-3714-2008-11-27",
+        "c": "SG",
+        "n": "is it tomorrow yet?",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Singapore",
+        "o": "Singapore Art Museum",
+        "d": [
+          "2008-11-27",
+          "2009-03-01"
         ]
       },
       {
@@ -2061,19 +2074,6 @@
         "c": "FR"
       },
       {
-        "i": "119-21266-2007-12-29",
-        "c": "CH",
-        "n": "Francois Morellet",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "S-chanf",
-        "o": "von Bartha Chesa",
-        "d": [
-          "2007-12-29",
-          "2008-01-31"
-        ]
-      },
-      {
         "i": "119-21228-2007-12-29",
         "c": "CH",
         "n": "Francois Morellet",
@@ -2081,6 +2081,19 @@
         "st": "Solo",
         "ct": "Basel",
         "o": "von Bartha Garage",
+        "d": [
+          "2007-12-29",
+          "2008-01-31"
+        ]
+      },
+      {
+        "i": "119-21266-2007-12-29",
+        "c": "CH",
+        "n": "Francois Morellet",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "S-chanf",
+        "o": "von Bartha Chesa",
         "d": [
           "2007-12-29",
           "2008-01-31"
@@ -2196,19 +2209,6 @@
         "c": "FR"
       },
       {
-        "i": "119-3714-2008-11-27",
-        "c": "SG",
-        "n": "is it tomorrow yet?",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Singapore",
-        "o": "Singapore Art Museum",
-        "d": [
-          "2008-11-27",
-          "2009-03-01"
-        ]
-      },
-      {
         "i": "119-4325-2008-11-27",
         "c": "CH",
         "n": "Licht & Gold",
@@ -2219,6 +2219,19 @@
         "d": [
           "2008-11-27",
           "2009-01-31"
+        ]
+      },
+      {
+        "i": "119-3714-2008-11-27",
+        "c": "SG",
+        "n": "is it tomorrow yet?",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Singapore",
+        "o": "Singapore Art Museum",
+        "d": [
+          "2008-11-27",
+          "2009-03-01"
         ]
       },
       {
@@ -2421,6 +2434,14 @@
         ]
       },
       {
+        "i": "119-1941-2009-09-12",
+        "c": "FR"
+      },
+      {
+        "i": "119-1941-2009-09-12",
+        "c": "FR"
+      },
+      {
         "i": "119-2089-2009-09-12",
         "c": "DE",
         "n": "Drawing Sculpture: Zeichnung, Skulptur, Video aus der Daimler Kunst Sammlung",
@@ -2432,14 +2453,6 @@
           "2009-09-12",
           "2010-02-28"
         ]
-      },
-      {
-        "i": "119-1941-2009-09-12",
-        "c": "FR"
-      },
-      {
-        "i": "119-1941-2009-09-12",
-        "c": "FR"
       },
       {
         "i": "119-5478-2009-09-18",
@@ -2507,19 +2520,6 @@
         ]
       },
       {
-        "i": "119-269-2009-10-24",
-        "c": "DE",
-        "n": "When ideas become form - 30 Jahre Galerie",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Mainz",
-        "o": "Galerie Dr. Dorothea van der Koelen",
-        "d": [
-          "2009-10-24",
-          "2010-02-26"
-        ]
-      },
-      {
         "i": "119-97-2009-10-24",
         "c": "CH",
         "n": "first choice / raum 3",
@@ -2530,6 +2530,19 @@
         "d": [
           "2009-10-24",
           "2009-12-19"
+        ]
+      },
+      {
+        "i": "119-269-2009-10-24",
+        "c": "DE",
+        "n": "When ideas become form - 30 Jahre Galerie",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Mainz",
+        "o": "Galerie Dr. Dorothea van der Koelen",
+        "d": [
+          "2009-10-24",
+          "2010-02-26"
         ]
       },
       {
@@ -2645,6 +2658,19 @@
         ]
       },
       {
+        "i": "119-8500-2009-07-24",
+        "c": "US",
+        "n": "RECENT WORKS: PAINTINGS AND NEON",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Santa Fe, NM",
+        "o": "Zane Bennett Contemporary Art",
+        "d": [
+          "2009-07-24",
+          "2009-09-05"
+        ]
+      },
+      {
         "i": "119-7624-2009-07-24",
         "c": "AT",
         "n": "Francois Morellet",
@@ -2661,19 +2687,6 @@
         "i": "119-8500-2009-07-24",
         "c": "US",
         "n": "FRANÇOIS MORELLET",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Santa Fe, NM",
-        "o": "Zane Bennett Contemporary Art",
-        "d": [
-          "2009-07-24",
-          "2009-09-05"
-        ]
-      },
-      {
-        "i": "119-8500-2009-07-24",
-        "c": "US",
-        "n": "RECENT WORKS: PAINTINGS AND NEON",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "Santa Fe, NM",
@@ -2979,19 +2992,6 @@
         ]
       },
       {
-        "i": "119-1469-2010-06-01",
-        "c": "CH",
-        "n": "Works From The Collection",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Basel",
-        "o": "von Bartha Collection",
-        "d": [
-          "2010-06-01",
-          "2010-09-30"
-        ]
-      },
-      {
         "i": "119-97-2010-06-12",
         "c": "CH",
         "n": "Gruppenausstellung",
@@ -3120,7 +3120,7 @@
         "n": "Abstraction-creation: Post-war Geometric Abstract Art From Europe And South America",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Austin/Desmond Fine Art",
         "d": [
           "2010-09-08",
@@ -3141,14 +3141,6 @@
         ]
       },
       {
-        "i": "119-11681-2010-09-11",
-        "c": "FR"
-      },
-      {
-        "i": "119-11681-2010-09-11",
-        "c": "FR"
-      },
-      {
         "i": "119-17611-2010-09-11",
         "c": "DE",
         "n": "Lavier, Mont, Morellet, Zuber",
@@ -3160,6 +3152,14 @@
           "2010-09-11",
           "2010-10-23"
         ]
+      },
+      {
+        "i": "119-11681-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "119-11681-2010-09-11",
+        "c": "FR"
       },
       {
         "i": "119-2028-2010-10-01",
@@ -3180,6 +3180,19 @@
         "d": [
           "2010-10-10",
           "2011-05-01"
+        ]
+      },
+      {
+        "i": "119-13651-2010-10-24",
+        "c": "DE",
+        "n": "Plus de lumière",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Freiburg",
+        "o": "Kunstraum Alexander Bürkle",
+        "d": [
+          "2010-10-24",
+          "2011-03-20"
         ]
       },
       {
@@ -3317,6 +3330,19 @@
         ]
       },
       {
+        "i": "119-13651-2010-10-24",
+        "c": "DE",
+        "n": "Plus de lumière",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Freiburg",
+        "o": "Kunstraum Alexander Bürkle",
+        "d": [
+          "2010-10-24",
+          "2011-03-20"
+        ]
+      },
+      {
         "i": "119-6148-2010-11-25",
         "c": "SI",
         "n": "Twenty-six million minutes latter",
@@ -3444,19 +3470,6 @@
         ]
       },
       {
-        "i": "119-14268-2011-04-09",
-        "c": "BE",
-        "n": "Black and White",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Knokke-Heist",
-        "o": "MDZ Art Gallery",
-        "d": [
-          "2011-04-09",
-          "2011-05-12"
-        ]
-      },
-      {
         "i": "119-123-2011-04-09",
         "c": "IT",
         "n": "IN PARALLELO. UNA MOSTRA. TRE LUOGHI",
@@ -3467,6 +3480,19 @@
         "d": [
           "2011-04-09",
           "2011-05-03"
+        ]
+      },
+      {
+        "i": "119-14268-2011-04-09",
+        "c": "BE",
+        "n": "Black and White",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Knokke-Heist",
+        "o": "MDZ Art Gallery",
+        "d": [
+          "2011-04-09",
+          "2011-05-12"
         ]
       },
       {
@@ -3637,19 +3663,6 @@
         "c": "FR"
       },
       {
-        "i": "119-227-2011-09-09",
-        "c": "DE",
-        "n": "Op Art = Illusion",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Munich",
-        "o": "Galerie Thomas",
-        "d": [
-          "2011-09-09",
-          "2012-01-21"
-        ]
-      },
-      {
         "i": "119-78-2011-09-09",
         "c": "NL",
         "n": "herman de vries 80 - nul=zero and contemporaries",
@@ -3660,6 +3673,19 @@
         "d": [
           "2011-09-09",
           "2011-10-22"
+        ]
+      },
+      {
+        "i": "119-227-2011-09-09",
+        "c": "DE",
+        "n": "Op Art = Illusion",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Munich",
+        "o": "Galerie Thomas",
+        "d": [
+          "2011-09-09",
+          "2012-01-21"
         ]
       },
       {
@@ -3821,7 +3847,7 @@
         "n": "Group Exhibition",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Annely Juda Fine Art",
         "d": [
           "2011-10-27",
@@ -4347,6 +4373,19 @@
         ]
       },
       {
+        "i": "119-22559-2012-07-06",
+        "c": "DE",
+        "n": "Prozesse der Abstraktion",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Igel",
+        "o": "Galerie ART-IS!",
+        "d": [
+          "2012-07-06",
+          "2012-08-10"
+        ]
+      },
+      {
         "i": "119-29210-2012-07-06",
         "c": "IT",
         "n": "The Small Utopia. Ars Multiplicata",
@@ -4360,16 +4399,16 @@
         ]
       },
       {
-        "i": "119-22559-2012-07-06",
-        "c": "DE",
-        "n": "Prozesse der Abstraktion",
-        "t": "Galerie privée",
+        "i": "119-2666-2012-07-12",
+        "c": "ES",
+        "n": "Abstracción Y Movimiento",
+        "t": "Institution publique",
         "st": "Group",
-        "ct": "Igel",
-        "o": "Galerie ART-IS!",
+        "ct": "Sevilla",
+        "o": "Centro Andaluz de Arte Contemporáneo (CAAC)",
         "d": [
-          "2012-07-06",
-          "2012-08-10"
+          "2012-07-12",
+          "2012-11-11"
         ]
       },
       {
@@ -4477,7 +4516,7 @@
         "n": "Moving Spirits",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Mayor Gallery",
         "d": [
           "2012-11-10",
@@ -4814,7 +4853,7 @@
         "n": "Light Show",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Hayward Gallery",
         "d": [
           "2013-01-30",
@@ -4841,6 +4880,19 @@
       {
         "i": "119-10235-2013-02-24",
         "c": "FR"
+      },
+      {
+        "i": "119-4980-2013-03-06",
+        "c": "DE",
+        "n": "Give me five",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Frankfurt/Main",
+        "o": "Städel Museum",
+        "d": [
+          "2013-03-06",
+          "2013-06-23"
+        ]
       },
       {
         "i": "119-27839-2013-03-08",
@@ -4950,6 +5002,14 @@
         "c": "FR"
       },
       {
+        "i": "119-8541-2013-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "119-8541-2013-05-17",
+        "c": "FR"
+      },
+      {
         "i": "119-269-2013-05-29",
         "c": "DE",
         "n": "In the Mirror of Reality",
@@ -4984,12 +5044,38 @@
         ]
       },
       {
+        "i": "119-30670-2013-07-03",
+        "c": "SK",
+        "n": "Opening of the new Kunsthalle, Unveiling of the public sculpture",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Kosice",
+        "o": "Kunsthalle Kosice",
+        "d": [
+          "2013-07-03",
+          "2013-08-25"
+        ]
+      },
+      {
         "i": "119-16207-2013-07-05",
         "c": "FR"
       },
       {
         "i": "119-16207-2013-07-05",
         "c": "FR"
+      },
+      {
+        "i": "119-7624-2013-07-19",
+        "c": "AT",
+        "n": "Secondary Structures",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Salzburg",
+        "o": "Galerie Nikolaus Ruzicska",
+        "d": [
+          "2013-07-19",
+          "2013-08-31"
+        ]
       },
       {
         "i": "119-3009-2013-07-25",
@@ -5018,6 +5104,19 @@
         ]
       },
       {
+        "i": "119-21228-2013-09-09",
+        "c": "CH",
+        "n": "Kinetic",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Basel",
+        "o": "von Bartha Garage",
+        "d": [
+          "2013-09-09",
+          "2013-10-26"
+        ]
+      },
+      {
         "i": "119-2545-2013-09-13",
         "c": "DE",
         "n": "schwarz // weiss",
@@ -5028,6 +5127,19 @@
         "d": [
           "2013-09-13",
           "2013-10-19"
+        ]
+      },
+      {
+        "i": "119-10469-2013-09-15",
+        "c": "DE",
+        "n": "The Sixties - Kunst und Kultur der 1960er Jahre in Deutschland Werke aus der Daimler Kunst Sammlung",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Sindelfingen",
+        "o": "Galerie der Stadt Sindelfingen",
+        "d": [
+          "2013-09-15",
+          "2013-11-03"
         ]
       },
       {
@@ -5044,6 +5156,19 @@
         ]
       },
       {
+        "i": "119-7423-2013-09-29",
+        "c": "DE",
+        "n": "Eine Handvoll Erde aus dem Paradies, Magische Objekte und Bilder aus dem Museum Morsbroich",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Leverkusen",
+        "o": "Museum Morsbroich",
+        "d": [
+          "2013-09-29",
+          "2014-01-12"
+        ]
+      },
+      {
         "i": "119-29739-2013-10-12",
         "c": "FR"
       },
@@ -5054,7 +5179,7 @@
       {
         "i": "119-7927-2013-10-20",
         "c": "DE",
-        "n": "Good Vibrations - Werke zu Lichtkunst und Kinetik aus der Sammlung Marli Hoppe-Ritter",
+        "n": "Licht. Kunst. Kinetik. Werke aus der Sammlung Marli Hoppe-Ritter ",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Waldenbuch",
@@ -5143,7 +5268,7 @@
         "n": "François Morellet",
         "t": "Institution publique",
         "st": "Solo",
-        "ct": "Birmingham (England)",
+        "ct": "Birmingham",
         "o": "Ikon Gallery",
         "d": [
           "2013-05-01",
@@ -5208,6 +5333,19 @@
         ]
       },
       {
+        "i": "119-7423-2013-09-29",
+        "c": "DE",
+        "n": "Eine Handvoll Erde aus dem Paradies, Magische Objekte und Bilder aus dem Museum Morsbroich",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Leverkusen",
+        "o": "Museum Morsbroich",
+        "d": [
+          "2013-09-29",
+          "2014-01-12"
+        ]
+      },
+      {
         "i": "119-29739-2013-10-12",
         "c": "FR"
       },
@@ -5218,7 +5356,7 @@
       {
         "i": "119-7927-2013-10-20",
         "c": "DE",
-        "n": "Good Vibrations - Werke zu Lichtkunst und Kinetik aus der Sammlung Marli Hoppe-Ritter",
+        "n": "Licht. Kunst. Kinetik. Werke aus der Sammlung Marli Hoppe-Ritter ",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Waldenbuch",

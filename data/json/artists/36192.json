@@ -89,7 +89,7 @@
         "n": "Archipeinture",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Camden Arts Centre",
         "d": [
           "2006-07-14",
@@ -264,7 +264,7 @@
         "i": "36192-11869-2010-05-14",
         "c": "IT",
         "n": "Yves Bélorgey",
-        "t": "Institution publique",
+        "t": "Autre",
         "st": "Solo",
         "ct": "Milan",
         "o": "Galleria Gruppo Credito Valtellinese",
@@ -286,6 +286,19 @@
         "d": [
           "2011-01-24",
           "2011-04-20"
+        ]
+      },
+      {
+        "i": "36192-28555-2011-09-15",
+        "c": "CH",
+        "n": "Look",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Galerie Xippas Switzerland",
+        "d": [
+          "2011-09-15",
+          "2011-11-12"
         ]
       }
     ],
@@ -380,6 +393,19 @@
       {
         "i": "36192-30001-2013-05-15",
         "c": "FR"
+      },
+      {
+        "i": "36192-28555-2013-05-02",
+        "c": "CH",
+        "n": "Yves Bélorgey",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Geneva",
+        "o": "Galerie Xippas Switzerland",
+        "d": [
+          "2013-05-02",
+          "2013-07-27"
+        ]
       }
     ]
   }

@@ -79,7 +79,7 @@
         "n": "Circus",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Michael Hoppen Gallery",
         "d": [
           "2005-04-23",
@@ -161,7 +161,7 @@
         "n": "Fashion",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Michael Hoppen Gallery",
         "d": [
           "2007-02-03",
@@ -210,6 +210,19 @@
     ],
     "2009": [
       {
+        "i": "13085-3495-2009-06-19",
+        "c": "GB",
+        "n": "A Gallerist's Choice-Group Show",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "London",
+        "o": "Michael Hoppen Gallery",
+        "d": [
+          "2009-06-19",
+          "2009-10-13"
+        ]
+      },
+      {
         "i": "13085-14394-2009-06-19",
         "c": "CN",
         "n": "Isabelle Huppert: Woman of Many Faces",
@@ -220,19 +233,6 @@
         "d": [
           "2009-06-19",
           "2009-07-19"
-        ]
-      },
-      {
-        "i": "13085-3495-2009-06-19",
-        "c": "GB",
-        "n": "A Gallerist's Choice-Group Show",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "London (England)",
-        "o": "Michael Hoppen Gallery",
-        "d": [
-          "2009-06-19",
-          "2009-10-13"
         ]
       },
       {
@@ -394,7 +394,7 @@
         "n": "Yohji´s Women",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "The Wapping Project / Bankside",
         "d": [
           "2011-03-12",
@@ -511,24 +511,11 @@
         "n": "Finders Keepers",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Michael Hoppen Gallery",
         "d": [
           "2012-12-12",
           "2013-02-09"
-        ]
-      },
-      {
-        "i": "13085-2606-2012-03-07",
-        "c": "RU",
-        "n": "Le Chaperon Noir",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Moscow",
-        "o": "Moscow House of Photography",
-        "d": [
-          "2012-03-07",
-          "2012-04-01"
         ]
       },
       {
@@ -552,7 +539,7 @@
         "n": "Finders Keepers",
         "t": "Galerie privée",
         "st": "Group",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Michael Hoppen Gallery",
         "d": [
           "2012-12-12",
@@ -588,7 +575,7 @@
         "n": "1, 2, 3, 4, 5",
         "t": "Galerie privée",
         "st": "Solo",
-        "ct": "London (England)",
+        "ct": "London",
         "o": "Michael Hoppen Gallery",
         "d": [
           "2008-10-16",
