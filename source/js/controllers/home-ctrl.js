@@ -82,7 +82,7 @@ define([], function() {
 				if (dataService.data.today.events.length) {
 					var the_event = dataService.data.today.events[Math.ceil(Math.random() * dataService.data.today.events.length)];
 					if (the_event.a) {
-						text = '<li class="news-block-item"><a href="/arts-visuels/artistes/' + the_event.a + '/"><strong><span>' + the_event.an + '</span>' + the_event.n + '</strong> @' + the_event.ct + ' -  ' + the_event.c + ' / ' + (the_event.d ? (formatService.formatLongDate(the_event.d[0]) + (the_event.d[1] ? (' - ' + formatService.formatLongDate(the_event.d[1])) : '')) : '') + ' </a></li>';
+						text = '<li class="news-block-item"><a href="/arts-visuels/artiste/' + the_event.a + '/"><strong><span>' + the_event.an + '</span>' + the_event.n + '</strong> @' + the_event.ct + ' -  ' + the_event.c + ' / ' + (the_event.d ? (formatService.formatLongDate(the_event.d[0]) + (the_event.d[1] ? (' - ' + formatService.formatLongDate(the_event.d[1])) : '')) : '') + ' </a></li>';
 						jQuery('.news-block ul').html(text);
 						jQuery('.news-block').show();
 					} else {
