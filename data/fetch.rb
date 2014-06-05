@@ -20,6 +20,37 @@ I18n.enforce_available_locales = false
 
 production = false
 
+## only once !!!!
+if  false
+
+	country_prepositions = {}
+	JSON.parse(open("country_prepositions.json").read).each do |c|
+		country_prepositions[c['code']] = c['french_preposition'].downcase
+	end
+
+	continents = {}
+
+	Country.all.each do |country|
+		c = Country.new(country[1])
+		continents[c.continent] = {} if continents[c.continent].nil?
+		continents[c.continent][c.alpha2] = {
+			:fr => c.translations['fr'],
+			:fr_prefix => country_prepositions[c.alpha2.downcase],
+			:en => c.translations['en']
+		}
+
+		continents.each do |continent, countries|
+			continents[continent] = Hash[countries.sort]
+		end
+		continents = Hash[continents.sort]
+		filename = "json/countries.json"
+		content = production ? continents.to_json : JSON.pretty_generate(continents)
+		File.open(filename, 'w') { |file| file.write content }
+	end
+
+end
+
+
 @cache_path = "_cache"
 
 FileUtils.mkdir_p @cache_path
@@ -85,17 +116,12 @@ def normalize_country(country)
 
 end
 
-country_prepositions = {}
-JSON.parse(open("country_prepositions.json").read).each do |c|
-	country_prepositions[c['code']] = c['french_preposition'].downcase
-end
 
 
 nb_datas = 5000
 
 
 artists = {}
-continents = {}
 expo_types = []
 expo_show_types = []
 
@@ -143,12 +169,12 @@ af_galleries.shuffle.slice(0, nb_datas).each do |gallery|
 			unless c.nil?
 
 				begin
-					continents[c.continent] = {} if continents[c.continent].nil?
-					continents[c.continent][c.alpha2] = {
-						:fr => c.translations['fr'],
-						:fr_prefix => country_prepositions[c.alpha2.downcase],
-						:en => c.translations['en']
-					}
+					# continents[c.continent] = {} if continents[c.continent].nil?
+					# continents[c.continent][c.alpha2] = {
+					# 	:fr => c.translations['fr'],
+					# 	:fr_prefix => country_prepositions[c.alpha2.downcase],
+					# 	:en => c.translations['en']
+					# }
 				rescue
 				end
 
@@ -390,13 +416,16 @@ content = production ? years.to_json : JSON.pretty_generate(years)
 File.open(filename, 'w') { |file| file.write content }
 
 # Countries
-continents.each do |continent, countries|
-	continents[continent] = Hash[countries.sort]
+if false
+	continents.each do |continent, countries|
+		continents[continent] = Hash[countries.sort]
+	end
+	continents = Hash[continents.sort]
+	filename = "json/countries.json"
+	content = production ? continents.to_json : JSON.pretty_generate(continents)
+	File.open(filename, 'w') { |file| file.write content }
 end
-continents = Hash[continents.sort]
-filename = "json/countries.json"
-content = production ? continents.to_json : JSON.pretty_generate(continents)
-File.open(filename, 'w') { |file| file.write content }
+
 
 # Artists
 FileUtils.mkdir_p "json/artists"
