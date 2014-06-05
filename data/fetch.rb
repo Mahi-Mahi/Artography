@@ -363,6 +363,8 @@ af_artists.shuffle.slice(0, nb_datas).each do |artist|
 							artist[:expos][:today] = [] if artist[:expos][:today].nil?
 							artist[:expos][:today] << expo unless artist[:expos][:today].include?(expo)
 
+							expos[:today] << expo unless expos[:today].include?(expo)
+
 							if af_expo['country'] == 'France'
 								artist[:expos][:today] << {i: expo_detail[:i], c: 'FR'}
 							else
