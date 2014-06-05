@@ -30,6 +30,12 @@ define([], function() {
 
 			$scope.gallery = dataService.data.galleries[$route.current.params.id];
 
+			if (typeof $scope.gallery === 'string') {
+				$location.url('/arts-visuels/galeries');
+				document.location = '/arts-visuels/galeries';
+				return;
+			}
+
 			if ($scope.gallery.www)
 				$scope.gallery_links = [$scope.gallery.www];
 
@@ -42,8 +48,6 @@ define([], function() {
 				});
 			});
 			$scope.periods.reverse();
-
-			console.log($scope.periods);
 
 			// default period
 			$scope.filters = {

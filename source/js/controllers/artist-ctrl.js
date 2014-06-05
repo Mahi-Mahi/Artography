@@ -37,6 +37,12 @@ define([], function() {
 
 			$scope.artist = dataService.data.artists[$route.current.params.id];
 
+		if (typeof $scope.artist === 'string') {
+			$location.url('/arts-visuels/artistes');
+			document.location = '/arts-visuels/artistes';
+			return;
+		}
+
 			// console.log($scope.artist);
 
 			$scope.periods = [];
