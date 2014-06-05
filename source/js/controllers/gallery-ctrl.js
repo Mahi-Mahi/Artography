@@ -233,7 +233,7 @@ define([], function() {
 					console.log(the_fair);
 					jQuery('.news-block li').html(the_fair.n + '<br />' +
 						'Du ' + formatService.formatDate(the_fair.d[0]) +
-						(the_fair.d[1] ? (' Au ' + formatService.formatDate(the_fair.d[1])) : '') + '<br />' +
+						(the_fair.d[1] ? (' au ' + formatService.formatDate(the_fair.d[1])) : '') + '<br />' +
 						the_fair.o + ' / @' + the_fair.ct + ',' + the_fair.c);
 				}
 			}
@@ -653,7 +653,7 @@ define([], function() {
 					jQuery('#popup').attr('class', 'expo-' + the_fair.type).html(
 						'<p class="name">' + the_fair.name + '</p>' +
 						'<p class="period">Du ' + formatService.formatDate(the_fair.period[0]) +
-						(the_fair.period[1] ? (' Au ' + formatService.formatDate(the_fair.period[1])) : '') + '</p>' +
+						(the_fair.period[1] ? (' au ' + formatService.formatDate(the_fair.period[1])) : '') + '</p>' +
 						'<p class="period">Organisé par ' + the_fair.organizer + '</p>' +
 						'<p class="place">@' + the_fair.city + ',' + the_fair.country.country.fr + '</p>')
 						.stop()

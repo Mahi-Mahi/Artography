@@ -262,7 +262,7 @@ define([], function() {
 					angular.forEach($scope.artist.expos.today, function(the_expo) {
 						jQuery('.news-block')
 							.html('<li class="news-block-item">' + the_expo.n + '<br />' +
-								(the_expo.d ? ('Du ' + formatService.formatDate(the_expo.d[0]) + (the_expo.d[1] ? (' Au ' + formatService.formatDate(the_expo.d[1])) : '') + '<br />') : '') +
+								(the_expo.d ? ('Du ' + formatService.formatDate(the_expo.d[0]) + (the_expo.d[1] ? (' au ' + formatService.formatDate(the_expo.d[1])) : '') + '<br />') : '') +
 								the_expo.o + ' / @' + the_expo.ct + ',' + the_expo.c + '</li>')
 							.show();
 						adaptSidebarFormHeight();
@@ -731,7 +731,7 @@ define([], function() {
 					jQuery('#popup').attr('class', 'expo-' + the_expo.type).html(
 						'<p class="name">' + the_expo.name + '</p>' +
 						'<p class="period">Du ' + formatService.formatDate(the_expo.period[0]) +
-						(the_expo.period[1] ? (' Au ' + formatService.formatDate(the_expo.period[1])) : '') + '</p>' +
+						(the_expo.period[1] ? (' au ' + formatService.formatDate(the_expo.period[1])) : '') + '</p>' +
 						'<p class="period">Organisé par ' + the_expo.organizer + '</p>' +
 						'<p class="place">@' + the_expo.city + ',' + the_expo.country.country.fr + '</p>')
 						.stop()
