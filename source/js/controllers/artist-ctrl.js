@@ -37,11 +37,11 @@ define([], function() {
 
 			$scope.artist = dataService.data.artists[$route.current.params.id];
 
-		if (typeof $scope.artist === 'string') {
-			$location.url('/arts-visuels/artistes');
-			document.location = '/arts-visuels/artistes';
-			return;
-		}
+			if (typeof $scope.artist === 'string') {
+				$location.url('/arts-visuels/artistes');
+				document.location = '/arts-visuels/artistes';
+				return;
+			}
 
 			// console.log($scope.artist);
 
@@ -733,7 +733,7 @@ define([], function() {
 						'<p class="period">Du ' + formatService.formatDate(the_expo.period[0]) +
 						(the_expo.period[1] ? (' au ' + formatService.formatDate(the_expo.period[1])) : '') + '</p>' +
 						'<p class="period">Organisé par ' + the_expo.organizer + '</p>' +
-						'<p class="place">@' + the_expo.city + ',' + the_expo.country.country.fr + '</p>')
+						'<p class="place">@' + the_expo.city + ', ' + the_expo.country.country.fr + '</p>')
 						.stop()
 						.fadeIn();
 					if (!left)
