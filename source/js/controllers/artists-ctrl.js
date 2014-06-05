@@ -828,7 +828,7 @@ define([], function() {
 				var continent_name = data.cc[country_id];
 				var country = data.continents[continent_name].countries[country_id];
 
-				jQuery('#popup').html('<p class="period"> En ' + $scope.filters.period + ', ' + country.nb_artists + ' artistes exposent ' + country.country.fr_prefix + ' ' + country.country.fr + '</p>')
+				jQuery('#popup').html('<p class="period"> En ' + $scope.filters.period + ', ' + country.nb_artists + ' artiste' + (country.nb_artists > 1 ? 's' : '') + ' expose' + (country.nb_artists > 1 ? 'nt' : '') + ' ' + country.country.fr_prefix + ' ' + country.country.fr + '</p>')
 					.stop()
 					.fadeIn();
 
