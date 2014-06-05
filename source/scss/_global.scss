@@ -879,6 +879,19 @@ body.lang-fr .nav-language-item .fr, body.lang-en .nav-language-item .en {
 	}
 }
 
+.artists #popup {
+	border-color:#f21c79;
+	.name {
+		color:#f21c79;
+	}
+}
+.galleries #popup {
+	border-color:#000;
+	.name {
+		color:#000;
+	}
+}
+
 #popup.expo-Institution-publique {
 	border-color:#00a79d;
 	.name {
