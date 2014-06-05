@@ -26,12 +26,12 @@
       "en": "Botswana"
     },
     "CD": {
-      "fr": "Congo (Rep. Dem.)",
+      "fr": "République démocratique du Congo",
       "fr_prefix": "en",
       "en": "Congo (Dem. Rep.)"
     },
     "CF": {
-      "fr": "République Centrafricaine",
+      "fr": "République centrafricaine",
       "fr_prefix": "en",
       "en": "Central African Republic"
     },
@@ -41,9 +41,9 @@
       "en": "Congo"
     },
     "CI": {
-      "fr": "Côte D'Ivoire",
+      "fr": "Côte d'Ivoire",
       "fr_prefix": "en",
-      "en": "Côte D'Ivoire"
+      "en": "Ivory Coast"
     },
     "CM": {
       "fr": "Cameroun",
@@ -51,7 +51,7 @@
       "en": "Cameroon"
     },
     "CV": {
-      "fr": "Cap Vert",
+      "fr": "Cap-Vert",
       "fr_prefix": "au",
       "en": "Cape Verde"
     },
@@ -71,7 +71,7 @@
       "en": "Egypt"
     },
     "EH": {
-      "fr": "Sahara Occidental",
+      "fr": "Sahara occidental",
       "fr_prefix": "au",
       "en": "Western Sahara"
     },
@@ -106,7 +106,7 @@
       "en": "Guinea"
     },
     "GQ": {
-      "fr": "Guinée Équatoriale",
+      "fr": "Guinée équatoriale",
       "fr_prefix": "en",
       "en": "Equatorial Guinea"
     },
@@ -161,8 +161,8 @@
       "en": "Mauritania"
     },
     "MU": {
-      "fr": "Île Maurice",
-      "fr_prefix": "à",
+      "fr": "île Maurice",
+      "fr_prefix": "à l'",
       "en": "Mauritius"
     },
     "MW": {
@@ -191,8 +191,8 @@
       "en": "Nigeria"
     },
     "RE": {
-      "fr": "Réunion",
-      "fr_prefix": "à la",
+      "fr": "La Réunion",
+      "fr_prefix": "à",
       "en": "Réunion"
     },
     "RW": {
@@ -298,7 +298,7 @@
       "en": "Antarctica"
     },
     "BV": {
-      "fr": "Île Bouvet",
+      "fr": "île Bouvet",
       "fr_prefix": "à l'",
       "en": "Bouvet Island"
     },
@@ -308,24 +308,24 @@
       "en": "South Georgia and the South Sandwich Islands"
     },
     "HM": {
-      "fr": "Îles Heard-et-MacDonal",
+      "fr": "îles Heard-et-MacDonal",
       "fr_prefix": "aux",
       "en": "Heard and McDonald Islands"
     },
     "TF": {
-      "fr": "Terres Australes Françaises",
-      "fr_prefix": "en",
+      "fr": "Terres australes françaises",
+      "fr_prefix": "aux",
       "en": "French Southern Territories"
     }
   },
   "Asia": {
     "AE": {
-      "fr": "Émirats Arabes Unis",
+      "fr": "Émirats arabes unis",
       "fr_prefix": "aux",
       "en": "United Arab Emirates"
     },
     "AF": {
-      "fr": "Afganistán",
+      "fr": "Afghanistan",
       "fr_prefix": "en",
       "en": "Afghanistan"
     },
@@ -360,7 +360,7 @@
       "en": "Bhutan"
     },
     "CC": {
-      "fr": "Îles Cocos",
+      "fr": "îles Cocos",
       "fr_prefix": "aux",
       "en": "Cocos (Keeling) Islands"
     },
@@ -370,8 +370,8 @@
       "en": "China"
     },
     "CX": {
-      "fr": "Île Christmas",
-      "fr_prefix": "à",
+      "fr": "île Christmas",
+      "fr_prefix": "à l'",
       "en": "Christmas Island"
     },
     "CY": {
@@ -461,7 +461,7 @@
     },
     "LA": {
       "fr": "Laos",
-      "fr_prefix": "en",
+      "fr_prefix": "au",
       "en": "Laos"
     },
     "LB": {
@@ -475,9 +475,9 @@
       "en": "Sri Lanka"
     },
     "MM": {
-      "fr": "Myanmar",
-      "fr_prefix": "",
-      "en": "Myanmar"
+      "fr": "Birmanie",
+      "fr_prefix": "en",
+      "en": "Burma"
     },
     "MN": {
       "fr": "Mongolie",
@@ -515,12 +515,12 @@
       "en": "Philippines"
     },
     "PK": {
-      "fr": "Paquistan",
+      "fr": "Pakistan",
       "fr_prefix": "au",
       "en": "Pakistan"
     },
     "PS": {
-      "fr": "Palestina",
+      "fr": "Palestine",
       "fr_prefix": "en",
       "en": "Palestine"
     },
@@ -530,7 +530,7 @@
       "en": "Qatar"
     },
     "SA": {
-      "fr": "Arabie Saoudite",
+      "fr": "Arabie saoudite",
       "fr_prefix": "en",
       "en": "Saudi Arabia"
     },
@@ -597,7 +597,7 @@
       "en": "Australia"
     },
     "CK": {
-      "fr": "Îles Cook",
+      "fr": "îles Cook",
       "fr_prefix": "aux",
       "en": "Cook Islands"
     },
@@ -622,12 +622,12 @@
       "en": "Kiribati"
     },
     "MH": {
-      "fr": "Îles Marshall",
+      "fr": "îles Marshall",
       "fr_prefix": "aux",
       "en": "Marshall Islands"
     },
     "MP": {
-      "fr": "Îles Mariannes du Nord",
+      "fr": "îles Mariannes du Nord",
       "fr_prefix": "aux",
       "en": "Northern Mariana Islands"
     },
@@ -637,8 +637,8 @@
       "en": "New Caledonia"
     },
     "NF": {
-      "fr": "Île de Norfolk",
-      "fr_prefix": "à",
+      "fr": "île de Norfolk",
+      "fr_prefix": "à l'",
       "en": "Norfolk Island"
     },
     "NR": {
@@ -657,7 +657,7 @@
       "en": "New Zealand"
     },
     "PF": {
-      "fr": "Polynésie Française",
+      "fr": "Polynésie française",
       "fr_prefix": "en",
       "en": "French Polynesia"
     },
@@ -667,8 +667,8 @@
       "en": "Papua New Guinea"
     },
     "PN": {
-      "fr": "Îles Pitcairn",
-      "fr_prefix": "au",
+      "fr": "îles Pitcairn",
+      "fr_prefix": "aux",
       "en": "Pitcairn"
     },
     "PW": {
@@ -677,18 +677,18 @@
       "en": "Palau"
     },
     "SB": {
-      "fr": "Îles Salomon",
+      "fr": "îles Salomon",
       "fr_prefix": "aux",
       "en": "Solomon Islands"
     },
     "TK": {
-      "fr": "Îles Tokelau",
-      "fr_prefix": "au",
+      "fr": "îles Tokelau",
+      "fr_prefix": "aux",
       "en": "Tokelau"
     },
     "TO": {
       "fr": "Tonga",
-      "fr_prefix": "ay",
+      "fr_prefix": "au",
       "en": "Tonga"
     },
     "TV": {
@@ -697,7 +697,7 @@
       "en": "Tuvalu"
     },
     "UM": {
-      "fr": "Dépendances américaines",
+      "fr": "dépendances américaines",
       "fr_prefix": "aux",
       "en": "United States Minor Outlying Islands"
     },
@@ -739,7 +739,7 @@
       "en": "Åland Islands"
     },
     "BA": {
-      "fr": "Bosnie et Herzégovine",
+      "fr": "Bosnie-Herzégovine",
       "fr_prefix": "en",
       "en": "Bosnia and Herzegovina"
     },
@@ -764,7 +764,7 @@
       "en": "Switzerland"
     },
     "CZ": {
-      "fr": "République Tchèque",
+      "fr": "République tchèque",
       "fr_prefix": "en",
       "en": "Czech Republic"
     },
@@ -794,7 +794,7 @@
       "en": "Finland"
     },
     "FO": {
-      "fr": "Îles Féroé",
+      "fr": "îles Féroé",
       "fr_prefix": "aux",
       "en": "Faroe Islands"
     },
@@ -839,8 +839,8 @@
       "en": "Ireland"
     },
     "IM": {
-      "fr": "Île de Man",
-      "fr_prefix": "aux",
+      "fr": "île de Man",
+      "fr_prefix": "à l'",
       "en": "Isle of Man"
     },
     "IS": {
@@ -949,8 +949,8 @@
       "en": "Slovenia"
     },
     "SJ": {
-      "fr": "Îles Svalbard et Jan Mayen",
-      "fr_prefix": "à",
+      "fr": "îles Svalbard et Jan Mayen",
+      "fr_prefix": "aux",
       "en": "Svalbard and Jan Mayen"
     },
     "SK": {
@@ -975,7 +975,7 @@
     },
     "VA": {
       "fr": "Cité du Vatican",
-      "fr_prefix": "au",
+      "fr_prefix": "à la",
       "en": "Vatican City"
     }
   },
@@ -1056,7 +1056,7 @@
       "en": "Dominica"
     },
     "DO": {
-      "fr": "République Dominicaine",
+      "fr": "République dominicaine",
       "fr_prefix": "en",
       "en": "Dominican Republic"
     },
@@ -1161,7 +1161,7 @@
       "en": "Sint Maarten"
     },
     "TC": {
-      "fr": "Îles Turques-et-Caïques",
+      "fr": "îles Turques-et-Caïques",
       "fr_prefix": "aux",
       "en": "Turks and Caicos Islands"
     },
@@ -1181,12 +1181,12 @@
       "en": "Saint Vincent and the Grenadines"
     },
     "VG": {
-      "fr": "Îles Vierges britanniques",
+      "fr": "îles Vierges britanniques",
       "fr_prefix": "aux",
       "en": "British Virgin Islands"
     },
     "VI": {
-      "fr": "Îles Vierges américaines",
+      "fr": "îles Vierges américaines",
       "fr_prefix": "aux",
       "en": "Virgin Islands of the United States"
     }
@@ -1223,17 +1223,17 @@
       "en": "Ecuador"
     },
     "FK": {
-      "fr": "Îles Malouines",
+      "fr": "îles Malouines",
       "fr_prefix": "aux",
       "en": "Falkland Islands"
     },
     "GF": {
-      "fr": "Guayane",
+      "fr": "Guyane",
       "fr_prefix": "en",
       "en": "French Guiana"
     },
     "GY": {
-      "fr": "Guyane",
+      "fr": "Guyana",
       "fr_prefix": "en",
       "en": "Guyana"
     },
