@@ -382,15 +382,15 @@ define([], function() {
 				switch ($scope.filters.period) {
 					case 'today':
 						period = "Aujourd'hui";
-						verb = "exposent";
+						verb = ' expose' + (nb_artists > 1 ? 'nt' : '');
 						break;
 					case 2014:
 						period = "En " + $scope.filters.period;
-						verb = "exposent";
+						verb = ' expose' + (nb_artists > 1 ? 'nt' : '');
 						break;
 					default:
 						period = "En " + $scope.filters.period;
-						verb = "ont exposé";
+						verb = " ont exposé";
 						break;
 				}
 				switch (nb_artists) {
@@ -828,7 +828,24 @@ define([], function() {
 				var continent_name = data.cc[country_id];
 				var country = data.continents[continent_name].countries[country_id];
 
-				jQuery('#popup').html('<p class="period"> En ' + $scope.filters.period + ', ' + country.nb_artists + ' artiste' + (country.nb_artists > 1 ? 's' : '') + ' expose' + (country.nb_artists > 1 ? 'nt' : '') + ' ' + country.country.fr_prefix + ' ' + country.country.fr + '</p>')
+				var period, verb;
+
+				switch ($scope.filters.period) {
+					case 'today':
+						period = "Aujourd'hui";
+						verb = ' expose' + (country.nb_artists > 1 ? 'nt' : '');
+						break;
+					case 2014:
+						period = "En " + $scope.filters.period;
+						verb = ' expose' + (country.nb_artists > 1 ? 'nt' : '');
+						break;
+					default:
+						period = "En " + $scope.filters.period;
+						verb = " ont exposé";
+						break;
+				}
+
+				jQuery('#popup').html('<p class="period"> ' + period + ', ' + country.nb_artists + ' artiste' + (country.nb_artists > 1 ? 's' : '') + verb + ' ' + country.country.fr_prefix + ' ' + country.country.fr + '</p>')
 					.stop()
 					.fadeIn();
 
