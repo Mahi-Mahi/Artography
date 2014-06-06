@@ -47,6 +47,9 @@ if  false
 		content = production ? continents.to_json : JSON.pretty_generate(continents)
 		File.open(filename, 'w') { |file| file.write content }
 	end
+	FileUtils.cp("json/countries.json", "../source/data/countries.json")
+
+	exit
 
 end
 
@@ -500,7 +503,6 @@ p expo_show_types
 FileUtils.rm_rf("../source/data", secure: true)
 FileUtils.mkdir_p "../source/data"
 FileUtils.cp("json/years.json", "../source/data/years.json")
-FileUtils.cp("json/countries.json", "../source/data/countries.json")
 FileUtils.cp("json/today.json", "../source/data/today.json")
 FileUtils.cp_r("json/expos", "../source/data/expos")
 FileUtils.cp_r("json/artists", "../source/data/artists")

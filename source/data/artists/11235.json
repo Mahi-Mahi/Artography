@@ -394,19 +394,6 @@
         "c": "FR"
       },
       {
-        "i": "11235-6461-2006-06-29",
-        "c": "IT",
-        "n": "People",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Naples",
-        "o": "Museo D'Arte Contemporanea Donna Regina - MADRE",
-        "d": [
-          "2006-06-29",
-          "2006-08-28"
-        ]
-      },
-      {
         "i": "11235-2125-2006-06-29",
         "c": "US",
         "n": "Pierre Bismuth, Ryan Gander, Karl Haendel, T. Kelly Mason",
@@ -417,6 +404,19 @@
         "d": [
           "2006-06-29",
           "2006-08-18"
+        ]
+      },
+      {
+        "i": "11235-6461-2006-06-29",
+        "c": "IT",
+        "n": "People",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Naples",
+        "o": "Museo D'Arte Contemporanea Donna Regina - MADRE",
+        "d": [
+          "2006-06-29",
+          "2006-08-28"
         ]
       },
       {
@@ -1803,19 +1803,6 @@
         ]
       },
       {
-        "i": "11235-3807-2010-12-18",
-        "c": "AU",
-        "n": "21st Century: Art in the First Decade",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Brisbane, QLD",
-        "o": "Queensland Art Gallery / Gallery of Modern Art",
-        "d": [
-          "2010-12-18",
-          "2011-04-25"
-        ]
-      },
-      {
         "i": "11235-2293-2010-12-18",
         "c": "DE",
         "n": "Bild für Bild - Film und zeitgenössische Kunst",
@@ -1823,6 +1810,19 @@
         "st": "Group",
         "ct": "Dortmund",
         "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2010-12-18",
+          "2011-04-25"
+        ]
+      },
+      {
+        "i": "11235-3807-2010-12-18",
+        "c": "AU",
+        "n": "21st Century: Art in the First Decade",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Brisbane, QLD",
+        "o": "Queensland Art Gallery / Gallery of Modern Art",
         "d": [
           "2010-12-18",
           "2011-04-25"
@@ -1916,19 +1916,6 @@
         ]
       },
       {
-        "i": "11235-3807-2010-12-18",
-        "c": "AU",
-        "n": "21st Century: Art in the First Decade",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Brisbane, QLD",
-        "o": "Queensland Art Gallery / Gallery of Modern Art",
-        "d": [
-          "2010-12-18",
-          "2011-04-25"
-        ]
-      },
-      {
         "i": "11235-2293-2010-12-18",
         "c": "DE",
         "n": "Bild für Bild - Film und zeitgenössische Kunst",
@@ -1936,6 +1923,19 @@
         "st": "Group",
         "ct": "Dortmund",
         "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2010-12-18",
+          "2011-04-25"
+        ]
+      },
+      {
+        "i": "11235-3807-2010-12-18",
+        "c": "AU",
+        "n": "21st Century: Art in the First Decade",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Brisbane, QLD",
+        "o": "Queensland Art Gallery / Gallery of Modern Art",
         "d": [
           "2010-12-18",
           "2011-04-25"
@@ -2100,19 +2100,6 @@
         ]
       },
       {
-        "i": "11235-10361-2011-10-01",
-        "c": "BE",
-        "n": "Found In Translation, Chapter L",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "Maison Grégoire",
-        "d": [
-          "2011-10-01",
-          "2012-01-08"
-        ]
-      },
-      {
         "i": "11235-3737-2011-10-01",
         "c": "LU",
         "n": "Found in Translation - Chapter L",
@@ -2120,6 +2107,19 @@
         "st": "Group",
         "ct": "Luxembourg",
         "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2011-10-01",
+          "2012-01-08"
+        ]
+      },
+      {
+        "i": "11235-10361-2011-10-01",
+        "c": "BE",
+        "n": "Found In Translation, Chapter L",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Maison Grégoire",
         "d": [
           "2011-10-01",
           "2012-01-08"
@@ -2167,19 +2167,6 @@
     ],
     "2012": [
       {
-        "i": "11235-10361-2011-10-01",
-        "c": "BE",
-        "n": "Found In Translation, Chapter L",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "Maison Grégoire",
-        "d": [
-          "2011-10-01",
-          "2012-01-08"
-        ]
-      },
-      {
         "i": "11235-3737-2011-10-01",
         "c": "LU",
         "n": "Found in Translation - Chapter L",
@@ -2187,6 +2174,19 @@
         "st": "Group",
         "ct": "Luxembourg",
         "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2011-10-01",
+          "2012-01-08"
+        ]
+      },
+      {
+        "i": "11235-10361-2011-10-01",
+        "c": "BE",
+        "n": "Found In Translation, Chapter L",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Maison Grégoire",
         "d": [
           "2011-10-01",
           "2012-01-08"

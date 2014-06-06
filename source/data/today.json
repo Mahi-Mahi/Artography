@@ -2,27 +2,27 @@
   "expos": {
     "countries": [
       "FR",
-      "IT",
+      "MX",
       "DE",
       "AU",
       "US",
-      "MX"
+      "IT"
     ],
     "artists": [
-      "70110",
-      "945",
       "62232",
-      "2718",
-      "53263",
+      "70110",
+      "10223",
+      "86797",
+      "71975",
+      "1452",
+      "3951",
       "235951",
+      "53263",
+      "2718",
       "113440",
       "1845",
-      "3951",
       "1317",
-      "71975",
-      "10223",
-      "1452",
-      "86797"
+      "945"
     ]
   },
   "fairs": {
@@ -34,51 +34,6 @@
     ]
   },
   "events": [
-    {
-      "i": "70110-23875-2013-12-06",
-      "c": "FR",
-      "n": "Revoir Réattu",
-      "t": "Institution publique",
-      "st": "Group",
-      "ct": "Arles",
-      "o": "Musée Réattu",
-      "d": [
-        "2013-12-06",
-        "2014-06-30"
-      ],
-      "a": "70110",
-      "an": "Bernard Dejonghe"
-    },
-    {
-      "i": "945-2309-2013-11-23",
-      "c": "IT",
-      "n": "When Now is Minimal. The Unknown Side of the Sammlung Goetz",
-      "t": "Institution publique",
-      "st": "Group",
-      "ct": "Bolzano",
-      "o": "MUSEION - Museum für moderne und zeitgenössische Kunst ",
-      "d": [
-        "2013-11-23",
-        "2014-10-05"
-      ],
-      "a": "945",
-      "an": "Daniel Buren"
-    },
-    {
-      "i": "945-2096-2013-11-29",
-      "c": "DE",
-      "n": "Wall Works",
-      "t": "Institution publique",
-      "st": "Group",
-      "ct": "Berlin",
-      "o": "Hamburger Bahnhof - Museum für Gegenwart",
-      "d": [
-        "2013-11-29",
-        "2014-08-31"
-      ],
-      "a": "945",
-      "an": "Daniel Buren"
-    },
     {
       "i": "62232-22692-2013-09-18",
       "c": "FR",
@@ -95,7 +50,52 @@
       "an": "Pascal Verbena"
     },
     {
-      "i": "2718-22692-2013-09-18",
+      "i": "70110-23875-2013-12-06",
+      "c": "FR",
+      "n": "Revoir Réattu",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Arles",
+      "o": "Musée Réattu",
+      "d": [
+        "2013-12-06",
+        "2014-06-30"
+      ],
+      "a": "70110",
+      "an": "Bernard Dejonghe"
+    },
+    {
+      "i": "10223-23875-2013-12-06",
+      "c": "FR",
+      "n": "Revoir Réattu",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Arles",
+      "o": "Musée Réattu",
+      "d": [
+        "2013-12-06",
+        "2014-06-30"
+      ],
+      "a": "10223",
+      "an": "Lucien Clergue"
+    },
+    {
+      "i": "86797-17437-2013-10-25",
+      "c": "MX",
+      "n": "X, Diez",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Guadalajara",
+      "o": "Museo de Arte Raúl Anguiano (MURA)",
+      "d": [
+        "2013-10-25",
+        "2014-09-13"
+      ],
+      "a": "86797",
+      "an": "Alejandro Moncada"
+    },
+    {
+      "i": "71975-22692-2013-09-18",
       "c": "FR",
       "n": "Raw Vision",
       "t": "Autre",
@@ -106,8 +106,53 @@
         "2013-09-18",
         "2014-08-22"
       ],
-      "a": "2718",
-      "an": "Michel Nedjar"
+      "a": "71975",
+      "an": "André Robillard"
+    },
+    {
+      "i": "1452-12218-2013-05-05",
+      "c": "DE",
+      "n": "KoelnSkulptur #7",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Cologne",
+      "o": "Skulpturenpark Köln",
+      "d": [
+        "2013-05-05",
+        "2015-03-01"
+      ],
+      "a": "1452",
+      "an": "Bernar Venet"
+    },
+    {
+      "i": "3951-24720-2013-12-07",
+      "c": "AU",
+      "n": "Hubert Duprat",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Hobart, TAS",
+      "o": "Mona - Museum of Old and New Art",
+      "d": [
+        "2013-12-07",
+        "2014-07-28"
+      ],
+      "a": "3951",
+      "an": "Hubert Duprat"
+    },
+    {
+      "i": "235951-26519-2013-10-10",
+      "c": "DE",
+      "n": "Rooms for Photography - Folkwang Statements",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Hamburg",
+      "o": "FREELENS Galerie",
+      "d": [
+        "2013-10-10",
+        "2014-08-11"
+      ],
+      "a": "235951",
+      "an": "Raphaële Bidault-Waddington"
     },
     {
       "i": "53263-23875-2013-12-06",
@@ -125,19 +170,19 @@
       "an": "Christine Crozat"
     },
     {
-      "i": "235951-26519-2013-10-10",
-      "c": "DE",
-      "n": "Rooms for Photography - Folkwang Statements",
+      "i": "2718-22692-2013-09-18",
+      "c": "FR",
+      "n": "Raw Vision",
       "t": "Autre",
       "st": "Group",
-      "ct": "Hamburg",
-      "o": "FREELENS Galerie",
+      "ct": "Paris",
+      "o": "Halle Saint Pierre",
       "d": [
-        "2013-10-10",
-        "2014-08-11"
+        "2013-09-18",
+        "2014-08-22"
       ],
-      "a": "235951",
-      "an": "Raphaële Bidault-Waddington"
+      "a": "2718",
+      "an": "Michel Nedjar"
     },
     {
       "i": "113440-22692-2013-09-18",
@@ -170,21 +215,6 @@
       "an": "Georges Rousse"
     },
     {
-      "i": "3951-24720-2013-12-07",
-      "c": "AU",
-      "n": "Hubert Duprat",
-      "t": "Institution publique",
-      "st": "Solo",
-      "ct": "Hobart, TAS",
-      "o": "Mona - Museum of Old and New Art",
-      "d": [
-        "2013-12-07",
-        "2014-07-28"
-      ],
-      "a": "3951",
-      "an": "Hubert Duprat"
-    },
-    {
       "i": "1317-5478-2013-12-20",
       "c": "US",
       "n": "Butterfly Effect",
@@ -200,64 +230,34 @@
       "an": "Christian Boltanski"
     },
     {
-      "i": "71975-22692-2013-09-18",
-      "c": "FR",
-      "n": "Raw Vision",
-      "t": "Autre",
-      "st": "Group",
-      "ct": "Paris",
-      "o": "Halle Saint Pierre",
-      "d": [
-        "2013-09-18",
-        "2014-08-22"
-      ],
-      "a": "71975",
-      "an": "André Robillard"
-    },
-    {
-      "i": "10223-23875-2013-12-06",
-      "c": "FR",
-      "n": "Revoir Réattu",
+      "i": "945-2309-2013-11-23",
+      "c": "IT",
+      "n": "When Now is Minimal. The Unknown Side of the Sammlung Goetz",
       "t": "Institution publique",
       "st": "Group",
-      "ct": "Arles",
-      "o": "Musée Réattu",
+      "ct": "Bolzano",
+      "o": "MUSEION - Museum für moderne und zeitgenössische Kunst ",
       "d": [
-        "2013-12-06",
-        "2014-06-30"
+        "2013-11-23",
+        "2014-10-05"
       ],
-      "a": "10223",
-      "an": "Lucien Clergue"
+      "a": "945",
+      "an": "Daniel Buren"
     },
     {
-      "i": "1452-12218-2013-05-05",
+      "i": "945-2096-2013-11-29",
       "c": "DE",
-      "n": "KoelnSkulptur #7",
+      "n": "Wall Works",
       "t": "Institution publique",
       "st": "Group",
-      "ct": "Cologne",
-      "o": "Skulpturenpark Köln",
+      "ct": "Berlin",
+      "o": "Hamburger Bahnhof - Museum für Gegenwart",
       "d": [
-        "2013-05-05",
-        "2015-03-01"
+        "2013-11-29",
+        "2014-08-31"
       ],
-      "a": "1452",
-      "an": "Bernar Venet"
-    },
-    {
-      "i": "86797-17437-2013-10-25",
-      "c": "MX",
-      "n": "X, Diez",
-      "t": "Institution publique",
-      "st": "Group",
-      "ct": "Guadalajara",
-      "o": "Museo de Arte Raúl Anguiano (MURA)",
-      "d": [
-        "2013-10-25",
-        "2014-09-13"
-      ],
-      "a": "86797",
-      "an": "Alejandro Moncada"
+      "a": "945",
+      "an": "Daniel Buren"
     }
   ]
 }

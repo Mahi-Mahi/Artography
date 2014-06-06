@@ -621,19 +621,6 @@
         ]
       },
       {
-        "i": "100679-12966-2008-05-07",
-        "c": "CN",
-        "n": "Where the Lions are",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Hong Kong, SAR",
-        "o": "Para/Site Art Space",
-        "d": [
-          "2008-05-07",
-          "2008-05-23"
-        ]
-      },
-      {
         "i": "100679-16472-2008-05-07",
         "c": "CN",
         "n": "Where the lions are",
@@ -641,6 +628,19 @@
         "st": "Group",
         "ct": "Hong Kong, SAR",
         "o": "Sheung Wan Civic Centre",
+        "d": [
+          "2008-05-07",
+          "2008-05-23"
+        ]
+      },
+      {
+        "i": "100679-12966-2008-05-07",
+        "c": "CN",
+        "n": "Where the Lions are",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Hong Kong, SAR",
+        "o": "Para/Site Art Space",
         "d": [
           "2008-05-07",
           "2008-05-23"
@@ -702,19 +702,6 @@
         ]
       },
       {
-        "i": "100679-1136-2008-06-06",
-        "c": "DE",
-        "n": "The Great Transformation - Kunst und taktische Magie",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Frankfurt/Main",
-        "o": "Frankfurter Kunstverein",
-        "d": [
-          "2008-06-06",
-          "2008-09-07"
-        ]
-      },
-      {
         "i": "100679-2288-2008-06-06",
         "c": "CH",
         "n": "Shifting Identities – (Schweizer) Kunst heute",
@@ -725,6 +712,19 @@
         "d": [
           "2008-06-06",
           "2008-08-31"
+        ]
+      },
+      {
+        "i": "100679-1136-2008-06-06",
+        "c": "DE",
+        "n": "The Great Transformation - Kunst und taktische Magie",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Frankfurt/Main",
+        "o": "Frankfurter Kunstverein",
+        "d": [
+          "2008-06-06",
+          "2008-09-07"
         ]
       },
       {
@@ -3632,6 +3632,10 @@
         ]
       },
       {
+        "i": "100679-2718-2013-09-28",
+        "c": "FR"
+      },
+      {
         "i": "100679-3817-2013-10-03",
         "c": "AU",
         "n": "Reinventing the Wheel: The readymade century",
@@ -3721,6 +3725,10 @@
           "2013-09-18",
           "2014-01-31"
         ]
+      },
+      {
+        "i": "100679-2718-2013-09-28",
+        "c": "FR"
       },
       {
         "i": "100679-29739-2013-10-12",
