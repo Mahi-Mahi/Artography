@@ -1,28 +1,28 @@
 {
   "expos": {
     "countries": [
-      "FR",
       "MX",
-      "DE",
-      "AU",
+      "FR",
       "US",
-      "IT"
+      "DE",
+      "IT",
+      "AU"
     ],
     "artists": [
-      "62232",
-      "70110",
-      "10223",
       "86797",
-      "71975",
-      "1452",
-      "3951",
-      "235951",
-      "53263",
-      "2718",
-      "113440",
       "1845",
       "1317",
-      "945"
+      "235951",
+      "70110",
+      "113440",
+      "2718",
+      "945",
+      "62232",
+      "1452",
+      "71975",
+      "3951",
+      "53263",
+      "10223"
     ]
   },
   "fairs": {
@@ -34,51 +34,6 @@
     ]
   },
   "events": [
-    {
-      "i": "62232-22692-2013-09-18",
-      "c": "FR",
-      "n": "Raw Vision",
-      "t": "Autre",
-      "st": "Group",
-      "ct": "Paris",
-      "o": "Halle Saint Pierre",
-      "d": [
-        "2013-09-18",
-        "2014-08-22"
-      ],
-      "a": "62232",
-      "an": "Pascal Verbena"
-    },
-    {
-      "i": "70110-23875-2013-12-06",
-      "c": "FR",
-      "n": "Revoir Réattu",
-      "t": "Institution publique",
-      "st": "Group",
-      "ct": "Arles",
-      "o": "Musée Réattu",
-      "d": [
-        "2013-12-06",
-        "2014-06-30"
-      ],
-      "a": "70110",
-      "an": "Bernard Dejonghe"
-    },
-    {
-      "i": "10223-23875-2013-12-06",
-      "c": "FR",
-      "n": "Revoir Réattu",
-      "t": "Institution publique",
-      "st": "Group",
-      "ct": "Arles",
-      "o": "Musée Réattu",
-      "d": [
-        "2013-12-06",
-        "2014-06-30"
-      ],
-      "a": "10223",
-      "an": "Lucien Clergue"
-    },
     {
       "i": "86797-17437-2013-10-25",
       "c": "MX",
@@ -93,111 +48,6 @@
       ],
       "a": "86797",
       "an": "Alejandro Moncada"
-    },
-    {
-      "i": "71975-22692-2013-09-18",
-      "c": "FR",
-      "n": "Raw Vision",
-      "t": "Autre",
-      "st": "Group",
-      "ct": "Paris",
-      "o": "Halle Saint Pierre",
-      "d": [
-        "2013-09-18",
-        "2014-08-22"
-      ],
-      "a": "71975",
-      "an": "André Robillard"
-    },
-    {
-      "i": "1452-12218-2013-05-05",
-      "c": "DE",
-      "n": "KoelnSkulptur #7",
-      "t": "Institution publique",
-      "st": "Group",
-      "ct": "Cologne",
-      "o": "Skulpturenpark Köln",
-      "d": [
-        "2013-05-05",
-        "2015-03-01"
-      ],
-      "a": "1452",
-      "an": "Bernar Venet"
-    },
-    {
-      "i": "3951-24720-2013-12-07",
-      "c": "AU",
-      "n": "Hubert Duprat",
-      "t": "Institution publique",
-      "st": "Solo",
-      "ct": "Hobart, TAS",
-      "o": "Mona - Museum of Old and New Art",
-      "d": [
-        "2013-12-07",
-        "2014-07-28"
-      ],
-      "a": "3951",
-      "an": "Hubert Duprat"
-    },
-    {
-      "i": "235951-26519-2013-10-10",
-      "c": "DE",
-      "n": "Rooms for Photography - Folkwang Statements",
-      "t": "Autre",
-      "st": "Group",
-      "ct": "Hamburg",
-      "o": "FREELENS Galerie",
-      "d": [
-        "2013-10-10",
-        "2014-08-11"
-      ],
-      "a": "235951",
-      "an": "Raphaële Bidault-Waddington"
-    },
-    {
-      "i": "53263-23875-2013-12-06",
-      "c": "FR",
-      "n": "Revoir Réattu",
-      "t": "Institution publique",
-      "st": "Group",
-      "ct": "Arles",
-      "o": "Musée Réattu",
-      "d": [
-        "2013-12-06",
-        "2014-06-30"
-      ],
-      "a": "53263",
-      "an": "Christine Crozat"
-    },
-    {
-      "i": "2718-22692-2013-09-18",
-      "c": "FR",
-      "n": "Raw Vision",
-      "t": "Autre",
-      "st": "Group",
-      "ct": "Paris",
-      "o": "Halle Saint Pierre",
-      "d": [
-        "2013-09-18",
-        "2014-08-22"
-      ],
-      "a": "2718",
-      "an": "Michel Nedjar"
-    },
-    {
-      "i": "113440-22692-2013-09-18",
-      "c": "FR",
-      "n": "Raw Vision",
-      "t": "Autre",
-      "st": "Group",
-      "ct": "Paris",
-      "o": "Halle Saint Pierre",
-      "d": [
-        "2013-09-18",
-        "2014-08-22"
-      ],
-      "a": "113440",
-      "an": "François Monchâtre"
     },
     {
       "i": "1845-23875-2013-12-06",
@@ -230,6 +80,66 @@
       "an": "Christian Boltanski"
     },
     {
+      "i": "235951-26519-2013-10-10",
+      "c": "DE",
+      "n": "Rooms for Photography - Folkwang Statements",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Hamburg",
+      "o": "FREELENS Galerie",
+      "d": [
+        "2013-10-10",
+        "2014-08-11"
+      ],
+      "a": "235951",
+      "an": "Raphaële Bidault-Waddington"
+    },
+    {
+      "i": "70110-23875-2013-12-06",
+      "c": "FR",
+      "n": "Revoir Réattu",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Arles",
+      "o": "Musée Réattu",
+      "d": [
+        "2013-12-06",
+        "2014-06-30"
+      ],
+      "a": "70110",
+      "an": "Bernard Dejonghe"
+    },
+    {
+      "i": "113440-22692-2013-09-18",
+      "c": "FR",
+      "n": "Raw Vision",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Halle Saint Pierre",
+      "d": [
+        "2013-09-18",
+        "2014-08-22"
+      ],
+      "a": "113440",
+      "an": "François Monchâtre"
+    },
+    {
+      "i": "2718-22692-2013-09-18",
+      "c": "FR",
+      "n": "Raw Vision",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Halle Saint Pierre",
+      "d": [
+        "2013-09-18",
+        "2014-08-22"
+      ],
+      "a": "2718",
+      "an": "Michel Nedjar"
+    },
+    {
       "i": "945-2309-2013-11-23",
       "c": "IT",
       "n": "When Now is Minimal. The Unknown Side of the Sammlung Goetz",
@@ -258,6 +168,96 @@
       ],
       "a": "945",
       "an": "Daniel Buren"
+    },
+    {
+      "i": "62232-22692-2013-09-18",
+      "c": "FR",
+      "n": "Raw Vision",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Halle Saint Pierre",
+      "d": [
+        "2013-09-18",
+        "2014-08-22"
+      ],
+      "a": "62232",
+      "an": "Pascal Verbena"
+    },
+    {
+      "i": "1452-12218-2013-05-05",
+      "c": "DE",
+      "n": "KoelnSkulptur #7",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Cologne",
+      "o": "Skulpturenpark Köln",
+      "d": [
+        "2013-05-05",
+        "2015-03-01"
+      ],
+      "a": "1452",
+      "an": "Bernar Venet"
+    },
+    {
+      "i": "71975-22692-2013-09-18",
+      "c": "FR",
+      "n": "Raw Vision",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Halle Saint Pierre",
+      "d": [
+        "2013-09-18",
+        "2014-08-22"
+      ],
+      "a": "71975",
+      "an": "André Robillard"
+    },
+    {
+      "i": "3951-24720-2013-12-07",
+      "c": "AU",
+      "n": "Hubert Duprat",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Hobart, TAS",
+      "o": "Mona - Museum of Old and New Art",
+      "d": [
+        "2013-12-07",
+        "2014-07-28"
+      ],
+      "a": "3951",
+      "an": "Hubert Duprat"
+    },
+    {
+      "i": "53263-23875-2013-12-06",
+      "c": "FR",
+      "n": "Revoir Réattu",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Arles",
+      "o": "Musée Réattu",
+      "d": [
+        "2013-12-06",
+        "2014-06-30"
+      ],
+      "a": "53263",
+      "an": "Christine Crozat"
+    },
+    {
+      "i": "10223-23875-2013-12-06",
+      "c": "FR",
+      "n": "Revoir Réattu",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Arles",
+      "o": "Musée Réattu",
+      "d": [
+        "2013-12-06",
+        "2014-06-30"
+      ],
+      "a": "10223",
+      "an": "Lucien Clergue"
     }
   ]
 }

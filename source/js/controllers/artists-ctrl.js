@@ -340,6 +340,9 @@ define([], function() {
 						// 	name: dataService.data.artists.names[expo.i].name
 						// });
 						if (expo.c && expo.c != 'FR') {
+							console.log(expo.c);
+							console.log(data.cc[expo.c]);
+							console.log(data.continents[data.cc[expo.c]]);
 							var country = data.continents[data.cc[expo.c]].countries[expo.c];
 							var artists = country.artists;
 							if (!artists[expo.i]) {

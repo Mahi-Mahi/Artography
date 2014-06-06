@@ -43,13 +43,10 @@ if  false
 			continents[continent] = Hash[countries.sort]
 		end
 		continents = Hash[continents.sort]
-		filename = "json/countries.json"
+		filename = "countries.json"
 		content = production ? continents.to_json : JSON.pretty_generate(continents)
 		File.open(filename, 'w') { |file| file.write content }
 	end
-	FileUtils.cp("json/countries.json", "../source/data/countries.json")
-
-	exit
 
 end
 
@@ -152,8 +149,7 @@ af_galleries = fetch('/v0/gallery/list')
 
 pp "#{af_galleries.length} galleries"
 
-
-af_galleries.shuffle.slice(0, nb_datas).each do |gallery|
+af_galleries.shuffle.slice(0, 1).each do |gallery|
 
 	print '.'
 
@@ -402,7 +398,7 @@ af_artists.shuffle.slice(0, nb_datas).each do |artist|
 
 end
 
-pp today[:fairs]
+pp expos[:today]
 
 pp "Aujourd'hui, #{today[:expos][:artists].length} artistes exposent dans #{today[:expos][:countries].length} pays"
 
@@ -508,6 +504,7 @@ FileUtils.cp_r("json/expos", "../source/data/expos")
 FileUtils.cp_r("json/artists", "../source/data/artists")
 FileUtils.cp_r("json/fairs", "../source/data/fairs")
 FileUtils.cp_r("json/galleries", "../source/data/galleries")
+FileUtils.cp("countries.json", "../source/data/countries.json")
 
 
 
