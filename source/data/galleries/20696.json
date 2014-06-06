@@ -1,0 +1,44 @@
+{
+  "id": "20696",
+  "name": "to b.art",
+  "street": "Carre d'Or - Gustavvia",
+  "zip": "97133",
+  "city": "Saint-Barthélemy",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+560 (0)690 46 66 56",
+  "email": "info@to-b-art.com",
+  "www": "to-b-art.com",
+  "map": "http://maps.google.com/maps?q=Saint-Barthélemy%2C%2097133 %2C%20 %2C%20Carre d\\'Or - Gustavvia %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2009": [
+      {
+        "i": "20696-Buenos Aires Photo - 2009",
+        "c": "AR",
+        "n": "Buenos Aires Photo - 2009",
+        "ct": "Buenos Aires"
+      }
+    ],
+    "2010": [
+      {
+        "i": "20696-Zona Maco Mexico 10",
+        "c": "MX",
+        "n": "Zona Maco Mexico 10",
+        "ct": "Mexico City"
+      }
+    ],
+    "2011": [
+      {
+        "i": "20696-Zona Maco Mexico 11",
+        "c": "MX",
+        "n": "Zona Maco Mexico 11",
+        "ct": "Mexico City"
+      }
+    ]
+  }
+}

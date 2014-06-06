@@ -1,0 +1,26 @@
+{
+  "id": "28244",
+  "name": "Espace du Dedans",
+  "street": "28 rue Gand",
+  "zip": "59000",
+  "city": "Lille",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)06 82 54 90 96",
+  "email": "mariechristinedubois@free.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Lille%2C%2059000 %2C%20 %2C%2028 rue Gand %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2013": [
+      {
+        "i": "28244-Lille Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

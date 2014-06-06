@@ -1,0 +1,66 @@
+{
+  "id": "10607",
+  "name": "Galerie Nadir",
+  "street": "15 rue Filaterie",
+  "zip": "74000",
+  "city": "Annecy",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)04 50 45 20 60",
+  "email": "nadir@dial-oleane.com",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Annecy%2C%2074000 %2C%20 %2C%2015 rue Filaterie %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "9",
+  "fairs": {
+    "2006": [
+      {
+        "i": "10607-ARTéNÎM 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "10607-ARTéNÎM 2007",
+        "c": "FR"
+      },
+      {
+        "i": "10607-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "10607-ARTéNÎM Grenoble 2008",
+        "c": "FR"
+      },
+      {
+        "i": "10607-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "10607-Lille Art Fair 09",
+        "c": "FR"
+      },
+      {
+        "i": "10607-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "10607-Lille Art Fair 2010",
+        "c": "FR"
+      },
+      {
+        "i": "10607-ST-ART 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

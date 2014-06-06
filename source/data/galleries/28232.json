@@ -1,0 +1,26 @@
+{
+  "id": "28232",
+  "name": "Arts 23",
+  "street": "14 rue Joseph Cambon",
+  "zip": "34120",
+  "city": "Pezenas",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 34 53 07 50",
+  "email": "arts2323@gmail.com",
+  "www": "www.arts23.eu",
+  "map": "http://maps.google.com/maps?q=Pezenas%2C%2034120 %2C%20 %2C%2014 rue Joseph Cambon %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2013": [
+      {
+        "i": "28232-Lille Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

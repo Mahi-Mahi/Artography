@@ -1,0 +1,26 @@
+{
+  "id": "15427",
+  "name": "Atelier 9",
+  "street": "5 rue Génissieu",
+  "zip": "38000",
+  "city": "Grenoble",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 76 58 05 36",
+  "email": "atelier9@alicepro.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Grenoble%2C%2038000 %2C%20 %2C%205 rue Génissieu %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2008": [
+      {
+        "i": "15427-ARTéNÎM Grenoble 2008",
+        "c": "FR"
+      }
+    ]
+  }
+}

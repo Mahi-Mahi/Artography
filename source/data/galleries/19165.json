@@ -1,0 +1,28 @@
+{
+  "id": "19165",
+  "name": "Edgar le Marchand d'Art",
+  "street": "21 rue de Verneuil",
+  "zip": "75007",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 96 15 60",
+  "email": "info@galerieedgar.fr",
+  "www": "www.galerieedgar.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%2021 rue de Verneuil %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19165-Affordable Art Fair Bruxelles 09",
+        "c": "BE",
+        "n": "Affordable Art Fair Bruxelles 09",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

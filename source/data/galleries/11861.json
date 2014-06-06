@@ -1,0 +1,90 @@
+{
+  "id": "11861",
+  "name": "Galerie Alberta Pane",
+  "street": "14, rue Saint-Claude",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 43 06 58 72",
+  "email": "info@galeriealbertapane.com",
+  "www": "www.galeriealbertapane.com/",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2014, rue Saint-Claude %2C%20France",
+  "fairs-total": "12",
+  "fairs-abroad": "5",
+  "fairs-in-FR": "7",
+  "fairs": {
+    "2007": [
+      {
+        "i": "11861-Diva - Digital & Video Art Fair - Paris 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "11861-SLICK 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "11861-SLICK Dessin 09",
+        "c": "FR"
+      },
+      {
+        "i": "11861-SLICK 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "11861-SWAB 2010",
+        "c": "ES",
+        "n": "SWAB 2010",
+        "ct": "Barcelona"
+      },
+      {
+        "i": "11861-ShContemporary 2010",
+        "c": "CN",
+        "n": "ShContemporary 2010",
+        "ct": "Shanghai"
+      }
+    ],
+    "2011": [
+      {
+        "i": "11861-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "11861-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "11861-Lille Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "11861-Art Brussels 2013",
+        "c": "BE",
+        "n": "Art Brussels 2013",
+        "ct": "Brussels"
+      },
+      {
+        "i": "11861-Summa Art Fair 2013",
+        "c": "ES",
+        "n": "Summa Art Fair 2013",
+        "ct": "Madrid"
+      },
+      {
+        "i": "11861-Yia Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

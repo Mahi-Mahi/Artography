@@ -1,0 +1,216 @@
+{
+  "id": "370",
+  "name": "Galerie Lahumière",
+  "street": "17 Rue du Parc Royal",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1963",
+  "directeurs": "Anne & Jean-Claude Lahumière",
+  "profile": null,
+  "tel": "+33-(0)1-42 77 27 74",
+  "email": "contact@lahumiere.com",
+  "www": "www.lahumiere.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2017 Rue du Parc Royal %2C%20France",
+  "fairs-total": "34",
+  "fairs-abroad": "20",
+  "fairs-in-FR": "14",
+  "fairs": {
+    "2005": [
+      {
+        "i": "370-ArtParis 2005",
+        "c": "FR"
+      },
+      {
+        "i": "370-Art 36 Basel",
+        "c": "CH",
+        "n": "Art 36 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "370-Fiac 2005",
+        "c": "FR"
+      },
+      {
+        "i": "370-Art Cologne 2005",
+        "c": "DE",
+        "n": "Art Cologne 2005",
+        "ct": "Cologne"
+      }
+    ],
+    "2006": [
+      {
+        "i": "370-ArtParis 06",
+        "c": "FR"
+      },
+      {
+        "i": "370-Art 37 Basel",
+        "c": "CH",
+        "n": "Art 37 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "370-Fiac 2006",
+        "c": "FR"
+      },
+      {
+        "i": "370-Art Cologne 2006",
+        "c": "DE",
+        "n": "Art Cologne 2006",
+        "ct": "Cologne"
+      }
+    ],
+    "2007": [
+      {
+        "i": "370-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "370-Art Cologne 2007",
+        "c": "DE",
+        "n": "Art Cologne 2007",
+        "ct": "Cologne"
+      },
+      {
+        "i": "370-Art 38 Basel",
+        "c": "CH",
+        "n": "Art 38 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "370-Fiac 2007",
+        "c": "FR"
+      },
+      {
+        "i": "370-ArtParis - AbuDhabi 2007",
+        "c": "AE",
+        "n": "ArtParis - AbuDhabi 2007",
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2008": [
+      {
+        "i": "370-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "370-Art Chicago 2008",
+        "c": "US",
+        "n": "Art Chicago 2008",
+        "ct": "Chicago, IL"
+      },
+      {
+        "i": "370-Art 39 Basel",
+        "c": "CH",
+        "n": "Art 39 Basel",
+        "ct": "Basel"
+      }
+    ],
+    "2009": [
+      {
+        "i": "370-The Armory Show 2009",
+        "c": "US",
+        "n": "The Armory Show 2009",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "370-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "370-Art Cologne 2009",
+        "c": "DE",
+        "n": "Art Cologne 2009",
+        "ct": "Cologne"
+      },
+      {
+        "i": "370-Art 40 Basel",
+        "c": "CH",
+        "n": "Art 40 Basel",
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "370-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "370-Art Cologne 2010",
+        "c": "DE",
+        "n": "Art Cologne 2010",
+        "ct": "Cologne"
+      },
+      {
+        "i": "370-Art 41 Basel",
+        "c": "CH",
+        "n": "Art 41 Basel",
+        "ct": "Basel"
+      }
+    ],
+    "2011": [
+      {
+        "i": "370-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "370-Art Cologne 2011",
+        "c": "DE",
+        "n": "Art Cologne 2011",
+        "ct": "Cologne"
+      },
+      {
+        "i": "370-Art 42 Basel",
+        "c": "CH",
+        "n": "Art 42 Basel",
+        "ct": "Basel"
+      }
+    ],
+    "2012": [
+      {
+        "i": "370-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "c": "FR"
+      },
+      {
+        "i": "370-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "370-Art Cologne 2012",
+        "c": "DE",
+        "n": "Art Cologne 2012",
+        "ct": "Cologne"
+      },
+      {
+        "i": "370-Art 43 Basel",
+        "c": "CH",
+        "n": "Art 43 Basel",
+        "ct": "Basel"
+      }
+    ],
+    "2013": [
+      {
+        "i": "370-Art Karlsruhe 2013",
+        "c": "DE",
+        "n": "Art Karlsruhe 2013",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "370-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "370-Art Cologne 2013",
+        "c": "DE",
+        "n": "Art Cologne 2013",
+        "ct": "Cologne"
+      },
+      {
+        "i": "370-Art Basel 2013",
+        "c": "CH",
+        "n": "Art Basel 2013",
+        "ct": "Basel"
+      }
+    ]
+  }
+}

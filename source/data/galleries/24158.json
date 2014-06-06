@@ -1,0 +1,54 @@
+{
+  "id": "24158",
+  "name": "Galerie Catherine Houard",
+  "street": "15 rue Saint-Benoît",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)9 54 20 21 49",
+  "email": "galerie@catherinehouard.com",
+  "www": "www.catherinehouard.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2015 rue Saint-Benoît %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "7",
+  "fairs": {
+    "2011": [
+      {
+        "i": "24158-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "24158-Chic Art Fair 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "24158-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "24158-Chic Dessin 2012",
+        "c": "FR"
+      },
+      {
+        "i": "24158-Art Elysées 2012",
+        "c": "FR"
+      },
+      {
+        "i": "24158-Chic Artfair - À la Cité de la Mode et du Design 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "24158-Art Paris Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

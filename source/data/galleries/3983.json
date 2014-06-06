@@ -1,0 +1,132 @@
+{
+  "id": "3983",
+  "name": "Galerie Vanessa Quang",
+  "street": "5bis, rue Beauce",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Vanessa Quang",
+  "profile": null,
+  "tel": "+33 (0)1 49270334",
+  "email": "info@galerie-quang.com",
+  "www": "www.galerie-quang.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%205bis, rue Beauce %2C%20France",
+  "fairs-total": "19",
+  "fairs-abroad": "9",
+  "fairs-in-FR": "10",
+  "fairs": {
+    "2005": [
+      {
+        "i": "3983-Preview Berlin -  the emerging art fair - 2005",
+        "c": "DE",
+        "n": "Preview Berlin -  the emerging art fair - 2005",
+        "ct": "Berlin"
+      }
+    ],
+    "2006": [
+      {
+        "i": "3983-Show Off Paris 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "3983-V|07 - Venice VideoArt Fair",
+        "c": "IT",
+        "n": "V|07 - Venice VideoArt Fair",
+        "ct": "Venice"
+      },
+      {
+        "i": "3983-Show Off Paris 2007",
+        "c": "FR"
+      },
+      {
+        "i": "3983-Photo Miami 2007",
+        "c": "US",
+        "n": "Photo Miami 2007",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "3983-Show Off Paris 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "3983-Volta NY 09",
+        "c": "US",
+        "n": "Volta NY 09",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "3983-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
+        "i": "3983-VOLTAshow05",
+        "c": "CH",
+        "n": "VOLTAshow05",
+        "ct": "Basel"
+      },
+      {
+        "i": "3983-Docks Art Fair 2009",
+        "c": "FR"
+      },
+      {
+        "i": "3983-Show Off Paris 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "3983-Volta NY 10",
+        "c": "US",
+        "n": "Volta NY 10",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "3983-Show Off Paris 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "3983-Zona Maco Mexico 11",
+        "c": "MX",
+        "n": "Zona Maco Mexico 11",
+        "ct": "Mexico City"
+      },
+      {
+        "i": "3983-Show Off Paris 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "3983-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "3983-The Solo Project 2012",
+        "c": "CH",
+        "n": "The Solo Project 2012",
+        "ct": "Basel"
+      },
+      {
+        "i": "3983-Unseen Photo Fair 2012",
+        "c": "NL",
+        "n": "Unseen Photo Fair 2012",
+        "ct": "Amsterdam"
+      }
+    ],
+    "2013": [
+      {
+        "i": "3983-Art Paris Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

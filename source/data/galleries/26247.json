@@ -1,0 +1,52 @@
+{
+  "id": "26247",
+  "name": "Backslash gallery",
+  "street": "29 Rue Notre Dame de Nazareth",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 9 81 39 60 01",
+  "email": "delphine@backslashgallery.com",
+  "www": "www.backslashgallery.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2029 Rue Notre Dame de Nazareth %2C%20France",
+  "fairs-total": "6",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2011": [
+      {
+        "i": "26247-SLICK 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "26247-Slick Brussels 2012",
+        "c": "FR"
+      },
+      {
+        "i": "26247-VOLTA 8 Basel 2012",
+        "c": "CH",
+        "n": "VOLTA 8 Basel 2012",
+        "ct": "Münchenstein / Basel"
+      },
+      {
+        "i": "26247-SLICK 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "26247-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "26247-Yia Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

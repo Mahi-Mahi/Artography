@@ -1,0 +1,26 @@
+{
+  "id": "19943",
+  "name": "Galerie Corianne",
+  "street": "32, avenue Rapp",
+  "zip": "75007",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)145 55 88 49",
+  "email": null,
+  "www": "www.corianne.net",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%2032, avenue Rapp %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19943-The Affordable Art Fair Paris 09",
+        "c": "FR"
+      }
+    ]
+  }
+}

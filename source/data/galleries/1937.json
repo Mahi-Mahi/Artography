@@ -1,0 +1,130 @@
+{
+  "id": "1937",
+  "name": "Galerie Bernard Jordan - Paris",
+  "street": "77, rue Charlot",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Bernard + Vesselina Jordan",
+  "profile": null,
+  "tel": "+33-(0)1 42 77 19 61",
+  "email": "galerie.bernard.jordan@wanadoo.fr",
+  "www": "www.galeriebernardjordan.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2077, rue Charlot %2C%20France",
+  "fairs-total": "19",
+  "fairs-abroad": "11",
+  "fairs-in-FR": "8",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1937-viennaFair 2005",
+        "c": "AT",
+        "n": "viennaFair 2005",
+        "ct": "Vienna"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1937-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
+        "i": "1937-Kunst Zürich 2008",
+        "c": "CH",
+        "n": "Kunst Zürich 2008",
+        "ct": "Zurich"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1937-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1937-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "1937-Viennafair 2010",
+        "c": "AT",
+        "n": "Viennafair 2010",
+        "ct": "Vienna"
+      },
+      {
+        "i": "1937-Munich Contempo 2010",
+        "c": "DE",
+        "n": "Munich Contempo 2010",
+        "ct": "Munich"
+      },
+      {
+        "i": "1937-20th annual ifpdaprintfair 2010",
+        "c": "US",
+        "n": "20th annual ifpdaprintfair 2010",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1937-Kunst Zürich 2010",
+        "c": "CH",
+        "n": "Kunst Zürich 2010",
+        "ct": "Zurich"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1937-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "1937-Viennafair 2011",
+        "c": "AT",
+        "n": "Viennafair 2011",
+        "ct": "Vienna"
+      },
+      {
+        "i": "1937-The Solo Project 2011",
+        "c": "CH",
+        "n": "The Solo Project 2011",
+        "ct": "Basel"
+      },
+      {
+        "i": "1937-SLICK 2011",
+        "c": "FR"
+      },
+      {
+        "i": "1937-St-Art 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1937-Slick Brussels 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1937-Viennafair 2012",
+        "c": "AT",
+        "n": "Viennafair 2012",
+        "ct": "Vienna"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1937-Artgenève - Salon international ",
+        "c": "CH",
+        "n": "Artgenève - Salon international ",
+        "ct": "Geneva"
+      },
+      {
+        "i": "1937-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1937-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

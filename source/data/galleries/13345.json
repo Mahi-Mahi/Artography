@@ -1,0 +1,26 @@
+{
+  "id": "13345",
+  "name": "Galerie Diario Di Bordo",
+  "street": "8 place Saint Come",
+  "zip": "34000",
+  "city": "Montpellier",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 67 58 24 14",
+  "email": "angela.alderani@orange.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Montpellier%2C%2034000 %2C%20 %2C%208 place Saint Come %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2007": [
+      {
+        "i": "13345-ARTéNÎM 2007",
+        "c": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "17874",
+  "name": "Galerie UNA",
+  "street": "",
+  "zip": "",
+  "city": "Limoges",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)6 13 21 04 77",
+  "email": "contact@maribelnadaljove.com",
+  "www": "www.galerieuna.com/",
+  "map": "http://maps.google.com/maps?q=Limoges%2C%20 %2C%20 %2C%20 %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2008": [
+      {
+        "i": "17874-SLICK 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "17874-SLICK 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "17874-JustMadrid",
+        "c": "ES",
+        "n": "JustMadrid",
+        "ct": "Madrid"
+      },
+      {
+        "i": "17874-SWAB 2010",
+        "c": "ES",
+        "n": "SWAB 2010",
+        "ct": "Barcelona"
+      }
+    ],
+    "2011": [
+      {
+        "i": "17874-JustMadrid 2011",
+        "c": "ES",
+        "n": "JustMadrid 2011",
+        "ct": "Madrid"
+      }
+    ],
+    "2012": [
+      {
+        "i": "17874-SLICK 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "17874-Slick Paris 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

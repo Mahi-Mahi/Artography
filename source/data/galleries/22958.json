@@ -1,0 +1,52 @@
+{
+  "id": "22958",
+  "name": "Galerie Jacques Lacoste",
+  "street": "12 rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 40 20 41 82",
+  "email": null,
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2012 rue de Seine %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2010": [
+      {
+        "i": "22958-Design Miami/Basel 2010",
+        "c": "CH",
+        "n": "Design Miami/Basel 2010",
+        "ct": "Basel"
+      },
+      {
+        "i": "22958-Pavilion of Art & Design 2010",
+        "c": "GB",
+        "n": "Pavilion of Art & Design 2010",
+        "ct": "London"
+      }
+    ],
+    "2012": [
+      {
+        "i": "22958-Design Miami / Basel",
+        "c": "US",
+        "n": "Design Miami / Basel",
+        "ct": "Miami, FL"
+      },
+      {
+        "i": "22958-Pavilion of Art & Design 2012",
+        "c": "FR"
+      },
+      {
+        "i": "22958-Design Miami",
+        "c": "US",
+        "n": "Design Miami",
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

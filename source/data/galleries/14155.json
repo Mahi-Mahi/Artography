@@ -1,0 +1,26 @@
+{
+  "id": "14155",
+  "name": "Galerie Orem",
+  "street": "16 rue de Poitou",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 77 76 00",
+  "email": "contact@galerieorem.com",
+  "www": "www.galerieorem.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2016 rue de Poitou %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2008": [
+      {
+        "i": "14155-Lille Art Fair 08",
+        "c": "FR"
+      }
+    ]
+  }
+}

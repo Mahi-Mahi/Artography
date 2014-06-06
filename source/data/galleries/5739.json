@@ -1,0 +1,80 @@
+{
+  "id": "5739",
+  "name": "Yukiko Kawase Gallery",
+  "street": "8, rue Adolphe Focillon",
+  "zip": "75014",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Ms. Yukiko Kawase",
+  "profile": null,
+  "tel": "+33 (0)1 40440132",
+  "email": "yukikokawasw@msn.com",
+  "www": "yukikokawase.free.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075014 %2C%20 %2C%208, rue Adolphe Focillon %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "7",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5739-Diva - Digital & Video Art Fair - New York 2006",
+        "c": "US",
+        "n": "Diva - Digital & Video Art Fair - New York 2006",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "5739-SLICK 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5739-Year_07 Art Project",
+        "c": "GB",
+        "n": "Year_07 Art Project",
+        "ct": "London"
+      },
+      {
+        "i": "5739-Diva - Digital & Video Art Fair - Paris 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5739-Art Taipei 2008",
+        "c": "TW",
+        "n": "Art Taipei 2008",
+        "ct": "Taipei"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5739-SLICK Dessin 09",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5739-Art Fair Tokyo 2010",
+        "c": "JP",
+        "n": "Art Fair Tokyo 2010",
+        "ct": "Tokyo"
+      },
+      {
+        "i": "5739-NADA Art Fair Miami Beach 2010",
+        "c": "US",
+        "n": "NADA Art Fair Miami Beach 2010",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5739-Volta NY 2013",
+        "c": "US",
+        "n": "Volta NY 2013",
+        "ct": "New York City, NY"
+      }
+    ]
+  }
+}

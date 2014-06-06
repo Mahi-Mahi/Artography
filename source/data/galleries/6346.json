@@ -1,0 +1,62 @@
+{
+  "id": "6346",
+  "name": "Tissato Nakahara",
+  "street": "19, avenue du génßeral Leclerc",
+  "zip": "75014",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 1 40 47 83 20",
+  "email": "chisato@free.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075014 %2C%20 %2C%2019, avenue du génßeral Leclerc %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "6",
+  "fairs": {
+    "2005": [
+      {
+        "i": "6346-Paris Photo 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "6346-Paris Photo 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "6346-Photo London 2007",
+        "c": "GB",
+        "n": "Photo London 2007",
+        "ct": "London"
+      },
+      {
+        "i": "6346-Paris Photo 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "6346-Paris Photo 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "6346-Paris Photo 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "6346-Paris Photo 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

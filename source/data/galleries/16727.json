@@ -1,0 +1,44 @@
+{
+  "id": "16727",
+  "name": "Espace Point Barre",
+  "street": "65 Rue de la Barre",
+  "zip": "59800",
+  "city": "Lille",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)3 20 57 63 51",
+  "email": "contact@espacepointbarre.fr",
+  "www": "www.espacepointbarre.fr",
+  "map": "http://maps.google.com/maps?q=Lille%2C%2059800 %2C%20 %2C%2065 Rue de la Barre %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2008": [
+      {
+        "i": "16727-Lille Art Fair 08",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "16727-Lille Art Fair 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "16727-Lille Art Fair 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "16727-Lille Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

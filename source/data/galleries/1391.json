@@ -1,0 +1,72 @@
+{
+  "id": "1391",
+  "name": "Galerie Brimaud",
+  "street": "4 rue Thorigny",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": "La galerie BRIMAUD, spécialisée en Art moderne à Paris, présente le surréalisme autour d'André Breton depuis quinze ans, avec des artistes surréalistes comme Camacho, Lam, Masson, Man Ray, Miro, Prévert, Calder... En référence à André Breton et à Charles Estienne, la galerie a exposé depuis toujours des artistes des années 50, suite de l’écriture automatique, tels que : Degottex, Loubchansky. Aujourd’hui elle présente également Hartung, Poliakoff, Soulages, Lanskoy, Bram Van Velde, Fautrier.",
+  "tel": "+33-(0)1-42 72 42 02",
+  "email": "contact@galeriebrimaud.com",
+  "www": "www.galeriebrimaud.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%204 rue Thorigny %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "10",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1391-ArtParis 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1391-ArtParis 06",
+        "c": "FR"
+      },
+      {
+        "i": "1391-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1391-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "1391-Les Elysées de l'Art - 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1391-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "1391-Art Elysées 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1391-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "1391-Art Elysées 2009",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1391-Art Elysées 2011",
+        "c": "FR"
+      }
+    ]
+  }
+}

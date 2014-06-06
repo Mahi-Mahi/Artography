@@ -1,0 +1,32 @@
+{
+  "id": "21811",
+  "name": "Galerie du Buisson",
+  "street": "4 rue du Buisson",
+  "zip": "75010",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)140 38 40 01",
+  "email": "galeriedubuisson@orange.fr",
+  "www": "www.galeriedubuisson.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075010 %2C%20 %2C%204 rue du Buisson %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2010": [
+      {
+        "i": "21811-Chic Dessin 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "21811-CHIC DESSIN",
+        "c": "FR"
+      }
+    ]
+  }
+}

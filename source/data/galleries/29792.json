@@ -1,0 +1,30 @@
+{
+  "id": "29792",
+  "name": "Republic Gallery",
+  "street": "38 rue Notre Dame de Nazareth",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 6 13 67 33 71",
+  "email": "benjamin@republicgallery.fr",
+  "www": "www.republicgallery.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2038 rue Notre Dame de Nazareth %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2013": [
+      {
+        "i": "29792-Yia Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "29792-cutlog 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

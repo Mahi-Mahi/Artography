@@ -1,0 +1,38 @@
+{
+  "id": "26265",
+  "name": "Galerie Espaces 54",
+  "street": "54, rue Mazarine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Juliette Aittouares-Caillon",
+  "profile": null,
+  "tel": "+33 (0)9 51 36 18 48",
+  "email": "contact@espaces54.com",
+  "www": "www.espaces54.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2054, rue Mazarine %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2011": [
+      {
+        "i": "26265-Art Elysées 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "26265-Art Elysées 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "26265-Art Elysees 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

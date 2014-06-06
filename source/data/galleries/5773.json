@@ -1,0 +1,58 @@
+{
+  "id": "5773",
+  "name": "Galerie Rive Gauche - Marcel Strouk",
+  "street": "23 rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Marcel Strouk",
+  "profile": null,
+  "tel": "+33 (0)1 56244219",
+  "email": "art.rive.gauche@wanadoo.fr",
+  "www": "www.galerie-strouk.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2023 rue de Seine %2C%20France",
+  "fairs-total": "6",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5773-ArtParis 06",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5773-ArtParis 07",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5773-Art Chicago 2009",
+        "c": "US",
+        "n": "Art Chicago 2009",
+        "ct": "Chicago, IL"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5773-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "5773-Marrakech Art Fair",
+        "c": "MA",
+        "n": "Marrakech Art Fair",
+        "ct": "Casablanca"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5773-Art Paris Art Fair 2012",
+        "c": "FR"
+      }
+    ]
+  }
+}

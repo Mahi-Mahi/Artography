@@ -1,0 +1,42 @@
+{
+  "id": "10284",
+  "name": "Wanted Paris gallery",
+  "street": "23, rue du roi de Sicile",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+ 33 (0)1 45 20 22 01",
+  "email": "contact@wantedparis.com",
+  "www": "www.wantedparis.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%2023, rue du roi de Sicile %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2007": [
+      {
+        "i": "10284-ArtParis 07",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "10284-Affordable Art Fair Bruxelles 09",
+        "c": "BE",
+        "n": "Affordable Art Fair Bruxelles 09",
+        "ct": "Brussels"
+      },
+      {
+        "i": "10284-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "10284-The Affordable Art Fair Paris 09",
+        "c": "FR"
+      }
+    ]
+  }
+}

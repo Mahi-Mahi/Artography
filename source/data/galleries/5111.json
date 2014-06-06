@@ -1,0 +1,38 @@
+{
+  "id": "5111",
+  "name": "Le Troisième Œil",
+  "street": "98 rue Vieille du Temple",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Anne-Marie Marquette",
+  "profile": null,
+  "tel": "+33 (0)1 48043025",
+  "email": null,
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2098 rue Vieille du Temple %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2005": [
+      {
+        "i": "5111-ArtParis 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "5111-ArtParis 06",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5111-ArtParis 07",
+        "c": "FR"
+      }
+    ]
+  }
+}

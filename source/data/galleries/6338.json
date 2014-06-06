@@ -1,0 +1,50 @@
+{
+  "id": "6338",
+  "name": "Filigranes Editions",
+  "street": "Lec'h Geffroy",
+  "zip": "22140",
+  "city": "Trézélan",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "02 96 45 32 02",
+  "email": "filigranes@filigranes.com",
+  "www": "filigranes.revue.com",
+  "map": "http://maps.google.com/maps?q=Trézélan%2C%2022140 %2C%20 %2C%20Lec\\'h Geffroy %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2005": [
+      {
+        "i": "6338-Paris Photo 2005",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "6338-Paris Photo 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "6338-Paris Photo 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "6338-Paris Photo 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "6338-Paris Photo 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

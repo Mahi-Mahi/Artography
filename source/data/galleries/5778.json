@@ -1,0 +1,40 @@
+{
+  "id": "5778",
+  "name": "Galerie Jean-Jacques Dutko",
+  "street": "13, rue Bonaparte",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 43269613",
+  "email": "galerie@dutko.com",
+  "www": "www.dutko.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2013, rue Bonaparte %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5778-ArtParis 06",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5778-ArtParis 07",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5778-Design Miami / Basel",
+        "c": "US",
+        "n": "Design Miami / Basel",
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

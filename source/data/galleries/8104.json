@@ -1,0 +1,50 @@
+{
+  "id": "8104",
+  "name": "Galerie Rendez-Vous",
+  "street": "1, place Austerlitz",
+  "zip": "6700",
+  "city": "Strasbourg",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)3 88257109, www.ergon4.fr/html/galeries/galerie_rendezvous.htm",
+  "email": null,
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Strasbourg%2C%206700 %2C%20 %2C%201, place Austerlitz %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2006": [
+      {
+        "i": "8104-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "8104-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "8104-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "8104-ST-ART 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "8104-St-Art 2011",
+        "c": "FR"
+      }
+    ]
+  }
+}

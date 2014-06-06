@@ -1,0 +1,28 @@
+{
+  "id": "8471",
+  "name": "Galerie Jeanne Develle",
+  "street": "",
+  "zip": "",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": null,
+  "email": "contact@devellegallery.com",
+  "www": "www.devellegallery.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%20 %2C%20 %2C%20 %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2006": [
+      {
+        "i": "8471-8. Art International Zürich",
+        "c": "CH",
+        "n": "8. Art International Zürich",
+        "ct": "Pfäffikon"
+      }
+    ]
+  }
+}

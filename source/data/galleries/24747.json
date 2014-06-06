@@ -1,0 +1,74 @@
+{
+  "id": "24747",
+  "name": "Marcelle Alix",
+  "street": "4 rue Jouye-Rouve",
+  "zip": "75020",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)9 50 04 16 80",
+  "email": "demain@marcellealix.com",
+  "www": "www.marcellealix.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075020 %2C%20 %2C%204 rue Jouye-Rouve %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "6",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2011": [
+      {
+        "i": "24747-Loop - The Video Art Fair 2011",
+        "c": "ES",
+        "n": "Loop - The Video Art Fair 2011",
+        "ct": "Barcelona"
+      },
+      {
+        "i": "24747-Liste 2011",
+        "c": "CH",
+        "n": "Liste 2011",
+        "ct": "Basel"
+      },
+      {
+        "i": "24747-Fiac 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "24747-Frieze New York 2012",
+        "c": "US",
+        "n": "Frieze New York 2012",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "24747-Liste  2012",
+        "c": "CH",
+        "n": "Liste  2012",
+        "ct": "Basel"
+      },
+      {
+        "i": "24747-Fiac 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "24747-Frieze New York 2013",
+        "c": "US",
+        "n": "Frieze New York 2013",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "24747-LISTE Art Fair Basel 2013",
+        "c": "CH",
+        "n": "LISTE Art Fair Basel 2013",
+        "ct": "Basel"
+      },
+      {
+        "i": "24747-FIAC 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

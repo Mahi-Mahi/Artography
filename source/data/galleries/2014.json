@@ -1,0 +1,132 @@
+{
+  "id": "2014",
+  "name": "Galerie Catherine Issert",
+  "street": "2, route des Serres",
+  "zip": "6570",
+  "city": "Saint-Paul de Vence",
+  "country": "France",
+  "foundation": "1975",
+  "directeurs": "Catherine Issert",
+  "profile": "La galerie relate des expériences plastiques multiples et complémentaires. Le programme s´élabore en tenant compte des débats actuels de l´art contemporain tout en entretenant une permanence et une fidélité valorisées par un travail à long terme avec les artistes. Des rencontres privilégiées ont permis de développer au fil des années un travail de commande publique et l´implantation de projets d´artistes dans l´espace architectural, mais aussi un travail d´édition dans le domaine du livre d´artiste et de l´objet multiple. Cette expression trouvera désormais un prolongement avec la création d´une vitrine pour l´édition d´objets d´artistes.",
+  "tel": "+33-(0)4 93 32 96 92",
+  "email": "catherine@galerie-issert.com",
+  "www": "www.galerie-issert.com",
+  "map": "http://maps.google.com/maps?q=Saint-Paul de Vence%2C%206570 %2C%20 %2C%202, route des Serres %2C%20France",
+  "fairs-total": "23",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "22",
+  "fairs": {
+    "2005": [
+      {
+        "i": "2014-Fiac 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "2014-ArtParis 06",
+        "c": "FR"
+      },
+      {
+        "i": "2014-Fiac 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "2014-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "2014-Fiac 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "2014-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "2014-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
+        "i": "2014-SLICK 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "2014-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "2014-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
+        "i": "2014-Fiac 2009",
+        "c": "FR"
+      },
+      {
+        "i": "2014-Artissima 16",
+        "c": "IT",
+        "n": "Artissima 16",
+        "ct": "Turin"
+      }
+    ],
+    "2010": [
+      {
+        "i": "2014-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "2014-Art-O-Rama 2010",
+        "c": "FR"
+      },
+      {
+        "i": "2014-SLICK 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "2014-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "2014-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "2014-Fiac 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "2014-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "2014-Fiac 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "2014-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "2014-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      },
+      {
+        "i": "2014-Yia Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

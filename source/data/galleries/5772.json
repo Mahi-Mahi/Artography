@@ -1,0 +1,26 @@
+{
+  "id": "5772",
+  "name": "Galerie La Réserve d'Area",
+  "street": "50 rue d'Hauteville",
+  "zip": "75010",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Fumihiko Harada - Alin Avila",
+  "profile": null,
+  "tel": "+33 (0)1 45233252",
+  "email": "laresrve-area@wanadoo.fr",
+  "www": "www.lareserveparis.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075010 %2C%20 %2C%2050 rue d'Hauteville %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5772-ArtParis 06",
+        "c": "FR"
+      }
+    ]
+  }
+}

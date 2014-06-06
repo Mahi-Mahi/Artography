@@ -1,0 +1,282 @@
+{
+  "id": "4180",
+  "name": "Galerie Frank Elbaz",
+  "street": "66, rue De Turenne",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Frank Elbaz",
+  "profile": null,
+  "tel": "+33 (0)1 48875004",
+  "email": "info@galeriefrankelbaz.com",
+  "www": "www.galeriefrankelbaz.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2066, rue De Turenne %2C%20France",
+  "fairs-total": "45",
+  "fairs-abroad": "32",
+  "fairs-in-FR": "13",
+  "fairs": {
+    "2005": [
+      {
+        "i": "4180-Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "4180-Fiac 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "4180-The Armory Show 2006",
+        "c": "US",
+        "n": "The Armory Show 2006",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "4180-Art Brussels 2006- 24th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2006- 24th Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "4180-11. ART FORUM BERLIN",
+        "c": "DE",
+        "n": "11. ART FORUM BERLIN",
+        "ct": "Berlin"
+      },
+      {
+        "i": "4180-Fiac 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "4180-Art Brussels 2007- 25th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2007- 25th Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "4180-VOLTAshow03",
+        "c": "CH",
+        "n": "VOLTAshow03",
+        "ct": "Basel"
+      },
+      {
+        "i": "4180-12. Art Forum Berlin",
+        "c": "DE",
+        "n": "12. Art Forum Berlin",
+        "ct": "Berlin"
+      },
+      {
+        "i": "4180-Fiac 2007",
+        "c": "FR"
+      },
+      {
+        "i": "4180-NADA Art Fair 2007 Miami",
+        "c": "US",
+        "n": "NADA Art Fair 2007 Miami",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "4180-VOLTAshow04",
+        "c": "CH",
+        "n": "VOLTAshow04",
+        "ct": "Basel"
+      },
+      {
+        "i": "4180-Fiac 2008",
+        "c": "FR"
+      },
+      {
+        "i": "4180-Artissima 15",
+        "c": "IT",
+        "n": "Artissima 15",
+        "ct": "Turin"
+      },
+      {
+        "i": "4180-NADA Art Fair 2008 Miami",
+        "c": "US",
+        "n": "NADA Art Fair 2008 Miami",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2009": [
+      {
+        "i": "4180-The Armory Show 2009",
+        "c": "US",
+        "n": "The Armory Show 2009",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "4180-Art Cologne 2009",
+        "c": "DE",
+        "n": "Art Cologne 2009",
+        "ct": "Cologne"
+      },
+      {
+        "i": "4180-Frieze Art Fair 2009",
+        "c": "GB",
+        "n": "Frieze Art Fair 2009",
+        "ct": "London"
+      },
+      {
+        "i": "4180-Fiac 2009",
+        "c": "FR"
+      },
+      {
+        "i": "4180-Artissima 16",
+        "c": "IT",
+        "n": "Artissima 16",
+        "ct": "Turin"
+      },
+      {
+        "i": "4180-Art Basel Miami Beach 2009",
+        "c": "US",
+        "n": "Art Basel Miami Beach 2009",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2010": [
+      {
+        "i": "4180-The Armory Show 2010",
+        "c": "US",
+        "n": "The Armory Show 2010",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "4180-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "4180-Frieze Art Fair 2010",
+        "c": "GB",
+        "n": "Frieze Art Fair 2010",
+        "ct": "London"
+      },
+      {
+        "i": "4180-Fiac 2010",
+        "c": "FR"
+      },
+      {
+        "i": "4180-Artissima 17",
+        "c": "IT",
+        "n": "Artissima 17",
+        "ct": "Turin"
+      }
+    ],
+    "2011": [
+      {
+        "i": "4180-Art Brussels 2011",
+        "c": "BE",
+        "n": "Art Brussels 2011",
+        "ct": "Brussels"
+      },
+      {
+        "i": "4180-Fruits, Flowers, and Clouds 2011",
+        "c": "AT",
+        "n": "Fruits, Flowers, and Clouds 2011",
+        "ct": "Vienna"
+      },
+      {
+        "i": "4180-abc art berlin contemporary 2011",
+        "c": "DE",
+        "n": "abc art berlin contemporary 2011",
+        "ct": "Berlin"
+      },
+      {
+        "i": "4180-Frieze Art Fair 2011",
+        "c": "GB",
+        "n": "Frieze Art Fair 2011",
+        "ct": "London"
+      },
+      {
+        "i": "4180-Fiac 2011",
+        "c": "FR"
+      },
+      {
+        "i": "4180-Art Basel Miami Beach 2011",
+        "c": "US",
+        "n": "Art Basel Miami Beach 2011",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2012": [
+      {
+        "i": "4180-Frieze New York 2012",
+        "c": "US",
+        "n": "Frieze New York 2012",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "4180-abc art berlin contemporary 2012",
+        "c": "DE",
+        "n": "abc art berlin contemporary 2012",
+        "ct": "Berlin"
+      },
+      {
+        "i": "4180-Frieze London 2012",
+        "c": "GB",
+        "n": "Frieze London 2012",
+        "ct": "London"
+      },
+      {
+        "i": "4180-Fiac 2012",
+        "c": "FR"
+      },
+      {
+        "i": "4180-Paris Photo 2012",
+        "c": "FR"
+      },
+      {
+        "i": "4180-Art Basel Miami Beach 2012",
+        "c": "US",
+        "n": "Art Basel Miami Beach 2012",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "4180-MiArt 2013",
+        "c": "IT",
+        "n": "MiArt 2013",
+        "ct": "Milan"
+      },
+      {
+        "i": "4180-Frieze New York 2013",
+        "c": "US",
+        "n": "Frieze New York 2013",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "4180-Frieze Masters 2013",
+        "c": "GB",
+        "n": "Frieze Masters 2013",
+        "ct": "London"
+      },
+      {
+        "i": "4180-Yia Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "4180-FIAC 2013",
+        "c": "FR"
+      },
+      {
+        "i": "4180-Paris Photo 2013",
+        "c": "FR"
+      },
+      {
+        "i": "4180-Art Basel Miami Beach 2013",
+        "c": "US",
+        "n": "Art Basel Miami Beach 2013",
+        "ct": "Miami Beach, FL"
+      }
+    ]
+  }
+}

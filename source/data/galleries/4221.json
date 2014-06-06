@@ -1,0 +1,92 @@
+{
+  "id": "4221",
+  "name": "Galerie Zlotowski",
+  "street": "20, rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1998",
+  "directeurs": "Michel Zlotowski",
+  "profile": null,
+  "tel": "+33 (0)1 43 26 93 94",
+  "email": "info@galeriezlotowski.fr",
+  "www": "www.galeriezlotowski.fr/",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%20 20, rue de Seine %2C%20France",
+  "fairs-total": "13",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "12",
+  "fairs": {
+    "2005": [
+      {
+        "i": "4221-ArtParis 2005",
+        "c": "FR"
+      },
+      {
+        "i": "4221-Fiac 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "4221-ArtParis 06",
+        "c": "FR"
+      },
+      {
+        "i": "4221-Fiac 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "4221-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "4221-Fiac 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "4221-Fiac 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "4221-Art 40 Basel",
+        "c": "CH",
+        "n": "Art 40 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "4221-Fiac 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "4221-Fiac 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "4221-Fiac 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "4221-Fiac 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "4221-FIAC 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

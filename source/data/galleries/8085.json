@@ -1,0 +1,76 @@
+{
+  "id": "8085",
+  "name": "Galerie Brûlee",
+  "street": "6, rue Brûlée",
+  "zip": "67000",
+  "city": "Strasbourg",
+  "country": "France",
+  "foundation": "1993",
+  "directeurs": "Elahé Zahedi",
+  "profile": null,
+  "tel": "+33 (0)38 8210404",
+  "email": "galerie.brulee@gmail.com",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Strasbourg%2C%2067000 %2C%20 %2C%206, rue Brûlée %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "10",
+  "fairs": {
+    "2006": [
+      {
+        "i": "8085-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "8085-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "8085-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "8085-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "8085-ST-ART 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "8085-Lille Art Fair 2011",
+        "c": "FR"
+      },
+      {
+        "i": "8085-St-Art 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "8085-ST-ART  2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "8085-Lille Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "8085-St-art 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "11874",
+  "name": "Galerie Patrick Gaultier",
+  "street": "14 rue du Parc",
+  "zip": "29000",
+  "city": "Quimper",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)2 98 95 69 40",
+  "email": "galerie@patrickgaultier.com",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Quimper%2C%2029000 %2C%20 %2C%2014 rue du Parc %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2007": [
+      {
+        "i": "11874-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "11874-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "11874-Lille Art Fair 09",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "11874-St-Art 2011",
+        "c": "FR"
+      }
+    ]
+  }
+}

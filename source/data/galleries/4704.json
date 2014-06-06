@@ -1,0 +1,28 @@
+{
+  "id": "4704",
+  "name": "Galerie de Bellecour",
+  "street": "11 rue Auguste Comte",
+  "zip": "69002",
+  "city": "Lyon",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 478 37 80 46",
+  "email": "bellecour@wanadoo.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Lyon%2C%2069002 %2C%20 %2C%2011 rue Auguste Comte %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2006": [
+      {
+        "i": "4704-Art Miami 2006",
+        "c": "US",
+        "n": "Art Miami 2006",
+        "ct": "Tucson, AZ"
+      }
+    ]
+  }
+}

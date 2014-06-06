@@ -1,0 +1,42 @@
+{
+  "id": "2071",
+  "name": "Galerie Barnoud",
+  "street": "27 rue Berlier",
+  "zip": "21000",
+  "city": "Dijon",
+  "country": "France",
+  "foundation": "1987",
+  "directeurs": "François Barnoud",
+  "profile": null,
+  "tel": "+33-(3) 80 66 23 26",
+  "email": "contact@galerie-barnoud.com",
+  "www": "www.galerie-barnoud.com",
+  "map": "http://maps.google.com/maps?q=Dijon%2C%2021000 %2C%20 %2C%2027 rue Berlier %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2008": [
+      {
+        "i": "2071-SLICK 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "2071-SLICK 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "2071-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "2071-Chic Art Fair 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

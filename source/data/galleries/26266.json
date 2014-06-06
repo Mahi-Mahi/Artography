@@ -1,0 +1,42 @@
+{
+  "id": "26266",
+  "name": "Galerie Fleury",
+  "street": "36, avenue de Matignon",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1983",
+  "directeurs": "Christian Fleury",
+  "profile": null,
+  "tel": "+33 (0)1 42 56 46 11",
+  "email": "alri2@wanadoo.fr",
+  "www": "www.galerie-fleury.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2036, avenue de Matignon %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2011": [
+      {
+        "i": "26266-Art Elysées 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "26266-Art Elysées 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "26266-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "26266-Art Elysees 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

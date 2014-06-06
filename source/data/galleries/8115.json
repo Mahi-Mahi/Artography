@@ -1,0 +1,68 @@
+{
+  "id": "8115",
+  "name": "Galerie Prodromus",
+  "street": "46, rue Saint-Sébastien",
+  "zip": "750011",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1997",
+  "directeurs": "Anna Hartmann - Claude Forget",
+  "profile": null,
+  "tel": "+33 (0)1 43 14 48 25",
+  "email": "prodromus@wanadoo.fr",
+  "www": "www.prodromus-galerie.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%20750011 %2C%20 %2C%2046, rue Saint-Sébastien %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "9",
+  "fairs": {
+    "2006": [
+      {
+        "i": "8115-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "8115-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "8115-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "8115-Lille Art Fair 09",
+        "c": "FR"
+      },
+      {
+        "i": "8115-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "8115-Lille Art Fair 2010",
+        "c": "FR"
+      },
+      {
+        "i": "8115-ST-ART 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "8115-Lille Art Fair 2011",
+        "c": "FR"
+      },
+      {
+        "i": "8115-St-Art 2011",
+        "c": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "21878",
+  "name": "Galerie Jacob Paulett",
+  "street": "3, rue des Blancs Manteaux",
+  "zip": "75 004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 71 71 00 ",
+  "email": "info@galeriejacobpaulett.com",
+  "www": "www.galeriejacobpaulett.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075 004 %2C%20 %2C%203, rue des Blancs Manteaux %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2010": [
+      {
+        "i": "21878-Lille Art Fair 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

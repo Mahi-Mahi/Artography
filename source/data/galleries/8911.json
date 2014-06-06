@@ -1,0 +1,122 @@
+{
+  "id": "8911",
+  "name": "Galerie Bernard Ceysson - Saint-Etienne",
+  "street": "8 rue des Creuses",
+  "zip": "42100",
+  "city": "Saint-Etienne",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 77 90 44 52",
+  "email": null,
+  "www": "www.bernardceysson.com",
+  "map": "http://maps.google.com/maps?q=Saint-Etienne%2C%2042100 %2C%20 %2C%208 rue des Creuses %2C%20France",
+  "fairs-total": "20",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "16",
+  "fairs": {
+    "2007": [
+      {
+        "i": "8911-Les Elysées de l'Art - 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "8911-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "8911-Art Elysées 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "8911-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "8911-Docks Art Fair 2009",
+        "c": "FR"
+      },
+      {
+        "i": "8911-Art Elysées 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "8911-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "8911-Fiac 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "8911-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "8911-DocksArtFair 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "8911-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "8911-Art Brussels 2012",
+        "c": "BE",
+        "n": "Art Brussels 2012",
+        "ct": "Brussels"
+      },
+      {
+        "i": "8911-The Solo Project 2012",
+        "c": "CH",
+        "n": "The Solo Project 2012",
+        "ct": "Basel"
+      },
+      {
+        "i": "8911-Fiac 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "8911-Artgenève - Salon international ",
+        "c": "CH",
+        "n": "Artgenève - Salon international ",
+        "ct": "Geneva"
+      },
+      {
+        "i": "8911-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "8911-Art Brussels 2013",
+        "c": "BE",
+        "n": "Art Brussels 2013",
+        "ct": "Brussels"
+      },
+      {
+        "i": "8911-DocksArtFair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "8911-Yia Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "8911-FIAC 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

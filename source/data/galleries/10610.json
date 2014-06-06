@@ -1,0 +1,26 @@
+{
+  "id": "10610",
+  "name": "Galerie Pascal Laine",
+  "street": "17 rue Petite Fusterie",
+  "zip": "84000",
+  "city": "Avignon",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 90 86 07 08",
+  "email": "gpl.gordes@wanadoo.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Avignon%2C%2084000 %2C%20 %2C%2017 rue Petite Fusterie %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2006": [
+      {
+        "i": "10610-ARTéNÎM 2006",
+        "c": "FR"
+      }
+    ]
+  }
+}

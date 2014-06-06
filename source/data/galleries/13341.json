@@ -1,0 +1,34 @@
+{
+  "id": "13341",
+  "name": "Editions Le Grand Os",
+  "street": "7, rue Charles Baudelaire",
+  "zip": "31200",
+  "city": "Toulouse",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)5 61 63 64 04",
+  "email": "ed.legrandos@yahoo.fr",
+  "www": "www.legrandos.com",
+  "map": "http://maps.google.com/maps?q=Toulouse%2C%2031200 %2C%20 %2C%207, rue Charles Baudelaire %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2007": [
+      {
+        "i": "13341-ARTéNÎM 2007",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "13341-2011 London Original Print Fair",
+        "c": "GB",
+        "n": "2011 London Original Print Fair",
+        "ct": "London"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "id": "1380",
+  "name": "Galerie Baudoin Lebon",
+  "street": "38, rue sainte croix de la bretonnerie",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1976",
+  "directeurs": "",
+  "profile": "En 1976 Baudoin Lebon  quitte un petit local de la rue Mazarine après deux ans d´activité d´éditeur d´art. \r\n\r\nLe bilan de ces années de galerie fait ressortir plusieurs constantes dont l´une d´elles est sans doute la diversité mais aussi le travail à long terme avec les artistes, seul moyen de découvrir et redécouvrir une œuvre . \r\n\r\nAinsi l´on a aussi bien pu voir les premières expositions à Paris de peintres aborigènes australiens (fruit d’un long échange avec l´Australie), certains aspects méconnus de \"ténors\" de la peinture comme Dubuffet ou Michaux, des artistes hors du commun comme Réquichot, Bettencourt ou Reynier, des installations in situ de Simonds ou Uematsu, un ensemble majeur de Fahlström, des rétrospectives de photographes tels que Steichen ou Kühn, des photographies plus récentes de Mapplethorpe, Appelt ou Witkin... \r\n\r\nCette diversité donne l´idée d´une galerie \"inclassable\" mais elle témoigne ainsi d´une ouverture et d’une curiosité réelles de la part de Baudoin Lebon pour des œuvres et des artistes radicalement différents dans leurs modes d´expression (peinture, sculpture, photographie, installation) mais dont la particularité principale est une évidente individualité, parfois difficile à défendre car totalement en dehors des courants et des modes. ",
+  "tel": "+33-(0)1-42 72 09 10",
+  "email": "info@baudoin-lebon.com ",
+  "www": "www.baudoin-lebon.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%2038, rue sainte croix de la bretonnerie %2C%20France",
+  "fairs-total": "42",
+  "fairs-abroad": "16",
+  "fairs-in-FR": "26",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1380-ArtParis 2005",
+        "c": "FR"
+      },
+      {
+        "i": "1380-Fiac 2005",
+        "c": "FR"
+      },
+      {
+        "i": "1380-Paris Photo 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1380-ARCO 06",
+        "c": "ES",
+        "n": "ARCO 06",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1380-ArtParis 06",
+        "c": "FR"
+      },
+      {
+        "i": "1380-KIAF 2006",
+        "c": "KR",
+        "n": "KIAF 2006",
+        "ct": "Seoul"
+      },
+      {
+        "i": "1380-Show Off Paris 2006",
+        "c": "FR"
+      },
+      {
+        "i": "1380-Paris Photo 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1380-The Gulf Art Fair",
+        "c": "AE",
+        "n": "The Gulf Art Fair",
+        "ct": "Dubai"
+      },
+      {
+        "i": "1380-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "1380-KIAF 2007",
+        "c": "KR",
+        "n": "KIAF 2007",
+        "ct": "Seoul"
+      },
+      {
+        "i": "1380-Les Elysées de l'Art - 2007",
+        "c": "FR"
+      },
+      {
+        "i": "1380-Paris Photo 2007",
+        "c": "FR"
+      },
+      {
+        "i": "1380-ArtParis - AbuDhabi 2007",
+        "c": "AE",
+        "n": "ArtParis - AbuDhabi 2007",
+        "ct": "Abu Dhabi"
+      },
+      {
+        "i": "1380-The AIPAD Photography Show Miami 2007",
+        "c": "US",
+        "n": "The AIPAD Photography Show Miami 2007",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1380-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "1380-The AIPAD Photography Show New York 2008",
+        "c": "US",
+        "n": "The AIPAD Photography Show New York 2008",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1380-KIAF 2008",
+        "c": "KR",
+        "n": "KIAF 2008",
+        "ct": "Seoul"
+      },
+      {
+        "i": "1380-Art Elysées 2008",
+        "c": "FR"
+      },
+      {
+        "i": "1380-Paris Photo 2008",
+        "c": "FR"
+      },
+      {
+        "i": "1380-ArtParis - AbuDhabi 2008",
+        "c": "AE",
+        "n": "ArtParis - AbuDhabi 2008",
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1380-Art Elysées 2009",
+        "c": "FR"
+      },
+      {
+        "i": "1380-Paris Photo 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1380-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "1380-The AIPAD Photography Show New York 2010",
+        "c": "US",
+        "n": "The AIPAD Photography Show New York 2010",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1380-Art Elysées 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1380-India Art Summit 2011",
+        "c": "IN",
+        "n": "India Art Summit 2011",
+        "ct": "New Delhi"
+      },
+      {
+        "i": "1380-Madridfoto 2011",
+        "c": "ES",
+        "n": "Madridfoto 2011",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1380-Art Elysées 2011",
+        "c": "FR"
+      },
+      {
+        "i": "1380-Paris Photo 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1380-India Art Fair 2012",
+        "c": "IN",
+        "n": "India Art Fair 2012",
+        "ct": "New Delhi"
+      },
+      {
+        "i": "1380-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1380-Madridfoto 2012",
+        "c": "ES",
+        "n": "Madridfoto 2012",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1380-Art Elysées 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1380-Photo Off 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1380-Paris Photo 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1380-India Art Fair 2013",
+        "c": "IN",
+        "n": "India Art Fair 2013",
+        "ct": "New Delhi"
+      },
+      {
+        "i": "1380-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1380-Art Show Busan 2013",
+        "c": "KR",
+        "n": "Art Show Busan 2013",
+        "ct": "Busan"
+      },
+      {
+        "i": "1380-Summa Art Fair 2013",
+        "c": "ES",
+        "n": "Summa Art Fair 2013",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1380-Joburg Art Fair 2013",
+        "c": "ZA",
+        "n": "Joburg Art Fair 2013",
+        "ct": "Johannesburg"
+      },
+      {
+        "i": "1380-Art Elysees 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

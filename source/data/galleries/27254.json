@@ -1,0 +1,32 @@
+{
+  "id": "27254",
+  "name": "Galerie Dil",
+  "street": "15, rue Miromesnil",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Marc Boumendil ",
+  "profile": null,
+  "tel": "+33 (0)1 47 63 06 14",
+  "email": "mab55@wanadoo.fr",
+  "www": "www.galerie-dil.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2015, rue Miromesnil %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2012": [
+      {
+        "i": "27254-Art Elysées 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "27254-Art Elysees 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "11832",
+  "name": "Editions Atelier Clot, Bramsen & Georges",
+  "street": "19, rue Vieille du Temple",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 40 29 91 59",
+  "email": "atelierclot@free.fr",
+  "www": "www.atelierclot.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%2019, rue Vieille du Temple %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2010": [
+      {
+        "i": "11832-Lille Art Fair 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "11832-Lille Art Fair 2011",
+        "c": "FR"
+      }
+    ]
+  }
+}

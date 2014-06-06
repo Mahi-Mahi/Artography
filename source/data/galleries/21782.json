@@ -1,0 +1,44 @@
+{
+  "id": "21782",
+  "name": "Galerie Tanakaya",
+  "street": "4 rue Saint-Sulpice",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 1 43 25 72 91",
+  "email": "tanakaya@aol.com",
+  "www": "www.tanakaya.fr  ",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%204 rue Saint-Sulpice %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2010": [
+      {
+        "i": "21782-TEFAF Maastricht 2010",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2010",
+        "ct": "Maastricht"
+      }
+    ],
+    "2011": [
+      {
+        "i": "21782-TEFAF Maastricht 2011",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2011",
+        "ct": "Helvoirt"
+      }
+    ],
+    "2012": [
+      {
+        "i": "21782-TEFAF Maastricht 2012",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2012",
+        "ct": "Helvoirt"
+      }
+    ]
+  }
+}

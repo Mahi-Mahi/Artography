@@ -1,0 +1,82 @@
+{
+  "id": "2022",
+  "name": "Galerie Rabouan Moussion",
+  "street": "121, rue Vieille du Temple",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Jacqueline Rabouan Moussion",
+  "profile": null,
+  "tel": "+33-(0)1 48 87 75 91",
+  "email": "rabouanmoussion@noos.fr",
+  "www": "www.rabouan-moussion.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%20121, rue Vieille du Temple %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "10",
+  "fairs": {
+    "2005": [
+      {
+        "i": "2022-Fiac 2005",
+        "c": "FR"
+      },
+      {
+        "i": "2022-Loop - The Video Art Fair '05",
+        "c": "ES",
+        "n": "Loop - The Video Art Fair '05",
+        "ct": "Barcelona"
+      }
+    ],
+    "2007": [
+      {
+        "i": "2022-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "2022-Docks Art Fair 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "2022-ArtParis 08",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "2022-ArtParis 09",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "2022-ArtParis 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "2022-ArtParis 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "2022-Art Paris Art Fair 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "2022-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "2022-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

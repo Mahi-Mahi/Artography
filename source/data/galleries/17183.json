@@ -1,0 +1,26 @@
+{
+  "id": "17183",
+  "name": "Galerie Motte et Rouart",
+  "street": "72 Rue Mazarine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Capucine Motte & Pierre Rouart",
+  "profile": null,
+  "tel": "(+33) 144 41 09 33",
+  "email": "capucine@galeriemotteetrouart, pierre@galeriemotteetrouart",
+  "www": "www.galeriemotteetrouart.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%2072 %2C%20Rue Mazarine %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2008": [
+      {
+        "i": "17183-SLICK 2008",
+        "c": "FR"
+      }
+    ]
+  }
+}

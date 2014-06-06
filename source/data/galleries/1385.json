@@ -1,0 +1,82 @@
+{
+  "id": "1385",
+  "name": "Galerie du Centre",
+  "street": "5, rue Pierre-au-Lard",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Alain Matarasso",
+  "profile": null,
+  "tel": "+33-(0)1-42 77 37 92",
+  "email": "contact-galerie@galerie-du-centre.net",
+  "www": "www.galerie-du-centre.net",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%205, rue Pierre-au-Lard %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "10",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1385-ArtParis 2005",
+        "c": "FR"
+      },
+      {
+        "i": "1385-art.fair 2005",
+        "c": "DE",
+        "n": "art.fair 2005",
+        "ct": "Cologne"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1385-ArtParis 06",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1385-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "1385-ARTéNÎM 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1385-Lille Art Fair 08",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1385-Lille Art Fair 09",
+        "c": "FR"
+      },
+      {
+        "i": "1385-Art Elysées 2009",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1385-Art Elysées 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1385-Art Elysées 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1385-Art Elysees 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

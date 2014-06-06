@@ -1,0 +1,66 @@
+{
+  "id": "6588",
+  "name": "Galerie Hitomi Bushi d'Eau",
+  "street": "2, Square de Bellevue",
+  "zip": "92100",
+  "city": "Boulogne-Billancourt",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 46031276",
+  "email": null,
+  "www": "www.galeriehitomibushideau.com",
+  "map": "http://maps.google.com/maps?q=Boulogne-Billancourt%2C%2092100 %2C%20 %2C%202, Square de Bellevue %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "7",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2006": [
+      {
+        "i": "6588-Scope Hamptons 2006",
+        "c": "US",
+        "n": "Scope Hamptons 2006",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "6588-Scope London 2006",
+        "c": "GB",
+        "n": "Scope London 2006",
+        "ct": "London"
+      }
+    ],
+    "2007": [
+      {
+        "i": "6588-art la 2007",
+        "c": "US",
+        "n": "art la 2007",
+        "ct": "Santa Monica, CA"
+      },
+      {
+        "i": "6588-Liste Köln 2007",
+        "c": "DE",
+        "n": "Liste Köln 2007",
+        "ct": "Cologne"
+      },
+      {
+        "i": "6588-kunStart 07",
+        "c": "IT",
+        "n": "kunStart 07",
+        "ct": "Bolzano"
+      },
+      {
+        "i": "6588-Bridge Art Fair - London 07",
+        "c": "GB",
+        "n": "Bridge Art Fair - London 07",
+        "ct": "London"
+      },
+      {
+        "i": "6588-Bridge Art Fair Miami 07",
+        "c": "US",
+        "n": "Bridge Art Fair Miami 07",
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "29450",
+  "name": "L'Inlassable Galerie",
+  "street": "18, rue Dauphne",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2001",
+  "directeurs": "",
+  "profile": null,
+  "tel": null,
+  "email": null,
+  "www": "linlassablegalerie.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2018, rue Dauphne %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2013": [
+      {
+        "i": "29450-Art Copenhagen 2013",
+        "c": "DK",
+        "n": "Art Copenhagen 2013",
+        "ct": "Copenhagen"
+      },
+      {
+        "i": "29450-Scope Miami Beach 2013",
+        "c": "US",
+        "n": "Scope Miami Beach 2013",
+        "ct": "Miami Beach, FL"
+      }
+    ]
+  }
+}

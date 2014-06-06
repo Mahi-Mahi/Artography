@@ -1,0 +1,26 @@
+{
+  "id": "28241",
+  "name": "Dragonart",
+  "street": "6 rue Asseline",
+  "zip": "75014",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 22 86 15",
+  "email": "cschlick@cartesdart.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075014 %2C%20 %2C%206 rue Asseline %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2013": [
+      {
+        "i": "28241-Lille Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

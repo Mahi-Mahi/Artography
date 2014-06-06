@@ -1,0 +1,66 @@
+{
+  "id": "13347",
+  "name": "Galerie Dock Sud",
+  "street": "2 quai Aspirant herber",
+  "zip": "34200",
+  "city": "Sète",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 67 74 00 77",
+  "email": "contact@dock-sud.com",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Sète%2C%2034200 %2C%20 %2C%202 quai Aspirant herber %2C%20France",
+  "fairs-total": "9",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "9",
+  "fairs": {
+    "2007": [
+      {
+        "i": "13347-ARTéNÎM 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "13347-ARTéNÎM Grenoble 2008",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "13347-Lille Art Fair 2011",
+        "c": "FR"
+      },
+      {
+        "i": "13347-St-Art 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "13347-Lille Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "13347-ST-ART  2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "13347-New Art Fair Paris",
+        "c": "FR"
+      },
+      {
+        "i": "13347-Lille Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "13347-St-art 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "26264",
+  "name": "Galerie France - Galerie Chauvy",
+  "street": "18, rue de la Grange-Batelière",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 47 70 18 08",
+  "email": "m.chauvy@wanadoo.fr",
+  "www": "www.galeriefrance.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2018, rue de la Grange-Batelière %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2011": [
+      {
+        "i": "26264-Art Elysées 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "26264-Art Elysées 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "26264-Art Elysees 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

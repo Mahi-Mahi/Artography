@@ -1,0 +1,28 @@
+{
+  "id": "387",
+  "name": "Galerie Piltzer",
+  "street": "6, avenue Foch",
+  "zip": "75116",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": null,
+  "profile": null,
+  "tel": "+33-(0)1 43 59 90 07",
+  "email": "piltzer@galerie-piltzer.fr",
+  "www": "www.galerie-piltzer.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075116 %2C%20 %2C%206, avenue Foch %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2007": [
+      {
+        "i": "387-CIGE 2007",
+        "c": "CN",
+        "n": "CIGE 2007",
+        "ct": "Beijing"
+      }
+    ]
+  }
+}

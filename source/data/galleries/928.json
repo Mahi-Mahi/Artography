@@ -1,0 +1,146 @@
+{
+  "id": "928",
+  "name": "Galerie Vidal-Saint Phalle",
+  "street": "10, rue du Trésor",
+  "zip": "F-75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1989",
+  "directeurs": "Bernard Vidal",
+  "profile": null,
+  "tel": "+33-(1)-42 76 06 05",
+  "email": "contact@vidal-stphalle.com",
+  "www": "www.vidal-stphalle.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%20F-75004 %2C%20 %2C%2010, rue du Trésor %2C%20France",
+  "fairs-total": "22",
+  "fairs-abroad": "10",
+  "fairs-in-FR": "12",
+  "fairs": {
+    "2005": [
+      {
+        "i": "928-Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "928-Fiac 2005",
+        "c": "FR"
+      },
+      {
+        "i": "928-Art Cologne 2005",
+        "c": "DE",
+        "n": "Art Cologne 2005",
+        "ct": "Cologne"
+      }
+    ],
+    "2006": [
+      {
+        "i": "928-Art Brussels 2006- 24th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2006- 24th Contemporary Art Fair",
+        "ct": "Brussels"
+      }
+    ],
+    "2007": [
+      {
+        "i": "928-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "928-Art Cologne 2007",
+        "c": "DE",
+        "n": "Art Cologne 2007",
+        "ct": "Cologne"
+      }
+    ],
+    "2008": [
+      {
+        "i": "928-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "928-Art Cologne 2008",
+        "c": "DE",
+        "n": "Art Cologne 2008",
+        "ct": "Cologne"
+      }
+    ],
+    "2009": [
+      {
+        "i": "928-Arte Fiera 2009",
+        "c": "IT",
+        "n": "Arte Fiera 2009",
+        "ct": "Bologna"
+      },
+      {
+        "i": "928-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "928-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "928-Arte Fiera 2010",
+        "c": "IT",
+        "n": "Arte Fiera 2010",
+        "ct": "Bologna"
+      },
+      {
+        "i": "928-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "928-art KARLSRUHE 2011",
+        "c": "DE",
+        "n": "art KARLSRUHE 2011",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "928-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "928-SLICK 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "928-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "c": "FR"
+      },
+      {
+        "i": "928-The Solo Project 2012",
+        "c": "CH",
+        "n": "The Solo Project 2012",
+        "ct": "Basel"
+      },
+      {
+        "i": "928-SLICK 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "928-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      },
+      {
+        "i": "928-Slick Brussels 2013",
+        "c": "BE",
+        "n": "Slick Brussels 2013",
+        "ct": "Brussels"
+      },
+      {
+        "i": "928-Slick Paris 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

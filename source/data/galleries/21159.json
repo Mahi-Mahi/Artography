@@ -1,0 +1,32 @@
+{
+  "id": "21159",
+  "name": "Galerie Jean Greset",
+  "street": "5 Rue de Rivotte",
+  "zip": "25000",
+  "city": "Besançon",
+  "country": "France",
+  "foundation": "2009",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)3 81 81 38 52",
+  "email": null,
+  "www": "www.jeangreset.com",
+  "map": "http://maps.google.com/maps?q=Besançon%2C%2025000 %2C%20 %2C%205 Rue de Rivotte %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2012": [
+      {
+        "i": "21159-ST-ART  2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "21159-St-art 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "27500",
+  "name": "Galerie Nag",
+  "street": "23 Rue De Douai",
+  "zip": "62000",
+  "city": "Arras",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Cendrine Carnel",
+  "profile": null,
+  "tel": "+33/664842789",
+  "email": "galerienag@gmail.com",
+  "www": "galerie-nag.fr",
+  "map": "http://maps.google.com/maps?q=Arras%2C%2062000 %2C%20 %2C%2023 Rue De Douai %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2012": [
+      {
+        "i": "27500-Art Gent 2012",
+        "c": "BE",
+        "n": "Art Gent 2012",
+        "ct": "Ghent"
+      }
+    ]
+  }
+}

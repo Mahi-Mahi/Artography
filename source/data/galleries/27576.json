@@ -1,0 +1,48 @@
+{
+  "id": "27576",
+  "name": "Radial Art Contemporain",
+  "street": "11b, Quai Turckheim",
+  "zip": "67000",
+  "city": "Strasbourg",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 950 71 08 34",
+  "email": "radialgalerie@gmail.com",
+  "www": "radial-gallery.eu",
+  "map": "http://maps.google.com/maps?q=Strasbourg%2C%2067000 %2C%20 %2C%2011b, Quai Turckheim %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2012": [
+      {
+        "i": "27576-ST-ART  2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "27576-Lille Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "27576-Art Copenhagen 2013",
+        "c": "DK",
+        "n": "Art Copenhagen 2013",
+        "ct": "Copenhagen"
+      },
+      {
+        "i": "27576-Art.fair 2013",
+        "c": "DE",
+        "n": "Art.fair 2013",
+        "ct": "Cologne"
+      },
+      {
+        "i": "27576-St-art 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

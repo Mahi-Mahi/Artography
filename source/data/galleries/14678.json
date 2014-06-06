@@ -1,0 +1,32 @@
+{
+  "id": "14678",
+  "name": "castillo/corrales",
+  "street": "65, Rue Rébeval",
+  "zip": "75019",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2007",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 424 924 51",
+  "email": "castillocorrales@gmail.com",
+  "www": "www.castillocorrales.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075019 %2C%20 %2C%2065, Rue Rébeval %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2009": [
+      {
+        "i": "14678-Fiac 2009",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "14678-FIAC 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}
