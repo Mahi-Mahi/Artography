@@ -32,7 +32,7 @@ define([], function() {
 			var years = dataService.data.years;
 
 			// DEBUG
-			var max_items = 500;
+			var max_items = 5000;
 
 			// Artists list
 			var artists = [];
@@ -340,9 +340,6 @@ define([], function() {
 						// 	name: dataService.data.artists.names[expo.i].name
 						// });
 						if (expo.c && expo.c != 'FR') {
-							console.log(expo.c);
-							console.log(data.cc[expo.c]);
-							console.log(data.continents[data.cc[expo.c]]);
 							var country = data.continents[data.cc[expo.c]].countries[expo.c];
 							var artists = country.artists;
 							if (!artists[expo.i]) {
@@ -370,6 +367,8 @@ define([], function() {
 							country.artists = artists;
 							data.continents[data.cc[expo.c]].countries[expo.c] = country;
 						}
+					} else {
+						console.log(expo);
 					}
 				});
 
