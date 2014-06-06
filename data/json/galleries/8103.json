@@ -1,0 +1,36 @@
+{
+  "id": "8103",
+  "name": "Galerie Michelle Boulet",
+  "street": "14, rue La Boétie",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1990",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 49 24 00 63",
+  "email": "info@galerie-boulet.com",
+  "www": "www.galerie-boulet.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2014, rue La Boétie %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2006": [
+      {
+        "i": "8103-ARTéNÎM 2006",
+        "c": "FR"
+      },
+      {
+        "i": "8103-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "8103-ARTéNÎM 2007",
+        "c": "FR"
+      }
+    ]
+  }
+}

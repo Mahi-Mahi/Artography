@@ -1,0 +1,28 @@
+{
+  "id": "14242",
+  "name": "Anagama Gallery",
+  "street": "29 rue du Vieil Abreuvoir",
+  "zip": "78100",
+  "city": "Saint Germain en Laye",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 34 51 99 08",
+  "email": "contact@anagama.fr",
+  "www": "www.anagama.fr",
+  "map": "http://maps.google.com/maps?q=Saint Germain en Laye%2C%2078100 %2C%20 %2C%2029 rue du Vieil Abreuvoir %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2007": [
+      {
+        "i": "14242-Lineart 2007",
+        "c": "BE",
+        "n": "Lineart 2007",
+        "ct": "Ghent"
+      }
+    ]
+  }
+}

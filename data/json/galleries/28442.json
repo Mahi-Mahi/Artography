@@ -1,0 +1,26 @@
+{
+  "id": "28442",
+  "name": "Galerie Claude Lemand",
+  "street": "16 rue Littré",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33(0)1 45 49 26 95",
+  "email": "clemand@wanadoo.fr",
+  "www": "www.claude-lemand.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2016 rue Littré %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2013": [
+      {
+        "i": "28442-Art Paris Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

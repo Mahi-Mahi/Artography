@@ -1,0 +1,126 @@
+{
+  "id": "1894",
+  "name": "Galerie Jean Fournier",
+  "street": "22, rue du Bac",
+  "zip": "75007",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Elodie Rahard",
+  "profile": null,
+  "tel": "+33-(0)1-42 97 44 00",
+  "email": "galerie.jeanfournier@free.fr, info@galerie-jeanfournier.com",
+  "www": "www.galerie-jeanfournier.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%2022, rue du Bac %2C%20France",
+  "fairs-total": "20",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "16",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1894-Fiac 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1894-Fiac 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1894-Fiac 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1894-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
+        "i": "1894-Art Brussels 2008- 26th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2008- 26th Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "1894-Fiac 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1894-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
+        "i": "1894-Art Brussels 2009 - 27th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2009 - 27th Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "1894-Fiac 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1894-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "1894-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2010 - 28th Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "1894-Fiac 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1894-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "1894-Marrakech Art Fair",
+        "c": "MA",
+        "n": "Marrakech Art Fair",
+        "ct": "Casablanca"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1894-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1894-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1894-SLICK 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1894-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1894-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1894-Yia Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

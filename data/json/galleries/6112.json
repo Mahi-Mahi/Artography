@@ -1,0 +1,52 @@
+{
+  "id": "6112",
+  "name": "Galerie Modus",
+  "street": "23 Place des Vosges",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Karl Yeya",
+  "profile": "Celebrating 10 years exhibiting sculpture using bronze as a fine art medium",
+  "tel": "+33 (0)1 42781010",
+  "email": "modus@galerie-modus.com",
+  "www": "www.galerie-modus.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2023 Place des Vosges %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2005": [
+      {
+        "i": "6112-Art Miami 2005",
+        "c": "US",
+        "n": "Art Miami 2005",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2006": [
+      {
+        "i": "6112-CIGE 2006",
+        "c": "CN",
+        "n": "CIGE 2006",
+        "ct": "Beijing"
+      }
+    ],
+    "2008": [
+      {
+        "i": "6112-SOFA Chicago 08",
+        "c": "US",
+        "n": "SOFA Chicago 08",
+        "ct": "Chicago, IL"
+      }
+    ],
+    "2009": [
+      {
+        "i": "6112-SOFA New York 09",
+        "c": "US",
+        "n": "SOFA New York 09",
+        "ct": "New York City, NY"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "20439",
+  "name": "Galerie 64bis",
+  "street": "Avenue de New York",
+  "zip": "75016",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 46 47 53 50",
+  "email": "contact@64bis.com",
+  "www": "www.64bis.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075016 %2C%20 %2C%20Avenue de New York %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2010": [
+      {
+        "i": "20439-ArtParis 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

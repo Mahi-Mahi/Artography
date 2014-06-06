@@ -1,0 +1,54 @@
+{
+  "id": "20132",
+  "name": "L MD Art Gallery",
+  "street": "44, rue Barbet de Jouy",
+  "zip": "75007",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2009",
+  "directeurs": "Laetitia Meyer-Delorme",
+  "profile": null,
+  "tel": "+33 (0) 1 40 62 97 46 ",
+  "email": "info@LMD-art.com",
+  "www": "www.lmd-art.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%2044, rue Barbet de Jouy  %2C%20France",
+  "fairs-total": "6",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2009": [
+      {
+        "i": "20132-Docks Art Fair 2009",
+        "c": "FR"
+      },
+      {
+        "i": "20132-Show Off Paris 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "20132-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "20132-Art-O-Rama 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "20132-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "20132-ShContemporary 2012",
+        "c": "CN",
+        "n": "ShContemporary 2012",
+        "ct": "Shanghai"
+      }
+    ]
+  }
+}

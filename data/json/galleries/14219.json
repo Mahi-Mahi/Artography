@@ -1,0 +1,32 @@
+{
+  "id": "14219",
+  "name": "east-by-east-gallery",
+  "street": "18, rue Benjamin Franklin",
+  "zip": "75116",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 45 20 55 99",
+  "email": "info@east-by-east-gallery.com",
+  "www": "www.east-by-east-gallery.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075116 %2C%20 %2C%2018, rue Benjamin Franklin %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2007": [
+      {
+        "i": "14219-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "14219-Lille Art Fair 08",
+        "c": "FR"
+      }
+    ]
+  }
+}

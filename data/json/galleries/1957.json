@@ -1,0 +1,194 @@
+{
+  "id": "1957",
+  "name": "Galerie Dominique Fiat",
+  "street": "16, rue des Coutures St Gervais",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1989",
+  "directeurs": "Dominique Fiat",
+  "profile": "La galerie créée en 1989, s´attache à défendre une avant-garde européenne internationale devenue presque \"classique\" et à découvrir les nouveaux courants de la jeune création: des artistes de tous les continents utilisant des moyens d´expression aussi divers que la céramique ou les nouvelles technologies, entre autres. Son rôle est d´avantage de soutenir avec rigueur les artistes dans la durée, que de susciter, sous les feux de l´actualité et de la mode, des engouements plus ou moins médiatisés.",
+  "tel": "+33-(0)1 40 29 98 80",
+  "email": "info@dominiquefiat.com",
+  "www": "www.dominiquefiat.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2016, rue des Coutures St Gervais %2C%20France",
+  "fairs-total": "30",
+  "fairs-abroad": "18",
+  "fairs-in-FR": "12",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1957-Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "1957-Fiac 2005",
+        "c": "FR"
+      },
+      {
+        "i": "1957-Loop - The Video Art Fair '05",
+        "c": "ES",
+        "n": "Loop - The Video Art Fair '05",
+        "ct": "Barcelona"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1957-Art Brussels 2006- 24th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2006- 24th Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "1957-Loop - The Video Art Fair",
+        "c": "ES",
+        "n": "Loop - The Video Art Fair",
+        "ct": "Barcelona"
+      },
+      {
+        "i": "1957-Fiac 2006",
+        "c": "FR"
+      },
+      {
+        "i": "1957-Photo Miami 2006",
+        "c": "US",
+        "n": "Photo Miami 2006",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1957-Art Brussels 2007- 25th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2007- 25th Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "1957-Fiac 2007",
+        "c": "FR"
+      },
+      {
+        "i": "1957-Paris Photo 2007",
+        "c": "FR"
+      },
+      {
+        "i": "1957-Photo Miami 2007",
+        "c": "US",
+        "n": "Photo Miami 2007",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1957-Art Brussels 2008- 26th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2008- 26th Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "1957-Fiac 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1957-ARCO 09",
+        "c": "ES",
+        "n": "ARCO 09",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1957-Volta NY 09",
+        "c": "US",
+        "n": "Volta NY 09",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "1957-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
+        "i": "1957-VOLTAshow05",
+        "c": "CH",
+        "n": "VOLTAshow05",
+        "ct": "Basel"
+      },
+      {
+        "i": "1957-Fiac 2009",
+        "c": "FR"
+      },
+      {
+        "i": "1957-Paris Photo 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1957-Viennafair 2010",
+        "c": "AT",
+        "n": "Viennafair 2010",
+        "ct": "Vienna"
+      },
+      {
+        "i": "1957-Loop Barcelona 2010",
+        "c": "ES",
+        "n": "Loop Barcelona 2010",
+        "ct": "Barcelona"
+      },
+      {
+        "i": "1957-Marrakech Art Fair",
+        "c": "MA",
+        "n": "Marrakech Art Fair",
+        "ct": "Marrakech"
+      },
+      {
+        "i": "1957-Fiac 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1957-Loop - The Video Art Fair 2011",
+        "c": "ES",
+        "n": "Loop - The Video Art Fair 2011",
+        "ct": "Barcelona"
+      },
+      {
+        "i": "1957-Marrakech Art Fair",
+        "c": "MA",
+        "n": "Marrakech Art Fair",
+        "ct": "Casablanca"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1957-Fiac 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1957-Paris Photo 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1957-Raw Art Fair 2013",
+        "c": "NL",
+        "n": "Raw Art Fair 2013",
+        "ct": "Rotterdam"
+      },
+      {
+        "i": "1957-The Solo Project 2013",
+        "c": "CH",
+        "n": "The Solo Project 2013",
+        "ct": "Basel"
+      },
+      {
+        "i": "1957-Paris Photo 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

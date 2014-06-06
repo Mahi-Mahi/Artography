@@ -1,0 +1,136 @@
+{
+  "id": "23511",
+  "name": "New Galerie",
+  "street": "2 rue Borda",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2008",
+  "directeurs": "Marion Dana",
+  "profile": null,
+  "tel": "+ 33 (0)1 42 74 50 75",
+  "email": "info@newgalerie.com",
+  "www": "www.newgalerie.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%202 rue Borda %2C%20France",
+  "fairs-total": "20",
+  "fairs-abroad": "12",
+  "fairs-in-FR": "8",
+  "fairs": {
+    "2008": [
+      {
+        "i": "23511-Fiac 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "23511-Fiac 2009",
+        "c": "FR"
+      },
+      {
+        "i": "23511-Artissima 16",
+        "c": "IT",
+        "n": "Artissima 16",
+        "ct": "Turin"
+      }
+    ],
+    "2010": [
+      {
+        "i": "23511-Independent",
+        "c": "US",
+        "n": "Independent",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "23511-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2010 - 28th Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "23511-Fiac 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "23511-Sunday London 2011",
+        "c": "GB",
+        "n": "Sunday London 2011",
+        "ct": "London"
+      },
+      {
+        "i": "23511-Fiac 2011",
+        "c": "FR"
+      },
+      {
+        "i": "23511-SLICK 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "23511-Art Los Angeles Contemporary 2012",
+        "c": "US",
+        "n": "Art Los Angeles Contemporary 2012",
+        "ct": "Los Angeles, CA"
+      },
+      {
+        "i": "23511-The Nada Art Fair New York 2012",
+        "c": "US",
+        "n": "The Nada Art Fair New York 2012",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "23511-Fiac 2012",
+        "c": "FR"
+      },
+      {
+        "i": "23511-The NADA Art Fair Miami 2012",
+        "c": "US",
+        "n": "The NADA Art Fair Miami 2012",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "23511-Art Los Angeles Contemporary 2013",
+        "c": "US",
+        "n": "Art Los Angeles Contemporary 2013",
+        "ct": "Los Angeles, CA"
+      },
+      {
+        "i": "23511-ARCOmadrid 2013",
+        "c": "ES",
+        "n": "ARCOmadrid 2013",
+        "ct": "Madrid"
+      },
+      {
+        "i": "23511-Dallas Art Fair 2013",
+        "c": "US",
+        "n": "Dallas Art Fair 2013",
+        "ct": "Dallas, TX"
+      },
+      {
+        "i": "23511-Nada Nyc 2013",
+        "c": "US",
+        "n": "Nada Nyc 2013",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "23511-Art-O-Rama 2013",
+        "c": "FR"
+      },
+      {
+        "i": "23511-abc art berlin contemporary 2013",
+        "c": "DE",
+        "n": "abc art berlin contemporary 2013",
+        "ct": "Berlin"
+      },
+      {
+        "i": "23511-FIAC 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

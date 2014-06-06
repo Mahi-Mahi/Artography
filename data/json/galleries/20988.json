@@ -1,0 +1,36 @@
+{
+  "id": "20988",
+  "name": "Jack Drougard Gallery",
+  "street": "32 rue Guadet",
+  "zip": "90069",
+  "city": "Saint-Emilion",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)5 57 84 71 58",
+  "email": "contact@jackdrougardgallery.com",
+  "www": "www.jackdrougardgallery.com",
+  "map": "http://maps.google.com/maps?q=Saint-Emilion%2C%2090069 %2C%20 %2C%2032 rue Guadet %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2009": [
+      {
+        "i": "20988-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "20988-Lille Art Fair 2010",
+        "c": "FR"
+      },
+      {
+        "i": "20988-The Affordable Art Fair Paris 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

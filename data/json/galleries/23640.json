@@ -1,0 +1,48 @@
+{
+  "id": "23640",
+  "name": "Galerie Emeraude",
+  "street": "49 Rue de Paris",
+  "zip": "",
+  "city": "Le Touquet",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 321 065 235",
+  "email": "contact@galerie-emeraude.com",
+  "www": "www.galerie-emeraude.com",
+  "map": "http://maps.google.com/maps?q=Le Touquet%2C%20 %2C%20 %2C%2049 Rue de Paris %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "5",
+  "fairs": {
+    "2010": [
+      {
+        "i": "23640-ST-ART 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "23640-Lille Art Fair 2011",
+        "c": "FR"
+      },
+      {
+        "i": "23640-St-Art 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "23640-Lille Art Fair 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "23640-Lille Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

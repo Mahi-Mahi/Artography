@@ -1,0 +1,26 @@
+{
+  "id": "28242",
+  "name": "Galerie Duboys",
+  "street": "6, rue des Coutures Saint-Gervais",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2010",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 74 85 05",
+  "email": "contact@galerieduboys.com",
+  "www": "www.galerieduboys.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%206, rue des Coutures Saint-Gervais %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2013": [
+      {
+        "i": "28242-Lille Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "5513",
+  "name": "Galerie Arcturus",
+  "street": "65 rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Anne de la Roussière",
+  "profile": "The artists of the present time : The ARCTURUS Gallery wants to help the discovery of new talents or confirmed artists, in painting, photography and sculpture. The artistic orientation is deliberately eclectic ; the artworks are unified by their technical qualities and the coherence of the choice of the team, resolutely realized with a European opening.The art lover room : The ARCTURUS Gallery disposes permanently of works by well known artist of the XXth century, coming in particular from cubism, constructivism, fauvisme, or important masters like Chagall or Pissaro.\r\n",
+  "tel": "+33 (0)1 43 25 39 02, +33 (0)1 43 25 33 89",
+  "email": "arcturus@art11.com",
+  "www": "www.art11.com/arcturus",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2065 rue de Seine %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2007": [
+      {
+        "i": "5513-Les Elysées de l'Art - 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5513-Lille Art Fair 08",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5513-ART on PAPER",
+        "c": "BE",
+        "n": "ART on PAPER",
+        "ct": "Brussels"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5513-fotofever artfair 2012",
+        "c": "FR"
+      }
+    ]
+  }
+}

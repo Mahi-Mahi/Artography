@@ -1,0 +1,38 @@
+{
+  "id": "5500",
+  "name": "Galerie Berthéas / Les Tournesols",
+  "street": "1, place Maxime Gorki - Rue Notre-Dame",
+  "zip": "42000",
+  "city": "Saint-Etienne",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Claudie Bertheas",
+  "profile": null,
+  "tel": "+33 (0)4 77418077",
+  "email": "renseignements@galerie-les-tournesols.fr",
+  "www": "www.galerie-les-tournesols.fr",
+  "map": "http://maps.google.com/maps?q=Saint-Etienne%2C%2042000 %2C%20 %2C%201, place Maxime Gorki - Rue Notre-Dame %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2011": [
+      {
+        "i": "5500-Lille Art Fair 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5500-ST-ART  2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5500-Lille Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

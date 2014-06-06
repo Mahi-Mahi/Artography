@@ -1,0 +1,58 @@
+{
+  "id": "16752",
+  "name": "Espace A Vendre",
+  "street": "17 rue Smolett",
+  "zip": "06300",
+  "city": "Nice",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 93 79 83 44",
+  "email": "contact@espace-avendre.com",
+  "www": "www.espace-avendre.com",
+  "map": "http://maps.google.com/maps?q=Nice%2C%2006300 %2C%20 %2C%2017 rue Smolett %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "6",
+  "fairs": {
+    "2008": [
+      {
+        "i": "16752-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
+        "i": "16752-SLICK 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "16752-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
+        "i": "16752-SLICK 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "16752-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "16752-ART on PAPER",
+        "c": "BE",
+        "n": "ART on PAPER",
+        "ct": "Brussels"
+      }
+    ],
+    "2011": [
+      {
+        "i": "16752-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      }
+    ]
+  }
+}

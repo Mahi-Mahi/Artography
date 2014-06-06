@@ -1,0 +1,38 @@
+{
+  "id": "19148",
+  "name": "Studio 55",
+  "street": "55, rue Meslay",
+  "zip": "75003 ",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 42 71 42 42 ",
+  "email": null,
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003  %2C%20 %2C%2055, rue Meslay %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19148-Bridge Art Fair New York 2009",
+        "c": "US",
+        "n": "Bridge Art Fair New York 2009",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "19148-SLICK 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "19148-SLICK 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

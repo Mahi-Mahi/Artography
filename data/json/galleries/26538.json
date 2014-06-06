@@ -1,0 +1,32 @@
+{
+  "id": "26538",
+  "name": "Galerie Slott",
+  "street": "2 impasse de Conti.",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": null,
+  "email": "contact@exquisedesign.com",
+  "www": "www.exquisedesign.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%202 impasse de Conti.  %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2012": [
+      {
+        "i": "26538-Art Paris Art Fair 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "26538-Art Paris Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "22957",
+  "name": "Galerie Anne-Sophie Duval ",
+  "street": "5, quai Malaquais",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 43 54 51 16",
+  "email": "galerie@annesophieduval.com",
+  "www": "annesophieduval.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%205, quai Malaquais %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2010": [
+      {
+        "i": "22957-Design Miami/Basel 2010",
+        "c": "CH",
+        "n": "Design Miami/Basel 2010",
+        "ct": "Basel"
+      }
+    ],
+    "2012": [
+      {
+        "i": "22957-Design Miami / Basel",
+        "c": "US",
+        "n": "Design Miami / Basel",
+        "ct": "Miami, FL"
+      }
+    ]
+  }
+}

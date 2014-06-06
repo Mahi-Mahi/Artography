@@ -1,0 +1,26 @@
+{
+  "id": "5105",
+  "name": "Jungle Art Galerie",
+  "street": "3 rue Eugène Varlin",
+  "zip": "75010",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Vera Muller et Sandrine Manella",
+  "profile": null,
+  "tel": "+33 (0)1 40376097",
+  "email": "infos@jungle-art-galerie.com",
+  "www": "www.jungle-art-galerie.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075010 %2C%20 %2C%203 rue Eugène Varlin %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2005": [
+      {
+        "i": "5105-ArtParis 2005",
+        "c": "FR"
+      }
+    ]
+  }
+}

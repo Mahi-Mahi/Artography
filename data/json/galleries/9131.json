@@ -1,0 +1,60 @@
+{
+  "id": "9131",
+  "name": "Galerie Canesso",
+  "street": "26, rue Laffitte",
+  "zip": "75009",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1994",
+  "directeurs": "Maurizio Canesso",
+  "profile": null,
+  "tel": "+33 (0)1 40 22 61 71",
+  "email": "mcanesso@canesso.com",
+  "www": "www.canesso.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075009 %2C%20 %2C%2026, rue Laffitte %2C%20France",
+  "fairs-total": "5",
+  "fairs-abroad": "5",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2008": [
+      {
+        "i": "9131-TEFAF Maastricht 2008",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2008",
+        "ct": "Maastricht"
+      }
+    ],
+    "2009": [
+      {
+        "i": "9131-TEFAF Maastricht 2009",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2009",
+        "ct": "Maastricht"
+      }
+    ],
+    "2010": [
+      {
+        "i": "9131-TEFAF Maastricht 2010",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2010",
+        "ct": "Maastricht"
+      }
+    ],
+    "2011": [
+      {
+        "i": "9131-TEFAF Maastricht 2011",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2011",
+        "ct": "Helvoirt"
+      }
+    ],
+    "2012": [
+      {
+        "i": "9131-TEFAF Maastricht 2012",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2012",
+        "ct": "Helvoirt"
+      }
+    ]
+  }
+}

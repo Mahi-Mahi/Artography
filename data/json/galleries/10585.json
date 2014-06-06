@@ -1,0 +1,38 @@
+{
+  "id": "10585",
+  "name": "Galerie Anne Cros",
+  "street": "8 rue François Oustrin",
+  "zip": "34120",
+  "city": "Pezenas",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 67 31 45 49",
+  "email": "galerieannecros@hotmail.com",
+  "www": "www.anne-cros-galerie.com",
+  "map": "http://maps.google.com/maps?q=Pezenas%2C%2034120 %2C%20 %2C%208 rue François Oustrin %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2006": [
+      {
+        "i": "10585-ARTéNÎM 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "10585-ARTéNÎM 2007",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "10585-Lille Art Fair 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

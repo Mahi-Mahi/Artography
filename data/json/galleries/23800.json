@@ -1,0 +1,28 @@
+{
+  "id": "23800",
+  "name": "Galerie Michel Estades",
+  "street": "22, rue Henri Seillon",
+  "zip": "83000",
+  "city": "Toulon",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 94 89 49 98",
+  "email": "galerie.toulon@estades.com",
+  "www": "www.estades.com",
+  "map": "http://maps.google.com/maps?q=Toulon%2C%2083000 %2C%20 %2C%2022, rue Henri Seillon %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2011": [
+      {
+        "i": "23800-ART Innsbruck 2011",
+        "c": "AT",
+        "n": "ART Innsbruck 2011",
+        "ct": "Innsbruck"
+      }
+    ]
+  }
+}

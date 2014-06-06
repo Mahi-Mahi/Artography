@@ -1,0 +1,42 @@
+{
+  "id": "15222",
+  "name": "Galerie Jane Griffiths",
+  "street": "rue Principale",
+  "zip": "73150",
+  "city": "Val d'Isère",
+  "country": "France",
+  "foundation": "2003",
+  "directeurs": "Jane Griffiths",
+  "profile": null,
+  "tel": "+33 (0)4 79 07 89 33",
+  "email": "info@galeriejanegriffiths.com",
+  "www": "www.galeriejanegriffiths.com",
+  "map": "http://maps.google.com/maps?q=Val d'Isère%2C%2073150 %2C%20 %2C%20rue Principale %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2008": [
+      {
+        "i": "15222-ARTéNÎM Grenoble 2008",
+        "c": "FR"
+      },
+      {
+        "i": "15222-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "15222-The Affordable Art Fair Paris 09",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "15222-The Affordable Art Fair Paris 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

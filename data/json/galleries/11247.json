@@ -1,0 +1,78 @@
+{
+  "id": "11247",
+  "name": "Galerie Philippe Samuel",
+  "street": "13, rue Portetoin",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Philippe Samuel",
+  "profile": null,
+  "tel": "+33 1 42 74 31 05",
+  "email": "art@samuelacf.com",
+  "www": "www.galerie-philippe-samuel.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2013, rue Portetoin %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "8",
+  "fairs": {
+    "2007": [
+      {
+        "i": "11247-KIAF 2007",
+        "c": "KR",
+        "n": "KIAF 2007",
+        "ct": "Seoul"
+      },
+      {
+        "i": "11247-Les Elysées de l'Art - 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "11247-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
+        "i": "11247-Lille Art Fair 08",
+        "c": "FR"
+      },
+      {
+        "i": "11247-Art Elysées 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "11247-Art Elysées 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "11247-ART on PAPER",
+        "c": "BE",
+        "n": "ART on PAPER",
+        "ct": "Brussels"
+      }
+    ],
+    "2011": [
+      {
+        "i": "11247-Art Elysées 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "11247-Art Elysées 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "11247-Art Elysees 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

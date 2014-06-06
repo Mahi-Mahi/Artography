@@ -1,0 +1,38 @@
+{
+  "id": "26271",
+  "name": "Galerie Omagh",
+  "street": "21, rue de Miromesnil",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1991",
+  "directeurs": "Daniel Goldmann",
+  "profile": null,
+  "tel": "+33 (0)1 42 65 02 88",
+  "email": "contact@galerieomagh.com",
+  "www": "www.galerieomagh.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2021, rue de Miromesnil %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2011": [
+      {
+        "i": "26271-Art Elysées 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "26271-Art Elysées 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "26271-Art Elysees 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "24690",
+  "name": "Talmart Galerie",
+  "street": "22, rue du Cloître Saint-Merri",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Marc Monsallier",
+  "profile": null,
+  "tel": "+33 (0)1 42 78 52 38",
+  "email": "contact@talmart.com",
+  "www": "www.talmart.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%2022, rue du Cloître Saint-Merri %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2011": [
+      {
+        "i": "24690-CHIC DESSIN",
+        "c": "FR"
+      },
+      {
+        "i": "24690-Chic Art Fair 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "24690-Chic Dessin 2012",
+        "c": "FR"
+      },
+      {
+        "i": "24690-Chic Artfair - À la Cité de la Mode et du Design 2012",
+        "c": "FR"
+      }
+    ]
+  }
+}

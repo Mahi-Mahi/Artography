@@ -1,0 +1,492 @@
+{
+  "id": "193",
+  "name": "Galerie Lelong - Paris",
+  "street": "13 Rue de Téhéran",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1947",
+  "directeurs": "Daniel Lelong - Jacques Dupin - Jean Frémon",
+  "profile": "Founded in 1947 in Paris, the gallery´s inaugural exhibition was drawings of Henri Matisse, followed by etchings by Pierre Bonnard. Over the next fifty years, the gallery represented major European artists including Joan Miro, Alberto Giacometti, Alexander Calder, Francis Bacon, Antoni Tapies,  Louise Bourgeois and Eduardo Chillida, who all had long histories with the gallery. In the 1960´s the gallery expanded and opened an affiliate in Zurich, Switzerland. The final expansion was the establishment of a U.S. office in 1979. In 1981, the management of the gallery passed to Daniel Lelong, who continues to direct it along with Jean Fremon and Jacques Dupin, the renowned poet and expert on Miro.",
+  "tel": "+33-(0)1 45 63 13 19",
+  "email": "info@galerie-lelong.com",
+  "www": "www.galerie-lelong.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%2013 %2C%20Rue de Téhéran %2C%20France",
+  "fairs-total": "82",
+  "fairs-abroad": "63",
+  "fairs-in-FR": "19",
+  "fairs": {
+    "2005": [
+      {
+        "i": "193-ARCO 05",
+        "c": "ES",
+        "n": "ARCO 05",
+        "ct": "Madrid"
+      },
+      {
+        "i": "193-viennaFair 2005",
+        "c": "AT",
+        "n": "viennaFair 2005",
+        "ct": "Vienna"
+      },
+      {
+        "i": "193-Art 36 Basel",
+        "c": "CH",
+        "n": "Art 36 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "193-Fiac 2005",
+        "c": "FR"
+      },
+      {
+        "i": "193-Art Cologne 2005",
+        "c": "DE",
+        "n": "Art Cologne 2005",
+        "ct": "Cologne"
+      },
+      {
+        "i": "193-Art Basel Miami Beach 2005",
+        "c": "US",
+        "n": "Art Basel Miami Beach 2005",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2006": [
+      {
+        "i": "193-ARCO 06",
+        "c": "ES",
+        "n": "ARCO 06",
+        "ct": "Madrid"
+      },
+      {
+        "i": "193-The Armory Show 2006",
+        "c": "US",
+        "n": "The Armory Show 2006",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "193-ArtParis 06",
+        "c": "FR"
+      },
+      {
+        "i": "193-Viennafair 2006",
+        "c": "AT",
+        "n": "Viennafair 2006",
+        "ct": "Vienna"
+      },
+      {
+        "i": "193-Art 37 Basel",
+        "c": "CH",
+        "n": "Art 37 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "193-Fiac 2006",
+        "c": "FR"
+      },
+      {
+        "i": "193-Art Basel Miami Beach 2006",
+        "c": "US",
+        "n": "Art Basel Miami Beach 2006",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2007": [
+      {
+        "i": "193-ARCO 07",
+        "c": "ES",
+        "n": "ARCO 07",
+        "ct": "Madrid"
+      },
+      {
+        "i": "193-The Art Show 2007",
+        "c": "US",
+        "n": "The Art Show 2007",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "193-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "193-Viennafair 2007",
+        "c": "AT",
+        "n": "Viennafair 2007",
+        "ct": "Vienna"
+      },
+      {
+        "i": "193-Art 38 Basel",
+        "c": "CH",
+        "n": "Art 38 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "193-Fiac 2007",
+        "c": "FR"
+      },
+      {
+        "i": "193-Art Basel Miami Beach 2007",
+        "c": "US",
+        "n": "Art Basel Miami Beach 2007",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "193-Arte Fiera 2008",
+        "c": "IT",
+        "n": "Arte Fiera 2008",
+        "ct": "Bologna"
+      },
+      {
+        "i": "193-ARCO 08",
+        "c": "ES",
+        "n": "ARCO 08",
+        "ct": "Madrid"
+      },
+      {
+        "i": "193-The Art Show 2008",
+        "c": "US",
+        "n": "The Art Show 2008",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "193-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "193-Viennafair 2008",
+        "c": "AT",
+        "n": "Viennafair 2008",
+        "ct": "Vienna"
+      },
+      {
+        "i": "193-Art Chicago 2008",
+        "c": "US",
+        "n": "Art Chicago 2008",
+        "ct": "Chicago, IL"
+      },
+      {
+        "i": "193-Art 39 Basel",
+        "c": "CH",
+        "n": "Art 39 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "193-Fiac 2008",
+        "c": "FR"
+      },
+      {
+        "i": "193-Art Basel Miami Beach 2008",
+        "c": "US",
+        "n": "Art Basel Miami Beach 2008",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2009": [
+      {
+        "i": "193-Arte Fiera 2009",
+        "c": "IT",
+        "n": "Arte Fiera 2009",
+        "ct": "Bologna"
+      },
+      {
+        "i": "193-ARCO 09",
+        "c": "ES",
+        "n": "ARCO 09",
+        "ct": "Madrid"
+      },
+      {
+        "i": "193-The Art Show 2009",
+        "c": "US",
+        "n": "The Art Show 2009",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "193-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "193-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      },
+      {
+        "i": "193-Viennafair 2009",
+        "c": "AT",
+        "n": "Viennafair 2009",
+        "ct": "Vienna"
+      },
+      {
+        "i": "193-Art 40 Basel",
+        "c": "CH",
+        "n": "Art 40 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "193-Fiac 2009",
+        "c": "FR"
+      },
+      {
+        "i": "193-Art Basel Miami Beach 2009",
+        "c": "US",
+        "n": "Art Basel Miami Beach 2009",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2010": [
+      {
+        "i": "193-Arte Fiera 2010",
+        "c": "IT",
+        "n": "Arte Fiera 2010",
+        "ct": "Bologna"
+      },
+      {
+        "i": "193-ARCOmadrid  2010",
+        "c": "ES",
+        "n": "ARCOmadrid  2010",
+        "ct": "Madrid"
+      },
+      {
+        "i": "193-The Art Show 2010",
+        "c": "US",
+        "n": "The Art Show 2010",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "193-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "193-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2010 - 28th Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "193-ArtHK10",
+        "c": "CN",
+        "n": "ArtHK10",
+        "ct": "Hong Kong, SAR"
+      },
+      {
+        "i": "193-Art 41 Basel",
+        "c": "CH",
+        "n": "Art 41 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "193-Fiac 2010",
+        "c": "FR"
+      },
+      {
+        "i": "193-Pinta NY  2010",
+        "c": "US",
+        "n": "Pinta NY  2010",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "193-Art Basel Miami Beach 2010",
+        "c": "US",
+        "n": "Art Basel Miami Beach 2010",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2011": [
+      {
+        "i": "193-Arte Fiera 2011",
+        "c": "IT",
+        "n": "Arte Fiera 2011",
+        "ct": "Bologna"
+      },
+      {
+        "i": "193-ARCOmadrid  2011",
+        "c": "ES",
+        "n": "ARCOmadrid  2011",
+        "ct": "Madrid"
+      },
+      {
+        "i": "193-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "193-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "193-Art Cologne 2011",
+        "c": "DE",
+        "n": "Art Cologne 2011",
+        "ct": "Cologne"
+      },
+      {
+        "i": "193-Art Brussels 2011",
+        "c": "BE",
+        "n": "Art Brussels 2011",
+        "ct": "Brussels"
+      },
+      {
+        "i": "193-ArtHK11",
+        "c": "CN",
+        "n": "ArtHK11",
+        "ct": "Hong Kong, SAR"
+      },
+      {
+        "i": "193-Art 42 Basel",
+        "c": "CH",
+        "n": "Art 42 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "193-Marrakech Art Fair",
+        "c": "MA",
+        "n": "Marrakech Art Fair",
+        "ct": "Casablanca"
+      },
+      {
+        "i": "193-Fiac 2011",
+        "c": "FR"
+      },
+      {
+        "i": "193-Cologne Fine Art 2011",
+        "c": "DE",
+        "n": "Cologne Fine Art 2011",
+        "ct": "Cologne"
+      },
+      {
+        "i": "193-Art Basel Miami Beach 2011",
+        "c": "US",
+        "n": "Art Basel Miami Beach 2011",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2012": [
+      {
+        "i": "193-Arte Fiera - BolognaFiere 2012",
+        "c": "IT",
+        "n": "Arte Fiera - BolognaFiere 2012",
+        "ct": "Bologna"
+      },
+      {
+        "i": "193-ARCOmadrid 2012",
+        "c": "ES",
+        "n": "ARCOmadrid 2012",
+        "ct": "Madrid"
+      },
+      {
+        "i": "193-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "193-Art Brussels 2012",
+        "c": "BE",
+        "n": "Art Brussels 2012",
+        "ct": "Brussels"
+      },
+      {
+        "i": "193-Frieze New York 2012",
+        "c": "US",
+        "n": "Frieze New York 2012",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "193-Hong Kong International Art Fair 2012",
+        "c": "CN",
+        "n": "Hong Kong International Art Fair 2012",
+        "ct": "Hong Kong, SAR"
+      },
+      {
+        "i": "193-Art 43 Basel",
+        "c": "CH",
+        "n": "Art 43 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "193-Expo Chicago",
+        "c": "US",
+        "n": "Expo Chicago",
+        "ct": "Chicago, IL"
+      },
+      {
+        "i": "193-Fiac 2012",
+        "c": "FR"
+      },
+      {
+        "i": "193-Art Basel Miami Beach 2012",
+        "c": "US",
+        "n": "Art Basel Miami Beach 2012",
+        "ct": "Miami Beach, FL"
+      }
+    ],
+    "2013": [
+      {
+        "i": "193-India Art Fair 2013",
+        "c": "IN",
+        "n": "India Art Fair 2013",
+        "ct": "New Delhi"
+      },
+      {
+        "i": "193-ARCOmadrid 2013",
+        "c": "ES",
+        "n": "ARCOmadrid 2013",
+        "ct": "Madrid"
+      },
+      {
+        "i": "193-The Adaa Art Show 2013",
+        "c": "US",
+        "n": "The Adaa Art Show 2013",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "193-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      },
+      {
+        "i": "193-Art Brussels 2013",
+        "c": "BE",
+        "n": "Art Brussels 2013",
+        "ct": "Brussels"
+      },
+      {
+        "i": "193-Frieze New York 2013",
+        "c": "US",
+        "n": "Frieze New York 2013",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "193-Art Basel Hong Kong",
+        "c": "CN",
+        "n": "Art Basel Hong Kong",
+        "ct": "Hong Kong, SAR"
+      },
+      {
+        "i": "193-Art Basel 2013",
+        "c": "CH",
+        "n": "Art Basel 2013",
+        "ct": "Basel"
+      },
+      {
+        "i": "193-Frieze Masters 2013",
+        "c": "GB",
+        "n": "Frieze Masters 2013",
+        "ct": "London"
+      },
+      {
+        "i": "193-FIAC 2013",
+        "c": "FR"
+      },
+      {
+        "i": "193-Contemporary Istanbul Art Fair 2013",
+        "c": "TR",
+        "n": "Contemporary Istanbul Art Fair 2013",
+        "ct": "Istanbul"
+      },
+      {
+        "i": "193-Art Basel Miami Beach 2013",
+        "c": "US",
+        "n": "Art Basel Miami Beach 2013",
+        "ct": "Miami Beach, FL"
+      }
+    ]
+  }
+}

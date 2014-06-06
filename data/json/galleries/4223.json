@@ -1,0 +1,28 @@
+{
+  "id": "4223",
+  "name": "galerie chraemai",
+  "street": "19 Rue Bouquerie",
+  "zip": "30140",
+  "city": "Anduze",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 466 61 67 19",
+  "email": "galeriechraemai@turquoise.fr",
+  "www": "www.turquoise.fr",
+  "map": "http://maps.google.com/maps?q=Anduze%2C%2030140 %2C%2019 %2C%20Rue Bouquerie %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2006": [
+      {
+        "i": "4223-art.fair 2006",
+        "c": "DE",
+        "n": "art.fair 2006",
+        "ct": "Cologne"
+      }
+    ]
+  }
+}

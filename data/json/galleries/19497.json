@@ -1,0 +1,42 @@
+{
+  "id": "19497",
+  "name": "RTR Gallery - Russiantearoom",
+  "street": "1 avenue Trudaine",
+  "zip": "75009",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2004",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 1 45 26 04 60",
+  "email": "rtrgallery@gmail.com",
+  "www": "www.russiantearoom.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075009 %2C%20 %2C%201 avenue Trudaine %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19497-SLICK Dessin 09",
+        "c": "FR"
+      },
+      {
+        "i": "19497-SLICK 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "19497-Art Rotterdam 2010",
+        "c": "NL",
+        "n": "Art Rotterdam 2010",
+        "ct": "Rotterdam"
+      },
+      {
+        "i": "19497-Show Off Paris 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

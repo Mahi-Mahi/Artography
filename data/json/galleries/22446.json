@@ -1,0 +1,26 @@
+{
+  "id": "22446",
+  "name": "Galerie Benoît Lecarpentier",
+  "street": "16 rue Caffarelli",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Benoît Lecarpentier ",
+  "profile": null,
+  "tel": "+33 (0)9 63 57 24 41",
+  "email": "info@benoitlecarpentier.com",
+  "www": "www.benoitlecarpentier.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2016 rue Caffarelli %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2010": [
+      {
+        "i": "22446-Chic Art Fair 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

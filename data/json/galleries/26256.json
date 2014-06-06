@@ -1,0 +1,58 @@
+{
+  "id": "26256",
+  "name": "Galerie Leonardo Agosti",
+  "street": "3, Quai de l'Aspirant Herber",
+  "zip": "34200",
+  "city": "Sète",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+ 33 (0)30 41 38 26",
+  "email": "contact@leonardoagosti.com",
+  "www": "www.leonardoagosti.com",
+  "map": "http://maps.google.com/maps?q=Sète%2C%2034200 %2C%20 %2C%203, Quai de l\\'Aspirant Herber %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2011": [
+      {
+        "i": "26256-SLICK 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "26256-Slick Brussels 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "26256-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "26256-Slick Brussels 2013",
+        "c": "BE",
+        "n": "Slick Brussels 2013",
+        "ct": "Brussels"
+      },
+      {
+        "i": "26256-The Solo Project 2013",
+        "c": "CH",
+        "n": "The Solo Project 2013",
+        "ct": "Basel"
+      },
+      {
+        "i": "26256-DocksArtFair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "26256-Yia Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

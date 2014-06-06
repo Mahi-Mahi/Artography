@@ -1,0 +1,44 @@
+{
+  "id": "8107",
+  "name": "Le Soleil Sur La Place",
+  "street": "4.rue Antoine de Saint Exupery",
+  "zip": "69002",
+  "city": "Lyon",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 78 42 56 65",
+  "email": null,
+  "www": "www.lesoleilsurlaplace.com",
+  "map": "http://maps.google.com/maps?q=Lyon%2C%2069002 %2C%20 %2C%204.rue Antoine de Saint Exupery %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2006": [
+      {
+        "i": "8107-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "8107-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "8107-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "8107-ST-ART 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

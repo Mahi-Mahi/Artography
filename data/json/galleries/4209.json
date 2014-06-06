@@ -1,0 +1,228 @@
+{
+  "id": "4209",
+  "name": "Jean-Pierre Ritsch-Fisch Galerie",
+  "street": "6, place de l'Homme-de-Fer",
+  "zip": "67000",
+  "city": "Strasbourg",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Jean-Pierre Ritsch-Fisch - Jean-François Kaiser",
+  "profile": null,
+  "tel": "+33 (0)3 88236074",
+  "email": "ritsch.fisch@wanadoo.fr",
+  "www": "www.ritschfisch.com",
+  "map": "http://maps.google.com/maps?q=Strasbourg%2C%2067000 %2C%20 %2C%20 6, place de l'Homme-de-Fer %2C%20France",
+  "fairs-total": "39",
+  "fairs-abroad": "17",
+  "fairs-in-FR": "22",
+  "fairs": {
+    "2005": [
+      {
+        "i": "4209-ArtParis 2005",
+        "c": "FR"
+      },
+      {
+        "i": "4209-Fiac 2005",
+        "c": "FR"
+      },
+      {
+        "i": "4209-Art Cologne 2005",
+        "c": "DE",
+        "n": "Art Cologne 2005",
+        "ct": "Cologne"
+      }
+    ],
+    "2006": [
+      {
+        "i": "4209-Cologne Fine Art 2006",
+        "c": "DE",
+        "n": "Cologne Fine Art 2006",
+        "ct": "Cologne"
+      },
+      {
+        "i": "4209-ArtParis 06",
+        "c": "FR"
+      },
+      {
+        "i": "4209-Art Cologne 2006",
+        "c": "DE",
+        "n": "Art Cologne 2006",
+        "ct": "Cologne"
+      },
+      {
+        "i": "4209-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "4209-Outsider Art Fair - 2007",
+        "c": "US",
+        "n": "Outsider Art Fair - 2007",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "4209-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "4209-Art Cologne 2007",
+        "c": "DE",
+        "n": "Art Cologne 2007",
+        "ct": "Cologne"
+      },
+      {
+        "i": "4209-Cologne Fine Art 2007",
+        "c": "DE",
+        "n": "Cologne Fine Art 2007",
+        "ct": "Cologne"
+      },
+      {
+        "i": "4209-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "4209-Outsider Art Fair - 2008",
+        "c": "US",
+        "n": "Outsider Art Fair - 2008",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "4209-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "4209-Art Cologne 2008",
+        "c": "DE",
+        "n": "Art Cologne 2008",
+        "ct": "Cologne"
+      },
+      {
+        "i": "4209-Lille Art Fair 08",
+        "c": "FR"
+      },
+      {
+        "i": "4209-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "4209-art KARLSRUHE 2009",
+        "c": "DE",
+        "n": "art KARLSRUHE 2009",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "4209-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "4209-Lille Art Fair 09",
+        "c": "FR"
+      },
+      {
+        "i": "4209-Art Cologne 2009",
+        "c": "DE",
+        "n": "Art Cologne 2009",
+        "ct": "Cologne"
+      },
+      {
+        "i": "4209-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "4209-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "4209-Art Cologne 2010",
+        "c": "DE",
+        "n": "Art Cologne 2010",
+        "ct": "Cologne"
+      },
+      {
+        "i": "4209-Munich Contempo 2010",
+        "c": "DE",
+        "n": "Munich Contempo 2010",
+        "ct": "Munich"
+      },
+      {
+        "i": "4209-ST-ART 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "4209-art KARLSRUHE 2011",
+        "c": "DE",
+        "n": "art KARLSRUHE 2011",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "4209-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "4209-SLICK 2011",
+        "c": "FR"
+      },
+      {
+        "i": "4209-St-Art 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "4209-Art Karlsruhe 2012",
+        "c": "DE",
+        "n": "Art Karlsruhe 2012",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "4209-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "4209-ART.FAIR 2012",
+        "c": "DE",
+        "n": "ART.FAIR 2012",
+        "ct": "Cologne"
+      },
+      {
+        "i": "4209-ST-ART  2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "4209-Art Karlsruhe 2013",
+        "c": "DE",
+        "n": "Art Karlsruhe 2013",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "4209-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "4209-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      },
+      {
+        "i": "4209-Slick Brussels 2013",
+        "c": "BE",
+        "n": "Slick Brussels 2013",
+        "ct": "Brussels"
+      },
+      {
+        "i": "4209-St-art 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

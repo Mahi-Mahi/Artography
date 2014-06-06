@@ -1,0 +1,38 @@
+{
+  "id": "27575",
+  "name": "Galerie Virginie Barrou Planquart",
+  "street": "8 rue Augereau",
+  "zip": "75007",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Virginie Barrou Planquart",
+  "profile": null,
+  "tel": "06 82 03 09 56",
+  "email": "contact@galeriebarrouplanquart.com",
+  "www": "www.galeriebarrouplanquart.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%208 rue Augereau %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2012": [
+      {
+        "i": "27575-ST-ART  2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "27575-Scope Basel 2013",
+        "c": "CH",
+        "n": "Scope Basel 2013",
+        "ct": "Basel"
+      },
+      {
+        "i": "27575-St-art 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

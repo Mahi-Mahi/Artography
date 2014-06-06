@@ -1,0 +1,26 @@
+{
+  "id": "8118",
+  "name": "Galerie Ucellino",
+  "street": "31, rue Sylvabelle",
+  "zip": "13006",
+  "city": "Marseille",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 91 37 02 41",
+  "email": "galerie.ucellino@wanadoo.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Marseille%2C%2013006 %2C%20 %2C%2031, rue Sylvabelle %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2006": [
+      {
+        "i": "8118-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ]
+  }
+}

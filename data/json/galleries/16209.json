@@ -1,0 +1,58 @@
+{
+  "id": "16209",
+  "name": "Galerie De L'instant",
+  "street": "48, rue de Poitou",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": null,
+  "email": null,
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2048, rue de Poitou %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "7",
+  "fairs": {
+    "2008": [
+      {
+        "i": "16209-ArtParis 08",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "16209-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "16209-cutlog",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "16209-ArtParis 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "16209-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "16209-fotofever",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "16209-Photo Off 2012",
+        "c": "FR"
+      }
+    ]
+  }
+}

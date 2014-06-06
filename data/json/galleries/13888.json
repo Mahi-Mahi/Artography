@@ -1,0 +1,26 @@
+{
+  "id": "13888",
+  "name": "Galerie Le Simoun",
+  "street": "78 rue de Miromesnil",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)142562120",
+  "email": null,
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2078 rue de Miromesnil %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2007": [
+      {
+        "i": "13888-Les Elysées de l'Art - 2007",
+        "c": "FR"
+      }
+    ]
+  }
+}

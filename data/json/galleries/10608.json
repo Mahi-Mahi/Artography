@@ -1,0 +1,38 @@
+{
+  "id": "10608",
+  "name": "Galerie Negpos",
+  "street": "70 bis rue Notre Dame",
+  "zip": "30000",
+  "city": "Nîmes",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)6 98 72 79 45",
+  "email": "patriceloubon@hotmail.com",
+  "www": "www.negpos.asso.fr",
+  "map": "http://maps.google.com/maps?q=Nîmes%2C%2030000 %2C%20 %2C%2070 bis rue Notre Dame %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2006": [
+      {
+        "i": "10608-ARTéNÎM 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "10608-ARTéNÎM 2007",
+        "c": "FR"
+      },
+      {
+        "i": "10608-Buenos Aires Photo - 2007",
+        "c": "AR",
+        "n": "Buenos Aires Photo - 2007",
+        "ct": "Buenos Aires"
+      }
+    ]
+  }
+}

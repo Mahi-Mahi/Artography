@@ -1,0 +1,44 @@
+{
+  "id": "5090",
+  "name": "Galerie Raymond Dreyfus",
+  "street": "3, rue des Beaux Arts",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Raymond Dreyfus",
+  "profile": null,
+  "tel": "+33 (0)1 43260920",
+  "email": "galerie@raymond-dreyfus.com",
+  "www": "www.raymond-dreyfus.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%203, rue des Beaux Arts %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2005": [
+      {
+        "i": "5090-ArtParis 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "5090-ArtParis 06",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5090-ArtParis 07",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5090-ArtParis 08",
+        "c": "FR"
+      }
+    ]
+  }
+}

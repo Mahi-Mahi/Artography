@@ -1,0 +1,84 @@
+{
+  "id": "8116",
+  "name": "Galerie d'art Saltiel",
+  "street": "1, Place du Champ de Bataille",
+  "zip": "83330",
+  "city": "La Castellet",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 94 32 72 01",
+  "email": null,
+  "www": "www.galerie-saltiel.com",
+  "map": "http://maps.google.com/maps?q=La Castellet%2C%2083330 %2C%20 %2C%201, Place du Champ de Bataille %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "9",
+  "fairs": {
+    "2006": [
+      {
+        "i": "8116-ST-ART 2006 - 11ème édition",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "8116-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "8116-ST-ART 2008 - 13ème édition",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "8116-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "8116-Shanghai Art Fair - 2010",
+        "c": "CN",
+        "n": "Shanghai Art Fair - 2010",
+        "ct": "Shanghai"
+      },
+      {
+        "i": "8116-ShContemporary 2010",
+        "c": "CN",
+        "n": "ShContemporary 2010",
+        "ct": "Shanghai"
+      }
+    ],
+    "2011": [
+      {
+        "i": "8116-St-Art 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "8116-Lille Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "8116-ST-ART  2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "8116-Lille Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "8116-St-art 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

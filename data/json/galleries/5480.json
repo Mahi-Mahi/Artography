@@ -1,0 +1,80 @@
+{
+  "id": "5480",
+  "name": "Galerie Deborah Zafman",
+  "street": "43, rue Chapon",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2004",
+  "directeurs": "Deborah Zafman",
+  "profile": "Galerie Deborah Zafman was opened in Paris in 2004 and is devoted to discovering and promoting the work of promising young painters. The small ground floor space in the Marais serves as a launch pad, while independently organized exhibitions abroad serve to propel them onto the international scene.",
+  "tel": "+33 (0)1 42770374",
+  "email": "gallery@deborahzafman.com",
+  "www": "www.deborahzafman.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2043, rue Chapon %2C%20France",
+  "fairs-total": "11",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "8",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5480-art la 2006",
+        "c": "US",
+        "n": "art la 2006",
+        "ct": "Santa Monica, CA"
+      },
+      {
+        "i": "5480-SLICK 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "5480-SLICK 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "5480-SLICK Dessin 08",
+        "c": "FR"
+      },
+      {
+        "i": "5480-International Art Show Cannes  2008",
+        "c": "FR"
+      },
+      {
+        "i": "5480-So Feucking French (SoFF) 08",
+        "c": "GB",
+        "n": "So Feucking French (SoFF) 08",
+        "ct": "London"
+      },
+      {
+        "i": "5480-Art Elysées 2008",
+        "c": "FR"
+      },
+      {
+        "i": "5480-SLICK 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5480-Los Angeles Art Show 2009",
+        "c": "US",
+        "n": "Los Angeles Art Show 2009",
+        "ct": "Los Angeles, CA"
+      },
+      {
+        "i": "5480-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5480-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

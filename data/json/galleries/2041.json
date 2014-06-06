@@ -1,0 +1,122 @@
+{
+  "id": "2041",
+  "name": "Galerie Applicat-Prazan",
+  "street": "16, rue de Seine",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1993",
+  "directeurs": "Bernard Prazan",
+  "profile": null,
+  "tel": "+33-(0)1 43 25 39 24",
+  "email": "applicat-prazan@wanadoo.fr",
+  "www": "www.applicat-prazan.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2016, rue de Seine %2C%20France",
+  "fairs-total": "17",
+  "fairs-abroad": "9",
+  "fairs-in-FR": "8",
+  "fairs": {
+    "2006": [
+      {
+        "i": "2041-TEFAF Maastricht 2006",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2006",
+        "ct": "Maastricht"
+      },
+      {
+        "i": "2041-Fiac 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "2041-TEFAF Maastricht 2007",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2007",
+        "ct": "Maastricht"
+      },
+      {
+        "i": "2041-Fiac 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "2041-TEFAF Maastricht 2008",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2008",
+        "ct": "Maastricht"
+      },
+      {
+        "i": "2041-Fiac 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "2041-TEFAF Maastricht 2009",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2009",
+        "ct": "Maastricht"
+      },
+      {
+        "i": "2041-Fiac 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "2041-TEFAF Maastricht 2010",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2010",
+        "ct": "Maastricht"
+      },
+      {
+        "i": "2041-Fiac 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "2041-TEFAF Maastricht 2011",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2011",
+        "ct": "Helvoirt"
+      },
+      {
+        "i": "2041-Fiac 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "2041-TEFAF Maastricht 2012",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2012",
+        "ct": "Helvoirt"
+      },
+      {
+        "i": "2041-Art 43 Basel",
+        "c": "CH",
+        "n": "Art 43 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "2041-Fiac 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "2041-TEFAF Maastricht 2013",
+        "c": "NL",
+        "n": "TEFAF Maastricht 2013",
+        "ct": "Maastricht"
+      },
+      {
+        "i": "2041-FIAC 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

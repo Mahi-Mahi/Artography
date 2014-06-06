@@ -1,0 +1,38 @@
+{
+  "id": "21874",
+  "name": "Galerie DX",
+  "street": "10, place des Quinconces",
+  "zip": "33000",
+  "city": "Bordeaux",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)5 56 23 35 20",
+  "email": "contact@galeriedx.com",
+  "www": "www.galeriedx.com",
+  "map": "http://maps.google.com/maps?q=Bordeaux%2C%2033000 %2C%20 %2C%2010, place des Quinconces %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2010": [
+      {
+        "i": "21874-Lille Art Fair 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "21874-Show Off Paris 2011",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "21874-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

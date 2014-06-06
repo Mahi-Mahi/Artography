@@ -1,0 +1,46 @@
+{
+  "id": "12873",
+  "name": "Galerie Patrick Pierre",
+  "street": "7 rue Séverin",
+  "zip": "13260",
+  "city": "Cassis",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 42 01 97 48",
+  "email": "galerie.patrick.pierre@orange.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Cassis%2C%2013260 %2C%20 %2C%207 rue Séverin %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2006": [
+      {
+        "i": "12873-ARTéNÎM 2006",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "12873-ARTéNÎM 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "12873-ARTéNÎM Grenoble 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "12873-Arte Genova 2009",
+        "c": "IT",
+        "n": "Arte Genova 2009",
+        "ct": "Padova"
+      }
+    ]
+  }
+}

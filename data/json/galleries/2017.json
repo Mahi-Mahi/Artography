@@ -1,0 +1,138 @@
+{
+  "id": "2017",
+  "name": "Oniris Galerie d´art contemporain",
+  "street": "38, rue d´Antrain B.P. 60205",
+  "zip": "35702",
+  "city": "Rennes",
+  "country": "France",
+  "foundation": "1986",
+  "directeurs": "Yvonne Paumelle",
+  "profile": "Ouverte depuis 1986 à Rennes et dirigée par Yvonne Paumelle, la galerie Oniris est devenue avec le temps un des lieux incontournables de l´art contemporain en Bretagne. Depuis 15 ans, la galerie reste fidèle à son objectif initial: présenter des artistes attachés à une expression rigoureuse dans les modes d´approches complémentaires (peinture, dessin, gravure et sculpture).",
+  "tel": "+33-(0)2 99 36 46 06",
+  "email": "contact@galerie-oniris.com",
+  "www": "www.galerie-oniris.com",
+  "map": "http://maps.google.com/maps?q=Rennes%2C%2035702 %2C%20 %2C%2038, rue d´Antrain B.P. 60205 %2C%20France",
+  "fairs-total": "23",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "19",
+  "fairs": {
+    "2005": [
+      {
+        "i": "2017-ArtParis 2005",
+        "c": "FR"
+      },
+      {
+        "i": "2017-Fiac 2005",
+        "c": "FR"
+      },
+      {
+        "i": "2017-Art Cologne 2005",
+        "c": "DE",
+        "n": "Art Cologne 2005",
+        "ct": "Cologne"
+      }
+    ],
+    "2006": [
+      {
+        "i": "2017-ArtParis 06",
+        "c": "FR"
+      },
+      {
+        "i": "2017-Art Brussels 2006- 24th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2006- 24th Contemporary Art Fair",
+        "ct": "Brussels"
+      }
+    ],
+    "2007": [
+      {
+        "i": "2017-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "2017-Art Brussels 2007- 25th Contemporary Art Fair",
+        "c": "BE",
+        "n": "Art Brussels 2007- 25th Contemporary Art Fair",
+        "ct": "Brussels"
+      },
+      {
+        "i": "2017-Les Elysées de l'Art - 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "2017-ArtParis 08",
+        "c": "FR"
+      },
+      {
+        "i": "2017-Art Elysées 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "2017-ArtParis 09",
+        "c": "FR"
+      },
+      {
+        "i": "2017-Art Elysées 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "2017-ArtParis 2010",
+        "c": "FR"
+      },
+      {
+        "i": "2017-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "2017-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "c": "FR"
+      },
+      {
+        "i": "2017-ArtParis 2011",
+        "c": "FR"
+      },
+      {
+        "i": "2017-Art Elysées 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "2017-Art Paris Art Fair 2012",
+        "c": "FR"
+      },
+      {
+        "i": "2017-Art Elysées 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "2017-Art Karlsruhe 2013",
+        "c": "DE",
+        "n": "Art Karlsruhe 2013",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "2017-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "2017-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      },
+      {
+        "i": "2017-Slick Paris 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

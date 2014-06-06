@@ -1,0 +1,32 @@
+{
+  "id": "4078",
+  "name": "Le Petit Jaunais",
+  "street": "35, rue de la Croix-Rouge",
+  "zip": "44300",
+  "city": "Nantes",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Nancy Sulmont-A.",
+  "profile": null,
+  "tel": "+33 (0)2 40496320",
+  "email": "lpetitjs@numericable.fr",
+  "www": "www.lepetitjaunais.fr",
+  "map": "http://maps.google.com/maps?q=Nantes%2C%2044300 %2C%20 %2C%2035, rue de la Croix-Rouge %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2005": [
+      {
+        "i": "4078-Fiac 2005",
+        "c": "FR"
+      }
+    ],
+    "2007": [
+      {
+        "i": "4078-Docks Art Fair 2007",
+        "c": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "19456",
+  "name": "Galerie New Art City",
+  "street": "67 rue Saint André",
+  "zip": "59000",
+  "city": "Lille",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)3 20 39 59 31 ",
+  "email": null,
+  "www": "www.new-art-city.fr",
+  "map": "http://maps.google.com/maps?q=Lille%2C%2059000 %2C%20 %2C%2067 rue Saint André %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19456-Lille Art Fair 09",
+        "c": "FR"
+      },
+      {
+        "i": "19456-Lineart 2009",
+        "c": "BE",
+        "n": "Lineart 2009",
+        "ct": "Ghent"
+      }
+    ]
+  }
+}

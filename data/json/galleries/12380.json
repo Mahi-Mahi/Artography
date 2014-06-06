@@ -1,0 +1,84 @@
+{
+  "id": "12380",
+  "name": "Galerie Ilka Bree",
+  "street": "7 rue Cornac",
+  "zip": "33000",
+  "city": "Bordeaux",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)5 56 44 74 92",
+  "email": "info@galerie-ilkabree.com",
+  "www": "www.galerie-ilkabree.com",
+  "map": "http://maps.google.com/maps?q=Bordeaux%2C%2033000 %2C%20 %2C%207 rue Cornac %2C%20France",
+  "fairs-total": "10",
+  "fairs-abroad": "6",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2007": [
+      {
+        "i": "12380-Preview Berlin - the emerging art fair - 2007",
+        "c": "DE",
+        "n": "Preview Berlin - the emerging art fair - 2007",
+        "ct": "Berlin"
+      },
+      {
+        "i": "12380-Show Off Paris 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "12380-Show Off Paris 2008",
+        "c": "FR"
+      },
+      {
+        "i": "12380-Preview Berlin - the emerging art fair - 2008",
+        "c": "DE",
+        "n": "Preview Berlin - the emerging art fair - 2008",
+        "ct": "Berlin"
+      }
+    ],
+    "2009": [
+      {
+        "i": "12380-Preview Berlin - the emerging art fair - 2009",
+        "c": "DE",
+        "n": "Preview Berlin - the emerging art fair - 2009",
+        "ct": "Berlin"
+      },
+      {
+        "i": "12380-Show Off Paris 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "12380-Preview Berlin - the emerging art fair - 2010",
+        "c": "DE",
+        "n": "Preview Berlin - the emerging art fair - 2010",
+        "ct": "Berlin"
+      }
+    ],
+    "2011": [
+      {
+        "i": "12380-Preview Berlin - the emerging art fair - 2011",
+        "c": "DE",
+        "n": "Preview Berlin - the emerging art fair - 2011",
+        "ct": "Berlin"
+      }
+    ],
+    "2012": [
+      {
+        "i": "12380-Preview Berlin - the emerging art fair - 2012",
+        "c": "DE",
+        "n": "Preview Berlin - the emerging art fair - 2012",
+        "ct": "Berlin"
+      },
+      {
+        "i": "12380-fotofever artfair 2012",
+        "c": "FR"
+      }
+    ]
+  }
+}

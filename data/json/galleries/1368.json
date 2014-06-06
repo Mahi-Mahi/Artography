@@ -1,0 +1,68 @@
+{
+  "id": "1368",
+  "name": "Galerie Anton Weller",
+  "street": "57, rue de Bretagne",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1994",
+  "directeurs": "Isabelle Suret",
+  "profile": "program direction:\r\n- promotion of young French artists\r\n- videos, video and sound installations\r\n\r\nGallery history:\r\nThe Anton Weller gallery which has been structured around a two fold approach incorporating both a permanent site as well as nomadic spaces since 1994, moved to number 57, rue de Bretagne in september 1997.  It has continued to question the exhibition space around the concept \"chez l´un, L´AUTRE\".\r\n\r\nAlongside the work shown and exhibitions held at 57, rue de Bretagne, the gallery puts on as many one man / woman shows as possible for its artists.\r\n\r\nThese are often held outside the gallery space, in specific places which are carefully chosen to provide an echo for their works.",
+  "tel": "+33-(0)1-42 72 05 62",
+  "email": "info@anton-weller.com",
+  "www": "www.anton-weller.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2057, rue de Bretagne %2C%20France",
+  "fairs-total": "8",
+  "fairs-abroad": "5",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2007": [
+      {
+        "i": "1368-Diva - Digital & Video Art Fair - Paris 2007",
+        "c": "FR"
+      },
+      {
+        "i": "1368-Contemporary Istanbul Art Fair 2007",
+        "c": "TR",
+        "n": "Contemporary Istanbul Art Fair 2007",
+        "ct": "Istanbul"
+      },
+      {
+        "i": "1368-Photo Miami 2007",
+        "c": "US",
+        "n": "Photo Miami 2007",
+        "ct": "Miami, FL"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1368-Salon du Dessin Contemporain 2008",
+        "c": "FR"
+      },
+      {
+        "i": "1368-Scope Basel 2008",
+        "c": "CH",
+        "n": "Scope Basel 2008",
+        "ct": "Basel"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1368-Salon du Dessin Contemporain 2009",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1368-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "1368-ART on PAPER",
+        "c": "BE",
+        "n": "ART on PAPER",
+        "ct": "Brussels"
+      }
+    ]
+  }
+}

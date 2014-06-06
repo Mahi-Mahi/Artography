@@ -1,0 +1,32 @@
+{
+  "id": "24156",
+  "name": "Galerie Maïa Muller",
+  "street": "21 Rue Guénégaud",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 6 68 70 97 19",
+  "email": "contact@maiamuller.com",
+  "www": "www.galeriemaiamuller.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2021 Rue Guénégaud %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2011": [
+      {
+        "i": "24156-ArtParis 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "24156-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "c": "FR"
+      }
+    ]
+  }
+}

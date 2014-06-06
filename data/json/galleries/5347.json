@@ -1,0 +1,42 @@
+{
+  "id": "5347",
+  "name": "Galerie Nikki Diana Marquardt",
+  "street": "9 Place des Vosges",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1986",
+  "directeurs": "Nikki Diana Marquardt",
+  "profile": null,
+  "tel": "+331 427 821 00",
+  "email": "nikimarquardt@aol.com",
+  "www": "www.galerienikkidianamarquardt.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%209 Place des Vosges %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2006": [
+      {
+        "i": "5347-Art Madrid 2006",
+        "c": "ES",
+        "n": "Art Madrid 2006",
+        "ct": "Madrid"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5347-SLICK 2010",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5347-Beirut Art Fair 2013",
+        "c": "LB",
+        "n": "Beirut Art Fair 2013",
+        "ct": "Beirut"
+      }
+    ]
+  }
+}

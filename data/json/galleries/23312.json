@@ -1,0 +1,42 @@
+{
+  "id": "23312",
+  "name": "Espace 2.13pm",
+  "street": "2, allée des Robichons",
+  "zip": "78 170",
+  "city": "La Celle St Cloud",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": null,
+  "email": "fpaumier-moch@213pm.com",
+  "www": "www.213pm.com",
+  "map": "http://maps.google.com/maps?q=La Celle St Cloud%2C%2078 170 %2C%20 %2C%202, allée des Robichons %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2010": [
+      {
+        "i": "23312-Chic Art Fair 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "23312-Chic Art Fair 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "23312-Chic Dessin 2012",
+        "c": "FR"
+      },
+      {
+        "i": "23312-Chic Artfair - À la Cité de la Mode et du Design 2012",
+        "c": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "1405",
+  "name": "Galerie de France",
+  "street": "54, rue de la Verrerie",
+  "zip": "75004",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1942",
+  "directeurs": "Catherine Thieck",
+  "profile": "The Galerie de France was created in 1942. It was taken over in 1981 by Catherine Thieck. It has become since February 2008 the New Galerie de France, managed by both Catherine Thieck and Marion Dana. Marion Dana shows at the NGF some young international artists that have never been shown in France. Catherine Thieck, on the other hand, organizes some remarkable projects, of historic importance.",
+  "tel": "+33-(0)1-42 74 38 00",
+  "email": "info@galeriedefrance.com",
+  "www": "galeriedefrance.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%2054, rue de la Verrerie %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2005": [
+      {
+        "i": "1405-ARCO 05",
+        "c": "ES",
+        "n": "ARCO 05",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1405-Art 36 Basel",
+        "c": "CH",
+        "n": "Art 36 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "1405-Fiac 2005",
+        "c": "FR"
+      }
+    ],
+    "2006": [
+      {
+        "i": "1405-ARCO 06",
+        "c": "ES",
+        "n": "ARCO 06",
+        "ct": "Madrid"
+      },
+      {
+        "i": "1405-ArtParis 06",
+        "c": "FR"
+      },
+      {
+        "i": "1405-Art 37 Basel",
+        "c": "CH",
+        "n": "Art 37 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "1405-Fiac 2006",
+        "c": "FR"
+      }
+    ]
+  }
+}

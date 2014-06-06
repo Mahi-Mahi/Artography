@@ -1,0 +1,28 @@
+{
+  "id": "23214",
+  "name": "Le Opéra 5",
+  "street": "5, avenue de l'Opéra",
+  "zip": "75001",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": null,
+  "email": null,
+  "www": "www.5opera.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075001 %2C%20 %2C%205, avenue de l\\'Opéra %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2011": [
+      {
+        "i": "23214-NEXT 11",
+        "c": "US",
+        "n": "NEXT 11",
+        "ct": "Chicago, IL"
+      }
+    ]
+  }
+}

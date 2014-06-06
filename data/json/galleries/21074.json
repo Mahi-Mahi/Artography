@@ -1,0 +1,28 @@
+{
+  "id": "21074",
+  "name": "Princesse de Kiev Galerie",
+  "street": "1, rue Valperga",
+  "zip": "06000",
+  "city": "Nice",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 93 80 42 07",
+  "email": null,
+  "www": "www.princessedekiev.fr",
+  "map": "http://maps.google.com/maps?q=Nice%2C%2006000 %2C%20 %2C%201, rue Valperga %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2009": [
+      {
+        "i": "21074-Lineart 2009",
+        "c": "BE",
+        "n": "Lineart 2009",
+        "ct": "Ghent"
+      }
+    ]
+  }
+}

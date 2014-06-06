@@ -1,0 +1,44 @@
+{
+  "id": "13364",
+  "name": "Galerie Defrost",
+  "street": "7, rue du Vertbois",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2006",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0) 1 44 61 01 73",
+  "email": "contact@defrost.fr",
+  "www": "www.defrost.fr",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%207, rue du Vertbois %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2007": [
+      {
+        "i": "13364-SLICK 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "13364-So Feucking French (SoFF) 08",
+        "c": "GB",
+        "n": "So Feucking French (SoFF) 08",
+        "ct": "London"
+      },
+      {
+        "i": "13364-SLICK 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "13364-SLICK Dessin 09",
+        "c": "FR"
+      }
+    ]
+  }
+}

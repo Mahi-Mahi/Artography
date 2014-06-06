@@ -1,0 +1,38 @@
+{
+  "id": "19174",
+  "name": "Galerie Véronique Tabaka ",
+  "street": "5 rue Racine",
+  "zip": "78470",
+  "city": "Saint Rémy les Chevreuse",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 30 52 46 89",
+  "email": "contact@gevete.eu",
+  "www": "www.gevete.com",
+  "map": "http://maps.google.com/maps?q=Saint Rémy les Chevreuse%2C%2078470 %2C%20 %2C%205 rue Racine %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "1",
+  "fairs": {
+    "2009": [
+      {
+        "i": "19174-Affordable Art Fair Bruxelles 09",
+        "c": "BE",
+        "n": "Affordable Art Fair Bruxelles 09",
+        "ct": "Brussels"
+      },
+      {
+        "i": "19174-The Affordable Art Fair Paris 09",
+        "c": "FR"
+      },
+      {
+        "i": "19174-The Affordable Art Fair Amsterdam 09",
+        "c": "NL",
+        "n": "The Affordable Art Fair Amsterdam 09",
+        "ct": "Amsterdam"
+      }
+    ]
+  }
+}

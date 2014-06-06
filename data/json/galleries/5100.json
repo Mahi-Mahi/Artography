@@ -1,0 +1,56 @@
+{
+  "id": "5100",
+  "name": "Galerie Guillaume",
+  "street": "32, rue de Penthievre",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Guillaume Sébastien",
+  "profile": null,
+  "tel": "+33 (0)1 44710772",
+  "email": "galerieguillaume@wanadoo.fr",
+  "www": "www.galerieguillaume.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2032, rue de Penthievre %2C%20France",
+  "fairs-total": "6",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "6",
+  "fairs": {
+    "2005": [
+      {
+        "i": "5100-ArtParis 2005",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "5100-ArtParis 09",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "5100-ArtParis 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "5100-ArtParis 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "5100-Art Paris Art Fair 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "5100-Art Paris Art Fair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

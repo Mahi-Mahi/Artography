@@ -1,0 +1,36 @@
+{
+  "id": "17869",
+  "name": "Eponyme Galerie",
+  "street": "23, rue de Ruat",
+  "zip": "33000",
+  "city": "Bordeaux",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)556 814 003",
+  "email": "contact@eponyme.eu",
+  "www": "www.eponyme.eu",
+  "map": "http://maps.google.com/maps?q=Bordeaux%2C%2033000 %2C%20 %2C%2023, rue de Ruat %2C%20France",
+  "fairs-total": "3",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "3",
+  "fairs": {
+    "2008": [
+      {
+        "i": "17869-SLICK 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "17869-SLICK Dessin 09",
+        "c": "FR"
+      },
+      {
+        "i": "17869-SLICK 2009",
+        "c": "FR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "1907",
+  "name": "Galerie Gilles Peyroulet & Cie",
+  "street": "75 & 80 rue Quincampoix",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "1987",
+  "directeurs": "Dominique Chenivesse, Gilles Peyroulet",
+  "profile": null,
+  "tel": "+33-(0)1-42 78 85 11",
+  "email": "contact@galeriepeyroulet.com",
+  "www": "www.galeriepeyroulet.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2075 & 80 rue Quincampoix %2C%20France",
+  "fairs-total": "16",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "12",
+  "fairs": {
+    "2006": [
+      {
+        "i": "1907-ArtParis 06",
+        "c": "FR"
+      },
+      {
+        "i": "1907-DFOTO 2006",
+        "c": "ES",
+        "n": "DFOTO 2006",
+        "ct": "San Sebastián"
+      }
+    ],
+    "2007": [
+      {
+        "i": "1907-ArtParis 07",
+        "c": "FR"
+      },
+      {
+        "i": "1907-DFOTO 2007",
+        "c": "ES",
+        "n": "DFOTO 2007",
+        "ct": "San Sebastián"
+      },
+      {
+        "i": "1907-Fiac 2007",
+        "c": "FR"
+      },
+      {
+        "i": "1907-Diva - Digital & Video Art Fair - Paris 2007",
+        "c": "FR"
+      }
+    ],
+    "2008": [
+      {
+        "i": "1907-ArtParis 08",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "1907-SLICK Dessin 09",
+        "c": "FR"
+      },
+      {
+        "i": "1907-The Solo Project 2009",
+        "c": "CH",
+        "n": "The Solo Project 2009",
+        "ct": "Basel"
+      }
+    ],
+    "2010": [
+      {
+        "i": "1907-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "1907-Show Off Paris 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "1907-Paris Photo 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "1907-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "c": "FR"
+      },
+      {
+        "i": "1907-Paris Photo 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "1907-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "c": "FR"
+      },
+      {
+        "i": "1907-Paris Photo 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

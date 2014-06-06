@@ -1,0 +1,66 @@
+{
+  "id": "3500",
+  "name": "Malingue",
+  "street": "26 Avenue Matignon",
+  "zip": "75008",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Aude Mouton & Edouard Malingue",
+  "profile": "Installée au coeur du Paris des galeries d'art depuis près de trente ans, la galerie MALINGUE est aujourd'hui un centre prestigieux où les plus grands collectionneurs découvrent et reconnaissent les chefs-d'oeuvre des XIXe et XXe siècles.\r\nToute l'aventure de l'Art Moderne se trouve là, synthétisée par un choix sûr, garant d'un plaisir sans cesse renouvelé.",
+  "tel": "+33 (0)1 42 66 60 33",
+  "email": "galerie@malingue.net",
+  "www": "www.malingue.net",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2026 Avenue Matignon %2C%20France",
+  "fairs-total": "7",
+  "fairs-abroad": "5",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2005": [
+      {
+        "i": "3500-Art 36 Basel",
+        "c": "CH",
+        "n": "Art 36 Basel",
+        "ct": "Basel"
+      },
+      {
+        "i": "3500-Fiac 2005",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "3500-Fiac 2009",
+        "c": "FR"
+      },
+      {
+        "i": "3500-Art Abu Dhabi 2009",
+        "c": "AE",
+        "n": "Art Abu Dhabi 2009",
+        "ct": "Abu Dhabi"
+      }
+    ],
+    "2011": [
+      {
+        "i": "3500-Art Stage Singapore 2011",
+        "c": "SG",
+        "n": "Art Stage Singapore 2011",
+        "ct": "Singapore"
+      },
+      {
+        "i": "3500-CIGE 2011",
+        "c": "CN",
+        "n": "CIGE 2011",
+        "ct": "Beijing"
+      }
+    ],
+    "2013": [
+      {
+        "i": "3500-Frieze Masters 2013",
+        "c": "GB",
+        "n": "Frieze Masters 2013",
+        "ct": "London"
+      }
+    ]
+  }
+}

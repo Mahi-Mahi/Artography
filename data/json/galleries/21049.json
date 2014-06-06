@@ -1,0 +1,28 @@
+{
+  "id": "21049",
+  "name": "Inis Galerie D'art",
+  "street": "Cour Des Arts, Rue Brun Rollet",
+  "zip": "73300",
+  "city": "Saint Jean De Maurienne",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 4 79 59 89 15",
+  "email": null,
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Saint Jean De Maurienne%2C%2073300 %2C%20 %2C%20Cour Des Arts, Rue Brun Rollet %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2009": [
+      {
+        "i": "21049-Lineart 2009",
+        "c": "BE",
+        "n": "Lineart 2009",
+        "ct": "Ghent"
+      }
+    ]
+  }
+}

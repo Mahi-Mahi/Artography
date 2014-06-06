@@ -1,0 +1,60 @@
+{
+  "id": "23298",
+  "name": "Galerie melanieRio",
+  "street": "34 bd Guist'hau",
+  "zip": "44000",
+  "city": "Nantes",
+  "country": "France",
+  "foundation": "2008",
+  "directeurs": "Mélanie Rio",
+  "profile": null,
+  "tel": "+33 2 40 89 20 40",
+  "email": null,
+  "www": "www.rgalerie.com",
+  "map": "http://maps.google.com/maps?q=Nantes%2C%2044000 %2C%20 %2C%2034 bd Guist\\'hau %2C%20France",
+  "fairs-total": "8",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "8",
+  "fairs": {
+    "2010": [
+      {
+        "i": "23298-Chic Art Fair 2010",
+        "c": "FR"
+      },
+      {
+        "i": "23298-Paris Photo 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "23298-Paris Photo 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "23298-Paris Photo 2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "23298-Art Paris Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "23298-DocksArtFair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "23298-Yia Art Fair 2013",
+        "c": "FR"
+      },
+      {
+        "i": "23298-Paris Photo 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

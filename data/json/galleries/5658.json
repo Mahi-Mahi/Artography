@@ -1,0 +1,28 @@
+{
+  "id": "5658",
+  "name": "Galerie Editions Futura",
+  "street": "43 rue sainte Anne",
+  "zip": "75001",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "Yasunari futura",
+  "profile": null,
+  "tel": "+33 142 602606",
+  "email": "galerie-futura@wanadoo.fr",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075001 %2C%20 %2C%2043 rue sainte Anne %2C%20France",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
+  "fairs-in-FR": "0",
+  "fairs": {
+    "2005": [
+      {
+        "i": "5658-KIAF 2005",
+        "c": "KR",
+        "n": "KIAF 2005",
+        "ct": "Seoul"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "11681",
+  "name": "Galerie Georges Verney-Carron",
+  "street": "45 quai Rambaud",
+  "zip": "69002",
+  "city": "Lyon",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)4 72 69 08 20",
+  "email": "info@art-entreprise.com",
+  "www": "www.galerie-verney-carron.com",
+  "map": "http://maps.google.com/maps?q=Lyon%2C%2069002 %2C%20 %2C%2045 quai Rambaud %2C%20France",
+  "fairs-total": "4",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "4",
+  "fairs": {
+    "2007": [
+      {
+        "i": "11681-Docks Art Fair 2007",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "11681-Docks Art Fair 2009",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "11681-DocksArtFair 2011",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "11681-DocksArtFair 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}

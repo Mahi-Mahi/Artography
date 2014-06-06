@@ -1,0 +1,30 @@
+{
+  "id": "21902",
+  "name": "Galerie Twenty-One",
+  "street": "21 rue Guénégaud",
+  "zip": "75006",
+  "city": "Paris",
+  "country": "France",
+  "foundation": "2009",
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 6 68 70 97 19",
+  "email": "maia@galerietwentyone.com",
+  "www": null,
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2021 rue Guénégaud %2C%20France",
+  "fairs-total": "2",
+  "fairs-abroad": "0",
+  "fairs-in-FR": "2",
+  "fairs": {
+    "2010": [
+      {
+        "i": "21902-Salon du Dessin Contemporain 2010",
+        "c": "FR"
+      },
+      {
+        "i": "21902-SLICK 2010",
+        "c": "FR"
+      }
+    ]
+  }
+}

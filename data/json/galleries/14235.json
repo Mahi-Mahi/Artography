@@ -1,0 +1,94 @@
+{
+  "id": "14235",
+  "name": "Galerie Artima",
+  "street": "4, rue du pas de la mule",
+  "zip": "75003",
+  "city": "Paris",
+  "country": "France",
+  "foundation": null,
+  "directeurs": "",
+  "profile": null,
+  "tel": "+33 (0)1 48 04 39 70",
+  "email": "info@galerie-artima.com",
+  "www": "www.galerie-artima.com",
+  "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%204, rue du pas de la mule %2C%20France",
+  "fairs-total": "14",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "12",
+  "fairs": {
+    "2007": [
+      {
+        "i": "14235-ST-ART 2007 - 12ème édition",
+        "c": "FR"
+      },
+      {
+        "i": "14235-Lineart 2007",
+        "c": "BE",
+        "n": "Lineart 2007",
+        "ct": "Ghent"
+      }
+    ],
+    "2008": [
+      {
+        "i": "14235-Lille Art Fair 08",
+        "c": "FR"
+      },
+      {
+        "i": "14235-Art Elysées 2008",
+        "c": "FR"
+      }
+    ],
+    "2009": [
+      {
+        "i": "14235-Affordable Art Fair Bruxelles 09",
+        "c": "BE",
+        "n": "Affordable Art Fair Bruxelles 09",
+        "ct": "Brussels"
+      },
+      {
+        "i": "14235-The Affordable Art Fair Paris 09",
+        "c": "FR"
+      },
+      {
+        "i": "14235-Art Elysées 2009",
+        "c": "FR"
+      },
+      {
+        "i": "14235-ST-ART 2009 - 14e édition",
+        "c": "FR"
+      }
+    ],
+    "2010": [
+      {
+        "i": "14235-Lille Art Fair 2010",
+        "c": "FR"
+      },
+      {
+        "i": "14235-The Affordable Art Fair Paris 2010",
+        "c": "FR"
+      },
+      {
+        "i": "14235-Art Elysées 2010",
+        "c": "FR"
+      }
+    ],
+    "2011": [
+      {
+        "i": "14235-Art Elysées 2011",
+        "c": "FR"
+      }
+    ],
+    "2012": [
+      {
+        "i": "14235-ST-ART  2012",
+        "c": "FR"
+      }
+    ],
+    "2013": [
+      {
+        "i": "14235-St-art 2013",
+        "c": "FR"
+      }
+    ]
+  }
+}
