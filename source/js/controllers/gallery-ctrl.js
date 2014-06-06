@@ -31,8 +31,8 @@ define([], function() {
 			$scope.gallery = dataService.data.galleries[$route.current.params.id];
 
 			if (typeof $scope.gallery === 'string') {
-				$location.url('/arts-visuels/galeries');
-				document.location = '/arts-visuels/galeries';
+				$location.url('/galeries');
+				document.location = '/galeries';
 				return;
 			}
 
@@ -176,7 +176,7 @@ define([], function() {
 				'stroke-width': 0
 			}).toFront();
 
-			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
+			raphael.image("/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
 
 			// create continents/countries container
 			var data = {

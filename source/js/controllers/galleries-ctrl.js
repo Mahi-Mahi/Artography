@@ -192,7 +192,7 @@ define([], function() {
 				'stroke-width': 0
 			}).toFront();
 
-			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
+			raphael.image("/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
 
 			// create continents/countries container
 			var data = {
@@ -330,9 +330,9 @@ define([], function() {
 			}
 
 			$scope.showGallery = function(gallery_id) {
-				// $location.path('/arts-visuels/galerie/' + gallery_id);
-				console.log('/arts-visuels/galerie/' + gallery_id);
-				document.location = '/arts-visuels/galerie/' + gallery_id;
+				// $location.path('/galerie/' + gallery_id);
+				console.log('/galerie/' + gallery_id);
+				document.location = '/galerie/' + gallery_id;
 			};
 
 			$scope.updateGalleries = function() {

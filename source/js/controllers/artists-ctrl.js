@@ -247,7 +247,7 @@ define([], function() {
 
 			// raphael.circle(originX, originY, central_radius - central_margin).attr({
 			// fill: '#333',
-			// fill: "url(/arts-visuels/assets/images/Logo-IFdata.png)",
+			// fill: "url(/assets/images/Logo-IFdata.png)",
 			// opacity: 0.2
 			// 'stroke-width': 1
 			// });
@@ -262,7 +262,7 @@ define([], function() {
 				opacity: 1,
 				'stroke-width': 0
 			}).toFront();
-			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
+			raphael.image("/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
 			// var circle_mark_incr = 12;
 			// var circle_mark_angle = 0;
 			// for (circle_mark_angle = 0; circle_mark_angle < 360; circle_mark_angle += circle_mark_incr) {
@@ -422,8 +422,8 @@ define([], function() {
 			}
 
 			$scope.showArtist = function(artist_id) {
-				// $location.path('/arts-visuels/artiste/' + artist_id);
-				document.location = '/arts-visuels/artiste/' + artist_id;
+				// $location.path('/artiste/' + artist_id);
+				document.location = '/artiste/' + artist_id;
 			};
 
 			$scope.updateArtists = function() {
@@ -823,7 +823,7 @@ define([], function() {
 			}
 
 			jQuery('.artists-list').on('click', 'li', function() {
-				document.location = '/arts-visuels/artiste/' + jQuery(this).data('artist-id');
+				document.location = '/artiste/' + jQuery(this).data('artist-id');
 			});
 
 			$scope.showCountryPopup = function(country_id) {

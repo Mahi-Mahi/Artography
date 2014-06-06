@@ -4,22 +4,22 @@
 require.config({
 	urlArgs: "bust=" + Math.random(), //'CACHE_BUST',
 	paths: {
-		angular: '/arts-visuels/vendor/angular/angular',
-		angularRoute: '/arts-visuels/vendor/angular-route/angular-route',
-		angularSanitize: '/arts-visuels/vendor/angular-sanitize/angular-sanitize',
-		angularResource: '/arts-visuels/vendor/angular-resource/angular-resource',
-		angularLocalStorage: '/arts-visuels/vendor/angular-local-storage/angular-local-storage',
-		// angularGettext: '/arts-visuels/vendor/angular-gettext/dist/angular-gettext',
-		// ngProgress: '/arts-visuels/vendor/ngprogress/build/ngProgress',
-		raphael: '/arts-visuels/vendor/raphael/raphael',
-		jquery: '/arts-visuels/vendor/jquery/dist/jquery',
-		'jquery-colorbox': '/arts-visuels/vendor/jquery-colorbox/jquery.colorbox',
+		angular: '/vendor/angular/angular',
+		angularRoute: '/vendor/angular-route/angular-route',
+		angularSanitize: '/vendor/angular-sanitize/angular-sanitize',
+		angularResource: '/vendor/angular-resource/angular-resource',
+		angularLocalStorage: '/vendor/angular-local-storage/angular-local-storage',
+		// angularGettext: '/vendor/angular-gettext/dist/angular-gettext',
+		// ngProgress: '/vendor/ngprogress/build/ngProgress',
+		raphael: '/vendor/raphael/raphael',
+		jquery: '/vendor/jquery/dist/jquery',
+		'jquery-colorbox': '/vendor/jquery-colorbox/jquery.colorbox',
 		// angularAnimate: '/vendor/angular-animate/angular-animate',
 		// angularMocks: '/vendor/angular-mocks/angular-mocks',
-		text: '/arts-visuels/vendor/requirejs-text/text',
-		'jquery-smartresize': '/arts-visuels/vendor/jquery-smartresize/jquery.debouncedresize',
-		'jquery-cookie': '/arts-visuels/vendor/jquery-cookie/jquery.cookie',
-		translations: '/arts-visuels/js/translations'
+		text: '/vendor/requirejs-text/text',
+		'jquery-smartresize': '/vendor/jquery-smartresize/jquery.debouncedresize',
+		'jquery-cookie': '/vendor/jquery-cookie/jquery.cookie',
+		translations: '/js/translations'
 	},
 	shim: {
 		'angular': {

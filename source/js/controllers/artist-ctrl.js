@@ -38,8 +38,8 @@ define([], function() {
 			$scope.artist = dataService.data.artists[$route.current.params.id];
 
 			if (typeof $scope.artist === 'string') {
-				$location.url('/arts-visuels/artistes');
-				document.location = '/arts-visuels/artistes';
+				$location.url('/artistes');
+				document.location = '/artistes';
 				return;
 			}
 
@@ -204,7 +204,7 @@ define([], function() {
 				'stroke-width': 0
 			}).toFront();
 
-			raphael.image("/arts-visuels/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
+			raphael.image("/assets/images/Logo-IFdata.png", originX - logo_width / 2, originY - logo_height / 2, logo_width, logo_height);
 
 			// create continents/countries container
 			var data = {
@@ -478,7 +478,7 @@ define([], function() {
 									}
 									var fill = expo_colors[expo.type];
 									if (expo.showtype == 'Solo') {
-										fill = "url(/arts-visuels/assets/images/stripe-" + (expo.type.replace(/expo-/, '')) + ".png)";
+										fill = "url(/assets/images/stripe-" + (expo.type.replace(/expo-/, '')) + ".png)";
 									}
 									expo.slice = raphael.path().attr({
 										fill: fill,

@@ -132,7 +132,7 @@ define(['angular'], function(angular) {
 
 				if (!data) {
 
-					var url = '/arts-visuels/data/' + type + (idx ? '/' + idx : '') + '.json';
+					var url = '/data/' + type + (idx ? '/' + idx : '') + '.json';
 
 					// get from http
 					var res = $http({
