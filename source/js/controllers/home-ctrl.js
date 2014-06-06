@@ -49,6 +49,7 @@ define([], function() {
 
 				// Galleries
 				period = $rootScope.lang === 'fr' ? "En 2014" : "In 2014";
+				period = $rootScope.lang === 'fr' ? "En 2013" : "In 2013";
 				verb = $rootScope.lang === 'fr' ? "exposent" : "exhibits";
 				switch (dataService.data.today.fairs.galleries.length) {
 					case 0:

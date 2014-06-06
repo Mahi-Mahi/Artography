@@ -643,6 +643,7 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	margin: 10px 40px 0 0;
 	padding:16px;
 	h2 {
+		font-family:'Tungsten-Light', Arial, Verdana, sans-serif;
 		display: block;
 		font-size:1em;
 		font-weight: normal;
@@ -661,10 +662,11 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 	a {
 		color:#fff;
 		font-family:'Tungsten-Light', Arial, Verdana, sans-serif;
+		font-weight: normal;
 	}
 	strong {
 		display: block;
-		font-family:'Tungsten-Medium', Arial, Verdana, sans-serif;
+		font-family:'Tungsten-Light', Arial, Verdana, sans-serif;
 		font-weight: normal;
 	}
 }
