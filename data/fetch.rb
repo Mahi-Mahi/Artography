@@ -149,7 +149,7 @@ af_galleries = fetch('/v0/gallery/list')
 
 pp "#{af_galleries.length} galleries"
 
-af_galleries.shuffle.slice(0, 1).each do |gallery|
+af_galleries.shuffle.slice(0, nb_datas).each do |gallery|
 
 	print '.'
 

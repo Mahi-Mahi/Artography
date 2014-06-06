@@ -1,28 +1,28 @@
 {
   "expos": {
     "countries": [
-      "MX",
-      "FR",
-      "US",
       "DE",
+      "AU",
+      "FR",
       "IT",
-      "AU"
+      "US",
+      "MX"
     ],
     "artists": [
-      "86797",
-      "1845",
-      "1317",
       "235951",
-      "70110",
-      "113440",
+      "3951",
       "2718",
       "945",
+      "1317",
+      "1845",
+      "10223",
+      "113440",
+      "70110",
+      "71975",
+      "53263",
       "62232",
       "1452",
-      "71975",
-      "3951",
-      "53263",
-      "10223"
+      "86797"
     ]
   },
   "fairs": {
@@ -34,51 +34,6 @@
     ]
   },
   "events": [
-    {
-      "i": "86797-17437-2013-10-25",
-      "c": "MX",
-      "n": "X, Diez",
-      "t": "Institution publique",
-      "st": "Group",
-      "ct": "Guadalajara",
-      "o": "Museo de Arte Raúl Anguiano (MURA)",
-      "d": [
-        "2013-10-25",
-        "2014-09-13"
-      ],
-      "a": "86797",
-      "an": "Alejandro Moncada"
-    },
-    {
-      "i": "1845-23875-2013-12-06",
-      "c": "FR",
-      "n": "Revoir Réattu",
-      "t": "Institution publique",
-      "st": "Group",
-      "ct": "Arles",
-      "o": "Musée Réattu",
-      "d": [
-        "2013-12-06",
-        "2014-06-30"
-      ],
-      "a": "1845",
-      "an": "Georges Rousse"
-    },
-    {
-      "i": "1317-5478-2013-12-20",
-      "c": "US",
-      "n": "Butterfly Effect",
-      "t": "Institution publique",
-      "st": "Group",
-      "ct": "Saint Louis, MO",
-      "o": "Kemper Art Museum",
-      "d": [
-        "2013-12-20",
-        "2014-06-15"
-      ],
-      "a": "1317",
-      "an": "Christian Boltanski"
-    },
     {
       "i": "235951-26519-2013-10-10",
       "c": "DE",
@@ -95,34 +50,19 @@
       "an": "Raphaële Bidault-Waddington"
     },
     {
-      "i": "70110-23875-2013-12-06",
-      "c": "FR",
-      "n": "Revoir Réattu",
+      "i": "3951-24720-2013-12-07",
+      "c": "AU",
+      "n": "Hubert Duprat",
       "t": "Institution publique",
-      "st": "Group",
-      "ct": "Arles",
-      "o": "Musée Réattu",
+      "st": "Solo",
+      "ct": "Hobart, TAS",
+      "o": "Mona - Museum of Old and New Art",
       "d": [
-        "2013-12-06",
-        "2014-06-30"
+        "2013-12-07",
+        "2014-07-28"
       ],
-      "a": "70110",
-      "an": "Bernard Dejonghe"
-    },
-    {
-      "i": "113440-22692-2013-09-18",
-      "c": "FR",
-      "n": "Raw Vision",
-      "t": "Autre",
-      "st": "Group",
-      "ct": "Paris",
-      "o": "Halle Saint Pierre",
-      "d": [
-        "2013-09-18",
-        "2014-08-22"
-      ],
-      "a": "113440",
-      "an": "François Monchâtre"
+      "a": "3951",
+      "an": "Hubert Duprat"
     },
     {
       "i": "2718-22692-2013-09-18",
@@ -170,6 +110,111 @@
       "an": "Daniel Buren"
     },
     {
+      "i": "1317-5478-2013-12-20",
+      "c": "US",
+      "n": "Butterfly Effect",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Saint Louis, MO",
+      "o": "Kemper Art Museum",
+      "d": [
+        "2013-12-20",
+        "2014-06-15"
+      ],
+      "a": "1317",
+      "an": "Christian Boltanski"
+    },
+    {
+      "i": "1845-23875-2013-12-06",
+      "c": "FR",
+      "n": "Revoir Réattu",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Arles",
+      "o": "Musée Réattu",
+      "d": [
+        "2013-12-06",
+        "2014-06-30"
+      ],
+      "a": "1845",
+      "an": "Georges Rousse"
+    },
+    {
+      "i": "10223-23875-2013-12-06",
+      "c": "FR",
+      "n": "Revoir Réattu",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Arles",
+      "o": "Musée Réattu",
+      "d": [
+        "2013-12-06",
+        "2014-06-30"
+      ],
+      "a": "10223",
+      "an": "Lucien Clergue"
+    },
+    {
+      "i": "113440-22692-2013-09-18",
+      "c": "FR",
+      "n": "Raw Vision",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Halle Saint Pierre",
+      "d": [
+        "2013-09-18",
+        "2014-08-22"
+      ],
+      "a": "113440",
+      "an": "François Monchâtre"
+    },
+    {
+      "i": "70110-23875-2013-12-06",
+      "c": "FR",
+      "n": "Revoir Réattu",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Arles",
+      "o": "Musée Réattu",
+      "d": [
+        "2013-12-06",
+        "2014-06-30"
+      ],
+      "a": "70110",
+      "an": "Bernard Dejonghe"
+    },
+    {
+      "i": "71975-22692-2013-09-18",
+      "c": "FR",
+      "n": "Raw Vision",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Halle Saint Pierre",
+      "d": [
+        "2013-09-18",
+        "2014-08-22"
+      ],
+      "a": "71975",
+      "an": "André Robillard"
+    },
+    {
+      "i": "53263-23875-2013-12-06",
+      "c": "FR",
+      "n": "Revoir Réattu",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Arles",
+      "o": "Musée Réattu",
+      "d": [
+        "2013-12-06",
+        "2014-06-30"
+      ],
+      "a": "53263",
+      "an": "Christine Crozat"
+    },
+    {
       "i": "62232-22692-2013-09-18",
       "c": "FR",
       "n": "Raw Vision",
@@ -200,64 +245,19 @@
       "an": "Bernar Venet"
     },
     {
-      "i": "71975-22692-2013-09-18",
-      "c": "FR",
-      "n": "Raw Vision",
-      "t": "Autre",
-      "st": "Group",
-      "ct": "Paris",
-      "o": "Halle Saint Pierre",
-      "d": [
-        "2013-09-18",
-        "2014-08-22"
-      ],
-      "a": "71975",
-      "an": "André Robillard"
-    },
-    {
-      "i": "3951-24720-2013-12-07",
-      "c": "AU",
-      "n": "Hubert Duprat",
-      "t": "Institution publique",
-      "st": "Solo",
-      "ct": "Hobart, TAS",
-      "o": "Mona - Museum of Old and New Art",
-      "d": [
-        "2013-12-07",
-        "2014-07-28"
-      ],
-      "a": "3951",
-      "an": "Hubert Duprat"
-    },
-    {
-      "i": "53263-23875-2013-12-06",
-      "c": "FR",
-      "n": "Revoir Réattu",
+      "i": "86797-17437-2013-10-25",
+      "c": "MX",
+      "n": "X, Diez",
       "t": "Institution publique",
       "st": "Group",
-      "ct": "Arles",
-      "o": "Musée Réattu",
+      "ct": "Guadalajara",
+      "o": "Museo de Arte Raúl Anguiano (MURA)",
       "d": [
-        "2013-12-06",
-        "2014-06-30"
+        "2013-10-25",
+        "2014-09-13"
       ],
-      "a": "53263",
-      "an": "Christine Crozat"
-    },
-    {
-      "i": "10223-23875-2013-12-06",
-      "c": "FR",
-      "n": "Revoir Réattu",
-      "t": "Institution publique",
-      "st": "Group",
-      "ct": "Arles",
-      "o": "Musée Réattu",
-      "d": [
-        "2013-12-06",
-        "2014-06-30"
-      ],
-      "a": "10223",
-      "an": "Lucien Clergue"
+      "a": "86797",
+      "an": "Alejandro Moncada"
     }
   ]
 }
