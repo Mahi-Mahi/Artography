@@ -839,6 +839,7 @@ define([], function() {
 						verb = ' expose' + (country.nb_artists > 1 ? 'nt' : '');
 						break;
 					case 2014:
+					case '2014':
 						period = "En " + $scope.filters.period;
 						verb = ' expose' + (country.nb_artists > 1 ? 'nt' : '');
 						break;

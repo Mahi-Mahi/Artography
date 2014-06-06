@@ -204,7 +204,7 @@ af_galleries.shuffle.slice(0, nb_datas).each do |gallery|
 				else
 					gallery[:fairs][af_fair['year']] << fair_detail unless gallery[:fairs][af_fair['year']].include?(fair_detail)
 
-					if af_fair['year'] == Date.today.year
+					if af_fair['year'] == 2013 #Date.today.year
 						today[:fairs][:countries] << fair_detail[:c] unless today[:fairs][:countries].include?(fair_detail[:c])
 						today[:fairs][:galleries] << fair[:i] unless today[:fairs][:galleries].include?(fair[:i])
 					end
