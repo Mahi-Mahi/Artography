@@ -73,7 +73,6 @@ define([], function() {
 				}
 
 				var text = '<strong>' + period + '</strong> <br /><strong>' + galleries + '  ' + verb + '<br />' + (dataService.data.today.fairs.galleries.length ? ' ' + ($rootScope.lang === 'fr' ? 'dans' : 'in') + ' <strong>' + countries + '.</strong>' : '') + '';
-
 				jQuery('.home-galerie h2').html(text);
 
 				// Actus
