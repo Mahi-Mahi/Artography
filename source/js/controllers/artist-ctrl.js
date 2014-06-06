@@ -307,70 +307,72 @@ define([], function() {
 				});
 
 				angular.forEach(expos, function(expo) {
-					if (data.cc[expo.c]) {
-						var country = data.continents[data.cc[expo.c]].countries[expo.c];
-						var expos = country.expos;
-						if (!expos[expo.i]) {
-							if (expo.c == 'FR') {
-								expos[expo.i] = {
-									id: expo.i,
-									iteration: 0
-								};
+					if (expo.n || expo.c == 'FR') {
+
+						if (data.cc[expo.c]) {
+							var country = data.continents[data.cc[expo.c]].countries[expo.c];
+							var expos = country.expos;
+							if (!expos[expo.i]) {
+								if (expo.c == 'FR') {
+									expos[expo.i] = {
+										id: expo.i,
+										iteration: 0
+									};
+								} else {
+									expos[expo.i] = {
+										slice: null,
+										iteration: 0,
+										showtype: expo.st ? expo.st.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
+										type: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
+									};
+									all_expos[expo.i] = {
+										id: expo.i,
+										showtype: expo.st ? expo.st.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
+										type: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
+										period: expo.d,
+										organizer: expo.o,
+										name: expo.n ? expo.n.replace(/\\/g, '') : '',
+										city: expo.ct,
+										country: country,
+										enabled: 'enabled'
+									};
+								}
+
+							}
+							if (expos[expo.i].iteration < iteration) {
+								if (!country.nb_expos) {
+									country.nb_expos = 1;
+								} else {
+									country.nb_expos++;
+								}
+								max_expos = Math.max(max_expos, country.nb_expos);
+							}
+							expos[expo.i].iteration = iteration;
+							if (expo.c !== 'FR' && $scope.countries.indexOf(expo.c) == -1) {
+								$scope.countries.push(expo.c);
+							}
+							if (!$scope.organizers[expo.t]) {
+								if (expo.t) {
+									$scope.organizers[expo.t] = {
+										name: expo.t,
+										counter: 1,
+										slug: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : ''
+									};
+								}
 							} else {
-								expos[expo.i] = {
-									slice: null,
-									iteration: 0,
-									showtype: expo.st ? expo.st.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
-									type: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
-								};
-								all_expos[expo.i] = {
-									id: expo.i,
-									showtype: expo.st ? expo.st.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
-									type: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : '',
-									period: expo.d,
-									organizer: expo.o,
-									name: expo.n ? expo.n.replace(/\\/g, '') : '',
-									city: expo.ct,
-									country: country,
-									enabled: 'enabled'
-								};
+								$scope.organizers[expo.t].counter++;
+							}
+							if ($scope.expos.indexOf(expo.i) == -1) {
+								$scope.expos.push(expo.i);
+							}
+							if (expo_types.indexOf(expo.st) == -1) {
+								expo_types.push(expo.st);
 							}
 
+							country.has_expos = true;
+							country.expos = expos;
+							data.continents[data.cc[expo.c]].countries[expo.c] = country;
 						}
-
-						if (expos[expo.i].iteration < iteration) {
-							if (!country.nb_expos) {
-								country.nb_expos = 1;
-							} else {
-								country.nb_expos++;
-							}
-							max_expos = Math.max(max_expos, country.nb_expos);
-						}
-						expos[expo.i].iteration = iteration;
-						if (expo.c !== 'FR' && $scope.countries.indexOf(expo.c) == -1) {
-							$scope.countries.push(expo.c);
-						}
-						if (!$scope.organizers[expo.t]) {
-							if (expo.t) {
-								$scope.organizers[expo.t] = {
-									name: expo.t,
-									counter: 1,
-									slug: expo.t ? expo.t.replace(/[^\w]+/g, '-').replace(/-$/, '') : ''
-								};
-							}
-						} else {
-							$scope.organizers[expo.t].counter++;
-						}
-						if ($scope.expos.indexOf(expo.i) == -1) {
-							$scope.expos.push(expo.i);
-						}
-						if (expo_types.indexOf(expo.st) == -1) {
-							expo_types.push(expo.st);
-						}
-
-						country.has_expos = true;
-						country.expos = expos;
-						data.continents[data.cc[expo.c]].countries[expo.c] = country;
 					} else {
 						console.log("country continent not found : " + expo.c);
 					}
@@ -384,11 +386,14 @@ define([], function() {
 
 				nb_countries = $scope.countries.length;
 
-				updateStatus($scope.expos.length, nb_countries);
+				console.log($scope.expos.length, data.continents['Europe'].countries['FR'].nb_expos);
+
+				updateStatus($scope.expos.length - data.continents['Europe'].countries['FR'].nb_expos, nb_countries);
 
 			}
 
 			function updateStatus(nb_expos, nb_countries, in_country) {
+
 				in_country = null;
 				var verb, period, expositions, countries;
 				switch ($scope.filters.period) {
