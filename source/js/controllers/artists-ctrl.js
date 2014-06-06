@@ -844,7 +844,7 @@ define([], function() {
 						break;
 					default:
 						period = "En " + $scope.filters.period;
-						verb = " ont exposé";
+						verb = country.nb_artists > 1 ? " ont exposé " : " a exposé ";
 						break;
 				}
 
