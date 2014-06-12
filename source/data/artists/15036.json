@@ -1,7 +1,7 @@
 {
   "id": "15036",
   "mergedIDs": "418922",
-  "timestamp": "2014-05-24 06:20:53",
+  "timestamp": "2014-05-31 06:26:24",
   "name": "Jean Luc Godard",
   "surname": "Godard",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": "Film Director",
-  "r00": "967",
+  "r00": "961",
   "r01": "881",
   "r02": "848",
   "r03": "763",
-  "r04": "975",
+  "r04": "976",
   "r05": "1096",
-  "r06": "942",
+  "r06": "941",
   "r07": "887",
   "r08": "843",
   "awards": null,
@@ -31,9 +31,9 @@
   "all-shows-total": "96",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "30",
-  "2005-countries-total": "Germany (7), Spain (5), France (4), Austria (3), Greece (3), USA (3), Belgium (2), Brazil (2), Italy (2), Switzerland (2), United Kingdom (2), Israel (1), Japan (1), Lebanon (1), Mexico (1), Russia (1), Singapore (1), South Korea (1)",
-  "2005-shows-with": "Jean Luc Godard (41), Harun Farocki (10), Samuel Beckett (9), Dan Graham (9), Anne-Marie Miéville (9), Joseph Beuys (8), Andy Warhol (8), Valie  Export (7), Robert Filliou (7), Bruce Nauman (7), Martha Rosler (7), Bill Viola (7), Dara Birnbaum (6), Guy Debord (6), Walid Raad (6), Tacita Dean (5), Joan Jonas (5), David Lamelas (5), Mark Leckey (5), Paul McCarthy (5), Nam June Paik (5), Pier Paolo Pasolini (5), Man Ray (5), Allan Sekula (5), Vito Acconci (4), Ant Farm (4), John Baldessari (4), Christian Boltanski (4), Chris Burden (4), John Cage (4), Peter Campus (4), Jimmie Durham (4), Hans-Peter Feldmann (4), General Idea (4), Douglas Gordon (4), Johan Grimonprez (4), Raymond Hains (4), Gary Hill (4), Mike Kelley (4), Thierry Kuntzel (4), Chris Marker (4), Aernout Mik (4), Antoni Muntadas (4), Tony Oursler (4), Robert Rauschenberg (4), Nomeda & Gediminas Urbonas (4), Peter Weibel (4), Vyacheslav Akhunov (3), Francis Alys (3), Sonia Andrade (3), Judith Barry (3), Alighiero Boëtti (3), George Brecht (3), Andr",
+  "2005-shows-museums": "31",
+  "2005-countries-total": "Germany (7), Spain (5), France (4), Austria (3), Greece (3), USA (3), Belgium (2), Brazil (2), Italy (2), South Korea (2), Switzerland (2), United Kingdom (2), Israel (1), Japan (1), Lebanon (1), Mexico (1), Russia (1), Singapore (1)",
+  "2005-shows-with": "Jean Luc Godard (42), Harun Farocki (10), Samuel Beckett (9), Dan Graham (9), Anne-Marie Miéville (9), Joseph Beuys (8), Andy Warhol (8), Valie  Export (7), Robert Filliou (7), Bruce Nauman (7), Martha Rosler (7), Bill Viola (7), Dara Birnbaum (6), Guy Debord (6), Walid Raad (6), Tacita Dean (5), Joan Jonas (5), David Lamelas (5), Mark Leckey (5), Paul McCarthy (5), Nam June Paik (5), Pier Paolo Pasolini (5), Man Ray (5), Allan Sekula (5), Vito Acconci (4), Ant Farm (4), John Baldessari (4), Christian Boltanski (4), Chris Burden (4), John Cage (4), Peter Campus (4), Jimmie Durham (4), Hans-Peter Feldmann (4), General Idea (4), Douglas Gordon (4), Johan Grimonprez (4), Raymond Hains (4), Gary Hill (4), Mike Kelley (4), Thierry Kuntzel (4), Chris Marker (4), Aernout Mik (4), Antoni Muntadas (4), Tony Oursler (4), Robert Rauschenberg (4), Nomeda & Gediminas Urbonas (4), Peter Weibel (4), Vyacheslav Akhunov (3), Francis Alys (3), Sonia Andrade (3), Judith Barry (3), Alighiero Boëtti (3), George Brecht (3), Andr",
   "representing-galleries": null,
   "collecting-museums": "Vancouver Art Gallery (Hornby Street 750, V6Z 2H7 Vancouver, BC, Canada); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); National Museum of Contemporary Art - EMST (Vas. Georgiou &#914;’ 17-19 and Rigillis street, 10675 Athens, Greece); Museu d´Art Contemporani de Barcelona - MACBA (Plaça dels Àngels 1, 08001 Barcelona, Spain); MoMA - Museum of Modern Art (West 53 Street 11, 10019-5497 New York City, NY, USA)",
   "first_name": "Jean",
@@ -938,19 +938,6 @@
         ]
       },
       {
-        "i": "15036-2452-2011-10-01",
-        "c": "US",
-        "n": "The Unseen Eye: Photographs from the W.M. Hunt Collection",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Rochester, NY",
-        "o": "George Eastman House International Museum of Photography and Film",
-        "d": [
-          "2011-10-01",
-          "2012-02-19"
-        ]
-      },
-      {
         "i": "15036-2537-2011-10-01",
         "c": "DE",
         "n": "Atlas. How to carry the world on one's back?",
@@ -961,6 +948,19 @@
         "d": [
           "2011-10-01",
           "2011-11-27"
+        ]
+      },
+      {
+        "i": "15036-2452-2011-10-01",
+        "c": "US",
+        "n": "The Unseen Eye: Photographs from the W.M. Hunt Collection",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rochester, NY",
+        "o": "George Eastman House International Museum of Photography and Film",
+        "d": [
+          "2011-10-01",
+          "2012-02-19"
         ]
       },
       {
@@ -1143,6 +1143,19 @@
         "d": [
           "2013-10-17",
           "2014-01-04"
+        ]
+      },
+      {
+        "i": "15036-30530-2014-04-16",
+        "c": "KR",
+        "n": "The Art Of Non Fiction_ Dmz Docs Special Screenings",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Seoul",
+        "o": "National Museum Of Contemporary Art Korea - Seoul",
+        "d": [
+          "2014-04-16",
+          "2014-06-08"
         ]
       }
     ]

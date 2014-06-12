@@ -1,7 +1,7 @@
 {
   "id": "191616",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:22:06",
+  "timestamp": "2014-05-31 07:27:29",
   "name": "Guillaume Leingre",
   "surname": "Leingre",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "20243",
-  "r01": "37980",
-  "r02": "36207",
-  "r03": "31863",
-  "r04": "28201",
-  "r05": "73137",
-  "r06": "69381",
-  "r07": "73058",
-  "r08": "64321",
+  "r00": "20364",
+  "r01": "38045",
+  "r02": "36243",
+  "r03": "31893",
+  "r04": "28216",
+  "r05": "73234",
+  "r06": "69491",
+  "r07": "73167",
+  "r08": "64358",
   "awards": "Villa Kujoyama, Kyoto, Japan\r\nBlack and white prize, Ilford,Black and white prize, Ilford",
   "website": null,
   "all-shows-first": "2004",
@@ -130,6 +130,16 @@
           "2008-05-10",
           "2008-07-12"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "191616-2414-2014-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "191616-2414-2014-02-28",
+        "c": "FR"
       }
     ]
   }

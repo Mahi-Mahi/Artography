@@ -1,7 +1,7 @@
 {
   "id": "15817",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:12",
+  "timestamp": "2014-05-31 06:26:43",
   "name": "Courtney Smith",
   "surname": "Smith",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Sculpture",
-  "r00": "9284",
-  "r01": "7988",
-  "r02": "6840",
-  "r03": "5572",
-  "r04": "5056",
-  "r05": "4077",
-  "r06": "3704",
-  "r07": "3637",
-  "r08": "3306",
+  "r00": "9117",
+  "r01": "7839",
+  "r02": "6831",
+  "r03": "5558",
+  "r04": "5051",
+  "r05": "4072",
+  "r06": "3698",
+  "r07": "3638",
+  "r08": "3302",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
   "all-shows-total": "33",
-  "2005-shows-biennials": "8",
-  "2005-shows-galleries": "8",
+  "2005-shows-biennials": "9",
+  "2005-shows-galleries": "9",
   "2005-shows-museums": "7",
-  "2005-countries-total": "USA (9), Brazil (5), Portugal (2), Germany (1), United Kingdom (1)",
-  "2005-shows-with": "Courtney Smith (17), Ivan Navarro (8), Dario Escobar (3), Fabiano Gonper (3), Patrick Hamilton (3), Jac Leirner (3), Jorge Menna Barreto (3), Yoshua Okon (3), Ai Weiwei (2), Janine Antoni (2), Miguel Branco (2), Erica Böhm (2), Pedro Cabrita Reis (2), Fernando Calhau (2), Hugo Canoilas (2), Henri Cartier-Bresson (2), Rui Chafes (2), Toby Christian (2), Willie Cole (2), Jimmie Durham (2), Felipe Ehrenberg (2), Peter Fink (2), Godfrey Frankel (2), Flavia Junqueira (2), Querubim Lapa (2), Malangatana Ngwenya (2), Paulo Nozolino (2), Tod Papageorge (2), Lygia Pape (2), Enrique Radigales (2), Paula Rego (2), Pablo Reinoso (2), Caio Reisewitz (2), Mauro Restiffe (2), Laurel Roth (2), Rui Sanches (2), Hein Semke (2), Shikani (2), Mariana Sissia (2), Valeska Soares (2), Ângelo de Sousa (2), Pedro Sousa Vieira (2), Edgard de Souza (2), Baltazar Torres (2), Tunga (2), Adriana Varejão (2), Júlia Ventura (2), Jorge Vieira (2), Ana Vieira (2), Paul Villinski (2)",
+  "2005-countries-total": "USA (10), Brazil (5), Portugal (2), Germany (1), United Kingdom (1)",
+  "2005-shows-with": "Courtney Smith (18), Ivan Navarro (9), Dario Escobar (3), Fabiano Gonper (3), Patrick Hamilton (3), Jac Leirner (3), Jorge Menna Barreto (3), Yoshua Okon (3), Ai Weiwei (2), Janine Antoni (2), Miguel Branco (2), Erica Böhm (2), Pedro Cabrita Reis (2), Fernando Calhau (2), Hugo Canoilas (2), Henri Cartier-Bresson (2), Rui Chafes (2), Toby Christian (2), Willie Cole (2), Jimmie Durham (2), Felipe Ehrenberg (2), Peter Fink (2), Godfrey Frankel (2), Nicolás Guagnini (2), Flavia Junqueira (2), Querubim Lapa (2), Malangatana Ngwenya (2), Paulo Nozolino (2), Tod Papageorge (2), Lygia Pape (2), Enrique Radigales (2), Paula Rego (2), Pablo Reinoso (2), Caio Reisewitz (2), Mauro Restiffe (2), Laurel Roth (2), Rui Sanches (2), Hein Semke (2), Shikani (2), Mariana Sissia (2), Valeska Soares (2), Ângelo de Sousa (2), Pedro Sousa Vieira (2), Edgard de Souza (2), Baltazar Torres (2), Tunga (2), Adriana Varejão (2), Júlia Ventura (2), Jorge Vieira (2), Ana Vieira (2), Paul Villinski (2)",
   "representing-galleries": "Baró Galeria (Barra Funda 216, 01152-000 São Paulo, Brazil); G Fine Art (1515 14th St NW Suite 200, 20005 Washington, DC, USA)",
   "collecting-museums": "mam - Museu de Arte Moderna de São Paulo (Parque do Ibirapuera, portão 3 - s/nº, 04094-000 São Paulo, Brazil); The Margulies Collection (591 NW 27th Street, 33127 Miami, FL, USA)",
   "first_name": "Courtney",
@@ -447,6 +447,19 @@
         "d": [
           "2013-03-19",
           "2013-09-15"
+        ]
+      },
+      {
+        "i": "15817-3054-2013-06-27",
+        "c": "US",
+        "n": "Junkies' Promises",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Paul Kasmin Gallery",
+        "d": [
+          "2013-06-27",
+          "2013-08-16"
         ]
       }
     ]

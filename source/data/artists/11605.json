@@ -1,7 +1,7 @@
 {
   "id": "11605",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:19:34",
+  "timestamp": "2014-05-31 06:25:03",
   "name": "Philippe Hiquily",
   "surname": "Hiquily",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "33689",
-  "r01": "51802",
-  "r02": "45359",
-  "r03": "50199",
-  "r04": "63377",
-  "r05": "54231",
-  "r06": "46371",
-  "r07": "38902",
-  "r08": "32293",
+  "r00": "33861",
+  "r01": "51858",
+  "r02": "45354",
+  "r03": "50214",
+  "r04": "63430",
+  "r05": "54277",
+  "r06": "46399",
+  "r07": "38924",
+  "r08": "32301",
   "awards": null,
   "website": null,
   "all-shows-first": "1963",
@@ -77,6 +77,46 @@
       {
         "i": "11605-26673-2012-04-06",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "11605-26843-2014-04-24",
+        "c": "BE",
+        "n": "Resonance(s)",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Maison Particulière Art Center",
+        "d": [
+          "2014-04-24",
+          "2014-06-29"
+        ],
+        "a": "11605",
+        "an": "Philippe Hiquily"
+      }
+    ],
+    "today": [
+      {
+        "i": "11605",
+        "c": "BE",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "11605-26843-2014-04-24",
+        "c": "BE",
+        "n": "Resonance(s)",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Maison Particulière Art Center",
+        "d": [
+          "2014-04-24",
+          "2014-06-29"
+        ],
+        "a": "11605",
+        "an": "Philippe Hiquily"
       }
     ],
     "2005": [

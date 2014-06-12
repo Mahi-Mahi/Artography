@@ -1,7 +1,7 @@
 {
   "id": "14737",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:46",
+  "timestamp": "2014-05-31 06:26:17",
   "name": "Patrick Neu",
   "surname": "Neu",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "7934",
-  "r01": "8870",
-  "r02": "10283",
-  "r03": "8949",
-  "r04": "8724",
-  "r05": "11820",
+  "r00": "7971",
+  "r01": "8890",
+  "r02": "10298",
+  "r03": "8957",
+  "r04": "8731",
+  "r05": "11819",
   "r06": "21191",
-  "r07": "28629",
-  "r08": "48963",
+  "r07": "28635",
+  "r08": "48965",
   "awards": null,
   "website": null,
   "all-shows-first": "1990",
@@ -218,6 +218,80 @@
       {
         "i": "14737-20775-2013-10-20",
         "c": "FR"
+      },
+      {
+        "i": "14737-26843-2014-04-24",
+        "c": "BE",
+        "n": "Resonance(s)",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Maison Particulière Art Center",
+        "d": [
+          "2014-04-24",
+          "2014-06-29"
+        ],
+        "a": "14737",
+        "an": "Patrick Neu"
+      },
+      {
+        "i": "14737-30866-2014-05-01",
+        "c": "DE",
+        "n": "Underground",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Stuttgart",
+        "o": "Kontur. Kunstverein Stuttgart e.V.",
+        "d": [
+          "2014-05-01",
+          "2014-10-03"
+        ],
+        "a": "14737",
+        "an": "Patrick Neu"
+      }
+    ],
+    "today": [
+      {
+        "i": "14737",
+        "c": "BE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "14737-26843-2014-04-24",
+        "c": "BE",
+        "n": "Resonance(s)",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Maison Particulière Art Center",
+        "d": [
+          "2014-04-24",
+          "2014-06-29"
+        ],
+        "a": "14737",
+        "an": "Patrick Neu"
+      },
+      {
+        "i": "14737",
+        "c": "DE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "14737-30866-2014-05-01",
+        "c": "DE",
+        "n": "Underground",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Stuttgart",
+        "o": "Kontur. Kunstverein Stuttgart e.V.",
+        "d": [
+          "2014-05-01",
+          "2014-10-03"
+        ],
+        "a": "14737",
+        "an": "Patrick Neu"
       }
     ]
   }

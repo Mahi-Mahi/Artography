@@ -1,7 +1,7 @@
 {
   "id": "17698",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:58",
+  "timestamp": "2014-05-31 06:27:29",
   "name": "Daniel Firman",
   "surname": "Firman",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation, Objects, Light Sculpture",
-  "r00": "2588",
-  "r01": "2591",
-  "r02": "2653",
-  "r03": "2772",
-  "r04": "2713",
-  "r05": "2147",
-  "r06": "1793",
-  "r07": "2210",
-  "r08": "2251",
+  "r00": "2607",
+  "r01": "2603",
+  "r02": "2654",
+  "r03": "2774",
+  "r04": "2715",
+  "r05": "2148",
+  "r06": "1794",
+  "r07": "2211",
+  "r08": "2252",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
-  "all-shows-total": "67",
+  "all-shows-total": "68",
   "2005-shows-biennials": "11",
   "2005-shows-galleries": "11",
   "2005-shows-museums": "21",
@@ -482,6 +482,72 @@
       },
       {
         "i": "17698-2528-2013-05-25",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "17698-11587-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "17698-11587-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "17698-29147-2014-05-21",
+        "c": "ES",
+        "n": "V Bienal De Arte Contemporáneo De La Fundación Once",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Madrid",
+        "o": "CentroCentro Cibeles ",
+        "d": [
+          "2014-05-21",
+          "2014-09-14"
+        ],
+        "a": "17698",
+        "an": "Daniel Firman"
+      },
+      {
+        "i": "17698-1961-2014-05-27",
+        "c": "FR"
+      },
+      {
+        "i": "17698-1961-2014-05-27",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "17698",
+        "c": "ES",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "17698-29147-2014-05-21",
+        "c": "ES",
+        "n": "V Bienal De Arte Contemporáneo De La Fundación Once",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Madrid",
+        "o": "CentroCentro Cibeles ",
+        "d": [
+          "2014-05-21",
+          "2014-09-14"
+        ],
+        "a": "17698",
+        "an": "Daniel Firman"
+      },
+      {
+        "i": "17698",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "17698-1961-2014-05-27",
         "c": "FR"
       }
     ]

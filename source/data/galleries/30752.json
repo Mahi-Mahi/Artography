@@ -12,9 +12,17 @@
   "email": "contact@soberinggalerie.com",
   "www": "soberinggalerie.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%2087 %2C%20Rue de Turenne %2C%20France",
-  "fairs-total": "0",
-  "fairs-abroad": "0",
+  "fairs-total": "1",
+  "fairs-abroad": "1",
   "fairs-in-FR": "0",
   "fairs": {
+    "2014": [
+      {
+        "i": "30752-Art-Brussel-2014",
+        "c": "BE",
+        "n": "Art Brussel 2014",
+        "ct": "Brussels"
+      }
+    ]
   }
 }

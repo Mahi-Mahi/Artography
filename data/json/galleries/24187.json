@@ -12,13 +12,13 @@
   "email": "laetitia.crahay-tyl@zeartgalerie.com",
   "www": "www.zeartgalerie.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2013 rue du dragon %2C%20France",
-  "fairs-total": "10",
+  "fairs-total": "11",
   "fairs-abroad": "4",
-  "fairs-in-FR": "6",
+  "fairs-in-FR": "7",
   "fairs": {
     "2010": [
       {
-        "i": "24187-Affordable Art Fair Bruxelles 2010",
+        "i": "24187-Affordable-Art-Fair-Bruxelles-2010",
         "c": "BE",
         "n": "Affordable Art Fair Bruxelles 2010",
         "ct": "Brussels"
@@ -26,11 +26,11 @@
     ],
     "2011": [
       {
-        "i": "24187-Lille Art Fair 2011",
+        "i": "24187-Lille-Art-Fair-2011",
         "c": "FR"
       },
       {
-        "i": "24187-Lineart 2011",
+        "i": "24187-Lineart-2011",
         "c": "BE",
         "n": "Lineart 2011",
         "ct": "Ghent"
@@ -38,21 +38,21 @@
     ],
     "2012": [
       {
-        "i": "24187-Affordable Art Fair Bruxelles 2012",
+        "i": "24187-Affordable-Art-Fair-Bruxelles-2012",
         "c": "BE",
         "n": "Affordable Art Fair Bruxelles 2012",
         "ct": "Brussels"
       },
       {
-        "i": "24187-Lille Art Fair 2012",
+        "i": "24187-Lille-Art-Fair-2012",
         "c": "FR"
       },
       {
-        "i": "24187-ST-ART  2012",
+        "i": "24187-ST-ART--2012",
         "c": "FR"
       },
       {
-        "i": "24187-Art Gent 2012",
+        "i": "24187-Art-Gent-2012",
         "c": "BE",
         "n": "Art Gent 2012",
         "ct": "Ghent"
@@ -60,15 +60,21 @@
     ],
     "2013": [
       {
-        "i": "24187-New Art Fair Paris",
+        "i": "24187-New-Art-Fair-Paris",
         "c": "FR"
       },
       {
-        "i": "24187-Lille Art Fair 2013",
+        "i": "24187-Lille-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "24187-St-art 2013",
+        "i": "24187-St-art-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "24187-Art-Up!-2014",
         "c": "FR"
       }
     ]

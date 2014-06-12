@@ -1,7 +1,7 @@
 {
   "id": "140880",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:04:41",
+  "timestamp": "2014-05-31 07:10:08",
   "name": "Alexandra Sà",
   "surname": "Sà",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "76930",
-  "r01": "79343",
-  "r02": "75761",
-  "r03": "82666",
-  "r04": "76841",
-  "r05": "75444",
-  "r06": "72997",
-  "r07": "81330",
+  "r00": "76092",
+  "r01": "78403",
+  "r02": "75872",
+  "r03": "82756",
+  "r04": "76923",
+  "r05": "75527",
+  "r06": "73105",
+  "r07": "81460",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "6",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "7",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (5), Brazil (1)",
-  "2005-shows-with": "Alexandra Sà (5), Katinka Bock (2)",
+  "2005-countries-total": "France (6), Brazil (1)",
+  "2005-shows-with": "Alexandra Sà (6), Katinka Bock (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Alexandra",
@@ -103,6 +103,16 @@
       },
       {
         "i": "140880-27182-2013-05-03",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "140880-27613-2014-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "140880-27613-2014-03-23",
         "c": "FR"
       }
     ],

@@ -12,15 +12,23 @@
   "email": null,
   "www": "www.coupdemaindor.eu",
   "map": "http://maps.google.com/maps?q=Bauzely%2C%20 %2C%20 %2C%20 %2C%20France",
-  "fairs-total": "1",
-  "fairs-abroad": "1",
+  "fairs-total": "2",
+  "fairs-abroad": "2",
   "fairs-in-FR": "0",
   "fairs": {
     "2012": [
       {
-        "i": "26567-ART Innsbruck 2012",
+        "i": "26567-ART-Innsbruck-2012",
         "c": "AT",
         "n": "ART Innsbruck 2012",
+        "ct": "Innsbruck"
+      }
+    ],
+    "2014": [
+      {
+        "i": "26567-Art-Innsbruck",
+        "c": "AT",
+        "n": "Art Innsbruck",
         "ct": "Innsbruck"
       }
     ]

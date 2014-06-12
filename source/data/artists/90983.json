@@ -1,7 +1,7 @@
 {
   "id": "90983",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:48:05",
+  "timestamp": "2014-05-31 06:53:28",
   "name": "Sammy Engramer",
   "surname": "Engramer",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "9616",
-  "r01": "9944",
-  "r02": "9021",
-  "r03": "7523",
-  "r04": "7853",
-  "r05": "8745",
-  "r06": "8279",
-  "r07": "8834",
+  "r00": "9659",
+  "r01": "9956",
+  "r02": "9036",
+  "r03": "7528",
+  "r04": "7854",
+  "r05": "8749",
+  "r06": "8282",
+  "r07": "8835",
   "r08": "10226",
   "awards": null,
   "website": null,
@@ -335,6 +335,46 @@
       {
         "i": "90983-29574-2013-09-06",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "90983-22613-2014-03-01",
+        "c": "BE",
+        "n": "A book between two stools",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Villa Empain - Boghossian Foundation",
+        "d": [
+          "2014-03-01",
+          "2014-09-07"
+        ],
+        "a": "90983",
+        "an": "Sammy Engramer"
+      }
+    ],
+    "today": [
+      {
+        "i": "90983",
+        "c": "BE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "90983-22613-2014-03-01",
+        "c": "BE",
+        "n": "A book between two stools",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Villa Empain - Boghossian Foundation",
+        "d": [
+          "2014-03-01",
+          "2014-09-07"
+        ],
+        "a": "90983",
+        "an": "Sammy Engramer"
       }
     ],
     "2005": [

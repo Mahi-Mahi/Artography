@@ -1,7 +1,7 @@
 {
   "id": "113421",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:55:32",
+  "timestamp": "2014-05-31 07:00:55",
   "name": "Naji Kamouche",
   "surname": "Kamouche",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "32274",
-  "r01": "38378",
-  "r02": "40060",
-  "r03": "39445",
-  "r04": "37629",
-  "r05": "35660",
-  "r06": "32983",
-  "r07": "32730",
-  "r08": "25979",
+  "r00": "32456",
+  "r01": "38441",
+  "r02": "40111",
+  "r03": "39489",
+  "r04": "37654",
+  "r05": "35703",
+  "r06": "33011",
+  "r07": "32747",
+  "r08": "25991",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
@@ -38,7 +38,7 @@
   "collecting-museums": "Musée des Beaux-Arts Mulhouse (4 place Guillaume Tell, 68100 Mulhouse, France)",
   "first_name": "Naji",
   "last_name": "Kamouche",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1968-01-01",
   "age": 46,
   "age_range": "41-60",
@@ -159,6 +159,14 @@
     "2014": [
       {
         "i": "113421-20775-2013-10-20",
+        "c": "FR"
+      },
+      {
+        "i": "113421-8554-2014-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "113421-8554-2014-01-17",
         "c": "FR"
       }
     ],

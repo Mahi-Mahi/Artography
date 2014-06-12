@@ -1,7 +1,7 @@
 {
   "id": "106791",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:53:14",
+  "timestamp": "2014-05-31 06:58:37",
   "name": "Nicolas Buffe",
   "surname": "Buffe",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "10968",
-  "r01": "20696",
-  "r02": "17306",
-  "r03": "15464",
-  "r04": "13110",
-  "r05": "12671",
-  "r06": "12795",
+  "r00": "11032",
+  "r01": "20734",
+  "r02": "17323",
+  "r03": "15468",
+  "r04": "13111",
+  "r05": "12670",
+  "r06": "12806",
   "r07": "10518",
   "r08": null,
   "awards": null,
@@ -148,6 +148,46 @@
       {
         "i": "106791-7713-2012-03-22",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "106791-2460-2014-04-19",
+        "c": "JP",
+        "n": "Nicolas Buffe - The Dream of Polifilo",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Tokyo",
+        "o": "Hara Museum of Contemporary Art",
+        "d": [
+          "2014-04-19",
+          "2014-06-29"
+        ],
+        "a": "106791",
+        "an": "Nicolas Buffe"
+      }
+    ],
+    "today": [
+      {
+        "i": "106791",
+        "c": "JP",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "106791-2460-2014-04-19",
+        "c": "JP",
+        "n": "Nicolas Buffe - The Dream of Polifilo",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Tokyo",
+        "o": "Hara Museum of Contemporary Art",
+        "d": [
+          "2014-04-19",
+          "2014-06-29"
+        ],
+        "a": "106791",
+        "an": "Nicolas Buffe"
       }
     ]
   }

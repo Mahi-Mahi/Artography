@@ -1,7 +1,7 @@
 {
   "id": "325876",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 08:07:49",
+  "timestamp": "2014-05-31 08:13:03",
   "name": "Joséphine Kaeppelin",
   "surname": "Kaeppelin",
   "nationality": "FR",
@@ -16,10 +16,10 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "23853",
-  "r01": "28704",
-  "r02": "31880",
-  "r03": "76013",
+  "r00": "23967",
+  "r01": "28759",
+  "r02": "31915",
+  "r03": "76095",
   "r04": null,
   "r05": null,
   "r06": null,
@@ -114,6 +114,21 @@
         "d": [
           "2013-10-10",
           "2013-11-02"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "325876-12877-2014-03-19",
+        "c": "TR",
+        "n": "This Page Intentionally Left Blank",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Istanbul",
+        "o": "Akbank Art Center",
+        "d": [
+          "2014-03-19",
+          "2014-05-17"
         ]
       }
     ]

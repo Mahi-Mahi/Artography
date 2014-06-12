@@ -1,7 +1,7 @@
 {
   "id": "2976",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:16:01",
+  "timestamp": "2014-05-31 06:21:33",
   "name": "Bernard Frize",
   "surname": "Frize",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "570",
+  "r00": "573",
   "r01": "521",
-  "r02": "479",
+  "r02": "480",
   "r03": "419",
   "r04": "424",
   "r05": "390",
-  "r06": "338",
+  "r06": "339",
   "r07": "281",
   "r08": "235",
   "awards": null,
@@ -1806,6 +1806,33 @@
         "d": [
           "2013-02-01",
           "2013-03-09"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "2976-30759-2014-01-13",
+        "c": "CN",
+        "n": "Walk The Line",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Hong Kong, SAR",
+        "o": "Simon Lee Gallery - Hong Kong",
+        "d": [
+          "2014-01-13",
+          "2014-03-07"
+        ]
+      },
+      {
+        "i": "2976-30975-2014-04-05",
+        "c": "DE",
+        "n": "Eight Books two weeks",
+        "st": "Group",
+        "ct": "Cologne",
+        "o": "t.a.t new talents Cologne",
+        "d": [
+          "2014-04-05",
+          "2014-04-16"
         ]
       }
     ]

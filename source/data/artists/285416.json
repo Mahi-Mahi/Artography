@@ -1,7 +1,7 @@
 {
   "id": "285416",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:54:14",
+  "timestamp": "2014-05-31 07:59:29",
   "name": "Max Boufathal",
   "surname": "Boufathal",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sculpture",
-  "r00": "14319",
-  "r01": "15406",
-  "r02": "13173",
-  "r03": "11261",
-  "r04": "9681",
-  "r05": "12981",
-  "r06": "11794",
+  "r00": "14388",
+  "r01": "15424",
+  "r02": "13180",
+  "r03": "11265",
+  "r04": "9685",
+  "r05": "12987",
+  "r06": "11797",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -98,6 +98,20 @@
       {
         "i": "285416-20646-2011-05-17",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "285416-22481-2014-02-26",
+        "c": "MA",
+        "n": "Marrakech Biennale 5 - Where are we now?",
+        "st": "Group",
+        "ct": "Marrakech",
+        "o": "Marrakech Biennale",
+        "d": [
+          "2014-02-26",
+          "2014-03-31"
+        ]
       }
     ],
     "2008": [

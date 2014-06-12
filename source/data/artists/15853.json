@@ -1,7 +1,7 @@
 {
   "id": "15853",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:13",
+  "timestamp": "2014-05-31 06:26:44",
   "name": "Stephen Dean",
   "surname": "Dean",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video",
-  "r00": "2427",
-  "r01": "2337",
-  "r02": "1855",
-  "r03": "1706",
-  "r04": "1366",
-  "r05": "1238",
-  "r06": "1273",
+  "r00": "2423",
+  "r01": "2324",
+  "r02": "1857",
+  "r03": "1705",
+  "r04": "1367",
+  "r05": "1239",
+  "r06": "1275",
   "r07": "1138",
   "r08": "993",
   "awards": null,
   "website": null,
   "all-shows-first": "1995",
   "all-shows-total": "84",
-  "2005-shows-biennials": "13",
-  "2005-shows-galleries": "13",
+  "2005-shows-biennials": "14",
+  "2005-shows-galleries": "14",
   "2005-shows-museums": "19",
-  "2005-countries-total": "USA (14), France (9), Spain (6), Germany (2), Italy (2), Austria (1), Belgium (1), Brazil (1), Cameroon (1), Japan (1), Russia (1)",
-  "2005-shows-with": "Stephen Dean (33), Anne Deleporte (5), Andreas Gursky (4), Valérie Belin (3), Stéphane Couturier (3), Wim Delvoye (3), James Hyde (3), William Kentridge (3), Annette Messager (3), Vik Muniz (3), Philippe Parreno (3), Xavier Veilhan (3), Andy Warhol (3), Lawrence Weiner (3), Erwin Wurm (3), Adel Abdessemed (2), Marina Abramovic (2), Roy Arden (2), John M Armleder (2), the Art Guys (2), Eric Aupol (2), Erwan Ballan (2), Rut Blees Luxemburg (2), Etienne Bossut (2), Louise Bourgeois (2), Claude Briand-Picard (2), Edward Burtynsky (2), Pedro Cabrita Reis (2), Mircea Cantor (2), Hervé Coqueret (2), Félix Curto (2), Josef Dabernig (2), Juan Del Junco (2), Jeremy Dickinson (2), Christoph Draeger (2), Michel François (2), Douglas Gordon (2), Anna Halprin (2), Cameron Jamie (2), Jasper Johns (2), Panos Kokkinias (2), Arnaud Labelle-Rojoux (2), Annika Larsson (2), Bertrand Lavier (2), Jean-Jacques Lebel (2), Zilla Leutenegger (2), Sol LeWitt (2), Jacques Lizène (2), Maider López (2), Chip Lord (2), Ingeborg Lüsc",
+  "2005-countries-total": "USA (15), France (9), Spain (6), Germany (2), Italy (2), Austria (1), Belgium (1), Brazil (1), Cameroon (1), Japan (1), Russia (1)",
+  "2005-shows-with": "Stephen Dean (34), Anne Deleporte (5), Andreas Gursky (4), Valérie Belin (3), Stéphane Couturier (3), Wim Delvoye (3), James Hyde (3), William Kentridge (3), Annette Messager (3), Vik Muniz (3), Philippe Parreno (3), Xavier Veilhan (3), Andy Warhol (3), Lawrence Weiner (3), Erwin Wurm (3), Adel Abdessemed (2), Marina Abramovic (2), Roy Arden (2), John M Armleder (2), the Art Guys (2), Eric Aupol (2), Erwan Ballan (2), Rut Blees Luxemburg (2), Etienne Bossut (2), Louise Bourgeois (2), Claude Briand-Picard (2), Edward Burtynsky (2), Pedro Cabrita Reis (2), Mircea Cantor (2), Hervé Coqueret (2), Félix Curto (2), Josef Dabernig (2), Juan Del Junco (2), Jeremy Dickinson (2), Christoph Draeger (2), Michel François (2), Douglas Gordon (2), Anna Halprin (2), Alfredo Jaar (2), Cameron Jamie (2), Jasper Johns (2), Deborah Kass (2), Panos Kokkinias (2), Arnaud Labelle-Rojoux (2), Annika Larsson (2), Bertrand Lavier (2), Jean-Jacques Lebel (2), Zilla Leutenegger (2), Sol LeWitt (2), Jacques Lizène (2), Maider Lópe",
   "representing-galleries": "Casa Triângulo (Rua Paes de Araújo 77, CEP 04531-090 São Paulo, Brazil); Max Estrella (C/ Santo Tomé, 6 int., 28004 Madrid, Spain); Baldwin Gallery (209 South Street, 81611 Aspen, CO, USA)",
   "collecting-museums": "CaixaForum Barcelona (Av. de Francesc Ferrer i Guàrdia,  6-8, 08038 Barcelona, Spain); IVAM - Institut Valencià d'Art Modern (Guillem de Castro 118, 46003 Valencia, Spain); Proje4L - Elgiz Museum of Contemporary Art (Meydan Sokak, Beybi Giz Plaza B Blok, 34398 Istanbul, Turkey); Blanton Museum of Art (Art Building on the campus of The University of Texas at Austin 200 East MLK, 78701 Austin, TX, USA); Solomon R. Guggenheim Museum (1071 5th Avenue (at 89th Street), 10128-0173 New York City, NY, USA); Whitney Museum of American Art (945 Madison Avenue, 10021 New York City, NY, USA); The West Collection (SEI Investments Company,  Oaks, PA, USA); The National Gallery of Art (4th and Constitution Avenue NW, 20565 Washington, DC, USA)",
   "first_name": "Stephen",
@@ -239,6 +239,18 @@
         ]
       },
       {
+        "i": "15853-5305-2006-07-09",
+        "c": "US",
+        "n": "SITE Santa Fe's Sixth International Biennial",
+        "st": "Group",
+        "ct": "Santa Fe, NM",
+        "o": "SITElines",
+        "d": [
+          "2006-07-09",
+          "2007-01-07"
+        ]
+      },
+      {
         "i": "15853-4974-2006-07-09",
         "c": "US",
         "n": "Sixth International Biennial Exhibition: Still Points of the Turning World",
@@ -246,18 +258,6 @@
         "st": "Group",
         "ct": "Santa Fe, NM",
         "o": "Site Santa Fe",
-        "d": [
-          "2006-07-09",
-          "2007-01-07"
-        ]
-      },
-      {
-        "i": "15853-5305-2006-07-09",
-        "c": "US",
-        "n": "SITE Santa Fe's Sixth International Biennial",
-        "st": "Group",
-        "ct": "Santa Fe, NM",
-        "o": "SITElines",
         "d": [
           "2006-07-09",
           "2007-01-07"
@@ -313,6 +313,18 @@
     ],
     "2007": [
       {
+        "i": "15853-5305-2006-07-09",
+        "c": "US",
+        "n": "SITE Santa Fe's Sixth International Biennial",
+        "st": "Group",
+        "ct": "Santa Fe, NM",
+        "o": "SITElines",
+        "d": [
+          "2006-07-09",
+          "2007-01-07"
+        ]
+      },
+      {
         "i": "15853-4974-2006-07-09",
         "c": "US",
         "n": "Sixth International Biennial Exhibition: Still Points of the Turning World",
@@ -320,18 +332,6 @@
         "st": "Group",
         "ct": "Santa Fe, NM",
         "o": "Site Santa Fe",
-        "d": [
-          "2006-07-09",
-          "2007-01-07"
-        ]
-      },
-      {
-        "i": "15853-5305-2006-07-09",
-        "c": "US",
-        "n": "SITE Santa Fe's Sixth International Biennial",
-        "st": "Group",
-        "ct": "Santa Fe, NM",
-        "o": "SITElines",
         "d": [
           "2006-07-09",
           "2007-01-07"
@@ -941,6 +941,19 @@
         ]
       },
       {
+        "i": "15853-3054-2013-06-27",
+        "c": "US",
+        "n": "Junkies' Promises",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Paul Kasmin Gallery",
+        "d": [
+          "2013-06-27",
+          "2013-08-16"
+        ]
+      },
+      {
         "i": "15853-6073-2013-06-21",
         "c": "US",
         "n": "Stephen Dean - Works on Paper and Edges",
@@ -952,6 +965,94 @@
           "2013-06-21",
           "2013-07-21"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "15853-2371-2014-02-02",
+        "c": "US",
+        "n": "Fútbol: The Beautiful Game",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Los Angeles, CA",
+        "o": "Los Angeles County Museum of Art - LACMA",
+        "d": [
+          "2014-02-02",
+          "2014-07-20"
+        ],
+        "a": "15853",
+        "an": "Stephen Dean"
+      },
+      {
+        "i": "15853-11894-2014-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "15853-11894-2014-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "15853-4403-2014-06-05",
+        "c": "US",
+        "n": "Stephen Dean - Jugglers",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Ameringer | McEnery | Yohe ",
+        "d": [
+          "2014-06-05",
+          "2014-08-01"
+        ],
+        "a": "15853",
+        "an": "Stephen Dean"
+      }
+    ],
+    "today": [
+      {
+        "i": "15853",
+        "c": "US",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "15853-2371-2014-02-02",
+        "c": "US",
+        "n": "Fútbol: The Beautiful Game",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Los Angeles, CA",
+        "o": "Los Angeles County Museum of Art - LACMA",
+        "d": [
+          "2014-02-02",
+          "2014-07-20"
+        ],
+        "a": "15853",
+        "an": "Stephen Dean"
+      },
+      {
+        "i": "15853",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "15853-11894-2014-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "15853-4403-2014-06-05",
+        "c": "US",
+        "n": "Stephen Dean - Jugglers",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Ameringer | McEnery | Yohe ",
+        "d": [
+          "2014-06-05",
+          "2014-08-01"
+        ],
+        "a": "15853",
+        "an": "Stephen Dean"
       }
     ]
   }

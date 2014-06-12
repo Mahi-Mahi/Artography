@@ -1,7 +1,7 @@
 {
   "id": "165942",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:13:19",
+  "timestamp": "2014-05-31 07:18:42",
   "name": "Celine Condorelli",
   "surname": "Condorelli",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Installation",
-  "r00": "4364",
-  "r01": "5524",
-  "r02": "7676",
-  "r03": "8956",
-  "r04": "10481",
-  "r05": "17008",
-  "r06": "31934",
-  "r07": "31781",
-  "r08": "40468",
+  "r00": "4391",
+  "r01": "5533",
+  "r02": "7680",
+  "r03": "8965",
+  "r04": "10489",
+  "r05": "17021",
+  "r06": "31974",
+  "r07": "31832",
+  "r08": "40449",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
@@ -33,7 +33,7 @@
   "2005-shows-galleries": "4",
   "2005-shows-museums": "16",
   "2005-countries-total": "United Kingdom (11), Germany (2), Italy (2), Austria (1), Belgium (1), China (1), France (1), India (1), Ireland (Republic) (1), Netherlands (1), Norway (1), Portugal (1), Spain (1), Turkey (1), USA (1)",
-  "2005-shows-with": "Celine Condorelli (21), Gavin Wade (4), Alice Creischer (3), Dora García (3), Archana Hande (3), Sudhir Patwardhan (3), Alexandre Singh (3), Erick Beltrán (2), Bik van der Pol (2), Banu Cennetoglu (2), Jeremiah Day (2), Marcelo Expósito (2), Claire Fontaine (2), Mario Garcia Torres (2), Douglas Gordon (2), Dan Graham (2), Hans Haacke (2), Christodoulos Panayiotou (2), Raqs Media Collective (2), Pedro Reyes (2), Stefanos Tsivopoulos (2), Carey Young (2)",
+  "2005-shows-with": "Celine Condorelli (21), Gavin Wade (4), Alice Creischer (3), Dora García (3), Archana Hande (3), Sudhir Patwardhan (3), Alexandre Singh (3), Erick Beltrán (2), Bik van der Pol (2), Pauline Boudry & Renate Lorenz (2), Banu Cennetoglu (2), Jeremiah Day (2), Marcelo Expósito (2), Claire Fontaine (2), Mario Garcia Torres (2), Douglas Gordon (2), Dan Graham (2), Hans Haacke (2), Christodoulos Panayiotou (2), Raqs Media Collective (2), Pedro Reyes (2), Stefanos Tsivopoulos (2), Carey Young (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Celine",
@@ -431,6 +431,31 @@
     ],
     "2014": [
       {
+        "i": "165942-30697-2014-02-28",
+        "c": "CN",
+        "n": "2nd CAFAM Biennale: The Invisible Hand",
+        "st": "Group",
+        "ct": "Beijing",
+        "o": "CAFAM Biennal",
+        "d": [
+          "2014-02-28",
+          "2014-04-20"
+        ]
+      },
+      {
+        "i": "165942-20122-2014-04-12",
+        "c": "GB",
+        "n": "Puppet Show",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Blackpool, Lancashire",
+        "o": "Grundy Art Gallery",
+        "d": [
+          "2014-04-12",
+          "2014-05-31"
+        ]
+      },
+      {
         "i": "165942-2909-2013-11-07",
         "c": "IE",
         "n": "Céline Condorelli - Additionals",
@@ -442,6 +467,44 @@
           "2013-11-07",
           "2014-01-18"
         ]
+      },
+      {
+        "i": "165942-1326-2014-05-02",
+        "c": "GB",
+        "n": "Céline Condorelli",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "London",
+        "o": "Chisenhale Gallery",
+        "d": [
+          "2014-05-02",
+          "2014-06-22"
+        ],
+        "a": "165942",
+        "an": "Celine Condorelli"
+      }
+    ],
+    "today": [
+      {
+        "i": "165942",
+        "c": "GB",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "165942-1326-2014-05-02",
+        "c": "GB",
+        "n": "Céline Condorelli",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "London",
+        "o": "Chisenhale Gallery",
+        "d": [
+          "2014-05-02",
+          "2014-06-22"
+        ],
+        "a": "165942",
+        "an": "Celine Condorelli"
       }
     ]
   }

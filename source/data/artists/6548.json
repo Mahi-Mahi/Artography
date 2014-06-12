@@ -1,7 +1,7 @@
 {
   "id": "6548",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:17:32",
+  "timestamp": "2014-05-31 06:23:03",
   "name": "Nicole Eisenman",
   "surname": "Eisenman",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Female",
   "media": "Collage, Painting, Drawings, Assemblage",
-  "r00": "1181",
-  "r01": "1124",
+  "r00": "1185",
+  "r01": "1128",
   "r02": "1146",
   "r03": "1366",
   "r04": "1300",
-  "r05": "1084",
-  "r06": "1514",
-  "r07": "1358",
+  "r05": "1085",
+  "r06": "1517",
+  "r07": "1359",
   "r08": "1413",
   "awards": null,
   "website": null,
@@ -255,19 +255,6 @@
         ]
       },
       {
-        "i": "6548-344-2006-08-19",
-        "c": "DE",
-        "n": "Das Achte Feld - Geschlechter, Leben u. Begehren in der bildenden Kunst s. 1960",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Cologne",
-        "o": "Museum Ludwig",
-        "d": [
-          "2006-08-19",
-          "2006-11-12"
-        ]
-      },
-      {
         "i": "6548-5745-2006-08-19",
         "c": "US",
         "n": "The Paper Sculpture Show",
@@ -278,6 +265,19 @@
         "d": [
           "2006-08-19",
           "2006-11-05"
+        ]
+      },
+      {
+        "i": "6548-344-2006-08-19",
+        "c": "DE",
+        "n": "Das Achte Feld - Geschlechter, Leben u. Begehren in der bildenden Kunst s. 1960",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Cologne",
+        "o": "Museum Ludwig",
+        "d": [
+          "2006-08-19",
+          "2006-11-12"
         ]
       },
       {
@@ -819,19 +819,6 @@
         ]
       },
       {
-        "i": "6548-24232-2011-02-19",
-        "c": "CH",
-        "n": "Hysteria, Laughter And A Sense Of Seriousness",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Zurich",
-        "o": "Galerie Gregor Staiger",
-        "d": [
-          "2011-02-19",
-          "2011-03-26"
-        ]
-      },
-      {
         "i": "6548-11559-2011-02-19",
         "c": "CH",
         "n": "Hysteria, Laughter and a Sense of Seriousness",
@@ -839,6 +826,19 @@
         "st": "Group",
         "ct": "Zurich",
         "o": "Karma International",
+        "d": [
+          "2011-02-19",
+          "2011-03-26"
+        ]
+      },
+      {
+        "i": "6548-24232-2011-02-19",
+        "c": "CH",
+        "n": "Hysteria, Laughter And A Sense Of Seriousness",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Galerie Gregor Staiger",
         "d": [
           "2011-02-19",
           "2011-03-26"
@@ -1313,6 +1313,31 @@
         "d": [
           "2013-10-05",
           "2014-03-16"
+        ]
+      },
+      {
+        "i": "6548-6058-2014-06-28",
+        "c": "RU",
+        "n": "Manifesta 10",
+        "st": "Group",
+        "ct": "St. Petersburg",
+        "o": "Manifesta - European Biennial of Contemporary Art",
+        "d": [
+          "2014-06-28",
+          "2014-10-31"
+        ]
+      },
+      {
+        "i": "6548-5744-2014-01-24",
+        "c": "US",
+        "n": "Dear Nemesis, Nicole Eisenman 1993&#8211;2013",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Saint Louis, MO",
+        "o": "Contemporary Art Museum St. Louis",
+        "d": [
+          "2014-01-24",
+          "2014-04-13"
         ]
       }
     ]

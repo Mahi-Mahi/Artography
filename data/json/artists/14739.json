@@ -1,7 +1,7 @@
 {
   "id": "14739",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:46",
+  "timestamp": "2014-05-31 06:26:17",
   "name": "Sarkís",
   "surname": "Sarkís",
   "nationality": "FR, TR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation",
-  "r00": "629",
-  "r01": "584",
-  "r02": "564",
+  "r00": "634",
+  "r01": "585",
+  "r02": "562",
   "r03": "568",
-  "r04": "650",
-  "r05": "691",
-  "r06": "824",
+  "r04": "652",
+  "r05": "692",
+  "r06": "826",
   "r07": "760",
   "r08": "609",
   "awards": null,
@@ -854,19 +854,6 @@
         ]
       },
       {
-        "i": "14739-18507-2011-09-10",
-        "c": "DE",
-        "n": "Multiplizieren Ist Menschlich - 45 Jahre Edition Block 1966-2011",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Tanas",
-        "d": [
-          "2011-09-10",
-          "2011-11-26"
-        ]
-      },
-      {
         "i": "14739-2188-2011-09-10",
         "c": "DE",
         "n": "Farbe im Fluss - 20 Jahre Weserburg",
@@ -877,6 +864,19 @@
         "d": [
           "2011-09-10",
           "2012-01-29"
+        ]
+      },
+      {
+        "i": "14739-18507-2011-09-10",
+        "c": "DE",
+        "n": "Multiplizieren Ist Menschlich - 45 Jahre Edition Block 1966-2011",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Tanas",
+        "d": [
+          "2011-09-10",
+          "2011-11-26"
         ]
       },
       {
@@ -1180,19 +1180,6 @@
         ]
       },
       {
-        "i": "14739-18507-2013-09-08",
-        "c": "DE",
-        "n": "The unanswered question. iskele 2",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Tanas",
-        "d": [
-          "2013-09-08",
-          "2013-11-03"
-        ]
-      },
-      {
         "i": "14739-449-2013-09-08",
         "c": "DE",
         "n": "The Unanswered Question. &#304;skele2",
@@ -1200,6 +1187,19 @@
         "st": "Group",
         "ct": "Berlin",
         "o": "NBK - Neuer Berliner Kunstverein",
+        "d": [
+          "2013-09-08",
+          "2013-11-03"
+        ]
+      },
+      {
+        "i": "14739-18507-2013-09-08",
+        "c": "DE",
+        "n": "The unanswered question. iskele 2",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Tanas",
         "d": [
           "2013-09-08",
           "2013-11-03"
@@ -1266,6 +1266,14 @@
           "2013-11-15",
           "2014-01-12"
         ]
+      },
+      {
+        "i": "14739-1955-2014-01-09",
+        "c": "FR"
+      },
+      {
+        "i": "14739-1955-2014-01-09",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "125247",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:59:29",
+  "timestamp": "2014-05-31 07:04:52",
   "name": "Nicolas Deshayes",
   "surname": "Deshayes",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "4648",
-  "r01": "5608",
-  "r02": "9815",
-  "r03": "10384",
-  "r04": "18222",
-  "r05": "20554",
-  "r06": "34421",
-  "r07": "28900",
-  "r08": "29147",
+  "r00": "4674",
+  "r01": "5604",
+  "r02": "9761",
+  "r03": "10382",
+  "r04": "18230",
+  "r05": "20556",
+  "r06": "34446",
+  "r07": "28914",
+  "r08": "29151",
   "awards": null,
   "website": "www.nicolasdeshayes.net",
   "all-shows-first": "2005",
@@ -459,6 +459,72 @@
           "2013-06-05",
           "2013-07-31"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "125247-20301-2014-01-31",
+        "c": "GB",
+        "n": "Geographies of Contamination",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "London",
+        "o": "The David Roberts Art Foundation",
+        "d": [
+          "2014-01-31",
+          "2014-03-29"
+        ]
+      },
+      {
+        "i": "125247-1138-2014-04-04",
+        "c": "DE",
+        "n": "pool | kunst aus london",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Hannover",
+        "o": "kestnergesellschaft",
+        "d": [
+          "2014-04-04",
+          "2014-07-06"
+        ],
+        "a": "125247",
+        "an": "Nicolas Deshayes"
+      },
+      {
+        "i": "125247-15076-2014-04-13",
+        "c": "GB",
+        "n": "Hey, I'm Mr Poetic",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Cambridge, Cambridgeshire",
+        "o": "Wysing Arts Centre",
+        "d": [
+          "2014-04-13",
+          "2014-06-01"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "125247",
+        "c": "DE",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "125247-1138-2014-04-04",
+        "c": "DE",
+        "n": "pool | kunst aus london",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Hannover",
+        "o": "kestnergesellschaft",
+        "d": [
+          "2014-04-04",
+          "2014-07-06"
+        ],
+        "a": "125247",
+        "an": "Nicolas Deshayes"
       }
     ],
     "2005": [

@@ -1,7 +1,7 @@
 {
   "id": "119",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:14:16",
+  "timestamp": "2014-05-31 06:19:48",
   "name": "François Morellet",
   "surname": "Morellet",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Sculpture, Kinetic art",
-  "r00": "61",
-  "r01": "63",
+  "r00": "63",
+  "r01": "64",
   "r02": "62",
-  "r03": "67",
+  "r03": "66",
   "r04": "79",
   "r05": "81",
   "r06": "75",
-  "r07": "74",
+  "r07": "73",
   "r08": "119",
   "awards": null,
   "website": null,
   "all-shows-first": "1964",
-  "all-shows-total": "610",
+  "all-shows-total": "612",
   "2005-shows-biennials": "111",
   "2005-shows-galleries": "111",
   "2005-shows-museums": "138",
@@ -55,6 +55,19 @@
         "d": [
           "2005-01-08",
           "2005-02-26"
+        ]
+      },
+      {
+        "i": "119-2390-2005-01-14",
+        "c": "LI",
+        "n": "\"Oeffnen des Raumes\"",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Vaduz",
+        "o": "Kunstmuseum Liechtenstein",
+        "d": [
+          "2005-01-14",
+          "2005-06-16"
         ]
       },
       {
@@ -243,10 +256,6 @@
         ]
       },
       {
-        "i": "119-4184-2005-12-01",
-        "c": "FR"
-      },
-      {
         "i": "119-1938-2005-12-01",
         "c": "CH",
         "n": "Peintures et Sculptures",
@@ -258,6 +267,10 @@
           "2005-12-01",
           "2005-12-23"
         ]
+      },
+      {
+        "i": "119-4184-2005-12-01",
+        "c": "FR"
       },
       {
         "i": "119-821-2005-12-10",
@@ -498,6 +511,19 @@
         "c": "FR"
       },
       {
+        "i": "119-2390-2006-06-09",
+        "c": "LI",
+        "n": "\"Transformation\"",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Vaduz",
+        "o": "Kunstmuseum Liechtenstein",
+        "d": [
+          "2006-06-09",
+          "2006-10-01"
+        ]
+      },
+      {
         "i": "119-2183-2006-06-11",
         "c": "DE",
         "n": "Und es bewegt sich doch ...",
@@ -507,19 +533,6 @@
         "o": "Kunstmuseum Bochum",
         "d": [
           "2006-06-11",
-          "2006-09-03"
-        ]
-      },
-      {
-        "i": "119-2288-2006-06-16",
-        "c": "CH",
-        "n": "The Expanded Eye. Sehen - entgrenzt und verflüssigt",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Zurich",
-        "o": "Kunsthaus Zürich",
-        "d": [
-          "2006-06-16",
           "2006-09-03"
         ]
       },
@@ -534,6 +547,19 @@
         "d": [
           "2006-06-16",
           "2007-04-27"
+        ]
+      },
+      {
+        "i": "119-2288-2006-06-16",
+        "c": "CH",
+        "n": "The Expanded Eye. Sehen - entgrenzt und verflüssigt",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Kunsthaus Zürich",
+        "d": [
+          "2006-06-16",
+          "2006-09-03"
         ]
       },
       {
@@ -637,23 +663,15 @@
         "c": "FR"
       },
       {
-        "i": "119-4706-2006-09-15",
-        "c": "FR"
-      },
-      {
-        "i": "119-4706-2006-09-15",
-        "c": "FR"
-      },
-      {
         "i": "119-3864-2006-09-15",
         "c": "FR"
       },
       {
-        "i": "119-2028-2006-09-23",
+        "i": "119-4706-2006-09-15",
         "c": "FR"
       },
       {
-        "i": "119-2028-2006-09-23",
+        "i": "119-4706-2006-09-15",
         "c": "FR"
       },
       {
@@ -668,6 +686,14 @@
           "2006-09-23",
           "2006-11-12"
         ]
+      },
+      {
+        "i": "119-2028-2006-09-23",
+        "c": "FR"
+      },
+      {
+        "i": "119-2028-2006-09-23",
+        "c": "FR"
       },
       {
         "i": "119-7423-2006-09-24",
@@ -1133,14 +1159,6 @@
         ]
       },
       {
-        "i": "119-8548-2007-06-02",
-        "c": "FR"
-      },
-      {
-        "i": "119-8548-2007-06-02",
-        "c": "FR"
-      },
-      {
         "i": "119-97-2007-06-02",
         "c": "CH",
         "n": "Isa Melsheimer - tiefes rauschen",
@@ -1152,6 +1170,14 @@
           "2007-06-02",
           "2007-07-21"
         ]
+      },
+      {
+        "i": "119-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "119-8548-2007-06-02",
+        "c": "FR"
       },
       {
         "i": "119-2028-2007-06-03",
@@ -1308,19 +1334,6 @@
         ]
       },
       {
-        "i": "119-4988-2007-10-17",
-        "c": "DE",
-        "n": "Rubin - Institut für moderne Kunst 1967 - 2007",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Nuremberg",
-        "o": "Neues Museum - Staatliches Museum für Kunst und Design in Nürnberg",
-        "d": [
-          "2007-10-17",
-          "2007-11-18"
-        ]
-      },
-      {
         "i": "119-7429-2007-10-17",
         "c": "DE",
         "n": "Rubin - Institut für moderne Kunst Nürnberg 1967 - 2007",
@@ -1334,16 +1347,16 @@
         ]
       },
       {
-        "i": "119-7923-2007-11-08",
-        "c": "US",
-        "n": "INDICA",
-        "t": "Galerie privée",
+        "i": "119-4988-2007-10-17",
+        "c": "DE",
+        "n": "Rubin - Institut für moderne Kunst 1967 - 2007",
+        "t": "Institution publique",
         "st": "Group",
-        "ct": "New York City, NY",
-        "o": "Nyehaus",
+        "ct": "Nuremberg",
+        "o": "Neues Museum - Staatliches Museum für Kunst und Design in Nürnberg",
         "d": [
-          "2007-11-08",
-          "2007-12-22"
+          "2007-10-17",
+          "2007-11-18"
         ]
       },
       {
@@ -1357,6 +1370,19 @@
         "d": [
           "2007-11-08",
           "2008-06-08"
+        ]
+      },
+      {
+        "i": "119-7923-2007-11-08",
+        "c": "US",
+        "n": "INDICA",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Nyehaus",
+        "d": [
+          "2007-11-08",
+          "2007-12-22"
         ]
       },
       {
@@ -1543,19 +1569,6 @@
         "c": "FR"
       },
       {
-        "i": "119-21228-2007-12-29",
-        "c": "CH",
-        "n": "Francois Morellet",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Basel",
-        "o": "von Bartha Garage",
-        "d": [
-          "2007-12-29",
-          "2008-01-31"
-        ]
-      },
-      {
         "i": "119-21266-2007-12-29",
         "c": "CH",
         "n": "Francois Morellet",
@@ -1563,6 +1576,19 @@
         "st": "Solo",
         "ct": "S-chanf",
         "o": "von Bartha Chesa",
+        "d": [
+          "2007-12-29",
+          "2008-01-31"
+        ]
+      },
+      {
+        "i": "119-21228-2007-12-29",
+        "c": "CH",
+        "n": "Francois Morellet",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Basel",
+        "o": "von Bartha Garage",
         "d": [
           "2007-12-29",
           "2008-01-31"
@@ -2002,19 +2028,6 @@
         ]
       },
       {
-        "i": "119-17711-2008-11-04",
-        "c": "HU",
-        "n": "Atelier - Edition Fanal",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Paks",
-        "o": "Paksi Képtár",
-        "d": [
-          "2008-11-04",
-          "2008-12-02"
-        ]
-      },
-      {
         "i": "119-2275-2008-11-04",
         "c": "AT",
         "n": "\"Gmunder Symposien\"",
@@ -2025,6 +2038,19 @@
         "d": [
           "2008-11-04",
           "2009-01-11"
+        ]
+      },
+      {
+        "i": "119-17711-2008-11-04",
+        "c": "HU",
+        "n": "Atelier - Edition Fanal",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Paks",
+        "o": "Paksi Képtár",
+        "d": [
+          "2008-11-04",
+          "2008-12-02"
         ]
       },
       {
@@ -2040,19 +2066,6 @@
         "c": "FR"
       },
       {
-        "i": "119-4325-2008-11-27",
-        "c": "CH",
-        "n": "Licht & Gold",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Zurich",
-        "o": "Galerie Proarta",
-        "d": [
-          "2008-11-27",
-          "2009-01-31"
-        ]
-      },
-      {
         "i": "119-3714-2008-11-27",
         "c": "SG",
         "n": "is it tomorrow yet?",
@@ -2063,6 +2076,19 @@
         "d": [
           "2008-11-27",
           "2009-03-01"
+        ]
+      },
+      {
+        "i": "119-4325-2008-11-27",
+        "c": "CH",
+        "n": "Licht & Gold",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Galerie Proarta",
+        "d": [
+          "2008-11-27",
+          "2009-01-31"
         ]
       },
       {
@@ -2087,19 +2113,6 @@
         "c": "FR"
       },
       {
-        "i": "119-21228-2007-12-29",
-        "c": "CH",
-        "n": "Francois Morellet",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Basel",
-        "o": "von Bartha Garage",
-        "d": [
-          "2007-12-29",
-          "2008-01-31"
-        ]
-      },
-      {
         "i": "119-21266-2007-12-29",
         "c": "CH",
         "n": "Francois Morellet",
@@ -2107,6 +2120,19 @@
         "st": "Solo",
         "ct": "S-chanf",
         "o": "von Bartha Chesa",
+        "d": [
+          "2007-12-29",
+          "2008-01-31"
+        ]
+      },
+      {
+        "i": "119-21228-2007-12-29",
+        "c": "CH",
+        "n": "Francois Morellet",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Basel",
+        "o": "von Bartha Garage",
         "d": [
           "2007-12-29",
           "2008-01-31"
@@ -2222,19 +2248,6 @@
         "c": "FR"
       },
       {
-        "i": "119-4325-2008-11-27",
-        "c": "CH",
-        "n": "Licht & Gold",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Zurich",
-        "o": "Galerie Proarta",
-        "d": [
-          "2008-11-27",
-          "2009-01-31"
-        ]
-      },
-      {
         "i": "119-3714-2008-11-27",
         "c": "SG",
         "n": "is it tomorrow yet?",
@@ -2245,6 +2258,19 @@
         "d": [
           "2008-11-27",
           "2009-03-01"
+        ]
+      },
+      {
+        "i": "119-4325-2008-11-27",
+        "c": "CH",
+        "n": "Licht & Gold",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Galerie Proarta",
+        "d": [
+          "2008-11-27",
+          "2009-01-31"
         ]
       },
       {
@@ -2533,19 +2559,6 @@
         ]
       },
       {
-        "i": "119-97-2009-10-24",
-        "c": "CH",
-        "n": "first choice / raum 3",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Zurich",
-        "o": "Galerie Mark Müller",
-        "d": [
-          "2009-10-24",
-          "2009-12-19"
-        ]
-      },
-      {
         "i": "119-269-2009-10-24",
         "c": "DE",
         "n": "When ideas become form - 30 Jahre Galerie",
@@ -2556,6 +2569,19 @@
         "d": [
           "2009-10-24",
           "2010-02-26"
+        ]
+      },
+      {
+        "i": "119-97-2009-10-24",
+        "c": "CH",
+        "n": "first choice / raum 3",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Galerie Mark Müller",
+        "d": [
+          "2009-10-24",
+          "2009-12-19"
         ]
       },
       {
@@ -2945,19 +2971,6 @@
         ]
       },
       {
-        "i": "119-13635-2010-05-06",
-        "c": "US",
-        "n": "Beyond Geometry",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "New York City, NY",
-        "o": "Cueto Project",
-        "d": [
-          "2010-05-06",
-          "2010-07-30"
-        ]
-      },
-      {
         "i": "119-1523-2010-05-06",
         "c": "CH",
         "n": "Display 2",
@@ -2968,6 +2981,19 @@
         "d": [
           "2010-05-06",
           "2010-04-17"
+        ]
+      },
+      {
+        "i": "119-13635-2010-05-06",
+        "c": "US",
+        "n": "Beyond Geometry",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Cueto Project",
+        "d": [
+          "2010-05-06",
+          "2010-07-30"
         ]
       },
       {
@@ -4347,19 +4373,6 @@
         ]
       },
       {
-        "i": "119-1948-2012-06-21",
-        "c": "US",
-        "n": "Moving Spirits: François Morellet & Gerhard von Graevenitz",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "New York City, NY",
-        "o": "Sperone Westwater Gallery",
-        "d": [
-          "2012-06-21",
-          "2012-07-27"
-        ]
-      },
-      {
         "i": "119-3767-2012-06-21",
         "c": "IT",
         "n": "Neon. La Materia luminosa dell’arte",
@@ -4370,6 +4383,19 @@
         "d": [
           "2012-06-21",
           "2012-11-11"
+        ]
+      },
+      {
+        "i": "119-1948-2012-06-21",
+        "c": "US",
+        "n": "Moving Spirits: François Morellet & Gerhard von Graevenitz",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Sperone Westwater Gallery",
+        "d": [
+          "2012-06-21",
+          "2012-07-27"
         ]
       },
       {
@@ -5421,6 +5447,188 @@
           "2013-12-01",
           "2014-01-26"
         ]
+      },
+      {
+        "i": "119-26745-2014-02-15",
+        "c": "ES",
+        "n": "Everybody is Nobody",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Boadilla del Monte",
+        "o": "Fundación Banco Santander",
+        "d": [
+          "2014-02-15",
+          "2014-06-15"
+        ],
+        "a": "119",
+        "an": "François Morellet"
+      },
+      {
+        "i": "119-2750-2014-02-19",
+        "c": "CH",
+        "n": "Spielobjekte - Die Kunst der Möglichkeiten",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Basel",
+        "o": "Museum Tinguely",
+        "d": [
+          "2014-02-19",
+          "2014-05-11"
+        ]
+      },
+      {
+        "i": "119-123-2014-02-25",
+        "c": "IT",
+        "n": "L’´Occhio Musicale / The Musical Eye",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Milan",
+        "o": "A arte Invernizzi",
+        "d": [
+          "2014-02-25",
+          "2014-04-17"
+        ]
+      },
+      {
+        "i": "119-26825-2014-03-01",
+        "c": "TR",
+        "n": "Common Ground: Earth",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Istanbul",
+        "o": "Borusan Contemporary",
+        "d": [
+          "2014-03-01",
+          "2014-06-01"
+        ]
+      },
+      {
+        "i": "119-1146-2014-03-08",
+        "c": "DE",
+        "n": "Kiel ablaze! the rapture of color",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Kiel",
+        "o": "Kunsthalle zu Kiel",
+        "d": [
+          "2014-03-08",
+          "2014-09-21"
+        ],
+        "a": "119",
+        "an": "François Morellet"
+      },
+      {
+        "i": "119-2230-2014-04-05",
+        "c": "DE",
+        "n": "\"Les Immateriaux\" for Instance",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Dusseldorf",
+        "o": "Kunstverein für die Rheinlande und Westfalen, Düsseldorf",
+        "d": [
+          "2014-04-05",
+          "2014-08-10"
+        ],
+        "a": "119",
+        "an": "François Morellet"
+      },
+      {
+        "i": "119-13670-2014-04-12",
+        "c": "DE",
+        "n": "Licht Und Energie",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Ladenburg",
+        "o": "Galerie Linde Hollinger - Ladenburg",
+        "d": [
+          "2014-04-12",
+          "2014-05-24"
+        ]
+      },
+      {
+        "i": "119-7624-2014-07-18",
+        "c": "AT",
+        "n": "Les Plaisirs Démodés (The Old-Fashioned Way)",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Salzburg",
+        "o": "Galerie Nikolaus Ruzicska",
+        "d": [
+          "2014-07-18",
+          "2014-08-30"
+        ]
+      },
+      {
+        "i": "119-3009-2014-04-17",
+        "c": "US",
+        "n": "Francois Morellet - Preliminaries",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Josee Bienvenu Gallery",
+        "d": [
+          "2014-04-17",
+          "2014-06-07"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "119",
+        "c": "ES",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "119-26745-2014-02-15",
+        "c": "ES",
+        "n": "Everybody is Nobody",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Boadilla del Monte",
+        "o": "Fundación Banco Santander",
+        "d": [
+          "2014-02-15",
+          "2014-06-15"
+        ],
+        "a": "119",
+        "an": "François Morellet"
+      },
+      {
+        "i": "119",
+        "c": "DE",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "119-1146-2014-03-08",
+        "c": "DE",
+        "n": "Kiel ablaze! the rapture of color",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Kiel",
+        "o": "Kunsthalle zu Kiel",
+        "d": [
+          "2014-03-08",
+          "2014-09-21"
+        ],
+        "a": "119",
+        "an": "François Morellet"
+      },
+      {
+        "i": "119-2230-2014-04-05",
+        "c": "DE",
+        "n": "\"Les Immateriaux\" for Instance",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Dusseldorf",
+        "o": "Kunstverein für die Rheinlande und Westfalen, Düsseldorf",
+        "d": [
+          "2014-04-05",
+          "2014-08-10"
+        ],
+        "a": "119",
+        "an": "François Morellet"
       }
     ]
   }

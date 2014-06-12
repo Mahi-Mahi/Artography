@@ -12,41 +12,41 @@
   "email": "contact@espace-zafra.com",
   "www": "www.espace-zafra.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%204, rue Malher %2C%20France",
-  "fairs-total": "11",
-  "fairs-abroad": "4",
-  "fairs-in-FR": "7",
+  "fairs-total": "13",
+  "fairs-abroad": "5",
+  "fairs-in-FR": "8",
   "fairs": {
     "2007": [
       {
-        "i": "10283-ArtParis 07",
+        "i": "10283-ArtParis-07",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "10283-ArtParis 08",
+        "i": "10283-ArtParis-08",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "10283-ArtParis 09",
+        "i": "10283-ArtParis-09",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "10283-ArtParis 2010",
+        "i": "10283-ArtParis-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "10283-ArtParis 2011",
+        "i": "10283-ArtParis-2011",
         "c": "FR"
       },
       {
-        "i": "10283-Pinta NY 2011",
+        "i": "10283-Pinta-NY-2011",
         "c": "US",
         "n": "Pinta NY 2011",
         "ct": "Miami, FL"
@@ -54,32 +54,44 @@
     ],
     "2012": [
       {
-        "i": "10283-Art Paris Art Fair 2012",
+        "i": "10283-Art-Paris-Art-Fair-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "10283-Pinta London 2013",
+        "i": "10283-Pinta-London-2013",
         "c": "GB",
         "n": "Pinta London 2013",
         "ct": "London"
       },
       {
-        "i": "10283-Art Elysees 2013",
+        "i": "10283-Art-Elysees-2013",
         "c": "FR"
       },
       {
-        "i": "10283-Pinta NY 2013",
+        "i": "10283-Pinta-NY-2013",
         "c": "US",
         "n": "Pinta NY 2013",
         "ct": "New York City, NY"
       },
       {
-        "i": "10283-Art Miami 2013",
+        "i": "10283-Art-Miami-2013",
         "c": "US",
         "n": "Art Miami 2013",
         "ct": "Miami, FL"
+      }
+    ],
+    "2014": [
+      {
+        "i": "10283-Arcomadrid-2014",
+        "c": "ES",
+        "n": "Arcomadrid 2014",
+        "ct": "Madrid"
+      },
+      {
+        "i": "10283-Artparis-2014",
+        "c": "FR"
       }
     ]
   }

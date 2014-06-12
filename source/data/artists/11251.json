@@ -1,7 +1,7 @@
 {
   "id": "11251",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:19:25",
+  "timestamp": "2014-05-31 06:24:53",
   "name": "Daniel Enkaoua",
   "surname": "Enkaoua",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "25232",
-  "r01": "25815",
-  "r02": "20895",
-  "r03": "17127",
-  "r04": "17866",
-  "r05": "19632",
-  "r06": "24243",
-  "r07": "23417",
-  "r08": "18555",
+  "r00": "25350",
+  "r01": "25852",
+  "r02": "20911",
+  "r03": "17137",
+  "r04": "17875",
+  "r05": "19642",
+  "r06": "24254",
+  "r07": "23430",
+  "r08": "18554",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
@@ -58,19 +58,6 @@
         ]
       },
       {
-        "i": "11251-1164-2005-08-03",
-        "c": "GB",
-        "n": "Summer Exhibition",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "London",
-        "o": "Marlborough London",
-        "d": [
-          "2005-08-03",
-          "2005-09-03"
-        ]
-      },
-      {
         "i": "11251-95-2005-08-03",
         "c": "CH",
         "n": "Summer Exhibition",
@@ -78,6 +65,19 @@
         "st": "Group",
         "ct": "Zurich",
         "o": "Marlborough Galerie AG",
+        "d": [
+          "2005-08-03",
+          "2005-09-03"
+        ]
+      },
+      {
+        "i": "11251-1164-2005-08-03",
+        "c": "GB",
+        "n": "Summer Exhibition",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "London",
+        "o": "Marlborough London",
         "d": [
           "2005-08-03",
           "2005-09-03"
@@ -163,6 +163,21 @@
         "d": [
           "2011-04-29",
           "2011-06-11"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "11251-875-2014-02-13",
+        "c": "DE",
+        "n": "Rot Von Farblichen Akzenten Zur Monochromie",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Hannover",
+        "o": "Galerie Koch",
+        "d": [
+          "2014-02-13",
+          "2014-03-15"
         ]
       }
     ],

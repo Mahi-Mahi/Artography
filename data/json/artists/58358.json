@@ -1,7 +1,7 @@
 {
   "id": "58358",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:36:37",
+  "timestamp": "2014-05-31 06:42:03",
   "name": "Sophie Delaporte",
   "surname": "Delaporte",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "53994",
-  "r01": "54433",
-  "r02": "50035",
-  "r03": "65772",
-  "r04": "68375",
-  "r05": "58092",
-  "r06": "59210",
-  "r07": "49530",
-  "r08": "41147",
+  "r00": "54202",
+  "r01": "54528",
+  "r02": "50082",
+  "r03": "65860",
+  "r04": "68475",
+  "r05": "58132",
+  "r06": "59284",
+  "r07": "49589",
+  "r08": "41169",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "9",
+  "all-shows-total": "10",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
   "2005-shows-museums": null,
@@ -53,20 +53,22 @@
         "c": "FR"
       }
     ],
-    "2009": [
+    "2014": [
       {
-        "i": "58358-21766-2009-09-17",
-        "c": "US",
-        "n": "Early Fashion Work",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "New York City, NY",
-        "o": "Sous Etoiles Gallery",
+        "i": "58358-31136-2014-03-13",
+        "c": "ES",
+        "n": "Ars Visibilis Ii. Festival Miradas De Mujeres 2014",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Almería",
+        "o": "MECA - Mediterráneo Centro Artístico",
         "d": [
-          "2009-09-17",
-          "2009-11-08"
+          "2014-03-13",
+          "2014-04-27"
         ]
-      },
+      }
+    ],
+    "2009": [
       {
         "i": "58358-18510-2009-09-17",
         "c": "US",
@@ -75,6 +77,19 @@
         "st": "Solo",
         "ct": "New York City, NY",
         "o": "Sous Les Etoils Gallery",
+        "d": [
+          "2009-09-17",
+          "2009-11-08"
+        ]
+      },
+      {
+        "i": "58358-21766-2009-09-17",
+        "c": "US",
+        "n": "Early Fashion Work",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Sous Etoiles Gallery",
         "d": [
           "2009-09-17",
           "2009-11-08"

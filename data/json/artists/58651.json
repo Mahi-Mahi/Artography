@@ -1,7 +1,7 @@
 {
   "id": "58651",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:36:43",
+  "timestamp": "2014-05-31 06:42:10",
   "name": "Gerald Petit",
   "surname": "Petit",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "8918",
-  "r01": "9578",
-  "r02": "12097",
-  "r03": "14053",
-  "r04": "11821",
-  "r05": "11355",
-  "r06": "12718",
-  "r07": "10946",
-  "r08": "11221",
+  "r00": "8966",
+  "r01": "9580",
+  "r02": "12088",
+  "r03": "14039",
+  "r04": "11797",
+  "r05": "11342",
+  "r06": "12705",
+  "r07": "10941",
+  "r08": "11205",
   "awards": "Burgundy’s states prize (1 month residency in New York, NY),Taubengarten Visual Arts Award, Grundstat, Germany",
   "website": null,
   "all-shows-first": "1997",
@@ -211,6 +211,16 @@
       },
       {
         "i": "58651-8282-2013-05-22",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "58651-14600-2014-03-21",
+        "c": "FR"
+      },
+      {
+        "i": "58651-14600-2014-03-21",
         "c": "FR"
       }
     ]

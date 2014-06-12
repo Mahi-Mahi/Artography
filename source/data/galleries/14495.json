@@ -12,19 +12,19 @@
   "email": "info@gimpel-muller.com",
   "www": "www.gimpel-muller.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%20FR-75006 %2C%20 %2C%2012 rue Guénégaud %2C%20France",
-  "fairs-total": "11",
-  "fairs-abroad": "6",
-  "fairs-in-FR": "5",
+  "fairs-total": "13",
+  "fairs-abroad": "7",
+  "fairs-in-FR": "6",
   "fairs": {
     "2007": [
       {
-        "i": "14495-ST-ART 2007 - 12ème édition",
+        "i": "14495-ST-ART-2007---12ème-édition",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "14495-art KARLSRUHE 2009",
+        "i": "14495-art-KARLSRUHE-2009",
         "c": "DE",
         "n": "art KARLSRUHE 2009",
         "ct": "Karlsruhe"
@@ -32,19 +32,19 @@
     ],
     "2010": [
       {
-        "i": "14495-art KARLSRUHE 2010",
+        "i": "14495-art-KARLSRUHE-2010",
         "c": "DE",
         "n": "art KARLSRUHE 2010",
         "ct": "Karlsruhe"
       },
       {
-        "i": "14495-ST-ART 2010",
+        "i": "14495-ST-ART-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "14495-art KARLSRUHE 2011",
+        "i": "14495-art-KARLSRUHE-2011",
         "c": "DE",
         "n": "art KARLSRUHE 2011",
         "ct": "Karlsruhe"
@@ -52,36 +52,48 @@
     ],
     "2012": [
       {
-        "i": "14495-Art Karlsruhe 2012",
+        "i": "14495-Art-Karlsruhe-2012",
         "c": "DE",
         "n": "Art Karlsruhe 2012",
         "ct": "Karlsruhe"
       },
       {
-        "i": "14495-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "i": "14495-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2012",
         "c": "FR"
       },
       {
-        "i": "14495-Art Paris Art Fair 2012",
+        "i": "14495-Art-Paris-Art-Fair-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "14495-Art Karlsruhe 2013",
+        "i": "14495-Art-Karlsruhe-2013",
         "c": "DE",
         "n": "Art Karlsruhe 2013",
         "ct": "Karlsruhe"
       },
       {
-        "i": "14495-Art Paris Art Fair 2013",
+        "i": "14495-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "14495-Art Bodensee 2013",
+        "i": "14495-Art-Bodensee-2013",
         "c": "AT",
         "n": "Art Bodensee 2013",
         "ct": "Dornbirn"
+      }
+    ],
+    "2014": [
+      {
+        "i": "14495-Art-Karlsruhe-2014",
+        "c": "DE",
+        "n": "Art Karlsruhe 2014",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "14495-Artparis-2014",
+        "c": "FR"
       }
     ]
   }

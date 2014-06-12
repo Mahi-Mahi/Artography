@@ -1,7 +1,7 @@
 {
   "id": "44310",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:31:39",
+  "timestamp": "2014-05-31 06:37:07",
   "name": "Stephanie Nava",
   "surname": "Nava",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography, Video, Installation, Drawings",
-  "r00": "4742",
-  "r01": "5539",
-  "r02": "7063",
+  "r00": "4780",
+  "r01": "5547",
+  "r02": "7066",
   "r03": "6122",
-  "r04": "6804",
-  "r05": "10752",
-  "r06": "12366",
-  "r07": "17645",
-  "r08": "15948",
+  "r04": "6806",
+  "r05": "10764",
+  "r06": "12384",
+  "r07": "17663",
+  "r08": "15967",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "41",
+  "all-shows-total": "45",
   "2005-shows-biennials": "9",
   "2005-shows-galleries": "9",
   "2005-shows-museums": "20",
@@ -419,6 +419,83 @@
       {
         "i": "44310-3864-2013-11-14",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "44310-26246-2014-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "44310-26246-2014-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "44310-1595-2014-02-06",
+        "c": "DE",
+        "n": "Tschthinzscht. Urban.",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Cottbus",
+        "o": "Kunstmuseum Dieselkraftwerk Cottbus",
+        "d": [
+          "2014-02-06",
+          "2014-06-24"
+        ],
+        "a": "44310",
+        "an": "Stephanie Nava"
+      },
+      {
+        "i": "44310-27613-2014-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "44310-27613-2014-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "44310-1595-2014-01-25",
+        "c": "DE",
+        "n": "Stéphanie Nava - Graben für den Sieg oder die Gärten des Überlebens.",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Cottbus",
+        "o": "Kunstmuseum Dieselkraftwerk Cottbus",
+        "d": [
+          "2014-01-25",
+          "2014-03-23"
+        ]
+      },
+      {
+        "i": "44310-26246-2014-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "44310-26246-2014-03-15",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "44310",
+        "c": "DE",
+        "g": "f",
+        "a": "41-60"
+      },
+      {
+        "i": "44310-1595-2014-02-06",
+        "c": "DE",
+        "n": "Tschthinzscht. Urban.",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Cottbus",
+        "o": "Kunstmuseum Dieselkraftwerk Cottbus",
+        "d": [
+          "2014-02-06",
+          "2014-06-24"
+        ],
+        "a": "44310",
+        "an": "Stephanie Nava"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "306784",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 08:01:25",
+  "timestamp": "2014-05-31 08:06:41",
   "name": "Morgane Denzler",
   "surname": "Denzler",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "69803",
-  "r01": "71555",
-  "r02": "74758",
-  "r03": "110164",
-  "r04": "105809",
-  "r05": "99988",
+  "r00": "68819",
+  "r01": "71671",
+  "r02": "74854",
+  "r03": "110353",
+  "r04": "105976",
+  "r05": "100146",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -29,16 +29,16 @@
   "website": null,
   "all-shows-first": "2009",
   "all-shows-total": "4",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (3), Belgium (1)",
-  "2005-shows-with": "Morgane Denzler (3), Jessica Lajard (2)",
+  "2005-countries-total": "France (4), Belgium (1)",
+  "2005-shows-with": "Morgane Denzler (4), Jessica Lajard (2)",
   "representing-galleries": "Bendana-Pinel | Art Contemporain (4, Rue du Perche, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Morgane",
   "last_name": "Denzler",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1986-01-01",
   "age": 28,
   "age_range": "26-40",
@@ -74,6 +74,16 @@
           "2013-09-06",
           "2013-11-09"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "306784-27182-2014-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "306784-27182-2014-01-10",
+        "c": "FR"
       }
     ],
     "2012": [

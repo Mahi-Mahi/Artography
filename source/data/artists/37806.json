@@ -1,7 +1,7 @@
 {
   "id": "37806",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:29:17",
+  "timestamp": "2014-05-31 06:34:47",
   "name": "Babette Mangolte",
   "surname": "Mangolte",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Film",
-  "r00": "1660",
-  "r01": "1781",
+  "r00": "1668",
+  "r01": "1784",
   "r02": "2018",
-  "r03": "1805",
-  "r04": "2067",
-  "r05": "2824",
+  "r03": "1806",
+  "r04": "2070",
+  "r05": "2825",
   "r06": "2825",
-  "r07": "5134",
-  "r08": "27396",
+  "r07": "5138",
+  "r08": "27395",
   "awards": null,
   "website": "www.babettemangolte.com",
   "all-shows-first": "1977",
@@ -427,7 +427,7 @@
       {
         "i": "37806-4432-2010-06-25",
         "c": "US",
-        "n": "Presence",
+        "n": "Movement And Stills",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "New York City, NY",
@@ -440,7 +440,7 @@
       {
         "i": "37806-4432-2010-06-25",
         "c": "US",
-        "n": "Movement And Stills",
+        "n": "Presence",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "New York City, NY",
@@ -712,6 +712,57 @@
           "2013-10-31",
           "2014-02-02"
         ]
+      },
+      {
+        "i": "37806-2289-2014-02-15",
+        "c": "CH",
+        "n": "Sacré 101 &#8211;  An Exhibition Based on &#8249;The Rite of Spring",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Migros Museum für Gegenwartskunst",
+        "d": [
+          "2014-02-15",
+          "2014-05-11"
+        ]
+      },
+      {
+        "i": "37806-5306-2014-05-22",
+        "c": "IL",
+        "n": "Set in Motion",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Petach Tikva",
+        "o": "The Petach Tikva Museum of Art",
+        "d": [
+          "2014-05-22",
+          "2014-09-06"
+        ],
+        "a": "37806",
+        "an": "Babette Mangolte"
+      }
+    ],
+    "today": [
+      {
+        "i": "37806",
+        "c": "IL",
+        "g": "f",
+        "a": "61-100"
+      },
+      {
+        "i": "37806-5306-2014-05-22",
+        "c": "IL",
+        "n": "Set in Motion",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Petach Tikva",
+        "o": "The Petach Tikva Museum of Art",
+        "d": [
+          "2014-05-22",
+          "2014-09-06"
+        ],
+        "a": "37806",
+        "an": "Babette Mangolte"
       }
     ]
   }

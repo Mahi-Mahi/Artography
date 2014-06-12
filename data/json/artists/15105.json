@@ -1,7 +1,7 @@
 {
   "id": "15105",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:55",
+  "timestamp": "2014-05-31 06:26:25",
   "name": "Annelise Coste",
   "surname": "Coste",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Works on Paper",
-  "r00": "2608",
-  "r01": "2342",
-  "r02": "2017",
-  "r03": "1810",
+  "r00": "2628",
+  "r01": "2348",
+  "r02": "2019",
+  "r03": "1811",
   "r04": "1824",
-  "r05": "1950",
-  "r06": "1708",
+  "r05": "1951",
+  "r06": "1707",
   "r07": "1737",
-  "r08": "2316",
+  "r08": "2317",
   "awards": "Art Award Lingen",
   "website": null,
   "all-shows-first": "2000",
@@ -68,19 +68,6 @@
       {
         "i": "15105-2287-2005-11-12",
         "c": "CH",
-        "n": "Bekanntmachungen",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Zurich",
-        "o": "Kunsthalle Zürich",
-        "d": [
-          "2005-11-12",
-          "2006-01-08"
-        ]
-      },
-      {
-        "i": "15105-2287-2005-11-12",
-        "c": "CH",
         "n": "As time goes by",
         "t": "Institution publique",
         "st": "Group",
@@ -89,6 +76,19 @@
         "d": [
           "2005-11-12",
           "2005-11-27"
+        ]
+      },
+      {
+        "i": "15105-2287-2005-11-12",
+        "c": "CH",
+        "n": "Bekanntmachungen",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Kunsthalle Zürich",
+        "d": [
+          "2005-11-12",
+          "2006-01-08"
         ]
       },
       {
@@ -757,19 +757,6 @@
         ]
       },
       {
-        "i": "15105-24232-2011-02-19",
-        "c": "CH",
-        "n": "Hysteria, Laughter And A Sense Of Seriousness",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Zurich",
-        "o": "Galerie Gregor Staiger",
-        "d": [
-          "2011-02-19",
-          "2011-03-26"
-        ]
-      },
-      {
         "i": "15105-11559-2011-02-19",
         "c": "CH",
         "n": "Hysteria, Laughter and a Sense of Seriousness",
@@ -777,6 +764,19 @@
         "st": "Group",
         "ct": "Zurich",
         "o": "Karma International",
+        "d": [
+          "2011-02-19",
+          "2011-03-26"
+        ]
+      },
+      {
+        "i": "15105-24232-2011-02-19",
+        "c": "CH",
+        "n": "Hysteria, Laughter And A Sense Of Seriousness",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Galerie Gregor Staiger",
         "d": [
           "2011-02-19",
           "2011-03-26"
@@ -1063,6 +1063,19 @@
         ]
       },
       {
+        "i": "15105-28060-2013-06-14",
+        "c": "CH",
+        "n": "I am your neigh­bour! - Young artists and por­trai­ture",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rogg­wil-Kal­ten­her­berg",
+        "o": "Bro­mer Art Collec­tion (BAC)",
+        "d": [
+          "2013-06-14",
+          "2013-07-21"
+        ]
+      },
+      {
         "i": "15105-30131-2013-06-14",
         "c": "CH",
         "n": "I´m Your Neigh­bour! - Ein­blick in das junge Schwei­zer Kunst­schaf­fen",
@@ -1079,19 +1092,6 @@
         "i": "15105-28060-2013-06-14",
         "c": "CH",
         "n": "I&#8217;m Your Neighbour! Einblick in das junge Schweizer Kunstschaffen",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Rogg­wil-Kal­ten­her­berg",
-        "o": "Bro­mer Art Collec­tion (BAC)",
-        "d": [
-          "2013-06-14",
-          "2013-07-21"
-        ]
-      },
-      {
-        "i": "15105-28060-2013-06-14",
-        "c": "CH",
-        "n": "I am your neigh­bour! - Young artists and por­trai­ture",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Rogg­wil-Kal­ten­her­berg",

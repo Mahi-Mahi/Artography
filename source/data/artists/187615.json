@@ -1,7 +1,7 @@
 {
   "id": "187615",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:20:44",
+  "timestamp": "2014-05-31 07:26:07",
   "name": "Nadege Meriau",
   "surname": "Meriau",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "79645",
-  "r01": "79571",
-  "r02": "75503",
-  "r03": "73743",
-  "r04": "67788",
-  "r05": "61107",
-  "r06": "74764",
-  "r07": "74433",
+  "r00": "79940",
+  "r01": "79725",
+  "r02": "75597",
+  "r03": "73841",
+  "r04": "67861",
+  "r05": "61160",
+  "r06": "74853",
+  "r07": "74528",
   "r08": null,
   "awards": null,
   "website": "www.nadegemerlau.com",
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Nadege",
   "last_name": "Meriau",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1968-02-27",
   "age": 46,
   "age_range": "41-60",
@@ -111,6 +111,19 @@
       {
         "i": "187615-21757-2012-11-10",
         "c": "FR"
+      },
+      {
+        "i": "187615-25752-2013-07-01",
+        "c": "GB",
+        "n": "FT13 Summer Exhibition",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "London",
+        "o": "The Florence Trust ",
+        "d": [
+          "2013-07-01",
+          "2013-07-14"
+        ]
       }
     ]
   }

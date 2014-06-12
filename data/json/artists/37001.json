@@ -1,7 +1,7 @@
 {
   "id": "37001",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:29:00",
+  "timestamp": "2014-05-31 06:34:31",
   "name": "Jean-Baptiste Ganne",
   "surname": "Ganne",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "5697",
-  "r01": "5348",
-  "r02": "4502",
-  "r03": "4598",
-  "r04": "5048",
-  "r05": "4734",
-  "r06": "4971",
-  "r07": "6074",
-  "r08": "10985",
+  "r00": "5718",
+  "r01": "5360",
+  "r02": "4507",
+  "r03": "4597",
+  "r04": "5052",
+  "r05": "4739",
+  "r06": "4974",
+  "r07": "6082",
+  "r08": "10997",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
   "all-shows-total": "33",
-  "2005-shows-biennials": null,
-  "2005-shows-galleries": null,
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
   "2005-shows-museums": "13",
-  "2005-countries-total": "France (11), Belgium (1), Greece (1), Hungary (1), Italy (1), Switzerland (1), United Kingdom (1)",
-  "2005-shows-with": "Jean-Baptiste Ganne (15), Erik Dietman (4), Noël Dolla (4), Eric Duyckaerts (4), Raymond Hains (4), Serge Oldenbourg (4), Pierre Pinoncelli (4), Mimmo Rotella (4), Niki de Saint Phalle (4), Bernar Venet (4), Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), Gilles Barbier (3), Julien Blaine (3), Julien Bouillon (3), Heath Bunting (3), Anna Byskov (3), Gilbert Caty (3), Nancy Davenport (3), Joël Ducorroy (3), Miklós Erhardt (3), Kristof Everart (3), Daniel Farioli (3), Robert Filliou (3), Fred Forest (3), Paul-Armand Gette (3), Claude Gilli (3), Alexandra Guillot (3), Yoko Gunji (3), Raoul Hébréard (3), Carsten Höller (3), Michel Journiac (3), Tamás Kaszás (3), Zofia Kulik (3), Arnaud Labelle-Rojoux (3), Thierry Lagalla (3), Virginie Le Touze (3), Jean-Jacques Lebel (3), Jacques Lizène (3), Marko Lulic (3), George Maciunas (3), Jean Mas (3), Florent Mattei (3), Bruno Mendonça (3), Roland Miller (3), Patrick Moya (3), Orlan (3), Gina Pane (3), Philippe Parreno (3), Gilbert Pedinielli (3), Phil",
+  "2005-countries-total": "France (12), Belgium (1), Greece (1), Hungary (1), Italy (1), Switzerland (1), United Kingdom (1)",
+  "2005-shows-with": "Jean-Baptiste Ganne (16), Noël Dolla (5), Julien Blaine (4), Anna Byskov (4), Erik Dietman (4), Eric Duyckaerts (4), Raymond Hains (4), Arnaud Labelle-Rojoux (4), Thierry Lagalla (4), Florent Mattei (4), Serge Oldenbourg (4), Pierre Pinoncelli (4), Mimmo Rotella (4), Niki de Saint Phalle (4), Cédric Teisseire (4), Bernar Venet (4), Jean-Luc Verna (4), Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), Gilles Barbier (3), Julien Bouillon (3), Heath Bunting (3), Gilbert Caty (3), Marc Chevalier (3), Nancy Davenport (3), Joël Ducorroy (3), Jean Dupuy (3), Miklós Erhardt (3), Kristof Everart (3), Daniel Farioli (3), Robert Filliou (3), Fred Forest (3), Paul-Armand Gette (3), Claude Gilli (3), Alexandra Guillot (3), Yoko Gunji (3), Raoul Hébréard (3), Joël Hubaut (3), Carsten Höller (3), Michel Journiac (3), Tamás Kaszás (3), Zofia Kulik (3), Virginie Le Touze (3), Jean-Jacques Lebel (3), Jacques Lizène (3), Marko Lulic (3), George Maciunas (3), Jean Mas (3), Bruno Mendonça (3), Roland Miller (3",
   "representing-galleries": "Vidéochroniques (1 place de Lorette, 13002 Marseille, France)",
   "collecting-museums": null,
   "first_name": "Jean-Baptiste",
@@ -310,6 +310,28 @@
       },
       {
         "i": "37001-2585-2012-07-01",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "37001-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "37001-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "37001",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "37001-16752-2014-04-19",
         "c": "FR"
       }
     ],

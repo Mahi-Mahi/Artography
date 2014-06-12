@@ -1,7 +1,7 @@
 {
   "id": "272510",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:49:48",
+  "timestamp": "2014-05-31 07:55:05",
   "name": "Gabriel Desplanque",
   "surname": "Desplanque",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video",
-  "r00": "43865",
-  "r01": "44270",
-  "r02": "46770",
-  "r03": "43237",
-  "r04": "68369",
+  "r00": "44082",
+  "r01": "44377",
+  "r02": "46825",
+  "r03": "43269",
+  "r04": "68468",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,7 +28,7 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "7",
+  "all-shows-total": "8",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "5",
@@ -118,6 +118,28 @@
           "2013-09-20",
           "2013-10-27"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "272510-26257-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "272510-26257-2014-06-06",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "272510",
+        "c": "FR",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "272510-26257-2014-06-06",
+        "c": "FR"
       }
     ]
   }

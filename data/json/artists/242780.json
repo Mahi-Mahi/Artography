@@ -1,7 +1,7 @@
 {
   "id": "242780",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:39:37",
+  "timestamp": "2014-05-31 07:44:53",
   "name": "Jean-Baptiste Maître",
   "surname": "Maître",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "14701",
-  "r01": "21913",
-  "r02": "22188",
-  "r03": "27448",
-  "r04": "38644",
-  "r05": "53236",
-  "r06": "52945",
+  "r00": "14769",
+  "r01": "21942",
+  "r02": "22195",
+  "r03": "27442",
+  "r04": "38655",
+  "r05": "53280",
+  "r06": "52988",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -305,6 +305,21 @@
         "d": [
           "2013-04-06",
           "2013-05-05"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "242780-2921-2014-01-23",
+        "c": "US",
+        "n": "Codex",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "San Francisco, CA",
+        "o": "CCA Wattis Institute for Contemporary Arts",
+        "d": [
+          "2014-01-23",
+          "2014-03-29"
         ]
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "7960",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:18:07",
+  "timestamp": "2014-05-31 06:23:36",
   "name": "Jean Miotte",
   "surname": "Miotte",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "2403",
+  "r00": "2422",
   "r01": "2323",
-  "r02": "1952",
-  "r03": "1603",
-  "r04": "2405",
-  "r05": "4495",
-  "r06": "7147",
-  "r07": "5400",
-  "r08": "4126",
+  "r02": "1953",
+  "r03": "1600",
+  "r04": "2407",
+  "r05": "4491",
+  "r06": "7151",
+  "r07": "5404",
+  "r08": "4128",
   "awards": null,
   "website": null,
   "all-shows-first": "1962",
@@ -269,19 +269,6 @@
         ]
       },
       {
-        "i": "7960-451-2009-07-24",
-        "c": "DE",
-        "n": "Sommerfrische",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Munich",
-        "o": "Galerie Maulberger",
-        "d": [
-          "2009-07-24",
-          "2009-08-28"
-        ]
-      },
-      {
         "i": "7960-23930-2009-07-24",
         "c": "DE",
         "n": "Sommerfrische",
@@ -289,6 +276,19 @@
         "st": "Group",
         "ct": "Dusseldorf",
         "o": "Galerie Maulberger & Becker",
+        "d": [
+          "2009-07-24",
+          "2009-08-28"
+        ]
+      },
+      {
+        "i": "7960-451-2009-07-24",
+        "c": "DE",
+        "n": "Sommerfrische",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Munich",
+        "o": "Galerie Maulberger",
         "d": [
           "2009-07-24",
           "2009-08-28"

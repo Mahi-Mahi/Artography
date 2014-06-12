@@ -12,23 +12,23 @@
   "email": "gallery@samyabraham.com",
   "www": "www.samyabraham.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075020 %2C%20 %2C%2043, rue Ramponeau %2C%20France",
-  "fairs-total": "7",
-  "fairs-abroad": "4",
+  "fairs-total": "9",
+  "fairs-abroad": "6",
   "fairs-in-FR": "3",
   "fairs": {
     "2012": [
       {
-        "i": "26376-Artgenève - Salon international d\\'art  2012",
+        "i": "26376-Artgenève---Salon-international-d\\'art--2012",
         "c": "CH",
         "n": "Artgenève - Salon international d'art  2012",
         "ct": "Geneva"
       },
       {
-        "i": "26376-Fiac 2012",
+        "i": "26376-Fiac-2012",
         "c": "FR"
       },
       {
-        "i": "26376-Artissima 19",
+        "i": "26376-Artissima-19",
         "c": "IT",
         "n": "Artissima 19",
         "ct": "Turin"
@@ -36,24 +36,38 @@
     ],
     "2013": [
       {
-        "i": "26376-Art Rotterdam 2013",
+        "i": "26376-Art-Rotterdam-2013",
         "c": "NL",
         "n": "Art Rotterdam 2013",
         "ct": "Rotterdam"
       },
       {
-        "i": "26376-Art-O-Rama 2013",
+        "i": "26376-Art-O-Rama-2013",
         "c": "FR"
       },
       {
-        "i": "26376-Swab - Barcelona International Contemporary Art Fair",
+        "i": "26376-Swab---Barcelona-International-Contemporary-Art-Fair",
         "c": "ES",
         "n": "Swab - Barcelona International Contemporary Art Fair",
         "ct": "Barcelona"
       },
       {
-        "i": "26376-Yia Art Fair 2013",
+        "i": "26376-Yia-Art-Fair-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "26376-Art-Rotterdam-2014",
+        "c": "NL",
+        "n": "Art Rotterdam 2014",
+        "ct": "Rotterdam"
+      },
+      {
+        "i": "26376-Art-Brussel-2014",
+        "c": "BE",
+        "n": "Art Brussel 2014",
+        "ct": "Brussels"
       }
     ]
   }

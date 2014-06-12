@@ -1,7 +1,7 @@
 {
   "id": "30355",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:26:34",
+  "timestamp": "2014-05-31 06:32:06",
   "name": "François Dallegret",
   "surname": "Dallegret",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Architecture, Design",
-  "r00": "14713",
-  "r01": "17103",
-  "r02": "15698",
-  "r03": "13134",
-  "r04": "11850",
-  "r05": "14598",
-  "r06": "11758",
-  "r07": "18128",
-  "r08": "23114",
+  "r00": "14772",
+  "r01": "17127",
+  "r02": "15701",
+  "r03": "13140",
+  "r04": "11855",
+  "r05": "14601",
+  "r06": "11761",
+  "r07": "18136",
+  "r08": "23112",
   "awards": null,
   "website": null,
   "all-shows-first": "1978",
@@ -208,6 +208,21 @@
         "d": [
           "2011-11-05",
           "2011-12-14"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "30355-11349-2014-01-09",
+        "c": "CA",
+        "n": "François Dallegret - Beyond The Bubble",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Hamilton, ON",
+        "o": "McMaster Museum of Art",
+        "d": [
+          "2014-01-09",
+          "2014-03-29"
         ]
       }
     ]

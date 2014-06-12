@@ -1,7 +1,7 @@
 {
   "id": "44405",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:31:41",
+  "timestamp": "2014-05-31 06:37:10",
   "name": "Odile Decq",
   "surname": "Decq",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Architecture",
-  "r00": "24843",
-  "r01": "23020",
-  "r02": "26366",
-  "r03": "22627",
-  "r04": "26658",
+  "r00": "20819",
+  "r01": "23034",
+  "r02": "26381",
+  "r03": "22638",
+  "r04": "26677",
   "r05": "27195",
-  "r06": "21373",
-  "r07": "16753",
-  "r08": "13016",
+  "r06": "21378",
+  "r07": "16755",
+  "r08": "13015",
   "awards": "GOLDEN LION - Venice  Architecture Biennale 10 national and international prizes for the B.P.O. in Rennes (Benedictus, AMO, Steel Construction, Eternit, Design Oscar …) \r\n,The Benedictus Award  for University buildings in Nantes,Premio « il Principe e l’Architetto » for Museum of Contemporary Art in Roma,Trophy from the Association of Construction Journalists,Chevalier Legion d’Honneur,Honorary member of the National Society of Architects – Tcheque Republic,Commander Ordre des Arts et Lettres,American Architecture Award  - The Chicago Athenaeum, Illinois, USA pour L. Museum in Neuhaus",
   "website": null,
   "all-shows-first": "1996",
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (6)",
-  "2005-shows-with": "Odile Decq (2), Camille Henrot (2)",
+  "2005-countries-total": "France (6), USA (1)",
+  "2005-shows-with": "Odile Decq (3), Camille Henrot (2)",
   "representing-galleries": "Galerie Polaris (15, rue des Arquebusiers, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Odile",
@@ -73,6 +73,21 @@
       {
         "i": "44405-1771-2013-09-06",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "44405-7810-2014-04-30",
+        "c": "US",
+        "n": "Letters to the Mayor",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Storefront for Art and Architecture",
+        "d": [
+          "2014-04-30",
+          "2014-05-24"
+        ]
       }
     ],
     "2011": [

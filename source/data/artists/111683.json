@@ -1,7 +1,7 @@
 {
   "id": "111683",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:54:55",
+  "timestamp": "2014-05-31 07:00:18",
   "name": "Guillaume Bruére",
   "surname": "Bruére",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "3375",
-  "r01": "3368",
-  "r02": "3802",
-  "r03": "10438",
-  "r04": "11687",
-  "r05": "11428",
-  "r06": "13943",
-  "r07": "13727",
-  "r08": "13269",
+  "r00": "3395",
+  "r01": "3372",
+  "r02": "3799",
+  "r03": "10433",
+  "r04": "11693",
+  "r05": "11433",
+  "r06": "13950",
+  "r07": "13731",
+  "r08": "13275",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
@@ -548,6 +548,32 @@
         "d": [
           "2013-12-08",
           "2014-01-31"
+        ]
+      },
+      {
+        "i": "111683-31064-2014-03-23",
+        "c": "DE",
+        "n": "Einblicke in die Sammlung Wemhöner",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Sammlung Wemhöner",
+        "d": [
+          "2014-03-23",
+          "2014-05-18"
+        ]
+      },
+      {
+        "i": "111683-8504-2014-06-28",
+        "c": "DE",
+        "n": "Dash to Dash",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Eislingen",
+        "o": "Kunstverein Eislingen",
+        "d": [
+          "2014-06-28",
+          "2014-08-03"
         ]
       }
     ],

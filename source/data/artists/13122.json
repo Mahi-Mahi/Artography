@@ -1,7 +1,7 @@
 {
   "id": "13122",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:08",
+  "timestamp": "2014-05-31 06:25:37",
   "name": "Marine Hugonnier",
   "surname": "Hugonnier",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Works on Paper",
-  "r00": "870",
-  "r01": "803",
+  "r00": "874",
+  "r01": "804",
   "r02": "735",
   "r03": "779",
   "r04": "705",
   "r05": "591",
   "r06": "562",
   "r07": "570",
-  "r08": "791",
+  "r08": "792",
   "awards": null,
   "website": "www.marinehugonnier.com",
   "all-shows-first": "2000",
@@ -1410,6 +1410,18 @@
         "d": [
           "2013-11-23",
           "2014-01-24"
+        ]
+      },
+      {
+        "i": "13122-30505-2014-02-07",
+        "c": "CO",
+        "n": "1st International Biennial of Contemporary Art of Cartagena de Indias",
+        "st": "Group",
+        "ct": "Cartagena de Indias",
+        "o": "International Biennial of Contemporary Art of Cartagena de Indias",
+        "d": [
+          "2014-02-07",
+          "2014-04-07"
         ]
       }
     ]

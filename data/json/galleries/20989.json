@@ -12,42 +12,50 @@
   "email": "contact@galerievintage.com",
   "www": "www.galerievintage.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%208, rue des Saints-Peres %2C%20France",
-  "fairs-total": "6",
-  "fairs-abroad": "1",
+  "fairs-total": "7",
+  "fairs-abroad": "2",
   "fairs-in-FR": "5",
   "fairs": {
     "2009": [
       {
-        "i": "20989-ST-ART 2009 - 14e édition",
+        "i": "20989-ST-ART-2009---14e-édition",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "20989-Art Elysées 2011",
+        "i": "20989-Art-Elysées-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "20989-Art Paris Art Fair 2012",
+        "i": "20989-Art-Paris-Art-Fair-2012",
         "c": "FR"
       },
       {
-        "i": "20989-Art Elysées 2012",
+        "i": "20989-Art-Elysées-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "20989-Art Elysees 2013",
+        "i": "20989-Art-Elysees-2013",
         "c": "FR"
       },
       {
-        "i": "20989-Scope Miami Beach 2013",
+        "i": "20989-Scope-Miami-Beach-2013",
         "c": "US",
         "n": "Scope Miami Beach 2013",
         "ct": "Miami Beach, FL"
+      }
+    ],
+    "2014": [
+      {
+        "i": "20989-Scope-Basel-2014",
+        "c": "CH",
+        "n": "Scope Basel 2014",
+        "ct": "Basel"
       }
     ]
   }

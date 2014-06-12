@@ -1,7 +1,7 @@
 {
   "id": "116468",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:56:34",
+  "timestamp": "2014-05-31 07:01:58",
   "name": "Gildas Coudrais",
   "surname": "Coudrais",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "58066",
-  "r01": "61894",
-  "r02": "58170",
-  "r03": "59453",
-  "r04": "100574",
-  "r05": "93707",
-  "r06": "86021",
-  "r07": "77537",
-  "r08": "69049",
+  "r00": "58261",
+  "r01": "61990",
+  "r02": "58227",
+  "r03": "59506",
+  "r04": "100721",
+  "r05": "93855",
+  "r06": "86159",
+  "r07": "77666",
+  "r08": "69100",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
@@ -139,6 +139,34 @@
         "d": [
           "2012-12-07",
           "2013-01-31"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "116468-12461-2014-01-04",
+        "c": "US",
+        "n": "Winter Show",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Santa Monica, CA",
+        "o": "James Gray Gallery",
+        "d": [
+          "2014-01-04",
+          "2014-02-02"
+        ]
+      },
+      {
+        "i": "116468-29812-2014-01-16",
+        "c": "CH",
+        "n": "Gildas Coudrais &#8211; You are in a beauty contest every day of your life",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Bern",
+        "o": "da Mihi Gallery",
+        "d": [
+          "2014-01-16",
+          "2014-03-08"
         ]
       }
     ]

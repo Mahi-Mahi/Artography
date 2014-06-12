@@ -1,7 +1,7 @@
 {
   "id": "80",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:14:15",
+  "timestamp": "2014-05-31 06:19:47",
   "name": "Ben Vautier",
   "surname": "Vautier",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": "Objects",
-  "r00": "243",
-  "r01": "236",
+  "r00": "247",
+  "r01": "237",
   "r02": "223",
-  "r03": "255",
+  "r03": "256",
   "r04": "257",
-  "r05": "262",
-  "r06": "290",
+  "r05": "263",
+  "r06": "291",
   "r07": "268",
   "r08": "296",
   "awards": null,
@@ -208,19 +208,6 @@
         "c": "FR"
       },
       {
-        "i": "80-821-2005-09-17",
-        "c": "DE",
-        "n": "In neuer Frische - Neupräsentation der Sammlung",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Ludwigshafen",
-        "o": "Wilhelm Hack Museum",
-        "d": [
-          "2005-09-17",
-          "2005-12-31"
-        ]
-      },
-      {
         "i": "80-1588-2005-09-17",
         "c": "AT",
         "n": "Support 3 - Die Neue Galerie als Sammlung",
@@ -231,6 +218,19 @@
         "d": [
           "2005-09-17",
           "2006-10-15"
+        ]
+      },
+      {
+        "i": "80-821-2005-09-17",
+        "c": "DE",
+        "n": "In neuer Frische - Neupräsentation der Sammlung",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Ludwigshafen",
+        "o": "Wilhelm Hack Museum",
+        "d": [
+          "2005-09-17",
+          "2005-12-31"
         ]
       },
       {
@@ -428,6 +428,19 @@
         "d": [
           "2006-05-12",
           "2006-06-23"
+        ]
+      },
+      {
+        "i": "80-2390-2006-06-09",
+        "c": "LI",
+        "n": "\"Transformation\"",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Vaduz",
+        "o": "Kunstmuseum Liechtenstein",
+        "d": [
+          "2006-06-09",
+          "2006-10-01"
         ]
       },
       {
@@ -1376,6 +1389,32 @@
         "d": [
           "2009-02-27",
           "2009-04-20"
+        ]
+      },
+      {
+        "i": "80-2390-2009-03-05",
+        "c": "LI",
+        "n": "\"Der Blick\"",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Vaduz",
+        "o": "Kunstmuseum Liechtenstein",
+        "d": [
+          "2009-03-05",
+          "2009-06-15"
+        ]
+      },
+      {
+        "i": "80-2390-2009-03-05",
+        "c": "LI",
+        "n": "Der Blick. Works from our collection",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Vaduz",
+        "o": "Kunstmuseum Liechtenstein",
+        "d": [
+          "2009-03-05",
+          "2009-06-15"
         ]
       },
       {
@@ -3046,19 +3085,6 @@
         ]
       },
       {
-        "i": "80-11554-2013-06-08",
-        "c": "DE",
-        "n": "Inseldasein (Being an Island)",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "daadgalerie",
-        "d": [
-          "2013-06-08",
-          "2013-07-27"
-        ]
-      },
-      {
         "i": "80-821-2013-06-08",
         "c": "DE",
         "n": "Gut aufgelegt. Die Sammlung Heinz Beck",
@@ -3069,6 +3095,19 @@
         "d": [
           "2013-06-08",
           "2013-08-25"
+        ]
+      },
+      {
+        "i": "80-11554-2013-06-08",
+        "c": "DE",
+        "n": "Inseldasein (Being an Island)",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "daadgalerie",
+        "d": [
+          "2013-06-08",
+          "2013-07-27"
         ]
       },
       {
@@ -3222,6 +3261,49 @@
         "c": "FR"
       },
       {
+        "i": "80-4060-2014-02-11",
+        "c": "AT",
+        "n": "Nichts Ist Kunst",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Graz",
+        "o": "Galerie Eugen Lendl",
+        "d": [
+          "2014-02-11",
+          "2014-03-08"
+        ]
+      },
+      {
+        "i": "80-2210-2014-03-08",
+        "c": "DE",
+        "n": "Hans Im Glück &#8211; Kunst & Kapital",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Duisburg",
+        "o": "Lehmbruck Museum",
+        "d": [
+          "2014-03-08",
+          "2014-06-22"
+        ],
+        "a": "80",
+        "an": "Ben Vautier"
+      },
+      {
+        "i": "80-15258-2014-05-15",
+        "c": "CZ",
+        "n": "Publisher Rainer Pretzell | Creator and Experimentalist | Artists&#8217; Book",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Olomouc",
+        "o": "Muzeum Umeni Olomouc",
+        "d": [
+          "2014-05-15",
+          "2014-09-14"
+        ],
+        "a": "80",
+        "an": "Ben Vautier"
+      },
+      {
         "i": "80-6361-2013-12-05",
         "c": "MC",
         "n": "Ben Vautier",
@@ -3233,6 +3315,118 @@
           "2013-12-05",
           "2014-01-31"
         ]
+      },
+      {
+        "i": "80-30930-2014-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "80-30930-2014-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "80-29508-2014-05-24",
+        "c": "DE",
+        "n": "Ben Vautier - Helden &#8226; Heroes &#8226; Héros",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Ulm",
+        "o": "Galerie am Saumarkt | BEGE Galerien",
+        "d": [
+          "2014-05-24",
+          "2014-06-21"
+        ],
+        "a": "80",
+        "an": "Ben Vautier"
+      },
+      {
+        "i": "80-1097-2014-05-24",
+        "c": "DE",
+        "n": "Ben Vautier",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Ulm",
+        "o": "Fischerplatz Galerie | BEGE Galerien",
+        "d": [
+          "2014-05-24",
+          "2014-06-21"
+        ],
+        "a": "80",
+        "an": "Ben Vautier"
+      }
+    ],
+    "today": [
+      {
+        "i": "80",
+        "c": "DE",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "80-2210-2014-03-08",
+        "c": "DE",
+        "n": "Hans Im Glück &#8211; Kunst & Kapital",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Duisburg",
+        "o": "Lehmbruck Museum",
+        "d": [
+          "2014-03-08",
+          "2014-06-22"
+        ],
+        "a": "80",
+        "an": "Ben Vautier"
+      },
+      {
+        "i": "80",
+        "c": "CZ",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "80-15258-2014-05-15",
+        "c": "CZ",
+        "n": "Publisher Rainer Pretzell | Creator and Experimentalist | Artists&#8217; Book",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Olomouc",
+        "o": "Muzeum Umeni Olomouc",
+        "d": [
+          "2014-05-15",
+          "2014-09-14"
+        ],
+        "a": "80",
+        "an": "Ben Vautier"
+      },
+      {
+        "i": "80-29508-2014-05-24",
+        "c": "DE",
+        "n": "Ben Vautier - Helden &#8226; Heroes &#8226; Héros",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Ulm",
+        "o": "Galerie am Saumarkt | BEGE Galerien",
+        "d": [
+          "2014-05-24",
+          "2014-06-21"
+        ],
+        "a": "80",
+        "an": "Ben Vautier"
+      },
+      {
+        "i": "80-1097-2014-05-24",
+        "c": "DE",
+        "n": "Ben Vautier",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Ulm",
+        "o": "Fischerplatz Galerie | BEGE Galerien",
+        "d": [
+          "2014-05-24",
+          "2014-06-21"
+        ],
+        "a": "80",
+        "an": "Ben Vautier"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "40803",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:30:24",
+  "timestamp": "2014-05-31 06:35:53",
   "name": "Thomas Vinson",
   "surname": "Vinson",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "20097",
-  "r01": "19343",
-  "r02": "17282",
-  "r03": "14844",
-  "r04": "19219",
-  "r05": "18173",
-  "r06": "27774",
-  "r07": "38776",
-  "r08": "41943",
+  "r00": "20209",
+  "r01": "19363",
+  "r02": "17297",
+  "r03": "14856",
+  "r04": "19227",
+  "r05": "18188",
+  "r06": "27805",
+  "r07": "38825",
+  "r08": "41973",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
   "all-shows-total": "20",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "Germany (7), France (3), Switzerland (2), Brazil (1)",
-  "2005-shows-with": "Thomas Vinson (10), Henrik Eiben (3), Douglas Allsop (2), Hartmut Böhm (2), Antonio Calderara (2), John Carter (2), Gerard Willem van Fastenhout (2), Dominique Figarella (2), Gisela Hoffmann (2), Hella Nohl (2), Adrian Schiess (2), Regine Schumann (2), Cédric Teisseire (2), Heiner Thiel (2), Günter Umberg (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "Germany (7), France (4), Switzerland (2), Brazil (1)",
+  "2005-shows-with": "Thomas Vinson (11), Henrik Eiben (3), Douglas Allsop (2), Hartmut Böhm (2), Antonio Calderara (2), John Carter (2), Gerard Willem van Fastenhout (2), Dominique Figarella (2), Gisela Hoffmann (2), Aurélie Nemours (2), Hella Nohl (2), Adrian Schiess (2), Regine Schumann (2), Cédric Teisseire (2), Heiner Thiel (2), Günter Umberg (2)",
   "representing-galleries": "Galerie Andrieu (Christburger Str. 25, 10405 Berlin, Germany); Galerie Kim Behm (Untermainkai  20, 60329 Frankfurt/Main, Germany); Octagon Galerie (J. S. M.Bisschops Singel 289 - R, NL - 1012 Amsterdam, Netherlands); Galerie Wenger (Mühlebachstrasse 12, CH-8008 Zurich, Switzerland)",
   "collecting-museums": null,
   "first_name": "Thomas",
@@ -284,6 +284,29 @@
       },
       {
         "i": "40803-19790-2011-03-18",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "40803-3490-2014-03-26",
+        "c": "CH",
+        "n": "Radierung in der konstruktiven Kunst",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Basel",
+        "o": "Atelier-Editions Fanal",
+        "d": [
+          "2014-03-26",
+          "2014-05-01"
+        ]
+      },
+      {
+        "i": "40803-10247-2014-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "40803-10247-2014-06-21",
         "c": "FR"
       }
     ],

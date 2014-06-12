@@ -1,7 +1,7 @@
 {
   "id": "188773",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:21:08",
+  "timestamp": "2014-05-31 07:26:31",
   "name": "Dina Danish",
   "surname": "Danish",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "12391",
-  "r01": "12473",
-  "r02": "21363",
-  "r03": "21586",
-  "r04": "31635",
-  "r05": "30204",
-  "r06": "27498",
-  "r07": "92823",
+  "r00": "11527",
+  "r01": "12502",
+  "r02": "21379",
+  "r03": "21608",
+  "r04": "31651",
+  "r05": "30231",
+  "r06": "27524",
+  "r07": "92978",
   "r08": null,
   "awards": "SECA award, SFMOMA, finalist, San Francisco, CA.,Winner of illy Present Future award, Artissima 18, Turin",
   "website": null,
@@ -31,14 +31,14 @@
   "all-shows-total": "24",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
-  "2005-shows-museums": "6",
-  "2005-countries-total": "Netherlands (6), USA (5), Switzerland (3), Egypt (2), Italy (2), Germany (1), Indonesia (1), Iran (1), Norway (1), United Kingdom (1)",
-  "2005-shows-with": "Dina Danish (19), Youmna Chlala (3), Beatriz Albuquerque (2), Can Altay (2), Nina Lola Bachhuber (2), Michelle Blade (2), Luke Butler (2), Byung Chul Kim (2), Luis Camnitzer (2), Donna Chung (2), Ali Dadgar (2), Chris Evans (2), Martina Geiger-Gerlach (2), Kamil Goerlich (2), Will Holder (2), Jana Jacob (2), Hiba Kalache (2), Anita Kapraljevic (2), Florian Klette (2), Paul Kramer (2), Basim Magdy (2), Tucker Nichols (2), Cristina Rodrigo (2), Marco Schmitt (2), Lucas Soi (2), Gareth Spor (2), Kestutis Svirnelis (2), Sara Thacher (2), Pablo Wendel (2)",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "Netherlands (6), USA (5), Switzerland (3), Egypt (2), Italy (2), Albania (1), Germany (1), Indonesia (1), Iran (1), Norway (1), United Kingdom (1)",
+  "2005-shows-with": "Dina Danish (20), Youmna Chlala (3), Beatriz Albuquerque (2), Can Altay (2), Nina Lola Bachhuber (2), Michelle Blade (2), Luke Butler (2), Byung Chul Kim (2), Luis Camnitzer (2), Donna Chung (2), Ali Dadgar (2), Chris Evans (2), Martina Geiger-Gerlach (2), Kamil Goerlich (2), Pablo Helguera (2), Will Holder (2), Judith Hopf (2), Jana Jacob (2), Hiba Kalache (2), Anita Kapraljevic (2), Hassan Khan (2), Florian Klette (2), Paul Kramer (2), Basim Magdy (2), Alban Muja (2), Tucker Nichols (2), Cristina Rodrigo (2), Marco Schmitt (2), Lucas Soi (2), Gareth Spor (2), Kestutis Svirnelis (2), Sara Thacher (2), Pablo Wendel (2), Ferhat Özgür (2)",
   "representing-galleries": "Galleria SpazioA (Via Amati 13, 51100 Pistoia, Italy); Barbara Seiler Galerie (Anwandstrasse 67, 8004 Zurich, Switzerland)",
   "collecting-museums": null,
   "first_name": "Dina",
   "last_name": "Danish",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1981-12-01",
   "age": 32,
   "age_range": "26-40",
@@ -378,6 +378,19 @@
         "d": [
           "2013-11-16",
           "2014-01-06"
+        ]
+      },
+      {
+        "i": "188773-2636-2014-03-10",
+        "c": "AL",
+        "n": "All About These... Ladies And Gentlemen",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Tirana",
+        "o": "National Gallery of Arts - Tirana",
+        "d": [
+          "2014-03-10",
+          "2014-03-20"
         ]
       }
     ]

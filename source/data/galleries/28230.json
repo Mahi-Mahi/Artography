@@ -12,17 +12,23 @@
   "email": "arttobegallery@sfr.fr",
   "www": "www.arttobegallery.com",
   "map": "http://maps.google.com/maps?q=Lille%2C%2059000 %2C%20 %2C%2044 rue Saint André %2C%20France",
-  "fairs-total": "2",
+  "fairs-total": "3",
   "fairs-abroad": "0",
-  "fairs-in-FR": "2",
+  "fairs-in-FR": "3",
   "fairs": {
     "2013": [
       {
-        "i": "28230-Lille Art Fair 2013",
+        "i": "28230-Lille-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "28230-St-art 2013",
+        "i": "28230-St-art-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "28230-Art-Up!-2014",
         "c": "FR"
       }
     ]

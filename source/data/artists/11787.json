@@ -1,7 +1,7 @@
 {
   "id": "11787",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:19:38",
+  "timestamp": "2014-05-31 06:25:07",
   "name": "Orlan",
   "surname": "Orlan",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Female",
   "media": "Performance, BioArt",
-  "r00": "1011",
+  "r00": "1023",
   "r01": "903",
-  "r02": "878",
+  "r02": "881",
   "r03": "800",
-  "r04": "707",
+  "r04": "708",
   "r05": "664",
   "r06": "641",
   "r07": "634",
@@ -784,19 +784,6 @@
         "c": "FR"
       },
       {
-        "i": "11787-13764-2009-03-21",
-        "c": "DE",
-        "n": "bildschön. Schönheitskult in der aktuellen Kunst",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Karlsruhe",
-        "o": "Städtische Galerie Karlsruhe",
-        "d": [
-          "2009-03-21",
-          "2009-06-07"
-        ]
-      },
-      {
         "i": "11787-1594-2009-03-21",
         "c": "BE",
         "n": "All that is solid melts into air",
@@ -807,6 +794,19 @@
         "d": [
           "2009-03-21",
           "2009-06-21"
+        ]
+      },
+      {
+        "i": "11787-13764-2009-03-21",
+        "c": "DE",
+        "n": "bildschön. Schönheitskult in der aktuellen Kunst",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "Städtische Galerie Karlsruhe",
+        "d": [
+          "2009-03-21",
+          "2009-06-07"
         ]
       },
       {
@@ -1699,6 +1699,19 @@
         "d": [
           "2013-09-28",
           "2014-01-26"
+        ]
+      },
+      {
+        "i": "11787-26278-2014-03-22",
+        "c": "DE",
+        "n": "Hermann Nitsch /  Orlan  / Anke Röhrscheid - Physis der Seele &#8211; Inszenierte Rituale",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Dreieich-Dreieichenhain",
+        "o": "Kunstraum Dreieich",
+        "d": [
+          "2014-03-22",
+          "2014-05-23"
         ]
       }
     ]

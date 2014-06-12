@@ -1,7 +1,7 @@
 {
   "id": "659",
   "mergedIDs": "414528",
-  "timestamp": "2014-05-24 06:14:36",
+  "timestamp": "2014-05-31 06:20:09",
   "name": "Christo & Jeanne-Claude",
   "surname": "Christo & Jeanne-Claude",
   "nationality": "FR, BG",
@@ -28,7 +28,7 @@
   "awards": null,
   "website": "www.christojeanneclaude.net",
   "all-shows-first": "1960",
-  "all-shows-total": "569",
+  "all-shows-total": "571",
   "2005-shows-biennials": "76",
   "2005-shows-galleries": "76",
   "2005-shows-museums": "126",
@@ -856,19 +856,6 @@
         ]
       },
       {
-        "i": "659-6481-2006-02-03",
-        "c": "DE",
-        "n": "Christo & Jeanne-Claude - Zukünftige Projekte und Fotoeditionen",
-        "t": "Autre",
-        "st": "Solo",
-        "ct": "Dusseldorf",
-        "o": "anders galerie im stilwerk",
-        "d": [
-          "2006-02-03",
-          "2006-03-03"
-        ]
-      },
-      {
         "i": "659-10745-2006-02-03",
         "c": "DE",
         "n": "Zukünftige Projekte und Foto-Editionen",
@@ -876,6 +863,19 @@
         "st": "Solo",
         "ct": "Dusseldorf",
         "o": "Art Edition Fils",
+        "d": [
+          "2006-02-03",
+          "2006-03-03"
+        ]
+      },
+      {
+        "i": "659-6481-2006-02-03",
+        "c": "DE",
+        "n": "Christo & Jeanne-Claude - Zukünftige Projekte und Fotoeditionen",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Dusseldorf",
+        "o": "anders galerie im stilwerk",
         "d": [
           "2006-02-03",
           "2006-03-03"
@@ -1734,19 +1734,6 @@
         ]
       },
       {
-        "i": "659-3660-2008-02-10",
-        "c": "DE",
-        "n": "Konkret! Mappenwerke aus vier Jahrzehnten",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Regensburg",
-        "o": "KOG - Kunstforum Ostdeutsche Galerie",
-        "d": [
-          "2008-02-10",
-          "2008-04-20"
-        ]
-      },
-      {
         "i": "659-7809-2008-02-10",
         "c": "BE",
         "n": "The Ikob Collection",
@@ -1757,6 +1744,19 @@
         "d": [
           "2008-02-10",
           "2008-06-20"
+        ]
+      },
+      {
+        "i": "659-3660-2008-02-10",
+        "c": "DE",
+        "n": "Konkret! Mappenwerke aus vier Jahrzehnten",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Regensburg",
+        "o": "KOG - Kunstforum Ostdeutsche Galerie",
+        "d": [
+          "2008-02-10",
+          "2008-04-20"
         ]
       },
       {
@@ -2869,19 +2869,6 @@
         ]
       },
       {
-        "i": "659-1089-2010-06-01",
-        "c": "AT",
-        "n": "Festspielausstellung 2010 retro.perspektive",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Salzburg",
-        "o": "Galerie Weihergut Biberngasse",
-        "d": [
-          "2010-06-01",
-          "2010-08-31"
-        ]
-      },
-      {
         "i": "659-1314-2010-06-01",
         "c": "AT",
         "n": "Festspielausstellung 2010",
@@ -2889,6 +2876,19 @@
         "st": "Group",
         "ct": "Salzburg",
         "o": "Galerie Weihergut Altstadtgalerie",
+        "d": [
+          "2010-06-01",
+          "2010-08-31"
+        ]
+      },
+      {
+        "i": "659-1089-2010-06-01",
+        "c": "AT",
+        "n": "Festspielausstellung 2010 retro.perspektive",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Salzburg",
+        "o": "Galerie Weihergut Biberngasse",
         "d": [
           "2010-06-01",
           "2010-08-31"
@@ -4248,19 +4248,6 @@
         ]
       },
       {
-        "i": "659-1598-2012-10-11",
-        "c": "DE",
-        "n": "Ends of the Earth – Land Art bis 1974",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Munich",
-        "o": "Haus der Kunst München",
-        "d": [
-          "2012-10-11",
-          "2013-01-20"
-        ]
-      },
-      {
         "i": "659-13050-2012-10-11",
         "c": "SI",
         "n": "From Page to Space",
@@ -4271,6 +4258,19 @@
         "d": [
           "2012-10-11",
           "2013-03-09"
+        ]
+      },
+      {
+        "i": "659-1598-2012-10-11",
+        "c": "DE",
+        "n": "Ends of the Earth – Land Art bis 1974",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Munich",
+        "o": "Haus der Kunst München",
+        "d": [
+          "2012-10-11",
+          "2013-01-20"
         ]
       },
       {
@@ -4436,19 +4436,6 @@
         ]
       },
       {
-        "i": "659-1598-2012-10-11",
-        "c": "DE",
-        "n": "Ends of the Earth – Land Art bis 1974",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Munich",
-        "o": "Haus der Kunst München",
-        "d": [
-          "2012-10-11",
-          "2013-01-20"
-        ]
-      },
-      {
         "i": "659-13050-2012-10-11",
         "c": "SI",
         "n": "From Page to Space",
@@ -4459,6 +4446,19 @@
         "d": [
           "2012-10-11",
           "2013-03-09"
+        ]
+      },
+      {
+        "i": "659-1598-2012-10-11",
+        "c": "DE",
+        "n": "Ends of the Earth – Land Art bis 1974",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Munich",
+        "o": "Haus der Kunst München",
+        "d": [
+          "2012-10-11",
+          "2013-01-20"
         ]
       },
       {
@@ -4760,7 +4760,7 @@
         ]
       },
       {
-        "i": "659-24710-2013-09-20",
+        "i": "659-20152-2013-09-20",
         "c": "GB",
         "n": "Re-View: Onnasch Collection",
         "t": "Galerie privée",
@@ -4773,7 +4773,7 @@
         ]
       },
       {
-        "i": "659-20152-2013-09-20",
+        "i": "659-24710-2013-09-20",
         "c": "GB",
         "n": "Re-View: Onnasch Collection",
         "t": "Galerie privée",
@@ -4950,6 +4950,91 @@
           "2013-10-20",
           "2014-02-16"
         ]
+      },
+      {
+        "i": "659-27920-2014-02-07",
+        "c": "US",
+        "n": "Re-View: Onnasch Collection",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Hauser & Wirth",
+        "d": [
+          "2014-02-07",
+          "2014-04-12"
+        ]
+      },
+      {
+        "i": "659-19458-2014-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "659-19458-2014-02-13",
+        "c": "FR"
+      },
+      {
+        "i": "659-3047-2014-03-12",
+        "c": "US",
+        "n": "The Paradox of Sculpture",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "National Academy Museum",
+        "d": [
+          "2014-03-12",
+          "2014-05-03"
+        ]
+      },
+      {
+        "i": "659-20344-2014-03-15",
+        "c": "IT",
+        "n": "Inquieto Novecento",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Lucca, LU",
+        "o": "Lu.C.C.A - Lucca Center of Contemporary Art",
+        "d": [
+          "2014-03-15",
+          "2014-06-22"
+        ],
+        "a": "659",
+        "an": "Christo & Jeanne-Claude"
+      },
+      {
+        "i": "659-2213-2014-06-28",
+        "c": "US",
+        "n": "fresh: Haim Steinbach and Objects from the Permanent Collection",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Houston, TX",
+        "o": "The Menil Collection",
+        "d": [
+          "2014-06-28",
+          "2014-08-31"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "659",
+        "c": "IT",
+        "g": "c",
+        "a": "61-100"
+      },
+      {
+        "i": "659-20344-2014-03-15",
+        "c": "IT",
+        "n": "Inquieto Novecento",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Lucca, LU",
+        "o": "Lu.C.C.A - Lucca Center of Contemporary Art",
+        "d": [
+          "2014-03-15",
+          "2014-06-22"
+        ],
+        "a": "659",
+        "an": "Christo & Jeanne-Claude"
       }
     ]
   }

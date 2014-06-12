@@ -1,7 +1,7 @@
 {
   "id": "4052",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:16:28",
+  "timestamp": "2014-05-31 06:22:01",
   "name": "Mathieu Mercier",
   "surname": "Mercier",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Objects",
-  "r00": "407",
-  "r01": "391",
+  "r00": "409",
+  "r01": "392",
   "r02": "337",
-  "r03": "339",
+  "r03": "340",
   "r04": "339",
-  "r05": "326",
+  "r05": "327",
   "r06": "376",
   "r07": "437",
   "r08": "455",
   "awards": "Villa Kujoyama, Kyoto, Japan,Marcel Duchamp Prize",
   "website": "www.mathieumercier.com",
   "all-shows-first": "1998",
-  "all-shows-total": "266",
+  "all-shows-total": "267",
   "2005-shows-biennials": "49",
   "2005-shows-galleries": "49",
   "2005-shows-museums": "80",
@@ -161,23 +161,10 @@
         "t": "Galerie privée",
         "st": "Group",
         "ct": "New York City, NY",
-        "o": "Gering & López Gallery",
+        "o": "Sandra Gering Gallery",
         "d": [
           "2005-07-14",
           "2005-08-26"
-        ]
-      },
-      {
-        "i": "4052-21418-2005-08-06",
-        "c": "DE",
-        "n": "Principles Of Construction",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Nymphius Projekte Berlin",
-        "d": [
-          "2005-08-06",
-          "2005-10-15"
         ]
       },
       {
@@ -191,6 +178,19 @@
         "d": [
           "2005-08-06",
           "2005-10-30"
+        ]
+      },
+      {
+        "i": "4052-21418-2005-08-06",
+        "c": "DE",
+        "n": "Principles Of Construction",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Nymphius Projekte Berlin",
+        "d": [
+          "2005-08-06",
+          "2005-10-15"
         ]
       },
       {
@@ -313,6 +313,14 @@
         ]
       },
       {
+        "i": "4052-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "4052-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
         "i": "4052-3158-2006-01-21",
         "c": "CH",
         "n": "Midnight Walkers",
@@ -324,14 +332,6 @@
           "2006-01-21",
           "2006-03-26"
         ]
-      },
-      {
-        "i": "4052-1782-2006-01-21",
-        "c": "FR"
-      },
-      {
-        "i": "4052-1782-2006-01-21",
-        "c": "FR"
       },
       {
         "i": "4052-10227-2006-02-03",
@@ -363,14 +363,6 @@
         ]
       },
       {
-        "i": "4052-11581-2006-05-12",
-        "c": "FR"
-      },
-      {
-        "i": "4052-11581-2006-05-12",
-        "c": "FR"
-      },
-      {
         "i": "4052-7893-2006-05-12",
         "c": "NO",
         "n": "2 Steps",
@@ -382,6 +374,14 @@
           "2006-05-12",
           "2006-06-25"
         ]
+      },
+      {
+        "i": "4052-11581-2006-05-12",
+        "c": "FR"
+      },
+      {
+        "i": "4052-11581-2006-05-12",
+        "c": "FR"
       },
       {
         "i": "4052-11882-2006-05-27",
@@ -623,19 +623,6 @@
         "c": "FR"
       },
       {
-        "i": "4052-11825-2007-05-13",
-        "c": "CH",
-        "n": "Acceleration",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Neuchâtel",
-        "o": "Kunstart",
-        "d": [
-          "2007-05-13",
-          "2007-06-30"
-        ]
-      },
-      {
         "i": "4052-8157-2007-05-13",
         "c": "CH",
         "n": "Acceleration",
@@ -643,6 +630,19 @@
         "st": "Group",
         "ct": "Neuchâtel",
         "o": "CAN - Centre d'Art Neuchâtel",
+        "d": [
+          "2007-05-13",
+          "2007-06-30"
+        ]
+      },
+      {
+        "i": "4052-11825-2007-05-13",
+        "c": "CH",
+        "n": "Acceleration",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Neuchâtel",
+        "o": "Kunstart",
         "d": [
           "2007-05-13",
           "2007-06-30"
@@ -660,14 +660,6 @@
           "2007-05-23",
           "2007-07-07"
         ]
-      },
-      {
-        "i": "4052-10220-2007-06-02",
-        "c": "FR"
-      },
-      {
-        "i": "4052-10220-2007-06-02",
-        "c": "FR"
       },
       {
         "i": "4052-12271-2007-06-02",
@@ -688,6 +680,14 @@
       },
       {
         "i": "4052-8548-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "4052-10220-2007-06-02",
+        "c": "FR"
+      },
+      {
+        "i": "4052-10220-2007-06-02",
         "c": "FR"
       },
       {
@@ -806,14 +806,6 @@
         "c": "FR"
       },
       {
-        "i": "4052-1782-2007-11-08",
-        "c": "FR"
-      },
-      {
-        "i": "4052-1782-2007-11-08",
-        "c": "FR"
-      },
-      {
         "i": "4052-2934-2007-11-08",
         "c": "AR",
         "n": "El Palais de Tokyo en el Centro Cultural Recoleta",
@@ -825,6 +817,14 @@
           "2007-11-08",
           "2007-12-30"
         ]
+      },
+      {
+        "i": "4052-1782-2007-11-08",
+        "c": "FR"
+      },
+      {
+        "i": "4052-1782-2007-11-08",
+        "c": "FR"
       },
       {
         "i": "4052-8257-2007-11-14",
@@ -1937,19 +1937,6 @@
         ]
       },
       {
-        "i": "4052-9335-2011-09-10",
-        "c": "ES",
-        "n": "10 Años del Programa de Residencias - La Colección del CCA Andratx. 2001 – 2011 / KUNSTHALLE",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Andratx",
-        "o": "CCA Andratx",
-        "d": [
-          "2011-09-10",
-          "2012-03-04"
-        ]
-      },
-      {
         "i": "4052-26090-2011-09-10",
         "c": "DE",
         "n": "Dreißig Silberlinge Kunst und Geld – Sammlung Haupt",
@@ -1960,6 +1947,19 @@
         "d": [
           "2011-09-10",
           "2011-10-08"
+        ]
+      },
+      {
+        "i": "4052-9335-2011-09-10",
+        "c": "ES",
+        "n": "10 Años del Programa de Residencias - La Colección del CCA Andratx. 2001 – 2011 / KUNSTHALLE",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Andratx",
+        "o": "CCA Andratx",
+        "d": [
+          "2011-09-10",
+          "2012-03-04"
         ]
       },
       {
@@ -2109,19 +2109,6 @@
         "c": "FR"
       },
       {
-        "i": "4052-20354-2012-02-11",
-        "c": "DE",
-        "n": "In Formal Structures",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Cream Contemporary",
-        "d": [
-          "2012-02-11",
-          "2012-03-10"
-        ]
-      },
-      {
         "i": "4052-26049-2012-02-11",
         "c": "DE",
         "n": "In Formal Structures",
@@ -2129,6 +2116,19 @@
         "st": "Group",
         "ct": "Berlin",
         "o": "Andrae Kaufmann Gallery",
+        "d": [
+          "2012-02-11",
+          "2012-03-10"
+        ]
+      },
+      {
+        "i": "4052-20354-2012-02-11",
+        "c": "DE",
+        "n": "In Formal Structures",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Cream Contemporary",
         "d": [
           "2012-02-11",
           "2012-03-10"
@@ -2621,6 +2621,116 @@
         "d": [
           "2013-12-12",
           "2014-01-24"
+        ]
+      },
+      {
+        "i": "4052-5845-2014-01-18",
+        "c": "DE",
+        "n": "Raw Materials - Vom Baumarkt ins Museum",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bietigheim-Bissingen",
+        "o": "Städtische Galerie Bietigheim-Bissingen",
+        "d": [
+          "2014-01-18",
+          "2014-03-30"
+        ]
+      },
+      {
+        "i": "4052-7899-2014-04-02",
+        "c": "IT",
+        "n": "In forma di ceramica",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Venice",
+        "o": "Fondazione Bevilacqua La Masa",
+        "d": [
+          "2014-04-02",
+          "2014-05-04"
+        ]
+      },
+      {
+        "i": "4052-10830-2014-04-12",
+        "c": "DE",
+        "n": "Raw materials - Vom Baumarkt ins Museum",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Delmenhorst",
+        "o": "Städtische Galerie Delmenhorst",
+        "d": [
+          "2014-04-12",
+          "2014-06-15"
+        ],
+        "a": "4052",
+        "an": "Mathieu Mercier"
+      },
+      {
+        "i": "4052-10244-2014-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "4052-10244-2014-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "4052-7146-2014-12-13",
+        "c": "DE",
+        "n": "Mathieu Mercier",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Esslingen",
+        "o": "Villa Merkel - Galerien der Stadt Esslingen",
+        "d": [
+          "2014-12-13",
+          "2015-02-22"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "4052",
+        "c": "DE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "4052-10830-2014-04-12",
+        "c": "DE",
+        "n": "Raw materials - Vom Baumarkt ins Museum",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Delmenhorst",
+        "o": "Städtische Galerie Delmenhorst",
+        "d": [
+          "2014-04-12",
+          "2014-06-15"
+        ],
+        "a": "4052",
+        "an": "Mathieu Mercier"
+      },
+      {
+        "i": "4052",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "4052-10244-2014-05-06",
+        "c": "FR"
+      }
+    ],
+    "2015": [
+      {
+        "i": "4052-7146-2014-12-13",
+        "c": "DE",
+        "n": "Mathieu Mercier",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Esslingen",
+        "o": "Villa Merkel - Galerien der Stadt Esslingen",
+        "d": [
+          "2014-12-13",
+          "2015-02-22"
         ]
       }
     ]

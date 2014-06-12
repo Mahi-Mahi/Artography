@@ -1,7 +1,7 @@
 {
   "id": "36249",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:28:44",
+  "timestamp": "2014-05-31 06:34:15",
   "name": "Thierry Agnone",
   "surname": "Agnone",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "47168",
-  "r01": "45452",
-  "r02": "42180",
-  "r03": "40657",
-  "r04": "41391",
-  "r05": "35987",
-  "r06": "36342",
-  "r07": "34683",
-  "r08": "70459",
+  "r00": "46329",
+  "r01": "45519",
+  "r02": "42213",
+  "r03": "40681",
+  "r04": "41410",
+  "r05": "35991",
+  "r06": "36356",
+  "r07": "34708",
+  "r08": "70537",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
   "all-shows-total": "15",
-  "2005-shows-biennials": "8",
-  "2005-shows-galleries": "8",
+  "2005-shows-biennials": "9",
+  "2005-shows-galleries": "9",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (9), Monaco (1)",
-  "2005-shows-with": "Thierry Agnone (9), Thierry Lagalla (6), Stéphane Protic (5), Emmanuel Régent (4), Stephane Steiner (4), Caroline Bach (3), Han Hoogerbrugge (3), Arnaud Labelle-Rojoux (3), Florent Mattei (3), Philippe Ramette (3), Karine Rougier (3), Lionel Scoccimaro (3), Damien Berthier (2), Michel de Broin (2), Frédéric Clavère (2), Claire Dantzer (2), Jerôme Robbe (2), Ben Vautier (2), Jean-Luc Verna (2)",
+  "2005-countries-total": "France (10), Monaco (1)",
+  "2005-shows-with": "Thierry Agnone (10), Thierry Lagalla (7), Stéphane Protic (6), Emmanuel Régent (5), Stephane Steiner (5), Caroline Bach (4), Han Hoogerbrugge (4), Arnaud Labelle-Rojoux (4), Florent Mattei (4), Philippe Ramette (4), Karine Rougier (4), Lionel Scoccimaro (4), Claire Dantzer (3), Jerôme Robbe (3), Jean-Luc Verna (3), Julien Beneyton (2), Romain Bernini (2), Damien Berthier (2), Julien Blaine (2), Michel de Broin (2), Baptiste César (2), Thierry Chiapparelli (2), Frédéric Clavère (2), Noël Dolla (2), Isabelle Giovacchini (2), Olivier Leroi (2), Martinet & Texereau (2), Gabriel Meo (2), Éric Pougeau (2), Charlotte Pringuey-Cessac (2), Franck Saïssi (2), Quentin Spohn (2), Sabry Tchalgadjieff (2), Cédric Teisseire (2), Ben Vautier (2)",
   "representing-galleries": "Numéro Six (6 rue jaubert, 12100 Aix-en-Provence, France); Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France); Art & Rapy - Contemporary Art Gallery (11, Avenue Princesse Grace, 98000 Monaco, Monaco)",
   "collecting-museums": "Musée d'art moderne de Céret (Bd. Marï¿½chal Joffre 8, BP 60413, 66403  Céret, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Thierry",
@@ -163,6 +163,26 @@
     "2014": [
       {
         "i": "36249-16752-2013-12-07",
+        "c": "FR"
+      },
+      {
+        "i": "36249-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "36249-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "36249",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "36249-16752-2014-04-19",
         "c": "FR"
       }
     ],

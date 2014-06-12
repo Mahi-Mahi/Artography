@@ -1,7 +1,7 @@
 {
   "id": "72597",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:41:37",
+  "timestamp": "2014-05-31 06:47:03",
   "name": "Bruno di Rosa",
   "surname": "Rosa",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "48321",
-  "r01": "76185",
-  "r02": "69987",
-  "r03": "62969",
-  "r04": "56353",
-  "r05": "49506",
-  "r06": "43245",
-  "r07": "55000",
-  "r08": "47548",
+  "r00": "48515",
+  "r01": "76340",
+  "r02": "70059",
+  "r03": "63012",
+  "r04": "56390",
+  "r05": "49539",
+  "r06": "43278",
+  "r07": "55066",
+  "r08": "47564",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
@@ -38,7 +38,7 @@
   "collecting-museums": "Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France)",
   "first_name": "Bruno",
   "last_name": "di",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1960-01-01",
   "age": 54,
   "age_range": "41-60",
@@ -71,6 +71,16 @@
           "2008-09-27",
           "2008-11-23"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "72597-10519-2014-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "72597-10519-2014-01-25",
+        "c": "FR"
       }
     ]
   }

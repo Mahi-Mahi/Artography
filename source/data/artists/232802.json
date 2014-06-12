@@ -1,7 +1,7 @@
 {
   "id": "232802",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:36:13",
+  "timestamp": "2014-05-31 07:41:31",
   "name": "Harold Guerin",
   "surname": "Guerin",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "98279",
-  "r01": "99465",
-  "r02": "96932",
-  "r03": "92420",
-  "r04": "87345",
-  "r05": "80744",
+  "r00": "78745",
+  "r01": "99659",
+  "r02": "97077",
+  "r03": "92532",
+  "r04": "87453",
+  "r05": "80853",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Harold",
   "last_name": "Guerin",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1981-01-01",
   "age": 33,
   "age_range": "26-40",
@@ -66,6 +66,46 @@
           "2011-06-15",
           "2011-06-30"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "232802-18453-2014-06-05",
+        "c": "CZ",
+        "n": "The Journey",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Prague",
+        "o": "MeetFactory Gallery",
+        "d": [
+          "2014-06-05",
+          "2014-08-24"
+        ],
+        "a": "232802",
+        "an": "Harold Guerin"
+      }
+    ],
+    "today": [
+      {
+        "i": "232802",
+        "c": "CZ",
+        "g": "n",
+        "a": "26-40"
+      },
+      {
+        "i": "232802-18453-2014-06-05",
+        "c": "CZ",
+        "n": "The Journey",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Prague",
+        "o": "MeetFactory Gallery",
+        "d": [
+          "2014-06-05",
+          "2014-08-24"
+        ],
+        "a": "232802",
+        "an": "Harold Guerin"
       }
     ]
   }

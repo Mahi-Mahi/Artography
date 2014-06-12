@@ -12,26 +12,56 @@
   "email": "info@xpogallery.com",
   "www": "www.xpogallery.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2017 rue de Notre Dame de Nazareth %2C%20France",
-  "fairs-total": "3",
-  "fairs-abroad": "2",
-  "fairs-in-FR": "1",
+  "fairs-total": "8",
+  "fairs-abroad": "6",
+  "fairs-in-FR": "2",
   "fairs": {
     "2013": [
       {
-        "i": "29692-Beirut Art Fair 2013",
+        "i": "29692-Beirut-Art-Fair-2013",
         "c": "LB",
         "n": "Beirut Art Fair 2013",
         "ct": "Beirut"
       },
       {
-        "i": "29692-Yia Art Fair 2013",
+        "i": "29692-Moving-Image-London-2013",
+        "c": "GB",
+        "n": "Moving Image London 2013",
+        "ct": "London"
+      },
+      {
+        "i": "29692-Yia-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "29692-Art Taipei 2013",
+        "i": "29692-Art-Taipei-2013",
         "c": "TW",
         "n": "Art Taipei 2013",
         "ct": "Taipei"
+      }
+    ],
+    "2014": [
+      {
+        "i": "29692-Unpainted-2013",
+        "c": "DE",
+        "n": "Unpainted 2013",
+        "ct": "Munich"
+      },
+      {
+        "i": "29692-Art-Rotterdam-2014",
+        "c": "NL",
+        "n": "Art Rotterdam 2014",
+        "ct": "Rotterdam"
+      },
+      {
+        "i": "29692-Moving-Image-New-York-2014",
+        "c": "US",
+        "n": "Moving Image New York 2014",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "29692-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
+        "c": "FR"
       }
     ]
   }

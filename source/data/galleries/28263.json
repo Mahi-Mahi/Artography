@@ -12,25 +12,31 @@
   "email": "vincent@galeriesator.com",
   "www": "www.galeriesator.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%208 passage des Gravilliers %2C%20France",
-  "fairs-total": "4",
+  "fairs-total": "5",
   "fairs-abroad": "0",
-  "fairs-in-FR": "4",
+  "fairs-in-FR": "5",
   "fairs": {
     "2013": [
       {
-        "i": "28263-Lille Art Fair 2013",
+        "i": "28263-Lille-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "28263-Art Paris Art Fair 2013",
+        "i": "28263-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "28263-DocksArtFair 2013",
+        "i": "28263-DocksArtFair-2013",
         "c": "FR"
       },
       {
-        "i": "28263-Yia Art Fair 2013",
+        "i": "28263-Yia-Art-Fair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "28263-Artparis-2014",
         "c": "FR"
       }
     ]

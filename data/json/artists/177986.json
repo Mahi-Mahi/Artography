@@ -1,7 +1,7 @@
 {
   "id": "177986",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:17:27",
+  "timestamp": "2014-05-31 07:22:51",
   "name": "Raphael Dallaporta",
   "surname": "Dallaporta",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "6311",
-  "r01": "6882",
-  "r02": "6704",
-  "r03": "8533",
-  "r04": "8891",
-  "r05": "34309",
-  "r06": "28672",
-  "r07": "25456",
-  "r08": "21728",
+  "r00": "6357",
+  "r01": "6896",
+  "r02": "6713",
+  "r03": "8555",
+  "r04": "8906",
+  "r05": "34339",
+  "r06": "28687",
+  "r07": "25475",
+  "r08": "21734",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -432,6 +432,19 @@
       {
         "i": "177986-8997-2013-10-05",
         "c": "FR"
+      },
+      {
+        "i": "177986-3709-2014-04-09",
+        "c": "IE",
+        "n": "Raphaël Dallaporta &#8211; Observations",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Dublin",
+        "o": "Gallery of Photography",
+        "d": [
+          "2014-04-09",
+          "2014-05-15"
+        ]
       }
     ]
   }

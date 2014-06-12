@@ -1,7 +1,7 @@
 {
   "id": "90261",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:47:51",
+  "timestamp": "2014-05-31 06:53:14",
   "name": "Alain Bizos",
   "surname": "Bizos",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "47283",
-  "r01": "42426",
-  "r02": "35653",
-  "r03": "29881",
-  "r04": "25372",
-  "r05": "21337",
-  "r06": "17792",
-  "r07": "24019",
-  "r08": "19744",
+  "r00": "30296",
+  "r01": "42514",
+  "r02": "35704",
+  "r03": "29932",
+  "r04": "25393",
+  "r05": "21362",
+  "r06": "17805",
+  "r07": "24035",
+  "r08": "19743",
   "awards": null,
   "website": null,
   "all-shows-first": "1987",
   "all-shows-total": "4",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
-  "2005-shows-museums": "1",
-  "2005-countries-total": "France (1), Germany (1)",
-  "2005-shows-with": null,
+  "2005-shows-museums": "2",
+  "2005-countries-total": "Brazil (1), France (1), Germany (1)",
+  "2005-shows-with": "Vito Acconci (2), Alain Bizos (2), Michael Heizer (2), Jean Tinguely (2)",
   "representing-galleries": "Galerie VU (Saint-Lazare Rue 58, 75009 Paris, France)",
   "collecting-museums": null,
   "first_name": "Alain",
@@ -76,6 +76,46 @@
       {
         "i": "90261-6354-2008-10-14",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "90261-5559-2014-06-06",
+        "c": "BR",
+        "n": "A Inusitada",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "São Paulo",
+        "o": "Museu de Arte de São Paulo Assis Chateaubriand - MASP",
+        "d": [
+          "2014-06-06",
+          "2014-08-10"
+        ],
+        "a": "90261",
+        "an": "Alain Bizos"
+      }
+    ],
+    "today": [
+      {
+        "i": "90261",
+        "c": "BR",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "90261-5559-2014-06-06",
+        "c": "BR",
+        "n": "A Inusitada",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "São Paulo",
+        "o": "Museu de Arte de São Paulo Assis Chateaubriand - MASP",
+        "d": [
+          "2014-06-06",
+          "2014-08-10"
+        ],
+        "a": "90261",
+        "an": "Alain Bizos"
       }
     ]
   }

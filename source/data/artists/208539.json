@@ -1,7 +1,7 @@
 {
   "id": "208539",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:27:54",
+  "timestamp": "2014-05-31 07:33:15",
   "name": "Tarek Atoui",
   "surname": "Atoui",
   "nationality": "FR, LB",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sound Art",
-  "r00": "2920",
-  "r01": "3901",
-  "r02": "4327",
-  "r03": "7946",
-  "r04": "13463",
-  "r05": "25948",
+  "r00": "2937",
+  "r01": "3905",
+  "r02": "4328",
+  "r03": "7950",
+  "r04": "13481",
+  "r05": "25999",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -265,6 +265,91 @@
           "2013-10-24",
           "2014-01-18"
         ]
+      },
+      {
+        "i": "208539-7885-2014-01-18",
+        "c": "SE",
+        "n": "Tensta Museum-Reports from new Sweden-Spring Department",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Spanga",
+        "o": "Tensta Konsthall",
+        "d": [
+          "2014-01-18",
+          "2014-05-18"
+        ]
+      },
+      {
+        "i": "208539-18752-2014-05-01",
+        "c": "RU",
+        "n": "do it Moscow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Moscow",
+        "o": "Garage Center for Contemporary Culture - GCCC",
+        "d": [
+          "2014-05-01",
+          "2014-07-06"
+        ],
+        "a": "208539",
+        "an": "Tarek Atoui"
+      },
+      {
+        "i": "208539-2554-2014-05-29",
+        "c": "DE",
+        "n": "8. Berlin Biennale für zeitgenössische Kunst",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "berlin biennale für zeitgenössische kunst",
+        "d": [
+          "2014-05-29",
+          "2014-08-03"
+        ],
+        "a": "208539",
+        "an": "Tarek Atoui"
+      }
+    ],
+    "today": [
+      {
+        "i": "208539",
+        "c": "RU",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "208539-18752-2014-05-01",
+        "c": "RU",
+        "n": "do it Moscow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Moscow",
+        "o": "Garage Center for Contemporary Culture - GCCC",
+        "d": [
+          "2014-05-01",
+          "2014-07-06"
+        ],
+        "a": "208539",
+        "an": "Tarek Atoui"
+      },
+      {
+        "i": "208539",
+        "c": "DE",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "208539-2554-2014-05-29",
+        "c": "DE",
+        "n": "8. Berlin Biennale für zeitgenössische Kunst",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "berlin biennale für zeitgenössische kunst",
+        "d": [
+          "2014-05-29",
+          "2014-08-03"
+        ],
+        "a": "208539",
+        "an": "Tarek Atoui"
       }
     ]
   }

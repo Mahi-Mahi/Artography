@@ -1,7 +1,7 @@
 {
   "id": "33532",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:27:45",
+  "timestamp": "2014-05-31 06:33:16",
   "name": "Antoine Petitprez",
   "surname": "Petitprez",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "17192",
-  "r01": "16668",
-  "r02": "14614",
-  "r03": "12738",
-  "r04": "19736",
-  "r05": "36368",
-  "r06": "32461",
-  "r07": "53409",
-  "r08": "44809",
+  "r00": "17181",
+  "r01": "16594",
+  "r02": "14556",
+  "r03": "12674",
+  "r04": "19569",
+  "r05": "35696",
+  "r06": "31884",
+  "r07": "53446",
+  "r08": "44811",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "12",
+  "all-shows-total": "14",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
   "2005-shows-museums": "9",
@@ -101,19 +101,6 @@
         "c": "FR"
       },
       {
-        "i": "33532-2298-2010-11-27",
-        "c": "DE",
-        "n": "Transfer France-nrw",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Mönchengladbach",
-        "o": "Städtisches Museum Abteiberg",
-        "d": [
-          "2010-11-27",
-          "2011-01-23"
-        ]
-      },
-      {
         "i": "33532-2293-2010-11-27",
         "c": "DE",
         "n": "Passage",
@@ -138,9 +125,7 @@
           "2010-11-27",
           "2012-01-23"
         ]
-      }
-    ],
-    "2011": [
+      },
       {
         "i": "33532-2298-2010-11-27",
         "c": "DE",
@@ -153,7 +138,9 @@
           "2010-11-27",
           "2011-01-23"
         ]
-      },
+      }
+    ],
+    "2011": [
       {
         "i": "33532-2293-2010-11-27",
         "c": "DE",
@@ -162,6 +149,19 @@
         "st": "Group",
         "ct": "Dortmund",
         "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2010-11-27",
+          "2011-01-23"
+        ]
+      },
+      {
+        "i": "33532-2298-2010-11-27",
+        "c": "DE",
+        "n": "Transfer France-nrw",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Mönchengladbach",
+        "o": "Städtisches Museum Abteiberg",
         "d": [
           "2010-11-27",
           "2011-01-23"

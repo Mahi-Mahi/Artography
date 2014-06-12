@@ -12,13 +12,13 @@
   "email": "hopkins@galeriehopkins.com",
   "www": "www.galeriehopkins.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%202 %2C%20avenue Matignon %2C%20France",
-  "fairs-total": "26",
-  "fairs-abroad": "23",
+  "fairs-total": "27",
+  "fairs-abroad": "24",
   "fairs-in-FR": "3",
   "fairs": {
     "2005": [
       {
-        "i": "4407-Art Basel Miami Beach 2005",
+        "i": "4407-Art-Basel-Miami-Beach-2005",
         "c": "US",
         "n": "Art Basel Miami Beach 2005",
         "ct": "Miami Beach, FL"
@@ -26,19 +26,19 @@
     ],
     "2006": [
       {
-        "i": "4407-TEFAF Maastricht 2006",
+        "i": "4407-TEFAF-Maastricht-2006",
         "c": "NL",
         "n": "TEFAF Maastricht 2006",
         "ct": "Maastricht"
       },
       {
-        "i": "4407-Art 37 Basel",
+        "i": "4407-Art-37-Basel",
         "c": "CH",
         "n": "Art 37 Basel",
         "ct": "Basel"
       },
       {
-        "i": "4407-Art Basel Miami Beach 2006",
+        "i": "4407-Art-Basel-Miami-Beach-2006",
         "c": "US",
         "n": "Art Basel Miami Beach 2006",
         "ct": "Miami, FL"
@@ -46,19 +46,19 @@
     ],
     "2007": [
       {
-        "i": "4407-TEFAF Maastricht 2007",
+        "i": "4407-TEFAF-Maastricht-2007",
         "c": "NL",
         "n": "TEFAF Maastricht 2007",
         "ct": "Maastricht"
       },
       {
-        "i": "4407-Art 38 Basel",
+        "i": "4407-Art-38-Basel",
         "c": "CH",
         "n": "Art 38 Basel",
         "ct": "Basel"
       },
       {
-        "i": "4407-Art Basel Miami Beach 2007",
+        "i": "4407-Art-Basel-Miami-Beach-2007",
         "c": "US",
         "n": "Art Basel Miami Beach 2007",
         "ct": "Miami Beach, FL"
@@ -66,23 +66,23 @@
     ],
     "2008": [
       {
-        "i": "4407-TEFAF Maastricht 2008",
+        "i": "4407-TEFAF-Maastricht-2008",
         "c": "NL",
         "n": "TEFAF Maastricht 2008",
         "ct": "Maastricht"
       },
       {
-        "i": "4407-Art 39 Basel",
+        "i": "4407-Art-39-Basel",
         "c": "CH",
         "n": "Art 39 Basel",
         "ct": "Basel"
       },
       {
-        "i": "4407-Fiac 2008",
+        "i": "4407-Fiac-2008",
         "c": "FR"
       },
       {
-        "i": "4407-Art Basel Miami Beach 2008",
+        "i": "4407-Art-Basel-Miami-Beach-2008",
         "c": "US",
         "n": "Art Basel Miami Beach 2008",
         "ct": "Miami Beach, FL"
@@ -90,19 +90,19 @@
     ],
     "2009": [
       {
-        "i": "4407-TEFAF Maastricht 2009",
+        "i": "4407-TEFAF-Maastricht-2009",
         "c": "NL",
         "n": "TEFAF Maastricht 2009",
         "ct": "Maastricht"
       },
       {
-        "i": "4407-Art 40 Basel",
+        "i": "4407-Art-40-Basel",
         "c": "CH",
         "n": "Art 40 Basel",
         "ct": "Basel"
       },
       {
-        "i": "4407-Art Basel Miami Beach 2009",
+        "i": "4407-Art-Basel-Miami-Beach-2009",
         "c": "US",
         "n": "Art Basel Miami Beach 2009",
         "ct": "Miami Beach, FL"
@@ -110,25 +110,25 @@
     ],
     "2010": [
       {
-        "i": "4407-TEFAF Maastricht 2010",
+        "i": "4407-TEFAF-Maastricht-2010",
         "c": "NL",
         "n": "TEFAF Maastricht 2010",
         "ct": "Maastricht"
       },
       {
-        "i": "4407-Art 41 Basel",
+        "i": "4407-Art-41-Basel",
         "c": "CH",
         "n": "Art 41 Basel",
         "ct": "Basel"
       },
       {
-        "i": "4407-Pavilion of Art & Design 2010",
+        "i": "4407-Pavilion-of-Art-&-Design-2010",
         "c": "GB",
         "n": "Pavilion of Art & Design 2010",
         "ct": "London"
       },
       {
-        "i": "4407-Art Basel Miami Beach 2010",
+        "i": "4407-Art-Basel-Miami-Beach-2010",
         "c": "US",
         "n": "Art Basel Miami Beach 2010",
         "ct": "Miami Beach, FL"
@@ -136,7 +136,7 @@
     ],
     "2011": [
       {
-        "i": "4407-TEFAF Maastricht 2011",
+        "i": "4407-TEFAF-Maastricht-2011",
         "c": "NL",
         "n": "TEFAF Maastricht 2011",
         "ct": "Helvoirt"
@@ -148,7 +148,7 @@
         "ct": "Hong Kong, SAR"
       },
       {
-        "i": "4407-Art 42 Basel",
+        "i": "4407-Art-42-Basel",
         "c": "CH",
         "n": "Art 42 Basel",
         "ct": "Basel"
@@ -156,33 +156,41 @@
     ],
     "2012": [
       {
-        "i": "4407-Hong Kong International Art Fair 2012",
+        "i": "4407-Hong-Kong-International-Art-Fair-2012",
         "c": "CN",
         "n": "Hong Kong International Art Fair 2012",
         "ct": "Hong Kong, SAR"
       },
       {
-        "i": "4407-Art 43 Basel",
+        "i": "4407-Art-43-Basel",
         "c": "CH",
         "n": "Art 43 Basel",
         "ct": "Basel"
       },
       {
-        "i": "4407-Pavilion of Art & Design 2012",
+        "i": "4407-Pavilion-of-Art-&-Design-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "4407-TEFAF Maastricht 2013",
+        "i": "4407-TEFAF-Maastricht-2013",
         "c": "NL",
         "n": "TEFAF Maastricht 2013",
         "ct": "Maastricht"
       },
       {
-        "i": "4407-Art Basel 2013",
+        "i": "4407-Art-Basel-2013",
         "c": "CH",
         "n": "Art Basel 2013",
+        "ct": "Basel"
+      }
+    ],
+    "2014": [
+      {
+        "i": "4407-Art-Basel-2014",
+        "c": "CH",
+        "n": "Art Basel 2014",
         "ct": "Basel"
       }
     ]

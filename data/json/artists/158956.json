@@ -1,7 +1,7 @@
 {
   "id": "158956",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:10:52",
+  "timestamp": "2014-05-31 07:16:17",
   "name": "Pascal Dombis",
   "surname": "Dombis",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation",
-  "r00": "8554",
-  "r01": "8396",
-  "r02": "8426",
-  "r03": "12112",
-  "r04": "17083",
-  "r05": "16561",
-  "r06": "22414",
-  "r07": "31026",
-  "r08": "24775",
+  "r00": "8612",
+  "r01": "8415",
+  "r02": "8438",
+  "r03": "12118",
+  "r04": "17092",
+  "r05": "16564",
+  "r06": "22426",
+  "r07": "31066",
+  "r08": "24796",
   "awards": null,
   "website": "www.dombis.com",
   "all-shows-first": "1997",
@@ -489,6 +489,19 @@
         "d": [
           "2013-11-16",
           "2014-01-25"
+        ]
+      },
+      {
+        "i": "158956-30677-2014-03-07",
+        "c": "AU",
+        "n": "Pascal Dombis - Mixed Grill(e)",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Toowoomba",
+        "o": "RAYGUN CONTEMPORARY ART PROJECTS",
+        "d": [
+          "2014-03-07",
+          "2014-04-01"
         ]
       }
     ]

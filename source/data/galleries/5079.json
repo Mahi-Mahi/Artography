@@ -12,89 +12,95 @@
   "email": "contact@galerie-ba.com",
   "www": "www.galerie-ba.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2029, rue de Seine %2C%20France",
-  "fairs-total": "16",
+  "fairs-total": "17",
   "fairs-abroad": "0",
-  "fairs-in-FR": "16",
+  "fairs-in-FR": "17",
   "fairs": {
     "2005": [
       {
-        "i": "5079-ArtParis 2005",
+        "i": "5079-ArtParis-2005",
         "c": "FR"
       }
     ],
     "2006": [
       {
-        "i": "5079-ArtParis 06",
+        "i": "5079-ArtParis-06",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "5079-ArtParis 07",
+        "i": "5079-ArtParis-07",
         "c": "FR"
       },
       {
-        "i": "5079-Les Elysées de l'Art - 2007",
+        "i": "5079-Les-Elysées-de-l'Art---2007",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "5079-ArtParis 08",
+        "i": "5079-ArtParis-08",
         "c": "FR"
       },
       {
-        "i": "5079-Art Elysées 2008",
+        "i": "5079-Art-Elysées-2008",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "5079-ArtParis 09",
+        "i": "5079-ArtParis-09",
         "c": "FR"
       },
       {
-        "i": "5079-Art Elysées 2009",
+        "i": "5079-Art-Elysées-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "5079-ArtParis 2010",
+        "i": "5079-ArtParis-2010",
         "c": "FR"
       },
       {
-        "i": "5079-Art Elysées 2010",
+        "i": "5079-Art-Elysées-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "5079-ArtParis 2011",
+        "i": "5079-ArtParis-2011",
         "c": "FR"
       },
       {
-        "i": "5079-Art Elysées 2011",
+        "i": "5079-Art-Elysées-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "5079-Art Paris Art Fair 2012",
+        "i": "5079-Art-Paris-Art-Fair-2012",
         "c": "FR"
       },
       {
-        "i": "5079-Art Elysées 2012",
+        "i": "5079-Art-Elysées-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "5079-Art Paris Art Fair 2013",
+        "i": "5079-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "5079-Art Elysees 2013",
+        "i": "5079-Art-Elysees-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "5079-Artparis-2014",
         "c": "FR"
       }
     ]

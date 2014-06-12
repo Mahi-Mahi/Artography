@@ -1,7 +1,7 @@
 {
   "id": "76768",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:43:06",
+  "timestamp": "2014-05-31 06:48:31",
   "name": "Elodie Lecat",
   "surname": "Lecat",
   "nationality": "FR",
@@ -14,31 +14,31 @@
   "death day": null,
   "death month": null,
   "death year": null,
-  "attributes": null,
+  "attributes": "Female",
   "media": null,
-  "r00": "58486",
-  "r01": "53912",
-  "r02": "46731",
-  "r03": "40108",
-  "r04": "34553",
-  "r05": "29607",
-  "r06": "26501",
-  "r07": "25675",
-  "r08": "34126",
+  "r00": "56192",
+  "r01": "53792",
+  "r02": "46610",
+  "r03": "39974",
+  "r04": "34409",
+  "r05": "29458",
+  "r06": "26350",
+  "r07": "25513",
+  "r08": "33755",
   "awards": null,
-  "website": null,
+  "website": "www.elodielecat.com",
   "all-shows-first": "2006",
   "all-shows-total": "7",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (2), Germany (1)",
+  "2005-countries-total": "France (3), Germany (1)",
   "2005-shows-with": "Elodie Lecat (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Elodie",
   "last_name": "Lecat",
-  "genre": "c",
+  "genre": "f",
   "birthDate": "1975-01-01",
   "age": 39,
   "age_range": "26-40",
@@ -109,6 +109,16 @@
       },
       {
         "i": "76768-1746-2009-01-24",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "76768-31185-2014-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "76768-31185-2014-03-20",
         "c": "FR"
       }
     ]

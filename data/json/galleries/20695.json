@@ -12,8 +12,8 @@
   "email": null,
   "www": null,
   "map": "http://maps.google.com/maps?q=Paris%2C%2075018 %2C%20 %2C%2016, rue la Vieuville %2C%20France",
-  "fairs-total": "7",
-  "fairs-abroad": "2",
+  "fairs-total": "8",
+  "fairs-abroad": "3",
   "fairs-in-FR": "5",
   "fairs": {
     "2009": [
@@ -24,38 +24,46 @@
     ],
     "2010": [
       {
-        "i": "20695-cutlog 2010",
+        "i": "20695-cutlog-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "20695-cutlog 2011",
+        "i": "20695-cutlog-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "20695-cutlog 2012",
+        "i": "20695-cutlog-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "20695-cutlog NY 2013",
+        "i": "20695-cutlog-NY-2013",
         "c": "US",
         "n": "cutlog NY 2013",
         "ct": "New York City, NY"
       },
       {
-        "i": "20695-Loop - The Video Art Fair 2013",
+        "i": "20695-Loop---The-Video-Art-Fair-2013",
         "c": "ES",
         "n": "Loop - The Video Art Fair 2013",
         "ct": "Barcelona"
       },
       {
-        "i": "20695-cutlog 2013",
+        "i": "20695-cutlog-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "20695-Cutlog-New-York",
+        "c": "US",
+        "n": "Cutlog New York",
+        "ct": "New York City, NY"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "33706",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:27:49",
+  "timestamp": "2014-05-31 06:33:19",
   "name": "Jules de Balincourt",
   "surname": "Balincourt",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "2647",
-  "r01": "2581",
-  "r02": "2443",
-  "r03": "2054",
+  "r00": "2661",
+  "r01": "2589",
+  "r02": "2448",
+  "r03": "2055",
   "r04": "1890",
-  "r05": "2058",
-  "r06": "2189",
-  "r07": "2071",
+  "r05": "2060",
+  "r06": "2190",
+  "r07": "2072",
   "r08": "3222",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "69",
+  "all-shows-total": "68",
   "2005-shows-biennials": "18",
   "2005-shows-galleries": "18",
   "2005-shows-museums": "14",
@@ -896,6 +896,16 @@
           "2012-10-26",
           "2013-01-13"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "33706-11214-2014-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "33706-11214-2014-02-28",
+        "c": "FR"
       }
     ]
   }

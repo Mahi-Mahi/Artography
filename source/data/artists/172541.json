@@ -1,7 +1,7 @@
 {
   "id": "172541",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:15:34",
+  "timestamp": "2014-05-31 07:20:58",
   "name": "Renaud Jerez",
   "surname": "Jerez",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "23483",
-  "r01": "33933",
-  "r02": "41757",
-  "r03": "47884",
-  "r04": "47230",
-  "r05": "57101",
-  "r06": "50661",
-  "r07": "60280",
+  "r00": "23339",
+  "r01": "33558",
+  "r02": "41099",
+  "r03": "47923",
+  "r04": "47258",
+  "r05": "57154",
+  "r06": "50698",
+  "r07": "60354",
   "r08": null,
   "awards": null,
   "website": null,
@@ -207,6 +207,21 @@
         "d": [
           "2013-05-14",
           "2013-05-25"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "172541-20301-2014-01-31",
+        "c": "GB",
+        "n": "Geographies of Contamination",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "London",
+        "o": "The David Roberts Art Foundation",
+        "d": [
+          "2014-01-31",
+          "2014-03-29"
         ]
       }
     ],

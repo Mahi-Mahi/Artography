@@ -1,7 +1,7 @@
 {
   "id": "3593",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:16:17",
+  "timestamp": "2014-05-31 06:21:50",
   "name": "Geneviève Claisse",
   "surname": "Claisse",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting",
-  "r00": "10989",
-  "r01": "10428",
-  "r02": "9198",
-  "r03": "9609",
-  "r04": "8825",
+  "r00": "11044",
+  "r01": "10439",
+  "r02": "9204",
+  "r03": "9611",
+  "r04": "8826",
   "r05": "8856",
-  "r06": "10786",
-  "r07": "12137",
-  "r08": "20497",
+  "r06": "10784",
+  "r07": "12126",
+  "r08": "20482",
   "awards": null,
   "website": null,
   "all-shows-first": "1961",
@@ -451,6 +451,21 @@
       {
         "i": "3593-26673-2013-04-28",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "3593-3490-2014-03-26",
+        "c": "CH",
+        "n": "Radierung in der konstruktiven Kunst",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Basel",
+        "o": "Atelier-Editions Fanal",
+        "d": [
+          "2014-03-26",
+          "2014-05-01"
+        ]
       }
     ]
   }

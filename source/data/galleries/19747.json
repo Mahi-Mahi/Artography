@@ -12,19 +12,19 @@
   "email": "galerie@bendana-pinel.com",
   "www": "www.bendana-pinel.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%204, Rue du Perche %2C%20France",
-  "fairs-total": "16",
-  "fairs-abroad": "12",
-  "fairs-in-FR": "4",
+  "fairs-total": "19",
+  "fairs-abroad": "14",
+  "fairs-in-FR": "5",
   "fairs": {
     "2009": [
       {
-        "i": "19747-ROMA – The Road to Contemporary Art 2009",
+        "i": "19747-ROMA-–-The-Road-to-Contemporary-Art-2009",
         "c": "IT",
         "n": "ROMA – The Road to Contemporary Art 2009",
         "ct": "Rome"
       },
       {
-        "i": "19747-Ch.ACO 2009",
+        "i": "19747-Ch.ACO-2009",
         "c": "CL",
         "n": "Ch.ACO 2009",
         "ct": "Santiago"
@@ -32,23 +32,23 @@
     ],
     "2010": [
       {
-        "i": "19747-Fiac 2010",
+        "i": "19747-Fiac-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "19747-SWAB 2011",
+        "i": "19747-SWAB-2011",
         "c": "ES",
         "n": "SWAB 2011",
         "ct": "Barcelona"
       },
       {
-        "i": "19747-Art-O-Rama 2011",
+        "i": "19747-Art-O-Rama-2011",
         "c": "FR"
       },
       {
-        "i": "19747-ArtRio 2011",
+        "i": "19747-ArtRio-2011",
         "c": "BR",
         "n": "ArtRio 2011",
         "ct": "Rio de Janeiro, RJ"
@@ -56,25 +56,25 @@
     ],
     "2012": [
       {
-        "i": "19747-Loop - The Video Art Fair 2012",
+        "i": "19747-Loop---The-Video-Art-Fair-2012",
         "c": "ES",
         "n": "Loop - The Video Art Fair 2012",
         "ct": "Barcelona"
       },
       {
-        "i": "19747-Pinta London",
+        "i": "19747-Pinta-London",
         "c": "GB",
         "n": "Pinta London",
         "ct": "London"
       },
       {
-        "i": "19747-Ch.ACO 2012",
+        "i": "19747-Ch.ACO-2012",
         "c": "CL",
         "n": "Ch.ACO 2012",
         "ct": "Santiago"
       },
       {
-        "i": "19747-Artissima 19",
+        "i": "19747-Artissima-19",
         "c": "IT",
         "n": "Artissima 19",
         "ct": "Turin"
@@ -82,36 +82,54 @@
     ],
     "2013": [
       {
-        "i": "19747-ARCOmadrid 2013",
+        "i": "19747-ARCOmadrid-2013",
         "c": "ES",
         "n": "ARCOmadrid 2013",
         "ct": "Madrid"
       },
       {
-        "i": "19747-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "i": "19747-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2013",
         "c": "FR"
       },
       {
-        "i": "19747-Loop - The Video Art Fair 2013",
+        "i": "19747-Loop---The-Video-Art-Fair-2013",
         "c": "ES",
         "n": "Loop - The Video Art Fair 2013",
         "ct": "Barcelona"
       },
       {
-        "i": "19747-Pinta London 2013",
+        "i": "19747-Pinta-London-2013",
         "c": "GB",
         "n": "Pinta London 2013",
         "ct": "London"
       },
       {
-        "i": "19747-Artissima 2013",
+        "i": "19747-Artissima-2013",
         "c": "IT",
         "n": "Artissima 2013",
         "ct": "Turin"
       },
       {
-        "i": "19747-Paris Photo 2013",
+        "i": "19747-Paris-Photo-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "19747-Arcomadrid-2014",
+        "c": "ES",
+        "n": "Arcomadrid 2014",
+        "ct": "Madrid"
+      },
+      {
+        "i": "19747-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
+        "c": "FR"
+      },
+      {
+        "i": "19747-Loop---The-Video-Art-Fair-2014",
+        "c": "ES",
+        "n": "Loop - The Video Art Fair 2014",
+        "ct": "Barcelona"
       }
     ]
   }

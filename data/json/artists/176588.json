@@ -1,7 +1,7 @@
 {
   "id": "176588",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:16:58",
+  "timestamp": "2014-05-31 07:22:23",
   "name": "Stephanie Cherpin",
   "surname": "Cherpin",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "5719",
-  "r01": "8048",
-  "r02": "8477",
-  "r03": "11398",
-  "r04": "11659",
-  "r05": "38273",
-  "r06": "59720",
-  "r07": "83111",
+  "r00": "5760",
+  "r01": "8064",
+  "r02": "8482",
+  "r03": "11402",
+  "r04": "11661",
+  "r05": "38280",
+  "r06": "59761",
+  "r07": "83237",
   "r08": null,
   "awards": "CNAP Centre National d’Arts Plastiques - grant for the first monographic catalogue.,Drac Île de France.",
   "website": null,
@@ -214,6 +214,16 @@
       },
       {
         "i": "176588-9344-2013-04-05",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "176588-9344-2014-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "176588-9344-2014-02-21",
         "c": "FR"
       }
     ]

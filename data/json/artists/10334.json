@@ -1,7 +1,7 @@
 {
   "id": "10334",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:19:02",
+  "timestamp": "2014-05-31 06:24:31",
   "name": "Franck Scurti",
   "surname": "Scurti",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video",
-  "r00": "2237",
-  "r01": "2355",
-  "r02": "2047",
-  "r03": "1921",
-  "r04": "1878",
-  "r05": "1574",
-  "r06": "1520",
-  "r07": "1488",
-  "r08": "1605",
+  "r00": "2251",
+  "r01": "2357",
+  "r02": "2046",
+  "r03": "1917",
+  "r04": "1873",
+  "r05": "1573",
+  "r06": "1519",
+  "r07": "1489",
+  "r08": "1609",
   "awards": null,
   "website": null,
   "all-shows-first": "1992",
@@ -659,6 +659,62 @@
     "2014": [
       {
         "i": "10334-2353-2013-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "10334-1778-2014-02-12",
+        "c": "CH",
+        "n": "cycle Des histoires sans fin, séquence printemps 2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2014-02-12",
+          "2014-06-18"
+        ],
+        "a": "10334",
+        "an": "Franck Scurti"
+      },
+      {
+        "i": "10334-28277-2014-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "10334-28277-2014-03-07",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "10334",
+        "c": "CH",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "10334-1778-2014-02-12",
+        "c": "CH",
+        "n": "cycle Des histoires sans fin, séquence printemps 2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2014-02-12",
+          "2014-06-18"
+        ],
+        "a": "10334",
+        "an": "Franck Scurti"
+      },
+      {
+        "i": "10334",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "10334-28277-2014-03-07",
         "c": "FR"
       }
     ]

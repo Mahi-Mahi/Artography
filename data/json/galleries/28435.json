@@ -12,17 +12,23 @@
   "email": "gallery@helenebailly.com",
   "www": "www.helenebailly.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2038, rue de Seine %2C%20France",
-  "fairs-total": "2",
+  "fairs-total": "3",
   "fairs-abroad": "0",
-  "fairs-in-FR": "2",
+  "fairs-in-FR": "3",
   "fairs": {
     "2013": [
       {
-        "i": "28435-Art Paris Art Fair 2013",
+        "i": "28435-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "28435-DocksArtFair 2013",
+        "i": "28435-DocksArtFair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "28435-Artparis-2014",
         "c": "FR"
       }
     ]

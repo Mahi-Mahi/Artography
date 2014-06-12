@@ -12,56 +12,80 @@
   "email": "info@lagalerieparticuliere.com",
   "www": "www.lagalerieparticuliere.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2016 rue du Perche %2C%20France",
-  "fairs-total": "9",
-  "fairs-abroad": "2",
-  "fairs-in-FR": "7",
+  "fairs-total": "13",
+  "fairs-abroad": "4",
+  "fairs-in-FR": "9",
   "fairs": {
     "2010": [
       {
-        "i": "21906-Salon du Dessin Contemporain 2010",
+        "i": "21906-Salon-du-Dessin-Contemporain-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "21906-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "i": "21906-Drawing-Now-Paris---Le-Salon-Du-Dessin-Contemporain-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "21906-Art Paris Art Fair 2012",
+        "i": "21906-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2012",
         "c": "FR"
       },
       {
-        "i": "21906-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "i": "21906-Art-Paris-Art-Fair-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "21906-Art Paris Art Fair 2013",
+        "i": "21906-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "21906-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "i": "21906-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2013",
         "c": "FR"
       },
       {
-        "i": "21906-Loop - The Video Art Fair 2013",
+        "i": "21906-Loop---The-Video-Art-Fair-2013",
         "c": "ES",
         "n": "Loop - The Video Art Fair 2013",
         "ct": "Barcelona"
       },
       {
-        "i": "21906-Paris Photo 2013",
+        "i": "21906-Paris-Photo-2013",
         "c": "FR"
       },
       {
-        "i": "21906-Pulse Miami 2013",
+        "i": "21906-Pulse-Miami-2013",
         "c": "US",
         "n": "Pulse Miami 2013",
         "ct": "Miami, FL"
+      }
+    ],
+    "2014": [
+      {
+        "i": "21906-Art-Rotterdam-2014",
+        "c": "NL",
+        "n": "Art Rotterdam 2014",
+        "ct": "Rotterdam"
+      },
+      {
+        "i": "21906-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
+        "c": "FR"
+      },
+      {
+        "i": "21906-Paris-Photo-Los-Angeles-2014",
+        "c": "US",
+        "n": "Paris Photo Los Angeles 2014",
+        "ct": "Los Angeles, CA"
+      },
+      {
+        "i": "21906-Loop---The-Video-Art-Fair-2014",
+        "c": "ES",
+        "n": "Loop - The Video Art Fair 2014",
+        "ct": "Barcelona"
       }
     ]
   }

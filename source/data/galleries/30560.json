@@ -12,9 +12,29 @@
   "email": "Info@55bellechasse.com",
   "www": "www.galerie55.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%2055 rue de Bellechasse %2C%20France",
-  "fairs-total": "0",
-  "fairs-abroad": "0",
+  "fairs-total": "3",
+  "fairs-abroad": "3",
   "fairs-in-FR": "0",
   "fairs": {
+    "2014": [
+      {
+        "i": "30560-Scope-New-York",
+        "c": "US",
+        "n": "Scope New York",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "30560-Cutlog-New-York",
+        "c": "US",
+        "n": "Cutlog New York",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "30560-Scope-Basel-2014",
+        "c": "CH",
+        "n": "Scope Basel 2014",
+        "ct": "Basel"
+      }
+    ]
   }
 }

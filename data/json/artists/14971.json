@@ -1,7 +1,7 @@
 {
   "id": "14971",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:52",
+  "timestamp": "2014-05-31 06:26:23",
   "name": "Dominique Ghesquiere",
   "surname": "Ghesquiere",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Installation, Sculpture",
-  "r00": "6044",
-  "r01": "5795",
+  "r00": "5023",
+  "r01": "5807",
   "r02": "5987",
-  "r03": "6437",
-  "r04": "7691",
-  "r05": "12896",
-  "r06": "16485",
-  "r07": "14541",
-  "r08": "18463",
+  "r03": "6438",
+  "r04": "7695",
+  "r05": "12895",
+  "r06": "16498",
+  "r07": "14547",
+  "r08": "18468",
   "awards": null,
   "website": "www.dominique-ghesquiere.com",
   "all-shows-first": "2002",
@@ -159,6 +159,19 @@
         ]
       },
       {
+        "i": "14971-2298-2010-11-27",
+        "c": "DE",
+        "n": "Transfer France-nrw",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Mönchengladbach",
+        "o": "Städtisches Museum Abteiberg",
+        "d": [
+          "2010-11-27",
+          "2011-01-23"
+        ]
+      },
+      {
         "i": "14971-2293-2010-11-27",
         "c": "DE",
         "n": "Transfer France-nrw",
@@ -179,19 +192,6 @@
         "st": "Group",
         "ct": "Dortmund",
         "o": "Museum Ostwall im Dortmunder U",
-        "d": [
-          "2010-11-27",
-          "2011-01-23"
-        ]
-      },
-      {
-        "i": "14971-2298-2010-11-27",
-        "c": "DE",
-        "n": "Transfer France-nrw",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Mönchengladbach",
-        "o": "Städtisches Museum Abteiberg",
         "d": [
           "2010-11-27",
           "2011-01-23"
@@ -229,19 +229,6 @@
         ]
       },
       {
-        "i": "14971-2293-2010-11-27",
-        "c": "DE",
-        "n": "Passage",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Dortmund",
-        "o": "Museum Ostwall im Dortmunder U",
-        "d": [
-          "2010-11-27",
-          "2011-01-23"
-        ]
-      },
-      {
         "i": "14971-2298-2010-11-27",
         "c": "DE",
         "n": "Transfer France-nrw",
@@ -249,6 +236,19 @@
         "st": "Group",
         "ct": "Mönchengladbach",
         "o": "Städtisches Museum Abteiberg",
+        "d": [
+          "2010-11-27",
+          "2011-01-23"
+        ]
+      },
+      {
+        "i": "14971-2293-2010-11-27",
+        "c": "DE",
+        "n": "Passage",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
         "d": [
           "2010-11-27",
           "2011-01-23"
@@ -380,6 +380,28 @@
       },
       {
         "i": "14971-16191-2013-01-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "14971-1782-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "14971-1782-2014-06-06",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "14971",
+        "c": "FR",
+        "g": "f",
+        "a": "61-100"
+      },
+      {
+        "i": "14971-1782-2014-06-06",
         "c": "FR"
       }
     ]

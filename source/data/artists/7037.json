@@ -1,12 +1,12 @@
 {
   "id": "7037",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:17:44",
+  "timestamp": "2014-05-31 06:23:14",
   "name": "Jerôme Basserode",
   "surname": "Basserode",
   "nationality": "FR",
   "nationality fr": "France",
-  "birth location": "Nice, Alpes-Maritimes (FR)",
+  "birth location": "Nice (FR)",
   "birth day": 1,
   "birth month": 1,
   "birth year": "1958",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation, Sculpture",
-  "r00": "6449",
-  "r01": "6449",
-  "r02": "7341",
-  "r03": "6036",
-  "r04": "4830",
-  "r05": "4063",
-  "r06": "3736",
-  "r07": "3204",
-  "r08": "2650",
+  "r00": "6492",
+  "r01": "6446",
+  "r02": "7312",
+  "r03": "6027",
+  "r04": "4822",
+  "r05": "4047",
+  "r06": "3729",
+  "r07": "3202",
+  "r08": "2653",
   "awards": null,
   "website": null,
   "all-shows-first": "1992",
   "all-shows-total": "51",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
-  "2005-shows-museums": "8",
-  "2005-countries-total": "France (13), Belgium (1), Czech Republic (1)",
-  "2005-shows-with": "Jerôme Basserode (12), Sophie Calle (4), Angela Bulloch (3), Philippe Cazal (3), Jean Degottex (3), Bertrand Lavier (3), Roman Signer (3), Marina Abramovic (2), John M Armleder (2), Art & Language (2), Art Orienté Objet (2), Joël Bartoloméo (2), Julien Blaine (2), Christian Boltanski (2), Pol Bury (2), Claude Closky (2), Robert Combas (2), Patrick Corillon (2), Henri Cueco (2), Jean Daviot (2), Damien Deroubaix (2), Mark Dion (2), Peter Downsbrough (2), François Dufrêne (2), Jean Dupuy (2), Erró (2), Daniel Firman (2), Jean le Gac (2), Jochen Gerz (2), Paul-Armand Gette (2), Marie-Ange Guilleminot (2), Raymond Hains (2), Siobhán Hapaska (2), Jenny Holzer (2), Peter Klasen (2), Yves Klein (2), Natacha Lesueur (2), Annette Messager (2), Jacques Monory (2), Tania Mouraud (2), Orlan (2), Jean-Michel Othoniel (2), A. R. Penck (2), Dieter Roth (2), Thomas Ruff (2), Haim Steinbach (2), Ernest T. (2), Wolfgang Tillmans (2), Pierre Tilman (2), David Tremlett (2), Ben Vautier (2), Jacques Villeglé (2), Jorinde",
+  "2005-shows-museums": "9",
+  "2005-countries-total": "France (14), Belgium (1), Czech Republic (1)",
+  "2005-shows-with": "Jerôme Basserode (13), Sophie Calle (4), Angela Bulloch (3), Philippe Cazal (3), Jean Degottex (3), Jean Dupuy (3), Bertrand Lavier (3), Roman Signer (3), Marina Abramovic (2), John M Armleder (2), Art & Language (2), Art Orienté Objet (2), Joël Bartoloméo (2), Julien Blaine (2), Christian Boltanski (2), Pol Bury (2), Claude Closky (2), Robert Combas (2), Patrick Corillon (2), Henri Cueco (2), Jean Daviot (2), Damien Deroubaix (2), Mark Dion (2), Peter Downsbrough (2), François Dufrêne (2), Erró (2), Daniel Firman (2), Jean le Gac (2), Jochen Gerz (2), Paul-Armand Gette (2), Marie-Ange Guilleminot (2), Raymond Hains (2), Siobhán Hapaska (2), Jenny Holzer (2), Peter Klasen (2), Yves Klein (2), Natacha Lesueur (2), Annette Messager (2), Jacques Monory (2), Tania Mouraud (2), Orlan (2), Jean-Michel Othoniel (2), A. R. Penck (2), Dieter Roth (2), Thomas Ruff (2), Haim Steinbach (2), Ernest T. (2), Wolfgang Tillmans (2), Pierre Tilman (2), David Tremlett (2), Ben Vautier (2), Jacques Villeglé (2), Jorinde",
   "representing-galleries": "Galerie Martine et Thibault de La Châtre (4 rue Saintonge, 75003 Paris, France)",
   "collecting-museums": "FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); 49 NORD 6 EST – Frac Lorraine (Rue des Trinitaires 1 bis, 57000 Metz, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
   "first_name": "Jerôme",
@@ -275,6 +275,24 @@
       },
       {
         "i": "7037-10825-2013-09-21",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "7037-18811-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "7037-18811-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "7037-11587-2014-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "7037-11587-2014-06-21",
         "c": "FR"
       }
     ]

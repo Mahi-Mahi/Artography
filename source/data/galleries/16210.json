@@ -12,23 +12,23 @@
   "email": "galerieparisbeijing@gmail.com",
   "www": "www.parisbeijingphotogallery.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2054 rue du Vertbois %2C%20France",
-  "fairs-total": "25",
-  "fairs-abroad": "10",
-  "fairs-in-FR": "15",
+  "fairs-total": "28",
+  "fairs-abroad": "12",
+  "fairs-in-FR": "16",
   "fairs": {
     "2008": [
       {
-        "i": "16210-ArtParis 08",
+        "i": "16210-ArtParis-08",
         "c": "FR"
       },
       {
-        "i": "16210-Art Beijing 2008",
+        "i": "16210-Art-Beijing-2008",
         "c": "CN",
         "n": "Art Beijing 2008",
         "ct": "Beijing"
       },
       {
-        "i": "16210-ACAF NY 2008",
+        "i": "16210-ACAF-NY-2008",
         "c": "US",
         "n": "ACAF NY 2008",
         "ct": "New York City, NY"
@@ -36,17 +36,17 @@
     ],
     "2009": [
       {
-        "i": "16210-ArtParis 09",
+        "i": "16210-ArtParis-09",
         "c": "FR"
       },
       {
-        "i": "16210-Art Beijing 2009",
+        "i": "16210-Art-Beijing-2009",
         "c": "CN",
         "n": "Art Beijing 2009",
         "ct": "Beijing"
       },
       {
-        "i": "16210-Scope Basel 2009",
+        "i": "16210-Scope-Basel-2009",
         "c": "CH",
         "n": "Scope Basel 2009",
         "ct": "Basel"
@@ -54,19 +54,19 @@
     ],
     "2010": [
       {
-        "i": "16210-ArtParis 2010",
+        "i": "16210-ArtParis-2010",
         "c": "FR"
       },
       {
-        "i": "16210-SLICK 2010",
+        "i": "16210-SLICK-2010",
         "c": "FR"
       },
       {
-        "i": "16210-Photo Off 2010",
+        "i": "16210-Photo-Off-2010",
         "c": "FR"
       },
       {
-        "i": "16210-Scope Miami 2010",
+        "i": "16210-Scope-Miami-2010",
         "c": "US",
         "n": "Scope Miami 2010",
         "ct": "Miami, FL"
@@ -74,7 +74,7 @@
     ],
     "2011": [
       {
-        "i": "16210-ArtParis 2011",
+        "i": "16210-ArtParis-2011",
         "c": "FR"
       },
       {
@@ -84,65 +84,83 @@
         "ct": "Hong Kong, SAR"
       },
       {
-        "i": "16210-SLICK 2011",
+        "i": "16210-SLICK-2011",
         "c": "FR"
       },
       {
-        "i": "16210-Paris Photo 2011",
+        "i": "16210-Paris-Photo-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "16210-Art Stage Singapore 2012",
+        "i": "16210-Art-Stage-Singapore-2012",
         "c": "SG",
         "n": "Art Stage Singapore 2012",
         "ct": "Singapore"
       },
       {
-        "i": "16210-Art Paris Art Fair 2012",
+        "i": "16210-Art-Paris-Art-Fair-2012",
         "c": "FR"
       },
       {
-        "i": "16210-Slick Brussels 2012",
+        "i": "16210-Slick-Brussels-2012",
         "c": "FR"
       },
       {
-        "i": "16210-fotofever artfair 2012",
+        "i": "16210-fotofever-artfair-2012",
         "c": "FR"
       },
       {
-        "i": "16210-SLICK 2012",
+        "i": "16210-SLICK-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "16210-Art Stage Singapore 2013",
+        "i": "16210-Art-Stage-Singapore-2013",
         "c": "SG",
         "n": "Art Stage Singapore 2013",
         "ct": "Singapore"
       },
       {
-        "i": "16210-Art13 London",
+        "i": "16210-Art13-London",
         "c": "GB",
         "n": "Art13 London",
         "ct": "London"
       },
       {
-        "i": "16210-Art Paris Art Fair 2013",
+        "i": "16210-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "16210-Yia Art Fair 2013",
+        "i": "16210-Yia-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "16210-Slick Paris 2013",
+        "i": "16210-Slick-Paris-2013",
         "c": "FR"
       },
       {
-        "i": "16210-Paris Photo 2013",
+        "i": "16210-Paris-Photo-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "16210-Art-Stage-Singapore-2014",
+        "c": "SG",
+        "n": "Art Stage Singapore 2014",
+        "ct": "Singapore"
+      },
+      {
+        "i": "16210-Art-14-London",
+        "c": "GB",
+        "n": "Art 14 London",
+        "ct": "London"
+      },
+      {
+        "i": "16210-Artparis-2014",
         "c": "FR"
       }
     ]

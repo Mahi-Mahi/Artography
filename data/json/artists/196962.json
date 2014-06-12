@@ -1,7 +1,7 @@
 {
   "id": "196962",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:23:56",
+  "timestamp": "2014-05-31 07:29:18",
   "name": "Cyril Massimelli",
   "surname": "Massimelli",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "62120",
-  "r01": "62433",
-  "r02": "58522",
-  "r03": "75246",
-  "r04": "69367",
-  "r05": "62717",
-  "r06": "73527",
+  "r00": "56651",
+  "r01": "62497",
+  "r02": "58542",
+  "r03": "75270",
+  "r04": "69380",
+  "r05": "62711",
+  "r06": "73559",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -32,13 +32,13 @@
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": null,
-  "2005-countries-total": "Germany (3)",
-  "2005-shows-with": "Cyril Massimelli (3), Thomas Baumhekel (2), Eberhard Bosslet (2), Stefan Hauberg (2), Andreas Hetfeld (2), Gesa Lange (2), Hendrik Lehmbruch (2)",
+  "2005-countries-total": "Germany (4)",
+  "2005-shows-with": "Cyril Massimelli (4), Thomas Baumhekel (2), Eberhard Bosslet (2), Stefan Hauberg (2), Andreas Hetfeld (2), Alexander König (2), Gesa Lange (2), Hendrik Lehmbruch (2), Ekkehard Tischendorf (2)",
   "representing-galleries": "Galerie Queen Anne (Spinnereistr. 7, 04179 Leipzig, Germany)",
   "collecting-museums": null,
   "first_name": "Cyril",
   "last_name": "Massimelli",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1971-01-01",
   "age": 43,
   "age_range": "41-60",
@@ -86,6 +86,46 @@
           "2012-03-01",
           "2012-05-06"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "196962-29572-2014-04-29",
+        "c": "DE",
+        "n": "Mensch werde wesentlich",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Zwickau",
+        "o": "Freunde Aktueller Kunst",
+        "d": [
+          "2014-04-29",
+          "2014-06-21"
+        ],
+        "a": "196962",
+        "an": "Cyril Massimelli"
+      }
+    ],
+    "today": [
+      {
+        "i": "196962",
+        "c": "DE",
+        "g": "n",
+        "a": "41-60"
+      },
+      {
+        "i": "196962-29572-2014-04-29",
+        "c": "DE",
+        "n": "Mensch werde wesentlich",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Zwickau",
+        "o": "Freunde Aktueller Kunst",
+        "d": [
+          "2014-04-29",
+          "2014-06-21"
+        ],
+        "a": "196962",
+        "an": "Cyril Massimelli"
       }
     ]
   }

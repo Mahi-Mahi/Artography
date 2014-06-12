@@ -1,7 +1,7 @@
 {
   "id": "57640",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:36:21",
+  "timestamp": "2014-05-31 06:41:48",
   "name": "Pascal Lièvre",
   "surname": "Lièvre",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "7899",
-  "r01": "7287",
-  "r02": "6849",
-  "r03": "5748",
-  "r04": "6202",
-  "r05": "6437",
+  "r00": "7897",
+  "r01": "7298",
+  "r02": "6854",
+  "r03": "5749",
+  "r04": "6201",
+  "r05": "6443",
   "r06": "7470",
-  "r07": "10748",
-  "r08": "11558",
+  "r07": "10749",
+  "r08": "11556",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
   "all-shows-total": "35",
-  "2005-shows-biennials": "12",
-  "2005-shows-galleries": "12",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
   "2005-shows-museums": "7",
-  "2005-countries-total": "France (10), China (3), Japan (2), Netherlands (2), Canada (1), Israel (1), Luxembourg (1), Russia (1), Switzerland (1)",
-  "2005-shows-with": "Pascal Lièvre (17), Nikolaj Bendix & Skyum Larsen (3), AES+F (2), Pierre Ardouvin (2), Guy Ben-Ner (2), Flavia Bigi (2), Charley Case (2), Gaël Davrinche (2), Erik Dietman (2), Carlos Franklin (2), Rodney Graham (2), Joël Hubaut (2), Katsuhito Ishii (2), Pekka Jylhä (2), James Kennedy (2), Martin Lord (2), Kate MacDowell (2), Joàn Miró (2), Valérie Mréjen (2), Vik Muniz (2), Benny Nemerofsky Ramsay (2), Dennis Oppenheim (2), Man Ray (2), Lydia Venieri (2)",
+  "2005-countries-total": "France (11), China (3), Japan (2), Netherlands (2), Canada (1), Israel (1), Luxembourg (1), Russia (1), Switzerland (1)",
+  "2005-shows-with": "Pascal Lièvre (18), Joël Hubaut (3), Nikolaj Bendix & Skyum Larsen (3), AES+F (2), Pierre Ardouvin (2), Guy Ben-Ner (2), Flavia Bigi (2), Charley Case (2), Gaël Davrinche (2), Erik Dietman (2), Noël Dolla (2), Carlos Franklin (2), Rodney Graham (2), Katsuhito Ishii (2), Pekka Jylhä (2), James Kennedy (2), Arnaud Labelle-Rojoux (2), Martin Lord (2), Kate MacDowell (2), Joàn Miró (2), Valérie Mréjen (2), Vik Muniz (2), Benny Nemerofsky Ramsay (2), Dennis Oppenheim (2), Éric Pougeau (2), Philippe Ramette (2), Man Ray (2), Lydia Venieri (2)",
   "representing-galleries": "Art Statements Gallery (Gee Chang Hong Centre, Factory D, 8/F 65 Wong Chuk Hang Road,  Hong Kong, SAR, China); Vidéochroniques (1 place de Lorette, 13002 Marseille, France); Galerie Christine Phal (29 rue Mazarine, 75006 Paris, France); Art Statements - Tokyo (7F Toranomon 40MT Bldg. 5-13-1 Toranomon, 150-0022 Minato-ku Tokyo, Japan)",
   "collecting-museums": "FRAC Aquitaine (Hangar G2, Bassin à flot n°1, Quai Armand Lalande, 33300 Bordeaux, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France)",
   "first_name": "Pascal",
@@ -419,6 +419,28 @@
           "2013-02-20",
           "2013-03-20"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "57640-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "57640-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "57640",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "57640-16752-2014-04-19",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "2119",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:15:30",
+  "timestamp": "2014-05-31 06:21:02",
   "name": "Jean le Gac",
   "surname": "Gac",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "4234",
+  "r00": "4263",
   "r01": "3621",
   "r02": "3416",
-  "r03": "2696",
-  "r04": "2280",
-  "r05": "1960",
+  "r03": "2699",
+  "r04": "2278",
+  "r05": "1962",
   "r06": "1877",
-  "r07": "1602",
-  "r08": "1415",
+  "r07": "1603",
+  "r08": "1417",
   "awards": null,
   "website": null,
   "all-shows-first": "1961",
@@ -94,14 +94,6 @@
         ]
       },
       {
-        "i": "2119-8522-2006-04-07",
-        "c": "FR"
-      },
-      {
-        "i": "2119-8522-2006-04-07",
-        "c": "FR"
-      },
-      {
         "i": "2119-814-2006-04-07",
         "c": "DE",
         "n": "Sexy Mythos - Selbst- und Fremdbilder von KünstlerInnen",
@@ -113,6 +105,14 @@
           "2006-04-07",
           "2006-05-21"
         ]
+      },
+      {
+        "i": "2119-8522-2006-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "2119-8522-2006-04-07",
+        "c": "FR"
       },
       {
         "i": "2119-12976-2006-06-23",
@@ -135,19 +135,6 @@
         "c": "FR"
       },
       {
-        "i": "2119-881-2006-07-19",
-        "c": "DE",
-        "n": "Sammeln und Entdecken",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Karlsruhe",
-        "o": "Galerie Schrade & Blashofer",
-        "d": [
-          "2006-07-19",
-          "2006-09-16"
-        ]
-      },
-      {
         "i": "2119-20517-2006-07-19",
         "c": "DE",
         "n": "SAMMELN UND ENTDECKEN",
@@ -155,6 +142,19 @@
         "st": "Group",
         "ct": "Karlsruhe",
         "o": "Galerie Schrade - Karlsruhe",
+        "d": [
+          "2006-07-19",
+          "2006-09-16"
+        ]
+      },
+      {
+        "i": "2119-881-2006-07-19",
+        "c": "DE",
+        "n": "Sammeln und Entdecken",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "Galerie Schrade & Blashofer",
         "d": [
           "2006-07-19",
           "2006-09-16"

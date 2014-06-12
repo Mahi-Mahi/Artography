@@ -1,7 +1,7 @@
 {
   "id": "151025",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:08:09",
+  "timestamp": "2014-05-31 07:13:37",
   "name": "Vadim Vosters",
   "surname": "Vosters",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "20448",
-  "r01": "20574",
-  "r02": "18078",
-  "r03": "16544",
-  "r04": "17363",
-  "r05": "15327",
-  "r06": "28721",
-  "r07": "25513",
-  "r08": "27308",
+  "r00": "20556",
+  "r01": "20625",
+  "r02": "18091",
+  "r03": "16545",
+  "r04": "17367",
+  "r05": "15331",
+  "r06": "28731",
+  "r07": "25518",
+  "r08": "27305",
   "awards": null,
   "website": "www.vadimvosters.be",
   "all-shows-first": "2005",
@@ -276,6 +276,21 @@
         "d": [
           "2013-05-12",
           "2013-11-17"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "151025-24256-2014-01-30",
+        "c": "BE",
+        "n": "nyx",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Antwerp",
+        "o": "Marion De Cannière contemporary art gallery",
+        "d": [
+          "2014-01-30",
+          "2014-03-01"
         ]
       }
     ]

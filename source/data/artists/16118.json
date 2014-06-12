@@ -1,7 +1,7 @@
 {
   "id": "16118",
   "mergedIDs": "448699",
-  "timestamp": "2014-05-24 06:21:20",
+  "timestamp": "2014-05-31 06:26:50",
   "name": "Saâdane Afif",
   "surname": "Afif",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation, Objects",
-  "r00": "477",
+  "r00": "479",
   "r01": "480",
   "r02": "473",
   "r03": "483",
   "r04": "470",
   "r05": "527",
   "r06": "565",
-  "r07": "593",
+  "r07": "594",
   "r08": "1060",
   "awards": "Marcel Duchamp Prize",
   "website": null,
@@ -208,6 +208,14 @@
         ]
       },
       {
+        "i": "16118-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
+        "i": "16118-1782-2006-01-21",
+        "c": "FR"
+      },
+      {
         "i": "16118-3158-2006-01-21",
         "c": "CH",
         "n": "Midnight Walkers",
@@ -219,14 +227,6 @@
           "2006-01-21",
           "2006-03-26"
         ]
-      },
-      {
-        "i": "16118-1782-2006-01-21",
-        "c": "FR"
-      },
-      {
-        "i": "16118-1782-2006-01-21",
-        "c": "FR"
       },
       {
         "i": "16118-10227-2006-02-03",
@@ -755,6 +755,14 @@
         ]
       },
       {
+        "i": "16118-1596-2008-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "16118-1596-2008-06-27",
+        "c": "FR"
+      },
+      {
         "i": "16118-10736-2008-06-27",
         "c": "DE",
         "n": "Simple exploding man",
@@ -766,14 +774,6 @@
           "2008-06-27",
           "2008-07-20"
         ]
-      },
-      {
-        "i": "16118-1596-2008-06-27",
-        "c": "FR"
-      },
-      {
-        "i": "16118-1596-2008-06-27",
-        "c": "FR"
       },
       {
         "i": "16118-592-2008-09-05",
@@ -1081,19 +1081,6 @@
         ]
       },
       {
-        "i": "16118-19128-2010-04-24",
-        "c": "DE",
-        "n": "Studies & Theory",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Kwadrat",
-        "d": [
-          "2010-04-24",
-          "2010-05-15"
-        ]
-      },
-      {
         "i": "16118-17185-2010-04-24",
         "c": "DE",
         "n": "Celebration! | Uqbar’s 3rd Anniversary Exhibition",
@@ -1104,6 +1091,19 @@
         "d": [
           "2010-04-24",
           "2010-05-24"
+        ]
+      },
+      {
+        "i": "16118-19128-2010-04-24",
+        "c": "DE",
+        "n": "Studies & Theory",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Kwadrat",
+        "d": [
+          "2010-04-24",
+          "2010-05-15"
         ]
       },
       {
@@ -1141,19 +1141,6 @@
         ]
       },
       {
-        "i": "16118-1619-2010-05-20",
-        "c": "DE",
-        "n": "HIGH IDEALS & CRAZY DREAMS - Compiled by Gerwald Rockenschaub",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Hamburg",
-        "o": "Galerie Vera Munro",
-        "d": [
-          "2010-05-20",
-          "2010-09-30"
-        ]
-      },
-      {
         "i": "16118-2328-2010-05-20",
         "c": "BE",
         "n": "Radical Postures",
@@ -1164,6 +1151,19 @@
         "d": [
           "2010-05-20",
           "2010-07-10"
+        ]
+      },
+      {
+        "i": "16118-1619-2010-05-20",
+        "c": "DE",
+        "n": "HIGH IDEALS & CRAZY DREAMS - Compiled by Gerwald Rockenschaub",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Hamburg",
+        "o": "Galerie Vera Munro",
+        "d": [
+          "2010-05-20",
+          "2010-09-30"
         ]
       },
       {
@@ -1719,6 +1719,19 @@
         ]
       },
       {
+        "i": "16118-1139-2012-05-17",
+        "c": "DE",
+        "n": "Made In Germany Zwei",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Hannover",
+        "o": "Kunstverein Hannover",
+        "d": [
+          "2012-05-17",
+          "2012-08-19"
+        ]
+      },
+      {
         "i": "16118-617-2012-05-17",
         "c": "DE",
         "n": "Made In Germany Zwei - Internationale Kunst In Deutschland",
@@ -1739,19 +1752,6 @@
         "st": "Group",
         "ct": "Hannover",
         "o": "kestnergesellschaft",
-        "d": [
-          "2012-05-17",
-          "2012-08-19"
-        ]
-      },
-      {
-        "i": "16118-1139-2012-05-17",
-        "c": "DE",
-        "n": "Made In Germany Zwei",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Hannover",
-        "o": "Kunstverein Hannover",
         "d": [
           "2012-05-17",
           "2012-08-19"
@@ -1874,6 +1874,40 @@
       {
         "i": "16118-8522-2013-11-16",
         "c": "FR"
+      },
+      {
+        "i": "16118-22481-2014-02-26",
+        "c": "MA",
+        "n": "Marrakech Biennale 5 - Where are we now?",
+        "st": "Group",
+        "ct": "Marrakech",
+        "o": "Marrakech Biennale",
+        "d": [
+          "2014-02-26",
+          "2014-03-31"
+        ]
+      },
+      {
+        "i": "16118-19611-2014-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "16118-19611-2014-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "16118-2554-2014-05-29",
+        "c": "DE",
+        "n": "8. Berlin Biennale für zeitgenössische Kunst",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "berlin biennale für zeitgenössische kunst",
+        "d": [
+          "2014-05-29",
+          "2014-08-03"
+        ],
+        "a": "16118",
+        "an": "Saâdane Afif"
       }
     ],
     "2013": [
@@ -2034,6 +2068,38 @@
       {
         "i": "16118-7491-2013-03-01",
         "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "16118",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "16118-19611-2014-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "16118",
+        "c": "DE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "16118-2554-2014-05-29",
+        "c": "DE",
+        "n": "8. Berlin Biennale für zeitgenössische Kunst",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "berlin biennale für zeitgenössische kunst",
+        "d": [
+          "2014-05-29",
+          "2014-08-03"
+        ],
+        "a": "16118",
+        "an": "Saâdane Afif"
       }
     ]
   }

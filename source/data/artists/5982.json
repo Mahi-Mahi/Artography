@@ -1,7 +1,7 @@
 {
   "id": "5982",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:17:19",
+  "timestamp": "2014-05-31 06:22:51",
   "name": "Jean-Jacques Lebel",
   "surname": "Lebel",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "1998",
-  "r01": "1842",
-  "r02": "1748",
-  "r03": "1962",
-  "r04": "2051",
-  "r05": "1630",
-  "r06": "2031",
-  "r07": "2073",
-  "r08": "2058",
+  "r00": "1968",
+  "r01": "1817",
+  "r02": "1714",
+  "r03": "1963",
+  "r04": "2054",
+  "r05": "1631",
+  "r06": "2032",
+  "r07": "2076",
+  "r08": "2060",
   "awards": null,
   "website": null,
   "all-shows-first": "1988",
   "all-shows-total": "64",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
-  "2005-shows-museums": "17",
-  "2005-countries-total": "France (12), Germany (4), Switzerland (2), United Kingdom (2), USA (2), Austria (1), Hungary (1), Romania (1), Russia (1)",
-  "2005-shows-with": "Jean-Jacques Lebel (20), Joseph Beuys (5), Christian Boltanski (5), Robert Filliou (5), Raymond Hains (5), Michel Journiac (5), Arnaud Labelle-Rojoux (5), Jacques Lizène (5), George Maciunas (5), Gina Pane (5), Mimmo Rotella (5), Niki de Saint Phalle (5), Ben Vautier (5), Wolf Vostell (5), Marina Abramovic (4), Julien Blaine (4), George Brecht (4), Erik Dietman (4), Joël Ducorroy (4), Erró (4), Fred Forest (4), Paul-Armand Gette (4), Carsten Höller (4), Annette Messager (4), Hermann Nitsch (4), Orlan (4), Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), James Lee Byars (3), Anna Byskov (3), John Cage (3), Gilbert Caty (3), Noël Dolla (3), Jean Dupuy (3), Eric Duyckaerts (3), Kristof Everart (3), Daniel Farioli (3), Jean-Baptiste Ganne (3), Claude Gilli (3), Yoko Gunji (3), Raoul Hébréard (3), Joël Hubaut (3), Alison Knowles (3), Virginie Le Touze (3), Robert Malaval (3), Jean Mas (3), Florent Mattei (3), Paul McCarthy (3), Bruno Mendonça (3), Roland Miller (3), Patrick Moya (3), Serge Oldenb",
+  "2005-shows-museums": "18",
+  "2005-countries-total": "France (12), Germany (4), Switzerland (2), United Kingdom (2), USA (2), Austria (1), Belgium (1), Hungary (1), Romania (1), Russia (1)",
+  "2005-shows-with": "Jean-Jacques Lebel (21), Marina Abramovic (5), Joseph Beuys (5), Christian Boltanski (5), Robert Filliou (5), Raymond Hains (5), Michel Journiac (5), Arnaud Labelle-Rojoux (5), Jacques Lizène (5), George Maciunas (5), Gina Pane (5), Mimmo Rotella (5), Niki de Saint Phalle (5), Ben Vautier (5), Wolf Vostell (5), Julien Blaine (4), George Brecht (4), Erik Dietman (4), Joël Ducorroy (4), Erró (4), Fred Forest (4), Paul-Armand Gette (4), Carsten Höller (4), Annette Messager (4), Hermann Nitsch (4), Orlan (4), Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), James Lee Byars (3), Anna Byskov (3), John Cage (3), Gilbert Caty (3), Noël Dolla (3), Jean Dupuy (3), Eric Duyckaerts (3), Kristof Everart (3), Daniel Farioli (3), Jean-Baptiste Ganne (3), Claude Gilli (3), Yoko Gunji (3), Raoul Hébréard (3), Joël Hubaut (3), Alison Knowles (3), Virginie Le Touze (3), Robert Malaval (3), Jean Mas (3), Florent Mattei (3), Paul McCarthy (3), Bruno Mendonça (3), Henri Michaux (3), Roland Miller (3), Patrick Moy",
   "representing-galleries": "Galerie Louis Carré & Cie (10, avenue de Messine, 75008 Paris, France); The Mayor Gallery (22A Cork St., W1S 3NA London, United Kingdom)",
   "collecting-museums": "Musée de l’Objet (6 rue Franciade, 41000 Blois, France); Musée d´Art Moderne de la Ville de Paris - MAM/ARC (11 avenue du Président Wilson, 75 016 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); Musée Régional D'Art Contemporain Languedoc-Roussillon (146, avenue de la plage, 34 410 Sérignan, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France); FLUXUS+ (Schiffbauergasse 4f, 14467 Potsdam, Germany); Ludwig Museum - Museum of Contemporary Art - Budapest (Komor Marcell u. 1. (in Palace of Arts), H-1095 Budapest, Hungary); The Israel Museum (Ruppin Blvd., 91710 Jerusalem, Israel); Berardo Museum - Collection of Modern and Contemporary Art (Praça do Império, 1449-003 Lisbon, Portugal); Museu d´Art Contemporani de Barcelona - MACBA (Plaça dels Àngels 1, 08001 Barcelona, Spain); Museo Vostell Malpartida (Carretera de los Barruecos, s/n,, 10910 Malpartida de Cáceres, Spain)",
   "first_name": "Jean-Jacques",
@@ -515,6 +515,41 @@
       },
       {
         "i": "5982-3864-2012-10-27",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "5982-26257-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "5982-26257-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "5982-2259-2014-07-26",
+        "c": "DE",
+        "n": "Jean-Jacques Lebel: Aufstände",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2014-07-26",
+          "2014-11-09"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "5982",
+        "c": "FR",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "5982-26257-2014-06-06",
         "c": "FR"
       }
     ]

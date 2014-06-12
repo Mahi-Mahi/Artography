@@ -12,19 +12,25 @@
   "email": "galerie@francoiselivinec.com",
   "www": "www.galeriesfrancoiselivinec.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2029/33, rue Matignon %2C%20France",
-  "fairs-total": "2",
+  "fairs-total": "3",
   "fairs-abroad": "0",
-  "fairs-in-FR": "2",
+  "fairs-in-FR": "3",
   "fairs": {
     "2011": [
       {
-        "i": "26270-Art Elysées 2011",
+        "i": "26270-Art-Elysées-2011",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "26270-Art Elysees 2013",
+        "i": "26270-Art-Elysees-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "26270-Artparis-2014",
         "c": "FR"
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "243202",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:39:46",
+  "timestamp": "2014-05-31 07:45:02",
   "name": "Pierre Fischer",
   "surname": "Fischer",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "90050",
-  "r01": "91915",
-  "r02": "89401",
-  "r03": "83623",
-  "r04": "89879",
-  "r05": "101308",
-  "r06": "92868",
-  "r07": "83502",
-  "r08": "74159",
+  "r00": "90357",
+  "r01": "92097",
+  "r02": "89520",
+  "r03": "83727",
+  "r04": "89995",
+  "r05": "101456",
+  "r06": "93011",
+  "r07": "83618",
+  "r08": "74227",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
@@ -112,6 +112,46 @@
           "2011-12-03",
           "2012-01-28"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "243202-12612-2014-05-10",
+        "c": "DE",
+        "n": "Pierre Fischer - Immanent",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Friedberg",
+        "o": "Kunstverein Friedberg",
+        "d": [
+          "2014-05-10",
+          "2014-06-15"
+        ],
+        "a": "243202",
+        "an": "Pierre Fischer"
+      }
+    ],
+    "today": [
+      {
+        "i": "243202",
+        "c": "DE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "243202-12612-2014-05-10",
+        "c": "DE",
+        "n": "Pierre Fischer - Immanent",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Friedberg",
+        "o": "Kunstverein Friedberg",
+        "d": [
+          "2014-05-10",
+          "2014-06-15"
+        ],
+        "a": "243202",
+        "an": "Pierre Fischer"
       }
     ]
   }

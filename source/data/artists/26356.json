@@ -1,7 +1,7 @@
 {
   "id": "26356",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:25:07",
+  "timestamp": "2014-05-31 06:30:39",
   "name": "Matthew Pillsbury",
   "surname": "Pillsbury",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "10637",
-  "r01": "14156",
-  "r02": "11769",
-  "r03": "11488",
-  "r04": "10488",
-  "r05": "9596",
-  "r06": "9341",
-  "r07": "9432",
-  "r08": "17004",
+  "r00": "10699",
+  "r01": "14168",
+  "r02": "11774",
+  "r03": "11486",
+  "r04": "10491",
+  "r05": "9599",
+  "r06": "9343",
+  "r07": "9433",
+  "r08": "17007",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -442,6 +442,21 @@
         "d": [
           "2009-09-05",
           "2009-10-03"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "26356-7778-2014-02-20",
+        "c": "US",
+        "n": "City Stages, photographs by Matthew Pillsbury",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Aperture Gallery",
+        "d": [
+          "2014-02-20",
+          "2014-03-27"
         ]
       }
     ]

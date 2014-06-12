@@ -1,7 +1,7 @@
 {
   "id": "11936",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:19:41",
+  "timestamp": "2014-05-31 06:25:10",
   "name": "Philippe Bazin",
   "surname": "Bazin",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "6537",
-  "r01": "5942",
-  "r02": "5313",
+  "r00": "6586",
+  "r01": "5946",
+  "r02": "5315",
   "r03": "4485",
   "r04": "4706",
-  "r05": "6101",
-  "r06": "7600",
-  "r07": "6421",
+  "r05": "6106",
+  "r06": "7606",
+  "r07": "6426",
   "r08": "5782",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "36",
+  "all-shows-total": "37",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": "15",
@@ -309,6 +309,14 @@
     "2014": [
       {
         "i": "11936-8997-2013-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "11936-30461-2014-01-24",
+        "c": "FR"
+      },
+      {
+        "i": "11936-30461-2014-01-24",
         "c": "FR"
       }
     ],

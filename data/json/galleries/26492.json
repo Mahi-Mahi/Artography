@@ -12,38 +12,46 @@
   "email": null,
   "www": "www.bertrandgillig.fr",
   "map": "http://maps.google.com/maps?q=Strasbourg%2C%2067000 %2C%20 %2C%2015 boulevard Ohmacht %2C%20France",
-  "fairs-total": "5",
-  "fairs-abroad": "3",
+  "fairs-total": "6",
+  "fairs-abroad": "4",
   "fairs-in-FR": "2",
   "fairs": {
     "2012": [
       {
-        "i": "26492-Affordable Art Fair Bruxelles 2012",
+        "i": "26492-Affordable-Art-Fair-Bruxelles-2012",
         "c": "BE",
         "n": "Affordable Art Fair Bruxelles 2012",
         "ct": "Brussels"
       },
       {
-        "i": "26492-ST-ART  2012",
+        "i": "26492-ST-ART--2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "26492-Slick Brussels 2013",
+        "i": "26492-Slick-Brussels-2013",
         "c": "BE",
         "n": "Slick Brussels 2013",
         "ct": "Brussels"
       },
       {
-        "i": "26492-Art Copenhagen 2013",
+        "i": "26492-Art-Copenhagen-2013",
         "c": "DK",
         "n": "Art Copenhagen 2013",
         "ct": "Copenhagen"
       },
       {
-        "i": "26492-St-art 2013",
+        "i": "26492-St-art-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "26492-Scope-New-York",
+        "c": "US",
+        "n": "Scope New York",
+        "ct": "New York City, NY"
       }
     ]
   }

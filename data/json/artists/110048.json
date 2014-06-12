@@ -1,7 +1,7 @@
 {
   "id": "110048",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:54:21",
+  "timestamp": "2014-05-31 06:59:44",
   "name": "Joëlle de la Casinière",
   "surname": "Casinière",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "8960",
-  "r01": "11916",
-  "r02": "12818",
-  "r03": "10726",
-  "r04": "10764",
-  "r05": "12814",
-  "r06": "20212",
-  "r07": "20095",
-  "r08": "16070",
+  "r00": "9016",
+  "r01": "11922",
+  "r02": "12823",
+  "r03": "10729",
+  "r04": "10763",
+  "r05": "12813",
+  "r06": "20217",
+  "r07": "20101",
+  "r08": "16075",
   "awards": null,
   "website": null,
   "all-shows-first": "1987",
@@ -75,19 +75,6 @@
     ],
     "2009": [
       {
-        "i": "110048-6152-2009-01-18",
-        "c": "BE",
-        "n": "argos open lounge",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "Argos",
-        "d": [
-          "2009-01-18",
-          "2009-02-15"
-        ]
-      },
-      {
         "i": "110048-7146-2009-01-18",
         "c": "DE",
         "n": "Argos - Open Lounge",
@@ -95,6 +82,19 @@
         "st": "Group",
         "ct": "Esslingen",
         "o": "Villa Merkel - Galerien der Stadt Esslingen",
+        "d": [
+          "2009-01-18",
+          "2009-02-15"
+        ]
+      },
+      {
+        "i": "110048-6152-2009-01-18",
+        "c": "BE",
+        "n": "argos open lounge",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Argos",
         "d": [
           "2009-01-18",
           "2009-02-15"
@@ -224,6 +224,41 @@
       },
       {
         "i": "110048-4186-2013-05-25",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "110048-30709-2014-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "110048-30709-2014-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "110048-6152-2014-02-02",
+        "c": "BE",
+        "n": "Joëlle de la Casinière - 50 Tablotins musiqués",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "Argos",
+        "d": [
+          "2014-02-02",
+          "2014-03-30"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "110048",
+        "c": "FR",
+        "g": "f",
+        "a": "61-100"
+      },
+      {
+        "i": "110048-30709-2014-06-03",
         "c": "FR"
       }
     ],

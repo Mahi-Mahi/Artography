@@ -1,7 +1,7 @@
 {
   "id": "227907",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:34:33",
+  "timestamp": "2014-05-31 07:39:52",
   "name": "Jean-Michel Pancin",
   "surname": "Pancin",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "5974",
-  "r01": "9795",
-  "r02": "21128",
-  "r03": "49251",
-  "r04": "47042",
-  "r05": "64585",
-  "r06": "101471",
+  "r00": "6001",
+  "r01": "9785",
+  "r02": "21023",
+  "r03": "49302",
+  "r04": "47093",
+  "r05": "64696",
+  "r06": "101621",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -152,6 +152,70 @@
     "2014": [
       {
         "i": "227907-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "227907-2528-2014-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "227907-2528-2014-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "227907-12042-2014-04-11",
+        "c": "ES",
+        "n": "Universo video. La Magia de las Imágenes",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2014-04-11",
+          "2014-07-06"
+        ],
+        "a": "227907",
+        "an": "Jean-Michel Pancin"
+      },
+      {
+        "i": "227907-8281-2014-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "227907-8281-2014-05-18",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "227907",
+        "c": "ES",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "227907-12042-2014-04-11",
+        "c": "ES",
+        "n": "Universo video. La Magia de las Imágenes",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2014-04-11",
+          "2014-07-06"
+        ],
+        "a": "227907",
+        "an": "Jean-Michel Pancin"
+      },
+      {
+        "i": "227907",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "227907-8281-2014-05-18",
         "c": "FR"
       }
     ]

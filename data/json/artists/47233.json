@@ -1,7 +1,7 @@
 {
   "id": "47233",
   "mergedIDs": "415707",
-  "timestamp": "2014-05-24 06:32:40",
+  "timestamp": "2014-05-31 06:38:08",
   "name": "Jean Dupuy",
   "surname": "Dupuy",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Video, Installation, Sculpture, Performance, Video",
-  "r00": "2272",
-  "r01": "2515",
-  "r02": "3058",
-  "r03": "5000",
-  "r04": "7019",
-  "r05": "9195",
-  "r06": "7862",
-  "r07": "7774",
-  "r08": "8001",
+  "r00": "2286",
+  "r01": "2521",
+  "r02": "3060",
+  "r03": "4997",
+  "r04": "7026",
+  "r05": "9196",
+  "r06": "7863",
+  "r07": "7780",
+  "r08": "8005",
   "awards": null,
   "website": null,
   "all-shows-first": "1975",
   "all-shows-total": "54",
-  "2005-shows-biennials": "9",
-  "2005-shows-galleries": "9",
-  "2005-shows-museums": "15",
-  "2005-countries-total": "France (25), Canada (1), Italy (1), Lebanon (1), USA (1)",
-  "2005-shows-with": "Jean Dupuy (23), Robert Filliou (9), Ben Vautier (7), Raymond Hains (6), Arnaud Labelle-Rojoux (6), George Brecht (5), Alison Knowles (5), George Maciunas (5), Nam June Paik (5), Daniel Spoerri (5), Stéphane Bérard (4), Joseph Beuys (4), Daniel Buren (4), Dan Graham (4), Dick Higgins (4), Carsten Höller (4), Allan Kaprow (4), Dennis Oppenheim (4), Yann Sérandour (4), Lawrence Weiner (4), A Constructed World (3), Marina Abramovic (3), Vito Acconci (3), Art & Language (3), Robert Barry (3), Berdaguer & Péjus (3), Julien Blaine (3), Dominique Blais (3), Marcel Broodthaers (3), Chris Burden (3), Sophie Calle (3), Pascal le Coq (3), Peter Downsbrough (3), François Dufrêne (3), Richard Fauguet (3), Esther Ferrer (3), Ryan Gander (3), Dora García (3), Mark Geffriaud (3), Aurelie Godard (3), Rodney Graham (3), Joseph Grigely (3), Al Hansen (3), Gary Hill (3), Joël Hubaut (3), Ben Kinmont (3), Jirí Kovanda (3), Thierry Lagalla (3), Bertrand Lavier (3), Jean-Jacques Lebel (3), Pierre Leguillon (3), Les Levine",
+  "2005-shows-biennials": "10",
+  "2005-shows-galleries": "10",
+  "2005-shows-museums": "16",
+  "2005-countries-total": "France (27), Canada (1), Italy (1), Lebanon (1), USA (1)",
+  "2005-shows-with": "Jean Dupuy (25), Robert Filliou (9), Arnaud Labelle-Rojoux (7), Ben Vautier (7), Raymond Hains (6), George Brecht (5), Alison Knowles (5), George Maciunas (5), Nam June Paik (5), Daniel Spoerri (5), Stéphane Bérard (4), Joseph Beuys (4), Julien Blaine (4), Dominique Blais (4), Daniel Buren (4), Dan Graham (4), Dick Higgins (4), Joël Hubaut (4), Carsten Höller (4), Allan Kaprow (4), Thierry Lagalla (4), Dennis Oppenheim (4), Yann Sérandour (4), Lawrence Weiner (4), A Constructed World (3), Marina Abramovic (3), Vito Acconci (3), Art & Language (3), Robert Barry (3), Jerôme Basserode (3), Berdaguer & Péjus (3), Marcel Broodthaers (3), Chris Burden (3), Anna Byskov (3), Sophie Calle (3), Marc Chevalier (3), Pascal le Coq (3), Peter Downsbrough (3), François Dufrêne (3), Richard Fauguet (3), Esther Ferrer (3), Ryan Gander (3), Jean-Baptiste Ganne (3), Dora García (3), Mark Geffriaud (3), Aurelie Godard (3), Rodney Graham (3), Joseph Grigely (3), Al Hansen (3), Gary Hill (3), Ben Kinmont (3), Jirí Kovan",
   "representing-galleries": "Galerie Barnoud (27 rue Berlier, 21000 Dijon, France); La Giarina - Arte Contemporanea (interrato dell\\'Acqua Morta 82, 37129 Verona, Italy)",
   "collecting-museums": "Queensland Art Gallery / Gallery of Modern Art (Stanley Place, South Bank,  Brisbane, QLD, Australia); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); MOCA Grand Avenue (250 South Grand Avenue, 90012 Los Angeles, CA, USA)",
   "first_name": "Jean",
@@ -354,6 +354,56 @@
       },
       {
         "i": "47233-4195-2013-03-22",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "47233-12523-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "47233-12523-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "47233-10247-2014-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "47233-10247-2014-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "47233-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "47233-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "47233-11587-2014-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "47233-11587-2014-06-21",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "47233",
+        "c": "FR",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "47233-12523-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "47233-16752-2014-04-19",
         "c": "FR"
       }
     ]

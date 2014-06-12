@@ -12,20 +12,28 @@
   "email": "info@antoinelevi.fr",
   "www": "wwws.antoinelevi.fr",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075020 %2C%20 %2C%2044 Rue Ramponeau %2C%20France",
-  "fairs-total": "2",
-  "fairs-abroad": "1",
+  "fairs-total": "3",
+  "fairs-abroad": "2",
   "fairs-in-FR": "1",
   "fairs": {
     "2013": [
       {
-        "i": "29519-Art-O-Rama 2013",
+        "i": "29519-Art-O-Rama-2013",
         "c": "FR"
       },
       {
-        "i": "29519-abc art berlin contemporary 2013",
+        "i": "29519-abc-art-berlin-contemporary-2013",
         "c": "DE",
         "n": "abc art berlin contemporary 2013",
         "ct": "Berlin"
+      }
+    ],
+    "2014": [
+      {
+        "i": "29519-Arcomadrid-2014",
+        "c": "ES",
+        "n": "Arcomadrid 2014",
+        "ct": "Madrid"
       }
     ]
   }

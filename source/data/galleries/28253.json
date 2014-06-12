@@ -12,20 +12,26 @@
   "email": "p.tessier@ledouze-galerie.com",
   "www": "www.ledouze-galerie.com",
   "map": "http://maps.google.com/maps?q=Etel%2C%2056410 %2C%20 %2C%202 rue Traversiere %2C%20France",
-  "fairs-total": "2",
+  "fairs-total": "3",
   "fairs-abroad": "1",
-  "fairs-in-FR": "1",
+  "fairs-in-FR": "2",
   "fairs": {
     "2013": [
       {
-        "i": "28253-Lille Art Fair 2013",
+        "i": "28253-Lille-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "28253-Beirut Art Fair 2013",
+        "i": "28253-Beirut-Art-Fair-2013",
         "c": "LB",
         "n": "Beirut Art Fair 2013",
         "ct": "Beirut"
+      }
+    ],
+    "2014": [
+      {
+        "i": "28253-Art-Up!-2014",
+        "c": "FR"
       }
     ]
   }

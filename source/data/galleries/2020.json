@@ -12,31 +12,31 @@
   "email": "info@galeriepieceunique.com",
   "www": "www.galeriepieceunique.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%204, rue Jacques Callot %2C%20France",
-  "fairs-total": "22",
+  "fairs-total": "24",
   "fairs-abroad": "19",
-  "fairs-in-FR": "3",
+  "fairs-in-FR": "5",
   "fairs": {
     "2005": [
       {
-        "i": "2020-Arte Fiera 2005",
+        "i": "2020-Arte-Fiera-2005",
         "c": "IT",
         "n": "Arte Fiera 2005",
         "ct": "Bologna"
       },
       {
-        "i": "2020-Fiac 2005",
+        "i": "2020-Fiac-2005",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "2020-Arte Fiera 2007",
+        "i": "2020-Arte-Fiera-2007",
         "c": "IT",
         "n": "Arte Fiera 2007",
         "ct": "Bologna"
       },
       {
-        "i": "2020-SeaFair - Greenwich to Norwalk",
+        "i": "2020-SeaFair---Greenwich-to-Norwalk",
         "c": "US",
         "n": "SeaFair - Greenwich to Norwalk",
         "ct": "Bonita Springs, FL"
@@ -44,13 +44,13 @@
     ],
     "2008": [
       {
-        "i": "2020-Arte Fiera 2008",
+        "i": "2020-Arte-Fiera-2008",
         "c": "IT",
         "n": "Arte Fiera 2008",
         "ct": "Bologna"
       },
       {
-        "i": "2020-Art Miami 2008",
+        "i": "2020-Art-Miami-2008",
         "c": "US",
         "n": "Art Miami 2008",
         "ct": "Tucson, AZ"
@@ -58,25 +58,25 @@
     ],
     "2009": [
       {
-        "i": "2020-Arte Fiera 2009",
+        "i": "2020-Arte-Fiera-2009",
         "c": "IT",
         "n": "Arte Fiera 2009",
         "ct": "Bologna"
       },
       {
-        "i": "2020-Art Dubai 09",
+        "i": "2020-Art-Dubai-09",
         "c": "AE",
         "n": "Art Dubai 09",
         "ct": "Dubai"
       },
       {
-        "i": "2020-Art Chicago 2009",
+        "i": "2020-Art-Chicago-2009",
         "c": "US",
         "n": "Art Chicago 2009",
         "ct": "Chicago, IL"
       },
       {
-        "i": "2020-Art Miami 2009",
+        "i": "2020-Art-Miami-2009",
         "c": "US",
         "n": "Art Miami 2009",
         "ct": "Tucson, AZ"
@@ -84,7 +84,7 @@
     ],
     "2010": [
       {
-        "i": "2020-Arte Fiera 2010",
+        "i": "2020-Arte-Fiera-2010",
         "c": "IT",
         "n": "Arte Fiera 2010",
         "ct": "Bologna"
@@ -92,19 +92,19 @@
     ],
     "2011": [
       {
-        "i": "2020-Arte Fiera 2011",
+        "i": "2020-Arte-Fiera-2011",
         "c": "IT",
         "n": "Arte Fiera 2011",
         "ct": "Bologna"
       },
       {
-        "i": "2020-Art Dubai 2011",
+        "i": "2020-Art-Dubai-2011",
         "c": "AE",
         "n": "Art Dubai 2011",
         "ct": "Dubai"
       },
       {
-        "i": "2020-Art Miami 2011",
+        "i": "2020-Art-Miami-2011",
         "c": "US",
         "n": "Art Miami 2011",
         "ct": "Miami, FL"
@@ -112,19 +112,19 @@
     ],
     "2012": [
       {
-        "i": "2020-Arte Fiera - BolognaFiere 2012",
+        "i": "2020-Arte-Fiera---BolognaFiere-2012",
         "c": "IT",
         "n": "Arte Fiera - BolognaFiere 2012",
         "ct": "Bologna"
       },
       {
-        "i": "2020-ART Innsbruck 2012",
+        "i": "2020-ART-Innsbruck-2012",
         "c": "AT",
         "n": "ART Innsbruck 2012",
         "ct": "Innsbruck"
       },
       {
-        "i": "2020-Art Dubai 2012",
+        "i": "2020-Art-Dubai-2012",
         "c": "AE",
         "n": "Art Dubai 2012",
         "ct": "Dubai"
@@ -132,32 +132,44 @@
     ],
     "2013": [
       {
-        "i": "2020-Art Stage Singapore 2013",
+        "i": "2020-Art-Stage-Singapore-2013",
         "c": "SG",
         "n": "Art Stage Singapore 2013",
         "ct": "Singapore"
       },
       {
-        "i": "2020-Art Innsbruck 2013",
+        "i": "2020-Art-Innsbruck-2013",
         "c": "AT",
         "n": "Art Innsbruck 2013",
         "ct": "Innsbruck"
       },
       {
-        "i": "2020-Art Paris Art Fair 2013",
+        "i": "2020-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "2020-Paris Photo Los Angeles 2013",
+        "i": "2020-Paris-Photo-Los-Angeles-2013",
         "c": "US",
         "n": "Paris Photo Los Angeles 2013",
         "ct": "Los Angeles, CA"
       },
       {
-        "i": "2020-Art Miami 2013",
+        "i": "2020-Art-Miami-2013",
         "c": "US",
         "n": "Art Miami 2013",
         "ct": "Miami, FL"
+      }
+    ],
+    "2014": [
+      {
+        "i": "2020-Artparis-2014",
+        "c": "FR"
+      },
+      {
+        "i": "2020-Paris-Photo-Los-Angeles-2014",
+        "c": "US",
+        "n": "Paris Photo Los Angeles 2014",
+        "ct": "Los Angeles, CA"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "149181",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:07:29",
+  "timestamp": "2014-05-31 07:12:59",
   "name": "Perrine Lievens",
   "surname": "Lievens",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "15628",
-  "r01": "16291",
-  "r02": "15813",
-  "r03": "13766",
-  "r04": "14377",
-  "r05": "14629",
-  "r06": "23689",
-  "r07": "19753",
+  "r00": "15692",
+  "r01": "16313",
+  "r02": "15819",
+  "r03": "13772",
+  "r04": "14379",
+  "r05": "14633",
+  "r06": "23700",
+  "r07": "19757",
   "r08": null,
   "awards": "Hiscox Start Award,13th LVMH Young Artists’ Award,Japan Traffic Award, 26th International Takefuji Art Award",
   "website": null,
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Perrine",
   "last_name": "Lievens",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1981-01-01",
   "age": 33,
   "age_range": "26-40",
@@ -179,22 +179,15 @@
         ]
       }
     ],
-    "2008": [
+    "2014": [
       {
-        "i": "149181-17380-2007-12-22",
-        "c": "JP",
-        "n": "Perrine Lievens - Escapade",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Kyoto",
-        "o": "Super Window Project",
-        "d": [
-          "2007-12-22",
-          "2008-02-27"
-        ]
-      }
-    ],
-    "2013": [
+        "i": "149181-11587-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "149181-11587-2014-02-14",
+        "c": "FR"
+      },
       {
         "i": "149181-27147-2013-12-15",
         "c": "BE",
@@ -222,7 +215,22 @@
         ]
       }
     ],
-    "2014": [
+    "2008": [
+      {
+        "i": "149181-17380-2007-12-22",
+        "c": "JP",
+        "n": "Perrine Lievens - Escapade",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Kyoto",
+        "o": "Super Window Project",
+        "d": [
+          "2007-12-22",
+          "2008-02-27"
+        ]
+      }
+    ],
+    "2013": [
       {
         "i": "149181-27147-2013-12-15",
         "c": "BE",

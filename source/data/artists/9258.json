@@ -1,7 +1,7 @@
 {
   "id": "9258",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:18:37",
+  "timestamp": "2014-05-31 06:24:06",
   "name": "Sophie Ristelhueber",
   "surname": "Ristelhueber",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "2139",
-  "r01": "2125",
-  "r02": "2203",
-  "r03": "1951",
-  "r04": "1774",
-  "r05": "1883",
+  "r00": "2148",
+  "r01": "2129",
+  "r02": "2202",
+  "r03": "1950",
+  "r04": "1775",
+  "r05": "1882",
   "r06": "1816",
-  "r07": "1522",
+  "r07": "1523",
   "r08": "1258",
   "awards": null,
   "website": null,
@@ -689,6 +689,82 @@
       {
         "i": "9258-21639-2013-11-29",
         "c": "FR"
+      },
+      {
+        "i": "9258-10519-2014-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "9258-10519-2014-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "9258-27941-2014-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "9258-27941-2014-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "9258-14920-2014-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "9258-14920-2014-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "9258-2382-2014-10-04",
+        "c": "IT",
+        "n": "La guerra che verrà non è la prima",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rovereto",
+        "o": "MART- Museo d'Arte Moderna e Contemporanea di Trento e Rovereto",
+        "d": [
+          "2014-10-04",
+          "2015-09-20"
+        ]
+      },
+      {
+        "i": "9258-21639-2014-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "9258-21639-2014-05-17",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "9258",
+        "c": "FR",
+        "g": "f",
+        "a": "61-100"
+      },
+      {
+        "i": "9258-27941-2014-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "9258-21639-2014-05-17",
+        "c": "FR"
+      }
+    ],
+    "2015": [
+      {
+        "i": "9258-2382-2014-10-04",
+        "c": "IT",
+        "n": "La guerra che verrà non è la prima",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rovereto",
+        "o": "MART- Museo d'Arte Moderna e Contemporanea di Trento e Rovereto",
+        "d": [
+          "2014-10-04",
+          "2015-09-20"
+        ]
       }
     ]
   }

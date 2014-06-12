@@ -1,7 +1,7 @@
 {
   "id": "126280",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:59:50",
+  "timestamp": "2014-05-31 07:05:13",
   "name": "Thierry Lagalla",
   "surname": "Lagalla",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "9984",
-  "r01": "9718",
-  "r02": "10882",
-  "r03": "15434",
-  "r04": "17307",
-  "r05": "21343",
-  "r06": "26918",
-  "r07": "24924",
-  "r08": "21842",
+  "r00": "9972",
+  "r01": "9736",
+  "r02": "10886",
+  "r03": "15435",
+  "r04": "17316",
+  "r05": "21344",
+  "r06": "26931",
+  "r07": "24927",
+  "r08": "21845",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
   "all-shows-total": "37",
-  "2005-shows-biennials": "22",
-  "2005-shows-galleries": "22",
+  "2005-shows-biennials": "23",
+  "2005-shows-galleries": "23",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (26)",
-  "2005-shows-with": "Thierry Lagalla (21), Stephane Steiner (12), Arnaud Labelle-Rojoux (11), Han Hoogerbrugge (10), Florent Mattei (10), Emmanuel Régent (10), Karine Rougier (9), Stéphane Protic (7), Thierry Agnone (6), Damien Berthier (6), Michel de Broin (6), Gérald Panighi (6), Jean-Luc Verna (6), Caroline Bach (5), Lionel Scoccimaro (5), Ben Vautier (5), Julien Blaine (4), Eric Duyckaerts (4), Jerôme Robbe (4), Marcel Alocco (3), Anna Byskov (3), Gilbert Caty (3), Marc Chevalier (3), Frédéric Clavère (3), Erik Dietman (3), Noël Dolla (3), Jean Dupuy (3), Jean-Baptiste Ganne (3), Isabelle Giovacchini (3), Raymond Hains (3), Joël Hubaut (3), Carsten Höller (3), Virginie Le Touze (3), Olivier Leroi (3), Frédéric Malette (3), Martinet & Texereau (3), Jean Mas (3), Patrick Moya (3), Philippe Parreno (3), Philippe Ramette (3), Niki de Saint Phalle (3), Sabry Tchalgadjieff (3), Junko Yamasaki (3), Dominique Angel (2), Eleonore Bak (2), Marcel Bataillard (2), Stéphane Bérard (2), Ruy Blas (2), Julien Bouillon (2), Robe",
+  "2005-countries-total": "France (27)",
+  "2005-shows-with": "Thierry Lagalla (22), Stephane Steiner (13), Arnaud Labelle-Rojoux (12), Han Hoogerbrugge (11), Florent Mattei (11), Emmanuel Régent (11), Karine Rougier (10), Stéphane Protic (8), Thierry Agnone (7), Jean-Luc Verna (7), Caroline Bach (6), Damien Berthier (6), Michel de Broin (6), Gérald Panighi (6), Lionel Scoccimaro (6), Julien Blaine (5), Jerôme Robbe (5), Ben Vautier (5), Anna Byskov (4), Marc Chevalier (4), Noël Dolla (4), Jean Dupuy (4), Eric Duyckaerts (4), Jean-Baptiste Ganne (4), Isabelle Giovacchini (4), Joël Hubaut (4), Olivier Leroi (4), Martinet & Texereau (4), Philippe Ramette (4), Sabry Tchalgadjieff (4), Marcel Alocco (3), Gilbert Caty (3), Frédéric Clavère (3), Claire Dantzer (3), Erik Dietman (3), Raymond Hains (3), Carsten Höller (3), Virginie Le Touze (3), Frédéric Malette (3), Jean Mas (3), Patrick Moya (3), Philippe Parreno (3), Niki de Saint Phalle (3), Franck Saïssi (3), Cédric Teisseire (3), Kirill Ukolov (3), Junko Yamasaki (3), Dominique Angel (2), Eleonore Bak (2), Ma",
   "representing-galleries": "Espace A Vendre (17 rue Smolett, 06300 Nice, France); Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France)",
   "collecting-museums": null,
   "first_name": "Thierry",
@@ -332,6 +332,26 @@
     "2014": [
       {
         "i": "126280-16752-2013-12-07",
+        "c": "FR"
+      },
+      {
+        "i": "126280-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "126280-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "126280",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "126280-16752-2014-04-19",
         "c": "FR"
       }
     ]

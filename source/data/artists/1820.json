@@ -1,7 +1,7 @@
 {
   "id": "1820",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:15:18",
+  "timestamp": "2014-05-31 06:20:50",
   "name": "Marie-Thérèse Vacossin",
   "surname": "Vacossin",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting",
-  "r00": "9656",
-  "r01": "9289",
+  "r00": "9700",
+  "r01": "9303",
   "r02": "9124",
   "r03": "9525",
-  "r04": "9148",
-  "r05": "11101",
-  "r06": "20431",
-  "r07": "20628",
-  "r08": "20754",
+  "r04": "9145",
+  "r05": "11096",
+  "r06": "20423",
+  "r07": "20612",
+  "r08": "20730",
   "awards": null,
   "website": null,
   "all-shows-first": "1986",
@@ -86,19 +86,6 @@
         ]
       },
       {
-        "i": "1820-6776-2006-04-01",
-        "c": "DE",
-        "n": "50 quadrat - ein aktueller überblick über die internationale konkrete kunst",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Sulzburg",
-        "o": "galerie konkret martin woern",
-        "d": [
-          "2006-04-01",
-          "2006-05-29"
-        ]
-      },
-      {
         "i": "1820-3590-2006-04-01",
         "c": "NL",
         "n": "50quadrat, mondriaanhuis, amersfoort/nl",
@@ -109,6 +96,19 @@
         "d": [
           "2006-04-01",
           "2006-07-09"
+        ]
+      },
+      {
+        "i": "1820-6776-2006-04-01",
+        "c": "DE",
+        "n": "50 quadrat - ein aktueller überblick über die internationale konkrete kunst",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Sulzburg",
+        "o": "galerie konkret martin woern",
+        "d": [
+          "2006-04-01",
+          "2006-05-29"
         ]
       }
     ],
@@ -622,6 +622,21 @@
         "d": [
           "2013-05-11",
           "2013-09-01"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "1820-3490-2014-03-26",
+        "c": "CH",
+        "n": "Radierung in der konstruktiven Kunst",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Basel",
+        "o": "Atelier-Editions Fanal",
+        "d": [
+          "2014-03-26",
+          "2014-05-01"
         ]
       }
     ]

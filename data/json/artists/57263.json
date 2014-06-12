@@ -1,7 +1,7 @@
 {
   "id": "57263",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:36:12",
+  "timestamp": "2014-05-31 06:41:39",
   "name": "Marcelline Delbecq",
   "surname": "Delbecq",
   "nationality": "FR",
@@ -15,25 +15,25 @@
   "death month": null,
   "death year": null,
   "attributes": "Female",
-  "media": null,
-  "r00": "5128",
-  "r01": "4814",
-  "r02": "4532",
-  "r03": "4860",
-  "r04": "4828",
-  "r05": "5353",
+  "media": "Installation, Sound Art",
+  "r00": "5168",
+  "r01": "4820",
+  "r02": "4533",
+  "r03": "4861",
+  "r04": "4829",
+  "r05": "5347",
   "r06": "5291",
-  "r07": "5972",
-  "r08": "7877",
+  "r07": "5976",
+  "r08": "7878",
   "awards": null,
-  "website": null,
+  "website": "www.marcellinedelbecq.net",
   "all-shows-first": "2004",
   "all-shows-total": "54",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "20",
-  "2005-countries-total": "France (19), Switzerland (4), United Kingdom (3), Italy (2), Germany (1), Lebanon (1), Norway (1), Spain (1), Sweden (1), USA (1)",
-  "2005-shows-with": "Marcelline Delbecq (33), Cyprien Gaillard (5), Lara Almárcegui (4), Marc Bauer (4), Tony Chakar (4), Latifa Echakhch (4), Ryan Gander (4), Eric Hattan (4), Adrien Missika (4), Estefania Peñafiel Loaiza (4), Dan Perjovschi (4), Lewis Baltz (3), Isabelle Cornaro (3), Anders Edström (3), Mario Garcia Torres (3), Camille Henrot (3), Jean-Luc Moulène (3), Jorge Pedro Núñez (3), Gyan Panchal (3), Alain Séchas (3), Maxime Thieffine (3), Vito Acconci (2), Fanny Adler (2), Carl Andre (2), Julien Audebert (2), Olivier Babin (2), Dike Blair (2), Stéphane Calais (2), Daniel Gustav Cramer (2), Stéphane Dafflon (2), Patrizio Di Massimo (2), Claire Fontaine (2), Aurélien Froment (2), Ellie Ga (2), Felix Gonzalez-Torres (2), André Guedes (2), Louise Hervé & Chloé Maillet (2), Thomas Hirschhorn (2), Véronique Joumard (2), Martin Kippenberger (2), Pierre Leguillon (2), Mark Lewis (2), Mark Lewis (2), Robert Longo (2), Christian Marclay (2), Ariane Michel (2), Clémence de Montgolfier (2), Gabriel Orozco (2), A. R",
+  "2005-shows-museums": "21",
+  "2005-countries-total": "France (20), Switzerland (4), United Kingdom (3), Italy (2), Germany (1), Lebanon (1), Norway (1), Spain (1), Sweden (1), USA (1)",
+  "2005-shows-with": "Marcelline Delbecq (34), Cyprien Gaillard (5), Lara Almárcegui (4), Marc Bauer (4), Tony Chakar (4), Latifa Echakhch (4), Ryan Gander (4), Eric Hattan (4), Adrien Missika (4), Estefania Peñafiel Loaiza (4), Dan Perjovschi (4), Lewis Baltz (3), Isabelle Cornaro (3), Anders Edström (3), Mario Garcia Torres (3), Camille Henrot (3), Jean-Luc Moulène (3), Jorge Pedro Núñez (3), Gyan Panchal (3), Alain Séchas (3), Maxime Thieffine (3), Vito Acconci (2), Fanny Adler (2), Carl Andre (2), Julien Audebert (2), Olivier Babin (2), Dike Blair (2), Dominique Blais (2), Stéphane Calais (2), Daniel Gustav Cramer (2), Stéphane Dafflon (2), Patrizio Di Massimo (2), Claire Fontaine (2), Aurélien Froment (2), Ellie Ga (2), Felix Gonzalez-Torres (2), André Guedes (2), Louise Hervé & Chloé Maillet (2), Thomas Hirschhorn (2), Véronique Joumard (2), Martin Kippenberger (2), Pierre Leguillon (2), Mark Lewis (2), Mark Lewis (2), Robert Longo (2), Christian Marclay (2), Ariane Michel (2), Clémence de Montgolfier (2), Gab",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Marcelline",
@@ -603,6 +603,16 @@
       },
       {
         "i": "57263-9475-2013-03-23",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "57263-11587-2014-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "57263-11587-2014-06-21",
         "c": "FR"
       }
     ]

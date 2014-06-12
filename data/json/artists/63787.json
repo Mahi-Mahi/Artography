@@ -1,7 +1,7 @@
 {
   "id": "63787",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:38:33",
+  "timestamp": "2014-05-31 06:43:58",
   "name": "Alexandre Singh",
   "surname": "Singh",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Works on Paper, Objects, Illustration",
-  "r00": "879",
-  "r01": "994",
-  "r02": "1415",
-  "r03": "2045",
+  "r00": "885",
+  "r01": "997",
+  "r02": "1416",
+  "r03": "2046",
   "r04": "2543",
-  "r05": "4895",
+  "r05": "4896",
   "r06": "9024",
-  "r07": "8746",
-  "r08": "25853",
+  "r07": "8747",
+  "r08": "25856",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
@@ -973,6 +973,107 @@
           "2013-11-12",
           "2013-12-21"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "63787-30697-2014-02-28",
+        "c": "CN",
+        "n": "2nd CAFAM Biennale: The Invisible Hand",
+        "st": "Group",
+        "ct": "Beijing",
+        "o": "CAFAM Biennal",
+        "d": [
+          "2014-02-28",
+          "2014-04-20"
+        ]
+      },
+      {
+        "i": "63787-31064-2014-03-23",
+        "c": "DE",
+        "n": "Einblicke in die Sammlung Wemhöner",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Sammlung Wemhöner",
+        "d": [
+          "2014-03-23",
+          "2014-05-18"
+        ]
+      },
+      {
+        "i": "63787-18752-2014-05-01",
+        "c": "RU",
+        "n": "do it Moscow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Moscow",
+        "o": "Garage Center for Contemporary Culture - GCCC",
+        "d": [
+          "2014-05-01",
+          "2014-07-06"
+        ],
+        "a": "63787",
+        "an": "Alexandre Singh"
+      },
+      {
+        "i": "63787-449-2014-05-24",
+        "c": "DE",
+        "n": "Giving contours to shadow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "NBK - Neuer Berliner Kunstverein",
+        "d": [
+          "2014-05-24",
+          "2014-07-27"
+        ],
+        "a": "63787",
+        "an": "Alexandre Singh"
+      }
+    ],
+    "today": [
+      {
+        "i": "63787",
+        "c": "RU",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "63787-18752-2014-05-01",
+        "c": "RU",
+        "n": "do it Moscow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Moscow",
+        "o": "Garage Center for Contemporary Culture - GCCC",
+        "d": [
+          "2014-05-01",
+          "2014-07-06"
+        ],
+        "a": "63787",
+        "an": "Alexandre Singh"
+      },
+      {
+        "i": "63787",
+        "c": "DE",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "63787-449-2014-05-24",
+        "c": "DE",
+        "n": "Giving contours to shadow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "NBK - Neuer Berliner Kunstverein",
+        "d": [
+          "2014-05-24",
+          "2014-07-27"
+        ],
+        "a": "63787",
+        "an": "Alexandre Singh"
       }
     ]
   }

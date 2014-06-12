@@ -1,7 +1,7 @@
 {
   "id": "285462",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:54:15",
+  "timestamp": "2014-05-31 07:59:30",
   "name": "Stéphane Protic",
   "surname": "Protic",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "45212",
-  "r01": "45902",
-  "r02": "46196",
-  "r03": "79581",
-  "r04": "78952",
-  "r05": "100234",
-  "r06": "95200",
-  "r07": "86857",
+  "r00": "44445",
+  "r01": "45983",
+  "r02": "46233",
+  "r03": "79663",
+  "r04": "79048",
+  "r05": "100386",
+  "r06": "95341",
+  "r07": "86982",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
   "all-shows-total": "13",
-  "2005-shows-biennials": "10",
-  "2005-shows-galleries": "10",
+  "2005-shows-biennials": "11",
+  "2005-shows-galleries": "11",
   "2005-shows-museums": null,
-  "2005-countries-total": "France (12)",
-  "2005-shows-with": "Stéphane Protic (10), Emmanuel Régent (8), Thierry Lagalla (7), Karine Rougier (7), Stephane Steiner (7), Thierry Agnone (5), Han Hoogerbrugge (5), Arnaud Labelle-Rojoux (5), Frédéric Clavère (4), Florent Mattei (4), Gérald Panighi (4), Caroline Bach (3), Damien Berthier (3), Michel de Broin (3), Claire Dantzer (3), Jerôme Robbe (3), Ben Vautier (3), Isabelle Giovacchini (2), Frédéric Malette (2), Philippe Ramette (2), Sylvie Réno (2), Lionel Scoccimaro (2), Jean-Luc Verna (2)",
+  "2005-countries-total": "France (13)",
+  "2005-shows-with": "Stéphane Protic (11), Emmanuel Régent (9), Thierry Lagalla (8), Karine Rougier (8), Stephane Steiner (8), Thierry Agnone (6), Han Hoogerbrugge (6), Arnaud Labelle-Rojoux (6), Florent Mattei (5), Caroline Bach (4), Frédéric Clavère (4), Claire Dantzer (4), Gérald Panighi (4), Jerôme Robbe (4), Damien Berthier (3), Michel de Broin (3), Isabelle Giovacchini (3), Philippe Ramette (3), Lionel Scoccimaro (3), Ben Vautier (3), Jean-Luc Verna (3), Julien Blaine (2), Baptiste César (2), Thierry Chiapparelli (2), Noël Dolla (2), Joël Hubaut (2), Olivier Leroi (2), Frédéric Malette (2), Martinet & Texereau (2), Gabriel Meo (2), Charlotte Pringuey-Cessac (2), Sylvie Réno (2), Franck Saïssi (2), Quentin Spohn (2), Sabry Tchalgadjieff (2), Cédric Teisseire (2), Kirill Ukolov (2)",
   "representing-galleries": "Numéro Six (6 rue jaubert, 12100 Aix-en-Provence, France); Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France)",
   "collecting-museums": null,
   "first_name": "Stéphane",
@@ -158,6 +158,26 @@
     "2014": [
       {
         "i": "285462-16752-2013-12-07",
+        "c": "FR"
+      },
+      {
+        "i": "285462-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "285462-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "285462",
+        "c": "FR",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "285462-16752-2014-04-19",
         "c": "FR"
       }
     ]

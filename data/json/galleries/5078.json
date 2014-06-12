@@ -12,17 +12,17 @@
   "email": "sj@artsdaustralie.com",
   "www": "www.artsdaustralie.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075017 %2C%20 %2C%20179, bd Péreire %2C%20France",
-  "fairs-total": "19",
+  "fairs-total": "20",
   "fairs-abroad": "4",
-  "fairs-in-FR": "15",
+  "fairs-in-FR": "16",
   "fairs": {
     "2005": [
       {
-        "i": "5078-ArtParis 2005",
+        "i": "5078-ArtParis-2005",
         "c": "FR"
       },
       {
-        "i": "5078-Frieze Art Fair 2005",
+        "i": "5078-Frieze-Art-Fair-2005",
         "c": "GB",
         "n": "Frieze Art Fair 2005",
         "ct": "London"
@@ -30,79 +30,79 @@
     ],
     "2006": [
       {
-        "i": "5078-ST-ART 2006 - 11ème édition",
+        "i": "5078-ST-ART-2006---11ème-édition",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "5078-Les Elysées de l'Art - 2007",
+        "i": "5078-Les-Elysées-de-l'Art---2007",
         "c": "FR"
       },
       {
-        "i": "5078-ST-ART 2007 - 12ème édition",
+        "i": "5078-ST-ART-2007---12ème-édition",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "5078-The Affordable Art Fair 2008",
+        "i": "5078-The-Affordable-Art-Fair-2008",
         "c": "GB",
         "n": "The Affordable Art Fair 2008",
         "ct": "London"
       },
       {
-        "i": "5078-Lille Art Fair 08",
+        "i": "5078-Lille-Art-Fair-08",
         "c": "FR"
       },
       {
-        "i": "5078-Art Elysées 2008",
+        "i": "5078-Art-Elysées-2008",
         "c": "FR"
       },
       {
-        "i": "5078-ST-ART 2008 - 13ème édition",
+        "i": "5078-ST-ART-2008---13ème-édition",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "5078-Affordable Art Fair Bruxelles 09",
+        "i": "5078-Affordable-Art-Fair-Bruxelles-09",
         "c": "BE",
         "n": "Affordable Art Fair Bruxelles 09",
         "ct": "Brussels"
       },
       {
-        "i": "5078-Art Elysées 2009",
+        "i": "5078-Art-Elysées-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "5078-Art Elysées 2010",
+        "i": "5078-Art-Elysées-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "5078-Art Elysées 2011",
+        "i": "5078-Art-Elysées-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "5078-Art Paris Art Fair 2012",
+        "i": "5078-Art-Paris-Art-Fair-2012",
         "c": "FR"
       },
       {
-        "i": "5078-Art Paris Art Fair 2012",
+        "i": "5078-Art-Paris-Art-Fair-2012",
         "c": "FR"
       },
       {
-        "i": "5078-Art Elysées 2012",
+        "i": "5078-Art-Elysées-2012",
         "c": "FR"
       },
       {
-        "i": "5078-Art Gent 2012",
+        "i": "5078-Art-Gent-2012",
         "c": "BE",
         "n": "Art Gent 2012",
         "ct": "Ghent"
@@ -110,11 +110,17 @@
     ],
     "2013": [
       {
-        "i": "5078-Art Paris Art Fair 2013",
+        "i": "5078-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "5078-Art Elysees 2013",
+        "i": "5078-Art-Elysees-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "5078-Artparis-2014",
         "c": "FR"
       }
     ]

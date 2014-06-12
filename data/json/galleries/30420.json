@@ -12,9 +12,15 @@
   "email": "phylactere.pg@hotmail.fr",
   "www": null,
   "map": "http://maps.google.com/maps?q=Brillac%2C%2016500 %2C%20 %2C%206 rue du docteur Peyraud %2C%20France",
-  "fairs-total": "0",
+  "fairs-total": "1",
   "fairs-abroad": "0",
-  "fairs-in-FR": "0",
+  "fairs-in-FR": "1",
   "fairs": {
+    "2014": [
+      {
+        "i": "30420-Art-Up!-2014",
+        "c": "FR"
+      }
+    ]
   }
 }

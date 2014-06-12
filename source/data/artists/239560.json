@@ -1,7 +1,7 @@
 {
   "id": "239560",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:38:31",
+  "timestamp": "2014-05-31 07:43:48",
   "name": "Chloé Quenum",
   "surname": "Quenum",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "8708",
-  "r01": "10603",
-  "r02": "15724",
-  "r03": "29891",
-  "r04": "49459",
-  "r05": "81623",
+  "r00": "8766",
+  "r01": "10614",
+  "r02": "15729",
+  "r03": "29915",
+  "r04": "49489",
+  "r05": "81719",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -183,6 +183,62 @@
       {
         "i": "239560-11889-2013-12-07",
         "c": "FR"
+      },
+      {
+        "i": "239560-28277-2014-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "239560-28277-2014-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "239560-17760-2014-03-22",
+        "c": "ES",
+        "n": "PER/FORM. How to do things with[out] words",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Móstoles",
+        "o": "CA2M - Centro de Arte Dos de Mayo",
+        "d": [
+          "2014-03-22",
+          "2014-09-20"
+        ],
+        "a": "239560",
+        "an": "Chloé Quenum"
+      }
+    ],
+    "today": [
+      {
+        "i": "239560",
+        "c": "FR",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "239560-28277-2014-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "239560",
+        "c": "ES",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "239560-17760-2014-03-22",
+        "c": "ES",
+        "n": "PER/FORM. How to do things with[out] words",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Móstoles",
+        "o": "CA2M - Centro de Arte Dos de Mayo",
+        "d": [
+          "2014-03-22",
+          "2014-09-20"
+        ],
+        "a": "239560",
+        "an": "Chloé Quenum"
       }
     ]
   }

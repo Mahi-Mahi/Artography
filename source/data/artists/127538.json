@@ -1,7 +1,7 @@
 {
   "id": "127538",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:00:15",
+  "timestamp": "2014-05-31 07:05:38",
   "name": "Dora Holzhandler",
   "surname": "Holzhandler",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting",
-  "r00": "56450",
-  "r01": "55265",
-  "r02": "49912",
-  "r03": "67541",
-  "r04": "60104",
-  "r05": "52693",
-  "r06": "45914",
-  "r07": "40751",
-  "r08": "34358",
+  "r00": "56656",
+  "r01": "55359",
+  "r02": "49956",
+  "r03": "67619",
+  "r04": "60152",
+  "r05": "52716",
+  "r06": "45946",
+  "r07": "40772",
+  "r08": "34348",
   "awards": null,
   "website": "doraholzhandler.com",
   "all-shows-first": "2006",
@@ -113,6 +113,21 @@
         "d": [
           "2008-10-16",
           "2008-11-01"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "127538-9814-2014-03-13",
+        "c": "IL",
+        "n": "Dora Holzhandler &#8211; A solo exhibition",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Tel Aviv",
+        "o": "GINA - Gallery of International Naïve Art",
+        "d": [
+          "2014-03-13",
+          "2014-05-02"
         ]
       }
     ]

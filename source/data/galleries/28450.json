@@ -12,15 +12,27 @@
   "email": null,
   "www": "www.karimacelestin.com",
   "map": "http://maps.google.com/maps?q=Marseille%2C%2013001 %2C%20 %2C%2025 rue Sénac de Meilhan %2C%20France",
-  "fairs-total": "1",
-  "fairs-abroad": "1",
-  "fairs-in-FR": "0",
+  "fairs-total": "3",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "1",
   "fairs": {
     "2013": [
       {
-        "i": "28450-Loop - The Video Art Fair 2013",
+        "i": "28450-Loop---The-Video-Art-Fair-2013",
         "c": "ES",
         "n": "Loop - The Video Art Fair 2013",
+        "ct": "Barcelona"
+      }
+    ],
+    "2014": [
+      {
+        "i": "28450-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
+        "c": "FR"
+      },
+      {
+        "i": "28450-Loop---The-Video-Art-Fair-2014",
+        "c": "ES",
+        "n": "Loop - The Video Art Fair 2014",
         "ct": "Barcelona"
       }
     ]

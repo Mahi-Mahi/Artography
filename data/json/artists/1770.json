@@ -1,7 +1,7 @@
 {
   "id": "1770",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:15:16",
+  "timestamp": "2014-05-31 06:20:48",
   "name": "Jean Charles Blais",
   "surname": "Blais",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "2852",
-  "r01": "3261",
-  "r02": "3460",
-  "r03": "3343",
-  "r04": "3137",
-  "r05": "4532",
-  "r06": "4674",
-  "r07": "4287",
-  "r08": "3106",
+  "r00": "2864",
+  "r01": "3267",
+  "r02": "3461",
+  "r03": "3342",
+  "r04": "3138",
+  "r05": "4527",
+  "r06": "4673",
+  "r07": "4290",
+  "r08": "3107",
   "awards": null,
   "website": null,
   "all-shows-first": "1982",
@@ -43,6 +43,55 @@
   "age": 58,
   "age_range": "41-60",
   "expos": {
+    "2012": [
+      {
+        "i": "1770-28833-2012-07-03",
+        "c": "BG",
+        "n": "A Beautiful Summer",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Sofia",
+        "o": "Un Cabinet D'Amateur ",
+        "d": [
+          "2012-07-03",
+          "2012-09-30"
+        ]
+      },
+      {
+        "i": "1770-9344-2011-11-18",
+        "c": "FR"
+      },
+      {
+        "i": "1770-26843-2012-04-19",
+        "c": "BE",
+        "n": "Struggle(s)",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Maison Particulière Art Center",
+        "d": [
+          "2012-04-19",
+          "2012-06-30"
+        ]
+      },
+      {
+        "i": "1770-8281-2012-12-09",
+        "c": "FR"
+      },
+      {
+        "i": "1770-28833-2012-12-15",
+        "c": "BG",
+        "n": "Winter Group Show 2012",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Shumen",
+        "o": "Un Cabinet D'Amateur ",
+        "d": [
+          "2012-12-15",
+          "2013-01-20"
+        ]
+      }
+    ],
     "2005": [
       {
         "i": "1770-257-2005-07-28",
@@ -269,33 +318,36 @@
         "c": "FR"
       }
     ],
-    "2012": [
-      {
-        "i": "1770-9344-2011-11-18",
-        "c": "FR"
-      },
-      {
-        "i": "1770-26843-2012-04-19",
-        "c": "BE",
-        "n": "Struggle(s)",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "Maison Particulière Art Center",
-        "d": [
-          "2012-04-19",
-          "2012-06-30"
-        ]
-      },
-      {
-        "i": "1770-8281-2012-12-09",
-        "c": "FR"
-      }
-    ],
     "2013": [
       {
         "i": "1770-8281-2012-12-09",
         "c": "FR"
+      },
+      {
+        "i": "1770-28833-2012-12-15",
+        "c": "BG",
+        "n": "Winter Group Show 2012",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Shumen",
+        "o": "Un Cabinet D'Amateur ",
+        "d": [
+          "2012-12-15",
+          "2013-01-20"
+        ]
+      },
+      {
+        "i": "1770-28833-2013-06-12",
+        "c": "BG",
+        "n": "Usual Suspects",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Sofia",
+        "o": "Un Cabinet D'Amateur ",
+        "d": [
+          "2013-06-12",
+          "2013-08-31"
+        ]
       },
       {
         "i": "1770-721-2013-07-20",
@@ -326,12 +378,94 @@
       {
         "i": "1770-2219-2013-10-16",
         "c": "FR"
+      },
+      {
+        "i": "1770-28833-2013-11-01",
+        "c": "BG",
+        "n": "Jean Charles Blais - Sechs Songs D'Amour",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Sofia",
+        "o": "Un Cabinet D'Amateur ",
+        "d": [
+          "2013-11-01",
+          "2014-01-01"
+        ]
       }
     ],
     "2014": [
       {
         "i": "1770-2219-2013-10-16",
         "c": "FR"
+      },
+      {
+        "i": "1770-2303-2014-03-05",
+        "c": "FR"
+      },
+      {
+        "i": "1770-2303-2014-03-05",
+        "c": "FR"
+      },
+      {
+        "i": "1770-28833-2014-05-28",
+        "c": "BG",
+        "n": "Un Cabinet D'amateur. 2 Years After",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Shumen",
+        "o": "Un Cabinet D'Amateur ",
+        "d": [
+          "2014-05-28",
+          "2014-09-25"
+        ],
+        "a": "1770",
+        "an": "Jean Charles Blais"
+      },
+      {
+        "i": "1770-28833-2013-11-01",
+        "c": "BG",
+        "n": "Jean Charles Blais - Sechs Songs D'Amour",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Sofia",
+        "o": "Un Cabinet D'Amateur ",
+        "d": [
+          "2013-11-01",
+          "2014-01-01"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "1770",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "1770-2303-2014-03-05",
+        "c": "FR"
+      },
+      {
+        "i": "1770",
+        "c": "BG",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "1770-28833-2014-05-28",
+        "c": "BG",
+        "n": "Un Cabinet D'amateur. 2 Years After",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Shumen",
+        "o": "Un Cabinet D'Amateur ",
+        "d": [
+          "2014-05-28",
+          "2014-09-25"
+        ],
+        "a": "1770",
+        "an": "Jean Charles Blais"
       }
     ]
   }

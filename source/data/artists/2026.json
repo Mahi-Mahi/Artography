@@ -1,7 +1,7 @@
 {
   "id": "2026",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:15:26",
+  "timestamp": "2014-05-31 06:20:58",
   "name": "Pascal Pinaud",
   "surname": "Pinaud",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "3010",
-  "r01": "2801",
-  "r02": "2543",
-  "r03": "2426",
-  "r04": "2489",
+  "r00": "3013",
+  "r01": "2803",
+  "r02": "2544",
+  "r03": "2431",
+  "r04": "2493",
   "r05": "2830",
-  "r06": "2308",
-  "r07": "1685",
+  "r06": "2306",
+  "r07": "1684",
   "r08": "1521",
   "awards": null,
   "website": null,
   "all-shows-first": "1992",
   "all-shows-total": "77",
-  "2005-shows-biennials": "10",
-  "2005-shows-galleries": "10",
+  "2005-shows-biennials": "11",
+  "2005-shows-galleries": "11",
   "2005-shows-museums": "14",
-  "2005-countries-total": "France (14), Switzerland (5), Belgium (3), Germany (1), Luxembourg (1)",
-  "2005-shows-with": "Pascal Pinaud (20), Noël Dolla (7), John M Armleder (6), Bernard Piffaretti (5), Bernard Frize (4), Philippe Gronon (4), Etienne Bossut (3), Philippe Cognée (3), Sandrine Flury (3), Didier Marcel (3), Mathieu Mercier (3), Fiona Rae (3), Didier Rittener (3), Yvan Salomone (3), Pierre Ardouvin (2), Martin Barré (2), Cécile Bart (2), Carole Benzaken (2), Céleste Boursier-Mougenot (2), Pascal Broccolichi (2), Silvia Bächli (2), Denis Castellas (2), César (2), Philippe Decrauzat (2), Helmut Dorner (2), Roland Flexner (2), Nicolas Floc\\'h (2), Michel Grillet (2), Jonathan Lasker (2), Bertrand Lavier (2), Eric Madeleine (2), Stephane Magnin (2), Emilie Maltaverne (2), Didier Mencoboni (2), Pierre Moignard (2), Frank Nitsche (2), Philippe Ramette (2), Bruno Rousselot (2), Ludovic Sauvage (2), Anne-Marie Schneider (2), Cédric Teisseire (2), Xavier Veilhan (2), Claude Viallat (2)",
+  "2005-countries-total": "France (15), Switzerland (5), Belgium (3), Germany (1), Luxembourg (1)",
+  "2005-shows-with": "Pascal Pinaud (21), Noël Dolla (8), John M Armleder (6), Bernard Piffaretti (5), Bernard Frize (4), Philippe Gronon (4), Etienne Bossut (3), Philippe Cognée (3), Sandrine Flury (3), Eric Madeleine (3), Didier Marcel (3), Mathieu Mercier (3), Fiona Rae (3), Philippe Ramette (3), Didier Rittener (3), Yvan Salomone (3), Cédric Teisseire (3), Pierre Ardouvin (2), Martin Barré (2), Cécile Bart (2), Carole Benzaken (2), Céleste Boursier-Mougenot (2), Pascal Broccolichi (2), Silvia Bächli (2), Denis Castellas (2), César (2), Marc Chevalier (2), Thierry Chiapparelli (2), Philippe Decrauzat (2), Helmut Dorner (2), Roland Flexner (2), Nicolas Floc\\'h (2), Jean-Baptiste Ganne (2), Michel Grillet (2), Jonathan Lasker (2), Bertrand Lavier (2), Stephane Magnin (2), Emilie Maltaverne (2), Didier Mencoboni (2), Pierre Moignard (2), Frank Nitsche (2), Emmanuel Régent (2), Bruno Rousselot (2), Ludovic Sauvage (2), Anne-Marie Schneider (2), Xavier Veilhan (2), Claude Viallat (2)",
   "representing-galleries": "Galerie Nathalie Obadia - Bruxelles (Rue Charles Decoster 8, 1050 Brussels, Belgium); Galerie Nathalie Obadia - Paris (3, rue du Cloitre Saint-Merri, 75004 Paris, France); Galerie Catherine Issert (2, route des Serres, 6570 Saint-Paul de Vence, France)",
   "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); Musée Départemental d'Art Contemporain de Rochechouart (place du Château, 87600  Rochechouart, France); Musée d'Art moderne de Saint-Etienne (La Terrasse, 42000 Saint-Etienne, France); Mamco - musée d´art moderne et contemporain (10 rue des Vieux-Grenadiers, CH-1205 Geneva, Switzerland)",
   "first_name": "Pascal",
@@ -329,7 +329,7 @@
       {
         "i": "2026-1778-2010-06-02",
         "c": "CH",
-        "n": "Au verso des images",
+        "n": "Modèles modèles 2",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Geneva",
@@ -342,7 +342,7 @@
       {
         "i": "2026-1778-2010-06-02",
         "c": "CH",
-        "n": "Modèles modèles 2",
+        "n": "Au verso des images",
         "t": "Institution publique",
         "st": "Group",
         "ct": "Geneva",
@@ -465,14 +465,6 @@
         "c": "FR"
       },
       {
-        "i": "2026-1955-2012-01-12",
-        "c": "FR"
-      },
-      {
-        "i": "2026-1955-2012-01-12",
-        "c": "FR"
-      },
-      {
         "i": "2026-18199-2012-01-12",
         "c": "BE",
         "n": "Sept ans de réflexion",
@@ -484,6 +476,14 @@
           "2012-01-12",
           "2012-02-25"
         ]
+      },
+      {
+        "i": "2026-1955-2012-01-12",
+        "c": "FR"
+      },
+      {
+        "i": "2026-1955-2012-01-12",
+        "c": "FR"
       },
       {
         "i": "2026-2014-2012-06-28",
@@ -507,6 +507,28 @@
           "2013-02-20",
           "2013-05-05"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "2026-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "2026-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "2026",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "2026-16752-2014-04-19",
+        "c": "FR"
       }
     ]
   }

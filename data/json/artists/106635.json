@@ -1,7 +1,7 @@
 {
   "id": "106635",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:53:11",
+  "timestamp": "2014-05-31 06:58:34",
   "name": "Art Orienté Objet",
   "surname": "Art Orienté Objet",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Artist group",
   "media": null,
-  "r00": "3779",
-  "r01": "4356",
-  "r02": "4957",
-  "r03": "4511",
-  "r04": "6418",
-  "r05": "11516",
-  "r06": "22932",
-  "r07": "42178",
-  "r08": "39744",
+  "r00": "3795",
+  "r01": "4359",
+  "r02": "4954",
+  "r03": "4508",
+  "r04": "6410",
+  "r05": "11501",
+  "r06": "22813",
+  "r07": "42195",
+  "r08": "39752",
   "awards": null,
   "website": null,
   "all-shows-first": "1994",
@@ -397,6 +397,29 @@
           "2013-07-17",
           "2013-09-01"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "106635-15976-2014-01-17",
+        "c": "US",
+        "n": "Ghost Nature",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Chicago, IL",
+        "o": "Gallery 400 - University of Illinois at Chicago",
+        "d": [
+          "2014-01-17",
+          "2014-03-01"
+        ]
+      },
+      {
+        "i": "106635-18811-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "106635-18811-2014-02-07",
+        "c": "FR"
       }
     ]
   }

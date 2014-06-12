@@ -12,8 +12,8 @@
   "email": "contact@galerietorri.com",
   "www": "www.galerietorri.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%207, rue Saint-Claude %2C%20France",
-  "fairs-total": "11",
-  "fairs-abroad": "7",
+  "fairs-total": "14",
+  "fairs-abroad": "10",
   "fairs-in-FR": "4",
   "fairs": {
     "2011": [
@@ -24,31 +24,31 @@
         "ct": "Hong Kong, SAR"
       },
       {
-        "i": "23446-Art-O-Rama 2011",
+        "i": "23446-Art-O-Rama-2011",
         "c": "FR"
       },
       {
-        "i": "23446-Fiac 2011",
+        "i": "23446-Fiac-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "23446-Art Brussels 2012",
+        "i": "23446-Art-Brussels-2012",
         "c": "BE",
         "n": "Art Brussels 2012",
         "ct": "Brussels"
       },
       {
-        "i": "23446-Art-O-Rama 2012",
+        "i": "23446-Art-O-Rama-2012",
         "c": "FR"
       },
       {
-        "i": "23446-SLICK 2012",
+        "i": "23446-SLICK-2012",
         "c": "FR"
       },
       {
-        "i": "23446-Artissima 19",
+        "i": "23446-Artissima-19",
         "c": "IT",
         "n": "Artissima 19",
         "ct": "Turin"
@@ -56,28 +56,48 @@
     ],
     "2013": [
       {
-        "i": "23446-Art Los Angeles Contemporary 2013",
+        "i": "23446-Art-Los-Angeles-Contemporary-2013",
         "c": "US",
         "n": "Art Los Angeles Contemporary 2013",
         "ct": "Los Angeles, CA"
       },
       {
-        "i": "23446-Art Rotterdam 2013",
+        "i": "23446-Art-Rotterdam-2013",
         "c": "NL",
         "n": "Art Rotterdam 2013",
         "ct": "Rotterdam"
       },
       {
-        "i": "23446-Art Brussels 2013",
+        "i": "23446-Art-Brussels-2013",
         "c": "BE",
         "n": "Art Brussels 2013",
         "ct": "Brussels"
       },
       {
-        "i": "23446-Artissima 2013",
+        "i": "23446-Artissima-2013",
         "c": "IT",
         "n": "Artissima 2013",
         "ct": "Turin"
+      }
+    ],
+    "2014": [
+      {
+        "i": "23446-Art-Los-Angeles-Contemporary-2014",
+        "c": "US",
+        "n": "Art Los Angeles Contemporary 2014",
+        "ct": "Santa Monica, CA"
+      },
+      {
+        "i": "23446-Material-Art-Fair-2014",
+        "c": "MX",
+        "n": "Material Art Fair 2014",
+        "ct": "Mexico City"
+      },
+      {
+        "i": "23446-Loop---The-Video-Art-Fair-2014",
+        "c": "ES",
+        "n": "Loop - The Video Art Fair 2014",
+        "ct": "Barcelona"
       }
     ]
   }

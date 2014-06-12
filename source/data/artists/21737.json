@@ -1,7 +1,7 @@
 {
   "id": "21737",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:23:27",
+  "timestamp": "2014-05-31 06:28:58",
   "name": "Pascal Kern",
   "surname": "Kern",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "30155",
-  "r01": "31254",
-  "r02": "32772",
-  "r03": "28502",
-  "r04": "23318",
-  "r05": "17288",
-  "r06": "13857",
-  "r07": "10063",
-  "r08": "7382",
+  "r00": "30282",
+  "r01": "31305",
+  "r02": "32804",
+  "r03": "28516",
+  "r04": "23328",
+  "r05": "17292",
+  "r06": "13862",
+  "r07": "10067",
+  "r08": "7384",
   "awards": null,
   "website": null,
   "all-shows-first": "1985",
@@ -132,6 +132,21 @@
       {
         "i": "21737-10519-2013-10-02",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "21737-8377-2014-02-27",
+        "c": "GB",
+        "n": "Pascal Kern, Garry Fabian Miller, Doug & Mike Starn",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "London",
+        "o": "HackelBury Fine Art Limited",
+        "d": [
+          "2014-02-27",
+          "2014-05-03"
+        ]
       }
     ]
   }

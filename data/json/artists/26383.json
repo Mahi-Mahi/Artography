@@ -1,7 +1,7 @@
 {
   "id": "26383",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:25:07",
+  "timestamp": "2014-05-31 06:30:40",
   "name": "Jean-Pascal Flavien",
   "surname": "Flavien",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "4000",
-  "r01": "4312",
-  "r02": "4563",
-  "r03": "4460",
-  "r04": "6703",
-  "r05": "6607",
-  "r06": "6013",
-  "r07": "11368",
-  "r08": "25426",
+  "r00": "3463",
+  "r01": "4315",
+  "r02": "4567",
+  "r03": "4466",
+  "r04": "6709",
+  "r05": "6611",
+  "r06": "6020",
+  "r07": "11370",
+  "r08": "25447",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
@@ -477,6 +477,77 @@
       },
       {
         "i": "26383-21426-2013-10-09",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "26383-17981-2014-04-05",
+        "c": "DE",
+        "n": "Backdoor Fantasies",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Dusseldorf",
+        "o": "KAI 10 Raum für Kunst ",
+        "d": [
+          "2014-04-05",
+          "2014-08-10"
+        ],
+        "a": "26383",
+        "an": "Jean-Pascal Flavien"
+      },
+      {
+        "i": "26383-1782-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "26383-1782-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "26383-3487-2014-01-31",
+        "c": "BE",
+        "n": "Jean-Pascal Flavien",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "Galerie Catherine Bastide",
+        "d": [
+          "2014-01-31",
+          "2014-03-08"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "26383",
+        "c": "DE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "26383-17981-2014-04-05",
+        "c": "DE",
+        "n": "Backdoor Fantasies",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Dusseldorf",
+        "o": "KAI 10 Raum für Kunst ",
+        "d": [
+          "2014-04-05",
+          "2014-08-10"
+        ],
+        "a": "26383",
+        "an": "Jean-Pascal Flavien"
+      },
+      {
+        "i": "26383",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "26383-1782-2014-06-06",
         "c": "FR"
       }
     ]

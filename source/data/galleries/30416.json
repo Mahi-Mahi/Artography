@@ -12,13 +12,19 @@
   "email": "contact@villa-art-en-soi.com",
   "www": "www.villa-art-en-soi.fr",
   "map": "http://maps.google.com/maps?q=Merignies%2C%2059710 %2C%20 %2C%20127 rue de Pont à Marcq %2C%20France",
-  "fairs-total": "1",
+  "fairs-total": "2",
   "fairs-abroad": "0",
-  "fairs-in-FR": "1",
+  "fairs-in-FR": "2",
   "fairs": {
     "2013": [
       {
-        "i": "30416-St-art 2013",
+        "i": "30416-St-art-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "30416-Art-Up!-2014",
         "c": "FR"
       }
     ]

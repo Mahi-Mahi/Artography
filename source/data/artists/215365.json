@@ -1,7 +1,7 @@
 {
   "id": "215365",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:30:16",
+  "timestamp": "2014-05-31 07:35:36",
   "name": "Francois Marcadon",
   "surname": "Marcadon",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "15139",
-  "r01": "19846",
-  "r02": "18600",
-  "r03": "32308",
-  "r04": "72167",
-  "r05": "84682",
-  "r06": "77314",
-  "r07": "69133",
+  "r00": "15188",
+  "r01": "19862",
+  "r02": "18596",
+  "r03": "32264",
+  "r04": "72241",
+  "r05": "84791",
+  "r06": "77422",
+  "r07": "69247",
   "r08": null,
   "awards": null,
   "website": null,
@@ -109,6 +109,21 @@
       {
         "i": "215365-19341-2013-04-25",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "215365-3721-2014-04-05",
+        "c": "TW",
+        "n": "Look and Feel Your Best",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Taipei",
+        "o": "Museum of Contemporary Art Taipei (MOCA)",
+        "d": [
+          "2014-04-05",
+          "2014-05-18"
+        ]
       }
     ]
   }

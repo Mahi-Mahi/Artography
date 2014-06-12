@@ -1,7 +1,7 @@
 {
   "id": "129102",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:00:47",
+  "timestamp": "2014-05-31 07:06:09",
   "name": "Karine Rougier",
   "surname": "Rougier",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "16242",
-  "r01": "16092",
-  "r02": "18516",
-  "r03": "27284",
-  "r04": "31832",
-  "r05": "36153",
-  "r06": "34299",
-  "r07": "46505",
-  "r08": "45239",
+  "r00": "16138",
+  "r01": "16114",
+  "r02": "18527",
+  "r03": "27293",
+  "r04": "31833",
+  "r05": "36169",
+  "r06": "34312",
+  "r07": "46541",
+  "r08": "45249",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "25",
-  "2005-shows-biennials": "15",
-  "2005-shows-galleries": "15",
+  "all-shows-total": "0",
+  "2005-shows-biennials": "16",
+  "2005-shows-galleries": "16",
   "2005-shows-museums": "2",
-  "2005-countries-total": "France (18), Macedonia (1)",
-  "2005-shows-with": "Karine Rougier (15), Thierry Lagalla (9), Emmanuel Régent (8), Stephane Steiner (8), Han Hoogerbrugge (7), Arnaud Labelle-Rojoux (7), Stéphane Protic (7), Damien Berthier (5), Michel de Broin (5), Florent Mattei (5), Caroline Bach (4), Frédéric Clavère (4), Claire Dantzer (4), Jerôme Robbe (4), Thierry Agnone (3), Gérald Panighi (3), Lionel Scoccimaro (3), Sabry Tchalgadjieff (3), Julien Blaine (2), Lionel Estève (2), Isabelle Giovacchini (2), Imi Knoebel (2), Sylvie Réno (2), Moussa Sarr (2), Ben Vautier (2), Jean-Luc Verna (2)",
+  "2005-countries-total": "France (19), Macedonia (1)",
+  "2005-shows-with": "Karine Rougier (16), Thierry Lagalla (10), Emmanuel Régent (9), Stephane Steiner (9), Han Hoogerbrugge (8), Arnaud Labelle-Rojoux (8), Stéphane Protic (8), Florent Mattei (6), Caroline Bach (5), Damien Berthier (5), Michel de Broin (5), Claire Dantzer (5), Jerôme Robbe (5), Thierry Agnone (4), Frédéric Clavère (4), Lionel Scoccimaro (4), Sabry Tchalgadjieff (4), Julien Blaine (3), Isabelle Giovacchini (3), Gérald Panighi (3), Jean-Luc Verna (3), Noël Dolla (2), Lionel Estève (2), Joël Hubaut (2), Imi Knoebel (2), Olivier Leroi (2), Éric Pougeau (2), Philippe Ramette (2), Sylvie Réno (2), Moussa Sarr (2), Cédric Teisseire (2), Kirill Ukolov (2), Ben Vautier (2)",
   "representing-galleries": "Numéro Six (6 rue jaubert, 12100 Aix-en-Provence, France); Galerie Martagon (47 grand rue, 84340 Malaucène, France); Espace A Vendre (17 rue Smolett, 06300 Nice, France); Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France)",
   "collecting-museums": null,
   "first_name": "Karine",
@@ -262,6 +262,26 @@
     "2014": [
       {
         "i": "129102-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "129102-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "129102",
+        "c": "FR",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "129102-16752-2014-04-19",
         "c": "FR"
       }
     ]

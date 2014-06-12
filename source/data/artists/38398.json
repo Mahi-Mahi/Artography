@@ -1,7 +1,7 @@
 {
   "id": "38398",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:29:30",
+  "timestamp": "2014-05-31 06:35:00",
   "name": "Lionel Scoccimaro",
   "surname": "Scoccimaro",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "10933",
-  "r01": "13169",
-  "r02": "16404",
-  "r03": "14968",
-  "r04": "14067",
-  "r05": "15452",
-  "r06": "15817",
-  "r07": "18847",
-  "r08": "26989",
+  "r00": "10918",
+  "r01": "13186",
+  "r02": "16411",
+  "r03": "14966",
+  "r04": "14064",
+  "r05": "15460",
+  "r06": "15824",
+  "r07": "18853",
+  "r08": "27003",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
   "all-shows-total": "45",
-  "2005-shows-biennials": "22",
-  "2005-shows-galleries": "22",
+  "2005-shows-biennials": "23",
+  "2005-shows-galleries": "23",
   "2005-shows-museums": "6",
-  "2005-countries-total": "France (22), Belgium (5), United Kingdom (2)",
-  "2005-shows-with": "Lionel Scoccimaro (25), Éric Pougeau (6), Arnaud Labelle-Rojoux (5), Thierry Lagalla (5), Élodie Lesourd (5), Eric Angenot (4), Julien Beneyton (4), Franck Bragigand (4), Loek Grootjans (4), Sylvie Réno (4), Jean-Luc Verna (4), Thierry Agnone (3), Damien Berthier (3), Frédéric Clavère (3), Wim Delvoye (3), Han Hoogerbrugge (3), Florent Mattei (3), David Neirings (3), Emmanuel Régent (3), Karine Rougier (3), Caroline Bach (2), Marcel Berlanger (2), Bili Bidjocka (2), Julien Blaine (2), Olivier Blanckart (2), Boogie (2), Kevin Van Braak (2), Michel de Broin (2), Anna Byskov (2), Robert Combas (2), Claire Dantzer (2), Jo De Smedt (2), Nick Ervinck (2), Laurent Faulon (2), Sonja Gangl (2), le Gentil Garçon (2), Frank Halmans (2), HAP (2), Harmen de Hoop (2), Thomas Huyghe (2), Jean Bernard Koeman (2), Jacques Lizène (2), Fabian Luyten (2), Xavier Mary (2), Laurent Perbos (2), Stéphane Protic (2), Philippe Ramette (2), Jerôme Robbe (2), Regine Schumann (2), Aurélie Slonina (2), Michaela Spiegel (2), St",
+  "2005-countries-total": "France (23), Belgium (5), United Kingdom (2)",
+  "2005-shows-with": "Lionel Scoccimaro (26), Éric Pougeau (7), Arnaud Labelle-Rojoux (6), Thierry Lagalla (6), Julien Beneyton (5), Élodie Lesourd (5), Jean-Luc Verna (5), Thierry Agnone (4), Eric Angenot (4), Franck Bragigand (4), Loek Grootjans (4), Han Hoogerbrugge (4), Florent Mattei (4), Emmanuel Régent (4), Sylvie Réno (4), Karine Rougier (4), Caroline Bach (3), Damien Berthier (3), Julien Blaine (3), Anna Byskov (3), Frédéric Clavère (3), Claire Dantzer (3), Wim Delvoye (3), David Neirings (3), Stéphane Protic (3), Philippe Ramette (3), Jerôme Robbe (3), Stephane Steiner (3), Sabry Tchalgadjieff (3), Marcel Berlanger (2), Romain Bernini (2), Bili Bidjocka (2), Olivier Blanckart (2), Boogie (2), Kevin Van Braak (2), Michel de Broin (2), Marc Chevalier (2), Robert Combas (2), Jo De Smedt (2), Noël Dolla (2), Jean Dupuy (2), Nick Ervinck (2), Laurent Faulon (2), Sonja Gangl (2), France Gayraud (2), le Gentil Garçon (2), Frank Halmans (2), HAP (2), Harmen de Hoop (2), Thomas Huyghe (2), Jean Bernard Koeman (2), Oliv",
   "representing-galleries": "In Situ Gallery (Arbeidstraat 108-110, B-9300 Aalst, Belgium); Galerie Olivier Robert (19, rue Mazarine, 75006 Paris, France); Carpenters Workshop Gallery (2 Michael Road, SW6 2AD London, United Kingdom)",
   "collecting-museums": null,
   "first_name": "Lionel",
@@ -456,6 +456,34 @@
     "2014": [
       {
         "i": "38398-2585-2013-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "38398-2528-2014-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "38398-2528-2014-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "38398-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "38398-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "38398",
+        "c": "FR",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "38398-16752-2014-04-19",
         "c": "FR"
       }
     ]

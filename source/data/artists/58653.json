@@ -1,7 +1,7 @@
 {
   "id": "58653",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:36:43",
+  "timestamp": "2014-05-31 06:42:10",
   "name": "Louidgi Beltrame",
   "surname": "Beltrame",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "5950",
-  "r01": "6281",
-  "r02": "5333",
-  "r03": "6828",
-  "r04": "6892",
-  "r05": "10466",
-  "r06": "8687",
-  "r07": "13084",
-  "r08": "16729",
+  "r00": "5992",
+  "r01": "6291",
+  "r02": "5332",
+  "r03": "6835",
+  "r04": "6894",
+  "r05": "10468",
+  "r06": "8689",
+  "r07": "13085",
+  "r08": "16736",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Louidgi",
   "last_name": "Beltrame",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1971-01-01",
   "age": 43,
   "age_range": "41-60",
@@ -255,6 +255,59 @@
       {
         "i": "58653-1939-2012-01-14",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "58653-18453-2014-04-03",
+        "c": "CZ",
+        "n": "Circular Ruins",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Prague",
+        "o": "MeetFactory Gallery",
+        "d": [
+          "2014-04-03",
+          "2014-05-18"
+        ]
+      },
+      {
+        "i": "58653-12042-2014-04-11",
+        "c": "ES",
+        "n": "Universo video. La Magia de las Imágenes",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2014-04-11",
+          "2014-07-06"
+        ],
+        "a": "58653",
+        "an": "Louidgi Beltrame"
+      }
+    ],
+    "today": [
+      {
+        "i": "58653",
+        "c": "ES",
+        "g": "n",
+        "a": "41-60"
+      },
+      {
+        "i": "58653-12042-2014-04-11",
+        "c": "ES",
+        "n": "Universo video. La Magia de las Imágenes",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2014-04-11",
+          "2014-07-06"
+        ],
+        "a": "58653",
+        "an": "Louidgi Beltrame"
       }
     ],
     "2009": [

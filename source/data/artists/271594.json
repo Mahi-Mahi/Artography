@@ -1,7 +1,7 @@
 {
   "id": "271594",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:49:29",
+  "timestamp": "2014-05-31 07:54:46",
   "name": "Sophie T. Lvoff",
   "surname": "Lvoff",
   "nationality": "FR, US",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "21101",
-  "r01": "21100",
-  "r02": "19015",
-  "r03": "19554",
-  "r04": "50456",
+  "r00": "21225",
+  "r01": "21143",
+  "r02": "19052",
+  "r03": "19568",
+  "r04": "50507",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -181,6 +181,34 @@
         "d": [
           "2013-01-05",
           "2013-02-16"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "271594-16680-2014-10-25",
+        "c": "US",
+        "n": "Prospect.3: Notes for Now",
+        "st": "Group",
+        "ct": "New Orleans, LA",
+        "o": "Prospect New Orleans",
+        "d": [
+          "2014-10-25",
+          "2015-01-01"
+        ]
+      }
+    ],
+    "2015": [
+      {
+        "i": "271594-16680-2014-10-25",
+        "c": "US",
+        "n": "Prospect.3: Notes for Now",
+        "st": "Group",
+        "ct": "New Orleans, LA",
+        "o": "Prospect New Orleans",
+        "d": [
+          "2014-10-25",
+          "2015-01-01"
         ]
       }
     ]

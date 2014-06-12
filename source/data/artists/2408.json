@@ -1,7 +1,7 @@
 {
   "id": "2408",
   "mergedIDs": "400120",
-  "timestamp": "2014-05-24 06:15:41",
+  "timestamp": "2014-05-31 06:21:13",
   "name": "Jean-Marc Bustamante",
   "surname": "Bustamante",
   "nationality": "FR",
@@ -16,9 +16,9 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Painting, Sculpture",
-  "r00": "777",
-  "r01": "787",
-  "r02": "673",
+  "r00": "783",
+  "r01": "785",
+  "r02": "674",
   "r03": "549",
   "r04": "509",
   "r05": "420",
@@ -594,19 +594,6 @@
         ]
       },
       {
-        "i": "2408-13467-2008-07-01",
-        "c": "JP",
-        "n": "Dear Stieglitz",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Tokyo",
-        "o": "Gallery 360 Degree",
-        "d": [
-          "2008-07-01",
-          "2008-07-26"
-        ]
-      },
-      {
         "i": "2408-1730-2008-07-01",
         "c": "ES",
         "n": "INTERLUDI",
@@ -617,6 +604,19 @@
         "d": [
           "2008-07-01",
           "2008-09-30"
+        ]
+      },
+      {
+        "i": "2408-13467-2008-07-01",
+        "c": "JP",
+        "n": "Dear Stieglitz",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Tokyo",
+        "o": "Gallery 360 Degree",
+        "d": [
+          "2008-07-01",
+          "2008-07-26"
         ]
       },
       {
@@ -1062,19 +1062,6 @@
         "c": "FR"
       },
       {
-        "i": "2408-23502-2010-10-02",
-        "c": "PT",
-        "n": "Look Up! Natural Porto Art Show",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Porto",
-        "o": "Look Up! Natural Porto Art Show",
-        "d": [
-          "2010-10-02",
-          "2010-12-19"
-        ]
-      },
-      {
         "i": "2408-11290-2010-10-02",
         "c": "ES",
         "n": "Medianoche en la Ciudad",
@@ -1085,6 +1072,19 @@
         "d": [
           "2010-10-02",
           "2011-01-09"
+        ]
+      },
+      {
+        "i": "2408-23502-2010-10-02",
+        "c": "PT",
+        "n": "Look Up! Natural Porto Art Show",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Porto",
+        "o": "Look Up! Natural Porto Art Show",
+        "d": [
+          "2010-10-02",
+          "2010-12-19"
         ]
       },
       {
@@ -1166,19 +1166,6 @@
         ]
       },
       {
-        "i": "2408-22194-2011-11-10",
-        "c": "ES",
-        "n": "Colección de Pintura Contemporánea Internacional",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "A Coruña",
-        "o": "Fundación Pedro Barrié de la Maza - A Coruña ",
-        "d": [
-          "2011-11-10",
-          "2012-03-18"
-        ]
-      },
-      {
         "i": "2408-22195-2011-11-10",
         "c": "ES",
         "n": "Colección de Pintura Contemporánea Internacional",
@@ -1186,6 +1173,19 @@
         "st": "Group",
         "ct": "Vigo",
         "o": "Fundación Pedro Barrié de la Maza - Vigo",
+        "d": [
+          "2011-11-10",
+          "2012-03-18"
+        ]
+      },
+      {
+        "i": "2408-22194-2011-11-10",
+        "c": "ES",
+        "n": "Colección de Pintura Contemporánea Internacional",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "A Coruña",
+        "o": "Fundación Pedro Barrié de la Maza - A Coruña ",
         "d": [
           "2011-11-10",
           "2012-03-18"
@@ -1259,19 +1259,6 @@
     ],
     "2012": [
       {
-        "i": "2408-22194-2011-11-10",
-        "c": "ES",
-        "n": "Colección de Pintura Contemporánea Internacional",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "A Coruña",
-        "o": "Fundación Pedro Barrié de la Maza - A Coruña ",
-        "d": [
-          "2011-11-10",
-          "2012-03-18"
-        ]
-      },
-      {
         "i": "2408-22195-2011-11-10",
         "c": "ES",
         "n": "Colección de Pintura Contemporánea Internacional",
@@ -1279,6 +1266,19 @@
         "st": "Group",
         "ct": "Vigo",
         "o": "Fundación Pedro Barrié de la Maza - Vigo",
+        "d": [
+          "2011-11-10",
+          "2012-03-18"
+        ]
+      },
+      {
+        "i": "2408-22194-2011-11-10",
+        "c": "ES",
+        "n": "Colección de Pintura Contemporánea Internacional",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "A Coruña",
+        "o": "Fundación Pedro Barrié de la Maza - A Coruña ",
         "d": [
           "2011-11-10",
           "2012-03-18"
@@ -1481,6 +1481,78 @@
           "2013-12-14",
           "2014-03-30"
         ]
+      },
+      {
+        "i": "2408-10519-2014-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "2408-10519-2014-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "2408-596-2014-02-14",
+        "c": "NL",
+        "n": "Beating around the Bush Episode #1",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Maastricht",
+        "o": "Bonnefantenmuseum",
+        "d": [
+          "2014-02-14",
+          "2014-05-04"
+        ]
+      },
+      {
+        "i": "2408-2289-2014-05-24",
+        "c": "CH",
+        "n": "Collection on Display",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Migros Museum für Gegenwartskunst",
+        "d": [
+          "2014-05-24",
+          "2014-08-17"
+        ],
+        "a": "2408",
+        "an": "Jean-Marc Bustamante"
+      },
+      {
+        "i": "2408-857-2014-01-25",
+        "c": "DE",
+        "n": "Jean-Marc Bustamante - Neuf Peintures",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Frankfurt/Main",
+        "o": "Galerie Bärbel Grässlin",
+        "d": [
+          "2014-01-25",
+          "2014-03-08"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "2408",
+        "c": "CH",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "2408-2289-2014-05-24",
+        "c": "CH",
+        "n": "Collection on Display",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Migros Museum für Gegenwartskunst",
+        "d": [
+          "2014-05-24",
+          "2014-08-17"
+        ],
+        "a": "2408",
+        "an": "Jean-Marc Bustamante"
       }
     ]
   }

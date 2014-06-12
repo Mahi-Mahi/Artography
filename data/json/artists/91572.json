@@ -1,7 +1,7 @@
 {
   "id": "91572",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:48:17",
+  "timestamp": "2014-05-31 06:53:40",
   "name": "Gilles Mingasson",
   "surname": "Mingasson",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "33833",
-  "r01": "37341",
-  "r02": "30561",
-  "r03": "25275",
-  "r04": "21179",
-  "r05": "17530",
-  "r06": "14522",
-  "r07": "14128",
+  "r00": "33999",
+  "r01": "37372",
+  "r02": "30569",
+  "r03": "25271",
+  "r04": "21165",
+  "r05": "17525",
+  "r06": "14516",
+  "r07": "14122",
   "r08": "16245",
   "awards": null,
   "website": null,
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Gilles",
   "last_name": "Mingasson",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1965-01-01",
   "age": 49,
   "age_range": "41-60",
@@ -135,6 +135,21 @@
         "d": [
           "2008-03-08",
           "2008-06-01"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "91572-15447-2014-01-30",
+        "c": "US",
+        "n": "Seeing Glacial Time: Climate Change in the Arctic",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Medford, MA",
+        "o": "Tufts University Art Gallery",
+        "d": [
+          "2014-01-30",
+          "2014-05-25"
         ]
       }
     ]

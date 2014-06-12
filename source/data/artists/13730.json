@@ -1,7 +1,7 @@
 {
   "id": "13730",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:23",
+  "timestamp": "2014-05-31 06:25:53",
   "name": "Bertrand Meniel",
   "surname": "Meniel",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "22557",
-  "r01": "22705",
-  "r02": "32815",
-  "r03": "34781",
-  "r04": "64560",
-  "r05": "53584",
-  "r06": "46902",
-  "r07": "38489",
-  "r08": "36607",
+  "r00": "22654",
+  "r01": "22731",
+  "r02": "32856",
+  "r03": "34820",
+  "r04": "64630",
+  "r05": "53634",
+  "r06": "46939",
+  "r07": "38541",
+  "r08": "36621",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
@@ -223,6 +223,34 @@
         "d": [
           "2013-11-30",
           "2014-03-30"
+        ]
+      },
+      {
+        "i": "13730-2656-2014-10-07",
+        "c": "ES",
+        "n": "Hiperrealismo",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bilbao",
+        "o": "Museo de Bellas Artes de Bilbao",
+        "d": [
+          "2014-10-07",
+          "2015-01-19"
+        ]
+      }
+    ],
+    "2015": [
+      {
+        "i": "13730-2656-2014-10-07",
+        "c": "ES",
+        "n": "Hiperrealismo",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bilbao",
+        "o": "Museo de Bellas Artes de Bilbao",
+        "d": [
+          "2014-10-07",
+          "2015-01-19"
         ]
       }
     ],

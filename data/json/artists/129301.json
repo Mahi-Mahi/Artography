@@ -1,7 +1,7 @@
 {
   "id": "129301",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:00:51",
+  "timestamp": "2014-05-31 07:06:12",
   "name": "Marie-Paule Nègre",
   "surname": "Nègre",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "40137",
-  "r01": "38421",
-  "r02": "35755",
-  "r03": "30738",
-  "r04": "25444",
-  "r05": "23174",
-  "r06": "18957",
-  "r07": "52890",
-  "r08": "42442",
+  "r00": "15458",
+  "r01": "38502",
+  "r02": "35785",
+  "r03": "30780",
+  "r04": "25452",
+  "r05": "23187",
+  "r06": "18952",
+  "r07": "52940",
+  "r08": "42470",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
   "all-shows-total": "5",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (3)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (4)",
   "2005-shows-with": "Marie-Paule Nègre (2), Patrick Tosani (2)",
   "representing-galleries": null,
   "collecting-museums": null,
@@ -70,6 +70,28 @@
       },
       {
         "i": "129301-10516-2008-10-17",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "129301-10516-2014-06-04",
+        "c": "FR"
+      },
+      {
+        "i": "129301-10516-2014-06-04",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "129301",
+        "c": "FR",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "129301-10516-2014-06-04",
         "c": "FR"
       }
     ]

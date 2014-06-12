@@ -12,13 +12,13 @@
   "email": "info@galeriecharlot.com",
   "www": "www.galeriecharlot.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2047 rue Charlot %2C%20France",
-  "fairs-total": "10",
-  "fairs-abroad": "6",
-  "fairs-in-FR": "4",
+  "fairs-total": "14",
+  "fairs-abroad": "9",
+  "fairs-in-FR": "5",
   "fairs": {
     "2011": [
       {
-        "i": "24995-SWAB 2011",
+        "i": "24995-SWAB-2011",
         "c": "ES",
         "n": "SWAB 2011",
         "ct": "Barcelona"
@@ -30,48 +30,72 @@
     ],
     "2012": [
       {
-        "i": "24995-Art Karlsruhe 2012",
+        "i": "24995-Art-Karlsruhe-2012",
         "c": "DE",
         "n": "Art Karlsruhe 2012",
         "ct": "Karlsruhe"
       },
       {
-        "i": "24995-fotofever artfair 2012",
+        "i": "24995-fotofever-artfair-2012",
         "c": "FR"
       },
       {
-        "i": "24995-SLICK 2012",
+        "i": "24995-SLICK-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "24995-Art Karlsruhe 2013",
+        "i": "24995-Art-Karlsruhe-2013",
         "c": "DE",
         "n": "Art Karlsruhe 2013",
         "ct": "Karlsruhe"
       },
       {
-        "i": "24995-Slick Brussels 2013",
+        "i": "24995-Slick-Brussels-2013",
         "c": "BE",
         "n": "Slick Brussels 2013",
         "ct": "Brussels"
       },
       {
-        "i": "24995-cutlog NY 2013",
+        "i": "24995-cutlog-NY-2013",
         "c": "US",
         "n": "cutlog NY 2013",
         "ct": "New York City, NY"
       },
       {
-        "i": "24995-Scope Basel 2013",
+        "i": "24995-Scope-Basel-2013",
         "c": "CH",
         "n": "Scope Basel 2013",
         "ct": "Basel"
       },
       {
-        "i": "24995-Slick Paris 2013",
+        "i": "24995-Slick-Paris-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "24995-Unpainted-2013",
+        "c": "DE",
+        "n": "Unpainted 2013",
+        "ct": "Munich"
+      },
+      {
+        "i": "24995-Art-Karlsruhe-2014",
+        "c": "DE",
+        "n": "Art Karlsruhe 2014",
+        "ct": "Karlsruhe"
+      },
+      {
+        "i": "24995-Artparis-2014",
+        "c": "FR"
+      },
+      {
+        "i": "24995-Scope-Basel-2014",
+        "c": "CH",
+        "n": "Scope Basel 2014",
+        "ct": "Basel"
       }
     ]
   }

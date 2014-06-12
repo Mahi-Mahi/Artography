@@ -1,7 +1,7 @@
 {
   "id": "8965",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:18:31",
+  "timestamp": "2014-05-31 06:24:00",
   "name": "Philippe Ramette",
   "surname": "Ramette",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Digital photography, Conceptual photography",
-  "r00": "2027",
-  "r01": "1753",
-  "r02": "1496",
+  "r00": "2023",
+  "r01": "1755",
+  "r02": "1494",
   "r03": "1346",
-  "r04": "1203",
-  "r05": "1026",
-  "r06": "930",
+  "r04": "1201",
+  "r05": "1024",
+  "r06": "931",
   "r07": "978",
   "r08": "816",
   "awards": null,
   "website": null,
   "all-shows-first": "1991",
-  "all-shows-total": "128",
-  "2005-shows-biennials": "12",
-  "2005-shows-galleries": "12",
+  "all-shows-total": "129",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
   "2005-shows-museums": "39",
-  "2005-countries-total": "France (34), Switzerland (4), USA (3), Germany (2), South Korea (2), Spain (2), Belgium (1), Brazil (1), Denmark (1), Greece (1), Japan (1), Netherlands (1), Uruguay (1)",
-  "2005-shows-with": "Philippe Ramette (51), Céleste Boursier-Mougenot (7), Bertrand Lavier (7), Yves Bélorgey (6), Michel Blazy (6), Stéphane Couturier (6), Didier Faustino (6), Didier Marcel (6), Tatiana Trouvé (6), Valérie Belin (5), Maurizio Cattelan (5), Philippe De Gobert (5), Robert Filliou (5), Raymond Hains (5), Valérie Jouve (5), Mathieu Mercier (5), Nicolas Moulin (5), Georges Rousse (5), Jean-Luc Verna (5), Pierre Ardouvin (4), John M Armleder (4), Atelier van Lieshout (4), Élisabeth Ballet (4), Berdaguer & Péjus (4), Jordi Colomer (4), Philippe Durand (4), Jimmie Durham (4), Simon Faithfull (4), Richard Fauguet (4), Nicolas Floc\\'h (4), Dora García (4), Dominique Gonzalez-Foerster (4), Philippe Gronon (4), Camille Henrot (4), Natacha Lesueur (4), Claude Lévêque (4), François Morellet (4), Vik Muniz (4), Juan Muñoz (4), Denis Savary (4), Roman Signer (4), Florian Slotawa (4), Marie Voignier (4), Franz West (4), Raphaël Zarka (4), Lida Abdul (3), Saâdane Afif (3), Thierry Agnone (3), Kader Attia (3), Rena",
+  "2005-countries-total": "France (35), Switzerland (4), USA (3), Germany (2), South Korea (2), Spain (2), Belgium (1), Brazil (1), Denmark (1), Greece (1), Japan (1), Netherlands (1), Uruguay (1)",
+  "2005-shows-with": "Philippe Ramette (52), Céleste Boursier-Mougenot (7), Bertrand Lavier (7), Yves Bélorgey (6), Michel Blazy (6), Stéphane Couturier (6), Didier Faustino (6), Didier Marcel (6), Tatiana Trouvé (6), Jean-Luc Verna (6), Valérie Belin (5), Maurizio Cattelan (5), Philippe De Gobert (5), Robert Filliou (5), Raymond Hains (5), Valérie Jouve (5), Mathieu Mercier (5), Nicolas Moulin (5), Georges Rousse (5), Thierry Agnone (4), Pierre Ardouvin (4), John M Armleder (4), Atelier van Lieshout (4), Élisabeth Ballet (4), Berdaguer & Péjus (4), Jordi Colomer (4), Philippe Durand (4), Jimmie Durham (4), Simon Faithfull (4), Richard Fauguet (4), Nicolas Floc\\'h (4), Dora García (4), Dominique Gonzalez-Foerster (4), Philippe Gronon (4), Camille Henrot (4), Thierry Lagalla (4), Natacha Lesueur (4), Claude Lévêque (4), François Morellet (4), Vik Muniz (4), Juan Muñoz (4), Emmanuel Régent (4), Denis Savary (4), Roman Signer (4), Florian Slotawa (4), Stephane Steiner (4), Marie Voignier (4), Franz West (4), Raphaël Za",
   "representing-galleries": "Galerie Xippas France (108, rue Vieille du Temple, 75003 Paris, France)",
   "collecting-museums": "SMAK Stedelijk Museum voor Actuele Kunst (Citadelpark, 9000 Ghent, Belgium); FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC Aquitaine (Hangar G2, Bassin à flot n°1, Quai Armand Lalande, 33300 Bordeaux, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France)",
   "first_name": "Philippe",
@@ -981,6 +981,34 @@
     "2014": [
       {
         "i": "8965-16752-2013-12-07",
+        "c": "FR"
+      },
+      {
+        "i": "8965-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "8965-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "8965-30531-2014-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "8965-30531-2014-06-07",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "8965",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "8965-16752-2014-04-19",
         "c": "FR"
       }
     ]

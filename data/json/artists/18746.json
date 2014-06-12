@@ -1,7 +1,7 @@
 {
   "id": "18746",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:22:23",
+  "timestamp": "2014-05-31 06:27:53",
   "name": "Gilles Marrey",
   "surname": "Marrey",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "32988",
-  "r01": "49723",
-  "r02": "49958",
-  "r03": "42903",
-  "r04": "36879",
-  "r05": "31475",
-  "r06": "30575",
-  "r07": "25465",
-  "r08": "43458",
+  "r00": "33162",
+  "r01": "49822",
+  "r02": "50009",
+  "r03": "42923",
+  "r04": "36898",
+  "r05": "31505",
+  "r06": "30597",
+  "r07": "25470",
+  "r08": "43457",
   "awards": null,
   "website": null,
   "all-shows-first": "1992",
@@ -81,6 +81,46 @@
       {
         "i": "18746-9475-2007-03-11",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "18746-2582-2014-01-29",
+        "c": "GR",
+        "n": "Painting II (1980-2000)",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2014-01-29",
+          "2014-09-28"
+        ],
+        "a": "18746",
+        "an": "Gilles Marrey"
+      }
+    ],
+    "today": [
+      {
+        "i": "18746",
+        "c": "GR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "18746-2582-2014-01-29",
+        "c": "GR",
+        "n": "Painting II (1980-2000)",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2014-01-29",
+          "2014-09-28"
+        ],
+        "a": "18746",
+        "an": "Gilles Marrey"
       }
     ],
     "2009": [

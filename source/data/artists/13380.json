@@ -1,7 +1,7 @@
 {
   "id": "13380",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:15",
+  "timestamp": "2014-05-31 06:25:45",
   "name": "Jean-Luc Mylayne",
   "surname": "Mylayne",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "1804",
-  "r01": "1777",
-  "r02": "1736",
-  "r03": "1525",
-  "r04": "2009",
-  "r05": "2257",
-  "r06": "2966",
-  "r07": "4995",
-  "r08": "6326",
+  "r00": "1801",
+  "r01": "1778",
+  "r02": "1737",
+  "r03": "1526",
+  "r04": "2008",
+  "r05": "2258",
+  "r06": "2968",
+  "r07": "4998",
+  "r08": "6329",
   "awards": null,
   "website": null,
   "all-shows-first": "1991",
   "all-shows-total": "46",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
   "2005-shows-museums": "21",
-  "2005-countries-total": "USA (11), France (7), Spain (5), Belgium (2), Germany (2), Italy (2), Austria (1), United Kingdom (1)",
-  "2005-shows-with": "Jean-Luc Mylayne (18), Eric Baudelaire (4), Sophie Calle (4), Uwe Henneken (4), Gabriel Kuri (4), Paul McDevitt (4), Thomas Ruff (4), Phillip Allen (3), Andreas Eriksson (3), Hans-Peter Feldmann (3), Gregor Hildebrandt (3), Markus Karstiess (3), Alicja Kwade (3), Roman Lipski (3), Hew Locke (3), Paul Morrison (3), Éric Poitevin (3), Gerwald Rockenschaub (3), Emmanuelle Antille (2), John Baldessari (2), Lewis Baltz (2), Yto Barrada (2), Philippe Bazin (2), Jordi Bernadó (2), Beni Bischof (2), Cosima von Bonin (2), Varda Caivano (2), Matt Calderwood (2), Alice Channer (2), Florence Chevallier (2), Georganne Deen (2), Cor Dera (2), Mark Dion (2), Kaye Donachie (2), Cerith Wyn Evans (2), Graham Fagen (2), Patrick Faigenbaum (2), Carsten Fock (2), Lee Friedlander (2), Regina José Galindo (2), David Goldblatt (2), Andreas  Golinski (2), Paul Graham (2), Tue Greenfort (2), Sabine Groß (2), Jeppe Hein (2), Haïdée Henry (2), Alexander Hoda (2), Rachel Howard (2), Mike Kelley (2), William Klein (2), Peter Land (2",
+  "2005-countries-total": "USA (11), France (7), Spain (5), Belgium (2), Germany (2), Italy (2), Austria (1), Denmark (1), United Kingdom (1)",
+  "2005-shows-with": "Jean-Luc Mylayne (19), Eric Baudelaire (4), Sophie Calle (4), Uwe Henneken (4), Gabriel Kuri (4), Paul McDevitt (4), Thomas Ruff (4), Phillip Allen (3), Andreas Eriksson (3), Hans-Peter Feldmann (3), Gregor Hildebrandt (3), Markus Karstiess (3), Alicja Kwade (3), Roman Lipski (3), Hew Locke (3), Paul Morrison (3), Éric Poitevin (3), Gerwald Rockenschaub (3), Hannah Starkey (3), Larry Sultan (3), Emmanuelle Antille (2), John Baldessari (2), Lewis Baltz (2), Yto Barrada (2), Philippe Bazin (2), Jordi Bernadó (2), Beni Bischof (2), Cosima von Bonin (2), Varda Caivano (2), Matt Calderwood (2), Alice Channer (2), Florence Chevallier (2), Georganne Deen (2), Cor Dera (2), Mark Dion (2), Kaye Donachie (2), Cerith Wyn Evans (2), Graham Fagen (2), Patrick Faigenbaum (2), Carsten Fock (2), Lee Friedlander (2), Regina José Galindo (2), David Goldblatt (2), Andreas  Golinski (2), Paul Graham (2), Tue Greenfort (2), Sabine Groß (2), Jeppe Hein (2), Haïdée Henry (2), Alexander Hoda (2), Rachel Howard (2), Mike Kelley",
   "representing-galleries": "Gladstone Gallery - Brussels (12 rue du Grand Cerf, 1000 Brussels, Belgium); Sprüth Magers Berlin (Oranienburger Straße 18, 10178 Berlin, Germany); Sprüth Magers London (7A Grafton Street, W1S 4EJ London, United Kingdom); Gladstone Gallery - New York (515 West 24th Street & 530 West 21st Street, 10011 New York City, NY, USA)",
   "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France)",
   "first_name": "Jean-Luc",
@@ -68,19 +68,6 @@
         ]
       },
       {
-        "i": "13380-15902-2007-09-08",
-        "c": "US",
-        "n": "Jean Luc Mylayne",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Houston, TX",
-        "o": "Texas Gallery",
-        "d": [
-          "2007-09-08",
-          "2007-10-13"
-        ]
-      },
-      {
         "i": "13380-7534-2007-09-08",
         "c": "US",
         "n": "Jean Luc Mylayne",
@@ -91,6 +78,19 @@
         "d": [
           "2007-09-08",
           "2007-11-10"
+        ]
+      },
+      {
+        "i": "13380-15902-2007-09-08",
+        "c": "US",
+        "n": "Jean Luc Mylayne",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Houston, TX",
+        "o": "Texas Gallery",
+        "d": [
+          "2007-09-08",
+          "2007-10-13"
         ]
       }
     ],
@@ -477,6 +477,34 @@
       {
         "i": "13380-8997-2013-10-05",
         "c": "FR"
+      },
+      {
+        "i": "13380-6699-2014-01-25",
+        "c": "US",
+        "n": "Beyond Earth Art",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Ithaca, NY",
+        "o": "Herbert F. Johnson Museum of Art",
+        "d": [
+          "2014-01-25",
+          "2014-06-08"
+        ]
+      },
+      {
+        "i": "13380-6514-2014-06-06",
+        "c": "DK",
+        "n": "Photography",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Copenhagen",
+        "o": "Martin Asbæk Gallery",
+        "d": [
+          "2014-06-06",
+          "2014-06-28"
+        ],
+        "a": "13380",
+        "an": "Jean-Luc Mylayne"
       }
     ],
     "2013": [
@@ -538,6 +566,29 @@
       {
         "i": "13380-8997-2013-10-05",
         "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "13380",
+        "c": "DK",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "13380-6514-2014-06-06",
+        "c": "DK",
+        "n": "Photography",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Copenhagen",
+        "o": "Martin Asbæk Gallery",
+        "d": [
+          "2014-06-06",
+          "2014-06-28"
+        ],
+        "a": "13380",
+        "an": "Jean-Luc Mylayne"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "206341",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:27:09",
+  "timestamp": "2014-05-31 07:32:30",
   "name": "Bertille Bak",
   "surname": "Bak",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video, Installation, Drawings",
-  "r00": "2437",
-  "r01": "2928",
-  "r02": "4042",
-  "r03": "10889",
-  "r04": "10752",
+  "r00": "2345",
+  "r01": "2933",
+  "r02": "4041",
+  "r03": "10890",
+  "r04": "10756",
   "r05": "12903",
-  "r06": "54525",
+  "r06": "54565",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -343,6 +343,62 @@
           "2013-02-09",
           "2013-04-28"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "206341-2331-2014-02-14",
+        "c": "LU",
+        "n": "Ny-Lux - Edward Steichen Award 2004-2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2014-02-14",
+          "2014-06-09"
+        ]
+      },
+      {
+        "i": "206341-11771-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "206341-11771-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "206341-8577-2014-01-18",
+        "c": "GB",
+        "n": "Bertille Bak - Faire le mur",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Edinburgh, Scotland",
+        "o": "Collective Gallery",
+        "d": [
+          "2014-01-18",
+          "2014-03-02"
+        ]
+      },
+      {
+        "i": "206341-9059-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "206341-9059-2014-06-06",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "206341",
+        "c": "FR",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "206341-9059-2014-06-06",
+        "c": "FR"
       }
     ]
   }

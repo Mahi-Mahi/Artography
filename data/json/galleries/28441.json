@@ -12,26 +12,34 @@
   "email": "laleatoire@gmail.com",
   "www": "www.galerielaleatoire.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075005 %2C%20 %2C%2029, rue de Bièvre %2C%20France",
-  "fairs-total": "3",
-  "fairs-abroad": "2",
+  "fairs-total": "4",
+  "fairs-abroad": "3",
   "fairs-in-FR": "1",
   "fairs": {
     "2013": [
       {
-        "i": "28441-Art Paris Art Fair 2013",
+        "i": "28441-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "28441-cutlog NY 2013",
+        "i": "28441-cutlog-NY-2013",
         "c": "US",
         "n": "cutlog NY 2013",
         "ct": "New York City, NY"
       },
       {
-        "i": "28441-Art Moscow 2013",
+        "i": "28441-Art-Moscow-2013",
         "c": "RU",
         "n": "Art Moscow 2013",
         "ct": "Moscow"
+      }
+    ],
+    "2014": [
+      {
+        "i": "28441-Art-Vilnius-2014",
+        "c": "LT",
+        "n": "Art Vilnius 2014",
+        "ct": "Vilnius"
       }
     ]
   }

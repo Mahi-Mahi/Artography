@@ -12,26 +12,34 @@
   "email": "contact@galeriebrunomassa.com",
   "www": "www.galeriebrunomassa.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%201st floor 57, rue de Turbigo %2C%20France",
-  "fairs-total": "3",
-  "fairs-abroad": "2",
+  "fairs-total": "4",
+  "fairs-abroad": "3",
   "fairs-in-FR": "1",
   "fairs": {
     "2013": [
       {
-        "i": "29774-(e)merge art fair 2013",
+        "i": "29774-(e)merge-art-fair-2013",
         "c": "US",
         "n": "(e)merge art fair 2013",
         "ct": "Washington, DC"
       },
       {
-        "i": "29774-cutlog 2013",
+        "i": "29774-cutlog-2013",
         "c": "FR"
       },
       {
-        "i": "29774-Aqua Art Miami 2013",
+        "i": "29774-Aqua-Art-Miami-2013",
         "c": "US",
         "n": "Aqua Art Miami 2013",
         "ct": "Miami Beach, FL"
+      }
+    ],
+    "2014": [
+      {
+        "i": "29774-Select-Art-Fair-New-York-2014",
+        "c": "US",
+        "n": "Select Art Fair New York 2014",
+        "ct": "New York City, NY"
       }
     ]
   }

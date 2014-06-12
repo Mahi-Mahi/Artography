@@ -12,19 +12,25 @@
   "email": "contact@galerie-graphem.com",
   "www": "www.galerie-graphem.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2020 rue des Grands Augustins %2C%20France",
-  "fairs-total": "2",
+  "fairs-total": "3",
   "fairs-abroad": "0",
-  "fairs-in-FR": "2",
+  "fairs-in-FR": "3",
   "fairs": {
     "2012": [
       {
-        "i": "27526-ST-ART  2012",
+        "i": "27526-ST-ART--2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "27526-cutlog 2013",
+        "i": "27526-cutlog-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "27526-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
         "c": "FR"
       }
     ]

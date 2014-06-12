@@ -1,7 +1,7 @@
 {
   "id": "799",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:14:41",
+  "timestamp": "2014-05-31 06:20:14",
   "name": "Bernard Aubertin",
   "surname": "Aubertin",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Objects",
-  "r00": "2373",
-  "r01": "2266",
-  "r02": "2190",
-  "r03": "2693",
-  "r04": "3677",
-  "r05": "3461",
-  "r06": "3954",
+  "r00": "2396",
+  "r01": "2269",
+  "r02": "2187",
+  "r03": "2695",
+  "r04": "3680",
+  "r05": "3462",
+  "r06": "3953",
   "r07": "3373",
-  "r08": "3112",
+  "r08": "3116",
   "awards": null,
   "website": null,
   "all-shows-first": "1975",
@@ -746,6 +746,34 @@
       {
         "i": "799-741-2013-02-09",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "799-1040-2014-02-01",
+        "c": "DE",
+        "n": "Zero",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Nuremberg",
+        "o": "Galerie & Edition Bode GmbH",
+        "d": [
+          "2014-02-01",
+          "2014-03-01"
+        ]
+      },
+      {
+        "i": "799-2844-2014-02-24",
+        "c": "GB",
+        "n": "Turn Me On: European and Latin American Kinetic Art 1948-1979",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "London",
+        "o": "Christie’s Mayfair",
+        "d": [
+          "2014-02-24",
+          "2014-04-07"
+        ]
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "191920",
   "mergedIDs": "268921",
-  "timestamp": "2014-05-24 07:22:12",
+  "timestamp": "2014-05-31 07:27:35",
   "name": "Jaybo",
   "surname": "Jaybo",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "15641",
-  "r01": "15462",
-  "r02": "13660",
+  "r00": "15696",
+  "r01": "15477",
+  "r02": "13663",
   "r03": "13999",
-  "r04": "17236",
-  "r05": "47413",
-  "r06": "50453",
+  "r04": "17238",
+  "r05": "47430",
+  "r06": "50481",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -358,19 +358,6 @@
         ]
       },
       {
-        "i": "191920-20938-2011-11-18",
-        "c": "DE",
-        "n": "Give - A Charitable Exhibition Of Limited Art Editions",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Circleculture Gallery - Berlin",
-        "d": [
-          "2011-11-18",
-          "2012-01-24"
-        ]
-      },
-      {
         "i": "191920-27431-2011-11-18",
         "c": "DE",
         "n": "salondergegenwart",
@@ -381,6 +368,19 @@
         "d": [
           "2011-11-18",
           "2011-11-20"
+        ]
+      },
+      {
+        "i": "191920-20938-2011-11-18",
+        "c": "DE",
+        "n": "Give - A Charitable Exhibition Of Limited Art Editions",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Circleculture Gallery - Berlin",
+        "d": [
+          "2011-11-18",
+          "2012-01-24"
         ]
       },
       {

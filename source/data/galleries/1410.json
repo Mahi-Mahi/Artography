@@ -12,13 +12,13 @@
   "email": "lessinguliers@aol.com",
   "www": "www.galerie-les-singuliers.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%20138 Bd Haussmann %2C%20France",
-  "fairs-total": "6",
-  "fairs-abroad": "1",
+  "fairs-total": "7",
+  "fairs-abroad": "2",
   "fairs-in-FR": "5",
   "fairs": {
     "2005": [
       {
-        "i": "1410-Scope London 2005",
+        "i": "1410-Scope-London-2005",
         "c": "US",
         "n": "Scope London 2005",
         "ct": "New York City, NY"
@@ -32,26 +32,34 @@
     ],
     "2010": [
       {
-        "i": "1410-cutlog 2010",
+        "i": "1410-cutlog-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "1410-cutlog 2011",
+        "i": "1410-cutlog-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "1410-cutlog 2012",
+        "i": "1410-cutlog-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "1410-cutlog 2013",
+        "i": "1410-cutlog-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "1410-Cutlog-New-York",
+        "c": "US",
+        "n": "Cutlog New York",
+        "ct": "New York City, NY"
       }
     ]
   }

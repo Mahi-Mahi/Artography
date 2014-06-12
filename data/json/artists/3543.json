@@ -1,7 +1,7 @@
 {
   "id": "3543",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:16:16",
+  "timestamp": "2014-05-31 06:21:48",
   "name": "Tony Soulié",
   "surname": "Soulié",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "10166",
-  "r01": "9788",
-  "r02": "9551",
-  "r03": "11571",
-  "r04": "11914",
-  "r05": "11774",
-  "r06": "13208",
-  "r07": "19565",
-  "r08": "28355",
+  "r00": "10201",
+  "r01": "9778",
+  "r02": "9531",
+  "r03": "11572",
+  "r04": "11916",
+  "r05": "11772",
+  "r06": "13206",
+  "r07": "19563",
+  "r08": "28351",
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
-  "all-shows-total": "41",
+  "all-shows-total": "42",
   "2005-shows-biennials": "22",
   "2005-shows-galleries": "22",
   "2005-shows-museums": "5",
@@ -148,7 +148,7 @@
       {
         "i": "3543-19163-2008-05-29",
         "c": "BE",
-        "n": "Le monde aux rayons",
+        "n": "Tony Soulié",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "Brussels",
@@ -161,7 +161,7 @@
       {
         "i": "3543-19163-2008-05-29",
         "c": "BE",
-        "n": "Tony Soulié",
+        "n": "Le monde aux rayons",
         "t": "Galerie privée",
         "st": "Solo",
         "ct": "Brussels",
@@ -351,6 +351,14 @@
       },
       {
         "i": "3543-2718-2012-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "3543-14712-2012-05-10",
+        "c": "FR"
+      },
+      {
+        "i": "3543-14712-2012-05-10",
         "c": "FR"
       },
       {

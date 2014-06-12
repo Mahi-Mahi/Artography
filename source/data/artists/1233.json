@@ -1,7 +1,7 @@
 {
   "id": "1233",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:14:56",
+  "timestamp": "2014-05-31 06:20:29",
   "name": "Patrick Raynaud",
   "surname": "Raynaud",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sculpture",
-  "r00": "12669",
-  "r01": "11808",
-  "r02": "11962",
-  "r03": "10026",
-  "r04": "7982",
-  "r05": "6970",
-  "r06": "5605",
-  "r07": "4661",
-  "r08": "3425",
+  "r00": "12734",
+  "r01": "11819",
+  "r02": "11958",
+  "r03": "10029",
+  "r04": "7987",
+  "r05": "6971",
+  "r06": "5606",
+  "r07": "4662",
+  "r08": "3427",
   "awards": null,
   "website": null,
   "all-shows-first": "1986",
@@ -389,6 +389,21 @@
         "d": [
           "2013-09-18",
           "2013-12-31"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "1233-149-2014-03-07",
+        "c": "DE",
+        "n": "Das schweigen von Marcel Duchamp wird überbewertet - Readymades Multiples",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Stuttgart",
+        "o": "Brigitte March International Contemporary Art",
+        "d": [
+          "2014-03-07",
+          "2014-04-04"
         ]
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "86357",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:46:29",
+  "timestamp": "2014-05-31 06:51:53",
   "name": "Julien Sirjacq",
   "surname": "Sirjacq",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "64884",
-  "r01": "77976",
-  "r02": "73560",
-  "r03": "72601",
-  "r04": "66461",
-  "r05": "59644",
-  "r06": "70932",
-  "r07": "62954",
+  "r00": "65084",
+  "r01": "78139",
+  "r02": "73656",
+  "r03": "72679",
+  "r04": "66511",
+  "r05": "59686",
+  "r06": "71035",
+  "r07": "63060",
   "r08": null,
   "awards": null,
   "website": null,
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Julien",
   "last_name": "Sirjacq",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1974-01-01",
   "age": 40,
   "age_range": "26-40",
@@ -69,6 +69,21 @@
       {
         "i": "86357-17457-2012-01-20",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "86357-18453-2014-04-03",
+        "c": "CZ",
+        "n": "Circular Ruins",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Prague",
+        "o": "MeetFactory Gallery",
+        "d": [
+          "2014-04-03",
+          "2014-05-18"
+        ]
       }
     ],
     "2009": [

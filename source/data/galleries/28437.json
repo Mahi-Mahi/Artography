@@ -12,13 +12,19 @@
   "email": "catberro@free.fr",
   "www": "www.caberro.fr",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2025, rue Guénégaud %2C%20France",
-  "fairs-total": "1",
+  "fairs-total": "2",
   "fairs-abroad": "0",
-  "fairs-in-FR": "1",
+  "fairs-in-FR": "2",
   "fairs": {
     "2013": [
       {
-        "i": "28437-Art Paris Art Fair 2013",
+        "i": "28437-Art-Paris-Art-Fair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "28437-Artparis-2014",
         "c": "FR"
       }
     ]

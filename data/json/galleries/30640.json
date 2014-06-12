@@ -12,9 +12,15 @@
   "email": "benjamin@galeriederouillon.com",
   "www": "www.galeriederouillon.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2038 rue Notre Dame de Nazareth %2C%20France",
-  "fairs-total": "0",
+  "fairs-total": "1",
   "fairs-abroad": "0",
-  "fairs-in-FR": "0",
+  "fairs-in-FR": "1",
   "fairs": {
+    "2014": [
+      {
+        "i": "30640-Artparis-2014",
+        "c": "FR"
+      }
+    ]
   }
 }

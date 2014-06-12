@@ -1,7 +1,7 @@
 {
   "id": "11888",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:19:41",
+  "timestamp": "2014-05-31 06:25:09",
   "name": "Christophe Avella-Bagur",
   "surname": "Avella-Bagur",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "11315",
-  "r01": "14859",
-  "r02": "12585",
-  "r03": "11854",
-  "r04": "11653",
-  "r05": "11563",
-  "r06": "9348",
-  "r07": "13539",
-  "r08": "13501",
+  "r00": "11369",
+  "r01": "14867",
+  "r02": "12596",
+  "r03": "11861",
+  "r04": "11655",
+  "r05": "11562",
+  "r06": "9351",
+  "r07": "13538",
+  "r08": "13500",
   "awards": null,
   "website": "www.christopheavellabagur.com",
   "all-shows-first": "1996",
@@ -239,6 +239,29 @@
       {
         "i": "11888-3152-2008-10-15",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "11888-3152-2014-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "11888-3152-2014-01-11",
+        "c": "FR"
+      },
+      {
+        "i": "11888-25744-2014-04-05",
+        "c": "US",
+        "n": "Christophe Avella-Bagur - Spirit of Resilience / Part 2",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Galerie Richard",
+        "d": [
+          "2014-04-05",
+          "2014-04-26"
+        ]
       }
     ]
   }

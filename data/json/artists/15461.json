@@ -1,7 +1,7 @@
 {
   "id": "15461",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:03",
+  "timestamp": "2014-05-31 06:26:34",
   "name": "Joël Hubaut",
   "surname": "Hubaut",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "8858",
-  "r01": "8612",
-  "r02": "9374",
-  "r03": "17604",
-  "r04": "14529",
-  "r05": "12135",
-  "r06": "10099",
-  "r07": "7911",
-  "r08": "9009",
+  "r00": "8843",
+  "r01": "8624",
+  "r02": "9366",
+  "r03": "17566",
+  "r04": "14496",
+  "r05": "12085",
+  "r06": "10053",
+  "r07": "7874",
+  "r08": "8973",
   "awards": null,
   "website": null,
   "all-shows-first": "1980",
   "all-shows-total": "35",
-  "2005-shows-biennials": "10",
-  "2005-shows-galleries": "10",
+  "2005-shows-biennials": "11",
+  "2005-shows-galleries": "11",
   "2005-shows-museums": "8",
-  "2005-countries-total": "France (19)",
-  "2005-shows-with": "Joël Hubaut (15), Raymond Hains (6), Arnaud Labelle-Rojoux (6), Pascal le Coq (5), Ben Vautier (5), Charles Dreyfus (4), George Maciunas (4), Jean-Luc Verna (4), Jean-Luc André (3), Denise A. Aubertin (3), Julien Blaine (3), George Brecht (3), Erik Dietman (3), Joël Ducorroy (3), Jean Dupuy (3), Eric Duyckaerts (3), Esther Ferrer (3), Robert Filliou (3), Paul-Armand Gette (3), Carsten Höller (3), Michel Journiac (3), Thierry Lagalla (3), Jean-Jacques Lebel (3), Miller Levy (3), Orlan (3), Charlemagne Palestine (3), Jean-Luc Parant (3), Philippe Parreno (3), Serge Pey (3), Takako Saito (3), Taroop & Glabel (3), Peter Vogel (3), Gil J Wolman (3), Vito Acconci (2), Marcel Alocco (2), Dominique Angel (2), Alain  Arias Misson (2), Eleonore Bak (2), Anahita Bathaie (2), Stéphane Bérard (2), Roberto Bozzi (2), Marcel Broodthaers (2), Stanley Brouwn (2), Daniel Buren (2), Anna Byskov (2), Gilbert Caty (2), Noël Dolla (2), Leo Dorfner (2), Peter Downsbrough (2), François Dufrêne (2), Anouck Durand-Gasselin (2",
+  "2005-countries-total": "France (20)",
+  "2005-shows-with": "Joël Hubaut (16), Arnaud Labelle-Rojoux (7), Raymond Hains (6), Pascal le Coq (5), Ben Vautier (5), Jean-Luc Verna (5), Julien Blaine (4), Charles Dreyfus (4), Jean Dupuy (4), Thierry Lagalla (4), George Maciunas (4), Jean-Luc André (3), Denise A. Aubertin (3), George Brecht (3), Anna Byskov (3), Erik Dietman (3), Noël Dolla (3), Joël Ducorroy (3), Eric Duyckaerts (3), Esther Ferrer (3), Robert Filliou (3), Jean-Baptiste Ganne (3), Paul-Armand Gette (3), Carsten Höller (3), Michel Journiac (3), Jean-Jacques Lebel (3), Miller Levy (3), Pascal Lièvre (3), Florent Mattei (3), Orlan (3), Charlemagne Palestine (3), Jean-Luc Parant (3), Philippe Parreno (3), Serge Pey (3), Takako Saito (3), Taroop & Glabel (3), Peter Vogel (3), Gil J Wolman (3), Vito Acconci (2), Marcel Alocco (2), Dominique Angel (2), Alain  Arias Misson (2), Eleonore Bak (2), Anahita Bathaie (2), Stéphane Bérard (2), Roberto Bozzi (2), Marcel Broodthaers (2), Stanley Brouwn (2), Daniel Buren (2), Gilbert Caty (2), Leo Dorfner (2), Peter D",
   "representing-galleries": "Galerie Barnoud (27 rue Berlier, 21000 Dijon, France); Galerie du Jour agnès b (44, rue Quincampoix, F-75004 Paris, France); Galerie Lara Vincy (47, rue de Seine, 75006 Paris, France)",
   "collecting-museums": "Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); LaM - Lille Métropole musée d'art moderne, d'art contemporain et d'art brut (1 allée du musée, 59650 Villeneuve d'Ascq, France)",
   "first_name": "Joël",
@@ -258,6 +258,26 @@
     "2014": [
       {
         "i": "15461-27181-2013-12-12",
+        "c": "FR"
+      },
+      {
+        "i": "15461-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "15461-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "15461",
+        "c": "FR",
+        "g": "f",
+        "a": "61-100"
+      },
+      {
+        "i": "15461-16752-2014-04-19",
         "c": "FR"
       }
     ],

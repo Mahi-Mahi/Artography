@@ -1,7 +1,7 @@
 {
   "id": "237095",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:37:41",
+  "timestamp": "2014-05-31 07:42:58",
   "name": "Mr. Brainwash",
   "surname": "Mr. Brainwash",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video, Poster Art",
-  "r00": "22130",
-  "r01": "35285",
-  "r02": "60370",
-  "r03": "76382",
-  "r04": "85174",
-  "r05": "85471",
-  "r06": "91224",
+  "r00": "22234",
+  "r01": "35345",
+  "r02": "60424",
+  "r03": "76479",
+  "r04": "85262",
+  "r05": "85582",
+  "r06": "91369",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -217,6 +217,46 @@
           "2010-03-22",
           "2010-09-30"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "237095-19628-2014-05-09",
+        "c": "DE",
+        "n": "Mr. Brainwash - Life is beautiful",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Nuremberg",
+        "o": "Galerie Fluegel-Roncak",
+        "d": [
+          "2014-05-09",
+          "2014-06-30"
+        ],
+        "a": "237095",
+        "an": "Mr. Brainwash"
+      }
+    ],
+    "today": [
+      {
+        "i": "237095",
+        "c": "DE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "237095-19628-2014-05-09",
+        "c": "DE",
+        "n": "Mr. Brainwash - Life is beautiful",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Nuremberg",
+        "o": "Galerie Fluegel-Roncak",
+        "d": [
+          "2014-05-09",
+          "2014-06-30"
+        ],
+        "a": "237095",
+        "an": "Mr. Brainwash"
       }
     ]
   }

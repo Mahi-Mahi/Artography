@@ -1,7 +1,7 @@
 {
   "id": "53219",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:34:47",
+  "timestamp": "2014-05-31 06:40:15",
   "name": "Julien Discrit",
   "surname": "Discrit",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "3671",
-  "r01": "3418",
+  "r00": "3690",
+  "r01": "3422",
   "r02": "2933",
-  "r03": "2747",
-  "r04": "3921",
-  "r05": "4065",
-  "r06": "4424",
-  "r07": "4864",
-  "r08": "9438",
+  "r03": "2748",
+  "r04": "3924",
+  "r05": "4070",
+  "r06": "4433",
+  "r07": "4863",
+  "r08": "9444",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -527,6 +527,21 @@
       {
         "i": "53219-11859-2013-04-17",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "53219-21901-2014-06-21",
+        "c": "BE",
+        "n": "Destinations Improbables",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "La Louvière",
+        "o": "Musée Ianchelevici",
+        "d": [
+          "2014-06-21",
+          "2014-08-31"
+        ]
       }
     ]
   }

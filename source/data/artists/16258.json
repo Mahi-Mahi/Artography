@@ -1,7 +1,7 @@
 {
   "id": "16258",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:23",
+  "timestamp": "2014-05-31 06:26:54",
   "name": "Julien Blaine",
   "surname": "Blaine",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Performance",
-  "r00": "9278",
-  "r01": "8898",
-  "r02": "12539",
-  "r03": "16621",
-  "r04": "15697",
-  "r05": "11598",
-  "r06": "10328",
-  "r07": "7568",
-  "r08": "5582",
+  "r00": "9248",
+  "r01": "8904",
+  "r02": "12514",
+  "r03": "16567",
+  "r04": "15644",
+  "r05": "11548",
+  "r06": "10319",
+  "r07": "7569",
+  "r08": "5576",
   "awards": null,
   "website": null,
   "all-shows-first": "1985",
   "all-shows-total": "32",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": "6",
-  "2005-countries-total": "France (9), China (1), Greece (1)",
-  "2005-shows-with": "Julien Blaine (11), Paul-Armand Gette (5), Arnaud Labelle-Rojoux (5), Florent Mattei (5), Erik Dietman (4), Joël Ducorroy (4), Raymond Hains (4), Michel Journiac (4), Thierry Lagalla (4), Jean-Jacques Lebel (4), George Maciunas (4), Orlan (4), Ben Vautier (4), Jean-Luc Verna (4), Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), Anna Byskov (3), Gilbert Caty (3), Noël Dolla (3), François Dufrêne (3), Jean Dupuy (3), Eric Duyckaerts (3), Kristof Everart (3), Daniel Farioli (3), Fred Forest (3), Jean-Baptiste Ganne (3), Yoko Gunji (3), Raoul Hébréard (3), Joël Hubaut (3), Carsten Höller (3), Virginie Le Touze (3), Jacques Lizène (3), Jean Mas (3), Bruno Mendonça (3), Roland Miller (3), Patrick Moya (3), Serge Oldenbourg (3), Gina Pane (3), Philippe Parreno (3), Gilbert Pedinielli (3), Philippe Perrin (3), Pierre Pinoncelli (3), Charly van Rest (3), Mimmo Rotella (3), Niki de Saint Phalle (3), Bernar Venet (3), Eric Watier (3), Marina Abramovic (2), Vito Acconci (2), Demosthenes Agrafiotis (2),",
+  "2005-countries-total": "France (10), China (1), Greece (1)",
+  "2005-shows-with": "Julien Blaine (12), Arnaud Labelle-Rojoux (6), Florent Mattei (6), Paul-Armand Gette (5), Thierry Lagalla (5), Jean-Luc Verna (5), Anna Byskov (4), Erik Dietman (4), Noël Dolla (4), Joël Ducorroy (4), Jean Dupuy (4), Jean-Baptiste Ganne (4), Raymond Hains (4), Joël Hubaut (4), Michel Journiac (4), Jean-Jacques Lebel (4), George Maciunas (4), Orlan (4), Ben Vautier (4), Marcel Alocco (3), Dominique Angel (3), Caroline Bach (3), Eleonore Bak (3), Gilbert Caty (3), François Dufrêne (3), Eric Duyckaerts (3), Kristof Everart (3), Daniel Farioli (3), Fred Forest (3), Yoko Gunji (3), Raoul Hébréard (3), Han Hoogerbrugge (3), Carsten Höller (3), Virginie Le Touze (3), Jacques Lizène (3), Jean Mas (3), Bruno Mendonça (3), Roland Miller (3), Patrick Moya (3), Serge Oldenbourg (3), Gina Pane (3), Philippe Parreno (3), Gilbert Pedinielli (3), Philippe Perrin (3), Pierre Pinoncelli (3), Emmanuel Régent (3), Charly van Rest (3), Jerôme Robbe (3), Mimmo Rotella (3), Karine Rougier (3), Niki de Saint Phalle (3), ",
   "representing-galleries": "Espace A Vendre (17 rue Smolett, 06300 Nice, France)",
   "collecting-museums": "Ca´la Ghironda - Museo d´Arte Classica, Moderna e Contemporanea (via Leonardo da Vinci 19, 40069 Zola Predosa, BO, Italy); Museo de Arte Carrillo Gil (Av Revolución 1608, San Angel, 01000 Mexico City, Mexico); Galeria Labirynt - BWA Lublin (ul.Grodzka 5a, 20-112 Lublin, Poland)",
   "first_name": "Julien",
@@ -278,6 +278,28 @@
           "2013-11-05",
           "2013-11-24"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "16258-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "16258-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "16258",
+        "c": "FR",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "16258-16752-2014-04-19",
+        "c": "FR"
       }
     ]
   }

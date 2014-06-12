@@ -1,7 +1,7 @@
 {
   "id": "6026",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:17:19",
+  "timestamp": "2014-05-31 06:22:52",
   "name": "Raymond Emile Waydelich",
   "surname": "Waydelich",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Painting",
-  "r00": "37483",
-  "r01": "35043",
-  "r02": "29971",
-  "r03": "24403",
-  "r04": "30406",
-  "r05": "25048",
-  "r06": "19851",
-  "r07": "19711",
-  "r08": "17596",
+  "r00": "37679",
+  "r01": "35111",
+  "r02": "29994",
+  "r03": "24415",
+  "r04": "30413",
+  "r05": "25043",
+  "r06": "19853",
+  "r07": "19709",
+  "r08": "17600",
   "awards": null,
   "website": null,
   "all-shows-first": "1978",
@@ -86,19 +86,6 @@
         ]
       },
       {
-        "i": "6026-20517-2006-07-19",
-        "c": "DE",
-        "n": "SAMMELN UND ENTDECKEN",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Karlsruhe",
-        "o": "Galerie Schrade - Karlsruhe",
-        "d": [
-          "2006-07-19",
-          "2006-09-16"
-        ]
-      },
-      {
         "i": "6026-881-2006-07-19",
         "c": "DE",
         "n": "Sammeln und Entdecken",
@@ -106,6 +93,19 @@
         "st": "Group",
         "ct": "Karlsruhe",
         "o": "Galerie Schrade & Blashofer",
+        "d": [
+          "2006-07-19",
+          "2006-09-16"
+        ]
+      },
+      {
+        "i": "6026-20517-2006-07-19",
+        "c": "DE",
+        "n": "SAMMELN UND ENTDECKEN",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "Galerie Schrade - Karlsruhe",
         "d": [
           "2006-07-19",
           "2006-09-16"

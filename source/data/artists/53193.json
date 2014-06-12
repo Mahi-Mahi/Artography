@@ -1,7 +1,7 @@
 {
   "id": "53193",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:34:46",
+  "timestamp": "2014-05-31 06:40:14",
   "name": "Ludovic Chemarin",
   "surname": "Chemarin",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "36532",
-  "r01": "35163",
-  "r02": "30805",
-  "r03": "28077",
-  "r04": "65307",
-  "r05": "56195",
-  "r06": "48358",
-  "r07": "40696",
-  "r08": "33884",
+  "r00": "36693",
+  "r01": "35244",
+  "r02": "30838",
+  "r03": "28092",
+  "r04": "65365",
+  "r05": "56245",
+  "r06": "48401",
+  "r07": "40749",
+  "r08": "33898",
   "awards": null,
   "website": "ludovic-chemarin.com",
   "all-shows-first": "2001",
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Ludovic",
   "last_name": "Chemarin",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1969-01-01",
   "age": 45,
   "age_range": "41-60",
@@ -63,19 +63,6 @@
     ],
     "2011": [
       {
-        "i": "53193-10361-2011-10-01",
-        "c": "BE",
-        "n": "Found In Translation, Chapter L",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "Maison Grégoire",
-        "d": [
-          "2011-10-01",
-          "2012-01-08"
-        ]
-      },
-      {
         "i": "53193-3737-2011-10-01",
         "c": "LU",
         "n": "Found in Translation - Chapter L",
@@ -83,6 +70,19 @@
         "st": "Group",
         "ct": "Luxembourg",
         "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2011-10-01",
+          "2012-01-08"
+        ]
+      },
+      {
+        "i": "53193-10361-2011-10-01",
+        "c": "BE",
+        "n": "Found In Translation, Chapter L",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Maison Grégoire",
         "d": [
           "2011-10-01",
           "2012-01-08"
@@ -91,19 +91,6 @@
     ],
     "2012": [
       {
-        "i": "53193-10361-2011-10-01",
-        "c": "BE",
-        "n": "Found In Translation, Chapter L",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "Maison Grégoire",
-        "d": [
-          "2011-10-01",
-          "2012-01-08"
-        ]
-      },
-      {
         "i": "53193-3737-2011-10-01",
         "c": "LU",
         "n": "Found in Translation - Chapter L",
@@ -111,6 +98,19 @@
         "st": "Group",
         "ct": "Luxembourg",
         "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2011-10-01",
+          "2012-01-08"
+        ]
+      },
+      {
+        "i": "53193-10361-2011-10-01",
+        "c": "BE",
+        "n": "Found In Translation, Chapter L",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Maison Grégoire",
         "d": [
           "2011-10-01",
           "2012-01-08"

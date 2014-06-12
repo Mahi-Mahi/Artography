@@ -1,7 +1,7 @@
 {
   "id": "13124",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:08",
+  "timestamp": "2014-05-31 06:25:37",
   "name": "Melik Ohanian",
   "surname": "Ohanian",
   "nationality": "FR",
@@ -16,10 +16,10 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video, Installation, Sculpture",
-  "r00": "1426",
-  "r01": "1274",
-  "r02": "990",
-  "r03": "866",
+  "r00": "1437",
+  "r01": "1276",
+  "r02": "991",
+  "r03": "867",
   "r04": "740",
   "r05": "589",
   "r06": "468",
@@ -28,7 +28,7 @@
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "103",
+  "all-shows-total": "104",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
   "2005-shows-museums": "26",
@@ -344,6 +344,14 @@
         "c": "FR"
       },
       {
+        "i": "13124-1522-2006-09-09",
+        "c": "FR"
+      },
+      {
+        "i": "13124-1522-2006-09-09",
+        "c": "FR"
+      },
+      {
         "i": "13124-1289-2006-09-09",
         "c": "NL",
         "n": "Melik Ohanian - Somewhere in Time",
@@ -355,14 +363,6 @@
           "2006-09-09",
           "2006-11-05"
         ]
-      },
-      {
-        "i": "13124-1522-2006-09-09",
-        "c": "FR"
-      },
-      {
-        "i": "13124-1522-2006-09-09",
-        "c": "FR"
       },
       {
         "i": "13124-1338-2006-11-16",
@@ -398,7 +398,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Milan",
-        "o": "Hangar Bicocca | spazio d’arte contemporanea",
+        "o": "HangarBicocca | spazio d’arte contemporanea",
         "d": [
           "2007-02-02",
           "2007-03-15"
@@ -616,19 +616,6 @@
         ]
       },
       {
-        "i": "13124-3737-2008-04-19",
-        "c": "LU",
-        "n": "Locked in",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Luxembourg",
-        "o": "Casino Luxembourg - Forum d'art contemporain",
-        "d": [
-          "2008-04-19",
-          "2008-06-29"
-        ]
-      },
-      {
         "i": "13124-963-2008-04-19",
         "c": "AT",
         "n": "VOICE & VOID",
@@ -639,6 +626,19 @@
         "d": [
           "2008-04-19",
           "2008-06-08"
+        ]
+      },
+      {
+        "i": "13124-3737-2008-04-19",
+        "c": "LU",
+        "n": "Locked in",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2008-04-19",
+          "2008-06-29"
         ]
       },
       {
@@ -962,11 +962,11 @@
         ]
       },
       {
-        "i": "13124-26372-2011-11-16",
+        "i": "13124-30968-2011-11-16",
         "c": "FR"
       },
       {
-        "i": "13124-30968-2011-11-16",
+        "i": "13124-26372-2011-11-16",
         "c": "FR"
       },
       {
@@ -980,11 +980,11 @@
     ],
     "2012": [
       {
-        "i": "13124-26372-2011-11-16",
+        "i": "13124-30968-2011-11-16",
         "c": "FR"
       },
       {
-        "i": "13124-30968-2011-11-16",
+        "i": "13124-26372-2011-11-16",
         "c": "FR"
       },
       {
@@ -1117,6 +1117,54 @@
       {
         "i": "13124-23091-2012-10-14",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "13124-1782-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "13124-1782-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "13124-9853-2014-05-16",
+        "c": "US",
+        "n": "Melik Ohanian - Welcome to Hanksville",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Salt Lake City, UT",
+        "o": "Utah Museum of Contemporary Art",
+        "d": [
+          "2014-05-16",
+          "2014-06-28"
+        ],
+        "a": "13124",
+        "an": "Melik Ohanian"
+      }
+    ],
+    "today": [
+      {
+        "i": "13124",
+        "c": "US",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "13124-9853-2014-05-16",
+        "c": "US",
+        "n": "Melik Ohanian - Welcome to Hanksville",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Salt Lake City, UT",
+        "o": "Utah Museum of Contemporary Art",
+        "d": [
+          "2014-05-16",
+          "2014-06-28"
+        ],
+        "a": "13124",
+        "an": "Melik Ohanian"
       }
     ]
   }

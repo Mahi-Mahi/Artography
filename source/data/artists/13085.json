@@ -1,7 +1,7 @@
 {
   "id": "13085",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:07",
+  "timestamp": "2014-05-31 06:25:36",
   "name": "Sarah Moon",
   "surname": "Moon",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "6753",
-  "r01": "6300",
-  "r02": "5738",
-  "r03": "5290",
-  "r04": "6500",
-  "r05": "6140",
-  "r06": "5841",
-  "r07": "5202",
-  "r08": "4152",
+  "r00": "6797",
+  "r01": "6310",
+  "r02": "5740",
+  "r03": "5291",
+  "r04": "6503",
+  "r05": "6141",
+  "r06": "5840",
+  "r07": "5204",
+  "r08": "4154",
   "awards": null,
   "website": null,
   "all-shows-first": "1983",
@@ -566,6 +566,59 @@
       {
         "i": "13085-741-2013-06-21",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "13085-14519-2014-05-21",
+        "c": "US",
+        "n": "About A Woman",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Nailya Alexander Gallery",
+        "d": [
+          "2014-05-21",
+          "2014-07-26"
+        ],
+        "a": "13085",
+        "an": "Sarah Moon"
+      },
+      {
+        "i": "13085-2396-2014-12-18",
+        "c": "US",
+        "n": "Decisive Moments",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Honolulu, HI",
+        "o": "Honolulu Museum of Art",
+        "d": [
+          "2014-12-18",
+          "2014-06-08"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "13085",
+        "c": "US",
+        "g": "f",
+        "a": "61-100"
+      },
+      {
+        "i": "13085-14519-2014-05-21",
+        "c": "US",
+        "n": "About A Woman",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Nailya Alexander Gallery",
+        "d": [
+          "2014-05-21",
+          "2014-07-26"
+        ],
+        "a": "13085",
+        "an": "Sarah Moon"
       }
     ],
     "2008": [

@@ -1,7 +1,7 @@
 {
   "id": "40751",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:30:23",
+  "timestamp": "2014-05-31 06:35:52",
   "name": "Pierre-Olivier Arnaud",
   "surname": "Arnaud",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "5598",
-  "r01": "7694",
-  "r02": "7937",
+  "r00": "5639",
+  "r01": "7700",
+  "r02": "7939",
   "r03": "6648",
-  "r04": "5919",
-  "r05": "5731",
-  "r06": "8648",
-  "r07": "8135",
-  "r08": "16645",
+  "r04": "5924",
+  "r05": "5735",
+  "r06": "8646",
+  "r07": "8142",
+  "r08": "16651",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
@@ -55,19 +55,19 @@
     ],
     "2007": [
       {
-        "i": "40751-2528-2007-09-15",
-        "c": "FR"
-      },
-      {
-        "i": "40751-2528-2007-09-15",
-        "c": "FR"
-      },
-      {
         "i": "40751-13514-2007-09-15",
         "c": "FR"
       },
       {
         "i": "40751-13514-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "40751-2528-2007-09-15",
+        "c": "FR"
+      },
+      {
+        "i": "40751-2528-2007-09-15",
         "c": "FR"
       },
       {
@@ -318,6 +318,54 @@
           "2013-05-03",
           "2013-07-06"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "40751-10519-2014-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "40751-10519-2014-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "40751-1778-2014-02-12",
+        "c": "CH",
+        "n": "cycle Des histoires sans fin, séquence printemps 2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2014-02-12",
+          "2014-06-18"
+        ],
+        "a": "40751",
+        "an": "Pierre-Olivier Arnaud"
+      }
+    ],
+    "today": [
+      {
+        "i": "40751",
+        "c": "CH",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "40751-1778-2014-02-12",
+        "c": "CH",
+        "n": "cycle Des histoires sans fin, séquence printemps 2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2014-02-12",
+          "2014-06-18"
+        ],
+        "a": "40751",
+        "an": "Pierre-Olivier Arnaud"
       }
     ],
     "2005": [

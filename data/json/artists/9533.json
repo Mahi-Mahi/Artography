@@ -1,7 +1,7 @@
 {
   "id": "9533",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:18:43",
+  "timestamp": "2014-05-31 06:24:12",
   "name": "Yves Oppenheim",
   "surname": "Oppenheim",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "16834",
-  "r01": "13790",
-  "r02": "10626",
-  "r03": "9085",
-  "r04": "7542",
-  "r05": "6305",
-  "r06": "5386",
-  "r07": "4224",
-  "r08": "3412",
+  "r00": "16905",
+  "r01": "13803",
+  "r02": "10637",
+  "r03": "9095",
+  "r04": "7549",
+  "r05": "6309",
+  "r06": "5389",
+  "r07": "4231",
+  "r08": "3414",
   "awards": null,
   "website": null,
   "all-shows-first": "1994",
@@ -240,19 +240,6 @@
         ]
       },
       {
-        "i": "9533-22194-2011-11-10",
-        "c": "ES",
-        "n": "Colección de Pintura Contemporánea Internacional",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "A Coruña",
-        "o": "Fundación Pedro Barrié de la Maza - A Coruña ",
-        "d": [
-          "2011-11-10",
-          "2012-03-18"
-        ]
-      },
-      {
         "i": "9533-22195-2011-11-10",
         "c": "ES",
         "n": "Colección de Pintura Contemporánea Internacional",
@@ -260,6 +247,19 @@
         "st": "Group",
         "ct": "Vigo",
         "o": "Fundación Pedro Barrié de la Maza - Vigo",
+        "d": [
+          "2011-11-10",
+          "2012-03-18"
+        ]
+      },
+      {
+        "i": "9533-22194-2011-11-10",
+        "c": "ES",
+        "n": "Colección de Pintura Contemporánea Internacional",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "A Coruña",
+        "o": "Fundación Pedro Barrié de la Maza - A Coruña ",
         "d": [
           "2011-11-10",
           "2012-03-18"
@@ -268,19 +268,6 @@
     ],
     "2012": [
       {
-        "i": "9533-22194-2011-11-10",
-        "c": "ES",
-        "n": "Colección de Pintura Contemporánea Internacional",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "A Coruña",
-        "o": "Fundación Pedro Barrié de la Maza - A Coruña ",
-        "d": [
-          "2011-11-10",
-          "2012-03-18"
-        ]
-      },
-      {
         "i": "9533-22195-2011-11-10",
         "c": "ES",
         "n": "Colección de Pintura Contemporánea Internacional",
@@ -288,6 +275,19 @@
         "st": "Group",
         "ct": "Vigo",
         "o": "Fundación Pedro Barrié de la Maza - Vigo",
+        "d": [
+          "2011-11-10",
+          "2012-03-18"
+        ]
+      },
+      {
+        "i": "9533-22194-2011-11-10",
+        "c": "ES",
+        "n": "Colección de Pintura Contemporánea Internacional",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "A Coruña",
+        "o": "Fundación Pedro Barrié de la Maza - A Coruña ",
         "d": [
           "2011-11-10",
           "2012-03-18"
@@ -304,6 +304,21 @@
         "d": [
           "2012-09-13",
           "2012-11-03"
+        ]
+      }
+    ],
+    "2013": [
+      {
+        "i": "9533-5421-2013-11-10",
+        "c": "DE",
+        "n": "REMEMBER EVERYTHING, 40 Years Galerie Max Hetzler",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Galerie Max Hetzler - Berlin",
+        "d": [
+          "2013-11-10",
+          "2013-12-21"
         ]
       }
     ],

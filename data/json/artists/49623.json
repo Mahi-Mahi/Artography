@@ -1,7 +1,7 @@
 {
   "id": "49623",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:33:31",
+  "timestamp": "2014-05-31 06:38:59",
   "name": "Loîc Raguénès",
   "surname": "Raguénès",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "4750",
-  "r01": "4679",
-  "r02": "3979",
-  "r03": "3387",
-  "r04": "3524",
-  "r05": "3595",
-  "r06": "3981",
-  "r07": "4383",
-  "r08": "6367",
+  "r00": "4716",
+  "r01": "4681",
+  "r02": "3983",
+  "r03": "3388",
+  "r04": "3528",
+  "r05": "3598",
+  "r06": "3989",
+  "r07": "4386",
+  "r08": "6373",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
   "all-shows-total": "49",
   "2005-shows-biennials": "12",
   "2005-shows-galleries": "12",
-  "2005-shows-museums": "13",
-  "2005-countries-total": "France (21), Belgium (3), Austria (2), Switzerland (2), Germany (1), Netherlands (1), USA (1)",
-  "2005-shows-with": "Loîc Raguénès (19), Olivier Babin (3), Jean-Luc Moerman (3), Bruno Peinado (3), Raymond Pettibon (3), Philippe Ramette (3), Alain Séchas (3), Ida Tursic & Wilfried Mille (3), Yves Bélorgey (2), Julien Beneyton (2), Nina Childress (2), Claude Closky (2), Robert Combas (2), Isabelle Cornaro (2), Vincent Corpet (2), Philippe Decrauzat (2), Katharina Fritsch (2), Cyprien Gaillard (2), Philippe Gronon (2), Corentin Grossmann (2), Richard Hamilton (2), Armand Jalut (2), Mathieu Mercier (2), Bernard Piffaretti (2), Hugues Reip (2), Ugo Rondinone (2), Thomas Ruff (2), Hans Schabus (2), Gregor Schneider (2), Nathalie Talec (2), Rémy Zaugg (2)",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "France (21), Belgium (3), Switzerland (3), Austria (2), Germany (1), Netherlands (1), USA (1)",
+  "2005-shows-with": "Loîc Raguénès (20), Olivier Babin (3), Philippe Decrauzat (3), Jean-Luc Moerman (3), Bruno Peinado (3), Raymond Pettibon (3), Philippe Ramette (3), Ugo Rondinone (3), Alain Séchas (3), Ida Tursic & Wilfried Mille (3), John M Armleder (2), Francis Baudevin (2), Yves Bélorgey (2), Julien Beneyton (2), Nina Childress (2), Claude Closky (2), Robert Combas (2), Isabelle Cornaro (2), Vincent Corpet (2), Stéphane Dafflon (2), Katharina Fritsch (2), Cyprien Gaillard (2), Philippe Gronon (2), Corentin Grossmann (2), Richard Hamilton (2), Armand Jalut (2), Mathieu Mercier (2), Olivier Mosset (2), Hugo Pernet (2), Mai-Thu Perret (2), Bernard Piffaretti (2), Hugues Reip (2), Thomas Ruff (2), Hans Schabus (2), Gregor Schneider (2), Nathalie Talec (2), Kelley Walker (2), Dan Walsh (2), Rémy Zaugg (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Bourgogne (49 Rue de Longvic, 21000 Dijon, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France)",
   "first_name": "Loîc",
@@ -161,19 +161,6 @@
         "c": "FR"
       },
       {
-        "i": "49623-1289-2008-07-05",
-        "c": "NL",
-        "n": "...In The Cherished Company of Others...(1648-2036)",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Amsterdam",
-        "o": "de Appel arts centre",
-        "d": [
-          "2008-07-05",
-          "2008-09-07"
-        ]
-      },
-      {
         "i": "49623-11599-2008-07-05",
         "c": "AT",
         "n": "HangART-7 Edition 10: Frankreich",
@@ -184,6 +171,19 @@
         "d": [
           "2008-07-05",
           "2008-08-31"
+        ]
+      },
+      {
+        "i": "49623-1289-2008-07-05",
+        "c": "NL",
+        "n": "...In The Cherished Company of Others...(1648-2036)",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Amsterdam",
+        "o": "de Appel arts centre",
+        "d": [
+          "2008-07-05",
+          "2008-09-07"
         ]
       },
       {
@@ -352,19 +352,6 @@
         "c": "FR"
       },
       {
-        "i": "49623-27287-2011-05-27",
-        "c": "US",
-        "n": "Pierre Brossolette",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "New York City, NY",
-        "o": "CLEARING - New York",
-        "d": [
-          "2011-05-27",
-          "2011-08-29"
-        ]
-      },
-      {
         "i": "49623-27214-2011-05-27",
         "c": "BE",
         "n": "Loïc Raguénès.",
@@ -372,6 +359,19 @@
         "st": "Solo",
         "ct": "Brussels",
         "o": "CLEARING - Brussels",
+        "d": [
+          "2011-05-27",
+          "2011-08-29"
+        ]
+      },
+      {
+        "i": "49623-27287-2011-05-27",
+        "c": "US",
+        "n": "Pierre Brossolette",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "CLEARING - New York",
         "d": [
           "2011-05-27",
           "2011-08-29"
@@ -451,6 +451,62 @@
       {
         "i": "49623-20542-2013-02-16",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "49623-11772-2014-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "49623-11772-2014-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "49623-17983-2014-06-04",
+        "c": "CH",
+        "n": "Das Optische Unbewusste / The Optical Unconscious",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rapperswil",
+        "o": "Kunst(Zeug)Haus",
+        "d": [
+          "2014-06-04",
+          "2014-08-10"
+        ],
+        "a": "49623",
+        "an": "Loîc Raguénès"
+      },
+      {
+        "i": "49623-30491-2014-01-23",
+        "c": "FR"
+      },
+      {
+        "i": "49623-30491-2014-01-23",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "49623",
+        "c": "CH",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "49623-17983-2014-06-04",
+        "c": "CH",
+        "n": "Das Optische Unbewusste / The Optical Unconscious",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rapperswil",
+        "o": "Kunst(Zeug)Haus",
+        "d": [
+          "2014-06-04",
+          "2014-08-10"
+        ],
+        "a": "49623",
+        "an": "Loîc Raguénès"
       }
     ]
   }

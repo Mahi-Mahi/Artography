@@ -12,13 +12,13 @@
   "email": "paris@besseiche.com",
   "www": "www.besseiche.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2033, rue Guénégaud %2C%20France",
-  "fairs-total": "5",
-  "fairs-abroad": "4",
+  "fairs-total": "6",
+  "fairs-abroad": "5",
   "fairs-in-FR": "1",
   "fairs": {
     "2011": [
       {
-        "i": "22696-ShContemporary 2011",
+        "i": "22696-ShContemporary-2011",
         "c": "CN",
         "n": "ShContemporary 2011",
         "ct": "Shanghai"
@@ -26,7 +26,7 @@
     ],
     "2012": [
       {
-        "i": "22696-Art Gent 2012",
+        "i": "22696-Art-Gent-2012",
         "c": "BE",
         "n": "Art Gent 2012",
         "ct": "Ghent"
@@ -34,20 +34,28 @@
     ],
     "2013": [
       {
-        "i": "22696-India Art Fair 2013",
+        "i": "22696-India-Art-Fair-2013",
         "c": "IN",
         "n": "India Art Fair 2013",
         "ct": "New Delhi"
       },
       {
-        "i": "22696-Lille Art Fair 2013",
+        "i": "22696-Lille-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "22696-Kiaf 2013",
+        "i": "22696-Kiaf-2013",
         "c": "KR",
         "n": "Kiaf 2013",
         "ct": "Seoul"
+      }
+    ],
+    "2014": [
+      {
+        "i": "22696-India-Art-Fair-2014",
+        "c": "IN",
+        "n": "India Art Fair 2014",
+        "ct": "New Delhi"
       }
     ]
   }

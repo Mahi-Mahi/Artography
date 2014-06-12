@@ -1,7 +1,7 @@
 {
   "id": "206102",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:27:05",
+  "timestamp": "2014-05-31 07:32:25",
   "name": "Andreas Kressig",
   "surname": "Kressig",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "31341",
-  "r01": "31684",
-  "r02": "64819",
-  "r03": "59064",
-  "r04": "53504",
-  "r05": "47556",
-  "r06": "66711",
-  "r07": "93788",
-  "r08": "84949",
+  "r00": "31500",
+  "r01": "31734",
+  "r02": "64897",
+  "r03": "59127",
+  "r04": "53558",
+  "r05": "47606",
+  "r06": "66774",
+  "r07": "93912",
+  "r08": "85027",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -115,19 +115,6 @@
         ]
       },
       {
-        "i": "206102-11632-2013-10-09",
-        "c": "CH",
-        "n": "Andreas Kressig - Capsule 1.8",
-        "t": "Autre",
-        "st": "Solo",
-        "ct": "Geneva",
-        "o": "Art en Ile",
-        "d": [
-          "2013-10-09",
-          "2013-11-02"
-        ]
-      },
-      {
         "i": "206102-22978-2013-10-09",
         "c": "CH",
         "n": "Andreas Kressig - Capsule 1.8",
@@ -135,6 +122,19 @@
         "st": "Solo",
         "ct": "Geneva",
         "o": "Halle Nord - art en Ile",
+        "d": [
+          "2013-10-09",
+          "2013-11-02"
+        ]
+      },
+      {
+        "i": "206102-11632-2013-10-09",
+        "c": "CH",
+        "n": "Andreas Kressig - Capsule 1.8",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Geneva",
+        "o": "Art en Ile",
         "d": [
           "2013-10-09",
           "2013-11-02"

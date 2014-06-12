@@ -1,7 +1,7 @@
 {
   "id": "18450",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:22:16",
+  "timestamp": "2014-05-31 06:27:47",
   "name": "Mathilde Rosier",
   "surname": "Rosier",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video, Performance",
-  "r00": "5117",
-  "r01": "4952",
+  "r00": "5159",
+  "r01": "4959",
   "r02": "4092",
-  "r03": "3457",
-  "r04": "4667",
-  "r05": "6424",
-  "r06": "6943",
-  "r07": "5691",
-  "r08": "7132",
+  "r03": "3458",
+  "r04": "4664",
+  "r05": "6426",
+  "r06": "6942",
+  "r07": "5692",
+  "r08": "7130",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
@@ -306,19 +306,6 @@
         ]
       },
       {
-        "i": "18450-2293-2010-11-27",
-        "c": "DE",
-        "n": "Transfer France-nrw",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Dortmund",
-        "o": "Museum Ostwall im Dortmunder U",
-        "d": [
-          "2010-11-27",
-          "2012-01-23"
-        ]
-      },
-      {
         "i": "18450-2298-2010-11-27",
         "c": "DE",
         "n": "Transfer France-nrw",
@@ -329,6 +316,19 @@
         "d": [
           "2010-11-27",
           "2011-01-23"
+        ]
+      },
+      {
+        "i": "18450-2293-2010-11-27",
+        "c": "DE",
+        "n": "Transfer France-nrw",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
+        "d": [
+          "2010-11-27",
+          "2012-01-23"
         ]
       },
       {
@@ -469,6 +469,21 @@
         "d": [
           "2012-09-15",
           "2012-10-27"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "18450-30208-2014-01-17",
+        "c": "DE",
+        "n": "Mathilde Rosier",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Dusseldorf",
+        "o": "Galerie Kadel Willborn - Düsseldorf",
+        "d": [
+          "2014-01-17",
+          "2014-03-01"
         ]
       }
     ]

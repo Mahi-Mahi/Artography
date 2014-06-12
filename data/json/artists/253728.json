@@ -1,7 +1,7 @@
 {
   "id": "253728",
   "mergedIDs": "437365",
-  "timestamp": "2014-05-24 07:43:22",
+  "timestamp": "2014-05-31 07:48:38",
   "name": "Moussa Sarr",
   "surname": "Sarr",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "13523",
-  "r01": "16601",
-  "r02": "17172",
-  "r03": "94497",
-  "r04": "101705",
-  "r05": "95548",
+  "r00": "13591",
+  "r01": "16633",
+  "r02": "17193",
+  "r03": "94597",
+  "r04": "101868",
+  "r05": "95699",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Moussa",
   "last_name": "Sarr",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1984-01-01",
   "age": 30,
   "age_range": "26-40",
@@ -107,6 +107,52 @@
       {
         "i": "253728-29739-2013-10-12",
         "c": "FR"
+      },
+      {
+        "i": "253728-10870-2014-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "253728-10870-2014-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "253728-12042-2014-04-11",
+        "c": "ES",
+        "n": "Universo video. La Magia de las Imágenes",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2014-04-11",
+          "2014-07-06"
+        ],
+        "a": "253728",
+        "an": "Moussa Sarr"
+      }
+    ],
+    "today": [
+      {
+        "i": "253728",
+        "c": "ES",
+        "g": "n",
+        "a": "26-40"
+      },
+      {
+        "i": "253728-12042-2014-04-11",
+        "c": "ES",
+        "n": "Universo video. La Magia de las Imágenes",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2014-04-11",
+          "2014-07-06"
+        ],
+        "a": "253728",
+        "an": "Moussa Sarr"
       }
     ]
   }

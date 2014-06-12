@@ -1,7 +1,7 @@
 {
   "id": "64652",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:38:51",
+  "timestamp": "2014-05-31 06:44:16",
   "name": "Yves Gobart",
   "surname": "Gobart",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "60927",
-  "r01": "61957",
-  "r02": "59180",
-  "r03": "61951",
-  "r04": "74721",
+  "r00": "61132",
+  "r01": "62024",
+  "r02": "59190",
+  "r03": "61954",
+  "r04": "74736",
   "r05": "70243",
-  "r06": "68897",
-  "r07": "62195",
+  "r06": "68987",
+  "r07": "62294",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "9",
+  "all-shows-total": "11",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
   "2005-shows-museums": null,
@@ -117,6 +117,19 @@
       {
         "i": "64652-27181-2013-12-12",
         "c": "FR"
+      },
+      {
+        "i": "64652-28044-2014-01-17",
+        "c": "BE",
+        "n": "Épines D´Eden",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "duboisfriedland gallery",
+        "d": [
+          "2014-01-17",
+          "2014-03-01"
+        ]
       }
     ],
     "2011": [

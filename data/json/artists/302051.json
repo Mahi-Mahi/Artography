@@ -1,7 +1,7 @@
 {
   "id": "302051",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:59:50",
+  "timestamp": "2014-05-31 08:05:06",
   "name": "Maude Maris",
   "surname": "Maris",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting, Drawings",
-  "r00": "17757",
-  "r01": "20225",
-  "r02": "31503",
-  "r03": "94310",
-  "r04": "99364",
+  "r00": "17848",
+  "r01": "20254",
+  "r02": "31533",
+  "r03": "94299",
+  "r04": "99522",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,7 +28,7 @@
   "awards": "Prix de peinture de la ville de Vitry-sur-Seine",
   "website": null,
   "all-shows-first": "2010",
-  "all-shows-total": "13",
+  "all-shows-total": "14",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "5",
@@ -142,6 +142,16 @@
       },
       {
         "i": "302051-11850-2013-12-03",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "302051-8554-2014-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "302051-8554-2014-01-17",
         "c": "FR"
       }
     ],

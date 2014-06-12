@@ -1,7 +1,7 @@
 {
   "id": "154374",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:09:16",
+  "timestamp": "2014-05-31 07:14:43",
   "name": "Martine Fougeron",
   "surname": "Fougeron",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "30255",
-  "r01": "38347",
-  "r02": "39246",
-  "r03": "58227",
-  "r04": "65629",
-  "r05": "88918",
-  "r06": "86865",
-  "r07": "91897",
+  "r00": "30403",
+  "r01": "38432",
+  "r02": "39276",
+  "r03": "58259",
+  "r04": "65670",
+  "r05": "89045",
+  "r06": "87011",
+  "r07": "92019",
   "r08": null,
   "awards": null,
   "website": null,
@@ -224,6 +224,46 @@
           "2010-11-12",
           "2011-01-29"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "154374-7216-2014-04-25",
+        "c": "US",
+        "n": "Teen Tribe",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Philadelphia, PA",
+        "o": "Gallery 339",
+        "d": [
+          "2014-04-25",
+          "2014-06-14"
+        ],
+        "a": "154374",
+        "an": "Martine Fougeron"
+      }
+    ],
+    "today": [
+      {
+        "i": "154374",
+        "c": "US",
+        "g": "f",
+        "a": "41-60"
+      },
+      {
+        "i": "154374-7216-2014-04-25",
+        "c": "US",
+        "n": "Teen Tribe",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Philadelphia, PA",
+        "o": "Gallery 339",
+        "d": [
+          "2014-04-25",
+          "2014-06-14"
+        ],
+        "a": "154374",
+        "an": "Martine Fougeron"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "113014",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:55:23",
+  "timestamp": "2014-05-31 07:00:47",
   "name": "Mathieu Kleyebe Abonnenc",
   "surname": "Abonnenc",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "1544",
-  "r01": "1985",
-  "r02": "2783",
-  "r03": "4854",
-  "r04": "6162",
-  "r05": "12495",
-  "r06": "10453",
-  "r07": "15262",
-  "r08": "24886",
+  "r00": "1612",
+  "r01": "2104",
+  "r02": "2997",
+  "r03": "5238",
+  "r04": "6167",
+  "r05": "12501",
+  "r06": "10454",
+  "r07": "15279",
+  "r08": "24910",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "48",
-  "2005-shows-biennials": "14",
-  "2005-shows-galleries": "14",
+  "all-shows-total": "49",
+  "2005-shows-biennials": "11",
+  "2005-shows-galleries": "11",
   "2005-shows-museums": "21",
-  "2005-countries-total": "France (21), Spain (6), Germany (4), United Kingdom (4), China (1), Luxembourg (1), Netherlands (1), Portugal (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Mathieu Kleyebe Abonnenc (30), Renaud Auguste-Dormeuil (4), Danh Vo (4), Saâdane Afif (3), Yto Barrada (3), Neil Beloufa (3), Claire Fontaine (3), Peter Friedl (3), Mario Garcia Torres (3), Camille Henrot (3), Bouchra Khalili (3), Ian Kiaer (3), Jochen Lempert (3), Christodoulos Panayiotou (3), Walid Raad (3), Marie Voignier (3), Georges Adéagbo (2), Allora & Calzadilla (2), Dove Allouche (2), María Thereza Alves (2), Carlos Amorales (2), Tarek Atoui (2), Julien Audebert (2), Babi Badalov (2), Fayçal Baghriche (2), Zbynek Baladran (2), Eric Baudelaire (2), Alain Benoit (2), Lonnie van Brummelen (2), Carolina Caycedo (2), Nicolas Chardon (2), Claude Closky (2), Isabelle Cornaro (2), Tacita Dean (2), Gabriele Di Matteo (2), Jimmie Durham (2), Mounir Fatmi (2), Ryan Gander (2), Dora García (2), General Idea (2), le Gentil Garçon (2), Felix Gonzalez-Torres (2), Laurent Grasso (2), Siebren de Haan (2), Joana Hadjithomas & Khalil Joreige (2), Louise Hervé & Chloé Maillet (2), Ralf Homann (2), Alfredo Jaar (",
+  "2005-countries-total": "France (18), Spain (6), Germany (4), United Kingdom (4), China (1), Luxembourg (1), Netherlands (1), Portugal (1), Switzerland (1), USA (1)",
+  "2005-shows-with": "Mathieu Kleyebe Abonnenc (30), Renaud Auguste-Dormeuil (4), Danh Vo (4), Saâdane Afif (3), Yto Barrada (3), Neil Beloufa (3), Claire Fontaine (3), Peter Friedl (3), Mario Garcia Torres (3), Camille Henrot (3), Bouchra Khalili (3), Ian Kiaer (3), Jochen Lempert (3), Christodoulos Panayiotou (3), Walid Raad (3), Georges Adéagbo (2), Allora & Calzadilla (2), Dove Allouche (2), María Thereza Alves (2), Carlos Amorales (2), Tarek Atoui (2), Julien Audebert (2), Babi Badalov (2), Fayçal Baghriche (2), Zbynek Baladran (2), Eric Baudelaire (2), Alain Benoit (2), Pauline Boudry & Renate Lorenz (2), Lonnie van Brummelen (2), Carolina Caycedo (2), Nicolas Chardon (2), Claude Closky (2), Isabelle Cornaro (2), Tacita Dean (2), Gabriele Di Matteo (2), Jimmie Durham (2), Mounir Fatmi (2), Ryan Gander (2), Dora García (2), General Idea (2), le Gentil Garçon (2), Felix Gonzalez-Torres (2), Laurent Grasso (2), Siebren de Haan (2), Joana Hadjithomas & Khalil Joreige (2), Ralf Homann (2), Alfredo Jaar (2), Francesco Jodice",
   "representing-galleries": "Galerie Hussenot (5 bis, rue des Haudriettes, 75003 Paris, France); Marcelle Alix (4 rue Jouye-Rouve, 75020 Paris, France); Galerie De Expeditie (Leliegracht 47, 1016 GT Amsterdam, Netherlands)",
   "collecting-museums": null,
   "first_name": "Mathieu",
@@ -497,6 +497,108 @@
       {
         "i": "113014-24747-2013-11-21",
         "c": "FR"
+      },
+      {
+        "i": "113014-17760-2014-03-22",
+        "c": "ES",
+        "n": "PER/FORM. How to do things with[out] words",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Móstoles",
+        "o": "CA2M - Centro de Arte Dos de Mayo",
+        "d": [
+          "2014-03-22",
+          "2014-09-20"
+        ],
+        "a": "113014",
+        "an": "Mathieu Kleyebe Abonnenc"
+      },
+      {
+        "i": "113014-449-2014-05-24",
+        "c": "DE",
+        "n": "Giving contours to shadow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "NBK - Neuer Berliner Kunstverein",
+        "d": [
+          "2014-05-24",
+          "2014-07-27"
+        ],
+        "a": "113014",
+        "an": "Mathieu Kleyebe Abonnenc"
+      },
+      {
+        "i": "113014-2554-2014-05-29",
+        "c": "DE",
+        "n": "8. Berlin Biennale für zeitgenössische Kunst",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "berlin biennale für zeitgenössische kunst",
+        "d": [
+          "2014-05-29",
+          "2014-08-03"
+        ],
+        "a": "113014",
+        "an": "Mathieu Kleyebe Abonnenc"
+      }
+    ],
+    "today": [
+      {
+        "i": "113014",
+        "c": "ES",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "113014-17760-2014-03-22",
+        "c": "ES",
+        "n": "PER/FORM. How to do things with[out] words",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Móstoles",
+        "o": "CA2M - Centro de Arte Dos de Mayo",
+        "d": [
+          "2014-03-22",
+          "2014-09-20"
+        ],
+        "a": "113014",
+        "an": "Mathieu Kleyebe Abonnenc"
+      },
+      {
+        "i": "113014",
+        "c": "DE",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "113014-449-2014-05-24",
+        "c": "DE",
+        "n": "Giving contours to shadow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "NBK - Neuer Berliner Kunstverein",
+        "d": [
+          "2014-05-24",
+          "2014-07-27"
+        ],
+        "a": "113014",
+        "an": "Mathieu Kleyebe Abonnenc"
+      },
+      {
+        "i": "113014-2554-2014-05-29",
+        "c": "DE",
+        "n": "8. Berlin Biennale für zeitgenössische Kunst",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "berlin biennale für zeitgenössische kunst",
+        "d": [
+          "2014-05-29",
+          "2014-08-03"
+        ],
+        "a": "113014",
+        "an": "Mathieu Kleyebe Abonnenc"
       }
     ]
   }

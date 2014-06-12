@@ -12,9 +12,15 @@
   "email": "contact@petits-papiers.be",
   "www": "www.petitspapiers.be",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075001 %2C%20 %2C%2091 rue Saint-Honoré %2C%20France",
-  "fairs-total": "0",
+  "fairs-total": "1",
   "fairs-abroad": "0",
-  "fairs-in-FR": "0",
+  "fairs-in-FR": "1",
   "fairs": {
+    "2014": [
+      {
+        "i": "30725-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
+        "c": "FR"
+      }
+    ]
   }
 }

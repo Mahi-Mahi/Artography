@@ -1,7 +1,7 @@
 {
   "id": "114069",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:55:45",
+  "timestamp": "2014-05-31 07:01:09",
   "name": "Colin Guillemet",
   "surname": "Guillemet",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "17764",
-  "r01": "17967",
-  "r02": "23336",
-  "r03": "21435",
-  "r04": "27420",
-  "r05": "43265",
-  "r06": "47346",
-  "r07": "40496",
-  "r08": "45021",
+  "r00": "19550",
+  "r01": "19611",
+  "r02": "23377",
+  "r03": "21465",
+  "r04": "27445",
+  "r05": "43295",
+  "r06": "47404",
+  "r07": "40554",
+  "r08": "45091",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -33,7 +33,7 @@
   "2005-shows-galleries": "8",
   "2005-shows-museums": "7",
   "2005-countries-total": "Switzerland (9), United Kingdom (7), USA (1)",
-  "2005-shows-with": "Colin Guillemet (16), Jonathan Allen (4), ARCHIVE (4), Zoe Beloff (4), Ansuman Biswas (4), Joan Brossa (4), Rick Buckley (4), Brian Catling (4), Center for Tactical Magic (4), Jackie & Denise Chapwoman (4), Jem Finer (4), Tom Friedman (4), Brian Griffiths (4), João Maria Gusmão & Pedro Paiva (4), Susan Hiller (4), Alexandra Hopf (4), Christian Jankowski (4), Janice Kerbel (4), Annika Lundgren (4), Juan Muñoz (4), Bruce Nauman (4), Ian Saville (4), Ariel Schlesinger (4), Suzanne Treister (4), Sinta Werner (4), eggerschlatter (3), Pascal Häusermann (3), Andreas Marti (3), Navid Tschopp (3), Tatiana Arce (2), Muriel Baumgartner (2), Nino Baumgartner (2), Sandra Boeschenstein (2), Sarah Burger (2), Mischa Camenzind (2), Françoise Caraco (2), David Chieppo (2), Pascal Danz (2), Gabi Deutsch (2), Marcel van Eeden (2), Steven Emmanuel (2), Marianne Engel (2), Ruth Erdt (2), Jonas Etter (2), René Fahrni (2), Jöelle Flumet (2), Ingo Giezendanner (2), Bob Gramsma (2), huber.huber (2), Florence Jung (2), Esther K",
+  "2005-shows-with": "Colin Guillemet (17), Jonathan Allen (4), ARCHIVE (4), Zoe Beloff (4), Ansuman Biswas (4), Joan Brossa (4), Rick Buckley (4), Brian Catling (4), Center for Tactical Magic (4), Jackie & Denise Chapwoman (4), Jem Finer (4), Tom Friedman (4), Brian Griffiths (4), João Maria Gusmão & Pedro Paiva (4), Susan Hiller (4), Alexandra Hopf (4), Christian Jankowski (4), Janice Kerbel (4), Annika Lundgren (4), Juan Muñoz (4), Bruce Nauman (4), Ian Saville (4), Ariel Schlesinger (4), Suzanne Treister (4), Sinta Werner (4), eggerschlatter (3), Pascal Häusermann (3), Andreas Marti (3), Navid Tschopp (3), Tatiana Arce (2), Muriel Baumgartner (2), Nino Baumgartner (2), Sandra Boeschenstein (2), Sarah Burger (2), Mischa Camenzind (2), Françoise Caraco (2), David Chieppo (2), Pascal Danz (2), Gabi Deutsch (2), Marcel van Eeden (2), Steven Emmanuel (2), Marianne Engel (2), Ruth Erdt (2), Jonas Etter (2), René Fahrni (2), Jöelle Flumet (2), Ingo Giezendanner (2), Bob Gramsma (2), huber.huber (2), Florence Jung (2), Esther K",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Colin",
@@ -273,6 +273,19 @@
         ]
       },
       {
+        "i": "114069-5844-2013-03-01",
+        "c": "CH",
+        "n": "Un signe à l’horizon",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Bern",
+        "o": "annex14 - Raum für aktuelle Kunst",
+        "d": [
+          "2013-03-01",
+          "2013-04-13"
+        ]
+      },
+      {
         "i": "114069-17651-2013-04-20",
         "c": "CH",
         "n": "Laute Häuser und Äpfel, die fallen. Bisher unbekannte Mythen für Luzern",
@@ -310,19 +323,6 @@
           "2013-11-30",
           "2014-01-18"
         ]
-      },
-      {
-        "i": "114069-5844-2013-03-01",
-        "c": "CH",
-        "n": "Un signe à l’horizon",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Bern",
-        "o": "annex14 - Raum für aktuelle Kunst",
-        "d": [
-          "2013-03-01",
-          "2013-04-13"
-        ]
       }
     ],
     "2014": [
@@ -337,6 +337,19 @@
         "d": [
           "2013-11-30",
           "2014-01-18"
+        ]
+      },
+      {
+        "i": "114069-5844-2014-03-15",
+        "c": "CH",
+        "n": "Les échos de la nature",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "annex14 - Raum für aktuelle Kunst",
+        "d": [
+          "2014-03-15",
+          "2014-04-17"
         ]
       }
     ]

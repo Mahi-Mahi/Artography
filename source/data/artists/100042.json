@@ -1,7 +1,7 @@
 {
   "id": "100042",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:50:59",
+  "timestamp": "2014-05-31 06:56:22",
   "name": "Philippe Garel",
   "surname": "Garel",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "39359",
-  "r01": "60859",
-  "r02": "56498",
-  "r03": "50730",
-  "r04": "45946",
-  "r05": "49942",
-  "r06": "70255",
-  "r07": "69897",
-  "r08": "63766",
+  "r00": "39545",
+  "r01": "60946",
+  "r02": "56555",
+  "r03": "50762",
+  "r04": "45964",
+  "r05": "49978",
+  "r06": "70349",
+  "r07": "70015",
+  "r08": "63800",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
@@ -148,6 +148,21 @@
         "d": [
           "2011-11-19",
           "2012-02-10"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "100042-15217-2014-01-24",
+        "c": "CN",
+        "n": "ChiFra China-France Art Touring Exhibition",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Beijing",
+        "o": "National Art Museum of China - NAMOC",
+        "d": [
+          "2014-01-24",
+          "2014-02-16"
         ]
       }
     ]

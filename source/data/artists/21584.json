@@ -1,7 +1,7 @@
 {
   "id": "21584",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:23:23",
+  "timestamp": "2014-05-31 06:28:54",
   "name": "Raymond Depardon",
   "surname": "Depardon",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "2151",
-  "r01": "2178",
-  "r02": "1995",
-  "r03": "2418",
-  "r04": "2306",
+  "r00": "2162",
+  "r01": "2181",
+  "r02": "1994",
+  "r03": "2420",
+  "r04": "2304",
   "r05": "2042",
-  "r06": "1887",
-  "r07": "1763",
-  "r08": "1798",
+  "r06": "1884",
+  "r07": "1762",
+  "r08": "1795",
   "awards": null,
   "website": null,
   "all-shows-first": "1982",
@@ -472,19 +472,6 @@
         ]
       },
       {
-        "i": "21584-6464-2012-09-16",
-        "c": "CH",
-        "n": "A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Lugano",
-        "o": "Museo Cantonale d´Arte Lugano",
-        "d": [
-          "2012-09-16",
-          "2013-01-06"
-        ]
-      },
-      {
         "i": "21584-6455-2012-09-16",
         "c": "CH",
         "n": "Una finestra sul mondo - Da Dürer a Mondrian e oltre",
@@ -492,6 +479,19 @@
         "st": "Group",
         "ct": "Lugano",
         "o": "Museo d'Arte di Lugano",
+        "d": [
+          "2012-09-16",
+          "2013-01-06"
+        ]
+      },
+      {
+        "i": "21584-6464-2012-09-16",
+        "c": "CH",
+        "n": "A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Lugano",
+        "o": "Museo Cantonale d´Arte Lugano",
         "d": [
           "2012-09-16",
           "2013-01-06"
@@ -551,19 +551,6 @@
     ],
     "2013": [
       {
-        "i": "21584-6464-2012-09-16",
-        "c": "CH",
-        "n": "A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Lugano",
-        "o": "Museo Cantonale d´Arte Lugano",
-        "d": [
-          "2012-09-16",
-          "2013-01-06"
-        ]
-      },
-      {
         "i": "21584-6455-2012-09-16",
         "c": "CH",
         "n": "Una finestra sul mondo - Da Dürer a Mondrian e oltre",
@@ -571,6 +558,19 @@
         "st": "Group",
         "ct": "Lugano",
         "o": "Museo d'Arte di Lugano",
+        "d": [
+          "2012-09-16",
+          "2013-01-06"
+        ]
+      },
+      {
+        "i": "21584-6464-2012-09-16",
+        "c": "CH",
+        "n": "A WINDOW ON THE WORLD, from Dürer to Mondrian and beyond",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Lugano",
+        "o": "Museo Cantonale d´Arte Lugano",
         "d": [
           "2012-09-16",
           "2013-01-06"
@@ -638,6 +638,14 @@
       }
     ],
     "2014": [
+      {
+        "i": "21584-21541-2014-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "21584-21541-2014-02-26",
+        "c": "FR"
+      },
       {
         "i": "21584-2542-2013-11-14",
         "c": "FR"

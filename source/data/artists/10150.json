@@ -1,7 +1,7 @@
 {
   "id": "10150",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:18:58",
+  "timestamp": "2014-05-31 06:24:27",
   "name": "Marc Desgrandchamps",
   "surname": "Desgrandchamps",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "2935",
-  "r01": "2939",
-  "r02": "2879",
-  "r03": "2653",
-  "r04": "2904",
-  "r05": "2533",
-  "r06": "2309",
-  "r07": "1841",
-  "r08": "1538",
+  "r00": "2917",
+  "r01": "2943",
+  "r02": "2876",
+  "r03": "2655",
+  "r04": "2905",
+  "r05": "2534",
+  "r06": "2307",
+  "r07": "1839",
+  "r08": "1537",
   "awards": null,
   "website": null,
   "all-shows-first": "1987",
-  "all-shows-total": "65",
+  "all-shows-total": "66",
   "2005-shows-biennials": "18",
   "2005-shows-galleries": "18",
   "2005-shows-museums": "17",
-  "2005-countries-total": "France (21), USA (5), China (4), Greece (2), Switzerland (2), Germany (1), Slovakia (1)",
-  "2005-shows-with": "Marc Desgrandchamps (26), Vincent Corpet (6), Damien Deroubaix (4), Sylvie Fajfrowska (4), David Lefebvre (4), Claude Lévêque (4), Stéphane Pencreach (4), Matt Bollinger (3), Philippe Cognée (3), Gregory Forstner (3), Jochen Gerner (3), Frédérique Loutz (3), Simon Pasieka (3), Gilles Saussier (3), Djamel Tatah (3), Xiao Fan Ru (3), Katharina  Ziemke (3), Adam Adach (2), Jean-Michel Albèrola (2), Pat Andréa (2), Giulia Andreani (2), Pierre Ardouvin (2), Iván Argote (2), Julien Audebert (2), Agnès Baillon (2), Gilles Barbier (2), Ronan Barrot (2), Valérie Belin (2), Brian Belott (2), Panagiotis Beltekos (2), Stéphane Belzère (2), Abdelkader Benchamma (2), Ákos Birkás (2), Jean Luc Blanc (2), Etienne Bossut (2), Jérôme Boutterin (2), Damien Cabanes (2), Miriam Cahn (2), Louis Cane (2), Mircea Cantor (2), Denis Castellas (2), Robert Combas (2), Mimosa Echard (2), Richard Fauguet (2), Philippe Favier (2), Valérie Favre (2), Panos Fidakis (2), Maria Filopoulou (2), Gérard Garouste (2), Apostolos ",
+  "2005-countries-total": "France (21), USA (5), China (4), Germany (2), Greece (2), Switzerland (2), Slovakia (1)",
+  "2005-shows-with": "Marc Desgrandchamps (27), Vincent Corpet (6), Damien Deroubaix (4), Sylvie Fajfrowska (4), David Lefebvre (4), Claude Lévêque (4), Stéphane Pencreach (4), Ákos Birkás (3), Matt Bollinger (3), Philippe Cognée (3), Gregory Forstner (3), Jochen Gerner (3), Frédérique Loutz (3), Simon Pasieka (3), Gilles Saussier (3), Djamel Tatah (3), Xiao Fan Ru (3), Katharina  Ziemke (3), Adam Adach (2), Jean-Michel Albèrola (2), Pat Andréa (2), Giulia Andreani (2), Pierre Ardouvin (2), Iván Argote (2), Julien Audebert (2), Agnès Baillon (2), Gilles Barbier (2), Ronan Barrot (2), Valérie Belin (2), Brian Belott (2), Panagiotis Beltekos (2), Stéphane Belzère (2), Abdelkader Benchamma (2), Jean Luc Blanc (2), Etienne Bossut (2), Jérôme Boutterin (2), Damien Cabanes (2), Miriam Cahn (2), Louis Cane (2), Mircea Cantor (2), Denis Castellas (2), Robert Combas (2), Mimosa Echard (2), Tim Eitel (2), Richard Fauguet (2), Philippe Favier (2), Valérie Favre (2), Panos Fidakis (2), Maria Filopoulou (2), Gérard Garouste ",
   "representing-galleries": "Amy Li Gallery (No.54 Caochangdi (old airport road), Chaoyang District, 100015 Beijing, China); Galerie Métropolis (6 passage des Gravilliers, 75003 Paris, France); Galerie Zürcher - Paris (56, rue Chapon, 75003 Paris, France); Galerie EIGEN + ART - Leipzig (Spinnereistrasse 7. Halle 5., 04179 Leipzig, Germany); Galerie Zürcher - New York (33 Bleecker Street, 10012 New York City, NY, USA)",
   "collecting-museums": "Musée de l´abbaye Sainte-Croix (Rue de Verdun, 85100 Les Sables d' Olonne, France); Musée d'Art Contemporain Lyon (Cité Internationale, 81 quai Charles de Gaulle, 69006 Lyon, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Musée d'Art moderne de Saint-Etienne (La Terrasse, 42000 Saint-Etienne, France); Musée Régional D'Art Contemporain Languedoc-Roussillon (146, avenue de la plage, 34 410 Sérignan, France); Musée d'Art Moderne et Contemporain (MAMCS) (1, Place Hans Arp, 67000 Strasbourg, France); IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes (11, Rue Docteur Dolard, 69100 Villeurbanne, France)",
   "first_name": "Marc",
@@ -264,19 +264,6 @@
         "c": "FR"
       },
       {
-        "i": "10150-15663-2009-12-18",
-        "c": "CN",
-        "n": "Translucide – Dual Exhibition of French Contemporary",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Beijing",
-        "o": "Today Art Museum",
-        "d": [
-          "2009-12-18",
-          "2010-01-10"
-        ]
-      },
-      {
         "i": "10150-29329-2009-12-18",
         "c": "CN",
         "n": "Translucide",
@@ -284,6 +271,19 @@
         "st": "Group",
         "ct": "Beijing",
         "o": "Amy Li Gallery",
+        "d": [
+          "2009-12-18",
+          "2010-01-10"
+        ]
+      },
+      {
+        "i": "10150-15663-2009-12-18",
+        "c": "CN",
+        "n": "Translucide – Dual Exhibition of French Contemporary",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Beijing",
+        "o": "Today Art Museum",
         "d": [
           "2009-12-18",
           "2010-01-10"
@@ -305,19 +305,6 @@
     ],
     "2010": [
       {
-        "i": "10150-15663-2009-12-18",
-        "c": "CN",
-        "n": "Translucide – Dual Exhibition of French Contemporary",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Beijing",
-        "o": "Today Art Museum",
-        "d": [
-          "2009-12-18",
-          "2010-01-10"
-        ]
-      },
-      {
         "i": "10150-29329-2009-12-18",
         "c": "CN",
         "n": "Translucide",
@@ -325,6 +312,19 @@
         "st": "Group",
         "ct": "Beijing",
         "o": "Amy Li Gallery",
+        "d": [
+          "2009-12-18",
+          "2010-01-10"
+        ]
+      },
+      {
+        "i": "10150-15663-2009-12-18",
+        "c": "CN",
+        "n": "Translucide – Dual Exhibition of French Contemporary",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Beijing",
+        "o": "Today Art Museum",
         "d": [
           "2009-12-18",
           "2010-01-10"
@@ -631,6 +631,118 @@
       {
         "i": "10150-29739-2013-10-12",
         "c": "FR"
+      },
+      {
+        "i": "10150-1372-2014-01-01",
+        "c": "FR"
+      },
+      {
+        "i": "10150-1372-2014-01-01",
+        "c": "FR"
+      },
+      {
+        "i": "10150-2582-2014-01-29",
+        "c": "GR",
+        "n": "Painting II (1980-2000)",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2014-01-29",
+          "2014-09-28"
+        ],
+        "a": "10150",
+        "an": "Marc Desgrandchamps"
+      },
+      {
+        "i": "10150-27822-2014-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "10150-27822-2014-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "10150-11894-2014-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "10150-11894-2014-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "10150-29572-2014-04-29",
+        "c": "DE",
+        "n": "Mensch werde wesentlich",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Zwickau",
+        "o": "Freunde Aktueller Kunst",
+        "d": [
+          "2014-04-29",
+          "2014-06-21"
+        ],
+        "a": "10150",
+        "an": "Marc Desgrandchamps"
+      }
+    ],
+    "today": [
+      {
+        "i": "10150",
+        "c": "GR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "10150-2582-2014-01-29",
+        "c": "GR",
+        "n": "Painting II (1980-2000)",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2014-01-29",
+          "2014-09-28"
+        ],
+        "a": "10150",
+        "an": "Marc Desgrandchamps"
+      },
+      {
+        "i": "10150",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "10150-27822-2014-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "10150-11894-2014-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "10150",
+        "c": "DE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "10150-29572-2014-04-29",
+        "c": "DE",
+        "n": "Mensch werde wesentlich",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Zwickau",
+        "o": "Freunde Aktueller Kunst",
+        "d": [
+          "2014-04-29",
+          "2014-06-21"
+        ],
+        "a": "10150",
+        "an": "Marc Desgrandchamps"
       }
     ]
   }

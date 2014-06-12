@@ -1,7 +1,7 @@
 {
   "id": "247535",
   "mergedIDs": "330420",
-  "timestamp": "2014-05-24 07:41:15",
+  "timestamp": "2014-05-31 07:46:32",
   "name": "les Simonnet",
   "surname": "Simonnet",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Artist group",
   "media": "Sculpture",
-  "r00": "89875",
-  "r01": "115591",
-  "r02": "111483",
-  "r03": "105823",
-  "r04": "99406",
-  "r05": "91499",
-  "r06": "83237",
-  "r07": "74381",
-  "r08": "65603",
+  "r00": "90154",
+  "r01": "115847",
+  "r02": "111673",
+  "r03": "105981",
+  "r04": "99574",
+  "r05": "91651",
+  "r06": "83382",
+  "r07": "74507",
+  "r08": "65657",
   "awards": null,
   "website": "lessimonnet.fr",
   "all-shows-first": "1965",
-  "all-shows-total": "2",
+  "all-shows-total": "3",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": null,
@@ -43,5 +43,27 @@
   "age": 75,
   "age_range": "61-100",
   "expos": {
+    "2014": [
+      {
+        "i": "247535-28288-2014-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "247535-28288-2014-05-24",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "247535",
+        "c": "FR",
+        "g": "c",
+        "a": "61-100"
+      },
+      {
+        "i": "247535-28288-2014-05-24",
+        "c": "FR"
+      }
+    ]
   }
 }

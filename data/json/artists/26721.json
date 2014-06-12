@@ -1,7 +1,7 @@
 {
   "id": "26721",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:25:15",
+  "timestamp": "2014-05-31 06:30:48",
   "name": "Céleste Boursier-Mougenot",
   "surname": "Boursier-Mougenot",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation",
-  "r00": "1146",
-  "r01": "1240",
-  "r02": "1112",
-  "r03": "1094",
-  "r04": "1127",
-  "r05": "1731",
-  "r06": "2215",
-  "r07": "1821",
-  "r08": "1691",
+  "r00": "1114",
+  "r01": "1232",
+  "r02": "1110",
+  "r03": "1078",
+  "r04": "1120",
+  "r05": "1715",
+  "r06": "2195",
+  "r07": "1804",
+  "r08": "1669",
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
   "all-shows-total": "82",
-  "2005-shows-biennials": "11",
-  "2005-shows-galleries": "11",
-  "2005-shows-museums": "31",
-  "2005-countries-total": "France (24), USA (7), Germany (3), Australia (2), Spain (2), Switzerland (2), Brazil (1), Canada (1), Israel (1), Italy (1), Poland (1), Russia (1), South Korea (1), United Kingdom (1), Uruguay (1)",
-  "2005-shows-with": "Céleste Boursier-Mougenot (29), Philippe Ramette (7), Michel Blazy (4), Richard Fauguet (4), Camille Henrot (4), Denis Savary (4), Xavier Veilhan (4), Darren Almond (3), Francis Alys (3), Gilles Barbier (3), Olivier Blanckart (3), Nicolas Darrot (3), Damien Deroubaix (3), Didier Faustino (3), Claire Fontaine (3), Cyprien Gaillard (3), Laurent Grasso (3), Valérie Jouve (3), Claude Lévêque (3), Didier Marcel (3), Enrique Marty (3), François Morellet (3), Vik Muniz (3), Rivane Neuenschwander (3), Roman Signer (3), Stéphane Thidet (3), Su-Mei Tse (3), Marina Abramovic (2), El Anatsui (2), Pierre Ardouvin (2), Kader Attia (2), Renaud Auguste-Dormeuil (2), Bertille Bak (2), Valérie Belin (2), Julien Berthier (2), Pierre Bismuth (2), Dominique Blais (2), Pierre-Yves Bohm (2), Frédéric Bruly Bouabré (2), Mircea Cantor (2), Petros Chrisostomou (2), Claude Closky (2), Martin Creed (2), Berlinde De Bruyckere (2), Luc Delahaye (2), Philippe Dereux (2), Mark Dion (2), Latifa Echakhch (2), Olafur Eliasson (2), Le",
+  "2005-shows-biennials": "12",
+  "2005-shows-galleries": "12",
+  "2005-shows-museums": "32",
+  "2005-countries-total": "France (25), USA (8), Germany (3), Australia (2), Spain (2), Switzerland (2), Brazil (1), Canada (1), Israel (1), Italy (1), Poland (1), Russia (1), South Korea (1), United Kingdom (1), Uruguay (1)",
+  "2005-shows-with": "Céleste Boursier-Mougenot (31), Philippe Ramette (7), Michel Blazy (4), Richard Fauguet (4), Camille Henrot (4), Denis Savary (4), Xavier Veilhan (4), Darren Almond (3), Francis Alys (3), Gilles Barbier (3), Dominique Blais (3), Olivier Blanckart (3), Nicolas Darrot (3), Damien Deroubaix (3), Latifa Echakhch (3), Didier Faustino (3), Claire Fontaine (3), Cyprien Gaillard (3), Laurent Grasso (3), Valérie Jouve (3), Claude Lévêque (3), Didier Marcel (3), Christian Marclay (3), Enrique Marty (3), François Morellet (3), Vik Muniz (3), Rivane Neuenschwander (3), Roman Signer (3), Stéphane Thidet (3), Su-Mei Tse (3), Marina Abramovic (2), El Anatsui (2), Pierre Ardouvin (2), Kader Attia (2), Renaud Auguste-Dormeuil (2), Bertille Bak (2), Valérie Belin (2), Julien Berthier (2), Pierre Bismuth (2), Pierre-Yves Bohm (2), Coosje van Bruggen (2), Frédéric Bruly Bouabré (2), Silvia Bächli (2), Mircea Cantor (2), Petros Chrisostomou (2), Claude Closky (2), Martin Creed (2), Berlinde De Bruyckere (2), Luc Delaha",
   "representing-galleries": "Galerie Xippas France (108, rue Vieille du Temple, 75003 Paris, France); Galerie Mario Mazzoli (Potsdamer Straße 132, 10783  Berlin, Germany); Paula Cooper Gallery (534 West 21st Street, NY 10011 New York City, NY, USA)",
   "collecting-museums": "CAPC - Musée d'art contemporain (rue Ferrère 7, 33000 Bordeaux, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France); 49 NORD 6 EST – Frac Lorraine (Rue des Trinitaires 1 bis, 57000 Metz, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France); Safn (Laugavegi 37, 101 Reykjavik, Iceland); Museum of Contemporary Art San Diego - MCASD La Jolla (700 Prospect St., 92037-4291 La Jolla, CA, USA)",
   "first_name": "Céleste",
@@ -625,7 +625,7 @@
         "t": "Institution publique",
         "st": "Solo",
         "ct": "Milan",
-        "o": "Hangar Bicocca | spazio d’arte contemporanea",
+        "o": "HangarBicocca | spazio d’arte contemporanea",
         "d": [
           "2011-11-04",
           "2011-12-04"
@@ -797,6 +797,27 @@
     ],
     "2014": [
       {
+        "i": "26721-1518-2014-04-26",
+        "c": "US",
+        "n": "Boursier-Mougenot, Conner, Echakhch, Gaines, Marclay, Oldenburg/van Bruggen",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Paula Cooper Gallery",
+        "d": [
+          "2014-04-26",
+          "2014-06-06"
+        ]
+      },
+      {
+        "i": "26721-11587-2014-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "26721-11587-2014-06-21",
+        "c": "FR"
+      },
+      {
         "i": "26721-3821-2013-05-03",
         "c": "AU",
         "n": "Céleste Boursier-Mougenot: clinamen",
@@ -808,6 +829,55 @@
           "2013-05-03",
           "2014-01-30"
         ]
+      },
+      {
+        "i": "26721-5735-2014-01-18",
+        "c": "US",
+        "n": "Freeport (No. 007): Céleste Boursier-Mougenot",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Salem, MA",
+        "o": "Peabody Essex Museum",
+        "d": [
+          "2014-01-18",
+          "2014-04-13"
+        ]
+      },
+      {
+        "i": "26721-2718-2014-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "26721-2718-2014-01-31",
+        "c": "FR"
+      },
+      {
+        "i": "26721-7850-2014-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "26721-7850-2014-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "26721-24749-2014-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "26721-24749-2014-09-06",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "26721",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "26721-7850-2014-04-18",
+        "c": "FR"
       }
     ]
   }

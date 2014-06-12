@@ -1,7 +1,7 @@
 {
   "id": "65146",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:39:02",
+  "timestamp": "2014-05-31 06:44:27",
   "name": "Gregory Forstner",
   "surname": "Forstner",
   "nationality": "AT, FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "8116",
-  "r01": "7575",
-  "r02": "8694",
-  "r03": "7995",
+  "r00": "8147",
+  "r01": "7574",
+  "r02": "8690",
+  "r03": "7990",
   "r04": "7999",
   "r05": "7647",
-  "r06": "7794",
-  "r07": "6562",
-  "r08": "10130",
+  "r06": "7796",
+  "r07": "6558",
+  "r08": "10129",
   "awards": null,
   "website": "gregoryforstner.com",
   "all-shows-first": "2003",
@@ -397,6 +397,19 @@
       {
         "i": "65146-20775-2013-10-20",
         "c": "FR"
+      },
+      {
+        "i": "65146-28044-2014-01-17",
+        "c": "BE",
+        "n": "Épines D´Eden",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "duboisfriedland gallery",
+        "d": [
+          "2014-01-17",
+          "2014-03-01"
+        ]
       }
     ]
   }

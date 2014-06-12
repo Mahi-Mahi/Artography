@@ -1,7 +1,7 @@
 {
   "id": "129065",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:00:46",
+  "timestamp": "2014-05-31 07:06:09",
   "name": "Eric Madeleine",
   "surname": "Madeleine",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "33829",
-  "r01": "33743",
-  "r02": "59294",
-  "r03": "53353",
-  "r04": "44826",
-  "r05": "36447",
-  "r06": "29300",
-  "r07": "50201",
-  "r08": "39853",
+  "r00": "33401",
+  "r01": "33827",
+  "r02": "59359",
+  "r03": "53403",
+  "r04": "44876",
+  "r05": "36482",
+  "r06": "29335",
+  "r07": "50292",
+  "r08": "39924",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
-  "all-shows-total": "8",
-  "2005-shows-biennials": "3",
-  "2005-shows-galleries": "3",
+  "all-shows-total": "0",
+  "2005-shows-biennials": "4",
+  "2005-shows-galleries": "4",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (6)",
-  "2005-shows-with": "Eric Madeleine (6), Arnaud Labelle-Rojoux (3), Gwenaël Billaud (2), Noël Dolla (2), Yazid Oulab (2), Bernard Piffaretti (2), Pascal Pinaud (2), Philippe Ramette (2), Jean-Luc Verna (2)",
+  "2005-countries-total": "France (7)",
+  "2005-shows-with": "Eric Madeleine (7), Arnaud Labelle-Rojoux (4), Noël Dolla (3), Pascal Pinaud (3), Philippe Ramette (3), Jean-Luc Verna (3), Gwenaël Billaud (2), Anna Byskov (2), France Gayraud (2), Gabriel Meo (2), Yazid Oulab (2), Bernard Piffaretti (2), Lionel Scoccimaro (2), Quentin Spohn (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Eric",
@@ -98,6 +98,26 @@
     "2014": [
       {
         "i": "129065-2585-2013-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "129065-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "129065-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "129065",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "129065-16752-2014-04-19",
         "c": "FR"
       }
     ]

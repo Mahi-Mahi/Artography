@@ -12,35 +12,41 @@
   "email": null,
   "www": "www.a-galerie.fr",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075116 %2C%2012 %2C%20Rue Léonce Reynaud %2C%20France",
-  "fairs-total": "5",
+  "fairs-total": "6",
   "fairs-abroad": "0",
-  "fairs-in-FR": "5",
+  "fairs-in-FR": "6",
   "fairs": {
     "2010": [
       {
-        "i": "21753-ArtParis 2010",
+        "i": "21753-ArtParis-2010",
         "c": "FR"
       },
       {
-        "i": "21753-cutlog 2010",
+        "i": "21753-cutlog-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "21753-ArtParis 2011",
+        "i": "21753-ArtParis-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "21753-Art Paris Art Fair 2012",
+        "i": "21753-Art-Paris-Art-Fair-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "21753-Art Paris Art Fair 2013",
+        "i": "21753-Art-Paris-Art-Fair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "21753-Artparis-2014",
         "c": "FR"
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "167627",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:13:54",
+  "timestamp": "2014-05-31 07:19:17",
   "name": "Lucien Pelen",
   "surname": "Pelen",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "9975",
-  "r01": "10712",
-  "r02": "10156",
-  "r03": "10778",
-  "r04": "9524",
-  "r05": "13507",
-  "r06": "12409",
-  "r07": "16842",
-  "r08": "36306",
+  "r00": "10031",
+  "r01": "10725",
+  "r02": "10170",
+  "r03": "10770",
+  "r04": "9519",
+  "r05": "13500",
+  "r06": "12415",
+  "r07": "16835",
+  "r08": "36318",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
@@ -258,6 +258,44 @@
       {
         "i": "167627-21098-2013-11-30",
         "c": "FR"
+      },
+      {
+        "i": "167627-22613-2014-03-01",
+        "c": "BE",
+        "n": "A book between two stools",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Villa Empain - Boghossian Foundation",
+        "d": [
+          "2014-03-01",
+          "2014-09-07"
+        ],
+        "a": "167627",
+        "an": "Lucien Pelen"
+      }
+    ],
+    "today": [
+      {
+        "i": "167627",
+        "c": "BE",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "167627-22613-2014-03-01",
+        "c": "BE",
+        "n": "A book between two stools",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Villa Empain - Boghossian Foundation",
+        "d": [
+          "2014-03-01",
+          "2014-09-07"
+        ],
+        "a": "167627",
+        "an": "Lucien Pelen"
       }
     ],
     "2005": [

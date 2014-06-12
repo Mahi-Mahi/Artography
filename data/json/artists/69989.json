@@ -1,7 +1,7 @@
 {
   "id": "69989",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:40:44",
+  "timestamp": "2014-05-31 06:46:10",
   "name": "Agathe Snow",
   "surname": "Snow",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Installation, Sculpture, Performance",
-  "r00": "2412",
-  "r01": "2291",
+  "r00": "2404",
+  "r01": "2294",
   "r02": "2074",
-  "r03": "1999",
+  "r03": "2001",
   "r04": "2271",
-  "r05": "2079",
-  "r06": "3682",
-  "r07": "6297",
-  "r08": "16091",
+  "r05": "2081",
+  "r06": "3686",
+  "r07": "6303",
+  "r08": "16093",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
   "all-shows-total": "58",
-  "2005-shows-biennials": "29",
-  "2005-shows-galleries": "29",
+  "2005-shows-biennials": "30",
+  "2005-shows-galleries": "30",
   "2005-shows-museums": "12",
-  "2005-countries-total": "USA (25), Germany (7), France (4), Italy (3), United Kingdom (3), Denmark (1), Portugal (1)",
-  "2005-shows-with": "Agathe Snow (32), Dash Snow (9), Dan Colen (8), Nate Lowman (6), Joe Bradley (5), Terence Koh (5), Gardar Eide Einarsson (4), Hanna Liden (4), Chris Martin (4), Adam McEwen (4), Aaron Young (4), Katherine Bernhardt (3), Carol Bove (3), Brian Degraw (3), Mark Flood (3), Nan Goldin (3), Rachel Harrison (3), Bruce LaBruce (3), Ryan McGinley (3), Amanda Ross-Ho (3), Sterling Ruby (3), Aurel Schmidt (3), Josh Smith (3), Banks Violette (3), Rita Ackermann (2), assume vivid astro focus (2), Dan Attoe (2), Antonio Ballester Moreno (2), Brian Belott (2), Aaron Bondaroff (2), Tom Burr (2), Jedediah Caesar (2), Scott Campbell (2), Peter Coffin (2), Ann Craven (2), Rosson Crow (2), Amie Dicke (2), Otto Dix (2), Kaye Donachie (2), Jim Drain (2), Brendan  Fowler (2), Ry Fyan (2), Gang Gang Dance (2), Rashawn Griffin (2), George Grosz (2), Mark Grotjahn (2), Andreas Gursky (2), Drew Heitzler (2), Patrick Hill (2), Otis Houston Jr. (2), Karen Kilimnik (2), John Kleckner (2), Greg Lamarche (2), Paul Lee (2), Paul McCarthy (2)",
+  "2005-countries-total": "USA (26), Germany (7), France (4), Italy (3), United Kingdom (3), Denmark (1), Portugal (1)",
+  "2005-shows-with": "Agathe Snow (33), Dash Snow (9), Dan Colen (8), Nate Lowman (6), Joe Bradley (5), Terence Koh (5), Gardar Eide Einarsson (4), Hanna Liden (4), Chris Martin (4), Adam McEwen (4), Aaron Young (4), Katherine Bernhardt (3), Carol Bove (3), Peter Coffin (3), Brian Degraw (3), Mark Flood (3), Nan Goldin (3), Rachel Harrison (3), Bruce LaBruce (3), Ryan McGinley (3), Amanda Ross-Ho (3), Sterling Ruby (3), Aurel Schmidt (3), Josh Smith (3), Banks Violette (3), Rita Ackermann (2), assume vivid astro focus (2), Dan Attoe (2), Antonio Ballester Moreno (2), Brian Belott (2), Aaron Bondaroff (2), Tom Burr (2), Jedediah Caesar (2), Scott Campbell (2), Ann Craven (2), Rosson Crow (2), Amie Dicke (2), Otto Dix (2), Kaye Donachie (2), Jim Drain (2), Brendan  Fowler (2), Ry Fyan (2), Gang Gang Dance (2), Rashawn Griffin (2), George Grosz (2), Mark Grotjahn (2), Andreas Gursky (2), Drew Heitzler (2), Patrick Hill (2), Otis Houston Jr. (2), Karen Kilimnik (2), John Kleckner (2), Greg Lamarche (2), Paul Lee (2), Paul McCarthy (2)",
   "representing-galleries": "Galerie Hussenot (5 bis, rue des Haudriettes, 75003 Paris, France); OHWOW (937 N. La Cienega Boulevard, 90069 Los Angeles, CA, USA); James Fuentes LLC (55 Delancey Street (between Allen St. and Eldgridge St.), 10002 New York City, NY, USA)",
   "collecting-museums": "The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London, United Kingdom)",
   "first_name": "Agathe",
@@ -847,6 +847,21 @@
       {
         "i": "69989-1566-2013-01-12",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "69989-4434-2014-03-16",
+        "c": "US",
+        "n": "The Weird Show: Peter Coffin, Willy Le Maitre, and Agathe Snow",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Canada",
+        "d": [
+          "2014-03-16",
+          "2014-04-13"
+        ]
       }
     ]
   }

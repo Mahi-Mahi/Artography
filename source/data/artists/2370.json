@@ -1,7 +1,7 @@
 {
   "id": "2370",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:15:39",
+  "timestamp": "2014-05-31 06:21:12",
   "name": "Pierre et Gilles",
   "surname": "Pierre et Gilles",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male, Artist couple",
   "media": "Photography, Painting",
-  "r00": "1479",
-  "r01": "1575",
+  "r00": "1486",
+  "r01": "1577",
   "r02": "1450",
-  "r03": "1700",
-  "r04": "1627",
-  "r05": "1489",
-  "r06": "1507",
+  "r03": "1701",
+  "r04": "1629",
+  "r05": "1490",
+  "r06": "1509",
   "r07": "1197",
   "r08": "1079",
   "awards": null,
@@ -784,6 +784,96 @@
           "2013-09-14",
           "2014-01-05"
         ]
+      },
+      {
+        "i": "2370-2528-2014-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "2370-2528-2014-02-21",
+        "c": "FR"
+      },
+      {
+        "i": "2370-8530-2014-04-05",
+        "c": "SE",
+        "n": "Barockt",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Stockholm",
+        "o": "Kulturhuset Stockholm",
+        "d": [
+          "2014-04-05",
+          "2014-10-19"
+        ],
+        "a": "2370",
+        "an": "Pierre et Gilles"
+      },
+      {
+        "i": "2370-2407-2014-04-09",
+        "c": "GB",
+        "n": "The Fashion World of Jean Paul Gaultier From the Sidewalk to the Catwalk",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "London",
+        "o": "Barbican Art Gallery",
+        "d": [
+          "2014-04-09",
+          "2014-08-25"
+        ],
+        "a": "2370",
+        "an": "Pierre et Gilles"
+      },
+      {
+        "i": "2370-30531-2014-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "2370-30531-2014-06-07",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "2370",
+        "c": "SE",
+        "g": "c",
+        "a": "26-40"
+      },
+      {
+        "i": "2370-8530-2014-04-05",
+        "c": "SE",
+        "n": "Barockt",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Stockholm",
+        "o": "Kulturhuset Stockholm",
+        "d": [
+          "2014-04-05",
+          "2014-10-19"
+        ],
+        "a": "2370",
+        "an": "Pierre et Gilles"
+      },
+      {
+        "i": "2370",
+        "c": "GB",
+        "g": "c",
+        "a": "26-40"
+      },
+      {
+        "i": "2370-2407-2014-04-09",
+        "c": "GB",
+        "n": "The Fashion World of Jean Paul Gaultier From the Sidewalk to the Catwalk",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "London",
+        "o": "Barbican Art Gallery",
+        "d": [
+          "2014-04-09",
+          "2014-08-25"
+        ],
+        "a": "2370",
+        "an": "Pierre et Gilles"
       }
     ]
   }

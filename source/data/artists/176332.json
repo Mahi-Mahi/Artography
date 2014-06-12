@@ -1,7 +1,7 @@
 {
   "id": "176332",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:16:53",
+  "timestamp": "2014-05-31 07:22:18",
   "name": "Florent Mattei",
   "surname": "Mattei",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "15672",
-  "r01": "15600",
-  "r02": "14344",
-  "r03": "24015",
-  "r04": "43416",
-  "r05": "59737",
-  "r06": "50847",
-  "r07": "46540",
-  "r08": "40112",
+  "r00": "15585",
+  "r01": "15619",
+  "r02": "14352",
+  "r03": "24029",
+  "r04": "43435",
+  "r05": "59776",
+  "r06": "50873",
+  "r07": "46592",
+  "r08": "40127",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
   "all-shows-total": "21",
-  "2005-shows-biennials": "11",
-  "2005-shows-galleries": "11",
+  "2005-shows-biennials": "12",
+  "2005-shows-galleries": "12",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (14)",
-  "2005-shows-with": "Florent Mattei (12), Thierry Lagalla (10), Arnaud Labelle-Rojoux (9), Han Hoogerbrugge (7), Emmanuel Régent (7), Stephane Steiner (6), Caroline Bach (5), Julien Blaine (5), Karine Rougier (5), Jean-Luc Verna (5), Michel de Broin (4), Anna Byskov (4), Gilbert Caty (4), Noël Dolla (4), Virginie Le Touze (4), Jean Mas (4), Patrick Moya (4), Stéphane Protic (4), Jerôme Robbe (4), Thierry Agnone (3), Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), Damien Berthier (3), Erik Dietman (3), Joël Ducorroy (3), Eric Duyckaerts (3), Kristof Everart (3), Daniel Farioli (3), Fred Forest (3), Jean-Baptiste Ganne (3), Paul-Armand Gette (3), Yoko Gunji (3), Raymond Hains (3), Raoul Hébréard (3), Michel Journiac (3), Jean-Jacques Lebel (3), Jacques Lizène (3), George Maciunas (3), Bruno Mendonça (3), Roland Miller (3), Serge Oldenbourg (3), Orlan (3), Gina Pane (3), Gérald Panighi (3), Gilbert Pedinielli (3), Philippe Perrin (3), Pierre Pinoncelli (3), Charly van Rest (3), Mimmo Rotella (3), Niki de Saint Ph",
+  "2005-countries-total": "France (15)",
+  "2005-shows-with": "Florent Mattei (13), Thierry Lagalla (11), Arnaud Labelle-Rojoux (10), Han Hoogerbrugge (8), Emmanuel Régent (8), Stephane Steiner (7), Caroline Bach (6), Julien Blaine (6), Karine Rougier (6), Jean-Luc Verna (6), Anna Byskov (5), Noël Dolla (5), Stéphane Protic (5), Jerôme Robbe (5), Thierry Agnone (4), Michel de Broin (4), Gilbert Caty (4), Jean-Baptiste Ganne (4), Virginie Le Touze (4), Jean Mas (4), Patrick Moya (4), Lionel Scoccimaro (4), Sabry Tchalgadjieff (4), Marcel Alocco (3), Dominique Angel (3), Eleonore Bak (3), Damien Berthier (3), Marc Chevalier (3), Erik Dietman (3), Joël Ducorroy (3), Jean Dupuy (3), Eric Duyckaerts (3), Kristof Everart (3), Daniel Farioli (3), Fred Forest (3), Paul-Armand Gette (3), Yoko Gunji (3), Raymond Hains (3), Raoul Hébréard (3), Joël Hubaut (3), Michel Journiac (3), Jean-Jacques Lebel (3), Jacques Lizène (3), George Maciunas (3), Bruno Mendonça (3), Roland Miller (3), Serge Oldenbourg (3), Orlan (3), Gina Pane (3), Gérald Panighi (3), Gilbert Pedinielli (3",
   "representing-galleries": "Espace A Vendre (17 rue Smolett, 06300 Nice, France); Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France)",
   "collecting-museums": null,
   "first_name": "Florent",
@@ -202,6 +202,28 @@
       },
       {
         "i": "176332-19953-2013-11-02",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "176332-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "176332-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "176332",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "176332-16752-2014-04-19",
         "c": "FR"
       }
     ]

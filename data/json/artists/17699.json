@@ -1,7 +1,7 @@
 {
   "id": "17699",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:58",
+  "timestamp": "2014-05-31 06:27:29",
   "name": "Gilbert Garcin",
   "surname": "Garcin",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "10825",
-  "r01": "10407",
-  "r02": "9676",
-  "r03": "9489",
-  "r04": "9334",
-  "r05": "9517",
-  "r06": "15322",
-  "r07": "12180",
-  "r08": "22368",
+  "r00": "10626",
+  "r01": "10424",
+  "r02": "9681",
+  "r03": "9490",
+  "r04": "9330",
+  "r05": "9520",
+  "r06": "15324",
+  "r07": "12179",
+  "r08": "22380",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
   "all-shows-total": "30",
-  "2005-shows-biennials": "10",
-  "2005-shows-galleries": "10",
+  "2005-shows-biennials": "11",
+  "2005-shows-galleries": "11",
   "2005-shows-museums": "8",
-  "2005-countries-total": "France (6), Switzerland (4), Spain (3), Germany (2), Australia (1), Brazil (1), Canada (1), Italy (1), Turkey (1)",
+  "2005-countries-total": "France (6), Switzerland (4), Spain (3), Germany (2), Australia (1), Brazil (1), Canada (1), Italy (1), Morocco (1), Turkey (1)",
   "2005-shows-with": "Gilbert Garcin (11), Philippe Ramette (3), Arno Minkkinen (2), Samuel Rousseau (2)",
   "representing-galleries": "Stills Gallery (36 Gosbell Street, NSW 2021 Sydney, NSW, Australia); Galerie Les filles du calvaire - Bruxelles (Boulevard Barthélémy, Kanal 20, 1000 Brussels, Belgium); Galerie les filles du calvaire - Paris (17, rue des Filles-du-calvaire, 75003 Paris, France); in focus Galerie (Brüsseler Str. 83, 50672 Cologne, Germany); Kowasa Gallery (Mallorca, 235, 08008 Barcelona, Spain); Trinta Arte Contemporánea (Virxe Da Cerca 24, 15703 Santiago de Compostela, Spain); Hoopers Gallery (15 Clerkenwell Close, EC1R 0AA London, United Kingdom)",
   "collecting-museums": "The West Collection (SEI Investments Company,  Oaks, PA, USA)",
@@ -377,6 +377,21 @@
         "d": [
           "2012-05-10",
           "2012-06-30"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "17699-20742-2014-02-25",
+        "c": "MA",
+        "n": "Gilbert Garcin",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Marrakech",
+        "o": "Galerie 127",
+        "d": [
+          "2014-02-25",
+          "2014-03-29"
         ]
       }
     ]

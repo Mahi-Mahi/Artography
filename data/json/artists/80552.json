@@ -1,7 +1,7 @@
 {
   "id": "80552",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:44:28",
+  "timestamp": "2014-05-31 06:49:52",
   "name": "Adrien Missika",
   "surname": "Missika",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "2741",
-  "r01": "3733",
-  "r02": "4254",
-  "r03": "5317",
-  "r04": "6938",
+  "r00": "2755",
+  "r01": "3741",
+  "r02": "4256",
+  "r03": "5326",
+  "r04": "6948",
   "r05": "6915",
-  "r06": "16845",
-  "r07": "20240",
-  "r08": "23540",
+  "r06": "16854",
+  "r07": "20262",
+  "r08": "23549",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "51",
+  "all-shows-total": "52",
   "2005-shows-biennials": "17",
   "2005-shows-galleries": "17",
   "2005-shows-museums": "20",
@@ -124,7 +124,7 @@
       {
         "i": "80552-13458-2008-06-21",
         "c": "CH",
-        "n": "exposition de multiples",
+        "n": "X",
         "t": "Galerie privée",
         "st": "Group",
         "ct": "Lausanne",
@@ -137,7 +137,7 @@
       {
         "i": "80552-13458-2008-06-21",
         "c": "CH",
-        "n": "X",
+        "n": "exposition de multiples",
         "t": "Galerie privée",
         "st": "Group",
         "ct": "Lausanne",
@@ -210,19 +210,6 @@
         ]
       },
       {
-        "i": "80552-17323-2009-07-08",
-        "c": "IN",
-        "n": "After Color",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Calcutta",
-        "o": "Bose Pacia - Kolkata",
-        "d": [
-          "2009-07-08",
-          "2009-08-21"
-        ]
-      },
-      {
         "i": "80552-1828-2009-07-08",
         "c": "US",
         "n": "After Color",
@@ -230,6 +217,19 @@
         "st": "Group",
         "ct": "New York City, NY",
         "o": "Bose Pacia Gallery",
+        "d": [
+          "2009-07-08",
+          "2009-08-21"
+        ]
+      },
+      {
+        "i": "80552-17323-2009-07-08",
+        "c": "IN",
+        "n": "After Color",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Calcutta",
+        "o": "Bose Pacia - Kolkata",
         "d": [
           "2009-07-08",
           "2009-08-21"
@@ -664,6 +664,111 @@
       },
       {
         "i": "80552-8241-2012-11-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "80552-27691-2014-01-30",
+        "c": "MX",
+        "n": "On what there might not be / Acerca de lo que podría no ser",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Mexico City",
+        "o": "MARSO Galería",
+        "d": [
+          "2014-01-30",
+          "2014-03-22"
+        ]
+      },
+      {
+        "i": "80552-5631-2014-01-30",
+        "c": "CH",
+        "n": "Films &#8211; Corridor",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "CECCH - Centre d'édition contemporaine - Genève",
+        "d": [
+          "2014-01-30",
+          "2014-02-02"
+        ]
+      },
+      {
+        "i": "80552-23923-2014-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "80552-23923-2014-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "80552-6418-2014-03-08",
+        "c": "CH",
+        "n": "Surfaces &#8211; Neue Fotografie Aus Der Schweiz",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Winterthur",
+        "o": "Fotomuseum Winterthur",
+        "d": [
+          "2014-03-08",
+          "2014-08-24"
+        ],
+        "a": "80552",
+        "an": "Adrien Missika"
+      },
+      {
+        "i": "80552-15492-2014-01-16",
+        "c": "CH",
+        "n": "Adrien Missika - Cosmic Latte",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Zurich",
+        "o": "Kunstraum Walcheturm",
+        "d": [
+          "2014-01-16",
+          "2014-03-01"
+        ]
+      },
+      {
+        "i": "80552-8639-2014-04-25",
+        "c": "FR"
+      },
+      {
+        "i": "80552-8639-2014-04-25",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "80552",
+        "c": "CH",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "80552-6418-2014-03-08",
+        "c": "CH",
+        "n": "Surfaces &#8211; Neue Fotografie Aus Der Schweiz",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Winterthur",
+        "o": "Fotomuseum Winterthur",
+        "d": [
+          "2014-03-08",
+          "2014-08-24"
+        ],
+        "a": "80552",
+        "an": "Adrien Missika"
+      },
+      {
+        "i": "80552",
+        "c": "FR",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "80552-8639-2014-04-25",
         "c": "FR"
       }
     ]

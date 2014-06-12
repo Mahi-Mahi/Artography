@@ -12,13 +12,13 @@
   "email": "gb@gbagency.fr",
   "www": "www.gbagency.fr",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2018 rue des 4 Fils %2C%20France",
-  "fairs-total": "13",
-  "fairs-abroad": "10",
+  "fairs-total": "16",
+  "fairs-abroad": "13",
   "fairs-in-FR": "3",
   "fairs": {
     "2006": [
       {
-        "i": "4186-Art 37 Basel",
+        "i": "4186-Art-37-Basel",
         "c": "CH",
         "n": "Art 37 Basel",
         "ct": "Basel"
@@ -26,7 +26,7 @@
     ],
     "2007": [
       {
-        "i": "4186-Art 38 Basel",
+        "i": "4186-Art-38-Basel",
         "c": "CH",
         "n": "Art 38 Basel",
         "ct": "Basel"
@@ -34,23 +34,23 @@
     ],
     "2011": [
       {
-        "i": "4186-Art 42 Basel",
+        "i": "4186-Art-42-Basel",
         "c": "CH",
         "n": "Art 42 Basel",
         "ct": "Basel"
       },
       {
-        "i": "4186-Fiac 2011",
+        "i": "4186-Fiac-2011",
         "c": "FR"
       },
       {
-        "i": "4186-Artissima 18",
+        "i": "4186-Artissima-18",
         "c": "IT",
         "n": "Artissima 18",
         "ct": "Turin"
       },
       {
-        "i": "4186-Art Basel Miami Beach 2011",
+        "i": "4186-Art-Basel-Miami-Beach-2011",
         "c": "US",
         "n": "Art Basel Miami Beach 2011",
         "ct": "Miami Beach, FL"
@@ -58,19 +58,19 @@
     ],
     "2012": [
       {
-        "i": "4186-Frieze New York 2012",
+        "i": "4186-Frieze-New-York-2012",
         "c": "US",
         "n": "Frieze New York 2012",
         "ct": "New York City, NY"
       },
       {
-        "i": "4186-Art 43 Basel",
+        "i": "4186-Art-43-Basel",
         "c": "CH",
         "n": "Art 43 Basel",
         "ct": "Basel"
       },
       {
-        "i": "4186-Fiac 2012",
+        "i": "4186-Fiac-2012",
         "c": "FR"
       }
     ],
@@ -82,20 +82,40 @@
         "ct": "New York City, NY"
       },
       {
-        "i": "4186-Frieze New York 2013",
+        "i": "4186-Frieze-New-York-2013",
         "c": "US",
         "n": "Frieze New York 2013",
         "ct": "New York City, NY"
       },
       {
-        "i": "4186-Art Basel 2013",
+        "i": "4186-Art-Basel-2013",
         "c": "CH",
         "n": "Art Basel 2013",
         "ct": "Basel"
       },
       {
-        "i": "4186-FIAC 2013",
+        "i": "4186-FIAC-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "4186-Frieze-New-York",
+        "c": "US",
+        "n": "Frieze New York",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "4186-Loop---The-Video-Art-Fair-2014",
+        "c": "ES",
+        "n": "Loop - The Video Art Fair 2014",
+        "ct": "Barcelona"
+      },
+      {
+        "i": "4186-Art-Basel-2014",
+        "c": "CH",
+        "n": "Art Basel 2014",
+        "ct": "Basel"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "1894",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:15:21",
+  "timestamp": "2014-05-31 06:20:53",
   "name": "Pierre Soulages",
   "surname": "Soulages",
   "nationality": "FR",
@@ -16,7 +16,7 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "598",
+  "r00": "603",
   "r01": "595",
   "r02": "607",
   "r03": "567",
@@ -24,15 +24,15 @@
   "r05": "777",
   "r06": "1042",
   "r07": "877",
-  "r08": "844",
+  "r08": "842",
   "awards": "Awarded the Praemium Imperiale prize for painting.",
-  "website": null,
+  "website": "www.pierre-soulages.com",
   "all-shows-first": "1950",
-  "all-shows-total": "189",
+  "all-shows-total": "190",
   "2005-shows-biennials": "34",
   "2005-shows-galleries": "34",
-  "2005-shows-museums": "47",
-  "2005-countries-total": "France (26), Germany (25), Switzerland (6), USA (6), United Kingdom (5), Austria (3), Chile (2), Japan (2), Spain (2), Brazil (1), Canada (1), China (1), Finland (1), Italy (1), Monaco (1), Russia (1)",
+  "2005-shows-museums": "48",
+  "2005-countries-total": "France (27), Germany (25), Switzerland (6), USA (6), United Kingdom (5), Austria (3), Chile (2), Japan (2), Spain (2), Brazil (1), Canada (1), China (1), Finland (1), Italy (1), Monaco (1), Russia (1)",
   "2005-shows-with": "Pierre Soulages (73), Antoni Tàpies (21), Hans Hartung (20), Joàn Miró (20), Pablo Picasso (17), Jean Dubuffet (16), Max Ernst (16), Henri Matisse (16), Serge Poliakoff (15), Eduardo Chillida (14), Josef Albers (13), Marino Marini (13), Emil Schumacher (13), Antonio Saura (12), Andy Warhol (12), Jean Arp (11), Sam Francis (11), Frank Stella (11), Georges Braque (10), Alexander Calder (10), Robert Motherwell (10), Julian Opie (10), Georg Baselitz (9), Marc Chagall (9), Fernand Léger (9), Sol LeWitt (9), Roberto Matta (9), Ernst Wilhelm Nay (9), Sean Scully (9), Jean Fautrier (8), Roy Lichtenstein (8), Jackson Pollock (8), Gerhard Richter (8), Victor Vasarely (8), Zao Wouki (8), Karl Fred Dahmen (7), Alberto Giacometti (7), Richard Hamilton (7), David Hockney (7), Patrick Hughes (7), Vasily Kandinsky (7), Willem de Kooning (7), Nicolas de Staël (7), Bernar Venet (7), Wols (7), Alberto Burri (6), Jean Degottex (6), Piero Dorazio (6), Robert Indiana (6), Asger Jorn (6), Paul Klee (6), André Masson (6), Geor",
   "representing-galleries": "Primo Artista Galerie und Kunsthandels GmbH (Neudorfer Str. 114, 2353 Guntramsdorf, Austria); Galerie 1900-2000 (8, rue Bonaparte, 75006 Paris, France); Galerie Applicat-Prazan (16, rue de Seine, 75006 Paris, France); Galerie Brimaud (4 rue Thorigny, 75003 Paris, France); Galerie Louis Carré & Cie (10, avenue de Messine, 75008 Paris, France); Galerie Jean-Francois Cazeau (8, rue Sainte Anastase, 75003 Paris, France); Galerie Pierre-Alain Challier (8, rue Debelleyme, 75003 Paris, France); Galerie Raymond Dreyfus (3, rue des Beaux Arts, 75006 Paris, France); Cyrille de Gunzburg (22, avenue de l’Observatoire, 75014 Paris, France); Galerie Marwan Hoss (12, rue d´Alger, 75001 Paris, France); Galerie Pascal Lansberg (36, rue de Seine, 75006 Paris, France); Galerie Natalie Seroussi (34, rue de Seine, 75006 Paris, France); Oniris Galerie d´art contemporain (38, rue d´Antrain B.P. 60205, 35702 Rennes, France); Galerie Boisserée (Drususgasse 7 - 11, 50667 Cologne, Germany); Galerie Art 204 (Rethelstraße 139, 40237 Duss",
   "collecting-museums": "Essl Museum - Kunst der Gegenwart (An der Donau Au 1, 3400 Klosterneuburg, Austria); Museum Liaunig (, 9155 Neuhaus, Austria); MAM - Museu de Arte Moderna Rio de Janeiro (Av Infante Dom Henrique 85, 20021-140 Rio de Janeiro, RJ, Brazil); Museo de la Solidaridad Salvador Allende (Av. República 475,  Santiago, Chile); KUNSTEN Museum of Modern Art (Kong Christians Alle 50, 9000 Aalborg, Denmark); Ateneum Art Museum - Finnish National Gallery (Kaivokatu 2, 00100 Helsinki, Finland); Sara Hildén Art Museum (Särkänniemi, 33230  Tampere, Finland); Artothèque de Caen (Place Saint Pierre, 14000 Caen, France); FRAC - Bretagne (3 rue de Noyal, 35410 Châteaugiron, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Musée d'Unterlinden (1 rue d\\'Unterlinden, 68000 Colmar, France); LAAC - Lieu d'Art et Action Contemporaine de Dunkerque (Pont Lucien Lefol, 59140 Dunkerque, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Languedoc-Roussilon (4 rue ",
@@ -305,19 +305,6 @@
         ]
       },
       {
-        "i": "1894-881-2006-07-19",
-        "c": "DE",
-        "n": "Sammeln und Entdecken",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Karlsruhe",
-        "o": "Galerie Schrade & Blashofer",
-        "d": [
-          "2006-07-19",
-          "2006-09-16"
-        ]
-      },
-      {
         "i": "1894-20517-2006-07-19",
         "c": "DE",
         "n": "SAMMELN UND ENTDECKEN",
@@ -325,6 +312,19 @@
         "st": "Group",
         "ct": "Karlsruhe",
         "o": "Galerie Schrade - Karlsruhe",
+        "d": [
+          "2006-07-19",
+          "2006-09-16"
+        ]
+      },
+      {
+        "i": "1894-881-2006-07-19",
+        "c": "DE",
+        "n": "Sammeln und Entdecken",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "Galerie Schrade & Blashofer",
         "d": [
           "2006-07-19",
           "2006-09-16"
@@ -1289,10 +1289,6 @@
         "c": "FR"
       },
       {
-        "i": "1894-29767-2011-12-10",
-        "c": "FR"
-      },
-      {
         "i": "1894-134-2011-12-10",
         "c": "DE",
         "n": "Accrochage",
@@ -1304,6 +1300,10 @@
           "2011-12-10",
           "2012-01-28"
         ]
+      },
+      {
+        "i": "1894-29767-2011-12-10",
+        "c": "FR"
       },
       {
         "i": "1894-17115-2011-12-17",
@@ -1372,10 +1372,6 @@
         "c": "FR"
       },
       {
-        "i": "1894-29767-2011-12-10",
-        "c": "FR"
-      },
-      {
         "i": "1894-134-2011-12-10",
         "c": "DE",
         "n": "Accrochage",
@@ -1387,6 +1383,10 @@
           "2011-12-10",
           "2012-01-28"
         ]
+      },
+      {
+        "i": "1894-29767-2011-12-10",
+        "c": "FR"
       },
       {
         "i": "1894-17115-2011-12-17",
@@ -1664,6 +1664,87 @@
           "2013-11-20",
           "2014-01-18"
         ]
+      },
+      {
+        "i": "1894-27822-2014-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "1894-27822-2014-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "1894-18766-2014-04-04",
+        "c": "CL",
+        "n": "Solidaridad Y Resistencia. La Historia Del Mssa",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Santiago",
+        "o": "Museo de la Solidaridad Salvador Allende",
+        "d": [
+          "2014-04-04",
+          "2014-06-29"
+        ],
+        "a": "1894",
+        "an": "Pierre Soulages"
+      },
+      {
+        "i": "1894-134-2014-02-21",
+        "c": "DE",
+        "n": "Pierre Soulages - Arbeiten auf Papier und aus dem graphischen Œuvre",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Cologne",
+        "o": "Galerie Boisserée",
+        "d": [
+          "2014-02-21",
+          "2014-04-26"
+        ]
+      },
+      {
+        "i": "1894-31160-2014-05-31",
+        "c": "FR"
+      },
+      {
+        "i": "1894-31160-2014-05-31",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "1894",
+        "c": "FR",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "1894-27822-2014-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "1894",
+        "c": "CL",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "1894-18766-2014-04-04",
+        "c": "CL",
+        "n": "Solidaridad Y Resistencia. La Historia Del Mssa",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Santiago",
+        "o": "Museo de la Solidaridad Salvador Allende",
+        "d": [
+          "2014-04-04",
+          "2014-06-29"
+        ],
+        "a": "1894",
+        "an": "Pierre Soulages"
+      },
+      {
+        "i": "1894-31160-2014-05-31",
+        "c": "FR"
       }
     ]
   }

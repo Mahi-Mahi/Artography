@@ -1,7 +1,7 @@
 {
   "id": "99048",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:50:41",
+  "timestamp": "2014-05-31 06:56:04",
   "name": "Jérôme Bel",
   "surname": "Bel",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Choreography",
-  "r00": "3938",
-  "r01": "4277",
-  "r02": "4505",
-  "r03": "5520",
-  "r04": "6440",
-  "r05": "5198",
-  "r06": "5510",
-  "r07": "6035",
-  "r08": "21692",
+  "r00": "3959",
+  "r01": "4273",
+  "r02": "4499",
+  "r03": "5507",
+  "r04": "6419",
+  "r05": "5178",
+  "r06": "5487",
+  "r07": "6042",
+  "r08": "21722",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
@@ -238,6 +238,72 @@
           "2013-11-01",
           "2013-11-24"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "99048-10363-2014-02-07",
+        "c": "US",
+        "n": "Performance Now",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Middlebury, VT",
+        "o": "Middlebury College Museum of Art",
+        "d": [
+          "2014-02-07",
+          "2014-04-20"
+        ]
+      },
+      {
+        "i": "99048-18752-2014-05-01",
+        "c": "RU",
+        "n": "do it Moscow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Moscow",
+        "o": "Garage Center for Contemporary Culture - GCCC",
+        "d": [
+          "2014-05-01",
+          "2014-07-06"
+        ],
+        "a": "99048",
+        "an": "Jérôme Bel"
+      },
+      {
+        "i": "99048-3669-2014-07-12",
+        "c": "US",
+        "n": "Performance Now",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Wilmington, DE",
+        "o": "Delaware Art Museum",
+        "d": [
+          "2014-07-12",
+          "2014-09-21"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "99048",
+        "c": "RU",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "99048-18752-2014-05-01",
+        "c": "RU",
+        "n": "do it Moscow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Moscow",
+        "o": "Garage Center for Contemporary Culture - GCCC",
+        "d": [
+          "2014-05-01",
+          "2014-07-06"
+        ],
+        "a": "99048",
+        "an": "Jérôme Bel"
       }
     ]
   }

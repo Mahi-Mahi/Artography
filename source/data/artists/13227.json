@@ -1,7 +1,7 @@
 {
   "id": "13227",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:11",
+  "timestamp": "2014-05-31 06:25:40",
   "name": "Claude Pasquer",
   "surname": "Pasquer",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "18330",
-  "r01": "17528",
-  "r02": "14992",
-  "r03": "15194",
-  "r04": "12972",
-  "r05": "16041",
-  "r06": "16856",
-  "r07": "22000",
-  "r08": "20282",
+  "r00": "18420",
+  "r01": "17552",
+  "r02": "14998",
+  "r03": "15210",
+  "r04": "12981",
+  "r05": "16052",
+  "r06": "16863",
+  "r07": "22004",
+  "r08": "20269",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
@@ -369,6 +369,21 @@
         "d": [
           "2012-03-16",
           "2012-05-27"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "13227-30580-2014-01-01",
+        "c": "CH",
+        "n": "Claude Pasquer - Le noir, ce qu'il cache, ce qu'il révèle",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Fribourg",
+        "o": "La Vitrine",
+        "d": [
+          "2014-01-01",
+          "2014-02-08"
         ]
       }
     ]

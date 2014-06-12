@@ -1,7 +1,7 @@
 {
   "id": "74824",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:42:25",
+  "timestamp": "2014-05-31 06:47:50",
   "name": "Jean Michel Bruyère",
   "surname": "Bruyère",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "21098",
-  "r01": "20209",
-  "r02": "17386",
-  "r03": "24820",
-  "r04": "19488",
-  "r05": "15379",
-  "r06": "12334",
-  "r07": "11353",
+  "r00": "21210",
+  "r01": "20251",
+  "r02": "17412",
+  "r03": "24824",
+  "r04": "19494",
+  "r05": "15384",
+  "r06": "12336",
+  "r07": "11350",
   "r08": "18749",
   "awards": null,
   "website": null,
@@ -127,6 +127,46 @@
           "2012-10-02",
           "2013-03-31"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "74824-30296-2014-05-09",
+        "c": "CN",
+        "n": "Jeffrey Shaw and Hu Jieming Twofold Solo Exhibition",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Shanghai",
+        "o": "CAC | Chronus Art Center",
+        "d": [
+          "2014-05-09",
+          "2014-11-28"
+        ],
+        "a": "74824",
+        "an": "Jean Michel Bruyère"
+      }
+    ],
+    "today": [
+      {
+        "i": "74824",
+        "c": "CN",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "74824-30296-2014-05-09",
+        "c": "CN",
+        "n": "Jeffrey Shaw and Hu Jieming Twofold Solo Exhibition",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Shanghai",
+        "o": "CAC | Chronus Art Center",
+        "d": [
+          "2014-05-09",
+          "2014-11-28"
+        ],
+        "a": "74824",
+        "an": "Jean Michel Bruyère"
       }
     ]
   }

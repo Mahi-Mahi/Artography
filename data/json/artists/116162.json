@@ -1,12 +1,12 @@
 {
   "id": "116162",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:56:28",
+  "timestamp": "2014-05-31 07:01:52",
   "name": "Julien Crépieux",
   "surname": "Crépieux",
   "nationality": "FR",
   "nationality fr": "France",
-  "birth location": null,
+  "birth location": "",
   "birth day": 1,
   "birth month": 1,
   "birth year": "1979",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "5106",
-  "r01": "5673",
-  "r02": "10436",
-  "r03": "16251",
-  "r04": "34253",
-  "r05": "94311",
-  "r06": "86821",
-  "r07": "87139",
-  "r08": "78261",
+  "r00": "5158",
+  "r01": "5677",
+  "r02": "10441",
+  "r03": "16257",
+  "r04": "34256",
+  "r05": "94464",
+  "r06": "86971",
+  "r07": "87260",
+  "r08": "78321",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
-  "all-shows-total": "25",
+  "all-shows-total": "26",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
   "2005-shows-museums": "14",
   "2005-countries-total": "France (19), Canada (1), Egypt (1), Italy (1), Netherlands (1), Russia (1)",
-  "2005-shows-with": "Julien Crépieux (21), Mark Geffriaud (6), Ryan Gander (5), Bruno Persat (5), Raphaël Zarka (5), Juliana Borinski (4), Isabelle Cornaro (4), Aurélien Froment (4), Bertrand Lamarche (4), Francis Alys (3), Pierre Ardouvin (3), Ulla von Brandenburg (3), Benoît Maire (3), Laurent Montaron (3), Chloé Quenum (3), Julien Audebert (2), Anna Eva Bergman (2), Cedrick Eymenier (2), Richard Fauguet (2), Laurent Grasso (2), Camille Henrot (2), Olivier Leroi (2), Claude Lévêque (2), Cyrille Maillot (2), Wesley Meuris (2), Benoit-Marie Moriceau (2), Florian & Michael Quistrebert (2), Clément Rodzielski (2), Vittorio Santoro (2), Société Réaliste (2), Georges Tony Stoll (2), Stéphane Thidet (2)",
+  "2005-shows-with": "Julien Crépieux (21), Mark Geffriaud (6), Ryan Gander (5), Bruno Persat (5), Raphaël Zarka (5), Juliana Borinski (4), Isabelle Cornaro (4), Aurélien Froment (4), Bertrand Lamarche (4), Francis Alys (3), Pierre Ardouvin (3), Ulla von Brandenburg (3), Benoît Maire (3), Laurent Montaron (3), Chloé Quenum (3), Julien Audebert (2), Taysir Batniji (2), Anna Eva Bergman (2), Cedrick Eymenier (2), Richard Fauguet (2), Laurent Grasso (2), Camille Henrot (2), Olivier Leroi (2), Claude Lévêque (2), Cyrille Maillot (2), Wesley Meuris (2), Benoit-Marie Moriceau (2), Florian & Michael Quistrebert (2), Clément Rodzielski (2), Vittorio Santoro (2), Société Réaliste (2), Georges Tony Stoll (2), Stéphane Thidet (2)",
   "representing-galleries": "Galerie Jérôme Poggi (2 rue Beaubourg, 75004 Paris, France)",
   "collecting-museums": "FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France); Kadist Art Foundation (19 bis -21 rue Trois Fréres, 75018 Paris, France); FRAC - Haute-Normandie (3 place des Martyrs de la Résistance, 76300 Sotteville-lès-Rouen, France); GAMeC - Galleria d´Arte Moderna e Contemporanea di Bergamo (Via San Tomaso 53, 24121 Bergamo, Italy)",
   "first_name": "Julien",
@@ -267,8 +267,54 @@
         "c": "FR"
       },
       {
+        "i": "116162-30970-2014-05-06",
+        "c": "EG",
+        "n": "A Guest Without A Host Is A Ghost",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Cairo",
+        "o": "Beirut",
+        "d": [
+          "2014-05-06",
+          "2014-06-18"
+        ],
+        "a": "116162",
+        "an": "Julien Crépieux"
+      },
+      {
         "i": "116162-2260-2013-11-07",
         "c": "FR"
+      },
+      {
+        "i": "116162-21639-2014-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "116162-21639-2014-03-22",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "116162",
+        "c": "EG",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "116162-30970-2014-05-06",
+        "c": "EG",
+        "n": "A Guest Without A Host Is A Ghost",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Cairo",
+        "o": "Beirut",
+        "d": [
+          "2014-05-06",
+          "2014-06-18"
+        ],
+        "a": "116162",
+        "an": "Julien Crépieux"
       }
     ]
   }

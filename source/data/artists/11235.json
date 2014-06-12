@@ -1,7 +1,7 @@
 {
   "id": "11235",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:19:24",
+  "timestamp": "2014-05-31 06:24:53",
   "name": "Pierre Bismuth",
   "surname": "Bismuth",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "309",
+  "r00": "314",
   "r01": "337",
   "r02": "308",
   "r03": "301",
   "r04": "309",
-  "r05": "375",
+  "r05": "376",
   "r06": "375",
   "r07": "365",
   "r08": "387",
   "awards": null,
   "website": null,
   "all-shows-first": "1994",
-  "all-shows-total": "250",
+  "all-shows-total": "251",
   "2005-shows-biennials": "33",
   "2005-shows-galleries": "33",
   "2005-shows-museums": "76",
@@ -58,14 +58,6 @@
         ]
       },
       {
-        "i": "11235-1933-2005-02-25",
-        "c": "FR"
-      },
-      {
-        "i": "11235-1933-2005-02-25",
-        "c": "FR"
-      },
-      {
         "i": "11235-979-2005-02-25",
         "c": "AT",
         "n": "Just do it! - Die Subversion der Zeichen von Marcel Duchamp bis Prada Meinhof",
@@ -77,6 +69,14 @@
           "2005-02-25",
           "2005-12-31"
         ]
+      },
+      {
+        "i": "11235-1933-2005-02-25",
+        "c": "FR"
+      },
+      {
+        "i": "11235-1933-2005-02-25",
+        "c": "FR"
       },
       {
         "i": "11235-965-2005-04-16",
@@ -586,7 +586,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Milan",
-        "o": "Hangar Bicocca | spazio d’arte contemporanea",
+        "o": "HangarBicocca | spazio d’arte contemporanea",
         "d": [
           "2007-02-02",
           "2007-03-15"
@@ -810,19 +810,6 @@
         "c": "FR"
       },
       {
-        "i": "11235-2225-2007-03-24",
-        "c": "US",
-        "n": "Pierre Bismuth",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "New York City, NY",
-        "o": "Mary Boone Gallery - 745 Fifth Avenue",
-        "d": [
-          "2007-03-24",
-          "2007-04-28"
-        ]
-      },
-      {
         "i": "11235-17556-2007-03-24",
         "c": "US",
         "n": "Pierre Bismuth",
@@ -830,6 +817,19 @@
         "st": "Solo",
         "ct": "New York City, NY",
         "o": "Mary Boone Gallery - 541 West 24 Street",
+        "d": [
+          "2007-03-24",
+          "2007-04-28"
+        ]
+      },
+      {
+        "i": "11235-2225-2007-03-24",
+        "c": "US",
+        "n": "Pierre Bismuth",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Mary Boone Gallery - 745 Fifth Avenue",
         "d": [
           "2007-03-24",
           "2007-04-28"
@@ -1612,19 +1612,19 @@
         "c": "FR"
       },
       {
-        "i": "11235-10244-2010-03-20",
-        "c": "FR"
-      },
-      {
-        "i": "11235-10244-2010-03-20",
-        "c": "FR"
-      },
-      {
         "i": "11235-2497-2010-03-20",
         "c": "FR"
       },
       {
         "i": "11235-2497-2010-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "11235-10244-2010-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "11235-10244-2010-03-20",
         "c": "FR"
       },
       {
@@ -1803,19 +1803,6 @@
         ]
       },
       {
-        "i": "11235-2293-2010-12-18",
-        "c": "DE",
-        "n": "Bild für Bild - Film und zeitgenössische Kunst",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Dortmund",
-        "o": "Museum Ostwall im Dortmunder U",
-        "d": [
-          "2010-12-18",
-          "2011-04-25"
-        ]
-      },
-      {
         "i": "11235-3807-2010-12-18",
         "c": "AU",
         "n": "21st Century: Art in the First Decade",
@@ -1823,6 +1810,19 @@
         "st": "Group",
         "ct": "Brisbane, QLD",
         "o": "Queensland Art Gallery / Gallery of Modern Art",
+        "d": [
+          "2010-12-18",
+          "2011-04-25"
+        ]
+      },
+      {
+        "i": "11235-2293-2010-12-18",
+        "c": "DE",
+        "n": "Bild für Bild - Film und zeitgenössische Kunst",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
         "d": [
           "2010-12-18",
           "2011-04-25"
@@ -1916,19 +1916,6 @@
         ]
       },
       {
-        "i": "11235-2293-2010-12-18",
-        "c": "DE",
-        "n": "Bild für Bild - Film und zeitgenössische Kunst",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Dortmund",
-        "o": "Museum Ostwall im Dortmunder U",
-        "d": [
-          "2010-12-18",
-          "2011-04-25"
-        ]
-      },
-      {
         "i": "11235-3807-2010-12-18",
         "c": "AU",
         "n": "21st Century: Art in the First Decade",
@@ -1936,6 +1923,19 @@
         "st": "Group",
         "ct": "Brisbane, QLD",
         "o": "Queensland Art Gallery / Gallery of Modern Art",
+        "d": [
+          "2010-12-18",
+          "2011-04-25"
+        ]
+      },
+      {
+        "i": "11235-2293-2010-12-18",
+        "c": "DE",
+        "n": "Bild für Bild - Film und zeitgenössische Kunst",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Dortmund",
+        "o": "Museum Ostwall im Dortmunder U",
         "d": [
           "2010-12-18",
           "2011-04-25"
@@ -2100,19 +2100,6 @@
         ]
       },
       {
-        "i": "11235-3737-2011-10-01",
-        "c": "LU",
-        "n": "Found in Translation - Chapter L",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Luxembourg",
-        "o": "Casino Luxembourg - Forum d'art contemporain",
-        "d": [
-          "2011-10-01",
-          "2012-01-08"
-        ]
-      },
-      {
         "i": "11235-10361-2011-10-01",
         "c": "BE",
         "n": "Found In Translation, Chapter L",
@@ -2120,6 +2107,19 @@
         "st": "Group",
         "ct": "Brussels",
         "o": "Maison Grégoire",
+        "d": [
+          "2011-10-01",
+          "2012-01-08"
+        ]
+      },
+      {
+        "i": "11235-3737-2011-10-01",
+        "c": "LU",
+        "n": "Found in Translation - Chapter L",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
         "d": [
           "2011-10-01",
           "2012-01-08"
@@ -2167,19 +2167,6 @@
     ],
     "2012": [
       {
-        "i": "11235-3737-2011-10-01",
-        "c": "LU",
-        "n": "Found in Translation - Chapter L",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Luxembourg",
-        "o": "Casino Luxembourg - Forum d'art contemporain",
-        "d": [
-          "2011-10-01",
-          "2012-01-08"
-        ]
-      },
-      {
         "i": "11235-10361-2011-10-01",
         "c": "BE",
         "n": "Found In Translation, Chapter L",
@@ -2187,6 +2174,19 @@
         "st": "Group",
         "ct": "Brussels",
         "o": "Maison Grégoire",
+        "d": [
+          "2011-10-01",
+          "2012-01-08"
+        ]
+      },
+      {
+        "i": "11235-3737-2011-10-01",
+        "c": "LU",
+        "n": "Found in Translation - Chapter L",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
         "d": [
           "2011-10-01",
           "2012-01-08"
@@ -2256,6 +2256,19 @@
         ]
       },
       {
+        "i": "11235-7833-2012-05-10",
+        "c": "GB",
+        "n": "Graphology",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "London",
+        "o": "The Drawing Room",
+        "d": [
+          "2012-05-10",
+          "2012-06-30"
+        ]
+      },
+      {
         "i": "11235-7619-2012-05-10",
         "c": "IT",
         "n": "An Incomplete History Of Incomplete Works Of Art",
@@ -2279,19 +2292,6 @@
         "d": [
           "2012-05-10",
           "2012-06-16"
-        ]
-      },
-      {
-        "i": "11235-7833-2012-05-10",
-        "c": "GB",
-        "n": "Graphology",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "London",
-        "o": "The Drawing Room",
-        "d": [
-          "2012-05-10",
-          "2012-06-30"
         ]
       },
       {
@@ -2649,6 +2649,148 @@
           "2013-06-18",
           "2014-04-21"
         ]
+      },
+      {
+        "i": "11235-3956-2014-01-04",
+        "c": "IL",
+        "n": "Works On Paper",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Tel Aviv",
+        "o": "Dvir Gallery",
+        "d": [
+          "2014-01-04",
+          "2014-02-15"
+        ]
+      },
+      {
+        "i": "11235-16993-2014-01-17",
+        "c": "PL",
+        "n": "For Each Gesture Another Character",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Poznan",
+        "o": "Art Stations Foundation",
+        "d": [
+          "2014-01-17",
+          "2014-05-04"
+        ]
+      },
+      {
+        "i": "11235-1782-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "11235-1782-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "11235-28213-2014-03-15",
+        "c": "AT",
+        "n": "Words and doors in language, art and film",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Graz",
+        "o": "Künstlerhaus - Halle für Kunst und Medien",
+        "d": [
+          "2014-03-15",
+          "2014-05-18"
+        ]
+      },
+      {
+        "i": "11235-2196-2014-05-17",
+        "c": "BE",
+        "n": "From the Collection",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Ghent",
+        "o": "SMAK Stedelijk Museum voor Actuele Kunst",
+        "d": [
+          "2014-05-17",
+          "2014-06-29"
+        ],
+        "a": "11235",
+        "an": "Pierre Bismuth"
+      },
+      {
+        "i": "11235-2427-2014-05-22",
+        "c": "NL",
+        "n": "A Constructed World",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rotterdam",
+        "o": "Witte de With Center for Contemporary Art",
+        "d": [
+          "2014-05-22",
+          "2014-08-17"
+        ],
+        "a": "11235",
+        "an": "Pierre Bismuth"
+      },
+      {
+        "i": "11235-7390-2014-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "11235-7390-2014-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "11235-3162-2014-02-19",
+        "c": "AT",
+        "n": "The Grass Is Always Greener On The Other Side &#8211; Neues Vindobona",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Vienna",
+        "o": "Kunsthalle wien project space karlsplatz",
+        "d": [
+          "2014-02-19",
+          "2014-05-11"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "11235",
+        "c": "BE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "11235-2196-2014-05-17",
+        "c": "BE",
+        "n": "From the Collection",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Ghent",
+        "o": "SMAK Stedelijk Museum voor Actuele Kunst",
+        "d": [
+          "2014-05-17",
+          "2014-06-29"
+        ],
+        "a": "11235",
+        "an": "Pierre Bismuth"
+      },
+      {
+        "i": "11235",
+        "c": "NL",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "11235-2427-2014-05-22",
+        "c": "NL",
+        "n": "A Constructed World",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rotterdam",
+        "o": "Witte de With Center for Contemporary Art",
+        "d": [
+          "2014-05-22",
+          "2014-08-17"
+        ],
+        "a": "11235",
+        "an": "Pierre Bismuth"
       }
     ]
   }

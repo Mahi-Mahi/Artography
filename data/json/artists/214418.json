@@ -1,12 +1,12 @@
 {
   "id": "214418",
-  "mergedIDs": null,
-  "timestamp": "2014-05-24 07:29:57",
+  "mergedIDs": "448778,407727",
+  "timestamp": "2014-05-31 07:35:17",
   "name": "Louise Hervé & Chloé Maillet",
   "surname": "Hervé & Chloé Maillet",
   "nationality": "FR",
   "nationality fr": "France",
-  "birth location": null,
+  "birth location": "",
   "birth day": 1,
   "birth month": 1,
   "birth year": "1981",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Artist group",
   "media": null,
-  "r00": "2985",
-  "r01": "3079",
-  "r02": "4485",
-  "r03": "9235",
-  "r04": "16266",
-  "r05": "57815",
+  "r00": "3196",
+  "r01": "3462",
+  "r02": "5308",
+  "r03": "11167",
+  "r04": "18167",
+  "r05": "57901",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -29,11 +29,11 @@
   "website": null,
   "all-shows-first": "2009",
   "all-shows-total": "31",
-  "2005-shows-biennials": "8",
-  "2005-shows-galleries": "8",
-  "2005-shows-museums": "13",
-  "2005-countries-total": "France (21), Belgium (2), Switzerland (2), Austria (1), Canada (1), Germany (1), Portugal (1), United Kingdom (1), USA (1)",
-  "2005-shows-with": "Louise Hervé & Chloé Maillet (21), Jorge Pedro Núñez (4), Neil Beloufa (3), Camille Henrot (3), Benoît Maire (3), Benoit-Marie Moriceau (3), Jean-Luc Moulène (3), Alexandre Singh (3), Mathieu Kleyebe Abonnenc (2), Wilfrid Almendra (2), Meris Angioletti (2), Giles Bailey (2), Bertille Bak (2), Gerry Bibby (2), Pierre Bismuth (2), Gaëlle Boucand (2), Daniel Buren (2), Antoine Catala (2), Etienne Chambaud (2), Mathis Collins (2), Isabelle Cornaro (2), Edith Dekyndt (2), Marcelline Delbecq (2), Jason Dodge (2), Harun Farocki (2), Peter Friedl (2), André Guedes (2), Raymond Hains (2), Emmanuelle Lainé (2), Louise Lawler (2), Laurent Le Deunff (2), Seulgi Lee (2), Jochen Lempert (2), Ariane Michel (2), Nicolas Milhé (2), Roman Ondák (2), Gerald Petit (2), Lili Reynaud Dewar (2), Jorge Satorre (2), Denis Savary (2), Julien Tiberi (2), Marie Voignier (2), Peter Wächtler (2), Virginie Yassef (2)",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
+  "2005-shows-museums": "14",
+  "2005-countries-total": "France (17), Belgium (2), Switzerland (2), United Kingdom (2), Austria (1), Canada (1), Germany (1), Portugal (1), USA (1)",
+  "2005-shows-with": "Louise Hervé & Chloé Maillet (22), Jorge Pedro Núñez (4), Neil Beloufa (3), Camille Henrot (3), Benoît Maire (3), Benoit-Marie Moriceau (3), Jean-Luc Moulène (3), Alexandre Singh (3), Wilfrid Almendra (2), Meris Angioletti (2), Giles Bailey (2), Bertille Bak (2), Gerry Bibby (2), Pierre Bismuth (2), Gaëlle Boucand (2), Daniel Buren (2), Antoine Catala (2), Etienne Chambaud (2), Mathis Collins (2), Isabelle Cornaro (2), Edith Dekyndt (2), Marcelline Delbecq (2), Jason Dodge (2), Harun Farocki (2), Peter Friedl (2), André Guedes (2), Raymond Hains (2), Emmanuelle Lainé (2), Louise Lawler (2), Laurent Le Deunff (2), Seulgi Lee (2), Jochen Lempert (2), Ariane Michel (2), Nicolas Milhé (2), Roman Ondák (2), Gerald Petit (2), Lili Reynaud Dewar (2), Jorge Satorre (2), Denis Savary (2), Julien Tiberi (2), Peter Wächtler (2), Virginie Yassef (2)",
   "representing-galleries": "Marcelle Alix (4 rue Jouye-Rouve, 75020 Paris, France)",
   "collecting-museums": null,
   "first_name": "Louise",
@@ -334,6 +334,29 @@
           "2013-01-26",
           "2013-02-03"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "214418-2251-2014-05-02",
+        "c": "GB",
+        "n": "Test Run",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Oxford",
+        "o": "Modern Art Oxford",
+        "d": [
+          "2014-05-02",
+          "2014-06-08"
+        ]
+      },
+      {
+        "i": "214418-24747-2014-02-01",
+        "c": "FR"
+      },
+      {
+        "i": "214418-24747-2014-02-01",
+        "c": "FR"
       }
     ]
   }

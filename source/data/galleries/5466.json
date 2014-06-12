@@ -12,13 +12,13 @@
   "email": "paris@operagallery.com",
   "www": "www.operagallery.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075001 %2C%20 %2C%20356, rue Saint-Honoré %2C%20France",
-  "fairs-total": "10",
-  "fairs-abroad": "10",
+  "fairs-total": "12",
+  "fairs-abroad": "12",
   "fairs-in-FR": "0",
   "fairs": {
     "2006": [
       {
-        "i": "5466-Art Miami 2006",
+        "i": "5466-Art-Miami-2006",
         "c": "US",
         "n": "Art Miami 2006",
         "ct": "Tucson, AZ"
@@ -26,13 +26,13 @@
     ],
     "2010": [
       {
-        "i": "5466-Artmonaco 2010",
+        "i": "5466-Artmonaco-2010",
         "c": "MC",
         "n": "Artmonaco 2010",
         "ct": "Monaco"
       },
       {
-        "i": "5466-Art Abu Dhabi 2010",
+        "i": "5466-Art-Abu-Dhabi-2010",
         "c": "AE",
         "n": "Art Abu Dhabi 2010",
         "ct": "Abu Dhabi"
@@ -40,13 +40,13 @@
     ],
     "2012": [
       {
-        "i": "5466-ShContemporary 2012",
+        "i": "5466-ShContemporary-2012",
         "c": "CN",
         "n": "ShContemporary 2012",
         "ct": "Shanghai"
       },
       {
-        "i": "5466-Daegu Art Fair 2012",
+        "i": "5466-Daegu-Art-Fair-2012",
         "c": "KR",
         "n": "Daegu Art Fair 2012",
         "ct": "Daegu"
@@ -54,34 +54,48 @@
     ],
     "2013": [
       {
-        "i": "5466-Art Stage Singapore 2013",
+        "i": "5466-Art-Stage-Singapore-2013",
         "c": "SG",
         "n": "Art Stage Singapore 2013",
         "ct": "Singapore"
       },
       {
-        "i": "5466-Art Beijing 2013",
+        "i": "5466-Art-Beijing-2013",
         "c": "CN",
         "n": "Art Beijing 2013",
         "ct": "Beijing"
       },
       {
-        "i": "5466-Kiaf 2013",
+        "i": "5466-Kiaf-2013",
         "c": "KR",
         "n": "Kiaf 2013",
         "ct": "Seoul"
       },
       {
-        "i": "5466-Contemporary Istanbul Art Fair 2013",
+        "i": "5466-Contemporary-Istanbul-Art-Fair-2013",
         "c": "TR",
         "n": "Contemporary Istanbul Art Fair 2013",
         "ct": "Istanbul"
       },
       {
-        "i": "5466-Art Taipei 2013",
+        "i": "5466-Art-Taipei-2013",
         "c": "TW",
         "n": "Art Taipei 2013",
         "ct": "Taipei"
+      }
+    ],
+    "2014": [
+      {
+        "i": "5466-Art-Stage-Singapore-2014",
+        "c": "SG",
+        "n": "Art Stage Singapore 2014",
+        "ct": "Singapore"
+      },
+      {
+        "i": "5466-Zona-Maco-Mexico-2014",
+        "c": "MX",
+        "n": "Zona Maco Mexico 2014",
+        "ct": "Mexico City"
       }
     ]
   }

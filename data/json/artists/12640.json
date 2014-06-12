@@ -1,7 +1,7 @@
 {
   "id": "12640",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:19:56",
+  "timestamp": "2014-05-31 06:25:25",
   "name": "Pierre Gonnord",
   "surname": "Gonnord",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "2122",
-  "r01": "2243",
-  "r02": "2066",
-  "r03": "1775",
+  "r00": "2124",
+  "r01": "2245",
+  "r02": "2067",
+  "r03": "1773",
   "r04": "1599",
-  "r05": "1780",
-  "r06": "2475",
-  "r07": "2346",
+  "r05": "1781",
+  "r06": "2473",
+  "r07": "2347",
   "r08": "4338",
   "awards": null,
   "website": null,
@@ -846,8 +846,72 @@
         "c": "FR"
       },
       {
+        "i": "12640-2691-2014-01-14",
+        "c": "ES",
+        "n": "Reproductibilitat 1.1",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Palma de Mallorca",
+        "o": "Es Baluard Museu d’Art Modern",
+        "d": [
+          "2014-01-14",
+          "2014-03-16"
+        ]
+      },
+      {
+        "i": "12640-2488-2014-02-07",
+        "c": "ES",
+        "n": "Tiempos Abiertos - Fondos de la Colección Artium de Álava",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Salamanca",
+        "o": "DA2 - Domus Artium 2002",
+        "d": [
+          "2014-02-07",
+          "2014-05-04"
+        ]
+      },
+      {
+        "i": "12640-8530-2014-04-05",
+        "c": "SE",
+        "n": "Barockt",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Stockholm",
+        "o": "Kulturhuset Stockholm",
+        "d": [
+          "2014-04-05",
+          "2014-10-19"
+        ],
+        "a": "12640",
+        "an": "Pierre Gonnord"
+      },
+      {
         "i": "12640-28414-2013-10-01",
         "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "12640",
+        "c": "SE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "12640-8530-2014-04-05",
+        "c": "SE",
+        "n": "Barockt",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Stockholm",
+        "o": "Kulturhuset Stockholm",
+        "d": [
+          "2014-04-05",
+          "2014-10-19"
+        ],
+        "a": "12640",
+        "an": "Pierre Gonnord"
       }
     ]
   }

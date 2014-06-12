@@ -1,7 +1,7 @@
 {
   "id": "58774",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:36:46",
+  "timestamp": "2014-05-31 06:42:12",
   "name": "Vincent Labaume",
   "surname": "Labaume",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "20008",
-  "r01": "32348",
-  "r02": "34242",
-  "r03": "28586",
-  "r04": "23161",
-  "r05": "18773",
-  "r06": "16302",
-  "r07": "17307",
-  "r08": "18742",
+  "r00": "20146",
+  "r01": "32434",
+  "r02": "34329",
+  "r03": "28647",
+  "r04": "23208",
+  "r05": "18803",
+  "r06": "16332",
+  "r07": "17328",
+  "r08": "18789",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
@@ -130,6 +130,21 @@
         "d": [
           "2013-07-04",
           "2013-10-11"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "58774-2921-2014-01-23",
+        "c": "US",
+        "n": "Codex",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "San Francisco, CA",
+        "o": "CCA Wattis Institute for Contemporary Arts",
+        "d": [
+          "2014-01-23",
+          "2014-03-29"
         ]
       }
     ],

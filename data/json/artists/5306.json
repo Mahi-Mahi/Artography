@@ -1,7 +1,7 @@
 {
   "id": "5306",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:17:00",
+  "timestamp": "2014-05-31 06:22:33",
   "name": "Laetitia Benat",
   "surname": "Benat",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography, Video",
-  "r00": "14843",
-  "r01": "19334",
-  "r02": "15366",
-  "r03": "12917",
+  "r00": "14921",
+  "r01": "19357",
+  "r02": "15381",
+  "r03": "12919",
   "r04": "13445",
-  "r05": "11967",
-  "r06": "9015",
-  "r07": "8289",
-  "r08": "6838",
+  "r05": "11966",
+  "r06": "9019",
+  "r07": "8291",
+  "r08": "6843",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
@@ -205,6 +205,21 @@
         "d": [
           "2012-11-09",
           "2012-12-22"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "5306-2921-2014-01-23",
+        "c": "US",
+        "n": "Codex",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "San Francisco, CA",
+        "o": "CCA Wattis Institute for Contemporary Arts",
+        "d": [
+          "2014-01-23",
+          "2014-03-29"
         ]
       }
     ]

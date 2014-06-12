@@ -18,7 +18,7 @@
   "fairs": {
     "2005": [
       {
-        "i": "4245-art.fair 2005",
+        "i": "4245-art.fair-2005",
         "c": "DE",
         "n": "art.fair 2005",
         "ct": "Cologne"
@@ -26,17 +26,17 @@
     ],
     "2006": [
       {
-        "i": "4245-ARCO 06",
+        "i": "4245-ARCO-06",
         "c": "ES",
         "n": "ARCO 06",
         "ct": "Madrid"
       },
       {
-        "i": "4245-ArtParis 06",
+        "i": "4245-ArtParis-06",
         "c": "FR"
       },
       {
-        "i": "4245-Art Brussels 2006- 24th Contemporary Art Fair",
+        "i": "4245-Art-Brussels-2006--24th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2006- 24th Contemporary Art Fair",
         "ct": "Brussels"
@@ -44,7 +44,7 @@
     ],
     "2007": [
       {
-        "i": "4245-ArtParis 07",
+        "i": "4245-ArtParis-07",
         "c": "FR"
       }
     ]

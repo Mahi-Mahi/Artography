@@ -1,7 +1,7 @@
 {
   "id": "17323",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:49",
+  "timestamp": "2014-05-31 06:27:20",
   "name": "Caroline Achaintre",
   "surname": "Achaintre",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Works on Paper",
-  "r00": "4637",
-  "r01": "5090",
-  "r02": "6268",
-  "r03": "8341",
-  "r04": "7886",
-  "r05": "11665",
-  "r06": "11102",
-  "r07": "10173",
-  "r08": "8973",
+  "r00": "4661",
+  "r01": "5080",
+  "r02": "6252",
+  "r03": "8362",
+  "r04": "7898",
+  "r05": "11684",
+  "r06": "11118",
+  "r07": "10188",
+  "r08": "8980",
   "awards": null,
   "website": "www.carolineachaintre.com",
   "all-shows-first": "2001",
@@ -33,7 +33,7 @@
   "2005-shows-galleries": "14",
   "2005-shows-museums": "11",
   "2005-countries-total": "United Kingdom (18), Germany (4), France (2), Norway (2), USA (2), Canada (1), Ireland (Republic) (1), Switzerland (1)",
-  "2005-shows-with": "Caroline Achaintre (26), Mai-Thu Perret (3), Sylvie Auvray (2), Jonathan Baldock (2), Anna Barham (2), Guidette Carbonell (2), Alice Channer (2), Isabelle Cornaro (2), Alexandre da Cunha (2), Dewar & Gicquel (2), Jess Flood-Paddock (2), Elsie Giauque (2), Karl Larsson (2), Laura Oldfield Ford (2), Clunie Reid (2), Lynette Yiadom-Boakye (2), George Young (2)",
+  "2005-shows-with": "Caroline Achaintre (26), Mai-Thu Perret (3), Sylvie Auvray (2), Jonathan Baldock (2), Anna Barham (2), Alexander Calder (2), Guidette Carbonell (2), Alice Channer (2), Isabelle Cornaro (2), Alexandre da Cunha (2), Dewar & Gicquel (2), Jess Flood-Paddock (2), Elsie Giauque (2), Karl Larsson (2), Marilyn Minter (2), Laura Oldfield Ford (2), Clunie Reid (2), Lynette Yiadom-Boakye (2), George Young (2)",
   "representing-galleries": "Galerie Mirko Mayer / m-projects (An der Schanz 1, 50735 Cologne, Germany); Arcade Fine Arts (87 Lever Street, EC1V 3RA London, United Kingdom)",
   "collecting-museums": "The Saatchi Gallery (Duke of York’s HQ, King’s Road, SW3 4SQ London, United Kingdom)",
   "first_name": "Caroline",
@@ -616,6 +616,52 @@
     "2014": [
       {
         "i": "17323-1293-2013-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "17323-10522-2014-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "17323-10522-2014-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "17323-23328-2014-06-26",
+        "c": "US",
+        "n": "More Material",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Salon 94 Bowery",
+        "d": [
+          "2014-06-26",
+          "2014-08-01"
+        ]
+      },
+      {
+        "i": "17323-18467-2014-01-23",
+        "c": "GB",
+        "n": "Caroline Achaintre",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "London",
+        "o": "Arcade Fine Arts",
+        "d": [
+          "2014-01-23",
+          "2014-03-01"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "17323",
+        "c": "FR",
+        "g": "f",
+        "a": "41-60"
+      },
+      {
+        "i": "17323-10522-2014-05-06",
         "c": "FR"
       }
     ]

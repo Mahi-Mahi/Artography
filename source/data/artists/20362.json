@@ -1,7 +1,7 @@
 {
   "id": "20362",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:22:59",
+  "timestamp": "2014-05-31 06:28:31",
   "name": "Paul Virilio",
   "surname": "Virilio",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": "Art theory, Documentary photography",
-  "r00": "12364",
-  "r01": "11105",
-  "r02": "10531",
-  "r03": "8118",
-  "r04": "6875",
-  "r05": "5460",
-  "r06": "5022",
-  "r07": "4621",
+  "r00": "11363",
+  "r01": "11120",
+  "r02": "10544",
+  "r03": "8126",
+  "r04": "6882",
+  "r05": "5458",
+  "r06": "5023",
+  "r07": "4623",
   "r08": "4612",
   "awards": null,
   "website": null,
@@ -31,9 +31,9 @@
   "all-shows-total": "13",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "3",
-  "2005-countries-total": "France (2), Denmark (1), Germany (1), Switzerland (1)",
-  "2005-shows-with": "Paul Virilio (5), Raymond Depardon (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "France (2), Canada (1), Denmark (1), Germany (1), Switzerland (1)",
+  "2005-shows-with": "Paul Virilio (6), Raymond Depardon (2), El Lissitzky (2), Gordon Matta-Clark (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Paul",
@@ -146,6 +146,21 @@
         "d": [
           "2013-03-02",
           "2013-05-20"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "20362-11641-2014-01-24",
+        "c": "CA",
+        "n": "CounterIntelligence",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Toronto, ON",
+        "o": "Justina M Barnicke Gallery, University of Toronto",
+        "d": [
+          "2014-01-24",
+          "2014-03-16"
         ]
       }
     ],

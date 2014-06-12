@@ -1,7 +1,7 @@
 {
   "id": "11685",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:19:36",
+  "timestamp": "2014-05-31 06:25:05",
   "name": "Pierre Carron",
   "surname": "Carron",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "54030",
-  "r01": "91265",
-  "r02": "81758",
-  "r03": "71283",
-  "r04": "61852",
-  "r05": "53086",
-  "r06": "45494",
-  "r07": "38128",
-  "r08": "31711",
+  "r00": "54247",
+  "r01": "91473",
+  "r02": "81891",
+  "r03": "71380",
+  "r04": "61927",
+  "r05": "53162",
+  "r06": "45538",
+  "r07": "38178",
+  "r08": "31739",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
@@ -54,6 +54,21 @@
         "d": [
           "2005-09-20",
           "2005-10-20"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "11685-15217-2014-01-24",
+        "c": "CN",
+        "n": "ChiFra China-France Art Touring Exhibition",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Beijing",
+        "o": "National Art Museum of China - NAMOC",
+        "d": [
+          "2014-01-24",
+          "2014-02-16"
         ]
       }
     ]

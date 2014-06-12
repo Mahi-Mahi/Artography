@@ -1,7 +1,7 @@
 {
   "id": "65132",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:39:02",
+  "timestamp": "2014-05-31 06:44:27",
   "name": "Anita Molinero",
   "surname": "Molinero",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Installation",
-  "r00": "2511",
-  "r01": "2850",
+  "r00": "2386",
+  "r01": "2706",
   "r02": "3358",
   "r03": "3940",
-  "r04": "3167",
-  "r05": "2964",
-  "r06": "2917",
+  "r04": "3170",
+  "r05": "2967",
+  "r06": "2920",
   "r07": "2949",
-  "r08": "4302",
+  "r08": "4304",
   "awards": null,
   "website": null,
   "all-shows-first": "1981",
   "all-shows-total": "62",
   "2005-shows-biennials": "14",
   "2005-shows-galleries": "14",
-  "2005-shows-museums": "20",
-  "2005-countries-total": "France (31), Germany (3), Switzerland (3), Belgium (1), Croatia (1)",
-  "2005-shows-with": "Anita Molinero (34), Didier Marcel (8), Mathieu Mercier (6), John M Armleder (5), Franz West (5), Richard Fauguet (4), Pierre Ardouvin (3), Atelier van Lieshout (3), Sylvie Auvray (3), Madeleine Berkhemer (3), Katinka Bock (3), Etienne Bossut (3), Andrea Branzi (3), Tony Brown (3), Patrick van Caeckenbergh (3), Claude Closky (3), Patrice Gaillard & Claude (3), Vidya Gastaldon (3), Jochen Gerner (3), Jan Kopp (3), Natacha Lesueur (3), Gordon Matta-Clark (3), Marléne Mocquet (3), Carlo Mollino (3), Laurent Perbos (3), Frédéric Platéus (3), Bernard Quesniaux (3), Aldo Rossi (3), Ettore Sottsass (3), Vincent J. Stoker (3), Bas Jan Ader (2), Wilfrid Almendra (2), Francis Alys (2), Carl Andre (2), Ron Arad (2), Farah Atassi (2), Julien Audebert (2), Fayçal Baghriche (2), Gilles Barbier (2), Jean Luc Blanc (2), Michel Blazy (2), Mohamed Bourouissa (2), Pierre Charpin (2), David Chieppo (2), Johan Creten (2), Bill Culbert (2), François Curlet (2), Stéphane Dafflon (2), Simone Decker (2), Damien Deroubaix (2), ",
+  "2005-shows-museums": "22",
+  "2005-countries-total": "France (33), Germany (3), Switzerland (3), Belgium (1), Croatia (1)",
+  "2005-shows-with": "Anita Molinero (35), Didier Marcel (8), Mathieu Mercier (6), John M Armleder (5), Franz West (5), Richard Fauguet (4), Pierre Ardouvin (3), Atelier van Lieshout (3), Sylvie Auvray (3), Madeleine Berkhemer (3), Katinka Bock (3), Etienne Bossut (3), Andrea Branzi (3), Tony Brown (3), Patrick van Caeckenbergh (3), Claude Closky (3), Marcel Dinahet (3), Patrice Gaillard & Claude (3), Vidya Gastaldon (3), Jochen Gerner (3), Jan Kopp (3), Guillaume Leblon (3), Natacha Lesueur (3), Gordon Matta-Clark (3), Marléne Mocquet (3), Carlo Mollino (3), Laurent Perbos (3), Frédéric Platéus (3), Bernard Quesniaux (3), Aldo Rossi (3), Ettore Sottsass (3), Vincent J. Stoker (3), Raphaël Zarka (3), Bas Jan Ader (2), Wilfrid Almendra (2), Francis Alys (2), Carl Andre (2), Ron Arad (2), Farah Atassi (2), Julien Audebert (2), Fayçal Baghriche (2), Gilles Barbier (2), Marc Bauer (2), Jean Luc Blanc (2), Michel Blazy (2), Mohamed Bourouissa (2), Pierre Charpin (2), David Chieppo (2), Johan Creten (2), Bill Culbert (2), Françoi",
   "representing-galleries": "Galerie Alain Gutharc (7, Rue Saint-Claude, 75003 Paris, France)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Limousin (impasse des Charentes, 87100 Limoges, France)",
   "first_name": "Anita",
@@ -566,6 +566,60 @@
       {
         "i": "65132-20775-2013-10-20",
         "c": "FR"
+      },
+      {
+        "i": "65132-10221-2014-02-01",
+        "c": "FR"
+      },
+      {
+        "i": "65132-10221-2014-02-01",
+        "c": "FR"
+      },
+      {
+        "i": "65132-1778-2014-02-12",
+        "c": "CH",
+        "n": "cycle Des histoires sans fin, séquence printemps 2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2014-02-12",
+          "2014-06-18"
+        ],
+        "a": "65132",
+        "an": "Anita Molinero"
+      },
+      {
+        "i": "65132-8121-2014-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "65132-8121-2014-06-21",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "65132",
+        "c": "CH",
+        "g": "f",
+        "a": "61-100"
+      },
+      {
+        "i": "65132-1778-2014-02-12",
+        "c": "CH",
+        "n": "cycle Des histoires sans fin, séquence printemps 2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2014-02-12",
+          "2014-06-18"
+        ],
+        "a": "65132",
+        "an": "Anita Molinero"
       }
     ]
   }

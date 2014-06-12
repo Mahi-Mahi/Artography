@@ -1,7 +1,7 @@
 {
   "id": "19537",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:22:41",
+  "timestamp": "2014-05-31 06:28:12",
   "name": "Bernadette Delrieu",
   "surname": "Delrieu",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "94544",
-  "r01": "92327",
-  "r02": "86814",
-  "r03": "80042",
-  "r04": "73082",
-  "r05": "62802",
-  "r06": "51976",
-  "r07": "44026",
-  "r08": "35694",
+  "r00": "94854",
+  "r01": "92518",
+  "r02": "86921",
+  "r03": "80132",
+  "r04": "73152",
+  "r05": "62868",
+  "r06": "52032",
+  "r07": "44061",
+  "r08": "35697",
   "awards": null,
   "website": null,
   "all-shows-first": "1976",
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Bernadette",
   "last_name": "Delrieu",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1944-01-01",
   "age": 70,
   "age_range": "61-100",
@@ -89,6 +89,21 @@
       {
         "i": "19537-5341-2010-06-17",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "19537-4258-2014-01-01",
+        "c": "CA",
+        "n": "Forum 76",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Montreal, QC",
+        "o": "The Montreal Museum of Fine Arts - Musée des beaux-arts de Montréal",
+        "d": [
+          "2014-01-01",
+          "2014-01-01"
+        ]
       }
     ]
   }

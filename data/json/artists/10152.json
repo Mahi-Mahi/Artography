@@ -1,7 +1,7 @@
 {
   "id": "10152",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:18:58",
+  "timestamp": "2014-05-31 06:24:27",
   "name": "Djamel Tatah",
   "surname": "Tatah",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "3729",
-  "r01": "4810",
+  "r00": "3744",
+  "r01": "4817",
   "r02": "5924",
-  "r03": "6565",
-  "r04": "6765",
-  "r05": "6239",
-  "r06": "4743",
-  "r07": "4788",
-  "r08": "3896",
+  "r03": "6564",
+  "r04": "6771",
+  "r05": "6244",
+  "r06": "4752",
+  "r07": "4791",
+  "r08": "3899",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
-  "all-shows-total": "45",
+  "all-shows-total": "46",
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
   "2005-shows-museums": "15",
@@ -380,19 +380,6 @@
         "c": "FR"
       },
       {
-        "i": "10152-15658-2013-09-21",
-        "c": "DZ",
-        "n": "Djamel Tatah",
-        "t": "Institution publique",
-        "st": "Solo",
-        "ct": "Algier",
-        "o": "Musée national d’art moderne et contemporain d’Alger",
-        "d": [
-          "2013-09-21",
-          "2013-11-01"
-        ]
-      },
-      {
         "i": "10152-7527-2013-09-21",
         "c": "IT",
         "n": "Djamel Tatah",
@@ -404,6 +391,77 @@
           "2013-09-21",
           "2013-11-21"
         ]
+      },
+      {
+        "i": "10152-15658-2013-09-21",
+        "c": "DZ",
+        "n": "Djamel Tatah",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Algier",
+        "o": "Musée national d’art moderne et contemporain d’Alger",
+        "d": [
+          "2013-09-21",
+          "2013-11-01"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "10152-2582-2014-01-29",
+        "c": "GR",
+        "n": "Painting II (1980-2000)",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2014-01-29",
+          "2014-09-28"
+        ],
+        "a": "10152",
+        "an": "Djamel Tatah"
+      },
+      {
+        "i": "10152-3864-2014-01-14",
+        "c": "FR"
+      },
+      {
+        "i": "10152-3864-2014-01-14",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "10152",
+        "c": "GR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "10152-2582-2014-01-29",
+        "c": "GR",
+        "n": "Painting II (1980-2000)",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Athens",
+        "o": "Frissiras Museum",
+        "d": [
+          "2014-01-29",
+          "2014-09-28"
+        ],
+        "a": "10152",
+        "an": "Djamel Tatah"
+      },
+      {
+        "i": "10152",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "10152-3864-2014-01-14",
+        "c": "FR"
       }
     ]
   }

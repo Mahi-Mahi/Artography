@@ -1,7 +1,7 @@
 {
   "id": "61419",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:37:41",
+  "timestamp": "2014-05-31 06:43:07",
   "name": "Yossi Breger",
   "surname": "Breger",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "16290",
-  "r01": "22355",
-  "r02": "20239",
+  "r00": "16355",
+  "r01": "22366",
+  "r02": "20243",
   "r03": "18578",
-  "r04": "26329",
-  "r05": "30511",
-  "r06": "27183",
-  "r07": "35073",
-  "r08": "22426",
+  "r04": "26320",
+  "r05": "30516",
+  "r06": "27188",
+  "r07": "35095",
+  "r08": "22407",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
@@ -266,6 +266,34 @@
         "d": [
           "2013-01-12",
           "2013-02-16"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "61419-3956-2014-04-12",
+        "c": "IL",
+        "n": "Les yeux seuls sont encore capables de pousser un cri *",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Tel Aviv",
+        "o": "Dvir Gallery",
+        "d": [
+          "2014-04-12",
+          "2014-06-07"
+        ]
+      },
+      {
+        "i": "61419-3956-2014-01-04",
+        "c": "IL",
+        "n": "Yossi Breger - Time Is Not Money",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Tel Aviv",
+        "o": "Dvir Gallery",
+        "d": [
+          "2014-01-04",
+          "2014-02-15"
         ]
       }
     ]

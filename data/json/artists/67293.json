@@ -1,7 +1,7 @@
 {
   "id": "67293",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:39:47",
+  "timestamp": "2014-05-31 06:45:13",
   "name": "Veronique Bourgoin",
   "surname": "Bourgoin",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "22616",
-  "r01": "22756",
-  "r02": "57177",
-  "r03": "51365",
-  "r04": "48259",
-  "r05": "51451",
-  "r06": "41758",
-  "r07": "36400",
-  "r08": "48384",
+  "r00": "22700",
+  "r01": "22775",
+  "r02": "57290",
+  "r03": "51476",
+  "r04": "48341",
+  "r05": "51591",
+  "r06": "41905",
+  "r07": "36510",
+  "r08": "48493",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
@@ -90,19 +90,6 @@
       {
         "i": "67293-24657-2010-04-17",
         "c": "CN",
-        "n": "Magic Trick",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Beijing",
-        "o": "Art Channel",
-        "d": [
-          "2010-04-17",
-          "2010-05-08"
-        ]
-      },
-      {
-        "i": "67293-24657-2010-04-17",
-        "c": "CN",
         "n": "Magic Trick - An Exhibition Of Polaroid Images",
         "t": "Galerie privée",
         "st": "Group",
@@ -111,6 +98,19 @@
         "d": [
           "2010-04-17",
           "2010-05-09"
+        ]
+      },
+      {
+        "i": "67293-24657-2010-04-17",
+        "c": "CN",
+        "n": "Magic Trick",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Beijing",
+        "o": "Art Channel",
+        "d": [
+          "2010-04-17",
+          "2010-05-08"
         ]
       },
       {

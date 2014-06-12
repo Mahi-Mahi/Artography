@@ -12,45 +12,45 @@
   "email": "info@galerieartattitudehervebize.com",
   "www": "www.galerieartattitudehervebize.com",
   "map": "http://maps.google.com/maps?q=Nancy%2C%2054000 %2C%20 %2C%2017-19 rue Gambetta %2C%20France",
-  "fairs-total": "10",
+  "fairs-total": "11",
   "fairs-abroad": "4",
-  "fairs-in-FR": "6",
+  "fairs-in-FR": "7",
   "fairs": {
     "2007": [
       {
-        "i": "2028-Show Off Paris 2007",
+        "i": "2028-Show-Off-Paris-2007",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "2028-Salon du Dessin Contemporain 2008",
+        "i": "2028-Salon-du-Dessin-Contemporain-2008",
         "c": "FR"
       },
       {
-        "i": "2028-Fiac 2008",
+        "i": "2028-Fiac-2008",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "2028-Salon du Dessin Contemporain 2009",
+        "i": "2028-Salon-du-Dessin-Contemporain-2009",
         "c": "FR"
       },
       {
-        "i": "2028-Fiac 2009",
+        "i": "2028-Fiac-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "2028-Art 41 Basel",
+        "i": "2028-Art-41-Basel",
         "c": "CH",
         "n": "Art 41 Basel",
         "ct": "Basel"
       },
       {
-        "i": "2028-Lineart 2010",
+        "i": "2028-Lineart-2010",
         "c": "BE",
         "n": "Lineart 2010",
         "ct": "Ghent"
@@ -58,13 +58,13 @@
     ],
     "2011": [
       {
-        "i": "2028-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "i": "2028-Drawing-Now-Paris---Le-Salon-Du-Dessin-Contemporain-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "2028-The Armory Show 2012",
+        "i": "2028-The-Armory-Show-2012",
         "c": "US",
         "n": "The Armory Show 2012",
         "ct": "New York City, NY"
@@ -72,10 +72,16 @@
     ],
     "2013": [
       {
-        "i": "2028-The Armory Show 2013",
+        "i": "2028-The-Armory-Show-2013",
         "c": "US",
         "n": "The Armory Show 2013",
         "ct": "New York City, NY"
+      }
+    ],
+    "2014": [
+      {
+        "i": "2028-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
+        "c": "FR"
       }
     ]
   }

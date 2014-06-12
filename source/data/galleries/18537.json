@@ -12,13 +12,13 @@
   "email": "antoinehelwaser@yahoo.fr",
   "www": "www.helwasergallery.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2032 rue Jean Mermoz %2C%20France",
-  "fairs-total": "7",
-  "fairs-abroad": "7",
+  "fairs-total": "8",
+  "fairs-abroad": "8",
   "fairs-in-FR": "0",
   "fairs": {
     "2008": [
       {
-        "i": "18537-Art Asia Fair 2008",
+        "i": "18537-Art-Asia-Fair-2008",
         "c": "US",
         "n": "Art Asia Fair 2008",
         "ct": "Miami, FL"
@@ -26,7 +26,7 @@
     ],
     "2010": [
       {
-        "i": "18537-Art Miami 2010",
+        "i": "18537-Art-Miami-2010",
         "c": "US",
         "n": "Art Miami 2010",
         "ct": "Miami, FL"
@@ -34,7 +34,7 @@
     ],
     "2011": [
       {
-        "i": "18537-Art Miami 2011",
+        "i": "18537-Art-Miami-2011",
         "c": "US",
         "n": "Art Miami 2011",
         "ct": "Miami, FL"
@@ -42,13 +42,13 @@
     ],
     "2012": [
       {
-        "i": "18537-Art Southampton 2012",
+        "i": "18537-Art-Southampton-2012",
         "c": "US",
         "n": "Art Southampton 2012",
         "ct": "Tucson, AZ"
       },
       {
-        "i": "18537-Art Miami 2012",
+        "i": "18537-Art-Miami-2012",
         "c": "US",
         "n": "Art Miami 2012",
         "ct": "Miami, FL"
@@ -56,16 +56,24 @@
     ],
     "2013": [
       {
-        "i": "18537-Art Southampton 2013",
+        "i": "18537-Art-Southampton-2013",
         "c": "US",
         "n": "Art Southampton 2013",
         "ct": "Southampton, NY"
       },
       {
-        "i": "18537-Art Miami 2013",
+        "i": "18537-Art-Miami-2013",
         "c": "US",
         "n": "Art Miami 2013",
         "ct": "Miami, FL"
+      }
+    ],
+    "2014": [
+      {
+        "i": "18537-Downtown-Fair-2014",
+        "c": "US",
+        "n": "Downtown Fair 2014",
+        "ct": "New York City, NY"
       }
     ]
   }

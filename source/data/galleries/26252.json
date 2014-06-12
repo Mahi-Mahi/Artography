@@ -12,19 +12,19 @@
   "email": "csmulders@free.fr",
   "www": "www.ilovemyjob.eu",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075010 %2C%20 %2C%204 rue Martel %2C%20France",
-  "fairs-total": "4",
-  "fairs-abroad": "2",
-  "fairs-in-FR": "2",
+  "fairs-total": "6",
+  "fairs-abroad": "3",
+  "fairs-in-FR": "3",
   "fairs": {
     "2011": [
       {
-        "i": "26252-SLICK 2011",
+        "i": "26252-SLICK-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "26252-The Solo Project 2012",
+        "i": "26252-The-Solo-Project-2012",
         "c": "CH",
         "n": "The Solo Project 2012",
         "ct": "Basel"
@@ -32,13 +32,25 @@
     ],
     "2013": [
       {
-        "i": "26252-Artgenève - Salon international ",
+        "i": "26252-Artgenève---Salon-international-",
         "c": "CH",
         "n": "Artgenève - Salon international ",
         "ct": "Geneva"
       },
       {
-        "i": "26252-Yia Art Fair 2013",
+        "i": "26252-Yia-Art-Fair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "26252-Artgenève-2014",
+        "c": "CH",
+        "n": "Artgenève 2014",
+        "ct": "Geneva"
+      },
+      {
+        "i": "26252-Artparis-2014",
         "c": "FR"
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "17082",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:44",
+  "timestamp": "2014-05-31 06:27:15",
   "name": "Bruno Perramant",
   "surname": "Perramant",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "3996",
+  "r00": "4013",
   "r01": "4053",
-  "r02": "3848",
-  "r03": "3057",
-  "r04": "2762",
+  "r02": "3849",
+  "r03": "3054",
+  "r04": "2764",
   "r05": "2551",
-  "r06": "2275",
+  "r06": "2274",
   "r07": "3107",
-  "r08": "2462",
+  "r08": "2460",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
@@ -66,19 +66,6 @@
         ]
       },
       {
-        "i": "17082-264-2005-10-29",
-        "c": "DE",
-        "n": "Bruno Perramant",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Cologne",
-        "o": "Rolf Hengesbach/Räume für neue Kunst",
-        "d": [
-          "2005-10-29",
-          "2006-02-02"
-        ]
-      },
-      {
         "i": "17082-22303-2005-10-29",
         "c": "DE",
         "n": "Bruno Perramant",
@@ -86,6 +73,19 @@
         "st": "Solo",
         "ct": "Berlin",
         "o": "Hengesbach Gallery",
+        "d": [
+          "2005-10-29",
+          "2006-02-02"
+        ]
+      },
+      {
+        "i": "17082-264-2005-10-29",
+        "c": "DE",
+        "n": "Bruno Perramant",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Cologne",
+        "o": "Rolf Hengesbach/Räume für neue Kunst",
         "d": [
           "2005-10-29",
           "2006-02-02"
@@ -167,19 +167,6 @@
         ]
       },
       {
-        "i": "17082-264-2005-10-29",
-        "c": "DE",
-        "n": "Bruno Perramant",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Cologne",
-        "o": "Rolf Hengesbach/Räume für neue Kunst",
-        "d": [
-          "2005-10-29",
-          "2006-02-02"
-        ]
-      },
-      {
         "i": "17082-22303-2005-10-29",
         "c": "DE",
         "n": "Bruno Perramant",
@@ -187,6 +174,19 @@
         "st": "Solo",
         "ct": "Berlin",
         "o": "Hengesbach Gallery",
+        "d": [
+          "2005-10-29",
+          "2006-02-02"
+        ]
+      },
+      {
+        "i": "17082-264-2005-10-29",
+        "c": "DE",
+        "n": "Bruno Perramant",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Cologne",
+        "o": "Rolf Hengesbach/Räume für neue Kunst",
         "d": [
           "2005-10-29",
           "2006-02-02"
@@ -548,6 +548,49 @@
       },
       {
         "i": "17082-28277-2012-11-09",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "17082-18685-2014-01-17",
+        "c": "BE",
+        "n": "Saint Jerome",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Meessen De Clercq",
+        "d": [
+          "2014-01-17",
+          "2014-03-22"
+        ]
+      },
+      {
+        "i": "17082-28277-2014-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "17082-28277-2014-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "17082-2037-2014-02-05",
+        "c": "FR"
+      },
+      {
+        "i": "17082-2037-2014-02-05",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "17082",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "17082-28277-2014-03-07",
         "c": "FR"
       }
     ],

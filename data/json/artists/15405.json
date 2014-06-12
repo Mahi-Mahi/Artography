@@ -1,7 +1,7 @@
 {
   "id": "15405",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:02",
+  "timestamp": "2014-05-31 06:26:32",
   "name": "Jean-Christian Bourcart",
   "surname": "Bourcart",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "15303",
-  "r01": "14807",
-  "r02": "12906",
-  "r03": "11500",
-  "r04": "10970",
-  "r05": "11206",
-  "r06": "10065",
-  "r07": "7811",
-  "r08": "10054",
+  "r00": "15368",
+  "r01": "14818",
+  "r02": "12911",
+  "r03": "11504",
+  "r04": "10979",
+  "r05": "11204",
+  "r06": "10069",
+  "r07": "7817",
+  "r08": "10057",
   "awards": "Gilles-Dusein Award,Jury Prize, Jeu de Paume, Paris,2nd Prize, Brooklyn Midnight Run,Honourable Mention, Philadelphia Film Festival,Jury Prize, Belfort Festival,World Press Awards, Art Category, Amsterdam,Polaroïd Prize",
   "website": null,
   "all-shows-first": "1996",
@@ -342,6 +342,28 @@
           "2013-06-01",
           "2013-08-11"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "15405-27941-2014-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "15405-27941-2014-05-28",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "15405",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "15405-27941-2014-05-28",
+        "c": "FR"
       }
     ]
   }

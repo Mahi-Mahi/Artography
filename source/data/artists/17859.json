@@ -1,7 +1,7 @@
 {
   "id": "17859",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:22:02",
+  "timestamp": "2014-05-31 06:27:33",
   "name": "Luc Delahaye",
   "surname": "Delahaye",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "945",
-  "r01": "957",
+  "r00": "951",
+  "r01": "962",
   "r02": "1240",
-  "r03": "1489",
+  "r03": "1490",
   "r04": "1710",
   "r05": "1354",
   "r06": "1115",
   "r07": "975",
-  "r08": "1004",
+  "r08": "1006",
   "awards": "The Deutsche Börse Photography Prize 2005,Prix Pictet,Prix Niepce,Robert Capa Gold Medal,ICP Infinity Award,Oskar Barnack Award,Robert Capa Gold Medal",
   "website": null,
   "all-shows-first": "2000",
@@ -447,6 +447,19 @@
         "c": "FR"
       },
       {
+        "i": "17859-12812-2008-03-14",
+        "c": "CH",
+        "n": "Panoramic scenes",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Centre de la photographie",
+        "d": [
+          "2008-03-14",
+          "2008-05-11"
+        ]
+      },
+      {
         "i": "17859-11399-2008-03-14",
         "c": "ES",
         "n": "FOTO-ESPACIOS de la colección MUSAC",
@@ -470,19 +483,6 @@
         "d": [
           "2008-03-14",
           "2008-06-08"
-        ]
-      },
-      {
-        "i": "17859-12812-2008-03-14",
-        "c": "CH",
-        "n": "Panoramic scenes",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Geneva",
-        "o": "Centre de la photographie",
-        "d": [
-          "2008-03-14",
-          "2008-05-11"
         ]
       },
       {
@@ -527,19 +527,19 @@
         ]
       },
       {
-        "i": "17859--2009-01-15",
-        "c": "FR"
-      },
-      {
-        "i": "17859--2009-01-15",
-        "c": "FR"
-      },
-      {
         "i": "17859-10351-2009-01-15",
         "c": "FR"
       },
       {
         "i": "17859-10351-2009-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "17859--2009-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "17859--2009-01-15",
         "c": "FR"
       },
       {
@@ -633,19 +633,6 @@
         ]
       },
       {
-        "i": "17859-12877-2011-05-01",
-        "c": "TR",
-        "n": "New Documentaries Form at Tate Modern",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Istanbul",
-        "o": "Akbank Art Center",
-        "d": [
-          "2011-05-01",
-          "2012-03-31"
-        ]
-      },
-      {
         "i": "17859-2234-2011-05-01",
         "c": "GB",
         "n": "Photography: New Documentary Forms",
@@ -653,6 +640,19 @@
         "st": "Group",
         "ct": "London",
         "o": "Tate Modern",
+        "d": [
+          "2011-05-01",
+          "2012-03-31"
+        ]
+      },
+      {
+        "i": "17859-12877-2011-05-01",
+        "c": "TR",
+        "n": "New Documentaries Form at Tate Modern",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Istanbul",
+        "o": "Akbank Art Center",
         "d": [
           "2011-05-01",
           "2012-03-31"
@@ -672,6 +672,10 @@
         ]
       },
       {
+        "i": "17859-19358-2011-09-16",
+        "c": "FR"
+      },
+      {
         "i": "17859-2443-2011-09-16",
         "c": "AU",
         "n": "In camera and in public",
@@ -685,29 +689,12 @@
         ]
       },
       {
-        "i": "17859-19358-2011-09-16",
-        "c": "FR"
-      },
-      {
         "i": "17859-27826-2011-09-17",
         "c": "FR"
       },
       {
         "i": "17859-27826-2011-09-17",
         "c": "FR"
-      },
-      {
-        "i": "17859-2452-2011-10-01",
-        "c": "US",
-        "n": "The Unseen Eye: Photographs from the W.M. Hunt Collection",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Rochester, NY",
-        "o": "George Eastman House International Museum of Photography and Film",
-        "d": [
-          "2011-10-01",
-          "2012-02-19"
-        ]
       },
       {
         "i": "17859-22253-2011-10-01",
@@ -723,12 +710,17 @@
         ]
       },
       {
-        "i": "17859-1955-2011-01-08",
-        "c": "FR"
-      },
-      {
-        "i": "17859-1955-2011-01-08",
-        "c": "FR"
+        "i": "17859-2452-2011-10-01",
+        "c": "US",
+        "n": "The Unseen Eye: Photographs from the W.M. Hunt Collection",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rochester, NY",
+        "o": "George Eastman House International Museum of Photography and Film",
+        "d": [
+          "2011-10-01",
+          "2012-02-19"
+        ]
       },
       {
         "i": "17859-18199-2011-01-08",
@@ -742,22 +734,17 @@
           "2011-01-08",
           "2011-03-05"
         ]
+      },
+      {
+        "i": "17859-1955-2011-01-08",
+        "c": "FR"
+      },
+      {
+        "i": "17859-1955-2011-01-08",
+        "c": "FR"
       }
     ],
     "2012": [
-      {
-        "i": "17859-12877-2011-05-01",
-        "c": "TR",
-        "n": "New Documentaries Form at Tate Modern",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Istanbul",
-        "o": "Akbank Art Center",
-        "d": [
-          "2011-05-01",
-          "2012-03-31"
-        ]
-      },
       {
         "i": "17859-2234-2011-05-01",
         "c": "GB",
@@ -772,21 +759,21 @@
         ]
       },
       {
-        "i": "17859-19358-2011-09-16",
-        "c": "FR"
-      },
-      {
-        "i": "17859-2452-2011-10-01",
-        "c": "US",
-        "n": "The Unseen Eye: Photographs from the W.M. Hunt Collection",
+        "i": "17859-12877-2011-05-01",
+        "c": "TR",
+        "n": "New Documentaries Form at Tate Modern",
         "t": "Institution publique",
         "st": "Group",
-        "ct": "Rochester, NY",
-        "o": "George Eastman House International Museum of Photography and Film",
+        "ct": "Istanbul",
+        "o": "Akbank Art Center",
         "d": [
-          "2011-10-01",
-          "2012-02-19"
+          "2011-05-01",
+          "2012-03-31"
         ]
+      },
+      {
+        "i": "17859-19358-2011-09-16",
+        "c": "FR"
       },
       {
         "i": "17859-22253-2011-10-01",
@@ -799,6 +786,19 @@
         "d": [
           "2011-10-01",
           "2012-01-08"
+        ]
+      },
+      {
+        "i": "17859-2452-2011-10-01",
+        "c": "US",
+        "n": "The Unseen Eye: Photographs from the W.M. Hunt Collection",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rochester, NY",
+        "o": "George Eastman House International Museum of Photography and Film",
+        "d": [
+          "2011-10-01",
+          "2012-02-19"
         ]
       },
       {
@@ -836,19 +836,6 @@
         "c": "FR"
       },
       {
-        "i": "17859-1136-2012-04-20",
-        "c": "DE",
-        "n": "Making History",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Frankfurt/Main",
-        "o": "Frankfurter Kunstverein",
-        "d": [
-          "2012-04-20",
-          "2012-07-08"
-        ]
-      },
-      {
         "i": "17859-2296-2012-04-20",
         "c": "DE",
         "n": "Making History",
@@ -856,6 +843,19 @@
         "st": "Group",
         "ct": "Frankfurt/Main",
         "o": "Museum für Moderne Kunst (MMK)",
+        "d": [
+          "2012-04-20",
+          "2012-07-08"
+        ]
+      },
+      {
+        "i": "17859-1136-2012-04-20",
+        "c": "DE",
+        "n": "Making History",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Frankfurt/Main",
+        "o": "Frankfurter Kunstverein",
         "d": [
           "2012-04-20",
           "2012-07-08"
@@ -1247,6 +1247,73 @@
           "2013-12-05",
           "2014-01-30"
         ]
+      },
+      {
+        "i": "17859-6952-2014-02-01",
+        "c": "US",
+        "n": "Prix Pictet: Power",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "San Diego, CA",
+        "o": "The Museum of Photographic Arts",
+        "d": [
+          "2014-02-01",
+          "2014-05-18"
+        ]
+      },
+      {
+        "i": "17859-5490-2014-02-07",
+        "c": "ES",
+        "n": "Historia, Miradas De Artistas",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Vigo",
+        "o": "MARCO Museo de Arte Contemporánea de Vigo",
+        "d": [
+          "2014-02-07",
+          "2014-05-25"
+        ]
+      },
+      {
+        "i": "17859-8129-2014-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "17859-8129-2014-02-15",
+        "c": "FR"
+      },
+      {
+        "i": "17859-27941-2014-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "17859-27941-2014-05-28",
+        "c": "FR"
+      },
+      {
+        "i": "17859-2331-2014-07-12",
+        "c": "LU",
+        "n": "Damage Control",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2014-07-12",
+          "2014-10-12"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "17859",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "17859-27941-2014-05-28",
+        "c": "FR"
       }
     ]
   }

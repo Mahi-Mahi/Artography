@@ -1,7 +1,7 @@
 {
   "id": "190820",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:21:50",
+  "timestamp": "2014-05-31 07:27:13",
   "name": "Mohamed Bourouissa",
   "surname": "Bourouissa",
   "nationality": "FR, DZ",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "1048",
-  "r01": "1266",
-  "r02": "1881",
-  "r03": "2371",
-  "r04": "4071",
+  "r00": "1053",
+  "r01": "1269",
+  "r02": "1879",
+  "r03": "2372",
+  "r04": "4076",
   "r05": "10295",
-  "r06": "18882",
+  "r06": "18892",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -328,15 +328,15 @@
         "c": "FR"
       },
       {
-        "i": "190820-26372-2011-11-16",
-        "c": "FR"
-      },
-      {
-        "i": "190820-26372-2011-11-16",
-        "c": "FR"
-      },
-      {
         "i": "190820-30968-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "190820-26372-2011-11-16",
+        "c": "FR"
+      },
+      {
+        "i": "190820-26372-2011-11-16",
         "c": "FR"
       },
       {
@@ -785,6 +785,108 @@
         "d": [
           "2013-12-05",
           "2014-01-30"
+        ]
+      },
+      {
+        "i": "190820-6952-2014-02-01",
+        "c": "US",
+        "n": "Prix Pictet: Power",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "San Diego, CA",
+        "o": "The Museum of Photographic Arts",
+        "d": [
+          "2014-02-01",
+          "2014-05-18"
+        ]
+      },
+      {
+        "i": "190820-5490-2014-02-07",
+        "c": "ES",
+        "n": "Historia, Miradas De Artistas",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Vigo",
+        "o": "MARCO Museo de Arte Contemporánea de Vigo",
+        "d": [
+          "2014-02-07",
+          "2014-05-25"
+        ]
+      },
+      {
+        "i": "190820-2296-2014-03-21",
+        "c": "DE",
+        "n": "Die Göttliche Komödie. Himmel, Hölle, Fegefeuer aus Sicht afrikanischer Gegenwartskünstler",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Frankfurt/Main",
+        "o": "Museum für Moderne Kunst (MMK)",
+        "d": [
+          "2014-03-21",
+          "2014-07-27"
+        ],
+        "a": "190820",
+        "an": "Mohamed Bourouissa"
+      },
+      {
+        "i": "190820-3457-2014-05-09",
+        "c": "SN",
+        "n": "Dak'Art 2014 - 11ème Biennale de l&#8217;Art Africain Contemporain",
+        "st": "Group",
+        "ct": "Dakar",
+        "o": "Dak'Art Biennale de l’art africain contemporain",
+        "d": [
+          "2014-05-09",
+          "2014-06-08"
+        ]
+      },
+      {
+        "i": "190820-16680-2014-10-25",
+        "c": "US",
+        "n": "Prospect.3: Notes for Now",
+        "st": "Group",
+        "ct": "New Orleans, LA",
+        "o": "Prospect New Orleans",
+        "d": [
+          "2014-10-25",
+          "2015-01-01"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "190820",
+        "c": "DE",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "190820-2296-2014-03-21",
+        "c": "DE",
+        "n": "Die Göttliche Komödie. Himmel, Hölle, Fegefeuer aus Sicht afrikanischer Gegenwartskünstler",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Frankfurt/Main",
+        "o": "Museum für Moderne Kunst (MMK)",
+        "d": [
+          "2014-03-21",
+          "2014-07-27"
+        ],
+        "a": "190820",
+        "an": "Mohamed Bourouissa"
+      }
+    ],
+    "2015": [
+      {
+        "i": "190820-16680-2014-10-25",
+        "c": "US",
+        "n": "Prospect.3: Notes for Now",
+        "st": "Group",
+        "ct": "New Orleans, LA",
+        "o": "Prospect New Orleans",
+        "d": [
+          "2014-10-25",
+          "2015-01-01"
         ]
       }
     ]

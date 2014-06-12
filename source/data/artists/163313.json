@@ -1,7 +1,7 @@
 {
   "id": "163313",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:12:23",
+  "timestamp": "2014-05-31 07:17:47",
   "name": "Olivier Sévère",
   "surname": "Sévère",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "15737",
-  "r01": "15758",
-  "r02": "33100",
-  "r03": "29597",
-  "r04": "25851",
-  "r05": "27897",
-  "r06": "28694",
-  "r07": "41379",
-  "r08": "35306",
+  "r00": "15742",
+  "r01": "15725",
+  "r02": "33117",
+  "r03": "29605",
+  "r04": "25841",
+  "r05": "27909",
+  "r06": "28697",
+  "r07": "41424",
+  "r08": "35309",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
   "all-shows-total": "15",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
   "2005-shows-museums": "6",
-  "2005-countries-total": "France (11), Germany (1)",
-  "2005-shows-with": "Olivier Sévère (9), Joan Braun (2), Nathalie Du Pasquier (2), Richard Fauguet (2), Emilie Pitoiset (2)",
+  "2005-countries-total": "France (12), Germany (1)",
+  "2005-shows-with": "Olivier Sévère (10), Joan Braun (2), Nathalie Du Pasquier (2), Richard Fauguet (2), Emilie Pitoiset (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Olivier",
@@ -161,6 +161,28 @@
       },
       {
         "i": "163313-18800-2013-02-03",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "163313-26257-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "163313-26257-2014-06-06",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "163313",
+        "c": "FR",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "163313-26257-2014-06-06",
         "c": "FR"
       }
     ],

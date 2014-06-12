@@ -1,7 +1,7 @@
 {
   "id": "23067",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:23:57",
+  "timestamp": "2014-05-31 06:29:28",
   "name": "Tancredi Mangano",
   "surname": "Mangano",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": "Photography",
-  "r00": "20865",
-  "r01": "53559",
-  "r02": "43389",
-  "r03": "35456",
-  "r04": "29334",
-  "r05": "27230",
-  "r06": "30152",
-  "r07": "24398",
-  "r08": "21955",
+  "r00": "20972",
+  "r01": "53656",
+  "r02": "43448",
+  "r03": "35488",
+  "r04": "29347",
+  "r05": "27243",
+  "r06": "30176",
+  "r07": "24412",
+  "r08": "21969",
   "awards": null,
   "website": "www.tancredimangano.com",
   "all-shows-first": "1996",
@@ -38,7 +38,7 @@
   "collecting-museums": "Museo Fotografia Contemporanea (Villa Ghirlanda, via Frova 10, 20092 Cinisello Balsamo, MI, Italy)",
   "first_name": "Tancredi",
   "last_name": "Mangano",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1969-01-01",
   "age": 45,
   "age_range": "41-60",
@@ -144,6 +144,76 @@
           "2010-12-03",
           "2011-02-07"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "23067-20629-2014-02-09",
+        "c": "IT",
+        "n": "Belvedere Landscapes and visions in the MA*GA´s collection",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gallarte, VA",
+        "o": "Museo MAGA",
+        "d": [
+          "2014-02-09",
+          "2014-08-03"
+        ],
+        "a": "23067",
+        "an": "Tancredi Mangano"
+      },
+      {
+        "i": "23067-2376-2014-05-21",
+        "c": "IT",
+        "n": "Altro dalle Immagini &#8211; Da Guarene all&#8217;Etna 1999/2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Turin",
+        "o": "Fondazione Sandretto Re Rebaudengo",
+        "d": [
+          "2014-05-21",
+          "2014-09-09"
+        ],
+        "a": "23067",
+        "an": "Tancredi Mangano"
+      }
+    ],
+    "today": [
+      {
+        "i": "23067",
+        "c": "IT",
+        "g": "n",
+        "a": "41-60"
+      },
+      {
+        "i": "23067-20629-2014-02-09",
+        "c": "IT",
+        "n": "Belvedere Landscapes and visions in the MA*GA´s collection",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gallarte, VA",
+        "o": "Museo MAGA",
+        "d": [
+          "2014-02-09",
+          "2014-08-03"
+        ],
+        "a": "23067",
+        "an": "Tancredi Mangano"
+      },
+      {
+        "i": "23067-2376-2014-05-21",
+        "c": "IT",
+        "n": "Altro dalle Immagini &#8211; Da Guarene all&#8217;Etna 1999/2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Turin",
+        "o": "Fondazione Sandretto Re Rebaudengo",
+        "d": [
+          "2014-05-21",
+          "2014-09-09"
+        ],
+        "a": "23067",
+        "an": "Tancredi Mangano"
       }
     ]
   }

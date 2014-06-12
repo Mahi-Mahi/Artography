@@ -12,13 +12,13 @@
   "email": "info@galeriejosephtang.com",
   "www": "www.galeriejosephtang.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%201, rue CharlesFrancois Dupuis %2C%20France",
-  "fairs-total": "4",
-  "fairs-abroad": "4",
+  "fairs-total": "5",
+  "fairs-abroad": "5",
   "fairs-in-FR": "0",
   "fairs": {
     "2012": [
       {
-        "i": "29070-Artissima 19",
+        "i": "29070-Artissima-19",
         "c": "IT",
         "n": "Artissima 19",
         "ct": "Turin"
@@ -26,22 +26,30 @@
     ],
     "2013": [
       {
-        "i": "29070-abc art berlin contemporary 2013",
+        "i": "29070-abc-art-berlin-contemporary-2013",
         "c": "DE",
         "n": "abc art berlin contemporary 2013",
         "ct": "Berlin"
       },
       {
-        "i": "29070-Artissima 2013",
+        "i": "29070-Artissima-2013",
         "c": "IT",
         "n": "Artissima 2013",
         "ct": "Turin"
       },
       {
-        "i": "29070-The Nada Art Fair Miami 2013",
+        "i": "29070-The-Nada-Art-Fair-Miami-2013",
         "c": "US",
         "n": "The Nada Art Fair Miami 2013",
         "ct": "Miami Beach, FL"
+      }
+    ],
+    "2014": [
+      {
+        "i": "29070-Art-Brussel-2014",
+        "c": "BE",
+        "n": "Art Brussel 2014",
+        "ct": "Brussels"
       }
     ]
   }

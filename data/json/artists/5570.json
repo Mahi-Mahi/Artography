@@ -1,7 +1,7 @@
 {
   "id": "5570",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:17:08",
+  "timestamp": "2014-05-31 06:22:41",
   "name": "Philippe Pasqua",
   "surname": "Pasqua",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Drawings",
-  "r00": "6633",
-  "r01": "6475",
-  "r02": "5685",
-  "r03": "7121",
-  "r04": "8045",
-  "r05": "15315",
-  "r06": "13087",
-  "r07": "10056",
-  "r08": "9987",
+  "r00": "6662",
+  "r01": "6477",
+  "r02": "5678",
+  "r03": "7122",
+  "r04": "8048",
+  "r05": "15322",
+  "r06": "13089",
+  "r07": "10062",
+  "r08": "9990",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
@@ -244,19 +244,6 @@
         ]
       },
       {
-        "i": "5570-14162-2011-07-02",
-        "c": "BE",
-        "n": "Philippe Pasqua",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Knokke",
-        "o": "Absolute Art Gallery - Knokke",
-        "d": [
-          "2011-07-02",
-          "2011-07-31"
-        ]
-      },
-      {
         "i": "5570-28980-2011-07-02",
         "c": "KR",
         "n": "Philippe Pasqua",
@@ -267,6 +254,19 @@
         "d": [
           "2011-07-02",
           "2011-07-30"
+        ]
+      },
+      {
+        "i": "5570-14162-2011-07-02",
+        "c": "BE",
+        "n": "Philippe Pasqua",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Knokke",
+        "o": "Absolute Art Gallery - Knokke",
+        "d": [
+          "2011-07-02",
+          "2011-07-31"
         ]
       },
       {

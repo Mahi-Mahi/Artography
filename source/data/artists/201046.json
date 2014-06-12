@@ -1,7 +1,7 @@
 {
   "id": "201046",
   "mergedIDs": "369635",
-  "timestamp": "2014-05-24 07:25:20",
+  "timestamp": "2014-05-31 07:30:41",
   "name": "Emmanuelle Bayart",
   "surname": "Bayart",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "19456",
-  "r01": "36350",
-  "r02": "80737",
-  "r03": "74938",
-  "r04": "68803",
-  "r05": "62036",
-  "r06": "55270",
+  "r00": "19530",
+  "r01": "36399",
+  "r02": "80849",
+  "r03": "75034",
+  "r04": "68876",
+  "r05": "62089",
+  "r06": "55311",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
-  "all-shows-first": "2006",
-  "all-shows-total": "6",
+  "all-shows-first": "2008",
+  "all-shows-total": "5",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
   "2005-shows-museums": "5",
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Emmanuelle",
   "last_name": "Bayart",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1981-01-01",
   "age": 33,
   "age_range": "26-40",
@@ -83,6 +83,29 @@
         "d": [
           "2013-06-05",
           "2013-07-28"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "201046-23923-2014-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "201046-23923-2014-03-06",
+        "c": "FR"
+      },
+      {
+        "i": "201046-12812-2014-01-24",
+        "c": "CH",
+        "n": "Emmanuelle Bayart - Commémoration",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Geneva",
+        "o": "Centre de la photographie",
+        "d": [
+          "2014-01-24",
+          "2014-03-23"
         ]
       }
     ]

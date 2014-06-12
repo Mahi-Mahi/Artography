@@ -1,7 +1,7 @@
 {
   "id": "12751",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:19:59",
+  "timestamp": "2014-05-31 06:25:28",
   "name": "Bernard Plossu",
   "surname": "Plossu",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "3488",
-  "r01": "3289",
+  "r00": "3504",
+  "r01": "3293",
   "r02": "2865",
-  "r03": "3325",
-  "r04": "3039",
-  "r05": "3293",
+  "r03": "3326",
+  "r04": "3038",
+  "r05": "3291",
   "r06": "3659",
   "r07": "3295",
-  "r08": "5756",
+  "r08": "5753",
   "awards": null,
   "website": "www.plossu.com",
   "all-shows-first": "1976",
-  "all-shows-total": "85",
+  "all-shows-total": "88",
   "2005-shows-biennials": "15",
   "2005-shows-galleries": "15",
   "2005-shows-museums": "24",
@@ -769,6 +769,32 @@
       {
         "i": "12751-11263-2013-09-20",
         "c": "FR"
+      },
+      {
+        "i": "12751-30306-2014-01-16",
+        "c": "MA",
+        "n": "Bernard Plossu - Maroc Et Autres Sites",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Casablanca",
+        "o": "Musée de la Fondation Abderrahman Slaoui",
+        "d": [
+          "2014-01-16",
+          "2014-02-14"
+        ]
+      },
+      {
+        "i": "12751-21318-2014-02-06",
+        "c": "ES",
+        "n": "Bernard Plossu",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "A Coruña",
+        "o": "Galeria Vilaseco Hauser",
+        "d": [
+          "2014-02-06",
+          "2014-04-04"
+        ]
       }
     ]
   }

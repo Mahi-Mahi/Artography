@@ -12,25 +12,25 @@
   "email": "info@laurentgodin.com",
   "www": "www.laurentgodin.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%205 Rue du Grenier Saint Lazare %2C%20France",
-  "fairs-total": "55",
-  "fairs-abroad": "33",
-  "fairs-in-FR": "22",
+  "fairs-total": "58",
+  "fairs-abroad": "35",
+  "fairs-in-FR": "23",
   "fairs": {
     "2006": [
       {
-        "i": "5908-MiArt 2006 - 11th international modern and contemporary art fair",
+        "i": "5908-MiArt-2006---11th-international-modern-and-contemporary-art-fair",
         "c": "IT",
         "n": "MiArt 2006 - 11th international modern and contemporary art fair",
         "ct": "Milan"
       },
       {
-        "i": "5908-CIGE 2006",
+        "i": "5908-CIGE-2006",
         "c": "CN",
         "n": "CIGE 2006",
         "ct": "Beijing"
       },
       {
-        "i": "5908-KIAF 2006",
+        "i": "5908-KIAF-2006",
         "c": "KR",
         "n": "KIAF 2006",
         "ct": "Seoul"
@@ -42,35 +42,35 @@
         "ct": "Basel"
       },
       {
-        "i": "5908-11. ART FORUM BERLIN",
+        "i": "5908-11.-ART-FORUM-BERLIN",
         "c": "DE",
         "n": "11. ART FORUM BERLIN",
         "ct": "Berlin"
       },
       {
-        "i": "5908-Fiac 2006",
+        "i": "5908-Fiac-2006",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "5908-ArtParis 07",
+        "i": "5908-ArtParis-07",
         "c": "FR"
       },
       {
-        "i": "5908-Art Brussels 2007- 25th Contemporary Art Fair",
+        "i": "5908-Art-Brussels-2007--25th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2007- 25th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "5908-MACO Mexico 07",
+        "i": "5908-MACO-Mexico-07",
         "c": "MX",
         "n": "MACO Mexico 07",
         "ct": "Mexico City"
       },
       {
-        "i": "5908-CIGE 2007",
+        "i": "5908-CIGE-2007",
         "c": "CN",
         "n": "CIGE 2007",
         "ct": "Beijing"
@@ -82,61 +82,61 @@
         "ct": "Basel"
       },
       {
-        "i": "5908-ShContemporary 07",
+        "i": "5908-ShContemporary-07",
         "c": "CN",
         "n": "ShContemporary 07",
         "ct": "Shanghai"
       },
       {
-        "i": "5908-Docks Art Fair 2007",
+        "i": "5908-Docks-Art-Fair-2007",
         "c": "FR"
       },
       {
-        "i": "5908-12. Art Forum Berlin",
+        "i": "5908-12.-Art-Forum-Berlin",
         "c": "DE",
         "n": "12. Art Forum Berlin",
         "ct": "Berlin"
       },
       {
-        "i": "5908-Fiac 2007",
+        "i": "5908-Fiac-2007",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "5908-Volta NY",
+        "i": "5908-Volta-NY",
         "c": "US",
         "n": "Volta NY",
         "ct": "New York City, NY"
       },
       {
-        "i": "5908-ArtParis 08",
+        "i": "5908-ArtParis-08",
         "c": "FR"
       },
       {
-        "i": "5908-Art Brussels 2008- 26th Contemporary Art Fair",
+        "i": "5908-Art-Brussels-2008--26th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2008- 26th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "5908-FEMACO Mexico 08",
+        "i": "5908-FEMACO-Mexico-08",
         "c": "MX",
         "n": "FEMACO Mexico 08",
         "ct": "Mexico City"
       },
       {
-        "i": "5908-Zoo Art Fair 2008",
+        "i": "5908-Zoo-Art-Fair-2008",
         "c": "GB",
         "n": "Zoo Art Fair 2008",
         "ct": "London"
       },
       {
-        "i": "5908-Fiac 2008",
+        "i": "5908-Fiac-2008",
         "c": "FR"
       },
       {
-        "i": "5908-NADA Art Fair 2008 Miami",
+        "i": "5908-NADA-Art-Fair-2008-Miami",
         "c": "US",
         "n": "NADA Art Fair 2008 Miami",
         "ct": "Miami, FL"
@@ -144,27 +144,27 @@
     ],
     "2009": [
       {
-        "i": "5908-ARCO 09",
+        "i": "5908-ARCO-09",
         "c": "ES",
         "n": "ARCO 09",
         "ct": "Madrid"
       },
       {
-        "i": "5908-The Armory Show 2009",
+        "i": "5908-The-Armory-Show-2009",
         "c": "US",
         "n": "The Armory Show 2009",
         "ct": "New York City, NY"
       },
       {
-        "i": "5908-ArtParis 09",
+        "i": "5908-ArtParis-09",
         "c": "FR"
       },
       {
-        "i": "5908-Salon du Dessin Contemporain 2009",
+        "i": "5908-Salon-du-Dessin-Contemporain-2009",
         "c": "FR"
       },
       {
-        "i": "5908-Zona Maco Mexico 09",
+        "i": "5908-Zona-Maco-Mexico-09",
         "c": "MX",
         "n": "Zona Maco Mexico 09",
         "ct": "Mexico City"
@@ -176,67 +176,67 @@
         "ct": "Basel"
       },
       {
-        "i": "5908-Docks Art Fair 2009",
+        "i": "5908-Docks-Art-Fair-2009",
         "c": "FR"
       },
       {
-        "i": "5908-Fiac 2009",
+        "i": "5908-Fiac-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "5908-Art Rotterdam 2010",
+        "i": "5908-Art-Rotterdam-2010",
         "c": "NL",
         "n": "Art Rotterdam 2010",
         "ct": "Rotterdam"
       },
       {
-        "i": "5908-The Armory Show 2010",
+        "i": "5908-The-Armory-Show-2010",
         "c": "US",
         "n": "The Armory Show 2010",
         "ct": "New York City, NY"
       },
       {
-        "i": "5908-ArtParis 2010",
+        "i": "5908-ArtParis-2010",
         "c": "FR"
       },
       {
-        "i": "5908-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "i": "5908-Art-Brussels-2010---28th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2010 - 28th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "5908-Marrakech Art Fair",
+        "i": "5908-Marrakech-Art-Fair",
         "c": "MA",
         "n": "Marrakech Art Fair",
         "ct": "Marrakech"
       },
       {
-        "i": "5908-Fiac 2010",
+        "i": "5908-Fiac-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "5908-The Armory Show 2011",
+        "i": "5908-The-Armory-Show-2011",
         "c": "US",
         "n": "The Armory Show 2011",
         "ct": "New York City, NY"
       },
       {
-        "i": "5908-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "i": "5908-Drawing-Now-Paris---Le-Salon-Du-Dessin-Contemporain-2011",
         "c": "FR"
       },
       {
-        "i": "5908-Zona Maco Mexico 11",
+        "i": "5908-Zona-Maco-Mexico-11",
         "c": "MX",
         "n": "Zona Maco Mexico 11",
         "ct": "Mexico City"
       },
       {
-        "i": "5908-Art Brussels 2011",
+        "i": "5908-Art-Brussels-2011",
         "c": "BE",
         "n": "Art Brussels 2011",
         "ct": "Brussels"
@@ -248,74 +248,92 @@
         "ct": "Hong Kong, SAR"
       },
       {
-        "i": "5908-DocksArtFair 2011",
+        "i": "5908-DocksArtFair-2011",
         "c": "FR"
       },
       {
-        "i": "5908-Fiac 2011",
+        "i": "5908-Fiac-2011",
         "c": "FR"
       },
       {
-        "i": "5908-Paris Photo 2011",
+        "i": "5908-Paris-Photo-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "5908-The Armory Show 2012",
+        "i": "5908-The-Armory-Show-2012",
         "c": "US",
         "n": "The Armory Show 2012",
         "ct": "New York City, NY"
       },
       {
-        "i": "5908-Art Paris Art Fair 2012",
+        "i": "5908-Art-Paris-Art-Fair-2012",
         "c": "FR"
       },
       {
-        "i": "5908-Art Brussels 2012",
+        "i": "5908-Art-Brussels-2012",
         "c": "BE",
         "n": "Art Brussels 2012",
         "ct": "Brussels"
       },
       {
-        "i": "5908-Fiac 2012",
+        "i": "5908-Fiac-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "5908-Artgenève - Salon international ",
+        "i": "5908-Artgenève---Salon-international-",
         "c": "CH",
         "n": "Artgenève - Salon international ",
         "ct": "Geneva"
       },
       {
-        "i": "5908-Lille Art Fair 2013",
+        "i": "5908-Lille-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "5908-The Armory Show 2013",
+        "i": "5908-The-Armory-Show-2013",
         "c": "US",
         "n": "The Armory Show 2013",
         "ct": "New York City, NY"
       },
       {
-        "i": "5908-Art Brussels 2013",
+        "i": "5908-Art-Brussels-2013",
         "c": "BE",
         "n": "Art Brussels 2013",
         "ct": "Brussels"
       },
       {
-        "i": "5908-DocksArtFair 2013",
+        "i": "5908-DocksArtFair-2013",
         "c": "FR"
       },
       {
-        "i": "5908-Yia Art Fair 2013",
+        "i": "5908-Yia-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "5908-FIAC 2013",
+        "i": "5908-FIAC-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "5908-The-Armory-Show-2014",
+        "c": "US",
+        "n": "The Armory Show 2014",
+        "ct": "New York City, NY"
+      },
+      {
+        "i": "5908-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
+        "c": "FR"
+      },
+      {
+        "i": "5908-Art-Cologne-2014",
+        "c": "DE",
+        "n": "Art Cologne 2014",
+        "ct": "Cologne"
       }
     ]
   }

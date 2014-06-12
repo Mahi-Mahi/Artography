@@ -12,23 +12,23 @@
   "email": "galerie@marialund.com",
   "www": "www.marialund.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2048, rue de Turenne %2C%20France",
-  "fairs-total": "12",
-  "fairs-abroad": "5",
+  "fairs-total": "13",
+  "fairs-abroad": "6",
   "fairs-in-FR": "7",
   "fairs": {
     "2006": [
       {
-        "i": "1388-ST-ART 2006 - 11ème édition",
+        "i": "1388-ST-ART-2006---11ème-édition",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "1388-Salon du Dessin Contemporain 2008",
+        "i": "1388-Salon-du-Dessin-Contemporain-2008",
         "c": "FR"
       },
       {
-        "i": "1388-KIAF 2008",
+        "i": "1388-KIAF-2008",
         "c": "KR",
         "n": "KIAF 2008",
         "ct": "Seoul"
@@ -36,7 +36,7 @@
     ],
     "2009": [
       {
-        "i": "1388-KIAF 09",
+        "i": "1388-KIAF-09",
         "c": "KR",
         "n": "KIAF 09",
         "ct": "Seoul"
@@ -44,11 +44,11 @@
     ],
     "2010": [
       {
-        "i": "1388-Chic Dessin 2010",
+        "i": "1388-Chic-Dessin-2010",
         "c": "FR"
       },
       {
-        "i": "1388-KIAF 2010",
+        "i": "1388-KIAF-2010",
         "c": "KR",
         "n": "KIAF 2010",
         "ct": "Seoul"
@@ -56,27 +56,27 @@
     ],
     "2011": [
       {
-        "i": "1388-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "i": "1388-Drawing-Now-Paris---Le-Salon-Du-Dessin-Contemporain-2011",
         "c": "FR"
       },
       {
-        "i": "1388-KIAF 2011",
+        "i": "1388-KIAF-2011",
         "c": "KR",
         "n": "KIAF 2011",
         "ct": "Seoul"
       },
       {
-        "i": "1388-SLICK 2011",
+        "i": "1388-SLICK-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "1388-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "i": "1388-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2012",
         "c": "FR"
       },
       {
-        "i": "1388-Art On Paper 2012",
+        "i": "1388-Art-On-Paper-2012",
         "c": "BE",
         "n": "Art On Paper 2012",
         "ct": "Brussels"
@@ -84,8 +84,16 @@
     ],
     "2013": [
       {
-        "i": "1388-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "i": "1388-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "1388-Art-14-London",
+        "c": "GB",
+        "n": "Art 14 London",
+        "ct": "London"
       }
     ]
   }

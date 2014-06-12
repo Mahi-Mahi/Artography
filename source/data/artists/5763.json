@@ -1,7 +1,7 @@
 {
   "id": "5763",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:17:14",
+  "timestamp": "2014-05-31 06:22:46",
   "name": "Claude Rutault",
   "surname": "Rutault",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "1514",
+  "r00": "1522",
   "r01": "1445",
-  "r02": "1879",
+  "r02": "1878",
   "r03": "1888",
-  "r04": "1703",
+  "r04": "1704",
   "r05": "1497",
-  "r06": "1529",
+  "r06": "1531",
   "r07": "1336",
   "r08": "1156",
   "awards": null,
@@ -388,19 +388,6 @@
         "c": "FR"
       },
       {
-        "i": "5763-30898-2010-03-21",
-        "c": "CH",
-        "n": "Portrait De L&#8217;Ártiste En Motocycliste, Le Magasin Cnac, Grenoble",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "La Chaux-de-Fonds",
-        "o": "Musée des beaux-arts La Chaux-de-Fonds",
-        "d": [
-          "2010-03-21",
-          "2010-09-12"
-        ]
-      },
-      {
         "i": "5763-5638-2010-03-21",
         "c": "CH",
         "n": "Portrait de l’artiste en motocycliste",
@@ -408,6 +395,19 @@
         "st": "Group",
         "ct": "Neuchâtel",
         "o": "Musée des beaux-arts de La Chaux-de-Fonds",
+        "d": [
+          "2010-03-21",
+          "2010-09-12"
+        ]
+      },
+      {
+        "i": "5763-30898-2010-03-21",
+        "c": "CH",
+        "n": "Portrait De L&#8217;Ártiste En Motocycliste, Le Magasin Cnac, Grenoble",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "La Chaux-de-Fonds",
+        "o": "Musée des beaux-arts La Chaux-de-Fonds",
         "d": [
           "2010-03-21",
           "2010-09-12"
@@ -677,6 +677,14 @@
       },
       {
         "i": "5763-7811-2013-10-19",
+        "c": "FR"
+      },
+      {
+        "i": "5763-8520-2014-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "5763-8520-2014-04-05",
         "c": "FR"
       }
     ]

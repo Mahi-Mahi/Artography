@@ -1,7 +1,7 @@
 {
   "id": "53164",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:34:46",
+  "timestamp": "2014-05-31 06:40:13",
   "name": "Olivier Babin",
   "surname": "Babin",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Sculpture",
-  "r00": "4230",
-  "r01": "3739",
-  "r02": "3007",
-  "r03": "2537",
+  "r00": "4262",
+  "r01": "3742",
+  "r02": "3006",
+  "r03": "2541",
   "r04": "2245",
-  "r05": "2363",
+  "r05": "2364",
   "r06": "3239",
-  "r07": "3209",
-  "r08": "4686",
+  "r07": "3213",
+  "r08": "4690",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
@@ -566,19 +566,6 @@
         ]
       },
       {
-        "i": "53164-6617-2010-09-11",
-        "c": "US",
-        "n": "What A Difference A Day Makes",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "New York City, NY",
-        "o": "Andreas Grimm - New York",
-        "d": [
-          "2010-09-11",
-          "2010-10-23"
-        ]
-      },
-      {
         "i": "53164-1582-2010-09-11",
         "c": "DE",
         "n": "What A Difference A Day Makes",
@@ -586,6 +573,19 @@
         "st": "Group",
         "ct": "Munich",
         "o": "Andreas Grimm - München",
+        "d": [
+          "2010-09-11",
+          "2010-10-23"
+        ]
+      },
+      {
+        "i": "53164-6617-2010-09-11",
+        "c": "US",
+        "n": "What A Difference A Day Makes",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Andreas Grimm - New York",
         "d": [
           "2010-09-11",
           "2010-10-23"

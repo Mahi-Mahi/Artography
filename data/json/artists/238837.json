@@ -1,7 +1,7 @@
 {
   "id": "238837",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:38:16",
+  "timestamp": "2014-05-31 07:43:33",
   "name": "Claire Decet",
   "surname": "Decet",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "42790",
-  "r01": "43720",
-  "r02": "57460",
-  "r03": "92486",
-  "r04": "101051",
-  "r05": "99440",
+  "r00": "43019",
+  "r01": "43821",
+  "r02": "57576",
+  "r03": "92646",
+  "r04": "101209",
+  "r05": "99596",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -69,6 +69,19 @@
       }
     ],
     "2012": [
+      {
+        "i": "238837-5851-2012-09-07",
+        "c": "BE",
+        "n": "Domesticated Souls- Group show",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Alice Gallery",
+        "d": [
+          "2012-09-07",
+          "2012-09-26"
+        ]
+      },
       {
         "i": "238837-21143-2012-09-08",
         "c": "FR"

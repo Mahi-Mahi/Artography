@@ -12,17 +12,17 @@
   "email": "nivetcarzon@free.fr",
   "www": "www.nivet-carzon.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2040, rue Mazarine  %2C%20France",
-  "fairs-total": "5",
-  "fairs-abroad": "3",
+  "fairs-total": "6",
+  "fairs-abroad": "4",
   "fairs-in-FR": "2",
   "fairs": {
     "2008": [
       {
-        "i": "16728-Lille Art Fair 08",
+        "i": "16728-Lille-Art-Fair-08",
         "c": "FR"
       },
       {
-        "i": "16728-So Feucking French (SoFF) 08",
+        "i": "16728-So-Feucking-French-(SoFF)-08",
         "c": "GB",
         "n": "So Feucking French (SoFF) 08",
         "ct": "London"
@@ -30,7 +30,7 @@
     ],
     "2009": [
       {
-        "i": "16728-Art Vilnius 09",
+        "i": "16728-Art-Vilnius-09",
         "c": "LT",
         "n": "Art Vilnius 09",
         "ct": "Vilnius"
@@ -38,14 +38,22 @@
     ],
     "2012": [
       {
-        "i": "16728-Art Vilnius 2012",
+        "i": "16728-Art-Vilnius-2012",
         "c": "LT",
         "n": "Art Vilnius 2012",
         "ct": "Vilnius"
       },
       {
-        "i": "16728-SLICK 2012",
+        "i": "16728-SLICK-2012",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "16728-Art-Vilnius-2014",
+        "c": "LT",
+        "n": "Art Vilnius 2014",
+        "ct": "Vilnius"
       }
     ]
   }

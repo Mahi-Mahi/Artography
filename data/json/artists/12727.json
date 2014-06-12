@@ -1,7 +1,7 @@
 {
   "id": "12727",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:19:58",
+  "timestamp": "2014-05-31 06:25:28",
   "name": "Stephane Steiner",
   "surname": "Steiner",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "15952",
-  "r01": "35432",
-  "r02": "44606",
-  "r03": "33942",
-  "r04": "27355",
-  "r05": "19946",
-  "r06": "17170",
-  "r07": "12887",
-  "r08": "9216",
+  "r00": "15866",
+  "r01": "35495",
+  "r02": "44659",
+  "r03": "33979",
+  "r04": "27359",
+  "r05": "19955",
+  "r06": "17177",
+  "r07": "12897",
+  "r08": "9229",
   "awards": null,
   "website": null,
   "all-shows-first": "1993",
   "all-shows-total": "31",
-  "2005-shows-biennials": "15",
-  "2005-shows-galleries": "15",
+  "2005-shows-biennials": "16",
+  "2005-shows-galleries": "16",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (17), Switzerland (1)",
-  "2005-shows-with": "Stephane Steiner (16), Thierry Lagalla (12), Han Hoogerbrugge (8), Emmanuel Régent (8), Karine Rougier (8), Arnaud Labelle-Rojoux (7), Stéphane Protic (7), Damien Berthier (6), Michel de Broin (6), Florent Mattei (6), Caroline Bach (5), Jerôme Robbe (5), Thierry Agnone (4), Gérald Panighi (4), Philippe Ramette (3), Ben Vautier (3), Jean-Luc Verna (3), Julien Blaine (2), Frédéric Clavère (2), Claire Dantzer (2), Isabelle Giovacchini (2), Olivier Leroi (2), Frédéric Malette (2), Lionel Scoccimaro (2), Sabry Tchalgadjieff (2), Cédric Teisseire (2)",
+  "2005-countries-total": "France (18), Switzerland (1)",
+  "2005-shows-with": "Stephane Steiner (17), Thierry Lagalla (13), Han Hoogerbrugge (9), Emmanuel Régent (9), Karine Rougier (9), Arnaud Labelle-Rojoux (8), Stéphane Protic (8), Florent Mattei (7), Caroline Bach (6), Damien Berthier (6), Michel de Broin (6), Jerôme Robbe (6), Thierry Agnone (5), Gérald Panighi (4), Philippe Ramette (4), Jean-Luc Verna (4), Julien Blaine (3), Claire Dantzer (3), Isabelle Giovacchini (3), Olivier Leroi (3), Lionel Scoccimaro (3), Sabry Tchalgadjieff (3), Cédric Teisseire (3), Ben Vautier (3), Baptiste César (2), Marc Chevalier (2), Thierry Chiapparelli (2), Frédéric Clavère (2), Noël Dolla (2), Joël Hubaut (2), Frédéric Malette (2), Martinet & Texereau (2), Gabriel Meo (2), Charlotte Pringuey-Cessac (2), Franck Saïssi (2), Quentin Spohn (2), Kirill Ukolov (2)",
   "representing-galleries": "Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France)",
   "collecting-museums": "FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Stephane",
@@ -222,7 +222,63 @@
         "c": "FR"
       },
       {
+        "i": "12727-1778-2014-02-12",
+        "c": "CH",
+        "n": "cycle Des histoires sans fin, séquence printemps 2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2014-02-12",
+          "2014-06-18"
+        ],
+        "a": "12727",
+        "an": "Stephane Steiner"
+      },
+      {
+        "i": "12727-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "12727-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
         "i": "12727-19953-2013-12-12",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "12727",
+        "c": "CH",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "12727-1778-2014-02-12",
+        "c": "CH",
+        "n": "cycle Des histoires sans fin, séquence printemps 2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2014-02-12",
+          "2014-06-18"
+        ],
+        "a": "12727",
+        "an": "Stephane Steiner"
+      },
+      {
+        "i": "12727",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "12727-16752-2014-04-19",
         "c": "FR"
       }
     ]

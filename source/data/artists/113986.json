@@ -1,7 +1,7 @@
 {
   "id": "113986",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:55:43",
+  "timestamp": "2014-05-31 07:01:07",
   "name": "Etienne Boulanger",
   "surname": "Boulanger",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "17314",
-  "r01": "40322",
-  "r02": "35397",
-  "r03": "30730",
-  "r04": "47194",
-  "r05": "40849",
-  "r06": "35112",
-  "r07": "45515",
-  "r08": "44262",
+  "r00": "17393",
+  "r01": "40381",
+  "r02": "35429",
+  "r03": "30769",
+  "r04": "47220",
+  "r05": "40858",
+  "r06": "35128",
+  "r07": "45558",
+  "r08": "44267",
   "awards": null,
   "website": "www.etienneboulanger.com",
   "all-shows-first": "2005",
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Etienne",
   "last_name": "Boulanger",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1976-01-01",
   "age": 38,
   "age_range": "26-40",
@@ -136,6 +136,59 @@
       {
         "i": "113986-10522-2008-06-06",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "113986-2331-2014-02-14",
+        "c": "LU",
+        "n": "Ny-Lux - Edward Steichen Award 2004-2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Luxembourg",
+        "o": "MUDAM - Musée d’Art Moderne Grand-Duc Jean",
+        "d": [
+          "2014-02-14",
+          "2014-06-09"
+        ]
+      },
+      {
+        "i": "113986-5745-2014-02-28",
+        "c": "US",
+        "n": "Buildering: Misbehaving the City",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Cincinnati, OH",
+        "o": "CAC - Cincinnati Contemporary Arts Center",
+        "d": [
+          "2014-02-28",
+          "2014-08-18"
+        ],
+        "a": "113986",
+        "an": "Etienne Boulanger"
+      }
+    ],
+    "today": [
+      {
+        "i": "113986",
+        "c": "US",
+        "g": "n",
+        "a": "26-40"
+      },
+      {
+        "i": "113986-5745-2014-02-28",
+        "c": "US",
+        "n": "Buildering: Misbehaving the City",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Cincinnati, OH",
+        "o": "CAC - Cincinnati Contemporary Arts Center",
+        "d": [
+          "2014-02-28",
+          "2014-08-18"
+        ],
+        "a": "113986",
+        "an": "Etienne Boulanger"
       }
     ],
     "2006": [

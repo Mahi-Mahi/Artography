@@ -1,7 +1,7 @@
 {
   "id": "21775",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:23:28",
+  "timestamp": "2014-05-31 06:28:59",
   "name": "Claude Parent",
   "surname": "Parent",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Architecture",
-  "r00": "8112",
-  "r01": "8097",
-  "r02": "8973",
-  "r03": "12650",
-  "r04": "12169",
-  "r05": "12963",
-  "r06": "10256",
-  "r07": "13874",
-  "r08": "10567",
+  "r00": "8138",
+  "r01": "8100",
+  "r02": "8977",
+  "r03": "12646",
+  "r04": "12164",
+  "r05": "12955",
+  "r06": "10244",
+  "r07": "13849",
+  "r08": "10556",
   "awards": null,
   "website": null,
   "all-shows-first": "1986",
@@ -55,6 +55,18 @@
     ],
     "2008": [
       {
+        "i": "21775-2731-2008-10-02",
+        "c": "ES",
+        "n": "Biacs 3",
+        "st": "Group",
+        "ct": "Sevilla",
+        "o": "BIACS - Fundación Bienal Internacional de Arte Contemporáneo de Sevilla",
+        "d": [
+          "2008-10-02",
+          "2009-01-11"
+        ]
+      },
+      {
         "i": "21775-2666-2008-10-02",
         "c": "ES",
         "n": "Youniverse, 3rd International Bienniale Of Contemporary Art",
@@ -62,18 +74,6 @@
         "st": "Group",
         "ct": "Sevilla",
         "o": "Centro Andaluz de Arte Contemporáneo (CAAC)",
-        "d": [
-          "2008-10-02",
-          "2009-01-11"
-        ]
-      },
-      {
-        "i": "21775-2731-2008-10-02",
-        "c": "ES",
-        "n": "Biacs 3",
-        "st": "Group",
-        "ct": "Sevilla",
-        "o": "BIACS - Fundación Bienal Internacional de Arte Contemporáneo de Sevilla",
         "d": [
           "2008-10-02",
           "2009-01-11"
@@ -95,6 +95,18 @@
     ],
     "2009": [
       {
+        "i": "21775-2731-2008-10-02",
+        "c": "ES",
+        "n": "Biacs 3",
+        "st": "Group",
+        "ct": "Sevilla",
+        "o": "BIACS - Fundación Bienal Internacional de Arte Contemporáneo de Sevilla",
+        "d": [
+          "2008-10-02",
+          "2009-01-11"
+        ]
+      },
+      {
         "i": "21775-2666-2008-10-02",
         "c": "ES",
         "n": "Youniverse, 3rd International Bienniale Of Contemporary Art",
@@ -102,18 +114,6 @@
         "st": "Group",
         "ct": "Sevilla",
         "o": "Centro Andaluz de Arte Contemporáneo (CAAC)",
-        "d": [
-          "2008-10-02",
-          "2009-01-11"
-        ]
-      },
-      {
-        "i": "21775-2731-2008-10-02",
-        "c": "ES",
-        "n": "Biacs 3",
-        "st": "Group",
-        "ct": "Sevilla",
-        "o": "BIACS - Fundación Bienal Internacional de Arte Contemporáneo de Sevilla",
         "d": [
           "2008-10-02",
           "2009-01-11"

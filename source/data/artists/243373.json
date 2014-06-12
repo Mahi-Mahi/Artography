@@ -1,7 +1,7 @@
 {
   "id": "243373",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:39:49",
+  "timestamp": "2014-05-31 07:45:05",
   "name": "Frédéric Nauczyciel",
   "surname": "Nauczyciel",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "21349",
-  "r01": "21588",
-  "r02": "22272",
-  "r03": "36392",
-  "r04": "35473",
-  "r05": "31151",
+  "r00": "21447",
+  "r01": "21606",
+  "r02": "22268",
+  "r03": "36390",
+  "r04": "35440",
+  "r05": "31117",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -129,6 +129,21 @@
         "d": [
           "2009-11-19",
           "2010-02-14"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "243373-30575-2014-04-02",
+        "c": "US",
+        "n": "Frédéric Nauczyciel - The Fire Flies [Baltimore / Paris]",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Julie Meneret Contemporary Art",
+        "d": [
+          "2014-04-02",
+          "2014-05-18"
         ]
       }
     ]

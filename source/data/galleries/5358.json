@@ -12,41 +12,41 @@
   "email": "info@galeriezurcher.com",
   "www": "www.galeriezurcher.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2056, rue Chapon %2C%20France",
-  "fairs-total": "24",
+  "fairs-total": "25",
   "fairs-abroad": "15",
-  "fairs-in-FR": "9",
+  "fairs-in-FR": "10",
   "fairs": {
     "2006": [
       {
-        "i": "5358-Pulse New York 06",
+        "i": "5358-Pulse-New-York-06",
         "c": "US",
         "n": "Pulse New York 06",
         "ct": "New York City, NY"
       },
       {
-        "i": "5358-Art Brussels 2006- 24th Contemporary Art Fair",
+        "i": "5358-Art-Brussels-2006--24th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2006- 24th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "5358-Art 37 Basel",
+        "i": "5358-Art-37-Basel",
         "c": "CH",
         "n": "Art 37 Basel",
         "ct": "Basel"
       },
       {
-        "i": "5358-11. ART FORUM BERLIN",
+        "i": "5358-11.-ART-FORUM-BERLIN",
         "c": "DE",
         "n": "11. ART FORUM BERLIN",
         "ct": "Berlin"
       },
       {
-        "i": "5358-Fiac 2006",
+        "i": "5358-Fiac-2006",
         "c": "FR"
       },
       {
-        "i": "5358-Pulse Miami 06",
+        "i": "5358-Pulse-Miami-06",
         "c": "US",
         "n": "Pulse Miami 06",
         "ct": "Miami, FL"
@@ -54,23 +54,23 @@
     ],
     "2007": [
       {
-        "i": "5358-Pulse New York 07",
+        "i": "5358-Pulse-New-York-07",
         "c": "US",
         "n": "Pulse New York 07",
         "ct": "New York City, NY"
       },
       {
-        "i": "5358-Art Brussels 2007- 25th Contemporary Art Fair",
+        "i": "5358-Art-Brussels-2007--25th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2007- 25th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "5358-Fiac 2007",
+        "i": "5358-Fiac-2007",
         "c": "FR"
       },
       {
-        "i": "5358-PULSE Miami 07",
+        "i": "5358-PULSE-Miami-07",
         "c": "US",
         "n": "PULSE Miami 07",
         "ct": "Miami, FL"
@@ -78,23 +78,23 @@
     ],
     "2008": [
       {
-        "i": "5358-Pulse New York 08",
+        "i": "5358-Pulse-New-York-08",
         "c": "US",
         "n": "Pulse New York 08",
         "ct": "New York City, NY"
       },
       {
-        "i": "5358-Art Brussels 2008- 26th Contemporary Art Fair",
+        "i": "5358-Art-Brussels-2008--26th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2008- 26th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "5358-Fiac 2008",
+        "i": "5358-Fiac-2008",
         "c": "FR"
       },
       {
-        "i": "5358-PULSE Miami 08",
+        "i": "5358-PULSE-Miami-08",
         "c": "US",
         "n": "PULSE Miami 08",
         "ct": "Miami, FL"
@@ -102,21 +102,21 @@
     ],
     "2009": [
       {
-        "i": "5358-Pulse New York 09",
+        "i": "5358-Pulse-New-York-09",
         "c": "US",
         "n": "Pulse New York 09",
         "ct": "New York City, NY"
       },
       {
-        "i": "5358-Salon du Dessin Contemporain 2009",
+        "i": "5358-Salon-du-Dessin-Contemporain-2009",
         "c": "FR"
       },
       {
-        "i": "5358-Fiac 2009",
+        "i": "5358-Fiac-2009",
         "c": "FR"
       },
       {
-        "i": "5358-Pulse Miami 09",
+        "i": "5358-Pulse-Miami-09",
         "c": "US",
         "n": "Pulse Miami 09",
         "ct": "Miami, FL"
@@ -124,17 +124,17 @@
     ],
     "2010": [
       {
-        "i": "5358-Salon du Dessin Contemporain 2010",
+        "i": "5358-Salon-du-Dessin-Contemporain-2010",
         "c": "FR"
       },
       {
-        "i": "5358-Fiac 2010",
+        "i": "5358-Fiac-2010",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "5358-Art Los Angeles Contemporary 2012",
+        "i": "5358-Art-Los-Angeles-Contemporary-2012",
         "c": "US",
         "n": "Art Los Angeles Contemporary 2012",
         "ct": "Los Angeles, CA"
@@ -142,18 +142,24 @@
     ],
     "2013": [
       {
-        "i": "5358-Art Paris Art Fair 2013",
+        "i": "5358-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "5358-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "i": "5358-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2013",
         "c": "FR"
       },
       {
-        "i": "5358-Untitled. 2013",
+        "i": "5358-Untitled.-2013",
         "c": "US",
         "n": "Untitled. 2013",
         "ct": "Miami Beach, FL"
+      }
+    ],
+    "2014": [
+      {
+        "i": "5358-Artparis-2014",
+        "c": "FR"
       }
     ]
   }

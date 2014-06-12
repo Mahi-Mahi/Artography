@@ -1,7 +1,7 @@
 {
   "id": "129187",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:00:48",
+  "timestamp": "2014-05-31 07:06:10",
   "name": "Thomas Fougeirol",
   "surname": "Fougeirol",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "11858",
-  "r01": "11723",
-  "r02": "19197",
-  "r03": "17184",
-  "r04": "22096",
-  "r05": "19967",
-  "r06": "24397",
-  "r07": "36781",
-  "r08": "31454",
+  "r00": "11914",
+  "r01": "11729",
+  "r02": "19214",
+  "r03": "17187",
+  "r04": "22104",
+  "r05": "19965",
+  "r06": "24401",
+  "r07": "36813",
+  "r08": "31468",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
-  "all-shows-total": "16",
+  "all-shows-total": "0",
   "2005-shows-biennials": "12",
   "2005-shows-galleries": "12",
   "2005-shows-museums": "1",
@@ -199,6 +199,21 @@
       {
         "i": "129187-2021-2013-04-20",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "129187-28044-2014-01-17",
+        "c": "BE",
+        "n": "Épines D´Eden",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "duboisfriedland gallery",
+        "d": [
+          "2014-01-17",
+          "2014-03-01"
+        ]
       }
     ],
     "2005": [

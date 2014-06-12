@@ -1,7 +1,7 @@
 {
   "id": "51243",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:34:05",
+  "timestamp": "2014-05-31 06:39:33",
   "name": "Invader",
   "surname": "Invader",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "8989",
-  "r01": "8515",
-  "r02": "7580",
+  "r00": "9048",
+  "r01": "8526",
+  "r02": "7585",
   "r03": "7580",
-  "r04": "6854",
-  "r05": "6152",
-  "r06": "12608",
-  "r07": "11802",
-  "r08": "16193",
+  "r04": "6850",
+  "r05": "6151",
+  "r06": "12607",
+  "r07": "11799",
+  "r08": "16184",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
@@ -33,7 +33,7 @@
   "2005-shows-galleries": "17",
   "2005-shows-museums": "11",
   "2005-countries-total": "France (10), United Kingdom (5), USA (5), Germany (4), China (1), Denmark (1), Finland (1), Luxembourg (1), Norway (1), Slovenia (1), South Korea (1)",
-  "2005-shows-with": "Invader (28), Shepard Fairey (10), Vhils (8), JonOne (7), Blu (6), ZEVS (6), Victor Ash (5), Banksy (5), Blek Le Rat (5), Futura2000 (5), JR (5), Miss Van (5), Swoon (5), Jef Aerosol (4), David Choe (4), L\\'Atlas (4), Miss.Tic (4), Os Gemeos (4), The Date Farmers (3), FAILE (3), Christian Guémy (3), Conor Harrington (3), Todd James (3), Mark Jenkins (3), Ludo (3), m-city (3), Barry McGee (3), Lucy McLauchlan (3), Antony Micallef (3), Mist (3), Mode 2 (3), Nunca (3), José Parla (3), Quik (3), Seen (3), TANC (3), Jonathan Yeo (3), Gary Baseman (2), Philippe Baudelocque (2), Bujahuli (2), Ray Caesar (2), Fernando Carlo Jr. (2), Martha Cooper (2), Dalek (2), Dem189 (2), Stephan Doitschinoff (2), DOLK (2), Miranda Donovan (2), Marcel Duchamp (2), EINE (2), David Ellis (2), Ruud van Empel (2), Gilbert & George (2), Sozyone Gonzalez (2), Ikon (2), Paul Insect (2), Charlie Isoe (2), KAWS (2), Otto Maja (2), Mambo (2), John Matos (2), Mentalgassi (2), Joàn Miró (2), Polly Morgan (2), Mark Newton (2), Pablo Picasso",
+  "2005-shows-with": "Invader (28), Shepard Fairey (10), Vhils (8), JonOne (7), Blu (6), ZEVS (6), Victor Ash (5), Banksy (5), Blek Le Rat (5), Futura2000 (5), JR (5), Miss Van (5), Swoon (5), Jef Aerosol (4), David Choe (4), L\\'Atlas (4), Miss.Tic (4), Os Gemeos (4), BAST (3), The Date Farmers (3), FAILE (3), Christian Guémy (3), Conor Harrington (3), Todd James (3), Mark Jenkins (3), Ludo (3), m-city (3), Barry McGee (3), Lucy McLauchlan (3), Antony Micallef (3), Mist (3), Mode 2 (3), Nunca (3), José Parla (3), Quik (3), Seen (3), TANC (3), Jonathan Yeo (3), Gary Baseman (2), Philippe Baudelocque (2), Bujahuli (2), Ray Caesar (2), Fernando Carlo Jr. (2), Martha Cooper (2), Dalek (2), Dem189 (2), Stephan Doitschinoff (2), DOLK (2), Miranda Donovan (2), Marcel Duchamp (2), EINE (2), David Ellis (2), Ruud van Empel (2), Gilbert & George (2), Sozyone Gonzalez (2), Ikon (2), Paul Insect (2), Charlie Isoe (2), KAWS (2), Otto Maja (2), Mambo (2), John Matos (2), Mentalgassi (2), Joàn Miró (2), Polly Morgan (2), Mark Newton (2), Pab",
   "representing-galleries": "Alice Gallery (182, rue Antoine Dansaert - Antoine Dansaertstraat, 1000 Brussels, Belgium); Galerie Le Feuvre (6, rue de Mirosmesnil, 75008  Paris, France); Lazarides Gallery (11 Rathbone Place, W1T 1HR London, United Kingdom); Sixspace (5803 Washington Boulevard, 90232 Culver City, CA, USA)",
   "collecting-museums": null,
   "first_name": "Invader",
@@ -538,6 +538,46 @@
       {
         "i": "51243-2090-2013-06-22",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "51243-5851-2014-05-15",
+        "c": "BE",
+        "n": "Just Before Brazil",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Alice Gallery",
+        "d": [
+          "2014-05-15",
+          "2014-06-27"
+        ],
+        "a": "51243",
+        "an": "Invader"
+      }
+    ],
+    "today": [
+      {
+        "i": "51243",
+        "c": "BE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "51243-5851-2014-05-15",
+        "c": "BE",
+        "n": "Just Before Brazil",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Alice Gallery",
+        "d": [
+          "2014-05-15",
+          "2014-06-27"
+        ],
+        "a": "51243",
+        "an": "Invader"
       }
     ]
   }

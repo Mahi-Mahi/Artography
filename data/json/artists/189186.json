@@ -1,7 +1,7 @@
 {
   "id": "189186",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:21:16",
+  "timestamp": "2014-05-31 07:26:39",
   "name": "Isabelle Giovacchini",
   "surname": "Giovacchini",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "15528",
-  "r01": "17261",
-  "r02": "21300",
-  "r03": "44664",
-  "r04": "49864",
-  "r05": "58003",
-  "r06": "51668",
+  "r00": "15441",
+  "r01": "17279",
+  "r02": "21304",
+  "r03": "44677",
+  "r04": "49871",
+  "r05": "58047",
+  "r06": "51721",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
   "all-shows-total": "14",
-  "2005-shows-biennials": "7",
-  "2005-shows-galleries": "7",
+  "2005-shows-biennials": "8",
+  "2005-shows-galleries": "8",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (13), Germany (1)",
-  "2005-shows-with": "Isabelle Giovacchini (11), Thierry Lagalla (3), Nicolas Chardon (2), Claire Chesnier (2), John Cornu (2), Isabelle Ferreira (2), Olivier Filippi (2), Han Hoogerbrugge (2), Arnaud Labelle-Rojoux (2), Emmanuel Lagarrigue (2), Emmanuel van der Meulen (2), Gérald Panighi (2), Stéphane Protic (2), Emmanuel Régent (2), Karine Rougier (2), Stephane Steiner (2), Adam Vackar (2)",
+  "2005-countries-total": "France (14), Germany (1)",
+  "2005-shows-with": "Isabelle Giovacchini (12), Thierry Lagalla (4), Han Hoogerbrugge (3), Arnaud Labelle-Rojoux (3), Stéphane Protic (3), Emmanuel Régent (3), Karine Rougier (3), Stephane Steiner (3), Thierry Agnone (2), Caroline Bach (2), Nicolas Chardon (2), Claire Chesnier (2), John Cornu (2), Noël Dolla (2), Isabelle Ferreira (2), Olivier Filippi (2), Joël Hubaut (2), Emmanuel Lagarrigue (2), Olivier Leroi (2), Florent Mattei (2), Emmanuel van der Meulen (2), Gérald Panighi (2), Philippe Ramette (2), Jerôme Robbe (2), Cédric Teisseire (2), Kirill Ukolov (2), Adam Vackar (2), Jean-Luc Verna (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Isabelle",
@@ -89,11 +89,11 @@
         "c": "FR"
       },
       {
-        "i": "189186-10247-2012-12-09",
+        "i": "189186-1894-2012-12-09",
         "c": "FR"
       },
       {
-        "i": "189186-1894-2012-12-09",
+        "i": "189186-10247-2012-12-09",
         "c": "FR"
       },
       {
@@ -115,11 +115,11 @@
     ],
     "2013": [
       {
-        "i": "189186-10247-2012-12-09",
+        "i": "189186-1894-2012-12-09",
         "c": "FR"
       },
       {
-        "i": "189186-1894-2012-12-09",
+        "i": "189186-10247-2012-12-09",
         "c": "FR"
       },
       {
@@ -165,6 +165,38 @@
           "2013-11-14",
           "2014-01-18"
         ]
+      },
+      {
+        "i": "189186-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "189186-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "189186-10244-2014-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "189186-10244-2014-05-06",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "189186",
+        "c": "FR",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "189186-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "189186-10244-2014-05-06",
+        "c": "FR"
       }
     ],
     "2011": [

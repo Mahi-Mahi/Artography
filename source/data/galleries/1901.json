@@ -18,13 +18,13 @@
   "fairs": {
     "2007": [
       {
-        "i": "1901-CIGE 2007",
+        "i": "1901-CIGE-2007",
         "c": "CN",
         "n": "CIGE 2007",
         "ct": "Beijing"
       },
       {
-        "i": "1901-ShContemporary 07",
+        "i": "1901-ShContemporary-07",
         "c": "CN",
         "n": "ShContemporary 07",
         "ct": "Shanghai"
@@ -38,19 +38,19 @@
         "ct": "Shenzhen"
       },
       {
-        "i": "1901-Art Beijing 2008",
+        "i": "1901-Art-Beijing-2008",
         "c": "CN",
         "n": "Art Beijing 2008",
         "ct": "Beijing"
       },
       {
-        "i": "1901-ShContemporary 08",
+        "i": "1901-ShContemporary-08",
         "c": "CN",
         "n": "ShContemporary 08",
         "ct": "Shanghai"
       },
       {
-        "i": "1901-ArtParis - AbuDhabi 2008",
+        "i": "1901-ArtParis---AbuDhabi-2008",
         "c": "AE",
         "n": "ArtParis - AbuDhabi 2008",
         "ct": "Abu Dhabi"
@@ -58,13 +58,13 @@
     ],
     "2009": [
       {
-        "i": "1901-The Armory Show 2009",
+        "i": "1901-The-Armory-Show-2009",
         "c": "US",
         "n": "The Armory Show 2009",
         "ct": "New York City, NY"
       },
       {
-        "i": "1901-Art Abu Dhabi 2009",
+        "i": "1901-Art-Abu-Dhabi-2009",
         "c": "AE",
         "n": "Art Abu Dhabi 2009",
         "ct": "Abu Dhabi"
@@ -72,7 +72,7 @@
     ],
     "2010": [
       {
-        "i": "1901-The Armory Show 2010",
+        "i": "1901-The-Armory-Show-2010",
         "c": "US",
         "n": "The Armory Show 2010",
         "ct": "New York City, NY"
@@ -80,7 +80,7 @@
     ],
     "2011": [
       {
-        "i": "1901-The Armory Show 2011",
+        "i": "1901-The-Armory-Show-2011",
         "c": "US",
         "n": "The Armory Show 2011",
         "ct": "New York City, NY"
@@ -88,7 +88,7 @@
     ],
     "2013": [
       {
-        "i": "1901-Art Paris Art Fair 2013",
+        "i": "1901-Art-Paris-Art-Fair-2013",
         "c": "FR"
       }
     ]

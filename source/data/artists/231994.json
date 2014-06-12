@@ -1,7 +1,7 @@
 {
   "id": "231994",
   "mergedIDs": "379457",
-  "timestamp": "2014-05-24 07:35:57",
+  "timestamp": "2014-05-31 07:41:15",
   "name": "Laurent Le Deunff",
   "surname": "Le Deunff",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sculpture, Drawings",
-  "r00": "3139",
-  "r01": "3211",
-  "r02": "3273",
-  "r03": "3865",
-  "r04": "6610",
-  "r05": "12394",
-  "r06": "11762",
+  "r00": "3158",
+  "r01": "3217",
+  "r02": "3275",
+  "r03": "3866",
+  "r04": "6614",
+  "r05": "12395",
+  "r06": "11764",
   "r07": "11473",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "30",
+  "all-shows-total": "32",
   "2005-shows-biennials": "10",
   "2005-shows-galleries": "10",
   "2005-shows-museums": "17",
@@ -350,6 +350,14 @@
     "2014": [
       {
         "i": "231994-9344-2013-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "231994-10517-2014-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "231994-10517-2014-01-13",
         "c": "FR"
       }
     ]

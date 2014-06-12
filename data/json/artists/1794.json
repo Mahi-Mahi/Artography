@@ -1,7 +1,7 @@
 {
   "id": "1794",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:15:17",
+  "timestamp": "2014-05-31 06:20:49",
   "name": "Patrick Faigenbaum",
   "surname": "Faigenbaum",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "2188",
-  "r01": "2002",
-  "r02": "2225",
+  "r00": "2199",
+  "r01": "2001",
+  "r02": "2224",
   "r03": "1818",
-  "r04": "1480",
+  "r04": "1479",
   "r05": "1260",
-  "r06": "1399",
+  "r06": "1400",
   "r07": "1453",
   "r08": "1575",
   "awards": null,
@@ -627,6 +627,21 @@
     ],
     "2014": [
       {
+        "i": "1794-4258-2014-02-22",
+        "c": "CA",
+        "n": "1 + 1 = 1 : When Collections Collide",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Montreal, QC",
+        "o": "The Montreal Museum of Fine Arts - Musée des beaux-arts de Montréal",
+        "d": [
+          "2014-02-22",
+          "2014-06-15"
+        ],
+        "a": "1794",
+        "an": "Patrick Faigenbaum"
+      },
+      {
         "i": "1794-7527-2013-10-04",
         "c": "IT",
         "n": "Patrick Faigenbaum",
@@ -638,6 +653,29 @@
           "2013-10-04",
           "2014-01-19"
         ]
+      }
+    ],
+    "today": [
+      {
+        "i": "1794",
+        "c": "CA",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "1794-4258-2014-02-22",
+        "c": "CA",
+        "n": "1 + 1 = 1 : When Collections Collide",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Montreal, QC",
+        "o": "The Montreal Museum of Fine Arts - Musée des beaux-arts de Montréal",
+        "d": [
+          "2014-02-22",
+          "2014-06-15"
+        ],
+        "a": "1794",
+        "an": "Patrick Faigenbaum"
       }
     ]
   }

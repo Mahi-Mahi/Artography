@@ -1,7 +1,7 @@
 {
   "id": "57262",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:36:12",
+  "timestamp": "2014-05-31 06:41:39",
   "name": "Davide Balula",
   "surname": "Balula",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "3097",
-  "r01": "4259",
-  "r02": "3716",
-  "r03": "4289",
+  "r00": "3116",
+  "r01": "4264",
+  "r02": "3713",
+  "r03": "4290",
   "r04": "3914",
-  "r05": "4395",
-  "r06": "4842",
-  "r07": "5862",
-  "r08": "8015",
+  "r05": "4397",
+  "r06": "4847",
+  "r07": "5858",
+  "r08": "8022",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
   "all-shows-total": "61",
   "2005-shows-biennials": "17",
   "2005-shows-galleries": "17",
-  "2005-shows-museums": "20",
-  "2005-countries-total": "France (23), USA (10), Germany (3), Belgium (1), Italy (1), Luxembourg (1), Netherlands (1), Portugal (1), Russia (1), Switzerland (1)",
-  "2005-shows-with": "Davide Balula (35), Clément Rodzielski (4), Delphine Coindet (3), Ceal Floyer (3), Claire Fontaine (3), Fabrice Hybert (3), Rainier Lericolais (3), Mathieu Mercier (3), Laurent Montaron (3), Gyan Panchal (3), Steven Parrino (3), Emilie Pitoiset (3), Saâdane Afif (2), Wilfrid Almendra (2), Can Altay (2), Olivier Babin (2), Jules de Balincourt (2), Pierre Bismuth (2), Ralph Borland (2), Ulla von Brandenburg (2), David Brognon & Stéphanie Rollin (2), Peggy Buth (2), Etienne Chambaud (2), John Chamberlain (2), Nicolas Chardon (2), Claude Closky (2), Peter Coffin (2), Isabelle Cornaro (2), Nicolas Floc\\'h (2), Cyprien Gaillard (2), Vincent Ganivet (2), Dora García (2), Mario Garcia Torres (2), Liam Gillick (2), Laurent Grasso (2), Mark Hosking (2), Huong Ngo (2), Guillaume Leblon (2), Sol LeWitt (2), Isa Melsheimer (2), Olivier Millagou (2), Ricardo Miranda Zuñiga (2), Lucy Orta (2), Jorge Pardo (2), Bernard Piffaretti (2), Diogo Pimentão (2), Julien Prévieux (2), J. Morgan Puett (2), Michael Rakowitz (2), ",
+  "2005-shows-museums": "21",
+  "2005-countries-total": "France (24), USA (10), Germany (3), Belgium (1), Italy (1), Luxembourg (1), Netherlands (1), Portugal (1), Russia (1), Switzerland (1)",
+  "2005-shows-with": "Davide Balula (36), Clément Rodzielski (4), Delphine Coindet (3), Ceal Floyer (3), Claire Fontaine (3), Fabrice Hybert (3), Rainier Lericolais (3), Mathieu Mercier (3), Laurent Montaron (3), Gyan Panchal (3), Steven Parrino (3), Emilie Pitoiset (3), Saâdane Afif (2), Wilfrid Almendra (2), Can Altay (2), Olivier Babin (2), Jules de Balincourt (2), Pierre Bismuth (2), Dominique Blais (2), Ralph Borland (2), Ulla von Brandenburg (2), David Brognon & Stéphanie Rollin (2), Peggy Buth (2), Silvia Bächli (2), Etienne Chambaud (2), John Chamberlain (2), Nicolas Chardon (2), Claude Closky (2), Peter Coffin (2), Isabelle Cornaro (2), Nicolas Floc\\'h (2), Cyprien Gaillard (2), Vincent Ganivet (2), Dora García (2), Mario Garcia Torres (2), Liam Gillick (2), Laurent Grasso (2), Mark Hosking (2), Huong Ngo (2), Guillaume Leblon (2), Sol LeWitt (2), Isa Melsheimer (2), Olivier Millagou (2), Ricardo Miranda Zuñiga (2), Lucy Orta (2), Jorge Pardo (2), Bernard Piffaretti (2), Diogo Pimentão (2), Julien Prévieux (2), J.",
   "representing-galleries": "Galerie Frank Elbaz (66, rue De Turenne, 75003 Paris, France); François Ghebaly Gallery (2600 La Cienega Blvd, CA 90034 Los Angeles, CA, USA); Kowal+Odermatt (250 NW 23Rd St Unit 408, FL 33127 Miami Beach, FL, USA)",
   "collecting-museums": "FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France)",
   "first_name": "Davide",
@@ -165,19 +165,19 @@
         "c": "FR"
       },
       {
-        "i": "57262-7851-2007-06-27",
-        "c": "FR"
-      },
-      {
-        "i": "57262-7851-2007-06-27",
-        "c": "FR"
-      },
-      {
         "i": "57262-22295-2007-06-27",
         "c": "FR"
       },
       {
         "i": "57262-22295-2007-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "57262-7851-2007-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "57262-7851-2007-06-27",
         "c": "FR"
       },
       {
@@ -694,6 +694,53 @@
         "d": [
           "2013-01-25",
           "2013-03-23"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "57262-8282-2014-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "57262-8282-2014-02-11",
+        "c": "FR"
+      },
+      {
+        "i": "57262-1782-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "57262-1782-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "57262-22913-2014-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "57262-22913-2014-02-28",
+        "c": "FR"
+      },
+      {
+        "i": "57262-11587-2014-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "57262-11587-2014-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "57262-174-2014-01-17",
+        "c": "BE",
+        "n": "Davide Balula",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "Galerie Rodolphe Janssen",
+        "d": [
+          "2014-01-17",
+          "2014-02-22"
         ]
       }
     ]

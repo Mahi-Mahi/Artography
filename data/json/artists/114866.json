@@ -1,7 +1,7 @@
 {
   "id": "114866",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:56:01",
+  "timestamp": "2014-05-31 07:01:24",
   "name": "Pierre Alferi",
   "surname": "Alferi",
   "nationality": "FR",
@@ -15,25 +15,25 @@
   "death month": null,
   "death year": null,
   "attributes": "Male",
-  "media": null,
-  "r00": "21784",
-  "r01": "22260",
-  "r02": "56277",
-  "r03": "65452",
-  "r04": "58435",
-  "r05": "87374",
-  "r06": "84879",
-  "r07": "74641",
-  "r08": "64822",
+  "media": "Writer",
+  "r00": "21906",
+  "r01": "22287",
+  "r02": "56331",
+  "r03": "65528",
+  "r04": "58507",
+  "r05": "87488",
+  "r06": "85035",
+  "r07": "74763",
+  "r08": "64857",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
   "all-shows-total": "7",
   "2005-shows-biennials": null,
   "2005-shows-galleries": null,
-  "2005-shows-museums": "5",
-  "2005-countries-total": "France (3), Switzerland (2)",
-  "2005-shows-with": "Pierre Alferi (5), Martine Aballéa (2), Adel Abdessemed (2), Dove Allouche (2), Berdaguer & Péjus (2), Andrea Blum (2), Julien Discrit (2), Anne Marie Jugnet (2), Charles Lopez (2), David Renaud (2)",
+  "2005-shows-museums": "6",
+  "2005-countries-total": "France (4), Switzerland (2)",
+  "2005-shows-with": "Pierre Alferi (6), Martine Aballéa (2), Adel Abdessemed (2), Dove Allouche (2), Berdaguer & Péjus (2), Dominique Blais (2), Andrea Blum (2), Julien Discrit (2), Anne Marie Jugnet (2), Charles Lopez (2), David Renaud (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Pierre",
@@ -99,6 +99,16 @@
           "2013-02-20",
           "2013-05-05"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "114866-11587-2014-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "114866-11587-2014-06-21",
+        "c": "FR"
       }
     ]
   }

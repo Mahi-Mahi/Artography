@@ -1,7 +1,7 @@
 {
   "id": "112024",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:55:02",
+  "timestamp": "2014-05-31 07:00:25",
   "name": "Pierre Leguillon",
   "surname": "Leguillon",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "2193",
-  "r01": "2605",
-  "r02": "2890",
-  "r03": "3192",
-  "r04": "3889",
-  "r05": "9267",
-  "r06": "14092",
-  "r07": "18673",
-  "r08": "14616",
+  "r00": "2208",
+  "r01": "2614",
+  "r02": "2889",
+  "r03": "3193",
+  "r04": "3887",
+  "r05": "9276",
+  "r06": "14102",
+  "r07": "18704",
+  "r08": "14639",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
@@ -548,6 +548,123 @@
           "2013-10-05",
           "2014-03-16"
         ]
+      },
+      {
+        "i": "112024-2921-2014-01-23",
+        "c": "US",
+        "n": "Codex",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "San Francisco, CA",
+        "o": "CCA Wattis Institute for Contemporary Arts",
+        "d": [
+          "2014-01-23",
+          "2014-03-29"
+        ]
+      },
+      {
+        "i": "112024-12523-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "112024-12523-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "112024-3608-2014-03-22",
+        "c": "DE",
+        "n": "Room Service - Vom Hotel in der Kunst und Künstlern im Hotel",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Baden-Baden",
+        "o": "Staatliche Kunsthalle Baden-Baden",
+        "d": [
+          "2014-03-22",
+          "2014-06-22"
+        ],
+        "a": "112024",
+        "an": "Pierre Leguillon"
+      },
+      {
+        "i": "112024-2694-2014-05-07",
+        "c": "US",
+        "n": "Outtakes",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Pittsburg, PA",
+        "o": "Carnegie Museum of Art",
+        "d": [
+          "2014-05-07",
+          "2014-09-01"
+        ],
+        "a": "112024",
+        "an": "Pierre Leguillon"
+      },
+      {
+        "i": "112024-21710-2014-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "112024-21710-2014-05-24",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "112024",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "112024-12523-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "112024",
+        "c": "DE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "112024-3608-2014-03-22",
+        "c": "DE",
+        "n": "Room Service - Vom Hotel in der Kunst und Künstlern im Hotel",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Baden-Baden",
+        "o": "Staatliche Kunsthalle Baden-Baden",
+        "d": [
+          "2014-03-22",
+          "2014-06-22"
+        ],
+        "a": "112024",
+        "an": "Pierre Leguillon"
+      },
+      {
+        "i": "112024",
+        "c": "US",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "112024-2694-2014-05-07",
+        "c": "US",
+        "n": "Outtakes",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Pittsburg, PA",
+        "o": "Carnegie Museum of Art",
+        "d": [
+          "2014-05-07",
+          "2014-09-01"
+        ],
+        "a": "112024",
+        "an": "Pierre Leguillon"
+      },
+      {
+        "i": "112024-21710-2014-05-24",
+        "c": "FR"
       }
     ]
   }

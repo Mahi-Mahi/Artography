@@ -1,7 +1,7 @@
 {
   "id": "61150",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:37:36",
+  "timestamp": "2014-05-31 06:43:02",
   "name": "Bruno Boudjelal",
   "surname": "Boudjelal",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "19109",
-  "r01": "18261",
-  "r02": "19918",
-  "r03": "20507",
-  "r04": "27614",
-  "r05": "22677",
-  "r06": "19157",
-  "r07": "17808",
-  "r08": "14160",
+  "r00": "19199",
+  "r01": "18288",
+  "r02": "19926",
+  "r03": "20509",
+  "r04": "27621",
+  "r05": "22684",
+  "r06": "19158",
+  "r07": "17813",
+  "r08": "14166",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
@@ -200,6 +200,21 @@
       {
         "i": "61150-8129-2012-10-20",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "61150-20278-2014-02-22",
+        "c": "BE",
+        "n": "Nass Belgica L'immigration Marocaine En Belgique",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Botanique",
+        "d": [
+          "2014-02-22",
+          "2014-04-27"
+        ]
       }
     ]
   }

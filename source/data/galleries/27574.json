@@ -12,23 +12,29 @@
   "email": "rejane.louin@gmail.com",
   "www": "www.galerierejanelouin.fr",
   "map": "http://maps.google.com/maps?q=Locquirec%2C%2029241 %2C%20 %2C%2019, rue de l\\'église %2C%20France",
-  "fairs-total": "3",
+  "fairs-total": "4",
   "fairs-abroad": "0",
-  "fairs-in-FR": "3",
+  "fairs-in-FR": "4",
   "fairs": {
     "2012": [
       {
-        "i": "27574-ST-ART  2012",
+        "i": "27574-ST-ART--2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "27574-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "i": "27574-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2013",
         "c": "FR"
       },
       {
-        "i": "27574-Slick Paris 2013",
+        "i": "27574-Slick-Paris-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "27574-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
         "c": "FR"
       }
     ]

@@ -12,13 +12,13 @@
   "email": "contact@christianberst.com",
   "www": "www.christianberst.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075012 %2C%20 %2C%2024 rue de Charenton %2C%20France",
-  "fairs-total": "12",
+  "fairs-total": "14",
   "fairs-abroad": "1",
-  "fairs-in-FR": "11",
+  "fairs-in-FR": "13",
   "fairs": {
     "2007": [
       {
-        "i": "13240-Art Verona 07",
+        "i": "13240-Art-Verona-07",
         "c": "IT",
         "n": "Art Verona 07",
         "ct": "Verona"
@@ -26,57 +26,67 @@
     ],
     "2008": [
       {
-        "i": "13240-Salon du Dessin Contemporain 2008",
+        "i": "13240-Salon-du-Dessin-Contemporain-2008",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "13240-Salon du Dessin Contemporain 2009",
+        "i": "13240-Salon-du-Dessin-Contemporain-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "13240-ArtParis 2010",
+        "i": "13240-ArtParis-2010",
         "c": "FR"
       },
       {
-        "i": "13240-Salon du Dessin Contemporain 2010",
+        "i": "13240-Salon-du-Dessin-Contemporain-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "13240-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "i": "13240-Drawing-Now-Paris---Le-Salon-Du-Dessin-Contemporain-2011",
         "c": "FR"
       },
       {
-        "i": "13240-ArtParis 2011",
+        "i": "13240-ArtParis-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "13240-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "i": "13240-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2012",
         "c": "FR"
       },
       {
-        "i": "13240-SLICK 2012",
+        "i": "13240-SLICK-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "13240-Art Paris Art Fair 2013",
+        "i": "13240-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "13240-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "i": "13240-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2013",
         "c": "FR"
       },
       {
-        "i": "13240-Yia Art Fair 2013",
+        "i": "13240-Yia-Art-Fair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "13240-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
+        "c": "FR"
+      },
+      {
+        "i": "13240-Artparis-2014",
         "c": "FR"
       }
     ]

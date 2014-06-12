@@ -1,7 +1,7 @@
 {
   "id": "1666",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:15:12",
+  "timestamp": "2014-05-31 06:20:44",
   "name": "Michel Verjux",
   "surname": "Verjux",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Light Sculpture",
-  "r00": "3066",
-  "r01": "2949",
-  "r02": "2522",
-  "r03": "2056",
-  "r04": "2228",
-  "r05": "1956",
-  "r06": "1626",
-  "r07": "1267",
-  "r08": "1044",
+  "r00": "3083",
+  "r01": "2951",
+  "r02": "2525",
+  "r03": "2057",
+  "r04": "2226",
+  "r05": "1955",
+  "r06": "1627",
+  "r07": "1268",
+  "r08": "1045",
   "awards": null,
   "website": null,
   "all-shows-first": "1986",
-  "all-shows-total": "121",
+  "all-shows-total": "122",
   "2005-shows-biennials": "23",
   "2005-shows-galleries": "23",
   "2005-shows-museums": "7",
@@ -147,7 +147,7 @@
         "t": "Institution publique",
         "st": "Group",
         "ct": "Milan",
-        "o": "Hangar Bicocca | spazio d’arte contemporanea",
+        "o": "HangarBicocca | spazio d’arte contemporanea",
         "d": [
           "2006-03-30",
           "2006-05-14"
@@ -705,6 +705,16 @@
           "2013-09-24",
           "2013-11-21"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "1666-1782-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "1666-1782-2014-02-14",
+        "c": "FR"
       }
     ]
   }

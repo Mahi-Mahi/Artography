@@ -1,7 +1,7 @@
 {
   "id": "53194",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:34:46",
+  "timestamp": "2014-05-31 06:40:14",
   "name": "Aurélien Froment",
   "surname": "Froment",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video, Objects",
-  "r00": "544",
-  "r01": "702",
-  "r02": "831",
-  "r03": "1051",
-  "r04": "1293",
-  "r05": "1614",
-  "r06": "2790",
-  "r07": "6014",
-  "r08": "7263",
+  "r00": "561",
+  "r01": "729",
+  "r02": "852",
+  "r03": "1096",
+  "r04": "1312",
+  "r05": "1617",
+  "r06": "2792",
+  "r07": "6018",
+  "r08": "7262",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
-  "all-shows-total": "130",
-  "2005-shows-biennials": "25",
-  "2005-shows-galleries": "25",
+  "all-shows-total": "131",
+  "2005-shows-biennials": "22",
+  "2005-shows-galleries": "22",
   "2005-shows-museums": "64",
-  "2005-countries-total": "France (37), USA (12), United Kingdom (11), Netherlands (10), Belgium (4), Canada (4), Germany (4), Italy (4), Ireland (Republic) (3), Japan (3), Spain (3), China (2), Luxembourg (2), South Korea (2), Argentina (1), Australia (1), Egypt (1), Iceland (1), New Zealand (1), Panama (1), Romania (1), Russia (1), Sweden (1), Switzerland (1), Ukraine (1)",
+  "2005-countries-total": "France (34), USA (12), United Kingdom (11), Netherlands (10), Belgium (4), Canada (4), Germany (4), Italy (4), Ireland (Republic) (3), Japan (3), Spain (3), China (2), Luxembourg (2), South Korea (2), Argentina (1), Australia (1), Egypt (1), Iceland (1), New Zealand (1), Panama (1), Romania (1), Russia (1), Sweden (1), Switzerland (1), Ukraine (1)",
   "2005-shows-with": "Aurélien Froment (95), Ryan Gander (16), Claire Fontaine (12), Pierre Bismuth (11), João Maria Gusmão & Pedro Paiva (9), Laurent Montaron (9), Etienne Chambaud (8), Tacita Dean (8), Dexter Sinister (8), Dora García (8), Mario Garcia Torres (8), Pamela Rosenkranz (8), Jimmie Durham (7), Mark Geffriaud (7), Matt Mullican (7), Christopher Williams (7), Allora & Calzadilla (6), Francis Alys (6), Pablo Bronstein (6), Peter Coffin (6), Michel François (6), Yona Friedman (6), Mike Kelley (6), Joachim Koester (6), Guillaume Leblon (6), Benoît Maire (6), Roman Ondák (6), Amalia Pica (6), Alexandre Singh (6), Raphaël Zarka (6), Ahmet Ögüt (6), Tauba Auerbach (5), Fia Backström (5), Ulla von Brandenburg (5), Nina Canell (5), Jan De Cock (5), Ceal Floyer (5), Liam Gillick (5), Dan Graham (5), Laurent Grasso (5), Joseph Grigely (5), Charline von Heyl (5), Susan Hiller (5), Eva Kotatkova (5), Mark Leckey (5), Pierre Leguillon (5), David Maljkovic (5), Jonathan Monk (5), Olivier Mosset (5), Melvin Moti (5), Simon",
   "representing-galleries": "Marcelle Alix (4 rue Jouye-Rouve, 75020 Paris, France); Motive Gallery (Ms. van Riemsdijkweg 41a, 1033 RC Amsterdam, Netherlands)",
   "collecting-museums": null,
@@ -1346,6 +1346,18 @@
         ]
       },
       {
+        "i": "53194-2367-2013-06-01",
+        "c": "IT",
+        "n": "Biennale di Venezia - 55th International Art Exhibition",
+        "st": "Group",
+        "ct": "Venice",
+        "o": "La Biennale di Venezia",
+        "d": [
+          "2013-06-01",
+          "2013-11-24"
+        ]
+      },
+      {
         "i": "53194--2013-06-01",
         "c": "IT",
         "n": "The Future Generation Art Prize@Venice 2013",
@@ -1356,18 +1368,6 @@
         "d": [
           "2013-06-01",
           "2013-09-01"
-        ]
-      },
-      {
-        "i": "53194-2367-2013-06-01",
-        "c": "IT",
-        "n": "Biennale di Venezia - 55th International Art Exhibition",
-        "st": "Group",
-        "ct": "Venice",
-        "o": "La Biennale di Venezia",
-        "d": [
-          "2013-06-01",
-          "2013-11-24"
         ]
       },
       {
@@ -1483,6 +1483,219 @@
           "2013-11-23",
           "2014-03-15"
         ]
+      },
+      {
+        "i": "53194-10677-2014-01-11",
+        "c": "US",
+        "n": "Affecting the Audience: Anthony Discenza, Aurélien Froment, and Dora García",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Ann Arbor, MI",
+        "o": "UMMA - The University of Michigan Museum of Art",
+        "d": [
+          "2014-01-11",
+          "2014-04-27"
+        ]
+      },
+      {
+        "i": "53194-13314-2014-01-25",
+        "c": "GB",
+        "n": "Curiosity: Art and the Pleasures of Knowing  ",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Newlyn",
+        "o": "Newlyn Art Gallery",
+        "d": [
+          "2014-01-25",
+          "2014-04-26"
+        ]
+      },
+      {
+        "i": "53194-13315-2014-01-25",
+        "c": "GB",
+        "n": "Curiosity: Art and the Pleasures of Knowing",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Penzance, Cornwall",
+        "o": "The Exchange",
+        "d": [
+          "2014-01-25",
+          "2014-04-26"
+        ]
+      },
+      {
+        "i": "53194-22613-2014-03-01",
+        "c": "BE",
+        "n": "A book between two stools",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Villa Empain - Boghossian Foundation",
+        "d": [
+          "2014-03-01",
+          "2014-09-07"
+        ],
+        "a": "53194",
+        "an": "Aurélien Froment"
+      },
+      {
+        "i": "53194-4081-2014-03-21",
+        "c": "AU",
+        "n": "19th Biennale of Sydney - You imagine what you desire",
+        "st": "Group",
+        "ct": "Sydney, NSW",
+        "o": "Biennale of Sydney",
+        "d": [
+          "2014-03-21",
+          "2014-06-09"
+        ]
+      },
+      {
+        "i": "53194-30970-2014-05-06",
+        "c": "EG",
+        "n": "A Guest Without A Host Is A Ghost",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Cairo",
+        "o": "Beirut",
+        "d": [
+          "2014-05-06",
+          "2014-06-18"
+        ],
+        "a": "53194",
+        "an": "Aurélien Froment"
+      },
+      {
+        "i": "53194-2427-2014-05-22",
+        "c": "NL",
+        "n": "A Constructed World",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rotterdam",
+        "o": "Witte de With Center for Contemporary Art",
+        "d": [
+          "2014-05-22",
+          "2014-08-17"
+        ],
+        "a": "53194",
+        "an": "Aurélien Froment"
+      },
+      {
+        "i": "53194-21710-2014-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "53194-21710-2014-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "53194-1289-2014-06-28",
+        "c": "NL",
+        "n": "Curiosity",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Amsterdam",
+        "o": "de Appel arts centre",
+        "d": [
+          "2014-06-28",
+          "2014-09-14"
+        ]
+      },
+      {
+        "i": "53194-12004-2014-01-24",
+        "c": "CA",
+        "n": "Aurélien Froment - FröbelFröbeled",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Vancouver, BC",
+        "o": "CAG - Vancouver Contemporary Art Gallery",
+        "d": [
+          "2014-01-24",
+          "2014-03-16"
+        ]
+      },
+      {
+        "i": "53194-2585-2014-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "53194-2585-2014-04-13",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "53194",
+        "c": "BE",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "53194-22613-2014-03-01",
+        "c": "BE",
+        "n": "A book between two stools",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Villa Empain - Boghossian Foundation",
+        "d": [
+          "2014-03-01",
+          "2014-09-07"
+        ],
+        "a": "53194",
+        "an": "Aurélien Froment"
+      },
+      {
+        "i": "53194",
+        "c": "EG",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "53194-30970-2014-05-06",
+        "c": "EG",
+        "n": "A Guest Without A Host Is A Ghost",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Cairo",
+        "o": "Beirut",
+        "d": [
+          "2014-05-06",
+          "2014-06-18"
+        ],
+        "a": "53194",
+        "an": "Aurélien Froment"
+      },
+      {
+        "i": "53194",
+        "c": "NL",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "53194-2427-2014-05-22",
+        "c": "NL",
+        "n": "A Constructed World",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rotterdam",
+        "o": "Witte de With Center for Contemporary Art",
+        "d": [
+          "2014-05-22",
+          "2014-08-17"
+        ],
+        "a": "53194",
+        "an": "Aurélien Froment"
+      },
+      {
+        "i": "53194",
+        "c": "FR",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "53194-21710-2014-05-24",
+        "c": "FR"
       }
     ]
   }

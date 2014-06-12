@@ -12,13 +12,13 @@
   "email": null,
   "www": "www.leonor-fini.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%2046, rue de l'Université %2C%20France",
-  "fairs-total": "13",
-  "fairs-abroad": "7",
+  "fairs-total": "14",
+  "fairs-abroad": "8",
   "fairs-in-FR": "6",
   "fairs": {
     "2005": [
       {
-        "i": "4708-Art Miami 2005",
+        "i": "4708-Art-Miami-2005",
         "c": "US",
         "n": "Art Miami 2005",
         "ct": "Miami Beach, FL"
@@ -26,7 +26,7 @@
     ],
     "2006": [
       {
-        "i": "4708-Art Miami 2006",
+        "i": "4708-Art-Miami-2006",
         "c": "US",
         "n": "Art Miami 2006",
         "ct": "Tucson, AZ"
@@ -34,66 +34,74 @@
     ],
     "2009": [
       {
-        "i": "4708-The Affordable Art Fair Paris 09",
+        "i": "4708-The-Affordable-Art-Fair-Paris-09",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "4708-Affordable Art Fair Bruxelles 2010",
+        "i": "4708-Affordable-Art-Fair-Bruxelles-2010",
         "c": "BE",
         "n": "Affordable Art Fair Bruxelles 2010",
         "ct": "Brussels"
       },
       {
-        "i": "4708-The Affordable Art Fair New York Fall 2010",
+        "i": "4708-The-Affordable-Art-Fair-New-York-Fall-2010",
         "c": "US",
         "n": "The Affordable Art Fair New York Fall 2010",
         "ct": "New York City, NY"
       },
       {
-        "i": "4708-Art Elysées 2010",
+        "i": "4708-Art-Elysées-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "4708-CHIC DESSIN",
+        "i": "4708-CHIC-DESSIN",
         "c": "FR"
       },
       {
-        "i": "4708-Art Elysées 2011",
+        "i": "4708-Art-Elysées-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "4708-Affordable Art Fair Bruxelles 2012",
+        "i": "4708-Affordable-Art-Fair-Bruxelles-2012",
         "c": "BE",
         "n": "Affordable Art Fair Bruxelles 2012",
         "ct": "Brussels"
       },
       {
-        "i": "4708-Art Elysées 2012",
+        "i": "4708-Art-Elysées-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "4708-India Art Fair 2013",
+        "i": "4708-India-Art-Fair-2013",
         "c": "IN",
         "n": "India Art Fair 2013",
         "ct": "New Delhi"
       },
       {
-        "i": "4708-Art13 London",
+        "i": "4708-Art13-London",
         "c": "GB",
         "n": "Art13 London",
         "ct": "London"
       },
       {
-        "i": "4708-Art Elysees 2013",
+        "i": "4708-Art-Elysees-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "4708-India-Art-Fair-2014",
+        "c": "IN",
+        "n": "India Art Fair 2014",
+        "ct": "New Delhi"
       }
     ]
   }

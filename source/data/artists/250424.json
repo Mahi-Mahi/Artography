@@ -1,7 +1,7 @@
 {
   "id": "250424",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:42:14",
+  "timestamp": "2014-05-31 07:47:30",
   "name": "John Cornu",
   "surname": "Cornu",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "4953",
-  "r01": "5243",
-  "r02": "5526",
-  "r03": "8236",
-  "r04": "19360",
-  "r05": "49486",
-  "r06": "80679",
-  "r07": "72462",
+  "r00": "4996",
+  "r01": "5251",
+  "r02": "5522",
+  "r03": "8244",
+  "r04": "19369",
+  "r05": "49528",
+  "r06": "80783",
+  "r07": "72574",
   "r08": null,
   "awards": null,
   "website": null,
@@ -383,6 +383,46 @@
           "2013-08-30",
           "2013-09-07"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "250424-14201-2014-03-29",
+        "c": "GB",
+        "n": "Monument: Aftermath of War and Conflict",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Norwich",
+        "o": "Sainsbury Centre for Visual Arts",
+        "d": [
+          "2014-03-29",
+          "2014-07-27"
+        ],
+        "a": "250424",
+        "an": "John Cornu"
+      }
+    ],
+    "today": [
+      {
+        "i": "250424",
+        "c": "GB",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "250424-14201-2014-03-29",
+        "c": "GB",
+        "n": "Monument: Aftermath of War and Conflict",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Norwich",
+        "o": "Sainsbury Centre for Visual Arts",
+        "d": [
+          "2014-03-29",
+          "2014-07-27"
+        ],
+        "a": "250424",
+        "an": "John Cornu"
       }
     ]
   }

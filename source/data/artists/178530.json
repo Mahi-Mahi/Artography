@@ -1,7 +1,7 @@
 {
   "id": "178530",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:17:38",
+  "timestamp": "2014-05-31 07:23:02",
   "name": "Marion Tampon-Lajarriette",
   "surname": "Tampon-Lajarriette",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "9109",
-  "r01": "8782",
-  "r02": "7657",
-  "r03": "7981",
-  "r04": "6891",
-  "r05": "10566",
-  "r06": "27621",
-  "r07": "38358",
+  "r00": "9156",
+  "r01": "8803",
+  "r02": "7671",
+  "r03": "7985",
+  "r04": "6895",
+  "r05": "10581",
+  "r06": "27667",
+  "r07": "38470",
   "r08": null,
   "awards": null,
   "website": null,
@@ -256,6 +256,46 @@
       {
         "i": "178530-17872-2013-05-22",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "178530-31121-2014-06-06",
+        "c": "CH",
+        "n": "Utopie Picturale 2",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Fonderie Kugler",
+        "d": [
+          "2014-06-06",
+          "2014-06-22"
+        ],
+        "a": "178530",
+        "an": "Marion Tampon-Lajarriette"
+      }
+    ],
+    "today": [
+      {
+        "i": "178530",
+        "c": "CH",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "178530-31121-2014-06-06",
+        "c": "CH",
+        "n": "Utopie Picturale 2",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Fonderie Kugler",
+        "d": [
+          "2014-06-06",
+          "2014-06-22"
+        ],
+        "a": "178530",
+        "an": "Marion Tampon-Lajarriette"
       }
     ]
   }

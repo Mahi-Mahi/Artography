@@ -1,7 +1,7 @@
 {
   "id": "56764",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:36:01",
+  "timestamp": "2014-05-31 06:41:28",
   "name": "Olivier Leroi",
   "surname": "Leroi",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "9871",
-  "r01": "10158",
-  "r02": "11058",
-  "r03": "11097",
-  "r04": "15794",
-  "r05": "14453",
-  "r06": "14555",
-  "r07": "20021",
-  "r08": "19611",
+  "r00": "9835",
+  "r01": "10149",
+  "r02": "11027",
+  "r03": "11093",
+  "r04": "15798",
+  "r05": "14461",
+  "r06": "14562",
+  "r07": "20031",
+  "r08": "19607",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
   "all-shows-total": "22",
-  "2005-shows-biennials": "5",
-  "2005-shows-galleries": "5",
+  "2005-shows-biennials": "6",
+  "2005-shows-galleries": "6",
   "2005-shows-museums": "9",
-  "2005-countries-total": "France (15), Greece (1)",
-  "2005-shows-with": "Olivier Leroi (14), Han Hoogerbrugge (3), Arnaud Labelle-Rojoux (3), Thierry Lagalla (3), Annette Messager (3), Javier Pérez (3), Françoise Petrovitch (3), Jean-Luc Verna (3), Francis Alys (2), Pierre Ardouvin (2), Tïa Calli Borlase (2), Frédéric Clavère (2), Claude Closky (2), Philippe Cognée (2), Julien Crépieux (2), Gaël Davrinche (2), Jean Dupuy (2), Philippe Durand (2), Franck Éon (2), Richard Fauguet (2), Steve Galloway (2), Iris Levasseur (2), Isabelle Levenez (2), Peter Martensen (2), Peter Neuchs (2), Gérald Panighi (2), Stéphane Pichard (2), Fernando Prats (2), Jorge Queiroz (2), Emmanuel Régent (2), Kotscha Reist (2), Anne-Marie Schneider (2), Kiki Smith (2), Stephane Steiner (2), Barthélémy Toguo (2), Boyd Webb (2)",
+  "2005-countries-total": "France (16), Greece (1)",
+  "2005-shows-with": "Olivier Leroi (15), Han Hoogerbrugge (4), Arnaud Labelle-Rojoux (4), Thierry Lagalla (4), Jean-Luc Verna (4), Jean Dupuy (3), Annette Messager (3), Javier Pérez (3), Françoise Petrovitch (3), Emmanuel Régent (3), Stephane Steiner (3), Thierry Agnone (2), Francis Alys (2), Pierre Ardouvin (2), Tïa Calli Borlase (2), Anna Byskov (2), Marc Chevalier (2), Frédéric Clavère (2), Claude Closky (2), Philippe Cognée (2), Julien Crépieux (2), Gaël Davrinche (2), Philippe Durand (2), Franck Éon (2), Richard Fauguet (2), Steve Galloway (2), Isabelle Giovacchini (2), Joël Hubaut (2), Iris Levasseur (2), Isabelle Levenez (2), Peter Martensen (2), Martinet & Texereau (2), Florent Mattei (2), Peter Neuchs (2), Gérald Panighi (2), Stéphane Pichard (2), Fernando Prats (2), Stéphane Protic (2), Jorge Queiroz (2), Kotscha Reist (2), Karine Rougier (2), Franck Saïssi (2), Anne-Marie Schneider (2), Lionel Scoccimaro (2), Kiki Smith (2), Barthélémy Toguo (2), Kirill Ukolov (2), Boyd Webb (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC - Limousin (impasse des Charentes, 87100 Limoges, France)",
   "first_name": "Olivier",
@@ -187,6 +187,36 @@
       },
       {
         "i": "56764-9475-2013-07-07",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "56764-8554-2014-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "56764-8554-2014-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "56764-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "56764-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "56764",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "56764-16752-2014-04-19",
         "c": "FR"
       }
     ],

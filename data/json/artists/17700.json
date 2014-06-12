@@ -1,7 +1,7 @@
 {
   "id": "17700",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:58",
+  "timestamp": "2014-05-31 06:27:29",
   "name": "Philippe Gronon",
   "surname": "Gronon",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "3035",
-  "r01": "2932",
-  "r02": "2692",
-  "r03": "2498",
-  "r04": "2597",
-  "r05": "2944",
-  "r06": "2690",
+  "r00": "3054",
+  "r01": "2934",
+  "r02": "2695",
+  "r03": "2504",
+  "r04": "2599",
+  "r05": "2948",
+  "r06": "2691",
   "r07": "2412",
-  "r08": "2338",
+  "r08": "2339",
   "awards": "Villa Medici, Rome \r\n,ISCP International Studio & Curatorial program, New-York \r\n",
   "website": "www.philippegronon.com",
   "all-shows-first": "1990",
@@ -520,6 +520,14 @@
           "2013-11-09",
           "2014-01-18"
         ]
+      },
+      {
+        "i": "17700-11587-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "17700-11587-2014-02-14",
+        "c": "FR"
       }
     ]
   }

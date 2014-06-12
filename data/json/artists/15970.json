@@ -1,7 +1,7 @@
 {
   "id": "15970",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:16",
+  "timestamp": "2014-05-31 06:26:46",
   "name": "Julien Berthier",
   "surname": "Berthier",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video, Installation, Performance",
-  "r00": "3353",
-  "r01": "3242",
-  "r02": "2853",
+  "r00": "3371",
+  "r01": "3246",
+  "r02": "2849",
   "r03": "2341",
-  "r04": "2169",
-  "r05": "2298",
-  "r06": "1959",
+  "r04": "2171",
+  "r05": "2299",
+  "r06": "1961",
   "r07": "2258",
-  "r08": "2142",
+  "r08": "2143",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "65",
+  "all-shows-total": "66",
   "2005-shows-biennials": "10",
   "2005-shows-galleries": "10",
   "2005-shows-museums": "16",
@@ -669,6 +669,70 @@
           "2013-07-19",
           "2013-10-06"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "15970-11771-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "15970-11771-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "15970-22613-2014-03-01",
+        "c": "BE",
+        "n": "A book between two stools",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Villa Empain - Boghossian Foundation",
+        "d": [
+          "2014-03-01",
+          "2014-09-07"
+        ],
+        "a": "15970",
+        "an": "Julien Berthier"
+      },
+      {
+        "i": "15970-8542-2014-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "15970-8542-2014-03-14",
+        "c": "FR"
+      },
+      {
+        "i": "15970-27613-2014-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "15970-27613-2014-03-23",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "15970",
+        "c": "BE",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "15970-22613-2014-03-01",
+        "c": "BE",
+        "n": "A book between two stools",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Villa Empain - Boghossian Foundation",
+        "d": [
+          "2014-03-01",
+          "2014-09-07"
+        ],
+        "a": "15970",
+        "an": "Julien Berthier"
       }
     ]
   }

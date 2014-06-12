@@ -12,17 +12,17 @@
   "email": "info@galerieannebarrault.com",
   "www": "www.galerieannebarrault.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2022, rue Saint-Claude %2C%20France",
-  "fairs-total": "28",
+  "fairs-total": "29",
   "fairs-abroad": "14",
-  "fairs-in-FR": "14",
+  "fairs-in-FR": "15",
   "fairs": {
     "2005": [
       {
-        "i": "1372-Fiac 2005",
+        "i": "1372-Fiac-2005",
         "c": "FR"
       },
       {
-        "i": "1372-Aqua Art Miami 2005",
+        "i": "1372-Aqua-Art-Miami-2005",
         "c": "US",
         "n": "Aqua Art Miami 2005",
         "ct": "Tucson, AZ"
@@ -30,23 +30,23 @@
     ],
     "2006": [
       {
-        "i": "1372-Pulse New York 06",
+        "i": "1372-Pulse-New-York-06",
         "c": "US",
         "n": "Pulse New York 06",
         "ct": "New York City, NY"
       },
       {
-        "i": "1372-DFOTO 2006",
+        "i": "1372-DFOTO-2006",
         "c": "ES",
         "n": "DFOTO 2006",
         "ct": "San Sebastián"
       },
       {
-        "i": "1372-Fiac 2006",
+        "i": "1372-Fiac-2006",
         "c": "FR"
       },
       {
-        "i": "1372-Pulse Miami 06",
+        "i": "1372-Pulse-Miami-06",
         "c": "US",
         "n": "Pulse Miami 06",
         "ct": "Miami, FL"
@@ -54,23 +54,23 @@
     ],
     "2007": [
       {
-        "i": "1372-12. Art Forum Berlin",
+        "i": "1372-12.-Art-Forum-Berlin",
         "c": "DE",
         "n": "12. Art Forum Berlin",
         "ct": "Berlin"
       },
       {
-        "i": "1372-Year_07 Art Project",
+        "i": "1372-Year_07-Art-Project",
         "c": "GB",
         "n": "Year_07 Art Project",
         "ct": "London"
       },
       {
-        "i": "1372-Fiac 2007",
+        "i": "1372-Fiac-2007",
         "c": "FR"
       },
       {
-        "i": "1372-PULSE Miami 07",
+        "i": "1372-PULSE-Miami-07",
         "c": "US",
         "n": "PULSE Miami 07",
         "ct": "Miami, FL"
@@ -78,17 +78,17 @@
     ],
     "2008": [
       {
-        "i": "1372-Pulse New York 08",
+        "i": "1372-Pulse-New-York-08",
         "c": "US",
         "n": "Pulse New York 08",
         "ct": "New York City, NY"
       },
       {
-        "i": "1372-Salon du Dessin Contemporain 2008",
+        "i": "1372-Salon-du-Dessin-Contemporain-2008",
         "c": "FR"
       },
       {
-        "i": "1372-NEXT 08",
+        "i": "1372-NEXT-08",
         "c": "US",
         "n": "NEXT 08",
         "ct": "Chicago, IL"
@@ -100,11 +100,11 @@
         "ct": "Basel"
       },
       {
-        "i": "1372-Fiac 2008",
+        "i": "1372-Fiac-2008",
         "c": "FR"
       },
       {
-        "i": "1372-PULSE Miami 08",
+        "i": "1372-PULSE-Miami-08",
         "c": "US",
         "n": "PULSE Miami 08",
         "ct": "Miami, FL"
@@ -112,7 +112,7 @@
     ],
     "2009": [
       {
-        "i": "1372-Salon du Dessin Contemporain 2009",
+        "i": "1372-Salon-du-Dessin-Contemporain-2009",
         "c": "FR"
       },
       {
@@ -122,23 +122,23 @@
         "ct": "Basel"
       },
       {
-        "i": "1372-Fiac 2009",
+        "i": "1372-Fiac-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "1372-Salon du Dessin Contemporain 2010",
+        "i": "1372-Salon-du-Dessin-Contemporain-2010",
         "c": "FR"
       },
       {
-        "i": "1372-Paris Photo 2010",
+        "i": "1372-Paris-Photo-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "1372-Zona Maco Mexico 11",
+        "i": "1372-Zona-Maco-Mexico-11",
         "c": "MX",
         "n": "Zona Maco Mexico 11",
         "ct": "Mexico City"
@@ -146,32 +146,38 @@
     ],
     "2012": [
       {
-        "i": "1372-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "i": "1372-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2012",
         "c": "FR"
       },
       {
-        "i": "1372-Art-O-Rama 2012",
+        "i": "1372-Art-O-Rama-2012",
         "c": "FR"
       },
       {
-        "i": "1372-Paris Photo 2012",
+        "i": "1372-Paris-Photo-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "1372-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "i": "1372-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2013",
         "c": "FR"
       },
       {
-        "i": "1372-Yia Art Fair 2013",
+        "i": "1372-Yia-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "1372-Untitled. 2013",
+        "i": "1372-Untitled.-2013",
         "c": "US",
         "n": "Untitled. 2013",
         "ct": "Miami Beach, FL"
+      }
+    ],
+    "2014": [
+      {
+        "i": "1372-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "2508",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:15:44",
+  "timestamp": "2014-05-31 06:21:16",
   "name": "Yves Popet",
   "surname": "Popet",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "14085",
-  "r01": "13079",
-  "r02": "11038",
-  "r03": "11171",
-  "r04": "9561",
-  "r05": "9714",
-  "r06": "11187",
-  "r07": "11919",
-  "r08": "36772",
+  "r00": "14146",
+  "r01": "13091",
+  "r02": "11036",
+  "r03": "11169",
+  "r04": "9560",
+  "r05": "9715",
+  "r06": "11185",
+  "r07": "11923",
+  "r08": "36739",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
@@ -182,19 +182,6 @@
         ]
       },
       {
-        "i": "2508-14167-2007-11-02",
-        "c": "HU",
-        "n": "Exemplifizieren wird Kunst",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Budapest",
-        "o": "Vasarely Museum",
-        "d": [
-          "2007-11-02",
-          "2008-01-06"
-        ]
-      },
-      {
         "i": "2508-10367-2007-11-02",
         "c": "HU",
         "n": "Exemplification as Art",
@@ -202,6 +189,19 @@
         "st": "Group",
         "ct": "Budapest",
         "o": "Museum of Fine Arts - Budapest",
+        "d": [
+          "2007-11-02",
+          "2008-01-06"
+        ]
+      },
+      {
+        "i": "2508-14167-2007-11-02",
+        "c": "HU",
+        "n": "Exemplifizieren wird Kunst",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Budapest",
+        "o": "Vasarely Museum",
         "d": [
           "2007-11-02",
           "2008-01-06"
@@ -223,19 +223,6 @@
     ],
     "2008": [
       {
-        "i": "2508-14167-2007-11-02",
-        "c": "HU",
-        "n": "Exemplifizieren wird Kunst",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Budapest",
-        "o": "Vasarely Museum",
-        "d": [
-          "2007-11-02",
-          "2008-01-06"
-        ]
-      },
-      {
         "i": "2508-10367-2007-11-02",
         "c": "HU",
         "n": "Exemplification as Art",
@@ -243,6 +230,19 @@
         "st": "Group",
         "ct": "Budapest",
         "o": "Museum of Fine Arts - Budapest",
+        "d": [
+          "2007-11-02",
+          "2008-01-06"
+        ]
+      },
+      {
+        "i": "2508-14167-2007-11-02",
+        "c": "HU",
+        "n": "Exemplifizieren wird Kunst",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Budapest",
+        "o": "Vasarely Museum",
         "d": [
           "2007-11-02",
           "2008-01-06"

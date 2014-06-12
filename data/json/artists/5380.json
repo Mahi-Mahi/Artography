@@ -1,7 +1,7 @@
 {
   "id": "5380",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:17:02",
+  "timestamp": "2014-05-31 06:22:35",
   "name": "Jean-Luc Moulène",
   "surname": "Moulène",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Sculpture",
-  "r00": "714",
-  "r01": "747",
+  "r00": "721",
+  "r01": "748",
   "r02": "778",
-  "r03": "845",
+  "r03": "846",
   "r04": "764",
   "r05": "661",
   "r06": "632",
   "r07": "549",
-  "r08": "595",
+  "r08": "594",
   "awards": null,
   "website": null,
   "all-shows-first": "1990",
@@ -1399,6 +1399,70 @@
         ]
       },
       {
+        "i": "5380-16445-2014-01-04",
+        "c": "US",
+        "n": "Stay in Love",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Lisa Cooley Fine Art",
+        "d": [
+          "2014-01-04",
+          "2014-02-02"
+        ]
+      },
+      {
+        "i": "5380-2921-2014-01-23",
+        "c": "US",
+        "n": "Codex",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "San Francisco, CA",
+        "o": "CCA Wattis Institute for Contemporary Arts",
+        "d": [
+          "2014-01-23",
+          "2014-03-29"
+        ]
+      },
+      {
+        "i": "5380-11889-2014-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "5380-11889-2014-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "5380-5426-2014-05-01",
+        "c": "AT",
+        "n": "Manners of Matter",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Salzburg",
+        "o": "Salzburger Kunstverein",
+        "d": [
+          "2014-05-01",
+          "2014-07-13"
+        ],
+        "a": "5380",
+        "an": "Jean-Luc Moulène"
+      },
+      {
+        "i": "5380-24760-2014-05-27",
+        "c": "DE",
+        "n": "Blütezeit",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Frankfurt/Main",
+        "o": "Art Foyer der DZ Bank Kunstsammlung",
+        "d": [
+          "2014-05-27",
+          "2014-08-09"
+        ],
+        "a": "5380",
+        "an": "Jean-Luc Moulène"
+      },
+      {
         "i": "5380-2943-2013-12-13",
         "c": "BE",
         "n": "Jean-Luc Moulène: Endwards",
@@ -1410,6 +1474,63 @@
           "2013-12-13",
           "2014-02-23"
         ]
+      },
+      {
+        "i": "5380-1615-2014-02-07",
+        "c": "BE",
+        "n": "Jean-Luc Moulène",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Brussels",
+        "o": "Galerie Greta Meert",
+        "d": [
+          "2014-02-07",
+          "2014-04-05"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "5380",
+        "c": "AT",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "5380-5426-2014-05-01",
+        "c": "AT",
+        "n": "Manners of Matter",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Salzburg",
+        "o": "Salzburger Kunstverein",
+        "d": [
+          "2014-05-01",
+          "2014-07-13"
+        ],
+        "a": "5380",
+        "an": "Jean-Luc Moulène"
+      },
+      {
+        "i": "5380",
+        "c": "DE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "5380-24760-2014-05-27",
+        "c": "DE",
+        "n": "Blütezeit",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Frankfurt/Main",
+        "o": "Art Foyer der DZ Bank Kunstsammlung",
+        "d": [
+          "2014-05-27",
+          "2014-08-09"
+        ],
+        "a": "5380",
+        "an": "Jean-Luc Moulène"
       }
     ]
   }

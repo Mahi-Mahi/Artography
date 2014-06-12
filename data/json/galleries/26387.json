@@ -12,13 +12,13 @@
   "email": "perdriolleherve@orange.fr",
   "www": "herve-perdriolle-paris.blogspot.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075005  %2C%20 %2C%20Rue Gay Lussac %2C%20France",
-  "fairs-total": "5",
+  "fairs-total": "6",
   "fairs-abroad": "2",
-  "fairs-in-FR": "3",
+  "fairs-in-FR": "4",
   "fairs": {
     "2012": [
       {
-        "i": "26387-India Art Fair 2012",
+        "i": "26387-India-Art-Fair-2012",
         "c": "IN",
         "n": "India Art Fair 2012",
         "ct": "New Delhi"
@@ -26,21 +26,27 @@
     ],
     "2013": [
       {
-        "i": "26387-India Art Fair 2013",
+        "i": "26387-India-Art-Fair-2013",
         "c": "IN",
         "n": "India Art Fair 2013",
         "ct": "New Delhi"
       },
       {
-        "i": "26387-Art Paris Art Fair 2013",
+        "i": "26387-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "26387-Yia Art Fair 2013",
+        "i": "26387-Yia-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "26387-Art Elysees 2013",
+        "i": "26387-Art-Elysees-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "26387-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
         "c": "FR"
       }
     ]

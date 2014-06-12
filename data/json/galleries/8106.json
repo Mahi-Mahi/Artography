@@ -12,63 +12,69 @@
   "email": "galerie.kahn@free.fr",
   "www": null,
   "map": "http://maps.google.com/maps?q=Paris%2C%2075018 %2C%20 %2C%20256-258 rue Marcadet %2C%20France",
-  "fairs-total": "10",
+  "fairs-total": "11",
   "fairs-abroad": "0",
-  "fairs-in-FR": "10",
+  "fairs-in-FR": "11",
   "fairs": {
     "2006": [
       {
-        "i": "8106-ST-ART 2006 - 11ème édition",
+        "i": "8106-ST-ART-2006---11ème-édition",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "8106-ST-ART 2007 - 12ème édition",
+        "i": "8106-ST-ART-2007---12ème-édition",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "8106-ST-ART 2008 - 13ème édition",
+        "i": "8106-ST-ART-2008---13ème-édition",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "8106-ST-ART 2009 - 14e édition",
+        "i": "8106-ST-ART-2009---14e-édition",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "8106-ST-ART 2010",
+        "i": "8106-ST-ART-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "8106-ArtParis 2011",
+        "i": "8106-ArtParis-2011",
         "c": "FR"
       },
       {
-        "i": "8106-St-Art 2011",
+        "i": "8106-St-Art-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "8106-ST-ART  2012",
+        "i": "8106-ST-ART--2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "8106-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "i": "8106-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2013",
         "c": "FR"
       },
       {
-        "i": "8106-St-art 2013",
+        "i": "8106-St-art-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "8106-Art-Up!-2014",
         "c": "FR"
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "54344",
   "mergedIDs": "103691,103690",
-  "timestamp": "2014-05-24 06:35:10",
+  "timestamp": "2014-05-31 06:40:37",
   "name": "Map Office",
   "surname": "Map Office",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Artist group",
   "media": "Photography, Video, Installation",
-  "r00": "1885",
-  "r01": "2064",
-  "r02": "2620",
-  "r03": "2462",
+  "r00": "1901",
+  "r01": "2066",
+  "r02": "2621",
+  "r03": "2465",
   "r04": "2314",
   "r05": "3210",
-  "r06": "3171",
-  "r07": "3705",
-  "r08": "6136",
+  "r06": "3172",
+  "r07": "3707",
+  "r08": "6142",
   "awards": "Sovereign Asia Pacific Art Prize 2012 - First Prize award,TIMEOUT HONG KONG BEST AWARD 2010 – Runner-up exhibition",
   "website": "www.map-office.com",
   "all-shows-first": "2002",
-  "all-shows-total": "73",
+  "all-shows-total": "74",
   "2005-shows-biennials": "11",
   "2005-shows-galleries": "11",
   "2005-shows-museums": "13",
@@ -311,9 +311,9 @@
         ]
       },
       {
-        "i": "54344-22340-2008-08-29",
+        "i": "54344-22529-2008-08-29",
         "c": "CN",
-        "n": "J’aime l’argent",
+        "n": "j'aime l'argent* (*I love money) by MAP Office",
         "t": "Autre",
         "st": "Solo",
         "ct": "Hong Kong, SAR",
@@ -324,9 +324,9 @@
         ]
       },
       {
-        "i": "54344-22529-2008-08-29",
+        "i": "54344-22340-2008-08-29",
         "c": "CN",
-        "n": "j'aime l'argent* (*I love money) by MAP Office",
+        "n": "J’aime l’argent",
         "t": "Autre",
         "st": "Solo",
         "ct": "Hong Kong, SAR",
@@ -1016,6 +1016,204 @@
           "2013-12-15",
           "2014-01-24"
         ]
+      },
+      {
+        "i": "54344-30236-2014-01-10",
+        "c": "CN",
+        "n": "Building M+: The Museum and Architecture Collection",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Hong Kong, SAR",
+        "o": "M+",
+        "d": [
+          "2014-01-10",
+          "2014-02-09"
+        ]
+      },
+      {
+        "i": "54344-30296-2014-01-16",
+        "c": "CN",
+        "n": "The Best Of Times, The Worst Of Times Revisited",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Shanghai",
+        "o": "CAC | Chronus Art Center",
+        "d": [
+          "2014-01-16",
+          "2014-03-02"
+        ]
+      },
+      {
+        "i": "54344-12966-2014-03-01",
+        "c": "CN",
+        "n": "Golden Heights Estate",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Hong Kong, SAR",
+        "o": "Para/Site Art Space",
+        "d": [
+          "2014-03-01",
+          "2014-04-20"
+        ]
+      },
+      {
+        "i": "54344-30721-2014-03-14",
+        "c": "CH",
+        "n": "Is It (Y)Ours?",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Gasthaus zum Bären",
+        "d": [
+          "2014-03-14",
+          "2014-04-06"
+        ]
+      },
+      {
+        "i": "54344-9458-2014-05-08",
+        "c": "IT",
+        "n": "From The Earth To The Moon",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Rome",
+        "o": "Studio Stefania Miscetti",
+        "d": [
+          "2014-05-08",
+          "2014-09-15"
+        ],
+        "a": "54344",
+        "an": "Map Office"
+      },
+      {
+        "i": "54344-28411-2014-05-12",
+        "c": "CN",
+        "n": "Mapping Asia",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Hong Kong, SAR",
+        "o": "Asia Art Archive",
+        "d": [
+          "2014-05-12",
+          "2014-08-16"
+        ],
+        "a": "54344",
+        "an": "Map Office"
+      },
+      {
+        "i": "54344-2427-2014-05-22",
+        "c": "NL",
+        "n": "A Constructed World",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rotterdam",
+        "o": "Witte de With Center for Contemporary Art",
+        "d": [
+          "2014-05-22",
+          "2014-08-17"
+        ],
+        "a": "54344",
+        "an": "Map Office"
+      },
+      {
+        "i": "54344-31089-2014-05-31",
+        "c": "US",
+        "n": "Arterial Motives",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Philadelphia, PA",
+        "o": "Street Road Artists Space",
+        "d": [
+          "2014-05-31",
+          "2014-10-31"
+        ],
+        "a": "54344",
+        "an": "Map Office"
+      }
+    ],
+    "today": [
+      {
+        "i": "54344",
+        "c": "IT",
+        "g": "c",
+        "a": "0-25"
+      },
+      {
+        "i": "54344-9458-2014-05-08",
+        "c": "IT",
+        "n": "From The Earth To The Moon",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Rome",
+        "o": "Studio Stefania Miscetti",
+        "d": [
+          "2014-05-08",
+          "2014-09-15"
+        ],
+        "a": "54344",
+        "an": "Map Office"
+      },
+      {
+        "i": "54344",
+        "c": "CN",
+        "g": "c",
+        "a": "0-25"
+      },
+      {
+        "i": "54344-28411-2014-05-12",
+        "c": "CN",
+        "n": "Mapping Asia",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Hong Kong, SAR",
+        "o": "Asia Art Archive",
+        "d": [
+          "2014-05-12",
+          "2014-08-16"
+        ],
+        "a": "54344",
+        "an": "Map Office"
+      },
+      {
+        "i": "54344",
+        "c": "NL",
+        "g": "c",
+        "a": "0-25"
+      },
+      {
+        "i": "54344-2427-2014-05-22",
+        "c": "NL",
+        "n": "A Constructed World",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rotterdam",
+        "o": "Witte de With Center for Contemporary Art",
+        "d": [
+          "2014-05-22",
+          "2014-08-17"
+        ],
+        "a": "54344",
+        "an": "Map Office"
+      },
+      {
+        "i": "54344",
+        "c": "US",
+        "g": "c",
+        "a": "0-25"
+      },
+      {
+        "i": "54344-31089-2014-05-31",
+        "c": "US",
+        "n": "Arterial Motives",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Philadelphia, PA",
+        "o": "Street Road Artists Space",
+        "d": [
+          "2014-05-31",
+          "2014-10-31"
+        ],
+        "a": "54344",
+        "an": "Map Office"
       }
     ]
   }

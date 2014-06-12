@@ -12,16 +12,22 @@
   "email": "galerienag@gmail.com",
   "www": "galerie-nag.fr",
   "map": "http://maps.google.com/maps?q=Arras%2C%2062000 %2C%20 %2C%2023 Rue De Douai %2C%20France",
-  "fairs-total": "1",
+  "fairs-total": "2",
   "fairs-abroad": "1",
-  "fairs-in-FR": "0",
+  "fairs-in-FR": "1",
   "fairs": {
     "2012": [
       {
-        "i": "27500-Art Gent 2012",
+        "i": "27500-Art-Gent-2012",
         "c": "BE",
         "n": "Art Gent 2012",
         "ct": "Ghent"
+      }
+    ],
+    "2014": [
+      {
+        "i": "27500-Art-Up!-2014",
+        "c": "FR"
       }
     ]
   }

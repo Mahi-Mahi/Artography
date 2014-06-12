@@ -1,7 +1,7 @@
 {
   "id": "6475",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:17:30",
+  "timestamp": "2014-05-31 06:23:01",
   "name": "Marc Garanger",
   "surname": "Garanger",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "42801",
-  "r01": "63583",
-  "r02": "56191",
-  "r03": "51784",
-  "r04": "45117",
-  "r05": "38840",
-  "r06": "51123",
-  "r07": "39395",
-  "r08": "30545",
+  "r00": "42991",
+  "r01": "63688",
+  "r02": "56261",
+  "r03": "51833",
+  "r04": "45151",
+  "r05": "38865",
+  "r06": "51173",
+  "r07": "39436",
+  "r08": "30557",
   "awards": null,
   "website": null,
   "all-shows-first": "1986",
@@ -70,6 +70,21 @@
         "d": [
           "2009-05-19",
           "2009-10-18"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "6475-3754-2014-02-22",
+        "c": "IT",
+        "n": "Fotogiornalismo E Reportage",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Modena",
+        "o": "Galleria Civica di Modena",
+        "d": [
+          "2014-02-22",
+          "2014-05-25"
         ]
       }
     ],

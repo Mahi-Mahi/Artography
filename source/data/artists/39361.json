@@ -1,7 +1,7 @@
 {
   "id": "39361",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:29:50",
+  "timestamp": "2014-05-31 06:35:20",
   "name": "Virginie Barré",
   "surname": "Barré",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Female",
   "media": "Sculpture",
-  "r00": "2655",
-  "r01": "2448",
+  "r00": "2664",
+  "r01": "2447",
   "r02": "2064",
   "r03": "1683",
-  "r04": "1448",
+  "r04": "1446",
   "r05": "1551",
-  "r06": "1670",
-  "r07": "1409",
-  "r08": "1326",
+  "r06": "1672",
+  "r07": "1410",
+  "r08": "1329",
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
-  "all-shows-total": "85",
+  "all-shows-total": "86",
   "2005-shows-biennials": "15",
   "2005-shows-galleries": "15",
   "2005-shows-museums": "19",
@@ -71,14 +71,6 @@
         ]
       },
       {
-        "i": "39361-1293-2005-04-07",
-        "c": "FR"
-      },
-      {
-        "i": "39361-1293-2005-04-07",
-        "c": "FR"
-      },
-      {
         "i": "39361-2343-2005-04-07",
         "c": "MX",
         "n": "li still believe in miracles",
@@ -90,6 +82,14 @@
           "2005-04-07",
           "2005-05-07"
         ]
+      },
+      {
+        "i": "39361-1293-2005-04-07",
+        "c": "FR"
+      },
+      {
+        "i": "39361-1293-2005-04-07",
+        "c": "FR"
       },
       {
         "i": "39361-1829-2005-04-16",
@@ -842,6 +842,54 @@
       {
         "i": "39361-19606-2013-10-19",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "39361-11772-2014-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "39361-11772-2014-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "39361-25218-2014-05-16",
+        "c": "PL",
+        "n": "Crime in Art",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Krakow",
+        "o": "Museum of Contemporary Art in Kraków (MOCAK)",
+        "d": [
+          "2014-05-16",
+          "2014-09-28"
+        ],
+        "a": "39361",
+        "an": "Virginie Barré"
+      }
+    ],
+    "today": [
+      {
+        "i": "39361",
+        "c": "PL",
+        "g": "f",
+        "a": "41-60"
+      },
+      {
+        "i": "39361-25218-2014-05-16",
+        "c": "PL",
+        "n": "Crime in Art",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Krakow",
+        "o": "Museum of Contemporary Art in Kraków (MOCAK)",
+        "d": [
+          "2014-05-16",
+          "2014-09-28"
+        ],
+        "a": "39361",
+        "an": "Virginie Barré"
       }
     ]
   }

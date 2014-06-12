@@ -1,7 +1,7 @@
 {
   "id": "23828",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:24:14",
+  "timestamp": "2014-05-31 06:29:45",
   "name": "Jean Nouvel",
   "surname": "Nouvel",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": "Architecture",
-  "r00": "5649",
-  "r01": "5343",
-  "r02": "5910",
+  "r00": "3915",
+  "r01": "5355",
+  "r02": "5909",
   "r03": "8980",
-  "r04": "8232",
-  "r05": "5466",
-  "r06": "3797",
-  "r07": "2697",
-  "r08": "2068",
+  "r04": "8236",
+  "r05": "5465",
+  "r06": "3796",
+  "r07": "2696",
+  "r08": "2070",
   "awards": null,
   "website": null,
   "all-shows-first": "1989",
   "all-shows-total": "32",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": "5",
-  "2005-countries-total": "France (3), Spain (2), Greece (1), Russia (1), USA (1)",
+  "2005-countries-total": "France (3), Spain (2), USA (2), Greece (1), Russia (1)",
   "2005-shows-with": "Jean Nouvel (6), Zaha Hadid (4), Norman Foster (2), Rem Koolhaas (2), José Rafael Moneo (2), Gaetano Pesce (2), Superstudio (2)",
   "representing-galleries": "Galerie Piltzer (6, avenue Foch, 75116 Paris, France)",
   "collecting-museums": "Musée Régional D'Art Contemporain Languedoc-Roussillon (146, avenue de la plage, 34 410 Sérignan, France)",
@@ -239,6 +239,19 @@
         "d": [
           "2013-12-19",
           "2014-03-02"
+        ]
+      },
+      {
+        "i": "23828-2267-2014-04-15",
+        "c": "US",
+        "n": "Jean Nouvel - Triptyques",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Gagosian Gallery ",
+        "d": [
+          "2014-04-15",
+          "2014-05-31"
         ]
       }
     ],

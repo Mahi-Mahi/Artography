@@ -12,9 +12,15 @@
   "email": "rarebooksinprovence@wanadoo.fr",
   "www": null,
   "map": "http://maps.google.com/maps?q=Montluçon%2C%2003100 %2C%20 %2C%2058 rue Grande-Cité médiévale %2C%20France",
-  "fairs-total": "0",
+  "fairs-total": "1",
   "fairs-abroad": "0",
-  "fairs-in-FR": "0",
+  "fairs-in-FR": "1",
   "fairs": {
+    "2014": [
+      {
+        "i": "30421-Art-Up!-2014",
+        "c": "FR"
+      }
+    ]
   }
 }

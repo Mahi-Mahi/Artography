@@ -1,7 +1,7 @@
 {
   "id": "297579",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:58:20",
+  "timestamp": "2014-05-31 08:03:35",
   "name": "Élise Beaucousin",
   "surname": "Beaucousin",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "41306",
-  "r01": "63973",
-  "r02": "58483",
-  "r03": "52454",
-  "r04": "46870",
-  "r05": "41201",
-  "r06": "54808",
-  "r07": "47542",
+  "r00": "41497",
+  "r01": "64079",
+  "r02": "58548",
+  "r03": "52489",
+  "r04": "46895",
+  "r05": "41221",
+  "r06": "54850",
+  "r07": "47579",
   "r08": null,
   "awards": null,
   "website": null,
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Élise",
   "last_name": "Beaucousin",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1978-01-01",
   "age": 36,
   "age_range": "26-40",
@@ -58,6 +58,16 @@
       },
       {
         "i": "297579-8678-2009-11-05",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "297579-9061-2014-03-02",
+        "c": "FR"
+      },
+      {
+        "i": "297579-9061-2014-03-02",
         "c": "FR"
       }
     ],

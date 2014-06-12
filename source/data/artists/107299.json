@@ -1,7 +1,7 @@
 {
   "id": "107299",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:53:24",
+  "timestamp": "2014-05-31 06:58:47",
   "name": "Maïder Fortuné",
   "surname": "Fortuné",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography, Video, Installation",
-  "r00": "6262",
-  "r01": "6219",
-  "r02": "6105",
-  "r03": "5614",
+  "r00": "6308",
+  "r01": "6230",
+  "r02": "6104",
+  "r03": "5615",
   "r04": "5491",
-  "r05": "6063",
-  "r06": "7014",
+  "r05": "6065",
+  "r06": "7017",
   "r07": "6696",
-  "r08": "7696",
+  "r08": "7698",
   "awards": null,
   "website": "maider-fortune.fr",
   "all-shows-first": "2002",
@@ -427,6 +427,44 @@
       {
         "i": "107299-20775-2013-10-20",
         "c": "FR"
+      },
+      {
+        "i": "107299-12042-2014-04-11",
+        "c": "ES",
+        "n": "Universo video. La Magia de las Imágenes",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2014-04-11",
+          "2014-07-06"
+        ],
+        "a": "107299",
+        "an": "Maïder Fortuné"
+      }
+    ],
+    "today": [
+      {
+        "i": "107299",
+        "c": "ES",
+        "g": "f",
+        "a": "41-60"
+      },
+      {
+        "i": "107299-12042-2014-04-11",
+        "c": "ES",
+        "n": "Universo video. La Magia de las Imágenes",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2014-04-11",
+          "2014-07-06"
+        ],
+        "a": "107299",
+        "an": "Maïder Fortuné"
       }
     ]
   }

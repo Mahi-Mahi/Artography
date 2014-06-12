@@ -1,7 +1,7 @@
 {
   "id": "57511",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:36:18",
+  "timestamp": "2014-05-31 06:41:45",
   "name": "Christophe Bruno",
   "surname": "Bruno",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "13057",
-  "r01": "13916",
-  "r02": "13444",
-  "r03": "13878",
-  "r04": "11820",
-  "r05": "14369",
-  "r06": "16386",
-  "r07": "18767",
-  "r08": "18291",
+  "r00": "13128",
+  "r01": "13943",
+  "r02": "13459",
+  "r03": "13884",
+  "r04": "11821",
+  "r05": "14375",
+  "r06": "16392",
+  "r07": "18776",
+  "r08": "18299",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
@@ -228,6 +228,21 @@
         "d": [
           "2013-03-23",
           "2013-07-07"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "57511-7139-2014-03-07",
+        "c": "DE",
+        "n": "Blick Ins Netz - Net.artografie",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Oldenburg",
+        "o": "Edith-Russ-Haus für Medienkunst",
+        "d": [
+          "2014-03-07",
+          "2014-04-21"
         ]
       }
     ]

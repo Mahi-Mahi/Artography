@@ -1,7 +1,7 @@
 {
   "id": "421546",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 08:38:55",
+  "timestamp": "2014-05-31 08:43:59",
   "name": "Marine Bouilloud",
   "surname": "Bouilloud",
   "nationality": "FR",
@@ -16,8 +16,8 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "85076",
-  "r01": "88135",
+  "r00": "85371",
+  "r01": "88316",
   "r02": null,
   "r03": null,
   "r04": null,
@@ -58,6 +58,16 @@
       },
       {
         "i": "421546-19606-2013-04-28",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "421546-30785-2014-03-02",
+        "c": "FR"
+      },
+      {
+        "i": "421546-30785-2014-03-02",
         "c": "FR"
       }
     ]

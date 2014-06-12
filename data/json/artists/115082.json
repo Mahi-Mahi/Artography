@@ -1,7 +1,7 @@
 {
   "id": "115082",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:56:05",
+  "timestamp": "2014-05-31 07:01:29",
   "name": "Emilie Perotto",
   "surname": "Perotto",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "18902",
-  "r01": "19420",
-  "r02": "16918",
-  "r03": "16335",
-  "r04": "16724",
-  "r05": "15040",
-  "r06": "17545",
-  "r07": "42910",
-  "r08": "43030",
+  "r00": "18997",
+  "r01": "19453",
+  "r02": "16931",
+  "r03": "16350",
+  "r04": "16739",
+  "r05": "15058",
+  "r06": "17548",
+  "r07": "42969",
+  "r08": "43054",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
-  "all-shows-total": "19",
+  "all-shows-total": "20",
   "2005-shows-biennials": "10",
   "2005-shows-galleries": "10",
   "2005-shows-museums": "4",
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Emilie",
   "last_name": "Perotto",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1980-01-01",
   "age": 34,
   "age_range": "26-40",
@@ -191,6 +191,28 @@
       },
       {
         "i": "115082-10990-2012-02-23",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "115082-19611-2014-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "115082-19611-2014-04-18",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "115082",
+        "c": "FR",
+        "g": "n",
+        "a": "26-40"
+      },
+      {
+        "i": "115082-19611-2014-04-18",
         "c": "FR"
       }
     ],

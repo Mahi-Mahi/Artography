@@ -1,7 +1,7 @@
 {
   "id": "171773",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:15:18",
+  "timestamp": "2014-05-31 07:20:42",
   "name": "Alexis Cordesse",
   "surname": "Cordesse",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": "Photography",
-  "r00": "41868",
-  "r01": "44947",
-  "r02": "41520",
-  "r03": "91582",
-  "r04": "98131",
-  "r05": "91006",
-  "r06": "83352",
-  "r07": "74952",
-  "r08": "66456",
+  "r00": "42081",
+  "r01": "45045",
+  "r02": "41576",
+  "r03": "91692",
+  "r04": "98277",
+  "r05": "91150",
+  "r06": "83491",
+  "r07": "75071",
+  "r08": "66514",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Alexis",
   "last_name": "Cordesse",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1971-01-01",
   "age": 43,
   "age_range": "41-60",
@@ -66,6 +66,16 @@
       },
       {
         "i": "171773-23554-2012-06-22",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "171773-21460-2014-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "171773-21460-2014-01-17",
         "c": "FR"
       }
     ],

@@ -1,7 +1,7 @@
 {
   "id": "158845",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:10:50",
+  "timestamp": "2014-05-31 07:16:15",
   "name": "Aurélie Brame",
   "surname": "Brame",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "80642",
-  "r01": "74455",
-  "r02": "66105",
-  "r03": "57865",
-  "r04": "51203",
-  "r05": "44103",
-  "r06": "37862",
-  "r07": "32637",
-  "r08": "35379",
+  "r00": "80948",
+  "r01": "74605",
+  "r02": "66162",
+  "r03": "57918",
+  "r04": "51228",
+  "r05": "44133",
+  "r06": "37889",
+  "r07": "32644",
+  "r08": "35384",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -38,7 +38,7 @@
   "collecting-museums": "Maison des Arts de Grand Quevilly (Avenue des Provinces, 76120 Grand-Quevilly, France)",
   "first_name": "Aurélie",
   "last_name": "Brame",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1976-02-09",
   "age": 38,
   "age_range": "26-40",
@@ -100,6 +100,16 @@
       },
       {
         "i": "158845-27613-2012-11-17",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "158845-23312-2014-11-28",
+        "c": "FR"
+      },
+      {
+        "i": "158845-23312-2014-11-28",
         "c": "FR"
       }
     ],

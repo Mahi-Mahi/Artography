@@ -12,32 +12,46 @@
   "email": "bonjour@emmanuelherve.com",
   "www": "www.emmanuelherve.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075020 %2C%20 %2C%206, rue Jouye Rouve %2C%20France",
-  "fairs-total": "4",
-  "fairs-abroad": "2",
+  "fairs-total": "6",
+  "fairs-abroad": "4",
   "fairs-in-FR": "2",
   "fairs": {
     "2012": [
       {
-        "i": "27216-Fiac 2012",
+        "i": "27216-Fiac-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "27216-Art Rotterdam 2013",
+        "i": "27216-Art-Rotterdam-2013",
         "c": "NL",
         "n": "Art Rotterdam 2013",
         "ct": "Rotterdam"
       },
       {
-        "i": "27216-Art-O-Rama 2013",
+        "i": "27216-Art-O-Rama-2013",
         "c": "FR"
       },
       {
-        "i": "27216-ArtRio 2013",
+        "i": "27216-ArtRio-2013",
         "c": "BR",
         "n": "ArtRio 2013",
         "ct": "Rio de Janeiro, RJ"
+      }
+    ],
+    "2014": [
+      {
+        "i": "27216-Arcomadrid-2014",
+        "c": "ES",
+        "n": "Arcomadrid 2014",
+        "ct": "Madrid"
+      },
+      {
+        "i": "27216-Art-Brussel-2014",
+        "c": "BE",
+        "n": "Art Brussel 2014",
+        "ct": "Brussels"
       }
     ]
   }

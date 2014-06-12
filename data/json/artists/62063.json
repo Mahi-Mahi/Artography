@@ -1,7 +1,7 @@
 {
   "id": "62063",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:37:55",
+  "timestamp": "2014-05-31 06:43:21",
   "name": "Delphine Courtillot",
   "surname": "Courtillot",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting",
-  "r00": "14522",
-  "r01": "15704",
-  "r02": "13230",
-  "r03": "11006",
-  "r04": "12879",
-  "r05": "10844",
-  "r06": "12184",
-  "r07": "12498",
-  "r08": "20053",
+  "r00": "14596",
+  "r01": "15732",
+  "r02": "13243",
+  "r03": "11009",
+  "r04": "12891",
+  "r05": "10854",
+  "r06": "12188",
+  "r07": "12506",
+  "r08": "20069",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
@@ -278,6 +278,46 @@
           "2007-04-14",
           "2007-05-19"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "62063-1908-2014-04-24",
+        "c": "ES",
+        "n": "Delphine Courtillot - Atelier Familial",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Valencia",
+        "o": "Galeria Luis Adelantado - Valencia",
+        "d": [
+          "2014-04-24",
+          "2014-07-04"
+        ],
+        "a": "62063",
+        "an": "Delphine Courtillot"
+      }
+    ],
+    "today": [
+      {
+        "i": "62063",
+        "c": "ES",
+        "g": "f",
+        "a": "41-60"
+      },
+      {
+        "i": "62063-1908-2014-04-24",
+        "c": "ES",
+        "n": "Delphine Courtillot - Atelier Familial",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Valencia",
+        "o": "Galeria Luis Adelantado - Valencia",
+        "d": [
+          "2014-04-24",
+          "2014-07-04"
+        ],
+        "a": "62063",
+        "an": "Delphine Courtillot"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "2658",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:15:50",
+  "timestamp": "2014-05-31 06:21:22",
   "name": "Anne & Patrick Poirier",
   "surname": "Poirier",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Female, Male, Artist couple",
   "media": "Installation",
-  "r00": "2474",
-  "r01": "2564",
-  "r02": "2204",
-  "r03": "2188",
-  "r04": "2347",
+  "r00": "2490",
+  "r01": "2567",
+  "r02": "2205",
+  "r03": "2187",
+  "r04": "2348",
   "r05": "1847",
-  "r06": "1532",
+  "r06": "1534",
   "r07": "1605",
-  "r08": "1638",
+  "r08": "1637",
   "awards": null,
   "website": null,
   "all-shows-first": "1974",
-  "all-shows-total": "146",
+  "all-shows-total": "147",
   "2005-shows-biennials": "15",
   "2005-shows-galleries": "15",
   "2005-shows-museums": "21",
@@ -872,6 +872,67 @@
           "2013-11-23",
           "2013-12-21"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "2658-26724-2014-01-18",
+        "c": "JP",
+        "n": "Traces of Disappearence",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Tokyo",
+        "o": "Espace Louis Vuitton Tokyo",
+        "d": [
+          "2014-01-18",
+          "2014-04-13"
+        ]
+      },
+      {
+        "i": "2658-10519-2014-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "2658-10519-2014-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "2658-24760-2014-05-27",
+        "c": "DE",
+        "n": "Blütezeit",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Frankfurt/Main",
+        "o": "Art Foyer der DZ Bank Kunstsammlung",
+        "d": [
+          "2014-05-27",
+          "2014-08-09"
+        ],
+        "a": "2658",
+        "an": "Anne & Patrick Poirier"
+      }
+    ],
+    "today": [
+      {
+        "i": "2658",
+        "c": "DE",
+        "g": "c",
+        "a": "61-100"
+      },
+      {
+        "i": "2658-24760-2014-05-27",
+        "c": "DE",
+        "n": "Blütezeit",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Frankfurt/Main",
+        "o": "Art Foyer der DZ Bank Kunstsammlung",
+        "d": [
+          "2014-05-27",
+          "2014-08-09"
+        ],
+        "a": "2658",
+        "an": "Anne & Patrick Poirier"
       }
     ]
   }

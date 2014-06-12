@@ -1,7 +1,7 @@
 {
   "id": "242712",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:39:36",
+  "timestamp": "2014-05-31 07:44:52",
   "name": "Eric Duvivier",
   "surname": "Duvivier",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Male",
   "media": "Film",
-  "r00": "8255",
-  "r01": "8631",
-  "r02": "7617",
-  "r03": "8430",
-  "r04": "17039",
+  "r00": "8304",
+  "r01": "8657",
+  "r02": "7622",
+  "r03": "8445",
+  "r04": "17046",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -176,6 +176,21 @@
         "d": [
           "2012-03-04",
           "2012-07-01"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "242712-14027-2014-02-26",
+        "c": "BE",
+        "n": "The Prehistory Of The Image: Projections",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Leuven",
+        "o": "Stuk Kunstcentrum",
+        "d": [
+          "2014-02-26",
+          "2014-03-23"
         ]
       }
     ]

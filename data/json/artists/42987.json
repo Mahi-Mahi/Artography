@@ -1,7 +1,7 @@
 {
   "id": "42987",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:31:09",
+  "timestamp": "2014-05-31 06:36:38",
   "name": "Bureau d’études",
   "surname": "Bureau d’études",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Artist group",
   "media": "Installation",
-  "r00": "4200",
-  "r01": "3835",
-  "r02": "3101",
-  "r03": "3358",
-  "r04": "2898",
+  "r00": "4221",
+  "r01": "3845",
+  "r02": "3102",
+  "r03": "3360",
+  "r04": "2899",
   "r05": "3118",
-  "r06": "3003",
-  "r07": "3125",
+  "r06": "3006",
+  "r07": "3124",
   "r08": "2432",
   "awards": null,
   "website": null,
@@ -502,19 +502,6 @@
         ]
       },
       {
-        "i": "42987-2660-2012-11-21",
-        "c": "ES",
-        "n": "Cartografías contemporáneas",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Barcelona",
-        "o": "CaixaForum Barcelona",
-        "d": [
-          "2012-11-21",
-          "2013-02-24"
-        ]
-      },
-      {
         "i": "42987-2687-2012-11-21",
         "c": "ES",
         "n": "Cartografías contemporáneas. Dibujando el pensamiento",
@@ -522,6 +509,19 @@
         "st": "Group",
         "ct": "Madrid",
         "o": "CaixaForum Madrid",
+        "d": [
+          "2012-11-21",
+          "2013-02-24"
+        ]
+      },
+      {
+        "i": "42987-2660-2012-11-21",
+        "c": "ES",
+        "n": "Cartografías contemporáneas",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Barcelona",
+        "o": "CaixaForum Barcelona",
         "d": [
           "2012-11-21",
           "2013-02-24"
@@ -530,19 +530,6 @@
     ],
     "2013": [
       {
-        "i": "42987-2660-2012-11-21",
-        "c": "ES",
-        "n": "Cartografías contemporáneas",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Barcelona",
-        "o": "CaixaForum Barcelona",
-        "d": [
-          "2012-11-21",
-          "2013-02-24"
-        ]
-      },
-      {
         "i": "42987-2687-2012-11-21",
         "c": "ES",
         "n": "Cartografías contemporáneas. Dibujando el pensamiento",
@@ -550,6 +537,19 @@
         "st": "Group",
         "ct": "Madrid",
         "o": "CaixaForum Madrid",
+        "d": [
+          "2012-11-21",
+          "2013-02-24"
+        ]
+      },
+      {
+        "i": "42987-2660-2012-11-21",
+        "c": "ES",
+        "n": "Cartografías contemporáneas",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Barcelona",
+        "o": "CaixaForum Barcelona",
         "d": [
           "2012-11-21",
           "2013-02-24"

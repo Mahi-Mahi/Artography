@@ -1,7 +1,7 @@
 {
   "id": "296637",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:58:02",
+  "timestamp": "2014-05-31 08:03:16",
   "name": "Edgar Morin",
   "surname": "Morin",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "20678",
-  "r01": "25780",
-  "r02": "23261",
-  "r03": "20585",
-  "r04": "58711",
+  "r00": "20792",
+  "r01": "25817",
+  "r02": "23285",
+  "r03": "20608",
+  "r04": "58796",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -79,6 +79,21 @@
       {
         "i": "296637-2493-2011-09-15",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "296637-12966-2014-03-01",
+        "c": "CN",
+        "n": "Golden Heights Estate",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Hong Kong, SAR",
+        "o": "Para/Site Art Space",
+        "d": [
+          "2014-03-01",
+          "2014-04-20"
+        ]
       }
     ]
   }

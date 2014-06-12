@@ -1,7 +1,7 @@
 {
   "id": "311739",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 08:03:03",
+  "timestamp": "2014-05-31 08:08:17",
   "name": "Nicolas Roggy",
   "surname": "Roggy",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "43142",
-  "r01": "47324",
-  "r02": "77292",
-  "r03": "78787",
-  "r04": "104362",
-  "r05": "98285",
-  "r06": "95803",
-  "r07": "87443",
+  "r00": "39505",
+  "r01": "47396",
+  "r02": "77367",
+  "r03": "78845",
+  "r04": "104419",
+  "r05": "98353",
+  "r06": "95809",
+  "r07": "87456",
   "r08": null,
   "awards": null,
   "website": null,
-  "all-shows-first": "2009",
-  "all-shows-total": "6",
+  "all-shows-first": "2007",
+  "all-shows-total": "7",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
-  "2005-shows-museums": null,
-  "2005-countries-total": "France (5), Belgium (1)",
-  "2005-shows-with": "Nicolas Roggy (4), Florian & Michael Quistrebert (2), Michael Scott (2), Blair Thurman (2), John Tremblay (2)",
+  "2005-shows-museums": "1",
+  "2005-countries-total": "France (5), Belgium (1), Switzerland (1)",
+  "2005-shows-with": "Nicolas Roggy (5), Michael Scott (3), Sascha Braunig (2), Xylor Jane (2), David Malek (2), Hugo Pernet (2), Florian & Michael Quistrebert (2), David Ratcliff (2), Alex Rose (2), Davina Semo (2), Philip Taaffe (2), Blair Thurman (2), John Tremblay (2), Dan Walsh (2)",
   "representing-galleries": "Triple V (24 rue Louise Weiss, 75013 Paris, France)",
   "collecting-museums": null,
   "first_name": "Nicolas",
@@ -99,6 +99,54 @@
       {
         "i": "311739-14600-2013-05-25",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "311739-1961-2014-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "311739-1961-2014-03-08",
+        "c": "FR"
+      },
+      {
+        "i": "311739-17983-2014-06-04",
+        "c": "CH",
+        "n": "Das Optische Unbewusste / The Optical Unconscious",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rapperswil",
+        "o": "Kunst(Zeug)Haus",
+        "d": [
+          "2014-06-04",
+          "2014-08-10"
+        ],
+        "a": "311739",
+        "an": "Nicolas Roggy"
+      }
+    ],
+    "today": [
+      {
+        "i": "311739",
+        "c": "CH",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "311739-17983-2014-06-04",
+        "c": "CH",
+        "n": "Das Optische Unbewusste / The Optical Unconscious",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rapperswil",
+        "o": "Kunst(Zeug)Haus",
+        "d": [
+          "2014-06-04",
+          "2014-08-10"
+        ],
+        "a": "311739",
+        "an": "Nicolas Roggy"
       }
     ],
     "2011": [

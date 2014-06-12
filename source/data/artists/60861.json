@@ -1,7 +1,7 @@
 {
   "id": "60861",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:37:29",
+  "timestamp": "2014-05-31 06:42:56",
   "name": "Isabelle Cornaro",
   "surname": "Cornaro",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Installation, Sculpture",
-  "r00": "1246",
+  "r00": "1254",
   "r01": "1314",
-  "r02": "1609",
-  "r03": "2049",
-  "r04": "2552",
-  "r05": "4313",
-  "r06": "10679",
-  "r07": "33320",
-  "r08": "31139",
+  "r02": "1610",
+  "r03": "2052",
+  "r04": "2556",
+  "r05": "4319",
+  "r06": "10682",
+  "r07": "33371",
+  "r08": "31174",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
@@ -120,19 +120,6 @@
         "c": "FR"
       },
       {
-        "i": "60861-16472-2008-05-07",
-        "c": "CN",
-        "n": "Where the lions are",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Hong Kong, SAR",
-        "o": "Sheung Wan Civic Centre",
-        "d": [
-          "2008-05-07",
-          "2008-05-23"
-        ]
-      },
-      {
         "i": "60861-12966-2008-05-07",
         "c": "CN",
         "n": "Where the Lions are",
@@ -146,6 +133,19 @@
         ]
       },
       {
+        "i": "60861-16472-2008-05-07",
+        "c": "CN",
+        "n": "Where the lions are",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Hong Kong, SAR",
+        "o": "Sheung Wan Civic Centre",
+        "d": [
+          "2008-05-07",
+          "2008-05-23"
+        ]
+      },
+      {
         "i": "60861-18149-2008-05-22",
         "c": "FR"
       },
@@ -170,19 +170,19 @@
         "c": "FR"
       },
       {
-        "i": "60861-1977-2008-09-06",
-        "c": "FR"
-      },
-      {
-        "i": "60861-1977-2008-09-06",
-        "c": "FR"
-      },
-      {
         "i": "60861-4184-2008-09-06",
         "c": "FR"
       },
       {
         "i": "60861-4184-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "60861-1977-2008-09-06",
+        "c": "FR"
+      },
+      {
+        "i": "60861-1977-2008-09-06",
         "c": "FR"
       },
       {
@@ -1014,6 +1014,106 @@
           "2013-11-08",
           "2014-01-26"
         ]
+      },
+      {
+        "i": "60861-4955-2014-04-01",
+        "c": "BR",
+        "n": "Roesler Hotel 26# - Spectres",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "São Paulo",
+        "o": "Galeria Nara Roesler",
+        "d": [
+          "2014-04-01",
+          "2014-07-05"
+        ],
+        "a": "60861",
+        "an": "Isabelle Cornaro"
+      },
+      {
+        "i": "60861-8276-2014-01-11",
+        "c": "US",
+        "n": "Isabelle Cornaro - This Morbid Roundtrip from Subject to Object",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Los Angeles, CA",
+        "o": "Laxart",
+        "d": [
+          "2014-01-11",
+          "2014-02-22"
+        ]
+      },
+      {
+        "i": "60861-30426-2014-03-04",
+        "c": "US",
+        "n": "Isabelle Cornaro",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Los Angeles, CA",
+        "o": "Hannah Hoffman Gallery",
+        "d": [
+          "2014-03-04",
+          "2014-04-09"
+        ]
+      },
+      {
+        "i": "60861-21857-2014-04-18",
+        "c": "BE",
+        "n": "Isabelle Cornaro",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Leuven",
+        "o": "M - Museum Leuven",
+        "d": [
+          "2014-04-18",
+          "2014-08-03"
+        ],
+        "a": "60861",
+        "an": "Isabelle Cornaro"
+      }
+    ],
+    "today": [
+      {
+        "i": "60861",
+        "c": "BR",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "60861-4955-2014-04-01",
+        "c": "BR",
+        "n": "Roesler Hotel 26# - Spectres",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "São Paulo",
+        "o": "Galeria Nara Roesler",
+        "d": [
+          "2014-04-01",
+          "2014-07-05"
+        ],
+        "a": "60861",
+        "an": "Isabelle Cornaro"
+      },
+      {
+        "i": "60861",
+        "c": "BE",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "60861-21857-2014-04-18",
+        "c": "BE",
+        "n": "Isabelle Cornaro",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Leuven",
+        "o": "M - Museum Leuven",
+        "d": [
+          "2014-04-18",
+          "2014-08-03"
+        ],
+        "a": "60861",
+        "an": "Isabelle Cornaro"
       }
     ]
   }

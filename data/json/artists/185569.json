@@ -1,7 +1,7 @@
 {
   "id": "185569",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:20:02",
+  "timestamp": "2014-05-31 07:25:25",
   "name": "Jerôme Robbe",
   "surname": "Robbe",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "24215",
-  "r01": "30546",
-  "r02": "27267",
-  "r03": "34836",
-  "r04": "44238",
-  "r05": "41537",
-  "r06": "39957",
+  "r00": "23955",
+  "r01": "30574",
+  "r02": "27269",
+  "r03": "34851",
+  "r04": "44268",
+  "r05": "41554",
+  "r06": "39972",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": "www.jeromerobbe.com",
   "all-shows-first": "2008",
   "all-shows-total": "15",
-  "2005-shows-biennials": "13",
-  "2005-shows-galleries": "13",
+  "2005-shows-biennials": "14",
+  "2005-shows-galleries": "14",
   "2005-shows-museums": "1",
-  "2005-countries-total": "France (15)",
-  "2005-shows-with": "Jerôme Robbe (10), Stephane Steiner (5), Michel de Broin (4), Han Hoogerbrugge (4), Arnaud Labelle-Rojoux (4), Thierry Lagalla (4), Florent Mattei (4), Emmanuel Régent (4), Karine Rougier (4), Caroline Bach (3), Stéphane Protic (3), Thierry Agnone (2), Jean Bedez (2), Damien Berthier (2), Julien Blaine (2), Lionel Scoccimaro (2), Samon Takahashi (2), Sabry Tchalgadjieff (2)",
+  "2005-countries-total": "France (16)",
+  "2005-shows-with": "Jerôme Robbe (11), Stephane Steiner (6), Han Hoogerbrugge (5), Arnaud Labelle-Rojoux (5), Thierry Lagalla (5), Florent Mattei (5), Emmanuel Régent (5), Karine Rougier (5), Caroline Bach (4), Michel de Broin (4), Stéphane Protic (4), Thierry Agnone (3), Julien Blaine (3), Lionel Scoccimaro (3), Sabry Tchalgadjieff (3), Jean Bedez (2), Damien Berthier (2), Claire Dantzer (2), Noël Dolla (2), Isabelle Giovacchini (2), Philippe Ramette (2), Samon Takahashi (2), Cédric Teisseire (2), Jean-Luc Verna (2)",
   "representing-galleries": "Espace A Vendre (17 rue Smolett, 06300 Nice, France); Galerie Bertrand Baraudou (62, Rue Saint Sabin, 75011 Paris, France)",
   "collecting-museums": null,
   "first_name": "Jerôme",
@@ -164,6 +164,36 @@
     "2013": [
       {
         "i": "185569-28288-2012-12-15",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "185569-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "185569-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "185569-16752-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "185569-16752-2014-02-14",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "185569",
+        "c": "FR",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "185569-16752-2014-04-19",
         "c": "FR"
       }
     ]

@@ -12,63 +12,69 @@
   "email": null,
   "www": "www.ilanengelgallery.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2077, rue des Archives %2C%20France",
-  "fairs-total": "12",
+  "fairs-total": "13",
   "fairs-abroad": "1",
-  "fairs-in-FR": "11",
+  "fairs-in-FR": "12",
   "fairs": {
     "2010": [
       {
-        "i": "21757-ArtParis 2010",
+        "i": "21757-ArtParis-2010",
         "c": "FR"
       },
       {
-        "i": "21757-SLICK 2010",
+        "i": "21757-SLICK-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "21757-ArtParis 2011",
+        "i": "21757-ArtParis-2011",
         "c": "FR"
       },
       {
-        "i": "21757-SLICK 2011",
+        "i": "21757-SLICK-2011",
         "c": "FR"
       },
       {
-        "i": "21757-Paris Photo 2011",
+        "i": "21757-Paris-Photo-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "21757-Art Paris Art Fair 2012",
+        "i": "21757-Art-Paris-Art-Fair-2012",
         "c": "FR"
       },
       {
-        "i": "21757-Slick Brussels 2012",
+        "i": "21757-Slick-Brussels-2012",
         "c": "FR"
       },
       {
-        "i": "21757-Paris Photo 2012",
+        "i": "21757-Paris-Photo-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "21757-Lille Art Fair 2013",
+        "i": "21757-Lille-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "21757-Art Paris Art Fair 2013",
+        "i": "21757-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "21757-Yia Art Fair 2013",
+        "i": "21757-Yia-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "21757-Paris Photo 2013",
+        "i": "21757-Paris-Photo-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "21757-Artparis-2014",
         "c": "FR"
       }
     ]

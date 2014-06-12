@@ -1,7 +1,7 @@
 {
   "id": "50962",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:33:59",
+  "timestamp": "2014-05-31 06:39:27",
   "name": "Georges Tony Stoll",
   "surname": "Stoll",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "9523",
-  "r01": "8504",
-  "r02": "7447",
-  "r03": "6529",
-  "r04": "6412",
-  "r05": "7009",
-  "r06": "5287",
-  "r07": "4125",
-  "r08": "4829",
+  "r00": "9568",
+  "r01": "8516",
+  "r02": "7453",
+  "r03": "6531",
+  "r04": "6407",
+  "r05": "7010",
+  "r06": "5288",
+  "r07": "4130",
+  "r08": "4834",
   "awards": null,
   "website": null,
   "all-shows-first": "1996",
   "all-shows-total": "36",
   "2005-shows-biennials": "7",
   "2005-shows-galleries": "7",
-  "2005-shows-museums": "6",
-  "2005-countries-total": "France (13), Germany (1), Italy (1)",
-  "2005-shows-with": "Georges Tony Stoll (11), Mathieu Mercier (3), Vittorio Santoro (3), Emanuele Becheri (2), Anna Eva Bergman (2), Jean-Christian Bourcart (2), Julien Crépieux (2), Callum Innes (2), Bertrand Lamarche (2), Claude Lévêque (2), Emmanuel van der Meulen (2), Wesley Meuris (2), Anita Molinero (2), Société Réaliste (2), Xavier Veilhan (2), Marthe Wéry (2)",
+  "2005-shows-museums": "7",
+  "2005-countries-total": "France (14), Germany (1), Italy (1)",
+  "2005-shows-with": "Georges Tony Stoll (12), Mathieu Mercier (3), Vittorio Santoro (3), Marthe Wéry (3), Marina Abramovic (2), Emanuele Becheri (2), Anna Eva Bergman (2), Jean-Christian Bourcart (2), Julien Crépieux (2), Callum Innes (2), Bertrand Lamarche (2), Claude Lévêque (2), Emmanuel van der Meulen (2), Wesley Meuris (2), Anita Molinero (2), Société Réaliste (2), Xavier Veilhan (2)",
   "representing-galleries": "Galerie Jérôme Poggi (2 rue Beaubourg, 75004 Paris, France)",
   "collecting-museums": "FRAC - Picardie (45 rue Pointin, 80041 Amiens, France); FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); Maison Européenne de la Photographie (5/7 rue de Fourcy, 75004 Paris, France); Musée d´Art Moderne de la Ville de Paris - MAM/ARC (11 avenue du Président Wilson, 75 016 Paris, France); Centre Pompidou - Musée National d´Art Moderne (Place Georges Pompidou, 75004 Paris, France); FRAC - Alsace (1, espace Gilbert Estève, 67601 Sélestat, France); Fotomuseum Winterthur (Grüzenstrasse 44 + 45, 8400 Winterthur, Switzerland)",
   "first_name": "Georges",
@@ -274,6 +274,14 @@
     "2014": [
       {
         "i": "50962-21639-2013-11-29",
+        "c": "FR"
+      },
+      {
+        "i": "50962-10247-2014-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "50962-10247-2014-06-21",
         "c": "FR"
       },
       {

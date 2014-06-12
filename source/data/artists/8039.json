@@ -1,7 +1,7 @@
 {
   "id": "8039",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:18:09",
+  "timestamp": "2014-05-31 06:23:38",
   "name": "Éric Poitevin",
   "surname": "Poitevin",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "3367",
-  "r01": "3122",
-  "r02": "2760",
-  "r03": "2541",
-  "r04": "2274",
-  "r05": "2406",
-  "r06": "2022",
+  "r00": "3388",
+  "r01": "3123",
+  "r02": "2761",
+  "r03": "2540",
+  "r04": "2272",
+  "r05": "2399",
+  "r06": "2018",
   "r07": "1723",
-  "r08": "2109",
+  "r08": "2110",
   "awards": null,
   "website": null,
   "all-shows-first": "1991",
-  "all-shows-total": "67",
+  "all-shows-total": "68",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
   "2005-shows-museums": "26",
@@ -500,6 +500,27 @@
     "2014": [
       {
         "i": "8039-8997-2013-10-05",
+        "c": "FR"
+      },
+      {
+        "i": "8039-6699-2014-01-25",
+        "c": "US",
+        "n": "Beyond Earth Art",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Ithaca, NY",
+        "o": "Herbert F. Johnson Museum of Art",
+        "d": [
+          "2014-01-25",
+          "2014-06-08"
+        ]
+      },
+      {
+        "i": "8039-2565-2014-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "8039-2565-2014-06-14",
         "c": "FR"
       }
     ]

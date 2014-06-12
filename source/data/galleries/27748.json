@@ -12,16 +12,28 @@
   "email": "bogena@bogena-galerie.com",
   "www": "www.bogena-galerie.com",
   "map": "http://maps.google.com/maps?q=Saint-Paul de Vence%2C%2006570 %2C%20 %2C%2024 rue Grande %2C%20France",
-  "fairs-total": "1",
-  "fairs-abroad": "1",
-  "fairs-in-FR": "0",
+  "fairs-total": "3",
+  "fairs-abroad": "2",
+  "fairs-in-FR": "1",
   "fairs": {
     "2013": [
       {
-        "i": "27748-Art Stage Singapore 2013",
+        "i": "27748-Art-Stage-Singapore-2013",
         "c": "SG",
         "n": "Art Stage Singapore 2013",
         "ct": "Singapore"
+      }
+    ],
+    "2014": [
+      {
+        "i": "27748-Art-Stage-Singapore-2014",
+        "c": "SG",
+        "n": "Art Stage Singapore 2014",
+        "ct": "Singapore"
+      },
+      {
+        "i": "27748-Artparis-2014",
+        "c": "FR"
       }
     ]
   }

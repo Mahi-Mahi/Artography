@@ -12,13 +12,19 @@
   "email": "mjg@galeriejouangondouin.com",
   "www": "www.galeriejouangondouin.com",
   "map": "http://maps.google.com/maps?q=Saint Germain en Laye%2C%2078100 %2C%20 %2C%2030 bis rue du vieil abreuvoir %2C%20France",
-  "fairs-total": "1",
+  "fairs-total": "2",
   "fairs-abroad": "0",
-  "fairs-in-FR": "1",
+  "fairs-in-FR": "2",
   "fairs": {
     "2013": [
       {
-        "i": "28248-Lille Art Fair 2013",
+        "i": "28248-Lille-Art-Fair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "28248-Art-Up!-2014",
         "c": "FR"
       }
     ]

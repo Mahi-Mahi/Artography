@@ -12,22 +12,36 @@
   "email": null,
   "www": "www.kplusy.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2024, rue Treilhard %2C%20France",
-  "fairs-total": "2",
-  "fairs-abroad": "2",
+  "fairs-total": "4",
+  "fairs-abroad": "4",
   "fairs-in-FR": "0",
   "fairs": {
     "2013": [
       {
-        "i": "29266-Art Toronto 2013",
+        "i": "29266-Art-Toronto-2013",
         "c": "CA",
         "n": "Art Toronto 2013",
         "ct": "Vancouver, BC"
       },
       {
-        "i": "29266-Scope Miami Beach 2013",
+        "i": "29266-Scope-Miami-Beach-2013",
         "c": "US",
         "n": "Scope Miami Beach 2013",
         "ct": "Miami Beach, FL"
+      }
+    ],
+    "2014": [
+      {
+        "i": "29266-Los-Angeles-Art-Show-2014",
+        "c": "US",
+        "n": "Los Angeles Art Show 2014",
+        "ct": "Venice, CA"
+      },
+      {
+        "i": "29266-Scope-Basel-2014",
+        "c": "CH",
+        "n": "Scope Basel 2014",
+        "ct": "Basel"
       }
     ]
   }

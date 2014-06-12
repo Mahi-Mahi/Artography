@@ -1,7 +1,7 @@
 {
   "id": "121076",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:58:09",
+  "timestamp": "2014-05-31 07:03:34",
   "name": "Neil Beloufa",
   "surname": "Beloufa",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "693",
-  "r01": "952",
-  "r02": "2022",
-  "r03": "3194",
+  "r00": "699",
+  "r01": "957",
+  "r02": "2024",
+  "r03": "3197",
   "r04": "4611",
   "r05": "7276",
-  "r06": "8936",
-  "r07": "26616",
+  "r06": "8937",
+  "r07": "26661",
   "r08": null,
   "awards": null,
   "website": "www.neilbeloufa.com",
@@ -814,6 +814,168 @@
           "2013-10-18",
           "2014-01-26"
         ]
+      },
+      {
+        "i": "121076-20301-2014-01-31",
+        "c": "GB",
+        "n": "Geographies of Contamination",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "London",
+        "o": "The David Roberts Art Foundation",
+        "d": [
+          "2014-01-31",
+          "2014-03-29"
+        ]
+      },
+      {
+        "i": "121076-3444-2014-02-23",
+        "c": "CH",
+        "n": "2 solo shows and 1 screening",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Fribourg",
+        "o": "Fri Art - Centre d'Art Contemporain",
+        "d": [
+          "2014-02-23",
+          "2014-04-06"
+        ]
+      },
+      {
+        "i": "121076-8281-2014-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "121076-8281-2014-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "121076-449-2014-05-24",
+        "c": "DE",
+        "n": "Giving contours to shadow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "NBK - Neuer Berliner Kunstverein",
+        "d": [
+          "2014-05-24",
+          "2014-07-27"
+        ],
+        "a": "121076",
+        "an": "Neil Beloufa"
+      },
+      {
+        "i": "121076-2226-2014-05-29",
+        "c": "US",
+        "n": "UHF42",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Apexart",
+        "d": [
+          "2014-05-29",
+          "2014-06-27"
+        ],
+        "a": "121076",
+        "an": "Neil Beloufa"
+      },
+      {
+        "i": "121076-8282-2014-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "121076-8282-2014-04-01",
+        "c": "FR"
+      },
+      {
+        "i": "121076-21820-2014-05-31",
+        "c": "BR",
+        "n": "Neil Beloufa",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "São Paulo",
+        "o": "Galeria Mendes Wood",
+        "d": [
+          "2014-05-31",
+          "2014-07-12"
+        ],
+        "a": "121076",
+        "an": "Neil Beloufa"
+      }
+    ],
+    "today": [
+      {
+        "i": "121076",
+        "c": "FR",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "121076-8281-2014-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "121076",
+        "c": "DE",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "121076-449-2014-05-24",
+        "c": "DE",
+        "n": "Giving contours to shadow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "NBK - Neuer Berliner Kunstverein",
+        "d": [
+          "2014-05-24",
+          "2014-07-27"
+        ],
+        "a": "121076",
+        "an": "Neil Beloufa"
+      },
+      {
+        "i": "121076",
+        "c": "US",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "121076-2226-2014-05-29",
+        "c": "US",
+        "n": "UHF42",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Apexart",
+        "d": [
+          "2014-05-29",
+          "2014-06-27"
+        ],
+        "a": "121076",
+        "an": "Neil Beloufa"
+      },
+      {
+        "i": "121076",
+        "c": "BR",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "121076-21820-2014-05-31",
+        "c": "BR",
+        "n": "Neil Beloufa",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "São Paulo",
+        "o": "Galeria Mendes Wood",
+        "d": [
+          "2014-05-31",
+          "2014-07-12"
+        ],
+        "a": "121076",
+        "an": "Neil Beloufa"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "109144",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:54:03",
+  "timestamp": "2014-05-31 06:59:26",
   "name": "Philippe Chancel",
   "surname": "Chancel",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "4321",
-  "r01": "4531",
-  "r02": "7454",
-  "r03": "9234",
-  "r04": "9030",
-  "r05": "15473",
-  "r06": "13811",
-  "r07": "16067",
+  "r00": "4351",
+  "r01": "4536",
+  "r02": "7457",
+  "r03": "9241",
+  "r04": "9033",
+  "r05": "15484",
+  "r06": "13819",
+  "r07": "16080",
   "r08": null,
   "awards": null,
   "website": null,
@@ -340,19 +340,6 @@
         ]
       },
       {
-        "i": "109144-3593-2013-03-22",
-        "c": "NL",
-        "n": "Power - Prix Pictet",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Amsterdam",
-        "o": "Huis Marseille stichting voor fotografie",
-        "d": [
-          "2013-03-22",
-          "2013-06-16"
-        ]
-      },
-      {
         "i": "109144-3709-2013-03-22",
         "c": "IE",
         "n": "Prix Pictet - Power",
@@ -363,6 +350,19 @@
         "d": [
           "2013-03-22",
           "2013-04-28"
+        ]
+      },
+      {
+        "i": "109144-3593-2013-03-22",
+        "c": "NL",
+        "n": "Power - Prix Pictet",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Amsterdam",
+        "o": "Huis Marseille stichting voor fotografie",
+        "d": [
+          "2013-03-22",
+          "2013-06-16"
         ]
       },
       {
@@ -472,6 +472,19 @@
         "d": [
           "2013-12-05",
           "2014-01-30"
+        ]
+      },
+      {
+        "i": "109144-6952-2014-02-01",
+        "c": "US",
+        "n": "Prix Pictet: Power",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "San Diego, CA",
+        "o": "The Museum of Photographic Arts",
+        "d": [
+          "2014-02-01",
+          "2014-05-18"
         ]
       }
     ]

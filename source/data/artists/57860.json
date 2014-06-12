@@ -1,7 +1,7 @@
 {
   "id": "57860",
   "mergedIDs": "432600",
-  "timestamp": "2014-05-24 06:36:26",
+  "timestamp": "2014-05-31 06:41:52",
   "name": "Olga Kisseleva",
   "surname": "Kisseleva",
   "nationality": "FR, RU",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography, Installation, Sculpture, BioArt",
-  "r00": "2832",
-  "r01": "2786",
-  "r02": "2767",
-  "r03": "2544",
-  "r04": "3535",
+  "r00": "2843",
+  "r01": "2789",
+  "r02": "2768",
+  "r03": "2546",
+  "r04": "3538",
   "r05": "4384",
-  "r06": "4029",
-  "r07": "4396",
-  "r08": "11596",
+  "r06": "4033",
+  "r07": "4399",
+  "r08": "11606",
   "awards": "Award of the Ministry of Research, Paris, France, for the Geo Quick Responce, land-art project, collaboration with the Gassendi Museum and with the Geopark de Haute-Provence, Digne-les-Bains, France,Pro&Contra Award, Moscow, Russia,DISONANCIAS art & innovation award, San Sebastian, Spain,Kio-A-Tao award, Taipei, Taiwan,Awaerd Pierre Scheffer, SCAM - Multimedia, Paris, France,ARCADI - Multimedia Award, Paris, France,Award of French Research Minister for DG-Cabin project, Paris, France,DICREAM - Multimedia Award of French Minister for Culture, Paris, France,Award “Contemporary art in traditional museum” ProArte Fondation, St Petersbourg, Russia,Sanscriti Award, Sanscriti Foundation, New Delhi, India",
   "website": "www.kisseleva.org",
   "all-shows-first": "2003",
@@ -527,6 +527,18 @@
         "c": "FR"
       },
       {
+        "i": "57860-2918-2011-10-13",
+        "c": "RU",
+        "n": "Women's Nano",
+        "st": "Group",
+        "ct": "Moscow",
+        "o": "Moscow Biennale of contemporary art",
+        "d": [
+          "2011-10-13",
+          "2011-11-12"
+        ]
+      },
+      {
         "i": "57860-8587-2011-11-25",
         "c": "RU",
         "n": "Artisartisart",
@@ -594,6 +606,19 @@
         "d": [
           "2012-03-08",
           "2012-04-28"
+        ]
+      },
+      {
+        "i": "57860-20370-2012-06-22",
+        "c": "RU",
+        "n": "The Immersions. Towards Tactile Cinema",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Moscow",
+        "o": "Ekaterina Foundation",
+        "d": [
+          "2012-06-22",
+          "2012-08-19"
         ]
       },
       {
@@ -716,14 +741,6 @@
         ]
       },
       {
-        "i": "57860-30333-2013-09-11",
-        "c": "FR"
-      },
-      {
-        "i": "57860-30333-2013-09-11",
-        "c": "FR"
-      },
-      {
         "i": "57860-30331-2013-09-11",
         "c": "TR",
         "n": "Precartiy of the Artist",
@@ -735,6 +752,14 @@
           "2013-09-11",
           "2013-11-02"
         ]
+      },
+      {
+        "i": "57860-30333-2013-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "57860-30333-2013-09-11",
+        "c": "FR"
       },
       {
         "i": "57860-2022-2013-11-30",
@@ -764,7 +789,48 @@
         "c": "FR"
       },
       {
+        "i": "57860-30709-2014-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "57860-30709-2014-06-03",
+        "c": "FR"
+      },
+      {
+        "i": "57860-14920-2014-06-14",
+        "c": "FR"
+      },
+      {
+        "i": "57860-14920-2014-06-14",
+        "c": "FR"
+      },
+      {
         "i": "57860-2022-2013-11-30",
+        "c": "FR"
+      },
+      {
+        "i": "57860-15389-2014-05-09",
+        "c": "TR",
+        "n": "Olga Kisseleva - Time Is Money",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Istanbul",
+        "o": "Kasa Gallery",
+        "d": [
+          "2014-05-09",
+          "2014-06-07"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "57860",
+        "c": "FR",
+        "g": "f",
+        "a": "41-60"
+      },
+      {
+        "i": "57860-30709-2014-06-03",
         "c": "FR"
       }
     ]

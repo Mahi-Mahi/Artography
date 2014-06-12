@@ -1,12 +1,12 @@
 {
   "id": "192518",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:22:25",
+  "timestamp": "2014-05-31 07:27:48",
   "name": "Dominique Blais",
   "surname": "Blais",
   "nationality": "FR",
   "nationality fr": "France",
-  "birth location": null,
+  "birth location": "",
   "birth day": 1,
   "birth month": 1,
   "birth year": "1974",
@@ -16,29 +16,29 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "3573",
-  "r01": "3755",
-  "r02": "3482",
-  "r03": "3803",
-  "r04": "3842",
-  "r05": "5047",
-  "r06": "17061",
-  "r07": "23736",
-  "r08": "31562",
+  "r00": "3598",
+  "r01": "3762",
+  "r02": "3485",
+  "r03": "3802",
+  "r04": "3846",
+  "r05": "5052",
+  "r06": "17089",
+  "r07": "23783",
+  "r08": "31597",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
   "all-shows-total": "52",
   "2005-shows-biennials": "12",
   "2005-shows-galleries": "12",
-  "2005-shows-museums": "27",
-  "2005-countries-total": "France (37), Belgium (3), Canada (1), Poland (1)",
-  "2005-shows-with": "Dominique Blais (32), Mark Geffriaud (6), Pascal Broccolichi (5), Berdaguer & Péjus (4), Joseph Grigely (4), Christian Marclay (4), Julien Prévieux (4), A Constructed World (3), Fayçal Baghriche (3), Gilles Barbier (3), Robert Barry (3), Pierre-Laurent Cassière (3), Isabelle Cornaro (3), Julien Discrit (3), Jean Dupuy (3), Ryan Gander (3), Dora García (3), Aurelie Godard (3), Ben Kinmont (3), Jirí Kovanda (3), Pierre Leguillon (3), Arnaud Maguet (3), Dennis Oppenheim (3), Jérôme Poret (3), Will Potter (3), Denis Savary (3), Yann Sérandour (3), Roman Signer (3), Raphaël Zarka (3), Boris Achour (2), Saâdane Afif (2), John M Armleder (2), Olivier Bardin (2), Pierre Belouin (2), Joianne Bittle (2), Mel Bochner (2), Céleste Boursier-Mougenot (2), Hugo Brégeau (2), Alejandro Cesarco (2), Philippe Decrauzat (2), Victor Delestre (2), Jeremy Deller (2), Damien Deroubaix (2), Detanico & Lain (2), Dewar & Gicquel (2), Cerith Wyn Evans (2), Nicolas Floc\\'h (2), Julie-Christine Fortier (2), Patrice Gaillard &",
+  "2005-shows-museums": "28",
+  "2005-countries-total": "France (38), Belgium (3), Canada (1), Poland (1)",
+  "2005-shows-with": "Dominique Blais (33), Pascal Broccolichi (6), Mark Geffriaud (6), Berdaguer & Péjus (4), Jean Dupuy (4), Joseph Grigely (4), Christian Marclay (4), Julien Prévieux (4), A Constructed World (3), Fayçal Baghriche (3), Gilles Barbier (3), Robert Barry (3), Céleste Boursier-Mougenot (3), Pierre-Laurent Cassière (3), Isabelle Cornaro (3), Julien Discrit (3), Ryan Gander (3), Dora García (3), Aurelie Godard (3), Ben Kinmont (3), Jirí Kovanda (3), Pierre Leguillon (3), Arnaud Maguet (3), Dennis Oppenheim (3), Jérôme Poret (3), Will Potter (3), Denis Savary (3), Yann Sérandour (3), Roman Signer (3), Raphaël Zarka (3), Boris Achour (2), Saâdane Afif (2), Pierre Alferi (2), John M Armleder (2), Davide Balula (2), Olivier Bardin (2), Pierre Belouin (2), Joianne Bittle (2), Mel Bochner (2), Hugo Brégeau (2), Alejandro Cesarco (2), Philippe Decrauzat (2), Marcelline Delbecq (2), Victor Delestre (2), Jeremy Deller (2), Damien Deroubaix (2), Detanico & Lain (2), Dewar & Gicquel (2), Cerith Wyn Evans (2), Nicola",
   "representing-galleries": "Galerie Xippas France (108, rue Vieille du Temple, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Dominique",
   "last_name": "Blais",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1974-01-01",
   "age": 40,
   "age_range": "26-40",
@@ -514,6 +514,44 @@
       },
       {
         "i": "192518-8282-2013-01-29",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "192518-8285-2014-01-24",
+        "c": "FR"
+      },
+      {
+        "i": "192518-8285-2014-01-24",
+        "c": "FR"
+      },
+      {
+        "i": "192518-12523-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "192518-12523-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "192518-11587-2014-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "192518-11587-2014-06-21",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "192518",
+        "c": "FR",
+        "g": "n",
+        "a": "26-40"
+      },
+      {
+        "i": "192518-12523-2014-02-07",
         "c": "FR"
       }
     ]

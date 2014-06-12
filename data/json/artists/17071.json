@@ -1,7 +1,7 @@
 {
   "id": "17071",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:43",
+  "timestamp": "2014-05-31 06:27:14",
   "name": "Etienne Bossut",
   "surname": "Bossut",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sculpture",
-  "r00": "2239",
-  "r01": "2071",
-  "r02": "1797",
+  "r00": "2256",
+  "r01": "2072",
+  "r02": "1799",
   "r03": "1618",
-  "r04": "1445",
+  "r04": "1447",
   "r05": "1531",
-  "r06": "1550",
-  "r07": "1562",
-  "r08": "1366",
+  "r06": "1551",
+  "r07": "1565",
+  "r08": "1367",
   "awards": null,
   "website": "etiennebossut.com",
   "all-shows-first": "1985",
@@ -704,6 +704,44 @@
       {
         "i": "17071-29739-2013-10-12",
         "c": "FR"
+      },
+      {
+        "i": "17071-22613-2014-03-01",
+        "c": "BE",
+        "n": "A book between two stools",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Villa Empain - Boghossian Foundation",
+        "d": [
+          "2014-03-01",
+          "2014-09-07"
+        ],
+        "a": "17071",
+        "an": "Etienne Bossut"
+      }
+    ],
+    "today": [
+      {
+        "i": "17071",
+        "c": "BE",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "17071-22613-2014-03-01",
+        "c": "BE",
+        "n": "A book between two stools",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Villa Empain - Boghossian Foundation",
+        "d": [
+          "2014-03-01",
+          "2014-09-07"
+        ],
+        "a": "17071",
+        "an": "Etienne Bossut"
       }
     ]
   }

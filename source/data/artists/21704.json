@@ -1,7 +1,7 @@
 {
   "id": "21704",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:23:26",
+  "timestamp": "2014-05-31 06:28:57",
   "name": "Didier Faustino",
   "surname": "Faustino",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Architecture, Performance",
-  "r00": "1621",
-  "r01": "1714",
-  "r02": "1597",
-  "r03": "1742",
-  "r04": "1847",
-  "r05": "1830",
-  "r06": "1933",
-  "r07": "1950",
-  "r08": "1842",
+  "r00": "1617",
+  "r01": "1712",
+  "r02": "1593",
+  "r03": "1740",
+  "r04": "1846",
+  "r05": "1824",
+  "r06": "1928",
+  "r07": "1952",
+  "r08": "1840",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
@@ -213,18 +213,6 @@
         ]
       },
       {
-        "i": "21704-4920-2008-09-13",
-        "c": "JP",
-        "n": "Yokohama Triennale 2008 - Time Crevasse",
-        "st": "Group",
-        "ct": "Yokohama",
-        "o": "Yokohama Triennale",
-        "d": [
-          "2008-09-13",
-          "2008-11-30"
-        ]
-      },
-      {
         "i": "21704-3610-2008-09-13",
         "c": "TW",
         "n": "Taipei Biennial 2008",
@@ -234,6 +222,18 @@
         "d": [
           "2008-09-13",
           "2009-01-11"
+        ]
+      },
+      {
+        "i": "21704-4920-2008-09-13",
+        "c": "JP",
+        "n": "Yokohama Triennale 2008 - Time Crevasse",
+        "st": "Group",
+        "ct": "Yokohama",
+        "o": "Yokohama Triennale",
+        "d": [
+          "2008-09-13",
+          "2008-11-30"
         ]
       }
     ],
@@ -651,6 +651,60 @@
       {
         "i": "21704-8522-2013-11-16",
         "c": "FR"
+      },
+      {
+        "i": "21704-1782-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "21704-1782-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "21704-5745-2014-02-28",
+        "c": "US",
+        "n": "Buildering: Misbehaving the City",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Cincinnati, OH",
+        "o": "CAC - Cincinnati Contemporary Arts Center",
+        "d": [
+          "2014-02-28",
+          "2014-08-18"
+        ],
+        "a": "21704",
+        "an": "Didier Faustino"
+      },
+      {
+        "i": "21704-30531-2014-06-07",
+        "c": "FR"
+      },
+      {
+        "i": "21704-30531-2014-06-07",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "21704",
+        "c": "US",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "21704-5745-2014-02-28",
+        "c": "US",
+        "n": "Buildering: Misbehaving the City",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Cincinnati, OH",
+        "o": "CAC - Cincinnati Contemporary Arts Center",
+        "d": [
+          "2014-02-28",
+          "2014-08-18"
+        ],
+        "a": "21704",
+        "an": "Didier Faustino"
       }
     ]
   }

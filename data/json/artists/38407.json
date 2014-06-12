@@ -1,7 +1,7 @@
 {
   "id": "38407",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:29:30",
+  "timestamp": "2014-05-31 06:35:00",
   "name": "Camille Henrot",
   "surname": "Henrot",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video",
-  "r00": "887",
+  "r00": "841",
   "r01": "1444",
-  "r02": "2716",
-  "r03": "3123",
-  "r04": "3344",
-  "r05": "3923",
-  "r06": "4124",
-  "r07": "4478",
-  "r08": "6190",
+  "r02": "2718",
+  "r03": "3121",
+  "r04": "3341",
+  "r05": "3927",
+  "r06": "4125",
+  "r07": "4485",
+  "r08": "6194",
   "awards": null,
   "website": "www.camillehenrot.fr",
   "all-shows-first": "2005",
@@ -536,19 +536,19 @@
         ]
       },
       {
-        "i": "38407-9475-2013-03-23",
-        "c": "FR"
-      },
-      {
-        "i": "38407-9475-2013-03-23",
-        "c": "FR"
-      },
-      {
         "i": "38407-27822-2013-03-23",
         "c": "FR"
       },
       {
         "i": "38407-27822-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "38407-9475-2013-03-23",
+        "c": "FR"
+      },
+      {
+        "i": "38407-9475-2013-03-23",
         "c": "FR"
       },
       {
@@ -831,6 +831,101 @@
         ]
       },
       {
+        "i": "38407-1811-2014-01-24",
+        "c": "ES",
+        "n": "Justo Delante De Nosotros Otras Cartografías Del Rif",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Barcelona",
+        "o": "Museu d´Art Contemporani de Barcelona - MACBA",
+        "d": [
+          "2014-01-24",
+          "2014-05-18"
+        ]
+      },
+      {
+        "i": "38407-596-2014-02-14",
+        "c": "NL",
+        "n": "Beating around the Bush Episode #1",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Maastricht",
+        "o": "Bonnefantenmuseum",
+        "d": [
+          "2014-02-14",
+          "2014-05-04"
+        ]
+      },
+      {
+        "i": "38407-14027-2014-02-26",
+        "c": "BE",
+        "n": "The Prehistory Of The Image: Projections",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Leuven",
+        "o": "Stuk Kunstcentrum",
+        "d": [
+          "2014-02-26",
+          "2014-03-23"
+        ]
+      },
+      {
+        "i": "38407-17760-2014-03-22",
+        "c": "ES",
+        "n": "PER/FORM. How to do things with[out] words",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Móstoles",
+        "o": "CA2M - Centro de Arte Dos de Mayo",
+        "d": [
+          "2014-03-22",
+          "2014-09-20"
+        ],
+        "a": "38407",
+        "an": "Camille Henrot"
+      },
+      {
+        "i": "38407-7390-2014-03-28",
+        "c": "FR"
+      },
+      {
+        "i": "38407-7390-2014-03-28",
+        "c": "FR"
+      },
+      {
+        "i": "38407-7255-2014-04-18",
+        "c": "SE",
+        "n": "Outside",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Stockholm",
+        "o": "Index - The Swedish Contemporary Art Foundation",
+        "d": [
+          "2014-04-18",
+          "2014-05-03"
+        ]
+      },
+      {
+        "i": "38407-1782-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "38407-1782-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "38407-16680-2014-10-25",
+        "c": "US",
+        "n": "Prospect.3: Notes for Now",
+        "st": "Group",
+        "ct": "New Orleans, LA",
+        "o": "Prospect New Orleans",
+        "d": [
+          "2014-10-25",
+          "2015-01-01"
+        ]
+      },
+      {
         "i": "38407-3674-2013-10-11",
         "c": "US",
         "n": "Camille Henrot: Cities Of Ys",
@@ -841,6 +936,115 @@
         "d": [
           "2013-10-11",
           "2014-04-13"
+        ]
+      },
+      {
+        "i": "38407-1326-2014-02-28",
+        "c": "GB",
+        "n": "Camille Henrot - The Pale Fox",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "London",
+        "o": "Chisenhale Gallery",
+        "d": [
+          "2014-02-28",
+          "2014-04-13"
+        ]
+      },
+      {
+        "i": "38407-20583-2014-04-05",
+        "c": "DE",
+        "n": "Camille Henrot - Snake Grass",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Berlin",
+        "o": "Schinkel Pavillon",
+        "d": [
+          "2014-04-05",
+          "2014-05-11"
+        ]
+      },
+      {
+        "i": "38407-1203-2014-05-07",
+        "c": "US",
+        "n": "Camille Henrot: The Restless Earth",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "New Museum of Contemporary Art",
+        "d": [
+          "2014-05-07",
+          "2014-06-29"
+        ],
+        "a": "38407",
+        "an": "Camille Henrot"
+      }
+    ],
+    "today": [
+      {
+        "i": "38407",
+        "c": "ES",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "38407-17760-2014-03-22",
+        "c": "ES",
+        "n": "PER/FORM. How to do things with[out] words",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Móstoles",
+        "o": "CA2M - Centro de Arte Dos de Mayo",
+        "d": [
+          "2014-03-22",
+          "2014-09-20"
+        ],
+        "a": "38407",
+        "an": "Camille Henrot"
+      },
+      {
+        "i": "38407",
+        "c": "FR",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "38407-1782-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "38407",
+        "c": "US",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "38407-1203-2014-05-07",
+        "c": "US",
+        "n": "Camille Henrot: The Restless Earth",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "New Museum of Contemporary Art",
+        "d": [
+          "2014-05-07",
+          "2014-06-29"
+        ],
+        "a": "38407",
+        "an": "Camille Henrot"
+      }
+    ],
+    "2015": [
+      {
+        "i": "38407-16680-2014-10-25",
+        "c": "US",
+        "n": "Prospect.3: Notes for Now",
+        "st": "Group",
+        "ct": "New Orleans, LA",
+        "o": "Prospect New Orleans",
+        "d": [
+          "2014-10-25",
+          "2015-01-01"
         ]
       }
     ]

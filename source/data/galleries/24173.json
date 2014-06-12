@@ -12,25 +12,31 @@
   "email": "valerie.b.lefebvre@orange.fr",
   "www": "www.galerievalerielefebvre.com",
   "map": "http://maps.google.com/maps?q=Lille%2C%2059000 %2C%20 %2C%2068 rue Léonard Danel %2C%20France",
-  "fairs-total": "3",
+  "fairs-total": "4",
   "fairs-abroad": "0",
-  "fairs-in-FR": "3",
+  "fairs-in-FR": "4",
   "fairs": {
     "2011": [
       {
-        "i": "24173-Lille Art Fair 2011",
+        "i": "24173-Lille-Art-Fair-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "24173-Lille Art Fair 2012",
+        "i": "24173-Lille-Art-Fair-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "24173-Lille Art Fair 2013",
+        "i": "24173-Lille-Art-Fair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "24173-Art-Up!-2014",
         "c": "FR"
       }
     ]

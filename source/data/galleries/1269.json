@@ -12,13 +12,13 @@
   "email": "galerieloft@noos.fr",
   "www": "www.galerieloft.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%203 bis rue des Beaux-Arts %2C%20France",
-  "fairs-total": "4",
+  "fairs-total": "5",
   "fairs-abroad": "2",
-  "fairs-in-FR": "2",
+  "fairs-in-FR": "3",
   "fairs": {
     "2005": [
       {
-        "i": "1269-Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "i": "1269-Art-Brussels-2005---23rd-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2005 - 23rd Contemporary Art Fair",
         "ct": "Brussels"
@@ -26,7 +26,7 @@
     ],
     "2006": [
       {
-        "i": "1269-Art Brussels 2006- 24th Contemporary Art Fair",
+        "i": "1269-Art-Brussels-2006--24th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2006- 24th Contemporary Art Fair",
         "ct": "Brussels"
@@ -34,7 +34,7 @@
     ],
     "2007": [
       {
-        "i": "1269-ArtParis - AbuDhabi 2007",
+        "i": "1269-ArtParis---AbuDhabi-2007",
         "c": "AE",
         "n": "ArtParis - AbuDhabi 2007",
         "ct": "Abu Dhabi"
@@ -42,7 +42,13 @@
     ],
     "2008": [
       {
-        "i": "1269-Salon du Dessin Contemporain 2008",
+        "i": "1269-Salon-du-Dessin-Contemporain-2008",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "1269-Artparis-2014",
         "c": "FR"
       }
     ]

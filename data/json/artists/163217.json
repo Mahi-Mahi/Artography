@@ -1,7 +1,7 @@
 {
   "id": "163217",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:12:21",
+  "timestamp": "2014-05-31 07:17:45",
   "name": "Renaud Delorme",
   "surname": "Delorme",
   "nationality": "FR",
@@ -16,10 +16,10 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "80391",
-  "r01": "85078",
-  "r02": "87766",
-  "r03": "111666",
+  "r00": "80500",
+  "r01": "85038",
+  "r02": "87720",
+  "r03": "111840",
   "r04": null,
   "r05": null,
   "r06": null,
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Renaud",
   "last_name": "Delorme",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1970-01-01",
   "age": 44,
   "age_range": "41-60",
@@ -73,19 +73,6 @@
         ]
       },
       {
-        "i": "163217-14161-2012-08-03",
-        "c": "BE",
-        "n": "Renaud Delorme",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Bruges",
-        "o": "Absolute Art Gallery - Brugge",
-        "d": [
-          "2012-08-03",
-          "2012-09-02"
-        ]
-      },
-      {
         "i": "163217-14162-2012-08-03",
         "c": "BE",
         "n": "Renaud Delorme",
@@ -93,6 +80,19 @@
         "st": "Solo",
         "ct": "Knokke",
         "o": "Absolute Art Gallery - Knokke",
+        "d": [
+          "2012-08-03",
+          "2012-09-02"
+        ]
+      },
+      {
+        "i": "163217-14161-2012-08-03",
+        "c": "BE",
+        "n": "Renaud Delorme",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Bruges",
+        "o": "Absolute Art Gallery - Brugge",
         "d": [
           "2012-08-03",
           "2012-09-02"
@@ -138,6 +138,16 @@
           "2013-12-20",
           "2013-01-27"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "163217-29266-2014-05-14",
+        "c": "FR"
+      },
+      {
+        "i": "163217-29266-2014-05-14",
+        "c": "FR"
       }
     ]
   }

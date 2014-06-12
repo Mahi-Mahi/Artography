@@ -12,13 +12,19 @@
   "email": "artnewsarl@free.fr",
   "www": null,
   "map": "http://maps.google.com/maps?q=Montpellier%2C%2034080 %2C%20 %2C%20359 Avenue des frères Buhler %2C%20France",
-  "fairs-total": "1",
+  "fairs-total": "2",
   "fairs-abroad": "0",
-  "fairs-in-FR": "1",
+  "fairs-in-FR": "2",
   "fairs": {
     "2013": [
       {
-        "i": "30407-St-art 2013",
+        "i": "30407-St-art-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "30407-Art-Up!-2014",
         "c": "FR"
       }
     ]

@@ -12,41 +12,41 @@
   "email": "galeriepatriciadorfmann@noos.fr",
   "www": "www.patriciadorfmann.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%2061, rue de la Verrerie %2C%20France",
-  "fairs-total": "16",
+  "fairs-total": "17",
   "fairs-abroad": "2",
-  "fairs-in-FR": "14",
+  "fairs-in-FR": "15",
   "fairs": {
     "2005": [
       {
-        "i": "2094-Fiac 2005",
+        "i": "2094-Fiac-2005",
         "c": "FR"
       }
     ],
     "2006": [
       {
-        "i": "2094-Show Off Paris 2006",
+        "i": "2094-Show-Off-Paris-2006",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "2094-ArtParis 08",
+        "i": "2094-ArtParis-08",
         "c": "FR"
       },
       {
-        "i": "2094-ShContemporary 08",
+        "i": "2094-ShContemporary-08",
         "c": "CN",
         "n": "ShContemporary 08",
         "ct": "Shanghai"
       },
       {
-        "i": "2094-SLICK 2008",
+        "i": "2094-SLICK-2008",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "2094-ArtParis 09",
+        "i": "2094-ArtParis-09",
         "c": "FR"
       },
       {
@@ -60,43 +60,49 @@
         "c": "FR"
       },
       {
-        "i": "2094-Paris Photo 2009",
+        "i": "2094-Paris-Photo-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "2094-ArtParis 2010",
+        "i": "2094-ArtParis-2010",
         "c": "FR"
       },
       {
-        "i": "2094-Fiac 2010",
+        "i": "2094-Fiac-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "2094-ArtParis 2011",
+        "i": "2094-ArtParis-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "2094-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "i": "2094-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "2094-Lille Art Fair 2013",
+        "i": "2094-Lille-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "2094-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "i": "2094-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2013",
         "c": "FR"
       },
       {
-        "i": "2094-Yia Art Fair 2013",
+        "i": "2094-Yia-Art-Fair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "2094-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
         "c": "FR"
       }
     ]

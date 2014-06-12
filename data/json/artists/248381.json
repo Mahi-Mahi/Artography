@@ -1,7 +1,7 @@
 {
   "id": "248381",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:41:32",
+  "timestamp": "2014-05-31 07:46:49",
   "name": "Benoit Billotte",
   "surname": "Billotte",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "32123",
-  "r01": "40285",
-  "r02": "54890",
-  "r03": "49729",
-  "r04": "60291",
-  "r05": "75718",
-  "r06": "68358",
-  "r07": "60506",
+  "r00": "32186",
+  "r01": "40359",
+  "r02": "54981",
+  "r03": "49805",
+  "r04": "60363",
+  "r05": "75820",
+  "r06": "68474",
+  "r07": "60614",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
-  "all-shows-total": "7",
+  "all-shows-total": "6",
   "2005-shows-biennials": "1",
   "2005-shows-galleries": "1",
   "2005-shows-museums": "3",
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Benoit",
   "last_name": "Billotte",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1983-01-01",
   "age": 31,
   "age_range": "26-40",
@@ -78,20 +78,55 @@
         "c": "FR"
       }
     ],
-    "2013": [
+    "2014": [
       {
-        "i": "248381-11632-2013-08-30",
-        "c": "CH",
-        "n": "Benoît Billotte Mirabilia - Urbis Romae",
-        "t": "Autre",
-        "st": "Solo",
-        "ct": "Geneva",
-        "o": "Art en Ile",
-        "d": [
-          "2013-08-30",
-          "2013-09-30"
-        ]
+        "i": "248381-10517-2014-02-22",
+        "c": "FR"
       },
+      {
+        "i": "248381-10517-2014-02-22",
+        "c": "FR"
+      },
+      {
+        "i": "248381-31121-2014-06-06",
+        "c": "CH",
+        "n": "Utopie Picturale 2",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Fonderie Kugler",
+        "d": [
+          "2014-06-06",
+          "2014-06-22"
+        ],
+        "a": "248381",
+        "an": "Benoit Billotte"
+      }
+    ],
+    "today": [
+      {
+        "i": "248381",
+        "c": "CH",
+        "g": "n",
+        "a": "26-40"
+      },
+      {
+        "i": "248381-31121-2014-06-06",
+        "c": "CH",
+        "n": "Utopie Picturale 2",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Fonderie Kugler",
+        "d": [
+          "2014-06-06",
+          "2014-06-22"
+        ],
+        "a": "248381",
+        "an": "Benoit Billotte"
+      }
+    ],
+    "2013": [
       {
         "i": "248381-28092-2013-08-30",
         "c": "CH",
@@ -100,6 +135,19 @@
         "st": "Solo",
         "ct": "Geneva",
         "o": "Milkshake Agency",
+        "d": [
+          "2013-08-30",
+          "2013-09-30"
+        ]
+      },
+      {
+        "i": "248381-11632-2013-08-30",
+        "c": "CH",
+        "n": "Benoît Billotte Mirabilia - Urbis Romae",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Geneva",
+        "o": "Art en Ile",
         "d": [
           "2013-08-30",
           "2013-09-30"

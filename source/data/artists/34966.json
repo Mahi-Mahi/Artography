@@ -1,7 +1,7 @@
 {
   "id": "34966",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:28:16",
+  "timestamp": "2014-05-31 06:33:47",
   "name": "Christa Sommerer & Laurent Mignonneau",
   "surname": "Sommerer & Laurent Mignonneau",
   "nationality": "AT, FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female, Male, Artist group",
   "media": "New Media Art",
-  "r00": "3976",
-  "r01": "3697",
+  "r00": "3998",
+  "r01": "3698",
   "r02": "3145",
-  "r03": "3076",
+  "r03": "3073",
   "r04": "2990",
-  "r05": "3703",
-  "r06": "4814",
-  "r07": "6378",
-  "r08": "6387",
+  "r05": "3709",
+  "r06": "4819",
+  "r07": "6382",
+  "r08": "6394",
   "awards": null,
   "website": null,
   "all-shows-first": "1994",
@@ -613,19 +613,6 @@
         ]
       },
       {
-        "i": "34966-19390-2012-05-14",
-        "c": "PL",
-        "n": "Wonderful Life",
-        "t": "Autre",
-        "st": "Solo",
-        "ct": "Warsaw",
-        "o": "Austrian Cultural Forum Warsaw",
-        "d": [
-          "2012-05-14",
-          "2012-06-24"
-        ]
-      },
-      {
         "i": "34966-2601-2012-05-14",
         "c": "PL",
         "n": "Wonderful Life",
@@ -633,6 +620,19 @@
         "st": "Solo",
         "ct": "Gdansk",
         "o": "LAZNIA - Centre for Contemporary Art",
+        "d": [
+          "2012-05-14",
+          "2012-06-24"
+        ]
+      },
+      {
+        "i": "34966-19390-2012-05-14",
+        "c": "PL",
+        "n": "Wonderful Life",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Warsaw",
+        "o": "Austrian Cultural Forum Warsaw",
         "d": [
           "2012-05-14",
           "2012-06-24"

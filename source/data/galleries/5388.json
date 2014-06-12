@@ -12,47 +12,47 @@
   "email": null,
   "www": "www.suzanne-tarasieve.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%207, rue Pastourelle %2C%20France",
-  "fairs-total": "39",
-  "fairs-abroad": "25",
-  "fairs-in-FR": "14",
+  "fairs-total": "43",
+  "fairs-abroad": "28",
+  "fairs-in-FR": "15",
   "fairs": {
     "2005": [
       {
-        "i": "5388-Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "i": "5388-Art-Brussels-2005---23rd-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2005 - 23rd Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "5388-Fiac 2005",
+        "i": "5388-Fiac-2005",
         "c": "FR"
       }
     ],
     "2006": [
       {
-        "i": "5388-Viennafair 2006",
+        "i": "5388-Viennafair-2006",
         "c": "AT",
         "n": "Viennafair 2006",
         "ct": "Vienna"
       },
       {
-        "i": "5388-Art Brussels 2006- 24th Contemporary Art Fair",
+        "i": "5388-Art-Brussels-2006--24th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2006- 24th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "5388-MACO Mexico 06",
+        "i": "5388-MACO-Mexico-06",
         "c": "MX",
         "n": "MACO Mexico 06",
         "ct": "Mexico City"
       },
       {
-        "i": "5388-Fiac 2006",
+        "i": "5388-Fiac-2006",
         "c": "FR"
       },
       {
-        "i": "5388-Artissima 13",
+        "i": "5388-Artissima-13",
         "c": "IT",
         "n": "Artissima 13",
         "ct": "Turin"
@@ -60,184 +60,208 @@
     ],
     "2007": [
       {
-        "i": "5388-Art Brussels 2007- 25th Contemporary Art Fair",
+        "i": "5388-Art-Brussels-2007--25th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2007- 25th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "5388-MACO Mexico 07",
+        "i": "5388-MACO-Mexico-07",
         "c": "MX",
         "n": "MACO Mexico 07",
         "ct": "Mexico City"
       },
       {
-        "i": "5388-Viennafair 2007",
+        "i": "5388-Viennafair-2007",
         "c": "AT",
         "n": "Viennafair 2007",
         "ct": "Vienna"
       },
       {
-        "i": "5388-SWAB 2007",
+        "i": "5388-SWAB-2007",
         "c": "ES",
         "n": "SWAB 2007",
         "ct": "Barcelona"
       },
       {
-        "i": "5388-Art Athina 2007",
+        "i": "5388-Art-Athina-2007",
         "c": "GR",
         "n": "Art Athina 2007",
         "ct": "Athens"
       },
       {
-        "i": "5388-Fiac 2007",
+        "i": "5388-Fiac-2007",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "5388-Salon du Dessin Contemporain 2008",
+        "i": "5388-Salon-du-Dessin-Contemporain-2008",
         "c": "FR"
       },
       {
-        "i": "5388-Art Brussels 2008- 26th Contemporary Art Fair",
+        "i": "5388-Art-Brussels-2008--26th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2008- 26th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "5388-FEMACO Mexico 08",
+        "i": "5388-FEMACO-Mexico-08",
         "c": "MX",
         "n": "FEMACO Mexico 08",
         "ct": "Mexico City"
       },
       {
-        "i": "5388-Viennafair 2008",
+        "i": "5388-Viennafair-2008",
         "c": "AT",
         "n": "Viennafair 2008",
         "ct": "Vienna"
       },
       {
-        "i": "5388-SWAB 2008",
+        "i": "5388-SWAB-2008",
         "c": "ES",
         "n": "SWAB 2008",
         "ct": "Barcelona"
       },
       {
-        "i": "5388-Fiac 2008",
+        "i": "5388-Fiac-2008",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "5388-Salon du Dessin Contemporain 2009",
+        "i": "5388-Salon-du-Dessin-Contemporain-2009",
         "c": "FR"
       },
       {
-        "i": "5388-Art Brussels 2009 - 27th Contemporary Art Fair",
+        "i": "5388-Art-Brussels-2009---27th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2009 - 27th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "5388-Viennafair 2009",
+        "i": "5388-Viennafair-2009",
         "c": "AT",
         "n": "Viennafair 2009",
         "ct": "Vienna"
       },
       {
-        "i": "5388-Fiac 2009",
+        "i": "5388-Fiac-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "5388-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "i": "5388-Art-Brussels-2010---28th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2010 - 28th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "5388-Viennafair 2010",
+        "i": "5388-Viennafair-2010",
         "c": "AT",
         "n": "Viennafair 2010",
         "ct": "Vienna"
       },
       {
-        "i": "5388-SWAB 2010",
+        "i": "5388-SWAB-2010",
         "c": "ES",
         "n": "SWAB 2010",
         "ct": "Barcelona"
       },
       {
-        "i": "5388-Fiac 2010",
+        "i": "5388-Fiac-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "5388-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "i": "5388-Drawing-Now-Paris---Le-Salon-Du-Dessin-Contemporain-2011",
         "c": "FR"
       },
       {
-        "i": "5388-Art Brussels 2011",
+        "i": "5388-Art-Brussels-2011",
         "c": "BE",
         "n": "Art Brussels 2011",
         "ct": "Brussels"
       },
       {
-        "i": "5388-SWAB 2011",
+        "i": "5388-SWAB-2011",
         "c": "ES",
         "n": "SWAB 2011",
         "ct": "Barcelona"
       },
       {
-        "i": "5388-SLICK 2011",
+        "i": "5388-SLICK-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "5388-Art Cologne 2012",
+        "i": "5388-Art-Cologne-2012",
         "c": "DE",
         "n": "Art Cologne 2012",
         "ct": "Cologne"
       },
       {
-        "i": "5388-The Solo Project 2012",
+        "i": "5388-The-Solo-Project-2012",
         "c": "CH",
         "n": "The Solo Project 2012",
         "ct": "Basel"
       },
       {
-        "i": "5388-SLICK 2012",
+        "i": "5388-SLICK-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "5388-Art Paris Art Fair 2013",
+        "i": "5388-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "5388-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "i": "5388-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2013",
         "c": "FR"
       },
       {
-        "i": "5388-Art Brussels 2013",
+        "i": "5388-Art-Brussels-2013",
         "c": "BE",
         "n": "Art Brussels 2013",
         "ct": "Brussels"
       },
       {
-        "i": "5388-Art Cologne 2013",
+        "i": "5388-Art-Cologne-2013",
         "c": "DE",
         "n": "Art Cologne 2013",
         "ct": "Cologne"
       },
       {
-        "i": "5388-Yia Art Fair 2013",
+        "i": "5388-Yia-Art-Fair-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "5388-India-Art-Fair-2014",
+        "c": "IN",
+        "n": "India Art Fair 2014",
+        "ct": "New Delhi"
+      },
+      {
+        "i": "5388-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
+        "c": "FR"
+      },
+      {
+        "i": "5388-Art-Cologne-2014",
+        "c": "DE",
+        "n": "Art Cologne 2014",
+        "ct": "Cologne"
+      },
+      {
+        "i": "5388-Art-Brussel-2014",
+        "c": "BE",
+        "n": "Art Brussel 2014",
+        "ct": "Brussels"
       }
     ]
   }

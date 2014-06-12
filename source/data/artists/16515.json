@@ -1,7 +1,7 @@
 {
   "id": "16515",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:30",
+  "timestamp": "2014-05-31 06:27:01",
   "name": "Eléonore de Montesquiou",
   "surname": "Montesquiou",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video",
-  "r00": "6115",
-  "r01": "5389",
-  "r02": "4575",
+  "r00": "6127",
+  "r01": "5376",
+  "r02": "4559",
   "r03": "3879",
   "r04": "3313",
   "r05": "4575",
-  "r06": "5747",
-  "r07": "5155",
+  "r06": "5746",
+  "r07": "5158",
   "r08": "4230",
   "awards": null,
   "website": null,
@@ -496,19 +496,6 @@
         "c": "FR"
       },
       {
-        "i": "16515-4014-2010-08-28",
-        "c": "DE",
-        "n": "TRANSIENT SPACES – The Tourist Syndrome",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Kunstraum Kreuzberg / Bethanien",
-        "d": [
-          "2010-08-28",
-          "2010-10-10"
-        ]
-      },
-      {
         "i": "16515-814-2010-08-28",
         "c": "DE",
         "n": "Transient Spaces - The Tourist Syndrome",
@@ -516,6 +503,19 @@
         "st": "Group",
         "ct": "Berlin",
         "o": "Neue Gesellschaft für Bildende Kunst (NGBK)",
+        "d": [
+          "2010-08-28",
+          "2010-10-10"
+        ]
+      },
+      {
+        "i": "16515-4014-2010-08-28",
+        "c": "DE",
+        "n": "TRANSIENT SPACES – The Tourist Syndrome",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Kunstraum Kreuzberg / Bethanien",
         "d": [
           "2010-08-28",
           "2010-10-10"

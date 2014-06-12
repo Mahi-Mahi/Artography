@@ -1,7 +1,7 @@
 {
   "id": "106203",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:53:03",
+  "timestamp": "2014-05-31 06:58:26",
   "name": "Cyprien Gaillard",
   "surname": "Gaillard",
   "nationality": "FR",
@@ -17,14 +17,14 @@
   "attributes": "Male",
   "media": "Works on Paper, Photography, Painting, Video",
   "r00": "158",
-  "r01": "181",
+  "r01": "182",
   "r02": "242",
   "r03": "268",
-  "r04": "392",
-  "r05": "742",
-  "r06": "1683",
-  "r07": "6231",
-  "r08": "29462",
+  "r04": "391",
+  "r05": "743",
+  "r06": "1684",
+  "r07": "6238",
+  "r08": "29490",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
@@ -649,19 +649,6 @@
         ]
       },
       {
-        "i": "106203-3487-2008-11-27",
-        "c": "BE",
-        "n": "Entrechambrage horizontale",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "Galerie Catherine Bastide",
-        "d": [
-          "2008-11-27",
-          "2009-01-17"
-        ]
-      },
-      {
         "i": "106203-5256-2008-11-27",
         "c": "BE",
         "n": "27 november - 21 january 2009",
@@ -672,6 +659,19 @@
         "d": [
           "2008-11-27",
           "2009-01-21"
+        ]
+      },
+      {
+        "i": "106203-3487-2008-11-27",
+        "c": "BE",
+        "n": "Entrechambrage horizontale",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Galerie Catherine Bastide",
+        "d": [
+          "2008-11-27",
+          "2009-01-17"
         ]
       },
       {
@@ -731,19 +731,6 @@
         "c": "FR"
       },
       {
-        "i": "106203-3487-2008-11-27",
-        "c": "BE",
-        "n": "Entrechambrage horizontale",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Brussels",
-        "o": "Galerie Catherine Bastide",
-        "d": [
-          "2008-11-27",
-          "2009-01-17"
-        ]
-      },
-      {
         "i": "106203-5256-2008-11-27",
         "c": "BE",
         "n": "27 november - 21 january 2009",
@@ -754,6 +741,19 @@
         "d": [
           "2008-11-27",
           "2009-01-21"
+        ]
+      },
+      {
+        "i": "106203-3487-2008-11-27",
+        "c": "BE",
+        "n": "Entrechambrage horizontale",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "Galerie Catherine Bastide",
+        "d": [
+          "2008-11-27",
+          "2009-01-17"
         ]
       },
       {
@@ -1036,19 +1036,6 @@
         ]
       },
       {
-        "i": "106203-15834-2009-10-03",
-        "c": "PL",
-        "n": "Warszawa w budowie - Warsaw under construction",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Warsaw",
-        "o": "Muzeum Sztuki Nowoczesnej w Warszawie / Museum of Modern Art",
-        "d": [
-          "2009-10-03",
-          "2009-11-22"
-        ]
-      },
-      {
         "i": "106203-6417-2009-10-03",
         "c": "DE",
         "n": "Pittoresk - Neue Perspektiven auf das Landschaftsbild",
@@ -1059,6 +1046,19 @@
         "d": [
           "2009-10-03",
           "2010-01-10"
+        ]
+      },
+      {
+        "i": "106203-15834-2009-10-03",
+        "c": "PL",
+        "n": "Warszawa w budowie - Warsaw under construction",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Warsaw",
+        "o": "Muzeum Sztuki Nowoczesnej w Warszawie / Museum of Modern Art",
+        "d": [
+          "2009-10-03",
+          "2009-11-22"
         ]
       },
       {
@@ -1291,19 +1291,6 @@
         ]
       },
       {
-        "i": "106203-21722-2010-03-04",
-        "c": "IT",
-        "n": "Architecture and its Discontents",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Milan",
-        "o": "Kaleidoscope",
-        "d": [
-          "2010-03-04",
-          "2010-03-13"
-        ]
-      },
-      {
         "i": "106203-22137-2010-03-04",
         "c": "DE",
         "n": "Ins Blickfeld gerückt",
@@ -1314,6 +1301,19 @@
         "d": [
           "2010-03-04",
           "2010-05-25"
+        ]
+      },
+      {
+        "i": "106203-21722-2010-03-04",
+        "c": "IT",
+        "n": "Architecture and its Discontents",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Milan",
+        "o": "Kaleidoscope",
+        "d": [
+          "2010-03-04",
+          "2010-03-13"
         ]
       },
       {
@@ -2201,19 +2201,6 @@
         "c": "FR"
       },
       {
-        "i": "106203-2196-2012-05-12",
-        "c": "BE",
-        "n": "Track",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Ghent",
-        "o": "SMAK Stedelijk Museum voor Actuele Kunst",
-        "d": [
-          "2012-05-12",
-          "2012-09-16"
-        ]
-      },
-      {
         "i": "106203-2199-2012-05-12",
         "c": "DK",
         "n": "Treffpunkt : Berlin",
@@ -2224,6 +2211,19 @@
         "d": [
           "2012-05-12",
           "2012-07-22"
+        ]
+      },
+      {
+        "i": "106203-2196-2012-05-12",
+        "c": "BE",
+        "n": "Track",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Ghent",
+        "o": "SMAK Stedelijk Museum voor Actuele Kunst",
+        "d": [
+          "2012-05-12",
+          "2012-09-16"
         ]
       },
       {
@@ -2711,6 +2711,86 @@
         "c": "FR"
       },
       {
+        "i": "106203-2417-2014-02-01",
+        "c": "PL",
+        "n": "Future Perfect. Contemporary Art From Germany",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Warsaw",
+        "o": " Centre for Contemporary Art Ujazdowski Castle",
+        "d": [
+          "2014-02-01",
+          "2014-04-21"
+        ]
+      },
+      {
+        "i": "106203-2259-2014-03-16",
+        "c": "DE",
+        "n": "High Performance. Die Julia Stoschek Collection Zu Gast Im Zkm. Zeitbasierte Medienkunst Seit 1996",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2014-03-16",
+          "2014-06-22"
+        ],
+        "a": "106203",
+        "an": "Cyprien Gaillard"
+      },
+      {
+        "i": "106203-15043-2014-03-20",
+        "c": "KR",
+        "n": "Utopian Days - Freedom",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Seoul",
+        "o": "Total Museum of Contemporary Art",
+        "d": [
+          "2014-03-20",
+          "2014-04-13"
+        ]
+      },
+      {
+        "i": "106203-9028-2014-04-04",
+        "c": "DE",
+        "n": "Affekte",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Erlangen",
+        "o": "Kunstpalais Erlangen",
+        "d": [
+          "2014-04-04",
+          "2014-06-08"
+        ]
+      },
+      {
+        "i": "106203-7512-2014-06-15",
+        "c": "DE",
+        "n": "Beyond Architecture",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Aachen",
+        "o": "Neuer Aachener Kunstverein",
+        "d": [
+          "2014-06-15",
+          "2014-08-03"
+        ]
+      },
+      {
+        "i": "106203-2247-2014-06-25",
+        "c": "GB",
+        "n": "Journal",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "London",
+        "o": "ICA - Institute of Contemporary Arts London",
+        "d": [
+          "2014-06-25",
+          "2014-09-07"
+        ]
+      },
+      {
         "i": "106203-1558-2013-11-09",
         "c": "US",
         "n": "Cyprien Gaillard - Today Diggers, Tomorrow Dickens",
@@ -2722,6 +2802,42 @@
           "2013-11-09",
           "2014-01-30"
         ]
+      },
+      {
+        "i": "106203-2443-2014-03-28",
+        "c": "AU",
+        "n": "Cyprien Gaillard - Pruitt Igoe Falls",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Melbourne, VIC",
+        "o": "CCP - Centre for Contemporary Photography",
+        "d": [
+          "2014-03-28",
+          "2014-05-25"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "106203",
+        "c": "DE",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "106203-2259-2014-03-16",
+        "c": "DE",
+        "n": "High Performance. Die Julia Stoschek Collection Zu Gast Im Zkm. Zeitbasierte Medienkunst Seit 1996",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Karlsruhe",
+        "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+        "d": [
+          "2014-03-16",
+          "2014-06-22"
+        ],
+        "a": "106203",
+        "an": "Cyprien Gaillard"
       }
     ]
   }

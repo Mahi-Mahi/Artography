@@ -1,7 +1,7 @@
 {
   "id": "33948",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:27:55",
+  "timestamp": "2014-05-31 06:33:26",
   "name": "Alain Declercq",
   "surname": "Declercq",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Video, Installation",
-  "r00": "4271",
-  "r01": "3988",
-  "r02": "4038",
-  "r03": "3873",
-  "r04": "3396",
-  "r05": "2996",
-  "r06": "2544",
-  "r07": "2290",
-  "r08": "2292",
+  "r00": "3953",
+  "r01": "3673",
+  "r02": "4043",
+  "r03": "3877",
+  "r04": "3397",
+  "r05": "3000",
+  "r06": "2545",
+  "r07": "2292",
+  "r08": "2293",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
   "all-shows-total": "72",
   "2005-shows-biennials": "12",
   "2005-shows-galleries": "12",
-  "2005-shows-museums": "12",
-  "2005-countries-total": "France (17), Belgium (4), Switzerland (3), USA (3), Australia (2), Germany (1), Ireland (Republic) (1), Luxembourg (1)",
-  "2005-shows-with": "Alain Declercq (28), Jeanne Susplugas (11), Tony Garifalakis (4), Bruno Peinado (4), Jota Castro (3), Claire Fontaine (3), P. Nicolas Ledoux (3), Gianni Motti (3), Joaquin Segura (3), Cindy Sherman (3), Ben Vautier (3), Erwin Wurm (3), Julieta Aranda (2), Fayçal Baghriche (2), Virginie Barré (2), Pierre Bismuth (2), BP (2), Alain Delorme (2), Dewar & Gicquel (2), Hans-Peter Feldmann (2), Patrice Gaillard & Claude (2), Goldi e Chiari (2), Shilpa Gupta (2), Kimsooja (2), Olga Kisseleva (2), Claude Lévêque (2), Philippe Mayaux (2), Annette Messager (2), Jonathan Monk (2), Laurent Montaron (2), Manuel Ocampo (2), Hans Op de Beeck (2), Raymond Pettibon (2), Éric Poitevin (2), Julien Prévieux (2), Tobias Putrih (2), Philippe Ramette (2), Ewoud van Rijn (2), Allen Ruppersberg (2), Stéphane Sautour (2), Nedko Solakov (2), Philippe Terrier-Hermann (2), Bert Theis (2), Tatiana Trouvé (2), Vhils (2), Brigitte Zieger (2), David Zink Yi (2), Gábor Ösz (2)",
+  "2005-shows-museums": "13",
+  "2005-countries-total": "France (18), Belgium (4), Switzerland (3), USA (3), Australia (2), Germany (1), Ireland (Republic) (1), Luxembourg (1)",
+  "2005-shows-with": "Alain Declercq (29), Jeanne Susplugas (11), Claire Fontaine (4), Tony Garifalakis (4), Bruno Peinado (4), Jota Castro (3), P. Nicolas Ledoux (3), Laurent Montaron (3), Gianni Motti (3), Joaquin Segura (3), Cindy Sherman (3), Ben Vautier (3), Erwin Wurm (3), Julieta Aranda (2), Fayçal Baghriche (2), Virginie Barré (2), Pierre Bismuth (2), BP (2), Alain Delorme (2), Dewar & Gicquel (2), Hans-Peter Feldmann (2), Patrice Gaillard & Claude (2), Goldi e Chiari (2), Shilpa Gupta (2), Kimsooja (2), Olga Kisseleva (2), Guillaume Leblon (2), Claude Lévêque (2), Philippe Mayaux (2), Annette Messager (2), Jonathan Monk (2), Manuel Ocampo (2), Hans Op de Beeck (2), Raymond Pettibon (2), Éric Poitevin (2), Julien Prévieux (2), Tobias Putrih (2), Philippe Ramette (2), Ewoud van Rijn (2), Allen Ruppersberg (2), Stéphane Sautour (2), Nedko Solakov (2), Philippe Terrier-Hermann (2), Bert Theis (2), Tatiana Trouvé (2), Xavier Veilhan (2), Vhils (2), Brigitte Zieger (2), David Zink Yi (2), Gábor Ösz (2)",
   "representing-galleries": "Elaine Levy Project (Rue Fourmois 9, 1050 Brussels, Belgium); Galerie Loevenbruck (6,rue Jacques Callot, 75006 Paris, France)",
   "collecting-museums": "The Space Collection (En Féronstrée 116, B-4000 Liège, Belgium); FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg)",
   "first_name": "Alain",
@@ -703,6 +703,38 @@
     "2014": [
       {
         "i": "33948-2718-2013-09-28",
+        "c": "FR"
+      },
+      {
+        "i": "33948-26775-2014-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "33948-26775-2014-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "33948-26257-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "33948-26257-2014-06-06",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "33948",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "33948-26775-2014-04-12",
+        "c": "FR"
+      },
+      {
+        "i": "33948-26257-2014-06-06",
         "c": "FR"
       }
     ]

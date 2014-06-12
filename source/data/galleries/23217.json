@@ -12,13 +12,19 @@
   "email": "gb@geraldinebanier.fr",
   "www": "geraldinebanier.fr",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2054, rue Jacob  %2C%20France",
-  "fairs-total": "1",
+  "fairs-total": "2",
   "fairs-abroad": "0",
-  "fairs-in-FR": "1",
+  "fairs-in-FR": "2",
   "fairs": {
     "2010": [
       {
-        "i": "23217-cutlog 2010",
+        "i": "23217-cutlog-2010",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "23217-Artparis-2014",
         "c": "FR"
       }
     ]

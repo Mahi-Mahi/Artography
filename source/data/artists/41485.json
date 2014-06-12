@@ -1,7 +1,7 @@
 {
   "id": "41485",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:30:38",
+  "timestamp": "2014-05-31 06:36:06",
   "name": "François Marie Banier",
   "surname": "Banier",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Painting",
-  "r00": "8402",
-  "r01": "9641",
-  "r02": "7491",
-  "r03": "6963",
-  "r04": "5850",
-  "r05": "4454",
-  "r06": "4157",
-  "r07": "4057",
-  "r08": "3651",
+  "r00": "6460",
+  "r01": "9652",
+  "r02": "7493",
+  "r03": "6968",
+  "r04": "5849",
+  "r05": "4456",
+  "r06": "4161",
+  "r07": "4060",
+  "r08": "3653",
   "awards": null,
   "website": null,
   "all-shows-first": "1991",
@@ -289,6 +289,52 @@
           "2013-11-15",
           "2014-01-24"
         ]
+      },
+      {
+        "i": "41485-21541-2014-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "41485-21541-2014-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "41485-6417-2014-06-01",
+        "c": "DE",
+        "n": "Daring to ask - Collisions with the Collection Marta",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Herford",
+        "o": "MARTa Herford",
+        "d": [
+          "2014-06-01",
+          "2014-08-10"
+        ],
+        "a": "41485",
+        "an": "François Marie Banier"
+      }
+    ],
+    "today": [
+      {
+        "i": "41485",
+        "c": "DE",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "41485-6417-2014-06-01",
+        "c": "DE",
+        "n": "Daring to ask - Collisions with the Collection Marta",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Herford",
+        "o": "MARTa Herford",
+        "d": [
+          "2014-06-01",
+          "2014-08-10"
+        ],
+        "a": "41485",
+        "an": "François Marie Banier"
       }
     ],
     "2011": [

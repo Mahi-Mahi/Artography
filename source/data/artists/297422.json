@@ -1,7 +1,7 @@
 {
   "id": "297422",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:58:17",
+  "timestamp": "2014-05-31 08:03:32",
   "name": "Jocelyne Santos",
   "surname": "Santos",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "64851",
-  "r01": "71803",
-  "r02": "68576",
-  "r03": "63765",
-  "r04": "80707",
+  "r00": "65135",
+  "r01": "71936",
+  "r02": "68674",
+  "r03": "63837",
+  "r04": "80811",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -98,6 +98,34 @@
         "d": [
           "2011-12-10",
           "2012-01-29"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "297422-6776-2014-03-16",
+        "c": "DE",
+        "n": "aspekt farbe",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Sulzburg",
+        "o": "galerie konkret martin woern",
+        "d": [
+          "2014-03-16",
+          "2014-04-13"
+        ]
+      },
+      {
+        "i": "297422-3490-2014-03-26",
+        "c": "CH",
+        "n": "Radierung in der konstruktiven Kunst",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Basel",
+        "o": "Atelier-Editions Fanal",
+        "d": [
+          "2014-03-26",
+          "2014-05-01"
         ]
       }
     ]

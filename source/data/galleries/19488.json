@@ -12,37 +12,43 @@
   "email": "silin@wanadoo.fr",
   "www": null,
   "map": "http://maps.google.com/maps?q=Paris%2C%2075116 %2C%20 %2C%20157 avenue de Malakoff  %2C%20France",
-  "fairs-total": "5",
+  "fairs-total": "6",
   "fairs-abroad": "1",
-  "fairs-in-FR": "4",
+  "fairs-in-FR": "5",
   "fairs": {
     "2009": [
       {
-        "i": "19488-Salon du Dessin Contemporain 2009",
+        "i": "19488-Salon-du-Dessin-Contemporain-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "19488-ArtParis 2010",
+        "i": "19488-ArtParis-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "19488-SLICK 2011",
+        "i": "19488-SLICK-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "19488-Slick Brussels 2012",
+        "i": "19488-Slick-Brussels-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "19488-Yia Art Fair 2013",
+        "i": "19488-Yia-Art-Fair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "19488-Artparis-2014",
         "c": "FR"
       }
     ]

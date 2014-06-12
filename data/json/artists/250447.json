@@ -1,7 +1,7 @@
 {
   "id": "250447",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:42:14",
+  "timestamp": "2014-05-31 07:47:31",
   "name": "Claire Tabouret",
   "surname": "Tabouret",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "16981",
-  "r01": "22374",
-  "r02": "57989",
-  "r03": "78586",
-  "r04": "79495",
+  "r00": "17058",
+  "r01": "22394",
+  "r02": "58032",
+  "r03": "78622",
+  "r04": "79579",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -28,7 +28,7 @@
   "awards": "Prix jeune créateur décerné par la ville de Pontault Combault,Lauréate du 1er Prix Antoine Marin.,Lauréate du Prix Yishu 8.,Lauréate du Prix SJ Berwin, remis à l’ ENSBA le 20 septembre, Paris.",
   "website": "www.clairetabouret.com",
   "all-shows-first": "2010",
-  "all-shows-total": "18",
+  "all-shows-total": "19",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
   "2005-shows-museums": "9",
@@ -183,6 +183,54 @@
       },
       {
         "i": "250447-21098-2013-11-30",
+        "c": "FR"
+      },
+      {
+        "i": "250447-1829-2014-02-01",
+        "c": "FR"
+      },
+      {
+        "i": "250447-1829-2014-02-01",
+        "c": "FR"
+      },
+      {
+        "i": "250447-19611-2014-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "250447-19611-2014-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "250447-26257-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "250447-26257-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "250447-27827-2014-01-18",
+        "c": "FR"
+      },
+      {
+        "i": "250447-27827-2014-01-18",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "250447",
+        "c": "FR",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "250447-19611-2014-04-18",
+        "c": "FR"
+      },
+      {
+        "i": "250447-26257-2014-06-06",
         "c": "FR"
       }
     ],

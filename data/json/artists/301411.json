@@ -1,7 +1,7 @@
 {
   "id": "301411",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:59:37",
+  "timestamp": "2014-05-31 08:04:53",
   "name": "Hoda Tawakol",
   "surname": "Tawakol",
   "nationality": "FR, EG",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Female",
   "media": "Sculpture, Drawings",
-  "r00": "16173",
-  "r01": "29466",
-  "r02": "27060",
-  "r03": "24190",
-  "r04": "76841",
-  "r05": "106045",
+  "r00": "16246",
+  "r01": "29514",
+  "r02": "27064",
+  "r03": "24196",
+  "r04": "76901",
+  "r05": "106182",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -192,6 +192,46 @@
           "2013-05-12",
           "2013-09-22"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "301411-2188-2014-03-29",
+        "c": "DE",
+        "n": "Nullpunkt aller Orte - Sammlung Dominic und Cordula Sohst-Brennenstuhl",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bremen",
+        "o": "Weserburg | Museum für moderne Kunst",
+        "d": [
+          "2014-03-29",
+          "2014-09-14"
+        ],
+        "a": "301411",
+        "an": "Hoda Tawakol"
+      }
+    ],
+    "today": [
+      {
+        "i": "301411",
+        "c": "DE",
+        "g": "f",
+        "a": "41-60"
+      },
+      {
+        "i": "301411-2188-2014-03-29",
+        "c": "DE",
+        "n": "Nullpunkt aller Orte - Sammlung Dominic und Cordula Sohst-Brennenstuhl",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bremen",
+        "o": "Weserburg | Museum für moderne Kunst",
+        "d": [
+          "2014-03-29",
+          "2014-09-14"
+        ],
+        "a": "301411",
+        "an": "Hoda Tawakol"
       }
     ]
   }

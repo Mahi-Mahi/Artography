@@ -402,6 +402,8 @@ define([], function() {
 									new_filledArc = [originX, originY, central_radius, 0 /* layerW */ , a, country.rotation === undefined ? rotation : country.rotation];
 								}
 
+								console.log("fair slice");
+
 								fair.slice = raphael.path().attr({
 									fill: '#000',
 									'stroke-width': 0,
@@ -411,11 +413,12 @@ define([], function() {
 								}, animation_delay)
 									.hover(function() {
 										var fair_id = this.node.classList[2].replace(/fair-/, '');
+										console.log("showFairPopup");
 										$scope.showFairPopup(fair_id);
 									}, function() {
 										jQuery('#popup').stop().fadeOut();
 									});
-
+								console.log("fair.slice.node");
 								fair.slice.node.setAttribute('class', 'country-' + country_code + ' fair fair-' + fair_id);
 
 							} else {
@@ -449,7 +452,7 @@ define([], function() {
 											'stroke-width': 0,
 											simpleArc: simpleArc,
 											opacity: 0
-										});
+										}).toBack();
 
 										// var message = country_code.toUpperCase();
 										// var res = prepareText(country.country.fr.toUpperCase(), 12, 1, true, true, '00FF00', 'normal');
@@ -649,6 +652,8 @@ define([], function() {
 			$scope.showFairPopup = function(fair_id, left) {
 				// console.log("showFairPopup(" + fair_id);
 				var the_fair = all_fairs[fair_id];
+				console.log(all_fairs);
+				console.log("showFairPopup(" + fair_id);
 				if (the_fair) {
 					jQuery('#popup').attr('class', 'expo-' + the_fair.type).html(
 						'<p class="name">' + the_fair.name + '</p>' +
@@ -676,7 +681,7 @@ define([], function() {
 			});
 
 			function adaptSidebarFormHeight() {
-				var sidebarLeftFormHeight = jQuery(window).height() - (jQuery('.entry-header').outerHeight() + jQuery('.left-sidebar > section').outerHeight());
+				var sidebarLeftFormHeight = jQuery(window).height() - (jQuery('.entry-header').outerHeight() + jQuery('.left-sidebar > section').outerHeight() + jQuery('.credits > .credits').outerHeight());
 				var sidebarRightFormHeight = jQuery(window).height() - (jQuery('.entry-description').outerHeight() + 100) - (jQuery('.about').outerHeight() + 10) - (jQuery('.news-block li').length ? jQuery('.news-block').outerHeight() + 10 : 0);
 				jQuery('.sidebar-form').css('height', sidebarLeftFormHeight);
 				jQuery('.sidebar-form-right').find('ul').css('height', sidebarRightFormHeight);

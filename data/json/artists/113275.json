@@ -1,7 +1,7 @@
 {
   "id": "113275",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:55:29",
+  "timestamp": "2014-05-31 07:00:52",
   "name": "Marie-Jeanne Hoffner",
   "surname": "Hoffner",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "33560",
-  "r01": "32942",
-  "r02": "36039",
-  "r03": "37652",
-  "r04": "43327",
-  "r05": "51743",
-  "r06": "48984",
-  "r07": "46249",
-  "r08": "38516",
+  "r00": "33477",
+  "r01": "32760",
+  "r02": "36074",
+  "r03": "37693",
+  "r04": "43345",
+  "r05": "51791",
+  "r06": "49028",
+  "r07": "46299",
+  "r08": "38531",
   "awards": null,
   "website": "www.mariejeannehoffner.org",
   "all-shows-first": "2001",
   "all-shows-total": "17",
-  "2005-shows-biennials": "8",
-  "2005-shows-galleries": "8",
+  "2005-shows-biennials": "9",
+  "2005-shows-galleries": "9",
   "2005-shows-museums": "5",
-  "2005-countries-total": "France (8), Australia (2), Germany (1), Sweden (1), United Kingdom (1)",
-  "2005-shows-with": "Marie-Jeanne Hoffner (11), Chloé Dugit-Gros (3), Laetitia Badaut (2), Nathalie Elémento (2), Stephen Garrett (2), Fleur Noguera (2)",
+  "2005-countries-total": "France (9), Australia (2), Germany (1), Sweden (1), United Kingdom (1)",
+  "2005-shows-with": "Marie-Jeanne Hoffner (12), Chloé Dugit-Gros (3), Laetitia Badaut (2), Nathalie Elémento (2), Stephen Garrett (2), Fleur Noguera (2)",
   "representing-galleries": "Galerie Dohyang Lee (73-75, rue Quincampoix, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Marie-Jeanne",
@@ -127,14 +127,6 @@
     ],
     "2011": [
       {
-        "i": "113275-21710-2011-01-15",
-        "c": "FR"
-      },
-      {
-        "i": "113275-21710-2011-01-15",
-        "c": "FR"
-      },
-      {
         "i": "113275-18953-2011-01-15",
         "c": "DE",
         "n": "Berlin - Paris / Galerie Dohyang Lee at PSM",
@@ -146,6 +138,14 @@
           "2011-01-15",
           "2011-01-29"
         ]
+      },
+      {
+        "i": "113275-21710-2011-01-15",
+        "c": "FR"
+      },
+      {
+        "i": "113275-21710-2011-01-15",
+        "c": "FR"
       },
       {
         "i": "113275-12129-2011-04-27",
@@ -184,6 +184,41 @@
       },
       {
         "i": "113275-7912-2013-05-02",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "113275-30429-2014-03-08",
+        "c": "AU",
+        "n": "Le Desért",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Hobart, TAS",
+        "o": "CAST - Contemporary Art Tasmania",
+        "d": [
+          "2014-03-08",
+          "2014-04-06"
+        ]
+      },
+      {
+        "i": "113275-26257-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "113275-26257-2014-06-06",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "113275",
+        "c": "FR",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "113275-26257-2014-06-06",
         "c": "FR"
       }
     ],

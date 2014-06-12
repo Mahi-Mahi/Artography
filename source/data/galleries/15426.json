@@ -12,19 +12,25 @@
   "email": "info@galerie-platini.com",
   "www": "www.galerie-platini.com",
   "map": "http://maps.google.com/maps?q=Veyrier du Lac%2C%2074290 %2C%20 %2C%201, bis rue de la Tournette %2C%20France",
-  "fairs-total": "2",
+  "fairs-total": "3",
   "fairs-abroad": "0",
-  "fairs-in-FR": "2",
+  "fairs-in-FR": "3",
   "fairs": {
     "2008": [
       {
-        "i": "15426-ARTéNÎM Grenoble 2008",
+        "i": "15426-ARTéNÎM-Grenoble-2008",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "15426-Lille Art Fair 2011",
+        "i": "15426-Lille-Art-Fair-2011",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "15426-Art-Up!-2014",
         "c": "FR"
       }
     ]

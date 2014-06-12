@@ -1,7 +1,7 @@
 {
   "id": "57122",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:36:09",
+  "timestamp": "2014-05-31 06:41:36",
   "name": "Miss Van",
   "surname": "Miss Van",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Female",
   "media": "Graffiti",
-  "r00": "8553",
-  "r01": "8063",
-  "r02": "6651",
-  "r03": "7172",
-  "r04": "8406",
-  "r05": "8433",
-  "r06": "10635",
-  "r07": "9827",
-  "r08": "11884",
+  "r00": "8542",
+  "r01": "8018",
+  "r02": "6617",
+  "r03": "7149",
+  "r04": "8391",
+  "r05": "8402",
+  "r06": "10607",
+  "r07": "9793",
+  "r08": "11843",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
-  "all-shows-total": "47",
+  "all-shows-total": "48",
   "2005-shows-biennials": "30",
   "2005-shows-galleries": "30",
   "2005-shows-museums": "4",
@@ -687,6 +687,46 @@
           "2012-11-17",
           "2013-01-20"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "57122-4492-2014-05-15",
+        "c": "US",
+        "n": "Art Truancy: Celebrating 20 Years of Juxtapoz Magazine",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Jonathan LeVine Gallery",
+        "d": [
+          "2014-05-15",
+          "2014-06-14"
+        ],
+        "a": "57122",
+        "an": "Miss Van"
+      }
+    ],
+    "today": [
+      {
+        "i": "57122",
+        "c": "US",
+        "g": "f",
+        "a": "41-60"
+      },
+      {
+        "i": "57122-4492-2014-05-15",
+        "c": "US",
+        "n": "Art Truancy: Celebrating 20 Years of Juxtapoz Magazine",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Jonathan LeVine Gallery",
+        "d": [
+          "2014-05-15",
+          "2014-06-14"
+        ],
+        "a": "57122",
+        "an": "Miss Van"
       }
     ]
   }

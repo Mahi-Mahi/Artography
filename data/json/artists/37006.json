@@ -1,7 +1,7 @@
 {
   "id": "37006",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:29:00",
+  "timestamp": "2014-05-31 06:34:31",
   "name": "Cédric Tanguy",
   "surname": "Tanguy",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "24956",
-  "r01": "23483",
-  "r02": "23504",
-  "r03": "21141",
-  "r04": "18033",
-  "r05": "16539",
-  "r06": "14865",
-  "r07": "12128",
-  "r08": "23438",
+  "r00": "25069",
+  "r01": "23542",
+  "r02": "23555",
+  "r03": "21181",
+  "r04": "18073",
+  "r05": "16568",
+  "r06": "14899",
+  "r07": "12153",
+  "r08": "23566",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
@@ -285,6 +285,21 @@
       {
         "i": "37006-2022-2013-03-09",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "37006-1715-2014-04-04",
+        "c": "BE",
+        "n": "Full House - 15 Years of Inventory and Exhibitions at Aeroplastics Contemporary",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2014-04-04",
+          "2014-05-17"
+        ]
       }
     ]
   }

@@ -12,13 +12,19 @@
   "email": "gerald.bueno@wanadoo.fr",
   "www": "www.bueno-art.com",
   "map": "http://maps.google.com/maps?q=Nîmes%2C%2030000 %2C%20 %2C%2010 rue de l\\\\\\'Avenir %2C%20France",
-  "fairs-total": "1",
+  "fairs-total": "2",
   "fairs-abroad": "0",
-  "fairs-in-FR": "1",
+  "fairs-in-FR": "2",
   "fairs": {
     "2013": [
       {
-        "i": "28236-Lille Art Fair 2013",
+        "i": "28236-Lille-Art-Fair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "28236-Art-Up!-2014",
         "c": "FR"
       }
     ]

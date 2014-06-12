@@ -1,7 +1,7 @@
 {
   "id": "1304",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:14:59",
+  "timestamp": "2014-05-31 06:20:31",
   "name": "Claude Viallat",
   "surname": "Viallat",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting",
-  "r00": "1882",
-  "r01": "2057",
-  "r02": "1981",
-  "r03": "1806",
-  "r04": "1630",
-  "r05": "1371",
-  "r06": "1441",
-  "r07": "1335",
+  "r00": "1898",
+  "r01": "2059",
+  "r02": "1982",
+  "r03": "1805",
+  "r04": "1631",
+  "r05": "1370",
+  "r06": "1442",
+  "r07": "1334",
   "r08": "995",
   "awards": null,
   "website": null,
@@ -418,19 +418,6 @@
         ]
       },
       {
-        "i": "1304-17611-2008-07-10",
-        "c": "DE",
-        "n": "Printed In France",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Berlin",
-        "o": "Galerie Jordan Seydoux",
-        "d": [
-          "2008-07-10",
-          "2008-08-30"
-        ]
-      },
-      {
         "i": "1304-1023-2008-07-10",
         "c": "CH",
         "n": "Parfum d'été",
@@ -441,6 +428,19 @@
         "d": [
           "2008-07-10",
           "2008-09-10"
+        ]
+      },
+      {
+        "i": "1304-17611-2008-07-10",
+        "c": "DE",
+        "n": "Printed In France",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Galerie Jordan Seydoux",
+        "d": [
+          "2008-07-10",
+          "2008-08-30"
         ]
       },
       {
@@ -1132,6 +1132,48 @@
     ],
     "2014": [
       {
+        "i": "1304-16445-2014-01-04",
+        "c": "US",
+        "n": "Stay in Love",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Lisa Cooley Fine Art",
+        "d": [
+          "2014-01-04",
+          "2014-02-02"
+        ]
+      },
+      {
+        "i": "1304-5279-2014-01-18",
+        "c": "US",
+        "n": "Jennifer Boysen, Daniel Dezeuze, Alfred Jensen, Noam Rappaport, Claude Viallat",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Los Angeles, CA",
+        "o": "Cherry and Martin Gallery",
+        "d": [
+          "2014-01-18",
+          "2014-03-01"
+        ]
+      },
+      {
+        "i": "1304-16207-2014-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "1304-16207-2014-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "1304-26673-2014-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "1304-26673-2014-05-18",
+        "c": "FR"
+      },
+      {
         "i": "1304-19342-2013-09-07",
         "c": "DE",
         "n": "Claude Viallat - Der Stoff Der Malerei",
@@ -1143,6 +1185,75 @@
           "2013-09-07",
           "2014-01-19"
         ]
+      },
+      {
+        "i": "1304-2568-2014-01-26",
+        "c": "DE",
+        "n": "Claude Viallat - Der Stoff der Malerei",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Koblenz",
+        "o": "Ludwig Museum im Deutschherrenhaus",
+        "d": [
+          "2014-01-26",
+          "2014-03-16"
+        ]
+      },
+      {
+        "i": "1304-27256-2014-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "1304-27256-2014-03-18",
+        "c": "FR"
+      },
+      {
+        "i": "1304-533-2014-04-18",
+        "c": "DE",
+        "n": "Claude Viallat - Der Stoff der Malerei",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Rostock",
+        "o": "Kunsthalle Rostock",
+        "d": [
+          "2014-04-18",
+          "2014-06-15"
+        ],
+        "a": "1304",
+        "an": "Claude Viallat"
+      }
+    ],
+    "today": [
+      {
+        "i": "1304",
+        "c": "FR",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "1304-26673-2014-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "1304",
+        "c": "DE",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "1304-533-2014-04-18",
+        "c": "DE",
+        "n": "Claude Viallat - Der Stoff der Malerei",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Rostock",
+        "o": "Kunsthalle Rostock",
+        "d": [
+          "2014-04-18",
+          "2014-06-15"
+        ],
+        "a": "1304",
+        "an": "Claude Viallat"
       }
     ]
   }

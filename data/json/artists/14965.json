@@ -1,7 +1,7 @@
 {
   "id": "14965",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:52",
+  "timestamp": "2014-05-31 06:26:22",
   "name": "Kader Attia",
   "surname": "Attia",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation",
-  "r00": "281",
+  "r00": "285",
   "r01": "335",
   "r02": "367",
   "r03": "524",
   "r04": "621",
   "r05": "866",
-  "r06": "1267",
-  "r07": "1509",
-  "r08": "2200",
+  "r06": "1268",
+  "r07": "1508",
+  "r08": "2199",
   "awards": "Winner of the Abraaj Capital Prize, Dubai / UAE,Cairo Biennale, Prize of the Biennale, Cairo / Egypt,Nominee for the Marcel Duchamp Prize, Paris / France,The Leica Special Prize / \" Une Algérie d 'Enfance”, Paris / France",
   "website": null,
   "all-shows-first": "2001",
@@ -1117,14 +1117,6 @@
         "c": "FR"
       },
       {
-        "i": "14965-23511-2010-09-11",
-        "c": "FR"
-      },
-      {
-        "i": "14965-23511-2010-09-11",
-        "c": "FR"
-      },
-      {
         "i": "14965-3456-2010-09-11",
         "c": "KR",
         "n": "Busan Biennale 2010 - Living in Evolution",
@@ -1135,6 +1127,14 @@
           "2010-09-11",
           "2010-11-20"
         ]
+      },
+      {
+        "i": "14965-23511-2010-09-11",
+        "c": "FR"
+      },
+      {
+        "i": "14965-23511-2010-09-11",
+        "c": "FR"
       },
       {
         "i": "14965-1598-2010-09-17",
@@ -1484,11 +1484,11 @@
         "c": "FR"
       },
       {
-        "i": "14965-26372-2011-11-16",
+        "i": "14965-30968-2011-11-16",
         "c": "FR"
       },
       {
-        "i": "14965-30968-2011-11-16",
+        "i": "14965-26372-2011-11-16",
         "c": "FR"
       },
       {
@@ -1580,11 +1580,11 @@
         ]
       },
       {
-        "i": "14965-30968-2011-11-16",
+        "i": "14965-26372-2011-11-16",
         "c": "FR"
       },
       {
-        "i": "14965-26372-2011-11-16",
+        "i": "14965-30968-2011-11-16",
         "c": "FR"
       },
       {
@@ -1768,6 +1768,10 @@
         ]
       },
       {
+        "i": "14965-2219-2012-10-17",
+        "c": "FR"
+      },
+      {
         "i": "14965-8658-2012-10-17",
         "c": "US",
         "n": "The Margulies Collection - Group Show",
@@ -1779,10 +1783,6 @@
           "2012-10-17",
           "2013-04-27"
         ]
-      },
-      {
-        "i": "14965-2219-2012-10-17",
-        "c": "FR"
       },
       {
         "i": "14965-2071-2012-10-19",
@@ -1855,6 +1855,10 @@
         ]
       },
       {
+        "i": "14965-2219-2012-10-17",
+        "c": "FR"
+      },
+      {
         "i": "14965-8658-2012-10-17",
         "c": "US",
         "n": "The Margulies Collection - Group Show",
@@ -1866,10 +1870,6 @@
           "2012-10-17",
           "2013-04-27"
         ]
-      },
-      {
-        "i": "14965-2219-2012-10-17",
-        "c": "FR"
       },
       {
         "i": "14965-2071-2012-10-19",
@@ -1940,14 +1940,6 @@
         ]
       },
       {
-        "i": "14965-2358-2013-05-25",
-        "c": "FR"
-      },
-      {
-        "i": "14965-2358-2013-05-25",
-        "c": "FR"
-      },
-      {
         "i": "14965-2427-2013-05-25",
         "c": "NL",
         "n": "The World Turned Inside Out",
@@ -1959,6 +1951,14 @@
           "2013-05-25",
           "2013-08-18"
         ]
+      },
+      {
+        "i": "14965-2358-2013-05-25",
+        "c": "FR"
+      },
+      {
+        "i": "14965-2358-2013-05-25",
+        "c": "FR"
       },
       {
         "i": "14965-18811-2013-06-05",
@@ -2097,6 +2097,238 @@
           "2013-10-11",
           "2014-01-19"
         ]
+      },
+      {
+        "i": "14965-22481-2014-02-26",
+        "c": "MA",
+        "n": "Marrakech Biennale 5 - Where are we now?",
+        "st": "Group",
+        "ct": "Marrakech",
+        "o": "Marrakech Biennale",
+        "d": [
+          "2014-02-26",
+          "2014-03-31"
+        ]
+      },
+      {
+        "i": "14965-10870-2014-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "14965-10870-2014-02-26",
+        "c": "FR"
+      },
+      {
+        "i": "14965-2296-2014-03-21",
+        "c": "DE",
+        "n": "Die Göttliche Komödie. Himmel, Hölle, Fegefeuer aus Sicht afrikanischer Gegenwartskünstler",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Frankfurt/Main",
+        "o": "Museum für Moderne Kunst (MMK)",
+        "d": [
+          "2014-03-21",
+          "2014-07-27"
+        ],
+        "a": "14965",
+        "an": "Kader Attia"
+      },
+      {
+        "i": "14965-26821-2014-05-07",
+        "c": "SN",
+        "n": "Precarious Imaging",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Dakar",
+        "o": "Raw Material Company",
+        "d": [
+          "2014-05-07",
+          "2014-06-28"
+        ],
+        "a": "14965",
+        "an": "Kader Attia"
+      },
+      {
+        "i": "14965-2621-2014-05-09",
+        "c": "RS",
+        "n": "Invisible Violence",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Belgrade",
+        "o": "Museum of Contemporary Art Belgrade",
+        "d": [
+          "2014-05-09",
+          "2014-06-30"
+        ],
+        "a": "14965",
+        "an": "Kader Attia"
+      },
+      {
+        "i": "14965-3457-2014-05-09",
+        "c": "SN",
+        "n": "Dak'Art 2014 - 11ème Biennale de l&#8217;Art Africain Contemporain",
+        "st": "Group",
+        "ct": "Dakar",
+        "o": "Dak'Art Biennale de l’art africain contemporain",
+        "d": [
+          "2014-05-09",
+          "2014-06-08"
+        ]
+      },
+      {
+        "i": "14965-3737-2014-05-17",
+        "c": "LU",
+        "n": "Hlysnan: The Notion And Politics Of Listening",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2014-05-17",
+          "2014-09-07"
+        ],
+        "a": "14965",
+        "an": "Kader Attia"
+      },
+      {
+        "i": "14965-8281-2014-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "14965-8281-2014-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "14965-19516-2014-05-22",
+        "c": "LB",
+        "n": "Kader Attia - Contre Nature",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Beirut",
+        "o": "Beirut Art Center",
+        "d": [
+          "2014-05-22",
+          "2014-08-22"
+        ],
+        "a": "14965",
+        "an": "Kader Attia"
+      }
+    ],
+    "today": [
+      {
+        "i": "14965",
+        "c": "DE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "14965-2296-2014-03-21",
+        "c": "DE",
+        "n": "Die Göttliche Komödie. Himmel, Hölle, Fegefeuer aus Sicht afrikanischer Gegenwartskünstler",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Frankfurt/Main",
+        "o": "Museum für Moderne Kunst (MMK)",
+        "d": [
+          "2014-03-21",
+          "2014-07-27"
+        ],
+        "a": "14965",
+        "an": "Kader Attia"
+      },
+      {
+        "i": "14965",
+        "c": "SN",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "14965-26821-2014-05-07",
+        "c": "SN",
+        "n": "Precarious Imaging",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Dakar",
+        "o": "Raw Material Company",
+        "d": [
+          "2014-05-07",
+          "2014-06-28"
+        ],
+        "a": "14965",
+        "an": "Kader Attia"
+      },
+      {
+        "i": "14965",
+        "c": "RS",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "14965-2621-2014-05-09",
+        "c": "RS",
+        "n": "Invisible Violence",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Belgrade",
+        "o": "Museum of Contemporary Art Belgrade",
+        "d": [
+          "2014-05-09",
+          "2014-06-30"
+        ],
+        "a": "14965",
+        "an": "Kader Attia"
+      },
+      {
+        "i": "14965",
+        "c": "LU",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "14965-3737-2014-05-17",
+        "c": "LU",
+        "n": "Hlysnan: The Notion And Politics Of Listening",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Luxembourg",
+        "o": "Casino Luxembourg - Forum d'art contemporain",
+        "d": [
+          "2014-05-17",
+          "2014-09-07"
+        ],
+        "a": "14965",
+        "an": "Kader Attia"
+      },
+      {
+        "i": "14965",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "14965-8281-2014-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "14965",
+        "c": "LB",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "14965-19516-2014-05-22",
+        "c": "LB",
+        "n": "Kader Attia - Contre Nature",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Beirut",
+        "o": "Beirut Art Center",
+        "d": [
+          "2014-05-22",
+          "2014-08-22"
+        ],
+        "a": "14965",
+        "an": "Kader Attia"
       }
     ]
   }

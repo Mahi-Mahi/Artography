@@ -1,7 +1,7 @@
 {
   "id": "120587",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:57:58",
+  "timestamp": "2014-05-31 07:03:23",
   "name": "Yazid Oulab",
   "surname": "Oulab",
   "nationality": "FR, DZ",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "4551",
-  "r01": "4706",
-  "r02": "5789",
-  "r03": "5718",
-  "r04": "6489",
-  "r05": "6012",
-  "r06": "7018",
-  "r07": "19611",
-  "r08": "37034",
+  "r00": "4580",
+  "r01": "4703",
+  "r02": "5778",
+  "r03": "5712",
+  "r04": "6475",
+  "r05": "5989",
+  "r06": "6978",
+  "r07": "19366",
+  "r08": "36665",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
@@ -38,7 +38,7 @@
   "collecting-museums": "MUDAM - Musée d’Art Moderne Grand-Duc Jean (3, Park Dräi Eechelen, 1499 Luxembourg, Luxembourg)",
   "first_name": "Yazid",
   "last_name": "Oulab",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1958-01-01",
   "age": 56,
   "age_range": "41-60",
@@ -435,6 +435,34 @@
       },
       {
         "i": "120587-29615-2013-11-28",
+        "c": "FR"
+      },
+      {
+        "i": "120587-27827-2014-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "120587-27827-2014-04-05",
+        "c": "FR"
+      },
+      {
+        "i": "120587-26673-2014-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "120587-26673-2014-05-18",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "120587",
+        "c": "FR",
+        "g": "n",
+        "a": "41-60"
+      },
+      {
+        "i": "120587-26673-2014-05-18",
         "c": "FR"
       }
     ]

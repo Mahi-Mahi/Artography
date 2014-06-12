@@ -1,7 +1,7 @@
 {
   "id": "53210",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:34:47",
+  "timestamp": "2014-05-31 06:40:14",
   "name": "Vincent Olinet",
   "surname": "Olinet",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "4955",
-  "r01": "5704",
-  "r02": "5773",
-  "r03": "5192",
-  "r04": "4967",
-  "r05": "11513",
-  "r06": "10345",
-  "r07": "9452",
-  "r08": "9652",
+  "r00": "4995",
+  "r01": "5711",
+  "r02": "5769",
+  "r03": "5189",
+  "r04": "4959",
+  "r05": "11512",
+  "r06": "10340",
+  "r07": "9448",
+  "r08": "9651",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
@@ -403,6 +403,19 @@
         "d": [
           "2013-07-20",
           "2014-02-02"
+        ]
+      },
+      {
+        "i": "53210-979-2014-02-28",
+        "c": "AT",
+        "n": "Slapstick!",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Linz",
+        "o": "Lentos Kunstmuseum Linz",
+        "d": [
+          "2014-02-28",
+          "2014-05-25"
         ]
       }
     ],

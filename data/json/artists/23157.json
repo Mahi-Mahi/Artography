@@ -1,7 +1,7 @@
 {
   "id": "23157",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:23:58",
+  "timestamp": "2014-05-31 06:29:30",
   "name": "Xavier le Roy",
   "surname": "Roy",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Choreography",
-  "r00": "3356",
-  "r01": "4072",
-  "r02": "5256",
-  "r03": "5288",
-  "r04": "6187",
+  "r00": "3374",
+  "r01": "4076",
+  "r02": "5255",
+  "r03": "5293",
+  "r04": "6193",
   "r05": "11151",
-  "r06": "10309",
-  "r07": "10898",
-  "r08": "14543",
+  "r06": "10315",
+  "r07": "10903",
+  "r08": "14549",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
@@ -262,6 +262,59 @@
           "2013-08-08",
           "2013-08-25"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "23157-2289-2014-02-15",
+        "c": "CH",
+        "n": "Sacré 101 &#8211;  An Exhibition Based on &#8249;The Rite of Spring",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Migros Museum für Gegenwartskunst",
+        "d": [
+          "2014-02-15",
+          "2014-05-11"
+        ]
+      },
+      {
+        "i": "23157-18752-2014-05-01",
+        "c": "RU",
+        "n": "do it Moscow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Moscow",
+        "o": "Garage Center for Contemporary Culture - GCCC",
+        "d": [
+          "2014-05-01",
+          "2014-07-06"
+        ],
+        "a": "23157",
+        "an": "Xavier le Roy"
+      }
+    ],
+    "today": [
+      {
+        "i": "23157",
+        "c": "RU",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "23157-18752-2014-05-01",
+        "c": "RU",
+        "n": "do it Moscow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Moscow",
+        "o": "Garage Center for Contemporary Culture - GCCC",
+        "d": [
+          "2014-05-01",
+          "2014-07-06"
+        ],
+        "a": "23157",
+        "an": "Xavier le Roy"
       }
     ]
   }

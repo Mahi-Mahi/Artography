@@ -1,7 +1,7 @@
 {
   "id": "70955",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:41:04",
+  "timestamp": "2014-05-31 06:46:30",
   "name": "Marc Chevalier",
   "surname": "Chevalier",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "19953",
-  "r01": "18222",
-  "r02": "15331",
-  "r03": "12454",
-  "r04": "12255",
-  "r05": "13952",
-  "r06": "12952",
-  "r07": "10204",
-  "r08": "14456",
+  "r00": "19836",
+  "r01": "18252",
+  "r02": "15340",
+  "r03": "12455",
+  "r04": "12267",
+  "r05": "13957",
+  "r06": "12953",
+  "r07": "10195",
+  "r08": "14449",
   "awards": null,
   "website": null,
   "all-shows-first": "1993",
   "all-shows-total": "21",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (5), Belgium (1)",
-  "2005-shows-with": "Marc Chevalier (6), Julien Bouillon (3), Thierry Lagalla (3), Cédric Teisseire (3), Marcel Broodthaers (2), Jean Dupuy (2), Robert Filliou (2), Jacqueline Gainon (2), Jean-Baptiste Ganne (2), Pierre Huyghe (2), Lemesle & Roubaud (2), Ludovic Lignon (2), Florent Mattei (2), Marie-Ève Mestre (2), Emilie Perotto (2), Emmanuel Régent (2), Allen Ruppersberg (2)",
+  "2005-countries-total": "France (6), Belgium (1)",
+  "2005-shows-with": "Marc Chevalier (7), Thierry Lagalla (4), Cédric Teisseire (4), Julien Bouillon (3), Jean Dupuy (3), Jean-Baptiste Ganne (3), Florent Mattei (3), Emmanuel Régent (3), Marcel Broodthaers (2), Anna Byskov (2), Noël Dolla (2), Robert Filliou (2), Jacqueline Gainon (2), Han Hoogerbrugge (2), Pierre Huyghe (2), Arnaud Labelle-Rojoux (2), Lemesle & Roubaud (2), Olivier Leroi (2), Ludovic Lignon (2), Martinet & Texereau (2), Marie-Ève Mestre (2), Emilie Perotto (2), Pascal Pinaud (2), Allen Ruppersberg (2), Franck Saïssi (2), Lionel Scoccimaro (2), Stephane Steiner (2), Jean-Luc Verna (2)",
   "representing-galleries": "Galerie Norbert Pastor (6 rue Valperga, 06000 Nice, France)",
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France)",
   "first_name": "Marc",
@@ -190,6 +190,28 @@
     "2013": [
       {
         "i": "70955-16752-2012-12-07",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "70955-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "70955-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "70955",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "70955-16752-2014-04-19",
         "c": "FR"
       }
     ]

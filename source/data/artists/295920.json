@@ -1,7 +1,7 @@
 {
   "id": "295920",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:57:48",
+  "timestamp": "2014-05-31 08:03:02",
   "name": "Erwan Venn",
   "surname": "Venn",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "66261",
-  "r01": "67257",
-  "r02": "63984",
-  "r03": "88708",
-  "r04": "83270",
-  "r05": "89515",
-  "r06": "82255",
+  "r00": "65296",
+  "r01": "67280",
+  "r02": "63995",
+  "r03": "88694",
+  "r04": "83259",
+  "r05": "89653",
+  "r06": "82378",
   "r07": null,
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2008",
   "all-shows-total": "3",
-  "2005-shows-biennials": null,
-  "2005-shows-galleries": null,
+  "2005-shows-biennials": "1",
+  "2005-shows-galleries": "1",
   "2005-shows-museums": "3",
-  "2005-countries-total": "France (3)",
-  "2005-shows-with": "Rodney Graham (2), Erwan Venn (2)",
+  "2005-countries-total": "France (4)",
+  "2005-shows-with": "Erwan Venn (3), Rodney Graham (2)",
   "representing-galleries": null,
   "collecting-museums": null,
   "first_name": "Erwan",
@@ -62,6 +62,16 @@
       },
       {
         "i": "295920-8996-2012-01-20",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "295920-27182-2014-01-10",
+        "c": "FR"
+      },
+      {
+        "i": "295920-27182-2014-01-10",
         "c": "FR"
       }
     ],

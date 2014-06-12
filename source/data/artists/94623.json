@@ -1,7 +1,7 @@
 {
   "id": "94623",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:49:18",
+  "timestamp": "2014-05-31 06:54:41",
   "name": "Cédric Delsaux",
   "surname": "Delsaux",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "8445",
-  "r01": "8474",
-  "r02": "7520",
-  "r03": "37192",
-  "r04": "32646",
-  "r05": "36699",
-  "r06": "31684",
-  "r07": "59228",
+  "r00": "8493",
+  "r01": "8496",
+  "r02": "7535",
+  "r03": "37223",
+  "r04": "32661",
+  "r05": "36733",
+  "r06": "31701",
+  "r07": "59302",
   "r08": null,
   "awards": null,
   "website": null,
@@ -68,19 +68,6 @@
     ],
     "2008": [
       {
-        "i": "94623-16993-2008-02-02",
-        "c": "PL",
-        "n": "Kolekcja Transphotographiques",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Poznan",
-        "o": "Art Stations Foundation",
-        "d": [
-          "2008-02-02",
-          "2008-03-02"
-        ]
-      },
-      {
         "i": "94623-19393-2008-02-02",
         "c": "PL",
         "n": "Kolekcja Transphotographiques",
@@ -88,6 +75,19 @@
         "st": "Group",
         "ct": "Poznan",
         "o": "Stary Browar",
+        "d": [
+          "2008-02-02",
+          "2008-03-02"
+        ]
+      },
+      {
+        "i": "94623-16993-2008-02-02",
+        "c": "PL",
+        "n": "Kolekcja Transphotographiques",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Poznan",
+        "o": "Art Stations Foundation",
         "d": [
           "2008-02-02",
           "2008-03-02"

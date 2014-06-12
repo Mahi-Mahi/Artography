@@ -12,59 +12,59 @@
   "email": "artrigano@aol.com",
   "www": null,
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%204 bis, rue des Beaux-Arts %2C%20France",
-  "fairs-total": "29",
+  "fairs-total": "30",
   "fairs-abroad": "15",
-  "fairs-in-FR": "14",
+  "fairs-in-FR": "15",
   "fairs": {
     "2005": [
       {
-        "i": "1970-Arte Fiera 2005",
+        "i": "1970-Arte-Fiera-2005",
         "c": "IT",
         "n": "Arte Fiera 2005",
         "ct": "Bologna"
       },
       {
-        "i": "1970-Fiac 2005",
+        "i": "1970-Fiac-2005",
         "c": "FR"
       }
     ],
     "2006": [
       {
-        "i": "1970-ArteFiera 2006",
+        "i": "1970-ArteFiera-2006",
         "c": "IT",
         "n": "ArteFiera 2006",
         "ct": "Bologna"
       },
       {
-        "i": "1970-ArtParis 06",
+        "i": "1970-ArtParis-06",
         "c": "FR"
       },
       {
-        "i": "1970-Fiac 2006",
+        "i": "1970-Fiac-2006",
         "c": "FR"
       },
       {
-        "i": "1970-Paris Photo 2006",
+        "i": "1970-Paris-Photo-2006",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "1970-Arte Fiera 2007",
+        "i": "1970-Arte-Fiera-2007",
         "c": "IT",
         "n": "Arte Fiera 2007",
         "ct": "Bologna"
       },
       {
-        "i": "1970-ArtParis 07",
+        "i": "1970-ArtParis-07",
         "c": "FR"
       },
       {
-        "i": "1970-Fiac 2007",
+        "i": "1970-Fiac-2007",
         "c": "FR"
       },
       {
-        "i": "1970-ArtParis - AbuDhabi 2007",
+        "i": "1970-ArtParis---AbuDhabi-2007",
         "c": "AE",
         "n": "ArtParis - AbuDhabi 2007",
         "ct": "Abu Dhabi"
@@ -72,17 +72,17 @@
     ],
     "2008": [
       {
-        "i": "1970-Arte Fiera 2008",
+        "i": "1970-Arte-Fiera-2008",
         "c": "IT",
         "n": "Arte Fiera 2008",
         "ct": "Bologna"
       },
       {
-        "i": "1970-ArtParis 08",
+        "i": "1970-ArtParis-08",
         "c": "FR"
       },
       {
-        "i": "1970-ArtParis - AbuDhabi 2008",
+        "i": "1970-ArtParis---AbuDhabi-2008",
         "c": "AE",
         "n": "ArtParis - AbuDhabi 2008",
         "ct": "Abu Dhabi"
@@ -90,23 +90,23 @@
     ],
     "2009": [
       {
-        "i": "1970-Arte Fiera 2009",
+        "i": "1970-Arte-Fiera-2009",
         "c": "IT",
         "n": "Arte Fiera 2009",
         "ct": "Bologna"
       },
       {
-        "i": "1970-TEFAF Maastricht 2009",
+        "i": "1970-TEFAF-Maastricht-2009",
         "c": "NL",
         "n": "TEFAF Maastricht 2009",
         "ct": "Maastricht"
       },
       {
-        "i": "1970-ArtParis 09",
+        "i": "1970-ArtParis-09",
         "c": "FR"
       },
       {
-        "i": "1970-Art Abu Dhabi 2009",
+        "i": "1970-Art-Abu-Dhabi-2009",
         "c": "AE",
         "n": "Art Abu Dhabi 2009",
         "ct": "Abu Dhabi"
@@ -114,25 +114,25 @@
     ],
     "2010": [
       {
-        "i": "1970-Arte Fiera 2010",
+        "i": "1970-Arte-Fiera-2010",
         "c": "IT",
         "n": "Arte Fiera 2010",
         "ct": "Bologna"
       },
       {
-        "i": "1970-TEFAF Maastricht 2010",
+        "i": "1970-TEFAF-Maastricht-2010",
         "c": "NL",
         "n": "TEFAF Maastricht 2010",
         "ct": "Maastricht"
       },
       {
-        "i": "1970-Art Abu Dhabi 2010",
+        "i": "1970-Art-Abu-Dhabi-2010",
         "c": "AE",
         "n": "Art Abu Dhabi 2010",
         "ct": "Abu Dhabi"
       },
       {
-        "i": "1970-Art Miami 2010",
+        "i": "1970-Art-Miami-2010",
         "c": "US",
         "n": "Art Miami 2010",
         "ct": "Miami, FL"
@@ -140,47 +140,53 @@
     ],
     "2011": [
       {
-        "i": "1970-Arte Fiera 2011",
+        "i": "1970-Arte-Fiera-2011",
         "c": "IT",
         "n": "Arte Fiera 2011",
         "ct": "Bologna"
       },
       {
-        "i": "1970-TEFAF Maastricht 2011",
+        "i": "1970-TEFAF-Maastricht-2011",
         "c": "NL",
         "n": "TEFAF Maastricht 2011",
         "ct": "Helvoirt"
       },
       {
-        "i": "1970-Art Elysées 2011",
+        "i": "1970-Art-Elysées-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "1970-TEFAF Maastricht 2012",
+        "i": "1970-TEFAF-Maastricht-2012",
         "c": "NL",
         "n": "TEFAF Maastricht 2012",
         "ct": "Helvoirt"
       },
       {
-        "i": "1970-Art Paris Art Fair 2012",
+        "i": "1970-Art-Paris-Art-Fair-2012",
         "c": "FR"
       },
       {
-        "i": "1970-Art Elysées 2012",
+        "i": "1970-Art-Elysées-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "1970-TEFAF Maastricht 2013",
+        "i": "1970-TEFAF-Maastricht-2013",
         "c": "NL",
         "n": "TEFAF Maastricht 2013",
         "ct": "Maastricht"
       },
       {
-        "i": "1970-Art Paris Art Fair 2013",
+        "i": "1970-Art-Paris-Art-Fair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "1970-Artparis-2014",
         "c": "FR"
       }
     ]

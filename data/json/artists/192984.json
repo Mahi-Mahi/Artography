@@ -1,7 +1,7 @@
 {
   "id": "192984",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:22:35",
+  "timestamp": "2014-05-31 07:27:57",
   "name": "Valerie Sonnier",
   "surname": "Sonnier",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "30015",
-  "r01": "44803",
-  "r02": "44696",
-  "r03": "64454",
-  "r04": "58945",
-  "r05": "86093",
-  "r06": "76211",
-  "r07": "70686",
-  "r08": "61093",
+  "r00": "30148",
+  "r01": "44874",
+  "r02": "44728",
+  "r03": "64504",
+  "r04": "59001",
+  "r05": "86204",
+  "r06": "76340",
+  "r07": "70790",
+  "r08": "61119",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
@@ -134,6 +134,21 @@
         "d": [
           "2013-06-30",
           "2013-09-29"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "192984-27771-2014-03-12",
+        "c": "BE",
+        "n": "Distant Proximity",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "CENTRALE for contemporary art",
+        "d": [
+          "2014-03-12",
+          "2014-06-08"
         ]
       }
     ],

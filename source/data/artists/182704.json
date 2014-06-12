@@ -1,7 +1,7 @@
 {
   "id": "182704",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:19:05",
+  "timestamp": "2014-05-31 07:24:28",
   "name": "Pierre-Laurent Cassière",
   "surname": "Cassière",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "8923",
-  "r01": "8725",
-  "r02": "10267",
-  "r03": "11008",
-  "r04": "10594",
-  "r05": "26299",
-  "r06": "23431",
-  "r07": "28061",
-  "r08": "42759",
+  "r00": "8978",
+  "r01": "8742",
+  "r02": "10277",
+  "r03": "11007",
+  "r04": "10597",
+  "r05": "26320",
+  "r06": "23464",
+  "r07": "28077",
+  "r08": "42834",
   "awards": null,
   "website": "pierrelaurentcassiere.com",
   "all-shows-first": "2006",
@@ -60,19 +60,6 @@
     ],
     "2007": [
       {
-        "i": "182704-7131-2007-01-25",
-        "c": "BR",
-        "n": "Geração Transterritorial",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "São Paulo",
-        "o": "Paço das Artes",
-        "d": [
-          "2007-01-25",
-          "2007-02-25"
-        ]
-      },
-      {
         "i": "182704-10285-2007-01-25",
         "c": "NL",
         "n": "Borderline Behaviour- Drawn Towards Animation",
@@ -83,6 +70,19 @@
         "d": [
           "2007-01-25",
           "2007-03-18"
+        ]
+      },
+      {
+        "i": "182704-7131-2007-01-25",
+        "c": "BR",
+        "n": "Geração Transterritorial",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "São Paulo",
+        "o": "Paço das Artes",
+        "d": [
+          "2007-01-25",
+          "2007-02-25"
         ]
       },
       {

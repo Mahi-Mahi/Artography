@@ -1,7 +1,7 @@
 {
   "id": "222212",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:32:36",
+  "timestamp": "2014-05-31 07:37:55",
   "name": "Aurélien Mole",
   "surname": "Mole",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "10958",
-  "r01": "16476",
-  "r02": "18469",
-  "r03": "24631",
-  "r04": "23687",
-  "r05": "62954",
-  "r06": "59347",
+  "r00": "11036",
+  "r01": "16510",
+  "r02": "18494",
+  "r03": "24660",
+  "r04": "23708",
+  "r05": "63093",
+  "r06": "59487",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Aurélien",
   "last_name": "Mole",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1975-10-30",
   "age": 38,
   "age_range": "26-40",
@@ -211,6 +211,41 @@
       },
       {
         "i": "222212-21695-2013-09-13",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "222212-2921-2014-01-23",
+        "c": "US",
+        "n": "Codex",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "San Francisco, CA",
+        "o": "CCA Wattis Institute for Contemporary Arts",
+        "d": [
+          "2014-01-23",
+          "2014-03-29"
+        ]
+      },
+      {
+        "i": "222212-10244-2014-05-06",
+        "c": "FR"
+      },
+      {
+        "i": "222212-10244-2014-05-06",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "222212",
+        "c": "FR",
+        "g": "n",
+        "a": "26-40"
+      },
+      {
+        "i": "222212-10244-2014-05-06",
         "c": "FR"
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "161947",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:11:55",
+  "timestamp": "2014-05-31 07:17:19",
   "name": "Luna Paiva",
   "surname": "Paiva",
   "nationality": "FR",
@@ -16,11 +16,11 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "29989",
-  "r01": "31831",
-  "r02": "28813",
-  "r03": "37883",
-  "r04": "46660",
+  "r00": "30119",
+  "r01": "31877",
+  "r02": "28823",
+  "r03": "37908",
+  "r04": "46673",
   "r05": null,
   "r06": null,
   "r07": null,
@@ -83,6 +83,21 @@
         "d": [
           "2012-08-31",
           "2012-11-10"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "161947-26744-2014-03-20",
+        "c": "CH",
+        "n": "Fotografia Latinoamericana",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "Ivo Kamm",
+        "d": [
+          "2014-03-20",
+          "2014-05-02"
         ]
       }
     ],

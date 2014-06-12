@@ -497,7 +497,7 @@ define([], function() {
 											$scope.showExpoPopup(expo_id);
 										}, function() {});
 
-									expo.slice.node.setAttribute('class', 'country-' + country_code + ' expo expo-' + expo_id);
+									expo.slice.node.setAttribute('class', 'country-' + country_code + ' expo expo-' + expo_id + ' showtype-' + expo.showtype + ' type-' + expo.type);
 
 								} else {
 									expo.slice.animate({
@@ -760,7 +760,7 @@ define([], function() {
 			});
 
 			function adaptSidebarFormHeight() {
-				var sidebarLeftFormHeight = jQuery(window).height() - (jQuery('.entry-header').outerHeight() + jQuery('.left-sidebar > section').outerHeight());
+				var sidebarLeftFormHeight = jQuery(window).height() - (jQuery('.entry-header').outerHeight() + jQuery('.left-sidebar > section').outerHeight() + jQuery('.credits > .credits').outerHeight());
 				var sidebarRightFormHeight = jQuery(window).height() - (jQuery('.entry-description').outerHeight() + 100) - (jQuery('.about').outerHeight() + 10) - (jQuery('.news-block li').length ? jQuery('.news-block').outerHeight() + 10 : 0);
 				jQuery('.sidebar-form').css('height', sidebarLeftFormHeight);
 				jQuery('.sidebar-form-right').find('ul').css('height', sidebarRightFormHeight);

@@ -1,7 +1,7 @@
 {
   "id": "16473",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:28",
+  "timestamp": "2014-05-31 06:26:59",
   "name": "Jean-François Fourtou",
   "surname": "Fourtou",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "14853",
-  "r01": "13974",
-  "r02": "11217",
-  "r03": "8908",
-  "r04": "8882",
-  "r05": "7835",
-  "r06": "9803",
-  "r07": "8260",
-  "r08": "7311",
+  "r00": "14944",
+  "r01": "14013",
+  "r02": "11234",
+  "r03": "8932",
+  "r04": "8891",
+  "r05": "7839",
+  "r06": "9814",
+  "r07": "8283",
+  "r08": "7322",
   "awards": null,
   "website": null,
   "all-shows-first": "1997",
@@ -189,6 +189,21 @@
       {
         "i": "16473-2048-2010-11-26",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "16473-1715-2014-04-04",
+        "c": "BE",
+        "n": "Full House - 15 Years of Inventory and Exhibitions at Aeroplastics Contemporary",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2014-04-04",
+          "2014-05-17"
+        ]
       }
     ],
     "2011": [

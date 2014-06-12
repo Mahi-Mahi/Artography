@@ -1,7 +1,7 @@
 {
   "id": "2024",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:15:26",
+  "timestamp": "2014-05-31 06:20:58",
   "name": "Cédric Teisseire",
   "surname": "Teisseire",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "5960",
-  "r01": "5632",
-  "r02": "4815",
-  "r03": "4802",
+  "r00": "5975",
+  "r01": "5642",
+  "r02": "4817",
+  "r03": "4804",
   "r04": "6132",
-  "r05": "6411",
-  "r06": "6446",
-  "r07": "7103",
-  "r08": "8145",
+  "r05": "6413",
+  "r06": "6445",
+  "r07": "7101",
+  "r08": "8146",
   "awards": null,
   "website": null,
   "all-shows-first": "1993",
   "all-shows-total": "54",
-  "2005-shows-biennials": "15",
-  "2005-shows-galleries": "15",
+  "2005-shows-biennials": "16",
+  "2005-shows-galleries": "16",
   "2005-shows-museums": "6",
-  "2005-countries-total": "France (19), Belgium (2), Switzerland (2), Germany (1), Monaco (1), Netherlands (1)",
-  "2005-shows-with": "Cédric Teisseire (21), Georges Rousse (6), Alexandra Guillot (5), Lee Bae (5), Benoit Lemercier (5), Anna Malagrida (5), Francisco Da Mata (4), Pascal Dombis (4), Ludovic Lignon (4), Colombe Marcasiano (4), Guillaume Millet (4), Eric Rondepierre (4), Ingrid Maria Sinibaldi (4), Damien Sorrentino (4), Fabien Verschaere (4), Greet Billet (3), Julien Bouillon (3), Paul Chazal (3), Marc Chevalier (3), Noël Dolla (3), Du Zhenjun (3), Jean-Baptiste Ganne (3), Philippe Pasqua (3), Emilie Perotto (3), Françoise Petrovitch (3), Florian Pugnaire (3), Emmanuel Régent (3), Sebastian Wickeroth (3), Xiao Fan (3), Carrie Yamaoka (3), Marie Amar (2), Arman (2), Bae Bien-U (2), Massimiliano Baldassarri (2), Louis Cane (2), Denis Castellas (2), César (2), Dominique Figarella (2), Roland Flexner (2), Claude Gilli (2), Gottfried Honegger (2), Benjamin Hugard (2), Vivien Isnard (2), Yves Klein (2), Thierry Lagalla (2), Lemesle & Roubaud (2), Ingrid Luche (2), Florent Mattei (2), Valentin van der Meulen (2), Rose Nolan (2), C",
+  "2005-countries-total": "France (20), Belgium (2), Switzerland (2), Germany (1), Monaco (1), Netherlands (1)",
+  "2005-shows-with": "Cédric Teisseire (22), Georges Rousse (6), Alexandra Guillot (5), Lee Bae (5), Benoit Lemercier (5), Anna Malagrida (5), Marc Chevalier (4), Francisco Da Mata (4), Noël Dolla (4), Pascal Dombis (4), Jean-Baptiste Ganne (4), Ludovic Lignon (4), Colombe Marcasiano (4), Guillaume Millet (4), Emmanuel Régent (4), Eric Rondepierre (4), Ingrid Maria Sinibaldi (4), Damien Sorrentino (4), Fabien Verschaere (4), Greet Billet (3), Julien Bouillon (3), Paul Chazal (3), Du Zhenjun (3), Thierry Lagalla (3), Florent Mattei (3), Philippe Pasqua (3), Emilie Perotto (3), Françoise Petrovitch (3), Pascal Pinaud (3), Florian Pugnaire (3), Stephane Steiner (3), Sebastian Wickeroth (3), Xiao Fan (3), Carrie Yamaoka (3), Thierry Agnone (2), Marie Amar (2), Arman (2), Caroline Bach (2), Bae Bien-U (2), Massimiliano Baldassarri (2), Louis Cane (2), Denis Castellas (2), César (2), Jean Dupuy (2), Dominique Figarella (2), Roland Flexner (2), Claude Gilli (2), Isabelle Giovacchini (2), Gottfried Honegger (2), Han Hoogerbrugge (2),",
   "representing-galleries": "C.Art-Galerie - Prantl & Boch (Marktstr. 45, 6850 Dornbirn, Austria); Galerie AL/MA (35 rue de la Valfère, 34000 Montpellier, France); Galerie Norbert Pastor (6 rue Valperga, 06000 Nice, France); Galerie Ulrich Mueller (Breibergstr. 1, 50939 Cologne, Germany); The Box Associati (Via San Francesco da Paola 36, 10136 Turin, Italy); Galerie Evelyne Canus (St. Alban-Anlage 67, 4052 Basel, Switzerland)",
   "collecting-museums": "FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); MAMAC - Musee d´Art Moderne et d`Art Contemporain Nice (Promenade des Arts, 06300 Nice, France)",
   "first_name": "Cédric",
@@ -267,19 +267,6 @@
         "c": "FR"
       },
       {
-        "i": "2024-12127-2010-11-07",
-        "c": "NL",
-        "n": "30/30 Image Archive Project 2",
-        "t": "Autre",
-        "st": "Group",
-        "ct": "Amsterdam",
-        "o": "PS - Project Space",
-        "d": [
-          "2010-11-07",
-          "2010-11-21"
-        ]
-      },
-      {
         "i": "2024-12130-2010-11-07",
         "c": "BE",
         "n": "30/30 Image Archive Project 2",
@@ -287,6 +274,19 @@
         "st": "Group",
         "ct": "Brussels",
         "o": "CCNOA - Center for Contemporary Non-Objective Art",
+        "d": [
+          "2010-11-07",
+          "2010-11-21"
+        ]
+      },
+      {
+        "i": "2024-12127-2010-11-07",
+        "c": "NL",
+        "n": "30/30 Image Archive Project 2",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Amsterdam",
+        "o": "PS - Project Space",
         "d": [
           "2010-11-07",
           "2010-11-21"
@@ -423,6 +423,41 @@
       },
       {
         "i": "2024-5450-2013-04-12",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "2024-26140-2014-03-20",
+        "c": "CH",
+        "n": "30 / 30 - Iap Image Archive Project",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Zurich",
+        "o": "A | B | C ontemporary",
+        "d": [
+          "2014-03-20",
+          "2014-04-20"
+        ]
+      },
+      {
+        "i": "2024-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "2024-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "2024",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "2024-16752-2014-04-19",
         "c": "FR"
       }
     ]

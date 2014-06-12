@@ -1,7 +1,7 @@
 {
   "id": "58847",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:36:47",
+  "timestamp": "2014-05-31 06:42:14",
   "name": "Éric Pougeau",
   "surname": "Pougeau",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "11024",
-  "r01": "11022",
-  "r02": "10865",
-  "r03": "10761",
-  "r04": "28733",
-  "r05": "31505",
-  "r06": "41661",
-  "r07": "35859",
-  "r08": "65318",
+  "r00": "10994",
+  "r01": "11024",
+  "r02": "10860",
+  "r03": "10755",
+  "r04": "28724",
+  "r05": "31514",
+  "r06": "41685",
+  "r07": "35869",
+  "r08": "65364",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
   "all-shows-total": "28",
-  "2005-shows-biennials": "12",
-  "2005-shows-galleries": "12",
+  "2005-shows-biennials": "13",
+  "2005-shows-galleries": "13",
   "2005-shows-museums": "7",
-  "2005-countries-total": "France (15), Belgium (6), Germany (2)",
-  "2005-shows-with": "Éric Pougeau (22), Lionel Scoccimaro (6), Gilles Barbier (5), Julien Beneyton (4), Damien Deroubaix (4), Erik Dietman (4), Claire Fontaine (4), Élodie Lesourd (4), André Stas (4), Ida Tursic & Wilfried Mille (4), Olivier Blanckart (3), Nicolas Darrot (3), Laurent d’Ursel (3), Richard Fauguet (3), Myriam Hornard (3), Pierre Lecrenier (3), Jacques Lennep (3), Marcel Mariën (3), Theo Mercier (3), François Morellet (3), Mathieu Pernot (3), Françoise Petrovitch (3), Pol Pierart (3), Samuel Rousseau (3), Laurent Sfar (3), Ernest T. (3), Stéphane Thidet (3), Jean-Pierre Verheggen (3), Carlos Aires (2), Pierre Ardouvin (2), Gianfranco Baruchello (2), Glen Baxter (2), Julien Berthier (2), Marc Bijl (2), Pierre-Yves Bohm (2), Boogie (2), Céleste Boursier-Mougenot (2), Roland Breucker (2), Marcel Broodthaers (2), Mircea Cantor (2), Jan Carlier (2), Jacques Charlier (2), Anna Christina (2), François de Coninck (2), Philippe De Gobert (2), Luc Delahaye (2), Guillaume Dendeau (2), Philippe Dereux (2), Christian ",
+  "2005-countries-total": "France (16), Belgium (6), Germany (2)",
+  "2005-shows-with": "Éric Pougeau (23), Lionel Scoccimaro (7), Gilles Barbier (5), Julien Beneyton (5), Damien Deroubaix (4), Erik Dietman (4), Claire Fontaine (4), Élodie Lesourd (4), André Stas (4), Ida Tursic & Wilfried Mille (4), Olivier Blanckart (3), Nicolas Darrot (3), Laurent d’Ursel (3), Richard Fauguet (3), Myriam Hornard (3), Pierre Lecrenier (3), Jacques Lennep (3), Marcel Mariën (3), Theo Mercier (3), François Morellet (3), Mathieu Pernot (3), Françoise Petrovitch (3), Pol Pierart (3), Samuel Rousseau (3), Laurent Sfar (3), Ernest T. (3), Stéphane Thidet (3), Jean-Pierre Verheggen (3), Thierry Agnone (2), Carlos Aires (2), Pierre Ardouvin (2), Gianfranco Baruchello (2), Glen Baxter (2), Romain Bernini (2), Julien Berthier (2), Marc Bijl (2), Pierre-Yves Bohm (2), Boogie (2), Céleste Boursier-Mougenot (2), Roland Breucker (2), Marcel Broodthaers (2), Mircea Cantor (2), Jan Carlier (2), Jacques Charlier (2), Anna Christina (2), François de Coninck (2), Philippe De Gobert (2), Luc Delahaye (2), Guillaume Dend",
   "representing-galleries": "Galerie Olivier Robert (19, rue Mazarine, 75006 Paris, France)",
   "collecting-museums": null,
   "first_name": "Éric",
@@ -106,14 +106,6 @@
     ],
     "2009": [
       {
-        "i": "58847-16752-2009-03-13",
-        "c": "FR"
-      },
-      {
-        "i": "58847-16752-2009-03-13",
-        "c": "FR"
-      },
-      {
         "i": "58847-21901-2009-03-13",
         "c": "BE",
         "n": "Jeux de mots, jeux d'images",
@@ -125,6 +117,14 @@
           "2009-03-13",
           "2009-04-19"
         ]
+      },
+      {
+        "i": "58847-16752-2009-03-13",
+        "c": "FR"
+      },
+      {
+        "i": "58847-16752-2009-03-13",
+        "c": "FR"
       },
       {
         "i": "58847-13545-2009-07-09",
@@ -314,19 +314,19 @@
     ],
     "2013": [
       {
-        "i": "58847-29392-2013-04-06",
-        "c": "FR"
-      },
-      {
-        "i": "58847-29392-2013-04-06",
-        "c": "FR"
-      },
-      {
         "i": "58847-12220-2013-04-06",
         "c": "FR"
       },
       {
         "i": "58847-12220-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "58847-29392-2013-04-06",
+        "c": "FR"
+      },
+      {
+        "i": "58847-29392-2013-04-06",
         "c": "FR"
       },
       {
@@ -337,6 +337,39 @@
     "2014": [
       {
         "i": "58847-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "58847-28044-2014-01-17",
+        "c": "BE",
+        "n": "Épines D´Eden",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "duboisfriedland gallery",
+        "d": [
+          "2014-01-17",
+          "2014-03-01"
+        ]
+      },
+      {
+        "i": "58847-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "58847-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "58847",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "58847-16752-2014-04-19",
         "c": "FR"
       }
     ],

@@ -1,7 +1,7 @@
 {
   "id": "16296",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:24",
+  "timestamp": "2014-05-31 06:26:55",
   "name": "Philippe Meste",
   "surname": "Meste",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation, Sculpture",
-  "r00": "16460",
-  "r01": "15339",
-  "r02": "18273",
-  "r03": "13187",
-  "r04": "10588",
-  "r05": "7600",
-  "r06": "5550",
-  "r07": "4090",
-  "r08": "3707",
+  "r00": "16526",
+  "r01": "15354",
+  "r02": "18303",
+  "r03": "13202",
+  "r04": "10602",
+  "r05": "7612",
+  "r06": "5556",
+  "r07": "4098",
+  "r08": "3715",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
@@ -291,6 +291,19 @@
       {
         "i": "16296-8522-2013-11-16",
         "c": "FR"
+      },
+      {
+        "i": "16296-1715-2014-04-04",
+        "c": "BE",
+        "n": "Full House - 15 Years of Inventory and Exhibitions at Aeroplastics Contemporary",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2014-04-04",
+          "2014-05-17"
+        ]
       }
     ]
   }

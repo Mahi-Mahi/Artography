@@ -12,59 +12,65 @@
   "email": "info@galerie-gounod.fr",
   "www": "www.galerie-gounod.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2013, rue Chapon %2C%20France",
-  "fairs-total": "9",
+  "fairs-total": "10",
   "fairs-abroad": "1",
-  "fairs-in-FR": "8",
+  "fairs-in-FR": "9",
   "fairs": {
     "2006": [
       {
-        "i": "7348-Diva - Digital & Video Art Fair - Paris 2006",
+        "i": "7348-Diva---Digital-&-Video-Art-Fair---Paris-2006",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "7348-Docks Art Fair 2007",
+        "i": "7348-Docks-Art-Fair-2007",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "7348-Show Off Paris 2008",
+        "i": "7348-Show-Off-Paris-2008",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "7348-Docks Art Fair 2009",
+        "i": "7348-Docks-Art-Fair-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "7348-Salon du Dessin Contemporain 2010",
+        "i": "7348-Salon-du-Dessin-Contemporain-2010",
         "c": "FR"
       },
       {
-        "i": "7348-SLICK 2010",
+        "i": "7348-SLICK-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "7348-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "i": "7348-Drawing-Now-Paris---Le-Salon-Du-Dessin-Contemporain-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "7348-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "i": "7348-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "7348-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "i": "7348-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "7348-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
         "c": "FR"
       }
     ]

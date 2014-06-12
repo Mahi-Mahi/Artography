@@ -1,7 +1,7 @@
 {
   "id": "251017",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:42:26",
+  "timestamp": "2014-05-31 07:47:42",
   "name": "Samuel Labadie",
   "surname": "Labadie",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "17477",
-  "r01": "23707",
-  "r02": "106310",
-  "r03": "102702",
-  "r04": "97968",
-  "r05": "102083",
+  "r00": "17566",
+  "r01": "23748",
+  "r02": "106453",
+  "r03": "102836",
+  "r04": "98100",
+  "r05": "102223",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -99,6 +99,46 @@
           "2013-07-12",
           "2013-09-01"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "251017-12229-2014-05-28",
+        "c": "ES",
+        "n": "Samuel Labadie - Spectrum",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Barcelona",
+        "o": "Institut de Cultura de Barcelona, La Capella",
+        "d": [
+          "2014-05-28",
+          "2014-06-22"
+        ],
+        "a": "251017",
+        "an": "Samuel Labadie"
+      }
+    ],
+    "today": [
+      {
+        "i": "251017",
+        "c": "ES",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "251017-12229-2014-05-28",
+        "c": "ES",
+        "n": "Samuel Labadie - Spectrum",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Barcelona",
+        "o": "Institut de Cultura de Barcelona, La Capella",
+        "d": [
+          "2014-05-28",
+          "2014-06-22"
+        ],
+        "a": "251017",
+        "an": "Samuel Labadie"
       }
     ]
   }

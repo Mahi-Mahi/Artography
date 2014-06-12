@@ -1,7 +1,7 @@
 {
   "id": "16178",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:21:21",
+  "timestamp": "2014-05-31 06:26:52",
   "name": "Véronique Joumard",
   "surname": "Joumard",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": "Installation, Sculpture",
-  "r00": "7244",
-  "r01": "7000",
-  "r02": "6156",
-  "r03": "5385",
-  "r04": "4427",
-  "r05": "3816",
-  "r06": "3308",
-  "r07": "2866",
-  "r08": "2718",
+  "r00": "7286",
+  "r01": "7018",
+  "r02": "6164",
+  "r03": "5389",
+  "r04": "4425",
+  "r05": "3819",
+  "r06": "3310",
+  "r07": "2867",
+  "r08": "2719",
   "awards": null,
   "website": null,
   "all-shows-first": "1993",
-  "all-shows-total": "56",
+  "all-shows-total": "57",
   "2005-shows-biennials": "6",
   "2005-shows-galleries": "6",
-  "2005-shows-museums": "11",
-  "2005-countries-total": "France (17), Japan (1), Mexico (1), Switzerland (1)",
-  "2005-shows-with": "Véronique Joumard (19), Christophe Cuzin (3), Ivan Fayard (3), Fischli & Weiss (3), Didier Marcel (3), François Morellet (3), Hugues Reip (3), Alain Séchas (3), Hiroshi Sugimoto (3), Jean-Luc Vilmouth (3), Vito Acconci (2), Lewis Baltz (2), Vincent Barré (2), Berdaguer & Péjus (2), Dike Blair (2), Claude Closky (2), Peter Coffin (2), Delphine Coindet (2), Stéphane Dafflon (2), Olivier Debré (2), Philippe Decrauzat (2), Marcelline Delbecq (2), Anders Edström (2), Leandro Erlich (2), Laurent Grasso (2), Mona Hatoum (2), Vincent Lamouroux (2), Ange Leccia (2), Mathieu Mercier (2), Mrzyk & Moriceau (2), Steven Parrino (2), Éric Poitevin (2), Richard Prince (2), Roman Signer (2), John Tremblay (2), Raphaël Zarka (2)",
+  "2005-shows-museums": "12",
+  "2005-countries-total": "France (18), Japan (1), Mexico (1), Switzerland (1)",
+  "2005-shows-with": "Véronique Joumard (20), Christophe Cuzin (3), Ivan Fayard (3), Fischli & Weiss (3), Didier Marcel (3), François Morellet (3), Hugues Reip (3), Alain Séchas (3), Hiroshi Sugimoto (3), Jean-Luc Vilmouth (3), Vito Acconci (2), Lewis Baltz (2), Vincent Barré (2), Berdaguer & Péjus (2), Dike Blair (2), Claude Closky (2), Peter Coffin (2), Delphine Coindet (2), Stéphane Dafflon (2), Olivier Debré (2), Philippe Decrauzat (2), Marcelline Delbecq (2), Anders Edström (2), Leandro Erlich (2), Laurent Grasso (2), Mona Hatoum (2), Vincent Lamouroux (2), Ange Leccia (2), Mathieu Mercier (2), Mrzyk & Moriceau (2), Steven Parrino (2), Éric Poitevin (2), Richard Prince (2), Roman Signer (2), John Tremblay (2), Raphaël Zarka (2)",
   "representing-galleries": null,
   "collecting-museums": "FRAC Poitou-Charentes - Angoulême (63 Boulevard Besson Bey, 16000 Angoulême, France); FRAC - Franche-Comté (4, square Castan, 25031  Besançon, France); FRAC - Basse-Normandie (9 rue Vaubenard, 1400 Caen, France); FRAC - Pays de la Loire (La Fleuriaye, 44470 Carquefou, France); FRAC - Nord-Pas de Calais (503 Avenue des Bancs de Flandres, 59140 Dunkerque, France); FRAC - Languedoc-Roussilon (4 rue Rambaud, 340000 Montpellier, France); FRAC - Ile-de-France Le Plateau (Place Hanna Arendt, 75019 Paris, France)",
   "first_name": "Véronique",
@@ -356,6 +356,36 @@
       },
       {
         "i": "16178-17377-2013-06-26",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "16178-8522-2014-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "16178-8522-2014-05-17",
+        "c": "FR"
+      },
+      {
+        "i": "16178-10247-2014-06-21",
+        "c": "FR"
+      },
+      {
+        "i": "16178-10247-2014-06-21",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "16178",
+        "c": "FR",
+        "g": "f",
+        "a": "41-60"
+      },
+      {
+        "i": "16178-8522-2014-05-17",
         "c": "FR"
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "81491",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:44:47",
+  "timestamp": "2014-05-31 06:50:11",
   "name": "Katia Santibanez",
   "surname": "Santibanez",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting",
-  "r00": "12064",
-  "r01": "12907",
-  "r02": "12317",
-  "r03": "10802",
-  "r04": "12934",
-  "r05": "11710",
-  "r06": "11205",
-  "r07": "14194",
-  "r08": "18421",
+  "r00": "12107",
+  "r01": "12917",
+  "r02": "12311",
+  "r03": "10789",
+  "r04": "12926",
+  "r05": "11703",
+  "r06": "11197",
+  "r07": "14177",
+  "r08": "18415",
   "awards": null,
   "website": null,
   "all-shows-first": "2001",
-  "all-shows-total": "36",
+  "all-shows-total": "37",
   "2005-shows-biennials": "26",
   "2005-shows-galleries": "26",
   "2005-shows-museums": null,
@@ -449,19 +449,6 @@
         ]
       },
       {
-        "i": "81491-7471-2013-07-05",
-        "c": "DE",
-        "n": "Unhinged",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "Leipzig",
-        "o": "Pierogi Leipzig",
-        "d": [
-          "2013-07-05",
-          "2013-07-28"
-        ]
-      },
-      {
         "i": "81491-1794-2013-07-05",
         "c": "US",
         "n": "Unhinged",
@@ -469,6 +456,19 @@
         "st": "Group",
         "ct": "New York City, NY",
         "o": "Pierogi Brooklyn",
+        "d": [
+          "2013-07-05",
+          "2013-07-28"
+        ]
+      },
+      {
+        "i": "81491-7471-2013-07-05",
+        "c": "DE",
+        "n": "Unhinged",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Leipzig",
+        "o": "Pierogi Leipzig",
         "d": [
           "2013-07-05",
           "2013-07-28"
@@ -485,6 +485,21 @@
         "d": [
           "2013-07-20",
           "2013-08-24"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "81491-5271-2014-03-08",
+        "c": "US",
+        "n": "Katia Santibañez Docere, Delectare, Movere",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Morgan Lehman Gallery",
+        "d": [
+          "2014-03-08",
+          "2014-04-12"
         ]
       }
     ]

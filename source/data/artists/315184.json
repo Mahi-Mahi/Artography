@@ -1,7 +1,7 @@
 {
   "id": "315184",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 08:04:13",
+  "timestamp": "2014-05-31 08:09:27",
   "name": "Eric Decastro",
   "surname": "Decastro",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Painting, Installation",
-  "r00": "17012",
-  "r01": "20160",
-  "r02": "22710",
-  "r03": "47241",
-  "r04": "56099",
+  "r00": "17133",
+  "r01": "20266",
+  "r02": "22820",
+  "r03": "47459",
+  "r04": "56161",
   "r05": null,
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
-  "website": "www.decatro-art.com",
+  "website": "www.decastro-art.com",
   "all-shows-first": "2010",
   "all-shows-total": "26",
-  "2005-shows-biennials": "22",
-  "2005-shows-galleries": "22",
+  "2005-shows-biennials": "23",
+  "2005-shows-galleries": "23",
   "2005-shows-museums": "2",
-  "2005-countries-total": "Germany (20), USA (3), France (2), Philippines (1), Slovenia (1)",
-  "2005-shows-with": "Eric Decastro (20), Anke Röhrscheid (9), Sandra Mann (7), DeDe Handon (5), Florian Heinke (5), Deniz Alt (4), Thomas Draschan (4), Simone van de Loo (4), Manfred Peckl (4), Marcus Sendlinger (4), Klaus-Martin Treder (4), Sofi Zezmer (4), Pio Abad (3), Christian Achenbach (3), Sanell Aggenbach (3), Pablo Alonso (3), Axel Anklam (3), Nina Ansari (3), Salvatore Arancio (3), Alexandra Baumgartner (3), Matthias Beckmann (3), Marc Bijl (3), Zander Blom (3), Armin Boehm (3), Jan-Henri Booyens (3), Wim Botha (3), Lutz Braun (3), Stuart Cairns (3), Ellen Cantor (3), Ben Cottrell (3), Keith Coventry (3), Jos Diegel (3), Ulrich Diezmann (3), Sven Drühl (3), Nikolaj Dudek (3), Peter Duka (3), Niels Ebert (3), Elisophie Eulenburg (3), Nadine Fecht (3), Heiner Franzen (3), Jonathan Garnham (3), Stephen Gibson (3), Andrew Gilbert (3), Georgina Gratrix (3), Liza Grobler (3), Ian Grose (3), Trasi Henen (3), Mike Hentz (3), Lori Hersberger (3), Jutta Heun (3), Gregor Hildebrandt (3), Stefan Hirsig (3), Johannes Hüppi (3), B",
+  "2005-countries-total": "Germany (21), USA (3), France (2), Philippines (1), Slovenia (1)",
+  "2005-shows-with": "Eric Decastro (21), Anke Röhrscheid (9), Sandra Mann (8), DeDe Handon (5), Florian Heinke (5), Manfred Peckl (5), Marcus Sendlinger (5), Deniz Alt (4), Marc Bijl (4), Thomas Draschan (4), Simone van de Loo (4), Klaus-Martin Treder (4), Sofi Zezmer (4), Pio Abad (3), Christian Achenbach (3), Sanell Aggenbach (3), Pablo Alonso (3), Axel Anklam (3), Nina Ansari (3), Salvatore Arancio (3), Alexandra Baumgartner (3), Matthias Beckmann (3), Zander Blom (3), Armin Boehm (3), Jan-Henri Booyens (3), Wim Botha (3), Lutz Braun (3), Stuart Cairns (3), Ellen Cantor (3), Ben Cottrell (3), Keith Coventry (3), Jos Diegel (3), Ulrich Diezmann (3), Sven Drühl (3), Nikolaj Dudek (3), Peter Duka (3), Niels Ebert (3), Elisophie Eulenburg (3), Nadine Fecht (3), Heiner Franzen (3), Jonathan Garnham (3), Stephen Gibson (3), Andrew Gilbert (3), Georgina Gratrix (3), Liza Grobler (3), Ian Grose (3), Trasi Henen (3), Mike Hentz (3), Lori Hersberger (3), Jutta Heun (3), Gregor Hildebrandt (3), Stefan Hirsig (3), Johannes Hüppi (3), B",
   "representing-galleries": "Galerie Younique (63-65 rue Pascal, 75013 Paris, France); Kunstraum Dreieich (Daimlerstrasse 1 K, 63303 Dreieich-Dreieichenhain, Germany); Galerie Schütte (Hauptsr. 4, 45219 Essen, Germany); Galerie Schrade - Schloss Mochental (bei Ehingen / Donau, 89584 Schloß Mochental, Germany)",
   "collecting-museums": null,
   "first_name": "Eric",
@@ -436,6 +436,78 @@
           "2013-12-07",
           "2014-01-11"
         ]
+      },
+      {
+        "i": "315184-28221-2014-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "315184-28221-2014-01-30",
+        "c": "FR"
+      },
+      {
+        "i": "315184-6148-2014-04-24",
+        "c": "SI",
+        "n": "Alptraum",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Maribor",
+        "o": "Maribor Art Gallery",
+        "d": [
+          "2014-04-24",
+          "2014-05-31"
+        ]
+      },
+      {
+        "i": "315184-17846-2014-05-18",
+        "c": "DE",
+        "n": "Eric Decastro / Mike Hentz - Prévenu d´avance - Installation, Grafik, Malerei",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Mosbach",
+        "o": "Kunstverein Neckar-Odenwald",
+        "d": [
+          "2014-05-18",
+          "2014-06-15"
+        ],
+        "a": "315184",
+        "an": "Eric Decastro"
+      },
+      {
+        "i": "315184-26278-2014-06-26",
+        "c": "DE",
+        "n": "Snafu - Situation Normal all Fucked Up",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Dreieich-Dreieichenhain",
+        "o": "Kunstraum Dreieich",
+        "d": [
+          "2014-06-26",
+          "2014-09-07"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "315184",
+        "c": "DE",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "315184-17846-2014-05-18",
+        "c": "DE",
+        "n": "Eric Decastro / Mike Hentz - Prévenu d´avance - Installation, Grafik, Malerei",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Mosbach",
+        "o": "Kunstverein Neckar-Odenwald",
+        "d": [
+          "2014-05-18",
+          "2014-06-15"
+        ],
+        "a": "315184",
+        "an": "Eric Decastro"
       }
     ]
   }

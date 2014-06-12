@@ -12,29 +12,35 @@
   "email": null,
   "www": "www.ruefrancaise.fr",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075001 %2C%20 %2C%20 3, rue Française %2C%20France",
-  "fairs-total": "4",
+  "fairs-total": "5",
   "fairs-abroad": "0",
-  "fairs-in-FR": "4",
+  "fairs-in-FR": "5",
   "fairs": {
     "2005": [
       {
-        "i": "4201-Fiac 2005",
+        "i": "4201-Fiac-2005",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "4201-SLICK 2007",
+        "i": "4201-SLICK-2007",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "4201-SLICK Dessin 08",
+        "i": "4201-SLICK-Dessin-08",
         "c": "FR"
       },
       {
-        "i": "4201-SLICK 2008",
+        "i": "4201-SLICK-2008",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "4201-Artparis-2014",
         "c": "FR"
       }
     ]

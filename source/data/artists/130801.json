@@ -1,7 +1,7 @@
 {
   "id": "130801",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:01:21",
+  "timestamp": "2014-05-31 07:06:40",
   "name": "Rachel Rosenthal",
   "surname": "Rosenthal",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Female",
   "media": "Performance",
-  "r00": "19377",
-  "r01": "22416",
+  "r00": "19461",
+  "r01": "22434",
   "r02": "18131",
-  "r03": "14981",
-  "r04": "14982",
-  "r05": "12593",
-  "r06": "10333",
+  "r03": "14980",
+  "r04": "14976",
+  "r05": "12589",
+  "r06": "10325",
   "r07": "8217",
   "r08": "8641",
   "awards": null,
@@ -175,6 +175,21 @@
         "d": [
           "2012-02-09",
           "2012-03-01"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "130801-8792-2014-01-25",
+        "c": "US",
+        "n": "Binding Desire: Unfolding Artists Books",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Los Angeles, CA",
+        "o": "Ben Maltz Gallery at Otis College of Art and Design",
+        "d": [
+          "2014-01-25",
+          "2014-03-30"
         ]
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "22841",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:23:51",
+  "timestamp": "2014-05-31 06:29:23",
   "name": "Yto Barrada",
   "surname": "Barrada",
   "nationality": "FR, MA",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography, Video, Installation",
-  "r00": "330",
-  "r01": "362",
+  "r00": "333",
+  "r01": "364",
   "r02": "416",
-  "r03": "578",
-  "r04": "803",
-  "r05": "1006",
+  "r03": "577",
+  "r04": "802",
+  "r05": "1005",
   "r06": "1071",
-  "r07": "1100",
+  "r07": "1098",
   "r08": "1424",
   "awards": "Deutsche Bank's Artist of the Year 2011,Ellen Auerbach Price from the Akademie der Künste,Deutsche Börse Photography Prize 2006.  Shortlisted.",
   "website": "www.ytobarrada.com",
@@ -1345,19 +1345,6 @@
         ]
       },
       {
-        "i": "22841-3158-2012-09-15",
-        "c": "CH",
-        "n": "Schlagwörter und Sprachgewalten",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Basel",
-        "o": "Kunsthaus Baselland",
-        "d": [
-          "2012-09-15",
-          "2012-11-11"
-        ]
-      },
-      {
         "i": "22841-2379-2012-09-15",
         "c": "US",
         "n": "Six Lines Of Flight",
@@ -1368,6 +1355,19 @@
         "d": [
           "2012-09-15",
           "2012-12-31"
+        ]
+      },
+      {
+        "i": "22841-3158-2012-09-15",
+        "c": "CH",
+        "n": "Schlagwörter und Sprachgewalten",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Basel",
+        "o": "Kunsthaus Baselland",
+        "d": [
+          "2012-09-15",
+          "2012-11-11"
         ]
       },
       {
@@ -1662,14 +1662,6 @@
         ]
       },
       {
-        "i": "22841-8554-2013-09-14",
-        "c": "FR"
-      },
-      {
-        "i": "22841-8554-2013-09-14",
-        "c": "FR"
-      },
-      {
         "i": "22841-3933-2013-09-14",
         "c": "TR",
         "n": "13th Istanbul Biennial",
@@ -1680,6 +1672,14 @@
           "2013-09-14",
           "2013-10-20"
         ]
+      },
+      {
+        "i": "22841-8554-2013-09-14",
+        "c": "FR"
+      },
+      {
+        "i": "22841-8554-2013-09-14",
+        "c": "FR"
       },
       {
         "i": "22841-8997-2013-10-05",
@@ -1703,6 +1703,106 @@
       {
         "i": "22841-8997-2013-10-05",
         "c": "FR"
+      },
+      {
+        "i": "22841-1811-2014-01-24",
+        "c": "ES",
+        "n": "Justo Delante De Nosotros Otras Cartografías Del Rif",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Barcelona",
+        "o": "Museu d´Art Contemporani de Barcelona - MACBA",
+        "d": [
+          "2014-01-24",
+          "2014-05-18"
+        ]
+      },
+      {
+        "i": "22841-12042-2014-04-11",
+        "c": "ES",
+        "n": "Universo video. La Magia de las Imágenes",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2014-04-11",
+          "2014-07-06"
+        ],
+        "a": "22841",
+        "an": "Yto Barrada"
+      },
+      {
+        "i": "22841-18752-2014-05-01",
+        "c": "RU",
+        "n": "do it Moscow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Moscow",
+        "o": "Garage Center for Contemporary Culture - GCCC",
+        "d": [
+          "2014-05-01",
+          "2014-07-06"
+        ],
+        "a": "22841",
+        "an": "Yto Barrada"
+      },
+      {
+        "i": "22841-1811-2014-01-24",
+        "c": "ES",
+        "n": "Yto Barrada - Before Our Eyes",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Barcelona",
+        "o": "Museu d´Art Contemporani de Barcelona - MACBA",
+        "d": [
+          "2014-01-24",
+          "2014-05-18"
+        ]
+      }
+    ],
+    "today": [
+      {
+        "i": "22841",
+        "c": "ES",
+        "g": "f",
+        "a": "41-60"
+      },
+      {
+        "i": "22841-12042-2014-04-11",
+        "c": "ES",
+        "n": "Universo video. La Magia de las Imágenes",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Gijón",
+        "o": "Laboral - Centro de Arte y Creación Industrial",
+        "d": [
+          "2014-04-11",
+          "2014-07-06"
+        ],
+        "a": "22841",
+        "an": "Yto Barrada"
+      },
+      {
+        "i": "22841",
+        "c": "RU",
+        "g": "f",
+        "a": "41-60"
+      },
+      {
+        "i": "22841-18752-2014-05-01",
+        "c": "RU",
+        "n": "do it Moscow",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Moscow",
+        "o": "Garage Center for Contemporary Culture - GCCC",
+        "d": [
+          "2014-05-01",
+          "2014-07-06"
+        ],
+        "a": "22841",
+        "an": "Yto Barrada"
       }
     ]
   }

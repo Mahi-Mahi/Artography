@@ -12,13 +12,13 @@
   "email": "contact@galerieouizeman.com",
   "www": "www.galerieouizeman.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003 %2C%20 %2C%2010/12 rue des Coutures Saint-Gervais %2C%20France",
-  "fairs-total": "16",
-  "fairs-abroad": "5",
+  "fairs-total": "17",
+  "fairs-abroad": "6",
   "fairs-in-FR": "11",
   "fairs": {
     "2007": [
       {
-        "i": "12220-Kunst Zürich 2007",
+        "i": "12220-Kunst-Zürich-2007",
         "c": "CH",
         "n": "Kunst Zürich 2007",
         "ct": "Zurich"
@@ -26,31 +26,31 @@
     ],
     "2008": [
       {
-        "i": "12220-Salon du Dessin Contemporain 2008",
+        "i": "12220-Salon-du-Dessin-Contemporain-2008",
         "c": "FR"
       },
       {
-        "i": "12220-Show Off Paris 2008",
+        "i": "12220-Show-Off-Paris-2008",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "12220-Salon du Dessin Contemporain 2009",
+        "i": "12220-Salon-du-Dessin-Contemporain-2009",
         "c": "FR"
       },
       {
-        "i": "12220-Docks Art Fair 2009",
+        "i": "12220-Docks-Art-Fair-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "12220-Salon du Dessin Contemporain 2010",
+        "i": "12220-Salon-du-Dessin-Contemporain-2010",
         "c": "FR"
       },
       {
-        "i": "12220-Loop Barcelona 2010",
+        "i": "12220-Loop-Barcelona-2010",
         "c": "ES",
         "n": "Loop Barcelona 2010",
         "ct": "Barcelona"
@@ -58,48 +58,56 @@
     ],
     "2011": [
       {
-        "i": "12220-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "i": "12220-Drawing-Now-Paris---Le-Salon-Du-Dessin-Contemporain-2011",
         "c": "FR"
       },
       {
-        "i": "12220-Loop - The Video Art Fair 2011",
+        "i": "12220-Loop---The-Video-Art-Fair-2011",
         "c": "ES",
         "n": "Loop - The Video Art Fair 2011",
         "ct": "Barcelona"
       },
       {
-        "i": "12220-DocksArtFair 2011",
+        "i": "12220-DocksArtFair-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "12220-Slick Brussels 2012",
+        "i": "12220-Slick-Brussels-2012",
         "c": "FR"
       },
       {
-        "i": "12220-Paris Photo 2012",
+        "i": "12220-Paris-Photo-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "12220-Lille Art Fair 2013",
+        "i": "12220-Lille-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "12220-Art Brussels 2013",
+        "i": "12220-Art-Brussels-2013",
         "c": "BE",
         "n": "Art Brussels 2013",
         "ct": "Brussels"
       },
       {
-        "i": "12220-Yia Art Fair 2013",
+        "i": "12220-Yia-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "12220-Paris Photo 2013",
+        "i": "12220-Paris-Photo-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "12220-Art-Brussel-2014",
+        "c": "BE",
+        "n": "Art Brussel 2014",
+        "ct": "Brussels"
       }
     ]
   }

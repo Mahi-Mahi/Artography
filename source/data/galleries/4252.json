@@ -12,95 +12,95 @@
   "email": "info@cortexathletico.com",
   "www": "www.cortexathletico.com",
   "map": "http://maps.google.com/maps?q=Bordeaux%2C%2033000 %2C%20 %2C%2020, rue Ferrère %2C%20France",
-  "fairs-total": "22",
-  "fairs-abroad": "13",
+  "fairs-total": "24",
+  "fairs-abroad": "15",
   "fairs-in-FR": "9",
   "fairs": {
     "2006": [
       {
-        "i": "4252-Liste 2006",
+        "i": "4252-Liste-2006",
         "c": "CH",
         "n": "Liste 2006",
         "ct": "Basel"
       },
       {
-        "i": "4252-Fiac 2006",
+        "i": "4252-Fiac-2006",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "4252-Liste 2007",
+        "i": "4252-Liste-2007",
         "c": "CH",
         "n": "Liste 2007",
         "ct": "Basel"
       },
       {
-        "i": "4252-12. Art Forum Berlin",
+        "i": "4252-12.-Art-Forum-Berlin",
         "c": "DE",
         "n": "12. Art Forum Berlin",
         "ct": "Berlin"
       },
       {
-        "i": "4252-Fiac 2007",
+        "i": "4252-Fiac-2007",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "4252-Art Brussels 2008- 26th Contemporary Art Fair",
+        "i": "4252-Art-Brussels-2008--26th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2008- 26th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "4252-Loop - The Video Art Fair 08",
+        "i": "4252-Loop---The-Video-Art-Fair-08",
         "c": "ES",
         "n": "Loop - The Video Art Fair 08",
         "ct": "Barcelona"
       },
       {
-        "i": "4252-Liste 2008",
+        "i": "4252-Liste-2008",
         "c": "CH",
         "n": "Liste 2008",
         "ct": "Basel"
       },
       {
-        "i": "4252-Fiac 2008",
+        "i": "4252-Fiac-2008",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "4252-Liste 2009",
+        "i": "4252-Liste-2009",
         "c": "CH",
         "n": "Liste 2009",
         "ct": "Basel"
       },
       {
-        "i": "4252-Fiac 2009",
+        "i": "4252-Fiac-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "4252-The Armory Show 2010",
+        "i": "4252-The-Armory-Show-2010",
         "c": "US",
         "n": "The Armory Show 2010",
         "ct": "New York City, NY"
       },
       {
-        "i": "4252-Art 41 Basel",
+        "i": "4252-Art-41-Basel",
         "c": "CH",
         "n": "Art 41 Basel",
         "ct": "Basel"
       },
       {
-        "i": "4252-Fiac 2010",
+        "i": "4252-Fiac-2010",
         "c": "FR"
       },
       {
-        "i": "4252-Artissima 17",
+        "i": "4252-Artissima-17",
         "c": "IT",
         "n": "Artissima 17",
         "ct": "Turin"
@@ -108,42 +108,56 @@
     ],
     "2011": [
       {
-        "i": "4252-The Armory Show 2011",
+        "i": "4252-The-Armory-Show-2011",
         "c": "US",
         "n": "The Armory Show 2011",
         "ct": "New York City, NY"
       },
       {
-        "i": "4252-Art Brussels 2011",
+        "i": "4252-Art-Brussels-2011",
         "c": "BE",
         "n": "Art Brussels 2011",
         "ct": "Brussels"
       },
       {
-        "i": "4252-DocksArtFair 2011",
+        "i": "4252-DocksArtFair-2011",
         "c": "FR"
       },
       {
-        "i": "4252-Fiac 2011",
+        "i": "4252-Fiac-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "4252-Art Brussels 2012",
+        "i": "4252-Art-Brussels-2012",
         "c": "BE",
         "n": "Art Brussels 2012",
         "ct": "Brussels"
       },
       {
-        "i": "4252-Fiac 2012",
+        "i": "4252-Fiac-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "4252-FIAC 2013",
+        "i": "4252-FIAC-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "4252-Artgenève-2014",
+        "c": "CH",
+        "n": "Artgenève 2014",
+        "ct": "Geneva"
+      },
+      {
+        "i": "4252-Art-Brussel-2014",
+        "c": "BE",
+        "n": "Art Brussel 2014",
+        "ct": "Brussels"
       }
     ]
   }

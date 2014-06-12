@@ -12,23 +12,23 @@
   "email": "contact@visionairsgallery.com",
   "www": "www.visionairsgallery.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075005 %2C%2014 %2C%20Rue des Carmes %2C%20France",
-  "fairs-total": "6",
-  "fairs-abroad": "1",
+  "fairs-total": "7",
+  "fairs-abroad": "2",
   "fairs-in-FR": "5",
   "fairs": {
     "2010": [
       {
-        "i": "21876-Lille Art Fair 2010",
+        "i": "21876-Lille-Art-Fair-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "21876-Lille Art Fair 2011",
+        "i": "21876-Lille-Art-Fair-2011",
         "c": "FR"
       },
       {
-        "i": "21876-cutlog 2011",
+        "i": "21876-cutlog-2011",
         "c": "FR"
       },
       {
@@ -38,13 +38,21 @@
     ],
     "2013": [
       {
-        "i": "21876-New Art Fair Paris",
+        "i": "21876-New-Art-Fair-Paris",
         "c": "FR"
       },
       {
-        "i": "21876-Art Stage Singapore 2013",
+        "i": "21876-Art-Stage-Singapore-2013",
         "c": "SG",
         "n": "Art Stage Singapore 2013",
+        "ct": "Singapore"
+      }
+    ],
+    "2014": [
+      {
+        "i": "21876-Art-Stage-Singapore-2014",
+        "c": "SG",
+        "n": "Art Stage Singapore 2014",
         "ct": "Singapore"
       }
     ]

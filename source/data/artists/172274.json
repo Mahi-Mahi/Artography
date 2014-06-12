@@ -1,7 +1,7 @@
 {
   "id": "172274",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:15:29",
+  "timestamp": "2014-05-31 07:20:52",
   "name": "Emilie Satre",
   "surname": "Satre",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "49546",
-  "r01": "49330",
-  "r02": "55488",
-  "r03": "48345",
-  "r04": "42198",
-  "r05": "46386",
-  "r06": "62517",
-  "r07": "58186",
-  "r08": "57970",
+  "r00": "49517",
+  "r01": "49435",
+  "r02": "55533",
+  "r03": "48388",
+  "r04": "42227",
+  "r05": "46431",
+  "r06": "62579",
+  "r07": "58274",
+  "r08": "58009",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
-  "all-shows-total": "9",
+  "all-shows-total": "8",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "3",
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Emilie",
   "last_name": "Satre",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1979-01-01",
   "age": 35,
   "age_range": "26-40",
@@ -132,6 +132,46 @@
       {
         "i": "172274-8555-2013-09-28",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "172274-31121-2014-06-06",
+        "c": "CH",
+        "n": "Utopie Picturale 2",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Fonderie Kugler",
+        "d": [
+          "2014-06-06",
+          "2014-06-22"
+        ],
+        "a": "172274",
+        "an": "Emilie Satre"
+      }
+    ],
+    "today": [
+      {
+        "i": "172274",
+        "c": "CH",
+        "g": "n",
+        "a": "26-40"
+      },
+      {
+        "i": "172274-31121-2014-06-06",
+        "c": "CH",
+        "n": "Utopie Picturale 2",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Fonderie Kugler",
+        "d": [
+          "2014-06-06",
+          "2014-06-22"
+        ],
+        "a": "172274",
+        "an": "Emilie Satre"
       }
     ]
   }

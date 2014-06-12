@@ -1,7 +1,7 @@
 {
   "id": "103376",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:52:02",
+  "timestamp": "2014-05-31 06:57:26",
   "name": "Barbara Thaden",
   "surname": "Thaden",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "24734",
-  "r01": "27261",
-  "r02": "24833",
-  "r03": "25924",
-  "r04": "22615",
-  "r05": "21986",
-  "r06": "48834",
-  "r07": "53134",
-  "r08": "81443",
+  "r00": "24851",
+  "r01": "27303",
+  "r02": "24845",
+  "r03": "25951",
+  "r04": "22628",
+  "r05": "22013",
+  "r06": "48886",
+  "r07": "53232",
+  "r08": "81513",
   "awards": null,
   "website": null,
   "all-shows-first": "1990",
@@ -138,6 +138,46 @@
       {
         "i": "103376-30303-2013-07-05",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "103376-13471-2014-04-12",
+        "c": "DE",
+        "n": "Single Moms",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bonn",
+        "o": "Frauenmuseum Bonn",
+        "d": [
+          "2014-04-12",
+          "2014-11-11"
+        ],
+        "a": "103376",
+        "an": "Barbara Thaden"
+      }
+    ],
+    "today": [
+      {
+        "i": "103376",
+        "c": "DE",
+        "g": "f",
+        "a": "41-60"
+      },
+      {
+        "i": "103376-13471-2014-04-12",
+        "c": "DE",
+        "n": "Single Moms",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bonn",
+        "o": "Frauenmuseum Bonn",
+        "d": [
+          "2014-04-12",
+          "2014-11-11"
+        ],
+        "a": "103376",
+        "an": "Barbara Thaden"
       }
     ],
     "2010": [

@@ -12,17 +12,17 @@
   "email": "olivier@olivierhoug.com",
   "www": "www.olivierhoug.com",
   "map": "http://maps.google.com/maps?q=Lyon%2C%2069002 %2C%20 %2C%2043 Rue Auguste Comte %2C%20France",
-  "fairs-total": "26",
+  "fairs-total": "27",
   "fairs-abroad": "9",
-  "fairs-in-FR": "17",
+  "fairs-in-FR": "18",
   "fairs": {
     "2005": [
       {
-        "i": "1718-Fiac 2005",
+        "i": "1718-Fiac-2005",
         "c": "FR"
       },
       {
-        "i": "1718-Loop - The Video Art Fair '05",
+        "i": "1718-Loop---The-Video-Art-Fair-'05",
         "c": "ES",
         "n": "Loop - The Video Art Fair '05",
         "ct": "Barcelona"
@@ -30,45 +30,45 @@
     ],
     "2006": [
       {
-        "i": "1718-Loop - The Video Art Fair",
+        "i": "1718-Loop---The-Video-Art-Fair",
         "c": "ES",
         "n": "Loop - The Video Art Fair",
         "ct": "Barcelona"
       },
       {
-        "i": "1718-Show Off Paris 2006",
+        "i": "1718-Show-Off-Paris-2006",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "1718-ARCO 07",
+        "i": "1718-ARCO-07",
         "c": "ES",
         "n": "ARCO 07",
         "ct": "Madrid"
       },
       {
-        "i": "1718-Loop - The Video Art Fair 07",
+        "i": "1718-Loop---The-Video-Art-Fair-07",
         "c": "ES",
         "n": "Loop - The Video Art Fair 07",
         "ct": "Barcelona"
       },
       {
-        "i": "1718-bâlelatina 2007",
+        "i": "1718-bâlelatina-2007",
         "c": "CH",
         "n": "bâlelatina 2007",
         "ct": "Basel"
       },
       {
-        "i": "1718-Docks Art Fair 2007",
+        "i": "1718-Docks-Art-Fair-2007",
         "c": "FR"
       },
       {
-        "i": "1718-Show Off Paris 2007",
+        "i": "1718-Show-Off-Paris-2007",
         "c": "FR"
       },
       {
-        "i": "1718-Photo Miami 2007",
+        "i": "1718-Photo-Miami-2007",
         "c": "US",
         "n": "Photo Miami 2007",
         "ct": "Miami, FL"
@@ -76,83 +76,89 @@
     ],
     "2008": [
       {
-        "i": "1718-Salon du Dessin Contemporain 2008",
+        "i": "1718-Salon-du-Dessin-Contemporain-2008",
         "c": "FR"
       },
       {
-        "i": "1718-Loop - The Video Art Fair 08",
+        "i": "1718-Loop---The-Video-Art-Fair-08",
         "c": "ES",
         "n": "Loop - The Video Art Fair 08",
         "ct": "Barcelona"
       },
       {
-        "i": "1718-The Solo Project 2008",
+        "i": "1718-The-Solo-Project-2008",
         "c": "CH",
         "n": "The Solo Project 2008",
         "ct": "Basel"
       },
       {
-        "i": "1718-Show Off Paris 2008",
+        "i": "1718-Show-Off-Paris-2008",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "1718-Salon du Dessin Contemporain 2009",
+        "i": "1718-Salon-du-Dessin-Contemporain-2009",
         "c": "FR"
       },
       {
-        "i": "1718-The Solo Project 2009",
+        "i": "1718-The-Solo-Project-2009",
         "c": "CH",
         "n": "The Solo Project 2009",
         "ct": "Basel"
       },
       {
-        "i": "1718-Docks Art Fair 2009",
+        "i": "1718-Docks-Art-Fair-2009",
         "c": "FR"
       },
       {
-        "i": "1718-Show Off Paris 2009",
+        "i": "1718-Show-Off-Paris-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "1718-ArtParis 2010",
+        "i": "1718-ArtParis-2010",
         "c": "FR"
       },
       {
-        "i": "1718-Show Off Paris 2010",
+        "i": "1718-Show-Off-Paris-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "1718-DocksArtFair 2011",
+        "i": "1718-DocksArtFair-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "1718-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "i": "1718-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2012",
         "c": "FR"
       },
       {
-        "i": "1718-SLICK 2012",
+        "i": "1718-SLICK-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "1718-Lille Art Fair 2013",
+        "i": "1718-Lille-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "1718-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "i": "1718-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2013",
         "c": "FR"
       },
       {
-        "i": "1718-DocksArtFair 2013",
+        "i": "1718-DocksArtFair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "1718-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
         "c": "FR"
       }
     ]

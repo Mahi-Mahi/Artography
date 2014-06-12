@@ -1,12 +1,12 @@
 {
   "id": "125504",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:59:34",
+  "timestamp": "2014-05-31 07:04:58",
   "name": "Cathy Coez",
   "surname": "Coez",
   "nationality": "FR",
   "nationality fr": "France",
-  "birth location": "(FR)",
+  "birth location": "",
   "birth day": 1,
   "birth month": 1,
   "birth year": "1968",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "50840",
-  "r01": "54353",
-  "r02": "50110",
-  "r03": "45356",
-  "r04": "48703",
-  "r05": "67333",
-  "r06": "60333",
+  "r00": "41843",
+  "r01": "44125",
+  "r02": "40278",
+  "r03": "45367",
+  "r04": "48713",
+  "r05": "67373",
+  "r06": "60375",
   "r07": null,
   "r08": null,
   "awards": null,
-  "website": null,
+  "website": "www.coez.be",
   "all-shows-first": "2008",
   "all-shows-total": "7",
   "2005-shows-biennials": "4",
   "2005-shows-galleries": "4",
-  "2005-shows-museums": "3",
-  "2005-countries-total": "Belgium (4), France (1), Germany (1), Netherlands (1)",
-  "2005-shows-with": "Cathy Coez (5), Elodie Antoine (3), Emilio Lopez-Menchero (2), Robert Quint (2)",
+  "2005-shows-museums": "4",
+  "2005-countries-total": "Belgium (5), France (1), Germany (1), Netherlands (1)",
+  "2005-shows-with": "Cathy Coez (6), Elodie Antoine (3), Charlotte Beaudry (2), Patrick Guns (2), Djos Janssens (2), Babis Kandilaptis (2), Emilio Lopez-Menchero (2), Robert Quint (2), Marc Rossignol (2), Olivier Stévenart (2)",
   "representing-galleries": "Espace Gabriel Brachot (Avenue Louise 74, 1050 Brussels, Belgium); duboisfriedland gallery (rue Souveraine 97, 1050 Brussels, Belgium)",
   "collecting-museums": null,
   "first_name": "Cathy",
@@ -147,6 +147,21 @@
         "d": [
           "2012-05-12",
           "2012-06-24"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "125504-1715-2014-04-04",
+        "c": "BE",
+        "n": "Full House - 15 Years of Inventory and Exhibitions at Aeroplastics Contemporary",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2014-04-04",
+          "2014-05-17"
         ]
       }
     ]

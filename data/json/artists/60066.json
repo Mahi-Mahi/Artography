@@ -1,7 +1,7 @@
 {
   "id": "60066",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:37:13",
+  "timestamp": "2014-05-31 06:42:40",
   "name": "Etienne Viard",
   "surname": "Viard",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "63382",
-  "r01": "65696",
-  "r02": "62133",
-  "r03": "57339",
-  "r04": "73874",
-  "r05": "86878",
+  "r00": "63610",
+  "r01": "65769",
+  "r02": "62162",
+  "r03": "57351",
+  "r04": "73958",
+  "r05": "86986",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Etienne",
   "last_name": "Viard",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1954-01-01",
   "age": 60,
   "age_range": "41-60",
@@ -89,6 +89,21 @@
       {
         "i": "60066-5079-2011-07-26",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "60066-15338-2014-03-16",
+        "c": "NL",
+        "n": "Exhibition Kobe",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "'s-Hertogenbosch",
+        "o": "Galerie Mark Peet Visser",
+        "d": [
+          "2014-03-16",
+          "2014-04-13"
+        ]
       }
     ],
     "2009": [

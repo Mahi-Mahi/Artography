@@ -12,134 +12,148 @@
   "email": "artcontemporain@natalieseroussi.com",
   "www": "www.natalieseroussi.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2034, rue de Seine %2C%20France",
-  "fairs-total": "22",
-  "fairs-abroad": "10",
+  "fairs-total": "24",
+  "fairs-abroad": "12",
   "fairs-in-FR": "12",
   "fairs": {
     "2005": [
       {
-        "i": "1967-Art 36 Basel",
+        "i": "1967-Art-36-Basel",
         "c": "CH",
         "n": "Art 36 Basel",
         "ct": "Basel"
       },
       {
-        "i": "1967-Fiac 2005",
+        "i": "1967-Fiac-2005",
         "c": "FR"
       }
     ],
     "2006": [
       {
-        "i": "1967-ArtParis 06",
+        "i": "1967-ArtParis-06",
         "c": "FR"
       },
       {
-        "i": "1967-Art 37 Basel",
+        "i": "1967-Art-37-Basel",
         "c": "CH",
         "n": "Art 37 Basel",
         "ct": "Basel"
       },
       {
-        "i": "1967-Fiac 2006",
+        "i": "1967-Fiac-2006",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "1967-ARCO 07",
+        "i": "1967-ARCO-07",
         "c": "ES",
         "n": "ARCO 07",
         "ct": "Madrid"
       },
       {
-        "i": "1967-ArtParis 07",
+        "i": "1967-ArtParis-07",
         "c": "FR"
       },
       {
-        "i": "1967-Art 38 Basel",
+        "i": "1967-Art-38-Basel",
         "c": "CH",
         "n": "Art 38 Basel",
         "ct": "Basel"
       },
       {
-        "i": "1967-Fiac 2007",
+        "i": "1967-Fiac-2007",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "1967-Art 39 Basel",
+        "i": "1967-Art-39-Basel",
         "c": "CH",
         "n": "Art 39 Basel",
         "ct": "Basel"
       },
       {
-        "i": "1967-Fiac 2008",
+        "i": "1967-Fiac-2008",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "1967-Salon du Dessin Contemporain 2009",
+        "i": "1967-Salon-du-Dessin-Contemporain-2009",
         "c": "FR"
       },
       {
-        "i": "1967-Art 40 Basel",
+        "i": "1967-Art-40-Basel",
         "c": "CH",
         "n": "Art 40 Basel",
         "ct": "Basel"
       },
       {
-        "i": "1967-Fiac 2009",
+        "i": "1967-Fiac-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "1967-Art 41 Basel",
+        "i": "1967-Art-41-Basel",
         "c": "CH",
         "n": "Art 41 Basel",
         "ct": "Basel"
       },
       {
-        "i": "1967-Fiac 2010",
+        "i": "1967-Fiac-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "1967-Art 42 Basel",
+        "i": "1967-Art-42-Basel",
         "c": "CH",
         "n": "Art 42 Basel",
         "ct": "Basel"
       },
       {
-        "i": "1967-Fiac 2011",
+        "i": "1967-Fiac-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "1967-Art 43 Basel",
+        "i": "1967-Art-43-Basel",
         "c": "CH",
         "n": "Art 43 Basel",
         "ct": "Basel"
       },
       {
-        "i": "1967-Fiac 2012",
+        "i": "1967-Fiac-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "1967-Art Basel 2013",
+        "i": "1967-Art-Basel-2013",
         "c": "CH",
         "n": "Art Basel 2013",
         "ct": "Basel"
       },
       {
-        "i": "1967-FIAC 2013",
+        "i": "1967-FIAC-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "1967-SP-Arte-2014",
+        "c": "BR",
+        "n": "SP Arte 2014",
+        "ct": "São Paulo"
+      },
+      {
+        "i": "1967-Art-Basel-2014",
+        "c": "CH",
+        "n": "Art Basel 2014",
+        "ct": "Basel"
       }
     ]
   }

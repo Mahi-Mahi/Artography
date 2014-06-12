@@ -1,7 +1,7 @@
 {
   "id": "20783",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:23:09",
+  "timestamp": "2014-05-31 06:28:41",
   "name": "Antoine D\\'Agata",
   "surname": "D\\'Agata",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "4842",
-  "r01": "4547",
-  "r02": "4493",
-  "r03": "4107",
+  "r00": "4686",
+  "r01": "4550",
+  "r02": "4495",
+  "r03": "4108",
   "r04": "3473",
-  "r05": "3497",
-  "r06": "3834",
-  "r07": "4030",
-  "r08": "5942",
+  "r05": "3500",
+  "r06": "3836",
+  "r07": "4035",
+  "r08": "5945",
   "awards": null,
   "website": null,
   "all-shows-first": "2000",
   "all-shows-total": "51",
   "2005-shows-biennials": "9",
   "2005-shows-galleries": "9",
-  "2005-shows-museums": "16",
-  "2005-countries-total": "France (9), Germany (4), Russia (4), Netherlands (3), Spain (2), Belgium (1), Brazil (1), China (1), Italy (1), Lebanon (1), Switzerland (1), USA (1)",
-  "2005-shows-with": "Antoine D\\'Agata (20), Roger Ballen (4), Gueorgui    Pinkhassov (4), Lise Sarfati (4), Gabriele Basilico (3), Henri Cartier-Bresson (3), Denis Darzacq (3), Richard Dumas (3), Elliott Erwitt (3), Leonard Freed (3), Nan Goldin (3), Herbert List (3), Paolo Pellegrin (3), Mathieu Pernot (3), Marc Riboud (3), Ferdinando Scianna (3), Hugues de Wurstemberger (3), Abbas (2), Michael Ackerman (2), Christopher Anderson (2), Bruno Barbey (2), José Ramón Bas (2), Jonas Bendiksen (2), Rut Blees Luxemburg (2), Jean-Christian Bourcart (2), Christophe Bourguedieu (2), René Burri (2), Robert Capa (2), Juan Manuel Castro Prieto (2), Florence Chevallier (2), Larry Clark (2), Stéphane Couturier (2), Thibaut Cuisset (2), Bruce Davidson (2), Raymond Depardon (2), Claudine Doury (2), Thomas Dworzak (2), Patrick Faigenbaum (2), Bernard Faucon (2), Martine Franck (2), Robert Frank (2), Gao Bo (2), Cristina García Rodero (2), Olívia Gay (2), Mario Giacomelli (2), Bruce Gilden (2), Jim Goldberg (2), Alexander Gronsky (2), Carl de",
+  "2005-shows-museums": "17",
+  "2005-countries-total": "France (9), Germany (5), Russia (4), Netherlands (3), Spain (2), Belgium (1), Brazil (1), China (1), Italy (1), Lebanon (1), Switzerland (1), USA (1)",
+  "2005-shows-with": "Antoine D\\'Agata (21), Roger Ballen (4), Nan Goldin (4), Gueorgui    Pinkhassov (4), Lise Sarfati (4), Gabriele Basilico (3), Henri Cartier-Bresson (3), Denis Darzacq (3), Richard Dumas (3), Elliott Erwitt (3), Leonard Freed (3), Herbert List (3), Paolo Pellegrin (3), Mathieu Pernot (3), Marc Riboud (3), Ferdinando Scianna (3), Hugues de Wurstemberger (3), Abbas (2), Michael Ackerman (2), Christopher Anderson (2), Bruno Barbey (2), José Ramón Bas (2), Jonas Bendiksen (2), Rut Blees Luxemburg (2), Jean-Christian Bourcart (2), Christophe Bourguedieu (2), René Burri (2), Sophie Calle (2), Robert Capa (2), Juan Manuel Castro Prieto (2), Florence Chevallier (2), Larry Clark (2), Stéphane Couturier (2), Thibaut Cuisset (2), Bruce Davidson (2), Raymond Depardon (2), Claudine Doury (2), Thomas Dworzak (2), Patrick Faigenbaum (2), Bernard Faucon (2), Martine Franck (2), Robert Frank (2), Gao Bo (2), Cristina García Rodero (2), Olívia Gay (2), Mario Giacomelli (2), Bruce Gilden (2), Jim Goldberg (2), Alexander Gr",
   "representing-galleries": "Galerie les filles du calvaire - Paris (17, rue des Filles-du-calvaire, 75003 Paris, France); Magnum Photos Paris (19 rue Hegesippe Moreau, 75018 Paris, France); Grinberg Gallery (4-th Syromyatnicheskiy pereulok, 1. str. 6,  Moscow, Russia); Photographer.ru (4th Syromyatnicheskiy per. 1/9, 105120  Moscow, Russia); Galería Carles Taché (Consell de Cent 290, 08007 Barcelona, Spain)",
   "collecting-museums": "Musée Nicéphore Niépce (28, Quai des Messageries, 71100 Chalon sur Saône, France); Foam Fotografiemuseum (Keizersgracht 609, 1017 DS Amsterdam, Netherlands)",
   "first_name": "Antoine",
@@ -435,6 +435,19 @@
     ],
     "2012": [
       {
+        "i": "20783-7004-2012-07-12",
+        "c": "US",
+        "n": "Silver Curtain",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "San Francisco, CA",
+        "o": "Stephen Wirtz Gallery",
+        "d": [
+          "2012-07-12",
+          "2012-09-22"
+        ]
+      },
+      {
         "i": "20783-20557-2012-07-12",
         "c": "RU",
         "n": "Private Contexts",
@@ -461,19 +474,6 @@
         ]
       },
       {
-        "i": "20783-7004-2012-07-12",
-        "c": "US",
-        "n": "Silver Curtain",
-        "t": "Galerie privée",
-        "st": "Group",
-        "ct": "San Francisco, CA",
-        "o": "Stephen Wirtz Gallery",
-        "d": [
-          "2012-07-12",
-          "2012-09-22"
-        ]
-      },
-      {
         "i": "20783-29066-2012-11-07",
         "c": "IT",
         "n": "Di fronte e di schiena",
@@ -497,6 +497,34 @@
         "d": [
           "2012-05-26",
           "2012-09-02"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "20783-16145-2014-03-15",
+        "c": "DE",
+        "n": "Intimität",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Remscheid",
+        "o": "Galerie der Stadt Remscheid",
+        "d": [
+          "2014-03-15",
+          "2014-05-25"
+        ]
+      },
+      {
+        "i": "20783-2546-2014-10-17",
+        "c": "DE",
+        "n": "Memory Lab: The Sentimental Turn - Photography Challenges History",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Martin-Gropius-Bau",
+        "d": [
+          "2014-10-17",
+          "2014-12-15"
         ]
       }
     ],
@@ -530,14 +558,6 @@
         "c": "FR"
       },
       {
-        "i": "20783-1403-2013-03-15",
-        "c": "FR"
-      },
-      {
-        "i": "20783-1403-2013-03-15",
-        "c": "FR"
-      },
-      {
         "i": "20783-2328-2013-03-15",
         "c": "BE",
         "n": "NÓIA",
@@ -549,6 +569,14 @@
           "2013-03-15",
           "2013-04-27"
         ]
+      },
+      {
+        "i": "20783-1403-2013-03-15",
+        "c": "FR"
+      },
+      {
+        "i": "20783-1403-2013-03-15",
+        "c": "FR"
       },
       {
         "i": "20783-1485-2013-05-16",

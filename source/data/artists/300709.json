@@ -1,7 +1,7 @@
 {
   "id": "300709",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:59:23",
+  "timestamp": "2014-05-31 08:04:39",
   "name": "Dorothée Smith",
   "surname": "Smith",
   "nationality": "FR",
@@ -16,10 +16,10 @@
   "death year": null,
   "attributes": "Female",
   "media": "Video",
-  "r00": "14636",
-  "r01": "14940",
-  "r02": "15305",
-  "r03": "30093",
+  "r00": "14649",
+  "r01": "14951",
+  "r02": "15315",
+  "r03": "30118",
   "r04": null,
   "r05": null,
   "r06": null,
@@ -28,7 +28,7 @@
   "awards": null,
   "website": null,
   "all-shows-first": "2011",
-  "all-shows-total": "8",
+  "all-shows-total": "9",
   "2005-shows-biennials": "2",
   "2005-shows-galleries": "2",
   "2005-shows-museums": "5",
@@ -131,6 +131,28 @@
           "2013-03-15",
           "2013-09-08"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "300709-31143-2014-04-30",
+        "c": "FR"
+      },
+      {
+        "i": "300709-31143-2014-04-30",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "300709",
+        "c": "FR",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "300709-31143-2014-04-30",
+        "c": "FR"
       }
     ]
   }

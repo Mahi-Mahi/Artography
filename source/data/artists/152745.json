@@ -1,7 +1,7 @@
 {
   "id": "152745",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:08:43",
+  "timestamp": "2014-05-31 07:14:10",
   "name": "Stephane Querrec",
   "surname": "Querrec",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "16578",
-  "r01": "18624",
-  "r02": "16363",
-  "r03": "20673",
-  "r04": "20722",
-  "r05": "28474",
-  "r06": "30796",
-  "r07": "38640",
+  "r00": "16666",
+  "r01": "18664",
+  "r02": "16380",
+  "r03": "20719",
+  "r04": "20758",
+  "r05": "28532",
+  "r06": "30847",
+  "r07": "38761",
   "r08": null,
   "awards": null,
   "website": null,
@@ -164,6 +164,21 @@
         "d": [
           "2012-12-15",
           "2013-01-20"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "152745-5313-2014-04-08",
+        "c": "HR",
+        "n": "Spajalica/Copula",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rijeka",
+        "o": "MMSU - Museum of Modern and Contemporary Art Rijeka",
+        "d": [
+          "2014-04-08",
+          "2014-05-31"
         ]
       }
     ],

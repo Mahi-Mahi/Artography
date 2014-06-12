@@ -1,7 +1,7 @@
 {
   "id": "135126",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:02:47",
+  "timestamp": "2014-05-31 07:08:08",
   "name": "Cécile Beau",
   "surname": "Beau",
   "nationality": "FR",
@@ -16,29 +16,29 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "28884",
-  "r01": "30665",
-  "r02": "39435",
-  "r03": "53026",
-  "r04": "47358",
-  "r05": "46687",
-  "r06": "40771",
-  "r07": "54038",
+  "r00": "28818",
+  "r01": "30479",
+  "r02": "39479",
+  "r03": "52993",
+  "r04": "47353",
+  "r05": "46707",
+  "r06": "40780",
+  "r07": "54087",
   "r08": null,
   "awards": null,
   "website": null,
   "all-shows-first": "2007",
   "all-shows-total": "9",
-  "2005-shows-biennials": "1",
-  "2005-shows-galleries": "1",
+  "2005-shows-biennials": "2",
+  "2005-shows-galleries": "2",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (8)",
-  "2005-shows-with": "Cécile Beau (7), Claire Glorieux (2)",
+  "2005-countries-total": "France (9)",
+  "2005-shows-with": "Cécile Beau (8), Claire Glorieux (2)",
   "representing-galleries": "Vidéochroniques (1 place de Lorette, 13002 Marseille, France)",
   "collecting-museums": null,
   "first_name": "Cécile",
   "last_name": "Beau",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1978-01-01",
   "age": 36,
   "age_range": "26-40",
@@ -114,6 +114,36 @@
       },
       {
         "i": "135126-27825-2013-05-17",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "135126-28278-2014-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "135126-28278-2014-01-25",
+        "c": "FR"
+      },
+      {
+        "i": "135126-26257-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "135126-26257-2014-06-06",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "135126",
+        "c": "FR",
+        "g": "n",
+        "a": "26-40"
+      },
+      {
+        "i": "135126-26257-2014-06-06",
         "c": "FR"
       }
     ],

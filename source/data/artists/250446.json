@@ -1,7 +1,7 @@
 {
   "id": "250446",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:42:14",
+  "timestamp": "2014-05-31 07:47:31",
   "name": "Hippolyte Hentgen",
   "surname": "Hippolyte Hentgen",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Artist group",
   "media": null,
-  "r00": "7224",
+  "r00": "7248",
   "r01": "7325",
-  "r02": "12766",
-  "r03": "15194",
-  "r04": "16787",
-  "r05": "69484",
+  "r02": "12739",
+  "r03": "15151",
+  "r04": "16724",
+  "r05": "69545",
   "r06": null,
   "r07": null,
   "r08": null,
   "awards": null,
   "website": "hippolytehentgen.tumblr.com",
   "all-shows-first": "2009",
-  "all-shows-total": "26",
+  "all-shows-total": "25",
   "2005-shows-biennials": "13",
   "2005-shows-galleries": "13",
   "2005-shows-museums": "9",
@@ -273,8 +273,64 @@
     ],
     "2014": [
       {
+        "i": "250446-21710-2014-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "250446-21710-2014-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "250446-31121-2014-06-06",
+        "c": "CH",
+        "n": "Utopie Picturale 2",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Fonderie Kugler",
+        "d": [
+          "2014-06-06",
+          "2014-06-22"
+        ],
+        "a": "250446",
+        "an": "Hippolyte Hentgen"
+      },
+      {
         "i": "250446-28739-2013-12-20",
         "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "250446",
+        "c": "FR",
+        "g": "c",
+        "a": "26-40"
+      },
+      {
+        "i": "250446-21710-2014-05-24",
+        "c": "FR"
+      },
+      {
+        "i": "250446",
+        "c": "CH",
+        "g": "c",
+        "a": "26-40"
+      },
+      {
+        "i": "250446-31121-2014-06-06",
+        "c": "CH",
+        "n": "Utopie Picturale 2",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Fonderie Kugler",
+        "d": [
+          "2014-06-06",
+          "2014-06-22"
+        ],
+        "a": "250446",
+        "an": "Hippolyte Hentgen"
       }
     ]
   }

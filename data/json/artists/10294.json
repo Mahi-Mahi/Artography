@@ -1,7 +1,7 @@
 {
   "id": "10294",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:19:02",
+  "timestamp": "2014-05-31 06:24:30",
   "name": "Olivier Blanckart",
   "surname": "Blanckart",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Sculpture",
-  "r00": "6218",
-  "r01": "5305",
-  "r02": "4943",
-  "r03": "3801",
-  "r04": "3750",
-  "r05": "2946",
-  "r06": "2970",
-  "r07": "2485",
-  "r08": "1907",
+  "r00": "6273",
+  "r01": "5318",
+  "r02": "4949",
+  "r03": "3807",
+  "r04": "3761",
+  "r05": "2950",
+  "r06": "2974",
+  "r07": "2491",
+  "r08": "1909",
   "awards": null,
   "website": null,
   "all-shows-first": "1989",
@@ -451,6 +451,27 @@
       {
         "i": "10294-2585-2013-11-24",
         "c": "FR"
+      },
+      {
+        "i": "10294-1372-2014-01-01",
+        "c": "FR"
+      },
+      {
+        "i": "10294-1372-2014-01-01",
+        "c": "FR"
+      },
+      {
+        "i": "10294-1715-2014-04-04",
+        "c": "BE",
+        "n": "Full House - 15 Years of Inventory and Exhibitions at Aeroplastics Contemporary",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2014-04-04",
+          "2014-05-17"
+        ]
       }
     ]
   }

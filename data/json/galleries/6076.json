@@ -12,13 +12,13 @@
   "email": "brame.lorenceau@wanadoo.fr",
   "www": "www.gbl.fr",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075008 %2C%20 %2C%2068 Boulevard Malesherbes %2C%20France",
-  "fairs-total": "6",
-  "fairs-abroad": "6",
+  "fairs-total": "7",
+  "fairs-abroad": "7",
   "fairs-in-FR": "0",
   "fairs": {
     "2007": [
       {
-        "i": "6076-TEFAF Maastricht 2007",
+        "i": "6076-TEFAF-Maastricht-2007",
         "c": "NL",
         "n": "TEFAF Maastricht 2007",
         "ct": "Maastricht"
@@ -26,7 +26,7 @@
     ],
     "2008": [
       {
-        "i": "6076-TEFAF Maastricht 2008",
+        "i": "6076-TEFAF-Maastricht-2008",
         "c": "NL",
         "n": "TEFAF Maastricht 2008",
         "ct": "Maastricht"
@@ -34,7 +34,7 @@
     ],
     "2009": [
       {
-        "i": "6076-TEFAF Maastricht 2009",
+        "i": "6076-TEFAF-Maastricht-2009",
         "c": "NL",
         "n": "TEFAF Maastricht 2009",
         "ct": "Maastricht"
@@ -42,7 +42,7 @@
     ],
     "2010": [
       {
-        "i": "6076-TEFAF Maastricht 2010",
+        "i": "6076-TEFAF-Maastricht-2010",
         "c": "NL",
         "n": "TEFAF Maastricht 2010",
         "ct": "Maastricht"
@@ -50,7 +50,7 @@
     ],
     "2011": [
       {
-        "i": "6076-TEFAF Maastricht 2011",
+        "i": "6076-TEFAF-Maastricht-2011",
         "c": "NL",
         "n": "TEFAF Maastricht 2011",
         "ct": "Helvoirt"
@@ -58,10 +58,18 @@
     ],
     "2013": [
       {
-        "i": "6076-TEFAF Maastricht 2013",
+        "i": "6076-TEFAF-Maastricht-2013",
         "c": "NL",
         "n": "TEFAF Maastricht 2013",
         "ct": "Maastricht"
+      }
+    ],
+    "2014": [
+      {
+        "i": "6076-Art-Basel-Hong-Kong-2014",
+        "c": "CN",
+        "n": "Art Basel Hong Kong 2014",
+        "ct": "Hong Kong, SAR"
       }
     ]
   }

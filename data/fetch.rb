@@ -180,7 +180,7 @@ af_galleries.shuffle.slice(0, nb_datas).each do |gallery|
 				fair = {}
 				fair_detail = {}
 				fair[:i] = gallery['id'].gsub(/ /, '-')
-				fair_detail[:i] = "#{gallery['id']}-#{af_fair['title']}"
+				fair_detail[:i] = "#{gallery['id']}-#{af_fair['title'].gsub(/ /, '-')}"
 				begin
 					fair[:c] = c.alpha2
 					fair_detail[:c] = c.alpha2
@@ -240,7 +240,10 @@ af_artists.shuffle.slice(0, nb_datas).each do |artist|
 		artist[:genre] = 'm'
 	when 'Female'
 		artist[:genre] = 'f'
+	when nil
+		artist[:genre] = 'n'
 	else
+		p artist['attributes']
 		artist[:genre] = 'c'
 	end
 

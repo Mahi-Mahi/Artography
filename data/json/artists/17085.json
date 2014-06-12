@@ -1,7 +1,7 @@
 {
   "id": "17085",
   "mergedIDs": "395539",
-  "timestamp": "2014-05-24 06:21:44",
+  "timestamp": "2014-05-31 06:27:15",
   "name": "Taroop & Glabel",
   "surname": "Taroop & Glabel",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Artist group",
   "media": null,
-  "r00": "4396",
-  "r01": "4246",
+  "r00": "4427",
+  "r01": "4251",
   "r02": "4280",
-  "r03": "4172",
-  "r04": "4069",
-  "r05": "3451",
-  "r06": "3268",
-  "r07": "4243",
-  "r08": "5635",
+  "r03": "4177",
+  "r04": "4073",
+  "r05": "3455",
+  "r06": "3270",
+  "r07": "4252",
+  "r08": "5637",
   "awards": null,
   "website": null,
   "all-shows-first": "1993",
-  "all-shows-total": "49",
+  "all-shows-total": "50",
   "2005-shows-biennials": "8",
   "2005-shows-galleries": "8",
   "2005-shows-museums": "17",
@@ -358,6 +358,14 @@
     "2014": [
       {
         "i": "17085-2585-2013-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "17085-10517-2014-01-13",
+        "c": "FR"
+      },
+      {
+        "i": "17085-10517-2014-01-13",
         "c": "FR"
       }
     ]

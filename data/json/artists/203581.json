@@ -1,7 +1,7 @@
 {
   "id": "203581",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:26:12",
+  "timestamp": "2014-05-31 07:31:34",
   "name": "Maxime Rossi",
   "surname": "Rossi",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "9244",
-  "r01": "33276",
-  "r02": "53241",
-  "r03": "58407",
-  "r04": "75906",
-  "r05": "69042",
-  "r06": "75538",
+  "r00": "9304",
+  "r01": "33372",
+  "r02": "53339",
+  "r03": "58496",
+  "r04": "76035",
+  "r05": "69151",
+  "r06": "75658",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "Maxime",
   "last_name": "Rossi",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1980-01-01",
   "age": 34,
   "age_range": "26-40",
@@ -132,6 +132,28 @@
         "d": [
           "2013-09-28",
           "2013-12-07"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "203581-1782-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "203581-1782-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "203581-4081-2014-03-21",
+        "c": "AU",
+        "n": "19th Biennale of Sydney - You imagine what you desire",
+        "st": "Group",
+        "ct": "Sydney, NSW",
+        "o": "Biennale of Sydney",
+        "d": [
+          "2014-03-21",
+          "2014-06-09"
         ]
       }
     ]

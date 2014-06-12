@@ -12,9 +12,15 @@
   "email": "isa.bost@hotmail.fr",
   "www": null,
   "map": "http://maps.google.com/maps?q=Valence%2C%2026000 %2C%20 %2C%2024 Grande Rue %2C%20France",
-  "fairs-total": "0",
+  "fairs-total": "1",
   "fairs-abroad": "0",
-  "fairs-in-FR": "0",
+  "fairs-in-FR": "1",
   "fairs": {
+    "2014": [
+      {
+        "i": "30408-Art-Up!-2014",
+        "c": "FR"
+      }
+    ]
   }
 }

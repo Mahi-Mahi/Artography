@@ -1,7 +1,7 @@
 {
   "id": "20608",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:23:05",
+  "timestamp": "2014-05-31 06:28:37",
   "name": "Benjamin Sabatier",
   "surname": "Sabatier",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "7584",
-  "r01": "9188",
-  "r02": "10397",
-  "r03": "15024",
-  "r04": "13808",
+  "r00": "7619",
+  "r01": "9202",
+  "r02": "10404",
+  "r03": "15028",
+  "r04": "13810",
   "r05": "12065",
-  "r06": "16253",
-  "r07": "13029",
-  "r08": "17882",
+  "r06": "16259",
+  "r07": "13028",
+  "r08": "17887",
   "awards": null,
   "website": null,
   "all-shows-first": "2003",
@@ -109,19 +109,19 @@
         ]
       },
       {
-        "i": "20608-28142-2012-09-07",
-        "c": "FR"
-      },
-      {
-        "i": "20608-28142-2012-09-07",
-        "c": "FR"
-      },
-      {
         "i": "20608-11771-2012-09-07",
         "c": "FR"
       },
       {
         "i": "20608-11771-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "20608-28142-2012-09-07",
+        "c": "FR"
+      },
+      {
+        "i": "20608-28142-2012-09-07",
         "c": "FR"
       },
       {
@@ -150,6 +150,75 @@
     "2014": [
       {
         "i": "20608-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "20608-5845-2014-01-18",
+        "c": "DE",
+        "n": "Raw Materials - Vom Baumarkt ins Museum",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Bietigheim-Bissingen",
+        "o": "Städtische Galerie Bietigheim-Bissingen",
+        "d": [
+          "2014-01-18",
+          "2014-03-30"
+        ]
+      },
+      {
+        "i": "20608-10830-2014-04-12",
+        "c": "DE",
+        "n": "Raw materials - Vom Baumarkt ins Museum",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Delmenhorst",
+        "o": "Städtische Galerie Delmenhorst",
+        "d": [
+          "2014-04-12",
+          "2014-06-15"
+        ],
+        "a": "20608",
+        "an": "Benjamin Sabatier"
+      },
+      {
+        "i": "20608-26257-2014-06-06",
+        "c": "FR"
+      },
+      {
+        "i": "20608-26257-2014-06-06",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "20608",
+        "c": "DE",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "20608-10830-2014-04-12",
+        "c": "DE",
+        "n": "Raw materials - Vom Baumarkt ins Museum",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Delmenhorst",
+        "o": "Städtische Galerie Delmenhorst",
+        "d": [
+          "2014-04-12",
+          "2014-06-15"
+        ],
+        "a": "20608",
+        "an": "Benjamin Sabatier"
+      },
+      {
+        "i": "20608",
+        "c": "FR",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "20608-26257-2014-06-06",
         "c": "FR"
       }
     ],

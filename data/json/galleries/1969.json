@@ -12,29 +12,29 @@
   "email": "galeriepietrosparta@wanadoo.fr",
   "www": null,
   "map": "http://maps.google.com/maps?q=Chagny%2C%2071150 %2C%20 %2C%206, rue Beaune + 30, rue de Chaudenay %2C%20France",
-  "fairs-total": "22",
-  "fairs-abroad": "12",
+  "fairs-total": "23",
+  "fairs-abroad": "13",
   "fairs-in-FR": "10",
   "fairs": {
     "2005": [
       {
-        "i": "1969-ARCO 05",
+        "i": "1969-ARCO-05",
         "c": "ES",
         "n": "ARCO 05",
         "ct": "Madrid"
       },
       {
-        "i": "1969-Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "i": "1969-Art-Brussels-2005---23rd-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2005 - 23rd Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "1969-Fiac 2005",
+        "i": "1969-Fiac-2005",
         "c": "FR"
       },
       {
-        "i": "1969-Frieze Art Fair 2005",
+        "i": "1969-Frieze-Art-Fair-2005",
         "c": "GB",
         "n": "Frieze Art Fair 2005",
         "ct": "London"
@@ -42,108 +42,116 @@
     ],
     "2006": [
       {
-        "i": "1969-Art Brussels 2006- 24th Contemporary Art Fair",
+        "i": "1969-Art-Brussels-2006--24th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2006- 24th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "1969-Fiac 2006",
+        "i": "1969-Fiac-2006",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "1969-Art Brussels 2007- 25th Contemporary Art Fair",
+        "i": "1969-Art-Brussels-2007--25th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2007- 25th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "1969-Fiac 2007",
+        "i": "1969-Fiac-2007",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "1969-Salon du Dessin Contemporain 2008",
+        "i": "1969-Salon-du-Dessin-Contemporain-2008",
         "c": "FR"
       },
       {
-        "i": "1969-Art Brussels 2008- 26th Contemporary Art Fair",
+        "i": "1969-Art-Brussels-2008--26th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2008- 26th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "1969-Fiac 2008",
+        "i": "1969-Fiac-2008",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "1969-Art Brussels 2009 - 27th Contemporary Art Fair",
+        "i": "1969-Art-Brussels-2009---27th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2009 - 27th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "1969-Fiac 2009",
+        "i": "1969-Fiac-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "1969-Art Brussels 2010 - 28th Contemporary Art Fair",
+        "i": "1969-Art-Brussels-2010---28th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2010 - 28th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "1969-Fiac 2010",
+        "i": "1969-Fiac-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "1969-Art Brussels 2011",
+        "i": "1969-Art-Brussels-2011",
         "c": "BE",
         "n": "Art Brussels 2011",
         "ct": "Brussels"
       },
       {
-        "i": "1969-Fiac 2011",
+        "i": "1969-Fiac-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "1969-Art Brussels 2012",
+        "i": "1969-Art-Brussels-2012",
         "c": "BE",
         "n": "Art Brussels 2012",
         "ct": "Brussels"
       },
       {
-        "i": "1969-Fiac 2012",
+        "i": "1969-Fiac-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "1969-Art Brussels 2013",
+        "i": "1969-Art-Brussels-2013",
         "c": "BE",
         "n": "Art Brussels 2013",
         "ct": "Brussels"
       },
       {
-        "i": "1969-Art Basel 2013",
+        "i": "1969-Art-Basel-2013",
         "c": "CH",
         "n": "Art Basel 2013",
         "ct": "Basel"
       },
       {
-        "i": "1969-FIAC 2013",
+        "i": "1969-FIAC-2013",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "1969-Art-Brussel-2014",
+        "c": "BE",
+        "n": "Art Brussel 2014",
+        "ct": "Brussels"
       }
     ]
   }

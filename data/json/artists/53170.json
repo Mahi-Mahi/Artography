@@ -1,7 +1,7 @@
 {
   "id": "53170",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:34:46",
+  "timestamp": "2014-05-31 06:40:13",
   "name": "Laurent Montaron",
   "surname": "Montaron",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "904",
-  "r01": "979",
-  "r02": "1405",
-  "r03": "1503",
-  "r04": "1700",
-  "r05": "1814",
-  "r06": "2145",
+  "r00": "858",
+  "r01": "949",
+  "r02": "1406",
+  "r03": "1504",
+  "r04": "1699",
+  "r05": "1812",
+  "r06": "2146",
   "r07": "2325",
-  "r08": "3176",
+  "r08": "3177",
   "awards": null,
   "website": null,
   "all-shows-first": "1998",
-  "all-shows-total": "83",
+  "all-shows-total": "84",
   "2005-shows-biennials": "11",
   "2005-shows-galleries": "11",
-  "2005-shows-museums": "30",
-  "2005-countries-total": "France (30), Germany (8), Italy (3), United Kingdom (3), USA (3), Australia (2), Russia (2), Switzerland (2), Austria (1), Egypt (1), Japan (1), Luxembourg (1), Netherlands (1), Sweden (1)",
-  "2005-shows-with": "Laurent Montaron (51), Aurélien Froment (9), Ulla von Brandenburg (8), Ryan Gander (8), Jason Dodge (7), Dove Allouche (6), Guillaume Leblon (6), Anri Sala (6), Julieta Aranda (5), Michel François (5), Evariste Richer (5), Raphaël Zarka (5), Saâdane Afif (4), Pierre Bismuth (4), Katinka Bock (4), Mircea Cantor (4), Claude Closky (4), Jeremy Deller (4), Hans-Peter Feldmann (4), Mario Garcia Torres (4), Laurent Grasso (4), Pierre Huyghe (4), Isa Melsheimer (4), Matt Mullican (4), Jean-Luc Verna (4), Andy Hope 1930 (3), Zbynek Baladran (3), Davide Balula (3), Rosa Barba (3), Sue de Beer (3), Peter Coffin (3), Julien Crépieux (3), Julien Discrit (3), Stan Douglas (3), Tjorg Douglas Beer (3), Elmgreen & Dragset (3), Cyprien Gaillard (3), Mark Geffriaud (3), Douglas Gordon (3), Dan Graham (3), Eberhard Havekost (3), Mathilde ter Heijne (3), Alexander Heim (3), Uwe Henneken (3), Camille Henrot (3), Gregor Hildebrandt (3), Graham Hudson (3), Volker Hueller (3), James Ireland (3), Lisa Junghanß (3), John Kleckne",
+  "2005-shows-museums": "32",
+  "2005-countries-total": "France (32), Germany (8), Italy (3), United Kingdom (3), USA (3), Australia (2), Russia (2), Switzerland (2), Austria (1), Egypt (1), Japan (1), Luxembourg (1), Netherlands (1), Sweden (1)",
+  "2005-shows-with": "Laurent Montaron (53), Aurélien Froment (9), Ulla von Brandenburg (8), Ryan Gander (8), Guillaume Leblon (8), Jason Dodge (7), Dove Allouche (6), Anri Sala (6), Raphaël Zarka (6), Julieta Aranda (5), Michel François (5), Evariste Richer (5), Saâdane Afif (4), Pierre Bismuth (4), Katinka Bock (4), Mircea Cantor (4), Claude Closky (4), Jeremy Deller (4), Hans-Peter Feldmann (4), Mario Garcia Torres (4), Laurent Grasso (4), Pierre Huyghe (4), Isa Melsheimer (4), Matt Mullican (4), Jean-Luc Verna (4), Andy Hope 1930 (3), Zbynek Baladran (3), Davide Balula (3), Rosa Barba (3), Sue de Beer (3), Peter Coffin (3), Julien Crépieux (3), Alain Declercq (3), Julien Discrit (3), Stan Douglas (3), Tjorg Douglas Beer (3), Elmgreen & Dragset (3), Cyprien Gaillard (3), Mark Geffriaud (3), Douglas Gordon (3), Dan Graham (3), Rodney Graham (3), Eberhard Havekost (3), Mathilde ter Heijne (3), Alexander Heim (3), Uwe Henneken (3), Camille Henrot (3), Gregor Hildebrandt (3), Graham Hudson (3), Volker Hueller (3), James Irelan",
   "representing-galleries": "SCHLEICHER/LANGE (Markgrafenstrasse 68, 10969 Berlin, Germany)",
   "collecting-museums": "FRAC Aquitaine (Hangar G2, Bassin à flot n°1, Quai Armand Lalande, 33300 Bordeaux, France); FRAC - Auvergne (Rue de la Selette, 63000 Clermont Ferrand, France); Kadist Art Foundation (19 bis -21 rue Trois Fréres, 75018 Paris, France); FRAC - Champagne-Ardenne (1, Place Museux, 51100 Reims, France)",
   "first_name": "Laurent",
@@ -259,19 +259,6 @@
         ]
       },
       {
-        "i": "53170-2662-2007-06-29",
-        "c": "ES",
-        "n": "Intocable (el ideal de la transparencia)",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Valladolid",
-        "o": "Patio Herreriano - Museo de Arte Contemporáneo Español",
-        "d": [
-          "2007-06-29",
-          "2007-09-16"
-        ]
-      },
-      {
         "i": "53170-10736-2007-06-29",
         "c": "DE",
         "n": "dark matter",
@@ -282,6 +269,19 @@
         "d": [
           "2007-06-29",
           "2007-08-05"
+        ]
+      },
+      {
+        "i": "53170-2662-2007-06-29",
+        "c": "ES",
+        "n": "Intocable (el ideal de la transparencia)",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Valladolid",
+        "o": "Patio Herreriano - Museo de Arte Contemporáneo Español",
+        "d": [
+          "2007-06-29",
+          "2007-09-16"
         ]
       },
       {
@@ -988,6 +988,74 @@
       {
         "i": "53170-2353-2013-10-05",
         "c": "FR"
+      },
+      {
+        "i": "53170-11214-2014-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "53170-11214-2014-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "53170-4081-2014-03-21",
+        "c": "AU",
+        "n": "19th Biennale of Sydney - You imagine what you desire",
+        "st": "Group",
+        "ct": "Sydney, NSW",
+        "o": "Biennale of Sydney",
+        "d": [
+          "2014-03-21",
+          "2014-06-09"
+        ]
+      },
+      {
+        "i": "53170-30970-2014-05-06",
+        "c": "EG",
+        "n": "A Guest Without A Host Is A Ghost",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Cairo",
+        "o": "Beirut",
+        "d": [
+          "2014-05-06",
+          "2014-06-18"
+        ],
+        "a": "53170",
+        "an": "Laurent Montaron"
+      }
+    ],
+    "today": [
+      {
+        "i": "53170",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "53170-11214-2014-03-01",
+        "c": "FR"
+      },
+      {
+        "i": "53170",
+        "c": "EG",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "53170-30970-2014-05-06",
+        "c": "EG",
+        "n": "A Guest Without A Host Is A Ghost",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Cairo",
+        "o": "Beirut",
+        "d": [
+          "2014-05-06",
+          "2014-06-18"
+        ],
+        "a": "53170",
+        "an": "Laurent Montaron"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "267485",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:48:06",
+  "timestamp": "2014-05-31 07:53:21",
   "name": "Juliette Bonneviot",
   "surname": "Bonneviot",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": "Painting",
-  "r00": "5727",
-  "r01": "7627",
-  "r02": "11823",
-  "r03": "15578",
-  "r04": "86040",
-  "r05": "105810",
-  "r06": "98679",
-  "r07": "90201",
-  "r08": "81290",
+  "r00": "5770",
+  "r01": "7635",
+  "r02": "11821",
+  "r03": "15579",
+  "r04": "86322",
+  "r05": "105984",
+  "r06": "98831",
+  "r07": "90319",
+  "r08": "81364",
   "awards": null,
   "website": null,
   "all-shows-first": "2005",
@@ -462,6 +462,72 @@
       {
         "i": "267485-2493-2013-09-12",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "267485-14394-2014-03-11",
+        "c": "CN",
+        "n": "Art Post-Internet",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Beijing",
+        "o": "UCCA - Ullens Center for Contemporary Art",
+        "d": [
+          "2014-03-11",
+          "2014-05-11"
+        ]
+      },
+      {
+        "i": "267485-8257-2014-03-27",
+        "c": "AT",
+        "n": "Call me on Sunday",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Vienna",
+        "o": "Krinzinger Projekte",
+        "d": [
+          "2014-03-27",
+          "2014-05-31"
+        ]
+      },
+      {
+        "i": "267485-356-2014-05-11",
+        "c": "DE",
+        "n": "nature after nature",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Kassel",
+        "o": "Kunsthalle Fridericianum",
+        "d": [
+          "2014-05-11",
+          "2014-07-27"
+        ],
+        "a": "267485",
+        "an": "Juliette Bonneviot"
+      }
+    ],
+    "today": [
+      {
+        "i": "267485",
+        "c": "DE",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "267485-356-2014-05-11",
+        "c": "DE",
+        "n": "nature after nature",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Kassel",
+        "o": "Kunsthalle Fridericianum",
+        "d": [
+          "2014-05-11",
+          "2014-07-27"
+        ],
+        "a": "267485",
+        "an": "Juliette Bonneviot"
       }
     ]
   }

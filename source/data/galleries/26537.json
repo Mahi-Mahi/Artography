@@ -12,32 +12,46 @@
   "email": "galerie@ifgalerie.com",
   "www": "www.imanefares.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2041, rue Mazarine %2C%20France",
-  "fairs-total": "4",
-  "fairs-abroad": "2",
+  "fairs-total": "6",
+  "fairs-abroad": "4",
   "fairs-in-FR": "2",
   "fairs": {
     "2012": [
       {
-        "i": "26537-Art Paris Art Fair 2012",
+        "i": "26537-Art-Paris-Art-Fair-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "26537-Art Dubai 2013",
+        "i": "26537-Art-Dubai-2013",
         "c": "AE",
         "n": "Art Dubai 2013",
         "ct": "Dubai"
       },
       {
-        "i": "26537-Art Paris Art Fair 2013",
+        "i": "26537-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "26537-1:54 - Contemporary African Art Fair 2013",
+        "i": "26537-1:54---Contemporary-African-Art-Fair-2013",
         "c": "GB",
         "n": "1:54 - Contemporary African Art Fair 2013",
         "ct": "London"
+      }
+    ],
+    "2014": [
+      {
+        "i": "26537-Art-Dubai-2014",
+        "c": "AE",
+        "n": "Art Dubai 2014",
+        "ct": "Dubai"
+      },
+      {
+        "i": "26537-Art-Brussel-2014",
+        "c": "BE",
+        "n": "Art Brussel 2014",
+        "ct": "Brussels"
       }
     ]
   }

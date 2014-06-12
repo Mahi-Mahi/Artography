@@ -12,85 +12,85 @@
   "email": "contact@catherineputman.com",
   "www": "www.catherineputman.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075004 %2C%20 %2C%2040,rue Quincampoix %2C%20France",
-  "fairs-total": "24",
+  "fairs-total": "26",
   "fairs-abroad": "13",
-  "fairs-in-FR": "11",
+  "fairs-in-FR": "13",
   "fairs": {
     "2005": [
       {
-        "i": "3508-ARCO 05",
+        "i": "3508-ARCO-05",
         "c": "ES",
         "n": "ARCO 05",
         "ct": "Madrid"
       },
       {
-        "i": "3508-Art 36 Basel",
+        "i": "3508-Art-36-Basel",
         "c": "CH",
         "n": "Art 36 Basel",
         "ct": "Basel"
       },
       {
-        "i": "3508-Fiac 2005",
+        "i": "3508-Fiac-2005",
         "c": "FR"
       }
     ],
     "2006": [
       {
-        "i": "3508-ARCO 06",
+        "i": "3508-ARCO-06",
         "c": "ES",
         "n": "ARCO 06",
         "ct": "Madrid"
       },
       {
-        "i": "3508-Art 37 Basel",
+        "i": "3508-Art-37-Basel",
         "c": "CH",
         "n": "Art 37 Basel",
         "ct": "Basel"
       },
       {
-        "i": "3508-Fiac 2006",
+        "i": "3508-Fiac-2006",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "3508-ARCO 07",
+        "i": "3508-ARCO-07",
         "c": "ES",
         "n": "ARCO 07",
         "ct": "Madrid"
       },
       {
-        "i": "3508-ArtParis 07",
+        "i": "3508-ArtParis-07",
         "c": "FR"
       },
       {
-        "i": "3508-Art 38 Basel",
+        "i": "3508-Art-38-Basel",
         "c": "CH",
         "n": "Art 38 Basel",
         "ct": "Basel"
       },
       {
-        "i": "3508-Fiac 2007",
+        "i": "3508-Fiac-2007",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "3508-ARCO 08",
+        "i": "3508-ARCO-08",
         "c": "ES",
         "n": "ARCO 08",
         "ct": "Madrid"
       },
       {
-        "i": "3508-ArtParis 08",
+        "i": "3508-ArtParis-08",
         "c": "FR"
       },
       {
-        "i": "3508-Salon du Dessin Contemporain 2008",
+        "i": "3508-Salon-du-Dessin-Contemporain-2008",
         "c": "FR"
       },
       {
-        "i": "3508-Art 39 Basel",
+        "i": "3508-Art-39-Basel",
         "c": "CH",
         "n": "Art 39 Basel",
         "ct": "Basel"
@@ -98,7 +98,7 @@
     ],
     "2009": [
       {
-        "i": "3508-ARCO 09",
+        "i": "3508-ARCO-09",
         "c": "ES",
         "n": "ARCO 09",
         "ct": "Madrid"
@@ -106,53 +106,63 @@
     ],
     "2010": [
       {
-        "i": "3508-ARCOmadrid  2010",
+        "i": "3508-ARCOmadrid--2010",
         "c": "ES",
         "n": "ARCOmadrid  2010",
         "ct": "Madrid"
       },
       {
-        "i": "3508-Salon du Dessin Contemporain 2010",
+        "i": "3508-Salon-du-Dessin-Contemporain-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "3508-ARCOmadrid  2011",
+        "i": "3508-ARCOmadrid--2011",
         "c": "ES",
         "n": "ARCOmadrid  2011",
         "ct": "Madrid"
       },
       {
-        "i": "3508-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "i": "3508-Drawing-Now-Paris---Le-Salon-Du-Dessin-Contemporain-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "3508-ARCOmadrid 2012",
+        "i": "3508-ARCOmadrid-2012",
         "c": "ES",
         "n": "ARCOmadrid 2012",
         "ct": "Madrid"
       },
       {
-        "i": "3508-Art Paris Art Fair 2012",
+        "i": "3508-Art-Paris-Art-Fair-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "3508-ARCOmadrid 2013",
+        "i": "3508-ARCOmadrid-2013",
         "c": "ES",
         "n": "ARCOmadrid 2013",
         "ct": "Madrid"
       },
       {
-        "i": "3508-Art Paris Art Fair 2013",
+        "i": "3508-Art-Paris-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "3508-Drawing Paris i le Salon du Dessin Contemporain 2013",
+        "i": "3508-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "3508-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
+        "c": "FR"
+      },
+      {
+        "i": "3508-Artparis-2014",
         "c": "FR"
       }
     ]

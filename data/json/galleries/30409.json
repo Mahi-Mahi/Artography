@@ -12,9 +12,15 @@
   "email": "atelierdescypres@orange.fr",
   "www": null,
   "map": "http://maps.google.com/maps?q=Saint Remy de Provence%2C%2013210 %2C%20 %2C%203 place Joseph Hilaire %2C%20France",
-  "fairs-total": "0",
+  "fairs-total": "1",
   "fairs-abroad": "0",
-  "fairs-in-FR": "0",
+  "fairs-in-FR": "1",
   "fairs": {
+    "2014": [
+      {
+        "i": "30409-Art-Up!-2014",
+        "c": "FR"
+      }
+    ]
   }
 }

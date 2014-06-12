@@ -1,7 +1,7 @@
 {
   "id": "191018",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:21:54",
+  "timestamp": "2014-05-31 07:27:17",
   "name": "Franck Leibovici",
   "surname": "Leibovici",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "12034",
-  "r01": "19393",
-  "r02": "21886",
-  "r03": "34600",
-  "r04": "61999",
-  "r05": "76574",
-  "r06": "69456",
+  "r00": "12092",
+  "r01": "19436",
+  "r02": "21917",
+  "r03": "34652",
+  "r04": "62040",
+  "r05": "76664",
+  "r06": "69550",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -179,6 +179,52 @@
       {
         "i": "191018-10218-2013-10-25",
         "c": "FR"
+      },
+      {
+        "i": "191018-17760-2014-03-22",
+        "c": "ES",
+        "n": "PER/FORM. How to do things with[out] words",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Móstoles",
+        "o": "CA2M - Centro de Arte Dos de Mayo",
+        "d": [
+          "2014-03-22",
+          "2014-09-20"
+        ],
+        "a": "191018",
+        "an": "Franck Leibovici"
+      },
+      {
+        "i": "191018-2585-2014-04-13",
+        "c": "FR"
+      },
+      {
+        "i": "191018-2585-2014-04-13",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "191018",
+        "c": "ES",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "191018-17760-2014-03-22",
+        "c": "ES",
+        "n": "PER/FORM. How to do things with[out] words",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Móstoles",
+        "o": "CA2M - Centro de Arte Dos de Mayo",
+        "d": [
+          "2014-03-22",
+          "2014-09-20"
+        ],
+        "a": "191018",
+        "an": "Franck Leibovici"
       }
     ]
   }

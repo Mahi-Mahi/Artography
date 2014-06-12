@@ -1,7 +1,7 @@
 {
   "id": "58850",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:36:47",
+  "timestamp": "2014-05-31 06:42:14",
   "name": "Julien Beneyton",
   "surname": "Beneyton",
   "nationality": "FR",
@@ -16,24 +16,24 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "18140",
-  "r01": "17748",
-  "r02": "17037",
-  "r03": "17481",
-  "r04": "31372",
-  "r05": "35652",
-  "r06": "32660",
-  "r07": "43504",
-  "r08": "57970",
+  "r00": "17997",
+  "r01": "17762",
+  "r02": "17038",
+  "r03": "17458",
+  "r04": "31375",
+  "r05": "35670",
+  "r06": "32674",
+  "r07": "43568",
+  "r08": "58042",
   "awards": null,
   "website": null,
   "all-shows-first": "2004",
   "all-shows-total": "18",
-  "2005-shows-biennials": "9",
-  "2005-shows-galleries": "9",
+  "2005-shows-biennials": "10",
+  "2005-shows-galleries": "10",
   "2005-shows-museums": "4",
-  "2005-countries-total": "France (11), Austria (1), Belgium (1), Slovenia (1)",
-  "2005-shows-with": "Julien Beneyton (8), Élodie Lesourd (4), Éric Pougeau (4), Lionel Scoccimaro (4), Iris Levasseur (3), Olivier Masmonteil (3), Ronan Barrot (2), Romain Bernini (2), Gaël Davrinche (2), Gregory Forstner (2), Armand Jalut (2), Youcef Korichi (2), P. Nicolas Ledoux (2), Axel Pahlavi (2), Loîc Raguénès (2), Emmanuel Régent (2), Florence Reymond (2), Raphaëlle Ricol (2), Anne-Laure Sacriste (2), Ida Tursic & Wilfried Mille (2), Duncan Wylie (2)",
+  "2005-countries-total": "France (12), Austria (1), Belgium (1), Slovenia (1)",
+  "2005-shows-with": "Julien Beneyton (9), Éric Pougeau (5), Lionel Scoccimaro (5), Élodie Lesourd (4), Romain Bernini (3), Iris Levasseur (3), Olivier Masmonteil (3), Emmanuel Régent (3), Thierry Agnone (2), Ronan Barrot (2), Gaël Davrinche (2), Gregory Forstner (2), Armand Jalut (2), Youcef Korichi (2), Thierry Lagalla (2), P. Nicolas Ledoux (2), Axel Pahlavi (2), Loîc Raguénès (2), Philippe Ramette (2), Florence Reymond (2), Raphaëlle Ricol (2), Anne-Laure Sacriste (2), Ida Tursic & Wilfried Mille (2), Jean-Luc Verna (2), Duncan Wylie (2)",
   "representing-galleries": "Galerie Olivier Robert (19, rue Mazarine, 75006 Paris, France)",
   "collecting-museums": null,
   "first_name": "Julien",
@@ -197,6 +197,28 @@
       },
       {
         "i": "58850-13545-2011-12-11",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "58850-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "58850-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "58850",
+        "c": "FR",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "58850-16752-2014-04-19",
         "c": "FR"
       }
     ],

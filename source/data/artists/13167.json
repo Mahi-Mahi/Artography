@@ -1,7 +1,7 @@
 {
   "id": "13167",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:09",
+  "timestamp": "2014-05-31 06:25:38",
   "name": "Martial Raysse",
   "surname": "Raysse",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Male",
   "media": "Painting, Installation, Sculpture, Assemblage",
-  "r00": "1142",
-  "r01": "1152",
-  "r02": "1169",
-  "r03": "1212",
-  "r04": "1160",
-  "r05": "1228",
+  "r00": "1146",
+  "r01": "1157",
+  "r02": "1170",
+  "r03": "1211",
+  "r04": "1159",
+  "r05": "1229",
   "r06": "979",
-  "r07": "1018",
+  "r07": "1017",
   "r08": "934",
   "awards": null,
   "website": null,
   "all-shows-first": "1961",
-  "all-shows-total": "118",
+  "all-shows-total": "119",
   "2005-shows-biennials": "13",
   "2005-shows-galleries": "13",
   "2005-shows-museums": "33",
@@ -914,6 +914,62 @@
     "2014": [
       {
         "i": "13167-8996-2013-10-11",
+        "c": "FR"
+      },
+      {
+        "i": "13167-1778-2014-02-12",
+        "c": "CH",
+        "n": "cycle Des histoires sans fin, séquence printemps 2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2014-02-12",
+          "2014-06-18"
+        ],
+        "a": "13167",
+        "an": "Martial Raysse"
+      },
+      {
+        "i": "13167-27822-2014-03-20",
+        "c": "FR"
+      },
+      {
+        "i": "13167-27822-2014-03-20",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "13167",
+        "c": "CH",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "13167-1778-2014-02-12",
+        "c": "CH",
+        "n": "cycle Des histoires sans fin, séquence printemps 2014",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Geneva",
+        "o": "Mamco - musée d´art moderne et contemporain",
+        "d": [
+          "2014-02-12",
+          "2014-06-18"
+        ],
+        "a": "13167",
+        "an": "Martial Raysse"
+      },
+      {
+        "i": "13167",
+        "c": "FR",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "13167-27822-2014-03-20",
         "c": "FR"
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "338175",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 08:11:55",
+  "timestamp": "2014-05-31 08:17:07",
   "name": "N’Krumah Lawson Daku",
   "surname": "Lawson Daku",
   "nationality": "FR",
@@ -16,9 +16,9 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "39408",
-  "r01": "41754",
-  "r02": "44739",
+  "r00": "39623",
+  "r01": "41837",
+  "r02": "44792",
   "r03": null,
   "r04": null,
   "r05": null,
@@ -38,7 +38,7 @@
   "collecting-museums": null,
   "first_name": "N’Krumah",
   "last_name": "Lawson",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1974-01-01",
   "age": 40,
   "age_range": "26-40",
@@ -66,6 +66,16 @@
           "2013-06-09",
           "2013-06-29"
         ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "338175-27831-2014-03-22",
+        "c": "FR"
+      },
+      {
+        "i": "338175-27831-2014-03-22",
+        "c": "FR"
       }
     ]
   }

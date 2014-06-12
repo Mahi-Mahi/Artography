@@ -1,7 +1,7 @@
 {
   "id": "5300",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:17:00",
+  "timestamp": "2014-05-31 06:22:33",
   "name": "Bruno Serralongue",
   "surname": "Serralongue",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography",
-  "r00": "1437",
-  "r01": "1366",
+  "r00": "1447",
+  "r01": "1367",
   "r02": "1378",
-  "r03": "1219",
-  "r04": "1260",
+  "r03": "1220",
+  "r04": "1263",
   "r05": "1447",
-  "r06": "1352",
-  "r07": "1166",
+  "r06": "1354",
+  "r07": "1167",
   "r08": "1255",
   "awards": null,
   "website": "www.brunoserralongue.com",
@@ -92,6 +92,18 @@
         "c": "FR"
       },
       {
+        "i": "5300-4251-2005-09-23",
+        "c": "LT",
+        "n": "The IX Baltic Triennial of International Art - BMW",
+        "st": "Group",
+        "ct": "Vilnius",
+        "o": "The Baltic Triennial of International Art",
+        "d": [
+          "2005-09-23",
+          "2005-11-20"
+        ]
+      },
+      {
         "i": "5300-2589-2005-09-23",
         "c": "LT",
         "n": "BMW",
@@ -99,18 +111,6 @@
         "st": "Group",
         "ct": "Vilnius",
         "o": "Contemporary Art Centre (CAC)",
-        "d": [
-          "2005-09-23",
-          "2005-11-20"
-        ]
-      },
-      {
-        "i": "5300-4251-2005-09-23",
-        "c": "LT",
-        "n": "The IX Baltic Triennial of International Art - BMW",
-        "st": "Group",
-        "ct": "Vilnius",
-        "o": "The Baltic Triennial of International Art",
         "d": [
           "2005-09-23",
           "2005-11-20"
@@ -1052,6 +1052,19 @@
       {
         "i": "5300-11893-2013-11-09",
         "c": "FR"
+      },
+      {
+        "i": "5300-8159-2014-03-15",
+        "c": "US",
+        "n": "In Plain Sight",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "New York City, NY",
+        "o": "Smack Mellon",
+        "d": [
+          "2014-03-15",
+          "2014-04-20"
+        ]
       }
     ]
   }

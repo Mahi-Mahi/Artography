@@ -1,7 +1,7 @@
 {
   "id": "51530",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:34:11",
+  "timestamp": "2014-05-31 06:39:39",
   "name": "Samuel Rousseau",
   "surname": "Rousseau",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Video installation",
-  "r00": "3084",
-  "r01": "2952",
+  "r00": "3109",
+  "r01": "2956",
   "r02": "2917",
   "r03": "3138",
   "r04": "3891",
-  "r05": "3573",
-  "r06": "4654",
-  "r07": "6101",
-  "r08": "7009",
+  "r05": "3579",
+  "r06": "4665",
+  "r07": "6109",
+  "r08": "7019",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
@@ -761,6 +761,19 @@
       {
         "i": "51530-30302-2013-10-26",
         "c": "FR"
+      },
+      {
+        "i": "51530-1715-2014-04-04",
+        "c": "BE",
+        "n": "Full House - 15 Years of Inventory and Exhibitions at Aeroplastics Contemporary",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Brussels",
+        "o": "AEROPLASTICS contemporary",
+        "d": [
+          "2014-04-04",
+          "2014-05-17"
+        ]
       }
     ],
     "2005": [

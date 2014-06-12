@@ -1,7 +1,7 @@
 {
   "id": "45769",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:32:10",
+  "timestamp": "2014-05-31 06:37:38",
   "name": "Loris Gréaud",
   "surname": "Gréaud",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": "Installation, Sculpture",
-  "r00": "708",
-  "r01": "695",
-  "r02": "809",
+  "r00": "717",
+  "r01": "697",
+  "r02": "810",
   "r03": "755",
-  "r04": "868",
-  "r05": "916",
-  "r06": "1050",
-  "r07": "1429",
-  "r08": "1281",
+  "r04": "869",
+  "r05": "915",
+  "r06": "1049",
+  "r07": "1430",
+  "r08": "1282",
   "awards": null,
   "website": null,
   "all-shows-first": "2002",
@@ -976,6 +976,62 @@
     "2014": [
       {
         "i": "45769-29739-2013-10-12",
+        "c": "FR"
+      },
+      {
+        "i": "45769-26745-2014-02-15",
+        "c": "ES",
+        "n": "Everybody is Nobody",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Boadilla del Monte",
+        "o": "Fundación Banco Santander",
+        "d": [
+          "2014-02-15",
+          "2014-06-15"
+        ],
+        "a": "45769",
+        "an": "Loris Gréaud"
+      },
+      {
+        "i": "45769-8281-2014-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "45769-8281-2014-05-18",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "45769",
+        "c": "ES",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "45769-26745-2014-02-15",
+        "c": "ES",
+        "n": "Everybody is Nobody",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Boadilla del Monte",
+        "o": "Fundación Banco Santander",
+        "d": [
+          "2014-02-15",
+          "2014-06-15"
+        ],
+        "a": "45769",
+        "an": "Loris Gréaud"
+      },
+      {
+        "i": "45769",
+        "c": "FR",
+        "g": "m",
+        "a": "26-40"
+      },
+      {
+        "i": "45769-8281-2014-05-18",
         "c": "FR"
       }
     ]

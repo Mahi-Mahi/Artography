@@ -1,12 +1,12 @@
 {
   "id": "13916",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:27",
+  "timestamp": "2014-05-31 06:25:58",
   "name": "Laura Lamiel",
   "surname": "Lamiel",
   "nationality": "FR",
   "nationality fr": "France",
-  "birth location": null,
+  "birth location": "",
   "birth day": 1,
   "birth month": 1,
   "birth year": "1943",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "10862",
-  "r01": "14649",
-  "r02": "40025",
-  "r03": "44270",
-  "r04": "38019",
-  "r05": "30392",
-  "r06": "28694",
-  "r07": "26222",
-  "r08": "19937",
+  "r00": "10255",
+  "r01": "14672",
+  "r02": "41051",
+  "r03": "44316",
+  "r04": "38053",
+  "r05": "30411",
+  "r06": "28699",
+  "r07": "26236",
+  "r08": "19940",
   "awards": null,
-  "website": null,
+  "website": "lauralamiel.com",
   "all-shows-first": "1981",
-  "all-shows-total": "20",
-  "2005-shows-biennials": "4",
-  "2005-shows-galleries": "4",
+  "all-shows-total": "21",
+  "2005-shows-biennials": "5",
+  "2005-shows-galleries": "5",
   "2005-shows-museums": "8",
-  "2005-countries-total": "France (7), Spain (3), Belgium (1), Germany (1)",
+  "2005-countries-total": "France (8), Spain (3), Belgium (1), Germany (1)",
   "2005-shows-with": "Laura Lamiel (8), Élisabeth Ballet (2), Pierrette Bloch (2), Pierre Buraglio (2), Shirley Jaffe (2), Annette Messager (2), Judit Reigl (2), Edda Renouf (2), Kiki Smith (2), Katja Strunz (2), Tatiana Trouvé (2), Marthe Wéry (2)",
   "representing-galleries": "Marcelle Alix (4 rue Jouye-Rouve, 75020 Paris, France); Galeria Evelyn Botella (Galeria Aele) (C/ Mejia Lequerica, 12, 1º Derecha, 28004 Madrid, Spain)",
   "collecting-museums": null,
@@ -171,6 +171,42 @@
         "c": "FR"
       }
     ],
+    "2014": [
+      {
+        "i": "13916-1825-2014-03-13",
+        "c": "ES",
+        "n": "Haver fet un lloc on els artistes tinguin dret a equivocar-se",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Barcelona",
+        "o": "Fundación Joan Miró",
+        "d": [
+          "2014-03-13",
+          "2014-05-25"
+        ]
+      },
+      {
+        "i": "13916-24747-2014-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "13916-24747-2014-05-22",
+        "c": "FR"
+      },
+      {
+        "i": "13916-12229-2014-07-02",
+        "c": "ES",
+        "n": "Laura Llaneli - Becuadro",
+        "t": "Institution publique",
+        "st": "Solo",
+        "ct": "Barcelona",
+        "o": "Institut de Cultura de Barcelona, La Capella",
+        "d": [
+          "2014-07-02",
+          "2014-08-31"
+        ]
+      }
+    ],
     "2006": [
       {
         "i": "13916-3740-2006-04-19",
@@ -184,6 +220,18 @@
           "2006-04-19",
           "2006-06-11"
         ]
+      }
+    ],
+    "today": [
+      {
+        "i": "13916",
+        "c": "FR",
+        "g": "f",
+        "a": "61-100"
+      },
+      {
+        "i": "13916-24747-2014-05-22",
+        "c": "FR"
       }
     ]
   }

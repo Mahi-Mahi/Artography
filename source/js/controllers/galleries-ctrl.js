@@ -682,12 +682,27 @@ define([], function() {
 			}
 
 			$scope.showCountryPopup = function(country_id) {
-				console.log("showCountryPopup(" + country_id);
 
 				var continent_name = data.cc[country_id];
 				var country = data.continents[continent_name].countries[country_id];
 
-				jQuery('#popup').html('<p class="period"> En ' + $scope.filters.period + ', les artistes français ont exposé dans ' + country.nb_galleries + ' galerie' + (country.nb_galleries > 1 ? 's' : '') + ' ' + country.country.fr_prefix + ' ' + country.country.fr + '</p>')
+				var period, verb;
+				switch ($scope.filters.period) {
+					case 2014:
+					case '2014':
+						period = "En " + $scope.filters.period;
+						verb = ' expose' + (country.nb_galleries > 1 ? 'nt' : '');
+						break;
+					default:
+						period = "En " + $scope.filters.period;
+						verb = country.nb_galleries > 1 ? " ont exposé " : " a exposé ";
+						break;
+				}
+
+				// var html = '<p class="period"> En ' + $scope.filters.period + ', les artistes français ont exposé dans ' + country.nb_galleries + ' galerie' + (country.nb_galleries > 1 ? 's' : '') + ' ' + country.country.fr_prefix + ' ' + country.country.fr + '</p>';
+				var html = '<p class="period"> ' + period + ', ' + country.nb_galleries + ' galerie' + (country.nb_galleries > 1 ? 's' : '') + ' françaises ' + verb + ' ' + country.country.fr_prefix + ' ' + country.country.fr + '</p>';
+
+				jQuery('#popup').html(html)
 					.stop()
 					.fadeIn();
 

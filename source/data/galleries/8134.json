@@ -12,34 +12,42 @@
   "email": "galerielee@wanadoo.fr",
   "www": "www.galerielee.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%209, rue Visconti %2C%20France",
-  "fairs-total": "5",
-  "fairs-abroad": "0",
+  "fairs-total": "6",
+  "fairs-abroad": "1",
   "fairs-in-FR": "5",
   "fairs": {
     "2006": [
       {
-        "i": "8134-ARTéNÎM 2006",
+        "i": "8134-ARTéNÎM-2006",
         "c": "FR"
       },
       {
-        "i": "8134-ST-ART 2006 - 11ème édition",
+        "i": "8134-ST-ART-2006---11ème-édition",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "8134-ARTéNÎM 2007",
+        "i": "8134-ARTéNÎM-2007",
         "c": "FR"
       },
       {
-        "i": "8134-ST-ART 2007 - 12ème édition",
+        "i": "8134-ST-ART-2007---12ème-édition",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "8134-ST-ART  2012",
+        "i": "8134-ST-ART--2012",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "8134-Art-Karlsruhe-2014",
+        "c": "DE",
+        "n": "Art Karlsruhe 2014",
+        "ct": "Karlsruhe"
       }
     ]
   }

@@ -12,13 +12,13 @@
   "email": "galerie-dumonteil@wanadoo.fr",
   "www": "www.sculpturesworld.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075007 %2C%20 %2C%2038, rue de l\\'Université %2C%20France",
-  "fairs-total": "9",
-  "fairs-abroad": "6",
+  "fairs-total": "10",
+  "fairs-abroad": "7",
   "fairs-in-FR": "3",
   "fairs": {
     "2007": [
       {
-        "i": "14025-ArtParis - AbuDhabi 2007",
+        "i": "14025-ArtParis---AbuDhabi-2007",
         "c": "AE",
         "n": "ArtParis - AbuDhabi 2007",
         "ct": "Abu Dhabi"
@@ -32,7 +32,7 @@
         "ct": "Shenzhen"
       },
       {
-        "i": "14025-ArtParis - AbuDhabi 2008",
+        "i": "14025-ArtParis---AbuDhabi-2008",
         "c": "AE",
         "n": "ArtParis - AbuDhabi 2008",
         "ct": "Abu Dhabi"
@@ -40,7 +40,7 @@
     ],
     "2009": [
       {
-        "i": "14025-Shanghai Art Fair - 2009",
+        "i": "14025-Shanghai-Art-Fair---2009",
         "c": "CN",
         "n": "Shanghai Art Fair - 2009",
         "ct": "Shanghai"
@@ -48,7 +48,7 @@
     ],
     "2010": [
       {
-        "i": "14025-FINE ART ASIA - Hong Kong International Arts and Antiques Fair 2010",
+        "i": "14025-FINE-ART-ASIA---Hong-Kong-International-Arts-and-Antiques-Fair-2010",
         "c": "CN",
         "n": "FINE ART ASIA - Hong Kong International Arts and Antiques Fair 2010",
         "ct": "Hong Kong, SAR"
@@ -56,13 +56,13 @@
     ],
     "2011": [
       {
-        "i": "14025-ShContemporary 2011",
+        "i": "14025-ShContemporary-2011",
         "c": "CN",
         "n": "ShContemporary 2011",
         "ct": "Shanghai"
       },
       {
-        "i": "14025-Fine Art Asia 2011",
+        "i": "14025-Fine-Art-Asia-2011",
         "c": "CN",
         "n": "Fine Art Asia 2011",
         "ct": "Hong Kong, SAR"
@@ -70,7 +70,7 @@
     ],
     "2012": [
       {
-        "i": "14025-Art Beijing 2012",
+        "i": "14025-Art-Beijing-2012",
         "c": "CN",
         "n": "Art Beijing 2012",
         "ct": "Beijing"
@@ -78,10 +78,18 @@
     ],
     "2013": [
       {
-        "i": "14025-Art Beijing 2013",
+        "i": "14025-Art-Beijing-2013",
         "c": "CN",
         "n": "Art Beijing 2013",
         "ct": "Beijing"
+      }
+    ],
+    "2014": [
+      {
+        "i": "14025-Art-Stage-Singapore-2014",
+        "c": "SG",
+        "n": "Art Stage Singapore 2014",
+        "ct": "Singapore"
       }
     ]
   }

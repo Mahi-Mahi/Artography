@@ -12,9 +12,15 @@
   "email": "richard.nicolet@galerienicolet.com",
   "www": "www.galerienicolet.com",
   "map": "http://maps.google.com/maps?q=L´Isle-sur-la-Sorgue%2C%2084800 %2C%20 %2C%20Cours René Char %2C%20France",
-  "fairs-total": "0",
+  "fairs-total": "1",
   "fairs-abroad": "0",
-  "fairs-in-FR": "0",
+  "fairs-in-FR": "1",
   "fairs": {
+    "2014": [
+      {
+        "i": "30417-Art-Up!-2014",
+        "c": "FR"
+      }
+    ]
   }
 }

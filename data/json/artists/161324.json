@@ -1,7 +1,7 @@
 {
   "id": "161324",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:11:41",
+  "timestamp": "2014-05-31 07:17:06",
   "name": "Aurelie Godard",
   "surname": "Godard",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Female",
   "media": null,
-  "r00": "8573",
-  "r01": "8684",
-  "r02": "9270",
-  "r03": "11998",
-  "r04": "19503",
-  "r05": "37909",
-  "r06": "42179",
-  "r07": "47695",
-  "r08": "59305",
+  "r00": "8548",
+  "r01": "8659",
+  "r02": "9253",
+  "r03": "12005",
+  "r04": "19513",
+  "r05": "37930",
+  "r06": "42221",
+  "r07": "47744",
+  "r08": "59331",
   "awards": null,
   "website": null,
   "all-shows-first": "2006",
@@ -32,8 +32,8 @@
   "2005-shows-biennials": "5",
   "2005-shows-galleries": "5",
   "2005-shows-museums": "9",
-  "2005-countries-total": "France (16), Belgium (1)",
-  "2005-shows-with": "Aurelie Godard (15), Chloé Dugit-Gros (5), Dominique Blais (3), Jean Dupuy (3), Mark Geffriaud (3), Pierre Leguillon (3), Julien Prévieux (3), Raphaël Zarka (3), A Constructed World (2), Robert Barry (2), Berdaguer & Péjus (2), Joianne Bittle (2), Hugo Brégeau (2), Alejandro Cesarco (2), Nicolas Chardon (2), Victor Delestre (2), Julie-Christine Fortier (2), Ryan Gander (2), Dora García (2), Jérémie Gaulin (2), Joseph Grigely (2), Ann Veronica Janssens (2), Ben Kinmont (2), Nicholas Knight (2), Alison Knowles (2), Silvia Kolbowski (2), Jirí Kovanda (2), Martin Laborde (2), Jennifer Lacey (2), Louise Lawler (2), Guillaume Leblon (2), Maria Loboda (2), Vincent Madame (2), Didier Marcel (2), John Miller (2), Olivier Mosset (2), Camila Oliveira Fairclough (2), Emilie Parendeau (2), John Perreault (2), Will Potter (2), Fabrice Reymond (2), Alain Séchas (2), Yann Sérandour (2), Kristina Solomoukha (2), Mierle-Laderman Ukeles (2), Emmanuelle Villard (2)",
+  "2005-countries-total": "France (18), Belgium (1)",
+  "2005-shows-with": "Aurelie Godard (17), Chloé Dugit-Gros (5), Dominique Blais (3), Jean Dupuy (3), Mark Geffriaud (3), Pierre Leguillon (3), Julien Prévieux (3), Eric Tabuchi (3), Raphaël Zarka (3), A Constructed World (2), Robert Barry (2), Berdaguer & Péjus (2), Joianne Bittle (2), Hugo Brégeau (2), Alejandro Cesarco (2), Nicolas Chardon (2), Victor Delestre (2), Julie-Christine Fortier (2), Ryan Gander (2), Dora García (2), Jérémie Gaulin (2), Joseph Grigely (2), Ann Veronica Janssens (2), Ben Kinmont (2), Nicholas Knight (2), Alison Knowles (2), Silvia Kolbowski (2), Jirí Kovanda (2), Martin Laborde (2), Jennifer Lacey (2), Louise Lawler (2), Guillaume Leblon (2), Maria Loboda (2), Vincent Madame (2), Didier Marcel (2), John Miller (2), Olivier Mosset (2), Camila Oliveira Fairclough (2), Emilie Parendeau (2), John Perreault (2), Will Potter (2), Fabrice Reymond (2), Alain Séchas (2), Yann Sérandour (2), Kristina Solomoukha (2), Mierle-Laderman Ukeles (2), Emmanuelle Villard (2)",
   "representing-galleries": "Galerie Dohyang Lee (73-75, rue Quincampoix, 75003 Paris, France)",
   "collecting-museums": null,
   "first_name": "Aurelie",
@@ -221,6 +221,26 @@
     "2014": [
       {
         "i": "161324-9344-2013-09-20",
+        "c": "FR"
+      },
+      {
+        "i": "161324-12523-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "161324-12523-2014-02-07",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "161324",
+        "c": "FR",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "161324-12523-2014-02-07",
         "c": "FR"
       }
     ],

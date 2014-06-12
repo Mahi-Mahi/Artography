@@ -1,7 +1,7 @@
 {
   "id": "2413",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:15:41",
+  "timestamp": "2014-05-31 06:21:13",
   "name": "Bertrand Lavier",
   "surname": "Lavier",
   "nationality": "FR",
@@ -28,7 +28,7 @@
   "awards": null,
   "website": null,
   "all-shows-first": "1976",
-  "all-shows-total": "305",
+  "all-shows-total": "306",
   "2005-shows-biennials": "24",
   "2005-shows-galleries": "24",
   "2005-shows-museums": "65",
@@ -58,19 +58,6 @@
         ]
       },
       {
-        "i": "2413-1598-2005-03-09",
-        "c": "DE",
-        "n": "Occupying Space - Sammlung Generali Foundation",
-        "t": "Institution publique",
-        "st": "Group",
-        "ct": "Munich",
-        "o": "Haus der Kunst München",
-        "d": [
-          "2005-03-09",
-          "2005-05-16"
-        ]
-      },
-      {
         "i": "2413-2318-2005-03-09",
         "c": "AR",
         "n": "Fondos Regionales de Arte Contemporáneo Île-de-France y Poitou-Charentes",
@@ -81,6 +68,19 @@
         "d": [
           "2005-03-09",
           "2005-04-30"
+        ]
+      },
+      {
+        "i": "2413-1598-2005-03-09",
+        "c": "DE",
+        "n": "Occupying Space - Sammlung Generali Foundation",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Munich",
+        "o": "Haus der Kunst München",
+        "d": [
+          "2005-03-09",
+          "2005-05-16"
         ]
       },
       {
@@ -846,19 +846,19 @@
         "c": "FR"
       },
       {
-        "i": "2413-1596-2008-06-27",
-        "c": "FR"
-      },
-      {
-        "i": "2413-1596-2008-06-27",
-        "c": "FR"
-      },
-      {
         "i": "2413-11586-2008-06-27",
         "c": "FR"
       },
       {
         "i": "2413-11586-2008-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "2413-1596-2008-06-27",
+        "c": "FR"
+      },
+      {
+        "i": "2413-1596-2008-06-27",
         "c": "FR"
       },
       {
@@ -1798,6 +1798,42 @@
           "2013-11-19",
           "2014-02-02"
         ]
+      },
+      {
+        "i": "2413-8639-2014-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "2413-8639-2014-01-17",
+        "c": "FR"
+      },
+      {
+        "i": "2413-11587-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "2413-11587-2014-02-14",
+        "c": "FR"
+      },
+      {
+        "i": "2413-8281-2014-05-18",
+        "c": "FR"
+      },
+      {
+        "i": "2413-8281-2014-05-18",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "2413",
+        "c": "FR",
+        "g": "m",
+        "a": "61-100"
+      },
+      {
+        "i": "2413-8281-2014-05-18",
+        "c": "FR"
       }
     ]
   }

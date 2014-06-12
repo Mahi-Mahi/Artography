@@ -12,17 +12,17 @@
   "email": "thierry.veaux@wanadoo.fr",
   "www": "www.galeriethierryveaux.com",
   "map": "http://maps.google.com/maps?q=L´Isle-sur-la-Sorgue%2C%2084800 %2C%20 %2C%209 Esplanade Robert Vasse %2C%20France",
-  "fairs-total": "8",
+  "fairs-total": "9",
   "fairs-abroad": "1",
-  "fairs-in-FR": "7",
+  "fairs-in-FR": "8",
   "fairs": {
     "2007": [
       {
-        "i": "13351-ARTéNÎM 2007",
+        "i": "13351-ARTéNÎM-2007",
         "c": "FR"
       },
       {
-        "i": "13351-PURO ARTE VIGO 2007",
+        "i": "13351-PURO-ARTE-VIGO-2007",
         "c": "ES",
         "n": "PURO ARTE VIGO 2007",
         "ct": "Vigo"
@@ -30,35 +30,41 @@
     ],
     "2008": [
       {
-        "i": "13351-ST-ART 2008 - 13ème édition",
+        "i": "13351-ST-ART-2008---13ème-édition",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "13351-Lille Art Fair 09",
+        "i": "13351-Lille-Art-Fair-09",
         "c": "FR"
       },
       {
-        "i": "13351-ST-ART 2009 - 14e édition",
+        "i": "13351-ST-ART-2009---14e-édition",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "13351-St-Art 2011",
+        "i": "13351-St-Art-2011",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "13351-ST-ART  2012",
+        "i": "13351-ST-ART--2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "13351-Lille Art Fair 2013",
+        "i": "13351-Lille-Art-Fair-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "13351-Art-Up!-2014",
         "c": "FR"
       }
     ]

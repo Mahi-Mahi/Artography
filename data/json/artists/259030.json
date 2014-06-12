@@ -1,7 +1,7 @@
 {
   "id": "259030",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:45:10",
+  "timestamp": "2014-05-31 07:50:27",
   "name": "Aude Pariset",
   "surname": "Pariset",
   "nationality": "FR",
@@ -16,13 +16,13 @@
   "death year": null,
   "attributes": "Female",
   "media": "Photography",
-  "r00": "10174",
-  "r01": "15073",
-  "r02": "32237",
-  "r03": "33724",
-  "r04": "41772",
-  "r05": "53442",
-  "r06": "79373",
+  "r00": "10247",
+  "r01": "15098",
+  "r02": "32296",
+  "r03": "33742",
+  "r04": "41809",
+  "r05": "53432",
+  "r06": "79437",
   "r07": null,
   "r08": null,
   "awards": null,
@@ -338,6 +338,100 @@
           "2013-11-20",
           "2014-01-11"
         ]
+      },
+      {
+        "i": "259030-19217-2014-01-24",
+        "c": "DE",
+        "n": "Appels and Pears",
+        "t": "Galerie privée",
+        "st": "Group",
+        "ct": "Cologne",
+        "o": "DREI",
+        "d": [
+          "2014-01-24",
+          "2014-03-08"
+        ]
+      },
+      {
+        "i": "259030-14394-2014-03-11",
+        "c": "CN",
+        "n": "Art Post-Internet",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Beijing",
+        "o": "UCCA - Ullens Center for Contemporary Art",
+        "d": [
+          "2014-03-11",
+          "2014-05-11"
+        ]
+      },
+      {
+        "i": "259030-8286-2014-05-02",
+        "c": "DE",
+        "n": "Aftercare",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Center Berlin",
+        "d": [
+          "2014-05-02",
+          "2014-06-21"
+        ],
+        "a": "259030",
+        "an": "Aude Pariset"
+      },
+      {
+        "i": "259030-7138-2014-05-21",
+        "c": "DE",
+        "n": "Aude Pariset - A B&#333;at[] A Promise",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Nuremberg",
+        "o": "Kunstverein Nürnberg - Albrecht Dürer Gesellschaft",
+        "d": [
+          "2014-05-21",
+          "2014-08-10"
+        ],
+        "a": "259030",
+        "an": "Aude Pariset"
+      }
+    ],
+    "today": [
+      {
+        "i": "259030",
+        "c": "DE",
+        "g": "f",
+        "a": "26-40"
+      },
+      {
+        "i": "259030-8286-2014-05-02",
+        "c": "DE",
+        "n": "Aftercare",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Berlin",
+        "o": "Center Berlin",
+        "d": [
+          "2014-05-02",
+          "2014-06-21"
+        ],
+        "a": "259030",
+        "an": "Aude Pariset"
+      },
+      {
+        "i": "259030-7138-2014-05-21",
+        "c": "DE",
+        "n": "Aude Pariset - A B&#333;at[] A Promise",
+        "t": "Autre",
+        "st": "Solo",
+        "ct": "Nuremberg",
+        "o": "Kunstverein Nürnberg - Albrecht Dürer Gesellschaft",
+        "d": [
+          "2014-05-21",
+          "2014-08-10"
+        ],
+        "a": "259030",
+        "an": "Aude Pariset"
       }
     ]
   }

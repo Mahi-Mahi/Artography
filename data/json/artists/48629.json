@@ -1,7 +1,7 @@
 {
   "id": "48629",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:33:10",
+  "timestamp": "2014-05-31 06:38:38",
   "name": "Présence Panchounette",
   "surname": "Présence Panchounette",
   "nationality": "FR",
@@ -16,19 +16,19 @@
   "death year": null,
   "attributes": "Artist group",
   "media": null,
-  "r00": "5470",
-  "r01": "6255",
-  "r02": "11297",
-  "r03": "8809",
-  "r04": "10913",
-  "r05": "9001",
-  "r06": "10151",
-  "r07": "7655",
-  "r08": "5743",
+  "r00": "5510",
+  "r01": "6263",
+  "r02": "11300",
+  "r03": "8812",
+  "r04": "10915",
+  "r05": "9005",
+  "r06": "10149",
+  "r07": "7654",
+  "r08": "5741",
   "awards": null,
   "website": null,
   "all-shows-first": "1986",
-  "all-shows-total": "27",
+  "all-shows-total": "28",
   "2005-shows-biennials": "3",
   "2005-shows-galleries": "3",
   "2005-shows-museums": "11",
@@ -188,6 +188,70 @@
       },
       {
         "i": "48629-2585-2013-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "48629-2526-2014-05-10",
+        "c": "DK",
+        "n": "Before Normal: Concept after Concept",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Roskilde",
+        "o": "Museet for Samtidskunst / Museum of Contemporary Art",
+        "d": [
+          "2014-05-10",
+          "2014-09-28"
+        ],
+        "a": "48629",
+        "an": "Présence Panchounette"
+      },
+      {
+        "i": "48629-8128-2014-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "48629-8128-2014-05-16",
+        "c": "FR"
+      },
+      {
+        "i": "48629-11772-2014-06-22",
+        "c": "FR"
+      },
+      {
+        "i": "48629-11772-2014-06-22",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "48629",
+        "c": "DK",
+        "g": "c",
+        "a": "41-60"
+      },
+      {
+        "i": "48629-2526-2014-05-10",
+        "c": "DK",
+        "n": "Before Normal: Concept after Concept",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Roskilde",
+        "o": "Museet for Samtidskunst / Museum of Contemporary Art",
+        "d": [
+          "2014-05-10",
+          "2014-09-28"
+        ],
+        "a": "48629",
+        "an": "Présence Panchounette"
+      },
+      {
+        "i": "48629",
+        "c": "FR",
+        "g": "c",
+        "a": "41-60"
+      },
+      {
+        "i": "48629-8128-2014-05-16",
         "c": "FR"
       }
     ]

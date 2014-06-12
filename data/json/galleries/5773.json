@@ -18,19 +18,19 @@
   "fairs": {
     "2006": [
       {
-        "i": "5773-ArtParis 06",
+        "i": "5773-ArtParis-06",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "5773-ArtParis 07",
+        "i": "5773-ArtParis-07",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "5773-Art Chicago 2009",
+        "i": "5773-Art-Chicago-2009",
         "c": "US",
         "n": "Art Chicago 2009",
         "ct": "Chicago, IL"
@@ -38,11 +38,11 @@
     ],
     "2011": [
       {
-        "i": "5773-ArtParis 2011",
+        "i": "5773-ArtParis-2011",
         "c": "FR"
       },
       {
-        "i": "5773-Marrakech Art Fair",
+        "i": "5773-Marrakech-Art-Fair",
         "c": "MA",
         "n": "Marrakech Art Fair",
         "ct": "Casablanca"
@@ -50,7 +50,7 @@
     ],
     "2012": [
       {
-        "i": "5773-Art Paris Art Fair 2012",
+        "i": "5773-Art-Paris-Art-Fair-2012",
         "c": "FR"
       }
     ]

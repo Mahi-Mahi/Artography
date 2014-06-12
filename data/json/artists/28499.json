@@ -1,7 +1,7 @@
 {
   "id": "28499",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:25:54",
+  "timestamp": "2014-05-31 06:31:26",
   "name": "Arnaud Labelle-Rojoux",
   "surname": "Labelle-Rojoux",
   "nationality": "FR",
@@ -16,29 +16,29 @@
   "death year": null,
   "attributes": null,
   "media": null,
-  "r00": "3419",
-  "r01": "3292",
-  "r02": "4122",
-  "r03": "5676",
-  "r04": "5900",
-  "r05": "5242",
-  "r06": "5500",
-  "r07": "9019",
-  "r08": "7179",
+  "r00": "3426",
+  "r01": "3295",
+  "r02": "4129",
+  "r03": "5679",
+  "r04": "5904",
+  "r05": "5248",
+  "r06": "5508",
+  "r07": "9033",
+  "r08": "7186",
   "awards": null,
   "website": null,
   "all-shows-first": "1999",
   "all-shows-total": "53",
-  "2005-shows-biennials": "18",
-  "2005-shows-galleries": "18",
+  "2005-shows-biennials": "19",
+  "2005-shows-galleries": "19",
   "2005-shows-museums": "14",
-  "2005-countries-total": "France (31), Germany (1), Switzerland (1)",
-  "2005-shows-with": "Arnaud Labelle-Rojoux (29), Thierry Lagalla (11), Han Hoogerbrugge (9), Florent Mattei (9), Jean-Luc Verna (9), Philippe Mayaux (8), Emmanuel Régent (8), Karine Rougier (7), Stephane Steiner (7), Ben Vautier (7), Jean Dupuy (6), Joël Hubaut (6), Jacques Lizène (6), Taroop & Glabel (6), Julien Blaine (5), Xavier Boussiron (5), Michel de Broin (5), Jean-Jacques Lebel (5), Stéphane Protic (5), Lionel Scoccimaro (5), Caroline Bach (4), Stéphane Bérard (4), Damien Berthier (4), Anna Byskov (4), Noël Dolla (4), Eric Duyckaerts (4), Erró (4), Robert Filliou (4), Raymond Hains (4), Carsten Höller (4), Michel Journiac (4), George Maciunas (4), Annette Messager (4), Orlan (4), Gérald Panighi (4), Bruno Peinado (4), Jerôme Robbe (4), Thierry Agnone (3), Olivier Blanckart (3), Christian Boltanski (3), George Brecht (3), Marcel Broodthaers (3), Gilbert Caty (3), Frédéric Clavère (3), Pascal le Coq (3), Wim Delvoye (3), Erik Dietman (3), Peter Downsbrough (3), Joël Ducorroy (3), Jean-Baptiste Ganne (3), Paul",
+  "2005-countries-total": "France (32), Germany (1), Switzerland (1)",
+  "2005-shows-with": "Arnaud Labelle-Rojoux (30), Thierry Lagalla (12), Han Hoogerbrugge (10), Florent Mattei (10), Jean-Luc Verna (10), Emmanuel Régent (9), Philippe Mayaux (8), Karine Rougier (8), Stephane Steiner (8), Jean Dupuy (7), Joël Hubaut (7), Ben Vautier (7), Julien Blaine (6), Jacques Lizène (6), Stéphane Protic (6), Lionel Scoccimaro (6), Taroop & Glabel (6), Caroline Bach (5), Xavier Boussiron (5), Michel de Broin (5), Anna Byskov (5), Noël Dolla (5), Jean-Jacques Lebel (5), Jerôme Robbe (5), Thierry Agnone (4), Stéphane Bérard (4), Damien Berthier (4), Eric Duyckaerts (4), Erró (4), Robert Filliou (4), Jean-Baptiste Ganne (4), Raymond Hains (4), Carsten Höller (4), Michel Journiac (4), Olivier Leroi (4), George Maciunas (4), Eric Madeleine (4), Annette Messager (4), Orlan (4), Gérald Panighi (4), Bruno Peinado (4), Sabry Tchalgadjieff (4), Olivier Blanckart (3), Christian Boltanski (3), George Brecht (3), Marcel Broodthaers (3), Gilbert Caty (3), Frédéric Clavère (3), Pascal le Coq (3), Wim Delvoye (3)",
   "representing-galleries": "Espace A Vendre (17 rue Smolett, 06300 Nice, France); Galerie Loevenbruck (6,rue Jacques Callot, 75006 Paris, France)",
   "collecting-museums": "FRAC - Provence-Alpes-Côte d’Azur (1 place Francis Chirat, 13002 Marseille, France); ms - Muzeum Sztuki Lodz (ul. Wi&#281;ckowskiego 36, 90-743 Lodz, Poland)",
   "first_name": "Arnaud",
   "last_name": "Labelle-Rojoux",
-  "genre": "c",
+  "genre": "n",
   "birthDate": "1950-01-01",
   "age": 64,
   "age_range": "61-100",
@@ -366,19 +366,19 @@
         "c": "FR"
       },
       {
-        "i": "28499-10247-2012-07-01",
-        "c": "FR"
-      },
-      {
-        "i": "28499-10247-2012-07-01",
-        "c": "FR"
-      },
-      {
         "i": "28499-2585-2012-07-01",
         "c": "FR"
       },
       {
         "i": "28499-2585-2012-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "28499-10247-2012-07-01",
+        "c": "FR"
+      },
+      {
+        "i": "28499-10247-2012-07-01",
         "c": "FR"
       },
       {
@@ -448,6 +448,26 @@
     "2014": [
       {
         "i": "28499-2585-2013-11-24",
+        "c": "FR"
+      },
+      {
+        "i": "28499-16752-2014-04-19",
+        "c": "FR"
+      },
+      {
+        "i": "28499-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "28499",
+        "c": "FR",
+        "g": "n",
+        "a": "61-100"
+      },
+      {
+        "i": "28499-16752-2014-04-19",
         "c": "FR"
       }
     ]

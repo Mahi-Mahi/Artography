@@ -12,28 +12,34 @@
   "email": "galerie@dutko.com",
   "www": "www.dutko.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2013, rue Bonaparte %2C%20France",
-  "fairs-total": "3",
+  "fairs-total": "4",
   "fairs-abroad": "1",
-  "fairs-in-FR": "2",
+  "fairs-in-FR": "3",
   "fairs": {
     "2006": [
       {
-        "i": "5778-ArtParis 06",
+        "i": "5778-ArtParis-06",
         "c": "FR"
       }
     ],
     "2007": [
       {
-        "i": "5778-ArtParis 07",
+        "i": "5778-ArtParis-07",
         "c": "FR"
       }
     ],
     "2012": [
       {
-        "i": "5778-Design Miami / Basel",
+        "i": "5778-Design-Miami-/-Basel",
         "c": "US",
         "n": "Design Miami / Basel",
         "ct": "Miami, FL"
+      }
+    ],
+    "2014": [
+      {
+        "i": "5778-Artparis-2014",
+        "c": "FR"
       }
     ]
   }

@@ -1,7 +1,7 @@
 {
   "id": "118102",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:57:06",
+  "timestamp": "2014-05-31 07:02:31",
   "name": "Jean Marc Calvet",
   "surname": "Calvet",
   "nationality": "FR",
@@ -16,14 +16,14 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "77618",
-  "r01": "79883",
-  "r02": "103387",
-  "r03": "117761",
-  "r04": "114438",
-  "r05": "109200",
-  "r06": "102439",
-  "r07": "94215",
+  "r00": "77906",
+  "r01": "80043",
+  "r02": "103542",
+  "r03": "117983",
+  "r04": "114629",
+  "r05": "109372",
+  "r06": "102592",
+  "r07": "94342",
   "r08": null,
   "awards": null,
   "website": null,
@@ -60,19 +60,6 @@
     ],
     "2012": [
       {
-        "i": "118102-9016-2012-03-09",
-        "c": "US",
-        "n": "invasion invasión l’invasion",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "New York City, NY",
-        "o": "Monkdogz Urban Art, Inc.",
-        "d": [
-          "2012-03-09",
-          "2012-04-28"
-        ]
-      },
-      {
         "i": "118102-4749-2012-03-09",
         "c": "US",
         "n": "The Freedom Tower",
@@ -80,6 +67,19 @@
         "st": "Solo",
         "ct": "Coral Gables (Miami), FL",
         "o": "The Americas Collection",
+        "d": [
+          "2012-03-09",
+          "2012-04-28"
+        ]
+      },
+      {
+        "i": "118102-9016-2012-03-09",
+        "c": "US",
+        "n": "invasion invasión l’invasion",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "New York City, NY",
+        "o": "Monkdogz Urban Art, Inc.",
         "d": [
           "2012-03-09",
           "2012-04-28"

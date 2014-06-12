@@ -1,7 +1,7 @@
 {
   "id": "36690",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:28:53",
+  "timestamp": "2014-05-31 06:34:24",
   "name": "Berdaguer & Péjus",
   "surname": "Berdaguer & Péjus",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Artist group",
   "media": "Installation",
-  "r00": "1929",
-  "r01": "1893",
-  "r02": "1733",
-  "r03": "1910",
-  "r04": "1733",
-  "r05": "2087",
-  "r06": "2687",
-  "r07": "3854",
-  "r08": "4357",
+  "r00": "1944",
+  "r01": "1895",
+  "r02": "1732",
+  "r03": "1903",
+  "r04": "1729",
+  "r05": "2089",
+  "r06": "2686",
+  "r07": "3850",
+  "r08": "4356",
   "awards": "Prix Fondation d'entreprise Ricard",
   "website": null,
   "all-shows-first": "1993",
@@ -546,6 +546,76 @@
       },
       {
         "i": "36690-24269-2013-06-28",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "36690-12523-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "36690-12523-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "36690-13675-2014-05-25",
+        "c": "DE",
+        "n": "Szenarien des Unheimlichen - in Kunst, Technologie und Architektur",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Neuhausen/Fildern",
+        "o": "Kunstverein Neuhausen e.V",
+        "d": [
+          "2014-05-25",
+          "2014-07-13"
+        ],
+        "a": "36690",
+        "an": "Berdaguer & Péjus"
+      },
+      {
+        "i": "36690-10630-2014-03-07",
+        "c": "FR"
+      },
+      {
+        "i": "36690-10630-2014-03-07",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "36690",
+        "c": "FR",
+        "g": "c",
+        "a": "41-60"
+      },
+      {
+        "i": "36690-12523-2014-02-07",
+        "c": "FR"
+      },
+      {
+        "i": "36690",
+        "c": "DE",
+        "g": "c",
+        "a": "41-60"
+      },
+      {
+        "i": "36690-13675-2014-05-25",
+        "c": "DE",
+        "n": "Szenarien des Unheimlichen - in Kunst, Technologie und Architektur",
+        "t": "Autre",
+        "st": "Group",
+        "ct": "Neuhausen/Fildern",
+        "o": "Kunstverein Neuhausen e.V",
+        "d": [
+          "2014-05-25",
+          "2014-07-13"
+        ],
+        "a": "36690",
+        "an": "Berdaguer & Péjus"
+      },
+      {
+        "i": "36690-10630-2014-03-07",
         "c": "FR"
       }
     ]

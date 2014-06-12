@@ -1,273 +1,5684 @@
 {
   "expos": {
     "countries": [
-      "DE",
       "FR",
+      "CH",
+      "US",
+      "DE",
+      "BE",
+      "NL",
+      "ES",
       "IT",
-      "AU",
+      "RU",
+      "GB",
+      "BG",
       "MX",
-      "US"
+      "CN",
+      "GR",
+      "PL",
+      "BR",
+      "CA",
+      "KR",
+      "AT",
+      "CL",
+      "DK",
+      "JP",
+      "SE",
+      "CZ",
+      "IL",
+      "EG",
+      "SN",
+      "RS",
+      "LU",
+      "LB",
+      "AU"
     ],
     "artists": [
-      "235951",
-      "1452",
+      "106810",
+      "57536",
+      "203927",
+      "21704",
+      "267485",
       "53263",
-      "945",
-      "62232",
-      "3951",
-      "2718",
-      "1845",
-      "86797",
-      "10223",
-      "1317",
+      "203562",
+      "14737",
+      "237095",
+      "155446",
+      "36817",
+      "80552",
+      "163313",
+      "243202",
+      "71975",
+      "41778",
+      "285291",
+      "106203",
+      "9110",
+      "45753",
+      "190820",
+      "65696",
+      "85882",
+      "53271",
+      "64969",
+      "250447",
+      "140421",
+      "23157",
+      "2413",
+      "49623",
+      "17701",
+      "167627",
+      "2066",
+      "16189",
+      "163239",
+      "65132",
+      "13167",
+      "115082",
+      "71476",
+      "58850",
+      "16884",
+      "35544",
+      "659",
+      "2609",
+      "300709",
+      "17071",
+      "10343",
+      "18746",
+      "191018",
+      "269170",
+      "120587",
+      "2024",
+      "33951",
+      "39361",
+      "1511",
+      "121076",
+      "21705",
+      "10155",
+      "113014",
+      "16178",
+      "15461",
+      "15287",
+      "10329",
+      "40755",
+      "119",
+      "90284",
+      "90983",
+      "15853",
+      "126203",
+      "2408",
+      "65152",
+      "29288",
+      "4052",
+      "26848",
+      "32808",
+      "169679",
+      "94354",
+      "113986",
+      "68006",
+      "38369",
+      "129301",
+      "205968",
+      "38334",
+      "100679",
+      "26383",
+      "74824",
+      "33117",
+      "12842",
+      "210321",
+      "29279",
+      "331820",
+      "129102",
+      "251436",
+      "53266",
+      "52239",
+      "126280",
+      "58653",
+      "5298",
+      "16519",
+      "139087",
+      "196962",
+      "110048",
+      "178530",
+      "107299",
+      "1794",
+      "247535",
+      "60861",
+      "11934",
+      "62063",
+      "14162",
+      "121102",
+      "142920",
+      "315184",
+      "5380",
       "70110",
+      "152727",
+      "29028",
+      "80567",
+      "44859",
+      "2026",
+      "60981",
+      "1894",
+      "57608",
+      "17032",
+      "13380",
+      "2197",
+      "13124",
+      "86820",
+      "189186",
+      "57122",
+      "248381",
+      "86797",
+      "36249",
+      "47233",
+      "112024",
+      "63787",
+      "251017",
+      "57273",
+      "4528",
+      "12727",
+      "12887",
+      "222212",
+      "9531",
+      "1846",
+      "58847",
+      "112544",
+      "33948",
+      "283012",
+      "116163",
+      "106789",
+      "165167",
+      "35135",
+      "65376",
+      "337822",
       "113440",
-      "71975"
+      "33259",
+      "141405",
+      "14816",
+      "182784",
+      "218460",
+      "77509",
+      "253728",
+      "172274",
+      "16118",
+      "160616",
+      "200539",
+      "11693",
+      "2370",
+      "126138",
+      "192987",
+      "29278",
+      "197332",
+      "183682",
+      "86819",
+      "1845",
+      "41485",
+      "63874",
+      "40751",
+      "23494",
+      "161324",
+      "165942",
+      "14081",
+      "103753",
+      "57860",
+      "250446",
+      "121553",
+      "233612",
+      "80",
+      "26386",
+      "12121",
+      "56816",
+      "306250",
+      "135128",
+      "37806",
+      "250424",
+      "70955",
+      "77500",
+      "206341",
+      "253723",
+      "54344",
+      "2718",
+      "44310",
+      "115833",
+      "6643",
+      "108281",
+      "21018",
+      "135147",
+      "106984",
+      "20608",
+      "45851",
+      "36196",
+      "16517",
+      "7561",
+      "1298",
+      "1317",
+      "343549",
+      "2613",
+      "285462",
+      "116162",
+      "9465",
+      "15717",
+      "213415",
+      "261034",
+      "26721",
+      "57640",
+      "8965",
+      "135126",
+      "13916",
+      "37001",
+      "16457",
+      "1452",
+      "231496",
+      "113275",
+      "154374",
+      "109276",
+      "45769",
+      "16901",
+      "54201",
+      "9258",
+      "17323",
+      "235951",
+      "311739",
+      "176332",
+      "295964",
+      "113688",
+      "51243",
+      "11235",
+      "14965",
+      "10148",
+      "301411",
+      "11585",
+      "159535",
+      "9721",
+      "16914",
+      "251434",
+      "12640",
+      "53170",
+      "333282",
+      "36206",
+      "945",
+      "10150",
+      "12130",
+      "12064",
+      "7809",
+      "16258",
+      "103376",
+      "185569",
+      "106443",
+      "49667",
+      "2658",
+      "212850",
+      "28499",
+      "113295",
+      "11605",
+      "317127",
+      "56764",
+      "15285",
+      "38398",
+      "25054",
+      "65154",
+      "10021",
+      "1770",
+      "48629",
+      "58616",
+      "17698",
+      "15097",
+      "272510",
+      "8095",
+      "5982",
+      "17308",
+      "340428",
+      "239560",
+      "80257",
+      "15970",
+      "22841",
+      "43125",
+      "36966",
+      "129065",
+      "177783",
+      "125247",
+      "29476",
+      "158004",
+      "3485",
+      "26530",
+      "259030",
+      "242340",
+      "283785",
+      "5304",
+      "26868",
+      "332721",
+      "3951",
+      "4151",
+      "38407",
+      "16057",
+      "10334",
+      "192518",
+      "100946",
+      "36984",
+      "264512",
+      "10223",
+      "17859",
+      "232802",
+      "99048",
+      "35554",
+      "16284",
+      "208539",
+      "23067",
+      "53194",
+      "78191",
+      "126132",
+      "16378",
+      "8297",
+      "57270",
+      "15405",
+      "276051",
+      "106791",
+      "385537",
+      "227907",
+      "107918",
+      "50956",
+      "7961",
+      "36690",
+      "62232",
+      "63486",
+      "17082",
+      "13085",
+      "10152",
+      "21547",
+      "193057",
+      "14971",
+      "23597",
+      "21554",
+      "1304",
+      "57267",
+      "36959",
+      "57706",
+      "343009",
+      "64213",
+      "192536",
+      "90261",
+      "9520",
+      "9451",
+      "414834"
     ]
   },
   "fairs": {
     "countries": [
-      "IT",
+      "NL",
+      "BE",
       "US",
       "CH",
-      "NL",
-      "BR",
-      "IN",
-      "DE",
-      "MC",
       "LB",
-      "BE",
+      "IT",
+      "DK",
+      "ES",
       "GB",
       "SG",
-      "AE",
+      "DE",
       "CN",
-      "TR",
-      "ES",
-      "ZA",
-      "MX",
-      "AT",
-      "TW",
-      "CZ",
       "KR",
-      "DK",
-      "CA",
+      "TR",
+      "TW",
+      "BR",
+      "MC",
+      "CZ",
+      "MX",
       "CO",
-      "RU"
+      "IN",
+      "ZA",
+      "AE",
+      "CA",
+      "RU",
+      "AT"
     ],
     "galleries": [
-      "893",
-      "27216",
-      "26387",
-      "18448",
-      "24747",
-      "28809",
-      "28253",
-      "13567",
-      "29700",
-      "27299",
-      "2497",
-      "5509",
-      "25338",
-      "19458",
-      "5450",
-      "4708",
-      "26246",
-      "21087",
-      "27748",
-      "1955",
-      "3522",
-      "12220",
-      "1613",
-      "26537",
-      "27715",
-      "29519",
-      "19747",
-      "5109",
-      "1620",
-      "1596",
-      "28664",
-      "9196",
-      "24168",
-      "6076",
-      "2037",
-      "4706",
-      "1963",
-      "4173",
-      "24157",
-      "8897",
-      "4195",
-      "22625",
-      "27182",
-      "5357",
-      "7673",
-      "21875",
-      "2023",
-      "16207",
-      "29692",
-      "23446",
-      "26252",
-      "2021",
-      "1797",
-      "7881",
-      "1531",
-      "342",
-      "18537",
-      "4159",
-      "1522",
-      "9107",
-      "1952",
-      "5388",
-      "21877",
-      "28221",
-      "23213",
-      "16536",
-      "4407",
-      "23296",
-      "1967",
-      "1971",
-      "25196",
-      "21710",
-      "27575",
-      "2017",
-      "2041",
-      "20695",
-      "9161",
-      "24332",
-      "4707",
-      "9136",
-      "26348",
-      "26190",
-      "14025",
-      "18932",
-      "13443",
-      "20989",
-      "8108",
-      "28967",
-      "27576",
-      "4165",
-      "22952",
-      "4209",
-      "5045",
-      "21876",
-      "8822",
-      "8132",
-      "1566",
-      "2028",
-      "14495",
-      "22949",
-      "1941",
-      "370",
-      "21143",
-      "26207",
-      "28267",
-      "8911",
-      "5739",
-      "315",
-      "5358",
-      "4705",
-      "2048",
-      "378",
-      "26256",
-      "29266",
-      "23669",
-      "28808",
-      "6332",
-      "23311",
-      "5466",
-      "28658",
-      "1957",
-      "27911",
-      "1953",
-      "27178",
-      "13704",
-      "21639",
-      "26492",
-      "11776",
-      "3500",
-      "29774",
-      "28178",
-      "5467",
-      "19170",
-      "28806",
-      "928",
-      "28441",
-      "27662",
-      "4218",
-      "24164",
-      "193",
-      "9244",
-      "29102",
-      "1380",
-      "4180",
-      "3508",
-      "22696",
-      "1969",
-      "1961",
-      "27522",
-      "1977",
-      "8821",
-      "3098",
-      "1939",
-      "7391",
-      "5908",
-      "21443",
-      "1746",
-      "23511",
-      "1962",
-      "29450",
-      "17457",
-      "1917",
-      "21906",
-      "9163",
-      "17872",
-      "11861",
-      "5115",
-      "28438",
-      "1970",
-      "2020",
-      "10283",
-      "26376",
-      "20984",
-      "28660",
-      "28235",
-      "17012",
-      "28432",
-      "1876",
-      "1937",
-      "26253",
-      "24171",
-      "1372",
-      "20451",
-      "1403",
-      "4186",
-      "28450",
-      "29070",
-      "19508",
-      "5347",
-      "14600",
-      "12381",
-      "16210",
       "9159",
+      "24171",
+      "4218",
+      "23213",
+      "24747",
+      "28253",
+      "27715",
+      "1620",
+      "29450",
+      "19747",
+      "16210",
+      "5357",
+      "5388",
+      "1746",
+      "5466",
+      "21710",
+      "893",
+      "1977",
+      "24164",
+      "9136",
+      "29692",
+      "27216",
+      "1937",
+      "26190",
+      "5347",
+      "1961",
+      "23511",
+      "21875",
+      "22949",
+      "1531",
+      "12220",
+      "10283",
+      "9161",
+      "1957",
+      "28967",
+      "4159",
       "2090",
+      "8108",
+      "21906",
+      "4186",
+      "8911",
+      "2497",
+      "23669",
+      "17012",
+      "28221",
+      "1380",
+      "4705",
+      "19458",
+      "27182",
+      "1970",
+      "28664",
+      "3508",
+      "11776",
+      "22696",
+      "193",
+      "22952",
+      "1963",
+      "1941",
+      "20984",
+      "1955",
+      "29266",
+      "9163",
+      "2023",
+      "27178",
+      "23446",
+      "8822",
+      "28432",
+      "7673",
+      "26253",
+      "21143",
+      "23296",
+      "13704",
+      "5509",
+      "27748",
       "24995",
-      "1771"
+      "25338",
+      "1771",
+      "21443",
+      "4165",
+      "5739",
+      "23311",
+      "22625",
+      "8897",
+      "13443",
+      "1967",
+      "1566",
+      "1876",
+      "26348",
+      "26492",
+      "1522",
+      "5358",
+      "8821",
+      "1939",
+      "1596",
+      "13567",
+      "28441",
+      "28235",
+      "5109",
+      "342",
+      "3522",
+      "21639",
+      "2020",
+      "1962",
+      "4407",
+      "378",
+      "4209",
+      "5908",
+      "7881",
+      "21087",
+      "9107",
+      "28806",
+      "1952",
+      "2041",
+      "26252",
+      "17872",
+      "3098",
+      "29102",
+      "1613",
+      "28450",
+      "28808",
+      "1372",
+      "28658",
+      "28267",
+      "25196",
+      "2021",
+      "18932",
+      "21876",
+      "1917",
+      "3500",
+      "5467",
+      "18537",
+      "4180",
+      "4195",
+      "27911",
+      "29070",
+      "14025",
+      "26387",
+      "20989",
+      "1953",
+      "21877",
+      "28178",
+      "20695",
+      "6332",
+      "27575",
+      "9196",
+      "24332",
+      "1971",
+      "6076",
+      "29700",
+      "19170",
+      "27576",
+      "8132",
+      "14600",
+      "4173",
+      "24168",
+      "5045",
+      "2028",
+      "27299",
+      "27522",
+      "28809",
+      "9244",
+      "5115",
+      "27662",
+      "19508",
+      "28660",
+      "26537",
+      "12381",
+      "26207",
+      "4707",
+      "2017",
+      "4708",
+      "16536",
+      "20451",
+      "11861",
+      "4706",
+      "5450",
+      "17457",
+      "2048",
+      "26376",
+      "315",
+      "29774",
+      "14495",
+      "18448",
+      "2037",
+      "1969",
+      "26256",
+      "28438",
+      "7391",
+      "26246",
+      "928",
+      "29519",
+      "370",
+      "16207",
+      "24157",
+      "1797",
+      "1403"
     ]
   },
   "events": [
     {
-      "i": "235951-26519-2013-10-10",
-      "c": "DE",
-      "n": "Rooms for Photography - Folkwang Statements",
+      "i": "106810-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "106810",
+      "an": "Emmanuel Régent"
+    },
+    {
+      "i": "106810-31121-2014-06-06",
+      "c": "CH",
+      "n": "Utopie Picturale 2",
       "t": "Autre",
       "st": "Group",
-      "ct": "Hamburg",
-      "o": "FREELENS Galerie",
+      "ct": "Geneva",
+      "o": "Fonderie Kugler",
       "d": [
-        "2013-10-10",
-        "2014-08-11"
+        "2014-06-06",
+        "2014-06-22"
       ],
-      "a": "235951",
-      "an": "Raphaële Bidault-Waddington"
+      "a": "106810",
+      "an": "Emmanuel Régent"
+    },
+    {
+      "i": "57536-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "57536",
+      "an": "Morgane Tschiember"
+    },
+    {
+      "i": "203927-21267-2014-04-26",
+      "c": "FR",
+      "n": "Benjamin Gaulon - Hack! Détournements",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Bourogne",
+      "o": "Espace Multimédia Gantner",
+      "d": [
+        "2014-04-26",
+        "2014-09-06"
+      ],
+      "a": "203927",
+      "an": "Benjamin Gaulon"
+    },
+    {
+      "i": "21704-5745-2014-02-28",
+      "c": "US",
+      "n": "Buildering: Misbehaving the City",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Cincinnati, OH",
+      "o": "CAC - Cincinnati Contemporary Arts Center",
+      "d": [
+        "2014-02-28",
+        "2014-08-18"
+      ],
+      "a": "21704",
+      "an": "Didier Faustino"
+    },
+    {
+      "i": "267485-356-2014-05-11",
+      "c": "DE",
+      "n": "nature after nature",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Kassel",
+      "o": "Kunsthalle Fridericianum",
+      "d": [
+        "2014-05-11",
+        "2014-07-27"
+      ],
+      "a": "267485",
+      "an": "Juliette Bonneviot"
+    },
+    {
+      "i": "53263-23875-2013-12-06",
+      "c": "FR",
+      "n": "Revoir Réattu",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Arles",
+      "o": "Musée Réattu",
+      "d": [
+        "2013-12-06",
+        "2014-06-30"
+      ],
+      "a": "53263",
+      "an": "Christine Crozat"
+    },
+    {
+      "i": "203562-10244-2014-05-06",
+      "c": "FR",
+      "n": "À L&#8217;Envers, À L&#8217;Endroit&#8230;",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Pontault Combault",
+      "o": "Centre photographique d’Ile-de-France",
+      "d": [
+        "2014-05-06",
+        "2014-07-13"
+      ],
+      "a": "203562",
+      "an": "Maxime Thieffine"
+    },
+    {
+      "i": "14737-26843-2014-04-24",
+      "c": "BE",
+      "n": "Resonance(s)",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Maison Particulière Art Center",
+      "d": [
+        "2014-04-24",
+        "2014-06-29"
+      ],
+      "a": "14737",
+      "an": "Patrick Neu"
+    },
+    {
+      "i": "14737-30866-2014-05-01",
+      "c": "DE",
+      "n": "Underground",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Stuttgart",
+      "o": "Kontur. Kunstverein Stuttgart e.V.",
+      "d": [
+        "2014-05-01",
+        "2014-10-03"
+      ],
+      "a": "14737",
+      "an": "Patrick Neu"
+    },
+    {
+      "i": "237095-19628-2014-05-09",
+      "c": "DE",
+      "n": "Mr. Brainwash - Life is beautiful",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "Nuremberg",
+      "o": "Galerie Fluegel-Roncak",
+      "d": [
+        "2014-05-09",
+        "2014-06-30"
+      ],
+      "a": "237095",
+      "an": "Mr. Brainwash"
+    },
+    {
+      "i": "155446-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "155446",
+      "an": "Vanessa Fanuele"
+    },
+    {
+      "i": "36817-10072-2014-05-24",
+      "c": "NL",
+      "n": "Staged City",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Amsterdam",
+      "o": "Arti et Amicitiae",
+      "d": [
+        "2014-05-24",
+        "2014-06-22"
+      ],
+      "a": "36817",
+      "an": "Pablo Pijnappel"
+    },
+    {
+      "i": "80552-6418-2014-03-08",
+      "c": "CH",
+      "n": "Surfaces &#8211; Neue Fotografie Aus Der Schweiz",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Winterthur",
+      "o": "Fotomuseum Winterthur",
+      "d": [
+        "2014-03-08",
+        "2014-08-24"
+      ],
+      "a": "80552",
+      "an": "Adrien Missika"
+    },
+    {
+      "i": "80552-8639-2014-04-25",
+      "c": "FR",
+      "n": "Adrien Missika",
+      "t": "Autre",
+      "st": "Solo",
+      "ct": "Paris",
+      "o": "Centre culturel Suisse",
+      "d": [
+        "2014-04-25",
+        "2014-07-13"
+      ],
+      "a": "80552",
+      "an": "Adrien Missika"
+    },
+    {
+      "i": "163313-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "163313",
+      "an": "Olivier Sévère"
+    },
+    {
+      "i": "243202-12612-2014-05-10",
+      "c": "DE",
+      "n": "Pierre Fischer - Immanent",
+      "t": "Autre",
+      "st": "Solo",
+      "ct": "Friedberg",
+      "o": "Kunstverein Friedberg",
+      "d": [
+        "2014-05-10",
+        "2014-06-15"
+      ],
+      "a": "243202",
+      "an": "Pierre Fischer"
+    },
+    {
+      "i": "71975-22692-2013-09-18",
+      "c": "FR",
+      "n": "Raw Vision",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Halle Saint Pierre",
+      "d": [
+        "2013-09-18",
+        "2014-08-22"
+      ],
+      "a": "71975",
+      "an": "André Robillard"
+    },
+    {
+      "i": "41778-1782-2014-06-06",
+      "c": "FR",
+      "n": "All that falls",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Palais de Tokyo",
+      "d": [
+        "2014-06-06",
+        "2014-09-07"
+      ],
+      "a": "41778",
+      "an": "Julien Bismuth"
+    },
+    {
+      "i": "285291-30709-2014-06-03",
+      "c": "FR",
+      "n": "L&#8217;Art fait ventre",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "l'adresse musee de la poste",
+      "d": [
+        "2014-06-03",
+        "2014-09-20"
+      ],
+      "a": "285291",
+      "an": "Winshluss"
+    },
+    {
+      "i": "106203-2259-2014-03-16",
+      "c": "DE",
+      "n": "High Performance. Die Julia Stoschek Collection Zu Gast Im Zkm. Zeitbasierte Medienkunst Seit 1996",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Karlsruhe",
+      "o": "ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe",
+      "d": [
+        "2014-03-16",
+        "2014-06-22"
+      ],
+      "a": "106203",
+      "an": "Cyprien Gaillard"
+    },
+    {
+      "i": "9110-26745-2014-02-15",
+      "c": "ES",
+      "n": "Everybody is Nobody",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Boadilla del Monte",
+      "o": "Fundación Banco Santander",
+      "d": [
+        "2014-02-15",
+        "2014-06-15"
+      ],
+      "a": "9110",
+      "an": "Bettina Rheims"
+    },
+    {
+      "i": "9110-16706-2014-03-08",
+      "c": "IT",
+      "n": "Le amazzoni della fotografia dalla collezione di Mario Trevisan",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Venice",
+      "o": "Palazzo Fortuny",
+      "d": [
+        "2014-03-08",
+        "2014-07-14"
+      ],
+      "a": "9110",
+      "an": "Bettina Rheims"
+    },
+    {
+      "i": "9110-24760-2014-05-27",
+      "c": "DE",
+      "n": "Blütezeit",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Frankfurt/Main",
+      "o": "Art Foyer der DZ Bank Kunstsammlung",
+      "d": [
+        "2014-05-27",
+        "2014-08-09"
+      ],
+      "a": "9110",
+      "an": "Bettina Rheims"
+    },
+    {
+      "i": "45753-26377-2014-05-17",
+      "c": "FR",
+      "n": "Esprit d'une collection",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Libourne",
+      "o": "Musée des Beaux-Arts de Libourne",
+      "d": [
+        "2014-05-17",
+        "2014-09-21"
+      ],
+      "a": "45753",
+      "an": "Dove Allouche"
+    },
+    {
+      "i": "190820-2296-2014-03-21",
+      "c": "DE",
+      "n": "Die Göttliche Komödie. Himmel, Hölle, Fegefeuer aus Sicht afrikanischer Gegenwartskünstler",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Frankfurt/Main",
+      "o": "Museum für Moderne Kunst (MMK)",
+      "d": [
+        "2014-03-21",
+        "2014-07-27"
+      ],
+      "a": "190820",
+      "an": "Mohamed Bourouissa"
+    },
+    {
+      "i": "65696-22613-2014-03-01",
+      "c": "BE",
+      "n": "A book between two stools",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Villa Empain - Boghossian Foundation",
+      "d": [
+        "2014-03-01",
+        "2014-09-07"
+      ],
+      "a": "65696",
+      "an": "Cécile le Talec"
+    },
+    {
+      "i": "85882-21710-2014-05-24",
+      "c": "FR",
+      "n": "La Forêt Usagère",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Dohyang Lee",
+      "d": [
+        "2014-05-24",
+        "2014-07-19"
+      ],
+      "a": "85882",
+      "an": "Roxane Borujerdi"
+    },
+    {
+      "i": "53271-13901-2014-03-29",
+      "c": "FR",
+      "n": "Abstraction/figuration",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Rennes",
+      "o": "Musée des Beaux-Arts de Rennes",
+      "d": [
+        "2014-03-29",
+        "2014-08-31"
+      ],
+      "a": "53271",
+      "an": "Carole Rivalin"
+    },
+    {
+      "i": "64969-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "64969",
+      "an": "Gaël Davrinche"
+    },
+    {
+      "i": "250447-19611-2014-04-18",
+      "c": "FR",
+      "n": "Pop-up",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Marseille",
+      "o": "Astérides",
+      "d": [
+        "2014-04-18",
+        "2014-07-06"
+      ],
+      "a": "250447",
+      "an": "Claire Tabouret"
+    },
+    {
+      "i": "250447-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "250447",
+      "an": "Claire Tabouret"
+    },
+    {
+      "i": "140421-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "140421",
+      "an": "Raphaël Denis"
+    },
+    {
+      "i": "23157-18752-2014-05-01",
+      "c": "RU",
+      "n": "do it Moscow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Moscow",
+      "o": "Garage Center for Contemporary Culture - GCCC",
+      "d": [
+        "2014-05-01",
+        "2014-07-06"
+      ],
+      "a": "23157",
+      "an": "Xavier le Roy"
+    },
+    {
+      "i": "2413-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "2413",
+      "an": "Bertrand Lavier"
+    },
+    {
+      "i": "49623-17983-2014-06-04",
+      "c": "CH",
+      "n": "Das Optische Unbewusste / The Optical Unconscious",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Rapperswil",
+      "o": "Kunst(Zeug)Haus",
+      "d": [
+        "2014-06-04",
+        "2014-08-10"
+      ],
+      "a": "49623",
+      "an": "Loîc Raguénès"
+    },
+    {
+      "i": "17701-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "17701",
+      "an": "Colette Hyvrard"
+    },
+    {
+      "i": "167627-22613-2014-03-01",
+      "c": "BE",
+      "n": "A book between two stools",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Villa Empain - Boghossian Foundation",
+      "d": [
+        "2014-03-01",
+        "2014-09-07"
+      ],
+      "a": "167627",
+      "an": "Lucien Pelen"
+    },
+    {
+      "i": "2066-18101-2014-03-14",
+      "c": "IT",
+      "n": "Family Matters - Portraits and experiences of family today",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Florence",
+      "o": "Centro di Cultura Contemporanea Strozzina (CCCS)",
+      "d": [
+        "2014-03-14",
+        "2014-07-20"
+      ],
+      "a": "2066",
+      "an": "Sophie Calle"
+    },
+    {
+      "i": "2066-3608-2014-03-22",
+      "c": "DE",
+      "n": "Room Service - Vom Hotel in der Kunst und Künstlern im Hotel",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Baden-Baden",
+      "o": "Staatliche Kunsthalle Baden-Baden",
+      "d": [
+        "2014-03-22",
+        "2014-06-22"
+      ],
+      "a": "2066",
+      "an": "Sophie Calle"
+    },
+    {
+      "i": "2066-30062-2014-04-07",
+      "c": "GB",
+      "n": "Walk On - 40 years of art walking from Richard Long to Janet Cardiff",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Southport",
+      "o": "The Atkinson",
+      "d": [
+        "2014-04-07",
+        "2014-07-30"
+      ],
+      "a": "2066",
+      "an": "Sophie Calle"
+    },
+    {
+      "i": "2066-24760-2014-05-27",
+      "c": "DE",
+      "n": "Blütezeit",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Frankfurt/Main",
+      "o": "Art Foyer der DZ Bank Kunstsammlung",
+      "d": [
+        "2014-05-27",
+        "2014-08-09"
+      ],
+      "a": "2066",
+      "an": "Sophie Calle"
+    },
+    {
+      "i": "2066-1961-2014-05-27",
+      "c": "FR",
+      "n": "Girl",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Emmanuel Perrotin - Paris",
+      "d": [
+        "2014-05-27",
+        "2014-06-25"
+      ],
+      "a": "2066",
+      "an": "Sophie Calle"
+    },
+    {
+      "i": "2066-28833-2014-05-28",
+      "c": "BG",
+      "n": "Un Cabinet D'amateur. 2 Years After",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Shumen",
+      "o": "Un Cabinet D'Amateur ",
+      "d": [
+        "2014-05-28",
+        "2014-09-25"
+      ],
+      "a": "2066",
+      "an": "Sophie Calle"
+    },
+    {
+      "i": "2066-9399-2014-06-07",
+      "c": "US",
+      "n": "Watchmen",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Torrance, CA",
+      "o": "Torrance Art Museum",
+      "d": [
+        "2014-06-07",
+        "2014-07-26"
+      ],
+      "a": "2066",
+      "an": "Sophie Calle"
+    },
+    {
+      "i": "2066-2343-2014-04-11",
+      "c": "MX",
+      "n": "Sophie Calle - Cuídese mucho",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Monterrey, NL",
+      "o": "Museo de Arte Contemporáneo de Monterrey MARCO",
+      "d": [
+        "2014-04-11",
+        "2014-08-31"
+      ],
+      "a": "2066",
+      "an": "Sophie Calle"
+    },
+    {
+      "i": "16189-26843-2014-04-24",
+      "c": "BE",
+      "n": "Resonance(s)",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Maison Particulière Art Center",
+      "d": [
+        "2014-04-24",
+        "2014-06-29"
+      ],
+      "a": "16189",
+      "an": "Jean Baptiste Huynh"
+    },
+    {
+      "i": "163239-20789-2014-06-04",
+      "c": "FR",
+      "n": "Danièle Gibrat - L'archipel du funambule",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Nogent-sur Marne",
+      "o": "Maison d'Art Bernard Anthonioz",
+      "d": [
+        "2014-06-04",
+        "2014-08-30"
+      ],
+      "a": "163239",
+      "an": "Danièle Gibrat"
+    },
+    {
+      "i": "65132-1778-2014-02-12",
+      "c": "CH",
+      "n": "cycle Des histoires sans fin, séquence printemps 2014",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Geneva",
+      "o": "Mamco - musée d´art moderne et contemporain",
+      "d": [
+        "2014-02-12",
+        "2014-06-18"
+      ],
+      "a": "65132",
+      "an": "Anita Molinero"
+    },
+    {
+      "i": "13167-1778-2014-02-12",
+      "c": "CH",
+      "n": "cycle Des histoires sans fin, séquence printemps 2014",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Geneva",
+      "o": "Mamco - musée d´art moderne et contemporain",
+      "d": [
+        "2014-02-12",
+        "2014-06-18"
+      ],
+      "a": "13167",
+      "an": "Martial Raysse"
+    },
+    {
+      "i": "13167-27822-2014-03-20",
+      "c": "FR",
+      "n": "Entre deux expositions",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "Institut culturel Bernard Magrez",
+      "d": [
+        "2014-03-20",
+        "2014-07-20"
+      ],
+      "a": "13167",
+      "an": "Martial Raysse"
+    },
+    {
+      "i": "115082-19611-2014-04-18",
+      "c": "FR",
+      "n": "Pop-up",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Marseille",
+      "o": "Astérides",
+      "d": [
+        "2014-04-18",
+        "2014-07-06"
+      ],
+      "a": "115082",
+      "an": "Emilie Perotto"
+    },
+    {
+      "i": "71476-22613-2014-03-01",
+      "c": "BE",
+      "n": "A book between two stools",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Villa Empain - Boghossian Foundation",
+      "d": [
+        "2014-03-01",
+        "2014-09-07"
+      ],
+      "a": "71476",
+      "an": "Linarejos Moreno"
+    },
+    {
+      "i": "58850-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "58850",
+      "an": "Julien Beneyton"
+    },
+    {
+      "i": "16884-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "16884",
+      "an": "Hervé di Rosa"
+    },
+    {
+      "i": "16884-26673-2014-05-18",
+      "c": "FR",
+      "n": "Sculptures du Sud",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "L´Isle-sur-la-Sorgue",
+      "o": "Villa Datris - Fondation pour la Sculpture Contemporaine",
+      "d": [
+        "2014-05-18",
+        "2014-11-11"
+      ],
+      "a": "16884",
+      "an": "Hervé di Rosa"
+    },
+    {
+      "i": "35544-8522-2014-05-17",
+      "c": "FR",
+      "n": "Nouvelle Génération",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Dunkerque",
+      "o": "FRAC - Nord-Pas de Calais",
+      "d": [
+        "2014-05-17",
+        "2014-12-31"
+      ],
+      "a": "35544",
+      "an": "Matali Crasset"
+    },
+    {
+      "i": "659-20344-2014-03-15",
+      "c": "IT",
+      "n": "Inquieto Novecento",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Lucca, LU",
+      "o": "Lu.C.C.A - Lucca Center of Contemporary Art",
+      "d": [
+        "2014-03-15",
+        "2014-06-22"
+      ],
+      "a": "659",
+      "an": "Christo & Jeanne-Claude"
+    },
+    {
+      "i": "2609-1778-2014-02-12",
+      "c": "CH",
+      "n": "cycle Des histoires sans fin, séquence printemps 2014",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Geneva",
+      "o": "Mamco - musée d´art moderne et contemporain",
+      "d": [
+        "2014-02-12",
+        "2014-06-18"
+      ],
+      "a": "2609",
+      "an": "Dominique Gonzalez-Foerster"
+    },
+    {
+      "i": "2609-11894-2014-03-22",
+      "c": "FR",
+      "n": "Visuellement vôtre",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "2609",
+      "an": "Dominique Gonzalez-Foerster"
+    },
+    {
+      "i": "2609-22253-2014-05-02",
+      "c": "DE",
+      "n": "Stanze/ Rooms",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Berlin",
+      "o": "me Collectors Room Berlin",
+      "d": [
+        "2014-05-02",
+        "2014-09-21"
+      ],
+      "a": "2609",
+      "an": "Dominique Gonzalez-Foerster"
+    },
+    {
+      "i": "2609-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "2609",
+      "an": "Dominique Gonzalez-Foerster"
+    },
+    {
+      "i": "2609-28706-2014-05-24",
+      "c": "CN",
+      "n": "In the Meantime, the Narrative Artist",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Chengdu, Sichuan",
+      "o": "Chengdu Museum of Contemporary Art MoCA",
+      "d": [
+        "2014-05-24",
+        "2014-06-29"
+      ],
+      "a": "2609",
+      "an": "Dominique Gonzalez-Foerster"
+    },
+    {
+      "i": "2609-1807-2014-03-13",
+      "c": "ES",
+      "n": "Dominique Gonzalez-Foerster - Splendide Hotel",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Madrid",
+      "o": "Museo Nacional Centro de Arte Reina Sofía",
+      "d": [
+        "2014-03-13",
+        "2014-08-31"
+      ],
+      "a": "2609",
+      "an": "Dominique Gonzalez-Foerster"
+    },
+    {
+      "i": "300709-31143-2014-04-30",
+      "c": "FR",
+      "n": "Identity Lab II",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "Espace 29",
+      "d": [
+        "2014-04-30",
+        "2014-06-28"
+      ],
+      "a": "300709",
+      "an": "Dorothée Smith"
+    },
+    {
+      "i": "17071-22613-2014-03-01",
+      "c": "BE",
+      "n": "A book between two stools",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Villa Empain - Boghossian Foundation",
+      "d": [
+        "2014-03-01",
+        "2014-09-07"
+      ],
+      "a": "17071",
+      "an": "Etienne Bossut"
+    },
+    {
+      "i": "10343-19611-2014-04-18",
+      "c": "FR",
+      "n": "Pop-up",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Marseille",
+      "o": "Astérides",
+      "d": [
+        "2014-04-18",
+        "2014-07-06"
+      ],
+      "a": "10343",
+      "an": "Pierre Malphettes"
+    },
+    {
+      "i": "10343-26673-2014-05-18",
+      "c": "FR",
+      "n": "Sculptures du Sud",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "L´Isle-sur-la-Sorgue",
+      "o": "Villa Datris - Fondation pour la Sculpture Contemporaine",
+      "d": [
+        "2014-05-18",
+        "2014-11-11"
+      ],
+      "a": "10343",
+      "an": "Pierre Malphettes"
+    },
+    {
+      "i": "18746-2582-2014-01-29",
+      "c": "GR",
+      "n": "Painting II (1980-2000)",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Athens",
+      "o": "Frissiras Museum",
+      "d": [
+        "2014-01-29",
+        "2014-09-28"
+      ],
+      "a": "18746",
+      "an": "Gilles Marrey"
+    },
+    {
+      "i": "191018-17760-2014-03-22",
+      "c": "ES",
+      "n": "PER/FORM. How to do things with[out] words",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Móstoles",
+      "o": "CA2M - Centro de Arte Dos de Mayo",
+      "d": [
+        "2014-03-22",
+        "2014-09-20"
+      ],
+      "a": "191018",
+      "an": "Franck Leibovici"
+    },
+    {
+      "i": "269170-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "269170",
+      "an": "Thomas Klimowski"
+    },
+    {
+      "i": "120587-26673-2014-05-18",
+      "c": "FR",
+      "n": "Sculptures du Sud",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "L´Isle-sur-la-Sorgue",
+      "o": "Villa Datris - Fondation pour la Sculpture Contemporaine",
+      "d": [
+        "2014-05-18",
+        "2014-11-11"
+      ],
+      "a": "120587",
+      "an": "Yazid Oulab"
+    },
+    {
+      "i": "2024-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "2024",
+      "an": "Cédric Teisseire"
+    },
+    {
+      "i": "33951-426-2014-05-02",
+      "c": "DE",
+      "n": "Structures and Surfaces",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Berlin",
+      "o": "Kicken Berlin",
+      "d": [
+        "2014-05-02",
+        "2014-08-29"
+      ],
+      "a": "33951",
+      "an": "Charles Fréger"
+    },
+    {
+      "i": "33951-10522-2014-05-06",
+      "c": "FR",
+      "n": "Vernacular Alchemists",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Brest",
+      "o": "Centre d'Art Passerelle",
+      "d": [
+        "2014-05-06",
+        "2014-08-30"
+      ],
+      "a": "33951",
+      "an": "Charles Fréger"
+    },
+    {
+      "i": "39361-25218-2014-05-16",
+      "c": "PL",
+      "n": "Crime in Art",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Krakow",
+      "o": "Museum of Contemporary Art in Kraków (MOCAK)",
+      "d": [
+        "2014-05-16",
+        "2014-09-28"
+      ],
+      "a": "39361",
+      "an": "Virginie Barré"
+    },
+    {
+      "i": "1511-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "1511",
+      "an": "Fabrice Hybert"
+    },
+    {
+      "i": "121076-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "121076",
+      "an": "Neil Beloufa"
+    },
+    {
+      "i": "121076-449-2014-05-24",
+      "c": "DE",
+      "n": "Giving contours to shadow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Berlin",
+      "o": "NBK - Neuer Berliner Kunstverein",
+      "d": [
+        "2014-05-24",
+        "2014-07-27"
+      ],
+      "a": "121076",
+      "an": "Neil Beloufa"
+    },
+    {
+      "i": "121076-2226-2014-05-29",
+      "c": "US",
+      "n": "UHF42",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "New York City, NY",
+      "o": "Apexart",
+      "d": [
+        "2014-05-29",
+        "2014-06-27"
+      ],
+      "a": "121076",
+      "an": "Neil Beloufa"
+    },
+    {
+      "i": "121076-21820-2014-05-31",
+      "c": "BR",
+      "n": "Neil Beloufa",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "São Paulo",
+      "o": "Galeria Mendes Wood",
+      "d": [
+        "2014-05-31",
+        "2014-07-12"
+      ],
+      "a": "121076",
+      "an": "Neil Beloufa"
+    },
+    {
+      "i": "21705-18752-2014-05-01",
+      "c": "RU",
+      "n": "do it Moscow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Moscow",
+      "o": "Garage Center for Contemporary Culture - GCCC",
+      "d": [
+        "2014-05-01",
+        "2014-07-06"
+      ],
+      "a": "21705",
+      "an": "Yona Friedman"
+    },
+    {
+      "i": "10155-26377-2014-05-17",
+      "c": "FR",
+      "n": "Esprit d'une collection",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Libourne",
+      "o": "Musée des Beaux-Arts de Libourne",
+      "d": [
+        "2014-05-17",
+        "2014-09-21"
+      ],
+      "a": "10155",
+      "an": "Philippe Favier"
+    },
+    {
+      "i": "113014-17760-2014-03-22",
+      "c": "ES",
+      "n": "PER/FORM. How to do things with[out] words",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Móstoles",
+      "o": "CA2M - Centro de Arte Dos de Mayo",
+      "d": [
+        "2014-03-22",
+        "2014-09-20"
+      ],
+      "a": "113014",
+      "an": "Mathieu Kleyebe Abonnenc"
+    },
+    {
+      "i": "113014-449-2014-05-24",
+      "c": "DE",
+      "n": "Giving contours to shadow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Berlin",
+      "o": "NBK - Neuer Berliner Kunstverein",
+      "d": [
+        "2014-05-24",
+        "2014-07-27"
+      ],
+      "a": "113014",
+      "an": "Mathieu Kleyebe Abonnenc"
+    },
+    {
+      "i": "113014-2554-2014-05-29",
+      "c": "DE",
+      "n": "8. Berlin Biennale für zeitgenössische Kunst",
+      "st": "Group",
+      "ct": "Berlin",
+      "o": "berlin biennale für zeitgenössische kunst",
+      "d": [
+        "2014-05-29",
+        "2014-08-03"
+      ],
+      "a": "113014",
+      "an": "Mathieu Kleyebe Abonnenc"
+    },
+    {
+      "i": "16178-8522-2014-05-17",
+      "c": "FR",
+      "n": "Constellations",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Dunkerque",
+      "o": "FRAC - Nord-Pas de Calais",
+      "d": [
+        "2014-05-17",
+        "2014-08-31"
+      ],
+      "a": "16178",
+      "an": "Véronique Joumard"
+    },
+    {
+      "i": "15461-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "15461",
+      "an": "Joël Hubaut"
+    },
+    {
+      "i": "15287-2582-2014-01-29",
+      "c": "GR",
+      "n": "Painting II (1980-2000)",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Athens",
+      "o": "Frissiras Museum",
+      "d": [
+        "2014-01-29",
+        "2014-09-28"
+      ],
+      "a": "15287",
+      "an": "Philippe Perrot"
+    },
+    {
+      "i": "15287-11894-2014-03-22",
+      "c": "FR",
+      "n": "Enigme au Club de la Compagnie",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "15287",
+      "an": "Philippe Perrot"
+    },
+    {
+      "i": "10329-11894-2014-03-22",
+      "c": "FR",
+      "n": "Visuellement vôtre",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "10329",
+      "an": "Hugues Reip"
+    },
+    {
+      "i": "10329-8128-2014-05-16",
+      "c": "FR",
+      "n": "Mauvaise Pente",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montpellier",
+      "o": "FRAC - Languedoc-Roussilon",
+      "d": [
+        "2014-05-16",
+        "2014-06-28"
+      ],
+      "a": "10329",
+      "an": "Hugues Reip"
+    },
+    {
+      "i": "40755-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "40755",
+      "an": "Michel Gouéry"
+    },
+    {
+      "i": "119-26745-2014-02-15",
+      "c": "ES",
+      "n": "Everybody is Nobody",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Boadilla del Monte",
+      "o": "Fundación Banco Santander",
+      "d": [
+        "2014-02-15",
+        "2014-06-15"
+      ],
+      "a": "119",
+      "an": "François Morellet"
+    },
+    {
+      "i": "119-1146-2014-03-08",
+      "c": "DE",
+      "n": "Kiel ablaze! the rapture of color",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Kiel",
+      "o": "Kunsthalle zu Kiel",
+      "d": [
+        "2014-03-08",
+        "2014-09-21"
+      ],
+      "a": "119",
+      "an": "François Morellet"
+    },
+    {
+      "i": "119-2230-2014-04-05",
+      "c": "DE",
+      "n": "\"Les Immateriaux\" for Instance",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Dusseldorf",
+      "o": "Kunstverein für die Rheinlande und Westfalen, Düsseldorf",
+      "d": [
+        "2014-04-05",
+        "2014-08-10"
+      ],
+      "a": "119",
+      "an": "François Morellet"
+    },
+    {
+      "i": "90284-2188-2014-05-24",
+      "c": "DE",
+      "n": "Existenzielle Bildwelten - Sammlung Reinking",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bremen",
+      "o": "Weserburg | Museum für moderne Kunst",
+      "d": [
+        "2014-05-24",
+        "2015-02-01"
+      ],
+      "a": "90284",
+      "an": "Hermine Anthoine"
+    },
+    {
+      "i": "90983-22613-2014-03-01",
+      "c": "BE",
+      "n": "A book between two stools",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Villa Empain - Boghossian Foundation",
+      "d": [
+        "2014-03-01",
+        "2014-09-07"
+      ],
+      "a": "90983",
+      "an": "Sammy Engramer"
+    },
+    {
+      "i": "15853-2371-2014-02-02",
+      "c": "US",
+      "n": "Fútbol: The Beautiful Game",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Los Angeles, CA",
+      "o": "Los Angeles County Museum of Art - LACMA",
+      "d": [
+        "2014-02-02",
+        "2014-07-20"
+      ],
+      "a": "15853",
+      "an": "Stephen Dean"
+    },
+    {
+      "i": "15853-11894-2014-03-22",
+      "c": "FR",
+      "n": "Visuellement vôtre",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "15853",
+      "an": "Stephen Dean"
+    },
+    {
+      "i": "15853-4403-2014-06-05",
+      "c": "US",
+      "n": "Stephen Dean - Jugglers",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "New York City, NY",
+      "o": "Ameringer | McEnery | Yohe ",
+      "d": [
+        "2014-06-05",
+        "2014-08-01"
+      ],
+      "a": "15853",
+      "an": "Stephen Dean"
+    },
+    {
+      "i": "126203-11894-2014-03-22",
+      "c": "FR",
+      "n": "Visuellement vôtre",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "126203",
+      "an": "Edith Roux"
+    },
+    {
+      "i": "2408-2289-2014-05-24",
+      "c": "CH",
+      "n": "Collection on Display",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Zurich",
+      "o": "Migros Museum für Gegenwartskunst",
+      "d": [
+        "2014-05-24",
+        "2014-08-17"
+      ],
+      "a": "2408",
+      "an": "Jean-Marc Bustamante"
+    },
+    {
+      "i": "65152-26673-2014-05-18",
+      "c": "FR",
+      "n": "Sculptures du Sud",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "L´Isle-sur-la-Sorgue",
+      "o": "Villa Datris - Fondation pour la Sculpture Contemporaine",
+      "d": [
+        "2014-05-18",
+        "2014-11-11"
+      ],
+      "a": "65152",
+      "an": "Karim Ghelloussi"
+    },
+    {
+      "i": "29288-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "29288",
+      "an": "Lionel Sabatté"
+    },
+    {
+      "i": "4052-10830-2014-04-12",
+      "c": "DE",
+      "n": "Raw materials - Vom Baumarkt ins Museum",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Delmenhorst",
+      "o": "Städtische Galerie Delmenhorst",
+      "d": [
+        "2014-04-12",
+        "2014-06-15"
+      ],
+      "a": "4052",
+      "an": "Mathieu Mercier"
+    },
+    {
+      "i": "4052-10244-2014-05-06",
+      "c": "FR",
+      "n": "À L&#8217;Envers, À L&#8217;Endroit&#8230;",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Pontault Combault",
+      "o": "Centre photographique d’Ile-de-France",
+      "d": [
+        "2014-05-06",
+        "2014-07-13"
+      ],
+      "a": "4052",
+      "an": "Mathieu Mercier"
+    },
+    {
+      "i": "26848-8522-2014-05-17",
+      "c": "FR",
+      "n": "Nouvelle Génération",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Dunkerque",
+      "o": "FRAC - Nord-Pas de Calais",
+      "d": [
+        "2014-05-17",
+        "2014-12-31"
+      ],
+      "a": "26848",
+      "an": "Hedi Slimane"
+    },
+    {
+      "i": "32808-27822-2014-03-20",
+      "c": "FR",
+      "n": "Entre deux expositions",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "Institut culturel Bernard Magrez",
+      "d": [
+        "2014-03-20",
+        "2014-07-20"
+      ],
+      "a": "32808",
+      "an": "Benoît Maire"
+    },
+    {
+      "i": "32808-8438-2014-05-21",
+      "c": "CA",
+      "n": "Benoît Maire - Letter",
+      "t": "Autre",
+      "st": "Solo",
+      "ct": "Vancouver, BC",
+      "o": "The Western Front",
+      "d": [
+        "2014-05-21",
+        "2014-06-28"
+      ],
+      "a": "32808",
+      "an": "Benoît Maire"
+    },
+    {
+      "i": "169679-21710-2014-05-24",
+      "c": "FR",
+      "n": "La Forêt Usagère",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Dohyang Lee",
+      "d": [
+        "2014-05-24",
+        "2014-07-19"
+      ],
+      "a": "169679",
+      "an": "Colombe Marcasiano"
+    },
+    {
+      "i": "94354-10244-2014-05-06",
+      "c": "FR",
+      "n": "À L&#8217;Envers, À L&#8217;Endroit&#8230;",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Pontault Combault",
+      "o": "Centre photographique d’Ile-de-France",
+      "d": [
+        "2014-05-06",
+        "2014-07-13"
+      ],
+      "a": "94354",
+      "an": "Agnès Geoffray"
+    },
+    {
+      "i": "94354-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "94354",
+      "an": "Agnès Geoffray"
+    },
+    {
+      "i": "113986-5745-2014-02-28",
+      "c": "US",
+      "n": "Buildering: Misbehaving the City",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Cincinnati, OH",
+      "o": "CAC - Cincinnati Contemporary Arts Center",
+      "d": [
+        "2014-02-28",
+        "2014-08-18"
+      ],
+      "a": "113986",
+      "an": "Etienne Boulanger"
+    },
+    {
+      "i": "68006-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "68006",
+      "an": "Laura Henno"
+    },
+    {
+      "i": "38369-10244-2014-05-06",
+      "c": "FR",
+      "n": "À L&#8217;Envers, À L&#8217;Endroit&#8230;",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Pontault Combault",
+      "o": "Centre photographique d’Ile-de-France",
+      "d": [
+        "2014-05-06",
+        "2014-07-13"
+      ],
+      "a": "38369",
+      "an": "Marina Gadonneix"
+    },
+    {
+      "i": "129301-10516-2014-06-04",
+      "c": "FR",
+      "n": "Marie-Paule Nègre - Mine De Rien&#8230;",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Paris",
+      "o": "Maison Européenne de la Photographie",
+      "d": [
+        "2014-06-04",
+        "2014-08-31"
+      ],
+      "a": "129301",
+      "an": "Marie-Paule Nègre"
+    },
+    {
+      "i": "205968-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "205968",
+      "an": "Francois Genot"
+    },
+    {
+      "i": "38334-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "38334",
+      "an": "Gregory Cumins"
+    },
+    {
+      "i": "100679-18752-2014-05-01",
+      "c": "RU",
+      "n": "do it Moscow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Moscow",
+      "o": "Garage Center for Contemporary Culture - GCCC",
+      "d": [
+        "2014-05-01",
+        "2014-07-06"
+      ],
+      "a": "100679",
+      "an": "Claire Fontaine"
+    },
+    {
+      "i": "100679-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "100679",
+      "an": "Claire Fontaine"
+    },
+    {
+      "i": "26383-17981-2014-04-05",
+      "c": "DE",
+      "n": "Backdoor Fantasies",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Dusseldorf",
+      "o": "KAI 10 Raum für Kunst ",
+      "d": [
+        "2014-04-05",
+        "2014-08-10"
+      ],
+      "a": "26383",
+      "an": "Jean-Pascal Flavien"
+    },
+    {
+      "i": "26383-1782-2014-06-06",
+      "c": "FR",
+      "n": "All that falls",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Palais de Tokyo",
+      "d": [
+        "2014-06-06",
+        "2014-09-07"
+      ],
+      "a": "26383",
+      "an": "Jean-Pascal Flavien"
+    },
+    {
+      "i": "74824-30296-2014-05-09",
+      "c": "CN",
+      "n": "Jeffrey Shaw and Hu Jieming Twofold Solo Exhibition",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Shanghai",
+      "o": "CAC | Chronus Art Center",
+      "d": [
+        "2014-05-09",
+        "2014-11-28"
+      ],
+      "a": "74824",
+      "an": "Jean Michel Bruyère"
+    },
+    {
+      "i": "33117-16836-2014-04-14",
+      "c": "IT",
+      "n": "Mex Pro Mexico Art Project",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Trieste",
+      "o": "Museo Revoltella",
+      "d": [
+        "2014-04-14",
+        "2014-10-14"
+      ],
+      "a": "33117",
+      "an": "Estrella Carmona"
+    },
+    {
+      "i": "12842-1961-2014-05-27",
+      "c": "FR",
+      "n": "Girl",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Emmanuel Perrotin - Paris",
+      "d": [
+        "2014-05-27",
+        "2014-06-25"
+      ],
+      "a": "12842",
+      "an": "Jean-Michel Othoniel"
+    },
+    {
+      "i": "210321-30866-2014-05-01",
+      "c": "DE",
+      "n": "Underground",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Stuttgart",
+      "o": "Kontur. Kunstverein Stuttgart e.V.",
+      "d": [
+        "2014-05-01",
+        "2014-10-03"
+      ],
+      "a": "210321",
+      "an": "Sebastien Gouju"
+    },
+    {
+      "i": "29279-10239-2014-04-12",
+      "c": "FR",
+      "n": "Céline Cléron - Le Perchoir d'Horus",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Chateau Gontier",
+      "o": "Le Carré, scène nationale",
+      "d": [
+        "2014-04-12",
+        "2014-06-15"
+      ],
+      "a": "29279",
+      "an": "Céline Cléron"
+    },
+    {
+      "i": "331820-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "331820",
+      "an": "Nils Guadagnin"
+    },
+    {
+      "i": "129102-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "129102",
+      "an": "Karine Rougier"
+    },
+    {
+      "i": "251436-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "251436",
+      "an": "Juliette Mogenet"
+    },
+    {
+      "i": "53266-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "53266",
+      "an": "Frédérique Lucien"
+    },
+    {
+      "i": "52239-21906-2014-05-06",
+      "c": "FR",
+      "n": "Laurent Millet - Translucent Mould of Me",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "Paris",
+      "o": "La Galerie Particuliere",
+      "d": [
+        "2014-05-06",
+        "2014-06-14"
+      ],
+      "a": "52239",
+      "an": "Laurent Millet"
+    },
+    {
+      "i": "126280-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "126280",
+      "an": "Thierry Lagalla"
+    },
+    {
+      "i": "58653-12042-2014-04-11",
+      "c": "ES",
+      "n": "Universo video. La Magia de las Imágenes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Gijón",
+      "o": "Laboral - Centro de Arte y Creación Industrial",
+      "d": [
+        "2014-04-11",
+        "2014-07-06"
+      ],
+      "a": "58653",
+      "an": "Louidgi Beltrame"
+    },
+    {
+      "i": "5298-2098-2014-06-08",
+      "c": "US",
+      "n": "Body Double: Vous N'en Croirez Pas Vos Yeux",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "New York City, NY",
+      "o": "team (gallery, inc.)",
+      "d": [
+        "2014-06-08",
+        "2014-08-01"
+      ],
+      "a": "5298",
+      "an": "Brice Dellsperger"
+    },
+    {
+      "i": "16519-27822-2014-03-20",
+      "c": "FR",
+      "n": "Entre deux expositions",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "Institut culturel Bernard Magrez",
+      "d": [
+        "2014-03-20",
+        "2014-07-20"
+      ],
+      "a": "16519",
+      "an": "Xavier Veilhan"
+    },
+    {
+      "i": "16519-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "16519",
+      "an": "Xavier Veilhan"
+    },
+    {
+      "i": "16519-1961-2014-05-27",
+      "c": "FR",
+      "n": "Girl",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Emmanuel Perrotin - Paris",
+      "d": [
+        "2014-05-27",
+        "2014-06-25"
+      ],
+      "a": "16519",
+      "an": "Xavier Veilhan"
+    },
+    {
+      "i": "16519-26041-2014-04-10",
+      "c": "KR",
+      "n": "Xavier Veilhan - Bodies",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "Seoul",
+      "o": "313 Art Projects",
+      "d": [
+        "2014-04-10",
+        "2014-06-28"
+      ],
+      "a": "16519",
+      "an": "Xavier Veilhan"
+    },
+    {
+      "i": "139087-28277-2014-03-07",
+      "c": "FR",
+      "n": "Des Hommes, Des Mondes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "College des Bernardins",
+      "d": [
+        "2014-03-07",
+        "2014-06-15"
+      ],
+      "a": "139087",
+      "an": "Romain Bernini"
+    },
+    {
+      "i": "139087-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "139087",
+      "an": "Romain Bernini"
+    },
+    {
+      "i": "139087-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "139087",
+      "an": "Romain Bernini"
+    },
+    {
+      "i": "196962-29572-2014-04-29",
+      "c": "DE",
+      "n": "Mensch werde wesentlich",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Zwickau",
+      "o": "Freunde Aktueller Kunst",
+      "d": [
+        "2014-04-29",
+        "2014-06-21"
+      ],
+      "a": "196962",
+      "an": "Cyril Massimelli"
+    },
+    {
+      "i": "110048-30709-2014-06-03",
+      "c": "FR",
+      "n": "L&#8217;Art fait ventre",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "l'adresse musee de la poste",
+      "d": [
+        "2014-06-03",
+        "2014-09-20"
+      ],
+      "a": "110048",
+      "an": "Joëlle de la Casinière"
+    },
+    {
+      "i": "178530-31121-2014-06-06",
+      "c": "CH",
+      "n": "Utopie Picturale 2",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Geneva",
+      "o": "Fonderie Kugler",
+      "d": [
+        "2014-06-06",
+        "2014-06-22"
+      ],
+      "a": "178530",
+      "an": "Marion Tampon-Lajarriette"
+    },
+    {
+      "i": "107299-12042-2014-04-11",
+      "c": "ES",
+      "n": "Universo video. La Magia de las Imágenes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Gijón",
+      "o": "Laboral - Centro de Arte y Creación Industrial",
+      "d": [
+        "2014-04-11",
+        "2014-07-06"
+      ],
+      "a": "107299",
+      "an": "Maïder Fortuné"
+    },
+    {
+      "i": "1794-4258-2014-02-22",
+      "c": "CA",
+      "n": "1 + 1 = 1 : When Collections Collide",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montreal, QC",
+      "o": "The Montreal Museum of Fine Arts - Musée des beaux-arts de Montréal",
+      "d": [
+        "2014-02-22",
+        "2014-06-15"
+      ],
+      "a": "1794",
+      "an": "Patrick Faigenbaum"
+    },
+    {
+      "i": "247535-28288-2014-05-24",
+      "c": "FR",
+      "n": "l&#8217;art est un jeu d&#8217;enfant",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Amilly",
+      "o": "Galerie Agart",
+      "d": [
+        "2014-05-24",
+        "2014-08-23"
+      ],
+      "a": "247535",
+      "an": "les Simonnet"
+    },
+    {
+      "i": "60861-4955-2014-04-01",
+      "c": "BR",
+      "n": "Roesler Hotel 26# - Spectres",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "São Paulo",
+      "o": "Galeria Nara Roesler",
+      "d": [
+        "2014-04-01",
+        "2014-07-05"
+      ],
+      "a": "60861",
+      "an": "Isabelle Cornaro"
+    },
+    {
+      "i": "60861-21857-2014-04-18",
+      "c": "BE",
+      "n": "Isabelle Cornaro",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Leuven",
+      "o": "M - Museum Leuven",
+      "d": [
+        "2014-04-18",
+        "2014-08-03"
+      ],
+      "a": "60861",
+      "an": "Isabelle Cornaro"
+    },
+    {
+      "i": "11934-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "11934",
+      "an": "Caroline Bach"
+    },
+    {
+      "i": "62063-1908-2014-04-24",
+      "c": "ES",
+      "n": "Delphine Courtillot - Atelier Familial",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "Valencia",
+      "o": "Galeria Luis Adelantado - Valencia",
+      "d": [
+        "2014-04-24",
+        "2014-07-04"
+      ],
+      "a": "62063",
+      "an": "Delphine Courtillot"
+    },
+    {
+      "i": "14162-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "14162",
+      "an": "David Dalla Venezia"
+    },
+    {
+      "i": "121102-28277-2014-03-07",
+      "c": "FR",
+      "n": "Des Hommes, Des Mondes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "College des Bernardins",
+      "d": [
+        "2014-03-07",
+        "2014-06-15"
+      ],
+      "a": "121102",
+      "an": "Stephane Vigny"
+    },
+    {
+      "i": "142920-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "142920",
+      "an": "Vincent Mauger"
+    },
+    {
+      "i": "315184-17846-2014-05-18",
+      "c": "DE",
+      "n": "Eric Decastro / Mike Hentz - Prévenu d´avance - Installation, Grafik, Malerei",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Mosbach",
+      "o": "Kunstverein Neckar-Odenwald",
+      "d": [
+        "2014-05-18",
+        "2014-06-15"
+      ],
+      "a": "315184",
+      "an": "Eric Decastro"
+    },
+    {
+      "i": "5380-5426-2014-05-01",
+      "c": "AT",
+      "n": "Manners of Matter",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Salzburg",
+      "o": "Salzburger Kunstverein",
+      "d": [
+        "2014-05-01",
+        "2014-07-13"
+      ],
+      "a": "5380",
+      "an": "Jean-Luc Moulène"
+    },
+    {
+      "i": "5380-24760-2014-05-27",
+      "c": "DE",
+      "n": "Blütezeit",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Frankfurt/Main",
+      "o": "Art Foyer der DZ Bank Kunstsammlung",
+      "d": [
+        "2014-05-27",
+        "2014-08-09"
+      ],
+      "a": "5380",
+      "an": "Jean-Luc Moulène"
+    },
+    {
+      "i": "70110-23875-2013-12-06",
+      "c": "FR",
+      "n": "Revoir Réattu",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Arles",
+      "o": "Musée Réattu",
+      "d": [
+        "2013-12-06",
+        "2014-06-30"
+      ],
+      "a": "70110",
+      "an": "Bernard Dejonghe"
+    },
+    {
+      "i": "152727-17983-2014-06-04",
+      "c": "CH",
+      "n": "Das Optische Unbewusste / The Optical Unconscious",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Rapperswil",
+      "o": "Kunst(Zeug)Haus",
+      "d": [
+        "2014-06-04",
+        "2014-08-10"
+      ],
+      "a": "152727",
+      "an": "Hugo Pernet"
+    },
+    {
+      "i": "29028-2582-2014-01-29",
+      "c": "GR",
+      "n": "Painting II (1980-2000)",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Athens",
+      "o": "Frissiras Museum",
+      "d": [
+        "2014-01-29",
+        "2014-09-28"
+      ],
+      "a": "29028",
+      "an": "Agnès Baillon"
+    },
+    {
+      "i": "80567-13550-2014-05-28",
+      "c": "GB",
+      "n": "Thinking Things",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "London",
+      "o": "CGP London - Cafe Gallery Projects",
+      "d": [
+        "2014-05-28",
+        "2014-06-29"
+      ],
+      "a": "80567",
+      "an": "Emilie Pitoiset"
+    },
+    {
+      "i": "44859-11894-2014-03-22",
+      "c": "FR",
+      "n": "Enigme au Club de la Compagnie",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "44859",
+      "an": "Jochen Gerner"
+    },
+    {
+      "i": "2026-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "2026",
+      "an": "Pascal Pinaud"
+    },
+    {
+      "i": "60981-26673-2014-05-18",
+      "c": "FR",
+      "n": "Sculptures du Sud",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "L´Isle-sur-la-Sorgue",
+      "o": "Villa Datris - Fondation pour la Sculpture Contemporaine",
+      "d": [
+        "2014-05-18",
+        "2014-11-11"
+      ],
+      "a": "60981",
+      "an": "Xavier Escribà"
+    },
+    {
+      "i": "1894-27822-2014-03-20",
+      "c": "FR",
+      "n": "Entre deux expositions",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "Institut culturel Bernard Magrez",
+      "d": [
+        "2014-03-20",
+        "2014-07-20"
+      ],
+      "a": "1894",
+      "an": "Pierre Soulages"
+    },
+    {
+      "i": "1894-18766-2014-04-04",
+      "c": "CL",
+      "n": "Solidaridad Y Resistencia. La Historia Del Mssa",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Santiago",
+      "o": "Museo de la Solidaridad Salvador Allende",
+      "d": [
+        "2014-04-04",
+        "2014-06-29"
+      ],
+      "a": "1894",
+      "an": "Pierre Soulages"
+    },
+    {
+      "i": "1894-31160-2014-05-31",
+      "c": "FR",
+      "n": "Outrenoir En Europe. Musées Et Fondations",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Rodez",
+      "o": "Musee Soulages",
+      "d": [
+        "2014-05-31",
+        "2014-10-05"
+      ],
+      "a": "1894",
+      "an": "Pierre Soulages"
+    },
+    {
+      "i": "57608-11894-2014-03-22",
+      "c": "FR",
+      "n": "Enigme au Club de la Compagnie",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "57608",
+      "an": "Stéphane Belzère"
+    },
+    {
+      "i": "17032-11894-2014-03-22",
+      "c": "FR",
+      "n": "Visuellement vôtre",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "17032",
+      "an": "Tania Mouraud"
+    },
+    {
+      "i": "13380-6514-2014-06-06",
+      "c": "DK",
+      "n": "Photography",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Copenhagen",
+      "o": "Martin Asbæk Gallery",
+      "d": [
+        "2014-06-06",
+        "2014-06-28"
+      ],
+      "a": "13380",
+      "an": "Jean-Luc Mylayne"
+    },
+    {
+      "i": "2197-11894-2014-03-22",
+      "c": "FR",
+      "n": "Visuellement vôtre",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "2197",
+      "an": "Pierre Huyghe"
+    },
+    {
+      "i": "2197-4955-2014-04-01",
+      "c": "BR",
+      "n": "Roesler Hotel 26# - Spectres",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "São Paulo",
+      "o": "Galeria Nara Roesler",
+      "d": [
+        "2014-04-01",
+        "2014-07-05"
+      ],
+      "a": "2197",
+      "an": "Pierre Huyghe"
+    },
+    {
+      "i": "2197-596-2014-04-25",
+      "c": "NL",
+      "n": "Beating around the bush - Episode #2",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Maastricht",
+      "o": "Bonnefantenmuseum",
+      "d": [
+        "2014-04-25",
+        "2014-06-22"
+      ],
+      "a": "2197",
+      "an": "Pierre Huyghe"
+    },
+    {
+      "i": "2197-18752-2014-05-01",
+      "c": "RU",
+      "n": "do it Moscow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Moscow",
+      "o": "Garage Center for Contemporary Culture - GCCC",
+      "d": [
+        "2014-05-01",
+        "2014-07-06"
+      ],
+      "a": "2197",
+      "an": "Pierre Huyghe"
+    },
+    {
+      "i": "2197-2226-2014-05-22",
+      "c": "US",
+      "n": "The Hidden Passengers",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "New York City, NY",
+      "o": "Apexart",
+      "d": [
+        "2014-05-22",
+        "2014-07-26"
+      ],
+      "a": "2197",
+      "an": "Pierre Huyghe"
+    },
+    {
+      "i": "2197-28706-2014-05-24",
+      "c": "CN",
+      "n": "In the Meantime, the Narrative Artist",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Chengdu, Sichuan",
+      "o": "Chengdu Museum of Contemporary Art MoCA",
+      "d": [
+        "2014-05-24",
+        "2014-06-29"
+      ],
+      "a": "2197",
+      "an": "Pierre Huyghe"
+    },
+    {
+      "i": "2197-344-2014-04-11",
+      "c": "DE",
+      "n": "Pierre Huyghe",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Cologne",
+      "o": "Museum Ludwig",
+      "d": [
+        "2014-04-11",
+        "2014-07-13"
+      ],
+      "a": "2197",
+      "an": "Pierre Huyghe"
+    },
+    {
+      "i": "13124-9853-2014-05-16",
+      "c": "US",
+      "n": "Melik Ohanian - Welcome to Hanksville",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Salt Lake City, UT",
+      "o": "Utah Museum of Contemporary Art",
+      "d": [
+        "2014-05-16",
+        "2014-06-28"
+      ],
+      "a": "13124",
+      "an": "Melik Ohanian"
+    },
+    {
+      "i": "86820-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "86820",
+      "an": "Laura Gozlan"
+    },
+    {
+      "i": "189186-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "189186",
+      "an": "Isabelle Giovacchini"
+    },
+    {
+      "i": "189186-10244-2014-05-06",
+      "c": "FR",
+      "n": "À L&#8217;Envers, À L&#8217;Endroit&#8230;",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Pontault Combault",
+      "o": "Centre photographique d’Ile-de-France",
+      "d": [
+        "2014-05-06",
+        "2014-07-13"
+      ],
+      "a": "189186",
+      "an": "Isabelle Giovacchini"
+    },
+    {
+      "i": "57122-4492-2014-05-15",
+      "c": "US",
+      "n": "Art Truancy: Celebrating 20 Years of Juxtapoz Magazine",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "New York City, NY",
+      "o": "Jonathan LeVine Gallery",
+      "d": [
+        "2014-05-15",
+        "2014-06-14"
+      ],
+      "a": "57122",
+      "an": "Miss Van"
+    },
+    {
+      "i": "248381-31121-2014-06-06",
+      "c": "CH",
+      "n": "Utopie Picturale 2",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Geneva",
+      "o": "Fonderie Kugler",
+      "d": [
+        "2014-06-06",
+        "2014-06-22"
+      ],
+      "a": "248381",
+      "an": "Benoit Billotte"
+    },
+    {
+      "i": "86797-17437-2013-10-25",
+      "c": "MX",
+      "n": "X, Diez",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Guadalajara",
+      "o": "Museo de Arte Raúl Anguiano (MURA)",
+      "d": [
+        "2013-10-25",
+        "2014-09-13"
+      ],
+      "a": "86797",
+      "an": "Alejandro Moncada"
+    },
+    {
+      "i": "36249-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "36249",
+      "an": "Thierry Agnone"
+    },
+    {
+      "i": "47233-12523-2014-02-07",
+      "c": "FR",
+      "n": "Art By Te­Le­Phone... Re­Cal­Led",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montpellier",
+      "o": "La Panacée",
+      "d": [
+        "2014-02-07",
+        "2014-09-14"
+      ],
+      "a": "47233",
+      "an": "Jean Dupuy"
+    },
+    {
+      "i": "47233-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "47233",
+      "an": "Jean Dupuy"
+    },
+    {
+      "i": "112024-12523-2014-02-07",
+      "c": "FR",
+      "n": "Art By Te­Le­Phone... Re­Cal­Led",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montpellier",
+      "o": "La Panacée",
+      "d": [
+        "2014-02-07",
+        "2014-09-14"
+      ],
+      "a": "112024",
+      "an": "Pierre Leguillon"
+    },
+    {
+      "i": "112024-3608-2014-03-22",
+      "c": "DE",
+      "n": "Room Service - Vom Hotel in der Kunst und Künstlern im Hotel",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Baden-Baden",
+      "o": "Staatliche Kunsthalle Baden-Baden",
+      "d": [
+        "2014-03-22",
+        "2014-06-22"
+      ],
+      "a": "112024",
+      "an": "Pierre Leguillon"
+    },
+    {
+      "i": "112024-2694-2014-05-07",
+      "c": "US",
+      "n": "Outtakes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Pittsburg, PA",
+      "o": "Carnegie Museum of Art",
+      "d": [
+        "2014-05-07",
+        "2014-09-01"
+      ],
+      "a": "112024",
+      "an": "Pierre Leguillon"
+    },
+    {
+      "i": "112024-21710-2014-05-24",
+      "c": "FR",
+      "n": "La Forêt Usagère",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Dohyang Lee",
+      "d": [
+        "2014-05-24",
+        "2014-07-19"
+      ],
+      "a": "112024",
+      "an": "Pierre Leguillon"
+    },
+    {
+      "i": "63787-18752-2014-05-01",
+      "c": "RU",
+      "n": "do it Moscow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Moscow",
+      "o": "Garage Center for Contemporary Culture - GCCC",
+      "d": [
+        "2014-05-01",
+        "2014-07-06"
+      ],
+      "a": "63787",
+      "an": "Alexandre Singh"
+    },
+    {
+      "i": "63787-449-2014-05-24",
+      "c": "DE",
+      "n": "Giving contours to shadow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Berlin",
+      "o": "NBK - Neuer Berliner Kunstverein",
+      "d": [
+        "2014-05-24",
+        "2014-07-27"
+      ],
+      "a": "63787",
+      "an": "Alexandre Singh"
+    },
+    {
+      "i": "251017-12229-2014-05-28",
+      "c": "ES",
+      "n": "Samuel Labadie - Spectrum",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Barcelona",
+      "o": "Institut de Cultura de Barcelona, La Capella",
+      "d": [
+        "2014-05-28",
+        "2014-06-22"
+      ],
+      "a": "251017",
+      "an": "Samuel Labadie"
+    },
+    {
+      "i": "57273-31084-2014-05-16",
+      "c": "FR",
+      "n": "De guerre en guerre... Expressions contemporaines",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Altkirch",
+      "o": "Ville d'Altkirch",
+      "d": [
+        "2014-05-16",
+        "2014-07-27"
+      ],
+      "a": "57273",
+      "an": "Bruno Breitwieser"
+    },
+    {
+      "i": "4528-26745-2014-02-15",
+      "c": "ES",
+      "n": "Everybody is Nobody",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Boadilla del Monte",
+      "o": "Fundación Banco Santander",
+      "d": [
+        "2014-02-15",
+        "2014-06-15"
+      ],
+      "a": "4528",
+      "an": "Annette Messager"
+    },
+    {
+      "i": "4528-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "4528",
+      "an": "Annette Messager"
+    },
+    {
+      "i": "4528-18752-2014-05-01",
+      "c": "RU",
+      "n": "do it Moscow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Moscow",
+      "o": "Garage Center for Contemporary Culture - GCCC",
+      "d": [
+        "2014-05-01",
+        "2014-07-06"
+      ],
+      "a": "4528",
+      "an": "Annette Messager"
+    },
+    {
+      "i": "4528-1961-2014-05-27",
+      "c": "FR",
+      "n": "Girl",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Emmanuel Perrotin - Paris",
+      "d": [
+        "2014-05-27",
+        "2014-06-25"
+      ],
+      "a": "4528",
+      "an": "Annette Messager"
+    },
+    {
+      "i": "12727-1778-2014-02-12",
+      "c": "CH",
+      "n": "cycle Des histoires sans fin, séquence printemps 2014",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Geneva",
+      "o": "Mamco - musée d´art moderne et contemporain",
+      "d": [
+        "2014-02-12",
+        "2014-06-18"
+      ],
+      "a": "12727",
+      "an": "Stephane Steiner"
+    },
+    {
+      "i": "12727-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "12727",
+      "an": "Stephane Steiner"
+    },
+    {
+      "i": "12887-5941-2014-05-23",
+      "c": "IT",
+      "n": "Nathalie Du Pasquier - Counting",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Milan",
+      "o": "Assab One",
+      "d": [
+        "2014-05-23",
+        "2014-06-27"
+      ],
+      "a": "12887",
+      "an": "Nathalie Du Pasquier"
+    },
+    {
+      "i": "222212-10244-2014-05-06",
+      "c": "FR",
+      "n": "À L&#8217;Envers, À L&#8217;Endroit&#8230;",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Pontault Combault",
+      "o": "Centre photographique d’Ile-de-France",
+      "d": [
+        "2014-05-06",
+        "2014-07-13"
+      ],
+      "a": "222212",
+      "an": "Aurélien Mole"
+    },
+    {
+      "i": "9531-11894-2014-03-22",
+      "c": "FR",
+      "n": "Visuellement vôtre",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "9531",
+      "an": "Ange Leccia"
+    },
+    {
+      "i": "9531-3705-2014-05-17",
+      "c": "JP",
+      "n": "Sleeping Beauty",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Hiroshima",
+      "o": "Hiroshima City Museum of Contemporary Art",
+      "d": [
+        "2014-05-17",
+        "2014-07-21"
+      ],
+      "a": "9531",
+      "an": "Ange Leccia"
+    },
+    {
+      "i": "9531-2188-2014-05-24",
+      "c": "DE",
+      "n": "Existenzielle Bildwelten - Sammlung Reinking",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bremen",
+      "o": "Weserburg | Museum für moderne Kunst",
+      "d": [
+        "2014-05-24",
+        "2015-02-01"
+      ],
+      "a": "9531",
+      "an": "Ange Leccia"
+    },
+    {
+      "i": "9531-28706-2014-05-24",
+      "c": "CN",
+      "n": "In the Meantime, the Narrative Artist",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Chengdu, Sichuan",
+      "o": "Chengdu Museum of Contemporary Art MoCA",
+      "d": [
+        "2014-05-24",
+        "2014-06-29"
+      ],
+      "a": "9531",
+      "an": "Ange Leccia"
+    },
+    {
+      "i": "1846-28277-2014-03-07",
+      "c": "FR",
+      "n": "Des Hommes, Des Mondes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "College des Bernardins",
+      "d": [
+        "2014-03-07",
+        "2014-06-15"
+      ],
+      "a": "1846",
+      "an": "Patrick Tosani"
+    },
+    {
+      "i": "58847-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "58847",
+      "an": "Éric Pougeau"
+    },
+    {
+      "i": "112544-11894-2014-03-22",
+      "c": "FR",
+      "n": "Enigme au Club de la Compagnie",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "112544",
+      "an": "Abdelkader Benchamma"
+    },
+    {
+      "i": "33948-26775-2014-04-12",
+      "c": "FR",
+      "n": "Architectures d'urgence",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Malakoff",
+      "o": "Maison des Arts de Malakoff ",
+      "d": [
+        "2014-04-12",
+        "2014-07-13"
+      ],
+      "a": "33948",
+      "an": "Alain Declercq"
+    },
+    {
+      "i": "33948-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "33948",
+      "an": "Alain Declercq"
+    },
+    {
+      "i": "283012-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "283012",
+      "an": "Mathieu Dufois"
+    },
+    {
+      "i": "116163-12523-2014-02-07",
+      "c": "FR",
+      "n": "Art By Te­Le­Phone... Re­Cal­Led",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montpellier",
+      "o": "La Panacée",
+      "d": [
+        "2014-02-07",
+        "2014-09-14"
+      ],
+      "a": "116163",
+      "an": "Mark Geffriaud"
+    },
+    {
+      "i": "116163-10244-2014-05-06",
+      "c": "FR",
+      "n": "À L&#8217;Envers, À L&#8217;Endroit&#8230;",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Pontault Combault",
+      "o": "Centre photographique d’Ile-de-France",
+      "d": [
+        "2014-05-06",
+        "2014-07-13"
+      ],
+      "a": "116163",
+      "an": "Mark Geffriaud"
+    },
+    {
+      "i": "106789-12523-2014-02-07",
+      "c": "FR",
+      "n": "Art By Te­Le­Phone... Re­Cal­Led",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montpellier",
+      "o": "La Panacée",
+      "d": [
+        "2014-02-07",
+        "2014-09-14"
+      ],
+      "a": "106789",
+      "an": "Raphaël Zarka"
+    },
+    {
+      "i": "106789-19611-2014-04-18",
+      "c": "FR",
+      "n": "Pop-up",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Marseille",
+      "o": "Astérides",
+      "d": [
+        "2014-04-18",
+        "2014-07-06"
+      ],
+      "a": "106789",
+      "an": "Raphaël Zarka"
+    },
+    {
+      "i": "165167-1782-2014-06-06",
+      "c": "FR",
+      "n": "All that falls",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Palais de Tokyo",
+      "d": [
+        "2014-06-06",
+        "2014-09-07"
+      ],
+      "a": "165167",
+      "an": "Julie Legrand"
+    },
+    {
+      "i": "35135-11916-2014-05-16",
+      "c": "FR",
+      "n": "Wilde Art",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Centre Culturel Irlandais",
+      "d": [
+        "2014-05-16",
+        "2014-06-26"
+      ],
+      "a": "35135",
+      "an": "Marc Camille Chaimowicz"
+    },
+    {
+      "i": "65376-8522-2014-05-17",
+      "c": "FR",
+      "n": "Nouvelle Génération",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Dunkerque",
+      "o": "FRAC - Nord-Pas de Calais",
+      "d": [
+        "2014-05-17",
+        "2014-12-31"
+      ],
+      "a": "65376",
+      "an": "BLESS"
+    },
+    {
+      "i": "337822-2718-2014-05-14",
+      "c": "FR",
+      "n": "Braconnages 2014",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Toulouse",
+      "o": "les Abattoirs de Toulouse",
+      "d": [
+        "2014-05-14",
+        "2014-07-13"
+      ],
+      "a": "337822",
+      "an": "Laurence Cathala"
+    },
+    {
+      "i": "337822-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "337822",
+      "an": "Laurence Cathala"
+    },
+    {
+      "i": "113440-22692-2013-09-18",
+      "c": "FR",
+      "n": "Raw Vision",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Halle Saint Pierre",
+      "d": [
+        "2013-09-18",
+        "2014-08-22"
+      ],
+      "a": "113440",
+      "an": "François Monchâtre"
+    },
+    {
+      "i": "33259-27941-2014-05-28",
+      "c": "FR",
+      "n": "Les Désastres De La Guerre. 1800-2014",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Lens",
+      "o": "Musée du Louvre-Lens",
+      "d": [
+        "2014-05-28",
+        "2014-10-06"
+      ],
+      "a": "33259",
+      "an": "Gilles Peress"
+    },
+    {
+      "i": "141405-26377-2014-05-17",
+      "c": "FR",
+      "n": "Esprit d'une collection",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Libourne",
+      "o": "Musée des Beaux-Arts de Libourne",
+      "d": [
+        "2014-05-17",
+        "2014-09-21"
+      ],
+      "a": "141405",
+      "an": "Cathryn Boch"
+    },
+    {
+      "i": "14816-27822-2014-03-20",
+      "c": "FR",
+      "n": "Entre deux expositions",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "Institut culturel Bernard Magrez",
+      "d": [
+        "2014-03-20",
+        "2014-07-20"
+      ],
+      "a": "14816",
+      "an": "Claude Lévêque"
+    },
+    {
+      "i": "14816-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "14816",
+      "an": "Claude Lévêque"
+    },
+    {
+      "i": "14816-7877-2014-04-02",
+      "c": "FR",
+      "n": "Claude Lévêque - Sous le plus grand chapiteau du monde",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Paris",
+      "o": "Musée du Louvre",
+      "d": [
+        "2014-04-02",
+        "2015-01-02"
+      ],
+      "a": "14816",
+      "an": "Claude Lévêque"
+    },
+    {
+      "i": "182784-30709-2014-06-03",
+      "c": "FR",
+      "n": "L&#8217;Art fait ventre",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "l'adresse musee de la poste",
+      "d": [
+        "2014-06-03",
+        "2014-09-20"
+      ],
+      "a": "182784",
+      "an": "Laurent Duthion"
+    },
+    {
+      "i": "218460-21710-2014-05-24",
+      "c": "FR",
+      "n": "La Forêt Usagère",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Dohyang Lee",
+      "d": [
+        "2014-05-24",
+        "2014-07-19"
+      ],
+      "a": "218460",
+      "an": "Christophe Lemaitre"
+    },
+    {
+      "i": "77509-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "77509",
+      "an": "Magali Sanheira"
+    },
+    {
+      "i": "253728-12042-2014-04-11",
+      "c": "ES",
+      "n": "Universo video. La Magia de las Imágenes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Gijón",
+      "o": "Laboral - Centro de Arte y Creación Industrial",
+      "d": [
+        "2014-04-11",
+        "2014-07-06"
+      ],
+      "a": "253728",
+      "an": "Moussa Sarr"
+    },
+    {
+      "i": "172274-31121-2014-06-06",
+      "c": "CH",
+      "n": "Utopie Picturale 2",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Geneva",
+      "o": "Fonderie Kugler",
+      "d": [
+        "2014-06-06",
+        "2014-06-22"
+      ],
+      "a": "172274",
+      "an": "Emilie Satre"
+    },
+    {
+      "i": "16118-19611-2014-04-18",
+      "c": "FR",
+      "n": "Pop-up",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Marseille",
+      "o": "Astérides",
+      "d": [
+        "2014-04-18",
+        "2014-07-06"
+      ],
+      "a": "16118",
+      "an": "Saâdane Afif"
+    },
+    {
+      "i": "16118-2554-2014-05-29",
+      "c": "DE",
+      "n": "8. Berlin Biennale für zeitgenössische Kunst",
+      "st": "Group",
+      "ct": "Berlin",
+      "o": "berlin biennale für zeitgenössische kunst",
+      "d": [
+        "2014-05-29",
+        "2014-08-03"
+      ],
+      "a": "16118",
+      "an": "Saâdane Afif"
+    },
+    {
+      "i": "160616-19611-2014-04-18",
+      "c": "FR",
+      "n": "Pop-up",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Marseille",
+      "o": "Astérides",
+      "d": [
+        "2014-04-18",
+        "2014-07-06"
+      ],
+      "a": "160616",
+      "an": "Jean-Christophe Nourisson"
+    },
+    {
+      "i": "200539-21710-2014-05-24",
+      "c": "FR",
+      "n": "La Forêt Usagère",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Dohyang Lee",
+      "d": [
+        "2014-05-24",
+        "2014-07-19"
+      ],
+      "a": "200539",
+      "an": "Julien Tiberi"
+    },
+    {
+      "i": "200539-7816-2014-05-24",
+      "c": "FR",
+      "n": "Julien Tiberi",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "Paris",
+      "o": "Galerie Sémiose",
+      "d": [
+        "2014-05-24",
+        "2014-06-28"
+      ],
+      "a": "200539",
+      "an": "Julien Tiberi"
+    },
+    {
+      "i": "11693-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "11693",
+      "an": "Noël Dolla"
+    },
+    {
+      "i": "11693-26673-2014-05-18",
+      "c": "FR",
+      "n": "Sculptures du Sud",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "L´Isle-sur-la-Sorgue",
+      "o": "Villa Datris - Fondation pour la Sculpture Contemporaine",
+      "d": [
+        "2014-05-18",
+        "2014-11-11"
+      ],
+      "a": "11693",
+      "an": "Noël Dolla"
+    },
+    {
+      "i": "2370-8530-2014-04-05",
+      "c": "SE",
+      "n": "Barockt",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Stockholm",
+      "o": "Kulturhuset Stockholm",
+      "d": [
+        "2014-04-05",
+        "2014-10-19"
+      ],
+      "a": "2370",
+      "an": "Pierre et Gilles"
+    },
+    {
+      "i": "2370-2407-2014-04-09",
+      "c": "GB",
+      "n": "The Fashion World of Jean Paul Gaultier From the Sidewalk to the Catwalk",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "London",
+      "o": "Barbican Art Gallery",
+      "d": [
+        "2014-04-09",
+        "2014-08-25"
+      ],
+      "a": "2370",
+      "an": "Pierre et Gilles"
+    },
+    {
+      "i": "126138-19611-2014-04-18",
+      "c": "FR",
+      "n": "Pop-up",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Marseille",
+      "o": "Astérides",
+      "d": [
+        "2014-04-18",
+        "2014-07-06"
+      ],
+      "a": "126138",
+      "an": "Sarah Tritz"
+    },
+    {
+      "i": "192987-10227-2014-04-11",
+      "c": "FR",
+      "n": "Benoît-Marie Moriceau - Rien de plus tout du moins",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Ivry sur Seine",
+      "o": "Centre d´art contemporain d´Ivry - le Credac",
+      "d": [
+        "2014-04-11",
+        "2014-06-22"
+      ],
+      "a": "192987",
+      "an": "Benoit-Marie Moriceau"
+    },
+    {
+      "i": "29278-22613-2014-03-01",
+      "c": "BE",
+      "n": "A book between two stools",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Villa Empain - Boghossian Foundation",
+      "d": [
+        "2014-03-01",
+        "2014-09-07"
+      ],
+      "a": "29278",
+      "an": "Baptiste Debombourg"
+    },
+    {
+      "i": "29278-31154-2014-05-17",
+      "c": "DE",
+      "n": "The Kennedy Bunker",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Berlin",
+      "o": "REH-Transformer",
+      "d": [
+        "2014-05-17",
+        "2014-06-14"
+      ],
+      "a": "29278",
+      "an": "Baptiste Debombourg"
+    },
+    {
+      "i": "197332-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "197332",
+      "an": "Anne Marie Jugnet"
+    },
+    {
+      "i": "183682-19611-2014-04-18",
+      "c": "FR",
+      "n": "Pop-up",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Marseille",
+      "o": "Astérides",
+      "d": [
+        "2014-04-18",
+        "2014-07-06"
+      ],
+      "a": "183682",
+      "an": "Anthony Duchêne"
+    },
+    {
+      "i": "86819-10244-2014-05-06",
+      "c": "FR",
+      "n": "À L&#8217;Envers, À L&#8217;Endroit&#8230;",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Pontault Combault",
+      "o": "Centre photographique d’Ile-de-France",
+      "d": [
+        "2014-05-06",
+        "2014-07-13"
+      ],
+      "a": "86819",
+      "an": "Nicolas Giraud"
+    },
+    {
+      "i": "86819-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "86819",
+      "an": "Nicolas Giraud"
+    },
+    {
+      "i": "1845-23875-2013-12-06",
+      "c": "FR",
+      "n": "Revoir Réattu",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Arles",
+      "o": "Musée Réattu",
+      "d": [
+        "2013-12-06",
+        "2014-06-30"
+      ],
+      "a": "1845",
+      "an": "Georges Rousse"
+    },
+    {
+      "i": "1845-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "1845",
+      "an": "Georges Rousse"
+    },
+    {
+      "i": "41485-6417-2014-06-01",
+      "c": "DE",
+      "n": "Daring to ask - Collisions with the Collection Marta",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Herford",
+      "o": "MARTa Herford",
+      "d": [
+        "2014-06-01",
+        "2014-08-10"
+      ],
+      "a": "41485",
+      "an": "François Marie Banier"
+    },
+    {
+      "i": "63874-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "63874",
+      "an": "Patrick André"
+    },
+    {
+      "i": "40751-1778-2014-02-12",
+      "c": "CH",
+      "n": "cycle Des histoires sans fin, séquence printemps 2014",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Geneva",
+      "o": "Mamco - musée d´art moderne et contemporain",
+      "d": [
+        "2014-02-12",
+        "2014-06-18"
+      ],
+      "a": "40751",
+      "an": "Pierre-Olivier Arnaud"
+    },
+    {
+      "i": "23494-18752-2014-05-01",
+      "c": "RU",
+      "n": "do it Moscow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Moscow",
+      "o": "Garage Center for Contemporary Culture - GCCC",
+      "d": [
+        "2014-05-01",
+        "2014-07-06"
+      ],
+      "a": "23494",
+      "an": "Marie-Ange Guilleminot"
+    },
+    {
+      "i": "161324-12523-2014-02-07",
+      "c": "FR",
+      "n": "Art By Te­Le­Phone... Re­Cal­Led",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montpellier",
+      "o": "La Panacée",
+      "d": [
+        "2014-02-07",
+        "2014-09-14"
+      ],
+      "a": "161324",
+      "an": "Aurelie Godard"
+    },
+    {
+      "i": "165942-1326-2014-05-02",
+      "c": "GB",
+      "n": "Céline Condorelli",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "London",
+      "o": "Chisenhale Gallery",
+      "d": [
+        "2014-05-02",
+        "2014-06-22"
+      ],
+      "a": "165942",
+      "an": "Celine Condorelli"
+    },
+    {
+      "i": "14081-26377-2014-05-17",
+      "c": "FR",
+      "n": "Esprit d'une collection",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Libourne",
+      "o": "Musée des Beaux-Arts de Libourne",
+      "d": [
+        "2014-05-17",
+        "2014-09-21"
+      ],
+      "a": "14081",
+      "an": "Anne-Marie Schneider"
+    },
+    {
+      "i": "103753-21710-2014-05-24",
+      "c": "FR",
+      "n": "La Forêt Usagère",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Dohyang Lee",
+      "d": [
+        "2014-05-24",
+        "2014-07-19"
+      ],
+      "a": "103753",
+      "an": "Clément Rodzielski"
+    },
+    {
+      "i": "103753-10218-2014-03-14",
+      "c": "FR",
+      "n": "Clément Rodzielski - Mille Yeux",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Delme",
+      "o": "Centre d’art contemporain la Synagogue de Delme",
+      "d": [
+        "2014-03-14",
+        "2014-06-15"
+      ],
+      "a": "103753",
+      "an": "Clément Rodzielski"
+    },
+    {
+      "i": "57860-30709-2014-06-03",
+      "c": "FR",
+      "n": "L&#8217;Art fait ventre",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "l'adresse musee de la poste",
+      "d": [
+        "2014-06-03",
+        "2014-09-20"
+      ],
+      "a": "57860",
+      "an": "Olga Kisseleva"
+    },
+    {
+      "i": "250446-21710-2014-05-24",
+      "c": "FR",
+      "n": "La Forêt Usagère",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Dohyang Lee",
+      "d": [
+        "2014-05-24",
+        "2014-07-19"
+      ],
+      "a": "250446",
+      "an": "Hippolyte Hentgen"
+    },
+    {
+      "i": "250446-31121-2014-06-06",
+      "c": "CH",
+      "n": "Utopie Picturale 2",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Geneva",
+      "o": "Fonderie Kugler",
+      "d": [
+        "2014-06-06",
+        "2014-06-22"
+      ],
+      "a": "250446",
+      "an": "Hippolyte Hentgen"
+    },
+    {
+      "i": "121553-12523-2014-02-07",
+      "c": "FR",
+      "n": "Art By Te­Le­Phone... Re­Cal­Led",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montpellier",
+      "o": "La Panacée",
+      "d": [
+        "2014-02-07",
+        "2014-09-14"
+      ],
+      "a": "121553",
+      "an": "Yann Sérandour"
+    },
+    {
+      "i": "121553-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "121553",
+      "an": "Yann Sérandour"
+    },
+    {
+      "i": "233612-10522-2014-05-06",
+      "c": "FR",
+      "n": "Vernacular Alchemists",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Brest",
+      "o": "Centre d'Art Passerelle",
+      "d": [
+        "2014-05-06",
+        "2014-08-30"
+      ],
+      "a": "233612",
+      "an": "Jean-Marc Ballée"
+    },
+    {
+      "i": "80-2210-2014-03-08",
+      "c": "DE",
+      "n": "Hans Im Glück &#8211; Kunst & Kapital",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Duisburg",
+      "o": "Lehmbruck Museum",
+      "d": [
+        "2014-03-08",
+        "2014-06-22"
+      ],
+      "a": "80",
+      "an": "Ben Vautier"
+    },
+    {
+      "i": "80-15258-2014-05-15",
+      "c": "CZ",
+      "n": "Publisher Rainer Pretzell | Creator and Experimentalist | Artists&#8217; Book",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Olomouc",
+      "o": "Muzeum Umeni Olomouc",
+      "d": [
+        "2014-05-15",
+        "2014-09-14"
+      ],
+      "a": "80",
+      "an": "Ben Vautier"
+    },
+    {
+      "i": "80-29508-2014-05-24",
+      "c": "DE",
+      "n": "Ben Vautier - Helden &#8226; Heroes &#8226; Héros",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "Ulm",
+      "o": "Galerie am Saumarkt | BEGE Galerien",
+      "d": [
+        "2014-05-24",
+        "2014-06-21"
+      ],
+      "a": "80",
+      "an": "Ben Vautier"
+    },
+    {
+      "i": "80-1097-2014-05-24",
+      "c": "DE",
+      "n": "Ben Vautier",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "Ulm",
+      "o": "Fischerplatz Galerie | BEGE Galerien",
+      "d": [
+        "2014-05-24",
+        "2014-06-21"
+      ],
+      "a": "80",
+      "an": "Ben Vautier"
+    },
+    {
+      "i": "26386-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "26386",
+      "an": "Gilles Balmet"
+    },
+    {
+      "i": "12121-14201-2014-03-29",
+      "c": "GB",
+      "n": "Monument: Aftermath of War and Conflict",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Norwich",
+      "o": "Sainsbury Centre for Visual Arts",
+      "d": [
+        "2014-03-29",
+        "2014-07-27"
+      ],
+      "a": "12121",
+      "an": "Paul Pouvreau"
+    },
+    {
+      "i": "56816-21710-2014-05-24",
+      "c": "FR",
+      "n": "La Forêt Usagère",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Dohyang Lee",
+      "d": [
+        "2014-05-24",
+        "2014-07-19"
+      ],
+      "a": "56816",
+      "an": "Nicolas Chardon"
+    },
+    {
+      "i": "306250-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "306250",
+      "an": "Laurence De Leersnyder"
+    },
+    {
+      "i": "135128-2353-2014-03-15",
+      "c": "FR",
+      "n": "Clément Cogitore - fictions",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Strasbourg",
+      "o": "Musée d'Art Moderne et Contemporain (MAMCS)",
+      "d": [
+        "2014-03-15",
+        "2014-09-29"
+      ],
+      "a": "135128",
+      "an": "Clement Cogitore"
+    },
+    {
+      "i": "37806-5306-2014-05-22",
+      "c": "IL",
+      "n": "Set in Motion",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Petach Tikva",
+      "o": "The Petach Tikva Museum of Art",
+      "d": [
+        "2014-05-22",
+        "2014-09-06"
+      ],
+      "a": "37806",
+      "an": "Babette Mangolte"
+    },
+    {
+      "i": "250424-14201-2014-03-29",
+      "c": "GB",
+      "n": "Monument: Aftermath of War and Conflict",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Norwich",
+      "o": "Sainsbury Centre for Visual Arts",
+      "d": [
+        "2014-03-29",
+        "2014-07-27"
+      ],
+      "a": "250424",
+      "an": "John Cornu"
+    },
+    {
+      "i": "70955-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "70955",
+      "an": "Marc Chevalier"
+    },
+    {
+      "i": "77500-14201-2014-03-29",
+      "c": "GB",
+      "n": "Monument: Aftermath of War and Conflict",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Norwich",
+      "o": "Sainsbury Centre for Visual Arts",
+      "d": [
+        "2014-03-29",
+        "2014-07-27"
+      ],
+      "a": "77500",
+      "an": "Olga Boldyreff"
+    },
+    {
+      "i": "206341-9059-2014-06-06",
+      "c": "FR",
+      "n": "Bertille Bak - Le Tour de Babel",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Saint-Nazaire",
+      "o": "Le Grand Café - Centre d'art contemporain de Saint-Nazaire",
+      "d": [
+        "2014-06-06",
+        "2014-08-31"
+      ],
+      "a": "206341",
+      "an": "Bertille Bak"
+    },
+    {
+      "i": "253723-28277-2014-03-07",
+      "c": "FR",
+      "n": "Des Hommes, Des Mondes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "College des Bernardins",
+      "d": [
+        "2014-03-07",
+        "2014-06-15"
+      ],
+      "a": "253723",
+      "an": "Achraf Touloub"
+    },
+    {
+      "i": "54344-9458-2014-05-08",
+      "c": "IT",
+      "n": "From The Earth To The Moon",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Rome",
+      "o": "Studio Stefania Miscetti",
+      "d": [
+        "2014-05-08",
+        "2014-09-15"
+      ],
+      "a": "54344",
+      "an": "Map Office"
+    },
+    {
+      "i": "54344-28411-2014-05-12",
+      "c": "CN",
+      "n": "Mapping Asia",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Hong Kong, SAR",
+      "o": "Asia Art Archive",
+      "d": [
+        "2014-05-12",
+        "2014-08-16"
+      ],
+      "a": "54344",
+      "an": "Map Office"
+    },
+    {
+      "i": "54344-2427-2014-05-22",
+      "c": "NL",
+      "n": "A Constructed World",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Rotterdam",
+      "o": "Witte de With Center for Contemporary Art",
+      "d": [
+        "2014-05-22",
+        "2014-08-17"
+      ],
+      "a": "54344",
+      "an": "Map Office"
+    },
+    {
+      "i": "54344-31089-2014-05-31",
+      "c": "US",
+      "n": "Arterial Motives",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Philadelphia, PA",
+      "o": "Street Road Artists Space",
+      "d": [
+        "2014-05-31",
+        "2014-10-31"
+      ],
+      "a": "54344",
+      "an": "Map Office"
+    },
+    {
+      "i": "2718-22692-2013-09-18",
+      "c": "FR",
+      "n": "Raw Vision",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Halle Saint Pierre",
+      "d": [
+        "2013-09-18",
+        "2014-08-22"
+      ],
+      "a": "2718",
+      "an": "Michel Nedjar"
+    },
+    {
+      "i": "44310-1595-2014-02-06",
+      "c": "DE",
+      "n": "Tschthinzscht. Urban.",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Cottbus",
+      "o": "Kunstmuseum Dieselkraftwerk Cottbus",
+      "d": [
+        "2014-02-06",
+        "2014-06-24"
+      ],
+      "a": "44310",
+      "an": "Stephanie Nava"
+    },
+    {
+      "i": "115833-10244-2014-05-06",
+      "c": "FR",
+      "n": "À L&#8217;Envers, À L&#8217;Endroit&#8230;",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Pontault Combault",
+      "o": "Centre photographique d’Ile-de-France",
+      "d": [
+        "2014-05-06",
+        "2014-07-13"
+      ],
+      "a": "115833",
+      "an": "Silvana Reggiardo"
+    },
+    {
+      "i": "6643-27822-2014-03-20",
+      "c": "FR",
+      "n": "Entre deux expositions",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "Institut culturel Bernard Magrez",
+      "d": [
+        "2014-03-20",
+        "2014-07-20"
+      ],
+      "a": "6643",
+      "an": "Valérie Belin"
+    },
+    {
+      "i": "6643-1961-2014-05-27",
+      "c": "FR",
+      "n": "Girl",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Emmanuel Perrotin - Paris",
+      "d": [
+        "2014-05-27",
+        "2014-06-25"
+      ],
+      "a": "6643",
+      "an": "Valérie Belin"
+    },
+    {
+      "i": "108281-27822-2014-03-20",
+      "c": "FR",
+      "n": "Entre deux expositions",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "Institut culturel Bernard Magrez",
+      "d": [
+        "2014-03-20",
+        "2014-07-20"
+      ],
+      "a": "108281",
+      "an": "JR"
+    },
+    {
+      "i": "108281-3609-2014-03-01",
+      "c": "DE",
+      "n": "JR",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Baden-Baden",
+      "o": "Museum Frieder Burda",
+      "d": [
+        "2014-03-01",
+        "2014-06-29"
+      ],
+      "a": "108281",
+      "an": "JR"
+    },
+    {
+      "i": "21018-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "21018",
+      "an": "Mathieu Pernot"
+    },
+    {
+      "i": "135147-11771-2014-05-17",
+      "c": "FR",
+      "n": "Eléonore Saintagnan - Dieu Et La Stéréo",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Saint Ouen",
+      "o": "Mains d'oeuvres",
+      "d": [
+        "2014-05-17",
+        "2014-07-22"
+      ],
+      "a": "135147",
+      "an": "Eleonore Saintagnan"
+    },
+    {
+      "i": "106984-4955-2014-04-01",
+      "c": "BR",
+      "n": "Roesler Hotel 26# - Spectres",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "São Paulo",
+      "o": "Galeria Nara Roesler",
+      "d": [
+        "2014-04-01",
+        "2014-07-05"
+      ],
+      "a": "106984",
+      "an": "Bettina Samson"
+    },
+    {
+      "i": "106984-19611-2014-04-18",
+      "c": "FR",
+      "n": "Pop-up",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Marseille",
+      "o": "Astérides",
+      "d": [
+        "2014-04-18",
+        "2014-07-06"
+      ],
+      "a": "106984",
+      "an": "Bettina Samson"
+    },
+    {
+      "i": "20608-10830-2014-04-12",
+      "c": "DE",
+      "n": "Raw materials - Vom Baumarkt ins Museum",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Delmenhorst",
+      "o": "Städtische Galerie Delmenhorst",
+      "d": [
+        "2014-04-12",
+        "2014-06-15"
+      ],
+      "a": "20608",
+      "an": "Benjamin Sabatier"
+    },
+    {
+      "i": "20608-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "20608",
+      "an": "Benjamin Sabatier"
+    },
+    {
+      "i": "45851-26673-2014-05-18",
+      "c": "FR",
+      "n": "Sculptures du Sud",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "L´Isle-sur-la-Sorgue",
+      "o": "Villa Datris - Fondation pour la Sculpture Contemporaine",
+      "d": [
+        "2014-05-18",
+        "2014-11-11"
+      ],
+      "a": "45851",
+      "an": "Laurent Perbos"
+    },
+    {
+      "i": "36196-11894-2014-03-22",
+      "c": "FR",
+      "n": "Enigme au Club de la Compagnie",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "36196",
+      "an": "Miguel Egaña"
+    },
+    {
+      "i": "16517-1595-2014-02-06",
+      "c": "DE",
+      "n": "Tschthinzscht. Urban.",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Cottbus",
+      "o": "Kunstmuseum Dieselkraftwerk Cottbus",
+      "d": [
+        "2014-02-06",
+        "2014-06-24"
+      ],
+      "a": "16517",
+      "an": "Gwen Rouvillois"
+    },
+    {
+      "i": "7561-4258-2014-02-22",
+      "c": "CA",
+      "n": "1 + 1 = 1 : When Collections Collide",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montreal, QC",
+      "o": "The Montreal Museum of Fine Arts - Musée des beaux-arts de Montréal",
+      "d": [
+        "2014-02-22",
+        "2014-06-15"
+      ],
+      "a": "7561",
+      "an": "Anri Sala"
+    },
+    {
+      "i": "7561-18752-2014-05-01",
+      "c": "RU",
+      "n": "do it Moscow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Moscow",
+      "o": "Garage Center for Contemporary Culture - GCCC",
+      "d": [
+        "2014-05-01",
+        "2014-07-06"
+      ],
+      "a": "7561",
+      "an": "Anri Sala"
+    },
+    {
+      "i": "7561-30970-2014-05-06",
+      "c": "EG",
+      "n": "A Guest Without A Host Is A Ghost",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Cairo",
+      "o": "Beirut",
+      "d": [
+        "2014-05-06",
+        "2014-06-18"
+      ],
+      "a": "7561",
+      "an": "Anri Sala"
+    },
+    {
+      "i": "7561-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "7561",
+      "an": "Anri Sala"
+    },
+    {
+      "i": "7561-2554-2014-05-29",
+      "c": "DE",
+      "n": "8. Berlin Biennale für zeitgenössische Kunst",
+      "st": "Group",
+      "ct": "Berlin",
+      "o": "berlin biennale für zeitgenössische kunst",
+      "d": [
+        "2014-05-29",
+        "2014-08-03"
+      ],
+      "a": "7561",
+      "an": "Anri Sala"
+    },
+    {
+      "i": "7561-29210-2014-06-07",
+      "c": "IT",
+      "n": "Art of Sound",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Venice",
+      "o": "Fondazione Prada",
+      "d": [
+        "2014-06-07",
+        "2014-11-03"
+      ],
+      "a": "7561",
+      "an": "Anri Sala"
+    },
+    {
+      "i": "1298-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "1298",
+      "an": "Pierre Buraglio"
+    },
+    {
+      "i": "1298-30052-2014-06-07",
+      "c": "FR",
+      "n": "Cet obscur objet du désir",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Ornans",
+      "o": "Musée Gustave Courbet",
+      "d": [
+        "2014-06-07",
+        "2014-09-01"
+      ],
+      "a": "1298",
+      "an": "Pierre Buraglio"
+    },
+    {
+      "i": "1317-5478-2013-12-20",
+      "c": "US",
+      "n": "Butterfly Effect",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Saint Louis, MO",
+      "o": "Kemper Art Museum",
+      "d": [
+        "2013-12-20",
+        "2014-06-15"
+      ],
+      "a": "1317",
+      "an": "Christian Boltanski"
+    },
+    {
+      "i": "1317-4972-2013-12-20",
+      "c": "US",
+      "n": "Butterfly Effect",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Kansas City, MO",
+      "o": "Kemper Museum of Contemporary Art",
+      "d": [
+        "2013-12-20",
+        "2014-06-15"
+      ],
+      "a": "1317",
+      "an": "Christian Boltanski"
+    },
+    {
+      "i": "1317-18752-2014-05-01",
+      "c": "RU",
+      "n": "do it Moscow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Moscow",
+      "o": "Garage Center for Contemporary Culture - GCCC",
+      "d": [
+        "2014-05-01",
+        "2014-07-06"
+      ],
+      "a": "1317",
+      "an": "Christian Boltanski"
+    },
+    {
+      "i": "1317-25218-2014-05-16",
+      "c": "PL",
+      "n": "Crime in Art",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Krakow",
+      "o": "Museum of Contemporary Art in Kraków (MOCAK)",
+      "d": [
+        "2014-05-16",
+        "2014-09-28"
+      ],
+      "a": "1317",
+      "an": "Christian Boltanski"
+    },
+    {
+      "i": "1317-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "1317",
+      "an": "Christian Boltanski"
+    },
+    {
+      "i": "343549-31143-2014-04-30",
+      "c": "FR",
+      "n": "Identity Lab II",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "Espace 29",
+      "d": [
+        "2014-04-30",
+        "2014-06-28"
+      ],
+      "a": "343549",
+      "an": "Anaïs Boudot"
+    },
+    {
+      "i": "2613-2371-2014-02-02",
+      "c": "US",
+      "n": "Fútbol: The Beautiful Game",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Los Angeles, CA",
+      "o": "Los Angeles County Museum of Art - LACMA",
+      "d": [
+        "2014-02-02",
+        "2014-07-20"
+      ],
+      "a": "2613",
+      "an": "Philippe Parreno"
+    },
+    {
+      "i": "2613-1778-2014-02-12",
+      "c": "CH",
+      "n": "cycle Des histoires sans fin, séquence printemps 2014",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Geneva",
+      "o": "Mamco - musée d´art moderne et contemporain",
+      "d": [
+        "2014-02-12",
+        "2014-06-18"
+      ],
+      "a": "2613",
+      "an": "Philippe Parreno"
+    },
+    {
+      "i": "2613-11894-2014-03-22",
+      "c": "FR",
+      "n": "Visuellement vôtre",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "2613",
+      "an": "Philippe Parreno"
+    },
+    {
+      "i": "2613-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "2613",
+      "an": "Philippe Parreno"
+    },
+    {
+      "i": "2613-28706-2014-05-24",
+      "c": "CN",
+      "n": "In the Meantime, the Narrative Artist",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Chengdu, Sichuan",
+      "o": "Chengdu Museum of Contemporary Art MoCA",
+      "d": [
+        "2014-05-24",
+        "2014-06-29"
+      ],
+      "a": "2613",
+      "an": "Philippe Parreno"
+    },
+    {
+      "i": "285462-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "285462",
+      "an": "Stéphane Protic"
+    },
+    {
+      "i": "116162-30970-2014-05-06",
+      "c": "EG",
+      "n": "A Guest Without A Host Is A Ghost",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Cairo",
+      "o": "Beirut",
+      "d": [
+        "2014-05-06",
+        "2014-06-18"
+      ],
+      "a": "116162",
+      "an": "Julien Crépieux"
+    },
+    {
+      "i": "9465-1778-2014-02-12",
+      "c": "CH",
+      "n": "cycle Des histoires sans fin, séquence printemps 2014",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Geneva",
+      "o": "Mamco - musée d´art moderne et contemporain",
+      "d": [
+        "2014-02-12",
+        "2014-06-18"
+      ],
+      "a": "9465",
+      "an": "Vidya Gastaldon"
+    },
+    {
+      "i": "9465-26377-2014-05-17",
+      "c": "FR",
+      "n": "Esprit d'une collection",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Libourne",
+      "o": "Musée des Beaux-Arts de Libourne",
+      "d": [
+        "2014-05-17",
+        "2014-09-21"
+      ],
+      "a": "9465",
+      "an": "Vidya Gastaldon"
+    },
+    {
+      "i": "15717-1961-2014-05-27",
+      "c": "FR",
+      "n": "Girl",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Emmanuel Perrotin - Paris",
+      "d": [
+        "2014-05-27",
+        "2014-06-25"
+      ],
+      "a": "15717",
+      "an": "Guy Limone"
+    },
+    {
+      "i": "213415-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "213415",
+      "an": "Thierry Chiapparelli"
+    },
+    {
+      "i": "261034-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "261034",
+      "an": "Simon Nicaise"
+    },
+    {
+      "i": "26721-7850-2014-04-18",
+      "c": "FR",
+      "n": "Boursier-Mougenot Céleste - From here to ear",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Ibos",
+      "o": "Le Parvis - scène nationale Tarbes Pyrénées",
+      "d": [
+        "2014-04-18",
+        "2014-06-14"
+      ],
+      "a": "26721",
+      "an": "Céleste Boursier-Mougenot"
+    },
+    {
+      "i": "57640-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "57640",
+      "an": "Pascal Lièvre"
+    },
+    {
+      "i": "8965-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "8965",
+      "an": "Philippe Ramette"
+    },
+    {
+      "i": "135126-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "135126",
+      "an": "Cécile Beau"
+    },
+    {
+      "i": "13916-24747-2014-05-22",
+      "c": "FR",
+      "n": "Laura Lamiel - Sequence I II",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "Paris",
+      "o": "Marcelle Alix",
+      "d": [
+        "2014-05-22",
+        "2014-07-19"
+      ],
+      "a": "13916",
+      "an": "Laura Lamiel"
+    },
+    {
+      "i": "37001-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "37001",
+      "an": "Jean-Baptiste Ganne"
+    },
+    {
+      "i": "16457-10244-2014-05-06",
+      "c": "FR",
+      "n": "À L&#8217;Envers, À L&#8217;Endroit&#8230;",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Pontault Combault",
+      "o": "Centre photographique d’Ile-de-France",
+      "d": [
+        "2014-05-06",
+        "2014-07-13"
+      ],
+      "a": "16457",
+      "an": "Pascal Convert"
     },
     {
       "i": "1452-12218-2013-05-05",
@@ -285,19 +5696,604 @@
       "an": "Bernar Venet"
     },
     {
-      "i": "53263-23875-2013-12-06",
+      "i": "1452-12523-2014-02-07",
       "c": "FR",
-      "n": "Revoir Réattu",
+      "n": "Art By Te­Le­Phone... Re­Cal­Led",
       "t": "Institution publique",
       "st": "Group",
-      "ct": "Arles",
-      "o": "Musée Réattu",
+      "ct": "Montpellier",
+      "o": "La Panacée",
       "d": [
-        "2013-12-06",
+        "2014-02-07",
+        "2014-09-14"
+      ],
+      "a": "1452",
+      "an": "Bernar Venet"
+    },
+    {
+      "i": "231496-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "231496",
+      "an": "Angélique Lecaille"
+    },
+    {
+      "i": "113275-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "113275",
+      "an": "Marie-Jeanne Hoffner"
+    },
+    {
+      "i": "154374-7216-2014-04-25",
+      "c": "US",
+      "n": "Teen Tribe",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "Philadelphia, PA",
+      "o": "Gallery 339",
+      "d": [
+        "2014-04-25",
+        "2014-06-14"
+      ],
+      "a": "154374",
+      "an": "Martine Fougeron"
+    },
+    {
+      "i": "109276-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "109276",
+      "an": "Jérémie Grandsenne"
+    },
+    {
+      "i": "45769-26745-2014-02-15",
+      "c": "ES",
+      "n": "Everybody is Nobody",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Boadilla del Monte",
+      "o": "Fundación Banco Santander",
+      "d": [
+        "2014-02-15",
+        "2014-06-15"
+      ],
+      "a": "45769",
+      "an": "Loris Gréaud"
+    },
+    {
+      "i": "45769-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "45769",
+      "an": "Loris Gréaud"
+    },
+    {
+      "i": "16901-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "16901",
+      "an": "François-Xavier Courrèges"
+    },
+    {
+      "i": "54201-26843-2014-04-24",
+      "c": "BE",
+      "n": "Resonance(s)",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Maison Particulière Art Center",
+      "d": [
+        "2014-04-24",
+        "2014-06-29"
+      ],
+      "a": "54201",
+      "an": "Laure Prouvost"
+    },
+    {
+      "i": "54201-22253-2014-05-02",
+      "c": "DE",
+      "n": "Stanze/ Rooms",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Berlin",
+      "o": "me Collectors Room Berlin",
+      "d": [
+        "2014-05-02",
+        "2014-09-21"
+      ],
+      "a": "54201",
+      "an": "Laure Prouvost"
+    },
+    {
+      "i": "9258-27941-2014-05-28",
+      "c": "FR",
+      "n": "Les Désastres De La Guerre. 1800-2014",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Lens",
+      "o": "Musée du Louvre-Lens",
+      "d": [
+        "2014-05-28",
+        "2014-10-06"
+      ],
+      "a": "9258",
+      "an": "Sophie Ristelhueber"
+    },
+    {
+      "i": "9258-21639-2014-05-17",
+      "c": "FR",
+      "n": "Sophie Ristelhueber - Pères",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "Paris",
+      "o": "Galerie Jérôme Poggi",
+      "d": [
+        "2014-05-17",
+        "2014-06-14"
+      ],
+      "a": "9258",
+      "an": "Sophie Ristelhueber"
+    },
+    {
+      "i": "17323-10522-2014-05-06",
+      "c": "FR",
+      "n": "Vernacular Alchemists",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Brest",
+      "o": "Centre d'Art Passerelle",
+      "d": [
+        "2014-05-06",
+        "2014-08-30"
+      ],
+      "a": "17323",
+      "an": "Caroline Achaintre"
+    },
+    {
+      "i": "235951-26519-2013-10-10",
+      "c": "DE",
+      "n": "Rooms for Photography - Folkwang Statements",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Hamburg",
+      "o": "FREELENS Galerie",
+      "d": [
+        "2013-10-10",
+        "2014-08-11"
+      ],
+      "a": "235951",
+      "an": "Raphaële Bidault-Waddington"
+    },
+    {
+      "i": "311739-17983-2014-06-04",
+      "c": "CH",
+      "n": "Das Optische Unbewusste / The Optical Unconscious",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Rapperswil",
+      "o": "Kunst(Zeug)Haus",
+      "d": [
+        "2014-06-04",
+        "2014-08-10"
+      ],
+      "a": "311739",
+      "an": "Nicolas Roggy"
+    },
+    {
+      "i": "176332-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "176332",
+      "an": "Florent Mattei"
+    },
+    {
+      "i": "295964-30491-2014-05-28",
+      "c": "FR",
+      "n": "Vincent J. Stoker - Heterotopia: Les Grandes Formes",
+      "t": "Autre",
+      "st": "Solo",
+      "ct": "Agrève",
+      "o": "Centre d'art image/imatge",
+      "d": [
+        "2014-05-28",
+        "2014-09-13"
+      ],
+      "a": "295964",
+      "an": "Vincent J. Stoker"
+    },
+    {
+      "i": "113688-21098-2014-05-24",
+      "c": "FR",
+      "n": "Living (S)",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Chamarande",
+      "o": "Domaine départemental de Chamarande - Centre d'art contemporain",
+      "d": [
+        "2014-05-24",
+        "2014-10-26"
+      ],
+      "a": "113688",
+      "an": "Thierry Boutonnier"
+    },
+    {
+      "i": "51243-5851-2014-05-15",
+      "c": "BE",
+      "n": "Just Before Brazil",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Alice Gallery",
+      "d": [
+        "2014-05-15",
+        "2014-06-27"
+      ],
+      "a": "51243",
+      "an": "Invader"
+    },
+    {
+      "i": "11235-2196-2014-05-17",
+      "c": "BE",
+      "n": "From the Collection",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Ghent",
+      "o": "SMAK Stedelijk Museum voor Actuele Kunst",
+      "d": [
+        "2014-05-17",
+        "2014-06-29"
+      ],
+      "a": "11235",
+      "an": "Pierre Bismuth"
+    },
+    {
+      "i": "11235-2427-2014-05-22",
+      "c": "NL",
+      "n": "A Constructed World",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Rotterdam",
+      "o": "Witte de With Center for Contemporary Art",
+      "d": [
+        "2014-05-22",
+        "2014-08-17"
+      ],
+      "a": "11235",
+      "an": "Pierre Bismuth"
+    },
+    {
+      "i": "14965-2296-2014-03-21",
+      "c": "DE",
+      "n": "Die Göttliche Komödie. Himmel, Hölle, Fegefeuer aus Sicht afrikanischer Gegenwartskünstler",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Frankfurt/Main",
+      "o": "Museum für Moderne Kunst (MMK)",
+      "d": [
+        "2014-03-21",
+        "2014-07-27"
+      ],
+      "a": "14965",
+      "an": "Kader Attia"
+    },
+    {
+      "i": "14965-26821-2014-05-07",
+      "c": "SN",
+      "n": "Precarious Imaging",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Dakar",
+      "o": "Raw Material Company",
+      "d": [
+        "2014-05-07",
+        "2014-06-28"
+      ],
+      "a": "14965",
+      "an": "Kader Attia"
+    },
+    {
+      "i": "14965-2621-2014-05-09",
+      "c": "RS",
+      "n": "Invisible Violence",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Belgrade",
+      "o": "Museum of Contemporary Art Belgrade",
+      "d": [
+        "2014-05-09",
         "2014-06-30"
       ],
-      "a": "53263",
-      "an": "Christine Crozat"
+      "a": "14965",
+      "an": "Kader Attia"
+    },
+    {
+      "i": "14965-3737-2014-05-17",
+      "c": "LU",
+      "n": "Hlysnan: The Notion And Politics Of Listening",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Luxembourg",
+      "o": "Casino Luxembourg - Forum d'art contemporain",
+      "d": [
+        "2014-05-17",
+        "2014-09-07"
+      ],
+      "a": "14965",
+      "an": "Kader Attia"
+    },
+    {
+      "i": "14965-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "14965",
+      "an": "Kader Attia"
+    },
+    {
+      "i": "14965-19516-2014-05-22",
+      "c": "LB",
+      "n": "Kader Attia - Contre Nature",
+      "t": "Autre",
+      "st": "Solo",
+      "ct": "Beirut",
+      "o": "Beirut Art Center",
+      "d": [
+        "2014-05-22",
+        "2014-08-22"
+      ],
+      "a": "14965",
+      "an": "Kader Attia"
+    },
+    {
+      "i": "10148-2582-2014-01-29",
+      "c": "GR",
+      "n": "Painting II (1980-2000)",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Athens",
+      "o": "Frissiras Museum",
+      "d": [
+        "2014-01-29",
+        "2014-09-28"
+      ],
+      "a": "10148",
+      "an": "Vincent Corpet"
+    },
+    {
+      "i": "301411-2188-2014-03-29",
+      "c": "DE",
+      "n": "Nullpunkt aller Orte - Sammlung Dominic und Cordula Sohst-Brennenstuhl",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bremen",
+      "o": "Weserburg | Museum für moderne Kunst",
+      "d": [
+        "2014-03-29",
+        "2014-09-14"
+      ],
+      "a": "301411",
+      "an": "Hoda Tawakol"
+    },
+    {
+      "i": "11585-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "11585",
+      "an": "François Boisrond"
+    },
+    {
+      "i": "159535-29808-2014-05-15",
+      "c": "CH",
+      "n": "Poor Papers",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Lugano",
+      "o": "Must Gallery",
+      "d": [
+        "2014-05-15",
+        "2014-06-15"
+      ],
+      "a": "159535",
+      "an": "Manuel Müller"
+    },
+    {
+      "i": "9721-11214-2014-03-01",
+      "c": "FR",
+      "n": "Au bois dormant. &#338;uvres de la collection",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Rochechouart",
+      "o": "Musée Départemental d'Art Contemporain de Rochechouart",
+      "d": [
+        "2014-03-01",
+        "2014-09-21"
+      ],
+      "a": "9721",
+      "an": "Guillaume Leblon"
+    },
+    {
+      "i": "9721-7491-2014-06-05",
+      "c": "FR",
+      "n": "Guillaume Leblon",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Villeurbanne",
+      "o": "IAC - Institut d'art contemporain Villeurbanne/Rhône-Alpes",
+      "d": [
+        "2014-06-05",
+        "2014-08-24"
+      ],
+      "a": "9721",
+      "an": "Guillaume Leblon"
+    },
+    {
+      "i": "16914-26673-2014-05-18",
+      "c": "FR",
+      "n": "Sculptures du Sud",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "L´Isle-sur-la-Sorgue",
+      "o": "Villa Datris - Fondation pour la Sculpture Contemporaine",
+      "d": [
+        "2014-05-18",
+        "2014-11-11"
+      ],
+      "a": "16914",
+      "an": "Bernard Pagès"
+    },
+    {
+      "i": "251434-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "251434",
+      "an": "Aurore Pallet"
+    },
+    {
+      "i": "12640-8530-2014-04-05",
+      "c": "SE",
+      "n": "Barockt",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Stockholm",
+      "o": "Kulturhuset Stockholm",
+      "d": [
+        "2014-04-05",
+        "2014-10-19"
+      ],
+      "a": "12640",
+      "an": "Pierre Gonnord"
+    },
+    {
+      "i": "53170-11214-2014-03-01",
+      "c": "FR",
+      "n": "Au bois dormant. &#338;uvres de la collection",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Rochechouart",
+      "o": "Musée Départemental d'Art Contemporain de Rochechouart",
+      "d": [
+        "2014-03-01",
+        "2014-09-21"
+      ],
+      "a": "53170",
+      "an": "Laurent Montaron"
+    },
+    {
+      "i": "53170-30970-2014-05-06",
+      "c": "EG",
+      "n": "A Guest Without A Host Is A Ghost",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Cairo",
+      "o": "Beirut",
+      "d": [
+        "2014-05-06",
+        "2014-06-18"
+      ],
+      "a": "53170",
+      "an": "Laurent Montaron"
+    },
+    {
+      "i": "333282-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "333282",
+      "an": "Matthieu Blanchard"
+    },
+    {
+      "i": "36206-28277-2014-03-07",
+      "c": "FR",
+      "n": "Des Hommes, Des Mondes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "College des Bernardins",
+      "d": [
+        "2014-03-07",
+        "2014-06-15"
+      ],
+      "a": "36206",
+      "an": "Ingrid Luche"
     },
     {
       "i": "945-2309-2013-11-23",
@@ -330,19 +6326,1009 @@
       "an": "Daniel Buren"
     },
     {
-      "i": "62232-22692-2013-09-18",
-      "c": "FR",
-      "n": "Raw Vision",
+      "i": "945-18752-2014-05-01",
+      "c": "RU",
+      "n": "do it Moscow",
       "t": "Autre",
       "st": "Group",
-      "ct": "Paris",
-      "o": "Halle Saint Pierre",
+      "ct": "Moscow",
+      "o": "Garage Center for Contemporary Culture - GCCC",
       "d": [
-        "2013-09-18",
-        "2014-08-22"
+        "2014-05-01",
+        "2014-07-06"
       ],
-      "a": "62232",
-      "an": "Pascal Verbena"
+      "a": "945",
+      "an": "Daniel Buren"
+    },
+    {
+      "i": "945-5559-2014-06-06",
+      "c": "BR",
+      "n": "A Inusitada",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "São Paulo",
+      "o": "Museu de Arte de São Paulo Assis Chateaubriand - MASP",
+      "d": [
+        "2014-06-06",
+        "2014-08-10"
+      ],
+      "a": "945",
+      "an": "Daniel Buren"
+    },
+    {
+      "i": "10150-2582-2014-01-29",
+      "c": "GR",
+      "n": "Painting II (1980-2000)",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Athens",
+      "o": "Frissiras Museum",
+      "d": [
+        "2014-01-29",
+        "2014-09-28"
+      ],
+      "a": "10150",
+      "an": "Marc Desgrandchamps"
+    },
+    {
+      "i": "10150-27822-2014-03-20",
+      "c": "FR",
+      "n": "Entre deux expositions",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "Institut culturel Bernard Magrez",
+      "d": [
+        "2014-03-20",
+        "2014-07-20"
+      ],
+      "a": "10150",
+      "an": "Marc Desgrandchamps"
+    },
+    {
+      "i": "10150-11894-2014-03-22",
+      "c": "FR",
+      "n": "Enigme au Club de la Compagnie",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "10150",
+      "an": "Marc Desgrandchamps"
+    },
+    {
+      "i": "10150-29572-2014-04-29",
+      "c": "DE",
+      "n": "Mensch werde wesentlich",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Zwickau",
+      "o": "Freunde Aktueller Kunst",
+      "d": [
+        "2014-04-29",
+        "2014-06-21"
+      ],
+      "a": "10150",
+      "an": "Marc Desgrandchamps"
+    },
+    {
+      "i": "12130-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "12130",
+      "an": "Jean-Pierre Raynaud"
+    },
+    {
+      "i": "12064-30866-2014-05-01",
+      "c": "DE",
+      "n": "Underground",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Stuttgart",
+      "o": "Kontur. Kunstverein Stuttgart e.V.",
+      "d": [
+        "2014-05-01",
+        "2014-10-03"
+      ],
+      "a": "12064",
+      "an": "Robert Cahen"
+    },
+    {
+      "i": "12064-31084-2014-05-16",
+      "c": "FR",
+      "n": "De guerre en guerre... Expressions contemporaines",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Altkirch",
+      "o": "Ville d'Altkirch",
+      "d": [
+        "2014-05-16",
+        "2014-07-27"
+      ],
+      "a": "12064",
+      "an": "Robert Cahen"
+    },
+    {
+      "i": "7809-19611-2014-04-18",
+      "c": "FR",
+      "n": "Pop-up",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Marseille",
+      "o": "Astérides",
+      "d": [
+        "2014-04-18",
+        "2014-07-06"
+      ],
+      "a": "7809",
+      "an": "Gilles Barbier"
+    },
+    {
+      "i": "7809-30709-2014-06-03",
+      "c": "FR",
+      "n": "L&#8217;Art fait ventre",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "l'adresse musee de la poste",
+      "d": [
+        "2014-06-03",
+        "2014-09-20"
+      ],
+      "a": "7809",
+      "an": "Gilles Barbier"
+    },
+    {
+      "i": "16258-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "16258",
+      "an": "Julien Blaine"
+    },
+    {
+      "i": "103376-13471-2014-04-12",
+      "c": "DE",
+      "n": "Single Moms",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bonn",
+      "o": "Frauenmuseum Bonn",
+      "d": [
+        "2014-04-12",
+        "2014-11-11"
+      ],
+      "a": "103376",
+      "an": "Barbara Thaden"
+    },
+    {
+      "i": "185569-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "185569",
+      "an": "Jerôme Robbe"
+    },
+    {
+      "i": "106443-10519-2014-05-17",
+      "c": "FR",
+      "n": "Sophie Dubosc - Avec Ou Sans Raison",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Sotteville-lès-Rouen",
+      "o": "FRAC - Haute-Normandie",
+      "d": [
+        "2014-05-17",
+        "2014-07-27"
+      ],
+      "a": "106443",
+      "an": "Sophie Dubosc"
+    },
+    {
+      "i": "49667-9475-2014-03-22",
+      "c": "FR",
+      "n": "Printemps de Haute",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Meymac",
+      "o": "Abbaye St André - Centre d'art contemporain Meymac",
+      "d": [
+        "2014-03-22",
+        "2014-06-22"
+      ],
+      "a": "49667",
+      "an": "Tsuneko Taniuchi"
+    },
+    {
+      "i": "2658-24760-2014-05-27",
+      "c": "DE",
+      "n": "Blütezeit",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Frankfurt/Main",
+      "o": "Art Foyer der DZ Bank Kunstsammlung",
+      "d": [
+        "2014-05-27",
+        "2014-08-09"
+      ],
+      "a": "2658",
+      "an": "Anne & Patrick Poirier"
+    },
+    {
+      "i": "212850-10517-2014-04-24",
+      "c": "FR",
+      "n": "Gauthier Leroy - Hi Fat Cans!",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Caen",
+      "o": "FRAC - Basse-Normandie",
+      "d": [
+        "2014-04-24",
+        "2014-06-15"
+      ],
+      "a": "212850",
+      "an": "Gauthier Leroy"
+    },
+    {
+      "i": "28499-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "28499",
+      "an": "Arnaud Labelle-Rojoux"
+    },
+    {
+      "i": "113295-31143-2014-04-30",
+      "c": "FR",
+      "n": "Identity Lab II",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "Espace 29",
+      "d": [
+        "2014-04-30",
+        "2014-06-28"
+      ],
+      "a": "113295",
+      "an": "Tom de Pékin"
+    },
+    {
+      "i": "11605-26843-2014-04-24",
+      "c": "BE",
+      "n": "Resonance(s)",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Maison Particulière Art Center",
+      "d": [
+        "2014-04-24",
+        "2014-06-29"
+      ],
+      "a": "11605",
+      "an": "Philippe Hiquily"
+    },
+    {
+      "i": "317127-8522-2014-05-17",
+      "c": "FR",
+      "n": "Nouvelle Génération",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Dunkerque",
+      "o": "FRAC - Nord-Pas de Calais",
+      "d": [
+        "2014-05-17",
+        "2014-12-31"
+      ],
+      "a": "317127",
+      "an": "David Douard"
+    },
+    {
+      "i": "56764-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "56764",
+      "an": "Olivier Leroi"
+    },
+    {
+      "i": "15285-21098-2014-05-24",
+      "c": "FR",
+      "n": "Living (S)",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Chamarande",
+      "o": "Domaine départemental de Chamarande - Centre d'art contemporain",
+      "d": [
+        "2014-05-24",
+        "2014-10-26"
+      ],
+      "a": "15285",
+      "an": "Michel Blazy"
+    },
+    {
+      "i": "38398-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "38398",
+      "an": "Lionel Scoccimaro"
+    },
+    {
+      "i": "25054-26377-2014-05-17",
+      "c": "FR",
+      "n": "Esprit d'une collection",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Libourne",
+      "o": "Musée des Beaux-Arts de Libourne",
+      "d": [
+        "2014-05-17",
+        "2014-09-21"
+      ],
+      "a": "25054",
+      "an": "Mrzyk & Moriceau"
+    },
+    {
+      "i": "65154-26673-2014-05-18",
+      "c": "FR",
+      "n": "Sculptures du Sud",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "L´Isle-sur-la-Sorgue",
+      "o": "Villa Datris - Fondation pour la Sculpture Contemporaine",
+      "d": [
+        "2014-05-18",
+        "2014-11-11"
+      ],
+      "a": "65154",
+      "an": "Aïcha Hamu"
+    },
+    {
+      "i": "10021-16207-2014-05-22",
+      "c": "FR",
+      "n": "Hélène Delprat",
+      "t": "Galerie privée",
+      "st": "Solo",
+      "ct": "Paris",
+      "o": "Galerie Christophe Gaillard",
+      "d": [
+        "2014-05-22",
+        "2014-07-05"
+      ],
+      "a": "10021",
+      "an": "Hélène Delprat"
+    },
+    {
+      "i": "10021-20789-2014-06-05",
+      "c": "FR",
+      "n": "Hélène Delprat - Comment j&#8217;ai inventé Edith Scob, suite...",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Nogent-sur Marne",
+      "o": "Maison d'Art Bernard Anthonioz",
+      "d": [
+        "2014-06-05",
+        "2014-07-20"
+      ],
+      "a": "10021",
+      "an": "Hélène Delprat"
+    },
+    {
+      "i": "1770-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "1770",
+      "an": "Jean Charles Blais"
+    },
+    {
+      "i": "1770-28833-2014-05-28",
+      "c": "BG",
+      "n": "Un Cabinet D'amateur. 2 Years After",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Shumen",
+      "o": "Un Cabinet D'Amateur ",
+      "d": [
+        "2014-05-28",
+        "2014-09-25"
+      ],
+      "a": "1770",
+      "an": "Jean Charles Blais"
+    },
+    {
+      "i": "48629-2526-2014-05-10",
+      "c": "DK",
+      "n": "Before Normal: Concept after Concept",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Roskilde",
+      "o": "Museet for Samtidskunst / Museum of Contemporary Art",
+      "d": [
+        "2014-05-10",
+        "2014-09-28"
+      ],
+      "a": "48629",
+      "an": "Présence Panchounette"
+    },
+    {
+      "i": "48629-8128-2014-05-16",
+      "c": "FR",
+      "n": "Mauvaise Pente",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montpellier",
+      "o": "FRAC - Languedoc-Roussilon",
+      "d": [
+        "2014-05-16",
+        "2014-06-28"
+      ],
+      "a": "48629",
+      "an": "Présence Panchounette"
+    },
+    {
+      "i": "58616-22613-2014-03-01",
+      "c": "BE",
+      "n": "A book between two stools",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Villa Empain - Boghossian Foundation",
+      "d": [
+        "2014-03-01",
+        "2014-09-07"
+      ],
+      "a": "58616",
+      "an": "Stéphane Thidet"
+    },
+    {
+      "i": "17698-29147-2014-05-21",
+      "c": "ES",
+      "n": "V Bienal De Arte Contemporáneo De La Fundación Once",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Madrid",
+      "o": "CentroCentro Cibeles ",
+      "d": [
+        "2014-05-21",
+        "2014-09-14"
+      ],
+      "a": "17698",
+      "an": "Daniel Firman"
+    },
+    {
+      "i": "17698-1961-2014-05-27",
+      "c": "FR",
+      "n": "Girl",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Emmanuel Perrotin - Paris",
+      "d": [
+        "2014-05-27",
+        "2014-06-25"
+      ],
+      "a": "17698",
+      "an": "Daniel Firman"
+    },
+    {
+      "i": "15097-26377-2014-05-17",
+      "c": "FR",
+      "n": "Esprit d'une collection",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Libourne",
+      "o": "Musée des Beaux-Arts de Libourne",
+      "d": [
+        "2014-05-17",
+        "2014-09-21"
+      ],
+      "a": "15097",
+      "an": "Françoise Petrovitch"
+    },
+    {
+      "i": "15097-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "15097",
+      "an": "Françoise Petrovitch"
+    },
+    {
+      "i": "272510-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "272510",
+      "an": "Gabriel Desplanque"
+    },
+    {
+      "i": "8095-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "8095",
+      "an": "Jeanne Susplugas"
+    },
+    {
+      "i": "5982-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "5982",
+      "an": "Jean-Jacques Lebel"
+    },
+    {
+      "i": "17308-20352-2014-05-21",
+      "c": "FR",
+      "n": "Nicolas Floc'h - Structures Productives",
+      "t": "Autre",
+      "st": "Solo",
+      "ct": "Lille",
+      "o": "artconnexion",
+      "d": [
+        "2014-05-21",
+        "2014-07-05"
+      ],
+      "a": "17308",
+      "an": "Nicolas Floc\\'h"
+    },
+    {
+      "i": "340428-30709-2014-06-03",
+      "c": "FR",
+      "n": "L&#8217;Art fait ventre",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "l'adresse musee de la poste",
+      "d": [
+        "2014-06-03",
+        "2014-09-20"
+      ],
+      "a": "340428",
+      "an": "Martine Camillieri"
+    },
+    {
+      "i": "239560-28277-2014-03-07",
+      "c": "FR",
+      "n": "Des Hommes, Des Mondes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "College des Bernardins",
+      "d": [
+        "2014-03-07",
+        "2014-06-15"
+      ],
+      "a": "239560",
+      "an": "Chloé Quenum"
+    },
+    {
+      "i": "239560-17760-2014-03-22",
+      "c": "ES",
+      "n": "PER/FORM. How to do things with[out] words",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Móstoles",
+      "o": "CA2M - Centro de Arte Dos de Mayo",
+      "d": [
+        "2014-03-22",
+        "2014-09-20"
+      ],
+      "a": "239560",
+      "an": "Chloé Quenum"
+    },
+    {
+      "i": "80257-18800-2014-04-27",
+      "c": "FR",
+      "n": "Arnaud Maguet - Au hasard, sur la route",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Grenoble",
+      "o": "Centre d’Art Bastille  - CAB",
+      "d": [
+        "2014-04-27",
+        "2014-06-22"
+      ],
+      "a": "80257",
+      "an": "Arnaud Maguet"
+    },
+    {
+      "i": "15970-22613-2014-03-01",
+      "c": "BE",
+      "n": "A book between two stools",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Villa Empain - Boghossian Foundation",
+      "d": [
+        "2014-03-01",
+        "2014-09-07"
+      ],
+      "a": "15970",
+      "an": "Julien Berthier"
+    },
+    {
+      "i": "22841-12042-2014-04-11",
+      "c": "ES",
+      "n": "Universo video. La Magia de las Imágenes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Gijón",
+      "o": "Laboral - Centro de Arte y Creación Industrial",
+      "d": [
+        "2014-04-11",
+        "2014-07-06"
+      ],
+      "a": "22841",
+      "an": "Yto Barrada"
+    },
+    {
+      "i": "22841-18752-2014-05-01",
+      "c": "RU",
+      "n": "do it Moscow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Moscow",
+      "o": "Garage Center for Contemporary Culture - GCCC",
+      "d": [
+        "2014-05-01",
+        "2014-07-06"
+      ],
+      "a": "22841",
+      "an": "Yto Barrada"
+    },
+    {
+      "i": "43125-22924-2014-05-10",
+      "c": "CN",
+      "n": "Advance through Retreat",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Shanghai",
+      "o": "Rockbund Art Museum (RAM)",
+      "d": [
+        "2014-05-10",
+        "2014-08-03"
+      ],
+      "a": "43125",
+      "an": "Huang Yong Ping"
+    },
+    {
+      "i": "36966-11894-2014-03-22",
+      "c": "FR",
+      "n": "Enigme au Club de la Compagnie",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "36966",
+      "an": "Valérie du Chéné"
+    },
+    {
+      "i": "129065-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "129065",
+      "an": "Eric Madeleine"
+    },
+    {
+      "i": "177783-5851-2014-05-15",
+      "c": "BE",
+      "n": "Just Before Brazil",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Alice Gallery",
+      "d": [
+        "2014-05-15",
+        "2014-06-27"
+      ],
+      "a": "177783",
+      "an": "Samuel François"
+    },
+    {
+      "i": "125247-1138-2014-04-04",
+      "c": "DE",
+      "n": "pool | kunst aus london",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Hannover",
+      "o": "kestnergesellschaft",
+      "d": [
+        "2014-04-04",
+        "2014-07-06"
+      ],
+      "a": "125247",
+      "an": "Nicolas Deshayes"
+    },
+    {
+      "i": "29476-22613-2014-03-01",
+      "c": "BE",
+      "n": "A book between two stools",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Villa Empain - Boghossian Foundation",
+      "d": [
+        "2014-03-01",
+        "2014-09-07"
+      ],
+      "a": "29476",
+      "an": "Jean-Luc Vilmouth"
+    },
+    {
+      "i": "158004-7285-2014-04-01",
+      "c": "CZ",
+      "n": "Graphic Design",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Prague",
+      "o": "Futura",
+      "d": [
+        "2014-04-01",
+        "2014-06-15"
+      ],
+      "a": "158004",
+      "an": "Sandra Lorenzi"
+    },
+    {
+      "i": "158004-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "158004",
+      "an": "Sandra Lorenzi"
+    },
+    {
+      "i": "3485-8522-2014-05-17",
+      "c": "FR",
+      "n": "Nouvelle Génération",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Dunkerque",
+      "o": "FRAC - Nord-Pas de Calais",
+      "d": [
+        "2014-05-17",
+        "2014-12-31"
+      ],
+      "a": "3485",
+      "an": "Boris Achour"
+    },
+    {
+      "i": "26530-19611-2014-04-18",
+      "c": "FR",
+      "n": "Pop-up",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Marseille",
+      "o": "Astérides",
+      "d": [
+        "2014-04-18",
+        "2014-07-06"
+      ],
+      "a": "26530",
+      "an": "Bruno Peinado"
+    },
+    {
+      "i": "259030-8286-2014-05-02",
+      "c": "DE",
+      "n": "Aftercare",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Berlin",
+      "o": "Center Berlin",
+      "d": [
+        "2014-05-02",
+        "2014-06-21"
+      ],
+      "a": "259030",
+      "an": "Aude Pariset"
+    },
+    {
+      "i": "259030-7138-2014-05-21",
+      "c": "DE",
+      "n": "Aude Pariset - A B&#333;at[] A Promise",
+      "t": "Autre",
+      "st": "Solo",
+      "ct": "Nuremberg",
+      "o": "Kunstverein Nürnberg - Albrecht Dürer Gesellschaft",
+      "d": [
+        "2014-05-21",
+        "2014-08-10"
+      ],
+      "a": "259030",
+      "an": "Aude Pariset"
+    },
+    {
+      "i": "242340-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "242340",
+      "an": "Guillaume Aubry"
+    },
+    {
+      "i": "283785-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "283785",
+      "an": "Stéphanie Lagarde"
+    },
+    {
+      "i": "5304-16752-2014-04-19",
+      "c": "FR",
+      "n": "10 Ans",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Nice",
+      "o": "Espace A Vendre",
+      "d": [
+        "2014-04-19",
+        "2014-06-14"
+      ],
+      "a": "5304",
+      "an": "Jean-Luc Verna"
+    },
+    {
+      "i": "26868-1961-2014-05-27",
+      "c": "FR",
+      "n": "Girl",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Emmanuel Perrotin - Paris",
+      "d": [
+        "2014-05-27",
+        "2014-06-25"
+      ],
+      "a": "26868",
+      "an": "Laurent Grasso"
+    },
+    {
+      "i": "332721-21710-2014-05-24",
+      "c": "FR",
+      "n": "La Forêt Usagère",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Dohyang Lee",
+      "d": [
+        "2014-05-24",
+        "2014-07-19"
+      ],
+      "a": "332721",
+      "an": "Eva Taulois"
+    },
+    {
+      "i": "332721-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "332721",
+      "an": "Eva Taulois"
     },
     {
       "i": "3951-24720-2013-12-07",
@@ -360,49 +7346,229 @@
       "an": "Hubert Duprat"
     },
     {
-      "i": "2718-22692-2013-09-18",
+      "i": "4151-11894-2014-03-22",
       "c": "FR",
-      "n": "Raw Vision",
-      "t": "Autre",
+      "n": "Visuellement vôtre",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "4151",
+      "an": "Richard Fauguet"
+    },
+    {
+      "i": "4151-11894-2014-03-22",
+      "c": "FR",
+      "n": "Enigme au Club de la Compagnie",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "4151",
+      "an": "Richard Fauguet"
+    },
+    {
+      "i": "4151-13901-2014-03-29",
+      "c": "FR",
+      "n": "Abstraction/figuration",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Rennes",
+      "o": "Musée des Beaux-Arts de Rennes",
+      "d": [
+        "2014-03-29",
+        "2014-08-31"
+      ],
+      "a": "4151",
+      "an": "Richard Fauguet"
+    },
+    {
+      "i": "4151-10522-2014-05-06",
+      "c": "FR",
+      "n": "Vernacular Alchemists",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Brest",
+      "o": "Centre d'Art Passerelle",
+      "d": [
+        "2014-05-06",
+        "2014-08-30"
+      ],
+      "a": "4151",
+      "an": "Richard Fauguet"
+    },
+    {
+      "i": "4151-13901-2014-03-29",
+      "c": "FR",
+      "n": "Richard Fauguet",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Rennes",
+      "o": "Musée des Beaux-Arts de Rennes",
+      "d": [
+        "2014-03-29",
+        "2014-08-31"
+      ],
+      "a": "4151",
+      "an": "Richard Fauguet"
+    },
+    {
+      "i": "38407-17760-2014-03-22",
+      "c": "ES",
+      "n": "PER/FORM. How to do things with[out] words",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Móstoles",
+      "o": "CA2M - Centro de Arte Dos de Mayo",
+      "d": [
+        "2014-03-22",
+        "2014-09-20"
+      ],
+      "a": "38407",
+      "an": "Camille Henrot"
+    },
+    {
+      "i": "38407-1782-2014-06-06",
+      "c": "FR",
+      "n": "All that falls",
+      "t": "Institution publique",
       "st": "Group",
       "ct": "Paris",
-      "o": "Halle Saint Pierre",
+      "o": "Palais de Tokyo",
       "d": [
-        "2013-09-18",
-        "2014-08-22"
+        "2014-06-06",
+        "2014-09-07"
       ],
-      "a": "2718",
-      "an": "Michel Nedjar"
+      "a": "38407",
+      "an": "Camille Henrot"
     },
     {
-      "i": "1845-23875-2013-12-06",
+      "i": "38407-1203-2014-05-07",
+      "c": "US",
+      "n": "Camille Henrot: The Restless Earth",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "New York City, NY",
+      "o": "New Museum of Contemporary Art",
+      "d": [
+        "2014-05-07",
+        "2014-06-29"
+      ],
+      "a": "38407",
+      "an": "Camille Henrot"
+    },
+    {
+      "i": "16057-26673-2014-05-18",
       "c": "FR",
-      "n": "Revoir Réattu",
+      "n": "Sculptures du Sud",
       "t": "Institution publique",
       "st": "Group",
-      "ct": "Arles",
-      "o": "Musée Réattu",
+      "ct": "L´Isle-sur-la-Sorgue",
+      "o": "Villa Datris - Fondation pour la Sculpture Contemporaine",
       "d": [
-        "2013-12-06",
-        "2014-06-30"
+        "2014-05-18",
+        "2014-11-11"
       ],
-      "a": "1845",
-      "an": "Georges Rousse"
+      "a": "16057",
+      "an": "Daniel Dezeuze"
     },
     {
-      "i": "86797-17437-2013-10-25",
-      "c": "MX",
-      "n": "X, Diez",
+      "i": "10334-1778-2014-02-12",
+      "c": "CH",
+      "n": "cycle Des histoires sans fin, séquence printemps 2014",
       "t": "Institution publique",
       "st": "Group",
-      "ct": "Guadalajara",
-      "o": "Museo de Arte Raúl Anguiano (MURA)",
+      "ct": "Geneva",
+      "o": "Mamco - musée d´art moderne et contemporain",
       "d": [
-        "2013-10-25",
-        "2014-09-13"
+        "2014-02-12",
+        "2014-06-18"
       ],
-      "a": "86797",
-      "an": "Alejandro Moncada"
+      "a": "10334",
+      "an": "Franck Scurti"
+    },
+    {
+      "i": "10334-28277-2014-03-07",
+      "c": "FR",
+      "n": "Des Hommes, Des Mondes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "College des Bernardins",
+      "d": [
+        "2014-03-07",
+        "2014-06-15"
+      ],
+      "a": "10334",
+      "an": "Franck Scurti"
+    },
+    {
+      "i": "192518-12523-2014-02-07",
+      "c": "FR",
+      "n": "Art By Te­Le­Phone... Re­Cal­Led",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montpellier",
+      "o": "La Panacée",
+      "d": [
+        "2014-02-07",
+        "2014-09-14"
+      ],
+      "a": "192518",
+      "an": "Dominique Blais"
+    },
+    {
+      "i": "100946-11894-2014-03-22",
+      "c": "FR",
+      "n": "Enigme au Club de la Compagnie",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "100946",
+      "an": "Sylvie Fajfrowska"
+    },
+    {
+      "i": "36984-22613-2014-03-01",
+      "c": "BE",
+      "n": "A book between two stools",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Villa Empain - Boghossian Foundation",
+      "d": [
+        "2014-03-01",
+        "2014-09-07"
+      ],
+      "a": "36984",
+      "an": "Chourouk Hriech"
+    },
+    {
+      "i": "264512-29808-2014-05-15",
+      "c": "CH",
+      "n": "Poor Papers",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Lugano",
+      "o": "Must Gallery",
+      "d": [
+        "2014-05-15",
+        "2014-06-15"
+      ],
+      "a": "264512",
+      "an": "Président Vertut"
     },
     {
       "i": "10223-23875-2013-12-06",
@@ -420,37 +7586,531 @@
       "an": "Lucien Clergue"
     },
     {
-      "i": "1317-5478-2013-12-20",
-      "c": "US",
-      "n": "Butterfly Effect",
+      "i": "17859-27941-2014-05-28",
+      "c": "FR",
+      "n": "Les Désastres De La Guerre. 1800-2014",
       "t": "Institution publique",
       "st": "Group",
-      "ct": "Saint Louis, MO",
-      "o": "Kemper Art Museum",
+      "ct": "Lens",
+      "o": "Musée du Louvre-Lens",
       "d": [
-        "2013-12-20",
+        "2014-05-28",
+        "2014-10-06"
+      ],
+      "a": "17859",
+      "an": "Luc Delahaye"
+    },
+    {
+      "i": "232802-18453-2014-06-05",
+      "c": "CZ",
+      "n": "The Journey",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Prague",
+      "o": "MeetFactory Gallery",
+      "d": [
+        "2014-06-05",
+        "2014-08-24"
+      ],
+      "a": "232802",
+      "an": "Harold Guerin"
+    },
+    {
+      "i": "99048-18752-2014-05-01",
+      "c": "RU",
+      "n": "do it Moscow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Moscow",
+      "o": "Garage Center for Contemporary Culture - GCCC",
+      "d": [
+        "2014-05-01",
+        "2014-07-06"
+      ],
+      "a": "99048",
+      "an": "Jérôme Bel"
+    },
+    {
+      "i": "35554-8128-2014-05-16",
+      "c": "FR",
+      "n": "Mauvaise Pente",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montpellier",
+      "o": "FRAC - Languedoc-Roussilon",
+      "d": [
+        "2014-05-16",
+        "2014-06-28"
+      ],
+      "a": "35554",
+      "an": "Edouard Boyer"
+    },
+    {
+      "i": "16284-28277-2014-03-07",
+      "c": "FR",
+      "n": "Des Hommes, Des Mondes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "College des Bernardins",
+      "d": [
+        "2014-03-07",
         "2014-06-15"
       ],
-      "a": "1317",
-      "an": "Christian Boltanski"
+      "a": "16284",
+      "an": "Sylvie Fanchon"
     },
     {
-      "i": "70110-23875-2013-12-06",
-      "c": "FR",
-      "n": "Revoir Réattu",
+      "i": "208539-18752-2014-05-01",
+      "c": "RU",
+      "n": "do it Moscow",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Moscow",
+      "o": "Garage Center for Contemporary Culture - GCCC",
+      "d": [
+        "2014-05-01",
+        "2014-07-06"
+      ],
+      "a": "208539",
+      "an": "Tarek Atoui"
+    },
+    {
+      "i": "208539-2554-2014-05-29",
+      "c": "DE",
+      "n": "8. Berlin Biennale für zeitgenössische Kunst",
+      "st": "Group",
+      "ct": "Berlin",
+      "o": "berlin biennale für zeitgenössische kunst",
+      "d": [
+        "2014-05-29",
+        "2014-08-03"
+      ],
+      "a": "208539",
+      "an": "Tarek Atoui"
+    },
+    {
+      "i": "23067-20629-2014-02-09",
+      "c": "IT",
+      "n": "Belvedere Landscapes and visions in the MA*GA´s collection",
       "t": "Institution publique",
       "st": "Group",
-      "ct": "Arles",
-      "o": "Musée Réattu",
+      "ct": "Gallarte, VA",
+      "o": "Museo MAGA",
       "d": [
-        "2013-12-06",
+        "2014-02-09",
+        "2014-08-03"
+      ],
+      "a": "23067",
+      "an": "Tancredi Mangano"
+    },
+    {
+      "i": "23067-2376-2014-05-21",
+      "c": "IT",
+      "n": "Altro dalle Immagini &#8211; Da Guarene all&#8217;Etna 1999/2014",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Turin",
+      "o": "Fondazione Sandretto Re Rebaudengo",
+      "d": [
+        "2014-05-21",
+        "2014-09-09"
+      ],
+      "a": "23067",
+      "an": "Tancredi Mangano"
+    },
+    {
+      "i": "53194-22613-2014-03-01",
+      "c": "BE",
+      "n": "A book between two stools",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Brussels",
+      "o": "Villa Empain - Boghossian Foundation",
+      "d": [
+        "2014-03-01",
+        "2014-09-07"
+      ],
+      "a": "53194",
+      "an": "Aurélien Froment"
+    },
+    {
+      "i": "53194-30970-2014-05-06",
+      "c": "EG",
+      "n": "A Guest Without A Host Is A Ghost",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Cairo",
+      "o": "Beirut",
+      "d": [
+        "2014-05-06",
+        "2014-06-18"
+      ],
+      "a": "53194",
+      "an": "Aurélien Froment"
+    },
+    {
+      "i": "53194-2427-2014-05-22",
+      "c": "NL",
+      "n": "A Constructed World",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Rotterdam",
+      "o": "Witte de With Center for Contemporary Art",
+      "d": [
+        "2014-05-22",
+        "2014-08-17"
+      ],
+      "a": "53194",
+      "an": "Aurélien Froment"
+    },
+    {
+      "i": "53194-21710-2014-05-24",
+      "c": "FR",
+      "n": "La Forêt Usagère",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Dohyang Lee",
+      "d": [
+        "2014-05-24",
+        "2014-07-19"
+      ],
+      "a": "53194",
+      "an": "Aurélien Froment"
+    },
+    {
+      "i": "78191-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "78191",
+      "an": "Lili Reynaud Dewar"
+    },
+    {
+      "i": "78191-1782-2014-06-06",
+      "c": "FR",
+      "n": "All that falls",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Palais de Tokyo",
+      "d": [
+        "2014-06-06",
+        "2014-09-07"
+      ],
+      "a": "78191",
+      "an": "Lili Reynaud Dewar"
+    },
+    {
+      "i": "126132-11894-2014-03-22",
+      "c": "FR",
+      "n": "Enigme au Club de la Compagnie",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "126132",
+      "an": "Armand Jalut"
+    },
+    {
+      "i": "16378-21103-2014-04-18",
+      "c": "FR",
+      "n": "Les migrations de Carole Benzaken",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Nancy",
+      "o": "Musée des Beaux-Arts de Nancy",
+      "d": [
+        "2014-04-18",
+        "2014-06-23"
+      ],
+      "a": "16378",
+      "an": "Carole Benzaken"
+    },
+    {
+      "i": "8297-28277-2014-03-07",
+      "c": "FR",
+      "n": "Des Hommes, Des Mondes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "College des Bernardins",
+      "d": [
+        "2014-03-07",
+        "2014-06-15"
+      ],
+      "a": "8297",
+      "an": "Jacques Villeglé"
+    },
+    {
+      "i": "57270-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "57270",
+      "an": "Laurent Fiévet"
+    },
+    {
+      "i": "15405-27941-2014-05-28",
+      "c": "FR",
+      "n": "Les Désastres De La Guerre. 1800-2014",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Lens",
+      "o": "Musée du Louvre-Lens",
+      "d": [
+        "2014-05-28",
+        "2014-10-06"
+      ],
+      "a": "15405",
+      "an": "Jean-Christian Bourcart"
+    },
+    {
+      "i": "276051-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "276051",
+      "an": "Eva Nielsen"
+    },
+    {
+      "i": "106791-2460-2014-04-19",
+      "c": "JP",
+      "n": "Nicolas Buffe - The Dream of Polifilo",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Tokyo",
+      "o": "Hara Museum of Contemporary Art",
+      "d": [
+        "2014-04-19",
+        "2014-06-29"
+      ],
+      "a": "106791",
+      "an": "Nicolas Buffe"
+    },
+    {
+      "i": "385537-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "385537",
+      "an": "Claire Trotignon"
+    },
+    {
+      "i": "227907-12042-2014-04-11",
+      "c": "ES",
+      "n": "Universo video. La Magia de las Imágenes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Gijón",
+      "o": "Laboral - Centro de Arte y Creación Industrial",
+      "d": [
+        "2014-04-11",
+        "2014-07-06"
+      ],
+      "a": "227907",
+      "an": "Jean-Michel Pancin"
+    },
+    {
+      "i": "227907-8281-2014-05-18",
+      "c": "FR",
+      "n": "The Disappearance of the fireflies",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Avignon",
+      "o": "Collection Lambert",
+      "d": [
+        "2014-05-18",
+        "2014-11-25"
+      ],
+      "a": "227907",
+      "an": "Jean-Michel Pancin"
+    },
+    {
+      "i": "107918-30016-2014-05-15",
+      "c": "GB",
+      "n": "Fax",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Plymouth",
+      "o": "KARST",
+      "d": [
+        "2014-05-15",
+        "2014-06-15"
+      ],
+      "a": "107918",
+      "an": "Fred Forest"
+    },
+    {
+      "i": "50956-19611-2014-04-18",
+      "c": "FR",
+      "n": "Pop-up",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Marseille",
+      "o": "Astérides",
+      "d": [
+        "2014-04-18",
+        "2014-07-06"
+      ],
+      "a": "50956",
+      "an": "Chloé Dugit-Gros"
+    },
+    {
+      "i": "50956-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "50956",
+      "an": "Chloé Dugit-Gros"
+    },
+    {
+      "i": "7961-11214-2014-03-01",
+      "c": "FR",
+      "n": "Au bois dormant. &#338;uvres de la collection",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Rochechouart",
+      "o": "Musée Départemental d'Art Contemporain de Rochechouart",
+      "d": [
+        "2014-03-01",
+        "2014-09-21"
+      ],
+      "a": "7961",
+      "an": "Robert Combas"
+    },
+    {
+      "i": "7961-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "7961",
+      "an": "Robert Combas"
+    },
+    {
+      "i": "7961-20344-2014-03-15",
+      "c": "IT",
+      "n": "Inquieto Novecento",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Lucca, LU",
+      "o": "Lu.C.C.A - Lucca Center of Contemporary Art",
+      "d": [
+        "2014-03-15",
+        "2014-06-22"
+      ],
+      "a": "7961",
+      "an": "Robert Combas"
+    },
+    {
+      "i": "7961-26673-2014-05-18",
+      "c": "FR",
+      "n": "Sculptures du Sud",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "L´Isle-sur-la-Sorgue",
+      "o": "Villa Datris - Fondation pour la Sculpture Contemporaine",
+      "d": [
+        "2014-05-18",
+        "2014-11-11"
+      ],
+      "a": "7961",
+      "an": "Robert Combas"
+    },
+    {
+      "i": "36690-12523-2014-02-07",
+      "c": "FR",
+      "n": "Art By Te­Le­Phone... Re­Cal­Led",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montpellier",
+      "o": "La Panacée",
+      "d": [
+        "2014-02-07",
+        "2014-09-14"
+      ],
+      "a": "36690",
+      "an": "Berdaguer & Péjus"
+    },
+    {
+      "i": "36690-13675-2014-05-25",
+      "c": "DE",
+      "n": "Szenarien des Unheimlichen - in Kunst, Technologie und Architektur",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Neuhausen/Fildern",
+      "o": "Kunstverein Neuhausen e.V",
+      "d": [
+        "2014-05-25",
+        "2014-07-13"
+      ],
+      "a": "36690",
+      "an": "Berdaguer & Péjus"
+    },
+    {
+      "i": "36690-10630-2014-03-07",
+      "c": "FR",
+      "n": "Berdaguer & Péjus",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Meudon",
+      "o": "Musée Rodin Meudon",
+      "d": [
+        "2014-03-07",
         "2014-06-30"
       ],
-      "a": "70110",
-      "an": "Bernard Dejonghe"
+      "a": "36690",
+      "an": "Berdaguer & Péjus"
     },
     {
-      "i": "113440-22692-2013-09-18",
+      "i": "62232-22692-2013-09-18",
       "c": "FR",
       "n": "Raw Vision",
       "t": "Autre",
@@ -461,23 +8121,383 @@
         "2013-09-18",
         "2014-08-22"
       ],
-      "a": "113440",
-      "an": "François Monchâtre"
+      "a": "62232",
+      "an": "Pascal Verbena"
     },
     {
-      "i": "71975-22692-2013-09-18",
+      "i": "63486-19611-2014-04-18",
       "c": "FR",
-      "n": "Raw Vision",
+      "n": "Pop-up",
       "t": "Autre",
       "st": "Group",
-      "ct": "Paris",
-      "o": "Halle Saint Pierre",
+      "ct": "Marseille",
+      "o": "Astérides",
       "d": [
-        "2013-09-18",
-        "2014-08-22"
+        "2014-04-18",
+        "2014-07-06"
       ],
-      "a": "71975",
-      "an": "André Robillard"
+      "a": "63486",
+      "an": "Katia Bourdarel"
+    },
+    {
+      "i": "17082-28277-2014-03-07",
+      "c": "FR",
+      "n": "Des Hommes, Des Mondes",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "College des Bernardins",
+      "d": [
+        "2014-03-07",
+        "2014-06-15"
+      ],
+      "a": "17082",
+      "an": "Bruno Perramant"
+    },
+    {
+      "i": "13085-14519-2014-05-21",
+      "c": "US",
+      "n": "About A Woman",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "New York City, NY",
+      "o": "Nailya Alexander Gallery",
+      "d": [
+        "2014-05-21",
+        "2014-07-26"
+      ],
+      "a": "13085",
+      "an": "Sarah Moon"
+    },
+    {
+      "i": "10152-2582-2014-01-29",
+      "c": "GR",
+      "n": "Painting II (1980-2000)",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Athens",
+      "o": "Frissiras Museum",
+      "d": [
+        "2014-01-29",
+        "2014-09-28"
+      ],
+      "a": "10152",
+      "an": "Djamel Tatah"
+    },
+    {
+      "i": "10152-3864-2014-01-14",
+      "c": "FR",
+      "n": "Djamel Tatah",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Saint-Etienne",
+      "o": "Musée d'Art moderne de Saint-Etienne",
+      "d": [
+        "2014-01-14",
+        "2014-09-21"
+      ],
+      "a": "10152",
+      "an": "Djamel Tatah"
+    },
+    {
+      "i": "21547-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "21547",
+      "an": "Louis Jammes"
+    },
+    {
+      "i": "193057-26377-2014-05-17",
+      "c": "FR",
+      "n": "Esprit d'une collection",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Libourne",
+      "o": "Musée des Beaux-Arts de Libourne",
+      "d": [
+        "2014-05-17",
+        "2014-09-21"
+      ],
+      "a": "193057",
+      "an": "Fabien Mérelle"
+    },
+    {
+      "i": "14971-1782-2014-06-06",
+      "c": "FR",
+      "n": "All that falls",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Palais de Tokyo",
+      "d": [
+        "2014-06-06",
+        "2014-09-07"
+      ],
+      "a": "14971",
+      "an": "Dominique Ghesquiere"
+    },
+    {
+      "i": "23597-1961-2014-05-27",
+      "c": "FR",
+      "n": "Girl",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie Emmanuel Perrotin - Paris",
+      "d": [
+        "2014-05-27",
+        "2014-06-25"
+      ],
+      "a": "23597",
+      "an": "Agnès Thurnauer"
+    },
+    {
+      "i": "23597-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "23597",
+      "an": "Agnès Thurnauer"
+    },
+    {
+      "i": "23597-30052-2014-06-07",
+      "c": "FR",
+      "n": "Cet obscur objet du désir",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Ornans",
+      "o": "Musée Gustave Courbet",
+      "d": [
+        "2014-06-07",
+        "2014-09-01"
+      ],
+      "a": "23597",
+      "an": "Agnès Thurnauer"
+    },
+    {
+      "i": "23597-12906-2014-02-01",
+      "c": "FR",
+      "n": "Thurnauer Agnes - Figure Libre",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Bayeux",
+      "o": "Galerie le Radar",
+      "d": [
+        "2014-02-01",
+        "2016-10-16"
+      ],
+      "a": "23597",
+      "an": "Agnès Thurnauer"
+    },
+    {
+      "i": "21554-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "21554",
+      "an": "Jean-Paul Thibeau"
+    },
+    {
+      "i": "1304-26673-2014-05-18",
+      "c": "FR",
+      "n": "Sculptures du Sud",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "L´Isle-sur-la-Sorgue",
+      "o": "Villa Datris - Fondation pour la Sculpture Contemporaine",
+      "d": [
+        "2014-05-18",
+        "2014-11-11"
+      ],
+      "a": "1304",
+      "an": "Claude Viallat"
+    },
+    {
+      "i": "1304-533-2014-04-18",
+      "c": "DE",
+      "n": "Claude Viallat - Der Stoff der Malerei",
+      "t": "Institution publique",
+      "st": "Solo",
+      "ct": "Rostock",
+      "o": "Kunsthalle Rostock",
+      "d": [
+        "2014-04-18",
+        "2014-06-15"
+      ],
+      "a": "1304",
+      "an": "Claude Viallat"
+    },
+    {
+      "i": "57267-30866-2014-05-01",
+      "c": "DE",
+      "n": "Underground",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Stuttgart",
+      "o": "Kontur. Kunstverein Stuttgart e.V.",
+      "d": [
+        "2014-05-01",
+        "2014-10-03"
+      ],
+      "a": "57267",
+      "an": "Myriam Mechita"
+    },
+    {
+      "i": "36959-11894-2014-03-22",
+      "c": "FR",
+      "n": "Enigme au Club de la Compagnie",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "36959",
+      "an": "Aurélie Dubois"
+    },
+    {
+      "i": "57706-11894-2014-03-22",
+      "c": "FR",
+      "n": "Enigme au Club de la Compagnie",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Albi",
+      "o": "Centre d'Art le LAIT",
+      "d": [
+        "2014-03-22",
+        "2014-06-15"
+      ],
+      "a": "57706",
+      "an": "Frédérique Loutz"
+    },
+    {
+      "i": "343009-2230-2014-04-05",
+      "c": "DE",
+      "n": "\"Les Immateriaux\" for Instance",
+      "t": "Autre",
+      "st": "Group",
+      "ct": "Dusseldorf",
+      "o": "Kunstverein für die Rheinlande und Westfalen, Düsseldorf",
+      "d": [
+        "2014-04-05",
+        "2014-08-10"
+      ],
+      "a": "343009",
+      "an": "Marie Angeletti"
+    },
+    {
+      "i": "64213-4014-2014-05-10",
+      "c": "DE",
+      "n": "Kongress der Artikulation",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Berlin",
+      "o": "Kunstraum Kreuzberg / Bethanien",
+      "d": [
+        "2014-05-10",
+        "2014-06-22"
+      ],
+      "a": "64213",
+      "an": "Maya Schweizer"
+    },
+    {
+      "i": "192536-8128-2014-05-16",
+      "c": "FR",
+      "n": "Mauvaise Pente",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montpellier",
+      "o": "FRAC - Languedoc-Roussilon",
+      "d": [
+        "2014-05-16",
+        "2014-06-28"
+      ],
+      "a": "192536",
+      "an": "Caroline Froissart"
+    },
+    {
+      "i": "90261-5559-2014-06-06",
+      "c": "BR",
+      "n": "A Inusitada",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "São Paulo",
+      "o": "Museu de Arte de São Paulo Assis Chateaubriand - MASP",
+      "d": [
+        "2014-06-06",
+        "2014-08-10"
+      ],
+      "a": "90261",
+      "an": "Alain Bizos"
+    },
+    {
+      "i": "9520-8555-2014-05-17",
+      "c": "FR",
+      "n": "Buenos Aires",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Montbéliard",
+      "o": "Le 19 Neuf - Centre Régional d'Art Contemporain",
+      "d": [
+        "2014-05-17",
+        "2014-08-24"
+      ],
+      "a": "9520",
+      "an": "Jean-Pierre Bertrand"
+    },
+    {
+      "i": "9451-2303-2014-03-05",
+      "c": "FR",
+      "n": "Procession - Une Histoire Dans L'exposition",
+      "t": "Institution publique",
+      "st": "Group",
+      "ct": "Bordeaux",
+      "o": "CAPC - Musée d'art contemporain",
+      "d": [
+        "2014-03-05",
+        "2014-11-16"
+      ],
+      "a": "9451",
+      "an": "Claude Caillol"
+    },
+    {
+      "i": "414834-26257-2014-06-06",
+      "c": "FR",
+      "n": "A bitter sweet legacy",
+      "t": "Galerie privée",
+      "st": "Group",
+      "ct": "Paris",
+      "o": "Galerie de Roussan",
+      "d": [
+        "2014-06-06",
+        "2014-06-27"
+      ],
+      "a": "414834",
+      "an": "Delphine Renault"
     }
   ]
 }

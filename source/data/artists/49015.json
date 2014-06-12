@@ -1,7 +1,7 @@
 {
   "id": "49015",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:33:18",
+  "timestamp": "2014-05-31 06:38:46",
   "name": "João Paulo Serafim",
   "surname": "Serafim",
   "nationality": "FR",
@@ -16,15 +16,15 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "10215",
-  "r01": "10416",
-  "r02": "13649",
-  "r03": "14853",
-  "r04": "24007",
-  "r05": "39289",
-  "r06": "40491",
-  "r07": "47407",
-  "r08": "38623",
+  "r00": "10251",
+  "r01": "10404",
+  "r02": "13622",
+  "r03": "14836",
+  "r04": "24004",
+  "r05": "39299",
+  "r06": "40506",
+  "r07": "47431",
+  "r08": "38581",
   "awards": "Prémio Purificacion Garcia",
   "website": null,
   "all-shows-first": "1999",
@@ -275,6 +275,21 @@
         "d": [
           "2013-09-18",
           "2013-11-10"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "i": "49015-25738-2014-03-27",
+        "c": "PT",
+        "n": "Habitar a Colecção",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Lisbon",
+        "o": "Casa Museu Medeiros e Almeida",
+        "d": [
+          "2014-03-27",
+          "2014-05-18"
         ]
       }
     ],

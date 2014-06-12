@@ -12,39 +12,45 @@
   "email": "info@galerie-lazarew.fr",
   "www": "www.galerie-lazarew.fr",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075003  %2C%20 %2C%2014 rue du Perche %2C%20France",
-  "fairs-total": "7",
+  "fairs-total": "8",
   "fairs-abroad": "0",
-  "fairs-in-FR": "7",
+  "fairs-in-FR": "8",
   "fairs": {
     "2012": [
       {
-        "i": "26659-Chic Dessin 2012",
+        "i": "26659-Chic-Dessin-2012",
         "c": "FR"
       },
       {
-        "i": "26659-Lille Art Fair 2012",
+        "i": "26659-Lille-Art-Fair-2012",
         "c": "FR"
       },
       {
-        "i": "26659-cutlog 2012",
+        "i": "26659-Art-Elysées-2012",
         "c": "FR"
       },
       {
-        "i": "26659-Art Elysées 2012",
+        "i": "26659-cutlog-2012",
         "c": "FR"
       },
       {
-        "i": "26659-Chic Artfair - À la Cité de la Mode et du Design 2012",
+        "i": "26659-Chic-Artfair---À-la-Cité-de-la-Mode-et-du-Design-2012",
         "c": "FR"
       }
     ],
     "2013": [
       {
-        "i": "26659-Lille Art Fair 2013",
+        "i": "26659-Lille-Art-Fair-2013",
         "c": "FR"
       },
       {
-        "i": "26659-Art Elysees 2013",
+        "i": "26659-Art-Elysees-2013",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "26659-Art-Up!-2014",
         "c": "FR"
       }
     ]

@@ -1,7 +1,7 @@
 {
   "id": "14162",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 06:20:33",
+  "timestamp": "2014-05-31 06:26:04",
   "name": "David Dalla Venezia",
   "surname": "Venezia",
   "nationality": "FR",
@@ -16,23 +16,23 @@
   "death year": null,
   "attributes": "Male",
   "media": null,
-  "r00": "37662",
-  "r01": "34987",
-  "r02": "29798",
-  "r03": "25392",
-  "r04": "20464",
-  "r05": "16436",
-  "r06": "34747",
-  "r07": "27163",
-  "r08": "21712",
+  "r00": "37113",
+  "r01": "35036",
+  "r02": "29821",
+  "r03": "25406",
+  "r04": "20472",
+  "r05": "16439",
+  "r06": "34746",
+  "r07": "27178",
+  "r08": "21704",
   "awards": "he was awared for the Ist Prize for Painting at the IV Biennale Internationale d´Art Contemporain, Brignoles-Var in France,",
   "website": null,
   "all-shows-first": "1998",
   "all-shows-total": "12",
-  "2005-shows-biennials": "2",
-  "2005-shows-galleries": "2",
+  "2005-shows-biennials": "3",
+  "2005-shows-galleries": "3",
   "2005-shows-museums": null,
-  "2005-countries-total": "Germany (2)",
+  "2005-countries-total": "Germany (2), France (1)",
   "2005-shows-with": null,
   "representing-galleries": "BURKHARD EIKELMANN GALERIE (Dominikanerstraße 11, 40545 Dusseldorf, Germany); Bac Art Gallery (Dorsoduro 862, 30123 Venice, Italy); Galleria d'Arte L'Occhio (Dorsoduro 181, 30123 Venice, Italy)",
   "collecting-museums": null,
@@ -122,20 +122,29 @@
         ]
       }
     ],
-    "2009": [
+    "2014": [
       {
-        "i": "14162-1129-2009-04-24",
-        "c": "DE",
-        "n": "David Dalla Venezia - The Arousal Of The Painter - Recent Works",
-        "t": "Galerie privée",
-        "st": "Solo",
-        "ct": "Dusseldorf",
-        "o": "Burkhard Eikelmann Com",
-        "d": [
-          "2009-04-24",
-          "2009-06-12"
-        ]
+        "i": "14162-16752-2014-04-19",
+        "c": "FR"
       },
+      {
+        "i": "14162-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "today": [
+      {
+        "i": "14162",
+        "c": "FR",
+        "g": "m",
+        "a": "41-60"
+      },
+      {
+        "i": "14162-16752-2014-04-19",
+        "c": "FR"
+      }
+    ],
+    "2009": [
       {
         "i": "14162-19955-2009-04-24",
         "c": "DE",
@@ -147,6 +156,19 @@
         "d": [
           "2009-04-24",
           "2009-06-15"
+        ]
+      },
+      {
+        "i": "14162-1129-2009-04-24",
+        "c": "DE",
+        "n": "David Dalla Venezia - The Arousal Of The Painter - Recent Works",
+        "t": "Galerie privée",
+        "st": "Solo",
+        "ct": "Dusseldorf",
+        "o": "Burkhard Eikelmann Com",
+        "d": [
+          "2009-04-24",
+          "2009-06-12"
         ]
       }
     ]

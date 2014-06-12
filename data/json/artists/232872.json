@@ -1,7 +1,7 @@
 {
   "id": "232872",
   "mergedIDs": null,
-  "timestamp": "2014-05-24 07:36:15",
+  "timestamp": "2014-05-31 07:41:32",
   "name": "Christian Louboutin",
   "surname": "Louboutin",
   "nationality": "FR",
@@ -16,12 +16,12 @@
   "death year": null,
   "attributes": "Male",
   "media": "Photography, Fashion Design",
-  "r00": "31314",
-  "r01": "58761",
-  "r02": "54948",
-  "r03": "69978",
-  "r04": "64682",
-  "r05": "58296",
+  "r00": "31457",
+  "r01": "58892",
+  "r02": "55016",
+  "r03": "70080",
+  "r04": "64771",
+  "r05": "58374",
   "r06": null,
   "r07": null,
   "r08": null,
@@ -66,6 +66,21 @@
       {
         "i": "232872-23254-2011-11-22",
         "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "232872-2425-2014-02-01",
+        "c": "NL",
+        "n": "S.H.O.E.S.Head over Heels",
+        "t": "Institution publique",
+        "st": "Group",
+        "ct": "Rotterdam",
+        "o": "Kunsthal Rotterdam",
+        "d": [
+          "2014-02-01",
+          "2014-05-11"
+        ]
       }
     ],
     "2012": [

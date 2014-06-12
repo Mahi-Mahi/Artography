@@ -12,39 +12,39 @@
   "email": "gal.alinevidal@wanadoo.fr",
   "www": "www.alinevidal.com",
   "map": "http://maps.google.com/maps?q=Paris%2C%2075006 %2C%20 %2C%2070, rue Bonaparte %2C%20France",
-  "fairs-total": "22",
+  "fairs-total": "23",
   "fairs-abroad": "10",
-  "fairs-in-FR": "12",
+  "fairs-in-FR": "13",
   "fairs": {
     "2005": [
       {
-        "i": "2024-Art Brussels 2005 - 23rd Contemporary Art Fair",
+        "i": "2024-Art-Brussels-2005---23rd-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2005 - 23rd Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "2024-Fiac 2005",
+        "i": "2024-Fiac-2005",
         "c": "FR"
       },
       {
-        "i": "2024-Paris Photo 2005",
+        "i": "2024-Paris-Photo-2005",
         "c": "FR"
       }
     ],
     "2006": [
       {
-        "i": "2024-Art Brussels 2006- 24th Contemporary Art Fair",
+        "i": "2024-Art-Brussels-2006--24th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2006- 24th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "2024-Fiac 2006",
+        "i": "2024-Fiac-2006",
         "c": "FR"
       },
       {
-        "i": "2024-PURO ARTE VIGO 2006",
+        "i": "2024-PURO-ARTE-VIGO-2006",
         "c": "ES",
         "n": "PURO ARTE VIGO 2006",
         "ct": "Vigo"
@@ -52,73 +52,73 @@
     ],
     "2007": [
       {
-        "i": "2024-Art Brussels 2007- 25th Contemporary Art Fair",
+        "i": "2024-Art-Brussels-2007--25th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2007- 25th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "2024-Loop - The Video Art Fair 07",
+        "i": "2024-Loop---The-Video-Art-Fair-07",
         "c": "ES",
         "n": "Loop - The Video Art Fair 07",
         "ct": "Barcelona"
       },
       {
-        "i": "2024-Fiac 2007",
+        "i": "2024-Fiac-2007",
         "c": "FR"
       }
     ],
     "2008": [
       {
-        "i": "2024-Art Brussels 2008- 26th Contemporary Art Fair",
+        "i": "2024-Art-Brussels-2008--26th-Contemporary-Art-Fair",
         "c": "BE",
         "n": "Art Brussels 2008- 26th Contemporary Art Fair",
         "ct": "Brussels"
       },
       {
-        "i": "2024-Loop - The Video Art Fair 08",
+        "i": "2024-Loop---The-Video-Art-Fair-08",
         "c": "ES",
         "n": "Loop - The Video Art Fair 08",
         "ct": "Barcelona"
       },
       {
-        "i": "2024-Fiac 2008",
+        "i": "2024-Fiac-2008",
         "c": "FR"
       }
     ],
     "2009": [
       {
-        "i": "2024-Art 40 Basel",
+        "i": "2024-Art-40-Basel",
         "c": "CH",
         "n": "Art 40 Basel",
         "ct": "Basel"
       },
       {
-        "i": "2024-Fiac 2009",
+        "i": "2024-Fiac-2009",
         "c": "FR"
       }
     ],
     "2010": [
       {
-        "i": "2024-Salon du Dessin Contemporain 2010",
+        "i": "2024-Salon-du-Dessin-Contemporain-2010",
         "c": "FR"
       },
       {
-        "i": "2024-Fiac 2010",
+        "i": "2024-Fiac-2010",
         "c": "FR"
       }
     ],
     "2011": [
       {
-        "i": "2024-Drawing Now Paris - Le Salon Du Dessin Contemporain 2011",
+        "i": "2024-Drawing-Now-Paris---Le-Salon-Du-Dessin-Contemporain-2011",
         "c": "FR"
       },
       {
-        "i": "2024-DocksArtFair 2011",
+        "i": "2024-DocksArtFair-2011",
         "c": "FR"
       },
       {
-        "i": "2024-Marrakech Art Fair",
+        "i": "2024-Marrakech-Art-Fair",
         "c": "MA",
         "n": "Marrakech Art Fair",
         "ct": "Casablanca"
@@ -126,17 +126,23 @@
     ],
     "2012": [
       {
-        "i": "2024-Drawing Paris i le Salon du Dessin Contemporain 2012",
+        "i": "2024-Drawing-Paris-i-le-Salon-du-Dessin-Contemporain-2012",
         "c": "FR"
       },
       {
-        "i": "2024-Art Brussels 2012",
+        "i": "2024-Art-Brussels-2012",
         "c": "BE",
         "n": "Art Brussels 2012",
         "ct": "Brussels"
       },
       {
-        "i": "2024-Fiac 2012",
+        "i": "2024-Fiac-2012",
+        "c": "FR"
+      }
+    ],
+    "2014": [
+      {
+        "i": "2024-Drawing-now-Paris-i-le-Salon-du-Dessin-Contemporain",
         "c": "FR"
       }
     ]
