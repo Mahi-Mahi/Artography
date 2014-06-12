@@ -9,7 +9,7 @@ define([], function() {
 			jQuery('body').removeClass('home').addClass('galerie');
 
 			jQuery(window).off("debouncedresize")
-				.on("debouncedresize", function(event) {
+				.on("debouncedresize", function() {
 					$route.reload();
 					adaptSidebarFormHeight();
 				});
@@ -40,12 +40,19 @@ define([], function() {
 				$scope.gallery_links = [$scope.gallery.www];
 
 			$scope.periods = [];
-			angular.forEach($scope.gallery.fairs, function(fair, year) {
-				$scope.periods.push({
-					name: parseInt(year, 10) ? year : "Aujourd'hui",
-					slug: year,
-					checked: null
+			angular.forEach($scope.gallery.fairs, function(fairs, year) {
+				var has_fairs = false;
+				angular.forEach(fairs, function(fair) {
+					if (fair.c !== 'FR')
+						has_fairs = true;
 				});
+				if (has_fairs) {
+					$scope.periods.push({
+						name: parseInt(year, 10) ? year : "Aujourd'hui",
+						slug: year,
+						checked: null
+					});
+				}
 			});
 			$scope.periods.reverse();
 
@@ -76,13 +83,11 @@ define([], function() {
 			var max_fairs = 0;
 
 			var central_radius = 60,
-				central_margin = 20,
 				country_title_margin = 30,
 				margin = 10 + country_title_margin;
 
 			var a_interval = 1;
 			var animation_delay = 500,
-				fadeOut_delay = 200,
 				fadeIn_delay = 200;
 
 			var delayed_display = [];
@@ -91,7 +96,6 @@ define([], function() {
 
 			var show_country_label = true;
 
-			var nb_countries_total = 0;
 			var textOnPathDone = 0;
 
 			var scale_circles = [];
@@ -163,8 +167,6 @@ define([], function() {
 			var originX = offsetX + divW / 2;
 			var originY = offsetY + divH / 2;
 
-			var central_radius = divW / 12;
-
 			var logo_ratio = 168 / 288,
 				logo_margin = 12,
 				logo_width = central_radius + logo_margin,
@@ -210,7 +212,9 @@ define([], function() {
 			var updateExpos = function() {
 				$scope.fairs_list = [];
 				angular.forEach($scope.fairs, function(fair_id) {
-					$scope.fairs_list.push(all_fairs[fair_id]);
+					if (all_fairs[fair_id]) {
+						$scope.fairs_list.push(all_fairs[fair_id]);
+					}
 				});
 				$scope.searchExpos();
 			};
@@ -219,14 +223,17 @@ define([], function() {
 				var i = 0;
 				var re = new RegExp($scope.searchText, "i");
 				angular.forEach($scope.fairs_list, function(fair, idx) {
-					if (re.test(fair.name)) {
-						$scope.fairs_list[idx].enabled = 'enabled' + (i++ % 2 === 0 ? ' even' : '');
-					} else {
-						$scope.fairs_list[idx].enabled = '';
+					if (fair) {
+						if (re.test(fair.name)) {
+							$scope.fairs_list[idx].enabled = 'enabled' + (i++ % 2 === 0 ? ' even' : '');
+						} else {
+							$scope.fairs_list[idx].enabled = '';
+						}
 					}
 				});
 			};
 
+			/*
 			function showActus() {
 				var the_fair = $scope.galleries.fairs.today[0];
 				if (the_fair) {
@@ -239,6 +246,7 @@ define([], function() {
 			}
 
 			// showActus();
+*/
 
 			$scope.$apply();
 
@@ -265,48 +273,56 @@ define([], function() {
 				});
 
 				angular.forEach(fairs, function(fair) {
-					if (data.cc[fair.c]) {
-						var country = data.continents[data.cc[fair.c]].countries[fair.c];
-						var fairs = country.fairs;
-						if (!fairs[fair.i]) {
-							console.log(fair);
-							fairs[fair.i] = {
-								slice: null,
-								iteration: 0,
-								// showtype: fair.st.replace(/[^\w]+/g, '-').replace(/-$/, ''),
-								// type: fair.t.replace(/[^\w]+/g, '-').replace(/-$/, ''),
-							};
-							all_fairs[fair.i] = {
-								id: fair.i,
-								// showtype: fair.st.replace(/[^\w]+/g, '-').replace(/-$/, ''),
-								// type: fair.t.replace(/[^\w]+/g, '-').replace(/-$/, ''),
-								period: [fair.d],
-								name: fair.n,
-								city: fair.ct,
-								country: country,
-								enabled: 'enabled'
-							};
-						}
-						if (fairs[fair.i].iteration < iteration) {
-							if (!country.nb_fairs) {
-								country.nb_fairs = 1;
-							} else {
-								country.nb_fairs++;
+					if (fair.n || fair.c == 'FR') {
+						if (data.cc[fair.c]) {
+							var country = data.continents[data.cc[fair.c]].countries[fair.c];
+							var fairs = country.fairs;
+							if (!fairs[fair.i]) {
+								if (fair.c == 'FR') {
+									fairs[fair.i] = {
+										id: fair.i,
+										iteration: 0
+									};
+								} else {
+									fairs[fair.i] = {
+										slice: null,
+										iteration: 0,
+										// showtype: fair.st.replace(/[^\w]+/g, '-').replace(/-$/, ''),
+										// type: fair.t.replace(/[^\w]+/g, '-').replace(/-$/, ''),
+									};
+									all_fairs[fair.i] = {
+										id: fair.i,
+										// showtype: fair.st.replace(/[^\w]+/g, '-').replace(/-$/, ''),
+										// type: fair.t.replace(/[^\w]+/g, '-').replace(/-$/, ''),
+										period: [fair.d],
+										name: fair.n,
+										city: fair.ct,
+										country: country,
+										enabled: 'enabled'
+									};
+								}
 							}
-							max_fairs = Math.max(max_fairs, country.nb_fairs);
+							if (fairs[fair.i].iteration < iteration) {
+								if (!country.nb_fairs) {
+									country.nb_fairs = 1;
+								} else {
+									country.nb_fairs++;
+								}
+								max_fairs = Math.max(max_fairs, country.nb_fairs);
+							}
+							fairs[fair.i].iteration = iteration;
+							if (fair.c !== 'FR' && $scope.countries.indexOf(fair.c) == -1) {
+								$scope.countries.push(fair.c);
+							}
+							if ($scope.fairs.indexOf(fair.i) == -1) {
+								$scope.fairs.push(fair.i);
+							}
+							country.has_fairs = true;
+							country.fairs = fairs;
+							data.continents[data.cc[fair.c]].countries[fair.c] = country;
+						} else {
+							console.log("country continent not found : " + fair.c);
 						}
-						fairs[fair.i].iteration = iteration;
-						if ($scope.countries.indexOf(fair.c) == -1) {
-							$scope.countries.push(fair.c);
-						}
-						if ($scope.fairs.indexOf(fair.i) == -1) {
-							$scope.fairs.push(fair.i);
-						}
-						country.has_fairs = true;
-						country.fairs = fairs;
-						data.continents[data.cc[fair.c]].countries[fair.c] = country;
-					} else {
-						console.log("country continent not found : " + fair.c);
 					}
 				});
 
@@ -317,7 +333,6 @@ define([], function() {
 			}
 
 			function updateStatus(nb_fairs, nb_countries, in_country) {
-				console.log("updateStatus");
 				in_country = null;
 				var verb, period, fairs, countries;
 				switch ($scope.filters.period) {
@@ -377,103 +392,101 @@ define([], function() {
 					angular.forEach(continent.countries, function(country, country_code) {
 						// console.log(country_code);
 
-						var radius = central_radius;
-						var previous_fair = null;
+						if (country_code !== 'FR') {
 
-						angular.forEach(country.fairs, function(fair, fair_id) {
+							var radius = central_radius;
+							var previous_fair = null;
 
-							var layerW = fair.iteration < iteration ? 0 : ((divW / 2) - (central_radius + margin)) / (max_fairs + 1);
-							// var layerW = max_galleries ? ((divW / 2) - (central_radius + margin)) / max_galleries : 0;
+							angular.forEach(country.fairs, function(fair, fair_id) {
 
-							if (layerW)
-								real_layerW = layerW;
+								var layerW = fair.iteration < iteration ? 0 : ((divW / 2) - (central_radius + margin)) / (max_fairs + 1);
+								// var layerW = max_galleries ? ((divW / 2) - (central_radius + margin)) / max_galleries : 0;
 
-							if (layerW)
-								radius += layerW + layer_interval;
+								if (layerW)
+									real_layerW = layerW;
 
-							// filledArc : [ X Position, Y Position, Radius, Width, Angle, Rotation ]
-							var previous_filledArc = fair.filledArc;
-							fair.filledArc = [originX, originY, radius, layerW, a, rotation];
+								if (layerW)
+									radius += layerW + layer_interval;
 
-							if (fair.slice === null) {
-								if (previous_fair) {
-									new_filledArc = previous_fair_filledArc;
+								// filledArc : [ X Position, Y Position, Radius, Width, Angle, Rotation ]
+								var previous_filledArc = fair.filledArc;
+								fair.filledArc = [originX, originY, radius, layerW, a, rotation];
+
+								if (fair.slice === null) {
+									if (previous_fair) {
+										new_filledArc = previous_fair_filledArc;
+									} else {
+										new_filledArc = [originX, originY, central_radius, 0 /* layerW */ , a, country.rotation === undefined ? rotation : country.rotation];
+									}
+
+									fair.slice = raphael.path().attr({
+										fill: '#000',
+										'stroke-width': 0,
+										filledArc: new_filledArc
+									}).toBack().animate({
+										filledArc: fair.filledArc
+									}, animation_delay)
+										.hover(function() {
+											var fair_id = this.node.classList[2].replace(/fair-/, '');
+											$scope.showFairPopup(fair_id);
+										}, function() {
+											jQuery('#popup').stop().fadeOut();
+										});
+									fair.slice.node.setAttribute('class', 'country-' + country_code + ' fair fair-' + fair_id);
+
 								} else {
-									new_filledArc = [originX, originY, central_radius, 0 /* layerW */ , a, country.rotation === undefined ? rotation : country.rotation];
+									fair.slice.animate({
+										filledArc: fair.filledArc
+									}, animation_delay, null, function() {
+										// console.log("animated");
+									});
 								}
 
-								console.log("fair slice");
+								previous_fair_filledArc = previous_filledArc;
 
-								fair.slice = raphael.path().attr({
-									fill: '#000',
-									'stroke-width': 0,
-									filledArc: new_filledArc
-								}).toBack().animate({
-									filledArc: fair.filledArc
-								}, animation_delay)
-									.hover(function() {
-										var fair_id = this.node.classList[2].replace(/fair-/, '');
-										console.log("showFairPopup");
-										$scope.showFairPopup(fair_id);
-									}, function() {
-										jQuery('#popup').stop().fadeOut();
-									});
-								console.log("fair.slice.node");
-								fair.slice.node.setAttribute('class', 'country-' + country_code + ' fair fair-' + fair_id);
+							});
 
-							} else {
-								fair.slice.animate({
-									filledArc: fair.filledArc
-								}, animation_delay, null, function() {
-									// console.log("animated");
-								});
+							// Country Label
+							if (show_country_label) {
+								if (country.title_set) {
+									country.title_set.remove();
+								}
+								if (country.title_path) {
+									country.title_path.remove();
+								}
+								if (country.has_fairs) {
+									(function(country, country_code, a, rotation) {
+										clearTimeout(timeouts[country_code]);
+										timeouts[country_code] = setTimeout(function() {
+											// var simpleArc = [originX, originY, a, divW / 2 - country_title_margin, rotation - a / 2];
+											var simpleArc = [originX, originY, divW / 2 - country_title_margin, a - a_interval, rotation];
+											country.title_path = raphael.path().attr({
+												stroke: "#0000FF",
+												'stroke-width': 0,
+												simpleArc: simpleArc,
+												opacity: 0
+											}).toBack();
+
+											// var message = country_code.toUpperCase();
+											// var res = prepareText(country.country.fr.toUpperCase(), 12, 1, true, true, '00FF00', 'normal');
+											// message = (res.messageLength > country.title_path.getTotalLength() * 0.75) ? message : country.country.fr.toUpperCase();
+											if (nb_countries > 10) {
+												country.title_set = textOnPath(country_code.toUpperCase(), country.title_path, 10, 1, true, true, 0, '00FF00', 'normal', a, rotation);
+											} else {
+												country.title_set = textOnPath(country.country.fr.toUpperCase(), country.title_path, 12, 1, true, true, 0, '00FF00', 'normal', a, rotation);
+											}
+
+											delayed_display.push(country.title_path);
+
+										}, 150);
+									})(country, country_code, a, rotation);
+								}
 							}
 
-							previous_fair_filledArc = previous_filledArc;
+							rotation += country.has_fairs ? (a + a_interval) : 0;
 
-						});
-
-						// Country Label
-						if (show_country_label) {
-							if (country.title_set) {
-								country.title_set.remove();
-							}
-							if (country.title_path) {
-								country.title_path.remove();
-							}
-							if (country.has_fairs) {
-								(function(country, country_code, a, rotation) {
-									clearTimeout(timeouts[country_code]);
-									timeouts[country_code] = setTimeout(function() {
-										// var simpleArc = [originX, originY, a, divW / 2 - country_title_margin, rotation - a / 2];
-										var simpleArc = [originX, originY, divW / 2 - country_title_margin, a - a_interval, rotation];
-										country.title_path = raphael.path().attr({
-											stroke: "#0000FF",
-											'stroke-width': 0,
-											simpleArc: simpleArc,
-											opacity: 0
-										}).toBack();
-
-										// var message = country_code.toUpperCase();
-										// var res = prepareText(country.country.fr.toUpperCase(), 12, 1, true, true, '00FF00', 'normal');
-										// message = (res.messageLength > country.title_path.getTotalLength() * 0.75) ? message : country.country.fr.toUpperCase();
-										if (nb_countries > 10) {
-											country.title_set = textOnPath(country_code.toUpperCase(), country.title_path, 10, 1, true, true, 0, '00FF00', 'normal', a, rotation);
-										} else {
-											country.title_set = textOnPath(country.country.fr.toUpperCase(), country.title_path, 12, 1, true, true, 0, '00FF00', 'normal', a, rotation);
-										}
-
-										delayed_display.push(country.title_path);
-
-									}, 150);
-								})(country, country_code, a, rotation);
-							}
+							data.continents[continent_name].countries[country_code].rotation = country.rotation = rotation;
 						}
-
-						rotation += country.has_fairs ? (a + a_interval) : 0;
-
-						data.continents[continent_name].countries[country_code].rotation = country.rotation = rotation;
-
 					});
 
 					angular.forEach(scale_circles, function(scale, idx) {
@@ -652,15 +665,10 @@ define([], function() {
 			$scope.showFairPopup = function(fair_id, left) {
 				// console.log("showFairPopup(" + fair_id);
 				var the_fair = all_fairs[fair_id];
-				console.log(all_fairs);
-				console.log("showFairPopup(" + fair_id);
 				if (the_fair) {
-					jQuery('#popup').attr('class', 'expo-' + the_fair.type).html(
-						'<p class="name">' + the_fair.name + '</p>' +
-						'<p class="period">Du ' + formatService.formatDate(the_fair.period[0]) +
-						(the_fair.period[1] ? (' au ' + formatService.formatDate(the_fair.period[1])) : '') + '</p>' +
-						'<p class="period">Organisé par ' + the_fair.organizer + '</p>' +
-						'<p class="place">@' + the_fair.city + ',' + the_fair.country.country.fr + '</p>')
+					var html = '<p class="name">' + the_fair.name + '</p>' +
+						'<p class="place">' + (the_fair.city ? (the_fair.city + ',') : '') + the_fair.country.country.fr + '</p>';
+					jQuery('#popup').attr('class', 'expo-' + the_fair.type).html(html)
 						.stop()
 						.fadeIn();
 					if (!left)

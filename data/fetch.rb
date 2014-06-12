@@ -190,7 +190,6 @@ af_galleries.shuffle.slice(0, nb_datas).each do |gallery|
 				fair_detail[:n] = af_fair['title'].nil? ? '' : af_fair['title'].gsub(/\\/, '')
 				fair_detail[:ct] = af_fair['city']
 
-
 				af_fair['year'] = af_fair['year'].to_i
 
 				fairs[af_fair['year']] = [] if fairs[af_fair['year']].nil?

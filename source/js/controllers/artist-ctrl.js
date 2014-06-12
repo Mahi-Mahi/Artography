@@ -49,7 +49,7 @@ define([], function() {
 			angular.forEach($scope.artist.expos, function(expos, year) {
 				var has_expos = false;
 				angular.forEach(expos, function(expo) {
-					if (expo.c !== 'FR')
+				if (expo.c !== 'FR')
 						has_expos = true;
 				});
 				if (has_expos) {
@@ -308,7 +308,6 @@ define([], function() {
 
 				angular.forEach(expos, function(expo) {
 					if (expo.n || expo.c == 'FR') {
-
 						if (data.cc[expo.c]) {
 							var country = data.continents[data.cc[expo.c]].countries[expo.c];
 							var expos = country.expos;
