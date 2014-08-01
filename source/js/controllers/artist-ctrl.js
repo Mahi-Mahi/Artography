@@ -3,8 +3,8 @@
 
 define([], function() {
 
-	return ['$scope', '$location', '$route', 'dataService', 'formatService',
-		function($scope, $location, $route, dataService, formatService) {
+	return ['$scope', '$location', '$route', '$log', 'dataService', 'formatService',
+		function($scope, $location, $route, $log, dataService, formatService) {
 
 			jQuery('body').removeClass('home').removeClass('galerie');
 			jQuery(window).off("debouncedresize")
@@ -46,20 +46,34 @@ define([], function() {
 			// console.log($scope.artist);
 
 			$scope.periods = [];
+			var today = false;
 			angular.forEach($scope.artist.expos, function(expos, year) {
 				var has_expos = false;
 				angular.forEach(expos, function(expo) {
-				if (expo.c !== 'FR')
+					if (expo.c !== 'FR')
 						has_expos = true;
 				});
 				if (has_expos) {
-					$scope.periods.push({
-						name: parseInt(year, 10) ? year : "Aujourd'hui",
-						slug: year,
-						checked: null
-					});
+					if (parseInt(year, 10)) {
+						$scope.periods.push({
+							name: year,
+							slug: year,
+							checked: null
+						});
+
+					} else {
+						today = true;
+					}
 				}
 			});
+			if (today) {
+				$scope.periods.push({
+					name: "Aujourd'hui",
+					slug: 'today',
+					checked: null
+				});
+
+			}
 			$scope.periods.reverse();
 
 			// default period
